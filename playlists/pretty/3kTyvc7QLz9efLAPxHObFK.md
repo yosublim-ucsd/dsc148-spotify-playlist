@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain](/playlists/plain/3kTyvc7QLz9efLAPxHObFK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3kTyvc7QLz9efLAPxHObFK)
 
-### [UK Hardcore/Hardstyle/Hardcore/J\-Core/Frenchcore/Hard Dance](https://open.spotify.com/playlist/3kTyvc7QLz9efLAPxHObFK)
+### [UK Hardcore/Hardstyle/Hardcore/J\-Core/Frenchcore/Uptempo/Hard Dance](https://open.spotify.com/playlist/3kTyvc7QLz9efLAPxHObFK)
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,462 songs - 3 day 7 hr 49 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,470 songs - 3 day 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1470,5 +1470,13 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1460 | [Pyrotechnik](https://open.spotify.com/track/0vzlxoXLY92wTGoPhSYrY8) | [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [Pyrotechnik](https://open.spotify.com/album/3CbSNTx5cqjsSV4ctREGqQ) | 2:10 |
 | 1461 | [Nocturnal](https://open.spotify.com/track/12XYXjFqRqse3oy8GiBgY5) | [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [Nocturnal](https://open.spotify.com/album/6LePulMIQfALTo3KcCVqYC) | 3:14 |
 | 1462 | [Breaking Free](https://open.spotify.com/track/0vUS4p0g0V7pbF3GkvDAwN) | [Vexxed](https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY), [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [Breaking Free](https://open.spotify.com/album/15MvPR8RyExRrOoQjAG4lP) | 3:30 |
+| 1463 | [Haunting Me](https://open.spotify.com/track/3IJpRUtI89pgCzLz0HF3T0) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Haunting Me](https://open.spotify.com/album/1SHA5qwfAU0halwBuXaSbt) | 3:31 |
+| 1464 | [Mirrors](https://open.spotify.com/track/6F1ysFXCZYocDOrczAz6Dm) | [Loner](https://open.spotify.com/artist/3dzQCe5nzyqtcpQCnK7hry) | [Mirrors](https://open.spotify.com/album/3uojG5RBHgkvIL0LIOZu0Z) | 2:54 |
+| 1465 | [Never Gonna Give You Up \- Hardstyle Version](https://open.spotify.com/track/5295T6iMV7Oh7xfVKMTe2c) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Never Gonna Give You Up \(Hardstyle Version\)](https://open.spotify.com/album/2KGXNC0hyASFhkIMZ5JP6Z) | 2:00 |
+| 1466 | [From The Sky](https://open.spotify.com/track/3IjeyewJ7v8FSHdm2xcQbF) | [Vexxed](https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY), [Invector](https://open.spotify.com/artist/6dzkjHwlCSs5uy93DoiZ1s) | [From The Sky](https://open.spotify.com/album/6jc8VMUVy2vML6VxmUHvsE) | 2:42 |
+| 1467 | [I NEED U](https://open.spotify.com/track/01z52s7dMbzZAPYIjcLQUU) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [I NEED U](https://open.spotify.com/album/5DXyKXUkVNtpA1Gl9HISwQ) | 3:21 |
+| 1468 | [Say You Will](https://open.spotify.com/track/3va1JQLZ2a6qlJ2TXnEkxD) | [Wreck Reality](https://open.spotify.com/artist/7Dn5YtJZi2nozyzpXy9yBR), [Heartless](https://open.spotify.com/artist/5kt5kCRNT99Dr93bWD0RPo) | [Say You Will](https://open.spotify.com/album/2d4p827jUUxTIXVtTridn4) | 3:04 |
+| 1469 | [Turn Back Time](https://open.spotify.com/track/4jadlH3oc1LF4Hq5K68COM) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6), [SVANE](https://open.spotify.com/artist/26dmnXbwYWrDtzBrlZaNnu) | [Turn Back Time](https://open.spotify.com/album/20hR4a5hRneBHToJxeCYOt) | 2:52 |
+| 1470 | [U And Me](https://open.spotify.com/track/5txHS74nucunrOZGxf3cgl) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [Kirara Anthems vol.4](https://open.spotify.com/album/4Jn7RlYugWVFlLpdwETuXT) | 5:20 |
 
-Snapshot ID: `AAAF4owFbrQblqErXuYjn/KzdxhccX5o`
+Snapshot ID: `AAAF6/1mDtB5WD9wWK2LNUcjMD0ZuFNP`

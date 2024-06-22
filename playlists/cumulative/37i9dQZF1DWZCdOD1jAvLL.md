@@ -2,7 +2,7 @@
 
 ### [Bangers](https://open.spotify.com/playlist/37i9dQZF1DWZCdOD1jAvLL)
 
-> Ride the bassline\. Cover: Dimension & Alison Wonderland
+> Ride the bassline\. Cover: bbno$
 
 699 songs - 1 day 14 hr 18 min
 

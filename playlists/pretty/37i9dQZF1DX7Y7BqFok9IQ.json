@@ -1,12 +1,12 @@
 {
   "description": "Slash is taking over to share his favorites and the inspiration behind his new Orgy of the Damned",
-  "num_followers": 210542,
+  "num_followers": 210645,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAAB9cXj9vCzLcnRv+MgCNozl",
+  "snapshot_id": "ZnT6wAAAAADbY+qL+nPIQm9rEfkE/eTC",
   "tracks": [
     {
       "added_at": "2024-05-24 16:11:57",
@@ -429,6 +429,38 @@
       "url": "https://open.spotify.com/track/5ZD2nIitLb9txwpz5Avq6Q"
     },
     {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Blow Wind Blow",
+        "url": "https://open.spotify.com/album/1rQr3i5EBvvfaDhSG4rnRs"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 208637,
+      "name": "Blow Wind Blow",
+      "url": "https://open.spotify.com/track/0offIBJWGuYFQ0vZ9tgFcW"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "That's The Spirit!",
+        "url": "https://open.spotify.com/album/2ew22HhN2j6LN8MoxUqxkG"
+      },
+      "artists": [
+        {
+          "name": "The Retrograde",
+          "url": "https://open.spotify.com/artist/6R2UeI1q0BcAu70RDbrJ6c"
+        }
+      ],
+      "duration_ms": 179223,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/3D5VPTHeG5pvXm8uFILonz"
+    },
+    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Ain't No Stopping Me",
@@ -463,6 +495,26 @@
       "duration_ms": 252154,
       "name": "Autumn of Humanity",
       "url": "https://open.spotify.com/track/0hLKTdZxbapY70McAB3gkg"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Street People",
+        "url": "https://open.spotify.com/album/4BLpST6Vxcc5f4dJEx1ddO"
+      },
+      "artists": [
+        {
+          "name": "J.D. Simo",
+          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
+        },
+        {
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Street People",
+      "url": "https://open.spotify.com/track/3y6e4EYoQ4k9ehfTgh0Fde"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1079,22 +1131,6 @@
       "duration_ms": 216384,
       "name": "Black Gold",
       "url": "https://open.spotify.com/track/0lUehQtxsjaamm3yaOn2cs"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Cross The Line",
-        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 187390,
-      "name": "Cross The Line",
-      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -2555,22 +2591,6 @@
       "duration_ms": 219153,
       "name": "Wild",
       "url": "https://open.spotify.com/track/5X32g7xtJOlgmX6hNXebXa"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "All I've Got is You",
-        "url": "https://open.spotify.com/album/1ZsdIxjdTXmPS7QLWKRtBA"
-      },
-      "artists": [
-        {
-          "name": "J.D. Simo",
-          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
-        }
-      ],
-      "duration_ms": 161728,
-      "name": "All I've Got is You",
-      "url": "https://open.spotify.com/track/0DdDbFj0v5UlXC8j2CxJg6"
     },
     {
       "added_at": "2021-07-30 04:01:00",

@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-616 songs - 1 day 11 hr 47 min
+617 songs - 1 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Booty\-Nah](https://open.spotify.com/track/2A0AL7cKi7mdIV7q8o3gNz) | [Hub City Trash](https://open.spotify.com/artist/5zeQg7sRuCb7FWeW1P1qdi) | [Tales from the Hood](https://open.spotify.com/album/55xNEekltXzSkhLtXAPHhE) | 3:32 | 2021-12-06 | 2022-07-25 |
 | [Born To Be Alive](https://open.spotify.com/track/7pdDdKVMm14RuRrEmNNN7X) | [Dr\. Calypso](https://open.spotify.com/artist/6NzQGCr2sqQJ7AepiQpVGW) | [Barbarossaplatz](https://open.spotify.com/album/6MT8fyt3RARXlahv7CrXPa) | 3:22 | 2021-12-06 | 2022-11-14 |
 | [Brazil](https://open.spotify.com/track/6RIWppv5O0QrRayhaLaFDY) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Walkin](https://open.spotify.com/album/1yXSB9I5169jgJ7KSzKDqz) | 4:20 | 2021-12-06 | 2022-07-29 |
+| [Broken Words](https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Broken Words](https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8) | 2:52 | 2024-06-21 |  |
 | [Bullit](https://open.spotify.com/track/39R6AMEo5Do3AKcldkakEN) | [Maroon Town](https://open.spotify.com/artist/0ru0XV6MqDabhGmc2e3J62) | [Don Drummond](https://open.spotify.com/album/4M9Wz1ypOiDiqZzkUemnPi) | 3:30 | 2021-12-06 | 2022-07-25 |
 | [Burning Horizon](https://open.spotify.com/track/0tA7QugneTNRrC34LFJdBB) | [Skafield](https://open.spotify.com/artist/2hFD2cHJiyjhmMjHfqF7Cz) | [Create Your Own Hell](https://open.spotify.com/album/1J83FyXBIGqszD3pRb0l3G) | 3:21 | 2021-12-06 | 2022-07-13 |
 | [C'est La Vie](https://open.spotify.com/track/6a82z5ikHjwFQv4AxAF2mu) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/2XS7GlLtan2DkXnoUxAbww) | 3:10 | 2023-09-29 | 2023-11-18 |
@@ -617,7 +618,7 @@
 | [Світло всередині нас](https://open.spotify.com/track/7F09wUGlRd2Asil0o1COVs) | [Mad Heads](https://open.spotify.com/artist/2q3fzwgqdfcrJNIdy7hpXY) | [Світло всередині нас](https://open.spotify.com/album/1iORWt9QudztO4RfspchkI) | 3:24 | 2023-09-01 | 2023-09-23 |
 | [Скважина нефтяная \(Radio Edit\)](https://open.spotify.com/track/0X7oHYTJYVml84BCs3OwmK) | [Группировка Свердловск](https://open.spotify.com/artist/4KMJJXTtDpucSoLnvf06Ba) | [Скважина нефтяная \(Radio Edit\)](https://open.spotify.com/album/30FzgAlDPXqQqyztHdTiUl) | 3:20 | 2023-04-21 | 2023-06-03 |
 | [Щастье](https://open.spotify.com/track/06zAGNmYEeAjVqEF9TrB7p) | [Cabernet Deneuve](https://open.spotify.com/artist/6VwUNgejV1qMrNc1aM93V4) | [Кабачки](https://open.spotify.com/album/54FNufdOIbr0nE69tccIMp) | 3:22 | 2021-12-06 | 2022-06-29 |
-| [ウタカタラッタラ](https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ウタカタラッタラ](https://open.spotify.com/album/3zF0jfkD8FiEO9Ps2TUyxD) | 3:08 | 2024-04-19 |  |
+| [ウタカタラッタラ](https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ウタカタラッタラ](https://open.spotify.com/album/3zF0jfkD8FiEO9Ps2TUyxD) | 3:08 | 2024-04-19 | 2024-06-22 |
 | [オレンジ](https://open.spotify.com/track/5LTr2JLZM0x32tabv784tN) | [THE JAPONICANS](https://open.spotify.com/artist/7fjKU4KatIGb6zX2w3GYE2) | [THE JAPONICANS](https://open.spotify.com/album/55qId8vvqGYyK5mshxB7uF) | 3:45 | 2021-12-06 | 2022-07-27 |
 | [コネクトーン \(TBSラジオ「こねくと」OP\)](https://open.spotify.com/track/1Alc6t5Uy5LIeZTP5ZCzuH) | [The SKAMOTTS](https://open.spotify.com/artist/0wTU8u6R5Gk5cDeBc7JdMa) | [コネクトーン \(TBSラジオ「こねくと」OP\)](https://open.spotify.com/album/6A3KYbUPZvVSn9meS4hPpF) | 3:29 | 2023-04-28 | 2023-06-03 |
 | [ワラッタラッタ](https://open.spotify.com/track/1pjpRz8aEWtx65Y4HvqFYt) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM) | [ワラッタラッタ](https://open.spotify.com/album/5r1PybiVxHxq7eu5zAr5Qt) | 4:15 | 2023-09-01 | 2023-10-09 |

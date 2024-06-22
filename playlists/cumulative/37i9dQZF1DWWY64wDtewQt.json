@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Anatomy",
+        "url": "https://open.spotify.com/album/5M9OFRE8amEDzBkEwnGLNL"
+      },
+      "artists": [
+        {
+          "name": "TEENWXVE",
+          "url": "https://open.spotify.com/artist/209dGpA7Rmwe4GmCQc3heC"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103360,
+      "name": "Anatomy - Slowed",
+      "url": "https://open.spotify.com/track/2MrfUdCXGt7YKakbNjJNb6"
+    },
+    {
+      "album": {
         "name": "Angry Birds Phonk",
         "url": "https://open.spotify.com/album/5V5npZNBv9W79xNlIRXX0F"
       },

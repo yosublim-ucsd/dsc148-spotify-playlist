@@ -1,29 +1,13 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 9724,
+  "num_followers": 9732,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnIfgAAAAABB/w/+OpPOQXF+Bb+0PPqG",
+  "snapshot_id": "ZnNxAAAAAABqRgboVrU+8J1PUQ1GlVI2",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
     {
       "added_at": null,
       "album": {
@@ -199,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 134116,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coven Music Session, Vol. 1",
         "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
       },
@@ -327,22 +295,6 @@
       "duration_ms": 120058,
       "name": "Shit",
       "url": "https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stressed",
-        "url": "https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 183687,
-      "name": "Stressed",
-      "url": "https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD"
     },
     {
       "added_at": null,
@@ -547,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Jst Ray",
+          "url": "https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Bitches Be (with Jst Ray)",
+      "url": "https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bra-Less",
         "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
       },
@@ -563,30 +535,6 @@
       "duration_ms": 192000,
       "name": "Truth",
       "url": "https://open.spotify.com/track/0IKtWsq2bcDtnwExB1qPcS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porches",
-        "url": "https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy"
-      },
-      "artists": [
-        {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Junii",
-          "url": "https://open.spotify.com/artist/0sfpaC9iuqZoAjbX4WQMun"
-        }
-      ],
-      "duration_ms": 315074,
-      "name": "I Don\u2019t Trust You! (Ft. Doechii & Junii)",
-      "url": "https://open.spotify.com/track/4OVWjNpeKOg5x9dDTy9BPy"
     },
     {
       "added_at": null,
@@ -619,6 +567,30 @@
       "duration_ms": 137038,
       "name": "Everything You Needed",
       "url": "https://open.spotify.com/track/1qn7230d9Ky4xkrV5eH0E7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porches",
+        "url": "https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Junii",
+          "url": "https://open.spotify.com/artist/0sfpaC9iuqZoAjbX4WQMun"
+        }
+      ],
+      "duration_ms": 315074,
+      "name": "I Don\u2019t Trust You! (Ft. Doechii & Junii)",
+      "url": "https://open.spotify.com/track/4OVWjNpeKOg5x9dDTy9BPy"
     },
     {
       "added_at": null,

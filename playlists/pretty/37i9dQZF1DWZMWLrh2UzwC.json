@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Coldplay",
-  "num_followers": 61087,
+  "num_followers": 61106,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnS1JgAAAACmrYf38v2R5MfrglT0FHv3",
+  "snapshot_id": "ZnU3zQAAAACKu6Z3LPo21yEFE1P3ALJM",
   "tracks": [
     {
       "added_at": "2024-06-20 16:00:00",
@@ -79,6 +79,22 @@
       "duration_ms": 160573,
       "name": "Chanel No.5",
       "url": "https://open.spotify.com/track/1NV3GyttwPTCgQ15BtBPpn"
+    },
+    {
+      "added_at": "2024-06-20 16:00:00",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
     },
     {
       "added_at": "2024-06-20 16:00:00",
@@ -181,7 +197,7 @@
       "url": "https://open.spotify.com/track/1UDSrM6Aok7nFeFal7EBpa"
     },
     {
-      "added_at": "2024-06-20 16:00:00",
+      "added_at": "2024-06-21 02:55:45",
       "album": {
         "name": "Hitam Putih Kuala Lumpur",
         "url": "https://open.spotify.com/album/2GZUAK9kXfnMVOnLvK03R2"
@@ -192,9 +208,9 @@
           "url": "https://open.spotify.com/artist/5i7aN4dewNrawxfqdF606N"
         }
       ],
-      "duration_ms": 164675,
-      "name": "Muzik Tanpa Sempadan",
-      "url": "https://open.spotify.com/track/3wXAwOhVBsaub8dvsNTKyL"
+      "duration_ms": 224722,
+      "name": "Rasa Sayang",
+      "url": "https://open.spotify.com/track/5LJ1PQpI7nHViGqAdXKmMM"
     },
     {
       "added_at": "2024-06-20 16:00:00",
@@ -367,26 +383,6 @@
     {
       "added_at": "2024-06-20 16:00:00",
       "album": {
-        "name": "Jangan Biar",
-        "url": "https://open.spotify.com/album/3N2eeiam5GShzMMDo4ejoz"
-      },
-      "artists": [
-        {
-          "name": "Ramayan",
-          "url": "https://open.spotify.com/artist/1Em7zM0PqeTmURweJnMKlN"
-        },
-        {
-          "name": "Lunadira",
-          "url": "https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC"
-        }
-      ],
-      "duration_ms": 258090,
-      "name": "Jangan Biar",
-      "url": "https://open.spotify.com/track/1sJtYI05jtGwv0e2gWzYHK"
-    },
-    {
-      "added_at": "2024-06-20 16:00:00",
-      "album": {
         "name": "Kekasih Yang Dikasih",
         "url": "https://open.spotify.com/album/1v4eYRECrxAv4lU34bRgeW"
       },
@@ -431,6 +427,50 @@
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
+    },
+    {
+      "added_at": "2024-06-20 16:00:00",
+      "album": {
+        "name": "the boy is mine (Remix)",
+        "url": "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 213384,
+      "name": "the boy is mine (with Brandy, Monica) - Remix",
+      "url": "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF"
+    },
+    {
+      "added_at": "2024-06-20 16:00:00",
+      "album": {
+        "name": "The girl, so confusing version with lorde",
+        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 205938,
+      "name": "The girl, so confusing version with lorde",
+      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
       "added_at": "2024-06-20 16:00:00",
@@ -859,6 +899,26 @@
     {
       "added_at": "2024-06-20 16:00:00",
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 213064,
+      "name": "Tears (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/0A0MTURTbuUgZNvS9tbh1g"
+    },
+    {
+      "added_at": "2024-06-20 16:00:00",
+      "album": {
         "name": "so, if i die",
         "url": "https://open.spotify.com/album/0p82mmMsOjX1hXj8SVMzZ7"
       },
@@ -1043,6 +1103,22 @@
       "duration_ms": 157560,
       "name": "Badder Love",
       "url": "https://open.spotify.com/track/2muqyJpZ71YJ7bP9F69rZM"
+    },
+    {
+      "added_at": "2024-06-20 16:00:00",
+      "album": {
+        "name": "Glow <Inner Dance>",
+        "url": "https://open.spotify.com/album/1s9mkcyxFmeOvsI1KDfW06"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Inner Dance",
+      "url": "https://open.spotify.com/track/2O4pDMQQYRAafCrlVP5AEU"
     },
     {
       "added_at": "2024-06-20 16:00:00",
@@ -1351,6 +1427,26 @@
       "duration_ms": 182813,
       "name": "I'm Free (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI"
+    },
+    {
+      "added_at": "2024-06-20 16:00:00",
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Small girl (feat. D.O.)",
+      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
     },
     {
       "added_at": "2024-06-20 16:00:00",

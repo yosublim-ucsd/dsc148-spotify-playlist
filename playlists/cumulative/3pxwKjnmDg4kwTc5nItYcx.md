@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-786 songs - 1 day 18 hr 14 min
+788 songs - 1 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Forget You](https://open.spotify.com/track/2S3wdZxAuixiNbXbknlIUN) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Forget You](https://open.spotify.com/album/2IZUTQgdCkWtazXjExCJ09) | 3:01 | 2024-01-18 |  |
 | [Forgive Myself](https://open.spotify.com/track/4upXlYzMHIwAd8fR2cp6sp) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Forgive Myself](https://open.spotify.com/album/4zYpRSmCxbwKtFaoHhezsG) | 2:53 | 2020-05-29 | 2021-05-12 |
 | [Forgot About](https://open.spotify.com/track/3JnRyp1X0N1QxiaMwnXlEs) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Forgot About](https://open.spotify.com/album/1KdLuqgmPBrrOtkqFDDvxe) | 3:38 | 2021-05-15 |  |
+| [Found You First](https://open.spotify.com/track/4JNwx0jxdd9AzfBX3FSoWg) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Found You First](https://open.spotify.com/album/5RSzGDEaajxu1IhT0HuzQk) | 2:43 | 2024-06-21 |  |
 | [Four Walls](https://open.spotify.com/track/1wX3WY9nQ3D4vRUR9Vmfl6) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Four Walls](https://open.spotify.com/album/5ntMnnFCM2LtENrZOoeQxp) | 3:33 | 2019-11-05 | 2020-02-12 |
 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 | 2020-03-13 | 2021-05-12 |
 | [FRESH OUT OF LOVE](https://open.spotify.com/track/5CKtwvWxx2CZzPmDAhF4gL) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [FRESH OUT OF LOVE](https://open.spotify.com/album/3plC8Tnhm7VA6mPq4fVjdd) | 2:48 | 2020-02-14 | 2021-05-12 |
@@ -670,6 +671,7 @@
 | [Talk You Down](https://open.spotify.com/track/6UBWwEWTSyYPfz3hVVQqvD) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Talk You Down](https://open.spotify.com/album/40M7WLALxAIR61uXjJAcWD) | 2:36 | 2021-01-08 |  |
 | [Tango](https://open.spotify.com/track/24jrwTJSlYOCguuLa4j28A) | [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [MINT](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) | 3:06 | 2019-08-27\* | 2019-11-11 |
 | [Team](https://open.spotify.com/track/1H8k9sqpRBC0ijK6ygyD71) | [Rory Noble](https://open.spotify.com/artist/1iuPOeEcwxvQsjw7UTsvfV) | [Team](https://open.spotify.com/album/5Dq5313nv8d2pkAR8TWss8) | 2:56 | 2020-06-29 | 2021-05-12 |
+| [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 | 2024-06-21 |  |
 | [Tear It Down](https://open.spotify.com/track/0LbCpfo4gQN1VPizldIssg) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [Tear It Down](https://open.spotify.com/album/3xaoTNP5aSWZMxV6kJZ9c5) | 3:18 | 2024-06-07 |  |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA) | 3:16 | 2021-12-17 |  |
 | [Tears In The Typing Pool](https://open.spotify.com/track/2xFELTbN4G0rgID5uQGLvP) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Tender Buttons](https://open.spotify.com/album/28RiDrxACWNtbrUNy9Ks1X) | 2:12 | 2022-10-21 | 2022-11-14 |

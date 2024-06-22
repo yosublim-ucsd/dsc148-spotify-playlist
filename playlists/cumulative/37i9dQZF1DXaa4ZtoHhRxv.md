@@ -4,11 +4,12 @@
 
 > Dale! Hit the dance floor with Dolly Parton and Pitbull!
 
-200 songs - 10 hr 48 min
+202 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 | 2023-12-08 |  |
+| [A Bar Song \(Tipsy\) \[Remix\]](https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [A Bar Song \(Tipsy\) \[Remix\]](https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah) | 2:43 | 2024-06-21 |  |
 | [After All](https://open.spotify.com/track/3y5k4YAFvknch51j0UtMIA) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [After All](https://open.spotify.com/album/3jAzhfivp48sZJRnB1P87z) | 3:12 | 2024-05-17 |  |
 | [After We Broke Up \(feat\. Frawley\) \- VAVO Remix](https://open.spotify.com/track/5I2QgxdGC5sqUhQb6deQGV) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [After We Broke Up \(feat\. Frawley\) \[VAVO Remix\]](https://open.spotify.com/album/6wyztsue0Gv37CX4qTYSzm) | 2:17 | 2024-05-17 |  |
 | [Again](https://open.spotify.com/track/6mQkNOqfrk5CyYpjx660Gh) | [BEXAR](https://open.spotify.com/artist/1GXBaX5YUjOrrXch1sGepn), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [Again](https://open.spotify.com/album/0EGEqpUrrlDzUQJvTQjjFR) | 2:35 | 2022-04-29 |  |
@@ -163,6 +164,7 @@
 | [Sun Don't Let Me Down](https://open.spotify.com/track/3TiOpwAlLf0kqa6EeN4YrO) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:23 | 2021-12-10 |  |
 | [Sun Turns Cold](https://open.spotify.com/track/0i6XijpG0r3DwoO0LEf5uk) | [Gazzo](https://open.spotify.com/artist/5st4KKihmnSMLRsxWOs2x3), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Sun Turns Cold](https://open.spotify.com/album/0LbK7vz0cjdE11KtCWNfGY) | 4:38 | 2021-12-10 |  |
 | [Take It From Me \- Brandon Day Remix](https://open.spotify.com/track/06PQ8Qrv66zvNyc2KIahb0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Brandon Day](https://open.spotify.com/artist/5ncSLebQanfj8LGTlIoEv7) | [Take It From Me \(Brandon Day Remix\)](https://open.spotify.com/album/0C3VwaIpGqxhc7A45tHYwg) | 3:00 | 2021-12-10 |  |
+| [Take Me Home, Country Roads](https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Take Me Home, Country Roads](https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW) | 2:57 | 2024-06-21 |  |
 | [Talking With Our Hands \(feat\. Jimmie Allen\)](https://open.spotify.com/track/2pCSPvtMMNNhSGluHym2jU) | [RoadHouse](https://open.spotify.com/artist/6Nf3jLrIOWnKsvdpJcup2y), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [RoadHouse](https://open.spotify.com/album/3ACmOsG39mP5LfCw3FF1wm) | 2:45 | 2021-12-10 |  |
 | [Talking With Our Hands \(feat\. Jimmie Allen\)](https://open.spotify.com/track/6mbvUyUv4jp8BIr6k3JH6T) | [Roadhouse](https://open.spotify.com/artist/3I8ZwvgzfDF1OtQNXay4EC), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [RoadHouse \- EP](https://open.spotify.com/album/6CCynmRT6vWoHPbfUhYdsy) | 2:45 | 2023-09-15 | 2024-04-19 |
 | [Tequila \- R3HAB Remix](https://open.spotify.com/track/3fsT6VEOxJz3j8cqhzK19Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Tequila \(The Remixes\)](https://open.spotify.com/album/0mbXdG2oPnAa1FY1H5EpxZ) | 2:37 | 2021-12-10 |  |

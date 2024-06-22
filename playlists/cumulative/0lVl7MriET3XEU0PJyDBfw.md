@@ -4,7 +4,7 @@
 
 > House music I absolutely love at the moment! Submissions: houseiumpromo@gmail.com
 
-187 songs - 9 hr 35 min
+188 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Mental](https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Mental // Insane Asylum](https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq) | 3:53 | 2023-11-20 |  |
 | [Mental \- 1997 Remix](https://open.spotify.com/track/1Ov7xoqeMfy2My3RFBDnxf) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o), [1997](https://open.spotify.com/artist/6MSe5IjGtnDLfKyAuofPo2) | [Mental // Insane Asylum](https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq) | 3:04 | 2023-11-20 |  |
 | [Messin With The Herd](https://open.spotify.com/track/2W4tDLeSp2hynONFTKPqqI) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw), [Ssol](https://open.spotify.com/artist/0r1nzP20Iambhd9ubmmkQJ) | [Messin With The Herd](https://open.spotify.com/album/2aPRzwLpkZwqXvhTvvzXgt) | 2:18 | 2023-12-31 | 2024-01-16 |
+| [Mind Games](https://open.spotify.com/track/2bfXCTfLhgTuWEQUSlYGEe) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Mind Games](https://open.spotify.com/album/6BBcom41AOXWc7K88JpNcM) | 3:19 | 2024-06-21 |  |
 | [Mini Skirt](https://open.spotify.com/track/2iYgWvnpNW9us7LNTTMWqA) | [Jack Rush](https://open.spotify.com/artist/6bjnZQLPrTOmZSQ6nJ7rkj) | [Mini Skirt](https://open.spotify.com/album/1ISzGtD2CbUYfdh6jrGNCP) | 2:33 | 2024-01-08 | 2024-01-22 |
 | [Mini Skirt](https://open.spotify.com/track/4L5aysnpEXU7YtRU8HQ3GI) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Mini Skirt](https://open.spotify.com/album/77EIwM8PC7uBqEqDH6MFW3) | 2:31 | 2024-01-21 | 2024-02-06 |
 | [Misfits](https://open.spotify.com/track/1nTk2VImCTpiJv98k87d0Q) | [KTNY](https://open.spotify.com/artist/3hTsSjLngaV8Mf97tqv8pf) | [Misfits](https://open.spotify.com/album/3zpfizpJREzZEjWEOgipi5) | 2:20 | 2024-01-08 | 2024-01-22 |

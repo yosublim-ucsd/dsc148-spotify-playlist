@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > Celebrating 90s nostalgia and its sounds that shaped us, brought to you by Scene in Black and Frequency.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076,506 likes - 65 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,543 likes - 65 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

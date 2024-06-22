@@ -1603,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Girlhood, Godhood",
+        "url": "https://open.spotify.com/album/3Zq5xW18jIthd3jr4jt7ga"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144869,
+      "name": "Girlhood, Godhood",
+      "url": "https://open.spotify.com/track/50arhjErqvGjMz07YgebJx"
+    },
+    {
+      "album": {
         "name": "Give You Love",
         "url": "https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG"
       },

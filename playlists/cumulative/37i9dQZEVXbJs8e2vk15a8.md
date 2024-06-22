@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-2,051 songs - 4 day 14 hr 39 min
+2,052 songs - 4 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [AMIGA DATE CUENTA](https://open.spotify.com/track/44gzTwIFpKyyRPOTRBUbKX) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [AMIGA DATE CUENTA](https://open.spotify.com/album/15e00RGSgvmgPfovIgtCAa) | 2:17 | 2022-10-04 | 2022-10-13 |
 | [Amiga Ya Mato](https://open.spotify.com/track/0UONsSefbs5YP6iluxq8Dq) | [Fran Maira](https://open.spotify.com/artist/62ztrjzw3tYDq5udATPhwN) | [Amiga Ya Mato](https://open.spotify.com/album/3vdeLAOCdRgLEYXaoAxpwh) | 2:24 | 2024-05-23 |  |
 | [Amiri Jeans](https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [King Fly](https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc) | [La Luz Es Única](https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB) | 2:16 | 2023-05-12 | 2023-08-07 |
+| [Amor](https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA) | 3:22 | 2024-06-21 |  |
 | [Amor & Paz](https://open.spotify.com/track/5nmEvov5z4ZcARslZ7ClTV) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Amor & Paz](https://open.spotify.com/album/7ftOnZH1J9RUU5kAuEtMN7) | 3:15 | 2023-07-25 | 2023-07-27 |
 | [Amores Como El Nuestro](https://open.spotify.com/track/58DiRtepEpLtNwYchoazyi) | [Ararya](https://open.spotify.com/artist/4mdmbYTm07t7WUrsk60aVW) | [Amores Como El Nuestro](https://open.spotify.com/album/6eSa8HpdEziR7tGjHEx7iw) | 3:48 | 2024-01-23 | 2024-02-11 |
 | [Amores Como El Nuestro](https://open.spotify.com/track/1bkeI4MxhcW2OfEZ4tFKSU) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [Amores Como El Nuestro](https://open.spotify.com/album/08d5zydYlvMAaCHZECHchX) | 2:53 | 2024-02-20 | 2024-02-22 |
@@ -2033,7 +2034,7 @@
 | [Young Girl A](https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [Alive](https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3) | 3:41 | 2023-08-04 | 2023-09-15 |
 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 | 2024-01-30 | 2024-02-07 |
 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2023-12-19 | 2023-12-27 |
-| [YUMMY!](https://open.spotify.com/track/3ftB5T412JJ20IgpQgeCW8) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [ARES KLEIN](https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k) | 2:29 | 2024-06-18 |  |
+| [YUMMY!](https://open.spotify.com/track/3ftB5T412JJ20IgpQgeCW8) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [ARES KLEIN](https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k) | 2:29 | 2024-06-18 | 2024-06-22 |
 | [Zodiaco](https://open.spotify.com/track/3NrAgRyxGJ4wD4lIxspNjq) | [Custom](https://open.spotify.com/artist/0cZRCTXUF6Bn7r7LTl6f7x), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj) | [Zodiaco](https://open.spotify.com/album/7pbWV4PAw7qNMCLrJBnqb9) | 4:00 | 2024-05-13 | 2024-06-13 |
 | [Zona De Perigo](https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Zona De Perigo](https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5) | 2:22 | 2023-02-16 | 2023-03-02 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-10 | 2022-05-25 |

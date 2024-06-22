@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-379 songs - 23 hr 44 min
+380 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Grass Is Greener](https://open.spotify.com/track/5ugEkJcLbQrAkCN2kH7j8S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half the City](https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ) | 4:14 | 2021-12-17 |  |
 | [Gullah Geechee](https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:35 | 2022-08-19 |  |
 | [Hands To Myself](https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Hands To Myself](https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB) | 3:17 | 2022-09-23 | 2024-02-03 |
-| [Hard Learned](https://open.spotify.com/track/4qVesVecQYAJE6e7Pkwpcz) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Shake the Roots](https://open.spotify.com/album/4ZNwi2nsWvXS22Mzdh4Zrd) | 3:37 | 2022-09-09 |  |
+| [Hard Learned](https://open.spotify.com/track/4qVesVecQYAJE6e7Pkwpcz) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Shake the Roots](https://open.spotify.com/album/4ZNwi2nsWvXS22Mzdh4Zrd) | 3:37 | 2022-09-09 | 2024-06-22 |
 | [Hard to Believe](https://open.spotify.com/track/3IfNXZSR5nEnYmnu2zsVUJ) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [T Bird and the Breaks](https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0) | [Greybird](https://open.spotify.com/album/25NxKFjwbaZclwi4WizmrD) | 4:14 | 2023-08-25 |  |
 | [Hard to Stay Cool](https://open.spotify.com/track/1sA5P8waghOeBj5nc1S4XZ) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hard to Stay Cool](https://open.spotify.com/album/3fpTOEGSvGIhVtLMZ44w8t) | 5:34 | 2021-12-17 | 2022-07-29 |
 | [Hard To Stay Cool](https://open.spotify.com/track/5mkwcdqarspFI0bbMfzAum) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 5:34 | 2022-01-28 | 2022-08-20 |
@@ -328,6 +328,7 @@
 | [The Kids Are Having None Of It](https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [U kin B the Sun](https://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C) | 4:49 | 2021-12-17 | 2024-01-20 |
 | [The Last Time](https://open.spotify.com/track/7MTUA6kke0Q1p86I2XQL34) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [May Be the Last Time](https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK) | 3:35 | 2022-09-16 | 2022-10-08 |
 | [The Lengths](https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 4:54 | 2021-12-17 | 2023-05-06 |
+| [The Line](https://open.spotify.com/track/46qU3BOdKfXI4LSSGxAw4D) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [The Line](https://open.spotify.com/album/0X4aStSXiLUG7HOVng0A51) | 2:34 | 2024-06-21 |  |
 | [The Love That Once Lingered \- feat\. Lady Blackbird](https://open.spotify.com/track/4vlATschiZVKFlngUwN4k9) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [The Love That Once Lingered](https://open.spotify.com/album/0oMr2919OXeWIhGqvbKsfv) | 3:54 | 2023-05-12 | 2023-06-24 |
 | [The Map](https://open.spotify.com/track/7lBcer2WtpdnPpHVcVpROp) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [The Map](https://open.spotify.com/album/2qabf6Z1Q1Bt1nXKoTunWd) | 3:35 | 2021-12-17 | 2023-03-11 |
 | [The Mend](https://open.spotify.com/track/3lsi95o89SYcpyuqGw0qeg) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Dirty Shine \(Dirty Deluxe\)](https://open.spotify.com/album/4GTwClQjdN0otMH75u6MYr) | 3:37 | 2023-11-17 |  |

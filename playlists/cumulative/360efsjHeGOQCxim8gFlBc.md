@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-358 songs - 14 hr 37 min
+359 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [All That Glitters \(Piano\)](https://open.spotify.com/track/0daHjqHGWWq3KhnzaCeP7P) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact Relaxing Beside Bed Collection](https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3) | 1:16 | 2023-10-29 | 2023-12-18 |
 | [All That's Left Are The Snapshots](https://open.spotify.com/track/1NWmY8R51GriAfUdNVDcGW) | [Tom Eaton](https://open.spotify.com/artist/6I7GK3bsZhKD2nPbNEIMh5) | [Snapshots](https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI) | 1:13 | 2023-10-29 | 2024-05-03 |
 | [American Beauty](https://open.spotify.com/track/4dTQkPMK1LY1l15Q79zjMd) | [IRSNa](https://open.spotify.com/artist/3hPqxI3SsQNfUDfNIpJDeR) | [American Beauty](https://open.spotify.com/album/1R4edudfEcXCidprDq6Mnb) | 1:55 | 2023-10-29 |  |
-| [Amor tumbado](https://open.spotify.com/track/53LLSL26TFyQJDf26l2q97) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Amor tumbado](https://open.spotify.com/album/0rGjviVrRtYxlBFjfAbU0y) | 3:23 | 2024-06-17 |  |
+| [Amor tumbado](https://open.spotify.com/track/10rR0kUsYI8XkXpRvOtxjD) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Amor tumbado](https://open.spotify.com/album/4qufmSCq3zhm1KaWsOlK8m) | 3:23 | 2024-06-21 |  |
+| [Amor tumbado](https://open.spotify.com/track/53LLSL26TFyQJDf26l2q97) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Amor tumbado](https://open.spotify.com/album/0rGjviVrRtYxlBFjfAbU0y) | 3:23 | 2024-06-17 | 2024-06-22 |
 | [As I Breathe](https://open.spotify.com/track/18MhPNyH0MliZWymshDdM6) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Levi Meyer](https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [As I Breathe](https://open.spotify.com/album/5h4j3BZMDAqibxAH5fHBpR) | 1:45 | 2023-10-29 | 2024-04-14 |
 | [As It Was \(Piano Version\)](https://open.spotify.com/track/5H8qAeA04uTyHv0vpeSadp) | [Hiki](https://open.spotify.com/artist/20qqzVa018cvVt0IyqYFqn) | [As It Was \(Piano Version\)](https://open.spotify.com/album/402BVU2hPJfSUmzKEEWwJD) | 1:22 | 2024-06-17 |  |
 | [Awakened](https://open.spotify.com/track/7KMKLweg2TP1kSLJffXZ6m) | [Ralph Thomas Puett IV](https://open.spotify.com/artist/4qla4YmkcVA8U6654RyWhF) | [Awakened](https://open.spotify.com/album/1cMa5zSzpob64TL7yTczwa) | 1:24 | 2023-12-17 |  |

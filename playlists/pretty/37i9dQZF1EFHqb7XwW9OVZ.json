@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AbUl4gAAAADGmOMzlgiVIyaEgecOWNKL",
+  "snapshot_id": "AbUrggAAAAA3G37lrFfK3UGFi37wH94O",
   "tracks": [
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
@@ -25,7 +25,91 @@
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 108986,
+      "name": "New Jeans",
+      "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "Cool With You",
+      "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 168723,
+      "name": "e-motions (with Erika de Casier)",
+      "url": "https://open.spotify.com/track/3FTtAV8d9qHyMjlvAGOPdu"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Essentials",
         "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
@@ -41,7 +125,23 @@
       "url": "https://open.spotify.com/track/5XEmou40XzMsoVZHq925kw"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/2NBHJXmeASMfyf8jwKY5Y0"
+      },
+      "artists": [
+        {
+          "name": "Saint Cava",
+          "url": "https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW"
+        }
+      ],
+      "duration_ms": 196030,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/7hfgzxvcd8mKImN7Goast8"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Four Songs",
         "url": "https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98"
@@ -65,7 +165,167 @@
       "url": "https://open.spotify.com/track/5s3mhLIMAUxDeTELjS8gVT"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Forget",
+        "url": "https://open.spotify.com/album/7va1UjsOrCh9wEz0sscKFO"
+      },
+      "artists": [
+        {
+          "name": "Saint Cava",
+          "url": "https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/7CgfLYNXmkKsOpI23Cjbkc"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 207856,
+      "name": "Puppy Love",
+      "url": "https://open.spotify.com/track/0uNo3E6rg68AFf18ZyeLgm"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 228817,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/2tlAmvmHat6nBY9pKd2Kkg"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 204791,
+      "name": "Polite",
+      "url": "https://open.spotify.com/track/6vBq30WUf7EJq0bQPEkBXr"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Diamond Cut / Bby",
+        "url": "https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 370656,
+      "name": "Diamond Cut",
+      "url": "https://open.spotify.com/track/6iuVUXwvvDCzSSVMrpMQp4"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 217624,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/0ypj9uw3cJgqdumtA87LSD"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "The Flow",
+      "url": "https://open.spotify.com/track/0Jp9blNEt2mOk0FSeDEd11"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Busy",
+      "url": "https://open.spotify.com/track/5MMx0OKy2DN6GWPodrqxtw"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4UZI5lPk248pK7T41dOiL9"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 179802,
+      "name": "No Butterflies, No Nothing",
+      "url": "https://open.spotify.com/track/6OSshPqPWMV1EKjxjf6gdc"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Sensational",
         "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
@@ -81,7 +341,7 @@
       "url": "https://open.spotify.com/track/3sAcsAVnlvrJK4R2PWliot"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Essentials",
         "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
@@ -97,7 +357,7 @@
       "url": "https://open.spotify.com/track/7EYDjozMXBgvEYBmGm3Zr6"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Essentials",
         "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
@@ -113,7 +373,7 @@
       "url": "https://open.spotify.com/track/03x4xRf3m9EuVJoJIabrIQ"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Sensational",
         "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
@@ -129,7 +389,7 @@
       "url": "https://open.spotify.com/track/41s3kJ6aOLNLDs9MT7tMYO"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Nymph_o",
         "url": "https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k"
@@ -149,7 +409,23 @@
       "url": "https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 225706,
+      "name": "Photo of You",
+      "url": "https://open.spotify.com/track/7wvSLyUTQd4lArPlolybjU"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
@@ -169,7 +445,7 @@
       "url": "https://open.spotify.com/track/4yDy9duBm6tumzyxp9HHkm"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Essentials",
         "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
@@ -185,7 +461,55 @@
       "url": "https://open.spotify.com/track/4zpls3vUm7H4VVL53DEEzH"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 209125,
+      "name": "Make My Day",
+      "url": "https://open.spotify.com/track/7eHHF8vP2wV4ukcCsWWSAC"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "Test It",
+      "url": "https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 236727,
+      "name": "Better Than That",
+      "url": "https://open.spotify.com/track/0OQWttGvtkNs5rnhTdqWx9"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Steam",
         "url": "https://open.spotify.com/album/4YEXcCDX5f3p6GOrjtnSFg"
@@ -201,7 +525,7 @@
       "url": "https://open.spotify.com/track/4aCNEpyPTrU3HOgipnvexL"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Essentials",
         "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
@@ -217,7 +541,23 @@
       "url": "https://open.spotify.com/track/1SQwOMO5fzQVdDnvTN9LZQ"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 181435,
+      "name": "All You Talk About",
+      "url": "https://open.spotify.com/track/2ewwMQ5TwidyHreXR72KLT"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Sensational",
         "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
@@ -233,7 +573,23 @@
       "url": "https://open.spotify.com/track/1mUNzaUyMba5volrY0XfPP"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/5ZBtzPY6gBKwiASk5a4s7j"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
@@ -253,7 +609,39 @@
       "url": "https://open.spotify.com/track/3U4eW849fjz2U8BF9ghjQb"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Call Me Anytime",
+      "url": "https://open.spotify.com/track/4RHQXs034DNqWRoC5dQCih"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Sensational",
+        "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 41496,
+      "name": "Acceptance - intermezzo",
+      "url": "https://open.spotify.com/track/2moNfLP8Xar8kBdw6lYdbA"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Sensational",
         "url": "https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one"
@@ -269,7 +657,7 @@
       "url": "https://open.spotify.com/track/1ksD7cfCpQ31ymQheHSU5q"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
@@ -285,7 +673,7 @@
       "url": "https://open.spotify.com/track/3L4xlzfNLq2F3NaGasKc9i"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
@@ -305,7 +693,7 @@
       "url": "https://open.spotify.com/track/3meVOmXtT2J2eYxmD9xLvx"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
@@ -321,7 +709,75 @@
       "url": "https://open.spotify.com/track/6VvXCIHldeydKUcbWC0vVT"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK"
+      },
+      "artists": [
+        {
+          "name": "Saint Cava",
+          "url": "https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW"
+        }
+      ],
+      "duration_ms": 235705,
+      "name": "Trick",
+      "url": "https://open.spotify.com/track/0jctbEYOwwCldDcIjPh1a9"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 243320,
+      "name": "ooh",
+      "url": "https://open.spotify.com/track/0uLZMy9nTqC2eITbI5AOoZ"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 136653,
+      "name": "The Princess",
+      "url": "https://open.spotify.com/track/2I7MEYZs32XVWsLWC5jAmF"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Elements (Deluxe)",
+        "url": "https://open.spotify.com/album/26sxU2CplXqpmaogJJkb2Y"
+      },
+      "artists": [
+        {
+          "name": "Jada",
+          "url": "https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB"
+        },
+        {
+          "name": "Debbie Sings",
+          "url": "https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW"
+        }
+      ],
+      "duration_ms": 197406,
+      "name": "s.e.x.y.o.m.g. (feat. Debbie Sings)",
+      "url": "https://open.spotify.com/track/7E8lq2tTvGfB8fpR5Ipt9p"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
@@ -337,7 +793,87 @@
       "url": "https://open.spotify.com/track/0mHftcfyNVJlVDBWW4GxQ7"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK"
+      },
+      "artists": [
+        {
+          "name": "Saint Cava",
+          "url": "https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Camo",
+      "url": "https://open.spotify.com/track/0NYTDaeVpepG9KxxP3ehQ9"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "No One's God",
+        "url": "https://open.spotify.com/album/0Sy6QHq7t9bxY3poE7E3Se"
+      },
+      "artists": [
+        {
+          "name": "Saint Cava",
+          "url": "https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW"
+        }
+      ],
+      "duration_ms": 247168,
+      "name": "No One's God",
+      "url": "https://open.spotify.com/track/3lI8GbBt2RTH2F2AJkJXgS"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK"
+      },
+      "artists": [
+        {
+          "name": "Saint Cava",
+          "url": "https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW"
+        }
+      ],
+      "duration_ms": 228222,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/6k7yFNyWrK8rfWxsZlFiLW"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 128960,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/4R6qP5zkJZxtXVtYVP9Ddv"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "My Day Off",
+      "url": "https://open.spotify.com/track/5aQqLdmooQs8qIdMHxI2uv"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
@@ -353,7 +889,7 @@
       "url": "https://open.spotify.com/track/0NqydaxZRGM4ZQoYZRZuHS"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"

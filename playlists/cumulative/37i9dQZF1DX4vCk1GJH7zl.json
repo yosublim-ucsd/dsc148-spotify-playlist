@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Beach Weather",
+  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Ananda, Lou Garcia",
   "name": "Rock Leve",
   "tracks": [
     {
@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "Seres Humanos (e a Intelig\u00eancia Artificial)",
+        "url": "https://open.spotify.com/album/76vczkF1upttoxgHfgHjo3"
+      },
+      "artists": [
+        {
+          "name": "Odair Jose",
+          "url": "https://open.spotify.com/artist/3kUC3a0wTkjsdkJiytULkN"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170161,
+      "name": "Dizem",
+      "url": "https://open.spotify.com/track/0slJ2ORPHsjlnVRbPOzVhi"
+    },
+    {
+      "album": {
         "name": "Dois Mundos",
         "url": "https://open.spotify.com/album/64ZYrxz7k8QunMzLd3Wrcv"
       },
@@ -884,6 +902,28 @@
       "duration_ms": 216860,
       "name": "Estive com Stevie",
       "url": "https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D"
+    },
+    {
+      "album": {
+        "name": "Rotorquestra de Liquidificafu",
+        "url": "https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa"
+      },
+      "artists": [
+        {
+          "name": "Pato Fu",
+          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
+        },
+        {
+          "name": "Orquestra Ouro Preto",
+          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Eu",
+      "url": "https://open.spotify.com/track/6IZNBwp5vv2GlDuMxhmq5D"
     },
     {
       "album": {
@@ -1542,7 +1582,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 245338,
       "name": "Novo Eu",
       "url": "https://open.spotify.com/track/43Kflo9KhPF8PwdsVwAIZz"
@@ -1970,7 +2010,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 210857,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/6NqgtbC5WuR20UKSnDCsQ2"
@@ -2086,7 +2126,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 170294,
       "name": "Renata",
       "url": "https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682"
@@ -2500,6 +2540,28 @@
       "duration_ms": 158866,
       "name": "Take A Bite",
       "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
+    },
+    {
+      "album": {
+        "name": "Te procurando (Saturno)",
+        "url": "https://open.spotify.com/album/356KtUTSYSU5khCZlEXWWb"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169514,
+      "name": "Te procurando (Saturno)",
+      "url": "https://open.spotify.com/track/0d2hvijCjozSP5sZQtkFJg"
     },
     {
       "album": {

@@ -542,7 +542,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 106800,
       "name": "ASI SON",
       "url": "https://open.spotify.com/track/32QRZ9IiNW5Bgx0VGjDyNa"
@@ -733,6 +733,28 @@
     },
     {
       "album": {
+        "name": "Baguette",
+        "url": "https://open.spotify.com/album/6cXhn1ETAXyvSTNJh7DUHG"
+      },
+      "artists": [
+        {
+          "name": "Millo X",
+          "url": "https://open.spotify.com/artist/29fg4A3hOeWV3NZOLiO4g1"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151415,
+      "name": "Baguette",
+      "url": "https://open.spotify.com/track/1W0Ihj3Khwve6TUjRlZqZl"
+    },
+    {
+      "album": {
         "name": "Bailando Reggaeton",
         "url": "https://open.spotify.com/album/1XW7yh0W0YSUu4bN3BQqHI"
       },
@@ -854,7 +876,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 216133,
       "name": "Bandolero",
       "url": "https://open.spotify.com/track/6ZFnse2LtjvVbp1lxBdIx9"
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 149328,
       "name": "Calorazo",
       "url": "https://open.spotify.com/track/5jrG8BSLIqMvacwkiWmxc7"
@@ -1352,7 +1374,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 174544,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/3BUSMWApqcl8RRtc7DBJTl"
@@ -2287,6 +2309,32 @@
     },
     {
       "album": {
+        "name": "DESEO",
+        "url": "https://open.spotify.com/album/1BO8DKKFrdPr08kigGIwTr"
+      },
+      "artists": [
+        {
+          "name": "Simple Musical",
+          "url": "https://open.spotify.com/artist/440n0IkBrTfXN0p1HkfD2M"
+        },
+        {
+          "name": "LA VECINA RD",
+          "url": "https://open.spotify.com/artist/0NzQySGjziQndODoZm2OOl"
+        },
+        {
+          "name": "Dj Scuff",
+          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "DESEO",
+      "url": "https://open.spotify.com/track/3P9hH9HITRaZqT0AaSLbPw"
+    },
+    {
+      "album": {
         "name": "Desnudita",
         "url": "https://open.spotify.com/album/3nL3DuCZvIvSAUfPEAZFwJ"
       },
@@ -3004,7 +3052,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 158826,
       "name": "EL REY",
       "url": "https://open.spotify.com/track/1ENSnQofaPvagAqI8yCrI9"
@@ -3434,6 +3482,32 @@
       "duration_ms": 216651,
       "name": "ESE SI ES MALO",
       "url": "https://open.spotify.com/track/7bYJBYJHduV6gePn4ILKUb"
+    },
+    {
+      "album": {
+        "name": "Estoy Aqu\u00ed",
+        "url": "https://open.spotify.com/album/0A1MrliSVMMs0c2D5i8rpX"
+      },
+      "artists": [
+        {
+          "name": "The Lionx",
+          "url": "https://open.spotify.com/artist/6mL0lpfaAFYUJQoRAcdyZs"
+        },
+        {
+          "name": "I Am El Negro",
+          "url": "https://open.spotify.com/artist/0DN2PEOhfbZF1GdxqjILyK"
+        },
+        {
+          "name": "El Bopa",
+          "url": "https://open.spotify.com/artist/5yhdYk0uCsfiNcUDMH2waE"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2vhsLTqjlugt46cC7atmOD"
     },
     {
       "album": {
@@ -4507,6 +4581,24 @@
     },
     {
       "album": {
+        "name": "La Presion",
+        "url": "https://open.spotify.com/album/0HilKIw2e0S0K2eZj7l6rq"
+      },
+      "artists": [
+        {
+          "name": "Loui Santana",
+          "url": "https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "La Presion",
+      "url": "https://open.spotify.com/track/1G6usQXpchd3n36DjO7Vpn"
+    },
+    {
+      "album": {
         "name": "La Sentite",
         "url": "https://open.spotify.com/album/3Rk1OF59JYQRgyVA5qoFem"
       },
@@ -5472,7 +5564,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 194750,
       "name": "Mas Glow",
       "url": "https://open.spotify.com/track/6lw6j6zz1HzeZC74GHDNxE"
@@ -6406,7 +6498,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 108972,
       "name": "NO ME IMPORTA",
       "url": "https://open.spotify.com/track/60nvCICAtLOvvgOvnMLRD7"
@@ -7024,7 +7116,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 497060,
       "name": "Pila De Nota Freestyle",
       "url": "https://open.spotify.com/track/6aKPB9CWENmORp4L9gXH7L"
@@ -7362,6 +7454,24 @@
       "duration_ms": 162725,
       "name": "RD",
       "url": "https://open.spotify.com/track/3NAZhUuIcFH1svnekShdwy"
+    },
+    {
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/5nfUfjjHd827xhS2Gboy8X"
+      },
+      "artists": [
+        {
+          "name": "Don Forty Five",
+          "url": "https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211492,
+      "name": "READY",
+      "url": "https://open.spotify.com/track/1T0GFyjzGstsmPtaRKtGMJ"
     },
     {
       "album": {
@@ -7837,6 +7947,32 @@
     },
     {
       "album": {
+        "name": "Solo Un Chiste",
+        "url": "https://open.spotify.com/album/50rzhM7PW5PNBAcGXNjLyu"
+      },
+      "artists": [
+        {
+          "name": "The Melodico",
+          "url": "https://open.spotify.com/artist/4vKdAdCbGteLVf1kP409kJ"
+        },
+        {
+          "name": "Jimmy La Melod\u00eda",
+          "url": "https://open.spotify.com/artist/1tVb9ykQYmM1dDiV03X0RW"
+        },
+        {
+          "name": "Lesco Zizou",
+          "url": "https://open.spotify.com/artist/2ebMiZxgSS7WGhUgLa6JWU"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Solo Un Chiste",
+      "url": "https://open.spotify.com/track/43WapI1jXgWlEtfujXVGVe"
+    },
+    {
+      "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/4BrGUL0D3eHAvh1Xc3btqP"
       },
@@ -8144,7 +8280,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 136271,
       "name": "Talco",
       "url": "https://open.spotify.com/track/5jNMVx3mv3gj3ShJfJj57g"
@@ -8240,7 +8376,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 142372,
       "name": "Tan Quedao",
       "url": "https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx"
@@ -8872,7 +9008,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 145646,
       "name": "Un Chin",
       "url": "https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI"

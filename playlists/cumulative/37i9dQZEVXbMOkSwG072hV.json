@@ -663,6 +663,24 @@
     },
     {
       "album": {
+        "name": "4-4-2 Ig",
+        "url": "https://open.spotify.com/album/6zZ6WbSxgWQgbvCqwnN0cx"
+      },
+      "artists": [
+        {
+          "name": "4M Vito",
+          "url": "https://open.spotify.com/artist/6CdXTv5JknazSHPDEKqsEc"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363763,
+      "name": "4-4-2 Ig",
+      "url": "https://open.spotify.com/track/7g9brvSGdajrc0JmwccXJ1"
+    },
+    {
+      "album": {
         "name": "4M Imbicou",
         "url": "https://open.spotify.com/album/5xYkEO9PhAtXBKpj3UcGO8"
       },
@@ -4378,7 +4396,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 178579,
       "name": "B2b",
       "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
@@ -30072,7 +30090,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 136615,
       "name": "Morena Tropicana - MTG",
       "url": "https://open.spotify.com/track/6xCAXCTuUeY2nT0p9cAdvB"
@@ -30174,6 +30192,24 @@
       "duration_ms": 137578,
       "name": "MTG (GOSTA DE RUA)",
       "url": "https://open.spotify.com/track/48oEh5fLdmIw7ktHeFJZ7a"
+    },
+    {
+      "album": {
+        "name": "MTG (WHAT IS LOVE)",
+        "url": "https://open.spotify.com/album/4RkJXcmZPioyApTMfmtXrf"
+      },
+      "artists": [
+        {
+          "name": "Loirin prod",
+          "url": "https://open.spotify.com/artist/0SgHuOMfN5sYzxKYMAHhvJ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135230,
+      "name": "MTG (WHAT IS LOVE)",
+      "url": "https://open.spotify.com/track/7bt3kG6ivWSt7CQEWE0bsf"
     },
     {
       "album": {
@@ -32186,10 +32222,28 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 288925,
       "name": "Noite Carioca",
       "url": "https://open.spotify.com/track/6ngtwB24GNE4zPLuLWEJER"
+    },
+    {
+      "album": {
+        "name": "Noite Carioca Previa",
+        "url": "https://open.spotify.com/album/3RbaucpzCefa0srmZkWF9S"
+      },
+      "artists": [
+        {
+          "name": "previas 4m",
+          "url": "https://open.spotify.com/artist/5AUqWb5c9pEIESuUmIYDHM"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288113,
+      "name": "Noite Carioca Previa",
+      "url": "https://open.spotify.com/track/2hhMzHMxg0juu2wFu81e5A"
     },
     {
       "album": {

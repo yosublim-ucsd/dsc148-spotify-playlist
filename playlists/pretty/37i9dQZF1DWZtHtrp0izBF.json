@@ -1,6 +1,6 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 11986,
+  "num_followers": 12077,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
@@ -819,18 +819,26 @@
     {
       "added_at": "2024-03-19 14:43:17",
       "album": {
-        "name": "Tributo a La Salsa Colombiana",
-        "url": "https://open.spotify.com/album/49m397xV5kOZlernc0Iq2d"
+        "name": "Enam\u00f3rate Bailando",
+        "url": "https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y"
       },
       "artists": [
         {
-          "name": "Alberto Barros",
-          "url": "https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul"
+          "name": "Reynier Perez",
+          "url": "https://open.spotify.com/artist/3qcgjxAe4FRDMSj3vJejMd"
+        },
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        },
+        {
+          "name": "Ma\u00eda",
+          "url": "https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI"
         }
       ],
-      "duration_ms": 247920,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/5WNfNohnH5zSjz9odihLM9"
+      "duration_ms": 276581,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/3QXFOKlokWXMh2x9Q29764"
     }
   ],
   "unique_name": "Salsa Lessons",

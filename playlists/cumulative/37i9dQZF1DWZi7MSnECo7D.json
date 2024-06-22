@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Ador\u00e1vel Clich\u00ea",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Oru\u00e3",
   "name": "alt BR",
   "tracks": [
     {
@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 211547,
       "name": "Algaravia",
       "url": "https://open.spotify.com/track/5PTDpsgOqEoG5P5BllvfHZ"
@@ -646,6 +646,24 @@
       "duration_ms": 203313,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/01B03FVsHGw6qjarubRPTP"
+    },
+    {
+      "album": {
+        "name": "amarga",
+        "url": "https://open.spotify.com/album/2HrEpViiZOxx6fLFpw6uwb"
+      },
+      "artists": [
+        {
+          "name": "Ador\u00e1vel Clich\u00ea",
+          "url": "https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225589,
+      "name": "amarga",
+      "url": "https://open.spotify.com/track/4HAIHkDRNvEdLQpIzrxCxH"
     },
     {
       "album": {
@@ -1590,6 +1608,32 @@
       "duration_ms": 200086,
       "name": "Boca Aberta",
       "url": "https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF"
+    },
+    {
+      "album": {
+        "name": "Bolerno",
+        "url": "https://open.spotify.com/album/234Ai9UmbI15v4B331T3q6"
+      },
+      "artists": [
+        {
+          "name": "National Aliens",
+          "url": "https://open.spotify.com/artist/4MkgfbzU84ZoMPzgOASsj6"
+        },
+        {
+          "name": "Leonardo Marques",
+          "url": "https://open.spotify.com/artist/1D0MIo5N8QMrSB0Ek1iHPH"
+        },
+        {
+          "name": "Frederico Heliodoro",
+          "url": "https://open.spotify.com/artist/7768aDn2jkoYwF7iHccGlE"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214516,
+      "name": "Bolerno",
+      "url": "https://open.spotify.com/track/4T86t6rppOA0YxjXpZE74H"
     },
     {
       "album": {
@@ -3390,7 +3434,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 96923,
       "name": "e ai, a.i",
       "url": "https://open.spotify.com/track/6F8d3BhStZpnrX6yceMkdp"
@@ -3770,7 +3814,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 198753,
       "name": "Esta\u00e7\u00e3o da Luz",
       "url": "https://open.spotify.com/track/2QTrD7WhBTW70beXilAlgP"
@@ -4679,6 +4723,24 @@
     },
     {
       "album": {
+        "name": "Horror Brega",
+        "url": "https://open.spotify.com/album/506jDLDb9zHIQxBHCs0Fc0"
+      },
+      "artists": [
+        {
+          "name": "Paspalho",
+          "url": "https://open.spotify.com/artist/5gsIF0uWDeZ09sEzsLevlf"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Horror Brega",
+      "url": "https://open.spotify.com/track/1seASuT8wnGGTlzholaqfo"
+    },
+    {
+      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/1vH4bXQaDJJtW2NYuSrEOJ"
       },
@@ -4850,7 +4912,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 249000,
       "name": "Incaptur\u00e1vel",
       "url": "https://open.spotify.com/track/4ivjifG1dH12945xfe71Ye"
@@ -5440,7 +5502,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 224043,
       "name": "Lugar no Espa\u00e7o",
       "url": "https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM"
@@ -6251,6 +6313,24 @@
     },
     {
       "album": {
+        "name": "Miragem",
+        "url": "https://open.spotify.com/album/0HojO28voC2yp1xbnIIldq"
+      },
+      "artists": [
+        {
+          "name": "Oru\u00e3",
+          "url": "https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173713,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/7r46cxPPIfIf8WOAfAWRnK"
+    },
+    {
+      "album": {
         "name": "OUTRO VOLUME",
         "url": "https://open.spotify.com/album/3j9Dw9lvea8ZfdinhW1s0C"
       },
@@ -6434,6 +6514,28 @@
       "duration_ms": 194848,
       "name": "Muito Al\u00e9m",
       "url": "https://open.spotify.com/track/33Ph1S0NLdwMmL02fqaYbo"
+    },
+    {
+      "album": {
+        "name": "Mukuro",
+        "url": "https://open.spotify.com/album/55nOABbP3g3GyzpDQUzxxN"
+      },
+      "artists": [
+        {
+          "name": "Vitor Brauer",
+          "url": "https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8"
+        },
+        {
+          "name": "Augusto Scartezini",
+          "url": "https://open.spotify.com/artist/3avHMFWAddT7ffHtNbziSz"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196082,
+      "name": "Mukuro",
+      "url": "https://open.spotify.com/track/0QeU34CUNQULX2hKScxqdI"
     },
     {
       "album": {
@@ -8010,7 +8112,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 120928,
       "name": "Pisa",
       "url": "https://open.spotify.com/track/11ykjzCoI7GtSniRHDIi0k"
@@ -9100,7 +9202,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 218769,
       "name": "Samba Hostil",
       "url": "https://open.spotify.com/track/4zZb325aqGdFoj4F9rkhKT"
@@ -10183,6 +10285,24 @@
     },
     {
       "album": {
+        "name": "Teto Preto",
+        "url": "https://open.spotify.com/album/5psLA4FROW1zniFhyw9wM5"
+      },
+      "artists": [
+        {
+          "name": "Camelazul",
+          "url": "https://open.spotify.com/artist/0OpbJESafN7nBjojau8nTh"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Teto Preto",
+      "url": "https://open.spotify.com/track/46LK7vXBSKu00IWu7A0dpA"
+    },
+    {
+      "album": {
         "name": "Teu Corre",
         "url": "https://open.spotify.com/album/3nb2i3XcXxcHEPQFtekLVW"
       },
@@ -10642,7 +10762,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 428307,
       "name": "tuas pegadas",
       "url": "https://open.spotify.com/track/2WUTnaCLjbm5P0lVNx0vxM"
@@ -11368,7 +11488,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 325011,
       "name": "Vestido Vermelho",
       "url": "https://open.spotify.com/track/61M14oh9fDkMjxWSqX9ROX"
@@ -11612,6 +11732,24 @@
       "duration_ms": 256875,
       "name": "Volta",
       "url": "https://open.spotify.com/track/20TjtbWvLqfQIPth8gUvSB"
+    },
+    {
+      "album": {
+        "name": "Voltada Para o Novo",
+        "url": "https://open.spotify.com/album/59CdvfRLtDUhfC5Wz7LXII"
+      },
+      "artists": [
+        {
+          "name": "LYYA",
+          "url": "https://open.spotify.com/artist/08AHjAA3q1rYawX4kMInOD"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198289,
+      "name": "Voltada Para o Novo",
+      "url": "https://open.spotify.com/track/79uZCnFsegWZJPVH6BdP3l"
     },
     {
       "album": {

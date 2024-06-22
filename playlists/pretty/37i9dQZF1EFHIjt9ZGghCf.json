@@ -6,10 +6,34 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AbUl4gAAAACQcU9AHc9k1GEX9uzdLsiR",
+  "snapshot_id": "AbUrggAAAADTA1/WHVKY8EWPCHei1zHN",
   "tracks": [
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 646239,
+      "name": "Promises (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "House Of Miracles",
         "url": "https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW"
@@ -25,7 +49,39 @@
       "url": "https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Move Your Heart",
+        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+        }
+      ],
+      "duration_ms": 465744,
+      "name": "I Thank God (feat. Dante Bowe, Maryanne Joshua George & Aaron Moses)",
+      "url": "https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
@@ -53,7 +109,27 @@
       "url": "https://open.spotify.com/track/2p3qr3HQBgsjeE5rFobSDy"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 526890,
+      "name": "Champion - Live",
+      "url": "https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
@@ -77,7 +153,23 @@
       "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 293440,
+      "name": "No One Ever Cared for Me Like Jesus",
+      "url": "https://open.spotify.com/track/2oIFaafMda5ATaMr2b9pK8"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Maverick City, Vol. 2",
         "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
@@ -101,7 +193,159 @@
       "url": "https://open.spotify.com/track/0jPoy99PN9i9DNbwPZanCQ"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "duration_ms": 726770,
+      "name": "Most Beautiful / So in Love",
+      "url": "https://open.spotify.com/track/79BblsZXMVB4gEEt6yQIft"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "duration_ms": 263833,
+      "name": "God Really Loves Us",
+      "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 515232,
+      "name": "Mercy (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/7pHDixs53icP6n2Yoi5mtD"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Move Your Heart",
+        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "duration_ms": 621222,
+      "name": "Move Your Heart (feat. Dante Bowe & Elyssa Smith)",
+      "url": "https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 137130,
+      "name": "joyful",
+      "url": "https://open.spotify.com/track/6TFjKtYZGIJyL6vbS33GEB"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Housefires + Friends (Live)",
+        "url": "https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 477513,
+      "name": "Lift You High - Live",
+      "url": "https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 563067,
+      "name": "Take Me Back (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Maverick City, Vol. 2",
         "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
@@ -121,7 +365,31 @@
       "url": "https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 449446,
+      "name": "Thank You (feat. Steffany Gretzinger & Chandler Moore)",
+      "url": "https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Maverick City, Vol. 1",
         "url": "https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt"
@@ -141,7 +409,7 @@
       "url": "https://open.spotify.com/track/3g4WBq2CluHrcmGSk9RFDn"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "House Of Miracles",
         "url": "https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW"
@@ -157,7 +425,111 @@
       "url": "https://open.spotify.com/track/0qQZ7uixVxEkXUsfyg5Ipg"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 548499,
+      "name": "Come Again (feat. Brandon Lake & Chandler Moore)",
+      "url": "https://open.spotify.com/track/7rkJYKnPBSE7iS4d2Fm9jU"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Katie Torwalt",
+          "url": "https://open.spotify.com/artist/6AXIMz03907VRnxzPsRiW6"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 862146,
+      "name": "Joy of the Lord (feat. Dante Bowe, Katie Torwalt & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/1aQ3fg8LGKYAGohdbpnLEs"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Voice of God",
+        "url": "https://open.spotify.com/album/74zHxn6qk4Xs9IKSxDfva0"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 703971,
+      "name": "Voice of God",
+      "url": "https://open.spotify.com/track/4nea7p3sDSNssGQ1GYI2Bk"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 294151,
+      "name": "Anything Is Possible - Live",
+      "url": "https://open.spotify.com/track/64nXCNi7Ct1wi5Q6VROGAF"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Maverick City, Vol. 1",
         "url": "https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt"
@@ -177,7 +549,55 @@
       "url": "https://open.spotify.com/track/5cc19U5WGGElNUc38XY25r"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 299509,
+      "name": "Sufficient for Today (feat. Maryanne J. George & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/5aobFxGYo2lOVfwrRxIGwv"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/2gMrHKIYTOToJEKDzDTg5t"
+      },
+      "artists": [
+        {
+          "name": "All Nations Music",
+          "url": "https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU"
+        },
+        {
+          "name": "Matthew Stevenson",
+          "url": "https://open.spotify.com/artist/1rUprF6B19ELkhEBR0Nqf2"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 570629,
+      "name": "Yahweh (feat. Matthew Stevenson & Chandler Moore)",
+      "url": "https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
@@ -201,7 +621,111 @@
       "url": "https://open.spotify.com/track/5NPnQsp6ziP8TPQwdIdEEj"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        },
+        {
+          "name": "Alton Eugene",
+          "url": "https://open.spotify.com/artist/2wh1cj2CyHkIgAi0DR7ki6"
+        }
+      ],
+      "duration_ms": 316142,
+      "name": "Holy Ghost (feat. Bri Babineuax & Alton Eugene)",
+      "url": "https://open.spotify.com/track/7IEKYcNmE949Zrsh2mYNhd"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 446438,
+      "name": "Fresh Fire (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/5f3WMePgGGeTilkjlzdCIq"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "The Maverick Way Complete",
+        "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Todd Galberth",
+          "url": "https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW"
+        }
+      ],
+      "duration_ms": 498332,
+      "name": "For My Good (feat. Todd Galberth)",
+      "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 375634,
+      "name": "Mighty One (feat. Todd Dulaney, Maryanne J. George & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/1Ige5heWT74ObjEsIwlJCK"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "You Hold It All Together",
         "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
@@ -229,7 +753,35 @@
       "url": "https://open.spotify.com/track/7HoKBaEzZTKQYEB75e9lo4"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Breathe - EP",
+        "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 401983,
+      "name": "Heal Our Land / Come & Move (feat. Joe L Barnes, Maryanne J. George & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/1TVlOcTf8nR0epxgHxaPt3"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 2",
         "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
@@ -253,7 +805,143 @@
       "url": "https://open.spotify.com/track/6X8403w0sVBs0Bz5yVnF39"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Tribl I",
+        "url": "https://open.spotify.com/album/2uqcxn7xhGvMIx7Kimhmr7"
+      },
+      "artists": [
+        {
+          "name": "Tribl",
+          "url": "https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Mariah Adigun",
+          "url": "https://open.spotify.com/artist/5ZnWuXYXeApR3oaGzCOJSt"
+        }
+      ],
+      "duration_ms": 448387,
+      "name": "High Praise (feat. Ryan Ofei, Mariah Adigun)",
+      "url": "https://open.spotify.com/track/7GxBNeX6foHMXfbg2TEidY"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/7w9WbnSj0OyKzUXm9wBgmK"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 164810,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3sD9EKHgrBGfNA6dh5Pa4O"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Nail Scarred Hands",
+        "url": "https://open.spotify.com/album/04sRnc4zX3NEI2Raqfx8JD"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 192134,
+      "name": "Nail Scarred Hands",
+      "url": "https://open.spotify.com/track/4lUzMhab7SAAQBOCxyG1qo"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "The Heartbreak And The Healing",
+        "url": "https://open.spotify.com/album/6Hf2lGGpi3kVIGK9pLhxF3"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 229252,
+      "name": "The Healing",
+      "url": "https://open.spotify.com/track/3PtkyEjqwMz4fpSjo9ADNf"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/22NJqbQbKWrHhi3gyPZeeb"
+      },
+      "artists": [
+        {
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        },
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Kingdom Come",
+      "url": "https://open.spotify.com/track/64IfRuYoTpZULxi84hdefh"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 522129,
+      "name": "Make It Right (feat. Dante Bowe, Todd Dulaney, Jekalyn Carr & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/2hKrNvjSpqiOs7QhcNmJZI"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
@@ -273,7 +961,7 @@
       "url": "https://open.spotify.com/track/14jIX5rmoUWVPBNq3Q72J8"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
@@ -297,23 +985,55 @@
       "url": "https://open.spotify.com/track/7lDJ7G33ZjAvrltEyW6IE9"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
         }
       ],
-      "duration_ms": 481167,
-      "name": "You\u2019re Gonna Get The Glory - Live",
-      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
+      "duration_ms": 826554,
+      "name": "To You (feat. Chandler Moore & Maryanne J. George)",
+      "url": "https://open.spotify.com/track/1SFVeG0ACrvs5VcqZI1UFL"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "A Very Maverick Christmas",
+        "url": "https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 792155,
+      "name": "Gratitude / Worthy of it All / You\u2019re Worthy of My Praise (feat. Brandon Lake, Natalie Grant & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/0KWGmjdgmpuovXuwWDrDt4"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
@@ -337,7 +1057,55 @@
       "url": "https://open.spotify.com/track/3Zm6QMBYCwNZFUOmVBoVhA"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 481167,
+      "name": "You\u2019re Gonna Get The Glory - Live",
+      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Move Your Heart",
+        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        },
+        {
+          "name": "Joel Figueroa",
+          "url": "https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V"
+        }
+      ],
+      "duration_ms": 784775,
+      "name": "Everything is Yours (Spontaneous) [feat. Dante Bowe, Elyssa Smith & Joel Figueroa]",
+      "url": "https://open.spotify.com/track/41cVUItAswKpR6zv9jXP5X"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD"
@@ -361,7 +1129,103 @@
       "url": "https://open.spotify.com/track/0n0MjZK0QFtvWytHYp6o4S"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 321343,
+      "name": "Prepare the Way - Live",
+      "url": "https://open.spotify.com/track/1jt1m3be7XWV5LYoCFkfTV"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "House Of Miracles",
+        "url": "https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Running To The Light",
+      "url": "https://open.spotify.com/track/2psRZeWDR66oQ7NICRqI3w"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "All Of Us (All Praise) [Live]",
+        "url": "https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "duration_ms": 386906,
+      "name": "All Praise - Live",
+      "url": "https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Potter and Friend (feat. Jesse Cline)",
+        "url": "https://open.spotify.com/album/0rZIRoeYANHTmhPiATIWGc"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Jesse Cline",
+          "url": "https://open.spotify.com/artist/34dwOJpG3qpSQ9RfSsA6yF"
+        }
+      ],
+      "duration_ms": 254528,
+      "name": "Potter and Friend (feat. Jesse Cline)",
+      "url": "https://open.spotify.com/track/3yOe7dRZgiHh4MQ1Rue98L"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 483878,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/5qfvPaSv4M0wFa5RnZhye7"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Tribl Nights Atlanta",
         "url": "https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt"
@@ -393,7 +1257,31 @@
       "url": "https://open.spotify.com/track/6eOGEpgBRe2mi6enDgoYfS"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Tribl I",
+        "url": "https://open.spotify.com/album/2uqcxn7xhGvMIx7Kimhmr7"
+      },
+      "artists": [
+        {
+          "name": "Tribl",
+          "url": "https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 403239,
+      "name": "I Love to Sing About It (feat. Cecily)",
+      "url": "https://open.spotify.com/track/4dBAJfnDRI7yYboX9SNmn5"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Venga Tu Reino (Deluxe)",
         "url": "https://open.spotify.com/album/26W3PMfdqy8gG7Tw9rlozA"
@@ -425,7 +1313,123 @@
       "url": "https://open.spotify.com/track/4wnG3jhn8rIFJxHoOw11QE"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Son of a Father",
+        "url": "https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 170986,
+      "name": "Darlin' (Bonus Track)",
+      "url": "https://open.spotify.com/track/64SfsSiiusJg9UIDfunXkA"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "House Of Miracles",
+        "url": "https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Wild For Me",
+      "url": "https://open.spotify.com/track/1ICDhdfQuihQavfcvsBOEX"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "House Of Miracles",
+        "url": "https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 363080,
+      "name": "Son Of Heaven",
+      "url": "https://open.spotify.com/track/0JKThiL2w3UFQ2xigX3SRV"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Intercession (Live)",
+        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 348274,
+      "name": "Let It Fall - Live",
+      "url": "https://open.spotify.com/track/0Ek4F4tQB91pf5ybGQkBn0"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Tribl Nights Atlanta",
+        "url": "https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt"
+      },
+      "artists": [
+        {
+          "name": "Tribl",
+          "url": "https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 735714,
+      "name": "Ways for Me (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/0KIneuN79ousoG5hnjtcvl"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Breathe - EP",
+        "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 639989,
+      "name": "Nothing Left to Prove (feat. Israel Houghton & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/3BoGNV3vmAn6wzdsinNeSn"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Tribl I",
         "url": "https://open.spotify.com/album/2uqcxn7xhGvMIx7Kimhmr7"
@@ -457,7 +1461,27 @@
       "url": "https://open.spotify.com/track/2tXOmh5YlVeOXOrGTxdXaR"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "How To Start A Housefire (Pt. II)",
+        "url": "https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Ahjah Walls",
+          "url": "https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY"
+        }
+      ],
+      "duration_ms": 582426,
+      "name": "Mercy / Tremble",
+      "url": "https://open.spotify.com/track/1Ul65pE6ynBJMowHg4YEAe"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "circles",
         "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
@@ -481,7 +1505,35 @@
       "url": "https://open.spotify.com/track/4H6UpzawRKGi5Ze8FzYOaw"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 230823,
+      "name": "God Don't Make Mistakes (feat. Dante Bowe, Montell Fish & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/7Gm5qTbZOdsCDdRohqoFVB"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Nothing/Something (Live)",
         "url": "https://open.spotify.com/album/6cODaaXVo21jcn2HMEL6yl"
@@ -501,7 +1553,63 @@
       "url": "https://open.spotify.com/track/6OFKf4inSSdrMuggQsx6Zb"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/6e9VWN39GEDn8hcIO7gJj4"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 278058,
+      "name": "It's Okay",
+      "url": "https://open.spotify.com/track/6vjCST4h9U7gIThVSZtCYD"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Don't Talk About It",
+        "url": "https://open.spotify.com/album/3F0I5ooKpjhOJrAaRlPP7Q"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Jesse Cline",
+          "url": "https://open.spotify.com/artist/1FyU9raIv5d9zjJjUgHOW4"
+        }
+      ],
+      "duration_ms": 217999,
+      "name": "Don't Talk About It",
+      "url": "https://open.spotify.com/track/6l0Ygty0TsJf0zmD9kdTXs"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Not Just Stories",
+        "url": "https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO"
+      },
+      "artists": [
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+        }
+      ],
+      "duration_ms": 520383,
+      "name": "Not Just Stories (feat. Aaron Moses)",
+      "url": "https://open.spotify.com/track/17Nk8D3lbtnUZ5qVFRDntv"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
@@ -521,7 +1629,51 @@
       "url": "https://open.spotify.com/track/63fXAgIRYQ0bnTRGRDCjQ6"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 169069,
+      "name": "circles",
+      "url": "https://open.spotify.com/track/4uTuS5lSl8sWzvgTaisrwl"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "You Hold It All Together",
+        "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Eniola Abioye",
+          "url": "https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6"
+        }
+      ],
+      "duration_ms": 289089,
+      "name": "Outro [Remember] (feat. Dante Bowe & Eniola Abioye)",
+      "url": "https://open.spotify.com/track/30gX2RmXyHKsfRsdB2fKSX"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Not Just Stories",
         "url": "https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO"
@@ -541,7 +1693,7 @@
       "url": "https://open.spotify.com/track/43bf58Zo2FdOvkrKzs00vc"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Son of a Father",
         "url": "https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6"
@@ -557,7 +1709,7 @@
       "url": "https://open.spotify.com/track/1NJkQ6638sTlgS6drDS1YW"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
@@ -577,7 +1729,31 @@
       "url": "https://open.spotify.com/track/6pYnwdJkyoRFaTsbkPbxD1"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Osby Berry",
+          "url": "https://open.spotify.com/artist/7lx0wr5ielfxtapVYT8EzX"
+        },
+        {
+          "name": "Nate Moore",
+          "url": "https://open.spotify.com/artist/6hxp9zz5Y5d8Htno5hpk66"
+        }
+      ],
+      "duration_ms": 600861,
+      "name": "Put on Love (feat. Nate Moore & Osby Berry)",
+      "url": "https://open.spotify.com/track/0fXc5sbtiPEx8yCKWraxCh"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Make Yourself at Home",
         "url": "https://open.spotify.com/album/6enPmyaAZOYjCNYfg7Pull"
@@ -593,7 +1769,27 @@
       "url": "https://open.spotify.com/track/6hqztSytdfNun2qhpK2B2X"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Not Just Stories",
+        "url": "https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO"
+      },
+      "artists": [
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Justus Tams",
+          "url": "https://open.spotify.com/artist/2IiwIcF2ugOhgrqg4IH5Vk"
+        }
+      ],
+      "duration_ms": 640007,
+      "name": "Altar (feat. Justus Tams)",
+      "url": "https://open.spotify.com/track/1YBV8n3y13Bg5BoKFe7kw7"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "circles",
         "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
@@ -609,7 +1805,7 @@
       "url": "https://open.spotify.com/track/4ON1IsKkma29GDlB3mxOHO"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Never Be Defeated",
         "url": "https://open.spotify.com/album/1WZVo0Y7oIXSlQhI6rXY0A"
@@ -629,7 +1825,43 @@
       "url": "https://open.spotify.com/track/21xhSlLcH5sV16b6YA2IOU"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Not Just Stories",
+        "url": "https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO"
+      },
+      "artists": [
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 421678,
+      "name": "Journey (feat. Mitch Wong)",
+      "url": "https://open.spotify.com/track/2tG2nzOL2dsQaWZ8ic5xsF"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 191152,
+      "name": "keep going",
+      "url": "https://open.spotify.com/track/6G4ktJZNqIgvZ44QyBHjnx"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Son of a Father",
         "url": "https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6"
@@ -645,7 +1877,99 @@
       "url": "https://open.spotify.com/track/0eRzWtiUEhXOVdiXAXpJRc"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Tribl Nights Atlanta",
+        "url": "https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt"
+      },
+      "artists": [
+        {
+          "name": "Tribl",
+          "url": "https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 530572,
+      "name": "Worthy (Spontaneous) [feat. Dante Bowe]",
+      "url": "https://open.spotify.com/track/7N3RQ53JsW95PzLUcvjS4F"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "all god's children",
+      "url": "https://open.spotify.com/track/1dhb41l8hPEQW7XA9FtXZE"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Worship Medleys",
+        "url": "https://open.spotify.com/album/7N1ho46uf68qsA1yaGsP7M"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "duration_ms": 218592,
+      "name": "Every Worship Song Ever",
+      "url": "https://open.spotify.com/track/587PUyOpjizhIflg4G1nDH"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        }
+      ],
+      "duration_ms": 217793,
+      "name": "over and over",
+      "url": "https://open.spotify.com/track/1eG6thyGmmWInRCTmUO2If"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 358840,
+      "name": "God\u2019s Been Good - Live",
+      "url": "https://open.spotify.com/track/2NvFKpZ6ECBe3wkSfvNS9K"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Son of a Father",
         "url": "https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6"
@@ -661,7 +1985,23 @@
       "url": "https://open.spotify.com/track/7mUhoT53JAHiFbh3wfHVZe"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Son of a Father",
+        "url": "https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "Let My Heart Dance",
+      "url": "https://open.spotify.com/track/6yYOLd0hCWamG8grPlUHQw"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
@@ -677,7 +2017,7 @@
       "url": "https://open.spotify.com/track/7DzqNeU96i94uSQ46hSnFk"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Son of a Father",
         "url": "https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6"
@@ -693,7 +2033,87 @@
       "url": "https://open.spotify.com/track/1YbR4gWmyMSnZJEOKppuIx"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+        }
+      ],
+      "duration_ms": 214121,
+      "name": "I Found You (feat. Dante Bowe & Aaron Moses)",
+      "url": "https://open.spotify.com/track/6rWlOBdYTr4b642nY7dqcy"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "A Reason to Dance (Live)",
+        "url": "https://open.spotify.com/album/5bE6EdmylycgoRzXfPCRAF"
+      },
+      "artists": [
+        {
+          "name": "All Nations Worship Assembly Atlanta",
+          "url": "https://open.spotify.com/artist/4KbJIMQX4cgPen58azB9JA"
+        }
+      ],
+      "duration_ms": 416464,
+      "name": "A Reason to Dance (Live)",
+      "url": "https://open.spotify.com/track/2EhWeDXgzMNM68RKrQDmAs"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 169937,
+      "name": "real kind of love",
+      "url": "https://open.spotify.com/track/6Nu8k5K4fdWoHMxqSB29oE"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Son of a Father",
+        "url": "https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 186486,
+      "name": "You're Beautiful (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/52VQIFX5974rO9MxhnDL2f"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
@@ -713,7 +2133,131 @@
       "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Something To Believe In",
+        "url": "https://open.spotify.com/album/0XZIvYGJOZIrnWiKpBb2Pk"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "The Apartment",
+          "url": "https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/14wxEVv4BL1iUFSzbEKUkD"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Son of a Father",
+        "url": "https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 313088,
+      "name": "It's a Fire (Come)",
+      "url": "https://open.spotify.com/track/4AGP1Cdc64VZpWTxkfHaJQ"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Tribl Nights Anthologies",
+        "url": "https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM"
+      },
+      "artists": [
+        {
+          "name": "Tribl",
+          "url": "https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 487968,
+      "name": "Where Would I Be? (feat. Dante Bowe, Ryan Ofei & Brandon Lake)",
+      "url": "https://open.spotify.com/track/5zocauo5a4DJ01IA47OJGH"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Son of a Father",
+        "url": "https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 244777,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6W2zW8pMHi9UJHhEmzQ6rY"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 184728,
+      "name": "just me",
+      "url": "https://open.spotify.com/track/220nBEjzwdRyr26s6b3u8N"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Just A Man",
+        "url": "https://open.spotify.com/album/2sPScDrk3M7ONCQ3984IVi"
+      },
+      "artists": [
+        {
+          "name": "The Apartment",
+          "url": "https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 216214,
+      "name": "Just A Man",
+      "url": "https://open.spotify.com/track/6QQ7XXL8SziyZhKgbJ0Daa"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "circles",
         "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
@@ -729,7 +2273,39 @@
       "url": "https://open.spotify.com/track/6o8x1CRoW3vTVFjaMMtA2N"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 167223,
+      "name": "good times",
+      "url": "https://open.spotify.com/track/7vUSIRxxec1PKAp0MLZeHT"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Son of a Father",
+        "url": "https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 259363,
+      "name": "Cast My Cares",
+      "url": "https://open.spotify.com/track/0jGFiSskGornBEhfkdmd8R"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "circles",
         "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
@@ -745,7 +2321,59 @@
       "url": "https://open.spotify.com/track/0439v7OUKimyFnxzTZk9Ja"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 205906,
+      "name": "you",
+      "url": "https://open.spotify.com/track/6JyxZPNuwVoDaKwU39u2Oi"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "We Are the Kingdom",
+        "url": "https://open.spotify.com/album/1ZXnvK9vnRdOsbocOM1TGH"
+      },
+      "artists": [
+        {
+          "name": "Seacoast Music",
+          "url": "https://open.spotify.com/artist/2ZButmw5JARacQ68lpJZIc"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 271459,
+      "name": "We Are the Kingdom",
+      "url": "https://open.spotify.com/track/0fwoTobE6n5lxdHUiGhzY7"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Son of a Father",
+        "url": "https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 181899,
+      "name": "Live in You",
+      "url": "https://open.spotify.com/track/46k6y32iFPrDCYBGeFEVIU"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "How To Start A Housefire (Pt. II)",
         "url": "https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk"
@@ -765,7 +2393,23 @@
       "url": "https://open.spotify.com/track/0KoEDTYICyNnNjIh5mYTaJ"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/2PoiGMBNovY8pHHv2CzGk4"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 189528,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2a7FYpY6K2S1cMYFATnXNE"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
@@ -781,7 +2425,7 @@
       "url": "https://open.spotify.com/track/1YgJuNin4wrjCO8YMvpUJx"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Hidden Forest Spicy Trail Mix",
         "url": "https://open.spotify.com/album/2ysDFVeFhf3z4izRgRJROV"
@@ -801,7 +2445,7 @@
       "url": "https://open.spotify.com/track/6gfq9GjvonFnbVqECFEePX"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/3OsuGDfJXeBFUUlYCtkjpq"
@@ -817,7 +2461,91 @@
       "url": "https://open.spotify.com/track/6sem2CC8ZtzgWCDhyw58a2"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "HOLLYWOOD",
+        "url": "https://open.spotify.com/album/1I100uS3CyoeJXEQ10Ioq1"
+      },
+      "artists": [
+        {
+          "name": "The Apartment",
+          "url": "https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Harolddd",
+          "url": "https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V"
+        },
+        {
+          "name": "Siri Worku",
+          "url": "https://open.spotify.com/artist/10pLML8I8JsBxzEY4kmOWQ"
+        }
+      ],
+      "duration_ms": 193281,
+      "name": "HOLLYWOOD",
+      "url": "https://open.spotify.com/track/5DEGPKv1ZOuVsmLewXUCJq"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Selah",
+        "url": "https://open.spotify.com/album/17BYwDcMdfSMhOk9vfsiwy"
+      },
+      "artists": [
+        {
+          "name": "Legado Music",
+          "url": "https://open.spotify.com/artist/6NAa9sLEguLPdExVYn9tSW"
+        }
+      ],
+      "duration_ms": 348623,
+      "name": "Campe\u00f3n",
+      "url": "https://open.spotify.com/track/3f85ozbzhf4wq7Vl7yxid7"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "duration_ms": 187712,
+      "name": "Grace Wouldn't Leave Me",
+      "url": "https://open.spotify.com/track/5uAgnUEeDpECNuGC5U6AyH"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Cold Outside",
+        "url": "https://open.spotify.com/album/7HcdCG3pd2TnJTuJE5HOGB"
+      },
+      "artists": [
+        {
+          "name": "The Apartment",
+          "url": "https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t"
+        }
+      ],
+      "duration_ms": 229548,
+      "name": "Cold Outside",
+      "url": "https://open.spotify.com/track/7DvyZPGqOg41haNQrlPUGO"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Mountains Move",
         "url": "https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J"
@@ -837,7 +2565,167 @@
       "url": "https://open.spotify.com/track/1zy5SRJL5RuM5ygzFXCWDh"
     },
     {
-      "added_at": "2024-06-20 02:10:11",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "The Entreating (Live)",
+        "url": "https://open.spotify.com/album/2DfDPJUfb12Qzt5zMevYPI"
+      },
+      "artists": [
+        {
+          "name": "Benita Jones",
+          "url": "https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S"
+        }
+      ],
+      "duration_ms": 384800,
+      "name": "A Better Word - Live",
+      "url": "https://open.spotify.com/track/1tjXl4VrFghjIUsp6MLHRR"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "In The Light (Live)",
+        "url": "https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl"
+      },
+      "artists": [
+        {
+          "name": "AMEN Music",
+          "url": "https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+        }
+      ],
+      "duration_ms": 701977,
+      "name": "Hero - Live",
+      "url": "https://open.spotify.com/track/4drKB02HQdI49FtImjXSj4"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/142bg9yEm9VVD0l4jVnTDv"
+      },
+      "artists": [
+        {
+          "name": "Ultimate Call",
+          "url": "https://open.spotify.com/artist/7B8LXcfrwtR8RQSCWzZvn1"
+        },
+        {
+          "name": "Jesse Cline",
+          "url": "https://open.spotify.com/artist/1FyU9raIv5d9zjJjUgHOW4"
+        },
+        {
+          "name": "Ashley Brison",
+          "url": "https://open.spotify.com/artist/2QMek8qpETR7ZMBggloXK8"
+        }
+      ],
+      "duration_ms": 375920,
+      "name": "Ravished",
+      "url": "https://open.spotify.com/track/0gOwvS7w9BFNBoTRefI63b"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Mountains Move",
+        "url": "https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J"
+      },
+      "artists": [
+        {
+          "name": "Jesus Co.",
+          "url": "https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1"
+        },
+        {
+          "name": "WorshipMob",
+          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
+        }
+      ],
+      "duration_ms": 209830,
+      "name": "At Any Cost / Nothing Else / Move Your Heart",
+      "url": "https://open.spotify.com/track/358b6vjrMsq0DRkGXD5fQn"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "In The Light (Live)",
+        "url": "https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl"
+      },
+      "artists": [
+        {
+          "name": "AMEN Music",
+          "url": "https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 383436,
+      "name": "Come As You Are - Live",
+      "url": "https://open.spotify.com/track/3ibq5jCLvK0hrMkt9NnyVt"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "In The Light (Live)",
+        "url": "https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl"
+      },
+      "artists": [
+        {
+          "name": "AMEN Music",
+          "url": "https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "duration_ms": 405717,
+      "name": "Redeemer - Live",
+      "url": "https://open.spotify.com/track/0pEevckVxkDL3m5gIQ2GJm"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "In The Light (Live)",
+        "url": "https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl"
+      },
+      "artists": [
+        {
+          "name": "AMEN Music",
+          "url": "https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 952368,
+      "name": "Holy Ghost - Live",
+      "url": "https://open.spotify.com/track/5PGQZRmJjrgyhpELOzvMx5"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Still Faithful",
+        "url": "https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M"
+      },
+      "artists": [
+        {
+          "name": "Christina Bell",
+          "url": "https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0"
+        }
+      ],
+      "duration_ms": 396520,
+      "name": "We Win",
+      "url": "https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Same God / Gratitude",
         "url": "https://open.spotify.com/album/4CSmLNS9eEgBp1umuFIf5X"
@@ -851,6 +2739,26 @@
       "duration_ms": 303790,
       "name": "Same God / Gratitude",
       "url": "https://open.spotify.com/track/64JqwulYn1A0vhK28NbDAE"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Moments (Live)",
+        "url": "https://open.spotify.com/album/1geSpbhN3fFFhDCkkq385b"
+      },
+      "artists": [
+        {
+          "name": "Providence Worship",
+          "url": "https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN"
+        },
+        {
+          "name": "Jordan & Cami Herndon",
+          "url": "https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS"
+        }
+      ],
+      "duration_ms": 646666,
+      "name": "Champion/Gratitude - Live",
+      "url": "https://open.spotify.com/track/4L7EfoJTqBiGJlHde4zncx"
     }
   ],
   "unique_name": "Written By Dante Bowe",

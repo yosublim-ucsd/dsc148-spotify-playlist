@@ -2,7 +2,7 @@
 
 ### [Club Rap ](https://open.spotify.com/playlist/37i9dQZF1DWWY5glQ3K3VV)
 
-> 🔊 canzoni rap da pomparti fino all'alba! 🔊Cover: Lucienn, Salmo
+> 🔊 canzoni rap da pomparti fino all'alba! 🔊Cover: Luciennn, Salmo
 
 245 songs - 12 hr 19 min
 

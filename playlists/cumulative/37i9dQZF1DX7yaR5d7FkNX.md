@@ -2,7 +2,7 @@
 
 ### [Brillas](https://open.spotify.com/playlist/37i9dQZF1DX7yaR5d7FkNX)
 
-> ✨❤️🌹Para Rocanlovers
+> ✨❤️🌹Para Rocanlovers en compañía de Girl Ultra
 
 231 songs - 14 hr 6 min
 

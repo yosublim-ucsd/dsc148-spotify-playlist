@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe?si=T8tc\_gnoT8eALkVMHFMEWA>Sinach</a>
 
-2,886 songs - 8 day 16 hr 24 min
+2,887 songs - 8 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1423,6 +1423,7 @@
 | [Kukhona Amadlelo](https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H) | [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Kukhona Amadlelo](https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8) | 8:29 | 2024-03-29 | 2024-04-12 |
 | [Kumama Papa](https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [Kumama Papa](https://open.spotify.com/album/20GdacZdfLiQbve9FF8Xqu) | 2:37 | 2024-02-16 | 2024-03-01 |
 | [Kundi](https://open.spotify.com/track/7lEbed8bJ3kVRXSv4eJUwW) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Kundi](https://open.spotify.com/album/7kKQg3ltXjslGxkhXEzG5Q) | 3:06 | 2024-02-02 | 2024-02-16 |
+| [Kuyobamnandi \(Ulidwala\) \- Medley](https://open.spotify.com/track/5jOjDBqTw2nwkkGLU5gIpw) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Kuyobamnandi \(Ulidwala\) \[Medley\]](https://open.spotify.com/album/2ATqllwxWwaOuTHeysJL1b) | 3:50 | 2024-06-21 |  |
 | [Kwa Maombi](https://open.spotify.com/track/6vrlnd03PjPB5UGdHJTT14) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Kwa Maombi](https://open.spotify.com/album/6qppeKr28BhCBT464qRsF0) | 2:43 | 2024-04-12 | 2024-04-19 |
 | [Kwa Yesu](https://open.spotify.com/track/2zgITxAOZXWxt1JLAOlYxB) | [Izzo Bizness](https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF) | [Kwa Yesu](https://open.spotify.com/album/0aCIFPSAHCi3hppVF9aTeE) | 3:20 | 2024-03-01 | 2024-03-08 |
 | [Kwechiri](https://open.spotify.com/track/4FaNeqQutyvAiepiCchJ2u) | [Pastor Nonso](https://open.spotify.com/artist/2f0638gUvnuvrLCMsjaXyO) | [Kwechiri](https://open.spotify.com/album/2sd0G4qvsFla9jE4Rnwyrl) | 5:19 | 2023-11-10 | 2023-11-17 |

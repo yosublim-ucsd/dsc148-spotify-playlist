@@ -929,6 +929,24 @@
     },
     {
       "album": {
+        "name": "Maar Udari (Pardes 2.0)",
+        "url": "https://open.spotify.com/album/0ouu1Hv4pKKJnQ3C1keGYS"
+      },
+      "artists": [
+        {
+          "name": "Adnan Dhool",
+          "url": "https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199335,
+      "name": "Maar Udari - Pardes 2.0",
+      "url": "https://open.spotify.com/track/0Ppvk37aQvMlwEGL94ucI7"
+    },
+    {
+      "album": {
         "name": "MAHI // AVAY",
         "url": "https://open.spotify.com/album/2XK1wrUHOGxc1thUePW9w0"
       },

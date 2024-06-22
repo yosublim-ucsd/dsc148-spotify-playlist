@@ -141,6 +141,44 @@
     },
     {
       "album": {
+        "name": "105 West (feat. Ty Dolla $ign, Channel Tres, DJ Quik)",
+        "url": "https://open.spotify.com/album/5hQTxZd5TH93SrtETsFB52"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199632,
+      "name": "105 West (feat. Ty Dolla $ign, Channel Tres & DJ Quik)",
+      "url": "https://open.spotify.com/track/3VvlE7bBzLgEjTLimSIvVl"
+    },
+    {
+      "album": {
         "name": "Days Like This",
         "url": "https://open.spotify.com/album/0HhPoiceZZ8Gvl5KLIjKNP"
       },
@@ -3567,6 +3605,28 @@
     },
     {
       "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/6wXmdw9wqpPOodgytKcV4s"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Crash Out",
+      "url": "https://open.spotify.com/track/1XM7vZZ6mLtNox6Zp8rBaO"
+    },
+    {
+      "album": {
         "name": "NOT HARD 2 UNDERSTAND",
         "url": "https://open.spotify.com/album/1YE3OeReW3UQjBvW3L2eYw"
       },
@@ -4424,7 +4484,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 147586,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/7yZB6fEE2uQdo1TSTCLAtj"
@@ -5946,7 +6006,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 137802,
       "name": "FW YOU",
       "url": "https://open.spotify.com/track/6XkJKeuDMDxq9E4myA7mqA"
@@ -6070,7 +6130,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 169411,
       "name": "Games (feat. 03 Greedo & Bino Rideaux)",
       "url": "https://open.spotify.com/track/3CyMDd2MLUwAa0nQoScVYC"
@@ -6250,7 +6310,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 159582,
       "name": "Gank Move (feat. HitgirlLENA)",
       "url": "https://open.spotify.com/track/2wWG40hblw6shF2ZJUVEaJ"
@@ -7658,6 +7718,24 @@
       "duration_ms": 219542,
       "name": "Hook Mitchell",
       "url": "https://open.spotify.com/track/6CKDa6mKBdGpllS72Bpj5V"
+    },
+    {
+      "album": {
+        "name": "Hotboiiz",
+        "url": "https://open.spotify.com/album/3N2hhAq5aLo1X5QV1p2HGY"
+      },
+      "artists": [
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141935,
+      "name": "Hotboiiz",
+      "url": "https://open.spotify.com/track/4RGjfvSTa4Vlu73Nxk9bsL"
     },
     {
       "album": {
@@ -10344,7 +10422,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 125063,
       "name": "MONEY, CARS & GUNS",
       "url": "https://open.spotify.com/track/52Tsu5tIG9hqex7aq6sKNS"
@@ -12417,6 +12495,28 @@
     },
     {
       "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175321,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
+    },
+    {
+      "album": {
         "name": "Party Roccin",
         "url": "https://open.spotify.com/album/0fjOjmZkqlmU5vppIb9OYa"
       },
@@ -13502,7 +13602,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 223189,
       "name": "Risk Taker",
       "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
@@ -14006,6 +14106,24 @@
       "duration_ms": 229841,
       "name": "Scroll (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/2C0fcDxtgH09UISZLvIyqw"
+    },
+    {
+      "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/7weFr7PMqNzfFbvyp2od5o"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120973,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/0n1HZntJwa0YJIRsthWrB3"
     },
     {
       "album": {
@@ -14841,6 +14959,28 @@
     },
     {
       "album": {
+        "name": "SPILL",
+        "url": "https://open.spotify.com/album/4SheGFYgqo3qMSMaqLV2MR"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Don Cannon",
+          "url": "https://open.spotify.com/artist/0jE9L2jmYpWwthSocLCILD"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262909,
+      "name": "SPILL",
+      "url": "https://open.spotify.com/track/1IyMhF5MmEzKDfRSt4qpot"
+    },
+    {
+      "album": {
         "name": "Sir CEO",
         "url": "https://open.spotify.com/album/4xYZJKqkjGcg7Od5GFalnx"
       },
@@ -15168,7 +15308,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 178285,
       "name": "Stomp",
       "url": "https://open.spotify.com/track/3qeypTSmgLsrqLemlLecK6"
@@ -16723,6 +16863,28 @@
     },
     {
       "album": {
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/4JnlqGdsDfELZDv4Ksa4pJ"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135766,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/4LyJyZpmfpDTAfF2E0gWHF"
+    },
+    {
+      "album": {
         "name": "Underrated",
         "url": "https://open.spotify.com/album/4ENTdxCVdDwfNw2c9TVvUW"
       },
@@ -16924,7 +17086,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 152653,
       "name": "URRRGE!!!!!!!!!! (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/0mxMMetknt24PVQxAHwXAZ"
@@ -17481,6 +17643,28 @@
     },
     {
       "album": {
+        "name": "Whole Head",
+        "url": "https://open.spotify.com/album/2ylMhg2weVErP87gSJevz7"
+      },
+      "artists": [
+        {
+          "name": "RJMrLA",
+          "url": "https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN"
+        },
+        {
+          "name": "Siete7x",
+          "url": "https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "Whole Head",
+      "url": "https://open.spotify.com/track/7poIzOeEECievA0UBbz2tZ"
+    },
+    {
+      "album": {
         "name": "Free Blueface",
         "url": "https://open.spotify.com/album/4EweJqbgiOGIzI2B0hDnsE"
       },
@@ -17612,10 +17796,36 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 113418,
       "name": "Wop It",
       "url": "https://open.spotify.com/track/5SEZPSDFLBLXtd1wBUChmn"
+    },
+    {
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/2UyogKVq8SYD2OBXZo6fdG"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135861,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/0qtj507DWXEbfJpIxAMtB9"
     },
     {
       "album": {

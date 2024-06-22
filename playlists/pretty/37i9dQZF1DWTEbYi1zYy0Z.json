@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
-  "num_followers": 63398,
+  "num_followers": 63411,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmvAQAAAAAChBuZXbm+dodzI7b09YSe3",
+  "snapshot_id": "ZnT6wAAAAADKu+2BM4Xo/zM01kHtIxvZ",
   "tracks": [
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Dream Maker",
+        "url": "https://open.spotify.com/album/2KQxEMbI2vReIpBtTZDYAp"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 253440,
+      "name": "Dream Maker",
+      "url": "https://open.spotify.com/track/2qoRdks21e71gFc9zVBSHt"
+    },
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
@@ -1411,26 +1427,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Table For 2",
-        "url": "https://open.spotify.com/album/7gS9XSpN1iOHyF2qd8y7bM"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Cole",
-          "url": "https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco"
-        },
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 278895,
-      "name": "Table For 2",
-      "url": "https://open.spotify.com/track/5NFi6NV8fTOPg8BF6aWq7M"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Nico\u2019s Groove",
         "url": "https://open.spotify.com/album/2QxxlPUxcATya406iG9izA"
       },
@@ -1543,22 +1539,6 @@
       "duration_ms": 255268,
       "name": "Light Within (feat. LaShawn D. Gary and Dave McMurray)",
       "url": "https://open.spotify.com/track/3v0OEwQsVjR5Rx2ESj5dSk"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Deep Dive",
-        "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 245925,
-      "name": "Deep Dive",
-      "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
     },
     {
       "added_at": "2023-05-19 04:01:00",

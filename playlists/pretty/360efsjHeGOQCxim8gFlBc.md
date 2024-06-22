@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 24 | [A Day Of Ponder](https://open.spotify.com/track/5cJlamcOnUOs9Dg2qdd8Jq) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [A Day Of Ponder](https://open.spotify.com/album/0EUtp2vfc9ayvo5NcYxe0R) | 2:16 |
 | 25 | [Drudgery](https://open.spotify.com/track/6KrEGDxuLP6gFGjzQmtV5e) | [ForestLVL](https://open.spotify.com/artist/7fpGNSOcZS9F3788ssf5ow) | [Drudgery](https://open.spotify.com/album/4lzfezhTUx3zq9kUKOX8Pu) | 3:30 |
 | 26 | [Uhre Kirke](https://open.spotify.com/track/0aAXobe9TRTIzy54tuuSth) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Uhre Kirke](https://open.spotify.com/album/677gcmWTyohc3Oe5gZQjNd) | 3:35 |
-| 27 | [Amor tumbado](https://open.spotify.com/track/53LLSL26TFyQJDf26l2q97) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Amor tumbado](https://open.spotify.com/album/0rGjviVrRtYxlBFjfAbU0y) | 3:23 |
+| 27 | [Amor tumbado](https://open.spotify.com/track/10rR0kUsYI8XkXpRvOtxjD) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Amor tumbado](https://open.spotify.com/album/4qufmSCq3zhm1KaWsOlK8m) | 3:23 |
 | 28 | [As It Was \(Piano Version\)](https://open.spotify.com/track/5H8qAeA04uTyHv0vpeSadp) | [Hiki](https://open.spotify.com/artist/20qqzVa018cvVt0IyqYFqn) | [As It Was \(Piano Version\)](https://open.spotify.com/album/402BVU2hPJfSUmzKEEWwJD) | 1:22 |
 | 29 | [vacations](https://open.spotify.com/track/0CW0cGqmjov85XjV4RV7J9) | [Spoony](https://open.spotify.com/artist/6YsfitLMc1v2XJ3So7d3gE) | [vacations](https://open.spotify.com/album/6bsPOUiaz0pT9P7stU52mD) | 2:17 |
 | 30 | [Maybe Someday](https://open.spotify.com/track/24hYI8nalNVmN47IbI1qYW) | [Jakub Szybiak](https://open.spotify.com/artist/4kz7NgN823IKxhhOv08WQg) | [Maybe Someday](https://open.spotify.com/album/1BCTpdlGVecCAS3BwaK77I) | 2:22 |
@@ -252,4 +252,4 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 242 | [Secret Island Story \(Piano\)](https://open.spotify.com/track/4zyPQPc9nEcJsCw1dQu1mR) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact Relaxing Beside Bed Collection](https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3) | 2:09 |
 | 243 | [The Soul](https://open.spotify.com/track/4bb9ZHJFbG7LXz6byYoLFe) | [David Redding](https://open.spotify.com/artist/5FRnsphqNLrZB0XuzdSx4H) | [The Soul](https://open.spotify.com/album/2sNud9Y15tXDXNdbRP85tl) | 2:57 |
 
-Snapshot ID: `AAAEdmPBzkAhtzyYSEQnR4WzgiVDkXme`
+Snapshot ID: `AAAEfTVmkZBS4ENLPPeKvfeS2JuDy6nv`

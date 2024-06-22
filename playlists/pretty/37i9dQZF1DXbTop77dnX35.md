@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Victony, Rema, Asake, Black Sherif and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,683 likes - 57 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,206 likes - 58 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,17 +53,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 43 | [Life of the Party](https://open.spotify.com/track/6IXtDuGeMBFnIhGmpG6rgG) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Life of the Party](https://open.spotify.com/album/787uiWY99Ok0uopmJLFLX6) | 2:10 |
 | 44 | [Balanciego](https://open.spotify.com/track/1o6fCeuvjJQEXNoDb3kuMI) | [Verchi](https://open.spotify.com/artist/1UWuKmI4QNLBfPTJeVVqU2) | [Balanciego](https://open.spotify.com/album/5DocE7Xgvkyx4pyLLND5Kl) | 2:35 |
 | 45 | [Une histoire](https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Nazaland](https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc) | 2:53 |
-| 46 | [Love Game](https://open.spotify.com/track/1t43A2SrVfO5rMLwwVuoYM) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Love Game](https://open.spotify.com/album/3GP7Wd3HJivgATV7JEcfqm) | 3:29 |
-| 47 | [Champagne Boi](https://open.spotify.com/track/0cFx3LQOHY5dDIxGAFBdBq) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Menace to Society](https://open.spotify.com/album/4vsKGGUiavlDYGsJzggawj) | 2:49 |
-| 48 | [Ja Mi Ja](https://open.spotify.com/track/5j3edLEUYex5G56o4ABTid) | [VAR1](https://open.spotify.com/artist/05TqhaJ6y6uMmhzX8TDikY), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [THE BREAKFAST CLUB](https://open.spotify.com/album/5fztqrblFzXP9pdJQf16oZ) | 2:18 |
-| 49 | [Into The Water](https://open.spotify.com/track/6rB4NvhTRyQWzLzFHliwJz) | [Takara](https://open.spotify.com/artist/0s4pACwkFS6Zo2zKs0YpYx), [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Moondust](https://open.spotify.com/album/3h5aVfuYodkltak1ToOinp) | 3:33 |
-| 50 | [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/7kqlFgn7tqLufAULiv8kJE) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 |
-| 51 | [Billiki \- remix](https://open.spotify.com/track/54zHwBEGGG1k5ndsMzDbuW) | [Justina Lee Brown](https://open.spotify.com/artist/1yDOBOX7Q9i9MrFLZgh046) | [BILLIKI EP](https://open.spotify.com/album/4B8neKJWOFj40IXDqAl4nn) | 4:21 |
-| 52 | [What You About](https://open.spotify.com/track/3D4gQVbo72x0SEke0DMGJo) | [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Axgxst](https://open.spotify.com/artist/50GQH8uhvHhH5OdNc676NH) | [What](https://open.spotify.com/album/2A79r6fPs06CKRwbaGCHYV) | 2:58 |
-| 53 | [Atsha](https://open.spotify.com/track/0vKZw2SGfgDZwXhOEqwPwU) | [Hugo Kafumbi](https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te) | [Atsha](https://open.spotify.com/album/1I0N8RHSkhfiTce2OxoLmD) | 2:14 |
-| 54 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
-| 55 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 |
-| 56 | [Ego Slide](https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Ego Slide](https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk) | 3:38 |
-| 57 | [Wake Up](https://open.spotify.com/track/2wQhuufN2P1q0LL2byheM0) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Something/Someone New](https://open.spotify.com/album/0bLdHBQVNi8Cv9jQMMVmPq) | 2:26 |
+| 46 | [Matters To Me](https://open.spotify.com/track/0rAoahjILdVLd7JiF2GGFV) | [Jonathan May](https://open.spotify.com/artist/3T4VUy3b6j4k7Xuvu5t6mk), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Matters To Me](https://open.spotify.com/album/6nDq0eSPhbgqH6tpvlHlbd) | 3:05 |
+| 47 | [Love Game](https://open.spotify.com/track/1t43A2SrVfO5rMLwwVuoYM) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Love Game](https://open.spotify.com/album/3GP7Wd3HJivgATV7JEcfqm) | 3:29 |
+| 48 | [Champagne Boi](https://open.spotify.com/track/0cFx3LQOHY5dDIxGAFBdBq) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Menace to Society](https://open.spotify.com/album/4vsKGGUiavlDYGsJzggawj) | 2:49 |
+| 49 | [Ja Mi Ja](https://open.spotify.com/track/5j3edLEUYex5G56o4ABTid) | [VAR1](https://open.spotify.com/artist/05TqhaJ6y6uMmhzX8TDikY), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [THE BREAKFAST CLUB](https://open.spotify.com/album/5fztqrblFzXP9pdJQf16oZ) | 2:18 |
+| 50 | [Into The Water](https://open.spotify.com/track/6rB4NvhTRyQWzLzFHliwJz) | [Takara](https://open.spotify.com/artist/0s4pACwkFS6Zo2zKs0YpYx), [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Moondust](https://open.spotify.com/album/3h5aVfuYodkltak1ToOinp) | 3:33 |
+| 51 | [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/7kqlFgn7tqLufAULiv8kJE) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 |
+| 52 | [Billiki \- remix](https://open.spotify.com/track/54zHwBEGGG1k5ndsMzDbuW) | [Justina Lee Brown](https://open.spotify.com/artist/1yDOBOX7Q9i9MrFLZgh046) | [BILLIKI EP](https://open.spotify.com/album/4B8neKJWOFj40IXDqAl4nn) | 4:21 |
+| 53 | [What You About](https://open.spotify.com/track/3D4gQVbo72x0SEke0DMGJo) | [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Axgxst](https://open.spotify.com/artist/50GQH8uhvHhH5OdNc676NH) | [What](https://open.spotify.com/album/2A79r6fPs06CKRwbaGCHYV) | 2:58 |
+| 54 | [Atsha](https://open.spotify.com/track/0vKZw2SGfgDZwXhOEqwPwU) | [Hugo Kafumbi](https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te) | [Atsha](https://open.spotify.com/album/1I0N8RHSkhfiTce2OxoLmD) | 2:14 |
+| 55 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
+| 56 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 |
+| 57 | [Ego Slide](https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Ego Slide](https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk) | 3:38 |
+| 58 | [Wake Up](https://open.spotify.com/track/2wQhuufN2P1q0LL2byheM0) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Something/Someone New](https://open.spotify.com/album/0bLdHBQVNi8Cv9jQMMVmPq) | 2:26 |
 
 Snapshot ID: `ZnTCvAAAAABUyGTb8UcJd8W1gDCC4wt9`

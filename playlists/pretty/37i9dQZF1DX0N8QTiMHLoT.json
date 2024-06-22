@@ -1,13 +1,37 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 145000,
+  "num_followers": 145042,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZaDHjAAAAAC3X+XTm5wVIcA4WKUN15RR",
+  "snapshot_id": "ZnT6wAAAAABxaq6YLkkkoRUFAPXbLquG",
   "tracks": [
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Funk Fusion",
+        "url": "https://open.spotify.com/album/6cSZ2PhbuG5Hj2EzHOmSrl"
+      },
+      "artists": [
+        {
+          "name": "Slap Is Dead",
+          "url": "https://open.spotify.com/artist/0djoepZSsGEsiTooG20j88"
+        },
+        {
+          "name": "Pi Effe Productions",
+          "url": "https://open.spotify.com/artist/3DePPnNE0POSSBwl2vqrSR"
+        },
+        {
+          "name": "Yuta Kondo",
+          "url": "https://open.spotify.com/artist/09Zbt5LbOCiwF8dUsISbrw"
+        }
+      ],
+      "duration_ms": 207327,
+      "name": "Funk Fusion",
+      "url": "https://open.spotify.com/track/0qpya6yn4lYcTik9y2plkh"
+    },
     {
       "added_at": "2023-11-27 23:32:24",
       "album": {

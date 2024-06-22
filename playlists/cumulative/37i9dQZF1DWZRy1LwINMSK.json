@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Big Glocks",
+        "url": "https://open.spotify.com/album/6U9wHzw31rbF5DJF4P0kiT"
+      },
+      "artists": [
+        {
+          "name": "Il Nene De Oro",
+          "url": "https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209647,
+      "name": "Big Glocks",
+      "url": "https://open.spotify.com/track/7i8NO4HHq8bWEYXrU6tmYM"
+    },
+    {
+      "album": {
         "name": "Blue V2",
         "url": "https://open.spotify.com/album/3VNVRVg1cYW4U7wIB03o7P"
       },
@@ -841,6 +859,36 @@
     },
     {
       "album": {
+        "name": "CLAP",
+        "url": "https://open.spotify.com/album/7djt3Er4AULCNXTFlgnYrk"
+      },
+      "artists": [
+        {
+          "name": "JulianoChieff",
+          "url": "https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Il Nene De Oro",
+          "url": "https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T"
+        },
+        {
+          "name": "Savage Bright",
+          "url": "https://open.spotify.com/artist/6BrFszfIlVIvrox20vz3uQ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165953,
+      "name": "CLAP",
+      "url": "https://open.spotify.com/track/0WF17ZUQCLX2eIgq99bIUe"
+    },
+    {
+      "album": {
         "name": "Como Lo So\u00f1amos",
         "url": "https://open.spotify.com/album/13fkbJw2bElBpM00Em4AgW"
       },
@@ -984,7 +1032,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 195615,
       "name": "Death Row",
       "url": "https://open.spotify.com/track/41RaYCqOHnXyOMLmU0J87O"
@@ -1976,7 +2024,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 176678,
       "name": "Intuici\u00f3n",
       "url": "https://open.spotify.com/track/2W5Wn1uCzCe198G4YQCFYc"
@@ -2526,7 +2574,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 144466,
       "name": "MaMa",
       "url": "https://open.spotify.com/track/36AOJ35vNMNlWw9OWpwmKe"

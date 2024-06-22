@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Indian 2
 
-1,338 songs - 3 day 9 hr 48 min
+1,339 songs - 3 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1074,6 +1074,7 @@
 | [Thaaye Thaaye \(From "Maharaja"\)](https://open.spotify.com/track/1yT8EMQ2IdJns8FayxkVhm) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Thaaye Thaaye \(From "Maharaja"\)](https://open.spotify.com/album/4riE4oROIKqJ9dpdjrhDIs) | 3:08 | 2024-06-10 |  |
 | [Thadai Udayatha](https://open.spotify.com/track/084H83wKEA59rKfa31qT56) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Poikkal Kuthirai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YVCRMdqLGIF0lIQYs7Bwx) | 3:53 | 2022-08-04 | 2022-08-11 |
 | [Thaensudare \- From "Lover"](https://open.spotify.com/track/6sGhpvvg6vK31bj0Ji6p2f) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Thaensudare \(From "Lover"\)](https://open.spotify.com/album/3Q8R41zIvwYPNoWjOAz4yi) | 3:36 | 2024-01-17 | 2024-02-24 |
+| [Thai Thai \- Rasavathi Fusion \(From "Rasavathi"\)](https://open.spotify.com/track/7HE2qxaYXEBmuW6FBq5uGZ) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Roshini](https://open.spotify.com/artist/4ZWAzDyWt9NdjhvZvTaM5U) | [Rasavathi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SNOozMnSdx9H6i9zp2Woh) | 4:09 | 2024-06-21 |  |
 | [Thala Forever \- Whistle for Dhoni](https://open.spotify.com/track/3ksNJELawyxwq4fLdKTPcV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Narendar Sankar](https://open.spotify.com/artist/2sHlh9GXbnnLWMLKT3RqPG), [Arish](https://open.spotify.com/artist/4Rdq83q6jEyKm1d93sMHqX) | [Thala Forever \- Whistle for Dhoni](https://open.spotify.com/album/2ZQjEJaQHe2opILdX8eHik) | 3:28 | 2024-04-12 |  |
 | [Thalaimaganey](https://open.spotify.com/track/1MX1LngPqGPTm94umi5zEQ) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Swasthika Swaminathan](https://open.spotify.com/artist/6igchCiRtcOLefFuwY2gLL) | [Kaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6N45ZpLq22cKZQmpDfdVkw) | 2:36 | 2022-07-01 | 2022-07-08 |
 | [Thalavali \(From " DeAr"\)](https://open.spotify.com/track/7E2BJk4nCXtjVAtONGFZIf) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Vinnulaga Kavi](https://open.spotify.com/artist/3Zd7kXxF13mdKLz4ocMHkQ) | [Thalavali \(From " Dear"\)](https://open.spotify.com/album/5m7RaFytmG0lyrAABorJdT) | 3:58 | 2024-02-20 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Krackerr & Srishti Jaiswal",
+  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Nit-C",
   "name": "Hip-Hop Haryanvi",
   "tracks": [
     {
@@ -2639,6 +2639,28 @@
     },
     {
       "album": {
+        "name": "Janwar",
+        "url": "https://open.spotify.com/album/0AgJQl6pnPqJTMr8zKf5UN"
+      },
+      "artists": [
+        {
+          "name": "Mirak",
+          "url": "https://open.spotify.com/artist/0sWjFQRenBeAbkctoC2fOy"
+        },
+        {
+          "name": "bigSsmoke",
+          "url": "https://open.spotify.com/artist/34Bpp4X7GpUpJ8sGhE0lxz"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Janwar",
+      "url": "https://open.spotify.com/track/19qHGwAdRGB4NqP4qZ0LzD"
+    },
+    {
+      "album": {
         "name": "Jat Clan",
         "url": "https://open.spotify.com/album/2cECaJoVrV5asZxWHDzDPa"
       },
@@ -3512,7 +3534,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 194400,
       "name": "No Fake",
       "url": "https://open.spotify.com/track/6g9O3FKotfjT9rxqgNOTi2"

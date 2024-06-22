@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: KAYTRANADA
 
-481 songs - 1 day 3 hr 46 min
+482 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Fleurs](https://open.spotify.com/track/6J4sn4PN9POF1TeZiE77w2) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Fleurs](https://open.spotify.com/album/1QX130cPvTixh689vkCWo4) | 2:58 | 2022-03-25 | 2022-04-16 |
 | [Flying Away](https://open.spotify.com/track/3bszv09KHptpoVP6yDN2wv) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [Flying Away](https://open.spotify.com/album/3klMx33nQECUneOjwk9lc5) | 2:34 | 2024-05-24 |  |
 | [Follow](https://open.spotify.com/track/7KxeibFn8Nammh6i9cDD7j) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [CIEL](https://open.spotify.com/album/0e4POgMcYBEFomuUoE2uq6) | 4:22 | 2022-03-25 | 2022-04-09 |
+| [FORWARD](https://open.spotify.com/track/2AtqMDCqSwoOQ5o3GUaDVi) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [FORWARD](https://open.spotify.com/album/5gJpekKKyYNE1VES2fbb0c) | 2:19 | 2024-06-21 |  |
 | [Forêt magique](https://open.spotify.com/track/4gRW12zxJsHytn79RWCTbN) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [Forêt magique](https://open.spotify.com/album/3aB7pHJvc97G9BXGkdrONv) | 3:18 | 2022-09-09 | 2023-01-21 |
 | [Free Grillz](https://open.spotify.com/track/60YGUQOa2e5BwtDgfltZvQ) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Free Grillz](https://open.spotify.com/album/4Lagndmtb3CdC01wU12E1k) | 2:17 | 2022-03-25 | 2022-04-29 |
 | [Fuel](https://open.spotify.com/track/4QeienZEwF2dZ09pIvDllc) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Fuel](https://open.spotify.com/album/5qSAmaMFLK5Cu8TliExrhe) | 2:12 | 2022-09-16 | 2022-11-26 |
@@ -301,7 +302,7 @@
 | [No No No](https://open.spotify.com/track/1zhw7Isr1B4UdYUrALHXhJ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:00 | 2022-04-29 | 2022-08-27 |
 | [Nobody Like You](https://open.spotify.com/track/75hkmDfQpal4gNgfXKYGrh) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Nobody Like You](https://open.spotify.com/album/5nSjlnmqS7H39KrFuqvVHi) | 2:03 | 2022-03-25 | 2022-07-23 |
 | [Not Ideal](https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Not Ideal](https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc) | 3:23 | 2022-11-11 | 2024-01-06 |
-| [Nothing Left \(Lonely Song\)](https://open.spotify.com/track/3Fs8IAImTJ1Igtr8YDTeUO) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Nothing Left \(Lonely Song\)](https://open.spotify.com/album/43LrTSzFvVUX4fcZT4IeDP) | 3:27 | 2023-04-21 |  |
+| [Nothing Left \(Lonely Song\)](https://open.spotify.com/track/3Fs8IAImTJ1Igtr8YDTeUO) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Nothing Left \(Lonely Song\)](https://open.spotify.com/album/43LrTSzFvVUX4fcZT4IeDP) | 3:27 | 2023-04-21 | 2024-06-22 |
 | [Nothing Less, Nothing More](https://open.spotify.com/track/6GYsooXBA2y4ICjPgCPE4k) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Run up River](https://open.spotify.com/album/3HXVfCJIxqcphgtwxSMvtd) | 4:19 | 2022-03-25 | 2022-04-16 |
 | [Nue](https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6) | [Paupière](https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq) | [Sade Sati \(Deluxe\)](https://open.spotify.com/album/3PXo9tdk59o5O8VHJcrR6K) | 3:28 | 2023-09-15 | 2023-10-28 |
 | [Nue](https://open.spotify.com/track/7wI0SPXLQ7sUFfIJ7PkLxk) | [Paupière](https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq) | [Sade Sati Deluxe](https://open.spotify.com/album/4tkmcZ4KlP5bSM64k5xFUf) | 3:28 | 2022-09-16 | 2023-09-16 |

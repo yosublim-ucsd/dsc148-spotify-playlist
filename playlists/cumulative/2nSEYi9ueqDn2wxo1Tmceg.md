@@ -2,7 +2,7 @@
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu?si=h6gIDNzNR06HcGlhhO4tEw">Avey Tare</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K?si=w8bfuFXaS8up2\_BtCVV3zw">One True Pairing</a>
 
 953 songs - 2 day 17 hr 46 min
 

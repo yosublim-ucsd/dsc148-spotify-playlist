@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 ### [República Dembow](https://open.spotify.com/playlist/37i9dQZF1DWU3iv5mH3inV)
 
-> El Dembow que está subiendo\. Foto: Chimbala
+> El Dembow que está subiendo\. Foto: La Perversa
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,164 likes - 75 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,341 likes - 75 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Che Che](https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Che Che](https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS) | 2:20 |
-| 2 | [Sin Panty \- Remix](https://open.spotify.com/track/7CYa61jc7fo6VJix8oXgU9) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sin Panty \(Remix\)](https://open.spotify.com/album/129dtBNyDMVjuTLn6GaNa5) | 2:14 |
-| 3 | [Hoy Si](https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Hoy Si](https://open.spotify.com/album/0mjCzgtlh0uduQTNKLeqBs) | 2:04 |
+| 2 | [Hoy Si](https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Hoy Si](https://open.spotify.com/album/0mjCzgtlh0uduQTNKLeqBs) | 2:04 |
+| 3 | [Sin Panty \- Remix](https://open.spotify.com/track/7CYa61jc7fo6VJix8oXgU9) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sin Panty \(Remix\)](https://open.spotify.com/album/129dtBNyDMVjuTLn6GaNa5) | 2:14 |
 | 4 | [HAY LUPITA](https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM) | 1:45 |
 | 5 | [La Popola](https://open.spotify.com/track/1NovWvRdUecEaEpdRInWka) | [Oliwi](https://open.spotify.com/artist/6ozK3vgRIbMStCqHrNOGlu), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Afro Nigga](https://open.spotify.com/artist/1Tg94XXFoMEZvT2ezxPZbQ), [Fei](https://open.spotify.com/artist/12nbwudI19m47N4B4qBfp1) | [La Popola](https://open.spotify.com/album/0IIu6hX9lJSWgCXg8eRKEj) | 2:33 |
 | 6 | [Flow Sexy](https://open.spotify.com/track/1aaNLFSkrqqM6KtBFjS2Hj) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Flow Sexy](https://open.spotify.com/album/78HK77TtSPMxqAi6yH6jOP) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 74 | [Se No Gaste](https://open.spotify.com/track/0R8B8WYvdLLUXrtNDL11Wb) | [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi), [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET) | [Se No Gaste](https://open.spotify.com/album/6pLgfLFzMy8RgnT5IZgUmF) | 2:00 |
 | 75 | [Mala De Verdad \(Tik Tak\)](https://open.spotify.com/track/4Q8gwcvgyDo1dbxxETrsYE) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Mala De Verdad \(Tik Tak\)](https://open.spotify.com/album/7K70x95rpKdWPWaVDxdRZF) | 2:37 |
 
-Snapshot ID: `ZnOBjAAAAACqZ9CM6cL9sFHAmfLd5k5t`
+Snapshot ID: `ZnXxBwAAAAACBe488m2k4JAJY0Gg7kUS`

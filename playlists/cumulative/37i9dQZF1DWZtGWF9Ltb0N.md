@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-615 songs - 1 day 19 hr 4 min
+617 songs - 1 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [5am](https://open.spotify.com/track/30YPuv3OTF7XzAeLt07WS9) | [Chediak](https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK), [Crosstalk](https://open.spotify.com/artist/6xS8ncgjhNBXYqKDgOLKBq) | [5am](https://open.spotify.com/album/1pHtHpjyNOmVogfzX35T0D) | 1:52 | 2024-03-01 |  |
 | [Abandon](https://open.spotify.com/track/3RvUGLlLgNyzFvmj1JnrYU) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Sweetheart EP](https://open.spotify.com/album/2fNA6vsduau3pyqjzNQsmX) | 5:11 | 2022-06-10 | 2023-01-14 |
 | [Abattoir](https://open.spotify.com/track/2PUBfBWV7FUM3tFqt28pO7) | [Kahn](https://open.spotify.com/artist/6X0Kd3L9wHWDzWU7cOgjW3) | [Abattoir](https://open.spotify.com/album/2b1HN0avZHrA8vNL0vP1Gw) | 5:05 | 2022-02-17 | 2022-05-25 |
-| [Abysmal](https://open.spotify.com/track/3HfFxA3eIa6xGKVWf2vWwH) | [MeSo](https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe) | [Abysmal](https://open.spotify.com/album/3Fdm4krmXr4KklpHxCl4F6) | 3:04 | 2024-05-24 |  |
+| [Abysmal](https://open.spotify.com/track/3HfFxA3eIa6xGKVWf2vWwH) | [MeSo](https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe) | [Abysmal](https://open.spotify.com/album/3Fdm4krmXr4KklpHxCl4F6) | 3:04 | 2024-05-24 | 2024-06-22 |
 | [Access Denied](https://open.spotify.com/track/6loZlhKSbCJLZL6ruqzKMx) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Dingle Bat EP](https://open.spotify.com/album/4LKNlia9PbegWDfHKXE8wo) | 3:14 | 2023-03-10 |  |
 | [Accuracy](https://open.spotify.com/track/5rGtVYFXJPD3YcsMtyfEYP) | [Bunzer0](https://open.spotify.com/artist/7JkiA7yMXj4IHiST0UG1wy) | [We Are Not Looking For Accuracy EP](https://open.spotify.com/album/1t81UiEP5MihnQMViaT1Ut) | 4:40 | 2022-02-17 | 2022-04-09 |
 | [Afterlife](https://open.spotify.com/track/2uX9JzpZxul4FNnk87z1zQ) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [Afterlife](https://open.spotify.com/album/5x2pZCBJeC8XPXdex5MSsu) | 4:44 | 2022-07-01 | 2024-02-10 |
@@ -173,6 +173,7 @@
 | [Far Away](https://open.spotify.com/track/2tA7U8NrJwkZsReqx9OSBD) | [Ravenscoon](https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ) | [HEART](https://open.spotify.com/album/1wuT5qplvTKGVzHNGaCFiU) | 4:20 | 2023-09-29 | 2024-01-18 |
 | [Fatal \(Mortal Kombat 1\)](https://open.spotify.com/track/6sHsemX0bfvhZd2p2ZnnP2) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Fatal \(Mortal Kombat 1\)](https://open.spotify.com/album/5cr5pHpbw6dz3yQuCEFBIV) | 4:11 | 2023-06-09 |  |
 | [FATE](https://open.spotify.com/track/0pCU13PjrLBP9cC1AsqHQS) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [FROM DARKNESS](https://open.spotify.com/album/6bT6Jab0G44yTVuKSNthvc) | 4:48 | 2024-05-31 |  |
+| [Fearless](https://open.spotify.com/track/5GJszyjsdTvv8eFWFTR9ir) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Fearless](https://open.spotify.com/album/2NWFcWy8nsgEoUBGbufr4X) | 3:12 | 2024-06-21 |  |
 | [Feel the Flow](https://open.spotify.com/track/2Ga80VZu5whhyvUIdpVrXv) | [Oddkut](https://open.spotify.com/artist/45ME91Qyv7XQQk0SBaSxgQ) | [Outside](https://open.spotify.com/album/39iB005ObCj7G7YejBPZJD) | 4:00 | 2023-02-17 | 2023-03-16 |
 | [Fever](https://open.spotify.com/track/67adVknti3PYlf3nm6A9RT) | [Bentronix](https://open.spotify.com/artist/1eG7iy8cMeHYE0y9pj9x1H) | [The Haze EP](https://open.spotify.com/album/5HuJ8sZ5IvWePFov2dsVnu) | 3:46 | 2022-02-17 | 2022-07-29 |
 | [Finality](https://open.spotify.com/track/1Lpt1GZWUcibnxgXoGTmfW) | [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2), [Lumen](https://open.spotify.com/artist/1JM1n7fWKg7BYuZjhV9FWR), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [Finality](https://open.spotify.com/album/4uMH7mASCdwTSSMhol9jgh) | 6:08 | 2024-03-01 |  |
@@ -234,6 +235,7 @@
 | [Hooligan Dub](https://open.spotify.com/track/14oca9GVPkVgyvV1Mjhj5c) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [Eesti Dubstep, Vol\. 4](https://open.spotify.com/album/5G5LWDNRhZoyK8yUeOm46K) | 4:11 | 2022-02-17 |  |
 | [Hot Head](https://open.spotify.com/track/1qJwPyvZGsr0sihvgAT25y) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Gutter Riddim / Hot Head](https://open.spotify.com/album/0eIjQVqOOIPELKPDKAjDd6) | 3:43 | 2022-02-17 | 2022-07-28 |
 | [Hot Head](https://open.spotify.com/track/4MXUdrjlh0TnIrvB3zSkIc) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Gutter Riddim / Hot Head](https://open.spotify.com/album/2QXWlAO8eMlN5mJ0eRRsQL) | 3:43 | 2022-07-08 | 2023-01-14 |
+| [Hush](https://open.spotify.com/track/6AlfGbQ59wwGyt2VmbjnZF) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Alexis B](https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec) | [Hush](https://open.spotify.com/album/44izydeupjKkWEGoytnwWH) | 2:03 | 2024-06-21 |  |
 | [HUSH](https://open.spotify.com/track/25leIaVDdC2lgJC1RAkNaS) | [Forrest Taylor](https://open.spotify.com/artist/65B2wTz12IA9U4ydyGHXP2) | [HUSH](https://open.spotify.com/album/7uekRat53bn1qWk6pRvife) | 2:21 | 2024-05-24 |  |
 | [Hypnotherapy](https://open.spotify.com/track/3QaO0thybGLSZph9OpeSDi) | [L\*o\*J](https://open.spotify.com/artist/3B4U99cPW8HihTM6ld3jVX), [jordnmoody](https://open.spotify.com/artist/5WUJ0HwckdD0XHPz9EQ2XU) | [Botanicals](https://open.spotify.com/album/4W3nonV7xCtmchQd4dUSLR) | 3:12 | 2024-02-09 | 2024-04-27 |
 | [I Fear](https://open.spotify.com/track/2iyzSdi8pV0ouscty0d88y) | [Kermode](https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe) | [I Fear](https://open.spotify.com/album/70ADfmqWJgdcydCeVPniiW) | 3:36 | 2024-04-26 |  |
@@ -593,7 +595,7 @@
 | [VTRN](https://open.spotify.com/track/3S9ibhJKqpdBfBSDFaCQv4) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [VTRN](https://open.spotify.com/album/3m5zP3S9CyQqJvbjINGvMI) | 5:02 | 2022-04-22 | 2022-10-08 |
 | [Wanchai](https://open.spotify.com/track/5TOrZM4bLcvrJSRSeSGO4y) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Wanchai](https://open.spotify.com/album/0KxrYioG8RSZf2YK6ntuOb) | 3:46 | 2023-09-22 |  |
 | [War \- Truth Remix](https://open.spotify.com/track/0u6O7D2ou9cXGANFxM0XIo) | [Widow](https://open.spotify.com/artist/2xZXFkZ3aBGqyuhZrmgvse), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek), [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [War \(Truth Remix\)](https://open.spotify.com/album/6GKQS093OPPoORbtWAtPSt) | 4:00 | 2024-04-19 | 2024-05-18 |
-| [Warrior Mentality](https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB), [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Chiefin EP](https://open.spotify.com/album/5S3QraJnSF025N9KNuwYxs) | 3:42 | 2022-02-17 |  |
+| [Warrior Mentality](https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB), [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Chiefin EP](https://open.spotify.com/album/5S3QraJnSF025N9KNuwYxs) | 3:42 | 2022-02-17 | 2024-06-22 |
 | [wassup](https://open.spotify.com/track/73iD1rBBjPjQvFOFe2fM21) | [sfam](https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI), [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J) | [wassup](https://open.spotify.com/album/4D4Xqyr5rLNnzK14GvGTeu) | 2:43 | 2024-03-22 | 2024-06-10 |
 | [Watching From A Distance](https://open.spotify.com/track/7fP6evA1EQzB1tpfbPk9ml) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ) | [Watching From A Distance](https://open.spotify.com/album/0W7MdF4x84CqjlHC3RiyIq) | 2:33 | 2022-02-17 | 2023-04-27 |
 | [Wayside](https://open.spotify.com/track/2Qr5YvcqnPtLyhtFuLxluD) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn), [Melle](https://open.spotify.com/artist/71W7FEPaF2yyFETscZpIN8), [MR.K](https://open.spotify.com/artist/75V7zNfB94p5PQ3qnQf47G) | [DUPPLATES Vol\. 1](https://open.spotify.com/album/4H1G1EejuL3DlqI1rJAC0R) | 4:51 | 2022-02-17 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Manolo Kabezabolo.",
-  "num_followers": 104463,
+  "num_followers": 104497,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Ladr\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 194192,
+      "name": "El Mes\u00edas",
+      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Corona de Espinas",
         "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 217466,
       "name": "Corona de Espinas",
       "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Ladr\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 194192,
-      "name": "El Mes\u00edas",
-      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Camela or Die 2.0",
-        "url": "https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb"
-      },
-      "artists": [
-        {
-          "name": "Me Fritos and the Gimme Cheetos",
-          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
-        }
-      ],
-      "duration_ms": 179197,
-      "name": "Camela or Die 2.0",
-      "url": "https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Cicatriz en la Matrix",
         "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 118986,
       "name": "Tenemos a la Pasma",
       "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Camela or Die 2.0",
+        "url": "https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb"
+      },
+      "artists": [
+        {
+          "name": "Me Fritos and the Gimme Cheetos",
+          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+        }
+      ],
+      "duration_ms": 179197,
+      "name": "Camela or Die 2.0",
+      "url": "https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Noche Molona",
-        "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
-      },
-      "artists": [
-        {
-          "name": "Tu Madre Es Puta",
-          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
-        }
-      ],
-      "duration_ms": 178393,
-      "name": "Noche Molona",
-      "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Froil\u00e1n de Todos los Antros",
         "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 220488,
       "name": "Froil\u00e1n de Todos los Antros",
       "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Noche Molona",
+        "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
+      },
+      "artists": [
+        {
+          "name": "Tu Madre Es Puta",
+          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
+        }
+      ],
+      "duration_ms": 178393,
+      "name": "Noche Molona",
+      "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Pura dinamita",
-        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
+        "name": "A Bocajarro + Sopla Sopla",
+        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
       },
       "artists": [
         {
-          "name": "Kamikazes",
-          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
+          "name": "Tijuana in blue",
+          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
         }
       ],
-      "duration_ms": 236888,
-      "name": "Pura dinamita",
-      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
+      "duration_ms": 289367,
+      "name": "Maki Navaja, El \u00daltimo Chorisso",
+      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "A Bocajarro + Sopla Sopla",
-        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
+        "name": "Pura dinamita",
+        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
       },
       "artists": [
         {
-          "name": "Tijuana in blue",
-          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
+          "name": "Kamikazes",
+          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
         }
       ],
-      "duration_ms": 289367,
-      "name": "Maki Navaja, El \u00daltimo Chorisso",
-      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
+      "duration_ms": 236888,
+      "name": "Pura dinamita",
+      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Cuidado",
         "url": "https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8"
       },
@@ -1255,22 +1239,6 @@
       "duration_ms": 177560,
       "name": "Cuidado",
       "url": "https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Ser Libre",
-        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Ser Libre",
-      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1291,18 +1259,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Reino Sin Futuro",
-        "url": "https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ"
+        "name": "Ser Libre",
+        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
       },
       "artists": [
         {
-          "name": "Eskorbuto",
-          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Reino Sin Futuro",
-      "url": "https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6"
+      "duration_ms": 216250,
+      "name": "Ser Libre",
+      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1331,6 +1299,38 @@
       "duration_ms": 170290,
       "name": "El Infierno Es Demasiado Dulce",
       "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Reino Sin Futuro",
+        "url": "https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ"
+      },
+      "artists": [
+        {
+          "name": "Eskorbuto",
+          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Reino Sin Futuro",
+      "url": "https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "All Cayetanos Are Bastards",
-        "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
-      },
-      "artists": [
-        {
-          "name": "Lo Blanco Del Jam\u00f3n",
-          "url": "https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR"
-        }
-      ],
-      "duration_ms": 160034,
-      "name": "All Cayetanos Are Bastards",
-      "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Drogadicci\u00f3n",
         "url": "https://open.spotify.com/album/205z0xubfl0a5zdgxXpsAq"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 136521,
       "name": "Drogadicci\u00f3n",
       "url": "https://open.spotify.com/track/6rYbAbLsga9UW0qvOwyBbF"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "All Cayetanos Are Bastards",
+        "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
+      },
+      "artists": [
+        {
+          "name": "Lo Blanco Del Jam\u00f3n",
+          "url": "https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR"
+        }
+      ],
+      "duration_ms": 160034,
+      "name": "All Cayetanos Are Bastards",
+      "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Influencers",
-        "url": "https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2"
-      },
-      "artists": [
-        {
-          "name": "\u00daltimo Rekurso",
-          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Influencers",
-      "url": "https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Lev\u00e1ntate",
         "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 232307,
       "name": "Lev\u00e1ntate",
       "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Influencers",
+        "url": "https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2"
+      },
+      "artists": [
+        {
+          "name": "\u00daltimo Rekurso",
+          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Influencers",
+      "url": "https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Hace falta\u2026?",
-        "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
+        "name": "Vieja Guardia",
+        "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
       },
       "artists": [
         {
-          "name": "Parabellum",
-          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
         }
       ],
-      "duration_ms": 233000,
-      "name": "La locura - original",
-      "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
+      "duration_ms": 170585,
+      "name": "Vieja Guardia",
+      "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Hace falta\u2026?",
+        "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
+      },
+      "artists": [
+        {
+          "name": "Parabellum",
+          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "La locura - original",
+      "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Un, Dos, Tres, Fuego",
         "url": "https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS"
       },
@@ -1587,6 +1603,22 @@
       "duration_ms": 142373,
       "name": "Las Drogas",
       "url": "https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Bienvenidos al Infierno (En Directo)",
+        "url": "https://open.spotify.com/album/3axjsEhBZr1lXitt0YWgFF"
+      },
+      "artists": [
+        {
+          "name": "Los Muertos de Cristo",
+          "url": "https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/4QDnW7sOmrPtgkQEQ1ZHIh"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1639,22 +1671,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Ka\u00f1a a los Que Nos Quieren Pisar",
-        "url": "https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06"
-      },
-      "artists": [
-        {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
-        }
-      ],
-      "duration_ms": 276058,
-      "name": "Ka\u00f1a",
-      "url": "https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Envenenado",
         "url": "https://open.spotify.com/album/5GO7H2fSWsSs8QA7ahTcsK"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 186493,
       "name": "Nos Enga\u00f1an - original",
       "url": "https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/7hL5n61zepkS2WQ1MCTpCI"
-      },
-      "artists": [
-        {
-          "name": "Los De Marras",
-          "url": "https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

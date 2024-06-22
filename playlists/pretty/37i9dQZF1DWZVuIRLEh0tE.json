@@ -1,12 +1,12 @@
 {
   "description": "Porque no to' e' Dembow en RD loco. Portada: Amenazzy y NTG",
-  "num_followers": 238970,
+  "num_followers": 239068,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmvAQAAAAADM8cPsK+fV3v6WPugexXiS",
+  "snapshot_id": "ZnT6wAAAAACT1y8w775OJKXoE+W0o2YO",
   "tracks": [
     {
       "added_at": "2024-05-31 04:00:00",
@@ -65,20 +65,24 @@
       "url": "https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Ah Bueno",
-        "url": "https://open.spotify.com/album/3ZMOcb6gf3sv59FWapbjz2"
+        "name": "Baguette",
+        "url": "https://open.spotify.com/album/6cXhn1ETAXyvSTNJh7DUHG"
       },
       "artists": [
         {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+          "name": "Millo X",
+          "url": "https://open.spotify.com/artist/29fg4A3hOeWV3NZOLiO4g1"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
         }
       ],
-      "duration_ms": 146253,
-      "name": "Ah Bueno",
-      "url": "https://open.spotify.com/track/3WDAURDWHo9yAFCtCQLDsB"
+      "duration_ms": 151415,
+      "name": "Baguette",
+      "url": "https://open.spotify.com/track/1W0Ihj3Khwve6TUjRlZqZl"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -115,26 +119,6 @@
       "duration_ms": 163514,
       "name": "Divino",
       "url": "https://open.spotify.com/track/2pVgmby0wfULOytCtpmaQK"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "PORQU\u00c9",
-        "url": "https://open.spotify.com/album/2dZiUz6K2lssRU0hSuFWqa"
-      },
-      "artists": [
-        {
-          "name": "Jezzy",
-          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
-        },
-        {
-          "name": "Eklectico",
-          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "PORQU\u00c9",
-      "url": "https://open.spotify.com/track/2vh40SogSTiaCs6kVufgZQ"
     },
     {
       "added_at": "2024-01-12 21:24:53",
@@ -203,18 +187,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Luis Nalga",
-        "url": "https://open.spotify.com/album/4syIYOqu4Yb1TyLmniVKio"
+        "name": "Ah Bueno",
+        "url": "https://open.spotify.com/album/3ZMOcb6gf3sv59FWapbjz2"
       },
       "artists": [
         {
-          "name": "Quimico Ultra Mega",
-          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
         }
       ],
-      "duration_ms": 355265,
-      "name": "Luis Nalga",
-      "url": "https://open.spotify.com/track/2lJzdBpSozgsA8yIbrLET0"
+      "duration_ms": 146253,
+      "name": "Ah Bueno",
+      "url": "https://open.spotify.com/track/3WDAURDWHo9yAFCtCQLDsB"
     },
     {
       "added_at": "2024-01-12 21:24:53",
@@ -231,6 +215,50 @@
       "duration_ms": 202814,
       "name": "Voy Despu\u00e9s",
       "url": "https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Solo Un Chiste",
+        "url": "https://open.spotify.com/album/50rzhM7PW5PNBAcGXNjLyu"
+      },
+      "artists": [
+        {
+          "name": "The Melodico",
+          "url": "https://open.spotify.com/artist/4vKdAdCbGteLVf1kP409kJ"
+        },
+        {
+          "name": "Jimmy La Melod\u00eda",
+          "url": "https://open.spotify.com/artist/1tVb9ykQYmM1dDiV03X0RW"
+        },
+        {
+          "name": "Lesco Zizou",
+          "url": "https://open.spotify.com/artist/2ebMiZxgSS7WGhUgLa6JWU"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Solo Un Chiste",
+      "url": "https://open.spotify.com/track/43WapI1jXgWlEtfujXVGVe"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "PORQU\u00c9",
+        "url": "https://open.spotify.com/album/2dZiUz6K2lssRU0hSuFWqa"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        },
+        {
+          "name": "Eklectico",
+          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "PORQU\u00c9",
+      "url": "https://open.spotify.com/track/2vh40SogSTiaCs6kVufgZQ"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -269,40 +297,44 @@
       "url": "https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Patrona",
-        "url": "https://open.spotify.com/album/6T56DHSYqCSD25jv2xedhe"
+        "name": "Estoy Aqu\u00ed",
+        "url": "https://open.spotify.com/album/0A1MrliSVMMs0c2D5i8rpX"
       },
       "artists": [
         {
-          "name": "Jay Elite",
-          "url": "https://open.spotify.com/artist/4UG8b6IcuWkjMmPsoSYPGj"
-        }
-      ],
-      "duration_ms": 90309,
-      "name": "Patrona",
-      "url": "https://open.spotify.com/track/2KAsZ1Lk2FaGNXCNCxfV1H"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "ASI SON",
-        "url": "https://open.spotify.com/album/3gADTEzUGd80wmlfQ2SbtA"
-      },
-      "artists": [
-        {
-          "name": "Eklectico",
-          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
+          "name": "The Lionx",
+          "url": "https://open.spotify.com/artist/6mL0lpfaAFYUJQoRAcdyZs"
         },
         {
-          "name": "Eklectico Diablo",
-          "url": "https://open.spotify.com/artist/2i81dh40yW90vNCpJYOunK"
+          "name": "I Am El Negro",
+          "url": "https://open.spotify.com/artist/0DN2PEOhfbZF1GdxqjILyK"
+        },
+        {
+          "name": "El Bopa",
+          "url": "https://open.spotify.com/artist/5yhdYk0uCsfiNcUDMH2waE"
         }
       ],
-      "duration_ms": 106800,
-      "name": "ASI SON",
-      "url": "https://open.spotify.com/track/32QRZ9IiNW5Bgx0VGjDyNa"
+      "duration_ms": 176000,
+      "name": "Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2vhsLTqjlugt46cC7atmOD"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Luis Nalga",
+        "url": "https://open.spotify.com/album/4syIYOqu4Yb1TyLmniVKio"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        }
+      ],
+      "duration_ms": 355265,
+      "name": "Luis Nalga",
+      "url": "https://open.spotify.com/track/2lJzdBpSozgsA8yIbrLET0"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -345,22 +377,6 @@
       "url": "https://open.spotify.com/track/4h3XCMbwm3rR1PTYcT336q"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "NO ME IMPORTA",
-        "url": "https://open.spotify.com/album/1v6FLdRFtDLkhNoONTCcPC"
-      },
-      "artists": [
-        {
-          "name": "Milo K",
-          "url": "https://open.spotify.com/artist/4Ay2R2S9e7fW4QzLyBzkWi"
-        }
-      ],
-      "duration_ms": 108972,
-      "name": "NO ME IMPORTA",
-      "url": "https://open.spotify.com/track/60nvCICAtLOvvgOvnMLRD7"
-    },
-    {
       "added_at": "2024-03-27 20:37:44",
       "album": {
         "name": "Me Hace Falta",
@@ -375,6 +391,22 @@
       "duration_ms": 181498,
       "name": "Me Hace Falta",
       "url": "https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Patrona",
+        "url": "https://open.spotify.com/album/6T56DHSYqCSD25jv2xedhe"
+      },
+      "artists": [
+        {
+          "name": "Jay Elite",
+          "url": "https://open.spotify.com/artist/4UG8b6IcuWkjMmPsoSYPGj"
+        }
+      ],
+      "duration_ms": 90309,
+      "name": "Patrona",
+      "url": "https://open.spotify.com/track/2KAsZ1Lk2FaGNXCNCxfV1H"
     },
     {
       "added_at": "2024-04-25 22:06:48",
@@ -457,22 +489,6 @@
       "url": "https://open.spotify.com/track/7axxLnHLlcHeXkc4Si82zN"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Girasol",
-        "url": "https://open.spotify.com/album/19PInxdlgRHagoorod3nsd"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mvp",
-          "url": "https://open.spotify.com/artist/6YwVhxlzWmTYrvwYyjNAao"
-        }
-      ],
-      "duration_ms": 174544,
-      "name": "Casualidad",
-      "url": "https://open.spotify.com/track/3BUSMWApqcl8RRtc7DBJTl"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Tu Va Dobla ?",
@@ -541,20 +557,28 @@
       "url": "https://open.spotify.com/track/2WUk9wmmHFBdvHzp0lP5tt"
     },
     {
-      "added_at": "2023-10-03 16:38:29",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Calorazo",
-        "url": "https://open.spotify.com/album/6l1nP7pApoZRY4taX32OVp"
+        "name": "DESEO",
+        "url": "https://open.spotify.com/album/1BO8DKKFrdPr08kigGIwTr"
       },
       "artists": [
         {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+          "name": "Simple Musical",
+          "url": "https://open.spotify.com/artist/440n0IkBrTfXN0p1HkfD2M"
+        },
+        {
+          "name": "LA VECINA RD",
+          "url": "https://open.spotify.com/artist/0NzQySGjziQndODoZm2OOl"
+        },
+        {
+          "name": "Dj Scuff",
+          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
         }
       ],
-      "duration_ms": 149328,
-      "name": "Calorazo",
-      "url": "https://open.spotify.com/track/5jrG8BSLIqMvacwkiWmxc7"
+      "duration_ms": 216000,
+      "name": "DESEO",
+      "url": "https://open.spotify.com/track/3P9hH9HITRaZqT0AaSLbPw"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -615,26 +639,6 @@
       "duration_ms": 201850,
       "name": "Gente Seria",
       "url": "https://open.spotify.com/track/4gyI7jIYlCsmLqnMnz91DH"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Mas Glow",
-        "url": "https://open.spotify.com/album/4BJgQ0WwcZGInY1AJuqTGy"
-      },
-      "artists": [
-        {
-          "name": "MR. Yeison",
-          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
-        },
-        {
-          "name": "Erick Darauch",
-          "url": "https://open.spotify.com/artist/4kOpxLFRkTkvFEDBLpMGvX"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "Mas Glow",
-      "url": "https://open.spotify.com/track/6lw6j6zz1HzeZC74GHDNxE"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -737,6 +741,22 @@
       "url": "https://open.spotify.com/track/5k4YmMdNXdzN8zOdYxHet2"
     },
     {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/5nfUfjjHd827xhS2Gboy8X"
+      },
+      "artists": [
+        {
+          "name": "Don Forty Five",
+          "url": "https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT"
+        }
+      ],
+      "duration_ms": 211492,
+      "name": "READY",
+      "url": "https://open.spotify.com/track/1T0GFyjzGstsmPtaRKtGMJ"
+    },
+    {
       "added_at": "2023-07-18 04:00:00",
       "album": {
         "name": "Paketum",
@@ -817,20 +837,20 @@
       "url": "https://open.spotify.com/track/36AdYWyVOERiPFL4SfpJCM"
     },
     {
-      "added_at": "2023-07-18 04:00:00",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Talco",
-        "url": "https://open.spotify.com/album/5OHIw55Adi5Uy4EbjnJGjO"
+        "name": "La Presion",
+        "url": "https://open.spotify.com/album/0HilKIw2e0S0K2eZj7l6rq"
       },
       "artists": [
         {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+          "name": "Loui Santana",
+          "url": "https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh"
         }
       ],
-      "duration_ms": 136271,
-      "name": "Talco",
-      "url": "https://open.spotify.com/track/5jNMVx3mv3gj3ShJfJj57g"
+      "duration_ms": 124800,
+      "name": "La Presion",
+      "url": "https://open.spotify.com/track/1G6usQXpchd3n36DjO7Vpn"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -875,26 +895,6 @@
       "duration_ms": 100704,
       "name": "Me la Subi\u00f3",
       "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
-    },
-    {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
-        "name": "Tan Quedao",
-        "url": "https://open.spotify.com/album/3mSxOqShLIxTkePLdEDo8Q"
-      },
-      "artists": [
-        {
-          "name": "Briante",
-          "url": "https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4"
-        },
-        {
-          "name": "Onguito Wa",
-          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "Tan Quedao",
-      "url": "https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9"
     },
     {
-      "added_at": "2023-07-18 04:00:00",
-      "album": {
-        "name": "Un Chin",
-        "url": "https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz"
-      },
-      "artists": [
-        {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
-        }
-      ],
-      "duration_ms": 145646,
-      "name": "Un Chin",
-      "url": "https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI"
-    },
-    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "LUCKY",
@@ -1101,30 +1085,6 @@
       "url": "https://open.spotify.com/track/3KHbTvOU9u0HYcYYClGJWj"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Bandolero",
-        "url": "https://open.spotify.com/album/7FmSt2lG0NITHw2mIgZjCV"
-      },
-      "artists": [
-        {
-          "name": "RMAND",
-          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        },
-        {
-          "name": "Xantos",
-          "url": "https://open.spotify.com/artist/3HPOnbuwLP2qlwWQ7cgxYW"
-        }
-      ],
-      "duration_ms": 216133,
-      "name": "Bandolero",
-      "url": "https://open.spotify.com/track/6ZFnse2LtjvVbp1lxBdIx9"
-    },
-    {
       "added_at": "2023-07-18 04:00:00",
       "album": {
         "name": "NA CONMIGO?",
@@ -1139,42 +1099,6 @@
       "duration_ms": 159320,
       "name": "NA CONMIGO?",
       "url": "https://open.spotify.com/track/6n1ZXoxoYUWCV649hii6Hu"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Pila De Nota Freestyle",
-        "url": "https://open.spotify.com/album/1cDAeuWba52YKWpE3ZJlio"
-      },
-      "artists": [
-        {
-          "name": "Dj Scuff",
-          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
-        },
-        {
-          "name": "Bigoblin",
-          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
-        }
-      ],
-      "duration_ms": 497060,
-      "name": "Pila De Nota Freestyle",
-      "url": "https://open.spotify.com/track/6aKPB9CWENmORp4L9gXH7L"
-    },
-    {
-      "added_at": "2023-08-09 02:57:44",
-      "album": {
-        "name": "EL REY",
-        "url": "https://open.spotify.com/album/7pYauh6QDeM7ntQe3CtCir"
-      },
-      "artists": [
-        {
-          "name": "La Manta",
-          "url": "https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "EL REY",
-      "url": "https://open.spotify.com/track/1ENSnQofaPvagAqI8yCrI9"
     }
   ],
   "unique_name": "Flow Dominicano",

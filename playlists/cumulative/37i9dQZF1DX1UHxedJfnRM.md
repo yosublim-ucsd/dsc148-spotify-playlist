@@ -4,13 +4,13 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gian Marco, Daniela Darcourt
 
-156 songs - 11 hr 25 min
+157 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Cuánto Me Quedé](https://open.spotify.com/track/0d47bqzCi4sD7BHNVTH2Z1) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [A Cuánto Me Quedé](https://open.spotify.com/album/64ms9YWnmcPkJUmZN86PAE) | 4:29 | 2023-11-24 | 2023-12-04 |
 | [A Cuánto Me Quedé](https://open.spotify.com/track/3I1kB3ftFb8IG82CbmwPpt) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [A Cuánto Me Quedé](https://open.spotify.com/album/5r3K1kYbxY1pVJgPinjvEU) | 4:29 | 2023-11-24 | 2024-04-19 |
-| [A Cuánto Me Quedé](https://open.spotify.com/track/7Bg5Z8VwnRxVVvq5C4qcRN) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [A Cuánto Me Quedé](https://open.spotify.com/album/5jiT2Juwh9DbK5xjvlj6uX) | 4:29 | 2022-07-15 |  |
+| [A Cuánto Me Quedé](https://open.spotify.com/track/7Bg5Z8VwnRxVVvq5C4qcRN) | [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [A Cuánto Me Quedé](https://open.spotify.com/album/5jiT2Juwh9DbK5xjvlj6uX) | 4:29 | 2022-07-15 | 2024-06-22 |
 | [Ahora \- \(Nueva Versión\)](https://open.spotify.com/track/7zi38N4DOCN6Rge2x2tzZM) | [Jayo Y Los Que Son](https://open.spotify.com/artist/4PBNiPbHphKFQElFxwDSLW), [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Ahora \(Nueva Versión\)](https://open.spotify.com/album/2d17SB6GGlRGML8e2iRnmF) | 4:36 | 2023-02-03 | 2024-05-25 |
 | [Algo Que Se Quede](https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 3:40 | 2022-05-13 |  |
 | [Amaneciendo Con Zaperoko](https://open.spotify.com/track/2RLpgwLVfI5duKhbE2H04d) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Amaneciendo Con Zaperoko](https://open.spotify.com/album/0PH2f6w39bBN4dPH0TkB3E) | 5:08 | 2022-05-13 |  |
@@ -82,6 +82,7 @@
 | [La Mejor Versión de Mi](https://open.spotify.com/track/2yWjS7QcpqtDI5KmmQyxkn) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/4tzJ6ghCYh5fZ61k5s8k5G) | 4:29 | 2022-05-13 |  |
 | [La Mejor Versión de Mi](https://open.spotify.com/track/62WQGsG4lHE0gQhLjBeAO6) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/0WWfQgz8vCAqLeg7TcdBMJ) | 4:29 | 2022-07-15 | 2024-04-19 |
 | [La Peruana](https://open.spotify.com/track/3GwmnvymwiVxTQ02d1wWB1) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [La Peruana](https://open.spotify.com/album/69yHTiNzBYqJVtzYj1fOT1) | 3:52 | 2022-10-07 | 2023-05-13 |
+| [La Primera Vez](https://open.spotify.com/track/6dMGhnoZyPLbELETfiGGn1) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/0j45QHGc7TLFr2csPro4DJ) | 3:50 | 2024-06-21 |  |
 | [La Rebelión](https://open.spotify.com/track/72X4rld3KwmBHM8BjEHClB) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Barranquilla Me Quedo \(Homenaje a Joe Arroyo\)](https://open.spotify.com/album/6OjhfiVCYhYx1Qne6IfChP) | 5:18 | 2022-05-13 |  |
 | [La unica](https://open.spotify.com/track/4DnGamxyJflzGHHqOoWzrA) | [Somos Musica del Callao](https://open.spotify.com/artist/3k7zEASV7WTD3f6cHvDi0a) | [¡30 ANIVERSARIO!](https://open.spotify.com/album/00rg02NXX4yb12HdxGp2rk) | 4:17 | 2022-05-13 |  |
 | [La Última Canción](https://open.spotify.com/track/6JxrD0jXVCEIIGG3X4kSrB) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Renacer](https://open.spotify.com/album/1rb41rTA9dUOW46y06c8zO) | 3:09 | 2024-05-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "",
   "num_followers": 16,
-  "original_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",
+  "original_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Uptempo/Hard Dance",
   "owner": {
     "name": "Jesseka",
     "url": "https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6"
   },
-  "snapshot_id": "AAAF4owFbrQblqErXuYjn/KzdxhccX5o",
+  "snapshot_id": "AAAF6/1mDtB5WD9wWK2LNUcjMD0ZuFNP",
   "tracks": [
     {
       "added_at": "2021-11-26 04:21:31",
@@ -27395,8 +27395,148 @@
       "duration_ms": 210003,
       "name": "Breaking Free",
       "url": "https://open.spotify.com/track/0vUS4p0g0V7pbF3GkvDAwN"
+    },
+    {
+      "added_at": "2024-06-21 20:14:03",
+      "album": {
+        "name": "Haunting Me",
+        "url": "https://open.spotify.com/album/1SHA5qwfAU0halwBuXaSbt"
+      },
+      "artists": [
+        {
+          "name": "Akimbo",
+          "url": "https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Haunting Me",
+      "url": "https://open.spotify.com/track/3IJpRUtI89pgCzLz0HF3T0"
+    },
+    {
+      "added_at": "2024-06-21 20:23:00",
+      "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/3uojG5RBHgkvIL0LIOZu0Z"
+      },
+      "artists": [
+        {
+          "name": "Loner",
+          "url": "https://open.spotify.com/artist/3dzQCe5nzyqtcpQCnK7hry"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/6F1ysFXCZYocDOrczAz6Dm"
+    },
+    {
+      "added_at": "2024-06-21 20:25:30",
+      "album": {
+        "name": "Never Gonna Give You Up (Hardstyle Version)",
+        "url": "https://open.spotify.com/album/2KGXNC0hyASFhkIMZ5JP6Z"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        }
+      ],
+      "duration_ms": 120024,
+      "name": "Never Gonna Give You Up - Hardstyle Version",
+      "url": "https://open.spotify.com/track/5295T6iMV7Oh7xfVKMTe2c"
+    },
+    {
+      "added_at": "2024-06-21 20:26:08",
+      "album": {
+        "name": "From The Sky",
+        "url": "https://open.spotify.com/album/6jc8VMUVy2vML6VxmUHvsE"
+      },
+      "artists": [
+        {
+          "name": "Vexxed",
+          "url": "https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY"
+        },
+        {
+          "name": "Invector",
+          "url": "https://open.spotify.com/artist/6dzkjHwlCSs5uy93DoiZ1s"
+        }
+      ],
+      "duration_ms": 162761,
+      "name": "From The Sky",
+      "url": "https://open.spotify.com/track/3IjeyewJ7v8FSHdm2xcQbF"
+    },
+    {
+      "added_at": "2024-06-21 20:49:55",
+      "album": {
+        "name": "I NEED U",
+        "url": "https://open.spotify.com/album/5DXyKXUkVNtpA1Gl9HISwQ"
+      },
+      "artists": [
+        {
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "I NEED U",
+      "url": "https://open.spotify.com/track/01z52s7dMbzZAPYIjcLQUU"
+    },
+    {
+      "added_at": "2024-06-21 20:55:08",
+      "album": {
+        "name": "Say You Will",
+        "url": "https://open.spotify.com/album/2d4p827jUUxTIXVtTridn4"
+      },
+      "artists": [
+        {
+          "name": "Wreck Reality",
+          "url": "https://open.spotify.com/artist/7Dn5YtJZi2nozyzpXy9yBR"
+        },
+        {
+          "name": "Heartless",
+          "url": "https://open.spotify.com/artist/5kt5kCRNT99Dr93bWD0RPo"
+        }
+      ],
+      "duration_ms": 184743,
+      "name": "Say You Will",
+      "url": "https://open.spotify.com/track/3va1JQLZ2a6qlJ2TXnEkxD"
+    },
+    {
+      "added_at": "2024-06-21 20:56:25",
+      "album": {
+        "name": "Turn Back Time",
+        "url": "https://open.spotify.com/album/20hR4a5hRneBHToJxeCYOt"
+      },
+      "artists": [
+        {
+          "name": "Serzo",
+          "url": "https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6"
+        },
+        {
+          "name": "SVANE",
+          "url": "https://open.spotify.com/artist/26dmnXbwYWrDtzBrlZaNnu"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Turn Back Time",
+      "url": "https://open.spotify.com/track/4jadlH3oc1LF4Hq5K68COM"
+    },
+    {
+      "added_at": "2024-06-21 23:46:51",
+      "album": {
+        "name": "Kirara Anthems vol.4",
+        "url": "https://open.spotify.com/album/4Jn7RlYugWVFlLpdwETuXT"
+      },
+      "artists": [
+        {
+          "name": "Getty",
+          "url": "https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK"
+        }
+      ],
+      "duration_ms": 320998,
+      "name": "U And Me",
+      "url": "https://open.spotify.com/track/5txHS74nucunrOZGxf3cgl"
     }
   ],
-  "unique_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",
+  "unique_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Uptempo/Hard Dance",
   "url": "https://open.spotify.com/playlist/3kTyvc7QLz9efLAPxHObFK"
 }

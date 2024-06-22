@@ -1,228 +1,352 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2357,
+  "num_followers": 2358,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAADvDYPoF1kAGARit4rqTlp0RL6BjYm",
+  "snapshot_id": "AAADvndzmaZiLFFDwpujgkXVP2vEH+xA",
   "tracks": [
     {
-      "added_at": "2024-06-14 12:43:40",
+      "added_at": "2024-06-21 15:06:19",
       "album": {
-        "name": "Cold Youth",
-        "url": "https://open.spotify.com/album/3HlT9vLIozged2PNkAsfL4"
+        "name": "Little Star",
+        "url": "https://open.spotify.com/album/1ghMBj7clWYJ18ikqTWcUI"
       },
       "artists": [
         {
-          "name": "TeYo",
-          "url": "https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "Cold Youth",
-      "url": "https://open.spotify.com/track/0fvq5q0irgl7JvH1Tu4IME"
-    },
-    {
-      "added_at": "2024-06-14 12:43:40",
-      "album": {
-        "name": "Kauan sitten kaukaisessa galaksissa",
-        "url": "https://open.spotify.com/album/6EBwtBXXrAdIOnohdlOrnO"
-      },
-      "artists": [
-        {
-          "name": "Y\u00f6n Polte",
-          "url": "https://open.spotify.com/artist/10rz5JoVSxAX3I69C8NeXo"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "Kauan sitten kaukaisessa galaksissa",
-      "url": "https://open.spotify.com/track/3s2Z1ccc0MSA7BwveLd76d"
-    },
-    {
-      "added_at": "2024-06-14 12:43:40",
-      "album": {
-        "name": "Sinclair",
-        "url": "https://open.spotify.com/album/0IoJkQhIZbZXFRF1dG12lU"
-      },
-      "artists": [
-        {
-          "name": "IVIX",
-          "url": "https://open.spotify.com/artist/0CdfkXly840nzSuduDhEQF"
-        }
-      ],
-      "duration_ms": 233030,
-      "name": "i wish that I was normal about her but I'm not",
-      "url": "https://open.spotify.com/track/6av73NjKjmdZPkff3sQODg"
-    },
-    {
-      "added_at": "2024-06-14 12:43:40",
-      "album": {
-        "name": "All Shades of The Drum - Compilation, Vol. 1",
-        "url": "https://open.spotify.com/album/4XTIGycVWg8thI2WcU9bbr"
-      },
-      "artists": [
-        {
-          "name": "Max SA",
-          "url": "https://open.spotify.com/artist/70juXESYrBbE8KOmDzxcab"
-        }
-      ],
-      "duration_ms": 471461,
-      "name": "My Prayer - Chant Mix",
-      "url": "https://open.spotify.com/track/65IIKAgC48F14G2EQqbA85"
-    },
-    {
-      "added_at": "2024-06-14 12:43:40",
-      "album": {
-        "name": "Shadows Tall",
-        "url": "https://open.spotify.com/album/0tXQnIbTMUAxHwshpaVny8"
-      },
-      "artists": [
-        {
-          "name": "God Given Ass",
-          "url": "https://open.spotify.com/artist/3YYiamegMtewnR6PjpzoGx"
-        }
-      ],
-      "duration_ms": 101059,
-      "name": "Shadows Tall",
-      "url": "https://open.spotify.com/track/4chmViuxWggVSOlmw71fch"
-    },
-    {
-      "added_at": "2024-06-14 12:43:40",
-      "album": {
-        "name": "Surreal Nocturnes",
-        "url": "https://open.spotify.com/album/0GIgAKWFgOfrSiT3zc33Y4"
-      },
-      "artists": [
-        {
-          "name": "Sami Lust",
-          "url": "https://open.spotify.com/artist/4MJxUxKRbXxaTxilE16bYp"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Torment Anthem",
-      "url": "https://open.spotify.com/track/4LN4wl1BtS30gBtCbgLnUj"
-    },
-    {
-      "added_at": "2024-06-14 12:43:40",
-      "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/1RMt0zJYuWIoMdsMJHV0rd"
-      },
-      "artists": [
-        {
-          "name": "Cardio",
-          "url": "https://open.spotify.com/artist/1zeFfKiPLX9G9N7l5etRiG"
-        }
-      ],
-      "duration_ms": 186895,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/3zsrFhKSkornDn5rp2PrDj"
-    },
-    {
-      "added_at": "2024-06-14 12:43:40",
-      "album": {
-        "name": "Fire and ice",
-        "url": "https://open.spotify.com/album/1uOFIkHXEaKvY9iQRKYpw3"
-      },
-      "artists": [
-        {
-          "name": "Pothooks & Hangers",
-          "url": "https://open.spotify.com/artist/5TtWqtdZfRfSex3z4PWXAZ"
+          "name": "The Maze",
+          "url": "https://open.spotify.com/artist/61wBPKlSoRqGn4X2QArndI"
         },
         {
-          "name": "J-Brandt",
-          "url": "https://open.spotify.com/artist/3RhrhZkpeGiQxCvpYGTbWn"
+          "name": "Sofie K Flenskov",
+          "url": "https://open.spotify.com/artist/5kHZaGJlYVI9WdRdxmjYql"
         }
       ],
-      "duration_ms": 285026,
-      "name": "Fire and ice",
-      "url": "https://open.spotify.com/track/1Z5gJm8bwNObM9zqfYFV65"
+      "duration_ms": 202000,
+      "name": "Little Star",
+      "url": "https://open.spotify.com/track/2gWKzqI6aIji8x7v0K0uLq"
     },
     {
-      "added_at": "2024-06-14 12:43:40",
+      "added_at": "2024-06-21 15:06:19",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/4ws0fx3qt2mHnYQDhkigXk"
+        "name": "Ophelia & Maxi",
+        "url": "https://open.spotify.com/album/2p79egjZmr7x7Q1ofv9BQf"
       },
       "artists": [
         {
-          "name": "JustTheDani",
-          "url": "https://open.spotify.com/artist/7djz8hKAB3Eid8dI8Ai4Zh"
+          "name": "GINAxC",
+          "url": "https://open.spotify.com/artist/4hHUHCaBuD2d2FRHLgeOWQ"
         }
       ],
-      "duration_ms": 369364,
-      "name": "On",
-      "url": "https://open.spotify.com/track/25vF7wLnAR3FdjJOWKHj59"
+      "duration_ms": 177616,
+      "name": "Ophelia & Maxi",
+      "url": "https://open.spotify.com/track/4P7Y3dl0XZbQZ0m8njZtu6"
     },
     {
-      "added_at": "2024-06-14 12:43:40",
+      "added_at": "2024-06-21 15:06:19",
       "album": {
-        "name": "Second to None",
-        "url": "https://open.spotify.com/album/5iQhux99GCuA5hzeVhWoEv"
+        "name": "Polly",
+        "url": "https://open.spotify.com/album/2k63QtaNEcXYavHNEaVz6l"
       },
       "artists": [
         {
-          "name": "Andy E.",
-          "url": "https://open.spotify.com/artist/1Cnd7VjoBrVoccgXCLDDtk"
+          "name": "SiMitr\u0113",
+          "url": "https://open.spotify.com/artist/4tTn4cTXYgD6CSLV19j4Ev"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Polly",
+      "url": "https://open.spotify.com/track/6o5wNJUXvp1E4kCQOjLQub"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "Historien om Br\u00f6draskapet",
+        "url": "https://open.spotify.com/album/0mqQWVp9fDo7alWycWwU5f"
+      },
+      "artists": [
+        {
+          "name": "Patrick El-Hag",
+          "url": "https://open.spotify.com/artist/5pboe5cbQJqyabgHC0rNS1"
         },
         {
-          "name": "G\u00f6ran Edman",
-          "url": "https://open.spotify.com/artist/6D6dxVY0ooHhTOJ8YD6UMa"
+          "name": "Emilia Gran\u00e9r",
+          "url": "https://open.spotify.com/artist/7lEmvUDo9dWm0pfIJxykhN"
+        },
+        {
+          "name": "\u00cdkorni",
+          "url": "https://open.spotify.com/artist/0fmFoXeTu0NKeoycNUgujo"
         }
       ],
-      "duration_ms": 326901,
-      "name": "Second to None",
-      "url": "https://open.spotify.com/track/4MPd9Sbbvj0gLDWQnxNufJ"
+      "duration_ms": 198000,
+      "name": "P\u00e5 andra sidan muren",
+      "url": "https://open.spotify.com/track/1ibjLAGSXL8iBm4XToBdhP"
     },
     {
-      "added_at": "2024-06-14 12:43:40",
+      "added_at": "2024-06-21 15:06:19",
       "album": {
-        "name": "Catch My Breath",
-        "url": "https://open.spotify.com/album/7BSBFL1228tZkeczg2eZ5Y"
+        "name": "Sad Eyes",
+        "url": "https://open.spotify.com/album/3tpcl9C6hgWhFuzIAdOxJA"
       },
       "artists": [
         {
-          "name": "Stephen Murphy",
-          "url": "https://open.spotify.com/artist/0IGXpRPNet6sqbv0xB4Zwm"
+          "name": "Riverfields",
+          "url": "https://open.spotify.com/artist/4GLZ7xt97lbQWkePim9FPf"
         }
       ],
-      "duration_ms": 246166,
-      "name": "Catch My Breath",
-      "url": "https://open.spotify.com/track/6Tz1BfDuU6ps0Ri3yiWWSS"
+      "duration_ms": 303426,
+      "name": "Sad Eyes",
+      "url": "https://open.spotify.com/track/0I8QcspdmH7ye4PqSCOZvp"
     },
     {
-      "added_at": "2024-06-14 12:43:40",
+      "added_at": "2024-06-21 15:06:19",
       "album": {
-        "name": "HER TATTOOS",
-        "url": "https://open.spotify.com/album/1pxaIPFT8v00UTKLDonUHu"
+        "name": "For Now Im Here",
+        "url": "https://open.spotify.com/album/7M9jSaYXi33dQAZ5oqaRsl"
       },
       "artists": [
         {
-          "name": "The Richie Beakman Band",
-          "url": "https://open.spotify.com/artist/4AiPP0295err6qOcFKFC1F"
+          "name": "EMPIRE OF TWO",
+          "url": "https://open.spotify.com/artist/4jbmN1o9LSBUOi8eK0Vr0j"
         }
       ],
-      "duration_ms": 268363,
-      "name": "HER TATTOOS",
-      "url": "https://open.spotify.com/track/0G7VT1jHsC3uOpKPWyfOUk"
+      "duration_ms": 163548,
+      "name": "For Now Im Here",
+      "url": "https://open.spotify.com/track/09U4YwzvgxtN3lRv3Mu4sf"
     },
     {
-      "added_at": "2024-06-14 12:43:40",
+      "added_at": "2024-06-21 15:06:19",
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/5QyFbo0Rrja5onKP2eGBmC"
+        "name": "My Recipe",
+        "url": "https://open.spotify.com/album/6rmbHbqw7Zz6arqPeQeBnu"
       },
       "artists": [
         {
-          "name": "Florian Voss",
-          "url": "https://open.spotify.com/artist/5jK3Fm8xL2H1d7WnhbT2sW"
+          "name": "Elm Tree Soul Project",
+          "url": "https://open.spotify.com/artist/3uwztq7BTKrjHAW3SLEJbp"
+        },
+        {
+          "name": "Petra Kv\u00e4nn\u00e5",
+          "url": "https://open.spotify.com/artist/71rrRtR8V2tDTf6zqk9ebQ"
         }
       ],
-      "duration_ms": 191888,
-      "name": "Defying Gravity",
-      "url": "https://open.spotify.com/track/6rYTJMwi9EiW6uv5rYsQ6i"
+      "duration_ms": 234333,
+      "name": "My Recipe",
+      "url": "https://open.spotify.com/track/0WeokMxwZpNMHyGE4fd65D"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "INGEN VET VAD JAG T\u00c4NKER",
+        "url": "https://open.spotify.com/album/3nUilhpUk1BDmir3qiHvMZ"
+      },
+      "artists": [
+        {
+          "name": "EMMA-LO",
+          "url": "https://open.spotify.com/artist/7tIstKgqj9GwXpN5SL7MTG"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "INGEN VET VAD JAG T\u00c4NKER",
+      "url": "https://open.spotify.com/track/5RSbXqQnp2EnokbAioBcnR"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "IAK",
+        "url": "https://open.spotify.com/album/2NM4kQIkeeP5XswTkNxeqA"
+      },
+      "artists": [
+        {
+          "name": "MELIJAH",
+          "url": "https://open.spotify.com/artist/1u6nljIBn7s6BtqQPCBeTP"
+        }
+      ],
+      "duration_ms": 186549,
+      "name": "IAK",
+      "url": "https://open.spotify.com/track/3vehJzUtXWp7pYYLNttUyc"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "Souver\u00e4n",
+        "url": "https://open.spotify.com/album/57JFaWOvJkXQMVaw81XHdQ"
+      },
+      "artists": [
+        {
+          "name": "MORNINGSTAR MUSIC",
+          "url": "https://open.spotify.com/artist/5Z8Tt5ywUOCP65uWy2r1i8"
+        }
+      ],
+      "duration_ms": 273637,
+      "name": "Souver\u00e4n",
+      "url": "https://open.spotify.com/track/7fLWMPOSfMpSEgCelaEMbx"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "Kaptein Morten",
+        "url": "https://open.spotify.com/album/4mdAUuBI2E2QMmVyrg3xXQ"
+      },
+      "artists": [
+        {
+          "name": "KennyR",
+          "url": "https://open.spotify.com/artist/07l4MIrDSaRouWJE6sayAh"
+        }
+      ],
+      "duration_ms": 224279,
+      "name": "Kaptein Morten",
+      "url": "https://open.spotify.com/track/6z9qk1mnWQwi6yY7KXo8Nb"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "The United Weights",
+        "url": "https://open.spotify.com/album/6O5dLzPSxlU8mmdnyicXvZ"
+      },
+      "artists": [
+        {
+          "name": "Color Mind",
+          "url": "https://open.spotify.com/artist/2QsuIwtdJ7hdX96yxyH85C"
+        }
+      ],
+      "duration_ms": 393051,
+      "name": "The United Weights",
+      "url": "https://open.spotify.com/track/3crewFnwYarNxH52lE5T47"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "Hordemen",
+        "url": "https://open.spotify.com/album/0RLPxMr4SvcbQfLW2Q8ufY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Planet",
+          "url": "https://open.spotify.com/artist/0uJf3uN1O8wFQ3zXDcERBY"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "Hordemen",
+      "url": "https://open.spotify.com/track/3Ng6pzWu0aihfCTJqJKhJ2"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "Cheap",
+        "url": "https://open.spotify.com/album/0QvuWcUWoDVcrybkwXfcuI"
+      },
+      "artists": [
+        {
+          "name": "Freaks on Parade",
+          "url": "https://open.spotify.com/artist/4G0Swlb87nAno4AePJ7z5f"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Cheap",
+      "url": "https://open.spotify.com/track/2cKI0l1Of04p4QSm0SUiB7"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/1vUqWxrlVDIeiU5M32ZQao"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Irene",
+          "url": "https://open.spotify.com/artist/75tvtFKDLIYPAWZLtltTvS"
+        }
+      ],
+      "duration_ms": 208700,
+      "name": "Sellout",
+      "url": "https://open.spotify.com/track/1NT8c38nlNlJny1yp8C7rd"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "If You Want It (Come And Get It)",
+        "url": "https://open.spotify.com/album/1kphSRNJvf2BOZzdeWBAnx"
+      },
+      "artists": [
+        {
+          "name": "Huma & Peka P",
+          "url": "https://open.spotify.com/artist/02Nt3OkXIruZ6g5tjNt3KQ"
+        },
+        {
+          "name": "Zemya Hamilton",
+          "url": "https://open.spotify.com/artist/4SUqm9DS4e1Z8TwIsXdse2"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "If You Want It (Come And Get It)",
+      "url": "https://open.spotify.com/track/5Pbq9SIfdF89GeNj7mvDpk"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "Ei katumusta",
+        "url": "https://open.spotify.com/album/5TON0xehGFYN5f7TgXcczz"
+      },
+      "artists": [
+        {
+          "name": "Laki & J\u00e4rjestys",
+          "url": "https://open.spotify.com/artist/0YSNbN9jIn4zpJgDJrZzFa"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Ei katumusta",
+      "url": "https://open.spotify.com/track/0XfqzOoE1QaF9lQ7sHWUCx"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "Katharsis",
+        "url": "https://open.spotify.com/album/6x4Hr46KtMcs3nfPuV2sgQ"
+      },
+      "artists": [
+        {
+          "name": "Lucaria",
+          "url": "https://open.spotify.com/artist/1bPh2Xdk2HBNaYGw8WwlyU"
+        }
+      ],
+      "duration_ms": 260121,
+      "name": "Katharsis",
+      "url": "https://open.spotify.com/track/3wN7IpqIOcsIUX67Gn4mH6"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "Blue Line to Albion",
+        "url": "https://open.spotify.com/album/59oRgfjsJEf8hwt8fpNznt"
+      },
+      "artists": [
+        {
+          "name": "The Dave Park Five",
+          "url": "https://open.spotify.com/artist/05h2clqPlm55kpsgjTQt8y"
+        }
+      ],
+      "duration_ms": 194076,
+      "name": "Blue Line To Albion",
+      "url": "https://open.spotify.com/track/0vaTXoheNTAbdYY7gmAsP7"
+    },
+    {
+      "added_at": "2024-06-21 15:06:19",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4HSb5zqyZq86qzcpMC2dEx"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie",
+          "url": "https://open.spotify.com/artist/7qrvADbt85eC6l6TvHKGcL"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/0MS1EoDjRVx1Ri6xgekcwE"
     }
   ],
   "unique_name": "Independent Music Friday",

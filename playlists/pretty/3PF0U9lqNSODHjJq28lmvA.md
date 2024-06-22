@@ -4,22 +4,29 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,357 likes - 13 songs - 52 min 12 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,358 likes - 20 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cold Youth](https://open.spotify.com/track/0fvq5q0irgl7JvH1Tu4IME) | [TeYo](https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC) | [Cold Youth](https://open.spotify.com/album/3HlT9vLIozged2PNkAsfL4) | 2:52 |
-| 2 | [Kauan sitten kaukaisessa galaksissa](https://open.spotify.com/track/3s2Z1ccc0MSA7BwveLd76d) | [Yön Polte](https://open.spotify.com/artist/10rz5JoVSxAX3I69C8NeXo) | [Kauan sitten kaukaisessa galaksissa](https://open.spotify.com/album/6EBwtBXXrAdIOnohdlOrnO) | 2:21 |
-| 3 | [i wish that I was normal about her but I'm not](https://open.spotify.com/track/6av73NjKjmdZPkff3sQODg) | [IVIX](https://open.spotify.com/artist/0CdfkXly840nzSuduDhEQF) | [Sinclair](https://open.spotify.com/album/0IoJkQhIZbZXFRF1dG12lU) | 3:53 |
-| 4 | [My Prayer \- Chant Mix](https://open.spotify.com/track/65IIKAgC48F14G2EQqbA85) | [Max SA](https://open.spotify.com/artist/70juXESYrBbE8KOmDzxcab) | [All Shades of The Drum \- Compilation, Vol\. 1](https://open.spotify.com/album/4XTIGycVWg8thI2WcU9bbr) | 7:51 |
-| 5 | [Shadows Tall](https://open.spotify.com/track/4chmViuxWggVSOlmw71fch) | [God Given Ass](https://open.spotify.com/artist/3YYiamegMtewnR6PjpzoGx) | [Shadows Tall](https://open.spotify.com/album/0tXQnIbTMUAxHwshpaVny8) | 1:41 |
-| 6 | [Torment Anthem](https://open.spotify.com/track/4LN4wl1BtS30gBtCbgLnUj) | [Sami Lust](https://open.spotify.com/artist/4MJxUxKRbXxaTxilE16bYp) | [Surreal Nocturnes](https://open.spotify.com/album/0GIgAKWFgOfrSiT3zc33Y4) | 2:18 |
-| 7 | [Out Of My Mind](https://open.spotify.com/track/3zsrFhKSkornDn5rp2PrDj) | [Cardio](https://open.spotify.com/artist/1zeFfKiPLX9G9N7l5etRiG) | [Out Of My Mind](https://open.spotify.com/album/1RMt0zJYuWIoMdsMJHV0rd) | 3:06 |
-| 8 | [Fire and ice](https://open.spotify.com/track/1Z5gJm8bwNObM9zqfYFV65) | [Pothooks & Hangers](https://open.spotify.com/artist/5TtWqtdZfRfSex3z4PWXAZ), [J\-Brandt](https://open.spotify.com/artist/3RhrhZkpeGiQxCvpYGTbWn) | [Fire and ice](https://open.spotify.com/album/1uOFIkHXEaKvY9iQRKYpw3) | 4:45 |
-| 9 | [On](https://open.spotify.com/track/25vF7wLnAR3FdjJOWKHj59) | [JustTheDani](https://open.spotify.com/artist/7djz8hKAB3Eid8dI8Ai4Zh) | [Starlight](https://open.spotify.com/album/4ws0fx3qt2mHnYQDhkigXk) | 6:09 |
-| 10 | [Second to None](https://open.spotify.com/track/4MPd9Sbbvj0gLDWQnxNufJ) | [Andy E.](https://open.spotify.com/artist/1Cnd7VjoBrVoccgXCLDDtk), [Göran Edman](https://open.spotify.com/artist/6D6dxVY0ooHhTOJ8YD6UMa) | [Second to None](https://open.spotify.com/album/5iQhux99GCuA5hzeVhWoEv) | 5:26 |
-| 11 | [Catch My Breath](https://open.spotify.com/track/6Tz1BfDuU6ps0Ri3yiWWSS) | [Stephen Murphy](https://open.spotify.com/artist/0IGXpRPNet6sqbv0xB4Zwm) | [Catch My Breath](https://open.spotify.com/album/7BSBFL1228tZkeczg2eZ5Y) | 4:06 |
-| 12 | [HER TATTOOS](https://open.spotify.com/track/0G7VT1jHsC3uOpKPWyfOUk) | [The Richie Beakman Band](https://open.spotify.com/artist/4AiPP0295err6qOcFKFC1F) | [HER TATTOOS](https://open.spotify.com/album/1pxaIPFT8v00UTKLDonUHu) | 4:28 |
-| 13 | [Defying Gravity](https://open.spotify.com/track/6rYTJMwi9EiW6uv5rYsQ6i) | [Florian Voss](https://open.spotify.com/artist/5jK3Fm8xL2H1d7WnhbT2sW) | [Defying Gravity](https://open.spotify.com/album/5QyFbo0Rrja5onKP2eGBmC) | 3:11 |
+| 1 | [Little Star](https://open.spotify.com/track/2gWKzqI6aIji8x7v0K0uLq) | [The Maze](https://open.spotify.com/artist/61wBPKlSoRqGn4X2QArndI), [Sofie K Flenskov](https://open.spotify.com/artist/5kHZaGJlYVI9WdRdxmjYql) | [Little Star](https://open.spotify.com/album/1ghMBj7clWYJ18ikqTWcUI) | 3:22 |
+| 2 | [Ophelia & Maxi](https://open.spotify.com/track/4P7Y3dl0XZbQZ0m8njZtu6) | [GINAxC](https://open.spotify.com/artist/4hHUHCaBuD2d2FRHLgeOWQ) | [Ophelia & Maxi](https://open.spotify.com/album/2p79egjZmr7x7Q1ofv9BQf) | 2:57 |
+| 3 | [Polly](https://open.spotify.com/track/6o5wNJUXvp1E4kCQOjLQub) | [SiMitrē](https://open.spotify.com/artist/4tTn4cTXYgD6CSLV19j4Ev) | [Polly](https://open.spotify.com/album/2k63QtaNEcXYavHNEaVz6l) | 3:08 |
+| 4 | [På andra sidan muren](https://open.spotify.com/track/1ibjLAGSXL8iBm4XToBdhP) | [Patrick El\-Hag](https://open.spotify.com/artist/5pboe5cbQJqyabgHC0rNS1), [Emilia Granér](https://open.spotify.com/artist/7lEmvUDo9dWm0pfIJxykhN), [Íkorni](https://open.spotify.com/artist/0fmFoXeTu0NKeoycNUgujo) | [Historien om Brödraskapet](https://open.spotify.com/album/0mqQWVp9fDo7alWycWwU5f) | 3:18 |
+| 5 | [Sad Eyes](https://open.spotify.com/track/0I8QcspdmH7ye4PqSCOZvp) | [Riverfields](https://open.spotify.com/artist/4GLZ7xt97lbQWkePim9FPf) | [Sad Eyes](https://open.spotify.com/album/3tpcl9C6hgWhFuzIAdOxJA) | 5:03 |
+| 6 | [For Now Im Here](https://open.spotify.com/track/09U4YwzvgxtN3lRv3Mu4sf) | [EMPIRE OF TWO](https://open.spotify.com/artist/4jbmN1o9LSBUOi8eK0Vr0j) | [For Now Im Here](https://open.spotify.com/album/7M9jSaYXi33dQAZ5oqaRsl) | 2:43 |
+| 7 | [My Recipe](https://open.spotify.com/track/0WeokMxwZpNMHyGE4fd65D) | [Elm Tree Soul Project](https://open.spotify.com/artist/3uwztq7BTKrjHAW3SLEJbp), [Petra Kvännå](https://open.spotify.com/artist/71rrRtR8V2tDTf6zqk9ebQ) | [My Recipe](https://open.spotify.com/album/6rmbHbqw7Zz6arqPeQeBnu) | 3:54 |
+| 8 | [INGEN VET VAD JAG TÄNKER](https://open.spotify.com/track/5RSbXqQnp2EnokbAioBcnR) | [EMMA\-LO](https://open.spotify.com/artist/7tIstKgqj9GwXpN5SL7MTG) | [INGEN VET VAD JAG TÄNKER](https://open.spotify.com/album/3nUilhpUk1BDmir3qiHvMZ) | 2:40 |
+| 9 | [IAK](https://open.spotify.com/track/3vehJzUtXWp7pYYLNttUyc) | [MELIJAH](https://open.spotify.com/artist/1u6nljIBn7s6BtqQPCBeTP) | [IAK](https://open.spotify.com/album/2NM4kQIkeeP5XswTkNxeqA) | 3:06 |
+| 10 | [Souverän](https://open.spotify.com/track/7fLWMPOSfMpSEgCelaEMbx) | [MORNINGSTAR MUSIC](https://open.spotify.com/artist/5Z8Tt5ywUOCP65uWy2r1i8) | [Souverän](https://open.spotify.com/album/57JFaWOvJkXQMVaw81XHdQ) | 4:33 |
+| 11 | [Kaptein Morten](https://open.spotify.com/track/6z9qk1mnWQwi6yY7KXo8Nb) | [KennyR](https://open.spotify.com/artist/07l4MIrDSaRouWJE6sayAh) | [Kaptein Morten](https://open.spotify.com/album/4mdAUuBI2E2QMmVyrg3xXQ) | 3:44 |
+| 12 | [The United Weights](https://open.spotify.com/track/3crewFnwYarNxH52lE5T47) | [Color Mind](https://open.spotify.com/artist/2QsuIwtdJ7hdX96yxyH85C) | [The United Weights](https://open.spotify.com/album/6O5dLzPSxlU8mmdnyicXvZ) | 6:33 |
+| 13 | [Hordemen](https://open.spotify.com/track/3Ng6pzWu0aihfCTJqJKhJ2) | [Johnny Planet](https://open.spotify.com/artist/0uJf3uN1O8wFQ3zXDcERBY) | [Hordemen](https://open.spotify.com/album/0RLPxMr4SvcbQfLW2Q8ufY) | 5:31 |
+| 14 | [Cheap](https://open.spotify.com/track/2cKI0l1Of04p4QSm0SUiB7) | [Freaks on Parade](https://open.spotify.com/artist/4G0Swlb87nAno4AePJ7z5f) | [Cheap](https://open.spotify.com/album/0QvuWcUWoDVcrybkwXfcuI) | 3:15 |
+| 15 | [Sellout](https://open.spotify.com/track/1NT8c38nlNlJny1yp8C7rd) | [Goodnight Irene](https://open.spotify.com/artist/75tvtFKDLIYPAWZLtltTvS) | [Sellout](https://open.spotify.com/album/1vUqWxrlVDIeiU5M32ZQao) | 3:28 |
+| 16 | [If You Want It \(Come And Get It\)](https://open.spotify.com/track/5Pbq9SIfdF89GeNj7mvDpk) | [Huma & Peka P](https://open.spotify.com/artist/02Nt3OkXIruZ6g5tjNt3KQ), [Zemya Hamilton](https://open.spotify.com/artist/4SUqm9DS4e1Z8TwIsXdse2) | [If You Want It \(Come And Get It\)](https://open.spotify.com/album/1kphSRNJvf2BOZzdeWBAnx) | 3:57 |
+| 17 | [Ei katumusta](https://open.spotify.com/track/0XfqzOoE1QaF9lQ7sHWUCx) | [Laki & Järjestys](https://open.spotify.com/artist/0YSNbN9jIn4zpJgDJrZzFa) | [Ei katumusta](https://open.spotify.com/album/5TON0xehGFYN5f7TgXcczz) | 3:36 |
+| 18 | [Katharsis](https://open.spotify.com/track/3wN7IpqIOcsIUX67Gn4mH6) | [Lucaria](https://open.spotify.com/artist/1bPh2Xdk2HBNaYGw8WwlyU) | [Katharsis](https://open.spotify.com/album/6x4Hr46KtMcs3nfPuV2sgQ) | 4:20 |
+| 19 | [Blue Line To Albion](https://open.spotify.com/track/0vaTXoheNTAbdYY7gmAsP7) | [The Dave Park Five](https://open.spotify.com/artist/05h2clqPlm55kpsgjTQt8y) | [Blue Line to Albion](https://open.spotify.com/album/59oRgfjsJEf8hwt8fpNznt) | 3:14 |
+| 20 | [Shine](https://open.spotify.com/track/0MS1EoDjRVx1Ri6xgekcwE) | [Cæcilie](https://open.spotify.com/artist/7qrvADbt85eC6l6TvHKGcL) | [Shine](https://open.spotify.com/album/4HSb5zqyZq86qzcpMC2dEx) | 3:26 |
 
-Snapshot ID: `AAADvDYPoF1kAGARit4rqTlp0RL6BjYm`
+Snapshot ID: `AAADvndzmaZiLFFDwpujgkXVP2vEH+xA`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
+  "description": "This Is Sof\u00eda Reyes. Los temas esenciales, todos en una lista.",
   "name": "This Is Sof\u00eda Reyes",
   "tracks": [
     {
@@ -54,7 +54,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 161274,
       "name": "Altitud",
       "url": "https://open.spotify.com/track/4s1mxYuPgjlZH8cVscmSfC"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 168566,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/5SFvRp4yiMzqJgiRFKloi5"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 200973,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/4w83xAlenB5W4OHm4qqBrR"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 204633,
       "name": "coRaZ\u00d3n fR\u00edO",
       "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 160855,
       "name": "Il tuo profumo",
       "url": "https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 148700,
       "name": "Luna",
       "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 171625,
       "name": "Whose Arms (feat. Sofia Reyes)",
       "url": "https://open.spotify.com/track/0Y7zVDS3ppK8DGTGOfu0c2"

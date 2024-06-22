@@ -4,7 +4,7 @@
 
 > Songs from “ENSEMBLE STARS!!”「あんスタ」シリーズの楽曲を1つのプレイリストで。© 2014\-2019 Happy Elements K.K
 
-88 songs - 5 hr 56 min
+89 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Black Out See Saw](https://open.spotify.com/track/1FOVFvSKkcMfBNAdljJINi) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 ALKALOID](https://open.spotify.com/album/74QSMpOGlkVl5gPYM5Uolh) | 4:24 | 2024-04-26 |  |
 | [BRAND NEW STARS!!](https://open.spotify.com/track/6v8DhRbzX3080fORGkNeHX) | [ESオールスターズ](https://open.spotify.com/artist/4MCDJV5XahmKPes1Ccc7YO) | [『あんさんぶるスターズ！！』アプリ主題歌 「BRAND NEW STARS！！」](https://open.spotify.com/album/0NqWI3YZRvSpMBvoL8bFJQ) | 5:00 | 2024-05-24 | 2024-06-12 |
 | [Brilliant Smile](https://open.spotify.com/track/4UlLjDmCm3aa152WM02lKI) | [Switch/逆先夏目\(CV.野島健児\)、青葉つむぎ\(CV.石川界人\)、春川宙\(CV.山本和臣\)](https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV) | [Switch「Brilliant Smile」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7t4Y99FrYflBP9tlaAQlEc) | 3:58 | 2024-04-26 |  |
-| [Coruscate Breeze](https://open.spotify.com/track/200BbCUSbNkVF5P7qPSdkI) | [Knights/朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR) | [Knights「Coruscate Breeze」あんさんぶるスターズ！！ ESアイドルソング season3](https://open.spotify.com/album/02vP757RR8hJCnrAbkvAG6) | 3:52 | 2024-04-26 |  |
+| [Castle of my Heart](https://open.spotify.com/track/1Urnxd5ABu511f6XxQEptd) | [Knights/朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights](https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP) | 4:30 | 2024-05-24 |  |
+| [Coruscate Breeze](https://open.spotify.com/track/200BbCUSbNkVF5P7qPSdkI) | [Knights/朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR) | [Knights「Coruscate Breeze」あんさんぶるスターズ！！ ESアイドルソング season3](https://open.spotify.com/album/02vP757RR8hJCnrAbkvAG6) | 3:52 | 2024-04-26 | 2024-06-22 |
 | [Crazy Roulette](https://open.spotify.com/track/1dvGYKhpx7bmuYa09l1m74) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [あんさんぶるスターズ！！ ユニットソングCD Crazy:B](https://open.spotify.com/album/7HXv5hldgkfCwW67aMjk1j) | 4:14 | 2024-04-26 |  |
 | [Crush of Judgment](https://open.spotify.com/track/46CSWWCcDLMAU55Jb9TLc8) | [ナイトキラーズ/月永レオ\(CV.浅沼晋太郎\)、天祥院英智\(CV.緑川光\)、鬼龍紅郎\(CV.神尾晋一郎\)、仁兎なずな\(CV.米内佑希\)](https://open.spotify.com/artist/1lSJyubKtkGymlXRwo8mPB) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 3:26 | 2024-04-26 |  |
 | [Dance in the Apocalypse](https://open.spotify.com/track/4ao9YSHAFBAZf4qtH9klK9) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:58 | 2024-04-26 |  |

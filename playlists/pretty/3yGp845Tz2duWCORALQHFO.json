@@ -1,36 +1,32 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25717,
+  "num_followers": 25720,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABf6I4RU6eLLlErNHYXTn1BGJJjWBTE",
+  "snapshot_id": "AABgB7QDNg7SFoKaIOsrAw5HQzV+3KsE",
   "tracks": [
     {
       "added_at": "2024-06-20 16:18:17",
       "album": {
-        "name": "Resonate (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ"
+        "name": "Out of Time (feat. Bea Miller)",
+        "url": "https://open.spotify.com/album/3bYjmOOhtkMfjqfKdvhCjm"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         },
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
         }
       ],
-      "duration_ms": 241846,
-      "name": "Resonate (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ"
+      "duration_ms": 222908,
+      "name": "Out of Time (feat. Bea Miller)",
+      "url": "https://open.spotify.com/track/10t8QGZXfGCeAnEWSaWymM"
     },
     {
       "added_at": "2024-06-20 16:18:17",
@@ -67,22 +63,58 @@
     {
       "added_at": "2024-06-20 16:18:17",
       "album": {
-        "name": "Out of Time (feat. Bea Miller)",
-        "url": "https://open.spotify.com/album/3bYjmOOhtkMfjqfKdvhCjm"
+        "name": "Music is Better",
+        "url": "https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 222908,
-      "name": "Out of Time (feat. Bea Miller)",
-      "url": "https://open.spotify.com/track/10t8QGZXfGCeAnEWSaWymM"
+      "duration_ms": 236098,
+      "name": "Music is Better",
+      "url": "https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw"
+    },
+    {
+      "added_at": "2024-06-21 12:51:06",
+      "album": {
+        "name": "It's Really That Simple",
+        "url": "https://open.spotify.com/album/5uPEVqG2h8DiQUOyS534tM"
+      },
+      "artists": [
+        {
+          "name": "Ellie Sax",
+          "url": "https://open.spotify.com/artist/29F0PD42gPA2kL7wHWzgAN"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "It's Really That Simple",
+      "url": "https://open.spotify.com/track/41VrGIXMLPaQBOLdXV91Ab"
+    },
+    {
+      "added_at": "2024-06-20 16:18:17",
+      "album": {
+        "name": "Resonate (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 241846,
+      "name": "Resonate (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ"
     },
     {
       "added_at": "2024-06-20 16:18:17",
@@ -103,22 +135,6 @@
       "duration_ms": 230942,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/3vHsIxrMHCp4ITq8qRjSnk"
-    },
-    {
-      "added_at": "2024-06-20 16:18:17",
-      "album": {
-        "name": "Music is Better",
-        "url": "https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 236098,
-      "name": "Music is Better",
-      "url": "https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw"
     },
     {
       "added_at": "2024-06-20 16:18:17",
@@ -185,6 +201,26 @@
       "url": "https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o"
     },
     {
+      "added_at": "2024-06-21 12:46:39",
+      "album": {
+        "name": "Me Miras",
+        "url": "https://open.spotify.com/album/0XiomeQibsJy4HgbKhv2cP"
+      },
+      "artists": [
+        {
+          "name": "Malgado",
+          "url": "https://open.spotify.com/artist/2NTdVWdRRJObCbXP581yg5"
+        },
+        {
+          "name": "Scissors",
+          "url": "https://open.spotify.com/artist/3lK4kf4vQZ51qa2LiodnZ4"
+        }
+      ],
+      "duration_ms": 183307,
+      "name": "Me Miras",
+      "url": "https://open.spotify.com/track/6DdhTDzFan70YCvFMva1FL"
+    },
+    {
       "added_at": "2024-06-20 16:18:17",
       "album": {
         "name": "Take Me Home, Country Roads",
@@ -241,6 +277,26 @@
       "url": "https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL"
     },
     {
+      "added_at": "2024-06-21 12:51:06",
+      "album": {
+        "name": "I Adore You",
+        "url": "https://open.spotify.com/album/2cc0ttJPuvBxnJad5yEq9n"
+      },
+      "artists": [
+        {
+          "name": "STFU",
+          "url": "https://open.spotify.com/artist/6AVuKSupq14QCPEvNIumqE"
+        },
+        {
+          "name": "Selda",
+          "url": "https://open.spotify.com/artist/3RF4iwqcO3NmbIus4CFku7"
+        }
+      ],
+      "duration_ms": 154426,
+      "name": "I Adore You",
+      "url": "https://open.spotify.com/track/4M69AVbz1ECwkB0g6OgR5P"
+    },
+    {
       "added_at": "2024-06-20 16:18:17",
       "album": {
         "name": "Another Day",
@@ -285,6 +341,46 @@
       "url": "https://open.spotify.com/track/36s5orLQjAigIsH5TrgH8x"
     },
     {
+      "added_at": "2024-06-21 12:46:39",
+      "album": {
+        "name": "I Feel So Alive",
+        "url": "https://open.spotify.com/album/6KSF5MFnRLYMjaxXTxmZxY"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferry",
+          "url": "https://open.spotify.com/artist/7hqxrg2x1arsI6c72ZlVwW"
+        },
+        {
+          "name": "Luke DB",
+          "url": "https://open.spotify.com/artist/4chLPXLSly4IZblITuG4g6"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "I Feel So Alive",
+      "url": "https://open.spotify.com/track/1XA0QwLQ0Tle8yiYXgIc03"
+    },
+    {
+      "added_at": "2024-06-21 12:46:39",
+      "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/5GgdvR8pbvL9s9flUTPr8Y"
+      },
+      "artists": [
+        {
+          "name": "Kid Caird",
+          "url": "https://open.spotify.com/artist/1rRAOS5gztGhAEdcusPqc5"
+        },
+        {
+          "name": "Mynxy",
+          "url": "https://open.spotify.com/artist/7KuaTCUefVb0H18kNWPGcU"
+        }
+      ],
+      "duration_ms": 190403,
+      "name": "Majestic",
+      "url": "https://open.spotify.com/track/6CXWmZUYn5hyz24cPQCE1x"
+    },
+    {
       "added_at": "2024-06-20 16:18:17",
       "album": {
         "name": "Atomic City (Ti\u00ebsto Remix)",
@@ -303,6 +399,130 @@
       "duration_ms": 283888,
       "name": "Atomic City - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4AntJoNSbWUxcKb8J5QjBY"
+    },
+    {
+      "added_at": "2024-06-21 16:23:08",
+      "album": {
+        "name": "Hypnosis",
+        "url": "https://open.spotify.com/album/5f1RWIgni5Am4l2PAV3jys"
+      },
+      "artists": [
+        {
+          "name": "Guztavo MX",
+          "url": "https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q"
+        },
+        {
+          "name": "Kevin Brand",
+          "url": "https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS"
+        },
+        {
+          "name": "Delove",
+          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
+        }
+      ],
+      "duration_ms": 183809,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/3gblWqDMUtoilcmXTGvbhU"
+    },
+    {
+      "added_at": "2024-06-21 12:59:01",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/7paFKG0nvrLAEh4pCGz3zX"
+      },
+      "artists": [
+        {
+          "name": "Damian Ray",
+          "url": "https://open.spotify.com/artist/5liX0vRbvORENzGrNlmJ4J"
+        }
+      ],
+      "duration_ms": 201118,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/1UzByE5dIKKbiFmhQ71Qre"
+    },
+    {
+      "added_at": "2024-06-21 15:29:05",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/6cuK05lITMxE99BpxVh4ia"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Kartel",
+          "url": "https://open.spotify.com/artist/5djAumpISorEoZsJW9CZSP"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 281904,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1GLEzzAEti1U4LlT7xDT7O"
+    },
+    {
+      "added_at": "2024-06-21 14:59:18",
+      "album": {
+        "name": "Mindcircus",
+        "url": "https://open.spotify.com/album/1ngv596m1E03tjwFXqnCvU"
+      },
+      "artists": [
+        {
+          "name": "ALY$HIA",
+          "url": "https://open.spotify.com/artist/38sMetc66ave6OQSpl1BW3"
+        },
+        {
+          "name": "Ashleybaby",
+          "url": "https://open.spotify.com/artist/3UTlAChDHCs3MkoFhbUlkS"
+        },
+        {
+          "name": "Mike Gudmann",
+          "url": "https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s"
+        }
+      ],
+      "duration_ms": 165080,
+      "name": "Mindcircus",
+      "url": "https://open.spotify.com/track/0G4FpKy0ZON3iVCNnjF8eL"
+    },
+    {
+      "added_at": "2024-06-21 14:52:43",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/4bZ84GSVue2y8byEWWh68t"
+      },
+      "artists": [
+        {
+          "name": "Morgin Madison",
+          "url": "https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej"
+        }
+      ],
+      "duration_ms": 238095,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/3cIYa1UZpgWQs1s8gRTvUJ"
+    },
+    {
+      "added_at": "2024-06-21 12:59:11",
+      "album": {
+        "name": "Run With The Wolves (Aftershock Remix)",
+        "url": "https://open.spotify.com/album/18GOvr8H383sQaDhiQWgec"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "E-Life",
+          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+        },
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        }
+      ],
+      "duration_ms": 195874,
+      "name": "Run With The Wolves - Aftershock Remix",
+      "url": "https://open.spotify.com/track/1vqq1FqnxtcQG6lNKw8V1g"
     },
     {
       "added_at": "2024-06-20 16:18:17",
@@ -341,6 +561,178 @@
       "url": "https://open.spotify.com/track/5gR4bHNE54TnRIyA6Vbim2"
     },
     {
+      "added_at": "2024-06-21 12:46:39",
+      "album": {
+        "name": "La Patata (The Remixes)",
+        "url": "https://open.spotify.com/album/11yVvyJYSfRaoIgxBbsGwe"
+      },
+      "artists": [
+        {
+          "name": "Lanova",
+          "url": "https://open.spotify.com/artist/6ezugSuJaFJdOAkN5Uxt8j"
+        },
+        {
+          "name": "Arthur Wills",
+          "url": "https://open.spotify.com/artist/2gOUHvkhK4SLrb7tRzrxaX"
+        }
+      ],
+      "duration_ms": 147187,
+      "name": "La Patata (Arthur Wills Remix)",
+      "url": "https://open.spotify.com/track/0BdhiimXqkGemBCiolCfQZ"
+    },
+    {
+      "added_at": "2024-06-21 12:46:39",
+      "album": {
+        "name": "S.O.S",
+        "url": "https://open.spotify.com/album/6A0TFrXkpd9plxrQnvlhOB"
+      },
+      "artists": [
+        {
+          "name": "Avensis",
+          "url": "https://open.spotify.com/artist/76DphELFFOAk6DIvL1IrzL"
+        },
+        {
+          "name": "Diego Antoine",
+          "url": "https://open.spotify.com/artist/1PKxOhM0S3omhCI87AOdmZ"
+        },
+        {
+          "name": "Baby Rouge",
+          "url": "https://open.spotify.com/artist/7jPgv6RZtdmi5ZzEEdZ2AU"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "S.O.S",
+      "url": "https://open.spotify.com/track/5MXjD64PWXq9erehwkn9ER"
+    },
+    {
+      "added_at": "2024-06-21 12:46:39",
+      "album": {
+        "name": "LOSE CONTROL",
+        "url": "https://open.spotify.com/album/4Nvzg2QMciRBT2JhPnTGGO"
+      },
+      "artists": [
+        {
+          "name": "TARISH",
+          "url": "https://open.spotify.com/artist/14xzHAH8M0tHnfKDD2clV0"
+        }
+      ],
+      "duration_ms": 186437,
+      "name": "LOSE CONTROL",
+      "url": "https://open.spotify.com/track/15gBrrouXXYK1nczQ54wVZ"
+    },
+    {
+      "added_at": "2024-06-21 12:46:39",
+      "album": {
+        "name": "Disco Lights (Sacha Robotti Remixes)",
+        "url": "https://open.spotify.com/album/7wCtheiI50uqkuZyPjAcIo"
+      },
+      "artists": [
+        {
+          "name": "Lady Sinclair",
+          "url": "https://open.spotify.com/artist/0sO9yT0LDxI1QxAidXHd0n"
+        },
+        {
+          "name": "BodaciousThang",
+          "url": "https://open.spotify.com/artist/5F1LHgQFR2qXQGH8nrxpl1"
+        },
+        {
+          "name": "Sacha Robotti",
+          "url": "https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Disco Lights - Sacha Robotti Classic Edit",
+      "url": "https://open.spotify.com/track/61SqQZQDX7lnUsX2QqBBHu"
+    },
+    {
+      "added_at": "2024-06-21 12:46:39",
+      "album": {
+        "name": "Dirty Love",
+        "url": "https://open.spotify.com/album/1fcy9L4I94RKrPTbiSDxXi"
+      },
+      "artists": [
+        {
+          "name": "Small ToK",
+          "url": "https://open.spotify.com/artist/6hV8ewHG3ztpkuoZATWO3I"
+        },
+        {
+          "name": "Michael Rose",
+          "url": "https://open.spotify.com/artist/7Bgi6aKTae4TFb0swKwjk2"
+        }
+      ],
+      "duration_ms": 179877,
+      "name": "Dirty Love",
+      "url": "https://open.spotify.com/track/5XWRmp1j4A5xsVDhAD2Fvu"
+    },
+    {
+      "added_at": "2024-06-21 12:46:39",
+      "album": {
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/7bYjWVK4QXGLDB3ooT537b"
+      },
+      "artists": [
+        {
+          "name": "Kastelo",
+          "url": "https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON"
+        },
+        {
+          "name": "Daniel Arci",
+          "url": "https://open.spotify.com/artist/7HYOuHH5FkOSDUgLjk3G9a"
+        }
+      ],
+      "duration_ms": 180461,
+      "name": "Million Dollar Baby",
+      "url": "https://open.spotify.com/track/2HBT5uQo3MsNjB5gPEuV2L"
+    },
+    {
+      "added_at": "2024-06-21 12:46:39",
+      "album": {
+        "name": "Another Place",
+        "url": "https://open.spotify.com/album/6aL81iMWHL863M6pLzvA5i"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Maria",
+          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
+        }
+      ],
+      "duration_ms": 242012,
+      "name": "Another Place",
+      "url": "https://open.spotify.com/track/4TfwCvDys7j3stCbAkDc3c"
+    },
+    {
+      "added_at": "2024-06-21 14:52:43",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/0hmoNaOCVxLKjp9c4DdrSZ"
+      },
+      "artists": [
+        {
+          "name": "Folded Twice",
+          "url": "https://open.spotify.com/artist/7CqnPLXtXZQnNJJOZ04aud"
+        }
+      ],
+      "duration_ms": 205450,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/32wRfFhLGC1hU0nlmA6yiE"
+    },
+    {
+      "added_at": "2024-06-21 14:52:43",
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/2EepjZpHyuWFxExMhISJos"
+      },
+      "artists": [
+        {
+          "name": "Lucles",
+          "url": "https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa"
+        }
+      ],
+      "duration_ms": 160222,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/257vr2a1baei8GIWeKbJjL"
+    },
+    {
       "added_at": "2024-06-20 16:18:17",
       "album": {
         "name": "How You Move",
@@ -369,7 +761,7 @@
         },
         {
           "name": "NORTH",
-          "url": "https://open.spotify.com/artist/48nDztq25G7XW2JF3iRD4y"
+          "url": "https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc"
         }
       ],
       "duration_ms": 245466,
@@ -787,70 +1179,6 @@
       "duration_ms": 136551,
       "name": "Hurricane (with MSPUIYI)",
       "url": "https://open.spotify.com/track/3WBj4O6mXNzUx5nY1FEHtm"
-    },
-    {
-      "added_at": "2024-06-18 20:06:52",
-      "album": {
-        "name": "RUSH",
-        "url": "https://open.spotify.com/album/5kk395EVWSwONgyztm4rzo"
-      },
-      "artists": [
-        {
-          "name": "Max Parker",
-          "url": "https://open.spotify.com/artist/2nv4kJnjCxOSw6LD3a9NRe"
-        }
-      ],
-      "duration_ms": 183889,
-      "name": "RUSH",
-      "url": "https://open.spotify.com/track/4DCoqzKqUoVCO6JfOJfdxG"
-    },
-    {
-      "added_at": "2024-06-18 20:06:51",
-      "album": {
-        "name": "Look for the sun",
-        "url": "https://open.spotify.com/album/14A3ioHb6fujIVXFesgR4z"
-      },
-      "artists": [
-        {
-          "name": "Konstantin & Hal",
-          "url": "https://open.spotify.com/artist/3vkgLFyuwezp5HNm64wx9p"
-        }
-      ],
-      "duration_ms": 290239,
-      "name": "Look for the sun",
-      "url": "https://open.spotify.com/track/1oUIhYJfczr4QrpkfYZM1m"
-    },
-    {
-      "added_at": "2024-06-18 20:06:51",
-      "album": {
-        "name": "What's Up Brother",
-        "url": "https://open.spotify.com/album/1kGvr54Z36PMbZZbh735yz"
-      },
-      "artists": [
-        {
-          "name": "name unknown",
-          "url": "https://open.spotify.com/artist/7E75QbjZ3KDgQXVAHxCKp2"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "What's Up Brother",
-      "url": "https://open.spotify.com/track/6nQmYGnZ6daIC86GXf6c0i"
-    },
-    {
-      "added_at": "2024-06-18 20:05:51",
-      "album": {
-        "name": "Tropical Depression",
-        "url": "https://open.spotify.com/album/7CpzFy0LTUOZ1bPLk3VFpS"
-      },
-      "artists": [
-        {
-          "name": "jcSubterfuge",
-          "url": "https://open.spotify.com/artist/00xOgISXmnMDZ8NoU7SGUL"
-        }
-      ],
-      "duration_ms": 208945,
-      "name": "Tropical Depression",
-      "url": "https://open.spotify.com/track/6MeRpzacSW02GTAYM6qsb8"
     }
   ],
   "unique_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",

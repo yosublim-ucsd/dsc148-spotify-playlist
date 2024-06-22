@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "The leaders in the lively Pinoy indie scene. Cover: (e)motion engine",
+  "description": "The leaders in the lively Pinoy indie scene. Cover: Peej",
   "name": "Pinoy Indie Mix",
   "tracks": [
     {
@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Aking Araw, Araw-Araw",
+        "url": "https://open.spotify.com/album/013JCUPCrH1lYZZTyDWy2m"
+      },
+      "artists": [
+        {
+          "name": "Tema",
+          "url": "https://open.spotify.com/artist/0JHGjAEXAEzNH9nEv6Q3TB"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Aking Araw, Araw-Araw",
+      "url": "https://open.spotify.com/track/4ZHwzYR9RBQN5AZhilFJUp"
+    },
+    {
+      "album": {
         "name": "ANXIOUS HEART",
         "url": "https://open.spotify.com/album/6g5Y5wbjT5tyTEPicGAL5O"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 206351,
       "name": "ANXIOUS HEART",
       "url": "https://open.spotify.com/track/5XPsSVX2R3enPamRURMq3W"
@@ -110,7 +128,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 204590,
       "name": "around in the",
       "url": "https://open.spotify.com/track/4IHT3mAaqw5vkA2TJ0PCwH"
@@ -171,6 +189,24 @@
     },
     {
       "album": {
+        "name": "bakasyon",
+        "url": "https://open.spotify.com/album/3muugpfoJOOJm9PaobXiAq"
+      },
+      "artists": [
+        {
+          "name": "Carousel Casualties",
+          "url": "https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245452,
+      "name": "bakasyon",
+      "url": "https://open.spotify.com/track/7q7BWieEcjilMrSr752Hqk"
+    },
+    {
+      "album": {
         "name": "Bakit?",
         "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
       },
@@ -222,6 +258,28 @@
       "duration_ms": 182926,
       "name": "Binalewala",
       "url": "https://open.spotify.com/track/6VK9rCw2Gwt3zJ23bzxlwJ"
+    },
+    {
+      "album": {
+        "name": "Break time",
+        "url": "https://open.spotify.com/album/6qdAy7eI40I0PGOR6nDCkG"
+      },
+      "artists": [
+        {
+          "name": "Reese Lansangan",
+          "url": "https://open.spotify.com/artist/2JI8ViuZDBybY6Xd9ujUrb"
+        },
+        {
+          "name": "Neat",
+          "url": "https://open.spotify.com/artist/57I8hoEk21pfPwjVJvJB8U"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233761,
+      "name": "Break time",
+      "url": "https://open.spotify.com/track/7tDdIzfcxAtmU7JPTBpjiZ"
     },
     {
       "album": {
@@ -330,6 +388,24 @@
       "duration_ms": 284210,
       "name": "Di Na Ako",
       "url": "https://open.spotify.com/track/1wC67ZTpPMKRPBex4od1WB"
+    },
+    {
+      "album": {
+        "name": "Dreaming Love",
+        "url": "https://open.spotify.com/album/0IbAWqESXmB9pE9vN6JNN9"
+      },
+      "artists": [
+        {
+          "name": "Peej",
+          "url": "https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193674,
+      "name": "Dreaming Love",
+      "url": "https://open.spotify.com/track/7aTOU9OMrxUkvQ8YSY51jd"
     },
     {
       "album": {
@@ -626,7 +702,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 265182,
       "name": "Isip",
       "url": "https://open.spotify.com/track/0QBPWTTVyV3VclqALtmLWv"
@@ -716,7 +792,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 345344,
       "name": "Kita Kita",
       "url": "https://open.spotify.com/track/0J6a5fxArviWOiTBousbNO"
@@ -734,10 +810,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 270716,
       "name": "Kyusi",
       "url": "https://open.spotify.com/track/4IMI7CdeNMDzq544pAgXqj"
+    },
+    {
+      "album": {
+        "name": "Lalaluv",
+        "url": "https://open.spotify.com/album/2TYz0hh3NKf6BEFTo4Kf8l"
+      },
+      "artists": [
+        {
+          "name": "Noah Alejandre",
+          "url": "https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142363,
+      "name": "Lalaluv",
+      "url": "https://open.spotify.com/track/03f5I5T1V1qqQpJg2rHs5z"
     },
     {
       "album": {
@@ -806,7 +900,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 220200,
       "name": "MALABO",
       "url": "https://open.spotify.com/track/0QgdA3QMsbzQ6njndTb4kh"
@@ -954,7 +1048,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 225473,
       "name": "North Star",
       "url": "https://open.spotify.com/track/4zd6nKsF7gDSEUeluTiIgt"
@@ -1152,7 +1246,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 228625,
       "name": "Pinapangarap Ko",
       "url": "https://open.spotify.com/track/0ICei6ceMmzZfazpviavbn"
@@ -1383,6 +1477,24 @@
     },
     {
       "album": {
+        "name": "Segurista",
+        "url": "https://open.spotify.com/album/5xCU9FBN7R5cdD63zp5YiW"
+      },
+      "artists": [
+        {
+          "name": "Zild",
+          "url": "https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225139,
+      "name": "Segurista",
+      "url": "https://open.spotify.com/track/4urCXTl1AKVnETT8Lh6t4F"
+    },
+    {
+      "album": {
         "name": "Sigurado",
         "url": "https://open.spotify.com/album/28TgQT58FujmQoZ796M4Ma"
       },
@@ -1491,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/54g4fkb4VBlh4qra9Dhlla"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272695,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/4VfVkUe7wRRRatavXrLo6R"
+    },
+    {
+      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/4L5t9VxLQh4bS1JTN9dN9f"
       },
@@ -1586,7 +1716,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 255389,
       "name": "Superhuman",
       "url": "https://open.spotify.com/track/1HeGR9Pi3TCVDl4jrHZv2j"
@@ -1622,7 +1752,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 222000,
       "name": "Tagsilaw (Pinilit Ko Man)",
       "url": "https://open.spotify.com/track/5qCbzsd69aS34UN3WcxzZU"
@@ -1644,6 +1774,28 @@
       "duration_ms": 321320,
       "name": "Tayo (ating istorya)",
       "url": "https://open.spotify.com/track/2gOUaFafMr7UXmPHhlu1wm"
+    },
+    {
+      "album": {
+        "name": "Things will fall to its place",
+        "url": "https://open.spotify.com/album/7wXo0a8lh04U2nLVvaPlI2"
+      },
+      "artists": [
+        {
+          "name": "Doughbaby",
+          "url": "https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T"
+        },
+        {
+          "name": "Rees Gonzales",
+          "url": "https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233500,
+      "name": "Things will fall to its place",
+      "url": "https://open.spotify.com/track/7aoYrQTzLk4tGOwRrFBmdj"
     },
     {
       "album": {
@@ -1759,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/72A7ORj2vQe0AI1c3cQaHi"
+      },
+      "artists": [
+        {
+          "name": "The Nomads",
+          "url": "https://open.spotify.com/artist/6dfvmSow3REwLNbdpfcpOt"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/5SGgxgsbinITYDcJaOFw59"
+    },
+    {
+      "album": {
         "name": "Wag Naman",
         "url": "https://open.spotify.com/album/65pOeGMiizBrW6NCBQHYBa"
       },
@@ -1810,6 +1980,24 @@
       "duration_ms": 268085,
       "name": "Yakap",
       "url": "https://open.spotify.com/track/6dlW7m78wKau9ZRqPLAUJA"
+    },
+    {
+      "album": {
+        "name": "Yayaman",
+        "url": "https://open.spotify.com/album/3dYfEbwOG5hxviS4CASOPr"
+      },
+      "artists": [
+        {
+          "name": "Sean Archer",
+          "url": "https://open.spotify.com/artist/19SziRzo0hKaQCP037qnkz"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211714,
+      "name": "Yayaman",
+      "url": "https://open.spotify.com/track/3zDJnZkOnpfZ49wzvisooD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6oLdwrroY56"

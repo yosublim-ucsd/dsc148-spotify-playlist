@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All Ok",
-  "num_followers": 23161,
+  "num_followers": 23162,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm/cSAAAAADQS7Kkt5+swVFIL7iazg+q",
+  "snapshot_id": "ZnUSwAAAAAAmJwkKN64ju2W/mXBv5Ord",
   "tracks": [
     {
       "added_at": "2024-06-13 11:43:26",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/3KuefA47wSyDNFbFDDOdSJ"
     },
     {
+      "added_at": "2024-06-21 05:42:09",
+      "album": {
+        "name": "MATHU KATHE",
+        "url": "https://open.spotify.com/album/0P5SJYCQ3cvJqBjYv0spUI"
+      },
+      "artists": [
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "duration_ms": 95335,
+      "name": "MATHU KATHE",
+      "url": "https://open.spotify.com/track/42QHzIkKyTiOkM8DMmeTXM"
+    },
+    {
       "added_at": "2024-06-11 10:35:47",
       "album": {
         "name": "HANTHAKA",
@@ -91,6 +107,26 @@
       "duration_ms": 154740,
       "name": "HANTHAKA",
       "url": "https://open.spotify.com/track/5qFoxl74w8PJnjkr9tEGB3"
+    },
+    {
+      "added_at": "2024-06-21 05:40:35",
+      "album": {
+        "name": "Madanaari",
+        "url": "https://open.spotify.com/album/6r93mUXmJovD9aAJODJHCF"
+      },
+      "artists": [
+        {
+          "name": "Chethan Shrinivas",
+          "url": "https://open.spotify.com/artist/4xCYkVYorLsSPfALQ9FLem"
+        },
+        {
+          "name": "Kiran Manjunath",
+          "url": "https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz"
+        }
+      ],
+      "duration_ms": 247287,
+      "name": "Madanaari",
+      "url": "https://open.spotify.com/track/4xzx4jWCxPwXQNyVcQz3Sq"
     },
     {
       "added_at": "2024-04-26 12:05:14",
@@ -1269,30 +1305,6 @@
       "url": "https://open.spotify.com/track/06IGehC54CWNiupQEi8v9z"
     },
     {
-      "added_at": "2023-08-21 06:03:47",
-      "album": {
-        "name": "Chanda",
-        "url": "https://open.spotify.com/album/509cFj7JnwNgQZhhnjQL1m"
-      },
-      "artists": [
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        },
-        {
-          "name": "Buck",
-          "url": "https://open.spotify.com/artist/77KDxJeNBLxEabflrrZ9DG"
-        },
-        {
-          "name": "Navya H",
-          "url": "https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU"
-        }
-      ],
-      "duration_ms": 206380,
-      "name": "Chanda",
-      "url": "https://open.spotify.com/track/0DVxGoL51eoPgFljBnbJol"
-    },
-    {
       "added_at": "2024-01-11 09:51:31",
       "album": {
         "name": "Rocky Bhai 2.0",
@@ -1367,26 +1379,6 @@
       "duration_ms": 249219,
       "name": "Nanomme Ninnodane",
       "url": "https://open.spotify.com/track/1nXe2tZgYkFYAQiwYrc605"
-    },
-    {
-      "added_at": "2024-01-31 11:22:04",
-      "album": {
-        "name": "E Antara",
-        "url": "https://open.spotify.com/album/5yFyCO1TBQ8drF3u8kOQW5"
-      },
-      "artists": [
-        {
-          "name": "Puornausri D",
-          "url": "https://open.spotify.com/artist/4CmS8ZU3EGQDw0dJ7APSsy"
-        },
-        {
-          "name": "Kishore Vishwakarma",
-          "url": "https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ"
-        }
-      ],
-      "duration_ms": 156201,
-      "name": "E Antara",
-      "url": "https://open.spotify.com/track/06B2qEW26f8HGryps3zjp6"
     },
     {
       "added_at": "2024-01-22 08:42:17",

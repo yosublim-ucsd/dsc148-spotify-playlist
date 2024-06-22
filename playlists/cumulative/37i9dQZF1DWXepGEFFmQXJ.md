@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Blake Shelton, Post Malone
 
-673 songs - 1 day 12 hr 53 min
+674 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Darts in the Dark](https://open.spotify.com/track/01U7Hj60HEBOI9jCY9Wfh7) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Darts in the Dark](https://open.spotify.com/album/72qFlRjiGC6RJey0c4yHHD) | 3:13 | 2021-12-30 | 2022-05-20 |
 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 | 2023-07-27 | 2024-03-29 |
 | [Dead To Me](https://open.spotify.com/track/4i2O11UnrFyCvW1X4aZT28) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Dead To Me](https://open.spotify.com/album/07VQaRYNPQrX5q74HYMlqF) | 2:58 | 2022-10-13 | 2023-04-21 |
+| [Dear Life](https://open.spotify.com/track/6tlCs1MOqB8KML7KJqggZm) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Dear Life](https://open.spotify.com/album/5MyRxVJOCQTdWvqM333hxx) | 3:20 | 2024-06-21 |  |
 | [Deep Cuts](https://open.spotify.com/track/1LEOSfKAoEFCjQPiF44kqI) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Deep Cuts](https://open.spotify.com/album/6ZD2LgmUGRKzXWaJGf1nBM) | 4:05 | 2023-01-19 | 2023-05-05 |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 | 2024-03-15 |
 | [Denim & Rhinestones](https://open.spotify.com/track/4eTogc6gceI3O6AxwwP7oo) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/1OgqlCnE4CasUeYODzIMSs) | 2:48 | 2022-04-07 | 2022-06-10 |

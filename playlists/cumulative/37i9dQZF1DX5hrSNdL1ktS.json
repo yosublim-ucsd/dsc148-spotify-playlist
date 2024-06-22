@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Yeri Mua, Ovi y Uzielito Mix en portada ",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Peso Pluma y Kenia Os en portada ",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 148860,
       "name": "Champagne O Cerveza",
       "url": "https://open.spotify.com/track/2RsGtPL49HyVUQIp9cb98S"
@@ -3061,6 +3061,32 @@
     },
     {
       "album": {
+        "name": "DOMPERI",
+        "url": "https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "AXL",
+          "url": "https://open.spotify.com/artist/5F1lZDYOxfcsSMEHF28hdH"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125747,
+      "name": "DOMPERI",
+      "url": "https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4"
+    },
+    {
+      "album": {
         "name": "Dosis",
         "url": "https://open.spotify.com/album/0FCRnLWbqtfOqoy6NE83vM"
       },
@@ -3786,7 +3812,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 181288,
       "name": "Fan\u00e1tica",
       "url": "https://open.spotify.com/track/2rr9eIg8HM3xDHMMP3m2S7"
@@ -4729,6 +4755,24 @@
     },
     {
       "album": {
+        "name": "INGRATA4 (dime si a\u00fan)",
+        "url": "https://open.spotify.com/album/2ze4ym7uREFXo0nvswNpek"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "INGRATA4 (dime si a\u00fan)",
+      "url": "https://open.spotify.com/track/6PBvW3ndFy2YafGRIniiNZ"
+    },
+    {
+      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/3uELVtlt5jNtdea6DlmjIC"
       },
@@ -5416,7 +5460,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 146441,
       "name": "La Mini",
       "url": "https://open.spotify.com/track/5cBYXVEGfdcEm506VCvxHG"
@@ -5992,7 +6036,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 218546,
       "name": "Low Low",
       "url": "https://open.spotify.com/track/1ZtEclbrM4Mli3nuyEXfSz"
@@ -6764,6 +6808,32 @@
       "duration_ms": 230776,
       "name": "Mejor Sola",
       "url": "https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA"
+    },
+    {
+      "album": {
+        "name": "Meknico",
+        "url": "https://open.spotify.com/album/7kZ221kyoNC3L5FX6FVeoN"
+      },
+      "artists": [
+        {
+          "name": "SAIBU",
+          "url": "https://open.spotify.com/artist/5mSb56qJRcHVRRDveOmcfO"
+        },
+        {
+          "name": "Ximena Nazor",
+          "url": "https://open.spotify.com/artist/46mEOjpSXIdTaxVUdB1IMk"
+        },
+        {
+          "name": "El Burger",
+          "url": "https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181031,
+      "name": "Meknico",
+      "url": "https://open.spotify.com/track/4HLwEWIpE9GHthDq0gt9bx"
     },
     {
       "album": {
@@ -8603,6 +8673,28 @@
     },
     {
       "album": {
+        "name": "PING PONG",
+        "url": "https://open.spotify.com/album/4LP3Y26C12xUsb9xAwxRx1"
+      },
+      "artists": [
+        {
+          "name": "Coko Yamasaki",
+          "url": "https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm"
+        },
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150900,
+      "name": "PING PONG",
+      "url": "https://open.spotify.com/track/0qI0J50GolEBw5ltlROG1s"
+    },
+    {
+      "album": {
         "name": "Pirin Pin Pate",
         "url": "https://open.spotify.com/album/1cwCdUzefae0KzvZEFO6RD"
       },
@@ -9164,6 +9256,32 @@
       "duration_ms": 228981,
       "name": "Putazo",
       "url": "https://open.spotify.com/track/4Ms3gJz40k4bikKwJklZNu"
+    },
+    {
+      "album": {
+        "name": "PUTEA",
+        "url": "https://open.spotify.com/album/4EDaLQBfLrQzfHNkYAFQnm"
+      },
+      "artists": [
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        },
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133724,
+      "name": "PUTEA",
+      "url": "https://open.spotify.com/track/4DaYLhm3Gz6eLT3RDv9svr"
     },
     {
       "album": {
@@ -10288,7 +10406,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 147768,
       "name": "Sica\u00f1eras",
       "url": "https://open.spotify.com/track/56HNo4OfVe6D3p1nAYECGc"
@@ -11184,10 +11302,32 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 197157,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/4EdHTVBsgld3GU8YdaUglf"
+    },
+    {
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209361,
+      "name": "TOMMY & PAMELA",
+      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
     },
     {
       "album": {

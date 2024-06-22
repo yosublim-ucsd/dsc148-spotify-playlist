@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 19986,
+  "num_followers": 19992,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnIfgAAAAADYzsTCwqinDdhsxjle9tMG",
+  "snapshot_id": "ZnNxAAAAAAB6JWP+FnwS0bpsR5Y8sTKW",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "I Go Ka",
+      "url": "https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voyageur",
         "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 392226,
       "name": "Bandolobourou (feat. Oumou Sangar\u00e9)",
       "url": "https://open.spotify.com/track/33SofccGynwQFUgRvB2Oq7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Source",
-        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "I Go Ka",
-      "url": "https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voyageur",
-        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 312840,
-      "name": "Sambadio (Acoustic)",
-      "url": "https://open.spotify.com/track/1buE2NraJ2ck6cllJv7ywt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red & Green",
         "url": "https://open.spotify.com/album/1unfmLA8C89Ay8uOVCEEyQ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 226880,
       "name": "Green: Sidi Gouro",
       "url": "https://open.spotify.com/track/45OnVsQZv5gc1LW4VMQwzy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 312840,
+      "name": "Sambadio (Acoustic)",
+      "url": "https://open.spotify.com/track/1buE2NraJ2ck6cllJv7ywt"
     },
     {
       "added_at": null,

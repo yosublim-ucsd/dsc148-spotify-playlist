@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-315 songs - 15 hr 12 min
+317 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [My Room \- Makla Remix](https://open.spotify.com/track/1eupUP0KyIxklOmWSe0PO1) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M) | [My Room \(Remixes\)](https://open.spotify.com/album/6efb70DGUPyC36qBqmLI1h) | 3:03 | 2024-03-29 |  |
 | [Name Of Your DJ \(With 3 Are Legend\)](https://open.spotify.com/track/5cvbgqwWxlvC5la8h86qRi) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [MC Ambush](https://open.spotify.com/artist/18T0SpXY06tqdiyBTYTIgi) | [Name Of Your DJ \(With 3 Are Legend\)](https://open.spotify.com/album/68TkP5GE6s34dBCSdjnajh) | 2:39 | 2023-02-03 | 2023-04-09 |
 | [Nasty](https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Nasty](https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4) | 2:40 | 2023-05-05 |  |
+| [Nemesis \(feat\. Jack Dawson\)](https://open.spotify.com/track/2Rsg4JE8ShKmLe7K6IcJJV) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Jack Dawson](https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx) | [Nemesis](https://open.spotify.com/album/4sLvvQA9b5mCnnB3h5k9dk) | 2:59 | 2024-06-21 |  |
 | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Paige Duché](https://open.spotify.com/artist/2tlmeCXC8LbHPgPZYDPgws) | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN) | 2:42 | 2022-12-02 | 2023-04-09 |
 | [New Chapter \(뉴 챕터\)](https://open.spotify.com/track/7cxudOOQvZl3ot8JaL0yQc) | [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id), [Hollakim](https://open.spotify.com/artist/0g4osFXWrdwah2NGdon8yn) | [New Chapter \(뉴 챕터\)](https://open.spotify.com/album/52YITUh4O8tt4LcRRMpo8Q) | 2:21 | 2023-11-22 |  |
 | [Next Track](https://open.spotify.com/track/1q6EXjWwI7PSqG2QOZXRev) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Next Track](https://open.spotify.com/album/5QG60uPzCpuXdxvHZWHzks) | 2:45 | 2022-05-06 | 2022-08-20 |
@@ -278,6 +279,7 @@
 | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r) | 2:23 | 2022-05-06 | 2022-09-07 |
 | [Tempest](https://open.spotify.com/track/5gCKPDM4n94TD4c0D8fxJj) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Return To Form](https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX) | 3:15 | 2022-08-12 | 2023-04-09 |
 | [The Whistle](https://open.spotify.com/track/0nYD5euxX3xsIe9bda0Fqg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [The Whistle](https://open.spotify.com/album/6Ml1rV2N0McOkkfUU8k7iR) | 2:11 | 2022-08-05 | 2023-04-09 |
+| [Thief](https://open.spotify.com/track/0HBCJAYmcJPNM6iCj00dqz) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Thief](https://open.spotify.com/album/02v9FsNlUM7Sy828mVOS7D) | 2:51 | 2024-06-21 |  |
 | [Think About](https://open.spotify.com/track/79IQ11ZcslJLGJwwOAbLmh) | [HONÜ](https://open.spotify.com/artist/5U96ytItXSJmQBUOOhMxKq), [WHOWHENWHY](https://open.spotify.com/artist/5RiXLHmJCEhojilpOaK6FL) | [Think About](https://open.spotify.com/album/1wMh5zzVENh361hATA203p) | 3:48 | 2023-11-22 |  |
 | [Throw It Back](https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Throw It Back](https://open.spotify.com/album/3eKEOVPOf9zuTO66tszH9x) | 2:20 | 2024-03-22 |  |
 | [Time](https://open.spotify.com/track/08J3WyZe6XG53cL8OW3ZnU) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Time](https://open.spotify.com/album/6Q7CghzgduIYq5exyNO2Pv) | 2:36 | 2022-09-02 | 2023-04-09 |

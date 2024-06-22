@@ -4,14 +4,14 @@
 
 > Dengar lagu\-lagu teristimewa yang dapat membuat kita jatuh hati dan terjebak nostalgia
 
-49 songs - 3 hr 15 min
+49 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Anganku Anganmu](https://open.spotify.com/track/3jK5ndIlxMK3rN0gjlfkzh) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Anganku Anganmu](https://open.spotify.com/album/2rcgujGp62RuIQljQTuiHK) | 4:31 | 2023-02-23 |  |
 | [Apalah \(Arti Menunggu\)](https://open.spotify.com/track/6iBuCdHWsIJ3qCDs50w2lS) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 3:34 | 2023-02-23 |  |
 | [Bahasa Kalbu](https://open.spotify.com/track/7c98gah3Qah9o76kgkzfrV) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Bahasa Kalbu](https://open.spotify.com/album/4rwf3B24qEi1QgQLz9R1nh) | 5:51 | 2023-02-23 |  |
-| [Begitulah Cinta](https://open.spotify.com/track/0sBgb8w0ZomZux1ip03fMy) | [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Begitulah Cinta](https://open.spotify.com/album/0n5HOiKpKFxfbGc883OEvy) | 5:00 | 2023-09-13 |  |
+| [Begitulah Cinta](https://open.spotify.com/track/0sBgb8w0ZomZux1ip03fMy) | [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Begitulah Cinta](https://open.spotify.com/album/0n5HOiKpKFxfbGc883OEvy) | 5:25 | 2023-09-13 |  |
 | [Berdamai](https://open.spotify.com/track/5MQPJBK0VdL99aLqSKuOTM) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 4:36 | 2023-02-23 |  |
 | [Biar Menjadi Kenangan](https://open.spotify.com/track/7ojaR6Rp7lgu64RoOaSn6a) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Biar Menjadi Kenangan](https://open.spotify.com/album/7b9Lm3r0MDZM4MCreFJi9c) | 5:13 | 2023-09-13 |  |
 | [Biarkanlah](https://open.spotify.com/track/0FERqRAVmXwPasxY5Jt8k1) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 3:47 | 2023-02-23 | 2024-04-19 |

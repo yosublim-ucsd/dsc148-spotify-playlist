@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: orbit
 
-3,769 songs - 13 day 17 hr 0 min
+3,770 songs - 13 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2742,6 +2742,7 @@
 | [River](https://open.spotify.com/track/6aErHQ8B7PvWqQiig7li7n) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [River](https://open.spotify.com/album/3iBQdUiYjLiiOHqs3Yai1Z) | 4:04 | 2022-08-25 | 2022-09-09 |
 | [Riverbed \(feat\. Birdy\)](https://open.spotify.com/track/6GaWzv1cSgyUCuncicStu5) | [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Riverbed \(feat\. Birdy\)](https://open.spotify.com/album/0szWQ0KtokRB3mpiSTDUR2) | 4:09 | 2022-08-04 | 2022-08-19 |
 | [Riverrun](https://open.spotify.com/track/6FdNIE2HhVRhrMcKTxIbqQ) | [Extrawelt](https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB) | [Riverrun/Midi Waters](https://open.spotify.com/album/3o9yZCaNMozibSUd0cQlFX) | 6:42 | 2024-05-30 | 2024-06-14 |
+| [Road to Brindisi](https://open.spotify.com/track/4C8qr4LZ1PLANmkNcran55) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Road to Brindisi](https://open.spotify.com/album/4d44WsHVE76Qb2sApEUGJ8) | 6:59 | 2024-06-21 |  |
 | [Roads Of Gold](https://open.spotify.com/track/0QNzmM3G7YUm81329OwCHF) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/6buk9gBgZX5FGqLc1PIvXo) | 8:58 | 2023-08-25 | 2023-09-15 |
 | [Roads Of Gold \- Edit](https://open.spotify.com/track/1M1g0SAJavX4mMLqEqKTDn) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/5j2ZsWodikhixJNHhUCGKq) | 5:10 | 2023-08-10 | 2023-09-01 |
 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 | 2024-04-11 | 2024-05-10 |

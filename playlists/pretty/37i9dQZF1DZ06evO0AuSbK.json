@@ -1,29 +1,13 @@
 {
   "description": "This is Limp Bizkit. The essential tracks, all in one playlist.",
-  "num_followers": 392715,
+  "num_followers": 392886,
   "original_name": "This Is Limp Bizkit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnIfgAAAAADToX/wgOo2f+jlC1SDHQ5g",
+  "snapshot_id": "ZnNxAAAAAAAexF9KteiM6rlIaOmguLes",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "Break Stuff",
-      "url": "https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX"
-    },
     {
       "added_at": null,
       "album": {
@@ -146,15 +130,11 @@
         {
           "name": "Limp Bizkit",
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 289866,
-      "name": "N 2 Gether Now",
-      "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
+      "duration_ms": 354733,
+      "name": "Re-Arranged",
+      "url": "https://open.spotify.com/track/6IPJ7LeWIOhxPW8Sq3nIGc"
     },
     {
       "added_at": null,
@@ -216,9 +196,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 354733,
-      "name": "Re-Arranged",
-      "url": "https://open.spotify.com/track/6IPJ7LeWIOhxPW8Sq3nIGc"
+      "duration_ms": 215040,
+      "name": "Just Like This",
+      "url": "https://open.spotify.com/track/7on45JTbuUgroAC4DXwBqQ"
     },
     {
       "added_at": null,
@@ -271,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
       },
       "artists": [
         {
@@ -280,9 +260,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 215040,
-      "name": "Just Like This",
-      "url": "https://open.spotify.com/track/7on45JTbuUgroAC4DXwBqQ"
+      "duration_ms": 308093,
+      "name": "Counterfeit",
+      "url": "https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"
     },
     {
       "added_at": null,
@@ -303,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },
       "artists": [
         {
@@ -312,9 +292,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 308093,
-      "name": "Counterfeit",
-      "url": "https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah"
+      "duration_ms": 260105,
+      "name": "Nobody Like You",
+      "url": "https://open.spotify.com/track/5VNMlLgQdpo2ksrYzD9ANy"
     },
     {
       "added_at": null,
@@ -335,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
       },
       "artists": [
         {
@@ -344,9 +324,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 260105,
-      "name": "Nobody Like You",
-      "url": "https://open.spotify.com/track/5VNMlLgQdpo2ksrYzD9ANy"
+      "duration_ms": 361360,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
     },
     {
       "added_at": null,
@@ -367,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/5Bu9ucyQatIFNf6dm0lzpX"
       },
       "artists": [
         {
@@ -376,9 +356,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 361360,
-      "name": "Ready To Go",
-      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
+      "duration_ms": 244840,
+      "name": "Just Drop Dead",
+      "url": "https://open.spotify.com/track/7oGFLiay0XopGrUiYbZKHC"
     },
     {
       "added_at": null,
@@ -399,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eat You Alive",
-        "url": "https://open.spotify.com/album/5Bu9ucyQatIFNf6dm0lzpX"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "Just Drop Dead",
-      "url": "https://open.spotify.com/track/7oGFLiay0XopGrUiYbZKHC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Results May Vary",
         "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
       },
@@ -427,6 +391,22 @@
       "duration_ms": 273440,
       "name": "Lonely World",
       "url": "https://open.spotify.com/track/77AbmFudFBhF5a4Vcmwqtu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 276093,
+      "name": "9 Teen 90 Nine",
+      "url": "https://open.spotify.com/track/6XZYUvrAP4JabmdmL4elpz"
     },
     {
       "added_at": null,
@@ -463,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STILL SUCKS",
-        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 175203,
-      "name": "Don't Change",
-      "url": "https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Results May Vary",
         "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
       },
@@ -491,6 +455,22 @@
       "duration_ms": 278000,
       "name": "Almost Over",
       "url": "https://open.spotify.com/track/043Re81uRxCx2Nw6LfAheU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 239160,
+      "name": "I'm Broke",
+      "url": "https://open.spotify.com/track/12IRA5MdLZL5hiBAPVRJpc"
     },
     {
       "added_at": null,
@@ -527,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unquestionable Truth (Pt. 1)",
-        "url": "https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 325520,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/52h4yQrQZD3BkycTqlKsjj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Results May Vary",
         "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
       },
@@ -559,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
       },
       "artists": [
         {
@@ -568,9 +532,25 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 212866,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/2PusNhFvJHBr4qtHBKcHP4"
+      "duration_ms": 175203,
+      "name": "Don't Change",
+      "url": "https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Unquestionable Truth (Pt. 1)",
+        "url": "https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 325520,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/52h4yQrQZD3BkycTqlKsjj"
     },
     {
       "added_at": null,
@@ -587,6 +567,22 @@
       "duration_ms": 222186,
       "name": "Douche Bag",
       "url": "https://open.spotify.com/track/02feeh3yjDZDXEOXiVh96S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/2PusNhFvJHBr4qtHBKcHP4"
     },
     {
       "added_at": null,
@@ -623,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "Indigo Flow",
-      "url": "https://open.spotify.com/track/1XkTsmGEThbTQRQpB5byLU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold Cobra (Deluxe)",
         "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
       },
@@ -651,6 +631,22 @@
       "duration_ms": 285573,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/6cUABkGFq0f8hBZZCUBX4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Indigo Flow",
+      "url": "https://open.spotify.com/track/1XkTsmGEThbTQRQpB5byLU"
     },
     {
       "added_at": null,

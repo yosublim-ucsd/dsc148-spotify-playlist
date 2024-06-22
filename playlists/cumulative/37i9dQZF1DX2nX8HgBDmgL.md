@@ -2,9 +2,9 @@
 
 ### [Desi Pop](https://open.spotify.com/playlist/37i9dQZF1DX2nX8HgBDmgL)
 
-> Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
+> Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\. Cover: Shazia Manzoor, Hasan Raheem
 
-223 songs - 11 hr 58 min
+226 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Chidiya](https://open.spotify.com/track/0aoN9BQostK81IFddJn8Ej) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Chidiya](https://open.spotify.com/album/6xecxwI17jdNrGKvHPIqVc) | 4:13 | 2024-02-22 |  |
 | [Chori Chori](https://open.spotify.com/track/06gywLVa2SQz9lqlDEOpy3) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Chori Chori](https://open.spotify.com/album/4CXtHDOWbfetK0RWxA2KV4) | 2:37 | 2024-03-08 | 2024-03-20 |
 | [Cleopatra](https://open.spotify.com/track/0YIS5mqANRBYctDGoT48n7) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [SKYPEARL](https://open.spotify.com/album/4QJAdeUYpNo8d4Xcsc5q23) | 3:10 | 2022-07-18 | 2024-02-23 |
+| [Closer](https://open.spotify.com/track/28QJs6V4uDtVTIg4VVkuUC) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA), [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Closer](https://open.spotify.com/album/6fkrNoGGIy7ZZimH0jHSKn) | 3:04 | 2024-06-21 |  |
 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 | 2022-07-18 | 2024-02-23 |
 | [Conversation](https://open.spotify.com/track/5YO3GNlT1YvOx4Lnqxtqkh) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Conversation](https://open.spotify.com/album/27RE1xF0cjFdDeCD6JQbQD) | 3:24 | 2022-07-18 | 2023-06-20 |
 | [Conversation](https://open.spotify.com/track/5ymlYguQXtMDToYT7LVKhV) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Conversation](https://open.spotify.com/album/20OSaJ2FXmrwKqgDbJfUw3) | 3:24 | 2023-06-06 | 2024-02-23 |
@@ -210,6 +211,7 @@
 | [Tu Aake Dekhle](https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/5eF8So0MxcSwx5mWSG93QE) | 4:30 | 2024-01-03 | 2024-04-19 |
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2024-01-03 | 2024-02-23 |
 | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/track/35bGZ0hG27HIz9ZnTGNr7N) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/album/30T3kSECyT1i2ytnwAcq0E) | 4:17 | 2021-11-11 | 2022-07-19 |
+| [Turri Jandi](https://open.spotify.com/track/1gSqal5vT2GzXgDPMwMelX) | [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Turri Jandi](https://open.spotify.com/album/0sSqbyObhNcau4CMkqC8JU) | 4:26 | 2024-06-21 |  |
 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 | 2022-07-18 | 2024-02-23 |
 | [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2022-07-18 | 2024-02-23 |
 | [Vaari](https://open.spotify.com/track/6RQPXXiTIkduK1LIQrol0c) | [Ickey Singh](https://open.spotify.com/artist/1aVl46MimzqUMhxWv683On), [Swifty Beats](https://open.spotify.com/artist/6wmOEv1HDNNQadm7KoxsOU), [J Spades](https://open.spotify.com/artist/0CUMYJraqFJ5RddqfuScWa) | [Vaari](https://open.spotify.com/album/3SZgHpIznSI54IfrbnE44R) | 2:39 | 2021-11-11 | 2022-07-19 |
@@ -220,6 +222,7 @@
 | [Waqt](https://open.spotify.com/track/7ACSQpHGwFWqEBoygjPYeX) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Waqt](https://open.spotify.com/album/0tn5e3YPdGEnOk5k74miWa) | 3:22 | 2021-11-11 | 2022-07-19 |
 | [Where You Been](https://open.spotify.com/track/57xWJEl3Odq80nBFK51EvL) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Where You Been](https://open.spotify.com/album/4rsDasY2baKkPMdgXiSbgM) | 3:32 | 2021-11-11 | 2022-07-19 |
 | [Ya Baba](https://open.spotify.com/track/0BQrLEaZ9Y618LSOP1maf7) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Rami Beatz](https://open.spotify.com/artist/1cgsLN7cUduNA4uc8riOwC) | [Ya Baba](https://open.spotify.com/album/7yND8RNR0dn4fxm3U34SEl) | 3:51 | 2021-11-11 | 2022-07-19 |
+| [Yaar Di Akh](https://open.spotify.com/track/2FNmlA73WxtL50tt02nO2o) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Yaar Di Akh](https://open.spotify.com/album/4bw3hIEEPoVU1hhRFuszyl) | 3:54 | 2024-06-21 |  |
 | [Yaar Ki Shaadi](https://open.spotify.com/track/5JLeNYBwqJJAMrpn3KblTl) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Yaar Ki Shaadi](https://open.spotify.com/album/2RUKEhQZVl09sBtf6MdXXb) | 3:10 | 2023-11-08 | 2024-02-23 |
 | [Yaara Tu](https://open.spotify.com/track/4EDJQR7mhUeSMGgmHvZTqV) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Yaara Tu](https://open.spotify.com/album/6ti72F8nhkUeSOI0pS2ZJK) | 3:26 | 2021-11-11 | 2022-07-19 |
 | [Yarri Yeah](https://open.spotify.com/track/2Cby9QLsraYQ5Thh7GbxIh) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t), [Nani Anjali](https://open.spotify.com/artist/3CTcuoJ9PcfvNOLwcdQWDe) | [Magic](https://open.spotify.com/album/6DAj9M8xI1WiZJudRL7lBB) | 3:58 | 2021-11-11 | 2022-07-19 |

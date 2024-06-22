@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Ebow
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,333 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,343 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [Hoe Season](https://open.spotify.com/track/46CPUc8PiEBlSQ4RAOWLeS) | [LilliPop](https://open.spotify.com/artist/7EufW3ixxDt2WINimC99kG) | [Hoe Season](https://open.spotify.com/album/4PdEONlvwD2vchpShzyDzo) | 2:11 |
 | 38 | [Tiara](https://open.spotify.com/track/7qeMK22RkkwOrxyFQyk0Py) | [NNOA](https://open.spotify.com/artist/3Z7Krgq3i3qzMf6aaXb2Ft) | [Tiara](https://open.spotify.com/album/2Moz1gzky9yifaLc3zGAeP) | 2:55 |
 | 39 | [Hier und Jetzt](https://open.spotify.com/track/75Al35K7EKx8IOpPMk24Yx) | [YAEL](https://open.spotify.com/artist/3kJ7c6rBMrQaLAXIFb61vp) | [Hier und Jetzt](https://open.spotify.com/album/0c4ZPYOw8z6nxlsfxixxhB) | 3:20 |
-| 40 | [heavy blankets](https://open.spotify.com/track/2A1OYhBVUgoxGIrkOMFGD7) | [katyadotcom](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [heavy blankets](https://open.spotify.com/album/73UjwUWkXodhq4hJY4B7kp) | 2:17 |
-| 41 | [PLANET](https://open.spotify.com/track/58nwezUNuGYgWsR2DaTty5) | [Lary](https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo) | [STEREO NOIR](https://open.spotify.com/album/0KxrASBz3X7wAOgBrQKb1N) | 3:31 |
+| 40 | [PLANET](https://open.spotify.com/track/58nwezUNuGYgWsR2DaTty5) | [Lary](https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo) | [STEREO NOIR](https://open.spotify.com/album/0KxrASBz3X7wAOgBrQKb1N) | 3:31 |
+| 41 | [heavy blankets](https://open.spotify.com/track/2A1OYhBVUgoxGIrkOMFGD7) | [katyadotcom](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [heavy blankets](https://open.spotify.com/album/73UjwUWkXodhq4hJY4B7kp) | 2:17 |
 | 42 | [Modern Home](https://open.spotify.com/track/4zdVikmVCaRSa6bFVfjHVe) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Modern Home](https://open.spotify.com/album/0gyaS2yVdXf3FZwyEjPSNU) | 3:41 |
 | 43 | [Ghosting You](https://open.spotify.com/track/2qoqzLWwrGmeZvukkQ2AKW) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Ghosting You](https://open.spotify.com/album/3WeBR68oYmMu5s6ITJMduo) | 3:48 |
 | 44 | [Friends](https://open.spotify.com/track/1JzUIZNVLSqo8LiHtl9yCC) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA), [douniah](https://open.spotify.com/artist/0XRqsaNWIoGwotH5YZAb0y) | [Friends](https://open.spotify.com/album/1RIJr50PbFAXFiEZui7FoW) | 2:57 |

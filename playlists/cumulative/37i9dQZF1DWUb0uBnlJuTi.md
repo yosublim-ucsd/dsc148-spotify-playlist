@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Sly5thAve
 
-420 songs - 1 day 7 hr 59 min
+421 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Black Crow](https://open.spotify.com/track/51zuwsjfn77J6NBQodv0WW) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe) | [Black Crow](https://open.spotify.com/album/08GqtDhcOftdywr5cL1Buv) | 3:34 | 2023-07-14 | 2023-12-02 |
 | [Black Octopus](https://open.spotify.com/track/2cDgtkuxmABPn530SRo5bo) | [Brian Auger](https://open.spotify.com/artist/304senzcXGpWqcpssNpmXJ) | [Search Party](https://open.spotify.com/album/2X18R3tkxqnZgeoivKFKWa) | 3:51 | 2022-04-08 |  |
 | [Blood Chief \- Live in Studio](https://open.spotify.com/track/4cV7k8bph31wVkk74TbRCv) | [Whatitdo Archive Group](https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO) | [Live At: Archive Group Studios](https://open.spotify.com/album/0IENaoZTdX50sMypwcgD4H) | 3:18 | 2022-05-06 | 2023-09-30 |
-| [Blue Raz](https://open.spotify.com/track/6pnx7j90PjcBjW1zCLsOzK) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [SAM GREENFIELD RULES](https://open.spotify.com/album/5OtJfcbiA85pLR4X03GyOU) | 4:54 | 2023-11-17 |  |
+| [Blue Raz](https://open.spotify.com/track/6pnx7j90PjcBjW1zCLsOzK) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [SAM GREENFIELD RULES](https://open.spotify.com/album/5OtJfcbiA85pLR4X03GyOU) | 4:54 | 2023-11-17 | 2024-06-22 |
 | [Blues 3+1](https://open.spotify.com/track/36GrhjwWLnKgkPdPt2ARhB) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Bluesmith](https://open.spotify.com/album/2SOx7jfiPndedYKj8HSZx5) | 4:52 | 2020-10-09 |  |
 | [Blues for Ben](https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG) | [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md) | [All Kooked out!](https://open.spotify.com/album/6NnQ67dG6cM88SGs9W3fh7) | 4:59 | 2020-10-09 |  |
 | [Bonita Applebum \(Daylight\)](https://open.spotify.com/track/7lJUAQCxvZVIUA6W0UgnYT) | [Soul Supreme](https://open.spotify.com/artist/3EIBaQfCxQvOXkNh4rywTy) | [Award Tour \(We Gettin' Down\) / Bonita Applebum \(Daylight\)](https://open.spotify.com/album/6CEhge3xbNldIrK6czWdgR) | 4:04 | 2022-04-01 |  |
@@ -109,6 +109,7 @@
 | [Echo A.D.](https://open.spotify.com/track/1ZlUY5Ue5RGOYWKGmfa4OK) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Hox](https://open.spotify.com/album/3gVEuGNplHxs8zVzfeC4vU) | 4:04 | 2023-08-11 | 2024-04-19 |
 | [El Jonito](https://open.spotify.com/track/4LvpjpTB9SJEVNINopueyX) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Martin Wangermée](https://open.spotify.com/artist/6Cko0OY4MlDWb57nLFMV4q), [Alexis Bourguignon](https://open.spotify.com/artist/3KbkoymkBIQF812bJQYPPE), [Robinson Khoury](https://open.spotify.com/artist/1L0xfJpihhDB3N8GEbmV6J), [Stéphane Guillaume](https://open.spotify.com/artist/2JmUauyONacBoIcYvSggJr), [Lucas Saint\-Cricq](https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI), [Nicolas Folmer](https://open.spotify.com/artist/42oVkAbF0mIgvyFEIfeUUQ), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Jeremy Bruyere](https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj) | [El Jonito](https://open.spotify.com/album/6ssT3ZX7pn4Ud0V1JWeHuW) | 3:41 | 2022-06-03 |  |
 | [Empire](https://open.spotify.com/track/37IQoTfeVqNx5Q4KtUKgkD) | [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Empire](https://open.spotify.com/album/0JRjksr7Dl8jX1ecE4r3uK) | 4:47 | 2023-10-20 |  |
+| [ENDING CREDITS](https://open.spotify.com/track/3JaYwewAoUnMSQ6KvO6mr0) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [ENDING CREDITS](https://open.spotify.com/album/0PBNwpqu4wNZD5C31H9NJk) | 4:42 | 2024-06-21 |  |
 | [Everything Is Changing](https://open.spotify.com/track/2plqXe2wauMgMHQLSDwWBD) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [The Best of Groove Collective](https://open.spotify.com/album/6Z3d1nnm9V24kAb6t5ejuj) | 5:40 | 2020-10-09 |  |
 | [Everything Is Changing](https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Declassified](https://open.spotify.com/album/5Qi3Ifed8PIXJjlpGEcsMk) | 5:49 | 2020-10-09 | 2024-04-19 |
 | [Exotic Rose](https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Exotic Rose](https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf) | 4:50 | 2024-03-01 |  |

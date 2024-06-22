@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Xamuel",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Mc Igu",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -348,6 +348,32 @@
       "duration_ms": 141885,
       "name": "23 tropa do mano",
       "url": "https://open.spotify.com/track/6MYMpWviaGGXaSEQtlmb69"
+    },
+    {
+      "album": {
+        "name": "3 Curvas",
+        "url": "https://open.spotify.com/album/6pwr5MzeUYXvbVcc5FlE8W"
+      },
+      "artists": [
+        {
+          "name": "Covinh4",
+          "url": "https://open.spotify.com/artist/4tTfk70xTVPxMKI0wpCVpc"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "bluedrink",
+          "url": "https://open.spotify.com/artist/644c5hN9gp3kgZ3VWfOHIU"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170256,
+      "name": "3 Curvas",
+      "url": "https://open.spotify.com/track/7mbu5wPGv9ycnB3onQvwwg"
     },
     {
       "album": {
@@ -4930,7 +4956,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 108475,
       "name": "Carro Filmado",
       "url": "https://open.spotify.com/track/40JOKn2wTQpXtYDsDl8hty"
@@ -8630,7 +8656,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 121000,
       "name": "Doente de Amor",
       "url": "https://open.spotify.com/track/3Xh7yWSduG8Jl3CMYeAeAk"
@@ -10510,7 +10536,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 180800,
       "name": "Fant\u00e1stico",
       "url": "https://open.spotify.com/track/1OhJE8RgWeKXvMEj9TBYB3"
@@ -11278,6 +11304,32 @@
       "duration_ms": 126181,
       "name": "Flow Skepta",
       "url": "https://open.spotify.com/track/2c8S82wdz76ux1SUXTxIeu"
+    },
+    {
+      "album": {
+        "name": "FOCA NO QUE TE TRAZ GRANA",
+        "url": "https://open.spotify.com/album/0d8HFl8ReRpCPZGDDC0QlS"
+      },
+      "artists": [
+        {
+          "name": "Igor Hicks",
+          "url": "https://open.spotify.com/artist/3na0HIYTvtOdCoyudak761"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120937,
+      "name": "FOCA NO QUE TE TRAZ GRANA",
+      "url": "https://open.spotify.com/track/501sWNHALSWiG1Up8mrLOl"
     },
     {
       "album": {
@@ -12794,6 +12846,40 @@
       "duration_ms": 249022,
       "name": "Hoje Ela Olha",
       "url": "https://open.spotify.com/track/40kzNmqTAJkoSBDgrH3MQh"
+    },
+    {
+      "album": {
+        "name": "Artilheira",
+        "url": "https://open.spotify.com/album/4L9PPCaKaPq4mtTJTImIvn"
+      },
+      "artists": [
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        },
+        {
+          "name": "Beat do \u00c1vila",
+          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132283,
+      "name": "Hoje Eu Sou a Pior",
+      "url": "https://open.spotify.com/track/7auSDYxJqHns5mX9HVUcrY"
     },
     {
       "album": {
@@ -14434,7 +14520,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 140283,
       "name": "Like What",
       "url": "https://open.spotify.com/track/35dBHqWrwqkKcZRXHCzFvZ"
@@ -14746,7 +14832,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 188059,
       "name": "Lucros",
       "url": "https://open.spotify.com/track/0tkrKLhu6L00nxbfYq3qYH"
@@ -15523,6 +15609,58 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177144,
+      "name": "MANDRAKA DO MOMENTO",
+      "url": "https://open.spotify.com/track/5CUH8hEmgqsfQ3jKTPJLdm"
+    },
+    {
+      "album": {
+        "name": "Mano Vivendo Igual Boy",
+        "url": "https://open.spotify.com/album/5JVTUDKuBG9dlZpTuozqsk"
+      },
+      "artists": [
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227076,
+      "name": "Mano Vivendo Igual Boy",
+      "url": "https://open.spotify.com/track/5ICELaIuFc3NgalhMWHTZO"
+    },
+    {
+      "album": {
         "name": "Mans\u00e3o",
         "url": "https://open.spotify.com/album/3qA1tUjGJ21LFv7rTZf9TJ"
       },
@@ -16223,6 +16361,28 @@
     },
     {
       "album": {
+        "name": "Menino do 7",
+        "url": "https://open.spotify.com/album/4EGZ07NRJXJJ6yZF2KRqqc"
+      },
+      "artists": [
+        {
+          "name": "Gbzin",
+          "url": "https://open.spotify.com/artist/4CVIvdHpdkuoolMGDDiEYV"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193194,
+      "name": "Menino do 7",
+      "url": "https://open.spotify.com/track/6AsFlgHsqzAGZDqZi0vAB2"
+    },
+    {
+      "album": {
         "name": "Menino do Gueto",
         "url": "https://open.spotify.com/album/3lZbmbLlwheRgBHbvMWh6W"
       },
@@ -16876,7 +17036,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 166956,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/4pkDSLdWBdKLMwMdAvYIiD"
@@ -18439,6 +18599,32 @@
     },
     {
       "album": {
+        "name": "O Jo\u00e3o \u00c9 S\u00e3o",
+        "url": "https://open.spotify.com/album/0VN4RG3m9Fm864l7eT4xfZ"
+      },
+      "artists": [
+        {
+          "name": "Brenu",
+          "url": "https://open.spotify.com/artist/5MiTkJ4H1ELFFLNSU149Uv"
+        },
+        {
+          "name": "Prodbythb",
+          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
+        },
+        {
+          "name": "CAIO O G\u00caNIO",
+          "url": "https://open.spotify.com/artist/6CGFyBV7Zi1tbmduY4v9Sd"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153166,
+      "name": "O Jo\u00e3o \u00c9 S\u00e3o",
+      "url": "https://open.spotify.com/track/6uwS9SIje3qOoEJlX3CwgE"
+    },
+    {
+      "album": {
         "name": "O Meu Brilho",
         "url": "https://open.spotify.com/album/5JaPDZ1i5fKNLPBxnMUNwA"
       },
@@ -18580,6 +18766,32 @@
       "duration_ms": 107004,
       "name": "Obcecado",
       "url": "https://open.spotify.com/track/6fQpOmbwIBc57vh90VR3mI"
+    },
+    {
+      "album": {
+        "name": "Objetivo",
+        "url": "https://open.spotify.com/album/4C26C6isVhZ9Q725U4Cp83"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Objetivo",
+      "url": "https://open.spotify.com/track/16LXfGWa7r4v1TCiIifk2Y"
     },
     {
       "album": {
@@ -22802,7 +23014,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 184620,
       "name": "Roda Gigante",
       "url": "https://open.spotify.com/track/48tLdon07SzvFFBoSU0rtv"
@@ -25516,7 +25728,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 241799,
       "name": "THE BOX MEDLEY 6",
       "url": "https://open.spotify.com/track/507tluWzOtxx58Kb13L9qu"

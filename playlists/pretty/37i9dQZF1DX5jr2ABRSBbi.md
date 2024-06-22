@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Playlist sestavený společně s naší EQUAL ambasadorkou Janou Kirschner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,812 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,829 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 19 | [Hurt](https://open.spotify.com/track/1KfLGTsQOqf0biGaMoTHJa) | [&Tilly](https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N) | [Hurt](https://open.spotify.com/album/3BAcytrbLWHuQsfTz353ti) | 3:46 |
 | 20 | [neskúšaj to!](https://open.spotify.com/track/1qhD4qMEVUOoA7cgN3PJ5o) | [Call Dominika](https://open.spotify.com/artist/6EBKq4KCXExYanXleLzIVT) | [neskúšaj to!](https://open.spotify.com/album/68tpvlv2GKN9l8fObjBdI9) | 3:26 |
 | 21 | [Milano](https://open.spotify.com/track/3T9zHMTefYblN7OH1W3Exk) | [Sharlota](https://open.spotify.com/artist/0ir6ShDLlvv5RHsRzNixny), [Dominika Mirgova](https://open.spotify.com/artist/5FxqSK3bTstp7wa05O01jt) | [Milano](https://open.spotify.com/album/6iJq4p2RFqHYDQ79GIYyFb) | 3:09 |
-| 22 | [Walking Disaster](https://open.spotify.com/track/7b1JNhhosqQ46Zmth2dtJw) | [Eva Burešová](https://open.spotify.com/artist/2wqjvdaJ8YYyZpJDptlFtu) | [Walking Disaster](https://open.spotify.com/album/7FA582qmR4HEaWhgi9K4k1) | 3:54 |
+| 22 | [Walking Disaster](https://open.spotify.com/track/7b1JNhhosqQ46Zmth2dtJw) | [Eva Buresova](https://open.spotify.com/artist/2wqjvdaJ8YYyZpJDptlFtu) | [Walking Disaster](https://open.spotify.com/album/7FA582qmR4HEaWhgi9K4k1) | 3:54 |
 | 23 | [VIP](https://open.spotify.com/track/0q05hyClcGglnaYi46oRZg) | [noyada](https://open.spotify.com/artist/6Do3OkJ0MKzQo2z4xHpmF0) | [VIP](https://open.spotify.com/album/6X8JZq58zZcnjAOIqSy6BV) | 2:19 |
 | 24 | [Hvězdy jsou jak bonbónky](https://open.spotify.com/track/6MepFm2ws3Q0dTaGTKwMaf) | [Lucie Bílá](https://open.spotify.com/artist/6pkv72pSnhPBKqqFzhDe6f) | [Hvězdy jsou jak bonbónky](https://open.spotify.com/album/39v6c8Ne8l7uqwsL17PuYD) | 3:09 |
 | 25 | [Pije kdo žije](https://open.spotify.com/track/0J1jOcLfefpo1Nj0ACYYok) | [Martina Pártlová](https://open.spotify.com/artist/6uYRnxOGXH2rYJ0vDtVh8e) | [První a poslední?](https://open.spotify.com/album/7AqtnhIjq8fXZI4kIi0kEE) | 3:07 |

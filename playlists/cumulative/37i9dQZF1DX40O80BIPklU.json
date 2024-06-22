@@ -419,6 +419,28 @@
     },
     {
       "album": {
+        "name": "Entre Nobles y Bestias",
+        "url": "https://open.spotify.com/album/2XjmcG9Aj09aoOIzTTfeaD"
+      },
+      "artists": [
+        {
+          "name": "THR Cru2",
+          "url": "https://open.spotify.com/artist/7qfeRXz0fErzIordtUUxYn"
+        },
+        {
+          "name": "Gordojazz",
+          "url": "https://open.spotify.com/artist/6xsnMKLh057DuEu8RfsiBB"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Alhaja",
+      "url": "https://open.spotify.com/track/3YjTK6WpHCqnqHQVjvvSks"
+    },
+    {
+      "album": {
         "name": "Almas Benditas",
         "url": "https://open.spotify.com/album/2dr3uDKeRGlwyePqf44aKp"
       },
@@ -1301,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "CamGirl >.< !!!",
+        "url": "https://open.spotify.com/album/53Pgsw3hhBWaiNcloEWovO"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "CamGirl >.< !!!",
+      "url": "https://open.spotify.com/track/1YjC6CQDXwFGKUxXbIlYvf"
+    },
+    {
+      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
       },
@@ -1342,7 +1382,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 148636,
       "name": "Caribe",
       "url": "https://open.spotify.com/track/3k3QNoajDYdFKrqyYY0Lkt"
@@ -1959,6 +1999,28 @@
     },
     {
       "album": {
+        "name": "DELE ALLI",
+        "url": "https://open.spotify.com/album/7qz7zoDI2v2Q2slFwUByCp"
+      },
+      "artists": [
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        },
+        {
+          "name": "Chans",
+          "url": "https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139961,
+      "name": "DELE ALLI",
+      "url": "https://open.spotify.com/track/66ZI58YP9tz7CJZdmAP934"
+    },
+    {
+      "album": {
         "name": "Delivery",
         "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
       },
@@ -2272,6 +2334,24 @@
       "duration_ms": 194823,
       "name": "El Precio del Valor",
       "url": "https://open.spotify.com/track/69Xy0ICKMuL96Kq95wHcmd"
+    },
+    {
+      "album": {
+        "name": "El Sol",
+        "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224521,
+      "name": "El Sol",
+      "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
     },
     {
       "album": {
@@ -4086,7 +4166,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 219071,
       "name": "Luz & Control",
       "url": "https://open.spotify.com/track/6QxO8EqxdnOlDmrRvshxX3"
@@ -4318,7 +4398,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 156322,
       "name": "Martes 13",
       "url": "https://open.spotify.com/track/1cNk3FjSc4aQEcR94laLhg"
@@ -4336,7 +4416,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 182983,
       "name": "Matense Por La Corona",
       "url": "https://open.spotify.com/track/0Aiz2Y6YlCLMiEAavlbzFe"
@@ -4980,7 +5060,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 216800,
       "name": "M\u00e1s que un Deporte",
       "url": "https://open.spotify.com/track/5NpArbjHBrgFxh2Ul2XURz"
@@ -6085,6 +6165,28 @@
     },
     {
       "album": {
+        "name": "Rap de culto",
+        "url": "https://open.spotify.com/album/6uGPj9zJFxiih5f8H0Vn9Q"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152429,
+      "name": "Rap de culto",
+      "url": "https://open.spotify.com/track/5PoukzPE9YDkXaVk9cThDQ"
+    },
+    {
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
@@ -6534,6 +6636,36 @@
       "duration_ms": 222066,
       "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
       "url": "https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus"
+    },
+    {
+      "album": {
+        "name": "Sicariato & Robo",
+        "url": "https://open.spotify.com/album/4Pzxur3KYtbr5iXVmp9B3L"
+      },
+      "artists": [
+        {
+          "name": "Pla La Sustancia",
+          "url": "https://open.spotify.com/artist/6wTPPL1LzCVykuqxwnfHB7"
+        },
+        {
+          "name": "El Jincho",
+          "url": "https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "El Rapper RD",
+          "url": "https://open.spotify.com/artist/0jhqcayvFFUrYyqHlgZidV"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250105,
+      "name": "Sicariato & Robo",
+      "url": "https://open.spotify.com/track/3OQzbOfl3KsIHNUOGYZCg1"
     },
     {
       "album": {
@@ -7576,7 +7708,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 185000,
       "name": "UN MONT\u00d3N",
       "url": "https://open.spotify.com/track/3IVgBGz3WXKTZ8XqCPuAnw"

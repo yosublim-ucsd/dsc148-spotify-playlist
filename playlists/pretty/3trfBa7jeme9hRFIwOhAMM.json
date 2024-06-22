@@ -6,8 +6,28 @@
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "AAAHebLDTfd+KZmeo/DNNNCWLWJw9OPN",
+  "snapshot_id": "AAAHfbZuzQAg6N3XWyf0/oWKk127jdxk",
   "tracks": [
+    {
+      "added_at": "2024-06-21 06:42:46",
+      "album": {
+        "name": "Bump That Funk EP",
+        "url": "https://open.spotify.com/album/4paCpWNR1sTPKRIV2bQHZO"
+      },
+      "artists": [
+        {
+          "name": "HON\u00dc",
+          "url": "https://open.spotify.com/artist/5U96ytItXSJmQBUOOhMxKq"
+        },
+        {
+          "name": "Rimbano",
+          "url": "https://open.spotify.com/artist/3v1oNkquKNV6nyXjpQvF3W"
+        }
+      ],
+      "duration_ms": 208372,
+      "name": "Got Funk?",
+      "url": "https://open.spotify.com/track/4nH0mcTvcpQwCdYOkL1TX1"
+    },
     {
       "added_at": "2024-06-14 09:56:10",
       "album": {
@@ -55,6 +75,26 @@
       "duration_ms": 177619,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/12zQfnvVvxduyDUfxlw65T"
+    },
+    {
+      "added_at": "2024-06-21 06:42:49",
+      "album": {
+        "name": "Bump That Funk EP",
+        "url": "https://open.spotify.com/album/4paCpWNR1sTPKRIV2bQHZO"
+      },
+      "artists": [
+        {
+          "name": "HON\u00dc",
+          "url": "https://open.spotify.com/artist/5U96ytItXSJmQBUOOhMxKq"
+        },
+        {
+          "name": "Rimbano",
+          "url": "https://open.spotify.com/artist/3v1oNkquKNV6nyXjpQvF3W"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Bump That",
+      "url": "https://open.spotify.com/track/7uzQt9swOPxms7SMDZnHDb"
     },
     {
       "added_at": "2024-06-14 09:56:10",

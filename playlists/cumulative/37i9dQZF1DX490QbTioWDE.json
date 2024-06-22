@@ -3234,7 +3234,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 200362,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
@@ -3863,6 +3863,28 @@
     },
     {
       "album": {
+        "name": "BXXI: Fiesta Cuartetera en el Luna Park",
+        "url": "https://open.spotify.com/album/77nVC1HaFajvVvojNBuGmj"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        },
+        {
+          "name": "Kapanga",
+          "url": "https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142213,
+      "name": "Loca de Mi Coraz\u00f3n (en vivo Luna Park)",
+      "url": "https://open.spotify.com/track/5x1ENM1mnRe7GXkXYKaWy9"
+    },
+    {
+      "album": {
         "name": "Atado a un Sentimiento",
         "url": "https://open.spotify.com/album/3hNqD2OaRuOpj9EWUw7pSS"
       },
@@ -4004,7 +4026,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 268000,
       "name": "Luna - Prohibidox",
       "url": "https://open.spotify.com/track/08IZLOrhHD4jfqkguITnZT"
@@ -5333,6 +5355,24 @@
     },
     {
       "album": {
+        "name": "Nunca Fuimos",
+        "url": "https://open.spotify.com/album/0cCLXMVsmKL9gNqotA7Rg7"
+      },
+      "artists": [
+        {
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213162,
+      "name": "Nunca Fuimos",
+      "url": "https://open.spotify.com/track/42YPWUISJkEv5KrYxPLZbi"
+    },
+    {
+      "album": {
         "name": "NUNCA lo olvides",
         "url": "https://open.spotify.com/album/5aMFcpQ6sQr16Uq2xowpIw"
       },
@@ -6517,6 +6557,28 @@
     },
     {
       "album": {
+        "name": "Quiz\u00e1s / Un Buen Perdedor / Tira Para Arriba",
+        "url": "https://open.spotify.com/album/79DpjybizeEY8wLqSZ2ZZY"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        },
+        {
+          "name": "Fernando Bladys",
+          "url": "https://open.spotify.com/artist/0Ju8LutOzYuBpC3XtwcLZa"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317929,
+      "name": "Quiz\u00e1s / Un Buen Perdedor / Tira Para Arriba",
+      "url": "https://open.spotify.com/track/7LD7Y96k4WjKyGBFMW7fTj"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9reme (Cuarteto)",
         "url": "https://open.spotify.com/album/4dwtcMOGdBahKQSUk6sgaU"
       },
@@ -7518,7 +7580,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 210266,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm"

@@ -1,13 +1,33 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 379839,
+  "num_followers": 379833,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmvAQAAAAACsWFzBHW2UvhoHcLQbWuoM",
+  "snapshot_id": "ZnT6wAAAAACOOCKHCl783pISLAg6/mcN",
   "tracks": [
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Moonswings",
+        "url": "https://open.spotify.com/album/6WplX32rUPI6pyOzKC6N7C"
+      },
+      "artists": [
+        {
+          "name": "Proleter",
+          "url": "https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8"
+        },
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 264612,
+      "name": "Moonswings",
+      "url": "https://open.spotify.com/track/1OuxO28VYTtXcE0zGrTS8x"
+    },
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
@@ -2195,22 +2215,6 @@
       "duration_ms": 181293,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/3m3qjAfKtCJTl6vKBPyquU"
-    },
-    {
-      "added_at": "2023-11-06 13:47:16",
-      "album": {
-        "name": "What Lana Says",
-        "url": "https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC"
-      },
-      "artists": [
-        {
-          "name": "Proleter",
-          "url": "https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8"
-        }
-      ],
-      "duration_ms": 279200,
-      "name": "What Lana Says",
-      "url": "https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE"
     },
     {
       "added_at": "2023-11-06 13:47:16",

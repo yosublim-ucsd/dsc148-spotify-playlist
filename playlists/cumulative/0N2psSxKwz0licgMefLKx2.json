@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 193040,
       "name": "Acres",
       "url": "https://open.spotify.com/track/2QUuvRYxQd0X0AHZKUmkzO"
@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "PB2",
+        "url": "https://open.spotify.com/album/7EcpFtgJ2UT0O7FSaKg6R1"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/2KYXVfufJyULq19lC4VyzR"
+    },
+    {
+      "album": {
         "name": "Band On Her T-Shirt",
         "url": "https://open.spotify.com/album/2NvZ047DnmgdTVu8HgdonK"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 249547,
       "name": "Break Mine",
       "url": "https://open.spotify.com/track/1q5ClSxLhJKpOhphiKnpJm"
@@ -340,7 +358,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 190359,
       "name": "Bud Light The Way",
       "url": "https://open.spotify.com/track/2Hg4pSdvKX11F0qzrylTYE"
@@ -990,6 +1008,24 @@
       "duration_ms": 170946,
       "name": "Gather Round",
       "url": "https://open.spotify.com/track/6Ca4hnG703NUIjAQAdhB68"
+    },
+    {
+      "album": {
+        "name": "The Heartbroken Record",
+        "url": "https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK"
+      },
+      "artists": [
+        {
+          "name": "Lauren Watkins",
+          "url": "https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166231,
+      "name": "Gatlinburg",
+      "url": "https://open.spotify.com/track/1tTU4d2Ke6JaGMZcrIjeBs"
     },
     {
       "album": {
@@ -1771,7 +1807,7 @@
     },
     {
       "album": {
-        "name": "Messed Up As Me",
+        "name": "MESSED UP AS ME",
         "url": "https://open.spotify.com/album/6U6AwUuoxscav9cG7yQ5n9"
       },
       "artists": [
@@ -1784,7 +1820,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196400,
-      "name": "Messed Up As Me",
+      "name": "MESSED UP AS ME",
       "url": "https://open.spotify.com/track/4Znwf3U6xJsQrj0UveLpOx"
     },
     {
@@ -2132,7 +2168,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 184426,
       "name": "Off The Rails",
       "url": "https://open.spotify.com/track/6h3eHLBhpWL5KQLRKxXz76"
@@ -2277,6 +2313,28 @@
     },
     {
       "album": {
+        "name": "Over When We're Sober",
+        "url": "https://open.spotify.com/album/0pfUpl64CmEiuMIysF16c4"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187480,
+      "name": "Over When We're Sober",
+      "url": "https://open.spotify.com/track/6h0U5OMGMZIysE4Apgf4ju"
+    },
+    {
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo"
       },
@@ -2340,6 +2398,28 @@
       "duration_ms": 195302,
       "name": "Poor, Poor Pitiful Me",
       "url": "https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x"
+    },
+    {
+      "album": {
+        "name": "Pour Me A Drink",
+        "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195122,
+      "name": "Pour Me A Drink (Feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
     },
     {
       "album": {

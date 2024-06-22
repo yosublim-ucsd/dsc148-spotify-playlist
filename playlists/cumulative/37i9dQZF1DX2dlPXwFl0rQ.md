@@ -4,7 +4,7 @@
 
 > Estas son las indomables de la Música Mexicana\. NXNNI en portada.
 
-407 songs - 21 hr 45 min
+408 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Esto Es Lo Mío](https://open.spotify.com/track/3QPtJy4luaQEW2BhhAhv5i) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Esto Es Lo Mío](https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9) | 2:01 | 2023-11-17 | 2024-02-24 |
 | [Estoy Con Otro En La Cama](https://open.spotify.com/track/5fAS0SfHJ2lJ0MXLg1gPpY) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Estoy Con Otro En La Cama](https://open.spotify.com/album/7KWDMSwkRfo3nSR0bhRdIh) | 2:56 | 2021-12-17 | 2022-01-29 |
 | [Flor de Capomo](https://open.spotify.com/track/64ANfvQAYZQAetW4RObvXm) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Flor de Capomo](https://open.spotify.com/album/7LygGdl5rqFFnxBMgAwyKn) | 3:16 | 2021-12-17 | 2022-04-09 |
-| [Fotos Y Recuerdos](https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:37 | 2021-12-17 |  |
+| [Fotos Y Recuerdos](https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:37 | 2021-12-17 | 2024-06-22 |
 | [Fotos Y Recuerdos](https://open.spotify.com/track/10dVXtTtcZGkslowGjI18r) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 2:37 | 2024-02-09 | 2024-04-19 |
 | [Fruta Prohibida](https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida](https://open.spotify.com/album/0q4wmFZM0Doz5GkzZQmpts) | 2:45 | 2021-12-17 | 2022-06-09 |
 | [Fruta Prohibida \- Versión Acústica](https://open.spotify.com/track/65Qln5PKRZhA5FIXUyMU3q) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida \(Versión Acústica\)](https://open.spotify.com/album/4tzLKAiSk7qgEsQVOoQC6Z) | 3:11 | 2021-12-17 | 2022-03-18 |
@@ -227,6 +227,7 @@
 | [Mi Problema](https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Mi Problema](https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb) | 3:03 | 2021-12-17 |  |
 | [Mi Reflejo](https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Mi Reflejo](https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP) | 3:34 | 2022-06-08 | 2022-12-10 |
 | [Mi Religión](https://open.spotify.com/track/6vYyt9OYS6HBT6wI3JP52s) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 3:35 | 2021-12-17 | 2022-03-17 |
+| [Mi Rey, Mi Santo](https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mi Rey, Mi Santo](https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe) | 2:44 | 2024-06-21 |  |
 | [Mi Soldadita](https://open.spotify.com/track/5lpKKzuCgPqrcOscblmapl) | [La Abuela Irma Silva](https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq) | [Mi Soldadita](https://open.spotify.com/album/2aRBOVDwie76WQ55iIUUkt) | 3:10 | 2023-04-14 | 2023-06-17 |
 | [Mi Único Regalo](https://open.spotify.com/track/0Wl9IzjERfhblhfC9n4Cq3) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [Mi Único Regalo](https://open.spotify.com/album/6YpFUQKfANP6L6vxA7fbSv) | 3:26 | 2021-12-17 | 2022-03-21 |
 | [Miro La Luna](https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Miro La Luna](https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9) | 2:06 | 2024-02-23 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 32114,
+  "num_followers": 32124,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Rollin' On",
+        "url": "https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5"
+      },
+      "artists": [
+        {
+          "name": "Jesse Daniel",
+          "url": "https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY"
+        }
+      ],
+      "duration_ms": 249706,
+      "name": "Rollin' On",
+      "url": "https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Tales Of America (The Second Coming)",
         "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 174586,
       "name": "Milk And Honey",
       "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Rollin' On",
-        "url": "https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5"
-      },
-      "artists": [
-        {
-          "name": "Jesse Daniel",
-          "url": "https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY"
-        }
-      ],
-      "duration_ms": 249706,
-      "name": "Rollin' On",
-      "url": "https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Maybe A Moment / Graceland",
-        "url": "https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "While I'm Livin'",
         "url": "https://open.spotify.com/album/4tydPSka2twxxoBiS2HTkU"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 202360,
       "name": "Hard Luck",
       "url": "https://open.spotify.com/track/6d9k2qiL2MNiOkTflqQyvi"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Maybe A Moment / Graceland",
+        "url": "https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -951,8 +951,8 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Sparrow",
-        "url": "https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
         }
       ],
-      "duration_ms": 231746,
-      "name": "Wild Love",
-      "url": "https://open.spotify.com/track/0pNMGl99ohJrxz0O3ardvu"
+      "duration_ms": 168780,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Wrangled",
-        "url": "https://open.spotify.com/album/0zwOXYFER5nHUzF1xiuS58"
-      },
-      "artists": [
-        {
-          "name": "Angaleena Presley",
-          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
-        }
-      ],
-      "duration_ms": 282786,
-      "name": "Wrangled",
-      "url": "https://open.spotify.com/track/6QyeZn2b2LFLdX1AJ9PPZN"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Unwed Fathers (feat. Margo Price)",
         "url": "https://open.spotify.com/album/4evWI9DiccsMHwbh0sn81t"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Wrangled",
+        "url": "https://open.spotify.com/album/0zwOXYFER5nHUzF1xiuS58"
+      },
+      "artists": [
+        {
+          "name": "Angaleena Presley",
+          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
+        }
+      ],
+      "duration_ms": 282786,
+      "name": "Wrangled",
+      "url": "https://open.spotify.com/track/6QyeZn2b2LFLdX1AJ9PPZN"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Terlingua Girl",
         "url": "https://open.spotify.com/album/1sie66Xsn9KhVGseBhdNeF"
       },
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
+        "name": "Sparrow",
+        "url": "https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu"
       },
       "artists": [
         {
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
         }
       ],
-      "duration_ms": 168780,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
+      "duration_ms": 231746,
+      "name": "Wild Love",
+      "url": "https://open.spotify.com/track/0pNMGl99ohJrxz0O3ardvu"
     },
     {
       "added_at": "2024-03-25 16:53:27",

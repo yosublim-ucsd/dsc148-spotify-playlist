@@ -4950,7 +4950,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 177119,
       "name": "Ganeni",
       "url": "https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql"
@@ -7890,6 +7890,24 @@
       "duration_ms": 150408,
       "name": "Mabsoot",
       "url": "https://open.spotify.com/track/7x3iSfgVP4170n4Q5DmAML"
+    },
+    {
+      "album": {
+        "name": "Mafish Keda",
+        "url": "https://open.spotify.com/album/6PAQDC98KMLmzdnlGVqHA8"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149888,
+      "name": "Mafish Keda",
+      "url": "https://open.spotify.com/track/4Zp3uUl5XfDAoTbdVQGOHh"
     },
     {
       "album": {
@@ -13514,7 +13532,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 187826,
       "name": "\u0627\u0644\u062d\u0644\u0645 \u0627\u0644\u0648\u0631\u062f\u064a",
       "url": "https://open.spotify.com/track/3DXQBnciOnrdIgGkgUbvwS"

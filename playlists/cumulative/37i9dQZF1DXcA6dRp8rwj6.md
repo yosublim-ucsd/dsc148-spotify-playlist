@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: G\-Eazy\)
 
-2,095 songs - 4 day 10 hr 17 min
+2,096 songs - 4 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [eyes can't see](https://open.spotify.com/track/0kKt6R53daDfAC3Fd8EcGu) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF), [Cj Francis IV](https://open.spotify.com/artist/32dFQz3nhj2uhF49xMJhFD) | [eyes can't see](https://open.spotify.com/album/44cxZeSL4zjzch6LLmpx45) | 3:50 | 2023-03-30 | 2023-04-14 |
 | [Ezekiel's Wheel](https://open.spotify.com/track/4jB5y3nekrMH0HOFSm1rC0) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Ezekiel's Wheel](https://open.spotify.com/album/1zy6nQsdVNRXPFRsbW2Q3M) | 3:55 | 2024-01-05 | 2024-02-23 |
 | [f](https://open.spotify.com/track/02Nkt660XIvXwZQf9bkwh6) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [ROBERT](https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg) | 2:08 | 2023-10-12 | 2023-12-09 |
+| [F\*\*k The Rap Game](https://open.spotify.com/track/5qZ6ni14zTVPlnuQ2iSeLE) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [F\*\*k The Rap Game](https://open.spotify.com/album/5MUIJ1AGDtARYt2sYcTtYC) | 4:10 | 2024-06-20 |  |
 | [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 | 2023-08-17 | 2023-09-29 |
 | [F.N.A.P.](https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [F.N.A.P.](https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE) | 2:51 | 2023-09-08 | 2023-10-23 |
 | [Face 2 Face](https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Face 2 Face](https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh) | 2:04 | 2022-12-15 | 2023-02-03 |
@@ -675,7 +676,6 @@
 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 | 2022-12-01 | 2023-01-28 |
 | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/track/6QCWPC6OFUxuoaMtRe573z) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/album/341UBgXu04jXD1oESdpDWa) | 3:14 | 2022-07-28 | 2022-09-09 |
 | [Fuck Niggaz](https://open.spotify.com/track/7t0oBwFmXk5Ly7RIuf9c18) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fuck Niggaz](https://open.spotify.com/album/0M3WwyjxaPtVB2OEUVr5Fi) | 2:13 | 2024-02-08 | 2024-04-05 |
-| [Fuck The Rap Game](https://open.spotify.com/track/5qZ6ni14zTVPlnuQ2iSeLE) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fuck The Rap Game](https://open.spotify.com/album/5MUIJ1AGDtARYt2sYcTtYC) | 4:10 | 2024-06-20 |  |
 | [FUJI](https://open.spotify.com/track/3ElzGGiQ4ehegbG7dLIka7) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:42 | 2024-03-15 | 2024-05-10 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-06-22 | 2023-07-29 |
 | [Full Speed](https://open.spotify.com/track/2eZFeyNpv4eQAZPRsUxLGw) | [Bbvdoll](https://open.spotify.com/artist/1U85TieK4aHvLGLf6b3I81) | [Full Speed](https://open.spotify.com/album/0OS0qlWKs709xlUessbaL3) | 2:22 | 2022-03-18 | 2022-04-01 |
@@ -1909,6 +1909,7 @@
 | [U My Everything \(feat\. Drake\)](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 | 2024-05-24 |  |
 | [Ugly \- Spotify Singles](https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [Spotify Singles](https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S) | 2:23 | 2024-04-19 | 2024-06-08 |
 | [UGLY BETTY](https://open.spotify.com/track/4kym1XPxRMmVdRNibFn9k3) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA), [audiodrugz](https://open.spotify.com/artist/4PMllC4qzDmmdqVGrlJjQJ) | [UGLY BETTY](https://open.spotify.com/album/32Rv8WO5Q0GiNa51TnKLMf) | 3:12 | 2023-08-04 | 2023-09-01 |
+| [Uh Huh](https://open.spotify.com/track/4LyJyZpmfpDTAfF2E0gWHF) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Uh Huh](https://open.spotify.com/album/4JnlqGdsDfELZDv4Ksa4pJ) | 2:15 | 2024-06-20 |  |
 | [UH HUH \(Prod\. Lean$moke\)](https://open.spotify.com/track/1RgWfzG7Rs2IMS6F144OJ8) | [KHAN](https://open.spotify.com/artist/2dixWDh9f2COEfikojSd39), [BOO HYUNSEOK](https://open.spotify.com/artist/6OU7aK8iNRtzcuipq3jpsQ) | [KHANBOO](https://open.spotify.com/album/4X5DiFKpFX0SGMtBr0cUAB) | 2:49 | 2022-03-31 | 2022-04-22 |
 | [Umbrella \(with 21 Savage & Young Nudy\)](https://open.spotify.com/track/2Yt4SXIgmoaPZHGdRafp4P) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:42 | 2023-01-06 | 2023-03-03 |
 | [Unacceptable](https://open.spotify.com/track/0Yptvdo4iVZ42hz0m8rGng) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Unacceptable](https://open.spotify.com/album/79v3fsCuDJoEfpMJc6G7fI) | 3:06 | 2022-08-11 | 2022-09-30 |

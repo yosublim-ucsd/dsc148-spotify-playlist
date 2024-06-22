@@ -211,6 +211,36 @@
     },
     {
       "album": {
+        "name": "Acabou o Amor",
+        "url": "https://open.spotify.com/album/3aXUQODQwXPbgpLFynmAuP"
+      },
+      "artists": [
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172442,
+      "name": "Acabou o Amor",
+      "url": "https://open.spotify.com/track/0qdMBxjvPgcsgE7emfYwss"
+    },
+    {
+      "album": {
         "name": "Acabou O Sossego",
         "url": "https://open.spotify.com/album/0toBC6zKZKiimstNK2XtZk"
       },
@@ -710,7 +740,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 189070,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/0bTtg9H6XnRyWyHYfpaO5u"
@@ -3428,7 +3458,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 265450,
       "name": "Me Leva Pra Casa / Escrito Nas Estrelas / Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD"
@@ -3480,6 +3510,24 @@
       "duration_ms": 195706,
       "name": "Mec Life",
       "url": "https://open.spotify.com/track/4YfdCJR5uKLYkcGdZQap35"
+    },
+    {
+      "album": {
+        "name": "Medley Put4ria Avan\u00e7ada",
+        "url": "https://open.spotify.com/album/58k3YgPnHa7XWEFOc4ggTd"
+      },
+      "artists": [
+        {
+          "name": "HITS DO NORDESTE",
+          "url": "https://open.spotify.com/artist/3OuNp8jY5rNrvBZKbzzUfm"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199373,
+      "name": "Medley Put4ria Avan\u00e7ada",
+      "url": "https://open.spotify.com/track/47jm3FEv1cfE97ILQsqfPq"
     },
     {
       "album": {

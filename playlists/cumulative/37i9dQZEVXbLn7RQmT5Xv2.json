@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "AL ARBA3",
+        "url": "https://open.spotify.com/album/3A9Z5JbdG6CwMdWrDkROjp"
+      },
+      "artists": [
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200772,
+      "name": "AL ARBA3",
+      "url": "https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs"
+    },
+    {
+      "album": {
         "name": "Ala Ba'ady",
         "url": "https://open.spotify.com/album/1p9ij7JhwWj4vQrfMcUc12"
       },
@@ -3720,7 +3738,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 186233,
       "name": "Etabelna",
       "url": "https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr"
@@ -15790,7 +15808,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 163121,
       "name": "\u0644\u0650\u0644\u0651\u064a",
       "url": "https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf"
@@ -16442,7 +16460,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 178900,
       "name": "\u0648\u0627\u062d\u062f\u0629 \u0648\u0627\u062d\u062f\u0629",
       "url": "https://open.spotify.com/track/2yxWfaxD7N4PQoQ97krBoQ"

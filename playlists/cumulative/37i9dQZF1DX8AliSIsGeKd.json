@@ -54589,6 +54589,24 @@
     },
     {
       "album": {
+        "name": "Road to Brindisi",
+        "url": "https://open.spotify.com/album/4d44WsHVE76Qb2sApEUGJ8"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419285,
+      "name": "Road to Brindisi",
+      "url": "https://open.spotify.com/track/4C8qr4LZ1PLANmkNcran55"
+    },
+    {
+      "album": {
         "name": "Roads Of Gold",
         "url": "https://open.spotify.com/album/6buk9gBgZX5FGqLc1PIvXo"
       },

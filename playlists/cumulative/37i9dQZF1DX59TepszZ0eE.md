@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W?si=t46aO0dvRdmAn7mro6qF6Q>Joyous Celebration</a>
 
-288 songs - 1 day 5 hr 40 min
+289 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Kuligugu Kimi \- Live](https://open.spotify.com/track/1HUE7OwElBeDZVtkm5MDXX) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 18: One Purpose \(Live at CityHill Church, Durban 2014\)](https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr) | 8:34 | 2024-04-05 |  |
 | [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 | 2023-11-24 |  |
 | [Kungenxa Yakho](https://open.spotify.com/track/13ulA98c975c1CkT251MNq) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 4:19 | 2024-03-29 | 2024-04-05 |
+| [Kuyobamnandi \(Ulidwala\) \- Medley](https://open.spotify.com/track/5jOjDBqTw2nwkkGLU5gIpw) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Kuyobamnandi \(Ulidwala\) \[Medley\]](https://open.spotify.com/album/2ATqllwxWwaOuTHeysJL1b) | 3:50 | 2024-06-21 |  |
 | [Lion of Judah \(Live\)](https://open.spotify.com/track/4C9RGcQVNS6bLhSXsvkwAO) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 5:09 | 2018-09-24 |  |
 | [Living Word](https://open.spotify.com/track/4NxHPiydhSEy8Sy8xUdmzO) | [Xoli Thabethe](https://open.spotify.com/artist/3m8X7WXEyacq9QIrqYbOAd), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Into the Deep](https://open.spotify.com/album/1nM9F6MuaJTBNrg23Bnba7) | 6:41 | 2024-03-29 | 2024-04-05 |
 | [Liyez'Ixesha](https://open.spotify.com/track/5W6xoNGYkme6joSMEc5atz) | [Lusanda Spiritual Group](https://open.spotify.com/artist/4WCFeHvuICo53VeafPoRpz) | [Ndiyabulela](https://open.spotify.com/album/3zKfcm9BarI8Y8fDcIChit) | 4:36 | 2023-06-30 | 2023-09-15 |

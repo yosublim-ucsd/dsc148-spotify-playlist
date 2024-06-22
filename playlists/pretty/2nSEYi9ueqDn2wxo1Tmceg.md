@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu?si=h6gIDNzNR06HcGlhhO4tEw">Avey Tare</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K?si=w8bfuFXaS8up2\_BtCVV3zw">One True Pairing</a>
 
 [Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,935 likes - 55 songs - 4 hr 21 min
 
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 54 | [Molehills](https://open.spotify.com/track/3sm6GfmHISsEjJrPExmxqz) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [I'm totally fine with it 👍 don't give a fuck anymore 👍](https://open.spotify.com/album/10OAPWpR7qXlxUbJlRhSFi) | 4:11 |
 | 55 | [Sophomore](https://open.spotify.com/track/7LRBfIOKLb09y0i0THx0L1) | [Weatherman](https://open.spotify.com/artist/14WHOSKzHjEeSwNDjXAmvq) | [Sophomore / EUC](https://open.spotify.com/album/4hTgRqvU1U9omRJuQffA8I) | 6:51 |
 
-Snapshot ID: `AAAPfbn20tVS8Zl3hA6yqCvY4K3tyThs`
+Snapshot ID: `AAAPf0w6wRlMcIFg9pMqPklKIIYVeVkG`

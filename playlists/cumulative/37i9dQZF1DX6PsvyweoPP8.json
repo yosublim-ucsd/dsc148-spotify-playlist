@@ -1425,6 +1425,40 @@
     },
     {
       "album": {
+        "name": "Contando Malote",
+        "url": "https://open.spotify.com/album/6LK8QTYhYZtJurm38occbm"
+      },
+      "artists": [
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210922,
+      "name": "Contando Malote",
+      "url": "https://open.spotify.com/track/7shdzRK0IER1VzqQgJTtwN"
+    },
+    {
+      "album": {
         "name": "Corpo Quente",
         "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
       },
@@ -2566,6 +2600,32 @@
       "duration_ms": 140400,
       "name": "Ingrata",
       "url": "https://open.spotify.com/track/1BBbpZML2z4hifuhnRFMFh"
+    },
+    {
+      "album": {
+        "name": "Inten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2RYLU7NpHd030ALJfZT4P3"
+      },
+      "artists": [
+        {
+          "name": "DJ ESCOBAR",
+          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
+        },
+        {
+          "name": "K1F1Oficial",
+          "url": "https://open.spotify.com/artist/5BwLkaCp3MujTJJi75DYeb"
+        },
+        {
+          "name": "Twob",
+          "url": "https://open.spotify.com/artist/1JCCr7Dbr8SrCIwXrs9XY9"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196651,
+      "name": "Inten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1Wj4YWEEimwFTyFCGwl2ZY"
     },
     {
       "album": {

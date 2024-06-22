@@ -164,7 +164,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 161728,
       "name": "All I've Got is You",
       "url": "https://open.spotify.com/track/0DdDbFj0v5UlXC8j2CxJg6"
@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Blow Wind Blow",
+        "url": "https://open.spotify.com/album/1rQr3i5EBvvfaDhSG4rnRs"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208637,
+      "name": "Blow Wind Blow",
+      "url": "https://open.spotify.com/track/0offIBJWGuYFQ0vZ9tgFcW"
+    },
+    {
+      "album": {
         "name": "Blue Sky",
         "url": "https://open.spotify.com/album/2KUwhFMUmvRLG1muibvI4r"
       },
@@ -939,6 +957,24 @@
     },
     {
       "album": {
+        "name": "That's The Spirit!",
+        "url": "https://open.spotify.com/album/2ew22HhN2j6LN8MoxUqxkG"
+      },
+      "artists": [
+        {
+          "name": "The Retrograde",
+          "url": "https://open.spotify.com/artist/6R2UeI1q0BcAu70RDbrJ6c"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179223,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/3D5VPTHeG5pvXm8uFILonz"
+    },
+    {
+      "album": {
         "name": "Come For Me",
         "url": "https://open.spotify.com/album/78654KgIrmbYl7BlulKAOS"
       },
@@ -1102,7 +1138,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 187390,
       "name": "Cross The Line",
       "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
@@ -4602,6 +4638,28 @@
       "duration_ms": 181688,
       "name": "Strange Light",
       "url": "https://open.spotify.com/track/3cI6ybZ2Wo5Xriz396gSH7"
+    },
+    {
+      "album": {
+        "name": "Street People",
+        "url": "https://open.spotify.com/album/4BLpST6Vxcc5f4dJEx1ddO"
+      },
+      "artists": [
+        {
+          "name": "J.D. Simo",
+          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
+        },
+        {
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190706,
+      "name": "Street People",
+      "url": "https://open.spotify.com/track/3y6e4EYoQ4k9ehfTgh0Fde"
     },
     {
       "album": {

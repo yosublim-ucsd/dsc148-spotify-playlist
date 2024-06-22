@@ -2,7 +2,7 @@
 
 ### [This Is Chappell Roan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4y92Yr)
 
-> This is Chappell Roan\. Tutti i brani in un'unica playlist.
+> This is Chappell Roan\. The essential tracks, all in one playlist.
 
 23 songs - 1 hr 22 min
 

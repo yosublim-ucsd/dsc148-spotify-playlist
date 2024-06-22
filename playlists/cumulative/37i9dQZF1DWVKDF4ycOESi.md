@@ -4,7 +4,7 @@
 
 > Coldplay in cover + le migliori uscite di questa settimana!
 
-861 songs - 1 day 18 hr 59 min
+864 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Cozy](https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cozy](https://open.spotify.com/album/4xsI12SdxzxVyikl8PRuX3) | 2:45 | 2024-05-23 | 2024-06-01 |
 | [CP COMPANY](https://open.spotify.com/track/1qKTihNxQh2kSeuLjd3KAg) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [SILENZIO](https://open.spotify.com/album/39NYzf6GQLB8KZyyxfYKRh) | 3:15 | 2024-04-26 | 2024-05-03 |
 | [CRACCO](https://open.spotify.com/track/6UqEFbDhIFIQnL4g3AY675) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [CRACCO](https://open.spotify.com/album/1HwLLJbjwzEebz1n3gmVSw) | 2:28 | 2024-05-16 | 2024-05-24 |
+| [Crash](https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 2:36 | 2024-06-20 |  |
 | [CROCEROSSINA](https://open.spotify.com/track/6HeS9AFIbqunx80FXp66dP) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [CROCEROSSINA](https://open.spotify.com/album/7yDdNGU0y0IlHDKnjLX2Cd) | 2:18 | 2024-04-26 | 2024-05-03 |
 | [Cupido](https://open.spotify.com/track/4OFqJ6OnEYXNNcFZl2fOPJ) | [Legno](https://open.spotify.com/artist/0IMy1yZn21uzYi7nHVVAzy) | [Cupido](https://open.spotify.com/album/4Tr7myKPPvoxijKwuDjLdi) | 2:47 | 2024-06-13 | 2024-06-21 |
 | [Cursed Romantics](https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cursed Romantics](https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE) | 3:10 | 2024-05-16 | 2024-05-24 |
@@ -740,6 +741,7 @@
 | [Sunburnt Shoulders](https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me vs\. Me](https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc) | 2:57 | 2024-05-23 | 2024-06-01 |
 | [SUPERMARIO](https://open.spotify.com/track/2wZxrS864gsfTcMyF6Op5f) | [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH) | [SUPERMARIO](https://open.spotify.com/album/4OltihcQ9anqIVS4zrCURv) | 3:21 | 2024-05-16 | 2024-05-24 |
 | [SUPERMERCATI \(su Marte\)](https://open.spotify.com/track/3qe76pScevHNldvFNe6tqz) | [I Boschi Bruciano](https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW) | [SUPERMERCATI \(su Marte\)](https://open.spotify.com/album/47ugwI6mmMU2WaxDmPoPS2) | 3:38 | 2024-05-31 | 2024-06-07 |
+| [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-20 |  |
 | [SUPERORGASMO](https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [ULTRAFRAGOLA](https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q) | 2:39 | 2024-05-31 | 2024-06-07 |
 | [SUPERSEX \(feat\. Spender\)](https://open.spotify.com/track/2gDPoogKgwYJQ0FB9mWaed) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh), [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb) | [SUPERSEX \(feat\. Spender\)](https://open.spotify.com/album/2TSj70pDYykZp31LGD0mf0) | 2:28 | 2024-06-13 | 2024-06-21 |
 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-05-23 | 2024-06-01 |
@@ -766,6 +768,7 @@
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-05-31 | 2024-06-07 |
 | [The Craving \(single version\)](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving \(single version\)](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-23 | 2024-06-01 |
 | [The End](https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The End](https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI) | 3:17 | 2024-06-06 | 2024-06-14 |
+| [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-06-20 |  |
 | [The Golden Years](https://open.spotify.com/track/0WcVzqLvBKVOZ35ChOkwtT) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/2AkKL6l3tq1xzJxRLLJaHf) | 3:34 | 2024-05-16 | 2024-05-24 |
 | [The Hassle](https://open.spotify.com/track/4hllVp9xLiuZPrRGSIbMXm) | [Nicaragua](https://open.spotify.com/artist/52xrPZ8EC64iktrGrmVa4B) | [The Hassle](https://open.spotify.com/album/4ixVGsIgAlVzf29s9vUqBD) | 3:10 | 2024-06-20 |  |
 | [The Other Side](https://open.spotify.com/track/1whkfFxtxHalsQt83YfUGH) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face \(Club Deluxe\)](https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc) | 3:16 | 2024-04-26 | 2024-05-03 |

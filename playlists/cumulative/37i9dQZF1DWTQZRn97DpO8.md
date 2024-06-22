@@ -4,7 +4,7 @@
 
 > 🍯🍯🍯\. Photo : Arma Jackson
 
-177 songs - 8 hr 49 min
+178 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Message pour son ex](https://open.spotify.com/track/4IvQd50r5HC3iG7ogwHHvf) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Message pour son ex](https://open.spotify.com/album/0XSQjM0ilEjDeO5MJ2DVir) | 3:15 | 2024-06-06 |  |
 | [Mienne](https://open.spotify.com/track/5GFYyEJYUQrG4q3URRtT4B) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [Mienne](https://open.spotify.com/album/0X0mA4fLAGZJLbTHFfu8Nb) | 3:00 | 2024-01-25 | 2024-04-26 |
 | [MIEUX QUE LES AUTRES](https://open.spotify.com/track/0CSVMPP9R2jxc7NyhxL3r0) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NISHATI](https://open.spotify.com/album/6Rl0Xb0LQKQjcFbtiptz1f) | 4:05 | 2024-03-14 |  |
+| [minibar](https://open.spotify.com/track/2O77JjyoBbw1FvXXK1Roka) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn) | [minibar](https://open.spotify.com/album/3RQH6fCXeMqMW95LWQyHpQ) | 2:21 | 2024-06-20 |  |
 | [Mirage](https://open.spotify.com/track/1odA378yBmB168qEXdrxka) | [Keziah](https://open.spotify.com/artist/3CuHmC1rd8RvFdFhcn7467) | [Mirage](https://open.spotify.com/album/191DoTkYTANUBkoCjGvXRC) | 1:44 | 2024-03-14 | 2024-04-26 |
 | [Mortel](https://open.spotify.com/track/77nU8wDRYGuoIt6ryY49pz) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:47 | 2023-12-21 | 2024-02-16 |
 | [MUSE](https://open.spotify.com/track/4HiNfdHUfq8PG4v8fgXjvB) | [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [AU COEUR DU MIEN](https://open.spotify.com/album/2jm5SpD0s0eNf3lDKC1fR6) | 3:20 | 2024-04-11 |  |

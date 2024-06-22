@@ -1721,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "Put You Back Together",
+        "url": "https://open.spotify.com/album/2iE2GaYIZCGqCcJdMBFv3v"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Robyn Sherwell",
+          "url": "https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180512,
+      "name": "Put You Back Together",
+      "url": "https://open.spotify.com/track/4wRgSUpELGyDeKnaG3sFUW"
+    },
+    {
+      "album": {
         "name": "Music For Home Vol. 2: Redemption",
         "url": "https://open.spotify.com/album/2vRGgj6klG7akio8JobObE"
       },
@@ -1812,7 +1834,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 243816,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/12dXMqsOXUtE9IBtUDSOvt"
@@ -1874,6 +1896,24 @@
       "duration_ms": 213825,
       "name": "Slowly - Instrumental",
       "url": "https://open.spotify.com/track/3GVLVaWkjpogFy7ZyjzXiI"
+    },
+    {
+      "album": {
+        "name": "Smiling Through The Pain",
+        "url": "https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97008,
+      "name": "Smiling Through The Pain",
+      "url": "https://open.spotify.com/track/2yE235IuLnmcYj9kj2TJSI"
     },
     {
       "album": {
@@ -2138,10 +2178,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 271533,
       "name": "Walking Slowly",
       "url": "https://open.spotify.com/track/59ALSzlla8jAzqD5Dhozoo"
+    },
+    {
+      "album": {
+        "name": "Warmth",
+        "url": "https://open.spotify.com/album/5tLrwK3TcK1SMqhVAThVEp"
+      },
+      "artists": [
+        {
+          "name": "Jorge",
+          "url": "https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Warmth",
+      "url": "https://open.spotify.com/track/6tbkjEH6uEajWZjrLzd3CK"
     },
     {
       "album": {

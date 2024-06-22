@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "Common Love Common Nausea",
+        "url": "https://open.spotify.com/album/4GbCaIKP7C0tZBNCmXLMtU"
+      },
+      "artists": [
+        {
+          "name": "Calcine",
+          "url": "https://open.spotify.com/artist/4bbaTWOj59xYMfrXjqS8X1"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160165,
+      "name": "23:11",
+      "url": "https://open.spotify.com/track/4hWjZXyeH2FumB3Ee7r7Xw"
+    },
+    {
+      "album": {
+        "name": "aftermath/afterthought",
+        "url": "https://open.spotify.com/album/4ZqVCoQf60h1VE2kM3uz2o"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146746,
+      "name": "aftermath/afterthought",
+      "url": "https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3"
+    },
+    {
+      "album": {
         "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
         "url": "https://open.spotify.com/album/40CyQnSxAz9rmB9ZcJIwE7"
       },
@@ -24,7 +60,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 240539,
       "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
       "url": "https://open.spotify.com/track/7uGFpRMtsb7CGdUgjEeSsk"
@@ -46,10 +82,140 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 181896,
       "name": "ASHAMED [Feat. Lauren Mayberry]",
       "url": "https://open.spotify.com/track/15b2BhawVZK3pQ7c2BhUcU"
+    },
+    {
+      "album": {
+        "name": "Bird In A Cage",
+        "url": "https://open.spotify.com/album/2WBTJEvGBORDzraekT36lO"
+      },
+      "artists": [
+        {
+          "name": "Harper",
+          "url": "https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Bird In A Cage",
+      "url": "https://open.spotify.com/track/2opaB2JrZZDPLJKgToYeT4"
+    },
+    {
+      "album": {
+        "name": "breakdown.",
+        "url": "https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163453,
+      "name": "breakdown.",
+      "url": "https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0lksir13PTyMA8xzb5O4Dx"
+      },
+      "artists": [
+        {
+          "name": "Light Grey",
+          "url": "https://open.spotify.com/artist/7hc1azqwLVlCwtE6acW1mZ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133459,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/6HpB21R1nzLSrNzs7khrs4"
+    },
+    {
+      "album": {
+        "name": "CRIMINAL",
+        "url": "https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227258,
+      "name": "CRIMINAL",
+      "url": "https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X"
+    },
+    {
+      "album": {
+        "name": "Crux Ansata",
+        "url": "https://open.spotify.com/album/27dwMCnxdJHl4WDP1WoqgC"
+      },
+      "artists": [
+        {
+          "name": "Kurokuma",
+          "url": "https://open.spotify.com/artist/6XtVoVBGIKGHCyfA95QoUQ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351258,
+      "name": "Crux Ansata",
+      "url": "https://open.spotify.com/track/5Qm4wAYJQ0tBueYhNdCgIA"
+    },
+    {
+      "album": {
+        "name": "DON'T NEED",
+        "url": "https://open.spotify.com/album/5lLxD9Ay7XljNc2q1lS16d"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "DON'T NEED",
+      "url": "https://open.spotify.com/track/2qD3qR21DrjeU11wIBoipE"
+    },
+    {
+      "album": {
+        "name": "don't rely on other men",
+        "url": "https://open.spotify.com/album/0S3p06Juu3pFmzpdQbOHOK"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194897,
+      "name": "don't rely on other men",
+      "url": "https://open.spotify.com/track/2RZBNHSfrxyIs8u9ciLKLf"
     },
     {
       "album": {
@@ -64,7 +230,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 248228,
       "name": "Embers",
       "url": "https://open.spotify.com/track/6SmL10sGrHL3mXHXjtwult"
@@ -82,10 +248,28 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 213261,
       "name": "Evil, Hate Filled Female",
       "url": "https://open.spotify.com/track/0vrsA8AV83kBmIxeHk2XaY"
+    },
+    {
+      "album": {
+        "name": "Fend You Off",
+        "url": "https://open.spotify.com/album/7HFYz0fonPkHyxqAiJ1peV"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231813,
+      "name": "Fend You Off",
+      "url": "https://open.spotify.com/track/2vw9pwB7AWwDENAmq1zBlV"
     },
     {
       "album": {
@@ -100,7 +284,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 191593,
       "name": "Fight",
       "url": "https://open.spotify.com/track/0r8pHxNmHzxaRj7WS8p4I4"
@@ -118,10 +302,28 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 148026,
       "name": "FIX ME",
       "url": "https://open.spotify.com/track/38ie1W7TnKwXwOLXyCq6kV"
+    },
+    {
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/3Ey6TMfMxIJ64mv9LEMkIb"
+      },
+      "artists": [
+        {
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224715,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/042GkzRN9bEVHPUqLqk5vi"
     },
     {
       "album": {
@@ -136,10 +338,28 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 82105,
       "name": "Imposing Will",
       "url": "https://open.spotify.com/track/1DctDqwwzM62QrJgktLtHK"
+    },
+    {
+      "album": {
+        "name": "In Reverse",
+        "url": "https://open.spotify.com/album/1dvgSF0Gx5yEpCLdm8q61R"
+      },
+      "artists": [
+        {
+          "name": "Iress",
+          "url": "https://open.spotify.com/artist/7LlAk7lyxBJYpXXT0n7mtc"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296317,
+      "name": "In Reverse",
+      "url": "https://open.spotify.com/track/1ajj2r7W3MAnJ7rBsUYDyS"
     },
     {
       "album": {
@@ -154,10 +374,28 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 159285,
       "name": "Invisible Rain",
       "url": "https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO"
+    },
+    {
+      "album": {
+        "name": "Last Train to Santa Fe",
+        "url": "https://open.spotify.com/album/6wMvZJmsJYOW178nQnLfCQ"
+      },
+      "artists": [
+        {
+          "name": "Jaws the Shark",
+          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225502,
+      "name": "Last Train to Santa Fe",
+      "url": "https://open.spotify.com/track/7rZqu0JdqQeJs2x7FvWvYU"
     },
     {
       "album": {
@@ -172,7 +410,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 233797,
       "name": "Let's Go Psycho!",
       "url": "https://open.spotify.com/track/77Kj1Y4KzxeqbtSPc9M92k"
@@ -190,7 +428,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
@@ -208,7 +446,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 207008,
       "name": "MELANCHOLIA",
       "url": "https://open.spotify.com/track/38IWcchmapmGxnObgwSOEj"
@@ -226,7 +464,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 149397,
       "name": "Mob DLA",
       "url": "https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk"
@@ -244,10 +482,28 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 224063,
       "name": "Natural",
       "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
+    },
+    {
+      "album": {
+        "name": "NEW WEST ORDER",
+        "url": "https://open.spotify.com/album/1srJNGGekuMuFXVoNnjmGR"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221839,
+      "name": "NEW WEST ORDER",
+      "url": "https://open.spotify.com/track/6zmpxrCIIFYlTYDxkljhzm"
     },
     {
       "album": {
@@ -262,7 +518,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 224541,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/4T7F8vS2FLaiQyQxs2Bpk1"
@@ -280,7 +536,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 180395,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6c2orDRuPDBLrdUorfhK1d"
@@ -298,10 +554,28 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 219964,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
+    },
+    {
+      "album": {
+        "name": "Raigeki",
+        "url": "https://open.spotify.com/album/3Z46l5uMmAJdvEfSkiR30m"
+      },
+      "artists": [
+        {
+          "name": "Unto Others",
+          "url": "https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "Raigeki \u96f7\u6483",
+      "url": "https://open.spotify.com/track/0C2awQ4olwwSjkpEMmiNdU"
     },
     {
       "album": {
@@ -316,7 +590,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 179912,
       "name": "Rips Of Rain",
       "url": "https://open.spotify.com/track/1AubrbChhLaEoS3Sa2aGj1"
@@ -334,7 +608,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 213580,
       "name": "Say What You Will",
       "url": "https://open.spotify.com/track/6Q47FSXfau9Adh1qmFFmyb"
@@ -352,10 +626,64 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 198981,
       "name": "The Bonnie Banks",
       "url": "https://open.spotify.com/track/0mJyky6GQhSABg8qX2Au4p"
+    },
+    {
+      "album": {
+        "name": "The Day That He Saw Red",
+        "url": "https://open.spotify.com/album/5l6z6AJFPbxtDjDH0EbrBV"
+      },
+      "artists": [
+        {
+          "name": "Roses In December",
+          "url": "https://open.spotify.com/artist/22uHBvhx0hlf1h1TFRIFCZ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182964,
+      "name": "The Day That He Saw Red",
+      "url": "https://open.spotify.com/track/3wTVdxtxE81ZjYi3fr3ZXB"
+    },
+    {
+      "album": {
+        "name": "The Fire At The Centre Of The Earth Is Mine",
+        "url": "https://open.spotify.com/album/793ugUgLsXn4zCaRJ4XIMm"
+      },
+      "artists": [
+        {
+          "name": "Orange Goblin",
+          "url": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319720,
+      "name": "The Fire At The Centre Of The Earth Is Mine",
+      "url": "https://open.spotify.com/track/3lfxUJUxvrMojHaMYiZewF"
+    },
+    {
+      "album": {
+        "name": "The Future Is A Foreign Land",
+        "url": "https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225224,
+      "name": "The Future Is A Foreign Land",
+      "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
     },
     {
       "album": {
@@ -370,10 +698,46 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 212428,
       "name": "The Wrong Way",
       "url": "https://open.spotify.com/track/6hfEll95Ig85Nracjr47SF"
+    },
+    {
+      "album": {
+        "name": "Theme from Pink Flamingo",
+        "url": "https://open.spotify.com/album/6d3h0z1J5e9mrSAG2tS0oJ"
+      },
+      "artists": [
+        {
+          "name": "Kids In Glass Houses",
+          "url": "https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219786,
+      "name": "Theme from Pink Flamingo",
+      "url": "https://open.spotify.com/track/0s1AVo9cJjG2ZHbEfSrqal"
+    },
+    {
+      "album": {
+        "name": "Toxins",
+        "url": "https://open.spotify.com/album/7lKTFbEOfMHcZ0xMzPB9md"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142539,
+      "name": "Toxins",
+      "url": "https://open.spotify.com/track/5MarKAwrQvOEGlCOKEeIw3"
     }
   ],
   "url": "https://open.spotify.com/playlist/5LD3ztJJK6Qq7SSpzESUmb"

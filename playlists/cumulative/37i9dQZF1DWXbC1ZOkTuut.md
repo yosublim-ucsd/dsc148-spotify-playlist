@@ -2,9 +2,9 @@
 
 ### [New Música Mexicana Albums](https://open.spotify.com/playlist/37i9dQZF1DWXbC1ZOkTuut)
 
-> Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Mario Bautista
+> Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Peso Pluma
 
-505 songs - 1 day 2 hr 1 min
+508 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Hice \(En Vivo\)](https://open.spotify.com/track/4DfpqWSzsEyDWG3OHpZVXa) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Memo Garza](https://open.spotify.com/artist/3yJ7q2MEpB9SLK9Xy1EJ2F) | [Hice \(En Vivo\)](https://open.spotify.com/album/7BlYGsZDeFu64x851JTSX2) | 3:13 | 2024-03-15 |  |
 | [Hilito Rojo](https://open.spotify.com/track/1vnBJSE0DRxYB5izG8jRFc) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Fénix](https://open.spotify.com/album/3X5IYOoKCpVmADRzZWbUIV) | 2:23 | 2024-06-14 |  |
 | [Hoja En Blanco](https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón \(Deluxe\)](https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg) | 4:30 | 2023-05-19 | 2023-06-24 |
+| [HOLLYWOOD](https://open.spotify.com/track/5GTBdEjZe7zEDp1N0eCZE4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:44 | 2024-06-21 |  |
 | [Hombre De Ley](https://open.spotify.com/track/42tvVVTjqBlW4yf0rI8RX4) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [MS 20 Años](https://open.spotify.com/album/2uvZN0xtan2MRzQ81NYMhj) | 3:24 | 2023-06-30 | 2024-02-24 |
 | [Hotel](https://open.spotify.com/track/5Q8KBMgphMMhMdopR6gV4m) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [CORONAMOS](https://open.spotify.com/album/7BRjW94Ab2J3mtXuniXArD) | 2:39 | 2024-05-24 |  |
 | [HOUSE OF LUX 2](https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 2:25 | 2024-03-01 |  |
@@ -439,6 +440,7 @@
 | [Solo Tu](https://open.spotify.com/track/2EXBHEndxcIlOF9H3QwARz) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 4:13 | 2023-06-23 | 2024-02-24 |
 | [Sorry Pa’ Los Gabachos](https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:18 | 2023-11-24 | 2024-02-24 |
 | [Soy El Cabezón \(En Vivo\)](https://open.spotify.com/track/7yWlXAjKdfdAPRLrk6mZ9X) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Culiacán Deluxe 2 \(En Vivo\)](https://open.spotify.com/album/2SHMDC2lIlkSyEKhIBvuFU) | 3:54 | 2023-12-15 |  |
+| [SR\. SMITH](https://open.spotify.com/track/1qrhpxdnC4nUCyFefPVCDa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:41 | 2024-06-21 |  |
 | [SU PRINCE](https://open.spotify.com/track/7diicPsESM0SYhXAPSKKoj) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [DESDE MI HABITACIÓN](https://open.spotify.com/album/3ZxjhNBeDioj81Ft175XPE) | 3:17 | 2024-06-14 |  |
 | [Sufriendo A Solas](https://open.spotify.com/track/4SMWhMeM2XJx5qoR3scaUw) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Hecho En México…Mágico](https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv) | 2:52 | 2023-05-19 | 2024-02-24 |
 | [Suspiros \(En Vivo\)](https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Suspiros \(En Vivo\)](https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj) | 3:05 | 2024-03-15 |  |
@@ -491,6 +493,7 @@
 | [VIDA DE FAMOSO](https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:06 | 2024-02-23 |  |
 | [Vida de Magnate](https://open.spotify.com/track/7clJPuGLQe4RzbXxycwlMq) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [La Casa Siempre Gana](https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC) | 3:32 | 2024-03-22 |  |
 | [Viejo Lobo](https://open.spotify.com/track/2eNu3B6ufQGQRKAoEKyZKE) | [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z), [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Va En Serio](https://open.spotify.com/album/1IX7xMQ6ZRtsCU01kFyRXu) | 2:53 | 2024-05-24 |  |
+| [VINO TINTO](https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:05 | 2024-06-21 |  |
 | [Volaré](https://open.spotify.com/track/1LZooGZIc85K7y5SxAWNS7) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:44 | 2023-11-24 | 2024-02-24 |
 | [Volverte A Amar](https://open.spotify.com/track/7AWcB8E2rckklyezjvUqSj) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Una Copa Por Cada Reina \(Deluxe\)](https://open.spotify.com/album/1G9FPee5jWwNpWS7iefMq5) | 3:18 | 2023-05-19 | 2023-08-26 |
 | [Volviste](https://open.spotify.com/track/7LxxXsIcWd3HtSCTWtTPuF) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [CORONAMOS](https://open.spotify.com/album/7BRjW94Ab2J3mtXuniXArD) | 3:20 | 2024-05-24 |  |

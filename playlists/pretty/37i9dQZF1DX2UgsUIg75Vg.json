@@ -1,65 +1,13 @@
 {
-  "description": "Chill r&b vibes for your most relaxed moods. Cover: Lekan",
-  "num_followers": 2343921,
+  "description": "Chill r&b vibes for your most relaxed moods. Cover: NxWorries",
+  "num_followers": 2344007,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmvmzgAAAADw2ZMUzXMmcZR8RGeXM/Qm",
+  "snapshot_id": "ZnUovwAAAAAizypGOgxwZ05MQpfwXJL0",
   "tracks": [
-    {
-      "added_at": "2024-06-14 06:33:56",
-      "album": {
-        "name": "So You Know",
-        "url": "https://open.spotify.com/album/2jELYQXQdqowizHRPUUwAQ"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 223564,
-      "name": "On Me",
-      "url": "https://open.spotify.com/track/5jSMRqsK70fjBAqZMJ6uCI"
-    },
-    {
-      "added_at": "2024-06-14 06:33:56",
-      "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 225520,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/4EBmRDnoPHS8CnumK8tVv8"
-    },
-    {
-      "added_at": "2024-06-07 11:27:49",
-      "album": {
-        "name": "FRANCIS",
-        "url": "https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs"
-      },
-      "artists": [
-        {
-          "name": "ESTA.",
-          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
-        },
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 160294,
-      "name": "konnekt",
-      "url": "https://open.spotify.com/track/3R6lQqwgK3HitsRD1wqzaS"
-    },
     {
       "added_at": "2024-06-14 06:33:56",
       "album": {
@@ -109,38 +57,6 @@
       "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
     },
     {
-      "added_at": "2024-06-14 06:33:56",
-      "album": {
-        "name": "Moth",
-        "url": "https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 219861,
-      "name": "Sweet Like",
-      "url": "https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ"
-    },
-    {
-      "added_at": "2024-05-31 06:15:55",
-      "album": {
-        "name": "Space & Time",
-        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 183980,
-      "name": "Space & Time",
-      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
-    },
-    {
       "added_at": "2024-06-07 11:27:49",
       "album": {
         "name": "Born in the Wild",
@@ -159,6 +75,22 @@
       "duration_ms": 192065,
       "name": "Free Fall (feat. J. Cole)",
       "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
+    },
+    {
+      "added_at": "2024-06-21 06:16:54",
+      "album": {
+        "name": "Never Be Yours",
+        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 196025,
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -181,6 +113,82 @@
       "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
     },
     {
+      "added_at": "2024-06-14 06:33:56",
+      "album": {
+        "name": "So You Know",
+        "url": "https://open.spotify.com/album/2jELYQXQdqowizHRPUUwAQ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 223564,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/5jSMRqsK70fjBAqZMJ6uCI"
+    },
+    {
+      "added_at": "2024-06-14 06:33:56",
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 225520,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/4EBmRDnoPHS8CnumK8tVv8"
+    },
+    {
+      "added_at": "2024-06-21 06:16:54",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 262261,
+      "name": "Sucia (feat. Jill Scott & Young Miko)",
+      "url": "https://open.spotify.com/track/6DaOjQgLWflvPeEbL0incg"
+    },
+    {
+      "added_at": "2024-06-07 11:27:49",
+      "album": {
+        "name": "FRANCIS",
+        "url": "https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs"
+      },
+      "artists": [
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 143028,
+      "name": "lost in translation",
+      "url": "https://open.spotify.com/track/2JRNKk2mx8ODmynCxwhnxw"
+    },
+    {
       "added_at": "2024-05-31 06:15:55",
       "album": {
         "name": "Make Me Forget",
@@ -197,20 +205,36 @@
       "url": "https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD"
     },
     {
-      "added_at": "2024-06-14 06:33:56",
+      "added_at": "2024-05-31 06:15:55",
       "album": {
-        "name": "Unbothered",
-        "url": "https://open.spotify.com/album/0HM5xmkTOEzur0wayhKqae"
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
       },
       "artists": [
         {
-          "name": "Aqyila",
-          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 186705,
-      "name": "Unbothered",
-      "url": "https://open.spotify.com/track/70KneIyETnRCR0bUwKSjwz"
+      "duration_ms": 183980,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
+    },
+    {
+      "added_at": "2024-06-14 06:33:56",
+      "album": {
+        "name": "Moth",
+        "url": "https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 219861,
+      "name": "Sweet Like",
+      "url": "https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ"
     },
     {
       "added_at": "2024-06-14 06:33:56",
@@ -281,6 +305,22 @@
       "url": "https://open.spotify.com/track/0IPG2jOqjMz3PAIeh4NhXW"
     },
     {
+      "added_at": "2024-06-21 07:16:15",
+      "album": {
+        "name": "Endless Night",
+        "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 113958,
+      "name": "New Lover",
+      "url": "https://open.spotify.com/track/3A75RXF6osQ8vLMSMbNJ9r"
+    },
+    {
       "added_at": "2024-03-29 06:29:51",
       "album": {
         "name": "Nothing On You",
@@ -317,24 +357,60 @@
       "url": "https://open.spotify.com/track/1zEG6etKoFYBedD7YQvSpP"
     },
     {
-      "added_at": "2024-05-31 06:15:55",
+      "added_at": "2024-06-14 06:33:56",
       "album": {
-        "name": "Electric Honey",
-        "url": "https://open.spotify.com/album/4Tw5mOARJzR867OGuF5o67"
+        "name": "Unbothered",
+        "url": "https://open.spotify.com/album/0HM5xmkTOEzur0wayhKqae"
       },
       "artists": [
         {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
         }
       ],
-      "duration_ms": 187720,
-      "name": "Mirror (with Sabrina Claudio)",
-      "url": "https://open.spotify.com/track/0s3uvrmAZeYQjdmB0vgnYk"
+      "duration_ms": 186705,
+      "name": "Unbothered",
+      "url": "https://open.spotify.com/track/70KneIyETnRCR0bUwKSjwz"
+    },
+    {
+      "added_at": "2024-06-07 11:27:49",
+      "album": {
+        "name": "FRANCIS",
+        "url": "https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs"
+      },
+      "artists": [
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "duration_ms": 160294,
+      "name": "konnekt",
+      "url": "https://open.spotify.com/track/3R6lQqwgK3HitsRD1wqzaS"
+    },
+    {
+      "added_at": "2024-06-07 11:27:49",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 196850,
+      "name": "Feel A Way (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/0PgqpFFX4WxBbXhjkONk5b"
     },
     {
       "added_at": "2024-06-14 06:33:56",
@@ -357,24 +433,24 @@
       "url": "https://open.spotify.com/track/13emOZj9lqqVJg4JJ7ABBi"
     },
     {
-      "added_at": "2024-06-07 11:27:49",
+      "added_at": "2024-05-31 06:15:55",
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+        "name": "Electric Honey",
+        "url": "https://open.spotify.com/album/4Tw5mOARJzR867OGuF5o67"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 196850,
-      "name": "Feel A Way (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/0PgqpFFX4WxBbXhjkONk5b"
+      "duration_ms": 187720,
+      "name": "Mirror (with Sabrina Claudio)",
+      "url": "https://open.spotify.com/track/0s3uvrmAZeYQjdmB0vgnYk"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -439,6 +515,22 @@
       "duration_ms": 200000,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "added_at": "2024-06-21 06:16:54",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/78KWSWqAWyYikpxfft4Lde"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 215555,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/0OI725lVaGwcYG4LXuNpSw"
     },
     {
       "added_at": "2024-06-07 11:27:49",
@@ -511,26 +603,6 @@
     {
       "added_at": "2024-06-07 11:27:49",
       "album": {
-        "name": "FRANCIS",
-        "url": "https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs"
-      },
-      "artists": [
-        {
-          "name": "ESTA.",
-          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 143028,
-      "name": "lost in translation",
-      "url": "https://open.spotify.com/track/2JRNKk2mx8ODmynCxwhnxw"
-    },
-    {
-      "added_at": "2024-06-07 11:27:49",
-      "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
@@ -543,6 +615,26 @@
       "duration_ms": 265373,
       "name": "N o C h i l l",
       "url": "https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK"
+    },
+    {
+      "added_at": "2024-06-21 06:16:54",
+      "album": {
+        "name": "The Rebirth 3: The Party & The Bedroom (Acoustic)",
+        "url": "https://open.spotify.com/album/3koHdaGklBMuwwDl6iGL2Z"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "duration_ms": 198019,
+      "name": "Run That Back (Acoustic)",
+      "url": "https://open.spotify.com/track/3bHivYhcLMJgTh9B4qngw9"
     },
     {
       "added_at": "2024-05-31 06:15:55",
@@ -739,6 +831,22 @@
       "duration_ms": 162653,
       "name": "Thinking Less",
       "url": "https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm"
+    },
+    {
+      "added_at": "2024-06-21 06:16:54",
+      "album": {
+        "name": "eyes wide open",
+        "url": "https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 153648,
+      "name": "eyes wide open",
+      "url": "https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC"
     },
     {
       "added_at": "2023-10-20 21:56:24",
@@ -1601,30 +1709,6 @@
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
     },
     {
-      "added_at": "2023-12-08 05:19:26",
-      "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 221242,
-      "name": "Mistaken",
-      "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
-    },
-    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "MET YOU AT A BAR",
@@ -2125,22 +2209,6 @@
       "url": "https://open.spotify.com/track/2tL7CO2mmBtY9fWvRAtIF9"
     },
     {
-      "added_at": "2024-01-12 05:39:56",
-      "album": {
-        "name": "Mean Well",
-        "url": "https://open.spotify.com/album/1e1Iwj8gw8pFe7Ba0PvQiy"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 172912,
-      "name": "Mean Well",
-      "url": "https://open.spotify.com/track/2fZjJ78yaF8CbjBRcIC3rY"
-    },
-    {
       "added_at": "2023-09-15 04:00:00",
       "album": {
         "name": "Waiting For You (feat. Naomi Sharon)",
@@ -2223,22 +2291,6 @@
       "duration_ms": 189257,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/664OIEUkvGKDPbHM70hVZN"
-      },
-      "artists": [
-        {
-          "name": "DIXSON",
-          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
-        }
-      ],
-      "duration_ms": 190219,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/4vnY4Q9cCCMOAoG8O9y5gb"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2453,22 +2505,6 @@
       "url": "https://open.spotify.com/track/5i6L129avGeLGlfJ6bLKUN"
     },
     {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "T.B.D.",
-        "url": "https://open.spotify.com/album/18Xm1iSbMb5srLntraenBP"
-      },
-      "artists": [
-        {
-          "name": "Solomon Headen",
-          "url": "https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "T.B.D.",
-      "url": "https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Larger Than Life",
@@ -2503,22 +2539,6 @@
       "duration_ms": 189202,
       "name": "Treasure In The Hills",
       "url": "https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Caught Between 2 Worlds",
-        "url": "https://open.spotify.com/album/0fr2yHigw1YG1oAJ2V8whE"
-      },
-      "artists": [
-        {
-          "name": "TA Thomas",
-          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
-        }
-      ],
-      "duration_ms": 182037,
-      "name": "Caught Between 2 Worlds",
-      "url": "https://open.spotify.com/track/2Aef1eaUQAOu4tDEHL0E0u"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2711,26 +2731,6 @@
       "duration_ms": 155761,
       "name": "Good Ex",
       "url": "https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "When I Hear Your Name",
-        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 109071,
-      "name": "Clarity (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/3KGvzl1vguT4QLEXsplga2"
     },
     {
       "added_at": "2023-09-15 04:00:00",

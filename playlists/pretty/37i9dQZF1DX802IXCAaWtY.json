@@ -1,6 +1,6 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1230525,
+  "num_followers": 1231097,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
-      },
-      "artists": [
-        {
-          "name": "2 Brothers On The 4th Floor",
-          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Dreams (Will Come Alive)",
-      "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "2 Times (Full Package)",
         "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 230933,
       "name": "2 Times - Original",
       "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
+      },
+      "artists": [
+        {
+          "name": "2 Brothers On The 4th Floor",
+          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Dreams (Will Come Alive)",
+      "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Sex & Violins",
-        "url": "https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz"
+        "name": "Another Night",
+        "url": "https://open.spotify.com/album/0xHHJdnDNOUDmIKqBZnHV9"
       },
       "artists": [
         {
-          "name": "Rednex",
-          "url": "https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g"
+          "name": "Real McCoy",
+          "url": "https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh"
         }
       ],
-      "duration_ms": 193826,
-      "name": "Cotton Eye Joe",
-      "url": "https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe"
+      "duration_ms": 236933,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/0gggjVyUJd90tYzAnmBjFV"
     },
     {
       "added_at": "2023-07-14 10:06:53",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "Another Night",
-        "url": "https://open.spotify.com/album/0xHHJdnDNOUDmIKqBZnHV9"
+        "name": "Sex & Violins",
+        "url": "https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz"
       },
       "artists": [
         {
-          "name": "Real McCoy",
-          "url": "https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh"
+          "name": "Rednex",
+          "url": "https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Another Night",
-      "url": "https://open.spotify.com/track/0gggjVyUJd90tYzAnmBjFV"
+      "duration_ms": 193826,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe"
     },
     {
       "added_at": "2023-07-14 10:06:53",

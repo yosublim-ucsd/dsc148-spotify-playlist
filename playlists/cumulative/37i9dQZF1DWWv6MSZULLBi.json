@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 244322,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/6EWVIxPbH2i5sdzYkAvpp6"
@@ -2186,7 +2186,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
@@ -2276,7 +2276,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 171388,
       "name": "Cincinnati Heart",
       "url": "https://open.spotify.com/track/4yqzPEy3QxniyBzWPm35WO"
@@ -3202,6 +3202,24 @@
       "duration_ms": 195187,
       "name": "Die Slower",
       "url": "https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr"
+    },
+    {
+      "album": {
+        "name": "Disappointing the Internet",
+        "url": "https://open.spotify.com/album/3KXnbWDUt4OfEbLtCwkBPs"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Mann",
+          "url": "https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166024,
+      "name": "Dissappointing The Internet",
+      "url": "https://open.spotify.com/track/0wpQc6DuoM3B9VsAzSHNtv"
     },
     {
       "album": {
@@ -4350,7 +4368,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 218960,
       "name": "Fair Bit of Time",
       "url": "https://open.spotify.com/track/0dYFnQWlNHd497JF7LT7KO"
@@ -6022,7 +6040,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 285500,
       "name": "High",
       "url": "https://open.spotify.com/track/1LhEQp48cYgsBQ6El2EvYR"
@@ -6825,6 +6843,24 @@
     },
     {
       "album": {
+        "name": "Seven Swans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262375,
+      "name": "I Went Dancing With My Sister - Bonus Track",
+      "url": "https://open.spotify.com/track/2E8p2xkMaloP8V7tSgi0Ba"
+    },
+    {
+      "album": {
         "name": "Dreamland (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2yKAk0fUsuKDpAHUEvQzbB"
       },
@@ -6890,7 +6926,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 266528,
       "name": "If the World Was a House",
       "url": "https://open.spotify.com/track/3bF8MgnGuQoDPwPUE8Hmk7"
@@ -7204,6 +7240,24 @@
       "duration_ms": 187491,
       "name": "Instant Cash for Gold",
       "url": "https://open.spotify.com/track/5KAiIOtmYxJlW6fIkgWWsH"
+    },
+    {
+      "album": {
+        "name": "Inutuulunga (2024 Remastered Version)",
+        "url": "https://open.spotify.com/album/7uxWJQzCCYAz1TlJe7gpi6"
+      },
+      "artists": [
+        {
+          "name": "Taima",
+          "url": "https://open.spotify.com/artist/49Hbj5LLNXQvttMwpApN0r"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200026,
+      "name": "Inutuulunga - 2024 Remastered Version",
+      "url": "https://open.spotify.com/track/0svw50fDE5pcpcqjjMVu5I"
     },
     {
       "album": {
@@ -9005,6 +9059,24 @@
     },
     {
       "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/6YnO3WHIIFG4y6SgFqf9CW"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188546,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/2RghWVQyQe1jIehgQnD1nD"
+    },
+    {
+      "album": {
         "name": "Minneapolis",
         "url": "https://open.spotify.com/album/5hfYMXjskluMkE8rRD5ZLD"
       },
@@ -10473,6 +10545,24 @@
     },
     {
       "album": {
+        "name": "Out of Body Experience",
+        "url": "https://open.spotify.com/album/7de6cyNy6vMex1z0uKlHvM"
+      },
+      "artists": [
+        {
+          "name": "Slow Spirit",
+          "url": "https://open.spotify.com/artist/1XXmzkHxHi4nV4Q5vzjjYW"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168059,
+      "name": "Out of Body Experience",
+      "url": "https://open.spotify.com/track/21MZFZSxizNWBHu9V0IgXc"
+    },
+    {
+      "album": {
         "name": "Songs I Wrote",
         "url": "https://open.spotify.com/album/3ZayM8IDlNqLlDdwYWIGa0"
       },
@@ -11676,7 +11766,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 262797,
       "name": "Same Old Me",
       "url": "https://open.spotify.com/track/5gwNVbApnuJODGSQuEC997"
@@ -12624,7 +12714,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 193754,
       "name": "Steal My Soul",
       "url": "https://open.spotify.com/track/3s0NfU9BVACTDqRQSq2ZA1"
@@ -12646,6 +12736,24 @@
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+    },
+    {
+      "album": {
+        "name": "Still Have July",
+        "url": "https://open.spotify.com/album/0lPgEnWvpK95jkUtCo2cO2"
+      },
+      "artists": [
+        {
+          "name": "Frances Whitney",
+          "url": "https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202764,
+      "name": "Still Have July",
+      "url": "https://open.spotify.com/track/6TcNs3Xe0QUzdk9X4n0610"
     },
     {
       "album": {
@@ -13210,6 +13318,24 @@
       "duration_ms": 156000,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/6zxovpxhuNQwQBVv52gioP"
+    },
+    {
+      "album": {
+        "name": "Tear It All Apart",
+        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186342,
+      "name": "Tear It All Apart",
+      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
     },
     {
       "album": {
@@ -13995,6 +14121,24 @@
     },
     {
       "album": {
+        "name": "Through It All",
+        "url": "https://open.spotify.com/album/4WaiXDtlc3rQcLMmpUG4QC"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254937,
+      "name": "Through It All",
+      "url": "https://open.spotify.com/track/4JaI6sVVEujyLZ1fbS9iGE"
+    },
+    {
+      "album": {
         "name": "Thunderhead",
         "url": "https://open.spotify.com/album/48gkRDpI0se4nXmqxjT4Kp"
       },
@@ -14610,7 +14754,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 274647,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/2ZXwbxcnIsB7rxbPj5mEMk"
@@ -14686,6 +14830,24 @@
       "duration_ms": 237600,
       "name": "very bad",
       "url": "https://open.spotify.com/track/6RDprVH0kpTInb9gCjsjTj"
+    },
+    {
+      "album": {
+        "name": "Victory Song",
+        "url": "https://open.spotify.com/album/3WLD7sI4QdVOA0qLIC47WF"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188426,
+      "name": "Victory Song",
+      "url": "https://open.spotify.com/track/38sXkXANlA2xbrbt8y7CHZ"
     },
     {
       "album": {

@@ -5631,7 +5631,7 @@
         },
         {
           "name": "Mamma",
-          "url": "https://open.spotify.com/artist/3LQkmKP7UrC32RnNEJSFLR"
+          "url": "https://open.spotify.com/artist/5EIG89FAyRj8fhGtVf4Qg4"
         }
       ],
       "date_added": "2024-06-20",
@@ -19716,7 +19716,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 122000,
       "name": "DATTERO",
       "url": "https://open.spotify.com/track/4CUE29IMZJE6epvXGeajVM"
@@ -71782,6 +71782,24 @@
       "duration_ms": 163636,
       "name": "Talento 1",
       "url": "https://open.spotify.com/track/5TAQklwUEGBAAiTFhCyxM0"
+    },
+    {
+      "album": {
+        "name": "TALENTO DEL BARRIO",
+        "url": "https://open.spotify.com/album/0acAn2TOi2VO1Eswooi8IA"
+      },
+      "artists": [
+        {
+          "name": "BHG Rich",
+          "url": "https://open.spotify.com/artist/0oQoakhuWlElIuMe2sZwrl"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "TALENTO DEL BARRIO",
+      "url": "https://open.spotify.com/track/1ws8keZnLC3IivfPf4Cwgl"
     },
     {
       "album": {

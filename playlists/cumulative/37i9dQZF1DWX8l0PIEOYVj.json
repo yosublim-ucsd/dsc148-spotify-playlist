@@ -591,6 +591,32 @@
     },
     {
       "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/4vkYIGkp5vQBCbh4F5gQhx"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Abandoned",
+          "url": "https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192400,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/5m4Y2sEGkSQQhJK5ENFkGk"
+    },
+    {
+      "album": {
         "name": "Another One",
         "url": "https://open.spotify.com/album/6Z6zEnG4XVYwOebFAVIHUZ"
       },
@@ -1086,7 +1112,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 268800,
       "name": "Become The Storm",
       "url": "https://open.spotify.com/track/1Oa9BnPJjYaajvnJQWfK8S"
@@ -3060,6 +3086,28 @@
       "duration_ms": 253200,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R"
+    },
+    {
+      "album": {
+        "name": "EDGE (The Remixes)",
+        "url": "https://open.spotify.com/album/6NIM6v3gwobJAy7IY5jNJA"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "EDGE - Blanke Remix",
+      "url": "https://open.spotify.com/track/3NQinJIWliMnzomwtQzVNR"
     },
     {
       "album": {
@@ -5162,7 +5210,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 270206,
       "name": "HARNESS",
       "url": "https://open.spotify.com/track/3Ps8bLGciHq6leNN1kUHUJ"
@@ -5684,7 +5732,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 235714,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/0EkUz1zkIuFeEUbyT1lLNe"
@@ -7388,7 +7436,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 230679,
       "name": "Lost Time",
       "url": "https://open.spotify.com/track/6eVVBm3RlVeNReLG9EEFTI"
@@ -8107,6 +8155,28 @@
     },
     {
       "album": {
+        "name": "My Heaven",
+        "url": "https://open.spotify.com/album/2gy0aLkcpE5ToVrm7teuE0"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Fuslie",
+          "url": "https://open.spotify.com/artist/4YxSBUiusvnTJZ1duIEp5R"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192973,
+      "name": "My Heaven",
+      "url": "https://open.spotify.com/track/3DilQMlpYCAophd8GJ0Lzk"
+    },
+    {
+      "album": {
         "name": "My Own Advice",
         "url": "https://open.spotify.com/album/38RdF3YX7jMghQqhjAvXi4"
       },
@@ -8170,6 +8240,28 @@
       "duration_ms": 161600,
       "name": "NEED IT",
       "url": "https://open.spotify.com/track/6Ycrb9oeP1wqg2zDSjdeEF"
+    },
+    {
+      "album": {
+        "name": "Nemesis",
+        "url": "https://open.spotify.com/album/4sLvvQA9b5mCnnB3h5k9dk"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        },
+        {
+          "name": "Jack Dawson",
+          "url": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179605,
+      "name": "Nemesis (feat. Jack Dawson)",
+      "url": "https://open.spotify.com/track/2Rsg4JE8ShKmLe7K6IcJJV"
     },
     {
       "album": {
@@ -8284,6 +8376,28 @@
       "duration_ms": 196233,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/3yH2YuRNJcXfwjgd7nFIMX"
+    },
+    {
+      "album": {
+        "name": "No Chemicals",
+        "url": "https://open.spotify.com/album/4HsOsrFzikyBEy8hKSqQgK"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Chapstixxx",
+          "url": "https://open.spotify.com/artist/1fb65r3mY3UQt8n9bRWTZi"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191142,
+      "name": "No Chemicals",
+      "url": "https://open.spotify.com/track/4mq0d3Ko5URwwvR4uh2T4H"
     },
     {
       "album": {
@@ -11192,7 +11306,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 285957,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/22n6NWju62SksM175Je9xc"

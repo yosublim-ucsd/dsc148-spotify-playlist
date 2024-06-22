@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 239545,
       "name": "Jodeci",
       "url": "https://open.spotify.com/track/0TqC5imTnHeNCZuSWn0ei1"
@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "kame 'n left",
+        "url": "https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192367,
+      "name": "perfect timing",
+      "url": "https://open.spotify.com/track/646HOaBSY3LfpbuIAnMrot"
+    },
+    {
+      "album": {
         "name": "Leave You Have My Blessing",
         "url": "https://open.spotify.com/album/68rBZiD0gpBzLIE7P8Zgv7"
       },
@@ -1620,6 +1638,24 @@
       "duration_ms": 139504,
       "name": "Too Deep",
       "url": "https://open.spotify.com/track/27SWMXDonOi2apKXgj5EYM"
+    },
+    {
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230560,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover:  NYK
 
-772 songs - 1 day 17 hr 47 min
+775 songs - 1 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [CONTROL](https://open.spotify.com/track/5zgXM2krNdScAvyPQU3b62) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [CONTROL](https://open.spotify.com/album/4JeVm8h649aYksCYUA3j5e) | 2:53 | 2023-04-20 | 2023-08-13 |
 | [CONTROL](https://open.spotify.com/track/61aC6Zm2G2dfLLLa7gwLeZ) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [CONTROL](https://open.spotify.com/album/0R24SnsmBloT7MIYPYzWZ0) | 2:53 | 2023-08-10 | 2023-10-06 |
 | [Countdown](https://open.spotify.com/track/44AiOtvHoBe0HwaMP4GIj0) | [VVYND](https://open.spotify.com/artist/0hDWNMM9BA6hluuxoqDWwQ) | [Countdown](https://open.spotify.com/album/5eVrBT4eec4Z4WbznpJRXK) | 4:10 | 2023-11-09 | 2023-11-24 |
+| [Crash](https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 2:36 | 2024-06-20 |  |
 | [Creep](https://open.spotify.com/track/0QitpTfcRgVysg155AVnRv) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Creep](https://open.spotify.com/album/6NhPRwbBiiNSD7lf91VbBm) | 2:34 | 2024-05-24 |  |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-02 | 2022-12-17 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-02 | 2022-12-07 |
@@ -366,6 +367,8 @@
 | [Last Train](https://open.spotify.com/track/4r5nXbPkU5Quj5EYA0dh7r) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Last Train](https://open.spotify.com/album/2PD8XQXkYVt6aVFWyFvwSC) | 3:02 | 2024-02-01 | 2024-02-16 |
 | [lately](https://open.spotify.com/track/2V7Jvf0o9dhCoZ5QswlUoR) | [Isaac Chan](https://open.spotify.com/artist/6M3ZAQrnGowesc5rG8WlNV) | [lately](https://open.spotify.com/album/7obFsECkREJyGc90vojKZ5) | 4:23 | 2023-03-23 | 2023-05-05 |
 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 | 2022-10-13 | 2023-08-04 |
+| [Leave a Message](https://open.spotify.com/track/3AVoUtsorHTqjR6qURurFR) | [a!ka](https://open.spotify.com/artist/6joZG8wmwfEVAxWSEhezJA) | [Leave a Message](https://open.spotify.com/album/5YRkbwMjCijjsHwJkOkplR) | 4:23 | 2024-06-20 |  |
+| [Lesson](https://open.spotify.com/track/2UOoRwTcpECejzbSg8QSLD) | [Tiana Kocher](https://open.spotify.com/artist/0aQl6dYFpdEuGuRVzcUBE6) | [Lesson](https://open.spotify.com/album/0W71AvEp7lYajSIngkxNno) | 3:19 | 2024-06-20 |  |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-09 | 2023-02-18 |
 | [Let Me Go](https://open.spotify.com/track/3KSy31qPrTqOcPXnebceQN) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Let Me Go](https://open.spotify.com/album/27csXPVTW3PLguY6vbGoH7) | 2:20 | 2024-04-18 |  |
 | [Let Me In](https://open.spotify.com/track/0zVDBpbaqYg7lmBfAdX75p) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0) | [Let Me In](https://open.spotify.com/album/1QPXK7Ig0chdgC8wPHmxyI) | 3:36 | 2022-09-22 | 2023-01-27 |

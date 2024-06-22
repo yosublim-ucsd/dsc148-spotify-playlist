@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-377 songs - 21 hr 24 min
+378 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Mistakes Were Made](https://open.spotify.com/track/3mx1qYstFxpSxstYL0K4at) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Mistakes Were Made](https://open.spotify.com/album/327RpcYOC5KpohJQLHQn5C) | 3:04 | 2023-03-31 | 2024-01-13 |
 | [Mockingbird](https://open.spotify.com/track/0eVobqDxiFnDvKcXfScqCi) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [Prohibition](https://open.spotify.com/album/6zxN2ZwKEIVxzKlp0m4m2V) | 2:37 | 2022-10-12 | 2023-11-07 |
 | [Moonlight Jive](https://open.spotify.com/track/2Ag6FZjxfu3raD2EgmPfYq) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Life Playing Tricks](https://open.spotify.com/album/1fSKDjqkvMXg6cRSCBffL4) | 4:35 | 2020-10-30 | 2022-05-15 |
+| [Moonswings](https://open.spotify.com/track/1OuxO28VYTtXcE0zGrTS8x) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8), [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [Moonswings](https://open.spotify.com/album/6WplX32rUPI6pyOzKC6N7C) | 4:24 | 2024-06-21 |  |
 | [Morning Light](https://open.spotify.com/track/3m3qjAfKtCJTl6vKBPyquU) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Octavia Rose](https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9) | [Morning Light](https://open.spotify.com/album/5rDo1Yws2qDy7lCRQJLjkW) | 3:01 | 2023-04-21 |  |
 | [Mr Magpie \- Jamie Berry Remix](https://open.spotify.com/track/1DxJG8xDWh8T83w6IR8YRx) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [The Electric Swing Circus \- Remixed Vol\. 1](https://open.spotify.com/album/11baJFTYO58XviE7cQrvZO) | 3:44 | 2020-10-30 | 2022-07-29 |
 | [Mr Magpie \- Jamie Berry Remix](https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [The Electric Swing Circus \- Remixed Vol\. 1](https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0) | 3:44 | 2020-10-30 | 2024-02-24 |
@@ -370,7 +371,7 @@
 | [We're On Our Way](https://open.spotify.com/track/6AjMgHgz55SectjDOKzO6o) | [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm), [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S) | [We're On Our Way](https://open.spotify.com/album/1oEmpddO5gWhaJRu4OzKrI) | 2:42 | 2024-02-23 |  |
 | [Wellerman \- Electro Swing Mix](https://open.spotify.com/track/29K8K3iI82HwRSJZmcIhhQ) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Wellerman](https://open.spotify.com/album/55PsgqZ0zgrP0xJmKx8ZrR) | 2:18 | 2022-11-07 | 2024-02-24 |
 | [Wellerman \- Electro Swing Mix](https://open.spotify.com/track/5WMP7E3Z89tY3iIwsJA2BW) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Wellerman](https://open.spotify.com/album/6lmiOdFu7s5uIjTLs2aPtp) | 2:18 | 2021-03-19 | 2023-05-08 |
-| [What Lana Says](https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [What Lana Says](https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC) | 4:39 | 2020-10-30 |  |
+| [What Lana Says](https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [What Lana Says](https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC) | 4:39 | 2020-10-30 | 2024-06-22 |
 | [What's a Girl to Do...](https://open.spotify.com/track/3lh0wQDlbHFOLkdivGl9qS) | [Elle & The Pocket Belles](https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt) | [What's a Girl to Do...](https://open.spotify.com/album/5eeSdQd3Xp2C9ydSHD1YWy) | 2:42 | 2024-02-16 |  |
 | [When You Go Down](https://open.spotify.com/track/4cG36F0rcNFXucGbMFndMq) | [The Soulmate Project](https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a), [Penny Maddox](https://open.spotify.com/artist/4qeEBxHoCatvCjNzRJ38q9) | [When You Go Down](https://open.spotify.com/album/3orWWGAQ2VPiFPARAjtEbZ) | 2:43 | 2023-03-31 |  |
 | [Who's That?](https://open.spotify.com/track/5nW51LHvWs2EpD0o8UpsCJ) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [The Stampede](https://open.spotify.com/album/4OVJICFNhttVsC8X1F5vUo) | 3:16 | 2020-10-30 | 2022-05-14 |

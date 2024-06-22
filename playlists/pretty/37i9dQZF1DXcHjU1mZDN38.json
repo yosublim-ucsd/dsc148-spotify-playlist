@@ -1,15 +1,15 @@
 {
   "description": "This is Matt Hansen. All the essential tunes, all in one playlist.",
-  "num_followers": 15811,
+  "num_followers": 15887,
   "original_name": "This is Matt Hansen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnJcFAAAAABO/evv90zxvz2T4vflvsiy",
+  "snapshot_id": "ZnT6wAAAAAAiWkBvo9zIIvbaoHIu6/gO",
   "tracks": [
     {
-      "added_at": "2024-06-19 04:18:28",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "VERSIONS OF FOREVER",
         "url": "https://open.spotify.com/album/1La2A10EDwizsKONlKdfM8"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3yDvu7hXpkWFyQSk3RSiD8"
     },
     {
-      "added_at": "2024-06-19 04:18:28",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "LET EM GO",
         "url": "https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3"
@@ -41,7 +41,27 @@
       "url": "https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe"
     },
     {
-      "added_at": "2024-06-19 04:18:28",
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 221686,
+      "name": "Love Me Now Or Lose Me Later",
+      "url": "https://open.spotify.com/track/6eKTQs8C5k4wvw5pqQF9tf"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "GRAVITY",
         "url": "https://open.spotify.com/album/3q9bGy6VBdN5wwY0oLpydI"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/7jK1u0cB8KMCFQEkLqPjnu"
     },
     {
-      "added_at": "2024-06-19 04:18:28",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "something to remember",
         "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
     },
     {
-      "added_at": "2024-06-19 04:18:28",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "better off without me",
         "url": "https://open.spotify.com/album/6NpbtHJjrRHeYqlyUaZa35"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/1Ip5p31SowqjJLo2ss1afJ"
     },
     {
-      "added_at": "2024-06-19 04:18:28",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "WHERE YOU BELONG",
         "url": "https://open.spotify.com/album/03Aze7xPfXeowz9YW70OFO"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/3W1FAAdNDVdyJxJwV8Lps2"
     },
     {
-      "added_at": "2024-06-19 04:18:28",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "break my bones",
         "url": "https://open.spotify.com/album/0FetJ9qxsLyFcQUXQTWX0N"
@@ -121,7 +141,7 @@
       "url": "https://open.spotify.com/track/7MrrdjBGM0MI6PGTZIgO9g"
     },
     {
-      "added_at": "2024-06-19 04:18:28",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "break my heart",
         "url": "https://open.spotify.com/album/7tSgsBAq25fhQJ4yuddr7o"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/4qQJIuWmMXbtMAy3pnBpso"
     },
     {
-      "added_at": "2024-06-19 04:18:28",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "without you with me",
         "url": "https://open.spotify.com/album/7CEx4rylOMVh4bI3Lb7anX"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/0WqHYUiGuqkC7koA2l5Ou1"
     },
     {
-      "added_at": "2024-06-19 04:18:28",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "CHEMICALS",
         "url": "https://open.spotify.com/album/73uZjDBeWX1SnFeryMHPhl"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/2XMXsM29VG71gcKokMtsK5"
     },
     {
-      "added_at": "2024-06-19 04:18:28",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "lifejacket",
         "url": "https://open.spotify.com/album/0CqP9LYR3wdBr2qjjK3kQI"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/6Tsi8WlS6AI4tLRV2ei4LV"
     },
     {
-      "added_at": "2024-06-19 04:18:28",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "dead the day ur gone",
         "url": "https://open.spotify.com/album/4m0UVWgm6A8mQ08r1wlIXY"

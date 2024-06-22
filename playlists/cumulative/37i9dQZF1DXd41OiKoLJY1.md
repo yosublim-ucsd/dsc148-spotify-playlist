@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Evan Tan\. Artwork: Isu Kim
 
-2,444 songs - 6 day 0 hr 4 min
+2,447 songs - 6 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Bituon](https://open.spotify.com/track/5qr5eO1uihNSPHxhq4gUOT) | [Kyde](https://open.spotify.com/artist/79ld2UzVGT1q5Iapk2nZ7J), [Ivie Geneza](https://open.spotify.com/artist/19xle9QBIOl2fylg3XwRlg) | [Bituon](https://open.spotify.com/album/0RwK16LJQirnhbgdRzdyAO) | 4:49 | 2022-09-08 | 2022-11-25 |
 | [Biyernes Ng Gabi](https://open.spotify.com/track/2lqnqZZlgytzAZ7bxnR9jJ) | [Blackburn](https://open.spotify.com/artist/778rwmQLCP2bQ5qNRKV7oL) | [Biyernes Ng Gabi](https://open.spotify.com/album/37qoHghkXpZdBj8Nb07IM9) | 2:46 | 2024-05-23 | 2024-06-21 |
 | [BLACK CROW](https://open.spotify.com/track/1P3E61xZ9cGE7vNL6Rsb0D) | [KID KOYO!](https://open.spotify.com/artist/7tUsOoK9pz4qPLKkOH9Mvz) | [BLACK CROW](https://open.spotify.com/album/7GOHsrWvEMZa6dS9qgGUlo) | 1:49 | 2023-11-09 | 2024-01-19 |
+| [Black Label](https://open.spotify.com/track/3o9by4TboJYeSwg75FLXv9) | [ROY](https://open.spotify.com/artist/3cDkmoxn1k3IP3KVOJmIQh) | [Black Label](https://open.spotify.com/album/7ufYIIrFFoCAUaOWwAuGeQ) | 4:03 | 2024-06-20 |  |
 | [Blacked Out!](https://open.spotify.com/track/4Hv3dxwmMo6Ticy22hDAW3) | [KONSTANT](https://open.spotify.com/artist/2bkT5O6LfxfaPq829lVdZH) | [Blacked Out!](https://open.spotify.com/album/02tcprC9h8MJU4dhHHs2cU) | 2:47 | 2024-02-29 | 2024-03-29 |
 | [Blindfold](https://open.spotify.com/track/7GAwyhXA5FbEcWQYXr2AYD) | [Bernard Guinto](https://open.spotify.com/artist/2ceOIcsF6cFvdAweuSucFm) | [Blindfold](https://open.spotify.com/album/4242yBaBQqM0IiqDsA6QcF) | 3:12 | 2024-04-04 | 2024-05-24 |
 | [BLISS](https://open.spotify.com/track/1aYAk65nrna8OPfdemP2Xd) | [Coldboyz](https://open.spotify.com/artist/4y76BrUXorWbYlnPNJuwrW) | [BLISS](https://open.spotify.com/album/6dcwJk2G0YJRtpCg7DeztI) | 4:35 | 2022-05-05 | 2022-07-22 |
@@ -857,6 +858,7 @@
 | [Helena](https://open.spotify.com/track/5Ml4o1vp5NUoUAThVcNnGQ) | [Sulo](https://open.spotify.com/artist/5Kde9C1W95QXMCiR0W86rn) | [Talaarawan](https://open.spotify.com/album/5CapqrJEepJUPGribbYJev) | 6:24 | 2024-03-21 | 2024-05-03 |
 | [Hello](https://open.spotify.com/track/5ps7q5sYaKwDalFTcIIidZ) | [totâ](https://open.spotify.com/artist/7lR4az0FXjQsoLUf6UiBq3) | [Hello](https://open.spotify.com/album/6kmNRy2NOGDHrXxLRspvCY) | 5:10 | 2024-01-11 | 2024-02-16 |
 | [Hello Vegas](https://open.spotify.com/track/1I5ir36i4MUQclxp9PWZB9) | [february bank](https://open.spotify.com/artist/69dHAdz8lUpJir75KFfdlY) | [Hello Vegas](https://open.spotify.com/album/6900aefLceRVtvlhjRZX9B) | 4:03 | 2022-08-11 | 2023-01-13 |
+| [Hennessy](https://open.spotify.com/track/7eUAIRPmK6E7tOI1fXWFoj) | [2ICEY](https://open.spotify.com/artist/7emlGVjzcaBw6ndzROgua5) | [Hennessy](https://open.spotify.com/album/15DFuG2zSvvZ0SNglrDzJo) | 2:08 | 2024-06-20 |  |
 | [HER AVENUE](https://open.spotify.com/track/0TWipBg4V0Rcx3KtAvyncA) | [Cisco](https://open.spotify.com/artist/1hQJe9CyAmPBXJ8Cz0Krnq) | [HER AVENUE](https://open.spotify.com/album/4YSDjp7LP8hkwNPXju88XD) | 2:23 | 2024-01-18 | 2024-02-16 |
 | [Her Eyes](https://open.spotify.com/track/0DEO9pvHswP2SuzinxZgz6) | [Jnuzh](https://open.spotify.com/artist/7HyJFrpVIEYmf2tRMVU8hk), [VVNILLA](https://open.spotify.com/artist/77GOFfG6ibHi4EHpJkvUU7), [Soulthrll \(Justin Velez Palomares\)](https://open.spotify.com/artist/3iCnoy3MELLHauJEiYQMma) | [Her Eyes](https://open.spotify.com/album/3O2XtDCiCjGWfK8PzSs36P) | 2:21 | 2023-10-19 | 2023-11-11 |
 | [Here I Am Now](https://open.spotify.com/track/6JakUGgDQUZ9Edw1R2MIXc) | [Kanishia](https://open.spotify.com/artist/5rR4NdXCcE4GxT2QPJSwX8) | [Born To Cry](https://open.spotify.com/album/3ehjDCataFjdJl0AwDogQu) | 3:18 | 2022-10-13 | 2023-02-10 |
@@ -1490,7 +1492,7 @@
 | [Need Time](https://open.spotify.com/track/6Mam1q7aFmaW3rBTzuYNra) | [Aud](https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w) | [Need Time](https://open.spotify.com/album/0pCQzbR27DNnaFhbEZNjUv) | 3:03 | 2024-02-01 | 2024-03-01 |
 | [NEED YA](https://open.spotify.com/track/6xcqaYbof6HdpVHTqCa5yZ) | [Mazeboiii](https://open.spotify.com/artist/3DFM7ya81iULbYzrxvXzo2), [GTAP MNL](https://open.spotify.com/artist/2Wnk8HF9hEZsaUHS8nAr2K), [Venbreezy](https://open.spotify.com/artist/4UQogB8pZxy3m7TAcUoLRG) | [NEED YA](https://open.spotify.com/album/3uu215mGuNGEUHsdLD7dal) | 2:30 | 2022-03-31 | 2022-05-06 |
 | [Nerves](https://open.spotify.com/track/1gCJ35zh2dj555bxigbt9A) | [Soda](https://open.spotify.com/artist/2jfQD7BQbjjel2aAsFh9DB) | [Nerves](https://open.spotify.com/album/5xyXqtY6efn8ju07Myln87) | 3:25 | 2024-03-21 | 2024-05-03 |
-| [NETMAI](https://open.spotify.com/track/43MYBv8YKFiK11njr6chVH) | [SLIZ](https://open.spotify.com/artist/7k1FHA73r9Nf9Bk3gBR5pg) | [NETMAI](https://open.spotify.com/album/0xx98o7yBFSz4IUY5uvRKm) | 3:06 | 2024-06-13 |  |
+| [NETMAI](https://open.spotify.com/track/43MYBv8YKFiK11njr6chVH) | [SLIZ](https://open.spotify.com/artist/6wICWSnfxqPnxHKVCKxmd8) | [NETMAI](https://open.spotify.com/album/0xx98o7yBFSz4IUY5uvRKm) | 3:06 | 2024-06-13 |  |
 | [never felt so good](https://open.spotify.com/track/79EDReXFBJp34dryBZ91eo) | [Paula Valdez](https://open.spotify.com/artist/0OpD8KtLsIYdCBhqIO3C5F), [Corrgtd](https://open.spotify.com/artist/1wkoRzaLhMGNfNEp7Lj9pV) | [never felt so good](https://open.spotify.com/album/2VwNTJP34Zt8VEvZQjGIpI) | 2:54 | 2024-01-11 | 2024-02-09 |
 | [Never Forget](https://open.spotify.com/track/5kGEYnjDYO3S3VQjpcydc2) | [Chael](https://open.spotify.com/artist/2FRvpsh0jsRlOV5V4pJloA) | [Never Forget](https://open.spotify.com/album/68pklr70H6q78VYqLwm7g8) | 4:07 | 2023-09-14 | 2023-10-06 |
 | [Never Have Enough](https://open.spotify.com/track/4a2IVUjeUeBeM1X6HeHfbT) | [neytan](https://open.spotify.com/artist/2SiPvwfKYm1TANEo8F0zyT) | [Never Have Enough](https://open.spotify.com/album/2NICsib42EqvLjE4uYZDAS) | 3:40 | 2024-06-06 |  |
@@ -2278,6 +2280,7 @@
 | [Underdawg](https://open.spotify.com/track/0AKJwn8zSlTASHkbSL3N4A) | [Ramdiss](https://open.spotify.com/artist/6Tfk9MrJjusZ8mvmwHegR6) | [Underdawg](https://open.spotify.com/album/5KADoR5Q8z8eBhAvT4SYPz) | 3:16 | 2023-06-15 | 2023-06-30 |
 | [Understatement](https://open.spotify.com/track/7enREf53onMeBDnpsQ9qAo) | [Trailing Noises](https://open.spotify.com/artist/7aAg3T1mLKyUOAGNG6TKov), [CLARKVS](https://open.spotify.com/artist/7LVhan7Gpxkue7AvNjRG3W) | [Understatement](https://open.spotify.com/album/41y08OEVOjcycGNvsn5T0U) | 4:49 | 2023-11-02 | 2023-12-09 |
 | [Undivided](https://open.spotify.com/track/42KHT9mAPLbctqebSMct2v) | [28 Days of February](https://open.spotify.com/artist/1785dDfSIA0uGua88WTNpF) | [Beating the Red Lights](https://open.spotify.com/album/5xIXKsh95jZbqPQLNuZ7eq) | 3:39 | 2022-02-24 | 2022-04-01 |
+| [Unearth](https://open.spotify.com/track/3R1MxYtGy9hlgH67QmnxLt) | [lxni](https://open.spotify.com/artist/7KWLSIR8jCVAj9Gvhndhgm) | [Unearth](https://open.spotify.com/album/5CEjSKouRWjuf2ZY61DTE2) | 2:36 | 2024-06-20 |  |
 | [Unforgettable](https://open.spotify.com/track/5jVXRvjcCwGoj8i9q0TrlG) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Unforgettable](https://open.spotify.com/album/45g1mjNmqOUrR9hlnrr9gr) | 2:25 | 2023-02-09 | 2023-02-24 |
 | [Unfortunately Life](https://open.spotify.com/track/3D6CEXPlOIYbHcem7egYOa) | [Gab Mabanta](https://open.spotify.com/artist/2BcBX0znvjTTuUw2f0bTQQ) | [Unfortunately Life](https://open.spotify.com/album/750fh1zNX22vlfoA5R4r2r) | 3:40 | 2023-06-22 | 2023-07-14 |
 | [Universe](https://open.spotify.com/track/0n8d3xz3RJArZyYEbWCI8Q) | [Mica Caldito](https://open.spotify.com/artist/6XdTCrSBB4lV5MVqZEuygi) | [Universe](https://open.spotify.com/album/1F2nXcnjd3jVIuD0jlpzuH) | 3:13 | 2023-07-06 | 2023-07-28 |

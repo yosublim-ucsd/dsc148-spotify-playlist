@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "<a href=\"spotify:album:0vYywoBHcZgwW08A2rA9fU\">KENNY</a> d\u00f8r aldrig \ud83d\udd25 ...",
+  "description": "<a href=\"spotify:album:0vYywoBHcZgwW08A2rA9fU\">KENNY</a> d\u00f8r aldrig\u2764\ufe0f\u200d\ud83d\udd25 <a href=\"spotify:artist:2KbikmQKGiUPR2ARs1h0sq\">@gilliangilo</a>\ud83e\udea1 <a href=\"spotify:artist:2eBqkaIfoNsOPCQCQEy5fD\">@bennyjamzlive</a>",
   "name": "New Music Friday Denmark",
   "tracks": [
     {
@@ -3447,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156129,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB"
+    },
+    {
+      "album": {
         "name": "Creep / Major",
         "url": "https://open.spotify.com/album/6N0ez4f0rQjP0eRvDazUFr"
       },
@@ -4793,7 +4811,7 @@
     },
     {
       "album": {
-        "name": "En del av dig (From the Netflix film A Part Of You)",
+        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
         "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
       },
       "artists": [
@@ -4806,7 +4824,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 177422,
-      "name": "En del av dig - From the Netflix film A Part Of You",
+      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
       "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
     },
     {
@@ -10425,6 +10443,24 @@
     },
     {
       "album": {
+        "name": "Loving What I Got",
+        "url": "https://open.spotify.com/album/1aFnVd357t7aB3yf0J0B7f"
+      },
+      "artists": [
+        {
+          "name": "Infernal",
+          "url": "https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Loving What I Got",
+      "url": "https://open.spotify.com/track/6em6pNiPR9O1R5BFXumbyJ"
+    },
+    {
+      "album": {
         "name": "LUBE // WET DREAM",
         "url": "https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy"
       },
@@ -11716,6 +11752,24 @@
       "duration_ms": 207669,
       "name": "Naked And Alive",
       "url": "https://open.spotify.com/track/5ivyL3WEFCo0IfivYC0FOF"
+    },
+    {
+      "album": {
+        "name": "Nat/Morgen",
+        "url": "https://open.spotify.com/album/0dMuXPmVnSIf18Lha06jJy"
+      },
+      "artists": [
+        {
+          "name": "willum",
+          "url": "https://open.spotify.com/artist/5TkuPbaXBv3T08JcdvsiDz"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Nat/Morgen",
+      "url": "https://open.spotify.com/track/3vkUsbcTsXToruk8bo1vE9"
     },
     {
       "album": {
@@ -15249,6 +15303,24 @@
     },
     {
       "album": {
+        "name": "Stille",
+        "url": "https://open.spotify.com/album/1HzuneDltVzi3aQxyyyvv7"
+      },
+      "artists": [
+        {
+          "name": "Mads Christian",
+          "url": "https://open.spotify.com/artist/3Ehbg1qhRKHshR8H2BoR8N"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178392,
+      "name": "Stille",
+      "url": "https://open.spotify.com/track/6mqlATjYCF1jHpY2EkFqSM"
+    },
+    {
+      "album": {
         "name": "STRAY / SAD OCTOBER",
         "url": "https://open.spotify.com/album/1RQRIpDcdE828hNQ8bpQsT"
       },
@@ -15961,6 +16033,32 @@
     },
     {
       "album": {
+        "name": "the boy is mine (Remix)",
+        "url": "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213384,
+      "name": "the boy is mine (with Brandy, Monica) - Remix",
+      "url": "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF"
+    },
+    {
+      "album": {
         "name": "The Craving (single version)",
         "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
       },
@@ -16015,6 +16113,24 @@
     },
     {
       "album": {
+        "name": "The Future Is A Foreign Land",
+        "url": "https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225224,
+      "name": "The Future Is A Foreign Land",
+      "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
+    },
+    {
+      "album": {
         "name": "The Gambler",
         "url": "https://open.spotify.com/album/0AKUalYWKfV21HZFdikSwO"
       },
@@ -16052,6 +16168,28 @@
       "duration_ms": 242840,
       "name": "The Ghost",
       "url": "https://open.spotify.com/track/6mpVwD8WDLtZBZkUt7HgPF"
+    },
+    {
+      "album": {
+        "name": "The girl, so confusing version with lorde",
+        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205938,
+      "name": "The girl, so confusing version with lorde",
+      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
       "album": {

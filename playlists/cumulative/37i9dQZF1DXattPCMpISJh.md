@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-271 songs - 16 hr 50 min
+272 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Fired Up](https://open.spotify.com/track/48zryrs6OiRWxFdwCItDG0) | [Archie Versace](https://open.spotify.com/artist/6S3CbwXLm1waxap3VZW24x), [Supermini](https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB) | [Fired Up](https://open.spotify.com/album/0AVxyhn8k58OuIK8xz4bsT) | 2:58 | 2023-01-13 |  |
 | [First Thing](https://open.spotify.com/track/6W3s4OcqdCN49QDzIVItzR) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [First Thing](https://open.spotify.com/album/1qrXPJPrjcri9XEocz9rQO) | 3:59 | 2022-08-12 | 2023-04-09 |
 | [Flavor](https://open.spotify.com/track/6OlBdjEx4kSJo66ozsmWdJ) | [RAGS AND RICHES](https://open.spotify.com/artist/7mVlCjxLHAv9sO79hRP0hB) | [I NEED A HOLIDAY](https://open.spotify.com/album/5WAvAvZZPw4zV5Reem44BP) | 3:28 | 2023-12-01 |  |
-| [Flirt](https://open.spotify.com/track/6Sg48ILcSWhiRBw3ToBzsF) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf), [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [Flirt](https://open.spotify.com/album/0uKryq3qttBTyvUVakRPRO) | 3:02 | 2023-04-07 |  |
+| [Flirt](https://open.spotify.com/track/6Sg48ILcSWhiRBw3ToBzsF) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf), [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [Flirt](https://open.spotify.com/album/0uKryq3qttBTyvUVakRPRO) | 3:02 | 2023-04-07 | 2024-06-22 |
 | [Fly Away](https://open.spotify.com/track/1slmHtKIZR5WmOeBzFzy77) | [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH), [Kabrio](https://open.spotify.com/artist/6W4S9LsbJGBxhJi3kELQXy) | [Fly Away](https://open.spotify.com/album/3i49deuNwYwtZGty7fVo7o) | 3:03 | 2023-07-28 |  |
 | [Forever](https://open.spotify.com/track/0EvDKZOVkcDUkJdQOIscMA) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Forever](https://open.spotify.com/album/4jMu8CqTNq5VYVldMqa2qt) | 3:42 | 2022-06-24 | 2022-10-01 |
 | [Freak 54 \(Freak Out\)](https://open.spotify.com/track/5CAaHC3rBhhZyFR7JqgPbn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Freak 54 \(Freak Out\)](https://open.spotify.com/album/5w5ybFZ5gewy0Lb9LA9lXc) | 2:08 | 2023-09-15 |  |
@@ -242,6 +242,7 @@
 | [The Disco Song](https://open.spotify.com/track/1k5uC3EcnsIEbOMB680Afb) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Disco Song](https://open.spotify.com/album/68Oj7EjlT1YShQUFOgBQMm) | 3:57 | 2021-09-17 | 2022-08-20 |
 | [The One That Got Away \(feat\. Obi Franky\)](https://open.spotify.com/track/2zL0FVFVuoOBKhnNgKqGws) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Let Loose](https://open.spotify.com/album/2RsEITh9OtP7am1v80Pbvg) | 4:37 | 2022-11-11 |  |
 | [The Way\(feat\. Norman Vladimir\)](https://open.spotify.com/track/4nmGmv2c6eryWwpCjkRS3N) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Norman Vladimir](https://open.spotify.com/artist/0Z28GthKQS0BG8FvHMwYw1) | [The Way \(feat\. Norman Vladimir\)](https://open.spotify.com/album/3gVI5yKLE7ds74O2yZD03v) | 3:25 | 2022-01-28 | 2022-11-19 |
+| [This Is It](https://open.spotify.com/track/7du1tQzWcxRcQB3EkBSnIf) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [This Is It](https://open.spotify.com/album/09tgG3vgsCzVclnVioRwbB) | 2:23 | 2024-06-21 |  |
 | [This Thing Called Life](https://open.spotify.com/track/633MWumcbiIslUnqr7u7XN) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr) | [This Thing Called Life](https://open.spotify.com/album/5t4Ykl3qQrUM6du7rVKGTn) | 3:04 | 2022-09-23 | 2023-03-04 |
 | [Ticket to the Moon](https://open.spotify.com/track/1fXfLc7IUxBFUXWz63R7qy) | [Carvel'](https://open.spotify.com/artist/0I4uy2IXjgZo96j10CpaMf) | [Ticket to the Moon](https://open.spotify.com/album/5PuxGOFsboXuUmD8X7jShz) | 2:42 | 2023-03-17 | 2023-11-18 |
 | [Time and Time Again](https://open.spotify.com/track/5jkPpSNNTrdqz9J57Ovanl) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Hotel Mira](https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw) | [Time and Time Again](https://open.spotify.com/album/6JqXrsNLQjSeKDd979ivzG) | 3:13 | 2022-08-05 | 2022-10-15 |

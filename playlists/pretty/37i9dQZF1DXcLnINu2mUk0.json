@@ -591,18 +591,18 @@
     {
       "added_at": "2024-06-20 23:00:00",
       "album": {
-        "name": "Mais Antigo",
-        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
+        "name": "MDID",
+        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
         }
       ],
-      "duration_ms": 206466,
-      "name": "Lembrei-me",
-      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
+      "duration_ms": 135160,
+      "name": "CABARET",
+      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
     },
     {
       "added_at": "2024-06-20 23:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-06-20 23:00:00",
       "album": {
-        "name": "MDID",
-        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+        "name": "Mais Antigo",
+        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
       },
       "artists": [
         {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         }
       ],
-      "duration_ms": 135160,
-      "name": "CABARET",
-      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
+      "duration_ms": 206466,
+      "name": "Lembrei-me",
+      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
     },
     {
       "added_at": "2024-06-20 23:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-06-20 23:00:00",
       "album": {
+        "name": "IN\u00cdCIO",
+        "url": "https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD"
+      },
+      "artists": [
+        {
+          "name": "ZARCO",
+          "url": "https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf"
+        }
+      ],
+      "duration_ms": 205862,
+      "name": "IN\u00cdCIO",
+      "url": "https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28"
+    },
+    {
+      "added_at": "2024-06-20 23:00:00",
+      "album": {
         "name": "Mundo Novo",
         "url": "https://open.spotify.com/album/6zqvzgC06Dek13qRXrQmxM"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 191700,
       "name": "Mundo Novo",
       "url": "https://open.spotify.com/track/3joplLOWFulJAfogMDOlD9"
-    },
-    {
-      "added_at": "2024-06-20 23:00:00",
-      "album": {
-        "name": "IN\u00cdCIO",
-        "url": "https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD"
-      },
-      "artists": [
-        {
-          "name": "ZARCO",
-          "url": "https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf"
-        }
-      ],
-      "duration_ms": 205862,
-      "name": "IN\u00cdCIO",
-      "url": "https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28"
     }
   ],
   "unique_name": "Seda",

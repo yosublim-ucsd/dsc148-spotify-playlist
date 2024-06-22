@@ -1,6 +1,6 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1932201,
+  "num_followers": 1932601,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
@@ -195,26 +195,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Almost a Lover",
-        "url": "https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD"
-      },
-      "artists": [
-        {
-          "name": "NLSN",
-          "url": "https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk"
-        },
-        {
-          "name": "scanta rose",
-          "url": "https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW"
-        }
-      ],
-      "duration_ms": 121470,
-      "name": "Almost a Lover",
-      "url": "https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 224549,
       "name": "The Future",
       "url": "https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Almost a Lover",
+        "url": "https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD"
+      },
+      "artists": [
+        {
+          "name": "NLSN",
+          "url": "https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk"
+        },
+        {
+          "name": "scanta rose",
+          "url": "https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW"
+        }
+      ],
+      "duration_ms": 121470,
+      "name": "Almost a Lover",
+      "url": "https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/2I2VoGHrwQ8k8RpUzJSbyd"
+        "name": "Evermore",
+        "url": "https://open.spotify.com/album/2gvEsAot01a7rhHTYJVFf5"
       },
       "artists": [
         {
-          "name": "Bjarne Hendrik",
-          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
+          "name": "Rich Vom Dorf",
+          "url": "https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9"
         }
       ],
-      "duration_ms": 182254,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR"
+      "duration_ms": 325537,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Evermore",
-        "url": "https://open.spotify.com/album/2gvEsAot01a7rhHTYJVFf5"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/2I2VoGHrwQ8k8RpUzJSbyd"
       },
       "artists": [
         {
-          "name": "Rich Vom Dorf",
-          "url": "https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9"
+          "name": "Bjarne Hendrik",
+          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
         }
       ],
-      "duration_ms": 325537,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY"
+      "duration_ms": 182254,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Sona",
-        "url": "https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF"
-      },
-      "artists": [
-        {
-          "name": "Valante",
-          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
-        }
-      ],
-      "duration_ms": 212384,
-      "name": "Sona",
-      "url": "https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Santa Fe",
         "url": "https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 177272,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/46hBN101eELE1lhjYPauSx"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Sona",
+        "url": "https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF"
+      },
+      "artists": [
+        {
+          "name": "Valante",
+          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
+        }
+      ],
+      "duration_ms": 212384,
+      "name": "Sona",
+      "url": "https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/77VzYuJEYZKyIQvPPziUXa"
-      },
-      "artists": [
-        {
-          "name": "Blank & Jones",
-          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
-        }
-      ],
-      "duration_ms": 200710,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/4cqd08JvEbKrrFE3kOthKv"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "In The Sun",
         "url": "https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 244285,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/77VzYuJEYZKyIQvPPziUXa"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        }
+      ],
+      "duration_ms": 200710,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/4cqd08JvEbKrrFE3kOthKv"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Time to Chill",
-        "url": "https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko"
-      },
-      "artists": [
-        {
-          "name": "Sound Nomaden",
-          "url": "https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0"
-        }
-      ],
-      "duration_ms": 312272,
-      "name": "Time to Chill",
-      "url": "https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1ZK9E83HhkuDmcqG8kXL51"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 136880,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/715a5BoI21BDN8GNbrJJ8G"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Time to Chill",
+        "url": "https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko"
+      },
+      "artists": [
+        {
+          "name": "Sound Nomaden",
+          "url": "https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0"
+        }
+      ],
+      "duration_ms": 312272,
+      "name": "Time to Chill",
+      "url": "https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "The right mood",
         "url": "https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 192913,
       "name": "The right mood",
       "url": "https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/5uf0wgEvW98JtVzU67BUZq"
+      },
+      "artists": [
+        {
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "The Screen",
-        "url": "https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK"
-        }
-      ],
-      "duration_ms": 197113,
-      "name": "The Screen",
-      "url": "https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "You and You",
         "url": "https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 201000,
       "name": "You and You",
       "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "The Screen",
+        "url": "https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK"
+        }
+      ],
+      "duration_ms": 197113,
+      "name": "The Screen",
+      "url": "https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Hands Together",
-        "url": "https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p"
-      },
-      "artists": [
-        {
-          "name": "SOL LOS",
-          "url": "https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8"
-        }
-      ],
-      "duration_ms": 189289,
-      "name": "Hands Together",
-      "url": "https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Suen\u0303o Lu\u0301cido",
         "url": "https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 245106,
       "name": "Suen\u0303o Lu\u0301cido",
       "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Hands Together",
+        "url": "https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p"
+      },
+      "artists": [
+        {
+          "name": "SOL LOS",
+          "url": "https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Hands Together",
+      "url": "https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/4CT0135sHX4XqxcZk2TYx9"
-      },
-      "artists": [
-        {
-          "name": "Dreweybear",
-          "url": "https://open.spotify.com/artist/5HDqj7lexto9EPJ42uS2dM"
-        }
-      ],
-      "duration_ms": 229830,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/1t7dnSgClxQdMB4NYonJLn"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 195157,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/4CT0135sHX4XqxcZk2TYx9"
+      },
+      "artists": [
+        {
+          "name": "Dreweybear",
+          "url": "https://open.spotify.com/artist/5HDqj7lexto9EPJ42uS2dM"
+        }
+      ],
+      "duration_ms": 229830,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1t7dnSgClxQdMB4NYonJLn"
     },
     {
       "added_at": "2024-06-14 04:00:00",

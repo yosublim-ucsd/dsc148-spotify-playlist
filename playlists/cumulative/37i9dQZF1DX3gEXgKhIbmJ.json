@@ -1877,6 +1877,28 @@
     },
     {
       "album": {
+        "name": "Incomum",
+        "url": "https://open.spotify.com/album/64Ygcf3Kn6dbaQPr2O4fNE"
+      },
+      "artists": [
+        {
+          "name": "Palo",
+          "url": "https://open.spotify.com/artist/63OGdk3eGnk7ugMhEBOKay"
+        },
+        {
+          "name": "Diazy",
+          "url": "https://open.spotify.com/artist/1xx9KMetNrBIinSKp2gTlk"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113333,
+      "name": "Incomum",
+      "url": "https://open.spotify.com/track/5z9BRYE0hX2aVlYVJES1Ox"
+    },
+    {
+      "album": {
         "name": "Incomum (Jersey Club Br)",
         "url": "https://open.spotify.com/album/2u6C2y7FU6U1AXHgtCchb1"
       },
@@ -1972,6 +1994,24 @@
       "duration_ms": 153729,
       "name": "jersey club \u201cviolin\u201d",
       "url": "https://open.spotify.com/track/46sUJtk1GQlHct43GC4THX"
+    },
+    {
+      "album": {
+        "name": "Barter 7",
+        "url": "https://open.spotify.com/album/6zp7QvTKnn4apcGh498z1A"
+      },
+      "artists": [
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81176,
+      "name": "Jersey do Jota",
+      "url": "https://open.spotify.com/track/0e8WMIlTanCMBunBw9v8zo"
     },
     {
       "album": {
@@ -2103,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/22w3IMJ6SZgVfMPKeLr3Bn"
+      },
+      "artists": [
+        {
+          "name": "Akascagrossa",
+          "url": "https://open.spotify.com/artist/4g75QCIGrJufszfx2cH7Qj"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161625,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/2VAV3GVOT6cCxl3PMDzm65"
+    },
+    {
+      "album": {
         "name": "Malandro \u00c9 o Gato",
         "url": "https://open.spotify.com/album/2k9Cvv8iSoNyKT38thDIpj"
       },
@@ -2126,6 +2184,36 @@
       "duration_ms": 156000,
       "name": "Malandro \u00c9 o Gato",
       "url": "https://open.spotify.com/track/3pcg8dkjxgp79XwuhwkKbF"
+    },
+    {
+      "album": {
+        "name": "Artilheira",
+        "url": "https://open.spotify.com/album/4L9PPCaKaPq4mtTJTImIvn"
+      },
+      "artists": [
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        },
+        {
+          "name": "Beat do \u00c1vila",
+          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111549,
+      "name": "Malvadona",
+      "url": "https://open.spotify.com/track/5oiuJTJRjeffU2wVtEypxu"
     },
     {
       "album": {
@@ -2511,7 +2599,7 @@
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 156350,
+      "duration_ms": 155842,
       "name": "NAVE",
       "url": "https://open.spotify.com/track/7gjhc84DGkAIqvbhR5qJ5L"
     },
@@ -2992,6 +3080,28 @@
       "duration_ms": 130983,
       "name": "PERRIER",
       "url": "https://open.spotify.com/track/4iZtPP0AMUl8ytTLiwtovX"
+    },
+    {
+      "album": {
+        "name": "Pique Jersey",
+        "url": "https://open.spotify.com/album/4FFxJTNJQdfN1XmwobxiQp"
+      },
+      "artists": [
+        {
+          "name": "Koala Ninja",
+          "url": "https://open.spotify.com/artist/3IqZFZ7N1MddpRFFqUPNkE"
+        },
+        {
+          "name": "kam",
+          "url": "https://open.spotify.com/artist/3DWT9SZoA2lOKM32hTseMp"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135384,
+      "name": "Pique Jersey",
+      "url": "https://open.spotify.com/track/1OdIAwpnYdSjtfIfIA2sx4"
     },
     {
       "album": {
@@ -4084,6 +4194,32 @@
       "duration_ms": 120000,
       "name": "Zomba",
       "url": "https://open.spotify.com/track/39Zm3pVDLbyIDQUegJeWka"
+    },
+    {
+      "album": {
+        "name": "Qosdmlk?",
+        "url": "https://open.spotify.com/album/6rn6YLWc42lkjeFd89cbvt"
+      },
+      "artists": [
+        {
+          "name": "Morfeu",
+          "url": "https://open.spotify.com/artist/75xFfbGeG4OUEjAV8lOjYl"
+        },
+        {
+          "name": "deze9beats",
+          "url": "https://open.spotify.com/artist/5FwbRhB8BhoV1g8M9Hl1R4"
+        },
+        {
+          "name": "APN",
+          "url": "https://open.spotify.com/artist/0DqIf3DExwDeh4RVvDKJZR"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156595,
+      "name": "Zovoz",
+      "url": "https://open.spotify.com/track/4YGskuKGvvtcsrgw5eWnkU"
     },
     {
       "album": {

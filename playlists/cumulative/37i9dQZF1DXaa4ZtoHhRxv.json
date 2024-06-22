@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "A Bar Song (Tipsy) [Remix]",
+        "url": "https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163863,
+      "name": "A Bar Song (Tipsy) [Remix]",
+      "url": "https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr"
+    },
+    {
+      "album": {
         "name": "After All",
         "url": "https://open.spotify.com/album/3jAzhfivp48sZJRnB1P87z"
       },
@@ -3424,6 +3446,24 @@
       "duration_ms": 180720,
       "name": "Take It From Me - Brandon Day Remix",
       "url": "https://open.spotify.com/track/06PQ8Qrv66zvNyc2KIahb0"
+    },
+    {
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov"
     },
     {
       "album": {

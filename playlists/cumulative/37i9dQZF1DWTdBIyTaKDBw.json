@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 181626,
       "name": "A longing night",
       "url": "https://open.spotify.com/track/4yTPo66vy8AATxNvNyLqN5"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 254866,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 166968,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Back Home",
       "url": "https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc"
@@ -368,7 +368,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 212150,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4"
@@ -480,7 +480,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 219205,
       "name": "Butterfly on my mind",
       "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 158386,
       "name": "Candy For You",
       "url": "https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 222400,
       "name": "Carpet",
       "url": "https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 237369,
       "name": "Da Ra Da",
       "url": "https://open.spotify.com/track/5oBCC0WlEcwvFb2m0vtqr3"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 210079,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/2iAs2WIRVMGiN3RBOzW3BI"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 265773,
       "name": "Dancing Universe",
       "url": "https://open.spotify.com/track/2shW4PIb06f9uYWEcrZ00a"
@@ -736,7 +736,7 @@
           "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         },
         {
-          "name": "Chuu",
+          "name": "CHUU",
           "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
         }
       ],
@@ -760,7 +760,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 210266,
       "name": "December's Spring(Prod. Sam Kim)",
       "url": "https://open.spotify.com/track/2gccCocSljvkKhBL7gkYLN"
@@ -796,7 +796,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 255280,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0dmEAPKuehgDaVKVKlm0rd"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 212080,
       "name": "Dreamy Alarm",
       "url": "https://open.spotify.com/track/7unbE46iO68VyMnVXXrVrB"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 297706,
       "name": "Fairy Of Shampoo",
       "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 211456,
       "name": "Free Giveaway",
       "url": "https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 222576,
       "name": "Friendzone (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 227853,
       "name": "Heart in Motion",
       "url": "https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 224778,
       "name": "I don't want (feat.So Jung of LADIES\u2019 CODE)",
       "url": "https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223220,
       "name": "I Really Didn't Know You",
       "url": "https://open.spotify.com/track/11yW0e3Pth5l2rTIShyDsj"
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 296426,
       "name": "It\u2019s a different thing to love her and make her happy (feat. jeebanoff)",
       "url": "https://open.spotify.com/track/16b6NsiIrMo33mr5Q3oZuS"
@@ -1714,7 +1714,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 220003,
       "name": "Like A Bird",
       "url": "https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 210133,
       "name": "Love Encore (with Lee Sora)",
       "url": "https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA"
@@ -1832,13 +1832,13 @@
       },
       "artists": [
         {
-          "name": "Ryu Su Jeong",
+          "name": "Ryu Sujeong",
           "url": "https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc"
         }
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 261321,
       "name": "Lullaby (zz)",
       "url": "https://open.spotify.com/track/2y7vVELbuhI132UZNBjtsZ"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 196120,
       "name": "Lyricist",
       "url": "https://open.spotify.com/track/1eEHOnrNLP46aGKLb1LtMI"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 244363,
       "name": "Maudie",
       "url": "https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 203285,
       "name": "My Journey",
       "url": "https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg"
@@ -2038,13 +2038,13 @@
           "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
         },
         {
-          "name": "10cm",
+          "name": "10CM",
           "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 260879,
       "name": "No place to retreat (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0KaYLNGkiQ0IeEia3SIm9x"
@@ -2066,7 +2066,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 256888,
       "name": "NO WAY",
       "url": "https://open.spotify.com/track/0jA0TihvVbPHgrIcHbW1Og"
@@ -2232,7 +2232,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 201884,
       "name": "Our Cinema #1 - Someone Special",
       "url": "https://open.spotify.com/track/5ZDyD7L5khCYry5X8JAb9s"
@@ -2312,7 +2312,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 190146,
       "name": "Play the field (With ONEW, Yoo Inna)",
       "url": "https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz"
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 237217,
       "name": "Rain",
       "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
@@ -2464,7 +2464,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 178886,
       "name": "ROSE",
       "url": "https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS"
@@ -2634,7 +2634,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 247672,
       "name": "Snow, You, Flower",
       "url": "https://open.spotify.com/track/0r4oRG61m7d5UW0fR04OTm"
@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 250253,
       "name": "Snowy Stars",
       "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 281066,
       "name": "Song Request (feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM"
@@ -2844,7 +2844,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 222284,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
@@ -2884,7 +2884,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 205854,
       "name": "Sweet lies",
       "url": "https://open.spotify.com/track/7sBMBr6SoNS4LrDAbyVwRR"
@@ -2916,11 +2916,15 @@
         {
           "name": "Lena Park",
           "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         }
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 226203,
       "name": "Sweet(Brand New Mix) (feat.Verbal Jint)",
       "url": "https://open.spotify.com/track/12YVdrlWZONFqxr7MrTwsO"
@@ -3000,7 +3004,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239880,
       "name": "The Season Of You",
       "url": "https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG"
@@ -3236,7 +3240,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 254600,
       "name": "Watercolour",
       "url": "https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ"
@@ -3350,13 +3354,13 @@
       },
       "artists": [
         {
-          "name": "Highlight",
+          "name": "HIGHLIGHT",
           "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
         }
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 191114,
       "name": "Wind",
       "url": "https://open.spotify.com/track/0oPiNXJVKFp3T5wo6S0nUw"
@@ -3374,7 +3378,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 190973,
       "name": "Winter Theater",
       "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
@@ -3392,7 +3396,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 239086,
       "name": "Wish",
       "url": "https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp"
@@ -3518,7 +3522,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 217666,
       "name": "zZ",
       "url": "https://open.spotify.com/track/1xaSabcqQbn0LVsKDyHz96"
@@ -3536,7 +3540,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "\uace0\uc591\uc774\uc758 \uc0b0\ucc45",
       "url": "https://open.spotify.com/track/3omQ4YiFuiHpP7WVJy5LZK"
@@ -3572,7 +3576,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 239613,
       "name": "\ub098\ube44",
       "url": "https://open.spotify.com/track/1R1mvOZ2cfnM39erhGQ5WQ"
@@ -3630,7 +3634,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 240000,
       "name": "\ub208 (SNOW) (Feat. \uc774\ubb38\uc138 (Lee Moon Sae))",
       "url": "https://open.spotify.com/track/62SJ5qkvcNBorQ6QNg6Xcb"
@@ -3810,7 +3814,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 260624,
       "name": "\uc5b4\ub5a1\ud574 (Feat. \uc2a4\ud154\ub77c\uc7a5)",
       "url": "https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob"
@@ -3836,7 +3840,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "\uc774\ub978 \uaca8\uc6b8(Feat. Gist, \uae30\uc6d0(Giwon))",
       "url": "https://open.spotify.com/track/0lRyIfhsqlRYULXPBL848R"

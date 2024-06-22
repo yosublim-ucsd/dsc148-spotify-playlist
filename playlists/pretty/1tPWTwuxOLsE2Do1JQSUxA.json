@@ -1,12 +1,12 @@
 {
   "description": "Get nostalgic with all the summer hits and bangers you'll need. From Beyonc\u00e9, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....",
-  "num_followers": 460243,
+  "num_followers": 460390,
   "original_name": "2010s Summer Throwbacks \u2600\ufe0f\ud83e\udda9\ud83c\udf34",
   "owner": {
     "name": "Filtr UK",
     "url": "https://open.spotify.com/user/sonymusicuk"
   },
-  "snapshot_id": "AAALRtw/w6dCvNMA6bwl+QasatpKnmGo",
+  "snapshot_id": "AAALSqg3HsCvZPyMLbRnYdCb+CiJLFsA",
   "tracks": [
     {
       "added_at": "2024-06-20 19:00:38",
@@ -153,6 +153,30 @@
       "url": "https://open.spotify.com/track/3uAgHKnp9NtuWCRdnpI5U5"
     },
     {
+      "added_at": "2024-06-21 19:27:18",
+      "album": {
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+        }
+      ],
+      "duration_ms": 222986,
+      "name": "Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi)",
+      "url": "https://open.spotify.com/track/5oady7OSE7dH7LHiqmb3Cr"
+    },
+    {
       "added_at": "2024-06-20 19:00:38",
       "album": {
         "name": "Animal (Expanded Edition)",
@@ -167,6 +191,22 @@
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+    },
+    {
+      "added_at": "2024-06-21 19:06:49",
+      "album": {
+        "name": "California 37",
+        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 247946,
+      "name": "50 Ways to Say Goodbye",
+      "url": "https://open.spotify.com/track/2NniAhAtkRACaMeYt48xlD"
     },
     {
       "added_at": "2024-06-20 19:00:38",

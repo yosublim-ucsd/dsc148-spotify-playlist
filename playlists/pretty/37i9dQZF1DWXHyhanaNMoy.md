@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion en good vibes\. Superster: Alessio
+> Motion en good vibes\. Superster: Yssi SB
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,277 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,315 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 69 | [Lo Que Tiene](https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Lo Que Tiene](https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4) | 4:19 |
 | 70 | [Wine Dat](https://open.spotify.com/track/4MrI59cGOBajoKZSzXyvg4) | [TEAM PEACH](https://open.spotify.com/artist/3Ea9Rva7WpmSyRdxS8tsFC), [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG), [Donson](https://open.spotify.com/artist/5BWlGj95oqmytrojTyBBvo) | [Wine Dat](https://open.spotify.com/album/2gqMaP3AZjWzDa8cuUkHer) | 2:05 |
 
-Snapshot ID: `ZnSrsAAAAACXXmAKxfWgLNBCSSpHDlir`
+Snapshot ID: `ZnVbrQAAAABgnGhy1rQIBELPhks8sCiz`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnIfgAAAAACNvbtF+PJhHtT5VgmebXE8",
+  "snapshot_id": "ZnNxAAAAAAD0ZBkxWJlEIKV0zfdk6na5",
   "tracks": [
     {
       "added_at": null,
@@ -187,70 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brown Acid - The Fifth Trip",
-        "url": "https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 250213,
-      "name": "Nothing In The Sun",
-      "url": "https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What It Is To Burn",
-        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 159906,
-      "name": "Grey Matter",
-      "url": "https://open.spotify.com/track/5ssjNXhTYQLlFEQP4aKGCr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Say Hello To Sunshine",
-        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 264533,
-      "name": "Insomniatic Meat",
-      "url": "https://open.spotify.com/track/61mGDyF9irzSjSDUwIh5CM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Oblivion",
-        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Further From The Few",
-      "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drive Thru Records Greatest Hits (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w"
       },
@@ -292,9 +228,73 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 208933,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/65SgwW4bzyNhApmK2kzrqt"
+      "duration_ms": 264533,
+      "name": "Insomniatic Meat",
+      "url": "https://open.spotify.com/track/61mGDyF9irzSjSDUwIh5CM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Oblivion",
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Further From The Few",
+      "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brown Acid - The Fifth Trip",
+        "url": "https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 250213,
+      "name": "Nothing In The Sun",
+      "url": "https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 159906,
+      "name": "Grey Matter",
+      "url": "https://open.spotify.com/track/5ssjNXhTYQLlFEQP4aKGCr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Say Hello To Sunshine",
+        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Brother Bleed Brother",
+      "url": "https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 221493,
-      "name": "Brother Bleed Brother",
-      "url": "https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD"
+      "duration_ms": 208933,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/65SgwW4bzyNhApmK2kzrqt"
     },
     {
       "added_at": null,

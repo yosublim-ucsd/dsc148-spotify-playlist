@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "All The Mels",
+        "url": "https://open.spotify.com/album/3YGiEYfrVpzFeL8ea6GYc8"
+      },
+      "artists": [
+        {
+          "name": "Melle Brown",
+          "url": "https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271736,
+      "name": "All The Mels",
+      "url": "https://open.spotify.com/track/1d2NuaC27YWPW7gPcZxSJe"
+    },
+    {
+      "album": {
         "name": "ALT DISCO",
         "url": "https://open.spotify.com/album/7ACFMa2hlNTdgyv966T5JR"
       },
@@ -370,6 +388,24 @@
       "duration_ms": 286874,
       "name": "Back Seat - Chris Lorenzo Remix",
       "url": "https://open.spotify.com/track/6ZbJz7FWWa3m5QbTudts8K"
+    },
+    {
+      "album": {
+        "name": "Eurostar",
+        "url": "https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m"
+      },
+      "artists": [
+        {
+          "name": "Swank Mami",
+          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91080,
+      "name": "Bad B*tch",
+      "url": "https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL"
     },
     {
       "album": {
@@ -792,7 +828,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 202241,
       "name": "Bloody Samaritan (Sun-El Musician Remix)",
       "url": "https://open.spotify.com/track/78zI0cdKlSm8bmH8TWia6W"
@@ -1004,7 +1040,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 187436,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5IcYNaZuJdwX6edlQkNCI6"
@@ -1146,6 +1182,24 @@
       "duration_ms": 174705,
       "name": "Buzzkill",
       "url": "https://open.spotify.com/track/4p9ROZgApJpuFRKl2Ffhbu"
+    },
+    {
+      "album": {
+        "name": "Cactus Water",
+        "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "Cactus Water",
+      "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
     },
     {
       "album": {
@@ -1754,6 +1808,28 @@
       "duration_ms": 188307,
       "name": "Essa",
       "url": "https://open.spotify.com/track/33zoPV2LvkbsvBmG5RQLWI"
+    },
+    {
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219208,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
     },
     {
       "album": {
@@ -2928,7 +3004,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 132155,
       "name": "Just Say - DJ Sliink Remix",
       "url": "https://open.spotify.com/track/0E0tSPI5JZz8Aq1y1DbFEQ"
@@ -3116,7 +3192,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 257055,
       "name": "Kiss It Better",
       "url": "https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK"
@@ -4567,6 +4643,28 @@
     },
     {
       "album": {
+        "name": "North Vol. 2",
+        "url": "https://open.spotify.com/album/29ViDgMA62axNx2WOABMjG"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159166,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/60gKxdKtL9VIRhr3ENddBp"
+    },
+    {
+      "album": {
         "name": "Peaceful",
         "url": "https://open.spotify.com/album/14OP59H89LT2o965f03jyS"
       },
@@ -5791,6 +5889,28 @@
     },
     {
       "album": {
+        "name": "Sweet Bebe",
+        "url": "https://open.spotify.com/album/371cdPs6Hx59TW198dnhwi"
+      },
+      "artists": [
+        {
+          "name": "Swordman Kitala",
+          "url": "https://open.spotify.com/artist/58JJJyz6aYl9nRkTWSzH1c"
+        },
+        {
+          "name": "Burland",
+          "url": "https://open.spotify.com/artist/5I3pGI4XlZf4ZTfa0HUk5w"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312935,
+      "name": "Sweet Bebe",
+      "url": "https://open.spotify.com/track/1hjrRCJafMYDWrjZT6u0sf"
+    },
+    {
+      "album": {
         "name": "Sweet Devotion",
         "url": "https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT"
       },
@@ -6344,7 +6464,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 204521,
       "name": "Tukuntazo (Austin Millz Remix)",
       "url": "https://open.spotify.com/track/1qb5Uty8dhjbJUrHkTqttE"
@@ -6706,7 +6826,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 201517,
       "name": "Wale",
       "url": "https://open.spotify.com/track/3i7BUiRkdAH6mMOQw35Jkp"

@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-414 songs - 21 hr 56 min
+416 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Bright Eyes](https://open.spotify.com/track/4H0fcFytpj3k8uxbV4LDyD) | [April Ball](https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae) | [Bright Eyes](https://open.spotify.com/album/4VAiaO1FM576WoLNT2cmIz) | 3:37 | 2023-01-06 |  |
 | [Californication](https://open.spotify.com/track/6KF0ASfUw7mzIIWOmRFI7z) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Viva La Vida](https://open.spotify.com/album/5tU4IeqW5okLOFooZqzAFF) | 3:17 | 2023-05-26 |  |
 | [Call Your Girlfriend](https://open.spotify.com/track/1rXk1c4KcPoAXfkSIrKmuJ) | [Thomas Loof](https://open.spotify.com/artist/2but4cFAXYDfNPiR8iGVB3) | [Call Your Girlfriend](https://open.spotify.com/album/6NJqqVevvQwAOwOzZ7zZbg) | 3:11 | 2023-04-14 | 2023-06-23 |
-| [Can't Help Falling In Love](https://open.spotify.com/track/3Al9JtsJjMBHt2UjxvnBzD) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Can't Help Falling In Love](https://open.spotify.com/album/26gRNrHNzMjrzNBqWxGyCn) | 2:47 | 2022-08-01 |  |
+| [Can't Help Falling In Love](https://open.spotify.com/track/3Al9JtsJjMBHt2UjxvnBzD) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [Can't Help Falling In Love](https://open.spotify.com/album/26gRNrHNzMjrzNBqWxGyCn) | 2:47 | 2022-08-01 | 2024-06-22 |
 | [Careless Whisper](https://open.spotify.com/track/44keYJcx0VOluaff3Tki8q) | [Anna Maria Corelis](https://open.spotify.com/artist/4CjATHfvbMxY5QFDayYRG6) | [Careless Whisper](https://open.spotify.com/album/5PLC6XW2fGVJueGZVLd40Y) | 3:53 | 2023-05-26 | 2023-06-23 |
 | [Careless Whisper](https://open.spotify.com/track/7tnevl97AcqCQlFNpw4brZ) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Careless Whisper](https://open.spotify.com/album/1G3CLxTyCl5K1TlzCMoYTA) | 2:57 | 2024-02-09 | 2024-05-08 |
 | [Castle on the Hill](https://open.spotify.com/track/50rkiMIech8x1lf3YtNVAS) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Castle on the Hill](https://open.spotify.com/album/2eTKkBOv6vCCYyLXxFfoVa) | 3:02 | 2023-10-20 |  |
@@ -104,6 +104,7 @@
 | [Every Breath You Take](https://open.spotify.com/track/3qLlQ4RLl3B8PaEdIG6H0d) | [Tomas Lee](https://open.spotify.com/artist/4gAbYtySCDOGOXHEUjrQVe) | [Every Breath You Take](https://open.spotify.com/album/2OhAmXifsCYytlfNT5hRKB) | 3:47 | 2022-08-01 | 2023-03-18 |
 | [Every Breath You Take](https://open.spotify.com/track/5DIZxKzGkxd5WTod2Gss2R) | [Vakur Svalason](https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3) | [How I'm Feeling Now](https://open.spotify.com/album/1F5EScGxpNeJhHrrmUrqbk) | 3:49 | 2023-04-14 | 2023-08-23 |
 | [Everybody's Changing](https://open.spotify.com/track/67IbvYxDxsgmgGa5XKj1d6) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Everybody's Changing](https://open.spotify.com/album/2ZQgqizSwUEQ69bmBBVkuo) | 3:22 | 2023-10-20 |  |
+| [Exile](https://open.spotify.com/track/6mZTXYrFgSburGRKWk2WOk) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Exile](https://open.spotify.com/album/4bucdzFmaqlTkQvnJSe2lp) | 3:43 | 2024-06-21 |  |
 | [Eyes Closed](https://open.spotify.com/track/6EoPNWD4JE1BQZ8VxbYiM8) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Eyes Closed](https://open.spotify.com/album/2r7wVDEXwJbMgTnwtpuIbf) | 3:40 | 2023-11-17 |  |
 | [Faded \- Piano Version](https://open.spotify.com/track/0I0aKos7NfcwAKOZf49etE) | [Daniele Leoni](https://open.spotify.com/artist/22SXqNAFCWyVYuUfvUo6zj) | [Pop Pianology, Vol\. 3](https://open.spotify.com/album/2WDlp0qPSo6uE0CpwfdXKh) | 2:01 | 2022-08-01 | 2023-05-06 |
 | [Fake A Smile](https://open.spotify.com/track/79QJyCeKedEGv6njcE7S8m) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Fake A Smile](https://open.spotify.com/album/6UmV4okL0lSjs1lAvBJaVn) | 2:36 | 2023-02-24 |  |
@@ -280,6 +281,7 @@
 | [Positions](https://open.spotify.com/track/7iBm5kL2A8up9UfqoQLVhg) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Save Your Tears](https://open.spotify.com/album/7j3YmhL0zAnbh7jKxHPqei) | 2:39 | 2022-10-28 | 2023-05-06 |
 | [Purple Rain \- Piano Version](https://open.spotify.com/track/1ty7L5N7si6ly9YQLZpD8J) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part IV](https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf) | 3:40 | 2022-11-18 | 2023-05-06 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/4nWcu20r0jBRl7ucCdlTQd) | [Vanessa Acin](https://open.spotify.com/artist/4STKN0PPPmsqSziBVaT0Rm) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/5aPnVfapJqOcOxv5zuxXzS) | 2:36 | 2022-11-18 | 2023-05-06 |
+| [Rather Be](https://open.spotify.com/track/3TjP5s4meR4cvpnH9wPuge) | [Marc Millis](https://open.spotify.com/artist/51rn0GgkyfOvp4clFcZ7qA) | [Rather Be](https://open.spotify.com/album/2yaKTHYKeYrTGNu9TQ3HxC) | 4:08 | 2024-06-21 |  |
 | [Redbone](https://open.spotify.com/track/37jmM5yYmTqETXCbi4Ko5U) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Redbone](https://open.spotify.com/album/4SOJm1GEbnhfHC1ggGjT9K) | 3:18 | 2022-12-16 | 2023-05-27 |
 | [Right Here Waiting](https://open.spotify.com/track/34qR9YyC7FxLfkfq8JQS6p) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Right Here Waiting](https://open.spotify.com/album/3rPEZpmAnrGOvZWlAyfwAj) | 2:57 | 2024-02-09 |  |
 | [Right Here Waiting](https://open.spotify.com/track/6ULMLA6uLwvbMMYprohGHH) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Right Here Waiting](https://open.spotify.com/album/5QeI18uS9Z91uqZzpVnDcH) | 3:08 | 2023-01-06 | 2023-06-23 |

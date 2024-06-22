@@ -6,10 +6,26 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AbUl4gAAAADNzCgioORWoakIacU2cW7p",
+  "snapshot_id": "AbUrggAAAADUy+CnyQcc5krNocOxVUH1",
   "tracks": [
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "duration_ms": 248386,
+      "name": "Aonde Vai Chegar (Coisa Feia)",
+      "url": "https://open.spotify.com/track/6v9305hQPLCujklnSmHmrH"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Reggae a Vida Com Amor",
         "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/6igGc7SDElL0VWsKwouG9J"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Dia Ap\u00f3s Dia Lutando (Deluxe Version)",
         "url": "https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln"
@@ -45,7 +61,39 @@
       "url": "https://open.spotify.com/track/5zhROXetl6dhshtjXUjo8C"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "duration_ms": 253240,
+      "name": "Jah Jah Me Leve",
+      "url": "https://open.spotify.com/track/4ypqT6MRc3FmLWJXQ7XGNZ"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Dia Ap\u00f3s Dia Lutando (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "duration_ms": 351373,
+      "name": "Santa Kaya",
+      "url": "https://open.spotify.com/track/05Ydmz1fD0Htr5DEGpvhD5"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Dia Ap\u00f3s Dia Lutando (Deluxe Version)",
         "url": "https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln"
@@ -61,7 +109,7 @@
       "url": "https://open.spotify.com/track/0x12Va4JiO5Qjqcy3VCFn4"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Familia Ponto",
         "url": "https://open.spotify.com/album/6geLZHAnVnFUiYErgxf4Qv"
@@ -85,7 +133,23 @@
       "url": "https://open.spotify.com/track/1Qc88QWBkD4Ot1nwSKhJNt"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Ao Vivo No Rep\u00fablica do Reggae",
+        "url": "https://open.spotify.com/album/2DuoPecCOczeOZQ7EXCdMQ"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "duration_ms": 195985,
+      "name": "Fio da F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FDJcbATfIrRFYVfGncD1Y"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Reggae a Vida Com Amor",
         "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
@@ -101,7 +165,7 @@
       "url": "https://open.spotify.com/track/3TXDNilo3IU4gCoIy2ER56"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Familia Ponto",
         "url": "https://open.spotify.com/album/6geLZHAnVnFUiYErgxf4Qv"
@@ -117,7 +181,7 @@
       "url": "https://open.spotify.com/track/47VbY3pygnNQ4Ed9vPTwAf"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Foi Jah Quem Mandou",
         "url": "https://open.spotify.com/album/0PtuaNT0sysrBvZwY9ELvd"
@@ -141,7 +205,23 @@
       "url": "https://open.spotify.com/track/5V3hDjjDd11QQziHbjCT8i"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "duration_ms": 422066,
+      "name": "\u00c1frica",
+      "url": "https://open.spotify.com/track/0G1ioXbnO6iGbw4BshL4sJ"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Reggae a Vida Com Amor",
         "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
@@ -157,7 +237,23 @@
       "url": "https://open.spotify.com/track/2aRrL0YiXk89WWOwynYBMx"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "duration_ms": 503186,
+      "name": "Ame Sua Miss\u00e3o",
+      "url": "https://open.spotify.com/track/0jERDLXffwCjTU5Td5zIXK"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Essa \u00c9 a Nossa M\u00fasica",
         "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
@@ -173,7 +269,7 @@
       "url": "https://open.spotify.com/track/58LQob3LvS84O03sloPqzY"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Toque de Amor",
         "url": "https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU"
@@ -193,7 +289,55 @@
       "url": "https://open.spotify.com/track/5FASTworUcU7zslxYvJRWQ"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Essa \u00c9 a Nossa M\u00fasica",
+        "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "duration_ms": 208192,
+      "name": "Pra Falar de Jah",
+      "url": "https://open.spotify.com/track/66ZIPA8RrdV6y6GezWGDdR"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Dia Ap\u00f3s Dia Lutando (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "duration_ms": 374946,
+      "name": "M\u00fasica de Jah",
+      "url": "https://open.spotify.com/track/1BCKW27GHBzcNxmNOOXcKL"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Reggae a Vida Com Amor",
+        "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "duration_ms": 531920,
+      "name": "Profeta Rei",
+      "url": "https://open.spotify.com/track/301wtMedruaqRQELl0MKa2"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Reggae a Vida Com Amor",
         "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
@@ -209,7 +353,7 @@
       "url": "https://open.spotify.com/track/1MwEVNDORoVWJDg6kRqWF3"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Essa \u00c9 a Nossa M\u00fasica",
         "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
@@ -225,7 +369,23 @@
       "url": "https://open.spotify.com/track/7wCmZoT43houmTEBitP5bJ"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Juntos Somos Fortes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "duration_ms": 192746,
+      "name": "Introdu\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YXw5eHJ7Q3VAYmZuWTjmv"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Novo Governo",
         "url": "https://open.spotify.com/album/7ezdv3qMjcZOXIjrLDvKHG"
@@ -241,7 +401,27 @@
       "url": "https://open.spotify.com/track/2wZmUUAoCdLcr9SgMZ3RYF"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Familia Ponto",
+        "url": "https://open.spotify.com/album/6geLZHAnVnFUiYErgxf4Qv"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "Dada Yute",
+          "url": "https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Tem Algo Al\u00e9m",
+      "url": "https://open.spotify.com/track/0BiZdeyfiC7OCswgTCwRb2"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Reggae a Vida Com Amor",
         "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
@@ -257,7 +437,23 @@
       "url": "https://open.spotify.com/track/4RxYyH7ZGRPzoMUN1lyriz"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Toque de Amor",
+        "url": "https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        }
+      ],
+      "duration_ms": 178363,
+      "name": "Toque de Amor",
+      "url": "https://open.spotify.com/track/2LUBygSITjXkY1D0ozjhdS"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Essa \u00c9 a Nossa M\u00fasica",
         "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
@@ -273,7 +469,7 @@
       "url": "https://open.spotify.com/track/3IA66NZnwvk2tNdAUKNToQ"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Toque de Amor",
         "url": "https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU"
@@ -293,7 +489,7 @@
       "url": "https://open.spotify.com/track/270TXSoQdITbBAqf5WSJpb"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Toque de Amor",
         "url": "https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU"
@@ -309,7 +505,31 @@
       "url": "https://open.spotify.com/track/1u8C46BhyaIiTWiAVPq68K"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Reggae Juntinho",
+        "url": "https://open.spotify.com/album/5XtVthzSIz5YRcjBusQ0TA"
+      },
+      "artists": [
+        {
+          "name": "Clinton Fearon",
+          "url": "https://open.spotify.com/artist/2mSiPzmzBCGS7p6tEuRuTd"
+        },
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        },
+        {
+          "name": "Lucas Kastrup",
+          "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
+        }
+      ],
+      "duration_ms": 255020,
+      "name": "Reggae Juntinho",
+      "url": "https://open.spotify.com/track/33Xp1gdWmJe7gIDePPvAbp"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Mundo Melhor",
         "url": "https://open.spotify.com/album/6IQkiElPhDcMES5AjifUcM"
@@ -329,7 +549,7 @@
       "url": "https://open.spotify.com/track/0p22eZo9otCwJtqC7RLmc9"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Cora\u00e7\u00e3o Nyahbinghi: Lucas Kastrup & Amigos",
         "url": "https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW"
@@ -353,7 +573,7 @@
       "url": "https://open.spotify.com/track/3j0KxlP0MuRfvkiO4SoGM5"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Mundo Melhor",
         "url": "https://open.spotify.com/album/6IQkiElPhDcMES5AjifUcM"
@@ -373,7 +593,55 @@
       "url": "https://open.spotify.com/track/68v11S7cJx67YEnuPiQxpZ"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Nyahbinghi: Lucas Kastrup & Amigos",
+        "url": "https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW"
+      },
+      "artists": [
+        {
+          "name": "Lucas Kastrup",
+          "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
+        },
+        {
+          "name": "Solano Jacob",
+          "url": "https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm"
+        },
+        {
+          "name": "Ashanti Roy",
+          "url": "https://open.spotify.com/artist/7BHabBDR7zhcb8EKxWOxkq"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Amar \u00c9 Bom",
+      "url": "https://open.spotify.com/track/60QKV4AxI5xyrOiJLjdma8"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Nyahbinghi: Lucas Kastrup & Amigos",
+        "url": "https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW"
+      },
+      "artists": [
+        {
+          "name": "Lucas Kastrup",
+          "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
+        },
+        {
+          "name": "Junior Dread",
+          "url": "https://open.spotify.com/artist/6nynI5RNNt5DJ9gB4jCRTb"
+        },
+        {
+          "name": "Earl Sixteen",
+          "url": "https://open.spotify.com/artist/73TNAImtt021hntBpAxB4W"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Afirmando A F\u00e9",
+      "url": "https://open.spotify.com/track/1SDOCpXl1riGf8dPN7D8X7"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Cora\u00e7\u00e3o Nyahbinghi: Lucas Kastrup & Amigos",
         "url": "https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW"
@@ -397,7 +665,51 @@
       "url": "https://open.spotify.com/track/1IZsek4rb8hjxy5BgwezfH"
     },
     {
-      "added_at": "2024-06-20 02:10:12",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Nyahbinghi: Lucas Kastrup & Amigos",
+        "url": "https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW"
+      },
+      "artists": [
+        {
+          "name": "Lucas Kastrup",
+          "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
+        },
+        {
+          "name": "Dada Yute",
+          "url": "https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj"
+        }
+      ],
+      "duration_ms": 245124,
+      "name": "Sempre Reinar\u00e1",
+      "url": "https://open.spotify.com/track/3pG8OriC04peRKpzIvQJVv"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Nyahbinghi: Lucas Kastrup & Amigos",
+        "url": "https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW"
+      },
+      "artists": [
+        {
+          "name": "Lucas Kastrup",
+          "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
+        },
+        {
+          "name": "Ras Kadhu",
+          "url": "https://open.spotify.com/artist/1gpXc70CKYH7STndSWqmog"
+        },
+        {
+          "name": "Kuky",
+          "url": "https://open.spotify.com/artist/4ZWAuhfRl5jD14rKToEoor"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Can\u00e7\u00e3o Divina",
+      "url": "https://open.spotify.com/track/2uvW9vWoPDh8XkeTqxx0Oi"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Gabriel Jah-B And Friends",
         "url": "https://open.spotify.com/album/3EMmKWD1sINexO2NCYfcTX"
@@ -411,6 +723,102 @@
       "duration_ms": 180790,
       "name": "Can\u00e7\u00e3o do Sofredor",
       "url": "https://open.spotify.com/track/32Oof8GtfJQpn2PI8Y4sxM"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Santo de Casa (Trilha Sonora)",
+        "url": "https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Kastrup",
+          "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
+        },
+        {
+          "name": "Lucas Serra",
+          "url": "https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL"
+        }
+      ],
+      "duration_ms": 127914,
+      "name": "Viol\u00e3o da Rainha",
+      "url": "https://open.spotify.com/track/7w9oTgr4s01YSHpgXJ0uJA"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Santo de Casa (Trilha Sonora)",
+        "url": "https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Kastrup",
+          "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
+        },
+        {
+          "name": "Sab\u00e1 Tuk",
+          "url": "https://open.spotify.com/artist/7D43g6cTKxRYi0XyB1hVWP"
+        },
+        {
+          "name": "Cacau Amaral",
+          "url": "https://open.spotify.com/artist/1EaIuszbvSA8FHagJzeSPC"
+        }
+      ],
+      "duration_ms": 112698,
+      "name": "Salve S\u00e3o Benedito",
+      "url": "https://open.spotify.com/track/7ivINTbIxp8XYoKdn3fkcc"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Santo de Casa (Trilha Sonora)",
+        "url": "https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Kastrup",
+          "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
+        }
+      ],
+      "duration_ms": 187547,
+      "name": "Sonho de Luzia",
+      "url": "https://open.spotify.com/track/3hHgIJsmwuQNxhvRuCe8QI"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Inesperado",
+        "url": "https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN"
+      },
+      "artists": [
+        {
+          "name": "Lucas Kastrup",
+          "url": "https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO"
+        },
+        {
+          "name": "Ju em fam\u00edlia",
+          "url": "https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Inesperado",
+      "url": "https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Livremente",
+        "url": "https://open.spotify.com/album/1oqVG1xM2CRF6YwwW23hXa"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3os de F\u00e9",
+          "url": "https://open.spotify.com/artist/1aJjD4Hp0uNpbYujxCkeHu"
+        }
+      ],
+      "duration_ms": 245005,
+      "name": "Encontro Com Jah",
+      "url": "https://open.spotify.com/track/2Y7sPLjrzRuhH9KZVN7TWP"
     }
   ],
   "unique_name": "Written By Lucas Kastrup",

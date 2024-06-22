@@ -2,7 +2,7 @@
 
 ### [This Is Terry Riley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wmvjq)
 
-> This is Terry Riley\. The essential tracks, all in one playlist.
+> This is Terry Riley\. Todos os maiores hits em uma só playlist.
 
 173 songs - 1 day 0 hr 8 min
 
@@ -41,7 +41,7 @@
 | [Chorale of the Blessed Day](https://open.spotify.com/track/4D7PdsN9vnlJTKVhg7m7dg) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 11:26 | 2022-05-29 | 2022-11-25 |
 | [Church of Anthrax](https://open.spotify.com/track/21UCyo72hcHcZnH0OZfhxm) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 9:05 | 2022-05-29 |  |
 | [Conversation with the Sirocco](https://open.spotify.com/track/4RFcJpJZt6NorK6jLAK2kM) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [No Man's Land](https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0) | 7:05 | 2023-02-12 | 2023-07-27 |
-| [Crucifixion Voices](https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 5:47 | 2022-05-29 | 2024-06-21 |
+| [Crucifixion Voices](https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 5:47 | 2022-05-29 |  |
 | [Danzero](https://open.spotify.com/track/6s5fuddspiuGL9jY4G66Oc) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Paul Dresher Ensemble](https://open.spotify.com/artist/59OLF0W5mXpXwjfnAhpIWF) | [Banana Humberto](https://open.spotify.com/album/4F8QZyltxqZJXe7UtvWGBY) | 13:20 | 2023-02-24 | 2023-07-26 |
 | [Dark Queen](https://open.spotify.com/track/0lmQpxXHIUXD8qdgDrGzqD) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/2ln3J4rzNtWmGnpCBDfZ7m) | 13:47 | 2024-05-28 | 2024-06-18 |
 | [Dark Queen](https://open.spotify.com/track/5GGEurc6TiBvLliZJhiNvG) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/336G74NrqpBt6A3cXEoUg7) | 13:47 | 2023-03-26 | 2023-03-28 |
@@ -159,7 +159,7 @@
 | [The Harp of New Albion: VII\. Ascending Whale Dreams](https://open.spotify.com/track/1OfrxTBcsI8P1q6HbkZTYC) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 8:34 | 2024-03-17 | 2024-06-21 |
 | [The Harp of New Albion: VIII\. The Magic Knot Waltz](https://open.spotify.com/track/07Ug3dg1bkX12uUrmioMKj) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 9:26 | 2022-10-31 |  |
 | [The Harp of New Albion: X\. Land's End](https://open.spotify.com/track/1WiySlU6OV5PyyF06OQAVC) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 6:50 | 2022-11-07 | 2022-11-09 |
-| [The Lake](https://open.spotify.com/track/11p1Pf5SQjJBWD8NkyyYKM) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/2ln3J4rzNtWmGnpCBDfZ7m) | 5:24 | 2023-05-08 |  |
+| [The Lake](https://open.spotify.com/track/11p1Pf5SQjJBWD8NkyyYKM) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/2ln3J4rzNtWmGnpCBDfZ7m) | 5:24 | 2023-05-08 | 2024-06-22 |
 | [The Lake](https://open.spotify.com/track/1kRvMfo4lmzxstmbozPm4N) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/336G74NrqpBt6A3cXEoUg7) | 5:24 | 2022-10-26 | 2023-03-27 |
 | [The Magic Knot Waltz](https://open.spotify.com/track/3G3Q3zWECE6DUjIN0iAhb2) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The Padova Concert](https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW) | 5:27 | 2022-11-29 | 2024-04-04 |
 | [The Maze](https://open.spotify.com/track/5xXo8JZnrqRZBaj1yKh1z2) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Paul Dresher Ensemble](https://open.spotify.com/artist/59OLF0W5mXpXwjfnAhpIWF) | [Banana Humberto](https://open.spotify.com/album/4F8QZyltxqZJXe7UtvWGBY) | 7:32 | 2023-05-29 | 2023-05-31 |

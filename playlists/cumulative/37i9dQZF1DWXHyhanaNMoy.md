@@ -2,7 +2,7 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion en good vibes\. Superster: Alessio
+> Motion en good vibes\. Superster: Yssi SB
 
 1,017 songs - 1 day 21 hr 48 min
 

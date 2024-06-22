@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Iliona",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: 2Fr\u00e8res",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -740,6 +740,24 @@
       "duration_ms": 245640,
       "name": "40h semaine",
       "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
+    },
+    {
+      "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175842,
+      "name": "42",
+      "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
     },
     {
       "album": {
@@ -5524,7 +5542,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 233026,
       "name": "Boys Will Be Boys",
       "url": "https://open.spotify.com/track/4WJspkXNat2ntN7jJhW0jw"
@@ -12405,6 +12423,28 @@
     },
     {
       "album": {
+        "name": "LA VIE RAPIDE",
+        "url": "https://open.spotify.com/album/1vchjZ82BzXq4eoFZNuFjI"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        },
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143589,
+      "name": "DOUBLE F",
+      "url": "https://open.spotify.com/track/15mTyJg97PpR5GS6MOvVyw"
+    },
+    {
+      "album": {
         "name": "Double Up",
         "url": "https://open.spotify.com/album/6mZZCsVQm53C8Ql4fqMcdD"
       },
@@ -12714,7 +12754,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 224280,
       "name": "Du feu",
       "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
@@ -12834,7 +12874,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 153815,
       "name": "D\u00e9cembre",
       "url": "https://open.spotify.com/track/4BwsCqmONlz8OD9eHWSm64"
@@ -15253,6 +15293,24 @@
     },
     {
       "album": {
+        "name": "JETLAG 2",
+        "url": "https://open.spotify.com/album/6abemPzqR6bOkf5nsO4JMM"
+      },
+      "artists": [
+        {
+          "name": "Misa",
+          "url": "https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "FAM TIES",
+      "url": "https://open.spotify.com/track/37xzMbPe4A5OWYo6IkBKs1"
+    },
+    {
+      "album": {
         "name": "Les autres c\u2019est nous",
         "url": "https://open.spotify.com/album/07WjNDav7akW13k90qeqGw"
       },
@@ -16416,7 +16474,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 156138,
       "name": "fou",
       "url": "https://open.spotify.com/track/3PlgqWBKQ7uItZOS0lACbp"
@@ -16514,7 +16572,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 176701,
       "name": "Freestyle BMF #1",
       "url": "https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji"
@@ -16746,6 +16804,24 @@
       "duration_ms": 202500,
       "name": "Fruit d\u00e9fendu",
       "url": "https://open.spotify.com/track/4dS3ZuMB8PBN0y5nOdQRKN"
+    },
+    {
+      "album": {
+        "name": "Coeur Froid",
+        "url": "https://open.spotify.com/album/47wNVJh9QoFTQxj69gthmw"
+      },
+      "artists": [
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170744,
+      "name": "FTB",
+      "url": "https://open.spotify.com/track/2V36YxLYeTq8vCMsie7h4N"
     },
     {
       "album": {
@@ -19196,7 +19272,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 180880,
       "name": "Il faut que je migre",
       "url": "https://open.spotify.com/track/7eBfWRx7k41ufBTiokl96p"
@@ -21542,7 +21618,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 256389,
       "name": "Je suis tout seul dans l'grenier - \u00c9crite \u00e0 14 ans",
       "url": "https://open.spotify.com/track/6TuY1L0w6vQfRqQwKiE0Te"
@@ -23734,7 +23810,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 272413,
       "name": "La Diff\u00e9rence",
       "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
@@ -24458,7 +24534,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 177612,
       "name": "la punition",
       "url": "https://open.spotify.com/track/2jNg424KCAQH6mRsPbWi0X"
@@ -25407,6 +25483,24 @@
     },
     {
       "album": {
+        "name": "Le Ciel Sur La T\u00eate",
+        "url": "https://open.spotify.com/album/5bMQnBg8l1zzuxrlmRR3yo"
+      },
+      "artists": [
+        {
+          "name": "MikeZup",
+          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178833,
+      "name": "Le Ciel Sur La T\u00eate",
+      "url": "https://open.spotify.com/track/619m8eazjTsTbSbTO8zrWA"
+    },
+    {
+      "album": {
         "name": "Le ciel \u00e9tait blanc / Ribbons",
         "url": "https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1"
       },
@@ -25686,7 +25780,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 157281,
       "name": "Le Lapin",
       "url": "https://open.spotify.com/track/6tnuOeUxeBj4AtAY9RVQKA"
@@ -27028,7 +27122,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 201055,
       "name": "Les Montgolfi\u00e8res",
       "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
@@ -27634,7 +27728,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 189920,
       "name": "Libre",
       "url": "https://open.spotify.com/track/1cxU8Lm89wGrMCcQISzYTf"
@@ -30207,6 +30301,32 @@
     },
     {
       "album": {
+        "name": "1001 Nuits",
+        "url": "https://open.spotify.com/album/4VIP3RkEK6Yb9sjonaRYWA"
+      },
+      "artists": [
+        {
+          "name": "T.K",
+          "url": "https://open.spotify.com/artist/2oIv5lNNTIBLXRDV3eSzDp"
+        },
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256874,
+      "name": "Mean mug",
+      "url": "https://open.spotify.com/track/69VgYJwIP0UiS3WrRUk2W5"
+    },
+    {
+      "album": {
         "name": "MEILLEUR ET MIEUX",
         "url": "https://open.spotify.com/album/2OnXflJw1aJzBNJsSfPaAn"
       },
@@ -31914,7 +32034,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 213333,
       "name": "M\u00e9diterran\u00e9e",
       "url": "https://open.spotify.com/track/4M7YeM5qkR8Kn5ALCC03Te"
@@ -32574,7 +32694,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 142628,
       "name": "No Choice",
       "url": "https://open.spotify.com/track/7FX9fJFJL1BSgrWKZ3zrhX"
@@ -32592,7 +32712,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 153006,
       "name": "NO LACK",
       "url": "https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur"
@@ -32870,6 +32990,24 @@
       "duration_ms": 216386,
       "name": "NOTRE DAME",
       "url": "https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8"
+    },
+    {
+      "album": {
+        "name": "Notre p'tit refrain",
+        "url": "https://open.spotify.com/album/4QuHgOVVO7FMFTMnfDtoUw"
+      },
+      "artists": [
+        {
+          "name": "2Fr\u00e8res",
+          "url": "https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209191,
+      "name": "Notre p'tit refrain",
+      "url": "https://open.spotify.com/track/3IETeJZYbBCT9NIXuIBJ14"
     },
     {
       "album": {
@@ -34596,7 +34734,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 176102,
       "name": "Papercuts",
       "url": "https://open.spotify.com/track/4A2b6v9CmNJsNfykZqawDk"
@@ -36268,7 +36406,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 198506,
       "name": "Places",
       "url": "https://open.spotify.com/track/7L0QKV8kPnp6rfT8XguyN7"
@@ -36772,7 +36910,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 190330,
       "name": "Pomme Z",
       "url": "https://open.spotify.com/track/1kueShAhewtwchYTE8qTrt"
@@ -38742,6 +38880,24 @@
       "duration_ms": 216017,
       "name": "Rap Culinaire",
       "url": "https://open.spotify.com/track/74f8Dy8cuYP09pDg7OOqp5"
+    },
+    {
+      "album": {
+        "name": "Rap Life",
+        "url": "https://open.spotify.com/album/3xj2ik5l4vJGwiMNAHknxU"
+      },
+      "artists": [
+        {
+          "name": "Connaisseur Ticaso",
+          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116691,
+      "name": "Rap Life",
+      "url": "https://open.spotify.com/track/5XtiFaOvTSt0t6RQklZ2cH"
     },
     {
       "album": {
@@ -41512,7 +41668,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 157643,
       "name": "Sentiments",
       "url": "https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx"
@@ -41722,6 +41878,28 @@
       "duration_ms": 206161,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/3CUL5WU1HGJKQmX2QpGi7x"
+    },
+    {
+      "album": {
+        "name": "LVDR",
+        "url": "https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Shayo",
+      "url": "https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso"
     },
     {
       "album": {
@@ -41986,7 +42164,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 188571,
       "name": "Si pr\u00e8s si loin",
       "url": "https://open.spotify.com/track/18KFJSWiPEmwrk6oGy4SiB"
@@ -43883,6 +44061,28 @@
     },
     {
       "album": {
+        "name": "Monolove",
+        "url": "https://open.spotify.com/album/3fbyz48En69AVZPitTU8qA"
+      },
+      "artists": [
+        {
+          "name": "Parazar",
+          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Sur moi",
+      "url": "https://open.spotify.com/track/3KusaCNQdquUZDMDzdStEz"
+    },
+    {
+      "album": {
         "name": "Sur Paname",
         "url": "https://open.spotify.com/album/5dytnNjkoL4lVRZ2GWw7Sp"
       },
@@ -44084,7 +44284,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 219333,
       "name": "T'as vu",
       "url": "https://open.spotify.com/track/4UwPo0uBjGUrL7i7rgnbdY"
@@ -49824,7 +50024,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 182871,
       "name": "YOUNG JEEZY EN 2005",
       "url": "https://open.spotify.com/track/4OGQoWnQEQVxHkOnJq7Lc2"

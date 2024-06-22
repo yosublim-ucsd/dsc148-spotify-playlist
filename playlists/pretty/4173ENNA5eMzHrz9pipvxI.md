@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: GUZ &amp; Millean.
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: LUM!X x Lucas &amp; Steve
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,193 likes - 8 songs - 21 min 15 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,189 likes - 8 songs - 21 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 7 | [Can't Stop Playing \(feat\. Anne Brun\) \[Cian McFeely Remix\]](https://open.spotify.com/track/4vTvus8VUlimhegjaHwPyA) | [DR\. KUCHO!](https://open.spotify.com/artist/263Gr9lGWR6ScnRGjxa3Ad), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Cian McFeely](https://open.spotify.com/artist/6snaEk0NtSZ01uSHQewZDD), [Anne Brun](https://open.spotify.com/artist/36ZqHTWU9KAN4f6CAe2aOD) | [Can't Stop Playing \(feat\. Ane Brun\) \[Cian McFeely Remix\]](https://open.spotify.com/album/4Oawu4apI0zbcSTZAQOAZF) | 2:11 |
 | 8 | [Lotus \(PAROOKAVILLE Anthem 2024\) \- Öwnboss Remix](https://open.spotify.com/track/6RtN4kwFFScEgQbARaYli5) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Lotus \(PAROOKAVILLE Anthem 2024\) \[Öwnboss Remix\]](https://open.spotify.com/album/78aXo0mysOaKgd2qwHEPxj) | 2:45 |
 
-Snapshot ID: `AAAdiNvfO81XHM6m51Eu7qBomJNHjE1N`
+Snapshot ID: `AAAdincsAmlvql6skg5oG84CdJfnZgBH`

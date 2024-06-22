@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. legallyrxx en portada.",
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Kali Uchis en portada.",
   "name": "sentimiento.",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 209680,
       "name": "A M\u00ed",
       "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
+    },
+    {
+      "album": {
+        "name": "Acuerdo",
+        "url": "https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM"
+      },
+      "artists": [
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203470,
+      "name": "Acuerdo",
+      "url": "https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue"
     },
     {
       "album": {
@@ -468,7 +486,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 209307,
       "name": "CERO, DOS",
       "url": "https://open.spotify.com/track/6jSkGlUMfrhidBGTGhdKsN"
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 214000,
       "name": "Febrero Azul",
       "url": "https://open.spotify.com/track/11VHpYlyZsLhYfr66QUzPJ"
@@ -1229,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "INGRATA4 (dime si a\u00fan)",
+        "url": "https://open.spotify.com/album/2ze4ym7uREFXo0nvswNpek"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "INGRATA4 (dime si a\u00fan)",
+      "url": "https://open.spotify.com/track/6PBvW3ndFy2YafGRIniiNZ"
+    },
+    {
+      "album": {
         "name": "La Faca (Feat. Carol Villagr\u00e1n)",
         "url": "https://open.spotify.com/album/66A465PEibTC3MjkOI4Nvw"
       },
@@ -1248,6 +1284,24 @@
       "duration_ms": 198307,
       "name": "La Faca",
       "url": "https://open.spotify.com/track/1JpecUG8sPntakN0orOpgN"
+    },
+    {
+      "album": {
+        "name": "LA FOTO",
+        "url": "https://open.spotify.com/album/7Hm5bpCKmGmuWwoIcQTCFb"
+      },
+      "artists": [
+        {
+          "name": "DOMELIPA",
+          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146031,
+      "name": "LA FOTO",
+      "url": "https://open.spotify.com/track/3M5cksDfuPEF68TZfPr76h"
     },
     {
       "album": {
@@ -1753,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Never Be Yours",
+        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196025,
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
+    },
+    {
+      "album": {
         "name": "Ni 1 Complejo",
         "url": "https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk"
       },
@@ -1906,7 +1978,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 213932,
       "name": "No Fui Capaz",
       "url": "https://open.spotify.com/track/1AVypZ5M1qJGeWQN5uoSfQ"
@@ -2574,7 +2646,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 177532,
       "name": "Pulsiones",
       "url": "https://open.spotify.com/track/41WKZIuNkbyPRy0gj7XpNg"

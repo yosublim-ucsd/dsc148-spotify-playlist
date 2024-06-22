@@ -4,15 +4,15 @@
 
 > 🐰 This Is NewJeans\. The essential tracks, all in one playlist\. 🐇
 
-43 songs - 1 hr 45 min
+45 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\[DANIELLE\] Spoiler on Bunnyland \#1](https://open.spotify.com/track/0mOh0t6IP8L7xgc5TVE7J4) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:11 | 2023-07-21 |  |
-| [\[HAERIN\] Spoiler on Bunnyland \#2](https://open.spotify.com/track/7wCsmqRyZe9pdGeRLD1xw7) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:21 | 2023-07-21 |  |
-| [\[HANNI\] What Bunnies want](https://open.spotify.com/track/4VrlvJPm7tRQKBc1We5uhR) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:18 | 2023-07-21 |  |
-| [\[HYEIN\] Gigantic Spotibunini is coming](https://open.spotify.com/track/2D4mAyZDFK2TaCaXM48kkv) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:14 | 2023-07-21 |  |
-| [\[MINJI\] Find the Gigantic Spotibunini](https://open.spotify.com/track/01vqFhR2lAcee9qj84tUE0) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:15 | 2023-07-21 |  |
+| [\[DANIELLE\] Spoiler on Bunnyland \#1](https://open.spotify.com/track/0mOh0t6IP8L7xgc5TVE7J4) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:11 | 2023-07-21 | 2024-06-22 |
+| [\[HAERIN\] Spoiler on Bunnyland \#2](https://open.spotify.com/track/7wCsmqRyZe9pdGeRLD1xw7) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:21 | 2023-07-21 | 2024-06-22 |
+| [\[HANNI\] What Bunnies want](https://open.spotify.com/track/4VrlvJPm7tRQKBc1We5uhR) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:18 | 2023-07-21 | 2024-06-22 |
+| [\[HYEIN\] Gigantic Spotibunini is coming](https://open.spotify.com/track/2D4mAyZDFK2TaCaXM48kkv) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:14 | 2023-07-21 | 2024-06-22 |
+| [\[MINJI\] Find the Gigantic Spotibunini](https://open.spotify.com/track/01vqFhR2lAcee9qj84tUE0) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:15 | 2023-07-21 | 2024-06-22 |
 | [ASAP](https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:14 | 2023-07-21 |  |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2023-07-21 |  |
 | [Attention \(250 Remix\)](https://open.spotify.com/track/2nW48vXnZZ5EYka46v7GOk) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:01 | 2023-12-21 |  |
@@ -37,7 +37,7 @@
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2023-07-21 |  |
 | [Hype Boy \(250 Remix\)](https://open.spotify.com/track/6CUKsv928uT4561qJovhhG) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 4:11 | 2023-12-21 |  |
 | [Hype Boy \(250 Remix\) \(Instrumental\)](https://open.spotify.com/track/6tU4EeTSSawN9sbfAjWPX4) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 4:11 | 2023-12-21 |  |
-| [Intro\_ Bunnyland](https://open.spotify.com/track/1tLIYUEPkDbKAuQCAIsnja) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:23 | 2023-07-21 |  |
+| [Intro\_ Bunnyland](https://open.spotify.com/track/1tLIYUEPkDbKAuQCAIsnja) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:23 | 2023-07-21 | 2024-06-22 |
 | [Intro\_ This Is NewJeans](https://open.spotify.com/track/5aeLrNV2fRPnfdX8lyOlqd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:06 | 2023-07-21 |  |
 | [Message from NewJeans \(EN\)](https://open.spotify.com/track/5iJJZsK4VAXjgw9dqiBODu) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans Voice Message](https://open.spotify.com/album/0m2mWv63iEFaDskTr9ozqJ) | 0:25 | 2024-05-24 |  |
 | [Message from NewJeans \(JP\)](https://open.spotify.com/track/73xEZ7zDQMEfBvYoDTupTm) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans Voice Message](https://open.spotify.com/album/0m2mWv63iEFaDskTr9ozqJ) | 0:32 | 2024-05-24 |  |
@@ -47,8 +47,10 @@
 | [OMG \(FRNK Remix\)](https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:30 | 2023-12-21 |  |
 | [OMG \(FRNK Remix\) \(Instrumental\)](https://open.spotify.com/track/2oLVT9Lo0SavCNpGw4WfPp) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:30 | 2023-12-21 |  |
 | [Our Night is more beautiful than your Day](https://open.spotify.com/track/11YovYUVkZdLyOFncbecWL) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans X MY DEMON](https://open.spotify.com/album/31chdu7JhVd0sC9X7sURNb) | 3:12 | 2023-11-24 |  |
-| [Outro\_ Message from NewJeans](https://open.spotify.com/track/2XPY4j5oDiu6De1Z4Y9TIO) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:09 | 2023-07-21 |  |
+| [Outro\_ Message from NewJeans](https://open.spotify.com/track/2XPY4j5oDiu6De1Z4Y9TIO) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [This Is NewJeans audio liners](https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw) | 0:09 | 2023-07-21 | 2024-06-22 |
+| [Right Now](https://open.spotify.com/track/58Q3FZFs1YXPpliWQB5kXB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 2:40 | 2024-06-21 |  |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-21 |  |
+| [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-21 |  |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-07-21 |  |
 | [Zero \(J.I.D Remix\)](https://open.spotify.com/track/12Yy0hZrUebGnr3IrppPnW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Zero \(J.I.D Remix\)](https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt) | 3:44 | 2023-07-21 |  |
 

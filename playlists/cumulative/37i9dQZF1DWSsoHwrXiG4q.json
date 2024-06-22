@@ -2401,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/7Dbzh260O4gEQflnbqZg5w"
+      },
+      "artists": [
+        {
+          "name": "Ako Hai",
+          "url": "https://open.spotify.com/artist/0cd60muPbCx96EeKVZfJ5s"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149533,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6tIsWPOswP2yhXxtwXAj2t"
+    },
+    {
+      "album": {
         "name": "The Drift",
         "url": "https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W"
       },

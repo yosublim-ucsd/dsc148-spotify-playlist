@@ -2571,6 +2571,28 @@
     },
     {
       "album": {
+        "name": "Matters To Me",
+        "url": "https://open.spotify.com/album/6nDq0eSPhbgqH6tpvlHlbd"
+      },
+      "artists": [
+        {
+          "name": "Jonathan May",
+          "url": "https://open.spotify.com/artist/3T4VUy3b6j4k7Xuvu5t6mk"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185669,
+      "name": "Matters To Me",
+      "url": "https://open.spotify.com/track/0rAoahjILdVLd7JiF2GGFV"
+    },
+    {
+      "album": {
         "name": "Floyd \"Money\" Mayweather",
         "url": "https://open.spotify.com/album/5yPEvtd93BYHO9CEBzqDgN"
       },
@@ -2910,7 +2932,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 218522,
       "name": "niko therapy",
       "url": "https://open.spotify.com/track/2457sLZDAIfnwMHjXHTjTe"
@@ -3002,6 +3024,32 @@
       "duration_ms": 251120,
       "name": "no limits",
       "url": "https://open.spotify.com/track/642GFCw2GgE1Vc9c3RZjEI"
+    },
+    {
+      "album": {
+        "name": "NO NEW MEMBERS (REMIX)",
+        "url": "https://open.spotify.com/album/3u0kKWvLDxf2xqaPf86t1K"
+      },
+      "artists": [
+        {
+          "name": "4Mr Frank White",
+          "url": "https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6"
+        },
+        {
+          "name": "Fbda1st",
+          "url": "https://open.spotify.com/artist/6XO5pNEKkYmlmKP0Iv7Ohs"
+        },
+        {
+          "name": "DAVAJI",
+          "url": "https://open.spotify.com/artist/4Bikq0D1XG5uJzPR3FNd59"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234115,
+      "name": "NO NEW MEMBERS - REMIX",
+      "url": "https://open.spotify.com/track/0m4Paf3YlG2nsFM8WgOYhv"
     },
     {
       "album": {
@@ -3500,7 +3548,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 134420,
       "name": "Rock Da Mic",
       "url": "https://open.spotify.com/track/2KWZbfHQ2u9V09QiCnAL00"

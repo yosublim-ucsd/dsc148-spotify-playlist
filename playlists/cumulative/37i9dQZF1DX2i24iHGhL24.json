@@ -1489,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/5n55TYeWtckwrfOc8jUyjN"
+      },
+      "artists": [
+        {
+          "name": "Rachel Lorin",
+          "url": "https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181058,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/1SoQtOBmEaGLFmzr8e0DCf"
+    },
+    {
+      "album": {
         "name": "Chiquitita",
         "url": "https://open.spotify.com/album/40GDrRCewlZHmwWK9p04vw"
       },

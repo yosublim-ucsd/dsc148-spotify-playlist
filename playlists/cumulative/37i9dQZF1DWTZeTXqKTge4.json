@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: HALO",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Rymz",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 192333,
       "name": "Bando",
       "url": "https://open.spotify.com/track/6cdv3hsd42vgkyGloyPSRl"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 179200,
       "name": "Bandz",
       "url": "https://open.spotify.com/track/2rlEaQFrTtQ0f0PaYWl9A2"
@@ -2993,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Conscious Rapper",
+        "url": "https://open.spotify.com/album/4D0XzP2BdjFmTBXRZWOXce"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214442,
+      "name": "Conscious Rapper",
+      "url": "https://open.spotify.com/track/6eOF8UldTq4hw1OePXRchT"
+    },
+    {
+      "album": {
         "name": "Contrefa\u00e7on",
         "url": "https://open.spotify.com/album/7EyGDWGVFvIOFxXFTDmVoP"
       },
@@ -3768,6 +3786,28 @@
       "duration_ms": 171147,
       "name": "DOUBLE BLOODY TEQUILA SPICY",
       "url": "https://open.spotify.com/track/35CT6vQO2llkhyUcDOMADH"
+    },
+    {
+      "album": {
+        "name": "LA VIE RAPIDE",
+        "url": "https://open.spotify.com/album/1vchjZ82BzXq4eoFZNuFjI"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        },
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143589,
+      "name": "DOUBLE F",
+      "url": "https://open.spotify.com/track/15mTyJg97PpR5GS6MOvVyw"
     },
     {
       "album": {
@@ -4955,6 +4995,24 @@
     },
     {
       "album": {
+        "name": "Coeur Froid",
+        "url": "https://open.spotify.com/album/47wNVJh9QoFTQxj69gthmw"
+      },
+      "artists": [
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170744,
+      "name": "FTB",
+      "url": "https://open.spotify.com/track/2V36YxLYeTq8vCMsie7h4N"
+    },
+    {
+      "album": {
         "name": "FTG",
         "url": "https://open.spotify.com/album/1glTvN8B0pM2VY33CJnT9v"
       },
@@ -5484,7 +5542,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 140982,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/5DH1e07zNFKlX5EQZF7sns"
@@ -7787,6 +7845,32 @@
     },
     {
       "album": {
+        "name": "1001 Nuits",
+        "url": "https://open.spotify.com/album/4VIP3RkEK6Yb9sjonaRYWA"
+      },
+      "artists": [
+        {
+          "name": "T.K",
+          "url": "https://open.spotify.com/artist/2oIv5lNNTIBLXRDV3eSzDp"
+        },
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256874,
+      "name": "Mean mug",
+      "url": "https://open.spotify.com/track/69VgYJwIP0UiS3WrRUk2W5"
+    },
+    {
+      "album": {
         "name": "Medellin",
         "url": "https://open.spotify.com/album/7eL1wgRVBa0V9BGKc27WTa"
       },
@@ -7798,7 +7882,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 155076,
       "name": "Medellin",
       "url": "https://open.spotify.com/track/5newxLHLBwAGDYsCVds8Eu"
@@ -9218,7 +9302,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 233513,
       "name": "ORIGINAL FINESSEUR",
       "url": "https://open.spotify.com/track/2rSKV180yMV8T4goCCFq8k"
@@ -10021,6 +10105,28 @@
     },
     {
       "album": {
+        "name": "POW-WOW",
+        "url": "https://open.spotify.com/album/3cUB4TxIswGJwKgEj5j9YC"
+      },
+      "artists": [
+        {
+          "name": "Samian",
+          "url": "https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6"
+        },
+        {
+          "name": "DJ Horg",
+          "url": "https://open.spotify.com/artist/2KqmShIrj1DYdVI9jgvURR"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153573,
+      "name": "POW-WOW",
+      "url": "https://open.spotify.com/track/4sgpAJeFKDyC01qLawb1mn"
+    },
+    {
+      "album": {
         "name": "VOLUME : Nuit",
         "url": "https://open.spotify.com/album/6h0VpErsCdTGbIGhMM4htX"
       },
@@ -10244,7 +10350,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 203368,
       "name": "Prot\u00e9ger et Servir",
       "url": "https://open.spotify.com/track/3CsD5Pl7fVItNzxuQ5rwYm"
@@ -10574,6 +10680,24 @@
       "duration_ms": 178330,
       "name": "Rap Buffet",
       "url": "https://open.spotify.com/track/24nKsih3Sh5CkKICiwJ4jO"
+    },
+    {
+      "album": {
+        "name": "Rap Life",
+        "url": "https://open.spotify.com/album/3xj2ik5l4vJGwiMNAHknxU"
+      },
+      "artists": [
+        {
+          "name": "Connaisseur Ticaso",
+          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116691,
+      "name": "Rap Life",
+      "url": "https://open.spotify.com/track/5XtiFaOvTSt0t6RQklZ2cH"
     },
     {
       "album": {
@@ -11883,6 +12007,28 @@
     },
     {
       "album": {
+        "name": "Monolove",
+        "url": "https://open.spotify.com/album/3fbyz48En69AVZPitTU8qA"
+      },
+      "artists": [
+        {
+          "name": "Parazar",
+          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Sur moi",
+      "url": "https://open.spotify.com/track/3KusaCNQdquUZDMDzdStEz"
+    },
+    {
+      "album": {
         "name": "Long jeu",
         "url": "https://open.spotify.com/album/2zqvZE31krmWJ1oDPKQRx8"
       },
@@ -12104,7 +12250,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 217674,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/3bKLR7Mc0SNBTBuN8OYPrj"

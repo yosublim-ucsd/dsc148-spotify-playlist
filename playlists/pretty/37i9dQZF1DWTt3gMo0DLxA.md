@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Kalki 2898 Ad
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,574 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,854 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Telugu\)](https://open.spotify.com/track/5kNydYWkUyXh4zVoy8QDmC) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Deepak Blue](https://open.spotify.com/artist/6n7qbMaXMDg5volEeeB9Ao), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Telugu\)](https://open.spotify.com/album/1NhxK8JrKi6H4jjTEZgheV) | 2:43 |
+| 1 | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Telugu\)](https://open.spotify.com/track/5kNydYWkUyXh4zVoy8QDmC) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Telugu\)](https://open.spotify.com/album/1NhxK8JrKi6H4jjTEZgheV) | 2:43 |
 | 2 | [Sooseki \(From "Pushpa 2 The Rule"\) \[TELUGU\]](https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Sooseki \(From "Pushpa 2 The Rule"\) \[TELUGU\]](https://open.spotify.com/album/7gzl2DEz4LGnwM1qr5UIP5) | 4:20 |
 | 3 | [Ika Na Maate](https://open.spotify.com/track/6OvAHfLLdqmNTmqOKMBsx3) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Manamey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aj78D2jBeddhoWMm73HFZ) | 3:04 |
 | 4 | [Fear Song \(From "Devara Part 1"\) \[Telugu\]](https://open.spotify.com/track/6b2WJDzGt5X8dYfpkWtvXW) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Fear Song \(From "Devara Part 1"\) \[Telugu\]](https://open.spotify.com/album/1OO05SXoc1JTyvGbxi75Pm) | 3:15 |

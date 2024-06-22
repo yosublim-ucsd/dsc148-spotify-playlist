@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AbUl4gAAAACOxH6r7xobbYdG5Inr8UKb",
+  "snapshot_id": "AbUrggAAAAALGSVbo1+H1t8m6cJk8aIp",
   "tracks": [
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "ASTROWORLD",
         "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
@@ -25,7 +25,43 @@
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "HIGHEST IN THE ROOM",
+        "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "HIGHEST IN THE ROOM",
+      "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "High Off Life",
+        "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237918,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/1K5KBOgreBi5fkEHvg5ap3"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Dark Lane Demo Tapes",
         "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
@@ -41,7 +77,27 @@
       "url": "https://open.spotify.com/track/466cKvZn1j45IpxDdYZqdA"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 291175,
+      "name": "Fair Trade (with Travis Scott)",
+      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
@@ -61,7 +117,23 @@
       "url": "https://open.spotify.com/track/1sbEeUY8KsdvgiQi26JBFz"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
@@ -81,7 +153,7 @@
       "url": "https://open.spotify.com/track/3gruCKVuhCsRjs3a3dG8CA"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -97,7 +169,7 @@
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "A Love Letter To You 3",
         "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
@@ -117,7 +189,7 @@
       "url": "https://open.spotify.com/track/0axBgt9y0GvMCLuRl2xBKG"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -137,7 +209,7 @@
       "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
@@ -153,7 +225,27 @@
       "url": "https://open.spotify.com/track/248OFOZef6ShXv6DGgbnxU"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Champion (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6nO3tr47nr2P7f3hXb8JIo"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Dark Lane Demo Tapes",
         "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
@@ -169,7 +261,7 @@
       "url": "https://open.spotify.com/track/5H4mXWKcicuLKDn4Jy0sK7"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
@@ -197,7 +289,27 @@
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 261543,
+      "name": "On BS",
+      "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -213,7 +325,91 @@
       "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "ESCAPE PLAN / MAFIA",
+        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "LoVE me NOw (ReLoAdeD)",
+        "url": "https://open.spotify.com/album/0RK6vpJWuCZpNWNdRJ8rpY"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 173926,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/7EAaSaj1OgZgMX5yZyFXFC"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "LIFE'S A TRIP",
+        "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 116680,
+      "name": "Shake It Up",
+      "url": "https://open.spotify.com/track/2bTRpIxPniQmrSgwmtF1b2"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 228461,
+      "name": "Love All (with JAY-Z)",
+      "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 180953,
+      "name": "Lost Me",
+      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "A Love Letter To You 3",
         "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
@@ -229,7 +425,7 @@
       "url": "https://open.spotify.com/track/1gAxoOzwsjcxmluS0Fjjd8"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Huncho Jack, Jack Huncho",
         "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
@@ -257,7 +453,7 @@
       "url": "https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "LoVE me NOw (ReLoAdeD)",
         "url": "https://open.spotify.com/album/0RK6vpJWuCZpNWNdRJ8rpY"
@@ -277,7 +473,7 @@
       "url": "https://open.spotify.com/track/0Z1nbG2KOuRKntstSAkSox"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Port of Miami 2",
         "url": "https://open.spotify.com/album/1mgw5rbUS94uif2ce9QCf0"
@@ -297,7 +493,7 @@
       "url": "https://open.spotify.com/track/1rX5L6pyl3rVWb55D8Cprr"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
@@ -313,7 +509,7 @@
       "url": "https://open.spotify.com/track/6AIccJIWHGK26xi34FAkwl"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "LIFE'S A TRIP",
         "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
@@ -329,7 +525,7 @@
       "url": "https://open.spotify.com/track/5uPvflN6t4ORihIjTHIQOu"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -349,7 +545,27 @@
       "url": "https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 198848,
+      "name": "Peta (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/4bl1HBZliBuYpFZjWgefE4"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Birds In The Trap Sing McKnight",
         "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
@@ -365,7 +581,7 @@
       "url": "https://open.spotify.com/track/33zbOXJSwW7uf4VXXWow2O"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -385,7 +601,7 @@
       "url": "https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
@@ -405,7 +621,35 @@
       "url": "https://open.spotify.com/track/6irE4Fbjbry3czv7mTxVSB"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "High Off Life",
+        "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 314760,
+      "name": "Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",
+      "url": "https://open.spotify.com/track/4Qd0pa3JO76UEwhos9JmN0"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
@@ -421,7 +665,27 @@
       "url": "https://open.spotify.com/track/6SWHTMywuTXLFlMQ75cAuu"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 180098,
+      "name": "Treacherous Twins",
+      "url": "https://open.spotify.com/track/4Flfb4fGscN9kXPOduQLrv"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Bobby Tarantino II",
         "url": "https://open.spotify.com/album/4F87p1aiFwHeU4uu65MaPV"
@@ -437,7 +701,7 @@
       "url": "https://open.spotify.com/track/7u90MSvVyEjL0c8icaE7jl"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -453,7 +717,23 @@
       "url": "https://open.spotify.com/track/410TZrK18uRjtsTunG14cl"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Cutting Ties",
+        "url": "https://open.spotify.com/album/5wy7JKTWa3JRjvQT7cWOcq"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 261703,
+      "name": "Cutting Ties",
+      "url": "https://open.spotify.com/track/6lJ5aSxKHCwNBoWkZT3JeJ"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Wildest Dreams",
         "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
@@ -473,7 +753,23 @@
       "url": "https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "A Love Letter To You 3",
+        "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Can't Love",
+      "url": "https://open.spotify.com/track/1iZg40RiFZNlX52QDlf9oz"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
@@ -505,7 +801,43 @@
       "url": "https://open.spotify.com/track/4nw0S8MtvcLSpXCS9M8ciL"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 155154,
+      "name": "Fear Of Heights",
+      "url": "https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "WUNNA (Deluxe)",
+        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "RELENTLESS (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/6nDSLDomNqfet6w0r1GHAz"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "The Best In The World Pack",
         "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
@@ -521,7 +853,7 @@
       "url": "https://open.spotify.com/track/3kCwyvhvVTyehIzYN2I0nF"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Wow... That's Crazy",
         "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
@@ -541,7 +873,7 @@
       "url": "https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "LIFE'S A TRIP",
         "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
@@ -557,7 +889,7 @@
       "url": "https://open.spotify.com/track/51dPQyVG0gSxrgybhR7Pxi"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
@@ -577,7 +909,71 @@
       "url": "https://open.spotify.com/track/52lJC8UndX32dECyJlRGSJ"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Slime Language 2",
+        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+      },
+      "artists": [
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        }
+      ],
+      "duration_ms": 174413,
+      "name": "Came and Saw (feat. Rowdy Rebel)",
+      "url": "https://open.spotify.com/track/3GkEnNf2RWmdwkA2FfjQ3g"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "DC4",
+        "url": "https://open.spotify.com/album/6sNbRwX0lZREkdmUSDsVzo"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 255483,
+      "name": "Offended (feat. Young Thug & 21 Savage)",
+      "url": "https://open.spotify.com/track/40WxFAbt8UEK7jKLmIxRNY"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 303030,
+      "name": "PEACE OF MIND",
+      "url": "https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Bobby Tarantino II",
         "url": "https://open.spotify.com/album/4F87p1aiFwHeU4uu65MaPV"
@@ -593,7 +989,103 @@
       "url": "https://open.spotify.com/track/2ycWek3FNNVHBhz2TcnOzZ"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "A Love Letter To You 3",
+        "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 142648,
+      "name": "Loyalty Before Royalty",
+      "url": "https://open.spotify.com/track/3smqlcU3WHhzAKNbfFRi3w"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 178328,
+      "name": "3AM on Glenwood",
+      "url": "https://open.spotify.com/track/1MTXYvJ9TSqg9x6WPCDx2n"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/2trqp8gTJ1MMmY9HoKqO2y"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 102672,
+      "name": "Lil Wayne",
+      "url": "https://open.spotify.com/track/6eVBRZLvCzfAzvAi99mz8f"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "LIFE'S A TRIP",
+        "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 164334,
+      "name": "UKA UKA",
+      "url": "https://open.spotify.com/track/0ZvmYnvf4OvqXcs8pOZn2e"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Dark Lane Demo Tapes",
+        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 271183,
+      "name": "Losses",
+      "url": "https://open.spotify.com/track/6fLVTVaHWaEfVKfEgbkf4D"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "The Beautiful & Damned",
+        "url": "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/0HXhk04CE4fE2Xr387TET3"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "The Return of East Atlanta Santa",
         "url": "https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB"
@@ -613,7 +1105,23 @@
       "url": "https://open.spotify.com/track/05l55Q5FpHrMs06JoYcmrR"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Me Likey",
+        "url": "https://open.spotify.com/album/1ppOr1I16YBkpE2LIs3nUn"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 161110,
+      "name": "Me Likey",
+      "url": "https://open.spotify.com/track/37jZYQS8JGJGacgO5bKAYa"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
@@ -629,7 +1137,7 @@
       "url": "https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "B-Sides",
         "url": "https://open.spotify.com/album/2C6M7W3XuPMko8hacm8Ibo"
@@ -649,7 +1157,55 @@
       "url": "https://open.spotify.com/track/7F8HytQB1qAku7ZXTIhcYe"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "FREE 6LACK",
+        "url": "https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Rules",
+      "url": "https://open.spotify.com/track/6HmWy7ttkeZGG2KEtt8AqX"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "LIFE'S A TRIP",
+        "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "Gore",
+      "url": "https://open.spotify.com/track/6Xb2iLlSfxsvOjM3J5y0dD"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "A Love Letter To You 3",
+        "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 138448,
+      "name": "Wicked",
+      "url": "https://open.spotify.com/track/5mFnYgPkEpr2eoMqvSOXQe"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
@@ -673,7 +1229,27 @@
       "url": "https://open.spotify.com/track/0zP8VSgyYSVqrSXTYTn9Su"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Nuthin' 2 Prove",
+        "url": "https://open.spotify.com/album/4qplno3lbet8WvuTGdDG3T"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 301395,
+      "name": "Forever World (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/1tKvqOrnJ0zhAuFS6yfNTk"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "A Love Letter To You 3",
         "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
@@ -693,7 +1269,67 @@
       "url": "https://open.spotify.com/track/5pEp4XIoJminFDCAfmqdY5"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 222642,
+      "name": "Poison (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/1hs54MGy1J69I52GvzsrbB"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "DC4",
+        "url": "https://open.spotify.com/album/6sNbRwX0lZREkdmUSDsVzo"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Lil Snupe",
+          "url": "https://open.spotify.com/artist/42FaEHFfyxTdZQ5W28dXnj"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 298079,
+      "name": "Outro (feat. Lil Snupe & French Montana)",
+      "url": "https://open.spotify.com/track/0j16JpJCRdWs9qhuuDKodi"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/2trqp8gTJ1MMmY9HoKqO2y"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "Throw It Away",
+      "url": "https://open.spotify.com/track/3Sg0ultAzNlsxldzGgwY1c"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Bad Habits (Deluxe)",
         "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
@@ -709,7 +1345,7 @@
       "url": "https://open.spotify.com/track/0iIUmsrVL2sgGnX33oDsC7"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "The Beautiful & Damned",
         "url": "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b"
@@ -725,7 +1361,43 @@
       "url": "https://open.spotify.com/track/1lOvSqQIVIkNaDZlt645d0"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Young HeartThrob",
+        "url": "https://open.spotify.com/album/7lmS1zDxOuTlJrJ8C1NHEW"
+      },
+      "artists": [
+        {
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Love & Drugz II (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/26QVqZltLT8ZlqxdNDc2fA"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/2trqp8gTJ1MMmY9HoKqO2y"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 196861,
+      "name": "Be Yourself",
+      "url": "https://open.spotify.com/track/3MPu3soFtbM0knK5i81kK3"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Give Or Take",
         "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
@@ -741,7 +1413,7 @@
       "url": "https://open.spotify.com/track/1Ky8xo7X6SeebLT1Co4RXX"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "A Love Letter To You 3",
         "url": "https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna"
@@ -761,7 +1433,7 @@
       "url": "https://open.spotify.com/track/2zPjy2qSgfQPBcdBztVmMe"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Kanye West Presents Good Music Cruel Summer",
         "url": "https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn"
@@ -789,7 +1461,23 @@
       "url": "https://open.spotify.com/track/6uG4BxL4qqSIOXfEiGdpBf"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Heartbreak on a Full Moon",
+        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 178787,
+      "name": "This Ain't",
+      "url": "https://open.spotify.com/track/5WAOIxI6GVlUl27aLdVNJD"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Culture III",
         "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
@@ -805,7 +1493,7 @@
       "url": "https://open.spotify.com/track/3JjjOjwcvUKjt7AnJxBjUV"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Top Off",
         "url": "https://open.spotify.com/album/6LtcX6WFzp6mrRzL7bBZRL"
@@ -825,7 +1513,27 @@
       "url": "https://open.spotify.com/track/2jWVQdbJ2bCNlBRBATYQl7"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Miseducation (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/7LkyxPOg9v13qCJMAyaW7o"
+      },
+      "artists": [
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Miseducation (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/26jblnixKDcidyOQV2UYi4"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
@@ -841,7 +1549,39 @@
       "url": "https://open.spotify.com/track/2A3rpB8ZDbBG7ecVUDIcsE"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "The Uber Song",
+        "url": "https://open.spotify.com/album/0ZGvbOurEuFF3nqbGwoaa9"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 234143,
+      "name": "The Uber Song",
+      "url": "https://open.spotify.com/track/5aUmQKLTmVHwPMoyhgrd8p"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 105066,
+      "name": "BIG DAWG",
+      "url": "https://open.spotify.com/track/28wtiGfwWVdxbZDW52S3kz"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "LOVE MY LIFE",
         "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
@@ -861,7 +1601,7 @@
       "url": "https://open.spotify.com/track/3DCe9Tj1KsZ1K9iQh8uNQF"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Big Baby DRAM (Deluxe Version)",
         "url": "https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV"
@@ -881,7 +1621,43 @@
       "url": "https://open.spotify.com/track/2nA9k5r4tGS720wHL8W6Ip"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Bless Yo Trap",
+        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
+      },
+      "artists": [
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Big Dope",
+      "url": "https://open.spotify.com/track/2MdMP2y5mCkGVnp3DkbJ8b"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 120240,
+      "name": "HOP OUT THE VAN",
+      "url": "https://open.spotify.com/track/6Ez0uo35BcJ7TaknGDnH5v"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Spiral: From The Book of Saw Soundtrack",
         "url": "https://open.spotify.com/album/5gTisM7GUr1idB1UL3Yva6"
@@ -897,7 +1673,23 @@
       "url": "https://open.spotify.com/track/21t8Edns1aUrUC8nMl0KZM"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Came Up",
+        "url": "https://open.spotify.com/album/7f22HnE6AmI4cFtPu1PmHj"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 161408,
+      "name": "Came Up",
+      "url": "https://open.spotify.com/track/4SnvJDymo0LkkuFNNLemQl"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "No Dope On Sundays",
         "url": "https://open.spotify.com/album/5sU40ix3D2JI8ERh4L0nIF"
@@ -917,7 +1709,59 @@
       "url": "https://open.spotify.com/track/57Oj1BIV9A36qCEdKHAxiA"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "duration_ms": 163600,
+      "name": "DOPE BOY (feat. Young Nudy)",
+      "url": "https://open.spotify.com/track/1lLl9Wu4ULpHaLYypCwoi9"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Songs For You",
+        "url": "https://open.spotify.com/album/6WrqA9shYRYrelq2CLQf05"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 165289,
+      "name": "Story Of Us",
+      "url": "https://open.spotify.com/track/1IkzUw8dx0h6dgLGfJib0X"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Big Baby DRAM (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 116804,
+      "name": "I Have a Dream",
+      "url": "https://open.spotify.com/track/4wTBoTjp7S73BrKOM54WMd"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Jesus Said Run It Back",
         "url": "https://open.spotify.com/album/5re3HEZOWB9F7QaHnKOgvA"
@@ -937,7 +1781,7 @@
       "url": "https://open.spotify.com/track/6AccToiKhDvl8AH0gRJSlt"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Since I Have A Lover",
         "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
@@ -953,7 +1797,27 @@
       "url": "https://open.spotify.com/track/3Ii0BOEdzFjnmSkEmoAY9g"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "NO RAP KAP (feat. Trippie Redd)",
+        "url": "https://open.spotify.com/album/1FCEeTgrrUizTXaNhpHNuC"
+      },
+      "artists": [
+        {
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 215261,
+      "name": "NO RAP KAP (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/2sIottAN4ZxxxlaZAh0oxR"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Body & A Face",
         "url": "https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J"
@@ -969,7 +1833,7 @@
       "url": "https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "I'm Brain",
         "url": "https://open.spotify.com/album/72LtgvLkAE4UBIqgnVDxjS"
@@ -989,7 +1853,67 @@
       "url": "https://open.spotify.com/track/6p24ODEmUhxCPblHgoZZ25"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Boy Who Cried Wolf",
+        "url": "https://open.spotify.com/album/6jJ98MlrNGUt0FFkPHS0EA"
+      },
+      "artists": [
+        {
+          "name": "Wifisfuneral",
+          "url": "https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV"
+        },
+        {
+          "name": "458 Keyz",
+          "url": "https://open.spotify.com/artist/0xfAmskhB3i5wX3pRpHbkD"
+        },
+        {
+          "name": "Cris Dinero",
+          "url": "https://open.spotify.com/artist/43DjZHwU6QHD1TVxA9JWfN"
+        }
+      ],
+      "duration_ms": 172460,
+      "name": "Wrist Motion (feat. 458 Keyz & Cris Dinero)",
+      "url": "https://open.spotify.com/track/7rFdmkJd5RAEO8g3fMzykb"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "The Love Album: Off The Grid",
+        "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 262013,
+      "name": "Tough Love",
+      "url": "https://open.spotify.com/track/4TGLRG5aA6iP2ndWN627S6"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "RSS2",
+        "url": "https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Die In It",
+      "url": "https://open.spotify.com/track/7l0ZJgT7qivX45J0D9fgKf"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "LOVE MY LIFE",
         "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
@@ -1005,7 +1929,43 @@
       "url": "https://open.spotify.com/track/78aTQcyx9rwYv0d5mpxGJX"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Don Talk",
+        "url": "https://open.spotify.com/album/3DZBQwtLEZSiuWXYAjLdbZ"
+      },
+      "artists": [
+        {
+          "name": "Don Q",
+          "url": "https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 189295,
+      "name": "Head Tap (feat. Tee Grizzley)",
+      "url": "https://open.spotify.com/track/15oUNnj8unqJJlbYbH1dAs"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Sremm 4 Life",
+        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 197301,
+      "name": "Something I'm Not",
+      "url": "https://open.spotify.com/track/2BSU3Sh8K5Jc9CwHkMTgGX"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "LOVE MY LIFE",
         "url": "https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y"
@@ -1021,7 +1981,43 @@
       "url": "https://open.spotify.com/track/2q1UohI917QXdb0YiLWHzy"
     },
     {
-      "added_at": "2024-06-20 02:10:07",
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "winter in atlanta (feat. Russ)",
+        "url": "https://open.spotify.com/album/0RhMMo9vL1J97K3dB8ZlxC"
+      },
+      "artists": [
+        {
+          "name": "NJOMZA",
+          "url": "https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "winter in atlanta (feat. Russ)",
+      "url": "https://open.spotify.com/track/1WpLR5d5anuE61EwlT6da8"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/5D8kaq2gEsI1zaha675eIy"
+      },
+      "artists": [
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "See What You On",
+      "url": "https://open.spotify.com/track/6GE4SSFlEpdLCSOLyXeBOh"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
       "album": {
         "name": "Killing Roses",
         "url": "https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU"
@@ -1035,6 +2031,22 @@
       "duration_ms": 157241,
       "name": "Ungrateful",
       "url": "https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW"
+    },
+    {
+      "added_at": "2024-06-21 02:10:05",
+      "album": {
+        "name": "Killing Roses",
+        "url": "https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU"
+      },
+      "artists": [
+        {
+          "name": "Just Chase",
+          "url": "https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "Know Better",
+      "url": "https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE"
     }
   ],
   "unique_name": "Written By OZ",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:2miffAnnUvKSyB9ykA2su9\">Living</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:2ayNSoKPCRAfjp6hQ76hRu\">Nacho</a>, <a href=\"spotify:artist:0WI8OfWCRvK4nGHmKfFQmd\">Alex Zurdo</a> , y <a href=\"spotify:artist:0WZOmdnCln6FK6GM9e2tGm\">Redimi2</a>  ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 298509,
       "name": "A Qui\u00e9n Iremos",
       "url": "https://open.spotify.com/track/4CcH3kekkWh9KI2QfZqG3J"
@@ -565,6 +565,28 @@
     },
     {
       "album": {
+        "name": "Al Que Tenga O\u00eddos",
+        "url": "https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        },
+        {
+          "name": "George De Le\u00f3n Jr.",
+          "url": "https://open.spotify.com/artist/0QbSM8Sv2J74SJde00kZKZ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283425,
+      "name": "Al Que Tenga O\u00eddos",
+      "url": "https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F"
+    },
+    {
+      "album": {
         "name": "Al Taller del Maestro",
         "url": "https://open.spotify.com/album/6yI9apND1qvfAoW3I3olhF"
       },
@@ -588,6 +610,32 @@
       "duration_ms": 324725,
       "name": "Al Taller del Maestro",
       "url": "https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA"
+    },
+    {
+      "album": {
+        "name": "Alabar\u00e9",
+        "url": "https://open.spotify.com/album/4pWVrEzaIEMdaMLBiZ6mc2"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178413,
+      "name": "Alabar\u00e9",
+      "url": "https://open.spotify.com/track/5NZurbKSdSrGdfSsx9Q25t"
     },
     {
       "album": {
@@ -938,7 +986,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 208738,
       "name": "Am\u00e9n",
       "url": "https://open.spotify.com/track/2lgIUOpqLN1UkuL0FPtx8b"
@@ -1498,7 +1546,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 227694,
       "name": "Bendito Amor",
       "url": "https://open.spotify.com/track/5bLt725KjALgMBuemRHcTD"
@@ -6241,6 +6289,24 @@
     },
     {
       "album": {
+        "name": "Le\u00f3n",
+        "url": "https://open.spotify.com/album/0pOrbTQTON7qWYZZbdyt1q"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372423,
+      "name": "Le\u00f3n",
+      "url": "https://open.spotify.com/track/3pt0tMzHZQOY473maaT5sW"
+    },
+    {
+      "album": {
         "name": "LE\u00d3N",
         "url": "https://open.spotify.com/album/1PFy3At4783o15yGZQleWZ"
       },
@@ -6256,6 +6322,28 @@
       "duration_ms": 343244,
       "name": "LE\u00d3N (LION)",
       "url": "https://open.spotify.com/track/4gWEajZcRRCSbxkfkmesA5"
+    },
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/47QUXdsNTNcn2eL65d6yWV"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259368,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/4A9skme3Jq3bpXoMJx1oYd"
     },
     {
       "album": {
@@ -7664,7 +7752,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 200760,
       "name": "Nada Me Falta",
       "url": "https://open.spotify.com/track/5cPNz2RrxEjftzZq20f5uY"
@@ -8306,7 +8394,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 605453,
       "name": "Obra de Tu Amor - (Alfarero)",
       "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
@@ -8346,7 +8434,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 418951,
       "name": "Otra vez",
       "url": "https://open.spotify.com/track/7adfK4ymN04aDhjfBW1IJ6"
@@ -9336,7 +9424,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 413894,
       "name": "Roca Firme - Live",
       "url": "https://open.spotify.com/track/7AW9ceVZ4w0dAQf14LwlKK"
@@ -10762,7 +10850,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 306666,
       "name": "Tienes El Control - Ac\u00fastico, En Vivo",
       "url": "https://open.spotify.com/track/1BTsCk6t5XfCVySWgg4gJX"
@@ -11913,6 +12001,24 @@
     },
     {
       "album": {
+        "name": "Vuela",
+        "url": "https://open.spotify.com/album/3iP4r0Xv2PrkhnMOh9pipO"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186888,
+      "name": "Vuela",
+      "url": "https://open.spotify.com/track/1h4SBBa7WBdzG2dSF4LMTn"
+    },
+    {
+      "album": {
         "name": "Vuelo",
         "url": "https://open.spotify.com/album/5vdIbqun6cWgFXRl5GEobV"
       },
@@ -12358,6 +12464,28 @@
       "duration_ms": 282067,
       "name": "\u00c9l Es Grande",
       "url": "https://open.spotify.com/track/5TGuNIcbnaLPtoH6S7gNNG"
+    },
+    {
+      "album": {
+        "name": "Tu Amor No Tiene Fin",
+        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 616226,
+      "name": "\u00c9l Me Am\u00f3 Primero",
+      "url": "https://open.spotify.com/track/6cn1iz7f2V7MSds6OkjwOF"
     },
     {
       "album": {

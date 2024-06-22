@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do mundo! / Foto: Gloria Groove
+> Grandes hits do BR e do mundo! / Foto: Billie Eilish
 
 297 songs - 14 hr 20 min
 

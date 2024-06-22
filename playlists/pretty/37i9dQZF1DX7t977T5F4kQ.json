@@ -1,6 +1,6 @@
 {
   "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Camidoh",
-  "num_followers": 21202,
+  "num_followers": 21212,
   "original_name": "Ghana Party",
   "owner": {
     "name": "Spotify",
@@ -39,6 +39,26 @@
       "duration_ms": 193472,
       "name": "NLF (Breakfast)",
       "url": "https://open.spotify.com/track/2mIp18bu4PbAFjS58EpEWc"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Obiaa",
+        "url": "https://open.spotify.com/album/3CoATpvAsRF3nbENgCRVr0"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        },
+        {
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Obiaa",
+      "url": "https://open.spotify.com/track/6kvbug8brYmrPrdoE0QkW1"
     },
     {
       "added_at": "2024-06-21 00:01:00",

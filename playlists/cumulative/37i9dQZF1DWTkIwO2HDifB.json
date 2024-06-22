@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "QUERO VER SE VOC\u00ca TEM ATITUDE e os funks mais \ud83d\udd11 do Brasil. Foto: DJ Luan Gomes",
+  "description": "Samba de Malandro e os funks mais \ud83d\udd11 do Brasil. Foto: MC Paulin da Capital",
   "name": "Funk Hits",
   "tracks": [
     {
@@ -3885,6 +3885,48 @@
     },
     {
       "album": {
+        "name": "Melhor Dia 13 - Era Uma Vez",
+        "url": "https://open.spotify.com/album/7pOA35nvimi9SPkyRpQMXL"
+      },
+      "artists": [
+        {
+          "name": "Marcos Baroni",
+          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Tuz\u00e3o",
+          "url": "https://open.spotify.com/artist/3BUXCSctz5IqInc1C8ZTfc"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382222,
+      "name": "Melhor Dia 13 - Era Uma Vez",
+      "url": "https://open.spotify.com/track/0aXHnXG1twZEc7AUGTK4Fo"
+    },
+    {
+      "album": {
         "name": "Melodia Alucin\u00f3gena",
         "url": "https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs"
       },
@@ -6242,7 +6284,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 1113600,
       "name": "Set Dos Casados 2",
       "url": "https://open.spotify.com/track/7KM3s9TZZ3yJDSP9rIkcbc"

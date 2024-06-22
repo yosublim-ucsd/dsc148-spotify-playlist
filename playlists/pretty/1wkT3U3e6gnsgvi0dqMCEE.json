@@ -1,13 +1,29 @@
 {
   "description": "All of your favourites, new favourites, live favourites and unearthed soon to be favourites. For up to date new releases and exclusives from your favourite artists, Follow uDiscover <a href=\"https://udiscoverca.lnk.to/udiscovermusicca\">here</a>",
-  "num_followers": 3769,
+  "num_followers": 3767,
   "original_name": "uDiscover Music Canada",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAB9JXAsP5baPQlaKVMTbGaiunbE9PO",
+  "snapshot_id": "AAAB9qQpZOd4Bonh0ABEzKT/mhqpVPcb",
   "tracks": [
+    {
+      "added_at": "2024-06-21 16:29:43",
+      "album": {
+        "name": "Get Back Again",
+        "url": "https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 250331,
+      "name": "Get Back Again",
+      "url": "https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0"
+    },
     {
       "added_at": "2024-06-14 13:41:59",
       "album": {

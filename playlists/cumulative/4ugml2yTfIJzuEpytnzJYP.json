@@ -1389,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2NWFcWy8nsgEoUBGbufr4X"
+      },
+      "artists": [
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/5GJszyjsdTvv8eFWFTR9ir"
+    },
+    {
+      "album": {
         "name": "Feel The Sound",
         "url": "https://open.spotify.com/album/2aNp5bm1Jt3Mkp3Ua3UUv5"
       },

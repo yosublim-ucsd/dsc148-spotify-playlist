@@ -4,12 +4,13 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kailane Frauches
 
-205 songs - 17 hr 19 min
+206 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Cura do Céu](https://open.spotify.com/track/1X0bDwAikhhYczLtG6Ckp7) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [A Cura do Céu](https://open.spotify.com/album/619OqlqJ59fsZde9KAUUmG) | 4:12 | 2023-09-01 | 2023-09-09 |
 | [A Igreja Vai Rompendo](https://open.spotify.com/track/4dgefmixhra06k2ugKL33e) | [Eliane Silva](https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs) | [A Igreja Vai Rompendo](https://open.spotify.com/album/1t27h2udoKp1zAmS4HBTFe) | 6:15 | 2023-06-23 | 2023-07-08 |
+| [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/2dU1myKI3jBTUL7qihW36S) | [Polyana Martins](https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/1PNy00WY2GINNmKOrMBQEw) | 5:03 | 2024-06-21 |  |
 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur) | 5:14 | 2022-09-09 |  |
 | [A Promessa Não Morreu](https://open.spotify.com/track/3GC0mJbmtadITG1fYwlULf) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [A Promessa Não Morreu](https://open.spotify.com/album/5puMiNpGmxQ5zT35jXdSkG) | 3:28 | 2022-10-15 | 2023-01-14 |
 | [A Resposta](https://open.spotify.com/track/1RQa6blE8nsAR8ks3WmCAz) | [Mirian Santos](https://open.spotify.com/artist/6FEZtazXH0yERl9ymW8BAz) | [A Resposta](https://open.spotify.com/album/4dNcugnVhikloGMv9gQf0W) | 5:51 | 2022-09-09 | 2023-03-18 |
@@ -154,7 +155,7 @@
 | [Prossiga \(feat\. Midian Lima\)](https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Em Meu Coração](https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa) | 4:32 | 2022-09-09 | 2023-03-25 |
 | [Protegido e Garantido](https://open.spotify.com/track/1dkNsd2BGHDlZ41OcKltrD) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Protegido e Garantido](https://open.spotify.com/album/3MxDTD2fl2tG3yOIYqTfll) | 4:31 | 2024-06-14 |  |
 | [Página Virada \- Ao Vivo](https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Página Virada \(Ao Vivo\)](https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD) | 7:03 | 2023-09-01 |  |
-| [Quando Eu Chorar \(Ao Vivo\)](https://open.spotify.com/track/5srjAncqbFFzKcPe5NERkF) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Quando Eu Chorar \(Ao Vivo\)](https://open.spotify.com/album/4rFiQMtLIrea4QbsaKzPgJ) | 4:27 | 2023-09-08 |  |
+| [Quando Eu Chorar \(Ao Vivo\)](https://open.spotify.com/track/5srjAncqbFFzKcPe5NERkF) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Quando Eu Chorar \(Ao Vivo\)](https://open.spotify.com/album/4rFiQMtLIrea4QbsaKzPgJ) | 4:27 | 2023-09-08 | 2024-06-22 |
 | [Que Deus É Esse \- Ao Vivo](https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Que Deus É Esse \(Ao Vivo\)](https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa) | 6:48 | 2023-06-23 |  |
 | [Que Tal](https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Que Tal](https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH) | 5:09 | 2022-09-09 | 2023-09-26 |
 | [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/track/5xs4Sd3O9E7eUxdV0yS4a5) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Quem Abençoa Sou Eu \(Ao Vivo\)](https://open.spotify.com/album/3jv5X3aQQKbTf1J8zS9Xwt) | 4:17 | 2022-09-09 | 2023-02-11 |

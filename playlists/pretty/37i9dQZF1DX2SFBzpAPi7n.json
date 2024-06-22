@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Rolling Quartz(\ub864\ub9c1\ucffc\uce20)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 237987,
+  "num_followers": 238029,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,22 @@
     {
       "added_at": "2024-06-19 06:17:18",
       "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
+        "name": "Lips (Feat. GISELLE)",
+        "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "GISELLE",
+          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
         }
       ],
-      "duration_ms": 188369,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+      "duration_ms": 182693,
+      "name": "Lips (Feat. GISELLE)",
+      "url": "https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2"
     },
     {
       "added_at": "2024-06-19 06:17:18",
@@ -607,22 +611,18 @@
     {
       "added_at": "2024-06-19 06:17:18",
       "album": {
-        "name": "Lips (Feat. GISELLE)",
-        "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
       },
       "artists": [
         {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        },
-        {
-          "name": "GISELLE",
-          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 182693,
-      "name": "Lips (Feat. GISELLE)",
-      "url": "https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2"
+      "duration_ms": 188369,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
     },
     {
       "added_at": "2024-06-19 06:17:18",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-06-19 06:17:18",
       "album": {
-        "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
-        "url": "https://open.spotify.com/album/4FudYqKUtMfgsd8hUaaR3c"
-      },
-      "artists": [
-        {
-          "name": "PARK BYEONG HOON",
-          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
-        }
-      ],
-      "duration_ms": 193502,
-      "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
-      "url": "https://open.spotify.com/track/5RETcV4t3ryURJaRdRU3P6"
-    },
-    {
-      "added_at": "2024-06-19 06:17:18",
-      "album": {
         "name": "Expectation - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
       },
@@ -1127,6 +1111,38 @@
       "duration_ms": 176186,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/6piqcwymeAa2yyqIP8AjNj"
+    },
+    {
+      "added_at": "2024-06-19 06:17:18",
+      "album": {
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+    },
+    {
+      "added_at": "2024-06-19 06:17:18",
+      "album": {
+        "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
+        "url": "https://open.spotify.com/album/4FudYqKUtMfgsd8hUaaR3c"
+      },
+      "artists": [
+        {
+          "name": "PARK BYEONG HOON",
+          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
+        }
+      ],
+      "duration_ms": 193502,
+      "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
+      "url": "https://open.spotify.com/track/5RETcV4t3ryURJaRdRU3P6"
     },
     {
       "added_at": "2024-06-19 06:17:18",
@@ -1147,22 +1163,6 @@
       "duration_ms": 186400,
       "name": "Cheese",
       "url": "https://open.spotify.com/track/6x5mCFqbpUfjAq6Egyjl2c"
-    },
-    {
-      "added_at": "2024-06-19 06:17:18",
-      "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
-      },
-      "artists": [
-        {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
-        }
-      ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2024-06-19 06:17:18",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-06-19 06:17:18",
       "album": {
-        "name": "COLOURS",
-        "url": "https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm"
-      },
-      "artists": [
-        {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
-        }
-      ],
-      "duration_ms": 160680,
-      "name": "But I",
-      "url": "https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ"
-    },
-    {
-      "added_at": "2024-06-19 06:17:18",
-      "album": {
         "name": "Once in a BLUE MOON",
         "url": "https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 199133,
       "name": "AMNESIA",
       "url": "https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr"
+    },
+    {
+      "added_at": "2024-06-19 06:17:18",
+      "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "But I",
+      "url": "https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ"
     },
     {
       "added_at": "2024-06-19 06:17:18",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-06-19 06:17:18",
       "album": {
-        "name": "EXHIBITION : Look Closely",
-        "url": "https://open.spotify.com/album/5eXvNWA29n8vSvflqfDxOB"
-      },
-      "artists": [
-        {
-          "name": "YOOK SUNGJAE",
-          "url": "https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "BE SOMEBODY",
-      "url": "https://open.spotify.com/track/4UibiUi3DvzFYI8EZO1NqC"
-    },
-    {
-      "added_at": "2024-06-19 06:17:18",
-      "album": {
         "name": "ONLY LOVERS LEFT",
         "url": "https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2024-06-19 06:17:18",
       "album": {
-        "name": "TAP - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0"
+        "name": "EXHIBITION : Look Closely",
+        "url": "https://open.spotify.com/album/5eXvNWA29n8vSvflqfDxOB"
       },
       "artists": [
         {
-          "name": "TAEYONG",
-          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+          "name": "YOOK SUNGJAE",
+          "url": "https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9"
         }
       ],
-      "duration_ms": 244293,
-      "name": "404 Loading",
-      "url": "https://open.spotify.com/track/13gq2LImslxP5pdi6nGTjO"
+      "duration_ms": 182786,
+      "name": "BE SOMEBODY",
+      "url": "https://open.spotify.com/track/4UibiUi3DvzFYI8EZO1NqC"
     },
     {
       "added_at": "2024-06-19 06:17:18",
@@ -1627,6 +1611,22 @@
       "duration_ms": 251293,
       "name": "Flowering",
       "url": "https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x"
+    },
+    {
+      "added_at": "2024-06-19 06:17:18",
+      "album": {
+        "name": "TAP - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        }
+      ],
+      "duration_ms": 244293,
+      "name": "404 Loading",
+      "url": "https://open.spotify.com/track/13gq2LImslxP5pdi6nGTjO"
     },
     {
       "added_at": "2024-06-19 06:17:18",

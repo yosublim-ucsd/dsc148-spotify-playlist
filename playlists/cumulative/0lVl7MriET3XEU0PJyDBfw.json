@@ -1951,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Mind Games",
+        "url": "https://open.spotify.com/album/6BBcom41AOXWc7K88JpNcM"
+      },
+      "artists": [
+        {
+          "name": "Houseium",
+          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199687,
+      "name": "Mind Games",
+      "url": "https://open.spotify.com/track/2bfXCTfLhgTuWEQUSlYGEe"
+    },
+    {
+      "album": {
         "name": "Mini Skirt",
         "url": "https://open.spotify.com/album/1ISzGtD2CbUYfdh6jrGNCP"
       },

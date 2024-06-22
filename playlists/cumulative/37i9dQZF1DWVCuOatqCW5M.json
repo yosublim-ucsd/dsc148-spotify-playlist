@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover- OAFF, Savera, Siddhant Chaturvedi",
+  "description": "Latest music from your fav I-Pop artists. Cover- Yasser Desai",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 153064,
       "name": "Aashiqana",
       "url": "https://open.spotify.com/track/3fRsS9bXoq2do1sZsHdVmj"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 206888,
       "name": "Aasman Rootha",
       "url": "https://open.spotify.com/track/4XwRndOut0YbZrXbCSSrYc"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 252000,
       "name": "Barsai Badaria",
       "url": "https://open.spotify.com/track/2AA8EXOjB6XXlx02QBkEAB"
@@ -3614,7 +3614,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 191538,
       "name": "Challeya Ve",
       "url": "https://open.spotify.com/track/3hHnUd6jjaLv73dBErzGSQ"
@@ -5962,7 +5962,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 217021,
       "name": "Duh",
       "url": "https://open.spotify.com/track/4T9MEzjgBKJrpbK8l9BfbP"
@@ -6542,6 +6542,46 @@
       "duration_ms": 255333,
       "name": "Gale Se Laga Lu",
       "url": "https://open.spotify.com/track/6YiMeYvtmcba8ICnaX7CjU"
+    },
+    {
+      "album": {
+        "name": "Gallan Mainu Dasde",
+        "url": "https://open.spotify.com/album/1Bo6DP3QbQ1hua1IoYDAtp"
+      },
+      "artists": [
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186451,
+      "name": "Gallan Mainu Dasde",
+      "url": "https://open.spotify.com/track/2jDM0etbRgokmEWJcnVmQy"
+    },
+    {
+      "album": {
+        "name": "Gallan Teri",
+        "url": "https://open.spotify.com/album/0Wyy2kj0qHsBqENjKwYB5n"
+      },
+      "artists": [
+        {
+          "name": "Narci",
+          "url": "https://open.spotify.com/artist/3b9iVRjKkiC4oIHXB7pbzJ"
+        },
+        {
+          "name": "Ashwini Vocals",
+          "url": "https://open.spotify.com/artist/01qu7FisKSgdPhZ77gov1B"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230510,
+      "name": "Gallan Teri",
+      "url": "https://open.spotify.com/track/2YGeG983ShpisQCAPO008h"
     },
     {
       "album": {
@@ -8563,6 +8603,36 @@
     },
     {
       "album": {
+        "name": "Ishq Manayein Kya? (Swing Version)",
+        "url": "https://open.spotify.com/album/3duEJR8jWoBn4VxNstdMin"
+      },
+      "artists": [
+        {
+          "name": "Nihira Joshi Deshpande",
+          "url": "https://open.spotify.com/artist/4cSJs8KQW0qPqIEOyXsWix"
+        },
+        {
+          "name": "Tanmay Pawar",
+          "url": "https://open.spotify.com/artist/4Qu9PfHIpdLX70UfzH3u17"
+        },
+        {
+          "name": "Manoj Yadav",
+          "url": "https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE"
+        },
+        {
+          "name": "Amit Gadgil",
+          "url": "https://open.spotify.com/artist/2EtsvKpqijp1QP2XDwxqoQ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "Ishq Manayein Kya? - Swing Version",
+      "url": "https://open.spotify.com/track/13kUDHNgjDJvrDiVzmj0GH"
+    },
+    {
+      "album": {
         "name": "Ishq Mehfooz (Waiting On You)",
         "url": "https://open.spotify.com/album/5XtBh42V0IlQdnHb8uESbn"
       },
@@ -9852,6 +9922,28 @@
       "duration_ms": 158000,
       "name": "Jogan",
       "url": "https://open.spotify.com/track/0Szj0LBTvfXmxgIXFGqg4H"
+    },
+    {
+      "album": {
+        "name": "Joganiya",
+        "url": "https://open.spotify.com/album/7Eth6YggFvrIRBc0P3RK5v"
+      },
+      "artists": [
+        {
+          "name": "Bharatt-Saurabh",
+          "url": "https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK"
+        },
+        {
+          "name": "Muskaan Tomar",
+          "url": "https://open.spotify.com/artist/6qCgbhhFwCT1Murlb45RKy"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198480,
+      "name": "Joganiya",
+      "url": "https://open.spotify.com/track/6ZouqMMRi1DnOSuvKUZJTW"
     },
     {
       "album": {
@@ -11574,7 +11666,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 276052,
       "name": "Khuda Ke Bandey",
       "url": "https://open.spotify.com/track/19rG00y5Yb4pZ2VqTosMZH"
@@ -15065,6 +15157,28 @@
     },
     {
       "album": {
+        "name": "Nahi Milna",
+        "url": "https://open.spotify.com/album/7bXxnsZqE6Gdmj1TUPRVv7"
+      },
+      "artists": [
+        {
+          "name": "Reena Gilbert",
+          "url": "https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0"
+        },
+        {
+          "name": "Soham Naik",
+          "url": "https://open.spotify.com/artist/6EpZnABzSqvQlgHPhT1QDM"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160780,
+      "name": "Nahi Milna",
+      "url": "https://open.spotify.com/track/0BdyAV1y45mSJEkKzI3msW"
+    },
+    {
+      "album": {
         "name": "Naina",
         "url": "https://open.spotify.com/album/3e7mk0VgLls1ntmmU5mEEf"
       },
@@ -15102,6 +15216,32 @@
       "duration_ms": 215121,
       "name": "Naina Milayke",
       "url": "https://open.spotify.com/track/3ylrAcRTfhiiTDLKInsWr1"
+    },
+    {
+      "album": {
+        "name": "Naina Ro Pade (Futurewave Season 1)",
+        "url": "https://open.spotify.com/album/3eaOFYIfvN9bAVJW4w1UAj"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Gourov Dasgupta",
+          "url": "https://open.spotify.com/artist/3o3G8YHpQHYo70WtJ4Hg8W"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Naina Ro Pade (Futurewave Season 1)",
+      "url": "https://open.spotify.com/track/6I5gy6scGI7GV8KEPBjIH9"
     },
     {
       "album": {
@@ -15736,7 +15876,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 158400,
       "name": "O Re Saavan",
       "url": "https://open.spotify.com/track/5EXcMk9ZlC5UlDU4jSZsm1"
@@ -17097,6 +17237,28 @@
     },
     {
       "album": {
+        "name": "Raat Khamosh",
+        "url": "https://open.spotify.com/album/4n9Q5SXsHl7mBhORFxGhyt"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269571,
+      "name": "Raat Khamosh",
+      "url": "https://open.spotify.com/track/2a0Tf1ljh7ufNajPB5uW1I"
+    },
+    {
+      "album": {
         "name": "Raatan Kaaliyan",
         "url": "https://open.spotify.com/album/5CRx2e8PTzPDpF6LeVYVdq"
       },
@@ -17292,7 +17454,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 172200,
       "name": "Ratiyan",
       "url": "https://open.spotify.com/track/4fm6n0P4tW56eA8zHwX0T2"
@@ -18963,6 +19125,28 @@
     },
     {
       "album": {
+        "name": "Shikayat",
+        "url": "https://open.spotify.com/album/2aeCr9uOhSwvlfYMbz62Lt"
+      },
+      "artists": [
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        },
+        {
+          "name": "Fukra Insaan",
+          "url": "https://open.spotify.com/artist/5lnhW14tZrH3kUMI4kvVy5"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Shikayat",
+      "url": "https://open.spotify.com/track/02PCt6SaYeaObZsz5IQEfI"
+    },
+    {
+      "album": {
         "name": "Shringaar (feat. Milind Soman)",
         "url": "https://open.spotify.com/album/3515DB1ynK7YXiZqABue6p"
       },
@@ -19144,7 +19328,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 213599,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/1tf2iody5iRLYYPDSBpzRc"
@@ -19530,6 +19714,28 @@
       "duration_ms": 185462,
       "name": "Sunoh (From \"The Archies\")",
       "url": "https://open.spotify.com/track/2oNcmoIOlDTBKPh7FzXSAT"
+    },
+    {
+      "album": {
+        "name": "Surme Dani",
+        "url": "https://open.spotify.com/album/5Xl0kVv7tlVGcmOk6tmh0L"
+      },
+      "artists": [
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/1uqKlnRBYNhf9GXt16ysQp"
+        },
+        {
+          "name": "Shambhavi",
+          "url": "https://open.spotify.com/artist/59XpYqZjgZWbjhRge0HdGY"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178203,
+      "name": "Surme Dani",
+      "url": "https://open.spotify.com/track/4WGv6gS3QZ2nn8SFuw4eFo"
     },
     {
       "album": {
@@ -23636,6 +23842,28 @@
       "duration_ms": 183630,
       "name": "Zindagi",
       "url": "https://open.spotify.com/track/1X8tg7QHom6xKCJ8ComZtA"
+    },
+    {
+      "album": {
+        "name": "Zindagi",
+        "url": "https://open.spotify.com/album/6puSCPkPCrYHSMMD1E6LOX"
+      },
+      "artists": [
+        {
+          "name": "Yasser Desai",
+          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        },
+        {
+          "name": "Sanjeev Chaturvedi",
+          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242743,
+      "name": "Zindagi",
+      "url": "https://open.spotify.com/track/3l6dhlzkx7GAFAHgDD1Zy3"
     },
     {
       "album": {

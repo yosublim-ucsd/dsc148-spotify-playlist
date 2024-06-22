@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZMDiBV8toZi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZMDiBV8toZi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZMDiBV8toZi)
 
-### [A day in the studio](https://open.spotify.com/playlist/37i9dQZF1DWZMDiBV8toZi)
+### [A Day in the Studio](https://open.spotify.com/playlist/37i9dQZF1DWZMDiBV8toZi)
 
-> Artists recording in Coke Studio at Spotify LA\. Cover: New Jeans
+> Artists recording in Coke Studio at Spotify LA\. Cover: Karol G
 
-28 songs - 1 hr 29 min
+29 songs - 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Perfect \(feat\. Jessie Reyez & Cat Burns\)](https://open.spotify.com/track/2IcMFRbsnqLFWUUoXKeF3C) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Perfect \(feat\. Jessie Reyez & Cat Burns\)](https://open.spotify.com/album/4AjwiE4u2vFJEu7rSjHSTp) | 3:51 | 2024-05-02 |  |
 | [REAL LIFE \- Ofenbach Remix](https://open.spotify.com/track/638rYJzqbJcWuMwY9yYnYB) | [XIN LIU](https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [REAL LIFE \(Ofenbach Remix\)](https://open.spotify.com/album/1BSP4dSC87v3uW6BCTXqMi) | 2:40 | 2024-05-02 |  |
 | [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2024-05-02 |  |
+| [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-21 |  |
 | [Starry Night \- Edit](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI) | 3:53 | 2024-05-02 |  |
 | [Stuck.](https://open.spotify.com/track/7JeCUUnOpoz4JoV84fliOc) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Dur&](https://open.spotify.com/album/6pW1am4w3SRnL7l6lpOHPR) | 4:19 | 2024-05-02 |  |
 | [Sunn Beliya](https://open.spotify.com/track/3OkCwXuKOcX65UqowgsYcy) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Sunn Beliya](https://open.spotify.com/album/2WeZJHeP3y00c2scV1s17W) | 2:44 | 2024-05-02 |  |

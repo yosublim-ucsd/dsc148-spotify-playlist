@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: jev.",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Connor Price",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -1421,7 +1421,7 @@
     },
     {
       "album": {
-        "name": "when angels cry.",
+        "name": "when angels cry",
         "url": "https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA"
       },
       "artists": [
@@ -8252,7 +8252,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 144923,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/0nyVkDUGF76hjC9vhTqyJY"
@@ -8540,7 +8540,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 120000,
       "name": "Fan Club",
       "url": "https://open.spotify.com/track/6fLHSJWsR4dyQu6oiyGlNE"
@@ -8770,7 +8770,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 149250,
       "name": "Fight or Flight (Playtime's Over)",
       "url": "https://open.spotify.com/track/0gwPIeDyqsM2nXVQOJeBv2"
@@ -11326,7 +11326,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 177230,
       "name": "Hard To See",
       "url": "https://open.spotify.com/track/43MPwMnVPoGj3AIItvxdRl"
@@ -11414,6 +11414,24 @@
       "duration_ms": 191946,
       "name": "haunted",
       "url": "https://open.spotify.com/track/7tD2Uvsi2rWlaKfnzpIrpS"
+    },
+    {
+      "album": {
+        "name": "Have Her",
+        "url": "https://open.spotify.com/album/5WxgA8Keibxzjvo85Z2fWN"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169918,
+      "name": "Have Her",
+      "url": "https://open.spotify.com/track/5nilJ4BHbGwuawFBy11z6Q"
     },
     {
       "album": {
@@ -13488,6 +13506,28 @@
       "duration_ms": 131396,
       "name": "JAH LIGHTS",
       "url": "https://open.spotify.com/track/5pVZO9MIKpCg431gELD3Um"
+    },
+    {
+      "album": {
+        "name": "Jane Street",
+        "url": "https://open.spotify.com/album/2MfVOy4Gz2xLZsyyeSecQs"
+      },
+      "artists": [
+        {
+          "name": "TVGUCCI",
+          "url": "https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw"
+        },
+        {
+          "name": "Ray Moon",
+          "url": "https://open.spotify.com/artist/5IzVaOvAEIPpFK8r3ajj7J"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156153,
+      "name": "Jane Street",
+      "url": "https://open.spotify.com/track/1Luh3oqseL6jUAFJ6ub15u"
     },
     {
       "album": {
@@ -19169,6 +19209,24 @@
     },
     {
       "album": {
+        "name": "Old Head",
+        "url": "https://open.spotify.com/album/0KwiaG7e7m9BOLxZe5bIkk"
+      },
+      "artists": [
+        {
+          "name": "Sayzee",
+          "url": "https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157624,
+      "name": "Old Head",
+      "url": "https://open.spotify.com/track/7CW2GK8hvtjLskynueVWfj"
+    },
+    {
+      "album": {
         "name": "It's So Much Easier Being Honest When I'm Not Myself",
         "url": "https://open.spotify.com/album/1Zs6xNDdgQxuCuDg87JHgm"
       },
@@ -21372,6 +21430,28 @@
       "duration_ms": 158895,
       "name": "Problems Over Peace",
       "url": "https://open.spotify.com/track/7ups0PLQ1oiRnkneh3SQSD"
+    },
+    {
+      "album": {
+        "name": "Pull Up On Me",
+        "url": "https://open.spotify.com/album/4ifE99Pt0hbReGoV8r5CU8"
+      },
+      "artists": [
+        {
+          "name": "Paris Richards",
+          "url": "https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH"
+        },
+        {
+          "name": "Dub J",
+          "url": "https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Pull Up On Me",
+      "url": "https://open.spotify.com/track/3zNgA0rbHFpZmNWSExVbCW"
     },
     {
       "album": {
@@ -24051,6 +24131,28 @@
     },
     {
       "album": {
+        "name": "SLUMSDALE.",
+        "url": "https://open.spotify.com/album/2DosWT0SoinQSKpVw7XWhs"
+      },
+      "artists": [
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        },
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199259,
+      "name": "SLUMSDALE.",
+      "url": "https://open.spotify.com/track/2ijlZVYLZZyKRAfC1xcr2R"
+    },
+    {
+      "album": {
         "name": "SMS (Save My Soul)",
         "url": "https://open.spotify.com/album/1LNGZaSwhf0uF6696EwomH"
       },
@@ -25233,6 +25335,24 @@
     },
     {
       "album": {
+        "name": "Summer Secret",
+        "url": "https://open.spotify.com/album/3NCCbCcz7x2hQPgE5CkPmX"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163151,
+      "name": "Summer Secret",
+      "url": "https://open.spotify.com/track/1yfGTVORIA88GIrlFMU0NP"
+    },
+    {
+      "album": {
         "name": "SUMMER'S UP",
         "url": "https://open.spotify.com/album/5n7rVb5jRvSE6sX3CC16lL"
       },
@@ -25753,6 +25873,28 @@
     },
     {
       "album": {
+        "name": "Take The Lead (feat. Roy Woods)",
+        "url": "https://open.spotify.com/album/3yMZBo6KNLzTP7cdrvzQNa"
+      },
+      "artists": [
+        {
+          "name": "PARIS.",
+          "url": "https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136721,
+      "name": "Take The Lead (feat. Roy Woods)",
+      "url": "https://open.spotify.com/track/47Ndm1Hv6KoVJ9HeI0Nu9j"
+    },
+    {
+      "album": {
         "name": "Before the Win - EP",
         "url": "https://open.spotify.com/album/1OJxQVhE4TLeBS30aECAuc"
       },
@@ -26058,7 +26200,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 169440,
       "name": "That's All, That's It",
       "url": "https://open.spotify.com/track/3rbiKvmWjsDcuEobPjVOuY"
@@ -26234,6 +26376,28 @@
       "duration_ms": 195000,
       "name": "The Empty Man",
       "url": "https://open.spotify.com/track/4TmzkFvaVtscot5ohf5Rrb"
+    },
+    {
+      "album": {
+        "name": "The Eternal Now",
+        "url": "https://open.spotify.com/album/6OQSrgM4iawSejtzafHEg7"
+      },
+      "artists": [
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205628,
+      "name": "The Eternal Now",
+      "url": "https://open.spotify.com/track/0CJL0DuxUtTzTOY3iUUJfK"
     },
     {
       "album": {
@@ -27450,7 +27614,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 142831,
       "name": "Trendsetter",
       "url": "https://open.spotify.com/track/09VW2o6EHSWwzCdhW4ARU1"
@@ -30308,7 +30472,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 180779,
       "name": "Yuck Freestyle",
       "url": "https://open.spotify.com/track/3ghsizSguSJxscu862JKry"

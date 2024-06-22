@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-503 songs - 1 day 11 hr 25 min
+504 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 | 2022-01-28 | 2024-04-06 |
 | [Remission](https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Remission](https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2) | 4:06 | 2024-04-12 |  |
 | [Replay](https://open.spotify.com/track/67Lj6xHDrizXIDDFKYwdae) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Replay](https://open.spotify.com/album/2bwXbiQpSrhw8ioKitFRDD) | 4:12 | 2022-04-15 | 2022-07-29 |
+| [Resonate \(feat\. Julia Church\)](https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ) | 4:01 | 2024-06-21 |  |
 | [Rewind](https://open.spotify.com/track/2mEb5O579Ctj4sYqfkJSZd) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF) | [Rewind EP](https://open.spotify.com/album/2uwlsjnBdNtDzikfUibUjn) | 3:33 | 2021-05-07 | 2022-07-27 |
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-10-14 |  |
 | [Riptide](https://open.spotify.com/track/7yT31cuPzcqkE2BJV4Fusx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Davey Havok](https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8) | [Riptide](https://open.spotify.com/album/1fY8TWeIEA2EXH24sT9RJn) | 5:50 | 2021-06-18 | 2022-10-19 |
@@ -463,7 +464,7 @@
 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 | 2023-08-18 |  |
 | [Ultraviolet \(2022\)](https://open.spotify.com/track/46iNTZ0LIKZEBOqzXHA9sE) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [Ultraviolet \(2022\)](https://open.spotify.com/album/4346HSVfG9ZOESnoWDYWfH) | 3:42 | 2022-02-04 | 2022-07-27 |
 | [Umbra](https://open.spotify.com/track/6WJll3eZF7ok5LAKouTj61) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf), [Sebek](https://open.spotify.com/artist/070GpDQjNHzkY6j2OrFcrA) | [Umbra](https://open.spotify.com/album/5n8XJ70T3OkIFOGOsL8YvA) | 8:19 | 2021-05-07 | 2022-04-21 |
-| [Under My Skin](https://open.spotify.com/track/0Qsm4e0tjof17GOrxoRhLO) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Under My Skin](https://open.spotify.com/album/1fqzT3Bwp9puo8c7kl0j3i) | 3:42 | 2023-07-21 |  |
+| [Under My Skin](https://open.spotify.com/track/0Qsm4e0tjof17GOrxoRhLO) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Under My Skin](https://open.spotify.com/album/1fqzT3Bwp9puo8c7kl0j3i) | 3:42 | 2023-07-21 | 2024-06-22 |
 | [Under Pressure](https://open.spotify.com/track/0pts9b6iz93rMS6XKhri0V) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Under Pressure](https://open.spotify.com/album/4dBYQY3XWW4txP7EyMoSEE) | 3:46 | 2024-05-24 |  |
 | [Underwater](https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF) | [Underwater](https://open.spotify.com/album/2Te7Vf1TcGQBbSlh3BRWat) | 2:47 | 2024-03-15 |  |
 | [Underwater](https://open.spotify.com/track/3SXRZuCEGbbxsPiHyqwWuG) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Underwater](https://open.spotify.com/album/66rcyq2d4MQDcWe6iVoUyc) | 2:57 | 2021-05-07 | 2022-08-26 |

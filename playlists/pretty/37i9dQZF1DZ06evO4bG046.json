@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 33026,
+  "description": "This Is Los Jaivas. Los temas esenciales, todos en una lista.",
+  "num_followers": 33036,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnIfgAAAAACw6jb5DeHWjoKwcjO/8YeA",
+  "snapshot_id": "ZnNxAAAAAACEkaKtLtBIHQOeNYIp2Mln",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilog\u00eda el Rencuentro",
-        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
       },
       "artists": [
         {
           "name": "Los Jaivas",
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        },
-        {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
         }
       ],
-      "duration_ms": 304933,
-      "name": "La Centinela (Versi\u00f3n 1997)",
-      "url": "https://open.spotify.com/track/20S5GtOi4DT7suYJ3ifd3F"
+      "duration_ms": 249186,
+      "name": "Un Mar de Gente",
+      "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
     },
     {
       "added_at": null,
@@ -455,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Jaivas",
-        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
       },
       "artists": [
         {
           "name": "Los Jaivas",
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
         }
       ],
-      "duration_ms": 249186,
-      "name": "Un Mar de Gente",
-      "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
+      "duration_ms": 304933,
+      "name": "La Centinela (Versi\u00f3n 1997)",
+      "url": "https://open.spotify.com/track/20S5GtOi4DT7suYJ3ifd3F"
     },
     {
       "added_at": null,

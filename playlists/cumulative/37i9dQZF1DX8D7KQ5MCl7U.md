@@ -2,7 +2,7 @@
 
 ### [This Is Coke Studio Pakistan](https://open.spotify.com/playlist/37i9dQZF1DX8D7KQ5MCl7U)
 
-> Jhol Out Now\. All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
+> Turri Jandi Out Now\. All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
 
 410 songs - 1 day 20 hr 54 min
 

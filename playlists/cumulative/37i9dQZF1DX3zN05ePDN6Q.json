@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Acelera na frente da barca",
+        "url": "https://open.spotify.com/album/5oQ89u0Czko0qto5cme1aA"
+      },
+      "artists": [
+        {
+          "name": "Tuba\u00edna",
+          "url": "https://open.spotify.com/artist/5aJbzurT6OT2V55swJzGpf"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148351,
+      "name": "Acelera na frente da barca",
+      "url": "https://open.spotify.com/track/55wuLxcVqz15NxXaTrwOu6"
+    },
+    {
+      "album": {
         "name": "Agrade\u00e7o",
         "url": "https://open.spotify.com/album/693tupylxLWZYL4yynyQFs"
       },
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 245333,
       "name": "B\u00fassola Quebrada 2",
       "url": "https://open.spotify.com/track/30PN9ARYT0vIMYkcmtlspo"
@@ -1862,6 +1880,32 @@
       "duration_ms": 181631,
       "name": "Carta pra Lucas",
       "url": "https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB"
+    },
+    {
+      "album": {
+        "name": "Cartas",
+        "url": "https://open.spotify.com/album/7mJNXzEsl9ZbmZBzcqhZNd"
+      },
+      "artists": [
+        {
+          "name": "Elo Da Corrente",
+          "url": "https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe"
+        },
+        {
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
+        },
+        {
+          "name": "Murica",
+          "url": "https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Cartas",
+      "url": "https://open.spotify.com/track/5L0w4gRHKGfFy3ZUlBYunb"
     },
     {
       "album": {
@@ -3044,7 +3088,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 75453,
       "name": "DoisTr\u00eas",
       "url": "https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l"
@@ -4205,6 +4249,32 @@
     },
     {
       "album": {
+        "name": "Frases",
+        "url": "https://open.spotify.com/album/00DrMcjUN3tnZfqJEGY7EL"
+      },
+      "artists": [
+        {
+          "name": "Ig\u00e3o Spliff",
+          "url": "https://open.spotify.com/artist/5JK0D8vobAenISPqlnWa2A"
+        },
+        {
+          "name": "Spike mc",
+          "url": "https://open.spotify.com/artist/6IKkwvOar68DZ3AZQLW3XP"
+        },
+        {
+          "name": "Rugal",
+          "url": "https://open.spotify.com/artist/2rI145bvCczreyC9mvk9hy"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180531,
+      "name": "Frases",
+      "url": "https://open.spotify.com/track/7mbvWUrc4v6WCp92eoIVDE"
+    },
+    {
+      "album": {
         "name": "Freestyle 2.0",
         "url": "https://open.spotify.com/album/1GfDKrrQJRveE5YySq9tyB"
       },
@@ -4548,10 +4618,32 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 178500,
       "name": "Guerra",
       "url": "https://open.spotify.com/track/4VNQiOlGRKeGkEBntleFKe"
+    },
+    {
+      "album": {
+        "name": "O Lado Bom do Homem Mau",
+        "url": "https://open.spotify.com/album/0Gl7QJiBqjNsnogLP5yuLb"
+      },
+      "artists": [
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132537,
+      "name": "Guerra de Ego",
+      "url": "https://open.spotify.com/track/6b65ALxPcGEEozmTTjyhpq"
     },
     {
       "album": {
@@ -5098,7 +5190,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 243032,
       "name": "J\u00e1 \u00c9 Tarde",
       "url": "https://open.spotify.com/track/2Et0DMAf1syfTEazKYcA7d"
@@ -5487,6 +5579,24 @@
     },
     {
       "album": {
+        "name": "Lugar de Fala I verso 01",
+        "url": "https://open.spotify.com/album/4PvHihY9VToqEfCwng5bFh"
+      },
+      "artists": [
+        {
+          "name": "Slim Rimografia",
+          "url": "https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87011,
+      "name": "Lugar de Fala I verso 01",
+      "url": "https://open.spotify.com/track/0VTQpGxq8WpKyLe777Ijxf"
+    },
+    {
+      "album": {
         "name": "Luz e Trevas",
         "url": "https://open.spotify.com/album/6PGhlXxvX5Sdv7Nga9ueXo"
       },
@@ -5584,6 +5694,32 @@
       "duration_ms": 181669,
       "name": "Manifesto",
       "url": "https://open.spotify.com/track/5PBICNRqKfYvwGjohxTOoB"
+    },
+    {
+      "album": {
+        "name": "O Pirata e o Jaganata",
+        "url": "https://open.spotify.com/album/4GbfEc8SKMhkFuHnDECzLb"
+      },
+      "artists": [
+        {
+          "name": "Aori",
+          "url": "https://open.spotify.com/artist/42aKmFNXt0KKWbnYVl2mhp"
+        },
+        {
+          "name": "Barba Negra",
+          "url": "https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq"
+        },
+        {
+          "name": "DJ Sleep",
+          "url": "https://open.spotify.com/artist/4JsQTllKMrWSCEzyak354A"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "MARRETA",
+      "url": "https://open.spotify.com/track/2POzhRFil4RWJzTk4ApbVp"
     },
     {
       "album": {
@@ -5690,7 +5826,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 199284,
       "name": "Melhor Que Ontem",
       "url": "https://open.spotify.com/track/5C1X9UxsnagxubGSrZ1zMH"
@@ -5830,7 +5966,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 174400,
       "name": "Met\u00e1stase",
       "url": "https://open.spotify.com/track/6j0OYPUv0LOtxCjxuUVzgJ"
@@ -7007,6 +7143,28 @@
     },
     {
       "album": {
+        "name": "O Peso da Bagagem",
+        "url": "https://open.spotify.com/album/1saNC2gqXkWguso1kQvWZV"
+      },
+      "artists": [
+        {
+          "name": "LONNMAR",
+          "url": "https://open.spotify.com/artist/7pHh0Fkpf9Fsa6znXNWyrW"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "O Peso da Bagagem",
+      "url": "https://open.spotify.com/track/2EwCJh7E7PfyRBWW6gJ3uh"
+    },
+    {
+      "album": {
         "name": "O Que Se Leva (D\u00f3i)",
         "url": "https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE"
       },
@@ -7266,7 +7424,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 148571,
       "name": "Oikos",
       "url": "https://open.spotify.com/track/2RpB8rK0uKBywxY9LGXot0"
@@ -7418,6 +7576,28 @@
       "duration_ms": 369130,
       "name": "Origens: Liberdade Fler",
       "url": "https://open.spotify.com/track/38LVki3pmxj7zsFiWZpfYi"
+    },
+    {
+      "album": {
+        "name": "Os Pior da Cena",
+        "url": "https://open.spotify.com/album/7nhVHgsDwIpgbTw7K0J9jm"
+      },
+      "artists": [
+        {
+          "name": "AFRONASA",
+          "url": "https://open.spotify.com/artist/1cIM4auCHPl3RWc7ZvKFYZ"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Os Pior da Cena",
+      "url": "https://open.spotify.com/track/0YjceeL0Wg6QNo7FyPTvZu"
     },
     {
       "album": {
@@ -7846,6 +8026,28 @@
       "duration_ms": 239077,
       "name": "Pierrot e Colombina",
       "url": "https://open.spotify.com/track/61wEE7jNq4DM1Dw9IcLksw"
+    },
+    {
+      "album": {
+        "name": "Nativo",
+        "url": "https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k"
+      },
+      "artists": [
+        {
+          "name": "Cassol",
+          "url": "https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181124,
+      "name": "Podep\u00e1",
+      "url": "https://open.spotify.com/track/6jriETT3aG0EdRVB3bQna7"
     },
     {
       "album": {
@@ -9436,7 +9638,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 103820,
       "name": "Sem Sono",
       "url": "https://open.spotify.com/track/0gjtaNRdXuCAiSvp3OfIOx"
@@ -11188,7 +11390,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 176000,
       "name": "Vov\u00f3",
       "url": "https://open.spotify.com/track/18Wjx8QjHXpqPbW07kiMgZ"
@@ -11302,7 +11504,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 217250,
       "name": "Ynae",
       "url": "https://open.spotify.com/track/1Wbewe1dnpvSGSpN2vfboY"

@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 22439,
+  "num_followers": 22445,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -687,30 +687,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Sencilla es mi canoa como mis afectos",
-        "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
+        "name": "Ca\u00f1averal",
+        "url": "https://open.spotify.com/album/2x4XQ6Fj0DUh66uiT1vYTB"
       },
       "artists": [
         {
-          "name": "San Ignacio",
-          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
         },
         {
-          "name": "Xanducero",
-          "url": "https://open.spotify.com/artist/3P4H2P2LQKEf3IFvk6BSVW"
-        },
-        {
-          "name": "Silvio Astier",
-          "url": "https://open.spotify.com/artist/7EUorvzcNTKxqyEu5Gm8TW"
-        },
-        {
-          "name": "Remiseria Temperley",
-          "url": "https://open.spotify.com/artist/7tfHRoS5y3i6f3yzRyDvQo"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         }
       ],
-      "duration_ms": 383979,
-      "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
-      "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
+      "duration_ms": 178000,
+      "name": "Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/59SisvjSeXXmlO39EKze2d"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -735,22 +727,30 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Ca\u00f1averal",
-        "url": "https://open.spotify.com/album/2x4XQ6Fj0DUh66uiT1vYTB"
+        "name": "Sencilla es mi canoa como mis afectos",
+        "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
       },
       "artists": [
         {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+          "name": "San Ignacio",
+          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
         },
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "Xanducero",
+          "url": "https://open.spotify.com/artist/3P4H2P2LQKEf3IFvk6BSVW"
+        },
+        {
+          "name": "Silvio Astier",
+          "url": "https://open.spotify.com/artist/7EUorvzcNTKxqyEu5Gm8TW"
+        },
+        {
+          "name": "Remiseria Temperley",
+          "url": "https://open.spotify.com/artist/7tfHRoS5y3i6f3yzRyDvQo"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/59SisvjSeXXmlO39EKze2d"
+      "duration_ms": 383979,
+      "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
+      "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Margarita y Margarito (Remix)",
-        "url": "https://open.spotify.com/album/0LEIGXcKfimgs8ccfzJcVg"
-      },
-      "artists": [
-        {
-          "name": "Las 3 Marias",
-          "url": "https://open.spotify.com/artist/0oKNkfcAYLdVZ8zries7zx"
-        },
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        }
-      ],
-      "duration_ms": 351340,
-      "name": "Margarita y Margarito (Remix)",
-      "url": "https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "HACIA EL MAR (Pol Nada Remix)",
         "url": "https://open.spotify.com/album/4B1SL9dLGBJCOx7JFfo4x3"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 319817,
       "name": "HACIA EL MAR - Pol Nada Remix",
       "url": "https://open.spotify.com/track/3RevMlORUCSBeVpNNH9D1G"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Margarita y Margarito (Remix)",
+        "url": "https://open.spotify.com/album/0LEIGXcKfimgs8ccfzJcVg"
+      },
+      "artists": [
+        {
+          "name": "Las 3 Marias",
+          "url": "https://open.spotify.com/artist/0oKNkfcAYLdVZ8zries7zx"
+        },
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "duration_ms": 351340,
+      "name": "Margarita y Margarito (Remix)",
+      "url": "https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ"
     },
     {
       "added_at": "2024-03-29 03:00:00",

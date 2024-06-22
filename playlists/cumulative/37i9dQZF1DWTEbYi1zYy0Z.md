@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Braxton Brothers
 
-466 songs - 1 day 9 hr 3 min
+467 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Dance With Me](https://open.spotify.com/track/3J18F04gGcur3hK3MJlGyc) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Dance With Me](https://open.spotify.com/album/7D6Egi9qWYcpJy2OTfSJHa) | 3:30 | 2021-04-23 | 2022-03-18 |
 | [Dancin' Shoes](https://open.spotify.com/track/15i4GMjiFCHKWMYSUTp2CS) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Dancin' Shoes](https://open.spotify.com/album/2bH1chYifngpHOjrlyppS5) | 4:14 | 2023-10-13 | 2024-04-19 |
 | [Dare To Dream](https://open.spotify.com/track/7yTEsgjkPcFXOw6K9jgPf9) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [In Real Life](https://open.spotify.com/album/6NAnNSObthOkTd3GH0Ib7q) | 4:52 | 2024-05-10 |  |
-| [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 | 2023-06-09 |  |
+| [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 | 2023-06-09 | 2024-06-22 |
 | [Deep Into You](https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Deep Into You](https://open.spotify.com/album/0N4DaL3j9Awcu941nalsE4) | 4:10 | 2022-06-17 | 2023-04-29 |
 | [Defy](https://open.spotify.com/track/3Nafj5uljh3v8anIABX3aM) | [Dante'](https://open.spotify.com/artist/2sTUdqocb9JwvQGqfhKBfZ) | [Defy](https://open.spotify.com/album/3eAB0tzVF5AQ5DpJ9bcO9Q) | 4:20 | 2022-03-04 | 2023-06-24 |
 | [Del Mar](https://open.spotify.com/track/4fiiULvaEPZQfa6mH2txg1) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Del Mar](https://open.spotify.com/album/4sKiIOOpmFKBwQGTEhk11p) | 3:59 | 2023-01-20 | 2024-04-19 |
@@ -119,6 +119,7 @@
 | [Double Trouble](https://open.spotify.com/track/0djHbjE04WJUI2Mo4vA4Zr) | [Greg Chambers](https://open.spotify.com/artist/0oj9oLaApiDmqUbY0Q6WnN) | [No Looking Back](https://open.spotify.com/album/7Ls3fvAbt1xvsDKZZ6WW9j) | 4:21 | 2021-10-01 | 2022-09-17 |
 | [Double Up](https://open.spotify.com/track/10RHJ5FSQrdk5QjFm47lZf) | [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Double Up](https://open.spotify.com/album/64lfO2ja1ypFBwwwTWZcQk) | 4:04 | 2020-10-30 | 2022-03-18 |
 | [Dr\. Norm](https://open.spotify.com/track/6Zecb7XcsuSA9cAe4CnTM7) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Dr\. Norm](https://open.spotify.com/album/0lsBgN4pg9FT9rX5srPUsl) | 4:10 | 2020-10-30 | 2022-03-17 |
+| [Dream Maker](https://open.spotify.com/track/2qoRdks21e71gFc9zVBSHt) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Dream Maker](https://open.spotify.com/album/2KQxEMbI2vReIpBtTZDYAp) | 4:13 | 2024-06-21 |  |
 | [Drive](https://open.spotify.com/track/24lqTPV5AGbWoYUz92YdsA) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Drive](https://open.spotify.com/album/05GwoXu2qDSqzUmUkIsONF) | 4:21 | 2022-06-17 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Drive](https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD) | 4:21 | 2022-06-17 | 2023-03-18 |
 | [Driving All Night](https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz) | [Igor Gerzina](https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW) | [Driving All Night](https://open.spotify.com/album/19kgqKAGo9ELEpX9hw3hBz) | 3:30 | 2022-03-04 | 2023-07-01 |
@@ -408,7 +409,7 @@
 | [Sweetness](https://open.spotify.com/track/6XqIJu5pvnmk2hYjne89E9) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Sweetness](https://open.spotify.com/album/0fEG5FbdY24aA6sSlceKEW) | 6:50 | 2020-10-30 | 2022-03-17 |
 | [T's Jam](https://open.spotify.com/track/4Ug2IMwc2VFW41l3fUB0kY) | [Eldon “T” Jones](https://open.spotify.com/artist/2wFR4lVsi3E2izvaujUlTc) | [T's Jam](https://open.spotify.com/album/3TbbGfXjWMtkmkwWpHQ5Px) | 3:59 | 2021-10-29 | 2022-07-28 |
 | [Table For 2](https://open.spotify.com/track/01zpCyMFeqLAkg6FYA8OBL) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Table For 2](https://open.spotify.com/album/5MZkdbtrBhH10PDx6I9Cdr) | 4:38 | 2023-06-09 | 2024-04-19 |
-| [Table For 2](https://open.spotify.com/track/5NFi6NV8fTOPg8BF6aWq7M) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Table For 2](https://open.spotify.com/album/7gS9XSpN1iOHyF2qd8y7bM) | 4:38 | 2023-06-09 |  |
+| [Table For 2](https://open.spotify.com/track/5NFi6NV8fTOPg8BF6aWq7M) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Table For 2](https://open.spotify.com/album/7gS9XSpN1iOHyF2qd8y7bM) | 4:38 | 2023-06-09 | 2024-06-22 |
 | [Taboo](https://open.spotify.com/track/2RB3BwwCXlFEKO06jUL0Dr) | [Damien Escobar](https://open.spotify.com/artist/2GkMspzmKKkaeX62pwJZhG) | [Taboo](https://open.spotify.com/album/5CU4FiM0dodXZWKSW8vfdd) | 3:22 | 2023-04-28 |  |
 | [Takeoff](https://open.spotify.com/track/3OZH6wxvbYmAl59gWCZVNH) | [Jordan Love](https://open.spotify.com/artist/4K7MN4zRu2PtWhBepVuvX9) | [Takeoff](https://open.spotify.com/album/1GF8HUnK3a2AUKSqmEA2uB) | 4:27 | 2024-03-15 |  |
 | [Terminator](https://open.spotify.com/track/6QOJoThXu58CINhFeyitHf) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Terminator](https://open.spotify.com/album/7qBGqNzkgkC4QyVRMPOJwn) | 3:50 | 2023-11-17 |  |

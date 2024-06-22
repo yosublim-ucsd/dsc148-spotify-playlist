@@ -964,7 +964,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 149642,
       "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
       "url": "https://open.spotify.com/track/4prkrtPoc702AKjtC7fLZx"
@@ -9734,7 +9734,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 191173,
       "name": "Kaptan",
       "url": "https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw"
@@ -11830,7 +11830,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 137000,
       "name": "MINI TERORISTA",
       "url": "https://open.spotify.com/track/62vGsOS9SLZwjdqirRrakL"
@@ -14184,7 +14184,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 95540,
       "name": "SAGOLUYORUM (BIG TERORISTA)",
       "url": "https://open.spotify.com/track/1e6BkMSpHCTNoBGyn1C6oV"
@@ -17461,6 +17461,24 @@
     },
     {
       "album": {
+        "name": "Hande'ye Neler Oluyor",
+        "url": "https://open.spotify.com/album/7v4Xeh4UPvV717DF7I6czt"
+      },
+      "artists": [
+        {
+          "name": "Hande Yener",
+          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236281,
+      "name": "Yasak A\u015fk",
+      "url": "https://open.spotify.com/track/5g03DMw2vWRGmffMijz9zL"
+    },
+    {
+      "album": {
         "name": "Yat\u0131ya",
         "url": "https://open.spotify.com/album/2YjYHiGyyAxgX41SsmLEGl"
       },
@@ -17730,7 +17748,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 136941,
       "name": "Yoksun",
       "url": "https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L"

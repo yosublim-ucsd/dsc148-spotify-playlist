@@ -5592,7 +5592,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 223060,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
@@ -8866,6 +8866,32 @@
       "duration_ms": 209521,
       "name": "Moon Blue",
       "url": "https://open.spotify.com/track/7DEstCR6uzmmn7GmJIiBen"
+    },
+    {
+      "album": {
+        "name": "The Henry Mancini 100th Sessions: Henry Has Company",
+        "url": "https://open.spotify.com/album/6GkHGNDk3Zf7pIAsvN5J0v"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152296,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/2wdEIPHk6Tua3NMTTZIBfR"
     },
     {
       "album": {
@@ -12824,7 +12850,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 164869,
       "name": "The Best Mistake",
       "url": "https://open.spotify.com/track/57dFZtD0yXsonQEndrFqf5"
@@ -14050,6 +14076,32 @@
       "duration_ms": 162171,
       "name": "Twister (Acoustic)",
       "url": "https://open.spotify.com/track/6E4yLR75jMge94Ui8GitNw"
+    },
+    {
+      "album": {
+        "name": "Um Vento Passou (para Paul Simon)",
+        "url": "https://open.spotify.com/album/33UAU0Ydepj6ohDfiUFPPp"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276973,
+      "name": "Um Vento Passou (para Paul Simon) [Feat. Paul Simon]",
+      "url": "https://open.spotify.com/track/7aFU5mdJcsyhP6UAteoDiH"
     },
     {
       "album": {

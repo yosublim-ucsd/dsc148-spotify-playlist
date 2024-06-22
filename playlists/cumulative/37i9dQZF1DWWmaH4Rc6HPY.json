@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 237746,
       "name": "Adictos",
       "url": "https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY"
@@ -590,6 +590,24 @@
       "duration_ms": 204510,
       "name": "Cuando No Quedan Ganas",
       "url": "https://open.spotify.com/track/7tdgfhY5F2VmDh22xQ40qL"
+    },
+    {
+      "album": {
+        "name": "Sarajevo",
+        "url": "https://open.spotify.com/album/1r2XwYa9lsn7h6FWSooZeS"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Cum Laude",
+      "url": "https://open.spotify.com/track/2vosVnTYzqlp7HxuCNIXDn"
     },
     {
       "album": {
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 213990,
       "name": "P\u00e9rdida Total",
       "url": "https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP"
@@ -2101,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Rompehielos",
+        "url": "https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180310,
+      "name": "Rompehielos",
+      "url": "https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN"
+    },
+    {
+      "album": {
         "name": "Rubia sol morena \ud83c\udf19 v2",
         "url": "https://open.spotify.com/album/0ogNTve0b52QReuS0fawx0"
       },
@@ -2112,7 +2148,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 163795,
       "name": "Rubia sol morena \ud83c\udf19 v2",
       "url": "https://open.spotify.com/track/4MalLppLw1qEzTZc2DQuBl"
@@ -2440,6 +2476,24 @@
       "duration_ms": 162522,
       "name": "Te Arde",
       "url": "https://open.spotify.com/track/4pTBwkH4jQUUAtBKL2Npv7"
+    },
+    {
+      "album": {
+        "name": "Te Desenamoraste",
+        "url": "https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D"
+      },
+      "artists": [
+        {
+          "name": "Drake Bell",
+          "url": "https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162712,
+      "name": "Te Desenamoraste",
+      "url": "https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM"
     },
     {
       "album": {

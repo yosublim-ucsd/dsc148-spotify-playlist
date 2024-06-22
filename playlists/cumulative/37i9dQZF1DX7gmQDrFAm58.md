@@ -4,7 +4,7 @@
 
 > Sons para seu bebê dormir e relaxar / Sonidos para relajar a tu bebé
 
-441 songs - 12 hr 55 min
+445 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Deerling](https://open.spotify.com/track/31UeN68d7ptFRmYkiuMGPc) | [Angela Simone](https://open.spotify.com/artist/57tm8rfEJMqvodKLqeoJpW) | [Wonderous](https://open.spotify.com/album/3mOYLczPc895azDE6q21AB) | 2:26 | 2023-12-08 |  |
 | [Ding dong](https://open.spotify.com/track/7aytpVhnbyhSk2SMYJyJ8F) | [Charlton Mynatt](https://open.spotify.com/artist/0BhoCPIZlDHUMMC8mXpCqU) | [Ding dong](https://open.spotify.com/album/6cckM8YGNmoqkleN5X6H4Z) | 1:25 | 2023-12-08 | 2024-05-11 |
 | [Don't Wake the Baby](https://open.spotify.com/track/32ibtpTcLgQ40XUytiXkt0) | [Judy Bartley](https://open.spotify.com/artist/3LviZuoIAm8vDjxT4otaY7) | [Don't Wake the Baby](https://open.spotify.com/album/4nrLf0JMoHsMhWo5cdIIrc) | 1:46 | 2023-12-08 |  |
+| [Douce Harmonie](https://open.spotify.com/track/43H6PyQK6xOXE8V0E1TxaX) | [Nils Miv](https://open.spotify.com/artist/1rmQBX2EmH7FRjyEK6oHMs) | [Douce Harmonie](https://open.spotify.com/album/2x8qD6tBoOZLEAvUxU3kPh) | 2:25 | 2024-06-21 |  |
 | [Down the river](https://open.spotify.com/track/0Z9TV8m2DwsrNoCN1dKBcj) | [Hallam Akerman](https://open.spotify.com/artist/5LlVEV1vJSvZsTRtyXBtFI) | [Down the river](https://open.spotify.com/album/2lyBACzbruwkPiwTD5QDbo) | 1:08 | 2023-12-08 | 2024-05-11 |
 | [Dream about lovely things](https://open.spotify.com/track/68jTr5OHQaaOknKAJpieuS) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [Dream about lovely things](https://open.spotify.com/album/0Fq8Ia0RGlVDauKPsnxwAf) | 2:28 | 2023-12-08 |  |
 | [Dream Of A Garden](https://open.spotify.com/track/7qpqftu6IeKt0ATZDoqZPo) | [Rosie Stein](https://open.spotify.com/artist/5tWsDEKMacjeSXYAfg5KX7) | [Dream Of A Garden](https://open.spotify.com/album/5qu7BAxvDBHuNfXJieTOkp) | 1:32 | 2023-12-08 | 2024-05-11 |
@@ -107,7 +108,7 @@
 | [Eden's Grass](https://open.spotify.com/track/0DBFljDvAjeIStakv8HASX) | [The Piano Hive](https://open.spotify.com/artist/0Mo0e0qwgpS4x9Il9FU3T7) | [Eden's Grass](https://open.spotify.com/album/2ZRy5reecRQg9hfQCFJNmJ) | 1:32 | 2023-12-08 |  |
 | [Ellie's Dream Land](https://open.spotify.com/track/5jKn3SBLWAMIDeT32Jyn9a) | [Adriana Pigassi](https://open.spotify.com/artist/6kICxZek47OE3eWDfXzjZe) | [Ellie's Dream Land](https://open.spotify.com/album/1jAGafixqRDq6gAtCOFbCI) | 1:42 | 2023-12-08 |  |
 | [Es hora de acostarse](https://open.spotify.com/track/047f2N27bn7YVyDmjN2CcH) | [Nayara Moore](https://open.spotify.com/artist/38wuntvVRvph542P6Q08bO) | [Es hora de acostarse](https://open.spotify.com/album/7tUywYo0CliiWURhDJVE5M) | 1:44 | 2023-12-08 |  |
-| [Evening Stillness](https://open.spotify.com/track/5QD0VX4sPwPc9wGjfK5JbA) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Evening Stillness](https://open.spotify.com/album/5s67Eta43UUoyEjANkBo6h) | 1:51 | 2023-12-08 |  |
+| [Evening Stillness](https://open.spotify.com/track/5QD0VX4sPwPc9wGjfK5JbA) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Evening Stillness](https://open.spotify.com/album/5s67Eta43UUoyEjANkBo6h) | 1:51 | 2023-12-08 | 2024-06-22 |
 | [Every Dream](https://open.spotify.com/track/3h6YThz5QFWgnF5sBFxDDo) | [Ora Peel](https://open.spotify.com/artist/4jp2rmHOOcHd5CgPVn7pH7) | [Every Dream](https://open.spotify.com/album/4Q28duxPRXhhbX9TcHvN1R) | 1:26 | 2023-12-08 | 2024-04-12 |
 | [Faster than Fairies](https://open.spotify.com/track/6kgiFNyG4GQqaK1LoPHySV) | [Elsa Roberts](https://open.spotify.com/artist/18la3phGP2krkdJmChREK2) | [Faster than Fairies](https://open.spotify.com/album/12Qpv0c9aGPBQDbt1fg5ZH) | 1:45 | 2023-12-08 | 2024-05-11 |
 | [Feels Like Heaven](https://open.spotify.com/track/261tOdDLtEsFKx9waaDBDo) | [Axel Pedersen](https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL) | [Feels Like Heaven](https://open.spotify.com/album/2bhBCCLxcN8cKzIaaMwBBi) | 3:15 | 2023-12-08 |  |
@@ -119,7 +120,7 @@
 | [Fly On The Dreams](https://open.spotify.com/track/24AcnlnWcb7FAys29aqFky) | [Irvin Tatton](https://open.spotify.com/artist/2HawA0EZAHFCNaWVJ3hoX4) | [Fly On The Dreams](https://open.spotify.com/album/1etT1csdIKAp4WP79WZegD) | 1:17 | 2023-12-08 |  |
 | [Flying](https://open.spotify.com/track/5cGRutxZnYtcwjJW8GYshL) | [Ora Peel](https://open.spotify.com/artist/4jp2rmHOOcHd5CgPVn7pH7) | [Flying](https://open.spotify.com/album/6y5q8NPGUWFkzx4yCPdj2u) | 1:29 | 2023-12-08 | 2024-04-12 |
 | [For My Sweetheart](https://open.spotify.com/track/3DtGLM46u1ZrZMP1Z5xqOW) | [Vic Davidson](https://open.spotify.com/artist/4rxDPoC97AdDVhtbQmqyQQ) | [For My Sweetheart](https://open.spotify.com/album/6lUHunI58WXnZH9DRHllEQ) | 1:41 | 2023-12-08 | 2024-04-12 |
-| [Forever](https://open.spotify.com/track/0P5eOC4fHKzKpVg6oDU3JK) | [Dolores Finn](https://open.spotify.com/artist/3slQ6NWSfwYudvdPzV77QV) | [Forever](https://open.spotify.com/album/5rG6Ec9GClUCGNZHJqB9wh) | 3:45 | 2023-12-08 |  |
+| [Forever](https://open.spotify.com/track/0P5eOC4fHKzKpVg6oDU3JK) | [Dolores Finn](https://open.spotify.com/artist/3slQ6NWSfwYudvdPzV77QV) | [Forever](https://open.spotify.com/album/5rG6Ec9GClUCGNZHJqB9wh) | 3:45 | 2023-12-08 | 2024-06-22 |
 | [Forty Winks](https://open.spotify.com/track/12hsUtXbw42EW5J31xlyWS) | [Layla Heighway](https://open.spotify.com/artist/49OhQZeKEzJ7lg9wy3r7XH) | [Forty Winks](https://open.spotify.com/album/02Nt429fqotbeN3OUb0xxr) | 1:30 | 2023-12-08 |  |
 | [Frances My Furry Friend](https://open.spotify.com/track/0w2QlM4SIRqCUfiwNOGPQ0) | [Joanna Carlton](https://open.spotify.com/artist/7dXo2q3715N1By7UKzdBkN) | [Frances My Furry Friend](https://open.spotify.com/album/4RsU57LZ5ncHr7DfxagMvd) | 1:56 | 2023-12-08 |  |
 | [Free Like A Bird](https://open.spotify.com/track/5isCRIO6O1YwJ0tDg2RRxM) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Free Like A Bird](https://open.spotify.com/album/4gs7itVM92J52UHqILnbIJ) | 2:16 | 2024-03-22 |  |
@@ -246,7 +247,7 @@
 | [Moonlight Song](https://open.spotify.com/track/1Yc2Y64xHLpc6tQ1UFphI1) | [Maria Mangasson](https://open.spotify.com/artist/3Da8Sq3XlYqKsjuXfzImiJ) | [Moonlight Song](https://open.spotify.com/album/3IxrV08Irf96q0d7FL9W7d) | 1:46 | 2023-12-08 |  |
 | [Mother Goose](https://open.spotify.com/track/1ZOWHiKOpJoZZM5ccVYGjj) | [Myla Watson](https://open.spotify.com/artist/4UsO7PCgseF2b8wqm28l6Y) | [Mother Goose](https://open.spotify.com/album/4A1pcvNFojNbbThb5mNNq4) | 1:36 | 2023-12-08 |  |
 | [Mother May](https://open.spotify.com/track/3woE2Co7qXCYgDRAJpSc31) | [Dolores Finn](https://open.spotify.com/artist/3slQ6NWSfwYudvdPzV77QV) | [Mother May](https://open.spotify.com/album/2OBSxslvIKwQxlFYmAU7Ze) | 2:04 | 2024-03-22 |  |
-| [Mulberry Bush](https://open.spotify.com/track/2RoP68As4FinolmU7t9dx4) | [Lily Hodges](https://open.spotify.com/artist/4NNYjQ7N1R7TTNtcfTq8MS) | [Mister Sun](https://open.spotify.com/album/5NMgj4HmX7cJ3JWa7IFnLp) | 1:07 | 2023-12-08 |  |
+| [Mulberry Bush](https://open.spotify.com/track/2RoP68As4FinolmU7t9dx4) | [Lily Hodges](https://open.spotify.com/artist/4NNYjQ7N1R7TTNtcfTq8MS) | [Mister Sun](https://open.spotify.com/album/5NMgj4HmX7cJ3JWa7IFnLp) | 1:07 | 2023-12-08 | 2024-06-22 |
 | [My Baby's Eyes](https://open.spotify.com/track/25c4qnmowrSqSplQH7PuIf) | [Anita Nightingale](https://open.spotify.com/artist/2k7EJjhofUBtbOosFYuiCQ) | [My Baby's Eyes](https://open.spotify.com/album/3dK00stb9RKZIOVUmmUGzp) | 0:57 | 2023-12-08 | 2024-04-12 |
 | [My Best Friend](https://open.spotify.com/track/7vkw15L4ChVPioiMxtitl3) | [Tracey McNamara](https://open.spotify.com/artist/0v1APFeqkWd1gvdqMcGr1d) | [My Best Friend](https://open.spotify.com/album/6Jhvim0y6UUGMCbZwNPeRu) | 1:49 | 2023-12-08 |  |
 | [My Bonnie Lies Over the Ocean](https://open.spotify.com/track/7A5T3WgbiojUSYNKvSQrur) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [My Bonnie Lies Over the Ocean](https://open.spotify.com/album/1GsWEPZgxInPsKc3dqjQIy) | 2:08 | 2023-12-08 |  |
@@ -287,6 +288,7 @@
 | [Our Little Sandman](https://open.spotify.com/track/2503WM2PCCscHWQcr0xBjg) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [Our Little Sandman](https://open.spotify.com/album/6oQZqafqOJCYPaXDcYMgJP) | 1:06 | 2023-12-08 |  |
 | [pancake song](https://open.spotify.com/track/1jN64xMdXnsXifRwvPX3ZB) | [Hyrum Spears](https://open.spotify.com/artist/2YGxKYE79CxjJ5sZXbneNl) | [pancake song](https://open.spotify.com/album/37Ur1G5RGM5zogZiy7vER9) | 1:15 | 2023-12-08 | 2024-05-11 |
 | [Papa Pop](https://open.spotify.com/track/1AibXNZT8pbhjnStJd63Fz) | [Lilac Snow](https://open.spotify.com/artist/7nGX5o9MYBSLmUc0P4Y1wo) | [Papa Pop](https://open.spotify.com/album/6beBtbPARAQydOip1yWfIM) | 1:57 | 2023-12-08 | 2024-04-12 |
+| [Paper Boat](https://open.spotify.com/track/1M4DvCcKGx4dmEfYxnW8I7) | [Michel Couture](https://open.spotify.com/artist/6qKPv4O4fkzGQhybUN1Vug) | [Paper Boat](https://open.spotify.com/album/3gmLVzbYE0qCUfvmc2PJIT) | 1:43 | 2024-06-21 |  |
 | [Pat That Little Tummy](https://open.spotify.com/track/7kRjbBrr078BJ1kbCHQOQJ) | [Graham Lullington](https://open.spotify.com/artist/0eFEGw7eoz5CUwfvssyzjK) | [Pat That Little Tummy](https://open.spotify.com/album/1OhzR4YfoRto3mCWq3QD2R) | 1:33 | 2024-01-19 |  |
 | [Peace At Last](https://open.spotify.com/track/24m5S5142ix00vPzBBmfET) | [Jacqueline Doolan](https://open.spotify.com/artist/0cBODOysIrpp4MFjr5MaEM) | [Peace At Last](https://open.spotify.com/album/2rjLJ9x4hfGHicKBHEh1wh) | 1:40 | 2023-12-08 |  |
 | [Peaceful Moments](https://open.spotify.com/track/5lZJ5F3CllKKCUZll7OhMe) | [Jian Morét](https://open.spotify.com/artist/4SU4BEsDDmELEYvyKWMzQT) | [Peaceful Moments](https://open.spotify.com/album/1bYyTsQMLbji9YiRzukTae) | 1:45 | 2023-12-08 |  |
@@ -319,6 +321,7 @@
 | [Sea Lions](https://open.spotify.com/track/4NwEQsgZbGVhhjHKEBzEEa) | [Little Mishka](https://open.spotify.com/artist/5aWytEfJwLbprQOpAtGQ3n) | [Sea Lions](https://open.spotify.com/album/2d81vXY5IRWoAGFoOjZuON) | 1:48 | 2023-12-08 |  |
 | [Sharky's Toothbrush](https://open.spotify.com/track/69kYnUzPX39WrqgKejQIaD) | [Danielle Rogard](https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu) | [Sharky's Toothbrush](https://open.spotify.com/album/5T42GEONHpXZO02VkBfSS9) | 2:09 | 2024-01-05 |  |
 | [Shoo Fly, Don't Bother Me](https://open.spotify.com/track/3aUC3hwhufBQOUJTH5i0U6) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Shoo Fly, Don't Bother Me](https://open.spotify.com/album/01G4wHweu6BTyuPAdwCEr2) | 1:25 | 2023-12-08 | 2024-03-24 |
+| [Sing And Swing](https://open.spotify.com/track/1g27egm6LvcdLAaGP3rveX) | [Catherine Finch](https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk) | [Sing And Swing](https://open.spotify.com/album/2KevLEuoAxDq8SQffxVh8i) | 1:44 | 2024-06-21 |  |
 | [Six Little Ducks](https://open.spotify.com/track/6sUZBaPMhSdDikzjxSVFJw) | [Emily McQueen](https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw) | [Six Little Ducks](https://open.spotify.com/album/3kVaPTQBYhuwsUpwlhWiLf) | 2:11 | 2023-12-08 |  |
 | [Skidamarink](https://open.spotify.com/track/4QlZFHDwrV9n8aZ8cWslaB) | [Tracey McNamara](https://open.spotify.com/artist/0v1APFeqkWd1gvdqMcGr1d) | [Skidamarink](https://open.spotify.com/album/53wDDZIU6ySWJE2taOJ0bd) | 2:05 | 2023-12-08 | 2024-04-12 |
 | [Sleep Cure](https://open.spotify.com/track/6a8R1nvniVX4PHGLFxGIbH) | [Irvin Tatton](https://open.spotify.com/artist/2HawA0EZAHFCNaWVJ3hoX4) | [Sleep Cure](https://open.spotify.com/album/2yHEWgTkftVFLPNJYtvvi0) | 1:02 | 2023-12-08 |  |
@@ -391,6 +394,7 @@
 | [The Wind And The Sun](https://open.spotify.com/track/6HjtHicRY2u51t0phzjuDb) | [Milly Fitzpatrick](https://open.spotify.com/artist/0FQNq8baxg56GoRl1QH6z9) | [The Wind And The Sun](https://open.spotify.com/album/4gMsViIbKUgBib6mRwRVfF) | 1:31 | 2023-12-08 |  |
 | [The Winding Road Lullaby](https://open.spotify.com/track/03WsIk1yRIw7IMhAOHj6h6) | [Ani Ander](https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W) | [The Winding Road Lullaby](https://open.spotify.com/album/3IseFpeySitHzbBkUSnEB7) | 2:28 | 2023-12-08 |  |
 | [The Working Maid](https://open.spotify.com/track/0CI7cneIkhr9E3qHMAMwS0) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [The Working Maid](https://open.spotify.com/album/2vETz6Dg6fvK3x5fs0uBUR) | 1:41 | 2024-03-22 |  |
+| [There'll Be Another Day](https://open.spotify.com/track/008VETSQPQwl6LvV06kOqU) | [Iris Avory](https://open.spotify.com/artist/20V4zCnXKfYPn2rzNQaRMF) | [There'll Be Another Day](https://open.spotify.com/album/06XCjKbEbIfuD0OgYn362W) | 1:58 | 2024-06-21 |  |
 | [This Is My Lullaby](https://open.spotify.com/track/1pvRH7c6ZdObKBCwIYp8CB) | [Mandy Sol](https://open.spotify.com/artist/135JH3EMElUkfAng9P6ZSZ) | [This Is My Lullaby](https://open.spotify.com/album/2kaEc4Y7LXc6n9pAZ8MQ6e) | 1:44 | 2024-05-10 |  |
 | [Three Blind Mice](https://open.spotify.com/track/3C05Gs09H0G6OGk8A4lNCl) | [Mischka Lee](https://open.spotify.com/artist/2DctpZMHcqyLdh7FZFxleN) | [Three Blind Mice](https://open.spotify.com/album/6ir7Wm6Gu4r9CjGixmlagQ) | 2:03 | 2023-12-08 |  |
 | [Three Jolly Fishermen](https://open.spotify.com/track/43F86Pd7zjLtyPx3pxD02P) | [Kim Savege](https://open.spotify.com/artist/2UdEGunC9lK2FrpV4Rf1gZ) | [Three Jolly Fishermen](https://open.spotify.com/album/52LqGrg4oRQmr6skk5RIuV) | 1:18 | 2024-02-09 |  |

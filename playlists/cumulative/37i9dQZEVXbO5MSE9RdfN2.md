@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-498 songs - 1 day 1 hr 36 min
+500 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [BBL Drizzy](https://open.spotify.com/track/3oPMkgBRDSRt83Y9kFLiej) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [BBL Drizzy](https://open.spotify.com/album/1SlDK8vlcV39jfhC2fK5vY) | 3:34 | 2024-05-31 | 2024-06-07 |
 | [Bbl Drizzy](https://open.spotify.com/track/7pSsX2zIEgNQ7bZLpZPgqL) | [TokenAngel](https://open.spotify.com/artist/4PA15r7220fuPRFk5hVumj) | [Bbl Drizzy](https://open.spotify.com/album/1NrONKqPMpofuPdoQdU4IU) | 3:24 | 2024-05-21 | 2024-06-01 |
 | [BBL Drizzy](https://open.spotify.com/track/14wgKKU2uRHrZeWRWilcxF) | [Trïppy](https://open.spotify.com/artist/3R4CIO3axN9ljrz1IlmlHs) | [BBL Drizzy](https://open.spotify.com/album/0xQsQkcgGSKM1VdaY0mrkv) | 3:34 | 2024-05-28 | 2024-06-01 |
-| [BBL Drizzy \(TECH HOUSE EDIT\)](https://open.spotify.com/track/4DFnyUEPGYr6oEmTKaNnHy) | [LAMM](https://open.spotify.com/artist/5gCChtSG7VQERs0a5TUg9r) | [BBL Drizzy \(TECH HOUSE EDIT\)](https://open.spotify.com/album/6UhIrTuU9kt4nQL1tpT90n) | 2:39 | 2024-06-06 |  |
+| [BBL Drizzy \(TECH HOUSE EDIT\)](https://open.spotify.com/track/4DFnyUEPGYr6oEmTKaNnHy) | [LAMM](https://open.spotify.com/artist/5gCChtSG7VQERs0a5TUg9r) | [BBL Drizzy \(TECH HOUSE EDIT\)](https://open.spotify.com/album/6UhIrTuU9kt4nQL1tpT90n) | 2:39 | 2024-06-06 | 2024-06-22 |
+| [BBL Drizzy \- House](https://open.spotify.com/track/4yBe7iBalreRmLGrSAaEV1) | [overthxnk](https://open.spotify.com/artist/2wMrMnimoHzZoZ5e0BCrZ3) | [BBL Drizzy \(House\)](https://open.spotify.com/album/4EX8E3wBPg7NRvErmAXShv) | 2:39 | 2024-06-21 |  |
 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-14 | 2024-03-03 |
 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 | 2024-05-15 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-06 | 2024-04-07 |
@@ -87,6 +88,7 @@
 | [Carnival x Fein](https://open.spotify.com/track/3E1YgNCLJn3GQ5tySGphHi) | [Santea2](https://open.spotify.com/artist/1m0xG8stRNnvyrKxnSrbOz) | [Carnival x Fein](https://open.spotify.com/album/0LBF7VLpsKhkjAAyoBKIgF) | 2:06 | 2024-03-26 | 2024-03-31 |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-06-18 |  |
 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-03-16 | 2024-05-08 |
+| [Champagne Coast](https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR) | 4:52 | 2024-06-21 |  |
 | [Cheap Thrills](https://open.spotify.com/track/4dRYlZtS7kYfWxkYfMPTe7) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2016, Vol\. 2](https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8) | 3:27 | 2024-05-22 | 2024-05-29 |
 | [CHEGOU 3](https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [CHEGOU 3](https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj) | 2:39 | 2024-06-12 |  |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-04 | 2024-06-19 |
@@ -414,7 +416,7 @@
 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 2:44 | 2024-05-12 | 2024-05-29 |
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-28 | 2024-06-01 |
 | [Supernova](https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:58 | 2024-05-31 | 2024-06-13 |
-| [Sweet Dreams](https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sweet Dreams](https://open.spotify.com/album/733zbDkHarKvnvoJkouK34) | 2:53 | 2024-06-04 |  |
+| [Sweet Dreams](https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sweet Dreams](https://open.spotify.com/album/733zbDkHarKvnvoJkouK34) | 2:53 | 2024-06-04 | 2024-06-22 |
 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 | 2024-04-09 | 2024-04-17 |
 | [Tangerine](https://open.spotify.com/track/1OowIk5KiP8vTOR1vVzCLG) | [Noah Richardson](https://open.spotify.com/artist/360NtdnCpSL0T7eyEphdWW) | [Tangerine](https://open.spotify.com/album/1We5ID5Mwq2AByT2kstXql) | 3:30 | 2024-01-29 | 2024-02-02 |
 | [Taste \(From “The Idea of You”\)](https://open.spotify.com/track/7KE47FEEFPVeGujof58i8o) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [The Idea of You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA) | 3:03 | 2024-05-14 | 2024-05-18 |

@@ -4009,6 +4009,28 @@
     },
     {
       "album": {
+        "name": "Nemesis",
+        "url": "https://open.spotify.com/album/4sLvvQA9b5mCnnB3h5k9dk"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        },
+        {
+          "name": "Jack Dawson",
+          "url": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179605,
+      "name": "Nemesis (feat. Jack Dawson)",
+      "url": "https://open.spotify.com/track/2Rsg4JE8ShKmLe7K6IcJJV"
+    },
+    {
+      "album": {
         "name": "Never Be The Same (feat. Paige Duch\u00e9)",
         "url": "https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN"
       },
@@ -5730,6 +5752,24 @@
       "duration_ms": 131500,
       "name": "The Whistle",
       "url": "https://open.spotify.com/track/0nYD5euxX3xsIe9bda0Fqg"
+    },
+    {
+      "album": {
+        "name": "Thief",
+        "url": "https://open.spotify.com/album/02v9FsNlUM7Sy828mVOS7D"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/0HBCJAYmcJPNM6iCj00dqz"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Edgardo Nu\u00f1ez. Los temas esenciales, todos en una lista.",
-  "num_followers": 32473,
+  "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
+  "num_followers": 32506,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnIfgAAAAABn3yr4PZWi08H6T8tjtGhn",
+  "snapshot_id": "ZnNxAAAAAADB4JAZzBKG4lGFi+M2XQkg",
   "tracks": [
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bailemos Bebe",
+        "url": "https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 293412,
+      "name": "Micaela / La Mar\u00eda",
+      "url": "https://open.spotify.com/track/4xqxRIgA4U71scvhAyvyig"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 142357,
       "name": "En Los Puritos Huesos - En Vivo",
       "url": "https://open.spotify.com/track/1d3J01sINV8BsC38QtWMjL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bailemos Bebe",
-        "url": "https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 293412,
-      "name": "Micaela / La Mar\u00eda",
-      "url": "https://open.spotify.com/track/4xqxRIgA4U71scvhAyvyig"
     },
     {
       "added_at": null,

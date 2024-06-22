@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "2AM (Trosk Lofi Remix)",
+        "url": "https://open.spotify.com/album/37PCxypXYM7R6LNruAX3Cz"
+      },
+      "artists": [
+        {
+          "name": "Star Shah",
+          "url": "https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E"
+        },
+        {
+          "name": "Zeeshan Ali",
+          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
+        },
+        {
+          "name": "Trosk",
+          "url": "https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342000,
+      "name": "2AM - Trosk Lofi Remix",
+      "url": "https://open.spotify.com/track/1lxk9w58nl359Py0Ruf2XZ"
+    },
+    {
+      "album": {
         "name": "Aafreen Lofi",
         "url": "https://open.spotify.com/album/384RCVdlfYTH3ZFslOAT6Q"
       },
@@ -1649,6 +1675,28 @@
     },
     {
       "album": {
+        "name": "Kahani Meri (Chill Mix)",
+        "url": "https://open.spotify.com/album/4VDHMfVCmV78b0z6b8RlPb"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        },
+        {
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Kahani Meri - Chill Mix",
+      "url": "https://open.spotify.com/track/7H5JT9afSwJAPPQL5njbAn"
+    },
+    {
+      "album": {
         "name": "Kal Ho Naa Ho (Lofi Flip)",
         "url": "https://open.spotify.com/album/1SYu377JUJukIdIcNLjGwP"
       },
@@ -2351,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Meray Pass Tum Ho (Lo-Fi)",
+        "url": "https://open.spotify.com/album/5shiy6wBUPjTwFhPAf6kIN"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333366,
+      "name": "Meray Pass Tum Ho (Lo-Fi)",
+      "url": "https://open.spotify.com/track/10bXyJ06sbXS3syL3MZptN"
+    },
+    {
+      "album": {
         "name": "Mere Bina (Lofi Flip)",
         "url": "https://open.spotify.com/album/26rVmBZboEcYit9RfGAWBr"
       },
@@ -2374,6 +2440,28 @@
       "duration_ms": 162780,
       "name": "Mere Bina - Lofi Flip",
       "url": "https://open.spotify.com/track/5f4CDQSxZJ8GuYdwMdz37V"
+    },
+    {
+      "album": {
+        "name": "Mere Bina Tu (Lofi Mix)",
+        "url": "https://open.spotify.com/album/0iZWQMbBf4eNQjocjVlnkS"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185783,
+      "name": "Mere Bina Tu - Lofi Mix",
+      "url": "https://open.spotify.com/track/1zwwhRUrdf6IQeHg2Ja0Kx"
     },
     {
       "album": {
@@ -2650,6 +2738,28 @@
       "duration_ms": 186352,
       "name": "O Sanam - DJ NYK Lofi Remix",
       "url": "https://open.spotify.com/track/2cGRuloXezvHDpoHX2bVyu"
+    },
+    {
+      "album": {
+        "name": "O Yaara (Trosk Remix)",
+        "url": "https://open.spotify.com/album/68zxgf3IDdXRR4F9bVMyqS"
+      },
+      "artists": [
+        {
+          "name": "Kaavish",
+          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
+        },
+        {
+          "name": "Trosk",
+          "url": "https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243428,
+      "name": "O Yaara - Trosk Remix",
+      "url": "https://open.spotify.com/track/6DI3lah2sebJfcVEYFwBQf"
     },
     {
       "album": {
@@ -2966,6 +3076,24 @@
       "duration_ms": 230360,
       "name": "Raataan Lambiyan - Lofi Flip",
       "url": "https://open.spotify.com/track/47GoImoZiTI32p1t4H4b7h"
+    },
+    {
+      "album": {
+        "name": "Radd (Lo-Fi)",
+        "url": "https://open.spotify.com/album/31WNO2PwJ6kpQ5IJcjMZEa"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501701,
+      "name": "Radd (Lo-Fi)",
+      "url": "https://open.spotify.com/track/1Mh4oTNDwHbyDfNf93jVhj"
     },
     {
       "album": {

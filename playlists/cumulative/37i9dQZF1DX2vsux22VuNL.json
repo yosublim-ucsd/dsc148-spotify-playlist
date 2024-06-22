@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 166615,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/10f31lUtjFtbbOH01HT3ja"
@@ -4312,7 +4312,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 139200,
       "name": "Malandra Treinada",
       "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
@@ -4720,6 +4720,32 @@
       "duration_ms": 232433,
       "name": "Mete o louco",
       "url": "https://open.spotify.com/track/7Ep1kMp6Wxw7xwYMm0xKZ5"
+    },
+    {
+      "album": {
+        "name": "meu am\u00f4 chegou",
+        "url": "https://open.spotify.com/album/0l3M2JIfMna1QGYI4zZu4Y"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        },
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        },
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220160,
+      "name": "meu am\u00f4 chegou",
+      "url": "https://open.spotify.com/track/3OQCoAzGLMflBKEML4RLDe"
     },
     {
       "album": {
@@ -9102,6 +9128,28 @@
       "duration_ms": 155076,
       "name": "Vers\u00e3o brasileira",
       "url": "https://open.spotify.com/track/3s9B8mXerJ5rHOqqF9CJTO"
+    },
+    {
+      "album": {
+        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
     },
     {
       "album": {

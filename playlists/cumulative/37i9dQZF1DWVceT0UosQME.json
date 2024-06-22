@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 101647,
       "name": "1989 at the bustop",
       "url": "https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 120833,
       "name": "amber lights",
       "url": "https://open.spotify.com/track/4xbJ6k1wNNLtw9ZvAdgApZ"
@@ -1788,7 +1788,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 133200,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/7EN48mPO2AJD1iKOItQgUk"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 113760,
       "name": "Early Mornings",
       "url": "https://open.spotify.com/track/3mZQX7fqgtcMIHJuAH3UEA"
@@ -3510,7 +3510,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 99187,
       "name": "Good As You",
       "url": "https://open.spotify.com/track/4r0wRQ7pw3ACGqNAKst3vB"
@@ -4382,7 +4382,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 140843,
       "name": "Issa thang",
       "url": "https://open.spotify.com/track/6HyECvfMgS1SfMMnz1fJjG"
@@ -5340,7 +5340,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 137308,
       "name": "Loud Bolt",
       "url": "https://open.spotify.com/track/4JgH9mzHDXcL4ZQW9NvXwU"
@@ -5740,7 +5740,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 130832,
       "name": "Midnight Vibes",
       "url": "https://open.spotify.com/track/4tdzoOabbIog8LgFQEVZpv"
@@ -6622,7 +6622,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 125684,
       "name": "Oven Baked",
       "url": "https://open.spotify.com/track/7zUpfB9iEen3mp01g540aQ"
@@ -6892,7 +6892,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 136744,
       "name": "pawsitive",
       "url": "https://open.spotify.com/track/67yrjUBrvkVHHZL0HgEJLT"
@@ -7094,7 +7094,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 144000,
       "name": "Phunk dilla",
       "url": "https://open.spotify.com/track/2dOCWgcDWcxpWq2VwmYDQE"
@@ -7530,6 +7530,24 @@
       "duration_ms": 173947,
       "name": "resonance",
       "url": "https://open.spotify.com/track/4hsJSNWp8cONeOquz12aRk"
+    },
+    {
+      "album": {
+        "name": "Resting Days",
+        "url": "https://open.spotify.com/album/4MTSGuIddwLkv38fWmMHvq"
+      },
+      "artists": [
+        {
+          "name": "Chizu",
+          "url": "https://open.spotify.com/artist/6NQ1aKb4xNup2HIbJFaJdF"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Resting Days",
+      "url": "https://open.spotify.com/track/6FKD7NlcNchJckU1LxjN5U"
     },
     {
       "album": {
@@ -8354,7 +8372,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-29",
+      "date_removed": null,
       "duration_ms": 123058,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6DD1Ddv0U7cTA2pqqmjWxR"
@@ -8498,7 +8516,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 209802,
       "name": "spellbounds",
       "url": "https://open.spotify.com/track/5XtH4864ouLpUJx3rzBeOS"
@@ -8646,6 +8664,24 @@
       "duration_ms": 127026,
       "name": "stomp around",
       "url": "https://open.spotify.com/track/7ccSh1AqYoH8UMvWU43HQZ"
+    },
+    {
+      "album": {
+        "name": "stone walls",
+        "url": "https://open.spotify.com/album/3A36TVfR0sZnc4dTvPEvbq"
+      },
+      "artists": [
+        {
+          "name": "sunday zzzz",
+          "url": "https://open.spotify.com/artist/4Zbz7i41jO9FLN6KfxOHIE"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161294,
+      "name": "stone walls",
+      "url": "https://open.spotify.com/track/5nel7kSpeghUoQwWGg79JC"
     },
     {
       "album": {
@@ -9344,7 +9380,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 191428,
       "name": "Time and Time Again",
       "url": "https://open.spotify.com/track/5aMyRc257zukcKz1IKYVqj"

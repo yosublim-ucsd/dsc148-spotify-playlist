@@ -2657,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "Dear Life",
+        "url": "https://open.spotify.com/album/5MyRxVJOCQTdWvqM333hxx"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200076,
+      "name": "Dear Life",
+      "url": "https://open.spotify.com/track/6tlCs1MOqB8KML7KJqggZm"
+    },
+    {
+      "album": {
         "name": "Deep Cuts",
         "url": "https://open.spotify.com/album/6ZD2LgmUGRKzXWaJGf1nBM"
       },

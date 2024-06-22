@@ -3610,7 +3610,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 138500,
       "name": "Outta Here",
       "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
@@ -4752,6 +4752,28 @@
       "duration_ms": 193333,
       "name": "The Hood",
       "url": "https://open.spotify.com/track/2fHSUYkVn1dBWeqE2fY3rQ"
+    },
+    {
+      "album": {
+        "name": "The Light (Defqon.1 2024 BLACK OST)",
+        "url": "https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e"
+      },
+      "artists": [
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        },
+        {
+          "name": "E-Life",
+          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215785,
+      "name": "The Light (Defqon.1 2024 BLACK OST)",
+      "url": "https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Emma Bale
 
-776 songs - 1 day 17 hr 28 min
+778 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Cowboys Cry](https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Me Again](https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o) | 3:12 | 2024-05-16 | 2024-05-24 |
 | [Cozy](https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cozy](https://open.spotify.com/album/4xsI12SdxzxVyikl8PRuX3) | 2:45 | 2024-05-23 | 2024-06-01 |
 | [CR600 \- Bonus Track](https://open.spotify.com/track/4g3AHWCFKb6e5JTutKo7t8) | [ISHA](https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo) | [Bitume Caviar \(Vol.1\) Bonus](https://open.spotify.com/album/5l8YEvNuskgJ5OydE54wPv) | 3:00 | 2024-04-26 | 2024-05-03 |
+| [Crash](https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 2:36 | 2024-06-20 |  |
 | [Creek](https://open.spotify.com/track/4x4TKNGZ0cOOLO5kx6PBBP) | [The Christian Club](https://open.spotify.com/artist/3fCffuwmMDVB1UsQTOIUDD) | [Eros](https://open.spotify.com/album/0SFI9PGHf9jQgs4f5yPSR3) | 4:20 | 2024-05-31 | 2024-06-07 |
 | [Crush Me Down \(You Spin Me Around\)](https://open.spotify.com/track/2E8ometum2UaxsEdH8VS5z) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM) | [Crush Me Down \(You Spin Me Around\)](https://open.spotify.com/album/6qypYS9alhKACA6XzPDDwB) | 2:01 | 2024-06-20 |  |
 | [Crybaby](https://open.spotify.com/track/7gcjgCVdyvXgbme0Q47Pfr) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Crybaby](https://open.spotify.com/album/5Wm0HVhzfIZa0Euf4CNXv7) | 2:54 | 2024-04-26 | 2024-05-03 |
@@ -639,6 +640,7 @@
 | [Summerbreeze \- uit Liefde Voor Muziek](https://open.spotify.com/track/3Brq56j5oJiUsgOcV7TFcO) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [Summerbreeze \- uit Liefde Voor Muziek](https://open.spotify.com/album/0gIeb6WyyRIIYfJ6OG1s9D) | 2:53 | 2024-05-09 | 2024-05-17 |
 | [Sun Comes Up](https://open.spotify.com/track/1blTO8R2KZCocDdquldlIh) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6), [Joe Taylor](https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB) | [Sun Comes Up](https://open.spotify.com/album/3pPKqAo24C6P9KeXZrXvB2) | 2:21 | 2024-05-23 | 2024-06-01 |
 | [Sunburnt Shoulders](https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me vs\. Me](https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc) | 2:57 | 2024-05-23 | 2024-06-01 |
+| [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-20 |  |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-20 |  |
 | [Superster \(feat\. Priceless\)](https://open.spotify.com/track/5fkx5mCkwfKeEIzdSsmd7y) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO) | [Superster \(feat\. Priceless\)](https://open.spotify.com/album/0zRPWGeCO434LM2U5mZQBp) | 2:26 | 2024-06-13 | 2024-06-21 |
 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-05-23 | 2024-06-01 |

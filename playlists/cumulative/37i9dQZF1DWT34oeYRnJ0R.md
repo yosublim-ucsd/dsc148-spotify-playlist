@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Nino Augustine
 
-446 songs - 22 hr 58 min
+447 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 | 2022-09-06 | 2022-12-08 |
 | [Embeleso](https://open.spotify.com/track/3ZiRZ7a4LrX6H6uU4iPsRz) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Embeleso](https://open.spotify.com/album/4L2IfsDgvK37jAXhCbxAaK) | 3:20 | 2022-09-06 | 2022-09-11 |
 | [Embeleso](https://open.spotify.com/track/5OMX4q4yknfdEFLBU0ufWl) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Embeleso](https://open.spotify.com/album/4tvKQtkJEk1dkFs53jh1ue) | 3:20 | 2022-09-06 | 2022-12-02 |
+| [Embuste](https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Embuste](https://open.spotify.com/album/7xtgpGt2BFkVFEAd8aHfg5) | 2:40 | 2024-06-21 |  |
 | [Empty](https://open.spotify.com/track/5jxDo5QNrKLxOAtLsiaE27) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [Demon Time](https://open.spotify.com/album/0WDYRRTzhqXxrA6b01LJMX) | 2:59 | 2024-03-22 |  |
 | [EMRATA](https://open.spotify.com/track/4KDVAhmcD0b9Kgo4GHUBZA) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:45 | 2023-12-15 |  |
 | [En La Disco Revela](https://open.spotify.com/track/2aP62YJe28Kclfpx2DBjo7) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [En La Disco Revela](https://open.spotify.com/album/37v6cQ4Ng0iXObwMzBwu5b) | 3:03 | 2022-09-06 | 2023-05-13 |
@@ -288,7 +289,7 @@
 | [Nena](https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/5eYJgVtDk7Az1vRWKNfuzY) | 2:33 | 2022-09-06 | 2024-04-19 |
 | [New Name \(Mamacita!\)](https://open.spotify.com/track/5uogBxa27boBVk8Q9bySzR) | [El Larra](https://open.spotify.com/artist/7aLAtWfohbbcHoShGOc5zx), [icekream](https://open.spotify.com/artist/2gaIPiqlafTVwapOByHeVQ) | [Serendipia](https://open.spotify.com/album/0MXa4IrTzK02RQxLj5VtWJ) | 3:04 | 2022-12-12 | 2023-02-25 |
 | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/album/6EfbY42O3BlghXBwGDAnW9) | 5:02 | 2022-08-01 | 2022-09-07 |
-| [NINFÓMANA](https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Dalyan](https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN) | [NINFÓMANA](https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U) | 3:40 | 2022-08-29 |  |
+| [NINFÓMANA](https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Dalyan](https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN) | [NINFÓMANA](https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U) | 3:40 | 2022-08-29 | 2024-06-22 |
 | [NIRVANA](https://open.spotify.com/track/5MLtTtkyh5KzunV8dyF3yJ) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [100%](https://open.spotify.com/album/2LOmvnYQWvlWVyYzWHsZGg) | 2:10 | 2024-05-17 | 2024-06-01 |
 | [No Es Cierto](https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 4:33 | 2022-03-21 | 2022-09-07 |
 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 | 2022-09-06 |  |

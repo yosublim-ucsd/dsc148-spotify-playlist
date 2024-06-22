@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-686 songs - 1 day 10 hr 10 min
+690 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Get Up](https://open.spotify.com/track/7E8IZjrD6QwTf1pS3KJCfG) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [Costel Van Dein](https://open.spotify.com/artist/2yA021LnprERtbeHcjAquF) | [Get Up](https://open.spotify.com/album/2Ha6jK2QJ99zqYp6AVRLo0) | 2:32 | 2023-06-30 | 2023-07-14 |
 | [Girl](https://open.spotify.com/track/1XJP2xGm47pxXygmKYwIWM) | [WhoKnows](https://open.spotify.com/artist/4VnoKxF1E3ytbkEzGrZR63), [Hot n Spicy](https://open.spotify.com/artist/46nCTKjkE9cpoVg8A3MgL0) | [Girl](https://open.spotify.com/album/5XRh2PC7CTy5ec2gTrdkN9) | 2:41 | 2024-02-05 |  |
 | [GNOR](https://open.spotify.com/track/6qnNzvYAcdSrJ4YsloQWIq) | [Tava](https://open.spotify.com/artist/05vdnPUOduqa2XslgbtU4R), [Provenzano](https://open.spotify.com/artist/0X31zioYkeZFA3GBQR937K) | [GNOR](https://open.spotify.com/album/0s1N8nHJoCwNCestcxsDMm) | 2:22 | 2023-11-22 |  |
+| [Going down](https://open.spotify.com/track/0f9mRNkqNHlAGwM9rVy6Bs) | [Milyo](https://open.spotify.com/artist/581plaxcfSWYMovHiZzh3f) | [Going Down](https://open.spotify.com/album/08R4bfOyu9zFaDMQdh4mTo) | 3:37 | 2024-06-21 |  |
 | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 | 2023-06-01 | 2023-12-14 |
 | [Good God \(Sunnery James & Ryan Marciano Remix\)](https://open.spotify.com/track/1aXf9GykmY5jprsRYAlrL6) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Good God \(Sunnery James & Ryan Marciano Remix\)](https://open.spotify.com/album/0RbpWANRg0P5mRBrDgSMF9) | 2:29 | 2024-01-12 |  |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-09-06 | 2023-12-23 |
@@ -263,6 +264,7 @@
 | [I Can Feel It](https://open.spotify.com/track/6gJoL56dfaOwv5nZ8gunrz) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [I Can Feel It](https://open.spotify.com/album/6Y80nrIwbNnJKAsRjhe7jV) | 2:53 | 2023-08-10 | 2023-12-14 |
 | [I Can Feel It](https://open.spotify.com/track/7mfFf3S4PVwRwekLT6YiWe) | [Mat Frank](https://open.spotify.com/artist/40FuCqCj5Suu3gMsrVnlIQ) | [I Can Feel It](https://open.spotify.com/album/1vOAMDpExTt92TT00r2TWY) | 2:36 | 2024-04-12 | 2024-04-26 |
 | [I Can Feel U](https://open.spotify.com/track/0Uwnw3ku07cTy4C6n24Txn) | [C\-Ro](https://open.spotify.com/artist/6PAunVzpRKDn5xbMgkV1gh) | [I Can Feel U](https://open.spotify.com/album/5pKmE6zKtQzvdJfSvseeOb) | 2:32 | 2023-07-14 | 2023-12-14 |
+| [I Feel So Alive](https://open.spotify.com/track/1XA0QwLQ0Tle8yiYXgIc03) | [Alex Ferry](https://open.spotify.com/artist/7hqxrg2x1arsI6c72ZlVwW), [Luke DB](https://open.spotify.com/artist/4chLPXLSly4IZblITuG4g6) | [I Feel So Alive](https://open.spotify.com/album/6KSF5MFnRLYMjaxXTxmZxY) | 3:16 | 2024-06-21 |  |
 | [I Go](https://open.spotify.com/track/1dQHiFfT6vQDVazuyiS8LN) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Anna De Ferran](https://open.spotify.com/artist/0uGRpGp5fkrpsq7PC20Rz7) | [I Go](https://open.spotify.com/album/7hiOELvKrnBvAkFQMrvMdb) | 2:28 | 2023-05-05 | 2023-12-14 |
 | [I Got 5 On It](https://open.spotify.com/track/1Jbpfpf8ao084qOrbBbE1J) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [I Got 5 On It](https://open.spotify.com/album/0jQTt37lufq8NkLUYn3dYA) | 2:57 | 2024-04-05 | 2024-04-26 |
 | [I Got You](https://open.spotify.com/track/66ojqYOm0F0Ddefb4Yasn0) | [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [StereoKilla](https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy) | [I Got You](https://open.spotify.com/album/1Ld0iKp1t4ciPeSbSeB4uR) | 2:36 | 2023-07-10 | 2023-07-14 |
@@ -369,6 +371,7 @@
 | [Macarena](https://open.spotify.com/track/2KXtLayfxTNdLuJUH2s3Lj) | [Ale Basciano](https://open.spotify.com/artist/33Qz6dWUMmGaMRgLNUEWr9), [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BIONT](https://open.spotify.com/artist/7Ju5W94oRtrScSvbIQywkq) | [Macarena](https://open.spotify.com/album/7lvLBUSBMVhPjkxf5pNTNk) | 2:11 | 2024-01-05 |  |
 | [Magalenha](https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Magalenha](https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e) | 2:54 | 2023-02-12 | 2023-12-23 |
 | [Magic Dragon](https://open.spotify.com/track/1RnialRqBVTZL6QGDpM5GO) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Magic Dragon](https://open.spotify.com/album/680RPEG7DPzLUJLaWxLKWH) | 2:54 | 2023-08-10 | 2023-12-23 |
+| [Majestic](https://open.spotify.com/track/3109Rt1mF4o7gKXGuOjWs9) | [Kid Caird](https://open.spotify.com/artist/1rRAOS5gztGhAEdcusPqc5), [Mynxy](https://open.spotify.com/artist/7KuaTCUefVb0H18kNWPGcU) | [Majestic](https://open.spotify.com/album/5GgdvR8pbvL9s9flUTPr8Y) | 3:10 | 2024-06-21 |  |
 | [Make Love](https://open.spotify.com/track/4ayNdb4ucumpb3qVzxdM85) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Make Love](https://open.spotify.com/album/5JNnP4ZdBQCOs1VwJMs3D8) | 3:33 | 2023-05-28 | 2023-08-02 |
 | [Make Me Feel](https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Make Me Feel](https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d) | 2:34 | 2023-02-12 |  |
 | [Make U Sweat](https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Make U Sweat](https://open.spotify.com/album/2eynmd9669ddVP7QTuj66o) | 2:28 | 2023-12-08 |  |
@@ -635,6 +638,7 @@
 | [Turn It Around Baby](https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Turn It Around Baby](https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3) | 3:38 | 2023-08-17 | 2023-12-14 |
 | [Turn It Up](https://open.spotify.com/track/2X4KRyKAxaBezXcOXegdq2) | [Rapsody](https://open.spotify.com/artist/3QsDrRo8jTNmqQtAPQc7iZ) | [Turn It Up](https://open.spotify.com/album/5aCf0aEQsfxOPMZMAyxxtK) | 2:29 | 2023-08-25 | 2023-09-01 |
 | [U AND ME](https://open.spotify.com/track/2VwcKJw70Rrd2Ar1yvdAoF) | [LINK](https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb) | [U AND ME EP](https://open.spotify.com/album/0fz3qWe9z7C94SMQ2IAHcU) | 2:52 | 2023-08-04 | 2023-12-14 |
+| [U&Me](https://open.spotify.com/track/0EQhBHpkw598LwJOCrkK9J) | [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo) | [U&Me](https://open.spotify.com/album/3L7cUh1IpzOS1v5TKYsW6B) | 2:49 | 2024-06-21 |  |
 | [Underground](https://open.spotify.com/track/6RsuZyv4VrEZcdAjAonEsN) | [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [Underground](https://open.spotify.com/album/5rtgABh0j5MrK8EgDPkRpz) | 3:31 | 2024-02-16 |  |
 | [Underground](https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Underground](https://open.spotify.com/album/3xjnO30PBWtbz6CuaMn3gg) | 3:41 | 2023-07-20 | 2023-12-23 |
 | [Underwater](https://open.spotify.com/track/6pOSx27uLkZBE75JBEWFiE) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Underwater](https://open.spotify.com/album/4OZkLa9YRSDHvL0jQ8jwyv) | 3:00 | 2024-03-08 | 2024-04-13 |

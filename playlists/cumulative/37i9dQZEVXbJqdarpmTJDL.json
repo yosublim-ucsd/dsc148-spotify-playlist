@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 188473,
       "name": "Apotoma",
       "url": "https://open.spotify.com/track/0alDILQ9n7nRMfwaifGOIK"
@@ -3806,7 +3806,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
@@ -3934,7 +3934,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 175200,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/13GVBkIwNS97bkqp2jWJJv"
@@ -5854,6 +5854,28 @@
       "duration_ms": 225000,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/2X0XWgfTRhv6RkUc1kuzcd"
+    },
+    {
+      "album": {
+        "name": "Carvajal",
+        "url": "https://open.spotify.com/album/1FWQjRdjZT0MeBnNZBxrnk"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Ioannis",
+          "url": "https://open.spotify.com/artist/2oQftHHbzwW2lMNxh5W5iw"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193411,
+      "name": "Carvajal",
+      "url": "https://open.spotify.com/track/04g3PRNUhYa6wAoHx3IE17"
     },
     {
       "album": {
@@ -15294,7 +15316,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 206500,
       "name": "ISOS",
       "url": "https://open.spotify.com/track/3CdFVH8SOVnvT0sJLT198p"
@@ -35722,6 +35744,28 @@
       "duration_ms": 232835,
       "name": "Xeirovomvides",
       "url": "https://open.spotify.com/track/5uoTfU6MsQMkhcIgrf8IlT"
+    },
+    {
+      "album": {
+        "name": "Xenodohio",
+        "url": "https://open.spotify.com/album/77ZAGH3zMFfBlnNrm5kSCX"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        },
+        {
+          "name": "Ypo",
+          "url": "https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Xenodohio",
+      "url": "https://open.spotify.com/track/0f5EgNuK5oPUlgfoSHa7ai"
     },
     {
       "album": {

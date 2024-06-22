@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "exes",
+        "url": "https://open.spotify.com/album/577IAxz4OQ4KsF0b4BKXYJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/5f2A8qXU1hKsIFvjB4oiQL"
+    },
+    {
+      "album": {
         "name": "Feather",
         "url": "https://open.spotify.com/album/3YehBwXG43soeqs5u8VDZ6"
       },

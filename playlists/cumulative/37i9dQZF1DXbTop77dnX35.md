@@ -4,7 +4,7 @@
 
 > New Music from Victony, Rema, Asake, Black Sherif and more
 
-176 songs - 8 hr 27 min
+177 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Manna](https://open.spotify.com/track/6BumWRMpoqKrB0WEsW1Eij) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [SIV](https://open.spotify.com/artist/5DeEX83cpOKEtktSqyB5jX) | [Manna](https://open.spotify.com/album/0GCHquVq4UhGGVGQ72zQe5) | 2:19 | 2024-06-14 | 2024-06-21 |
 | [Margret](https://open.spotify.com/track/1iinznvzU26mQT9SBqkyRL) | [Gafgold](https://open.spotify.com/artist/6gpFdQiZCxXX0rJezWHJao) | [Margret](https://open.spotify.com/album/0YFDzIE1dhG5dYWhViYEiX) | 2:45 | 2024-06-07 | 2024-06-14 |
 | [Maria](https://open.spotify.com/track/0E77ZX9NeYpLCgDjqfWLZF) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Maria](https://open.spotify.com/album/5Rtj2Js2qFv8ESYMRiTvTC) | 2:26 | 2024-06-21 |  |
+| [Matters To Me](https://open.spotify.com/track/0rAoahjILdVLd7JiF2GGFV) | [Jonathan May](https://open.spotify.com/artist/3T4VUy3b6j4k7Xuvu5t6mk), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Matters To Me](https://open.spotify.com/album/6nDq0eSPhbgqH6tpvlHlbd) | 3:05 | 2024-06-21 |  |
 | [Melo](https://open.spotify.com/track/28GlJVZQTjCZK0bD4mvp9s) | [TeeFamous](https://open.spotify.com/artist/5t6vdzlbZf28kIKuz7ts9e) | [Accolades](https://open.spotify.com/album/1pfqBHLromocFtNKkMlhCO) | 2:40 | 2024-06-14 | 2024-06-21 |
 | [Mine For The Night](https://open.spotify.com/track/5HJr6r6NdRpNnpUOxeXTjK) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Mine For The Night](https://open.spotify.com/album/3xHZvCFIIqqqEH6l24CRJX) | 4:14 | 2024-06-14 | 2024-06-21 |
 | [MOKOBI](https://open.spotify.com/track/3O5Bj4bDFLdD1vK1L4HxxM) | [Ugly Dray](https://open.spotify.com/artist/4CY7OYb1eZFkEy5FL9okDS) | [MOKOBI](https://open.spotify.com/album/4wUUcVz5RJHAEcYDJKwUOK) | 2:57 | 2024-06-07 | 2024-06-14 |

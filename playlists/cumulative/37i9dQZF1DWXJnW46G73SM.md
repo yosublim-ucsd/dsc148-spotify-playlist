@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: بهاء سلطان
 
-997 songs - 2 day 8 hr 18 min
+998 songs - 2 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Gald El Zat](https://open.spotify.com/track/01vvnqgX7L6ay3wKdzq9Yd) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Gald El Zat](https://open.spotify.com/album/0rMKCC8AFYbrp3Emhw8cMF) | 4:00 | 2024-02-23 | 2024-06-01 |
 | [GALEK EIN](https://open.spotify.com/track/6qmxkmnQbq0lerMrj07NS0) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [GALEK EIN](https://open.spotify.com/album/5ihTnM8oVZm29OOYTWAWfL) | 3:46 | 2023-08-23 | 2023-12-01 |
 | [Gamalha Estethnaey](https://open.spotify.com/track/3CYwmM56BETkTSpcr3LEiL) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Gamalha Estethnaey](https://open.spotify.com/album/77LRIbp593ruGyVw5uQRBZ) | 3:07 | 2022-05-01 | 2022-06-24 |
-| [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 | 2024-04-14 |  |
+| [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 | 2024-04-14 | 2024-06-22 |
 | [Gany Fe Awanoh](https://open.spotify.com/track/5oOm80jbpoaXN9vcsUywaO) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Gany Fe Awanoh](https://open.spotify.com/album/4jwtLQfYZOaZxTeAy1lEJf) | 4:41 | 2023-02-16 | 2023-04-21 |
 | [Garabeeni](https://open.spotify.com/track/16YO6nAQvF5db7PRdib1Q8) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Garabeeni](https://open.spotify.com/album/211IuZCQyutkhoX25DISvk) | 2:58 | 2023-02-28 | 2023-05-05 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-23 | 2022-01-21 |
@@ -428,6 +428,7 @@
 | [Mabhtmesh](https://open.spotify.com/track/442OhScPDEPFjZ2Hou2j7S) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mabhtmesh](https://open.spotify.com/album/6UVU26B9pUXpcrwD7i4GbD) | 3:32 | 2022-05-03 | 2022-08-13 |
 | [Mabrok Ya Ebn El Mahzoza](https://open.spotify.com/track/7wPn81S330EtQ8WzcCoCHX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mabrok Ya Ebn El Mahzoza](https://open.spotify.com/album/7Elizm9OIjwoEW9mvE5sSv) | 3:42 | 2024-04-30 |  |
 | [Mabsoot](https://open.spotify.com/track/7x3iSfgVP4170n4Q5DmAML) | [Hassan Piso](https://open.spotify.com/artist/42Au6oWabtKUVZhuLG2iP5) | [Mabsoot](https://open.spotify.com/album/3KG0yJp7bS3tLv2wRUmG9N) | 2:30 | 2023-08-11 | 2023-08-24 |
+| [Mafish Keda](https://open.spotify.com/track/4Zp3uUl5XfDAoTbdVQGOHh) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Mafish Keda](https://open.spotify.com/album/6PAQDC98KMLmzdnlGVqHA8) | 2:29 | 2024-06-21 |  |
 | [Magash Mennek](https://open.spotify.com/track/7jTV5xzP8f252w6xS6isRv) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Magash Mennek](https://open.spotify.com/album/5ut1qAv97kxgJcnR1XbnMN) | 3:26 | 2022-11-24 | 2023-02-03 |
 | [Magnon Shwaya](https://open.spotify.com/track/0VzdH3kc6s9qaMCZ7QiyfL) | [Amal Mansy](https://open.spotify.com/artist/3gpaXBJk41UwHBOMY27VdQ) | [Magnon Shwaya](https://open.spotify.com/album/2ekYH4CseVJROfxXRscjaP) | 3:10 | 2024-05-02 |  |
 | [Magrouh](https://open.spotify.com/track/6vjFrVERogNuQbyjGhJf0w) | [Ali Al Sagheer](https://open.spotify.com/artist/0pQ3EwYr7woD1Vb3iFb9tw) | [Magrouh](https://open.spotify.com/album/7HIVTi69bteqVYPuiDIPNh) | 2:38 | 2024-02-23 | 2024-06-01 |
@@ -723,7 +724,7 @@
 | [الجدعنه](https://open.spotify.com/track/45pq6F78VuQ4niCJXRFbHu) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [احمد سعد](https://open.spotify.com/artist/0ONMTwxxQh5MJoIcTN3xld) | [الجدعنه](https://open.spotify.com/album/0kEBjzI9r6jDtMCUd0TgTg) | 5:30 | 2023-11-23 | 2024-01-26 |
 | [الجو ولع](https://open.spotify.com/track/0vzm1POq1H0JVHwSOaufio) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [الجو ولع](https://open.spotify.com/album/4fI2rUMGuMonjwntO2YgUW) | 3:34 | 2023-06-27 | 2023-07-28 |
 | [الحب](https://open.spotify.com/track/0EM7yBpi3yoA5Vf6HVScgP) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [الحب](https://open.spotify.com/album/4FDzVLy4DtsuetAHROxJFm) | 3:24 | 2023-06-14 | 2023-07-20 |
-| [الحلم الوردي](https://open.spotify.com/track/3DXQBnciOnrdIgGkgUbvwS) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [الحلم الوردي](https://open.spotify.com/album/0fLc1KQC2pDeTfcOh0ovZS) | 3:07 | 2024-06-13 |  |
+| [الحلم الوردي](https://open.spotify.com/track/3DXQBnciOnrdIgGkgUbvwS) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [الحلم الوردي](https://open.spotify.com/album/0fLc1KQC2pDeTfcOh0ovZS) | 3:07 | 2024-06-13 | 2024-06-22 |
 | [الحمدلله](https://open.spotify.com/track/6SaiYvNlHIh2gdVfAyAQKD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [الحمدلله](https://open.spotify.com/album/7vnRTngy32esACDIZdroyC) | 3:17 | 2024-04-18 | 2024-05-09 |
 | [الحنين والمعلم](https://open.spotify.com/track/4fcFD3cOSNnyDs1GH97rQS) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [الحنين والمعلم](https://open.spotify.com/album/4UuqcNEutgvA1kKMmh6uye) | 2:33 | 2023-05-11 | 2023-06-30 |
 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 | 2023-06-22 | 2023-07-28 |

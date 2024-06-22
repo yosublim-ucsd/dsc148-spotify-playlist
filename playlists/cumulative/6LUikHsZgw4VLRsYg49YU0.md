@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-205 songs - 12 hr 3 min
+207 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [\[Solo\-Leveling\]SymphonicSuite\-Lv.2](https://open.spotify.com/track/7vXN0O6cc1DVUrXp6tgJBy) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [\[Solo\-Leveling\]SymphonicSuite\-Lv.2](https://open.spotify.com/album/31Lbc4yZkE3N7ZTJmkODBE) | 2:44 | 2024-02-02 |  |
 | [\[Solo\-Leveling\]SymphonicSuite\-Lv.3](https://open.spotify.com/track/5Yii2VWmLpSCtR7hsXZdYO) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [\[Solo\-Leveling\]SymphonicSuite\-Lv.3](https://open.spotify.com/album/3S5bCqO3Fp5zyPGzj58qf3) | 4:53 | 2024-02-02 |  |
 | [\[Solo\-Leveling\]SymphonicSuite\-Lv.8](https://open.spotify.com/track/0WYhgrgXCa7LmgOq4dbNeO) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [\[Solo\-Leveling\]SymphonicSuite\-Lv.8](https://open.spotify.com/album/33PJlQUa6r9BgLwhZJe4Hn) | 2:41 | 2024-02-02 |  |
+| [After Howl](https://open.spotify.com/track/3UyG8wL4PHNs12ODcsfZ6X) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Spice and Wolf: MERCHANT MEETS THE WISE WOLF \(Original Soundtrack\) \[Volume 2\]](https://open.spotify.com/album/37SRJg1KPKebYZyYdEef9F) | 3:41 | 2024-06-21 |  |
 | [Akuma no Ko](https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Akuma no Ko](https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR) | 3:47 | 2023-01-13 |  |
 | [All This](https://open.spotify.com/track/5OBX7Rctz74QUse0SZeyjN) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ) | [Family Portrait EP](https://open.spotify.com/album/6vtMs29mzabSqMhWnJXBy3) | 3:56 | 2022-02-18 | 2022-12-10 |
 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 | 2023-12-08 |  |
@@ -158,6 +159,7 @@
 | [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2EMXqSv1xiGy0PfTIB0Uz3) | [Aoiema](https://open.spotify.com/artist/10XKbVG4CEEwWKkcSRAG8D), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/4kxAWubYxgVBB6149n7Pi9) | 4:38 | 2024-03-29 |  |
 | [Who Do You Love \- R3HAB Remix](https://open.spotify.com/track/5QkVPG2Hf3MmAarireF6lh) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Who Do You Love \(R3HAB Remix\)](https://open.spotify.com/album/0ctKYh2R83FinJ8SzUFRd3) | 2:32 | 2022-02-18 | 2022-12-10 |
 | [Wild Side](https://open.spotify.com/track/3UknZzYzAhqcCVPahU5FY1) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/5U0HGouVI00GhXr9hcFJSy) | 2:38 | 2022-12-09 | 2024-02-03 |
+| [WIND BREAKER\(Main Theme\)](https://open.spotify.com/track/6Gxc1KYyGnHZiygPvsFr9b) | [高橋 諒](https://open.spotify.com/artist/5FuGM1eKg3JtvOv4OjGUqN) | [WIND BREAKER Original Soundtrack](https://open.spotify.com/album/2iBGxSZe9pSKeNdRrkFXGq) | 3:03 | 2024-06-21 |  |
 | [yurukuru\*love（TV Size）](https://open.spotify.com/track/4Gsy3Af9H0uHQcpOO9VvGd) | [相沢 智\(CV:高橋李依\)](https://open.spotify.com/artist/7irrLhnxYR8qs4dHY6I8TI), [群堂みすず\(CV:日高里菜\)](https://open.spotify.com/artist/4vd1PZjB3QigIWcuIuta9q), [キャロル・オールストン\(CV:天城サリー\)](https://open.spotify.com/artist/5kAddo3uymgOgZR5aNaGp3) | [トモちゃんは女の子！　オリジナルサウンドトラック](https://open.spotify.com/album/23MmEjzwSZkjJydj6d1ZYL) | 1:33 | 2023-01-27 |  |
 | [βios](https://open.spotify.com/track/30XxVjgbzt3BhaZIRIriaE) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [GUILTY CROWN COMPLETE SOUNDTRACK](https://open.spotify.com/album/0GYWaav81pYQVP3QcOdVv1) | 4:33 | 2022-12-09 | 2024-04-13 |
 | [きときと \- 四本足の踊り \- 「おおかみこどもの雨と雪」より](https://open.spotify.com/track/6wIVbWJHu7vwlYXgjnRFt5) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [STUDIO CHIZU Music Journey Vol\. 1 \- Cinematic Orchestra 2022](https://open.spotify.com/album/5smAOm1KBol1RqR9QJttcw) | 3:26 | 2023-08-04 |  |

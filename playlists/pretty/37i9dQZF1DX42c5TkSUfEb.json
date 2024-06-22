@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 764535,
+  "num_followers": 764558,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-06-07 15:39:29",
       "album": {
-        "name": "La Biographie de Luka Philipsen",
-        "url": "https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip"
-      },
-      "artists": [
-        {
-          "name": "Keren Ann",
-          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
-        }
-      ],
-      "duration_ms": 178160,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/45gpJxviKRBsQo1lDZ03Xf"
-    },
-    {
-      "added_at": "2024-06-07 15:39:29",
-      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 329666,
       "name": "WALLS",
       "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
+    },
+    {
+      "added_at": "2024-06-07 15:39:29",
+      "album": {
+        "name": "La Biographie de Luka Philipsen",
+        "url": "https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "duration_ms": 178160,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/45gpJxviKRBsQo1lDZ03Xf"
     },
     {
       "added_at": "2024-06-07 15:39:29",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-06-07 15:39:29",
       "album": {
-        "name": "The Wedding Song",
-        "url": "https://open.spotify.com/album/2zRkxDn6Nu5AOXzEj5QtTJ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 196719,
-      "name": "The Wedding Song",
-      "url": "https://open.spotify.com/track/4etKo77nYtFeP3hIMuOrY1"
-    },
-    {
-      "added_at": "2024-06-07 15:39:29",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/01noIpXbHsMP2fm8DpuPkd"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 234853,
       "name": "Vie varda",
       "url": "https://open.spotify.com/track/29IxKD6j2B9TOBOSrtkv6Y"
+    },
+    {
+      "added_at": "2024-06-07 15:39:29",
+      "album": {
+        "name": "The Wedding Song",
+        "url": "https://open.spotify.com/album/2zRkxDn6Nu5AOXzEj5QtTJ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 196719,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/4etKo77nYtFeP3hIMuOrY1"
     },
     {
       "added_at": "2024-06-07 15:39:29",

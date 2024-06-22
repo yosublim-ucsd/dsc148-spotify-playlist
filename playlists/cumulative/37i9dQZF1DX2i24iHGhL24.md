@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-433 songs - 1 day 0 hr 58 min
+434 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Chandelier](https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 3:44 | 2023-02-24 | 2023-10-17 |
 | [Chandelier](https://open.spotify.com/track/7F2tZGMRkcEyGYY8Xee7xz) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Chandelier](https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit) | 3:42 | 2021-12-17 | 2022-12-30 |
 | [Chandelier](https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Chandelier](https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH) | 3:32 | 2022-03-25 | 2022-04-16 |
+| [Chemical](https://open.spotify.com/track/1SoQtOBmEaGLFmzr8e0DCf) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Chemical](https://open.spotify.com/album/5n55TYeWtckwrfOc8jUyjN) | 3:01 | 2024-06-21 |  |
 | [Chiquitita](https://open.spotify.com/track/1o04WVnY1OUmFE91hHg13O) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/40GDrRCewlZHmwWK9p04vw) | 4:59 | 2023-02-24 | 2023-05-12 |
 | [Chiquitita](https://open.spotify.com/track/4TYChn8xTvOREL2ikHKZpA) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/7tLw6UWNrDW9Qzt0Iyp7Xt) | 4:59 | 2023-04-14 | 2023-07-10 |
 | [Chiquitita](https://open.spotify.com/track/544B6PAKJKXWTzBxz2mlX2) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/65mKrjY9MQrqvAgM2Vvdn8) | 4:59 | 2022-11-18 | 2023-03-04 |

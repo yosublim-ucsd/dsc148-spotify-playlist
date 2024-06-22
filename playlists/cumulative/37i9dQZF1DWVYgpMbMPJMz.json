@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:4leTWyczsXYGlzUh8sFGSz\">Kim Walker-Smith</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:6pRi6EIPXz4QJEOEsBaA0m\">Chris Tomlin</a> and <a href=\"spotify:artist:2XDaX0gxzE4eCXjPPAREEq\">CAIN</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -508,7 +508,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 260124,
       "name": "AMEN!",
       "url": "https://open.spotify.com/track/4glp5ZNO3T1fOw8sq2tDfd"
@@ -2693,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "Cover The Earth (Deluxe)",
+        "url": "https://open.spotify.com/album/2ODgj7jaZbBWcskolm7iCK"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552251,
+      "name": "Drink Offering (Deluxe Version) - Live",
+      "url": "https://open.spotify.com/track/2IGP8edi8VNcop2t7ouQMy"
+    },
+    {
+      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
       },
@@ -3126,6 +3144,24 @@
       "duration_ms": 471208,
       "name": "Firm Foundation (He Won\u2019t) - Live",
       "url": "https://open.spotify.com/track/6znsIBODupmehAC4qb0Z3O"
+    },
+    {
+      "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/3JeO8a3yK04LAQAnd4maQT"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260329,
+      "name": "Followers",
+      "url": "https://open.spotify.com/track/0Gv3ihO4EpSRwfDSbXEGEc"
     },
     {
       "album": {
@@ -4306,10 +4342,32 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+    },
+    {
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/7wn4dqa2FKZePM9n4YrwxE"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333737,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1Cll5XrepsCJgUFMj4sQH3"
     },
     {
       "album": {
@@ -4688,6 +4746,28 @@
       "duration_ms": 269678,
       "name": "How Great Thou Art (Until That Day)",
       "url": "https://open.spotify.com/track/2gvPDTxttF9RbvCcwrtrWi"
+    },
+    {
+      "album": {
+        "name": "How Much More",
+        "url": "https://open.spotify.com/album/4KMoLpaT5fA4TBNP6RKNTP"
+      },
+      "artists": [
+        {
+          "name": "Rita Springer",
+          "url": "https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265800,
+      "name": "How Much More",
+      "url": "https://open.spotify.com/track/2nMriAG0MoP9fp2xlc8HWs"
     },
     {
       "album": {
@@ -5306,7 +5386,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 280453,
       "name": "If Not For The Cross - Live",
       "url": "https://open.spotify.com/track/67DSx4vEnmioyYY82GZVye"
@@ -9554,7 +9634,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 504992,
       "name": "Sing Hallelujah (with Natalie Grant) - Live",
       "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"
@@ -11706,6 +11786,28 @@
       "duration_ms": 301611,
       "name": "We Adore You",
       "url": "https://open.spotify.com/track/2htJ3lVlX1hcsT5SeK0Wme"
+    },
+    {
+      "album": {
+        "name": "Victory Sounds (Live)",
+        "url": "https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396043,
+      "name": "We Bless - Live",
+      "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"
     },
     {
       "album": {

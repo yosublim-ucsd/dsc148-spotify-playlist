@@ -1,13 +1,29 @@
 {
   "description": "The best in folk & acoustic today featuring music from Mustafa",
-  "num_followers": 1812216,
+  "num_followers": 1812205,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmxvWwAAAADbds8RSko2L3Ac2Je7u9RE",
+  "snapshot_id": "ZnT6wAAAAACalBY8+SCtQr9D9iQMyEwJ",
   "tracks": [
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Massachusetts",
+        "url": "https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 218954,
+      "name": "Massachusetts",
+      "url": "https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL"
+    },
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {

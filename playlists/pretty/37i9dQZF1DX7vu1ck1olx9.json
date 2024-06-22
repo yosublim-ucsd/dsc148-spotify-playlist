@@ -1,6 +1,6 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 80486,
+  "num_followers": 80538,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "keep it rollin'",
-        "url": "https://open.spotify.com/album/3QuGLBlxAYYfhtp52kKH8H"
-      },
-      "artists": [
-        {
-          "name": "Cereal Party",
-          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "keep it rollin'",
-      "url": "https://open.spotify.com/track/3P1JkE4mXTXZyua1mIKBWf"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "random thoughts",
         "url": "https://open.spotify.com/album/1Ci3Z0UfK2ehgnpudw86x4"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 135000,
       "name": "random thoughts",
       "url": "https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "keep it rollin'",
+        "url": "https://open.spotify.com/album/3QuGLBlxAYYfhtp52kKH8H"
+      },
+      "artists": [
+        {
+          "name": "Cereal Party",
+          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "keep it rollin'",
+      "url": "https://open.spotify.com/track/3P1JkE4mXTXZyua1mIKBWf"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
+        "name": "roamwave",
+        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
+      },
+      "artists": [
+        {
+          "name": "ai sayuri",
+          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
+        }
+      ],
+      "duration_ms": 138663,
+      "name": "roamwave",
+      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
         "name": "blue bird",
         "url": "https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "roamwave",
-        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
-      },
-      "artists": [
-        {
-          "name": "ai sayuri",
-          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
-        }
-      ],
-      "duration_ms": 138663,
-      "name": "roamwave",
-      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "Burnt Coffee",
         "url": "https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "Gloom",
-        "url": "https://open.spotify.com/album/2ZBpfVQ6ML1drkMltgRQTN"
-      },
-      "artists": [
-        {
-          "name": "Mumblo",
-          "url": "https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z"
-        }
-      ],
-      "duration_ms": 152258,
-      "name": "Gloom",
-      "url": "https://open.spotify.com/track/2JRn07cPxiOqz1AQqeJ3U5"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "roadtrip",
         "url": "https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 139714,
       "name": "roadtrip",
       "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "Gloom",
+        "url": "https://open.spotify.com/album/2ZBpfVQ6ML1drkMltgRQTN"
+      },
+      "artists": [
+        {
+          "name": "Mumblo",
+          "url": "https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z"
+        }
+      ],
+      "duration_ms": 152258,
+      "name": "Gloom",
+      "url": "https://open.spotify.com/track/2JRn07cPxiOqz1AQqeJ3U5"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "Heroic",
-        "url": "https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w"
-      },
-      "artists": [
-        {
-          "name": "rwethree",
-          "url": "https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT"
-        }
-      ],
-      "duration_ms": 132236,
-      "name": "Heroic",
-      "url": "https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "A New Dawn",
         "url": "https://open.spotify.com/album/2dHb6EPDsaT6i3jUBnhGq9"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 156000,
       "name": "A New Dawn",
       "url": "https://open.spotify.com/track/4BopBYqzp4NXkkpjlE1hrJ"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "Heroic",
+        "url": "https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w"
+      },
+      "artists": [
+        {
+          "name": "rwethree",
+          "url": "https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT"
+        }
+      ],
+      "duration_ms": 132236,
+      "name": "Heroic",
+      "url": "https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
+        "name": "NotThatBad",
+        "url": "https://open.spotify.com/album/2Q5byoAREuhxwwLm5qSia8"
+      },
+      "artists": [
+        {
+          "name": "knight knight",
+          "url": "https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "NotThatBad",
+      "url": "https://open.spotify.com/track/6lqnK8lLs27uXoXHbSSLvg"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
         "name": "Forever Dream",
         "url": "https://open.spotify.com/album/3QCs3UZfTnPiDSvINQ90U7"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 106946,
       "name": "calathea",
       "url": "https://open.spotify.com/track/27m3PXmmcZIQopBWcrRN5H"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
-        "name": "NotThatBad",
-        "url": "https://open.spotify.com/album/2Q5byoAREuhxwwLm5qSia8"
-      },
-      "artists": [
-        {
-          "name": "knight knight",
-          "url": "https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "NotThatBad",
-      "url": "https://open.spotify.com/track/6lqnK8lLs27uXoXHbSSLvg"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX"
-      },
-      "artists": [
-        {
-          "name": "Convivial",
-          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
-        }
-      ],
-      "duration_ms": 131766,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "Blocks EP",
         "url": "https://open.spotify.com/album/191XhtmTNCKVKH9qEgbhgx"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 153637,
       "name": "Open Sea",
       "url": "https://open.spotify.com/track/2U6agF4eXkclFkvVH6vipD"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX"
+      },
+      "artists": [
+        {
+          "name": "Convivial",
+          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
+        }
+      ],
+      "duration_ms": 131766,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
+        "name": "roaming roads",
+        "url": "https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "duration_ms": 156416,
+      "name": "roaming roads",
+      "url": "https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
         "name": "Dreemin'",
         "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
       },
@@ -1847,6 +1863,22 @@
       "duration_ms": 131641,
       "name": "Dreemin'",
       "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/0Odh9MaSEKZD5C9bn5ZPfG"
+      },
+      "artists": [
+        {
+          "name": "Asokiah",
+          "url": "https://open.spotify.com/artist/4uGUzUAhZFtLDYLCR6THc5"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/08fWv17k9llzVRJ4hxq2aX"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -1899,38 +1931,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "roaming roads",
-        "url": "https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0"
-      },
-      "artists": [
-        {
-          "name": "knock on wood",
-          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
-        }
-      ],
-      "duration_ms": 156416,
-      "name": "roaming roads",
-      "url": "https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/0Odh9MaSEKZD5C9bn5ZPfG"
-      },
-      "artists": [
-        {
-          "name": "Asokiah",
-          "url": "https://open.spotify.com/artist/4uGUzUAhZFtLDYLCR6THc5"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/08fWv17k9llzVRJ4hxq2aX"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "under water",
         "url": "https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi"
       },
@@ -1943,6 +1943,22 @@
       "duration_ms": 126160,
       "name": "under water",
       "url": "https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "Cleaning Trees",
+        "url": "https://open.spotify.com/album/3ShMpTZnv3QU7r3q6b17IQ"
+      },
+      "artists": [
+        {
+          "name": "Stekt",
+          "url": "https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD"
+        }
+      ],
+      "duration_ms": 146498,
+      "name": "Cleaning Trees",
+      "url": "https://open.spotify.com/track/6oi2BvK22qXzEJntVqB1Gh"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -1979,18 +1995,18 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "Cleaning Trees",
-        "url": "https://open.spotify.com/album/3ShMpTZnv3QU7r3q6b17IQ"
+        "name": "Vietnamese Coffee",
+        "url": "https://open.spotify.com/album/3j6TYh3hRpxgHP0l9kKwL6"
       },
       "artists": [
         {
-          "name": "Stekt",
-          "url": "https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD"
+          "name": "HLY WUD",
+          "url": "https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S"
         }
       ],
-      "duration_ms": 146498,
-      "name": "Cleaning Trees",
-      "url": "https://open.spotify.com/track/6oi2BvK22qXzEJntVqB1Gh"
+      "duration_ms": 146181,
+      "name": "Vietnamese Coffee",
+      "url": "https://open.spotify.com/track/4l5u4V4zMqJD18qO4CLnkR"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -2011,18 +2027,18 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "Vietnamese Coffee",
-        "url": "https://open.spotify.com/album/3j6TYh3hRpxgHP0l9kKwL6"
+        "name": "Under the Moon",
+        "url": "https://open.spotify.com/album/1FIsq8iNelMqHuXctToihT"
       },
       "artists": [
         {
-          "name": "HLY WUD",
-          "url": "https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S"
+          "name": "Tropicolor",
+          "url": "https://open.spotify.com/artist/0C33MFjaSg48bmzyUkSAoO"
         }
       ],
-      "duration_ms": 146181,
-      "name": "Vietnamese Coffee",
-      "url": "https://open.spotify.com/track/4l5u4V4zMqJD18qO4CLnkR"
+      "duration_ms": 126000,
+      "name": "Under the Moon",
+      "url": "https://open.spotify.com/track/2f1ksx2y6I207HVlilYBBZ"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -2075,18 +2091,18 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "Under the Moon",
-        "url": "https://open.spotify.com/album/1FIsq8iNelMqHuXctToihT"
+        "name": "calm the mind",
+        "url": "https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S"
       },
       "artists": [
         {
-          "name": "Tropicolor",
-          "url": "https://open.spotify.com/artist/0C33MFjaSg48bmzyUkSAoO"
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
         }
       ],
-      "duration_ms": 126000,
-      "name": "Under the Moon",
-      "url": "https://open.spotify.com/track/2f1ksx2y6I207HVlilYBBZ"
+      "duration_ms": 142791,
+      "name": "calm the mind",
+      "url": "https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -2103,22 +2119,6 @@
       "duration_ms": 130091,
       "name": "In The Park",
       "url": "https://open.spotify.com/track/2pvQe4EUSB0Wv6hHtnAIlv"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
-        "name": "calm the mind",
-        "url": "https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S"
-      },
-      "artists": [
-        {
-          "name": "May-Flowa",
-          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
-        }
-      ],
-      "duration_ms": 142791,
-      "name": "calm the mind",
-      "url": "https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -2167,6 +2167,22 @@
       "duration_ms": 123319,
       "name": "Pillow",
       "url": "https://open.spotify.com/track/5oCP76iSvjGdnMXJik0Cy3"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "cool nights",
+        "url": "https://open.spotify.com/album/3XoC1k7u7oPWjyI7XT7hka"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "duration_ms": 156583,
+      "name": "cool nights",
+      "url": "https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -2223,22 +2239,6 @@
       "duration_ms": 148500,
       "name": "Act I",
       "url": "https://open.spotify.com/track/56Q5Wdwc0zILGWfdBzPfao"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
-        "name": "cool nights",
-        "url": "https://open.spotify.com/album/3XoC1k7u7oPWjyI7XT7hka"
-      },
-      "artists": [
-        {
-          "name": "May-Flowa",
-          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
-        }
-      ],
-      "duration_ms": 156583,
-      "name": "cool nights",
-      "url": "https://open.spotify.com/track/5MfKUo0KFcld9CLj08cKKt"
     },
     {
       "added_at": "2024-06-13 08:25:52",

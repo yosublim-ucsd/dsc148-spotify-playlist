@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 172760,
       "name": "Love in the Milky Way Cafe",
       "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
@@ -3636,6 +3636,28 @@
       "duration_ms": 230722,
       "name": "Sweether",
       "url": "https://open.spotify.com/track/3cDPmgGMkuwPhegO63xFmk"
+    },
+    {
+      "album": {
+        "name": "take it slow",
+        "url": "https://open.spotify.com/album/2du2AQcU3VPBuFmX0htj1I"
+      },
+      "artists": [
+        {
+          "name": "Homeboy",
+          "url": "https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7"
+        },
+        {
+          "name": "Luckypink4ever",
+          "url": "https://open.spotify.com/artist/1fyOzgarGTgvI0KWIeou7Z"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180326,
+      "name": "take it slow",
+      "url": "https://open.spotify.com/track/0zUOz6vZkVr9J0ygqGoNym"
     },
     {
       "album": {

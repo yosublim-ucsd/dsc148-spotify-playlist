@@ -2766,12 +2766,12 @@
           "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "RealP7oficial",
-          "url": "https://open.spotify.com/artist/1xZZFJdJSzrma6gAuGV7tz"
-        },
-        {
           "name": "\u00c9ffe",
           "url": "https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW"
+        },
+        {
+          "name": "P7",
+          "url": "https://open.spotify.com/artist/13pa0wJAx2rbhEkdncAGzn"
         },
         {
           "name": "Drumond",
@@ -3456,7 +3456,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 187317,
       "name": "Como Eu Quero",
       "url": "https://open.spotify.com/track/0Eao5RHpKiYuld02Mba9LX"
@@ -3702,7 +3702,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 191538,
       "name": "Corte Marroquino",
       "url": "https://open.spotify.com/track/4MJy1X17wbDGV6orRxBV4s"
@@ -5467,6 +5467,28 @@
     },
     {
       "album": {
+        "name": "Essa Noite",
+        "url": "https://open.spotify.com/album/3jqOefz8Ntbf1lVoCbjJDu"
+      },
+      "artists": [
+        {
+          "name": "Emicii",
+          "url": "https://open.spotify.com/artist/0eTO5i5lInVto6o5wtxGUj"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132682,
+      "name": "Essa Noite",
+      "url": "https://open.spotify.com/track/5I6nVAODkfhpP3Xtp2oRoa"
+    },
+    {
+      "album": {
         "name": "Esse Ano",
         "url": "https://open.spotify.com/album/6w9Ha6CNFIjaXFbTpqnHOw"
       },
@@ -6491,6 +6513,28 @@
     },
     {
       "album": {
+        "name": "Flow Rich",
+        "url": "https://open.spotify.com/album/7KRfbmiVdbXy52TkWS8qg8"
+      },
+      "artists": [
+        {
+          "name": "M18",
+          "url": "https://open.spotify.com/artist/0ifNhcQWCzr5sI75xxA8GW"
+        },
+        {
+          "name": "Delatorvi",
+          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157064,
+      "name": "Flow Rich",
+      "url": "https://open.spotify.com/track/5MOYHVzXiNXaURgWxMadWS"
+    },
+    {
+      "album": {
         "name": "Fogo na Party",
         "url": "https://open.spotify.com/album/7j5Uiht0RYMVwhXDiD0GkC"
       },
@@ -6546,7 +6590,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 172000,
       "name": "Fora da Cama",
       "url": "https://open.spotify.com/track/3010iumeLOidP2vJYSIZRx"
@@ -7975,6 +8019,28 @@
     },
     {
       "album": {
+        "name": "Lets Go Vishh",
+        "url": "https://open.spotify.com/album/6isLhjy8begtKAZRAE7lNn"
+      },
+      "artists": [
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "prod.bry4n",
+          "url": "https://open.spotify.com/artist/1dzHWxdEN4Chv4OyOPjbMQ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177475,
+      "name": "Lets Go Vishh",
+      "url": "https://open.spotify.com/track/5uPn6t7pHeVTOSYLWvqyh6"
+    },
+    {
+      "album": {
         "name": "Licor De Chocolate",
         "url": "https://open.spotify.com/album/4XEVxryVIjKDF4nxfWI70W"
       },
@@ -8620,7 +8686,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 133384,
       "name": "Manga Rosa",
       "url": "https://open.spotify.com/track/1ebggv45NciH0NoULmBVQC"
@@ -9176,6 +9242,32 @@
       "duration_ms": 224560,
       "name": "Mel Maia",
       "url": "https://open.spotify.com/track/1Jgwf6hiGOeJqiHULOKBCp"
+    },
+    {
+      "album": {
+        "name": "Melhor Do Ano",
+        "url": "https://open.spotify.com/album/4nl9eMfsy3ejkAiz383Vle"
+      },
+      "artists": [
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Fontes",
+          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144723,
+      "name": "Melhor Do Ano",
+      "url": "https://open.spotify.com/track/0oe5WvocbHjP2T7NBgYQHA"
     },
     {
       "album": {
@@ -9964,7 +10056,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 264000,
       "name": "Na Encruza",
       "url": "https://open.spotify.com/track/2Wh57zJyjJS95Oq4wFx8wr"
@@ -10438,7 +10530,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 177674,
       "name": "Nova Vadia",
       "url": "https://open.spotify.com/track/6gabkcablmWygvs5nhzHIj"
@@ -11168,7 +11260,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 153600,
       "name": "Orgulhosa Demais",
       "url": "https://open.spotify.com/track/5kPalC1MDIWVrpqmoBADze"
@@ -11256,7 +11348,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 175303,
       "name": "Papai me manda um Bal\u00e3o",
       "url": "https://open.spotify.com/track/4EPczAxrOpv2zLigsSeIfp"
@@ -12355,6 +12447,32 @@
     },
     {
       "album": {
+        "name": "Primeiro M",
+        "url": "https://open.spotify.com/album/5s5jtuQGYrhjQDWczUkv2x"
+      },
+      "artists": [
+        {
+          "name": "Cauart",
+          "url": "https://open.spotify.com/artist/37ABwEAZXTXfUkhoAKzgOP"
+        },
+        {
+          "name": "Blackbe",
+          "url": "https://open.spotify.com/artist/6BsJ09vtlJuxZ9dRxLbajo"
+        },
+        {
+          "name": "Lp067",
+          "url": "https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120004,
+      "name": "Primeiro M",
+      "url": "https://open.spotify.com/track/7p6k9rt7Hp2PyHsHJ159e0"
+    },
+    {
+      "album": {
         "name": "Primeiro Sinal",
         "url": "https://open.spotify.com/album/3v8xb2g3sxSDMjIGhddb84"
       },
@@ -12860,7 +12978,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 135652,
       "name": "Querido C\u00e9u",
       "url": "https://open.spotify.com/track/3TcElA10uNjjsUf7i4K9F2"
@@ -16214,7 +16332,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 160009,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/4UrUNmJrMHPw7gaM7kJcuu"

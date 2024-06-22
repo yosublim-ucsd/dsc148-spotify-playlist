@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BUS
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,066 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,105 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 13 | [hot2hot](https://open.spotify.com/track/3eUgJRHtoCxg9T0wV49gKo) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [hot2hot](https://open.spotify.com/album/6qjuFWN9s0z4gho6PWQXQH) | 4:13 |
 | 14 | [เอาไงครับ? \(This or That?\)](https://open.spotify.com/track/3J1lrFuEgwlYqW40d6p6H6) | [V3RSE](https://open.spotify.com/artist/13oNNQ2xOgh4Iqe8rrHhHG) | [เอาไงครับ? \(This or That?\)](https://open.spotify.com/album/68hYOkarmeFv7zH2Rdo8ea) | 3:30 |
 | 15 | [FEAT](https://open.spotify.com/track/5oa8CjmEAboPvZdtEM6W7w) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [FEAT](https://open.spotify.com/album/6W3l1MkqhGy7A7k4fZeoNw) | 2:59 |
-| 16 | [ดูดีดี \(Doo Dee Dee\)](https://open.spotify.com/track/3oWixUokccVq32DD5FAXj8) | [Miya Thongchua](https://open.spotify.com/artist/4ATuJlsULjVBgK1GrEyurD), [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v) | [ดูดีดี \(Doo Dee Dee\)](https://open.spotify.com/album/7Lz17nkftNCr0eUo1e1M3o) | 3:07 |
+| 16 | [ดูดีดี \(Doo Dee Dee\)](https://open.spotify.com/track/3oWixUokccVq32DD5FAXj8) | [SEYA](https://open.spotify.com/artist/372OyNajj4MygpcWFhBq1v), [Miya Thongchua](https://open.spotify.com/artist/4ATuJlsULjVBgK1GrEyurD) | [ดูดีดี \(Doo Dee Dee\)](https://open.spotify.com/album/7Lz17nkftNCr0eUo1e1M3o) | 3:07 |
 | 17 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 |
 | 18 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 |
 | 19 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ซ่อน\(ไม่\)หา](https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4) | 3:54 |

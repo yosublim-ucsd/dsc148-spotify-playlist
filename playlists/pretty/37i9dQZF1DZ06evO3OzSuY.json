@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30bc\u30f3\u30c7\u30a4\u30e4\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 23897,
-  "original_name": "This Is \u30bc\u30f3\u30c7\u30a4\u30e4",
+  "description": "This is Zendaya. The essential tracks, all in one playlist.",
+  "num_followers": 23896,
+  "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnIfgAAAAACtVSjDHW32JQsZXCTW7gGa",
+  "snapshot_id": "ZnNxAAAAAADYPEWjAzu6xqFImEOioTTN",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 217440,
       "name": "Rewrite The Stars",
       "url": "https://open.spotify.com/track/65fpYBrI8o2cfrwf2US4gq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 191710,
+      "name": "All For Us",
+      "url": "https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P"
     },
     {
       "added_at": null,
@@ -67,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 187943,
-      "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
       },
@@ -119,6 +119,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
+        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 187943,
+      "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
+      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/7ql438zy2icDWhxBHGOieI"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/1z15fhSgN6U2k4gqA1Zu4j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Neverland",
         "url": "https://open.spotify.com/album/6alQEMqbSAbkkfrfuLKRSo"
       },
@@ -131,38 +171,6 @@
       "duration_ms": 224760,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/654bpQLFU931tUdT7HHqu0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smallfoot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Wonderful Life",
-      "url": "https://open.spotify.com/track/2AD2chJEFxVPaoPo2IzI5t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/1nV9EKNIAORTvadQ19jkik"
     },
     {
       "added_at": null,
@@ -195,6 +203,38 @@
       "duration_ms": 225933,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/5xNUR50KxswPRAvx7S163g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smallfoot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "Wonderful Life",
+      "url": "https://open.spotify.com/track/2AD2chJEFxVPaoPo2IzI5t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/1nV9EKNIAORTvadQ19jkik"
     },
     {
       "added_at": null,
@@ -641,6 +681,6 @@
       "url": "https://open.spotify.com/track/6iYBqmCFPD5HzWq9Bfyiab"
     }
   ],
-  "unique_name": "This Is \u30bc\u30f3\u30c7\u30a4\u30e4",
+  "unique_name": "This Is Zendaya",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OzSuY"
 }

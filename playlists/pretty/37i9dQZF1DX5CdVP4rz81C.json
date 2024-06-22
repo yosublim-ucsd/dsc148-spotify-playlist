@@ -1,13 +1,65 @@
 {
   "description": "Discover your favorite new chill pop songs. Cover: Ben Platt",
-  "num_followers": 1332632,
+  "num_followers": 1332620,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmyJ6gAAAAC9GMf3/9otwQXn44X7Qxeb",
+  "snapshot_id": "ZnT6wAAAAAC4i3DcG9L6X1XYlvOWiQBp",
   "tracks": [
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "us. (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Tear It All Apart",
+        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 186342,
+      "name": "Tear It All Apart",
+      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Honeymind",
+        "url": "https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 251053,
+      "name": "Before I Knew You",
+      "url": "https://open.spotify.com/track/3qR4a0OJETm6ptX1coBQ2g"
+    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -33,20 +85,20 @@
       "url": "https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Honeymind",
-        "url": "https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC"
+        "name": "love & limerence",
+        "url": "https://open.spotify.com/album/7B4gJ3EYgyZw98HCvcUZRA"
       },
       "artists": [
         {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
         }
       ],
-      "duration_ms": 251053,
-      "name": "Before I Knew You",
-      "url": "https://open.spotify.com/track/3qR4a0OJETm6ptX1coBQ2g"
+      "duration_ms": 263739,
+      "name": "here, alone, again",
+      "url": "https://open.spotify.com/track/36yrRl61EcLYpTgiy2MB8V"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -63,6 +115,22 @@
       "duration_ms": 179346,
       "name": "Turn The TV On",
       "url": "https://open.spotify.com/track/1HQg5OfC2cfVO5Pv9KU0vE"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Found You First",
+        "url": "https://open.spotify.com/album/5RSzGDEaajxu1IhT0HuzQk"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 163014,
+      "name": "Found You First",
+      "url": "https://open.spotify.com/track/4JNwx0jxdd9AzfBX3FSoWg"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -145,6 +213,22 @@
       "url": "https://open.spotify.com/track/3XqoTEoAxwMXaSmidUm6wy"
     },
     {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Life at First Sight",
+        "url": "https://open.spotify.com/album/7pQfFjGdIT73op3XXM6G7J"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Life at First Sight",
+      "url": "https://open.spotify.com/track/54TAOgQWiq0jBDZ1D5F8vC"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Submarine",
@@ -223,38 +307,6 @@
       "duration_ms": 160720,
       "name": "When The Love Is Gone",
       "url": "https://open.spotify.com/track/5xD7B3SkaisxolPwBN3Ez6"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Brown Eyed Baby",
-        "url": "https://open.spotify.com/album/0BbuNyHUWmDYrPUan7GNx9"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Brown Eyed Baby",
-      "url": "https://open.spotify.com/track/5cPYGdyQDvb6eyv9PhLIs8"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "how dare you",
-      "url": "https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -473,6 +525,22 @@
       "url": "https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE"
     },
     {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/4Les9E0vFIzG1El2F4BEvm"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 212928,
+      "name": "Melt",
+      "url": "https://open.spotify.com/track/65OuiV65csFjciXDCRmWir"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "I Hope It All Works Out",
@@ -487,22 +555,6 @@
       "duration_ms": 167083,
       "name": "I Hope It All Works Out",
       "url": "https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "fifth avenue",
-        "url": "https://open.spotify.com/album/5pOGpCTL403o4QYXoZQ9zh"
-      },
-      "artists": [
-        {
-          "name": "asiris",
-          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
-        }
-      ],
-      "duration_ms": 173376,
-      "name": "fifth avenue",
-      "url": "https://open.spotify.com/track/1IE79nIDouMaDGHEapWTUj"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -619,6 +671,22 @@
       "duration_ms": 259902,
       "name": "I Forgive You",
       "url": "https://open.spotify.com/track/5ytXEc1V6ZdSpFNsg81X8O"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "bad 4 u",
+        "url": "https://open.spotify.com/album/3tDTXI67RJXUKso222o3VN"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "duration_ms": 146876,
+      "name": "bad 4 u",
+      "url": "https://open.spotify.com/track/2wYbz8CZCl2px8fruLPvqC"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1405,22 +1473,6 @@
       "url": "https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Good To Be",
-        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 147166,
-      "name": "Good To Be",
-      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Andrew",
@@ -1533,22 +1585,6 @@
       "url": "https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "nowhere fast",
-        "url": "https://open.spotify.com/album/3WQNCqAA8GVtXw1R3mfQqD"
-      },
-      "artists": [
-        {
-          "name": "Neptune",
-          "url": "https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz"
-        }
-      ],
-      "duration_ms": 144738,
-      "name": "nowhere fast",
-      "url": "https://open.spotify.com/track/3wBxFk7joZ29YP1k7rZJwo"
-    },
-    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "So Sick Of Dreaming",
@@ -1565,22 +1601,6 @@
       "url": "https://open.spotify.com/track/0JIdzqE6KollCBswa5HpIP"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "why dont we go",
-        "url": "https://open.spotify.com/album/5G5Ujsxpgm9F79YNkGfE4q"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 166508,
-      "name": "why dont we go",
-      "url": "https://open.spotify.com/track/54PYCknS6lsyUXSkgnj2OM"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Spite",
@@ -1595,22 +1615,6 @@
       "duration_ms": 159213,
       "name": "Spite",
       "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
-    },
-    {
-      "added_at": "2024-01-05 05:00:00",
-      "album": {
-        "name": "Proud",
-        "url": "https://open.spotify.com/album/3HEfD8zUlWj3BQtArGnx7Y"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 185633,
-      "name": "Proud",
-      "url": "https://open.spotify.com/track/43hgaexgdv1COrIJi5DlbN"
     },
     {
       "added_at": "2024-03-29 04:00:00",

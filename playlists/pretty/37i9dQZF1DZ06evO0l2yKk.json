@@ -1,13 +1,29 @@
 {
-  "description": "This Is Cardenales De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 153113,
+  "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
+  "num_followers": 153216,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnIfgAAAAAB87VZOVHchyefYdddlG89H",
+  "snapshot_id": "ZnNxAAAAAADCEm8M7atDNB+DKYM2P9bd",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
+    },
     {
       "added_at": null,
       "album": {
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espejo De Cantina",
-        "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "La Baraja",
-      "url": "https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Quitan El Sombrero",
         "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde el Sur Hasta el Norte",
-        "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "De Norte a Sur",
-      "url": "https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Espejo De Cantina",
         "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 324240,
       "name": "Popurr\u00ed: Cardenaleando La Cumbia",
       "url": "https://open.spotify.com/track/23I3R41lcBjbXC3J0oiThk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde el Sur Hasta el Norte",
+        "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 172640,
+      "name": "De Norte a Sur",
+      "url": "https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ"
     },
     {
       "added_at": null,

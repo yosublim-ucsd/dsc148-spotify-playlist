@@ -1,18 +1,18 @@
 {
-  "description": "All live, all blues. Cover: Christone \"Kingfish\" Ingram",
-  "num_followers": 172635,
+  "description": "All live, all blues. Cover: Joe Bonamassa",
+  "num_followers": 172677,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiHsfAAAAAA02k+wfajVVOpaK5Dxthm6",
+  "snapshot_id": "ZnT6wAAAAAANOqFZVfJwdUyPkUNwQrJo",
   "tracks": [
     {
-      "added_at": "2024-04-19 04:01:00",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
-        "url": "https://open.spotify.com/album/0FAqA6YKkJmz3y1rLhYnM4"
+        "name": "Live At The Hollywood Bowl With Orchestra",
+        "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 237400,
-      "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/3U9bFP9W41u4Bjxx3A0Nad"
+      "duration_ms": 515226,
+      "name": "Prisoner (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC"
     },
     {
       "added_at": "2024-03-08 05:01:00",
@@ -121,10 +121,10 @@
       "url": "https://open.spotify.com/track/2pgRRXsHtZe5OpHD6FmKgC"
     },
     {
-      "added_at": "2024-02-23 05:01:00",
+      "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Twenty-Four Hour Blues (Live At The Hollywood Bowl With Orchestra)",
-        "url": "https://open.spotify.com/album/5uhbe2M4tPRoDb6fH52TaJ"
+        "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
+        "url": "https://open.spotify.com/album/0FAqA6YKkJmz3y1rLhYnM4"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 347240,
-      "name": "Twenty-Four Hour Blues (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/78PzYa2mqx9MJcAvTIxR6N"
+      "duration_ms": 237400,
+      "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/3U9bFP9W41u4Bjxx3A0Nad"
     },
     {
       "added_at": "2023-11-17 05:01:00",

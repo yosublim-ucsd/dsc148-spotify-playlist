@@ -12543,6 +12543,24 @@
     },
     {
       "album": {
+        "name": "Sad Boy Feeling",
+        "url": "https://open.spotify.com/album/52AGrHjnAhckUSaVbodalh"
+      },
+      "artists": [
+        {
+          "name": "Mr Elusive",
+          "url": "https://open.spotify.com/artist/5k8mm4scsjYFJVwL8RASby"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136668,
+      "name": "Sad Boy Feeling",
+      "url": "https://open.spotify.com/track/2BtqSaGz94MNxnlEKCoCmy"
+    },
+    {
+      "album": {
         "name": "SRIRACHI SAFARI",
         "url": "https://open.spotify.com/album/4pIZcdXXxe130ZzrcnS4kw"
       },

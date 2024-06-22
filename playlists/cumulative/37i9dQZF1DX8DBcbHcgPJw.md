@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Marama, Migrantes & Flor Alvarez.
 
-535 songs - 1 day 2 hr 30 min
+536 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Con Vos](https://open.spotify.com/track/2aEwfuFWFF7Va5fEccGs3x) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Con Vos](https://open.spotify.com/album/4lN4nVXWJYtFecrKIflo7N) | 2:56 | 2024-01-19 |  |
 | [Confidencial](https://open.spotify.com/track/0w7otFzMEOT3y6sd96Wqkf) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Bryan Alvez](https://open.spotify.com/artist/6FZjAN4tUrVUtL1YcJvUsQ) | [Confidencial](https://open.spotify.com/album/1n1Pa59BRC5tch0VqXVCWn) | 2:38 | 2022-03-11 | 2022-04-19 |
 | [Contigo](https://open.spotify.com/track/6JO3vK6hwoStvTWD9dQuGT) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Yo Quiero Estar Contigo](https://open.spotify.com/album/1x96cs56bnMscZkhXR27iI) | 3:03 | 2022-01-03 | 2022-07-29 |
+| [Contrato](https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Contrato](https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno) | 3:24 | 2024-06-21 |  |
 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 | 2023-01-20 |  |
 | [Corazón de Cartón](https://open.spotify.com/track/4HN5GxtdVFUcTZDnatS6gQ) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Corazón de Cartón](https://open.spotify.com/album/0OLguIez727yBx8oLrDtus) | 2:29 | 2023-12-03 | 2023-12-23 |
 | [Corazón de Cemento](https://open.spotify.com/track/2XgdzrXCQpbwoovoAK7HTS) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Corazón de Cemento](https://open.spotify.com/album/4BT1TzdLFzI9sx2YBTyORY) | 4:00 | 2021-12-23 | 2023-02-25 |
@@ -253,7 +254,7 @@
 | [Lo Siento](https://open.spotify.com/track/3Aa0e22YhtYdeZEch2RyET) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Lo Siento](https://open.spotify.com/album/6N4GEhdNmY6Ip86tL02MDW) | 3:19 | 2021-12-23 | 2022-07-29 |
 | [Loco \- Remix](https://open.spotify.com/track/6g16gHjGRxr5owlJmNL5UQ) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred), [Agus Cassano](https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY), [Sebaa Maza](https://open.spotify.com/artist/3fBBBFMFaxGq71jf80i3O1) | [Loco \(Remix\)](https://open.spotify.com/album/3tlXX1RWqFGYp7aFurb4kL) | 2:22 | 2022-01-14 | 2022-04-16 |
 | [Locuras contigo](https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta](https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf) | 2:11 | 2021-12-23 |  |
-| [LOKITA](https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT) | [RYH](https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100) | [LOKITA](https://open.spotify.com/album/4HcuTZU8zMdNHKfwWp9NMR) | 2:31 | 2023-10-20 |  |
+| [LOKITA](https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT) | [RYH](https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100) | [LOKITA](https://open.spotify.com/album/4HcuTZU8zMdNHKfwWp9NMR) | 2:31 | 2023-10-20 | 2024-06-22 |
 | [Los Fiesteros Se Enamoran](https://open.spotify.com/track/6dHkwRSI5ja8OdEBLF73WV) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [No Es Tan Fácil](https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv) | 3:03 | 2022-03-30 | 2022-04-21 |
 | [Luna \- Remix](https://open.spotify.com/track/78F6E6CRS9uD4KF5qeaHPv) | [DJ Pirata](https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh), [El Kaio](https://open.spotify.com/artist/0c6zVQn3CWPIu7I6QV6D8Y), [Maxi Gen](https://open.spotify.com/artist/3HSGbLHJ6fmmhnBB3CzN1V) | [Luna \(Remix\)](https://open.spotify.com/album/4yfAJEQL6AsLFAOGSybjJW) | 2:24 | 2024-01-12 | 2024-02-24 |
 | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/track/1lSayCmr2lS6ndxELoabIG) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/album/30aaqAqle120bcBU5IDkgr) | 2:47 | 2023-11-24 | 2024-04-19 |

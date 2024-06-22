@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 448290,
+  "num_followers": 448306,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "superabundance",
-        "url": "https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC"
-      },
-      "artists": [
-        {
-          "name": "Mickey Jam",
-          "url": "https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9"
-        }
-      ],
-      "duration_ms": 139738,
-      "name": "superabundance",
-      "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "soft plushies",
         "url": "https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 144005,
       "name": "soft plushies",
       "url": "https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "superabundance",
+        "url": "https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC"
+      },
+      "artists": [
+        {
+          "name": "Mickey Jam",
+          "url": "https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9"
+        }
+      ],
+      "duration_ms": 139738,
+      "name": "superabundance",
+      "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "21st Trail",
-        "url": "https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb"
-      },
-      "artists": [
-        {
-          "name": "Smith Village Beat Street",
-          "url": "https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF"
-        }
-      ],
-      "duration_ms": 107027,
-      "name": "Hydra",
-      "url": "https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "soul",
         "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 215713,
       "name": "memory",
       "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "21st Trail",
+        "url": "https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb"
+      },
+      "artists": [
+        {
+          "name": "Smith Village Beat Street",
+          "url": "https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF"
+        }
+      ],
+      "duration_ms": 107027,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Under The Tree",
-        "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
-      },
-      "artists": [
-        {
-          "name": "Chrisolof",
-          "url": "https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI"
-        }
-      ],
-      "duration_ms": 114422,
-      "name": "Under The Tree",
-      "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "roadtrip",
-        "url": "https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy"
+        "name": "Under The Tree",
+        "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
       },
       "artists": [
         {
-          "name": "vibesment",
-          "url": "https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx"
+          "name": "Chrisolof",
+          "url": "https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI"
         }
       ],
-      "duration_ms": 137580,
-      "name": "roadtrip",
-      "url": "https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4"
+      "duration_ms": 114422,
+      "name": "Under The Tree",
+      "url": "https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -635,6 +619,22 @@
       "duration_ms": 131428,
       "name": "mirage",
       "url": "https://open.spotify.com/track/7dUfQSVulg6z9mYR2kuG0u"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "roadtrip",
+        "url": "https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy"
+      },
+      "artists": [
+        {
+          "name": "vibesment",
+          "url": "https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx"
+        }
+      ],
+      "duration_ms": 137580,
+      "name": "roadtrip",
+      "url": "https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -667,6 +667,22 @@
       "duration_ms": 140109,
       "name": "clear blue atmosphere",
       "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "Now, I See",
+      "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 150857,
       "name": "Free Trees",
       "url": "https://open.spotify.com/track/23xwWliB2C9ebh21I7kD0U"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
-      },
-      "artists": [
-        {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "Now, I See",
-      "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Over Skies",
-        "url": "https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Choke",
         "url": "https://open.spotify.com/album/1MwrviwJTM0eBcrEkjwbZn"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 180000,
       "name": "Choke",
       "url": "https://open.spotify.com/track/28PYwyQETvCDNXMRBFAtzr"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Over Skies",
+        "url": "https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4"
     },
     {
       "added_at": "2024-06-14 04:00:00",

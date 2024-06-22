@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 376996,
+  "num_followers": 377016,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
-        "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
-      },
-      "artists": [
-        {
-          "name": "Jim Ed Brown",
-          "url": "https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM"
-        }
-      ],
-      "duration_ms": 140306,
-      "name": "Pop a Top",
-      "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
         "name": "The Essential Don Gibson",
         "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 151773,
       "name": "Sea of Heartbreak",
       "url": "https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
+        "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
+      },
+      "artists": [
+        {
+          "name": "Jim Ed Brown",
+          "url": "https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM"
+        }
+      ],
+      "duration_ms": 140306,
+      "name": "Pop a Top",
+      "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/3xyu25a0dgVUf3JeDXql9i"
+      },
+      "artists": [
+        {
+          "name": "Hawkshaw Hawkins",
+          "url": "https://open.spotify.com/artist/0fX1VRKNIBwg3qD7oe2IVV"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "Lonesome 7-7203",
+      "url": "https://open.spotify.com/track/6ZW6ND4N7oKkUhKqWZhjyk"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
         "name": "20 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/48aF0MyVsxQgWYBF9SUR4k"
       },
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "The Best Of Roy Clark",
-        "url": "https://open.spotify.com/album/2ADFGSvr79NVsX0KcB5r2Q"
-      },
-      "artists": [
-        {
-          "name": "Roy Clark",
-          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Yesterday When I Was Young",
-      "url": "https://open.spotify.com/track/34FHyAVCDFURtlrt6HfPHU"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/4HucnJEyRrftVJCYfMzWDp"
+        "name": "The Best Of Roy Clark",
+        "url": "https://open.spotify.com/album/2ADFGSvr79NVsX0KcB5r2Q"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Roy Clark",
+          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
         }
       ],
-      "duration_ms": 126533,
-      "name": "The Race Is On",
-      "url": "https://open.spotify.com/track/5qZVPdPy0gtrZdH8yvYEyv"
+      "duration_ms": 200240,
+      "name": "Yesterday When I Was Young",
+      "url": "https://open.spotify.com/track/34FHyAVCDFURtlrt6HfPHU"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1559,6 +1559,22 @@
       "duration_ms": 148000,
       "name": "Above And Beyond",
       "url": "https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/4HucnJEyRrftVJCYfMzWDp"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 126533,
+      "name": "The Race Is On",
+      "url": "https://open.spotify.com/track/5qZVPdPy0gtrZdH8yvYEyv"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1591,22 +1607,6 @@
       "duration_ms": 129360,
       "name": "A Six Pack To Go",
       "url": "https://open.spotify.com/track/6ac7GUlfon5ezqPvDYPixS"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/3xyu25a0dgVUf3JeDXql9i"
-      },
-      "artists": [
-        {
-          "name": "Hawkshaw Hawkins",
-          "url": "https://open.spotify.com/artist/0fX1VRKNIBwg3qD7oe2IVV"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "Lonesome 7-7203",
-      "url": "https://open.spotify.com/track/6ZW6ND4N7oKkUhKqWZhjyk"
     },
     {
       "added_at": "2024-05-17 04:01:00",

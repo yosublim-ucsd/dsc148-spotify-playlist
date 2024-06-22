@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-730 songs - 1 day 3 hr 16 min
+731 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Always Want Me](https://open.spotify.com/track/24HvJre1s9gcYsgm5kV3Wz) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Always Want Me](https://open.spotify.com/album/7hnUt41M77FkCfwn7wMcXo) | 2:10 | 2022-12-02 | 2023-02-05 |
 | [AMBAL](https://open.spotify.com/track/7usbKajM9jbTQUWGdfXCiu) | [Goos](https://open.spotify.com/artist/3qbEungOBNy6JhQGP8v5cr) | [AMBAL](https://open.spotify.com/album/0uafNnjgxsjXeU91wRoWCe) | 2:32 | 2023-01-06 | 2023-03-04 |
 | [AMNESIA](https://open.spotify.com/track/32P1387Vb7TuwbprjRmtQN) | [Hikki Gaya](https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC) | [AMNESIA](https://open.spotify.com/album/1XLMa0f05anowH4OmrATqF) | 2:11 | 2022-07-15 | 2022-10-15 |
+| [Anatomy \- Slowed](https://open.spotify.com/track/2MrfUdCXGt7YKakbNjJNb6) | [TEENWXVE](https://open.spotify.com/artist/209dGpA7Rmwe4GmCQc3heC) | [Anatomy](https://open.spotify.com/album/5M9OFRE8amEDzBkEwnGLNL) | 1:43 | 2024-06-21 |  |
 | [ANGRY BIRDS PHONK](https://open.spotify.com/track/0OoXSnZEGMgQINmYALMKU8) | [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [Angry Birds Phonk](https://open.spotify.com/album/5V5npZNBv9W79xNlIRXX0F) | 1:14 | 2023-03-10 | 2023-05-27 |
 | [Anime](https://open.spotify.com/track/3yyFNFV2MQIQ4M6Rj88Eru) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Anime](https://open.spotify.com/album/1sQGosp1A9oAFtl7Ye3e4p) | 2:44 | 2022-04-04 | 2022-07-02 |
 | [ANIME PHONK](https://open.spotify.com/track/4Pj6Z9svyUSVNVPECGh4Fy) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT), [Little Trouble](https://open.spotify.com/artist/10gnuyThMyXu9EAoUKJAvS) | [ANIME PHONK](https://open.spotify.com/album/4folnJtcs3iTd5kNMOLoZU) | 2:52 | 2022-12-16 | 2023-01-14 |

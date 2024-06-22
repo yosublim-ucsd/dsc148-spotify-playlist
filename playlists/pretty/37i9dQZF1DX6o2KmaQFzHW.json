@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 187475,
+  "num_followers": 187516,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,22 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Carnaval, Pasi\u00f3n del Norte",
-        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
+        "name": "Chamame",
+        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
       },
       "artists": [
         {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
         },
         {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 202053,
-      "name": "Canto Nochero",
-      "url": "https://open.spotify.com/track/0omW2uqEb73K7uvzNFzRDm"
+      "duration_ms": 171399,
+      "name": "Km. 11",
+      "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -611,22 +611,22 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Chamame",
-        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
+        "name": "Carnaval, Pasi\u00f3n del Norte",
+        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
       },
       "artists": [
         {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        },
-        {
           "name": "Los Nocheros",
           "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 171399,
-      "name": "Km. 11",
-      "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
+      "duration_ms": 202053,
+      "name": "Canto Nochero",
+      "url": "https://open.spotify.com/track/0omW2uqEb73K7uvzNFzRDm"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "MILENA",
-        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
-      },
-      "artists": [
-        {
-          "name": "Milena Salamanca",
-          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
-        }
-      ],
-      "duration_ms": 198234,
-      "name": "Florcita Del Monte",
-      "url": "https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
         "name": "Para Que Vuelvas",
         "url": "https://open.spotify.com/album/1YzBnvHJKVVTHvJqnmyL3n"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 182200,
       "name": "Criollita Santiague\u00f1a",
       "url": "https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
+        "name": "MILENA",
+        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
+      },
+      "artists": [
+        {
+          "name": "Milena Salamanca",
+          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
+        }
+      ],
+      "duration_ms": 198234,
+      "name": "Florcita Del Monte",
+      "url": "https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Quien Me Quita Lo Cantado",
-        "url": "https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 201427,
-      "name": "Por las costas entrerrianas",
-      "url": "https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 227533,
       "name": "C\u00f3rdoba Sin Ti",
       "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
+        "name": "Quien Me Quita Lo Cantado",
+        "url": "https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 201427,
+      "name": "Por las costas entrerrianas",
+      "url": "https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
+        "name": "Inolvidable - Jorge Cafrune -",
+        "url": "https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "La atardecida",
+      "url": "https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
         "name": "Aqui Cosquin",
         "url": "https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 181386,
       "name": "Romance de Plumas Verdes",
       "url": "https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
-        "name": "Inolvidable - Jorge Cafrune -",
-        "url": "https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cafrune",
-          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "La atardecida",
-      "url": "https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Carlos Torres Vila-Los Elegidos",
-        "url": "https://open.spotify.com/album/6DKp4qYEUKGsgjz6YzizWC"
-      },
-      "artists": [
-        {
-          "name": "Carlos Torres Vila",
-          "url": "https://open.spotify.com/artist/5OQpgiuh3jzgADQidpRcTb"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "La Enga\u00f1era",
-      "url": "https://open.spotify.com/track/4CW7J5XQGm24KMXD6euxfM"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
         "name": "Nuestras Mejores 30 Canciones",
         "url": "https://open.spotify.com/album/1PLHsC4X3wdJr6xFEfzcjJ"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 161773,
       "name": "Recuerdo Salte\u00f1o",
       "url": "https://open.spotify.com/track/3esSMzPYxYBnW6ARIgr4Oo"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
+        "name": "Carlos Torres Vila-Los Elegidos",
+        "url": "https://open.spotify.com/album/6DKp4qYEUKGsgjz6YzizWC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Torres Vila",
+          "url": "https://open.spotify.com/artist/5OQpgiuh3jzgADQidpRcTb"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "La Enga\u00f1era",
+      "url": "https://open.spotify.com/track/4CW7J5XQGm24KMXD6euxfM"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Reencuentro en el CCK",
-        "url": "https://open.spotify.com/album/6ICf6htjHOdzE4caqtT69b"
-      },
-      "artists": [
-        {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
-        }
-      ],
-      "duration_ms": 115147,
-      "name": "Repiqueteadita",
-      "url": "https://open.spotify.com/track/5oaKdJi8it3WRS3RMAqZsE"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
         "name": "Cantas T\u00fa, Canto Yo",
         "url": "https://open.spotify.com/album/5URTFnqKE3e1MINrqVjAgF"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 219933,
       "name": "Chibidon",
       "url": "https://open.spotify.com/track/3AYQhu2ISuQEd8lBJDIpXD"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
+        "name": "Reencuentro en el CCK",
+        "url": "https://open.spotify.com/album/6ICf6htjHOdzE4caqtT69b"
+      },
+      "artists": [
+        {
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+        }
+      ],
+      "duration_ms": 115147,
+      "name": "Repiqueteadita",
+      "url": "https://open.spotify.com/track/5oaKdJi8it3WRS3RMAqZsE"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1763,22 +1763,18 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Tonada del viejo amor",
-        "url": "https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih"
+        "name": "Los Tekis-Los Elegidos",
+        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
       },
       "artists": [
         {
-          "name": "Patricio Villarejo",
-          "url": "https://open.spotify.com/artist/0JkIG94rcts9CuTMPIuMVl"
-        },
-        {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 278733,
-      "name": "Tonada del viejo amor",
-      "url": "https://open.spotify.com/track/65D0PzyFvb20eFe6FOzgif"
+      "duration_ms": 196413,
+      "name": "Cantas T\u00fa, Canto Yo",
+      "url": "https://open.spotify.com/track/5IJ9BpJg40GItALp4XY3HK"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1799,6 +1795,26 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
+        "name": "Tonada del viejo amor",
+        "url": "https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih"
+      },
+      "artists": [
+        {
+          "name": "Patricio Villarejo",
+          "url": "https://open.spotify.com/artist/0JkIG94rcts9CuTMPIuMVl"
+        },
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        }
+      ],
+      "duration_ms": 278733,
+      "name": "Tonada del viejo amor",
+      "url": "https://open.spotify.com/track/65D0PzyFvb20eFe6FOzgif"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/3rEBrFbu2Gf4jeg6Rjzo0T"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 145693,
       "name": "Camino al Amor",
       "url": "https://open.spotify.com/track/0RvY0zu9rB1CKW0FwNr627"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
-        "name": "Los Tekis-Los Elegidos",
-        "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 196413,
-      "name": "Cantas T\u00fa, Canto Yo",
-      "url": "https://open.spotify.com/track/5IJ9BpJg40GItALp4XY3HK"
     },
     {
       "added_at": "2024-06-12 22:52:11",

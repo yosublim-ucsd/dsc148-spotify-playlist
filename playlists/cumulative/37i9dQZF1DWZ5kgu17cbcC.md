@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including The Greatest Hits, now streaming on Hulu.
 
-99 songs - 4 hr 43 min
+100 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Suncoast](https://open.spotify.com/track/7lKyxgVa7ouvaTNfK4Bml8) | [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc), [Christopher Stracey](https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa) | [Suncoast \(Original Soundtrack\)](https://open.spotify.com/album/5h4yMJibNgzJ47rytW6v5t) | 2:16 | 2024-02-23 |  |
 | [Sunny Side Up Summer](https://open.spotify.com/track/2L4FsKQUUNJGGdqkxsdsMK) | [Bob's Burgers](https://open.spotify.com/artist/0NZ4IxTtMSEx59a0H0ikLE), [H\. Jon Benjamin](https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM), [John Roberts](https://open.spotify.com/artist/5HGXZdpWmmXoDqbCCsBlYt), [Dan Mintz](https://open.spotify.com/artist/397MkfYKFROVhksmvcf2nP), [Kristen Schaal](https://open.spotify.com/artist/0YSJvUTu5XXaaoIaNsAoIs), [Eugene Mirman](https://open.spotify.com/artist/2405AUADWenBRsMcOcDPd0) | [The Bob's Burgers Movie \(A Major Motion Burger Soundtrack\)](https://open.spotify.com/album/4racK1k0RK1kUl3eWROny7) | 3:57 | 2024-01-05 |  |
 | [Switch Lanes](https://open.spotify.com/track/2w1xwGmyQIoN9MhLdD8zQW) | [Mato Wayuhi](https://open.spotify.com/artist/70rrdlPO77vFHx1GLER7WT) | [Reservation Dogs: The Final Season \(Original Soundtrack\)](https://open.spotify.com/album/763K1MHlPlbyqjgRhmaq9m) | 2:03 | 2024-01-05 |  |
+| [Tape Is Out](https://open.spotify.com/track/4bI3kpWm7dCaK1X98afbzp) | [Wendy Wang](https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB) | [Clipped \(Original Soundtrack\)](https://open.spotify.com/album/5ADc92z01yCtFLPfJfHpl4) | 2:04 | 2024-06-21 |  |
 | [The Council Will Answer to Me](https://open.spotify.com/track/3Dec3T74gcjixXzFZBjW0X) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Original Soundtrack\)](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 2:28 | 2024-02-23 |  |
 | [The Greatest \- From "Reasonable Doubt"](https://open.spotify.com/track/0AlX2jTWf5EPdyofaFLVDs) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [The Greatest \(From "Reasonable Doubt"\)](https://open.spotify.com/album/1CgMZUY6CURLCpv224DlNK) | 2:54 | 2024-01-05 |  |
 | [The King's Man](https://open.spotify.com/track/7c83RE46yaPpADloOKnpJr) | [Matthew Margeson](https://open.spotify.com/artist/0XoDro3xyUJ9BEf5FlSECi), [Dominic Lewis](https://open.spotify.com/artist/3L0d5AOt1pZZ2HxjJ15p2U) | [The King's Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61iloqr9hJ3NxXxvm7h30A) | 4:16 | 2024-01-05 |  |

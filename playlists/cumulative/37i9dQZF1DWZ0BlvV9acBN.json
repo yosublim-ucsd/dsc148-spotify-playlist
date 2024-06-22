@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Oficina G3",
+  "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Novo Som",
   "name": "Templo do Rock",
   "tracks": [
     {
@@ -198,6 +198,24 @@
       "duration_ms": 380250,
       "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
       "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
+    },
+    {
+      "album": {
+        "name": "Novo Som (Legado)",
+        "url": "https://open.spotify.com/album/70s9Abr9QOsXPlXu9cx0og"
+      },
+      "artists": [
+        {
+          "name": "Novo Som",
+          "url": "https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241714,
+      "name": "Acredita (Legado)",
+      "url": "https://open.spotify.com/track/7uqo88bv78vsNOmSwEpgLP"
     },
     {
       "album": {
@@ -706,7 +724,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 337930,
       "name": "Derrama Fogo - Ao Vivo",
       "url": "https://open.spotify.com/track/7gZmrRAb9RfP8SBnUaWqU0"

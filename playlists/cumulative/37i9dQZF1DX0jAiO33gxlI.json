@@ -1087,6 +1087,32 @@
     },
     {
       "album": {
+        "name": "O Pirata e o Jaganata",
+        "url": "https://open.spotify.com/album/4GbfEc8SKMhkFuHnDECzLb"
+      },
+      "artists": [
+        {
+          "name": "Aori",
+          "url": "https://open.spotify.com/artist/42aKmFNXt0KKWbnYVl2mhp"
+        },
+        {
+          "name": "Barba Negra",
+          "url": "https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq"
+        },
+        {
+          "name": "Ivan Conti",
+          "url": "https://open.spotify.com/artist/2dfKG7aNtsTiPXBkXqQbVa"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "AOS MESTRES",
+      "url": "https://open.spotify.com/track/5FJ0yBpXFryQBfpv86huck"
+    },
+    {
+      "album": {
         "name": "Aparte",
         "url": "https://open.spotify.com/album/4CTWa1yv9vPeEUbidGDqQO"
       },
@@ -2528,7 +2554,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 207437,
       "name": "Casinha",
       "url": "https://open.spotify.com/track/7bZR2XV6u4lDOZ7PXkaXmn"
@@ -3994,7 +4020,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 194285,
       "name": "Destravei",
       "url": "https://open.spotify.com/track/6k1vUdEGISLogRQj5rkBXA"
@@ -5920,10 +5946,32 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 221102,
       "name": "Frenesi",
       "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/7qEz9AFcTLLavxlozVtQWB"
+      },
+      "artists": [
+        {
+          "name": "12boishawty",
+          "url": "https://open.spotify.com/artist/6ZotjcGWd1XXzbJbu7r1hK"
+        },
+        {
+          "name": "Young Hades",
+          "url": "https://open.spotify.com/artist/4zxU9WPobQlLVJ6BXlbAal"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183254,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/17y0Tr9GX1MrNLMWX0m8fg"
     },
     {
       "album": {
@@ -9605,7 +9653,7 @@
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 156350,
+      "duration_ms": 155842,
       "name": "NAVE",
       "url": "https://open.spotify.com/track/7gjhc84DGkAIqvbhR5qJ5L"
     },
@@ -9692,7 +9740,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 134425,
       "name": "Ni Hao",
       "url": "https://open.spotify.com/track/0GEPTrEfY4KE7oA3JiUA1J"
@@ -12266,7 +12314,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 172838,
       "name": "PRAZER, ANSIEDADE",
       "url": "https://open.spotify.com/track/40uEfhdYQxOy95eHB6rrsS"
@@ -12983,6 +13031,24 @@
     },
     {
       "album": {
+        "name": "Renascimento Freestyle",
+        "url": "https://open.spotify.com/album/5vr13gmTMfKhSmnWfvz1G1"
+      },
+      "artists": [
+        {
+          "name": "Dimom\u00f4",
+          "url": "https://open.spotify.com/artist/0JMQwtTBWVaKd6nZAcX2cT"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Renascimento Freestyle",
+      "url": "https://open.spotify.com/track/2NSS6MSQ0n69YU84wr4fnM"
+    },
+    {
+      "album": {
         "name": "Resgatado",
         "url": "https://open.spotify.com/album/4BwE3hsAixvtoWxvZN3ATb"
       },
@@ -13187,6 +13253,24 @@
     },
     {
       "album": {
+        "name": "Ret\u00e3o da Jota",
+        "url": "https://open.spotify.com/album/7cdLZ9CszU6YTRfwes30WG"
+      },
+      "artists": [
+        {
+          "name": "Ramonzin",
+          "url": "https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107464,
+      "name": "Ret\u00e3o da Jota",
+      "url": "https://open.spotify.com/track/0qmyQdpASeboA56cPAEvP3"
+    },
+    {
+      "album": {
         "name": "Revoada",
         "url": "https://open.spotify.com/album/7jXwwkRfr3INN7q4IPWEDK"
       },
@@ -13228,6 +13312,32 @@
       "duration_ms": 205310,
       "name": "Ritmada e Pixadona",
       "url": "https://open.spotify.com/track/3ulPHMUKYGIkaAuKMeCQvY"
+    },
+    {
+      "album": {
+        "name": "Royalties",
+        "url": "https://open.spotify.com/album/46xcEsF2vogEu0cn6fcg33"
+      },
+      "artists": [
+        {
+          "name": "Ashira",
+          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
+        },
+        {
+          "name": "Xuvisco na Batida",
+          "url": "https://open.spotify.com/artist/6VrxgJBSxnIguMCptNFYXa"
+        },
+        {
+          "name": "Victor Henry",
+          "url": "https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Royalties",
+      "url": "https://open.spotify.com/track/7z2OOBDHZiZghqOxmW7Smo"
     },
     {
       "album": {
@@ -13362,6 +13472,28 @@
       "duration_ms": 217872,
       "name": "Sala de Estar",
       "url": "https://open.spotify.com/track/1LTgY069vxDFybdo3Lhr9h"
+    },
+    {
+      "album": {
+        "name": "Salubre",
+        "url": "https://open.spotify.com/album/0zhw9GCz9HJ7YzSxZCPvuY"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        },
+        {
+          "name": "SETE MC",
+          "url": "https://open.spotify.com/artist/0ZTdh1wb9jKAnk6ApKrD35"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194606,
+      "name": "Salubre",
+      "url": "https://open.spotify.com/track/4FomCp03ArHaUlQRb0nhqz"
     },
     {
       "album": {
@@ -13680,7 +13812,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 172173,
       "name": "Sem Jeito",
       "url": "https://open.spotify.com/track/4PLi9GQh1cBV44xk3JnzhO"
@@ -14730,7 +14862,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 109090,
       "name": "Super Daddy",
       "url": "https://open.spotify.com/track/22NieCpgNN3OlSBjQuXiDn"
@@ -14815,6 +14947,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173334,
+      "name": "S\u00c3O PAULO",
+      "url": "https://open.spotify.com/track/37srJxBv0dfjmyvbX7xMAh"
+    },
+    {
+      "album": {
         "name": "S\u00f3 Era N\u00f3s",
         "url": "https://open.spotify.com/album/4xm2JGYOqNOYNkHdqGG7bf"
       },
@@ -14826,7 +14980,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 194730,
       "name": "S\u00f3 Era N\u00f3s",
       "url": "https://open.spotify.com/track/7nJ4wRW6vdHLR7FosmdeAT"
@@ -14904,6 +15058,28 @@
       "duration_ms": 316000,
       "name": "Tamo Gigante",
       "url": "https://open.spotify.com/track/4TZb54H3UesQom2lskMF3B"
+    },
+    {
+      "album": {
+        "name": "Tandera",
+        "url": "https://open.spotify.com/album/5hA1OohoDmhaugYLyWBmcL"
+      },
+      "artists": [
+        {
+          "name": "X1",
+          "url": "https://open.spotify.com/artist/5s7JvhjsQGuOn5Jta1sxE3"
+        },
+        {
+          "name": "LinoMC",
+          "url": "https://open.spotify.com/artist/35axXY086AdebmHJ8qT8I0"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178524,
+      "name": "Tandera",
+      "url": "https://open.spotify.com/track/50QdjEAqGOPMSAgxnl2DuI"
     },
     {
       "album": {
@@ -15502,7 +15678,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 155744,
       "name": "Tonelada",
       "url": "https://open.spotify.com/track/7w9sOIJlDHAO8PQSGwGfjf"

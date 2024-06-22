@@ -923,26 +923,6 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
-        "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
-        "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
-      },
-      "artists": [
-        {
-          "name": "BOOKKU DDOONG",
-          "url": "https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw"
-        },
-        {
-          "name": "CHOI YOOJUNG",
-          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
-      "url": "https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
         "name": "Is this love?",
         "url": "https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 183296,
       "name": "Is this love? (with YOUN TOVEN)",
       "url": "https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
+        "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
+        "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
+      },
+      "artists": [
+        {
+          "name": "BOOKKU DDOONG",
+          "url": "https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw"
+        },
+        {
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
+      "url": "https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb"
     },
     {
       "added_at": "2024-05-09 15:41:17",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-05-09 15:41:17",
       "album": {
+        "name": "Weird Boy",
+        "url": "https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s"
+      },
+      "artists": [
+        {
+          "name": "murmoom",
+          "url": "https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3"
+        }
+      ],
+      "duration_ms": 217035,
+      "name": "Weird Boy",
+      "url": "https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm"
+    },
+    {
+      "added_at": "2024-05-09 15:41:17",
+      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/4FwZ6ZCeZVo7wQ3abMjvH4"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 192500,
       "name": "I See You",
       "url": "https://open.spotify.com/track/3ykkBOfFlZrIqgxn6aoLya"
-    },
-    {
-      "added_at": "2024-05-09 15:41:17",
-      "album": {
-        "name": "Weird Boy",
-        "url": "https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s"
-      },
-      "artists": [
-        {
-          "name": "murmoom",
-          "url": "https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3"
-        }
-      ],
-      "duration_ms": 217035,
-      "name": "Weird Boy",
-      "url": "https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm"
     },
     {
       "added_at": "2024-05-09 15:41:17",

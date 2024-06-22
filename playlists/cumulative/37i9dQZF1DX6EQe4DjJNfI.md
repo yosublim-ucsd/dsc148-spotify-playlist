@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Melly
 
-221 songs - 11 hr 13 min
+222 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1001 Roteiros](https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV), [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2) | [1001 Roteiros](https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm) | 2:41 | 2024-03-22 |  |
 | [22:50](https://open.spotify.com/track/4fhAcHeUevxayFBkoyDAeY) | [Janu](https://open.spotify.com/artist/6hJAzChzllkTwqTIU3NP1W), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf), [Dj Kaslu](https://open.spotify.com/artist/6ZP4IqLMMJNAXeXMehlO8S) | [22:50](https://open.spotify.com/album/2szD2sU7fHObX4eAPnKAho) | 3:24 | 2022-11-18 | 2022-12-03 |
 | [5458](https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [5458](https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV) | 3:07 | 2022-11-18 | 2023-11-04 |
+| [A Faca e o Beijo](https://open.spotify.com/track/2B6uSfSsBqdCOo1Xc1WqGY) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [A Faca e o Beijo](https://open.spotify.com/album/4TNTbaTflBaJI88vXWB2nM) | 2:03 | 2024-06-21 |  |
 | [A MEIA NOITE](https://open.spotify.com/track/0zohxkEGHHOEZSJddLIGjL) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [VERÃO](https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs) | 3:39 | 2024-03-01 |  |
 | [A Noite Toda](https://open.spotify.com/track/7xr8FjbUs6rZjs3YikkDZn) | [Charm Mone](https://open.spotify.com/artist/6SwZ7tPzqkYRTNBVNshv7c), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [A Noite Toda](https://open.spotify.com/album/23I05Wl6UdtEX9sgA2KtW5) | 3:04 | 2023-06-30 | 2023-07-15 |
 | [A Nossa Brisa](https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy) | [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Lunar](https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf) | 1:55 | 2022-12-01 |  |
@@ -139,7 +140,7 @@
 | [Não Vou Negar](https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY), [papi](https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu) | [Não Vou Negar](https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb) | 2:43 | 2022-11-18 |  |
 | [Nós](https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Amar Dói](https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn) | 2:48 | 2023-03-31 |  |
 | [Nós Dois](https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Nós Dois](https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY) | 2:27 | 2022-11-18 | 2023-02-25 |
-| [O Brilho Que Você Tem](https://open.spotify.com/track/2WPF0QFIXL3CvjwrTMlqeF) | [Géssy](https://open.spotify.com/artist/0y2VGY2fahIK7ktr8WlFFF), [Rogério Cruz](https://open.spotify.com/artist/2WB8FpkFN3lAFiWIkqKTj7) | [O Brilho Que Você Tem](https://open.spotify.com/album/7gzCz9T1qSql7cTZa2IHTU) | 2:25 | 2024-04-12 |  |
+| [O Brilho Que Você Tem](https://open.spotify.com/track/2WPF0QFIXL3CvjwrTMlqeF) | [Géssy](https://open.spotify.com/artist/0y2VGY2fahIK7ktr8WlFFF), [Rogério Cruz](https://open.spotify.com/artist/2WB8FpkFN3lAFiWIkqKTj7) | [O Brilho Que Você Tem](https://open.spotify.com/album/7gzCz9T1qSql7cTZa2IHTU) | 2:25 | 2024-04-12 | 2024-06-22 |
 | [O Que Eu Soul \- Acústico](https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [O Que Eu Soul \(Acústico\)](https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC) | 3:19 | 2022-11-18 |  |
 | [Olhos de Cigana](https://open.spotify.com/track/1dJu8nGmVqdHiGBsy7gxRl) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Olhos de Cigana](https://open.spotify.com/album/5QgZgivyTMSqquSjv4iCXf) | 2:58 | 2023-03-03 | 2023-04-29 |
 | [Pacotinho \(Menino\)](https://open.spotify.com/track/66yTfEFEiKLFRs3V0RermR) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Pacotinho \(Música Pra Chá Revelação\)](https://open.spotify.com/album/7ae0cv8LouEl4n51QDhQz9) | 2:42 | 2023-10-06 | 2023-11-11 |

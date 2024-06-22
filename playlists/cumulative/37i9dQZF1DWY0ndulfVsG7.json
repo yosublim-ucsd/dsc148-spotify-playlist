@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Melly Goeslaw",
+  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Nidji",
   "name": "Berjiran",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 253800,
       "name": "Ada Apa Dengan Cinta (feat. Eric Erlangga) - Remastered 2024",
       "url": "https://open.spotify.com/track/0LVnwiUhNuq1fzMsyzf6ew"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 240280,
       "name": "Akhir Cerita Cinta",
       "url": "https://open.spotify.com/track/6Qe5wOREjTPivo6M5kW5h3"
@@ -100,10 +100,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 267880,
       "name": "Aku dan Dirimu (feat. Ari Lasso)",
       "url": "https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP"
+    },
+    {
+      "album": {
+        "name": "Setengah Mati Merindu",
+        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242640,
+      "name": "Aku Yang Tersakiti",
+      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
     },
     {
       "album": {
@@ -154,10 +172,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 221133,
       "name": "Berdua Lebih Baik",
       "url": "https://open.spotify.com/track/1QjAmxYS652vXrSy3BhZ9D"
+    },
+    {
+      "album": {
+        "name": "Biarkanlah",
+        "url": "https://open.spotify.com/album/5oR5jLtz8APUIBiZ5lB4CL"
+      },
+      "artists": [
+        {
+          "name": "Drama Band",
+          "url": "https://open.spotify.com/artist/5NWfEZx5XGbVCAQTjhSxlR"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253561,
+      "name": "Biarkanlah",
+      "url": "https://open.spotify.com/track/0TbxuF4pkOZBfdBipPorYQ"
     },
     {
       "album": {
@@ -172,7 +208,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 215600,
       "name": "Bimbang - Remastered 2024",
       "url": "https://open.spotify.com/track/2ScdiGpRHznTFtqrQNmePu"
@@ -215,6 +251,28 @@
     },
     {
       "album": {
+        "name": "Chentaku (feat. SonaOne)",
+        "url": "https://open.spotify.com/album/0isfC79ZoHRIO8zMCvLOiz"
+      },
+      "artists": [
+        {
+          "name": "Zizan Razak",
+          "url": "https://open.spotify.com/artist/7GkUskIBOKpJRyzpE7WQBD"
+        },
+        {
+          "name": "SonaOne",
+          "url": "https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235268,
+      "name": "Chentaku (feat. SonaOne)",
+      "url": "https://open.spotify.com/track/0xWcxp3BFrKSsAgpGtaseK"
+    },
+    {
+      "album": {
         "name": "Untukmu Selamanya",
         "url": "https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva"
       },
@@ -226,7 +284,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 283360,
       "name": "Cinta Dalam Hati",
       "url": "https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK"
@@ -248,6 +306,24 @@
       "duration_ms": 243706,
       "name": "Cinta Ini Membunuhku",
       "url": "https://open.spotify.com/track/53epbNYjH2elPuHjpqRSUk"
+    },
+    {
+      "album": {
+        "name": "Perubahan",
+        "url": "https://open.spotify.com/album/6dY3qq7sAl3T7tNy5ZdGd8"
+      },
+      "artists": [
+        {
+          "name": "D\u2019MASIV",
+          "url": "https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243706,
+      "name": "Cinta Ini Membunuhku",
+      "url": "https://open.spotify.com/track/63tUGwq0yrWE6FVemfPps9"
     },
     {
       "album": {
@@ -298,7 +374,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 264853,
       "name": "Dealova",
       "url": "https://open.spotify.com/track/4Eybcl06frChLYoXm0sxJi"
@@ -323,6 +399,42 @@
     },
     {
       "album": {
+        "name": "Di Matamu",
+        "url": "https://open.spotify.com/album/521xA0pwxGzGgoSNAp0vZc"
+      },
+      "artists": [
+        {
+          "name": "Sufian Suhaimi",
+          "url": "https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247169,
+      "name": "Di Matamu",
+      "url": "https://open.spotify.com/track/5jAqkM00R41cm1Y2T0mGzb"
+    },
+    {
+      "album": {
+        "name": "Percubaan Pertama",
+        "url": "https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT"
+      },
+      "artists": [
+        {
+          "name": "Aizat Amdan",
+          "url": "https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253066,
+      "name": "Hanya Kau Yang Mampu",
+      "url": "https://open.spotify.com/track/4HFP0A7i6NIOscKVdilus2"
+    },
+    {
+      "album": {
         "name": "Breakthru",
         "url": "https://open.spotify.com/album/3l2Co6Zu0DIsZgCNvnxuVS"
       },
@@ -338,6 +450,46 @@
       "duration_ms": 252613,
       "name": "Hapus Aku",
       "url": "https://open.spotify.com/track/6MPo0FYKvO0AewUJoL9GUu"
+    },
+    {
+      "album": {
+        "name": "Bintang AF9",
+        "url": "https://open.spotify.com/album/5Vx4WaEEaLLFuoTRcHLSfT"
+      },
+      "artists": [
+        {
+          "name": "Nera",
+          "url": "https://open.spotify.com/artist/0Kt6innlQ0yy0xxChAM15b"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273800,
+      "name": "Hatiku Milikmu",
+      "url": "https://open.spotify.com/track/4MwpF3wrsriEDRSAhR1CSB"
+    },
+    {
+      "album": {
+        "name": "Infiniti Cinta (feat. Kaka)",
+        "url": "https://open.spotify.com/album/4NxFtMRaChpHqbpFep5qej"
+      },
+      "artists": [
+        {
+          "name": "Zizan Razak",
+          "url": "https://open.spotify.com/artist/7GkUskIBOKpJRyzpE7WQBD"
+        },
+        {
+          "name": "Kaka",
+          "url": "https://open.spotify.com/artist/0l837MyEH2h1Au2Ex3f9v5"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279640,
+      "name": "Infiniti Cinta (feat. Kaka)",
+      "url": "https://open.spotify.com/track/6wqrJ8bTBXUiUj9TRQjKdr"
     },
     {
       "album": {
@@ -392,7 +544,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 254013,
       "name": "Kamu Yang Kutunggu",
       "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
@@ -410,7 +562,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 241266,
       "name": "Kamulah Satu - Satunya",
       "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
@@ -489,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Kepuraanmu",
+        "url": "https://open.spotify.com/album/2rMuIKkyrOHg60Ulf9Sa1e"
+      },
+      "artists": [
+        {
+          "name": "Luqman Faiz",
+          "url": "https://open.spotify.com/artist/2ZhUfT19cZKRi7sayQcEZH"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231180,
+      "name": "Kepuraanmu",
+      "url": "https://open.spotify.com/track/5tNfSGN2zQ6y3E5pl5Wggy"
+    },
+    {
+      "album": {
         "name": "Ada Apa Dengan Cinta? (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
       },
@@ -518,7 +688,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 177493,
       "name": "Ku Bahagia - Remastered 2024",
       "url": "https://open.spotify.com/track/4EwQUyMUy8WsLc1IkUPdNk"
@@ -543,6 +713,42 @@
     },
     {
       "album": {
+        "name": "Percubaan Pertama",
+        "url": "https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT"
+      },
+      "artists": [
+        {
+          "name": "Aizat Amdan",
+          "url": "https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "Lagu Kita",
+      "url": "https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W"
+    },
+    {
+      "album": {
+        "name": "King of Soundtrack",
+        "url": "https://open.spotify.com/album/1Bz3ZhNWrWrV0MOALDvMCF"
+      },
+      "artists": [
+        {
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232786,
+      "name": "Laskar Pelangi",
+      "url": "https://open.spotify.com/track/6lTbFpGPseKbUFFIOHscXO"
+    },
+    {
+      "album": {
         "name": "Satu Hati Sejuta Cinta",
         "url": "https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo"
       },
@@ -554,7 +760,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 239506,
       "name": "Mabuk Cinta",
       "url": "https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG"
@@ -572,7 +778,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 266306,
       "name": "Matahariku",
       "url": "https://open.spotify.com/track/08M6ihbCJmAmfo4uoRYkOD"
@@ -702,10 +908,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 253133,
       "name": "Pencinta Wanita",
       "url": "https://open.spotify.com/track/0sMclGmddV8xeqBgI2k2yB"
+    },
+    {
+      "album": {
+        "name": "Perasaanku",
+        "url": "https://open.spotify.com/album/1Aep3n7K9j0m1ech4wRXFD"
+      },
+      "artists": [
+        {
+          "name": "Fieya Julia",
+          "url": "https://open.spotify.com/artist/1jSD4QWACN76zckZySJWVA"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238869,
+      "name": "Perasaanku",
+      "url": "https://open.spotify.com/track/0F9MgsXvr3oLfGX8bodXZW"
     },
     {
       "album": {
@@ -742,6 +966,24 @@
       "duration_ms": 301824,
       "name": "Risalah Hati",
       "url": "https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9"
+    },
+    {
+      "album": {
+        "name": "Sakit",
+        "url": "https://open.spotify.com/album/7BJzH3Q3qe33MO9KexP6Gc"
+      },
+      "artists": [
+        {
+          "name": "IamNeeta",
+          "url": "https://open.spotify.com/artist/6g7i9qhTwxhEuxNUhU1mCg"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205659,
+      "name": "Sakit",
+      "url": "https://open.spotify.com/track/3pkLAqPKJWqr9MluDVIc6U"
     },
     {
       "album": {
@@ -810,7 +1052,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 235280,
       "name": "Sekali Ini Saja",
       "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
@@ -854,6 +1096,46 @@
       "duration_ms": 250920,
       "name": "Seluruh Cinta",
       "url": "https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP"
+    },
+    {
+      "album": {
+        "name": "Seluruh Cinta",
+        "url": "https://open.spotify.com/album/6lMnyG4BzvZ9OzyDnz81k6"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        },
+        {
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247346,
+      "name": "Seluruh Cinta",
+      "url": "https://open.spotify.com/track/4H5duXBqQ9GvXP6LlReMAX"
+    },
+    {
+      "album": {
+        "name": "Cinta Oh Cinta",
+        "url": "https://open.spotify.com/album/3oguAxoLaliYDafQTgzlIJ"
+      },
+      "artists": [
+        {
+          "name": "Amelina",
+          "url": "https://open.spotify.com/artist/4fP8gIS9c2DDH41XpYAJh5"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315986,
+      "name": "Semakin Rindu Semakin Asyik",
+      "url": "https://open.spotify.com/track/6JWReCLNZOPLUmhnlUFp6G"
     },
     {
       "album": {
@@ -965,6 +1247,42 @@
     },
     {
       "album": {
+        "name": "Phobia Phoney",
+        "url": "https://open.spotify.com/album/0920Hzcff51JwfH8v0tJOl"
+      },
+      "artists": [
+        {
+          "name": "Bunkface",
+          "url": "https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237893,
+      "name": "Situasi",
+      "url": "https://open.spotify.com/track/5Y1p00AX1pF7jP9irUf50A"
+    },
+    {
+      "album": {
+        "name": "Sudah Ku Tahu",
+        "url": "https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0"
+      },
+      "artists": [
+        {
+          "name": "Projector Band",
+          "url": "https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258331,
+      "name": "Sudah Ku Tahu",
+      "url": "https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9"
+    },
+    {
+      "album": {
         "name": "Sumpah & Cinta Matiku",
         "url": "https://open.spotify.com/album/1JED0cowG7lFPgzdS2Jnpv"
       },
@@ -976,7 +1294,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 285693,
       "name": "Sumpah & Cinta Matiku",
       "url": "https://open.spotify.com/track/4XkRq1i9xbVruOchbfGBz5"
@@ -998,6 +1316,24 @@
       "duration_ms": 285693,
       "name": "Sumpah dan Cinta Matiku",
       "url": "https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc"
+    },
+    {
+      "album": {
+        "name": "King of Soundtrack",
+        "url": "https://open.spotify.com/album/1Bz3ZhNWrWrV0MOALDvMCF"
+      },
+      "artists": [
+        {
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285693,
+      "name": "Sumpah Dan Cinta Matiku",
+      "url": "https://open.spotify.com/track/5XbyzK3HiXLXD910VsBbRA"
     },
     {
       "album": {
@@ -1048,7 +1384,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 265560,
       "name": "Tercipta Untukku",
       "url": "https://open.spotify.com/track/4CGpzrPjP0xaJfN9g9FN9A"
@@ -1102,7 +1438,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 245400,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
@@ -1138,7 +1474,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 199138,
       "name": "Yang Terdalam",
       "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"

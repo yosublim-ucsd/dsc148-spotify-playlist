@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: JUSTHIS\(저스디스\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: Lee Young Ji\(이영지\)\)
 
-1,252 songs - 2 day 19 hr 59 min
+1,255 songs - 2 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Acid Fly Remix \(feat\. CAMO\)](https://open.spotify.com/track/1Ilw0zTfz9tTEmpXpeE1yI) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Acid Fly](https://open.spotify.com/album/1blCTbDNhWWH8iDzsL0Ykz) | 3:04 | 2021-12-18 | 2022-07-07 |
 | [Acrobat2](https://open.spotify.com/track/1lr3eme5yOQOAplN5IeDyn) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Acrobat2](https://open.spotify.com/album/304DvtYxxinY180ueQrB6d) | 3:10 | 2023-06-13 | 2023-07-19 |
 | [Act \(feat\. Joe Layne, Leellamarz & Spray\)](https://open.spotify.com/track/5ZGC39A9zDCh5YTuXQJ8mh) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [Joe Layne](https://open.spotify.com/artist/01TdF2ZEvA91OvXXuJfQfQ), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Spray](https://open.spotify.com/artist/08yoNApAYvtzOK5P3qZKw8) | [Act \(feat\. Joe Layne, Leellamarz & Spray\)](https://open.spotify.com/album/1Dipt0nKCFZSpciqmeFRSj) | 3:41 | 2022-03-31 | 2022-07-08 |
+| [ADHD \(feat\. Jambino\)](https://open.spotify.com/track/4RswMuoJPErLTTdpYG5Qb0) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jambino](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:13 | 2024-06-21 |  |
 | [AEAO](https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8) | 5:16 | 2022-08-31 | 2024-06-05 |
 | [After That](https://open.spotify.com/track/4kWcZO2KKXMaWBJ7hlckK4) | [Doplamingo](https://open.spotify.com/artist/1T7DSjrtX5ydHFT9xJOQCn) | [The Gateless Gate](https://open.spotify.com/album/7x50GGhigFVzm7NGuCOmtk) | 2:57 | 2022-01-24 | 2022-04-19 |
 | [AI \(Feat\. Loco\)](https://open.spotify.com/track/6m59rcNvnRlTkzDPBCwFc3) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [AI \(Feat\. Loco\)](https://open.spotify.com/album/09SjUlWI36jjXjcRx8qjRG) | 2:59 | 2024-05-27 |  |
@@ -71,6 +72,7 @@
 | [ANI\(feat.SOYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/3l1xBiDVRNJHTx4WvITGfs) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [ANI\(feat.SOYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/album/5nt7HzeKaxAp6Gh4fZoqMm) | 3:01 | 2021-12-21 | 2022-07-04 |
 | [Another One \(feat\. The Quiett & BRADYSTREET\)](https://open.spotify.com/track/6MLqJL9Rp0rhTt7ELiprJ8) | [Yammo](https://open.spotify.com/artist/4RaAk6G5YqpM22TFGfZwFV), [BRADYSTREET](https://open.spotify.com/artist/5VWEpJSb8drkormu61Yb5j), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Found Footage](https://open.spotify.com/album/7d6rfBdayTiVsyzyg0rhkV) | 2:30 | 2024-03-27 |  |
 | [answer m3](https://open.spotify.com/track/7mmsUcFkp1mwTDFHHl4nuF) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [ITULT](https://open.spotify.com/album/6JnnOgTI2O8X2UOMI83TLK) | 3:01 | 2023-08-22 | 2024-01-06 |
+| [ANTIHERO](https://open.spotify.com/track/3l9XcrPZwg37swSJD3AmcC) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [PUMP](https://open.spotify.com/album/34Z7aFV3bVDGu1EBQogK2p) | 3:17 | 2024-06-21 |  |
 | [Antisocial \(Prod\. Mokyo\)](https://open.spotify.com/track/5FFWhDhJe9u9y4l8qkz4LR) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [bimil:ier vol.3 "Antisocial \(Prod\. Mokyo\)"](https://open.spotify.com/album/1nCv396FdEoEd2T5OSWPL6) | 3:35 | 2021-12-18 | 2022-07-08 |
 | [Ape Freestyle \- Spotify Singles](https://open.spotify.com/track/5yV2rps3tcEwxhuYZRJ38k) | [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI), [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [Spotify Singles](https://open.spotify.com/album/21hyerYXEXL0rLnagGfTZ0) | 5:30 | 2023-03-24 | 2023-09-08 |
 | [Apocalypse Prod\. PEEJAY](https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Apocalypse](https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r) | 2:16 | 2023-07-17 | 2023-11-16 |
@@ -984,6 +986,7 @@
 | [sleep tight](https://open.spotify.com/track/3W2PPFdSBQeK96qQwKBnhH) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:49 | 2022-10-19 | 2022-10-27 |
 | [SLIDE](https://open.spotify.com/track/2gef02SzAOGE9QKgxwMW9i) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Drop The Bit The 3rd round Pt\. 1](https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX) | 3:57 | 2022-04-14 | 2022-04-20 |
 | [slide \(feat\. GIST\)](https://open.spotify.com/track/3nYD1CM9YmOFGGo1CwsWgX) | [CMBY](https://open.spotify.com/artist/7a3cKDQSaO1C3bIBXq3xA2), [GIST\(윤현선\)](https://open.spotify.com/artist/5dnSklPcejwtwQ2zc5a7Dn) | [slide](https://open.spotify.com/album/2t0VHLvRwXmTHmqDm1giSC) | 2:56 | 2022-02-14 | 2022-06-26 |
+| [Small girl \(feat\. D.O.\)](https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:09 | 2024-06-21 |  |
 | [SMASH! \(feat\. Skinny Brown\)](https://open.spotify.com/track/5krsjTkOuJQkxZXTdNtJ6f) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [SMASH! \(feat\. Skinny Brown\)](https://open.spotify.com/album/1Zq9QoDJ2zmG3aniPLUZkI) | 2:41 | 2023-04-25 | 2023-11-04 |
 | [SMF \(Prod\. Czaer\)](https://open.spotify.com/track/2RwFM3urdm9MhkZek5G8aH) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Street Man Fighter Original Vol.1](https://open.spotify.com/album/64RwgplkeOHLK04rkdf9Fq) | 2:16 | 2022-03-05 | 2023-01-18 |
 | [Smoke \(feat\. Polodared\)](https://open.spotify.com/track/058ZQqNEtrQ4Wp9IbgcFWh) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [Born Broke Die Rich](https://open.spotify.com/album/1t9dVL3qkg7sKZSeXzbc4y) | 3:34 | 2023-04-27 | 2023-06-14 |

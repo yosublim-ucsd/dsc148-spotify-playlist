@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 161693,
       "name": "Cuarto para la Madrugada (11:45)",
       "url": "https://open.spotify.com/track/4O4exhK5b7QQ2y7nVUh1VW"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 150272,
       "name": "Feeling Alright",
       "url": "https://open.spotify.com/track/5Keh0UFTDJhm51dF2SEyqp"
@@ -1362,6 +1362,32 @@
       "duration_ms": 207898,
       "name": "Felicidades",
       "url": "https://open.spotify.com/track/1jx9ljlGXGrN1sIuEpBfnF"
+    },
+    {
+      "album": {
+        "name": "Flakita",
+        "url": "https://open.spotify.com/album/4S4cvQx7xl3BqA39CrsuJN"
+      },
+      "artists": [
+        {
+          "name": "D\u2019Garay",
+          "url": "https://open.spotify.com/artist/5tAbkBMgE8yJ39PyGnWqjz"
+        },
+        {
+          "name": "Fer Sober\u00f3n",
+          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
+        },
+        {
+          "name": "Gardu",
+          "url": "https://open.spotify.com/artist/6pgBGo3QGFtzdVciDvscrn"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171050,
+      "name": "Flakita",
+      "url": "https://open.spotify.com/track/75GPUVRzfOBic0OXkuO313"
     },
     {
       "album": {
@@ -2558,6 +2584,32 @@
       "duration_ms": 169409,
       "name": "Nunca Tuve Tanto",
       "url": "https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG"
+    },
+    {
+      "album": {
+        "name": "Oscar Wilde (Rojo o Az\u00fal)",
+        "url": "https://open.spotify.com/album/0vvECE56hSEeXVbr3hinUE"
+      },
+      "artists": [
+        {
+          "name": "Castellano",
+          "url": "https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91"
+        },
+        {
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Oscar Wilde (Rojo o Az\u00fal)",
+      "url": "https://open.spotify.com/track/2nny4wYZq9iHiqeGtGZ2hd"
     },
     {
       "album": {

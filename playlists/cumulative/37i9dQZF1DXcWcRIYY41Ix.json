@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 236756,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz"
@@ -368,6 +368,28 @@
       "duration_ms": 233813,
       "name": "ah\u00ed atr\u00e1s (miedo en el mar)",
       "url": "https://open.spotify.com/track/4xcZZdAB9IZ9mOFrC9cmsL"
+    },
+    {
+      "album": {
+        "name": "Ahi va la loca",
+        "url": "https://open.spotify.com/album/6TvABeewgd63ktF6OCwYqD"
+      },
+      "artists": [
+        {
+          "name": "IRIA M",
+          "url": "https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa"
+        },
+        {
+          "name": "Factoria Chakataga",
+          "url": "https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204592,
+      "name": "Ah\u00ed va la loca",
+      "url": "https://open.spotify.com/track/2W3MgCC9NcsnjSYjY9IKGu"
     },
     {
       "album": {
@@ -2760,7 +2782,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 183042,
       "name": "C\u00f3mplices",
       "url": "https://open.spotify.com/track/6f3Ixaaw9914fBP2Kv71vl"
@@ -8596,7 +8618,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 220569,
       "name": "Por Qu\u00e9?",
       "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
@@ -10449,6 +10471,28 @@
     },
     {
       "album": {
+        "name": "Temerario (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2zZVXgcEvBEiIyOtGmO0Ic"
+      },
+      "artists": [
+        {
+          "name": "Itaca Band",
+          "url": "https://open.spotify.com/artist/1tQtaouRCs37gaJVi7HTYR"
+        },
+        {
+          "name": "Gerard Aledo",
+          "url": "https://open.spotify.com/artist/2G3PV2M6Mpb2FjRVNio1tf"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227357,
+      "name": "Temerario - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0f4uL39wrm5n6iDF2ZQEuH"
+    },
+    {
+      "album": {
         "name": "Temes",
         "url": "https://open.spotify.com/album/7kvGZ7dfdr1qvfWgsdemGl"
       },
@@ -10854,7 +10898,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 290250,
       "name": "Tratar\u00e9",
       "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
@@ -11950,6 +11994,24 @@
       "duration_ms": 182296,
       "name": "Ya no sigo esperando por ti",
       "url": "https://open.spotify.com/track/1MGtxp2QVsI2DDAeGaAqpg"
+    },
+    {
+      "album": {
+        "name": "Yemaya",
+        "url": "https://open.spotify.com/album/2EUCdSAaYYQjYku6FsDNw7"
+      },
+      "artists": [
+        {
+          "name": "Sibila",
+          "url": "https://open.spotify.com/artist/32oM4BbE1zXFs0wZV6O0ZT"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272876,
+      "name": "Yemaya",
+      "url": "https://open.spotify.com/track/2HVjSBp66ZdDoJ3r0oryOQ"
     },
     {
       "album": {

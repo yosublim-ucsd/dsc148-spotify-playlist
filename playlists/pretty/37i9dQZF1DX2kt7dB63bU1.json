@@ -1,13 +1,61 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 141776,
+  "num_followers": 141810,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmvAQAAAAAAd62nms2LwQHHSTGKto1zA",
+  "snapshot_id": "ZnT6wAAAAACq4t30GFfNb8yvBU8FMTOb",
   "tracks": [
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "The Henry Mancini 100th Sessions: Henry Has Company",
+        "url": "https://open.spotify.com/album/6GkHGNDk3Zf7pIAsvN5J0v"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 152296,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/2wdEIPHk6Tua3NMTTZIBfR"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Um Vento Passou (para Paul Simon)",
+        "url": "https://open.spotify.com/album/33UAU0Ydepj6ohDfiUFPPp"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 276973,
+      "name": "Um Vento Passou (para Paul Simon) [Feat. Paul Simon]",
+      "url": "https://open.spotify.com/track/7aFU5mdJcsyhP6UAteoDiH"
+    },
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
@@ -583,38 +631,6 @@
       "duration_ms": 159294,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/2I7LnGwzorTgRFn7FymQRg"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "The Best Mistake",
-        "url": "https://open.spotify.com/album/3qJqCnJ8DOEgTpbSLFxV3B"
-      },
-      "artists": [
-        {
-          "name": "Anthony Lazaro",
-          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
-        }
-      ],
-      "duration_ms": 164869,
-      "name": "The Best Mistake",
-      "url": "https://open.spotify.com/track/57dFZtD0yXsonQEndrFqf5"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "I Miss You So",
-        "url": "https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "I Miss You So",
-      "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
     },
     {
       "added_at": "2023-06-16 04:01:00",

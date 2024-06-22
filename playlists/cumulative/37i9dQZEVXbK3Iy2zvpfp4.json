@@ -754,7 +754,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 145554,
       "name": "4 Xany",
       "url": "https://open.spotify.com/track/5McaxrUzgYSjviDdFLVaBX"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -2638,7 +2638,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 198400,
       "name": "ART DECO (TEKKNO)",
       "url": "https://open.spotify.com/track/5E0FGSdQruBGedbKrhx4po"
@@ -9592,7 +9592,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 202743,
       "name": "Don't Turn the Bass Down",
       "url": "https://open.spotify.com/track/0m1rKryxt6PuEStB89hEgy"
@@ -10228,7 +10228,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 123946,
       "name": "D\u017eanes",
       "url": "https://open.spotify.com/track/5agUzhiIJPAuj76t38TMy4"
@@ -17876,6 +17876,28 @@
     {
       "album": {
         "name": "Islands (kompa pasi\u00f3n)",
+        "url": "https://open.spotify.com/album/0ZoUKS7k3JfhKbc7T3zjcs"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        },
+        {
+          "name": "Tomo",
+          "url": "https://open.spotify.com/artist/5VPtDTD7IRhJ4N322GNFJj"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126494,
+      "name": "Islands (kompa pasi\u00f3n)",
+      "url": "https://open.spotify.com/track/6LCIDTgSgQtpzXTW5FpW12"
+    },
+    {
+      "album": {
+        "name": "Islands (kompa pasi\u00f3n)",
         "url": "https://open.spotify.com/album/4ZPSYxKeYGWBwnswkAnH3n"
       },
       "artists": [
@@ -17890,7 +17912,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 126494,
       "name": "Islands (kompa pasi\u00f3n)",
       "url": "https://open.spotify.com/track/759dcxbhX9thQaqvHKfZOW"
@@ -19150,6 +19172,24 @@
       "duration_ms": 173576,
       "name": "Keep It Tucked",
       "url": "https://open.spotify.com/track/7zr6ktZGXoKSLblWKG5B2x"
+    },
+    {
+      "album": {
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
     },
     {
       "album": {
@@ -24692,10 +24732,28 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 179282,
       "name": "Muhammad Ali",
       "url": "https://open.spotify.com/track/2DNbopJeEINYaJS7RfpwS1"
+    },
+    {
+      "album": {
+        "name": "Muhammad Ali",
+        "url": "https://open.spotify.com/album/0MyK6yZKRpakGMz2TF6olI"
+      },
+      "artists": [
+        {
+          "name": "Nico Benz",
+          "url": "https://open.spotify.com/artist/3TLH7kooWQnVKX1rdeEH8W"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179282,
+      "name": "Muhammad Ali",
+      "url": "https://open.spotify.com/track/4L2t3pqnonMcUI2SKFHKPs"
     },
     {
       "album": {
@@ -27430,7 +27488,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 113000,
       "name": "ODZEMOK",
       "url": "https://open.spotify.com/track/0LQ8aBCDnwjOjvnnz2vuYn"
@@ -35548,7 +35606,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 170670,
       "name": "Sp\u00e1l\u0148a s\u00f4ch",
       "url": "https://open.spotify.com/track/2INP0DROyWbufygXh5wD1z"
@@ -36022,6 +36080,24 @@
       "duration_ms": 176360,
       "name": "Stop The Cavalry",
       "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
+    },
+    {
+      "album": {
+        "name": "STOP WITH IT (La La La La)",
+        "url": "https://open.spotify.com/album/5qZGVwoTwHzVjQhoobn2S2"
+      },
+      "artists": [
+        {
+          "name": "Axemo",
+          "url": "https://open.spotify.com/artist/5mCrYGvWDefz3ZHBMgbaGd"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "STOP WITH IT (La La La La)",
+      "url": "https://open.spotify.com/track/4lZHP98G8lR47Xgo8gLU4X"
     },
     {
       "album": {
@@ -42240,7 +42316,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 188010,
       "name": "WOKE UP",
       "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
@@ -42294,7 +42370,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 172381,
       "name": "WORK",
       "url": "https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR"
@@ -42882,6 +42958,24 @@
       "duration_ms": 162089,
       "name": "Youngsta",
       "url": "https://open.spotify.com/track/0nUlWrMQOd7R8XUAMhF6Xs"
+    },
+    {
+      "album": {
+        "name": "YOYO",
+        "url": "https://open.spotify.com/album/4GRiqayoSbebxlSVOQNhD0"
+      },
+      "artists": [
+        {
+          "name": "Xsuicidex",
+          "url": "https://open.spotify.com/artist/21NZD3QrktQYAI48NN8BfO"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86808,
+      "name": "YOYO",
+      "url": "https://open.spotify.com/track/3lwDQOQthG4Qx19IhkbWw0"
     },
     {
       "album": {

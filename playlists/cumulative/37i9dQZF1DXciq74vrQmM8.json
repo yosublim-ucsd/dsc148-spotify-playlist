@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Otha",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Bree Runway",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -1980,10 +1980,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 146935,
       "name": "break!",
       "url": "https://open.spotify.com/track/7172TPIseIF3lB54hmlo14"
+    },
+    {
+      "album": {
+        "name": "breakdown.",
+        "url": "https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163453,
+      "name": "breakdown.",
+      "url": "https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz"
     },
     {
       "album": {
@@ -3573,6 +3591,28 @@
     },
     {
       "album": {
+        "name": "crows",
+        "url": "https://open.spotify.com/album/2wutFjyUUQM1zjF4DVK9iz"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        },
+        {
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192275,
+      "name": "decay (feat. Vaeo)",
+      "url": "https://open.spotify.com/track/4vl9FGUcOaeAHe7yc7MeZO"
+    },
+    {
+      "album": {
         "name": "Deepfake",
         "url": "https://open.spotify.com/album/5etIvzB5KdXf4JVZTIhWrZ"
       },
@@ -3750,6 +3790,24 @@
       "duration_ms": 188403,
       "name": "Devils",
       "url": "https://open.spotify.com/track/4IZ7GX68Kn5fvAnGXUf0GT"
+    },
+    {
+      "album": {
+        "name": "devotion",
+        "url": "https://open.spotify.com/album/3aA1i0mnVQ7JvvNK3E9eKn"
+      },
+      "artists": [
+        {
+          "name": "dvnny phvntom",
+          "url": "https://open.spotify.com/artist/4z6UsrqM8KdHPjv1NZJ9To"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187012,
+      "name": "devotion",
+      "url": "https://open.spotify.com/track/6j7Z13DccQFpDjYr0RZRdQ"
     },
     {
       "album": {
@@ -4896,6 +4954,24 @@
       "duration_ms": 189583,
       "name": "Fighting Fate",
       "url": "https://open.spotify.com/track/4PNPN7lA1UMYbKtTco1JtB"
+    },
+    {
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/67AmAQx1U7G3Ys8GOj3tC5"
+      },
+      "artists": [
+        {
+          "name": "Hana Lili",
+          "url": "https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/2OsrAgl3HdZgPv1ni0NiZT"
     },
     {
       "album": {
@@ -6942,6 +7018,24 @@
       "duration_ms": 119396,
       "name": "Horror Scene (feat. aldn)",
       "url": "https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR"
+    },
+    {
+      "album": {
+        "name": "HORSESHOE",
+        "url": "https://open.spotify.com/album/012qqLrwZE7qAtRS7zejW1"
+      },
+      "artists": [
+        {
+          "name": "Gao the Arsonist",
+          "url": "https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244472,
+      "name": "HORSESHOE",
+      "url": "https://open.spotify.com/track/6Bmc5FZ5QnrMhPR8nh7OcJ"
     },
     {
       "album": {
@@ -9276,7 +9370,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 165000,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/4Dy2uAN24IunT8A0oeA3D2"
@@ -11994,7 +12088,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 200403,
       "name": "QUIET",
       "url": "https://open.spotify.com/track/1fnVKNuin6baQbZFEx3jHJ"
@@ -12030,7 +12124,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 198404,
       "name": "quite like love",
       "url": "https://open.spotify.com/track/4XvUEZrVB1cqc5ncbDUu8F"
@@ -12142,7 +12236,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 207411,
       "name": "RAPTURE (CULT)",
       "url": "https://open.spotify.com/track/0nlDK0L1VdLiISjhZ8w7Lk"
@@ -13842,7 +13936,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 159000,
       "name": "supernAtural",
       "url": "https://open.spotify.com/track/6pqbW62SKuIGJxiYjHTx6l"
@@ -14091,6 +14185,28 @@
     },
     {
       "album": {
+        "name": "The Blob",
+        "url": "https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142467,
+      "name": "The Blob",
+      "url": "https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd"
+    },
+    {
+      "album": {
         "name": "the boy has to go",
         "url": "https://open.spotify.com/album/0aVw3K6DI8SaVyriGFnacg"
       },
@@ -14308,7 +14424,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 163908,
       "name": "the red pill",
       "url": "https://open.spotify.com/track/6vuYeoUv1Rij1Q60OxDcmS"
@@ -14862,6 +14978,24 @@
       "duration_ms": 130259,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/75nfXT58HlELm2SGI3L0Ea"
+    },
+    {
+      "album": {
+        "name": "Toxins",
+        "url": "https://open.spotify.com/album/7lKTFbEOfMHcZ0xMzPB9md"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142539,
+      "name": "Toxins",
+      "url": "https://open.spotify.com/track/5MarKAwrQvOEGlCOKEeIw3"
     },
     {
       "album": {

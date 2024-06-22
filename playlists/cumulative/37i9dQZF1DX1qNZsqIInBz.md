@@ -4,13 +4,14 @@
 
 > smooth drifting only
 
-208 songs - 9 hr 12 min
+209 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [After World](https://open.spotify.com/track/43jFJOD28MIG9vgcqVlvhn) | [chipbagov](https://open.spotify.com/artist/0sd6x399jllqi3BqxgBvlw) | [After World](https://open.spotify.com/album/42cJG6MAXsrjoR7wV5e22G) | 2:11 | 2022-10-10 | 2023-08-05 |
 | [AFTERLIFE](https://open.spotify.com/track/5PfNKiRk4pyJWxle5cU0ba) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy) | [AFTERLIFE](https://open.spotify.com/album/3G5QIHz6XSKOUISBBbP28B) | 3:16 | 2022-10-10 |  |
 | [ALL FOR YOU](https://open.spotify.com/track/6EAewY7sUaLGigFkwsPZ05) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [ALL FOR YOU](https://open.spotify.com/album/6GkycAHZzXAIDBpEuM0XAR) | 1:31 | 2023-09-22 | 2023-10-14 |
+| [Anatomy \- Slowed](https://open.spotify.com/track/2MrfUdCXGt7YKakbNjJNb6) | [TEENWXVE](https://open.spotify.com/artist/209dGpA7Rmwe4GmCQc3heC) | [Anatomy](https://open.spotify.com/album/5M9OFRE8amEDzBkEwnGLNL) | 1:43 | 2024-06-21 |  |
 | [Andromeda](https://open.spotify.com/track/3T9ouQ0YeXLayMQ9eWPAda) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [Andromeda](https://open.spotify.com/album/6x9oS9r0yMvUk0tnUBCFOQ) | 3:36 | 2022-10-10 | 2023-08-19 |
 | [Angel](https://open.spotify.com/track/0OIJbFfZfNoAA8oATXh0xr) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Angel](https://open.spotify.com/album/6PwehYyShfSDzzJPZyoZWq) | 3:18 | 2022-10-10 | 2023-08-19 |
 | [Angel](https://open.spotify.com/track/2fuyypeK7fMoQlps83Q9K1) | [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Angel](https://open.spotify.com/album/0ZJf5EajMpqKbUGeE6Sj4N) | 3:18 | 2023-03-10 | 2023-09-09 |
@@ -62,7 +63,7 @@
 | [ENDLESS UNIVERSE](https://open.spotify.com/track/547me0XjHDVwhmUyj4g1rL) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [QUXNTUM](https://open.spotify.com/artist/4M5emv4BULTYkIbOxpXtmH) | [ENDLESS UNIVERSE](https://open.spotify.com/album/5qYUor2QBiTcRJJmDgivX9) | 2:52 | 2023-08-11 |  |
 | [ENDLESS VOID](https://open.spotify.com/track/1ZzxutGot8uQzdvtwZnqhz) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7) | [ENDLESS VOID](https://open.spotify.com/album/5PsqDyjDE9FPUkQgWNwv56) | 2:22 | 2022-10-10 |  |
 | [ERROR](https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [ERROR](https://open.spotify.com/album/6DrhF7XGUjRODusNQoOkhi) | 2:42 | 2023-05-05 | 2024-03-30 |
-| [EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI) | [DVRKLXGHT](https://open.spotify.com/artist/4tfNkqJHj0rmRuERAZJDxf) | [EUPHORIA](https://open.spotify.com/album/1t32gKI0EhGB4z5hnwKjSs) | 3:03 | 2022-10-10 |  |
+| [EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI) | [DVRKLXGHT](https://open.spotify.com/artist/4tfNkqJHj0rmRuERAZJDxf) | [EUPHORIA](https://open.spotify.com/album/1t32gKI0EhGB4z5hnwKjSs) | 3:03 | 2022-10-10 | 2024-06-22 |
 | [EUPHORIA SECRET](https://open.spotify.com/track/29aUIAviBlcr0yuIAjuzNn) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [EUPHORIA SECRET](https://open.spotify.com/album/7zmGPpqRqLeH5MFUdGb7n4) | 2:19 | 2022-10-10 | 2023-12-09 |
 | [Excused](https://open.spotify.com/track/1dAUBCLkCrTbiOSk8iJ12b) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR) | [Excused](https://open.spotify.com/album/711t4AGqeMZkLio6N8e3up) | 2:23 | 2024-01-26 |  |
 | [EXIST](https://open.spotify.com/track/6SqUoYtpsmaFhSU3TnUVtT) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [vvpskvd.](https://open.spotify.com/artist/4HrUqrQRBMyLml2vQmggKA) | [EXIST](https://open.spotify.com/album/5iDNw2t9CGE9rTlRe3VpL9) | 3:03 | 2022-10-10 | 2023-05-06 |

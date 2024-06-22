@@ -1,12 +1,12 @@
 {
   "description": "Down-tempo and easy listening music. Cover: Teddy Swims",
-  "num_followers": 5691,
+  "num_followers": 5698,
   "original_name": "Low Key Pop",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHBHX4G6XKcwBZ0mEYsAWr3RRsg5tC",
+  "snapshot_id": "AAAHBnPRfC2vWaWvygOeILL64eXH+q09",
   "tracks": [
     {
       "added_at": "2024-06-21 00:52:06",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
+      "added_at": "2024-06-21 06:39:25",
+      "album": {
+        "name": "Tear It All Apart",
+        "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 186342,
+      "name": "Tear It All Apart",
+      "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
+    },
+    {
       "added_at": "2024-05-10 00:37:07",
       "album": {
         "name": "SAINT",
@@ -71,6 +87,22 @@
       "duration_ms": 188092,
       "name": "Saint",
       "url": "https://open.spotify.com/track/3wtGbwOllRwGYUFplSyJzA"
+    },
+    {
+      "added_at": "2024-06-21 06:40:46",
+      "album": {
+        "name": "Found You First",
+        "url": "https://open.spotify.com/album/5RSzGDEaajxu1IhT0HuzQk"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 163014,
+      "name": "Found You First",
+      "url": "https://open.spotify.com/track/4JNwx0jxdd9AzfBX3FSoWg"
     },
     {
       "added_at": "2024-05-31 03:46:49",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 1110109,
+  "num_followers": 1110177,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-05-07 23:09:14",
       "album": {
-        "name": "Qu\u00e9 De Raro Tiene",
-        "url": "https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Ac\u00e1 Entre Nos",
-      "url": "https://open.spotify.com/track/7jGzWIfDZLVyLYEWaX3oTR"
-    },
-    {
-      "added_at": "2024-05-07 23:09:14",
-      "album": {
         "name": "Un Pu\u00f1o de Tierra",
         "url": "https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 188453,
       "name": "Un Pu\u00f1o De Tierra",
       "url": "https://open.spotify.com/track/7EGYbyTTEmmdqUu4MV6eHD"
+    },
+    {
+      "added_at": "2024-05-07 23:09:14",
+      "album": {
+        "name": "Qu\u00e9 De Raro Tiene",
+        "url": "https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Ac\u00e1 Entre Nos",
+      "url": "https://open.spotify.com/track/7jGzWIfDZLVyLYEWaX3oTR"
     },
     {
       "added_at": "2024-05-07 23:09:14",

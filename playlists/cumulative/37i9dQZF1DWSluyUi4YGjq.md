@@ -2,9 +2,9 @@
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
-> Includes track selections from DIIV, featuring new album <a href="spotify:album:7xLRw5DsWnAMmNBp8I67UD">Frog in Boiling Water</a>.
+> Gazing at pedals, soaring celestially high\. cover: They Are Gutting A Body Of Water
 
-653 songs - 1 day 18 hr 27 min
+657 songs - 1 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 | 2023-09-01 | 2024-02-24 |
 | [alife](https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [alife](https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm) | 4:33 | 2023-09-01 | 2023-09-14 |
 | [All Gone](https://open.spotify.com/track/7BgzLzMFHTVJn9TP7gZX9o) | [Beachy Head](https://open.spotify.com/artist/6Kq54gSL9Ms7dLu8t4AcZz) | [Beachy Head](https://open.spotify.com/album/7n95iySQSShHU7doQfeGP4) | 3:17 | 2021-10-19 | 2022-07-28 |
+| [All My Life, My Heart Has Yearned For A Thing I Cannot Name](https://open.spotify.com/track/1LEZb9NLQiq935IrSlbWyV) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [All My Life, My Heart Has Yearned For A Thing I Cannot Name](https://open.spotify.com/album/34ySsZAtskfVOYm3x7Q3ZH) | 4:04 | 2024-06-21 |  |
 | [All That I've Wasted](https://open.spotify.com/track/2tHAj5Py3sXE8pJyh5ouPz) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [All That I've Wasted](https://open.spotify.com/album/76O4Nw778B7Xa34TASnvA8) | 3:22 | 2023-03-24 | 2023-08-05 |
 | [All Under The Sky](https://open.spotify.com/track/7wyECc1POvxhV7CPnteNSu) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Everything at Once](https://open.spotify.com/album/5TBEBYAXEMrIKMBZKxGyYl) | 4:37 | 2023-05-25 | 2023-11-28 |
 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 | 2021-10-19 | 2023-01-14 |
@@ -59,6 +60,7 @@
 | [Beautiful World](https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ) | 5:20 | 2022-12-15 | 2023-05-10 |
 | [Beautiful World \- Live](https://open.spotify.com/track/71i036RsGc3ROLvodV3YAa) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [After the Night \(Live\)](https://open.spotify.com/album/5PcxtGgY7XRDp8T6ghpk5E) | 5:30 | 2024-02-23 |  |
 | [Beauty \- Bonus Track](https://open.spotify.com/track/3uROaybnOXpcvQrv47ChcN) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait to Pleasure \(10th Anniversary Edition\)](https://open.spotify.com/album/2WSCMIIjNRdYTGvko0E6xS) | 6:09 | 2023-06-23 | 2023-09-02 |
+| [beautysleep](https://open.spotify.com/track/5NTFOg05K8RCKMb8kxQonW) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [swanlike \(loosies 2020\-2023\)](https://open.spotify.com/album/1uTLUieuvkY3bEPDpaKNJZ) | 2:09 | 2024-06-21 |  |
 | [Become](https://open.spotify.com/track/6MxpGNjoKliUlyW9HbKBrH) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh), [Soko](https://open.spotify.com/artist/4Q3f2YYH4gQxWFS3WY5G3j) | [Happening](https://open.spotify.com/album/1AFBK10RHCuXnHXaTgyonQ) | 3:50 | 2023-02-17 | 2023-08-12 |
 | [Before](https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 4:28 | 2023-08-11 | 2023-10-27 |
 | [Before](https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Before](https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp) | 4:28 | 2023-08-11 | 2023-10-21 |
@@ -194,6 +196,7 @@
 | [Ease](https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Whirr & Nothing \(Split Version\)](https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo) | 3:26 | 2021-10-19 | 2023-01-14 |
 | [Ease](https://open.spotify.com/track/7bUUdMyymVGHrYQg4xIqfm) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Whirr & Nothing \(Split Version\)](https://open.spotify.com/album/3C9y1zQaBRW3271tiXvcXc) | 3:26 | 2021-10-19 | 2022-07-29 |
 | [Eastern Ave](https://open.spotify.com/track/36TAPA4t0xNIom74YqvFHe) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Eastern Ave](https://open.spotify.com/album/1LmWeZnQSDVz1qReWHDmgF) | 3:36 | 2023-04-14 | 2023-09-30 |
+| [Ecig](https://open.spotify.com/track/4s2jY1IybI3jhgw8ybldlX) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Ecig](https://open.spotify.com/album/3egipHAXK3exglLBf0Fs31) | 6:06 | 2024-06-21 |  |
 | [Efervecencia](https://open.spotify.com/track/2YYyNYvGBlobj2UjpWGcNo) | [Adelaida](https://open.spotify.com/artist/5ugKDsPNjtGyV7WxD7nTYS) | [Animita](https://open.spotify.com/album/2gz1tfqRhfFjD4noTtqKUs) | 4:25 | 2023-03-17 | 2023-10-21 |
 | [eightball](https://open.spotify.com/track/2GWjuqubd6LAYgimjWiGu3) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [Destiny XL](https://open.spotify.com/album/6F0DKc4JJuxL5y7gL568r7) | 3:09 | 2022-05-03 | 2023-06-08 |
 | [eightball](https://open.spotify.com/track/6OvX3WPe2CeyLRVsy3yFxz) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [Destiny XL](https://open.spotify.com/album/7IP404IKOkyz64GR1C6HpU) | 3:09 | 2022-05-03 | 2023-03-10 |
@@ -530,6 +533,7 @@
 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 | 2023-02-09 | 2023-07-29 |
 | [Sometimes](https://open.spotify.com/track/1bd7Jt9jIg3mKe2AT08RJI) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Sometimes](https://open.spotify.com/album/1blwMKDfziJJU9R14pQ5iD) | 3:04 | 2023-08-04 | 2023-08-19 |
 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 | 2021-10-19 | 2023-06-08 |
+| [soul ties](https://open.spotify.com/track/1ctIzKMQIIHdvKpBZU7eBv) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [soul ties](https://open.spotify.com/album/1u3rsbfk97ClxpWvrzXXXJ) | 2:19 | 2024-06-21 |  |
 | [Soul\-net](https://open.spotify.com/track/084PPi63VMViMv7qrp2Ipz) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Soul\-net](https://open.spotify.com/album/00kD3E9hxwyMrzHq5EjCiQ) | 4:24 | 2024-05-24 |  |
 | [Sour Punch](https://open.spotify.com/track/13pNdu3UOvwz0NxU2EEgVD) | [Blushing](https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0) | [Possessions](https://open.spotify.com/album/1sZkGikz7VbeytHdaBgWhr) | 2:32 | 2023-02-17 | 2023-10-21 |
 | [South](https://open.spotify.com/track/6EC1Hkr4hqHXIylbwnNEu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [South](https://open.spotify.com/album/1CfNY3GnYDN6P2yoLFOdGd) | 3:31 | 2023-11-08 | 2023-12-12 |

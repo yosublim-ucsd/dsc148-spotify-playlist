@@ -2,7 +2,7 @@
 
 ### [This Is Joy Crookes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3w1CV3)
 
-> This Is Joy Crookes\. Los temas esenciales, todos en una lista.
+> This is Joy Crookes\. Todos os maiores hits em uma só playlist.
 
 30 songs - 1 hr 40 min
 

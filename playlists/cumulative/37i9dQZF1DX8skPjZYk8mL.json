@@ -3022,7 +3022,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 76216,
       "name": "Cosy Bed",
       "url": "https://open.spotify.com/track/4FP4wQ0hkp0XQVaNrkoTHQ"
@@ -5704,7 +5704,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 119361,
       "name": "Golden Dust-Musicbox",
       "url": "https://open.spotify.com/track/0uifpcR1fyjLRYOSTbZoM4"
@@ -9034,7 +9034,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 92144,
       "name": "Lullaby For Oliva (MusicBox)",
       "url": "https://open.spotify.com/track/1Ic5ecQVRTmaAVxNAXFdij"
@@ -9326,6 +9326,24 @@
       "duration_ms": 110452,
       "name": "Mary Had a Little Lamb",
       "url": "https://open.spotify.com/track/2q9xrd99wsoIskmSRrWA2J"
+    },
+    {
+      "album": {
+        "name": "Mary Had A Little Lamb",
+        "url": "https://open.spotify.com/album/2anyMI92Rh2lfwN5wA6nGb"
+      },
+      "artists": [
+        {
+          "name": "Steinar Lugn",
+          "url": "https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104624,
+      "name": "Mary Had A Little Lamb",
+      "url": "https://open.spotify.com/track/5AsiJLgAt6sHiT1t1u2VKo"
     },
     {
       "album": {
@@ -12314,6 +12332,24 @@
       "duration_ms": 152142,
       "name": "Rubbing my eyes",
       "url": "https://open.spotify.com/track/7z1VnmeKEV0iNhjPo6ILTk"
+    },
+    {
+      "album": {
+        "name": "Sandman Little Sandman",
+        "url": "https://open.spotify.com/album/7JOK7rzv6m2tjwGXAgXjTo"
+      },
+      "artists": [
+        {
+          "name": "Mandy Sol",
+          "url": "https://open.spotify.com/artist/135JH3EMElUkfAng9P6ZSZ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87859,
+      "name": "Sandman Little Sandman",
+      "url": "https://open.spotify.com/track/6F18znjIquQxFEiXl8U7Sm"
     },
     {
       "album": {
@@ -15953,6 +15989,24 @@
     },
     {
       "album": {
+        "name": "Three little birds",
+        "url": "https://open.spotify.com/album/1S16kpFZHaJsipMnk8PYaF"
+      },
+      "artists": [
+        {
+          "name": "Stacy Gaffer",
+          "url": "https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94730,
+      "name": "Three little birds",
+      "url": "https://open.spotify.com/track/2X2tzdbCEHbmOpBCnLJNy1"
+    },
+    {
+      "album": {
         "name": "Three little cats",
         "url": "https://open.spotify.com/album/1TkptoHSTe9vrQyiZLBSjR"
       },
@@ -17008,7 +17062,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 89500,
       "name": "Warm Enough For Ice Cream",
       "url": "https://open.spotify.com/track/5HNtQTusF4gpK3LYKalUyF"

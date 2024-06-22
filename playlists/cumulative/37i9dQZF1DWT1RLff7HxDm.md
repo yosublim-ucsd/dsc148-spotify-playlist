@@ -2,9 +2,9 @@
 
 ### [Blues Live & Loud](https://open.spotify.com/playlist/37i9dQZF1DWT1RLff7HxDm)
 
-> All live, all blues\. Cover: Christone "Kingfish" Ingram
+> All live, all blues\. Cover: Joe Bonamassa
 
-168 songs - 16 hr 47 min
+169 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Pallet Soft and Low \(Live\)](https://open.spotify.com/track/3uhAfoYMM8sra1CXBDHqcK) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Live in Nashville \(Deluxe\)](https://open.spotify.com/album/2YFYcJ3gMqHgvzUVTb2eOe) | 8:29 | 2020-10-30 | 2024-04-19 |
 | [Pallet Soft and Low \(Live\)](https://open.spotify.com/track/5cOtmFYCBQOLMi7jk0xTbk) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Live in Nashville](https://open.spotify.com/album/3qmwNduPLk9xtrMRuUAGPf) | 8:29 | 2020-10-30 |  |
 | [Pocket Full of Dust \(Live\)](https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW) | [Dave Fields](https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf) | [Unleashed](https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28) | 8:17 | 2020-10-30 |  |
+| [Prisoner \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 8:35 | 2024-06-21 |  |
 | [Rain \- Live At Red Rocks, 2023](https://open.spotify.com/track/3wkrXuffdpo71E29uk8mtI) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Rain \(Live At Red Rocks, 2023\)](https://open.spotify.com/album/1lXEfpDNac1E2XOvNDpbix) | 4:48 | 2023-10-06 |  |
 | [Rattlesnake Shake \(with Steven Tyler & Billy Gibbons\) \- Live from The London Palladium](https://open.spotify.com/track/2QyLRyrciztL0CQ7CeXK2p) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw), [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 4:49 | 2021-02-26 | 2023-11-03 |
 | [Rattlesnake Shake \(with Steven Tyler & Billy Gibbons\) \- Live from The London Palladium](https://open.spotify.com/track/58ZM2KIhmc9awWI0RDSV5l) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw), [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [Rattlesnake Shake \(with Steven Tyler & Billy Gibbons\) \[Live from The London Palladium\]](https://open.spotify.com/album/1z9quT1fn0GLbg7401MS0z) | 4:49 | 2021-02-26 |  |
@@ -158,7 +159,7 @@
 | [Touch My Blues Away \- Live](https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Touch My Blues Away](https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR) | 9:04 | 2020-10-30 |  |
 | [True Lies](https://open.spotify.com/track/2KLT80GTeO0klP5VS8aNHB) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [LIVE! In Chicago](https://open.spotify.com/album/5hacXiG8xBevQ7ZWH3KCg2) | 5:54 | 2020-10-30 |  |
 | [True Lies \- Live](https://open.spotify.com/track/3OHFCFO7Upo0z0gYtWTTDQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Live in Chicago](https://open.spotify.com/album/3ljFmredCgsn5o8WsjJBBa) | 5:54 | 2020-10-30 | 2024-04-19 |
-| [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/78PzYa2mqx9MJcAvTIxR6N) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/5uhbe2M4tPRoDb6fH52TaJ) | 5:47 | 2024-02-23 |  |
+| [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/78PzYa2mqx9MJcAvTIxR6N) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Twenty\-Four Hour Blues \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/5uhbe2M4tPRoDb6fH52TaJ) | 5:47 | 2024-02-23 | 2024-06-22 |
 | [Underneath The River \- Live 2023](https://open.spotify.com/track/2pgRRXsHtZe5OpHD6FmKgC) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Underneath The River \(Live 2023\)](https://open.spotify.com/album/19HeG1fcpAL9DoQ9utLxhq) | 6:34 | 2023-12-15 |  |
 | [Up Your Sleeve \- Live](https://open.spotify.com/track/3kEIR6eH1rL9GWQi1bayCG) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Live at the '62 Center](https://open.spotify.com/album/4j4Uu6TIBjVFcGvm57olqw) | 5:24 | 2020-10-30 |  |
 | [Wait On Time \- Live](https://open.spotify.com/track/6idWc3OukhbJmzdILw0KRb) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [King King Live](https://open.spotify.com/album/05nIedmPU5AOXRPP6uztMv) | 6:23 | 2020-10-30 |  |

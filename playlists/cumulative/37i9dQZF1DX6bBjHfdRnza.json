@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "all these little words",
+        "url": "https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ"
+      },
+      "artists": [
+        {
+          "name": "wilo wilde",
+          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137946,
+      "name": "all these little words",
+      "url": "https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61"
+    },
+    {
+      "album": {
         "name": "Tous Ensemble",
         "url": "https://open.spotify.com/album/5qL03x3JWBE2KqTngUSGeo"
       },
@@ -2700,6 +2718,24 @@
       "duration_ms": 210000,
       "name": "Baby, Are You Sure?",
       "url": "https://open.spotify.com/track/0IlNYOksAE6SfKlsDivI8J"
+    },
+    {
+      "album": {
+        "name": "Snowball",
+        "url": "https://open.spotify.com/album/1NIWGPldRsIiRaYAQug9py"
+      },
+      "artists": [
+        {
+          "name": "Molly Otto",
+          "url": "https://open.spotify.com/artist/64Cs2xNbEo5QWaWmBJsv1Q"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170264,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/7LlwG3CbBVsSRUkQ3VP1fc"
     },
     {
       "album": {
@@ -13593,6 +13629,24 @@
     },
     {
       "album": {
+        "name": "For Now Im Here",
+        "url": "https://open.spotify.com/album/7M9jSaYXi33dQAZ5oqaRsl"
+      },
+      "artists": [
+        {
+          "name": "EMPIRE OF TWO",
+          "url": "https://open.spotify.com/artist/4jbmN1o9LSBUOi8eK0Vr0j"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163548,
+      "name": "For Now Im Here",
+      "url": "https://open.spotify.com/track/09U4YwzvgxtN3lRv3Mu4sf"
+    },
+    {
+      "album": {
         "name": "For The Bass",
         "url": "https://open.spotify.com/album/6mcirLbT5brYGqdiuqgu7r"
       },
@@ -16614,6 +16668,24 @@
       "duration_ms": 228870,
       "name": "Hesitation",
       "url": "https://open.spotify.com/track/5mHxvRNn28mLNRkFL7dWHK"
+    },
+    {
+      "album": {
+        "name": "HI NRG // Moments",
+        "url": "https://open.spotify.com/album/2cPWr1YpGsElbo5Ewxkqjy"
+      },
+      "artists": [
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232031,
+      "name": "HI NRG",
+      "url": "https://open.spotify.com/track/6rHuNH0YZYm4IdvA3RGlBm"
     },
     {
       "album": {
@@ -22526,7 +22598,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 161316,
       "name": "LUCKY",
       "url": "https://open.spotify.com/track/0kCCzjemQEcwZ8GjGIQWrC"
@@ -23904,7 +23976,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 195937,
       "name": "Mister DJ",
       "url": "https://open.spotify.com/track/3g7fzHY2ieDM7RaAYbItLK"
@@ -27063,6 +27135,24 @@
     },
     {
       "album": {
+        "name": "one good reason",
+        "url": "https://open.spotify.com/album/6i5est68crDfNVDSAw7nZs"
+      },
+      "artists": [
+        {
+          "name": "Howlan",
+          "url": "https://open.spotify.com/artist/0ZmunMZUP2AH3nPuoNRILY"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "one good reason",
+      "url": "https://open.spotify.com/track/28m6u1EywxomZiKMGhfL9x"
+    },
+    {
+      "album": {
         "name": "ravepack",
         "url": "https://open.spotify.com/album/4iwZiSOwmoDqBZlN4e3NBd"
       },
@@ -28766,7 +28856,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 284160,
       "name": "Poppin Bottles (feat. Aytac Kart)",
       "url": "https://open.spotify.com/track/7Cb0fCbHxjLgatn5KxvfPZ"
@@ -32744,7 +32834,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 234919,
       "name": "So Bright",
       "url": "https://open.spotify.com/track/39FC7p3vgb8EtmKLbjc7dG"
@@ -37154,7 +37244,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 164186,
       "name": "Thinking A Lot",
       "url": "https://open.spotify.com/track/6R4i0xWUvB5gzkCRilxOPK"

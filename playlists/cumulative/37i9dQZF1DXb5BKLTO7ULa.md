@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Gracie Abrams
 
-6,669 songs - 14 day 14 hr 11 min
+6,671 songs - 14 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1179,6 +1179,7 @@
 | [Cozy](https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cozy](https://open.spotify.com/album/4xsI12SdxzxVyikl8PRuX3) | 2:45 | 2024-05-23 | 2024-06-01 |
 | [Coördinaten \(feat\. Kaya Imani\)](https://open.spotify.com/track/48Rre4rE7OfPCtyCabvtjg) | [Jiri11](https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [A Swan Song](https://open.spotify.com/album/2nthJGtbWLM6sAj2ujUpjB) | 3:05 | 2024-03-21 | 2024-03-29 |
 | [Crash](https://open.spotify.com/track/5Nx0z7IzYSoNjkYtKxT7Vb) | [Chemelda Dielingen](https://open.spotify.com/artist/6oUpuSeMJfn8dycxVVndVw) | [Crash](https://open.spotify.com/album/2vtLVHVeVutQIa0K8MLGQ6) | 2:51 | 2023-12-21 | 2024-01-05 |
+| [Crash](https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 2:36 | 2024-06-20 |  |
 | [Crazy](https://open.spotify.com/track/73f5rpLgydSRIvHzRLcJFF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Crazy](https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU) | 3:12 | 2023-12-15 | 2023-12-22 |
 | [Crazy](https://open.spotify.com/track/3dRdUT6NFmQMgW71bj3AAY) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Crazy](https://open.spotify.com/album/0gFigDIR4qSnx14w9ULbER) | 3:18 | 2024-02-08 | 2024-02-16 |
 | [Crazy](https://open.spotify.com/track/5Hk6Ki2g81MipLqrJSl16L) | [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn) | [Crazy](https://open.spotify.com/album/6iglB4TumeugRnIGQonZTE) | 2:50 | 2024-02-29 | 2024-03-08 |
@@ -5415,6 +5416,7 @@
 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 | 2023-07-27 | 2023-08-04 |
 | [Superhuman](https://open.spotify.com/track/2GEp1rrkPkYBy7xlJT06Hu) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Back To Us \(Deluxe\)](https://open.spotify.com/album/3NTMf87ZofrntJo8rEjQxW) | 3:28 | 2023-07-06 | 2023-07-14 |
 | [Supermodel Avalanches](https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below \(Bonus Edition\)](https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N) | 3:10 | 2023-12-21 | 2024-01-05 |
+| [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-20 |  |
 | [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 | 2024-03-14 | 2024-03-22 |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-20 |  |
 | [Superster \(feat\. Priceless\)](https://open.spotify.com/track/5fkx5mCkwfKeEIzdSsmd7y) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO) | [Superster \(feat\. Priceless\)](https://open.spotify.com/album/0zRPWGeCO434LM2U5mZQBp) | 2:26 | 2024-06-13 | 2024-06-21 |

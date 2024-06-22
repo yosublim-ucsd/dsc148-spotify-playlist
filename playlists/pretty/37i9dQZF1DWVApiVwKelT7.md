@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVApiVwKelT7.md) - [plain]
 
 > Time to mend your broken heart with beautiful melodies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,811 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,834 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVApiVwKelT7.md) - [plain]
 | 20 | [Pogatha Yennavittu](https://open.spotify.com/track/07aADAqhVze8oPrzBil7FX) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Neha Venugopal](https://open.spotify.com/artist/5UN71z4zK3sryzvO1aLUWz) | [Vikram Vedha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70cftH7NeXGgJYH3iyos0m) | 4:41 |
 | 21 | [Rendu Kaadhal \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/4Lm0D6ituSgOi1AXLhUqcx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Aishwarya Suresh Bindra](https://open.spotify.com/artist/6QOMlTNUkY4dIVIPiJ0KMg) | [Rendu Kaadhal \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/3Pbe8ZyeyqvBT0aNNJXsuK) | 4:20 |
 | 22 | [Yedho Ondru Ennai](https://open.spotify.com/track/3c1tJAYgROZEdqRfm7Wsny) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Paiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/634XiL0HdManH26qduu9Xw) | 3:33 |
-| 23 | [Ennai Kollathey](https://open.spotify.com/track/5Tu2xARdujxgjxazGYvD7n) | [Kumaresh](https://open.spotify.com/artist/6lk92CG7lTvGapYCz7AV9x), [Keshini](https://open.spotify.com/artist/7Gl5eaz9nQOIzhZrd3p9Hk) | [Geethaiyin Raadhai](https://open.spotify.com/album/3QKLvdDP0GOrJFduVhLo32) | 5:24 |
+| 23 | [Ennai Kollathey](https://open.spotify.com/track/5Tu2xARdujxgjxazGYvD7n) | [Ztish](https://open.spotify.com/artist/3MhuPORYdyZA8FHBSnSS8Q), [Kumaresh](https://open.spotify.com/artist/6lk92CG7lTvGapYCz7AV9x), [Keshini](https://open.spotify.com/artist/7Gl5eaz9nQOIzhZrd3p9Hk) | [Geethaiyin Raadhai](https://open.spotify.com/album/3QKLvdDP0GOrJFduVhLo32) | 5:24 |
 | 24 | [Thaabangale](https://open.spotify.com/track/19D5VyqRPp6C1qvVW19kfj) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [96 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3mtHV7uS0a40wYuxWonMyO) | 3:58 |
 | 25 | [Dhimu Dhimu](https://open.spotify.com/track/6old0mA1IHi5lw2yLv3ri6) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Engeyum Kadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DyPmer9GfEcRosw671Eaq) | 5:29 |
 | 26 | [Neeya Pesiyathu](https://open.spotify.com/track/0DAGFNb2Mn8jYt69rcRnsY) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Thirumalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6C9NagE2S5GtCUM6UfaYns) | 4:37 |

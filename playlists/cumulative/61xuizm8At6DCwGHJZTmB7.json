@@ -3091,6 +3091,28 @@
     },
     {
       "album": {
+        "name": "Good To Me",
+        "url": "https://open.spotify.com/album/3pC0kYa2BuwYTRu85cj4F2"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        },
+        {
+          "name": "Michael Monroe",
+          "url": "https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314571,
+      "name": "Good To Me",
+      "url": "https://open.spotify.com/track/10oJl3HxOl9zpSiHFfSelH"
+    },
+    {
+      "album": {
         "name": "Goodness And Mercy",
         "url": "https://open.spotify.com/album/7j9kWl8xuut6o0HtlgfjEz"
       },
@@ -3672,6 +3694,28 @@
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1jnU6ZJXnSSwxfmjGGed2J"
+    },
+    {
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/7wn4dqa2FKZePM9n4YrwxE"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333737,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1Cll5XrepsCJgUFMj4sQH3"
     },
     {
       "album": {
@@ -6200,6 +6244,28 @@
       "duration_ms": 491653,
       "name": "Oceans (Where Feet May Fail) - Redux",
       "url": "https://open.spotify.com/track/1Thwp0rS6FT5BJyqU6N125"
+    },
+    {
+      "album": {
+        "name": "Oh How Worthy (Live)",
+        "url": "https://open.spotify.com/album/1bn4CriFqutsD4CBPHKc1u"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Alexandra Osteen",
+          "url": "https://open.spotify.com/artist/0dTif6geJ7jyFWTFA73Lda"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343800,
+      "name": "Oh How Worthy - Live",
+      "url": "https://open.spotify.com/track/3h0M0AtZS8a2TtSEnGK1TP"
     },
     {
       "album": {
@@ -8970,6 +9036,24 @@
       "duration_ms": 238757,
       "name": "We Come Alive",
       "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
+    },
+    {
+      "album": {
+        "name": "We Cry Kadosh (Live)",
+        "url": "https://open.spotify.com/album/081qSR6R6PtKQmevfZRMvk"
+      },
+      "artists": [
+        {
+          "name": "Jesus Co.",
+          "url": "https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412852,
+      "name": "We Cry Kadosh - Live",
+      "url": "https://open.spotify.com/track/27DqzNRYTYA7cv9scyDFcD"
     },
     {
       "album": {

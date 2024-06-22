@@ -133,6 +133,24 @@
     },
     {
       "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/4BWqMQAnfw2CH51bNPvmc0"
+      },
+      "artists": [
+        {
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238344,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/4rkXjSB8o4uXxAxG68Kj5z"
+    },
+    {
+      "album": {
         "name": "MIDHEAVEN: OPUS 01",
         "url": "https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt"
       },
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 144000,
       "name": "Caffeine Induced Psychosis",
       "url": "https://open.spotify.com/track/0zQxgmvnWOFOgWVyt3OOoh"
@@ -2098,6 +2116,32 @@
       "duration_ms": 126854,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/0NWnuJORMBiSpZLKcb5FLV"
+    },
+    {
+      "album": {
+        "name": "CATCH THESE HANDS",
+        "url": "https://open.spotify.com/album/6geAOKaNHxnXnF45SFraI9"
+      },
+      "artists": [
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "VEXUS",
+          "url": "https://open.spotify.com/artist/663rMyDgLv0YhH8NFAu2vL"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "CATCH THESE HANDS",
+      "url": "https://open.spotify.com/track/4SVFLe9kZqijxgSzQiwVGG"
     },
     {
       "album": {
@@ -2670,7 +2714,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 210000,
       "name": "Creep Killa - Creeds Remix",
       "url": "https://open.spotify.com/track/5arRUPv5EvcJ2zNI4F97os"
@@ -2732,7 +2776,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 231724,
       "name": "CYBERHELL",
       "url": "https://open.spotify.com/track/2NfAq9xX1bEVWueNRDZh7n"
@@ -4560,7 +4604,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 172800,
       "name": "FINAL BOSS",
       "url": "https://open.spotify.com/track/380VILV9jrUUVxKPHO0VSA"
@@ -4703,6 +4747,28 @@
     },
     {
       "album": {
+        "name": "Floot Loops",
+        "url": "https://open.spotify.com/album/744dIWTMURJ3D8YGLebUxQ"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181655,
+      "name": "Floot Loops",
+      "url": "https://open.spotify.com/track/74geScZgtEMlGbS264lrjD"
+    },
+    {
+      "album": {
         "name": "ANTIFRACTALS",
         "url": "https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S"
       },
@@ -4792,6 +4858,24 @@
       "duration_ms": 185357,
       "name": "Fracture",
       "url": "https://open.spotify.com/track/2tSi83cOo4S6XRuAhoNSMK"
+    },
+    {
+      "album": {
+        "name": "Frequency Knife",
+        "url": "https://open.spotify.com/album/3SJvZGqPhaXa22W8Z6OsEc"
+      },
+      "artists": [
+        {
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191836,
+      "name": "Frequency Knife",
+      "url": "https://open.spotify.com/track/1V2gN3aisB9mQRH8hWEbwY"
     },
     {
       "album": {
@@ -5897,6 +5981,32 @@
     },
     {
       "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/3NkPveyWZqflOFuKUTU4Gm"
+      },
+      "artists": [
+        {
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        },
+        {
+          "name": "wessley",
+          "url": "https://open.spotify.com/artist/5jAjhy0CAQmOQpu2L6gx6W"
+        },
+        {
+          "name": "Silos",
+          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201038,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/3NBUmLtUa5mmAqRpcppjta"
+    },
+    {
+      "album": {
         "name": "Holla",
         "url": "https://open.spotify.com/album/4icJQ3JuZV3PW6RVVVvU1A"
       },
@@ -6085,6 +6195,28 @@
     },
     {
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/44izydeupjKkWEGoytnwWH"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "Alexis B",
+          "url": "https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123830,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/6AlfGbQ59wwGyt2VmbjnZF"
+    },
+    {
+      "album": {
         "name": "Hyperdrive",
         "url": "https://open.spotify.com/album/07oOBedaL4K63cb5yfu6tl"
       },
@@ -6122,6 +6254,24 @@
       "duration_ms": 176000,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/6Zm9SrQT7fzlI7HGOx0ARg"
+    },
+    {
+      "album": {
+        "name": "Hypnotic Cycle",
+        "url": "https://open.spotify.com/album/4zyAbKVLa8au49nyUv3e1r"
+      },
+      "artists": [
+        {
+          "name": "Calcium",
+          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "Hypnotic Cycle",
+      "url": "https://open.spotify.com/track/3waqzZPc7fwEx3JKB5gqqZ"
     },
     {
       "album": {
@@ -7612,7 +7762,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 218400,
       "name": "Mess",
       "url": "https://open.spotify.com/track/1YV5MOe4jrcwMOrKhxd8vH"
@@ -10545,6 +10695,32 @@
     },
     {
       "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/3jdiIaMrGeRxFbjkdz3LBE"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Stoned Level",
+          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
+        },
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217655,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/1ttkNqDHNLSJBdlVwalFF0"
+    },
+    {
+      "album": {
         "name": "SAXORiDDiM",
         "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
       },
@@ -11180,7 +11356,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 148965,
       "name": "Sky High",
       "url": "https://open.spotify.com/track/4nQk7L78PXHHgrUxUqr5WA"
@@ -11750,7 +11926,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 256730,
       "name": "Step Five",
       "url": "https://open.spotify.com/track/2cZGfZoxO1WS0BRCaZochU"
@@ -11830,7 +12006,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 185606,
       "name": "Still On",
       "url": "https://open.spotify.com/track/58A69ZYRnPVnerNQGHz5SG"
@@ -12472,7 +12648,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 171857,
       "name": "Tekno Music - XOTIX Remix",
       "url": "https://open.spotify.com/track/5UvedNYDAP5mxOnbFyUJvR"
@@ -12974,6 +13150,24 @@
       "duration_ms": 185142,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4"
+    },
+    {
+      "album": {
+        "name": "Third Eye Vision",
+        "url": "https://open.spotify.com/album/4x9v3IPqnl8YFexbrnL8by"
+      },
+      "artists": [
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296571,
+      "name": "Third Eye Vision",
+      "url": "https://open.spotify.com/track/1waLYktQF1ByPCP3PjTTfb"
     },
     {
       "album": {

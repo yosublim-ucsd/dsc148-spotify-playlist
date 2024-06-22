@@ -2,7 +2,7 @@
 
 ### [This Is Dinosaur Pile\-Up](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2O8FYQ)
 
-> This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
+> This is Dinosaur Pile\-Up\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 55 songs - 3 hr 2 min
 

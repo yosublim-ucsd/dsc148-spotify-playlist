@@ -1,13 +1,97 @@
 {
   "description": "Our streets, our way. Listen to music from The Chi, now streaming on Paramount+ with Showtime. ",
-  "num_followers": 16887,
+  "num_followers": 16913,
   "original_name": "The Chi Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmvqcAAAAABWecsIMvH5HDfjxJc88oda",
+  "snapshot_id": "ZnUk8AAAAADf1OyIqYTkt0yECwsnNZK9",
   "tracks": [
+    {
+      "added_at": "2024-06-21 07:00:00",
+      "album": {
+        "name": "Liquor Store In The Sky (feat. Freddie Gibbs)",
+        "url": "https://open.spotify.com/album/1ynqhxlDR4UiGEJB1obGdu"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 200252,
+      "name": "Liquor Store In The Sky (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/0y3DGDbZOewDRrNIhchtDj"
+    },
+    {
+      "added_at": "2024-06-21 07:00:00",
+      "album": {
+        "name": "CROPTOBER",
+        "url": "https://open.spotify.com/album/19JHhDgdHmp1v4eWBP1TZU"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "duration_ms": 142809,
+      "name": "Botox",
+      "url": "https://open.spotify.com/track/77Bpr55LypgTwkPzVENpcv"
+    },
+    {
+      "added_at": "2024-06-21 07:00:00",
+      "album": {
+        "name": "Light Jazz Classics",
+        "url": "https://open.spotify.com/album/7InZ4xzilfsgQiFCmRFp6i"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 333533,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/3N9gMvqTuaZWRaE6JZHzqP"
+    },
+    {
+      "added_at": "2024-06-21 07:00:00",
+      "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/5d7K2YnySTDJ5kOofk74k7"
+      },
+      "artists": [
+        {
+          "name": "Alonda Rich",
+          "url": "https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf"
+        }
+      ],
+      "duration_ms": 260696,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/1UhO134ZoLZCTkOnl5of1E"
+    },
+    {
+      "added_at": "2024-06-21 07:00:00",
+      "album": {
+        "name": "Before The Dawn",
+        "url": "https://open.spotify.com/album/3Dv6kS6f1bq4n0v7bMcY3J"
+      },
+      "artists": [
+        {
+          "name": "Jake & Papa",
+          "url": "https://open.spotify.com/artist/0t8jcjbcfE79FcWSpIkGdR"
+        }
+      ],
+      "duration_ms": 68359,
+      "name": "Before The Dawn",
+      "url": "https://open.spotify.com/track/4EFPVeCPM2mJo2K1XXJ6bu"
+    },
     {
       "added_at": "2024-06-14 07:00:00",
       "album": {

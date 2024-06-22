@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-341 songs - 18 hr 3 min
+342 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Hey There Delilah](https://open.spotify.com/track/791KAnfU7LweoRARjI5mTd) | [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Hey There Delilah](https://open.spotify.com/album/4vlml2SlfKGKGzg6b8LOu0) | 3:02 | 2021-10-29 | 2022-04-20 |
 | [High](https://open.spotify.com/track/3bQ16DLr1K3mZS1j49Czql) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [High](https://open.spotify.com/album/2rIZbO1DFyfLtEVkoYPN2x) | 3:02 | 2021-10-29 | 2022-04-21 |
 | [High in a Paradise](https://open.spotify.com/track/4qLtFVZCwFxLJOv63O4FgA) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [High in a Paradise](https://open.spotify.com/album/2sQuXWAR6craEdwLw17LO5) | 2:24 | 2021-10-29 | 2022-03-12 |
-| [High Tide](https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Dream Dimension](https://open.spotify.com/album/3TIcSrROV3PLNVq5rMMlWJ) | 3:40 | 2022-05-26 |  |
+| [High Tide](https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Dream Dimension](https://open.spotify.com/album/3TIcSrROV3PLNVq5rMMlWJ) | 3:40 | 2022-05-26 | 2024-06-22 |
 | [Higher](https://open.spotify.com/track/49AmxcPnsET8xC6vJWSsbo) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Higher](https://open.spotify.com/album/4x3pCrvcEGfyminaEhY9uQ) | 2:58 | 2021-10-29 | 2022-03-26 |
 | [Hit Me Up](https://open.spotify.com/track/2TG5LZkJS71E4ps1MbwmZU) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Hit Me Up](https://open.spotify.com/album/0HRiQafCjGq8QXF3snhiI1) | 3:06 | 2021-10-29 | 2022-07-24 |
 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-04-06 |  |
@@ -236,6 +236,7 @@
 | [Perfect](https://open.spotify.com/track/6fSwN09SuOX7nnkOXyUvH7) | [Rowald Steyn](https://open.spotify.com/artist/4IPKNc0sHqlSECkJNX7moj) | [Perfect](https://open.spotify.com/album/51prrjL16O3gMqqrZwH3Mp) | 2:36 | 2021-10-29 | 2022-07-27 |
 | [Peru \- Peace Control Remix](https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [Peru \(Peace Control Remix\)](https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw) | 4:47 | 2024-04-19 |  |
 | [Pon De Replay](https://open.spotify.com/track/6G7r3yTCXVl1lXmFSkzEYB) | [Ed Marquis](https://open.spotify.com/artist/6NkWxTDLl0TnlaS0J9JQT5), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Pon De Replay](https://open.spotify.com/album/6LHoxO71UelhuYt0ylPaw1) | 4:17 | 2022-03-25 |  |
+| [Pumpin'](https://open.spotify.com/track/3JrNYsMLZxd3R56UzjM4PL) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Synergy](https://open.spotify.com/album/6uPaQH6cFgD0hNBqGePfG0) | 5:34 | 2024-06-21 |  |
 | [Purple Sands](https://open.spotify.com/track/3b5guLQVB4k9VZaXW0OAIJ) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB) | [Purple Sands](https://open.spotify.com/album/3kCU2EuoADRSWdBflZ9xA7) | 3:11 | 2022-02-11 | 2022-04-20 |
 | [Pyramids](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Pyramids](https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG) | 3:52 | 2022-03-11 |  |
 | [Rain In Ibiza](https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rain In Ibiza](https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN) | 2:21 | 2022-03-25 |  |

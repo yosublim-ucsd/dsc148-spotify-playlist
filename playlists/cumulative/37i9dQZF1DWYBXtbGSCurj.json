@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: G.A",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Senndy, Alee",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 187480,
       "name": "After Party",
       "url": "https://open.spotify.com/track/39O5jUbXuRmtSLtW0t46yk"
@@ -1312,6 +1312,40 @@
       "duration_ms": 189507,
       "name": "Air Force Preto",
       "url": "https://open.spotify.com/track/5lpbV9RMajRN4xvIDvhCST"
+    },
+    {
+      "album": {
+        "name": "Airbnb",
+        "url": "https://open.spotify.com/album/7gAbUyc1HN3ZGLrEVu20IQ"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145822,
+      "name": "Airbnb",
+      "url": "https://open.spotify.com/track/0Pg5ZL3uEn5FXpqdD2g1R4"
     },
     {
       "album": {
@@ -5928,7 +5962,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 158000,
       "name": "Coisas da Vida",
       "url": "https://open.spotify.com/track/5N4GjhAmq0A0jZ8zXbWJUt"
@@ -6274,6 +6308,40 @@
       "duration_ms": 209032,
       "name": "Contagem",
       "url": "https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH"
+    },
+    {
+      "album": {
+        "name": "Contando Malote",
+        "url": "https://open.spotify.com/album/6LK8QTYhYZtJurm38occbm"
+      },
+      "artists": [
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210922,
+      "name": "Contando Malote",
+      "url": "https://open.spotify.com/track/7shdzRK0IER1VzqQgJTtwN"
     },
     {
       "album": {
@@ -6830,7 +6898,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 150987,
       "name": "Curte Story",
       "url": "https://open.spotify.com/track/3ncSBARWk7MfV4jbKD2Fny"
@@ -6856,7 +6924,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 112131,
       "name": "Cyberpunk",
       "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
@@ -8740,6 +8808,24 @@
       "duration_ms": 136258,
       "name": "DOMINICANA",
       "url": "https://open.spotify.com/track/5tOoWYZ0G9YFqiteziCtzI"
+    },
+    {
+      "album": {
+        "name": "Dominicana",
+        "url": "https://open.spotify.com/album/0ZA9eQxKwHA2tSWQYPIgfA"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166611,
+      "name": "Dominicana",
+      "url": "https://open.spotify.com/track/3tP6kXipQVvUvM8zB0n3Gk"
     },
     {
       "album": {
@@ -12012,7 +12098,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 167819,
       "name": "FOTO COM A M\u00c3O NA CARA",
       "url": "https://open.spotify.com/track/4ytmt0CIuCxKPZjXVqWVfO"
@@ -13738,7 +13824,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 213333,
       "name": "Imaginando Coisas",
       "url": "https://open.spotify.com/track/2coYmtA0EDUHS7P24CFzcW"
@@ -14316,6 +14402,24 @@
       "duration_ms": 160941,
       "name": "Jeito Brasileiro",
       "url": "https://open.spotify.com/track/1VT35ftwJz5nTTVRT5qwwc"
+    },
+    {
+      "album": {
+        "name": "Barter 7",
+        "url": "https://open.spotify.com/album/6zp7QvTKnn4apcGh498z1A"
+      },
+      "artists": [
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81176,
+      "name": "Jersey do Jota",
+      "url": "https://open.spotify.com/track/0e8WMIlTanCMBunBw9v8zo"
     },
     {
       "album": {
@@ -16865,6 +16969,44 @@
     },
     {
       "album": {
+        "name": "Me Impressiona",
+        "url": "https://open.spotify.com/album/3lC1wMky0NXSS7Omuvato6"
+      },
+      "artists": [
+        {
+          "name": "Gapes",
+          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
+        },
+        {
+          "name": "Fabin",
+          "url": "https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF"
+        },
+        {
+          "name": "Doode",
+          "url": "https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6"
+        },
+        {
+          "name": "Dougb",
+          "url": "https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh"
+        },
+        {
+          "name": "Kew",
+          "url": "https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y"
+        },
+        {
+          "name": "Thiago Sub",
+          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328616,
+      "name": "Me Impressiona",
+      "url": "https://open.spotify.com/track/2a9jpGdN9jg0eQMPy2WSxe"
+    },
+    {
+      "album": {
         "name": "Me Leva Pra Casa",
         "url": "https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs"
       },
@@ -17810,7 +17952,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 203211,
       "name": "Merc\u00ea",
       "url": "https://open.spotify.com/track/01QJqfBkROa08hDO3tWH1x"
@@ -19727,6 +19869,36 @@
     },
     {
       "album": {
+        "name": "Nivus",
+        "url": "https://open.spotify.com/album/2AaLjIrUHuZjngloefkCZt"
+      },
+      "artists": [
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Nivus",
+      "url": "https://open.spotify.com/track/3iaRxQB3yHVGaZbaoTaBsa"
+    },
+    {
+      "album": {
         "name": "No Melody",
         "url": "https://open.spotify.com/album/7dbI3kTGKhIWRgqh9DbkXl"
       },
@@ -21130,6 +21302,32 @@
       "duration_ms": 158497,
       "name": "Objetivo",
       "url": "https://open.spotify.com/track/02uMY0D8480GlUqb9NEq7X"
+    },
+    {
+      "album": {
+        "name": "Objetivo",
+        "url": "https://open.spotify.com/album/4C26C6isVhZ9Q725U4Cp83"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Objetivo",
+      "url": "https://open.spotify.com/track/16LXfGWa7r4v1TCiIifk2Y"
     },
     {
       "album": {
@@ -22866,7 +23064,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 176098,
       "name": "Piranha",
       "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
@@ -23782,6 +23980,36 @@
       "duration_ms": 177380,
       "name": "Prazer, Fa\u00e7o Dinheiro Dormindo",
       "url": "https://open.spotify.com/track/3QQv50cpaReeyJmrVlm0Hb"
+    },
+    {
+      "album": {
+        "name": "Prazo",
+        "url": "https://open.spotify.com/album/24ykHt9mLGgeS1e4fkwEvL"
+      },
+      "artists": [
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "c4",
+          "url": "https://open.spotify.com/artist/52IfKVHb6UVghCxOoKhYxw"
+        },
+        {
+          "name": "Gubeatz",
+          "url": "https://open.spotify.com/artist/3onpHCaIChS7saQn7fYncx"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Prazo",
+      "url": "https://open.spotify.com/track/2almmbU8ugnn7v18iNMyeI"
     },
     {
       "album": {
@@ -25916,7 +26144,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 145714,
       "name": "Roupa Cara",
       "url": "https://open.spotify.com/track/7HMavl9dGhcX5TxD1CWBT5"
@@ -26500,6 +26728,24 @@
       "duration_ms": 278439,
       "name": "Se For Pra Somar",
       "url": "https://open.spotify.com/track/3ALHbM0GM6zxrke6upBx9h"
+    },
+    {
+      "album": {
+        "name": "SE VC N AMA,",
+        "url": "https://open.spotify.com/album/395qsZx6yMkY350PIQezhm"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195665,
+      "name": "SE VC N AMA,",
+      "url": "https://open.spotify.com/track/45WOkJSB3Mhc8DVa3o9DKs"
     },
     {
       "album": {
@@ -28472,6 +28718,28 @@
       "duration_ms": 201398,
       "name": "S\u00e1bia Viv\u00eancia da Rua",
       "url": "https://open.spotify.com/track/6w4eInqn4eikVwHcfWrC2o"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173334,
+      "name": "S\u00c3O PAULO",
+      "url": "https://open.spotify.com/track/37srJxBv0dfjmyvbX7xMAh"
     },
     {
       "album": {
@@ -30928,7 +31196,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 132922,
       "name": "Vermelho Neon",
       "url": "https://open.spotify.com/track/01Mfhyx7ZIBmAJ5dC4ku76"

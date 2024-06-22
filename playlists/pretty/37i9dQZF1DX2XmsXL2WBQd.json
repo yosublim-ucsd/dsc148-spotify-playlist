@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 396333,
+  "num_followers": 396452,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-04-17 14:39:46",
       "album": {
-        "name": "Future Shock",
-        "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 325133,
-      "name": "Rockit",
-      "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
-    },
-    {
-      "added_at": "2024-04-17 14:39:46",
-      "album": {
         "name": "Strictly Business",
         "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 261840,
       "name": "You Gots To Chill",
       "url": "https://open.spotify.com/track/0f1yzIIGD8k32DNVeEn6jb"
+    },
+    {
+      "added_at": "2024-04-17 14:39:46",
+      "album": {
+        "name": "Future Shock",
+        "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 325133,
+      "name": "Rockit",
+      "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
     },
     {
       "added_at": "2024-04-17 14:39:46",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-04-17 14:39:46",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
-      },
-      "artists": [
-        {
-          "name": "Whodini",
-          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
-        }
-      ],
-      "duration_ms": 282866,
-      "name": "Freaks Come Out at Night",
-      "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
-    },
-    {
-      "added_at": "2024-04-17 14:39:46",
-      "album": {
         "name": "Strictly Business",
         "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 285413,
       "name": "Strictly Business",
       "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
+    },
+    {
+      "added_at": "2024-04-17 14:39:46",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
+      },
+      "artists": [
+        {
+          "name": "Whodini",
+          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Freaks Come Out at Night",
+      "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
     },
     {
       "added_at": "2024-04-17 14:39:46",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-04-17 14:39:46",
       "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
-      },
-      "artists": [
-        {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        }
-      ],
-      "duration_ms": 297333,
-      "name": "So Wat Cha Sayin'",
-      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
-    },
-    {
-      "added_at": "2024-04-17 14:39:46",
-      "album": {
         "name": "How Ya Like Me Now (Expanded Edition)",
         "url": "https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 280840,
       "name": "Wild Wild West",
       "url": "https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg"
+    },
+    {
+      "added_at": "2024-04-17 14:39:46",
+      "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/4dxBNRPePGqky6mIKGAVsr"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "duration_ms": 297333,
+      "name": "So Wat Cha Sayin'",
+      "url": "https://open.spotify.com/track/01CuCSqlNItevX7F1GcopF"
     },
     {
       "added_at": "2024-04-17 14:39:46",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-04-17 14:39:46",
       "album": {
+        "name": "Break Dance - Electric Boogie",
+        "url": "https://open.spotify.com/album/7dFQDsjoGaJEEKG7mQhiow"
+      },
+      "artists": [
+        {
+          "name": "West Street Mob",
+          "url": "https://open.spotify.com/artist/1DF9I8WTbKvhEifX7RwXbO"
+        }
+      ],
+      "duration_ms": 311026,
+      "name": "Break Dance - Electric Boogie",
+      "url": "https://open.spotify.com/track/5gs8ySYMZyiGdVGbNcGlbx"
+    },
+    {
+      "added_at": "2024-04-17 14:39:46",
+      "album": {
         "name": "That's the Joint",
         "url": "https://open.spotify.com/album/275LyQkw1Be2dDfYo64bOX"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 446533,
       "name": "8th Wonder",
       "url": "https://open.spotify.com/track/3k2ACFdQY2Y9y8FYdODZxs"
-    },
-    {
-      "added_at": "2024-04-17 14:39:46",
-      "album": {
-        "name": "Break Dance - Electric Boogie",
-        "url": "https://open.spotify.com/album/7dFQDsjoGaJEEKG7mQhiow"
-      },
-      "artists": [
-        {
-          "name": "West Street Mob",
-          "url": "https://open.spotify.com/artist/1DF9I8WTbKvhEifX7RwXbO"
-        }
-      ],
-      "duration_ms": 311026,
-      "name": "Break Dance - Electric Boogie",
-      "url": "https://open.spotify.com/track/5gs8ySYMZyiGdVGbNcGlbx"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

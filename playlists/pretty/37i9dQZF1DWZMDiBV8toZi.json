@@ -1,13 +1,29 @@
 {
-  "description": "Artists recording in Coke Studio at Spotify LA. Cover: New Jeans",
-  "num_followers": 148,
-  "original_name": "A day in the studio",
+  "description": "Artists recording in Coke Studio at Spotify LA. Cover: Karol G",
+  "num_followers": 158,
+  "original_name": "A Day in the Studio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlAQwAAAAADsBisdehmTPRBkWPubXqrw",
+  "snapshot_id": "ZnT6wAAAAAC+9j7dIlgLgUUONDo+MXiu",
   "tracks": [
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -513,6 +529,6 @@
       "url": "https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0"
     }
   ],
-  "unique_name": "A day in the studio",
+  "unique_name": "A Day in the Studio",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZMDiBV8toZi"
 }

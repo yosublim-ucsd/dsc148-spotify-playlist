@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AbUl4gAAAAAJlc/44s0LcKKtrfBH+Ele",
+  "snapshot_id": "AbUrggAAAAAkAxKE6zjGoJ0NQdF+lunE",
   "tracks": [
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -29,7 +29,27 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "Clash (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/2zxEc1GCSCxbHIXTfhraRC"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Professor X",
         "url": "https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1"
@@ -45,7 +65,7 @@
       "url": "https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/7IPKXYU2rTMnrLW5IZ7ZI5"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Titanium & Mercury",
         "url": "https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5"
@@ -97,7 +117,27 @@
       "url": "https://open.spotify.com/track/2qzW5AK8ldKUOWUETwAkZY"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Meridian & Special",
+        "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
@@ -117,7 +157,7 @@
       "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "PSYCHODRAMA",
         "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
@@ -133,7 +173,7 @@
       "url": "https://open.spotify.com/track/0FWAIRd9Uz5uNek7cALYNC"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Money Talks (feat. Dave)",
         "url": "https://open.spotify.com/album/4QonFDxUcxM49sCR7g8ns1"
@@ -153,7 +193,27 @@
       "url": "https://open.spotify.com/track/31gzwBma4iEppvk8um5ZGx"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 479897,
+      "name": "Both Sides Of A Smile (feat. James Blake)",
+      "url": "https://open.spotify.com/track/3hX0ilh84w2KGaiNw2rRCV"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Paper Cuts",
         "url": "https://open.spotify.com/album/0bOYi2NpSA7BmCwmdszfCI"
@@ -169,7 +229,47 @@
       "url": "https://open.spotify.com/track/1gFMfqyVSXHMgvRloH2gDL"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Money Can't Buy Happiness",
+        "url": "https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Young Adz",
+          "url": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "duration_ms": 187671,
+      "name": "Burner on Deck (feat. Pop Smoke & Young Adz)",
+      "url": "https://open.spotify.com/track/65vHYhe2AprpDBHBTpOBaE"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Rap Game Awful",
+        "url": "https://open.spotify.com/album/1gGEh8LZdW7Dt51anEyYBl"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "Greece",
+      "url": "https://open.spotify.com/track/7yG364iLzExYFIaIUTbiug"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Titanium & Mercury",
         "url": "https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5"
@@ -189,7 +289,23 @@
       "url": "https://open.spotify.com/track/1w6Gcw670LjrAnrbAWObqT"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "50s (headiokart remix)",
+        "url": "https://open.spotify.com/album/6QsiObcRCtcPHjTVkNJ49Z"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 159103,
+      "name": "50s",
+      "url": "https://open.spotify.com/track/6WZtUG0qldMF7bzOtz7ZR3"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
@@ -205,7 +321,7 @@
       "url": "https://open.spotify.com/track/6lHN6T5ZkPCEKDPZqDKcYw"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
@@ -221,7 +337,23 @@
       "url": "https://open.spotify.com/track/5u1IwY8m1KBKVXaHUoQrn7"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "Belly of the Beast",
+        "url": "https://open.spotify.com/album/6WxfYPn97IT8RxjaoujNoI"
+      },
+      "artists": [
+        {
+          "name": "Avelino",
+          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
+        }
+      ],
+      "duration_ms": 178562,
+      "name": "Belly of the Beast",
+      "url": "https://open.spotify.com/track/1OGAPgVLjy4bcGRfCdixWL"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Call of Duty 3",
         "url": "https://open.spotify.com/album/5hfTFX72sXxfMYu1EPmxyV"
@@ -241,7 +373,7 @@
       "url": "https://open.spotify.com/track/43YkCoG2SRYaN1fDNUwNMN"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Money Can't Buy Happiness",
         "url": "https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR"
@@ -257,7 +389,23 @@
       "url": "https://open.spotify.com/track/7j0AjRMQ5f2AFMLgn9aQHm"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "House Invasions",
+        "url": "https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG"
+      },
+      "artists": [
+        {
+          "name": "Nino SLG",
+          "url": "https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe"
+        }
+      ],
+      "duration_ms": 209345,
+      "name": "House Invasions",
+      "url": "https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "EGO KILLS",
         "url": "https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf"
@@ -273,7 +421,7 @@
       "url": "https://open.spotify.com/track/18LlKZ31XlvDOpMK6NAAZs"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Rap Game Awful",
         "url": "https://open.spotify.com/album/1gGEh8LZdW7Dt51anEyYBl"
@@ -293,7 +441,23 @@
       "url": "https://open.spotify.com/track/13CqoBKII7rdFn1f6NSjsW"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "EGO KILLS",
+        "url": "https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf"
+      },
+      "artists": [
+        {
+          "name": "Avelino",
+          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
+        }
+      ],
+      "duration_ms": 179467,
+      "name": "100K",
+      "url": "https://open.spotify.com/track/5uWkFrjcqCXGWaQF82FvFG"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "State Of Mind",
         "url": "https://open.spotify.com/album/5JgqSIyBUAqyiCRJ3Qu2Ff"
@@ -309,7 +473,7 @@
       "url": "https://open.spotify.com/track/6kwQLsUX8402NQNH0OCSko"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "EGO KILLS",
         "url": "https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf"
@@ -325,7 +489,7 @@
       "url": "https://open.spotify.com/track/4zTsnilS61CuECqMeq70Kw"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR"
@@ -341,7 +505,7 @@
       "url": "https://open.spotify.com/track/0nHRORFSCvGgqlSef7Lmuc"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "State Of Mind",
         "url": "https://open.spotify.com/album/5JgqSIyBUAqyiCRJ3Qu2Ff"
@@ -357,7 +521,23 @@
       "url": "https://open.spotify.com/track/48XrYUiAyvFiO0fnjOpy7a"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
+      "album": {
+        "name": "EGO KILLS",
+        "url": "https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf"
+      },
+      "artists": [
+        {
+          "name": "Avelino",
+          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
+        }
+      ],
+      "duration_ms": 117261,
+      "name": "Gorillas",
+      "url": "https://open.spotify.com/track/53FNwkBPrb4vlRqPKLZi4L"
+    },
+    {
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Mirror Story (Deluxe)",
         "url": "https://open.spotify.com/album/69VeigGVK8AIxInfneOccn"
@@ -373,7 +553,7 @@
       "url": "https://open.spotify.com/track/6KHKSQBxOKAFQ1rM368J97"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR"
@@ -389,7 +569,7 @@
       "url": "https://open.spotify.com/track/3XcD1khvzlkPVvDSpwDlLx"
     },
     {
-      "added_at": "2024-06-20 02:10:08",
+      "added_at": "2024-06-21 02:10:21",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR"

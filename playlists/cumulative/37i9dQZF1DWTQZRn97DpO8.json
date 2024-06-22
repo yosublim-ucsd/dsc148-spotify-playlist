@@ -1857,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "minibar",
+        "url": "https://open.spotify.com/album/3RQH6fCXeMqMW95LWQyHpQ"
+      },
+      "artists": [
+        {
+          "name": "Siy\u00e9",
+          "url": "https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141501,
+      "name": "minibar",
+      "url": "https://open.spotify.com/track/2O77JjyoBbw1FvXXK1Roka"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/191DoTkYTANUBkoCjGvXRC"
       },

@@ -1,12 +1,12 @@
 {
   "description": "LUCKI, born and raised on the internet.",
-  "num_followers": 1396410,
+  "num_followers": 1396386,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmy7gwAAAADjm84IvA9ie4Nnj3kmUA53",
+  "snapshot_id": "ZnW0qAAAAAC18yp+26SVRYWVATQYkmZ+",
   "tracks": [
     {
       "added_at": "2024-06-14 21:52:03",
@@ -43,6 +43,26 @@
       "duration_ms": 79533,
       "name": "Talking To The Sun",
       "url": "https://open.spotify.com/track/76kZFNZDL3Ppxhj49OU8sw"
+    },
+    {
+      "added_at": "2024-06-21 17:13:12",
+      "album": {
+        "name": "HILARIOUS (feat. Cochise)",
+        "url": "https://open.spotify.com/album/2O3Ucp3isxbLXo87AQkmLl"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 131020,
+      "name": "HILARIOUS (feat. Cochise)",
+      "url": "https://open.spotify.com/track/0hVzJm5oOVNp57EPcJ3IY6"
     },
     {
       "added_at": "2024-04-19 05:00:00",
@@ -1176,7 +1196,7 @@
       },
       "artists": [
         {
-          "name": "Nasaan",
+          "name": "NASAAN",
           "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
         },
         {
@@ -1355,26 +1375,6 @@
       "duration_ms": 139725,
       "name": "backstab",
       "url": "https://open.spotify.com/track/64teDenGW4qlIoe6Iiv9Pk"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "#HEAVENSGATE VOL. 1",
-        "url": "https://open.spotify.com/album/3KvLqvjycoPfH0DTkU9riY"
-      },
-      "artists": [
-        {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        },
-        {
-          "name": "Rx Papi",
-          "url": "https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ"
-        }
-      ],
-      "duration_ms": 108461,
-      "name": "PAP SHIESTY",
-      "url": "https://open.spotify.com/track/63QsJJakeUZs3hg3LLnT9Y"
     },
     {
       "added_at": "2024-04-12 04:00:00",

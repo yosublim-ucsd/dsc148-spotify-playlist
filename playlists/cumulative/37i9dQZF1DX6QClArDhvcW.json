@@ -1559,6 +1559,28 @@
     },
     {
       "album": {
+        "name": "Cosmic Bolero",
+        "url": "https://open.spotify.com/album/7mHIy9IMAwJndJwAbhWVYf"
+      },
+      "artists": [
+        {
+          "name": "Sunsplash",
+          "url": "https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr"
+        },
+        {
+          "name": "Orangutarius",
+          "url": "https://open.spotify.com/artist/1MtPA0fFdwO3pQ0y0KbUnx"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Cosmic Bolero",
+      "url": "https://open.spotify.com/track/2IRGfcyXqYOHH4n68LA32z"
+    },
+    {
+      "album": {
         "name": "Cosmic Girl",
         "url": "https://open.spotify.com/album/4IeWmLnr82G5DUyp9kHHpc"
       },
@@ -2128,6 +2150,28 @@
       "duration_ms": 120997,
       "name": "Earth Travellers",
       "url": "https://open.spotify.com/track/34ooA9e9hIcyrgfEViDSro"
+    },
+    {
+      "album": {
+        "name": "Easy Morning",
+        "url": "https://open.spotify.com/album/19Cmw7O7Q91hn0poUhFbDa"
+      },
+      "artists": [
+        {
+          "name": "Juju BB",
+          "url": "https://open.spotify.com/artist/4bWUSOEk4qhaAM251pddKo"
+        },
+        {
+          "name": "soave lofi",
+          "url": "https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Easy Morning",
+      "url": "https://open.spotify.com/track/6SGgbCosVyZNY0Zgja5m6q"
     },
     {
       "album": {
@@ -3408,7 +3452,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 104347,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/1tunIrMoyuW5xRYQbViTPQ"
@@ -5364,7 +5408,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 117333,
       "name": "Misty",
       "url": "https://open.spotify.com/track/482jgUtNalNOBuOC9XAuJu"
@@ -6990,6 +7034,24 @@
       "duration_ms": 121358,
       "name": "Resistance",
       "url": "https://open.spotify.com/track/0EPGaVpdeFYEEWm77ynjwL"
+    },
+    {
+      "album": {
+        "name": "Resting Days",
+        "url": "https://open.spotify.com/album/4MTSGuIddwLkv38fWmMHvq"
+      },
+      "artists": [
+        {
+          "name": "Chizu",
+          "url": "https://open.spotify.com/artist/6NQ1aKb4xNup2HIbJFaJdF"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Resting Days",
+      "url": "https://open.spotify.com/track/6FKD7NlcNchJckU1LxjN5U"
     },
     {
       "album": {
@@ -9144,7 +9206,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 125714,
       "name": "Too Blue",
       "url": "https://open.spotify.com/track/6fLCseWWk83ucPeqOUc9v1"
@@ -9448,7 +9510,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 106666,
       "name": "twin planet",
       "url": "https://open.spotify.com/track/3nhzAqz5Asv0avIhJ1g63u"

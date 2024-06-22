@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 184347,
       "name": "Abysmal",
       "url": "https://open.spotify.com/track/3HfFxA3eIa6xGKVWf2vWwH"
@@ -3207,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2NWFcWy8nsgEoUBGbufr4X"
+      },
+      "artists": [
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/5GJszyjsdTvv8eFWFTR9ir"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/39iB005ObCj7G7YejBPZJD"
       },
@@ -4410,6 +4428,28 @@
       "duration_ms": 223571,
       "name": "Hot Head",
       "url": "https://open.spotify.com/track/4MXUdrjlh0TnIrvB3zSkIc"
+    },
+    {
+      "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/44izydeupjKkWEGoytnwWH"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "Alexis B",
+          "url": "https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123830,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/6AlfGbQ59wwGyt2VmbjnZF"
     },
     {
       "album": {
@@ -11450,7 +11490,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 222664,
       "name": "Warrior Mentality",
       "url": "https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE"

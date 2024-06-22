@@ -2,7 +2,7 @@
 
 ### [Sync Next 24](https://open.spotify.com/playlist/37i9dQZF1DX1sL6qrhzOLK)
 
-> 가장 트렌디한 예술 경험 Sync Next 24의 참여 아티스트가 직접 선곡한 노래들을 즐겨보세요! \(Enjoy the songs selected by participating artists of Sync Next 24, the trendiest art experience!\)
+> 가장 트렌디한 예술 경험 Sync Next 24의 참여 아티스트의 추천곡과 대표곡을 즐겨보세요! \(Enjoy recommended and representative songs from participating artists of Sync Next 24, the trendiest art experience!\)
 
 66 songs - 4 hr 41 min
 

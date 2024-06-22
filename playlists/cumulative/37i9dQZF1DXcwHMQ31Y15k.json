@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Jamu",
+        "url": "https://open.spotify.com/album/7E5nIZVl5QuzkTjNxOH6eV"
+      },
+      "artists": [
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Jamu",
+      "url": "https://open.spotify.com/track/5TW0s4SLgFSPDj1jv15kpb"
+    },
+    {
+      "album": {
         "name": "Jamu (Janji Muanis)",
         "url": "https://open.spotify.com/album/2R7X8WN9e73ss7altIYDg7"
       },

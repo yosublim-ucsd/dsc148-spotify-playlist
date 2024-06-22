@@ -4,7 +4,7 @@
 
 > 
 
-1,922 songs - 4 day 7 hr 40 min
+1,924 songs - 4 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -702,6 +702,7 @@
 | [Guap](https://open.spotify.com/track/5ZieiUIwDcPyUy8CIq0bGf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 5:40 | 2021-11-14 |  |
 | [Gucci Flip Flops \(feat\. Snoop Dogg & Plies\) \- Remix](https://open.spotify.com/track/4GeGOnrbE57XjvzaPI2lY9) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Gucci Flip Flops \(feat\. Snoop Dogg & Plies\) \[Remix\]](https://open.spotify.com/album/2OZTExHXRadMDX8untNfEA) | 3:12 | 2021-08-05 |  |
 | [Gucci Store](https://open.spotify.com/track/2YdEDvhcsHoH1bmJjUyVoK) | [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Gucci Store](https://open.spotify.com/album/0W27HLxEy9TV3xH7E8amr5) | 3:38 | 2021-08-05 |  |
+| [Guess](https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-06-21 |  |
 | [Guillotine](https://open.spotify.com/track/3IrcvqIf3ZiBhf3xdsctRX) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Guillotine](https://open.spotify.com/album/2qEqDJ20yMk7cY2PkYYgRH) | 3:43 | 2021-12-30 |  |
 | [Hacker](https://open.spotify.com/track/7y8X0Z04gJCKtfrnSAMywJ) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 4:35 | 2021-11-30 |  |
 | [HAHA](https://open.spotify.com/track/18Gcl5bxdd8bpBhWOj1rCR) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [HAHA](https://open.spotify.com/album/5TWFIHtoGLtCd8dT4WLbhJ) | 2:40 | 2021-08-05 |  |
@@ -1669,6 +1670,7 @@
 | [The Fortress \(The Blood Inside...\)](https://open.spotify.com/track/0wpngjB3B8E17wssLZk9Gj) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [U\-Void Synthesizer](https://open.spotify.com/album/2Hao6BBoElsB9A3JFeSo9n) | 3:42 | 2023-02-04 |  |
 | [the gate](https://open.spotify.com/track/4efmalCNEsGzNdLoDbuLuS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [The Gate](https://open.spotify.com/album/3CflcMTG2KPbG0Wtyporse) | 6:38 | 2022-02-04 |  |
 | [The Girl From Ipanema \- Single Version](https://open.spotify.com/track/4qGfJb2KByjvzrwo8HNibg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:47 | 2021-08-05 |  |
+| [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-06-21 |  |
 | [The Giza Power Plant](https://open.spotify.com/track/2YP4VSL64AzhTxpS5hbNr4) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Hidden History of the Human Race](https://open.spotify.com/album/34U0n1oAE5mwgdaIBrcIck) | 7:05 | 2022-04-03 |  |
 | [The Hand That Feeds](https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 3:31 | 2022-04-03 |  |
 | [The Ketchup Song \(Asereje\) \- Spanish Version](https://open.spotify.com/track/49sMsFUxaaGDlaKZNBfVSd) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Hijas Del Tomate](https://open.spotify.com/album/3Aod8ev2Xu4swkRslc26tl) | 3:31 | 2022-05-18 |  |

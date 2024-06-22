@@ -4149,6 +4149,24 @@
     },
     {
       "album": {
+        "name": "GET MUCKY",
+        "url": "https://open.spotify.com/album/6aR6aiYCoorj34c9sr6P76"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "GET MUCKY",
+      "url": "https://open.spotify.com/track/1r9fNFOCr8eW7JHIJKoqsh"
+    },
+    {
+      "album": {
         "name": "Get Out Here",
         "url": "https://open.spotify.com/album/3xOUCfvtdzODp2lwLOi4M3"
       },
@@ -8318,6 +8336,24 @@
       "duration_ms": 206924,
       "name": "Radio",
       "url": "https://open.spotify.com/track/4mvfSVZQgpsfJpH67WWRJs"
+    },
+    {
+      "album": {
+        "name": "Rave Teacher",
+        "url": "https://open.spotify.com/album/213FdGnBTwgFAAbSroLCwD"
+      },
+      "artists": [
+        {
+          "name": "Kevu",
+          "url": "https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171245,
+      "name": "Rave Teacher",
+      "url": "https://open.spotify.com/track/6QbNswsr5y9cBIE8eKmS00"
     },
     {
       "album": {

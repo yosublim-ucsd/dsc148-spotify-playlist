@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdt7jjdf1IdF.md) - [plain]
 
 > Dengar lagu\-lagu teristimewa yang dapat membuat kita jatuh hati dan terjebak nostalgia
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,382 likes - 32 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,392 likes - 32 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdt7jjdf1IdF.md) - [plain]
 | 11 | [Kali Kedua](https://open.spotify.com/track/66ENQUrRNrz7HlvsOUDNpi) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/4qjxXBBkd1WGW1lz6ibLMy) | 4:17 |
 | 12 | [Biar Menjadi Kenangan](https://open.spotify.com/track/7ojaR6Rp7lgu64RoOaSn6a) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Biar Menjadi Kenangan](https://open.spotify.com/album/7b9Lm3r0MDZM4MCreFJi9c) | 5:13 |
 | 13 | [Jatuh Hati](https://open.spotify.com/track/6VjeuA1GAK1jxk8Ic2N3tq) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/4qjxXBBkd1WGW1lz6ibLMy) | 3:27 |
-| 14 | [Begitulah Cinta](https://open.spotify.com/track/0sBgb8w0ZomZux1ip03fMy) | [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Begitulah Cinta](https://open.spotify.com/album/0n5HOiKpKFxfbGc883OEvy) | 5:00 |
+| 14 | [Begitulah Cinta](https://open.spotify.com/track/0sBgb8w0ZomZux1ip03fMy) | [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Begitulah Cinta](https://open.spotify.com/album/0n5HOiKpKFxfbGc883OEvy) | 5:25 |
 | 15 | [Melangkah](https://open.spotify.com/track/7qxWhVPuMj2Itic0N7Xo3b) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/4BZl8mzxQXW0CeOWEV4vek) | 3:12 |
 | 16 | [Terjebak Nostalgia](https://open.spotify.com/track/5peHKo1SGvTfGxInpFPng9) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/4BZl8mzxQXW0CeOWEV4vek) | 3:26 |
 | 17 | [Love & Let Go](https://open.spotify.com/track/7mdMV0cnYgJNRZRFFSfPns) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 4:03 |

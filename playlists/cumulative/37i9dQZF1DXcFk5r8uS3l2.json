@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-22",
       "duration_ms": 217365,
       "name": "Hard Learned",
       "url": "https://open.spotify.com/track/4qVesVecQYAJE6e7Pkwpcz"
@@ -5994,6 +5994,24 @@
       "duration_ms": 294933,
       "name": "The Lengths",
       "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
+    },
+    {
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/0X4aStSXiLUG7HOVng0A51"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "The Line",
+      "url": "https://open.spotify.com/track/46qU3BOdKfXI4LSSGxAw4D"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 46059,
+  "num_followers": 46071,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-02-13 22:58:21",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "Sorbito De Champagne",
-      "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"
-    },
-    {
-      "added_at": "2023-02-13 22:58:21",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 289786,
       "name": "Volvere",
       "url": "https://open.spotify.com/track/1TpvuIgPGer8UBRMDx5Bmy"
+    },
+    {
+      "added_at": "2023-02-13 22:58:21",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "Sorbito De Champagne",
+      "url": "https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42"
     },
     {
       "added_at": "2023-02-13 22:58:21",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-02-13 22:58:21",
       "album": {
+        "name": "Colecci\u00f3n \u00c9xitos Pastor L\u00f3pez (Vol. 1)",
+        "url": "https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 213840,
+      "name": "Golpe Con Golpe",
+      "url": "https://open.spotify.com/track/5F31jOZdwYZESzhv01hy3y"
+    },
+    {
+      "added_at": "2023-02-13 22:58:21",
+      "album": {
         "name": "\u00cddolos de la M\u00fasica Tropical, Vol. 2",
         "url": "https://open.spotify.com/album/39G0w1XRpnigLX4xayYymO"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 270626,
       "name": "Yamulemau",
       "url": "https://open.spotify.com/track/4WrdKVbToFLVhqqyDpaf8H"
-    },
-    {
-      "added_at": "2023-02-13 22:58:21",
-      "album": {
-        "name": "Paso Firme",
-        "url": "https://open.spotify.com/album/2PTAdKOYVSne2pTCLnjRtP"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 282706,
-      "name": "A Dormir Juntitos - Liz featuring Eddy Herrera",
-      "url": "https://open.spotify.com/track/3mra5ShNolELD0KNrMQo9D"
     }
   ],
   "unique_name": "Sopa y Seco",
