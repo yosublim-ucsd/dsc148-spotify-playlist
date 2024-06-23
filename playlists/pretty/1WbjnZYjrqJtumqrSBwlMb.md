@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 939 songs - 2 day 9 hr 52 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 940 songs - 2 day 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -947,5 +947,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 937 | [A Time and Place](https://open.spotify.com/track/6BfbZeVvxJsrcUAs232KYt) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Ripe Dreams, Pipe Dreams \(Deluxe Edition\)](https://open.spotify.com/album/2SPoNPcAlfhUe84DH4SbQM) | 2:18 |
 | 938 | [Dance With Me](https://open.spotify.com/track/3xMLPK4mRZMl3Cne3okptx) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Ripe Dreams, Pipe Dreams \(Deluxe Edition\)](https://open.spotify.com/album/2SPoNPcAlfhUe84DH4SbQM) | 3:44 |
 | 939 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 |
+| 940 | [Constant Picnic](https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 3:29 |
 
-Snapshot ID: `AAAIdi7BPc1oQt9K84Kv1+/USC3D2phE`
+Snapshot ID: `AAAId5brs4w6ihIpQfU1s3oLXZDUlb1R`

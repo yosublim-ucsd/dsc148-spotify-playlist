@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 32668,
+  "num_followers": 32681,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 134559,
+      "name": "Gaza",
+      "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "Water & Garri (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/21y5KxfsNHRVikyNTWLaHy"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 151868,
       "name": "Gara (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Unruly",
-        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 134559,
-      "name": "Gaza",
-      "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
     },
     {
       "added_at": "2024-06-21 00:01:00",

@@ -4,11 +4,12 @@
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 37 min
+45 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A.M.P.](https://open.spotify.com/track/3QqZ3IX7jXUViisvlMT4tM) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:22 | 2023-08-19 |  |
+| [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 | 2024-06-23 |  |
 | [Banquet \- Live at Studio 4](https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Live At Studio 4](https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV) | 3:05 | 2022-09-19 |  |
 | [Barbed Wire Body](https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Barbed Wire Body](https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm) | 3:28 | 2022-09-16 | 2024-06-22 |
 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 | 2022-09-16 |  |

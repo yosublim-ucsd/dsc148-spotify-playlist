@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 153216,
+  "num_followers": 153306,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAADCEm8M7atDNB+DKYM2P9bd",
+  "snapshot_id": "ZnTCgAAAAABBU24kCXegB74O7B3+3wYH",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 172120,
-      "name": "Si Ella Supiera",
-      "url": "https://open.spotify.com/track/5xG0CJRnQBHalC5CtXlpNN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Coraz\u00f3n Necio",
         "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 206533,
       "name": "Coraz\u00f3n Necio",
       "url": "https://open.spotify.com/track/5LGssqcE15JZMRlDtvMGPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 172120,
+      "name": "Si Ella Supiera",
+      "url": "https://open.spotify.com/track/5xG0CJRnQBHalC5CtXlpNN"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "20 Corridos Bien Perrones",
+        "url": "https://open.spotify.com/album/2b8XaXRNRzEGPkQrHHk0lk"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 206773,
-      "name": "Asesino A Sueldo",
-      "url": "https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy"
+      "duration_ms": 193666,
+      "name": "Misa De Cuerpo Presente",
+      "url": "https://open.spotify.com/track/1jrYMPk03g06ijNO6Qq8AH"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Corridos Bien Perrones",
-        "url": "https://open.spotify.com/album/2b8XaXRNRzEGPkQrHHk0lk"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 193666,
-      "name": "Misa De Cuerpo Presente",
-      "url": "https://open.spotify.com/track/1jrYMPk03g06ijNO6Qq8AH"
+      "duration_ms": 206773,
+      "name": "Asesino A Sueldo",
+      "url": "https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Unas Horas",
-        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 181146,
-      "name": "Amor De Unas Horas",
-      "url": "https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Nadie Sepa",
         "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 204120,
       "name": "Espero Que \u00c9l",
       "url": "https://open.spotify.com/track/70QTYeKHHpXbh7nDdCzsIn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Unas Horas",
+        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 181146,
+      "name": "Amor De Unas Horas",
+      "url": "https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL"
     },
     {
       "added_at": null,

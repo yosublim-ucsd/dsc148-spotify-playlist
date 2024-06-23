@@ -1,12 +1,12 @@
 {
-  "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 14961,
+  "description": "This is Evaluna Montaner. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 14963,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAABldfiFb1UqL/nxkwe0BHdh",
+  "snapshot_id": "ZnTCgAAAAAC5R3jOPm1AbrnmOaExpzDi",
   "tracks": [
     {
       "added_at": null,
@@ -175,26 +175,6 @@
       "duration_ms": 253634,
       "name": "Am\u00e9n",
       "url": "https://open.spotify.com/track/7AjcJrynzHWlawo87kafY2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If The World Was Ending (Spanglish Version)",
-        "url": "https://open.spotify.com/album/2GszvoZ2OFlv8iRSDHw5Ek"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 211280,
-      "name": "If The World Was Ending - Spanglish Version",
-      "url": "https://open.spotify.com/track/5Lp9GcZAY7H2M2NjIS3Cdn"
     },
     {
       "added_at": null,
@@ -639,26 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
       },
       "artists": [
         {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Fefi Oliveira",
-          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
         }
       ],
-      "duration_ms": 191080,
-      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
+      "duration_ms": 254306,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
     },
     {
       "added_at": null,
@@ -691,18 +663,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
+        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
       },
       "artists": [
         {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Fefi Oliveira",
+          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
         }
       ],
-      "duration_ms": 254306,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
+      "duration_ms": 191080,
+      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
     },
     {
       "added_at": null,

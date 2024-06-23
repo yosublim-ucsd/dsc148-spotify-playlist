@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 71068,
+  "num_followers": 71084,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAAASsEs7ttQsKOBgeyomrUtV",
+  "snapshot_id": "ZnTCgAAAAAAjjIE7XvchW+hetcTEuOwg",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feliz De Vez",
+        "url": "https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 279475,
+      "name": "Feliz De Vez",
+      "url": "https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atmosfera",
         "url": "https://open.spotify.com/album/3edUQbB5rV3udn3miMBa7a"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 377998,
       "name": "Desciende",
       "url": "https://open.spotify.com/track/3Yz6iMlTsghB92Qy06XcPj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feliz De Vez",
-        "url": "https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 279475,
-      "name": "Feliz De Vez",
-      "url": "https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm"
     },
     {
       "added_at": null,
@@ -963,6 +963,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fernanda Brum - Falando de Amor",
+        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 263639,
+      "name": "Te Amaria Outra Vez",
+      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 251890,
+      "name": "Tempo de Crescer",
+      "url": "https://open.spotify.com/track/2BGIItsqoZ3eRVUpgNJAUk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escreve",
+        "url": "https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 275590,
+      "name": "Escreve",
+      "url": "https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rastros de Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
       },
@@ -1035,38 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fernanda Brum - Falando de Amor",
-        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 263639,
-      "name": "Te Amaria Outra Vez",
-      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 251890,
-      "name": "Tempo de Crescer",
-      "url": "https://open.spotify.com/track/2BGIItsqoZ3eRVUpgNJAUk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Bem Maior",
         "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 217849,
       "name": "Meu Bem Maior",
       "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Escreve",
-        "url": "https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 275590,
-      "name": "Escreve",
-      "url": "https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw"
     },
     {
       "added_at": null,

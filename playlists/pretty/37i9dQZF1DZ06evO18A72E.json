@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 773955,
+  "num_followers": 774011,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAABpmt6f8jei7Vd3OJ03swa8",
+  "snapshot_id": "ZnTCgAAAAAAWtfbYhUH2R7beI7emZZaY",
   "tracks": [
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva Las Vengeance",
-        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
+        "name": "Vices & Virtues",
+        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 229517,
-      "name": "Don't Let The Light Go Out",
-      "url": "https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB"
+      "duration_ms": 256466,
+      "name": "Nearly Witches (Ever Since We Met...)",
+      "url": "https://open.spotify.com/track/2KA3lvDwQQiyvuJJvzifGL"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vices & Virtues",
-        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 256466,
-      "name": "Nearly Witches (Ever Since We Met...)",
-      "url": "https://open.spotify.com/track/2KA3lvDwQQiyvuJJvzifGL"
+      "duration_ms": 247773,
+      "name": "Northern Downpour",
+      "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
       "duration_ms": 189106,
       "name": "Vegas Lights",
       "url": "https://open.spotify.com/track/0zewUY3RSh8yaV7q66Okem"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 247773,
-      "name": "Northern Downpour",
-      "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
     },
     {
       "added_at": null,

@@ -1,13 +1,29 @@
 {
-  "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 61462,
+  "description": "This Is Ice Spice. Los temas esenciales, todos en una lista.",
+  "num_followers": 61527,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAAABDRANVZTs66LrDYZd1BzF",
+  "snapshot_id": "ZnTCgAAAAAAiU4Wugq2HIfuBsB3S75au",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phat Butt",
+        "url": "https://open.spotify.com/album/13lNTRScGj4CVAYszzxioi"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129293,
+      "name": "Phat Butt",
+      "url": "https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG"
+    },
     {
       "added_at": null,
       "album": {

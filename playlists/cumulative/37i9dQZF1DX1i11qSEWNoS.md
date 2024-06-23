@@ -4,7 +4,7 @@
 
 > und macht laune
 
-210 songs - 10 hr 2 min
+211 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Liebe Grüsse](https://open.spotify.com/track/5qQLBOEAelSN7JWqX3RIIv) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Liebe Grüsse](https://open.spotify.com/album/795oJD0ZgKdDjbKojgmswf) | 2:16 | 2023-11-17 |  |
 | [Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP), [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx) | [Liebe in Stereo](https://open.spotify.com/album/7kbl4KadCrLMyjJYvIlZVh) | 3:10 | 2024-06-11 |  |
 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 | 2024-02-01 |  |
+| [Like A G6 \(with Naeleck\)](https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Like A G6 \(with Naeleck\)](https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y) | 2:28 | 2024-06-22 |  |
 | [Lila Wolken](https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Miss Platnum](https://open.spotify.com/artist/30SUIQhGDLj1pP0yg4fSMu), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Lila Wolken \- EP](https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo) | 3:48 | 2023-09-05 |  |
 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 | 2023-08-11 | 2023-11-18 |
 | [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 | 2024-05-01 |  |
@@ -131,7 +132,7 @@
 | [Mask Off](https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Mask Off](https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa) | 2:35 | 2023-12-01 | 2024-04-19 |
 | [MAXIMUM RIZZ](https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:27 | 2023-11-17 |  |
 | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Shaun Baker](https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj) | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7) | 2:30 | 2023-07-21 |  |
-| [Midnight Lady](https://open.spotify.com/track/0CbNz8F2OUOfxOnZyV6pDJ) | [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Knossi](https://open.spotify.com/artist/7H8EE2uf8SstFY9lUyid0T) | [Midnight Lady](https://open.spotify.com/album/68DOa8MyHEElxIOhatDQJN) | 3:27 | 2024-05-10 |  |
+| [Midnight Lady](https://open.spotify.com/track/0CbNz8F2OUOfxOnZyV6pDJ) | [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Knossi](https://open.spotify.com/artist/7H8EE2uf8SstFY9lUyid0T) | [Midnight Lady](https://open.spotify.com/album/68DOa8MyHEElxIOhatDQJN) | 3:27 | 2024-05-10 | 2024-06-23 |
 | [mietfrei](https://open.spotify.com/track/0fq2RzyyUoqELsONRF8ZzP) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [denk mal drüber nach...](https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx) | 2:21 | 2023-10-28 | 2024-04-19 |
 | [mietfrei](https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [mietfrei](https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH) | 2:21 | 2023-07-21 | 2023-10-25 |
 | [Milkshake 20 \- Alex Wann Remix](https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/album/4B5VkayNwax1Z2ZDThsNt9) | 2:56 | 2023-10-03 | 2023-10-21 |

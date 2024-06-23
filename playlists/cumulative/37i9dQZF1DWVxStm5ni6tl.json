@@ -4853,6 +4853,24 @@
     },
     {
       "album": {
+        "name": "Disappointing the Internet",
+        "url": "https://open.spotify.com/album/3KXnbWDUt4OfEbLtCwkBPs"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Mann",
+          "url": "https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu"
+        }
+      ],
+      "date_added": "2024-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166024,
+      "name": "Disappointing the Internet",
+      "url": "https://open.spotify.com/track/0wpQc6DuoM3B9VsAzSHNtv"
+    },
+    {
+      "album": {
         "name": "Disaster",
         "url": "https://open.spotify.com/album/4mAMMbcDiTXQhBhef6YNQ9"
       },
@@ -4868,24 +4886,6 @@
       "duration_ms": 210729,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/1PirB6lQzndSERWXz485Xm"
-    },
-    {
-      "album": {
-        "name": "Disappointing the Internet",
-        "url": "https://open.spotify.com/album/3KXnbWDUt4OfEbLtCwkBPs"
-      },
-      "artists": [
-        {
-          "name": "Cassidy Mann",
-          "url": "https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu"
-        }
-      ],
-      "date_added": "2024-06-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166024,
-      "name": "Dissappointing The Internet",
-      "url": "https://open.spotify.com/track/0wpQc6DuoM3B9VsAzSHNtv"
     },
     {
       "album": {

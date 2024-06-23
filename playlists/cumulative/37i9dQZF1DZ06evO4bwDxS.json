@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-06-09",
-  "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
+  "description": "This Is Sabrina Carpenter. Los temas esenciales, todos en una lista.",
   "name": "This Is Sabrina Carpenter",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 149973,
       "name": "A Dream is a Wish Your Heart Makes/So This is Love",
       "url": "https://open.spotify.com/track/3WlCLuC6emWu8kbpaEb0KT"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 174840,
       "name": "Alien",
       "url": "https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP"
@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "EVOLution",
+        "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181853,
+      "name": "Don't Want It Back",
+      "url": "https://open.spotify.com/track/2yqhHi9QfZ5INE13sS5Bva"
+    },
+    {
+      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
@@ -316,7 +334,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 174539,
       "name": "Fast Times",
       "url": "https://open.spotify.com/track/6n05BgVkxxz2k5ICZYa2PH"
@@ -334,7 +352,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
@@ -378,7 +396,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 277923,
       "name": "Fix Me Up (with Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3tlYKGhlexHCt8Ac5pYG49"
@@ -404,7 +422,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 166909,
       "name": "Hands",
       "url": "https://open.spotify.com/track/7ydN6k1pLu6GRJsJpFXnYu"
@@ -534,7 +552,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 147070,
       "name": "Let Me Move You - From the Netflix film \"Work It\"",
       "url": "https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP"
@@ -570,7 +588,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 181120,
       "name": "Looking at Me",
       "url": "https://open.spotify.com/track/59tskctgqUmjCWAwhzYAFm"
@@ -606,7 +624,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
@@ -801,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186440,
+      "name": "Seamless",
+      "url": "https://open.spotify.com/track/75s1b4uRCk6UPOPBLNdDIA"
+    },
+    {
+      "album": {
         "name": "EVOLution",
         "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
       },
@@ -830,7 +866,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 177500,
       "name": "Skin",
       "url": "https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07"
@@ -888,6 +924,24 @@
       "duration_ms": 179226,
       "name": "Sue Me",
       "url": "https://open.spotify.com/track/3WVhkjB7Y4xFruqoCAajBb"
+    },
+    {
+      "album": {
+        "name": "Singular Act II",
+        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183755,
+      "name": "Take Off All Your Cool",
+      "url": "https://open.spotify.com/track/27B9H3cOefm9lWDfh9A0gj"
     },
     {
       "album": {
@@ -1004,7 +1058,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 216466,
       "name": "Thumbs",
       "url": "https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE"

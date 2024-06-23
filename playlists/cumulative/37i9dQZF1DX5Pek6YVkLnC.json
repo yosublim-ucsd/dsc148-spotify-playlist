@@ -510,7 +510,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 215200,
       "name": "ADQEP",
       "url": "https://open.spotify.com/track/41mQgCe5yZDBEh63FVWlpE"
@@ -1349,6 +1349,32 @@
     },
     {
       "album": {
+        "name": "El Plug D3",
+        "url": "https://open.spotify.com/album/7H8RB2cNz0dynPXgESG6hw"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/2mzrEvfWPMGbmcNbnoux1C"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Bien K",
+      "url": "https://open.spotify.com/track/3VenN5aaFVnpZg73t9duGk"
+    },
+    {
+      "album": {
         "name": "Big Bag",
         "url": "https://open.spotify.com/album/3djmCdsygPjrOlIakPFX3i"
       },
@@ -1514,6 +1540,28 @@
       "duration_ms": 286265,
       "name": "BONNIE AND CLYDE - REMIX",
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
+    },
+    {
+      "album": {
+        "name": "FLY CITY",
+        "url": "https://open.spotify.com/album/1hiFt1RgjfXx3YKETueU2g"
+      },
+      "artists": [
+        {
+          "name": "LA MAS FLY",
+          "url": "https://open.spotify.com/artist/4aUcQBWDj6ka9IlziykmQy"
+        },
+        {
+          "name": "Nesi",
+          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181258,
+      "name": "BRICKELL",
+      "url": "https://open.spotify.com/track/4S5KwSntvkT6bbUnfltXQl"
     },
     {
       "album": {
@@ -3617,6 +3665,24 @@
     },
     {
       "album": {
+        "name": "Embuste",
+        "url": "https://open.spotify.com/album/7xtgpGt2BFkVFEAd8aHfg5"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159273,
+      "name": "Embuste",
+      "url": "https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86"
+    },
+    {
+      "album": {
         "name": "Demon Time",
         "url": "https://open.spotify.com/album/0WDYRRTzhqXxrA6b01LJMX"
       },
@@ -3910,6 +3976,24 @@
       "duration_ms": 200493,
       "name": "Estupendo",
       "url": "https://open.spotify.com/track/7faLPH3g5JoCINQNWxcmDT"
+    },
+    {
+      "album": {
+        "name": "ETA",
+        "url": "https://open.spotify.com/album/7yofWqjDQfluI8HN9ZqUqq"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123520,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/7h01E3mGqPrudATKy7zVKN"
     },
     {
       "album": {
@@ -4540,6 +4624,24 @@
       "duration_ms": 308576,
       "name": "Girasoles",
       "url": "https://open.spotify.com/track/5yDDG59RvEYqJzX032Q3dx"
+    },
+    {
+      "album": {
+        "name": "Gistro",
+        "url": "https://open.spotify.com/album/2v7iMTX10wTRYBoz2P86Qn"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "Gistro",
+      "url": "https://open.spotify.com/track/1OgJ6aaqAP4PdYdzdyPacH"
     },
     {
       "album": {
@@ -5377,6 +5479,24 @@
     },
     {
       "album": {
+        "name": "King Von",
+        "url": "https://open.spotify.com/album/60G74DyxVyhdZX99OanaTW"
+      },
+      "artists": [
+        {
+          "name": "SOMBRA PR",
+          "url": "https://open.spotify.com/artist/3Z4dagwEl134FhOVlYvjt5"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175104,
+      "name": "King Von",
+      "url": "https://open.spotify.com/track/3YHRyTc27wOhBZ3A4lIyvf"
+    },
+    {
+      "album": {
         "name": "Kyoto",
         "url": "https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa"
       },
@@ -5734,7 +5854,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 185238,
       "name": "Ll\u00e9vame - Fux Beat Remix",
       "url": "https://open.spotify.com/track/5ZtcanoSNYduuyRLk0kUEW"
@@ -6620,7 +6740,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 202800,
       "name": "Mini Van",
       "url": "https://open.spotify.com/track/44EDvLaqyDOrViTGE5lMQ9"
@@ -6800,7 +6920,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 225276,
       "name": "MUSA (feat. Espano)",
       "url": "https://open.spotify.com/track/5TJvrRVnpIgFy1FnE3ir4y"
@@ -6974,7 +7094,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 192857,
       "name": "NASTY AF",
       "url": "https://open.spotify.com/track/5f3q91CfWH6lMDgtmGucL9"
@@ -8182,7 +8302,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 159376,
       "name": "Quedate Conmigo",
       "url": "https://open.spotify.com/track/1lbed3gubLtcz2DivmFEKY"
@@ -8592,6 +8712,24 @@
       "duration_ms": 242336,
       "name": "Rolia",
       "url": "https://open.spotify.com/track/4xsm2eGEeyen6ID3fQXHNS"
+    },
+    {
+      "album": {
+        "name": "Viva La Musik",
+        "url": "https://open.spotify.com/album/1AFU8pGn801UpX69JsPLay"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Rompiendola",
+      "url": "https://open.spotify.com/track/4L3jynSXsTKCijvyeghs5x"
     },
     {
       "album": {
@@ -9144,7 +9282,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 240000,
       "name": "SINSE",
       "url": "https://open.spotify.com/track/3QelZsJDgk5KEjoSj0YQNK"
@@ -10110,7 +10248,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 223940,
       "name": "Typing",
       "url": "https://open.spotify.com/track/2AyYL7Lw5b96VDXxqSwy9o"
@@ -10460,6 +10598,24 @@
       "duration_ms": 217183,
       "name": "Vivo De Bichote",
       "url": "https://open.spotify.com/track/7vBBw9NWKIIB1NEHrhbeOc"
+    },
+    {
+      "album": {
+        "name": "Volando",
+        "url": "https://open.spotify.com/album/447COpuMUXdUTPOeRmlvzf"
+      },
+      "artists": [
+        {
+          "name": "Xavi The Destroyer",
+          "url": "https://open.spotify.com/artist/39e9M8JyGYz1NzelCM8uHG"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144769,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/2T5OzcQpS5FsN42tr8wWLg"
     },
     {
       "album": {

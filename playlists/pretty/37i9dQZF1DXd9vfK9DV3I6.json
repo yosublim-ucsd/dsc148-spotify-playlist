@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 321933,
+  "num_followers": 322059,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,26 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
+        "name": "Give a Little (feat. Naila)",
+        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        },
+        {
+          "name": "Naila",
+          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
+        }
+      ],
+      "duration_ms": 234838,
+      "name": "Give a Little (feat. Naila)",
+      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
         "name": "Overdose (Sait Esmeray Remix)",
         "url": "https://open.spotify.com/album/1IhXKGtdrHwt4hdRh3G3sq"
       },
@@ -79,26 +99,6 @@
       "duration_ms": 158677,
       "name": "Overdose - Sait Esmeray Remix",
       "url": "https://open.spotify.com/track/7v3ARZ3TuBQGFA6fKdyIOW"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
-        "name": "Give a Little (feat. Naila)",
-        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        },
-        {
-          "name": "Naila",
-          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
-        }
-      ],
-      "duration_ms": 234838,
-      "name": "Give a Little (feat. Naila)",
-      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "Ya Ghayeb",
-        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
-      },
-      "artists": [
-        {
-          "name": "DJ Maximus",
-          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
-        },
-        {
-          "name": "Bob Zoabi",
-          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
-        }
-      ],
-      "duration_ms": 217211,
-      "name": "Ya Ghayeb",
-      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
         "name": "Bayati Shiraz (feat. Kenan Bayramli)",
         "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 214214,
       "name": "Bayati Shiraz (feat. Kenan Bayramli)",
       "url": "https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
+        "name": "Ya Ghayeb",
+        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
+      },
+      "artists": [
+        {
+          "name": "DJ Maximus",
+          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
+        },
+        {
+          "name": "Bob Zoabi",
+          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
+        }
+      ],
+      "duration_ms": 217211,
+      "name": "Ya Ghayeb",
+      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "Lamouni",
-        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 217647,
-      "name": "Lamouni",
-      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
         "name": "3ala bali",
         "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 314336,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "duration_ms": 217647,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "Yasameen",
-        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Douae El Rhiouane",
-          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Yasameen",
-      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 334889,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
+        "name": "Yasameen",
+        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Douae El Rhiouane",
+          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Yasameen",
+      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "Anatolian Vibe",
-        "url": "https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK"
-      },
-      "artists": [
-        {
-          "name": "Kad1r",
-          "url": "https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi"
-        },
-        {
-          "name": "Bugra Atmaca",
-          "url": "https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23"
-        }
-      ],
-      "duration_ms": 187779,
-      "name": "Anatolian Vibe",
-      "url": "https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
         "name": "El Hob",
         "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 214634,
       "name": "El Hob",
       "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
+        "name": "La Blanche",
+        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
+      },
+      "artists": [
+        {
+          "name": "TEHRACH",
+          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
+        },
+        {
+          "name": "omar",
+          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "La Blanche",
+      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -1563,22 +1563,22 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "La Blanche",
-        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
+        "name": "Anatolian Vibe",
+        "url": "https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK"
       },
       "artists": [
         {
-          "name": "TEHRACH",
-          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
+          "name": "Kad1r",
+          "url": "https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi"
         },
         {
-          "name": "omar",
-          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
+          "name": "Bugra Atmaca",
+          "url": "https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23"
         }
       ],
-      "duration_ms": 332000,
-      "name": "La Blanche",
-      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
+      "duration_ms": 187779,
+      "name": "Anatolian Vibe",
+      "url": "https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
+        "name": "Hebele Hubulu & Belantash",
+        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+      },
+      "artists": [
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 484644,
+      "name": "Hebele Hubulu",
+      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 291576,
       "name": "ZMAN",
       "url": "https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
-        "name": "Hebele Hubulu & Belantash",
-        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
-      },
-      "artists": [
-        {
-          "name": "Omerar Nanda",
-          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
-        }
-      ],
-      "duration_ms": 484644,
-      "name": "Hebele Hubulu",
-      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -1835,30 +1835,6 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "Sunam",
-        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
-      },
-      "artists": [
-        {
-          "name": "Y\u0131ld\u0131z Tilbe",
-          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
-        },
-        {
-          "name": "Anatolian Sessions",
-          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
-        },
-        {
-          "name": "Serdar Ayy\u0131ld\u0131z",
-          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
-        }
-      ],
-      "duration_ms": 279216,
-      "name": "Sunam",
-      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
         "name": "Yaman",
         "url": "https://open.spotify.com/album/5xWy7VAU1D1e6RJandRATO"
       },
@@ -1903,18 +1879,26 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "Arabian Soul",
-        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
+        "name": "Sunam",
+        "url": "https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt"
       },
       "artists": [
         {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
+          "name": "Y\u0131ld\u0131z Tilbe",
+          "url": "https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0"
+        },
+        {
+          "name": "Anatolian Sessions",
+          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
+        },
+        {
+          "name": "Serdar Ayy\u0131ld\u0131z",
+          "url": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
         }
       ],
-      "duration_ms": 312125,
-      "name": "Arabian Soul",
-      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
+      "duration_ms": 279216,
+      "name": "Sunam",
+      "url": "https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -1935,6 +1919,22 @@
       "duration_ms": 330150,
       "name": "Ya Rayeh",
       "url": "https://open.spotify.com/track/3PU7mVJbqsEsowKgEPdqNW"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
+        "name": "Arabian Soul",
+        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
+      },
+      "artists": [
+        {
+          "name": "DJ Oscar Sharm",
+          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
+        }
+      ],
+      "duration_ms": 312125,
+      "name": "Arabian Soul",
+      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
     }
   ],
   "unique_name": "mosaic",

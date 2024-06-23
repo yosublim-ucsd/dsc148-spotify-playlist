@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,912 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,007 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 14 | [Dès l'matin](https://open.spotify.com/track/0lzx4GqUQwmZrV6LuQX62h) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [Dès l'matin](https://open.spotify.com/album/6YLuPziACioeJsxR9VC1Fw) | 2:31 |
 | 15 | [4 Days](https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [4 Days](https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn) | 2:34 |
 | 16 | [Double](https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Double](https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e) | 2:48 |
-| 17 | [Pio Pio](https://open.spotify.com/track/0jxhvVriAJfkqskjN5nL9h) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm), [Rea](https://open.spotify.com/artist/4w6J18XrRwERZj0P3VQc4W), [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT) | [Pio Pio](https://open.spotify.com/album/2LDSMjOIlBAz31FMDHyZbz) | 3:15 |
+| 17 | [Pio Pio](https://open.spotify.com/track/0jxhvVriAJfkqskjN5nL9h) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm), [REA](https://open.spotify.com/artist/3WmCagv2mdu1DAXPi6qKnJ), [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT) | [Pio Pio](https://open.spotify.com/album/2LDSMjOIlBAz31FMDHyZbz) | 3:15 |
 | 18 | [Paparazzi](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Paparazzi](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 |
 | 19 | [Ne doute pas](https://open.spotify.com/track/3jjR16AsYxadkidrptGLYc) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Ne doute pas](https://open.spotify.com/album/7L3GB3sojKXCcMZtGtPKaO) | 3:05 |
 | 20 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 |

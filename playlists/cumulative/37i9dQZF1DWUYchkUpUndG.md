@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe?si=T8tc\_gnoT8eALkVMHFMEWA>Sinach</a>
 
-2,887 songs - 8 day 16 hr 28 min
+2,888 songs - 8 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1383,6 +1383,7 @@
 | [Ka Letsatsi \(Live\)](https://open.spotify.com/track/1DTTtfBgaYraBfSE6PSy5L) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Ka Letsatsi \(Live\)](https://open.spotify.com/album/3c1ewMB80rH1CBHLkL4U7N) | 4:03 | 2023-07-21 | 2023-08-04 |
 | [Ka\-anyi Tub\-aja](https://open.spotify.com/track/46X0ckOSzL6orWvYlVIqGK) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Ka\-anyi Tub\-aja](https://open.spotify.com/album/0EyuBZuGCl0fSXfPQ4A5Y9) | 3:06 | 2023-10-13 | 2023-10-27 |
 | [Kabaye](https://open.spotify.com/track/0jKWcCBdMKTRna4OrgsK87) | [DJ Izybeatz](https://open.spotify.com/artist/2G7Hlu5Jgb426jEmTkHHBO), [Timi Phoenix](https://open.spotify.com/artist/44e37JkgcHI4857DDZWOdr), [Yoyo Michael](https://open.spotify.com/artist/35adnZVLLdDLPaFf4Qx0T5) | [Kabaye](https://open.spotify.com/album/3wHsBnj1Kqt5TaM69vT2qx) | 3:00 | 2023-12-29 | 2024-01-12 |
+| [Kabiyesi \- Spontaneous — Live](https://open.spotify.com/track/0hDNaqeSmJKCP7vbgdh1Fp) | [Fiyin Adeniyi](https://open.spotify.com/artist/7b4BZkj7cS5gokEOCrNuN0), [Daniel Bentley](https://open.spotify.com/artist/0mxPrIzGozDccr6pwtRlXZ) | [Kabiyesi \(Spontaneous — Live\)](https://open.spotify.com/album/6e1q9QIykhXZiKBvJNOZ3u) | 8:14 | 2024-06-21 |  |
 | [Kahamara \- Live](https://open.spotify.com/track/7jC999ElgxM2QaiwkzJRPK) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [The Prophecy \(Live\)](https://open.spotify.com/album/6clxzkILHko47h5ggpy3TA) | 6:21 | 2024-04-12 | 2024-04-26 |
 | [Kai Ne](https://open.spotify.com/track/1qG7Mmyy63EkLkHL1MYcMh) | [Wilson Yoko](https://open.spotify.com/artist/4nwO0LwvgkBgHevtv9kRpe) | [Kai Ne](https://open.spotify.com/album/5O2KGHzcNAqtPOs8sxm6wL) | 4:41 | 2023-11-03 | 2023-11-17 |
 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 | 2024-03-29 | 2024-04-12 |
@@ -2639,7 +2640,7 @@
 | [walk in the Light](https://open.spotify.com/track/1nVYR365ucVF0W0r2DNfpb) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [walk in the Light](https://open.spotify.com/album/40Zf45YlAvEeubAGAbSElY) | 1:54 | 2024-02-16 | 2024-02-23 |
 | [Walking On Water](https://open.spotify.com/track/7xDLPzOZ3VfrUKXdkbKKOe) | [Destined Brothers](https://open.spotify.com/artist/1j99Uzezc0pC355ge0lsKV) | [Walking On Water](https://open.spotify.com/album/1HRj6LK0D3rrIMoFS0uZw3) | 2:15 | 2024-04-26 | 2024-05-03 |
 | [Wanneer U Verskyn](https://open.spotify.com/track/5yXwcySbFyJ2aM7dTvTNao) | [RICHELLE GRANT](https://open.spotify.com/artist/5ngimDhvnW2WdAOASWoP9H) | [Wanneer U Verskyn](https://open.spotify.com/album/40bKRGLs5N2n6APaDVW3vJ) | 3:25 | 2024-03-29 | 2024-04-05 |
-| [Wapi](https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wapi](https://open.spotify.com/album/6k2Mz6mqJpd0O1xSNkYGXP) | 3:35 | 2024-06-21 |  |
+| [Wapi](https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wapi](https://open.spotify.com/album/6k2Mz6mqJpd0O1xSNkYGXP) | 3:37 | 2024-06-21 |  |
 | [Water](https://open.spotify.com/track/4zyME6MLRd6ugNQjnp1QSL) | [Yxung Bxss](https://open.spotify.com/artist/763CAHv5CJbNzymMTlHlMV), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Water](https://open.spotify.com/album/4R1guqEe2Wp1An5msTocjE) | 3:10 | 2024-02-16 | 2024-03-08 |
 | [Water Don Pass Garri](https://open.spotify.com/track/4bZZ33L7riuBq8OG6uhBlc) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi) | [Water Don Pass Garri](https://open.spotify.com/album/3F5Qor98LQryyiNAUfuHby) | 2:23 | 2024-05-31 | 2024-06-07 |
 | [Waters](https://open.spotify.com/track/6FLJnQt5vRIc4KxSXSSfA8) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Soliloquy](https://open.spotify.com/album/72rRqESVlk8mDkUUq9ZZch) | 2:18 | 2024-03-29 | 2024-04-12 |

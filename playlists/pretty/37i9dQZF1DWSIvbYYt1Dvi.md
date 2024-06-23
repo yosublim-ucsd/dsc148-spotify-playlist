@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > kyan 1 quebrada tão inteligente que tá dando AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,240 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,199 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SÃO PAULO](https://open.spotify.com/track/37srJxBv0dfjmyvbX7xMAh) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn) | [Só Vilão, Aqui Não Tem Herói](https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt) | 2:53 |
+| 1 | [SÃO PAULO](https://open.spotify.com/track/37srJxBv0dfjmyvbX7xMAh) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [AK1N](https://open.spotify.com/artist/2b5gGLycbRqRXtC6Ylaw4j) | [Só Vilão, Aqui Não Tem Herói](https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt) | 2:53 |
 | 2 | [BOOMBAP PERFEITO](https://open.spotify.com/track/5OrfScVAsdqEgo4Og8ebrv) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Grafiteh](https://open.spotify.com/artist/1mZKPF3NjGsiwsnGi9zE4r), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD) | [BOOMBAP PERFEITO](https://open.spotify.com/album/5BLeGawegQZ8zquNP8hpiu) | 2:48 |
 | 3 | [Férias da Metrópole](https://open.spotify.com/track/1Yh1BIQoPyH63SUxTGWs6U) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Duani](https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ) | [Férias da Metrópole](https://open.spotify.com/album/2zrVQ7cEqAMquEsilCU0U7) | 3:01 |
 | 4 | [La Noche](https://open.spotify.com/track/0IEVEtKQ4kRgZehxyfUrKS) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [OPROPRIO](https://open.spotify.com/album/0b2iLDXb2gs0jRk4Vj7jlR) | 3:21 |

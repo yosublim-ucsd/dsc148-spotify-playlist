@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Algific",
+        "url": "https://open.spotify.com/album/5L8ygYB2fsLyqfAOzqFlFe"
+      },
+      "artists": [
+        {
+          "name": "Astro II",
+          "url": "https://open.spotify.com/artist/31hclQNrBvuWYS1Bw6orHK"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Algific",
+      "url": "https://open.spotify.com/track/29QoOnSfdU6jpzaeDS2UqO"
+    },
+    {
+      "album": {
         "name": "Seven Seas",
         "url": "https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh"
       },
@@ -1942,7 +1960,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 184186,
       "name": "Glaciers",
       "url": "https://open.spotify.com/track/5h2bCmH2gc7Zf6AFLpAaoD"

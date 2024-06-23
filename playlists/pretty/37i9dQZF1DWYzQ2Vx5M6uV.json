@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists + the best afro beat from both worlds! Cover: Be\u00e9le, Maria Becerra, Joeboy & Humby ",
-  "num_followers": 116259,
+  "num_followers": 116303,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
+        "name": "No Wahala (Latin Remix)",
+        "url": "https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 157523,
+      "name": "No Wahala - Latin Remix",
+      "url": "https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4"
+    },
+    {
+      "added_at": "2024-06-07 09:14:55",
+      "album": {
         "name": "Boom Bam (with Afro B & Mariah Angeliq",
         "url": "https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 177000,
       "name": "Boom Bam (with Afro B & Mariah Angeliq",
       "url": "https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73"
-    },
-    {
-      "added_at": "2024-06-07 09:14:55",
-      "album": {
-        "name": "No Wahala (Latin Remix)",
-        "url": "https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 157523,
-      "name": "No Wahala - Latin Remix",
-      "url": "https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4"
     },
     {
       "added_at": "2024-06-07 09:14:55",
@@ -1463,22 +1463,22 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
-        "name": "Rover (feat. Piso 21)",
-        "url": "https://open.spotify.com/album/3AKDxiGfoAbNFrEgi25vJV"
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP"
       },
       "artists": [
         {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+          "name": "Natalia Paris",
+          "url": "https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0"
         },
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 211250,
-      "name": "Rover (feat. Piso 21)",
-      "url": "https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij"
+      "duration_ms": 257368,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n"
     }
   ],
   "unique_name": "Afro Ritmo",

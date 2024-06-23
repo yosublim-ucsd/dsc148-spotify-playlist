@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 164651,
       "name": "breakdown.",
       "url": "https://open.spotify.com/track/7m6BobzAU4vfjdkwblbiri"
@@ -2858,6 +2858,10 @@
         {
           "name": "Lemaitre",
           "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
+        },
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
         }
       ],
       "date_added": "2024-06-21",
@@ -3736,6 +3740,24 @@
       "duration_ms": 356008,
       "name": "Count On My Love",
       "url": "https://open.spotify.com/track/3nxyManavy2vBdYkilvhmF"
+    },
+    {
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156129,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB"
     },
     {
       "album": {
@@ -6420,7 +6442,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 149333,
       "name": "Free",
       "url": "https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg"
@@ -7262,7 +7284,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 172000,
       "name": "Greedy Sharks",
       "url": "https://open.spotify.com/track/1JbXH0RRng37GeJnwwxVUj"
@@ -8816,7 +8838,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 199368,
       "name": "I Ought To Stay Away From You",
       "url": "https://open.spotify.com/track/6Zf2sFKGBDMXR4X8uIxIfS"
@@ -12426,7 +12448,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 152806,
       "name": "M\u00e1llaus \u00dej\u00f3\u00f0",
       "url": "https://open.spotify.com/track/6BCDlRrTz7tOMEccMe7mBl"
@@ -17232,7 +17254,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 247283,
       "name": "Tasteless",
       "url": "https://open.spotify.com/track/1H3LHBeklWXCUCnd1TaesS"
@@ -17541,6 +17563,32 @@
     },
     {
       "album": {
+        "name": "the boy is mine (Remix)",
+        "url": "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213384,
+      "name": "the boy is mine (with Brandy, Monica) - Remix",
+      "url": "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF"
+    },
+    {
+      "album": {
         "name": "The Bridge (feat. Kim Wilde)",
         "url": "https://open.spotify.com/album/7nPkvjM7DolYtCcyIAny4S"
       },
@@ -17640,6 +17688,24 @@
       "duration_ms": 212373,
       "name": "The First Train Home",
       "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
+    },
+    {
+      "album": {
+        "name": "The Future Is A Foreign Land",
+        "url": "https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225224,
+      "name": "The Future Is A Foreign Land",
+      "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
     },
     {
       "album": {
@@ -18658,6 +18724,28 @@
       "duration_ms": 180364,
       "name": "UFO",
       "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
+    },
+    {
+      "album": {
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/4JnlqGdsDfELZDv4Ksa4pJ"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135766,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/4LyJyZpmfpDTAfF2E0gWHF"
     },
     {
       "album": {

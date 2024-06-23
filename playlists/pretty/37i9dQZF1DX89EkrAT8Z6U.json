@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1107918,
+  "num_followers": 1108534,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Bombs Away",
-      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Young Kid",
         "url": "https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 209057,
       "name": "Young Kid",
       "url": "https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Bombs Away",
+      "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -841,38 +841,6 @@
       "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Go!",
-        "url": "https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "Go!",
-      "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 99807,
-      "name": "WTH",
-      "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
-    },
-    {
       "added_at": "2024-06-11 20:16:14",
       "album": {
         "name": "NO HANDS",
@@ -891,6 +859,38 @@
       "duration_ms": 180580,
       "name": "PACKAPUNCH (feat. Danny Brown)",
       "url": "https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 99807,
+      "name": "WTH",
+      "url": "https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Go!",
+        "url": "https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
     },
     {
       "added_at": "2024-06-11 20:16:14",
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Dalai Lama",
-        "url": "https://open.spotify.com/album/78gNxj2hj39is15hwP82IC"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
-        }
-      ],
-      "duration_ms": 135433,
-      "name": "Dalai Lama",
-      "url": "https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Cyberfreak",
-        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 118093,
-      "name": "Cyberfreak",
-      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "hey! hi! hello!",
         "url": "https://open.spotify.com/album/5bcD3zRH3AqLjzlJmK71Bh"
       },
@@ -1115,6 +1083,38 @@
       "duration_ms": 148950,
       "name": "hey! hi! hello!",
       "url": "https://open.spotify.com/track/27SEQaBcAE7DoIrScknD3S"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Cyberfreak",
+        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 118093,
+      "name": "Cyberfreak",
+      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Dalai Lama",
+        "url": "https://open.spotify.com/album/78gNxj2hj39is15hwP82IC"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 135433,
+      "name": "Dalai Lama",
+      "url": "https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1155,30 +1155,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "in my restless dreams, i see you",
-        "url": "https://open.spotify.com/album/3lKy1Ddnt6Jov2ALre3Cao"
-      },
-      "artists": [
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        },
-        {
-          "name": "KAMAARA",
-          "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 157407,
-      "name": "ghost in the shell (feat. SXMPRA)",
-      "url": "https://open.spotify.com/track/4g6MtQnxi6GjuZicJerym7"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "March!",
         "url": "https://open.spotify.com/album/2oKf1enSq9QsAoWqSWMtHa"
       },
@@ -1203,22 +1179,26 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "RUN UP!",
-        "url": "https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5"
+        "name": "in my restless dreams, i see you",
+        "url": "https://open.spotify.com/album/3lKy1Ddnt6Jov2ALre3Cao"
       },
       "artists": [
         {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
         },
         {
-          "name": "Josh A",
-          "url": "https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN"
+          "name": "KAMAARA",
+          "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
         }
       ],
-      "duration_ms": 139005,
-      "name": "RUN UP!",
-      "url": "https://open.spotify.com/track/7oDUCu36rMex65tc03C8er"
+      "duration_ms": 157407,
+      "name": "ghost in the shell (feat. SXMPRA)",
+      "url": "https://open.spotify.com/track/4g6MtQnxi6GjuZicJerym7"
     },
     {
       "added_at": "2024-06-11 20:16:14",
@@ -1235,6 +1215,26 @@
       "duration_ms": 244153,
       "name": "When You Sleep",
       "url": "https://open.spotify.com/track/1hbciWy4syeBJeWubluRoX"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "RUN UP!",
+        "url": "https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        },
+        {
+          "name": "Josh A",
+          "url": "https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN"
+        }
+      ],
+      "duration_ms": 139005,
+      "name": "RUN UP!",
+      "url": "https://open.spotify.com/track/7oDUCu36rMex65tc03C8er"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "paranoia",
-        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
-      },
-      "artists": [
-        {
-          "name": "KENTENSHI",
-          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
-        }
-      ],
-      "duration_ms": 117408,
-      "name": "paranoia",
-      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Lost It All",
         "url": "https://open.spotify.com/album/70Qd3rxxqLRnEQQusrFuQC"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 242086,
       "name": "Lost It All",
       "url": "https://open.spotify.com/track/2ByeohqpWsZdXQlZ1mOTtA"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
+      },
+      "artists": [
+        {
+          "name": "KENTENSHI",
+          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
+        }
+      ],
+      "duration_ms": 117408,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "MAMBO",
+        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
+      },
+      "artists": [
+        {
+          "name": "DIRTYXAN",
+          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+        }
+      ],
+      "duration_ms": 127925,
+      "name": "MAMBO",
+      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Nikes",
         "url": "https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn"
       },
@@ -1327,26 +1343,6 @@
       "duration_ms": 139910,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "from up on silent hill",
-        "url": "https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ"
-      },
-      "artists": [
-        {
-          "name": "Savage Ga$p",
-          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
-        },
-        {
-          "name": "Witchouse 40k",
-          "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "from up on silent hill",
-      "url": "https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR"
     }
   ],
   "unique_name": "sh\u014dnen",

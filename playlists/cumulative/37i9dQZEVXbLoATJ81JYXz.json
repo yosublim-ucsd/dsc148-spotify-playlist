@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 157546,
       "name": "Andas in andas ut",
       "url": "https://open.spotify.com/track/0gF8DDkQ4AZEEgPsWL95n6"
@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 334053,
       "name": "Babblarnas vaggvisa",
       "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
@@ -2946,7 +2946,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -3232,7 +3232,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
@@ -3378,7 +3378,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 218385,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y"
@@ -3494,7 +3494,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -4707,6 +4707,24 @@
     },
     {
       "album": {
+        "name": "B\u00e4sta kebaben i hela stan",
+        "url": "https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215974,
+      "name": "B\u00e4sta kebaben i hela stan",
+      "url": "https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG"
+    },
+    {
+      "album": {
         "name": "B\u00e4sta var du",
         "url": "https://open.spotify.com/album/6S6WCiLAWuTOT1gBWOvm7m"
       },
@@ -4808,7 +4826,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 146938,
       "name": "B\u00e6rum Bitches (Mannschaft)",
       "url": "https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC"
@@ -4910,7 +4928,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 120000,
       "name": "CALMA",
       "url": "https://open.spotify.com/track/0ZW2C4Yd8HvGXM6jrLmChx"
@@ -6527,6 +6545,24 @@
     },
     {
       "album": {
+        "name": "Alla f\u00e5r p\u00e5sar",
+        "url": "https://open.spotify.com/album/40jqt82BsceKfpdXjaP3PO"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189835,
+      "name": "Dansar aldrig nykter",
+      "url": "https://open.spotify.com/track/6Ne4K5XPMGSnc54rOyCWNI"
+    },
+    {
+      "album": {
         "name": "DANSAR ALDRIG NYKTER",
         "url": "https://open.spotify.com/album/0W4QW4TQvbRM8GWCCttuC8"
       },
@@ -6954,7 +6990,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 177200,
       "name": "Det \u00e4r ju dej jag g\u00e5r och v\u00e4ntar p\u00e5",
       "url": "https://open.spotify.com/track/2sbjPQE3sS9H6i8BOmtZbr"
@@ -7252,7 +7288,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 304426,
       "name": "Dina f\u00e4rger var bl\u00e5",
       "url": "https://open.spotify.com/track/2eIe720mhOM77Gfa6I4Url"
@@ -7390,7 +7426,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 140046,
       "name": "Djurens vaggvisa",
       "url": "https://open.spotify.com/track/0j2JcSeuF8ElJTrC8g6493"
@@ -8418,7 +8454,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 154533,
       "name": "Dum",
       "url": "https://open.spotify.com/track/4kadw7GlPL8BZYk9yzWqLx"
@@ -8938,7 +8974,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Eloise",
       "url": "https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg"
@@ -11422,7 +11458,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 193360,
       "name": "Fr\u00e5n och med Du",
       "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
@@ -14200,7 +14236,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 185458,
       "name": "Helluva life",
       "url": "https://open.spotify.com/track/1lxnQq2RI4UXqXXegmiiVY"
@@ -14240,7 +14276,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 127706,
       "name": "HEMSK",
       "url": "https://open.spotify.com/track/2yWyVyZwv87UDeDqYyx9Dh"
@@ -15014,7 +15050,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 227239,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
@@ -15252,7 +15288,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 237813,
       "name": "H\u00e4nderna mot himlen",
       "url": "https://open.spotify.com/track/14AJI1RloVWTh8bJe9gBPM"
@@ -15514,7 +15550,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -15608,7 +15644,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
@@ -16084,7 +16120,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 137727,
       "name": "Ikv\u00e4ll Igen",
       "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
@@ -16580,7 +16616,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 228733,
       "name": "Ingen sommar utan reggae",
       "url": "https://open.spotify.com/track/5YuLlTsWYK9uslUdGM83dJ"
@@ -16616,7 +16652,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 201169,
       "name": "Inget stoppar oss nu",
       "url": "https://open.spotify.com/track/2CyOfxn9TkmBml8ZNBIcZf"
@@ -16996,7 +17032,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 202746,
       "name": "Jag kommer",
       "url": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU"
@@ -17510,7 +17546,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 221217,
       "name": "Josefin",
       "url": "https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv"
@@ -18182,7 +18218,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 166806,
       "name": "Kite",
       "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
@@ -18634,6 +18670,24 @@
       "duration_ms": 158200,
       "name": "Kulor (Intro)",
       "url": "https://open.spotify.com/track/5hrDLjhhAHCYOONnAUAAkD"
+    },
+    {
+      "album": {
+        "name": "Uggla Box",
+        "url": "https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Kung f\u00f6r en dag",
+      "url": "https://open.spotify.com/track/58X2vGyNWT2ZPEaGUw1tAb"
     },
     {
       "album": {
@@ -19944,7 +19998,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -20430,7 +20484,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -20698,7 +20752,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 120834,
       "name": "L\u00e5t Mig Va",
       "url": "https://open.spotify.com/track/6Vbgg3C5Qo7olhjIIr1r4e"
@@ -21884,7 +21938,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 194506,
       "name": "Midsommarnatt",
       "url": "https://open.spotify.com/track/5LAnTrLaN2SzUfWOglKPIy"
@@ -23123,6 +23177,24 @@
     },
     {
       "album": {
+        "name": "Tid & Tro",
+        "url": "https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187797,
+      "name": "Natthimlen",
+      "url": "https://open.spotify.com/track/1ABS9QUpgdLMiNzEDiilAs"
+    },
+    {
+      "album": {
         "name": "NDA",
         "url": "https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29"
       },
@@ -24164,7 +24236,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 200333,
       "name": "Oh, vilken h\u00e4rlig da'",
       "url": "https://open.spotify.com/track/1Taqw1VEHl8Gy9qAZtRLAq"
@@ -25408,7 +25480,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -25686,7 +25758,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -26098,7 +26170,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 166879,
       "name": "Que Sera",
       "url": "https://open.spotify.com/track/4kqkGUxHHAqJMtpsHMvLTQ"
@@ -27501,6 +27573,28 @@
     },
     {
       "album": {
+        "name": "R\u00f6dvin & Ros\u00e9",
+        "url": "https://open.spotify.com/album/6qbjzSLFcxqdcC8ma77Hxt"
+      },
+      "artists": [
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        },
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174706,
+      "name": "R\u00f6dvin & Ros\u00e9",
+      "url": "https://open.spotify.com/track/1VeSJ9PVCutdTMPn4sFpzo"
+    },
+    {
+      "album": {
         "name": "F\u00f6rsta Klass",
         "url": "https://open.spotify.com/album/5W4QltYoETJuRVqkcwWOtl"
       },
@@ -28808,7 +28902,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 190053,
       "name": "Sista sommaren",
       "url": "https://open.spotify.com/track/28TGtp6irVUZhTv5ytdex1"
@@ -29312,7 +29406,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 211360,
       "name": "Sl\u00e5 mig h\u00e5rt i ansiktet",
       "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
@@ -29892,7 +29986,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 205312,
       "name": "Sommar sommar sol",
       "url": "https://open.spotify.com/track/6yuG9MJgec1f18LA7fWJW0"
@@ -29968,7 +30062,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 183826,
       "name": "Sommaren \u00e4r kort",
       "url": "https://open.spotify.com/track/2W7tzqjAPXG97RthXx6pNR"
@@ -31020,7 +31114,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 247320,
       "name": "Str\u00f6vt\u00e5g i Hembygden",
       "url": "https://open.spotify.com/track/0SIKahWVv5FT5ow3UUB80s"
@@ -33422,7 +33516,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
@@ -33914,7 +34008,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 189680,
       "name": "Tr\u00e4dg\u00e5rden en fredag",
       "url": "https://open.spotify.com/track/1oFoY6INRnHIpHY6ssPxBm"
@@ -34916,7 +35010,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 212109,
       "name": "Vart jag mig i v\u00e4rlden v\u00e4nder",
       "url": "https://open.spotify.com/track/7nLMZKhfkFZLr9rz4VyOpF"
@@ -35178,7 +35272,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 195518,
       "name": "Vi ska aldrig g\u00e5 hem",
       "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
@@ -35586,7 +35680,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 158062,
       "name": "V\u00e4lkommen ner",
       "url": "https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU"
@@ -36432,10 +36526,32 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "album": {
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/4rTPLtqJxa4UtCBkdMwSp6"
     },
     {
       "album": {

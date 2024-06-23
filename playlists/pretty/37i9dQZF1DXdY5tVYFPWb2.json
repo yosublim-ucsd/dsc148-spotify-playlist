@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 163009,
+  "num_followers": 163044,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-06-12 01:41:08",
       "album": {
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
+    },
+    {
+      "added_at": "2024-06-12 01:41:08",
+      "album": {
         "name": "Sweet Sweet (feat. \u571f\u5c90\u9ebb\u5b50)",
         "url": "https://open.spotify.com/album/1thBf4gOv73FiEe21Jro2y"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2024-06-12 01:41:08",
       "album": {
-        "name": "Rainy Day",
-        "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
-    },
-    {
-      "added_at": "2024-06-12 01:41:08",
-      "album": {
         "name": "\u30ed\u30de\u30f3\u30b9",
         "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-06-12 01:41:08",
       "album": {
-        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
-        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 201642,
-      "name": "Amber",
-      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
-    },
-    {
-      "added_at": "2024-06-12 01:41:08",
-      "album": {
         "name": "AURORA TOKIO",
         "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 215913,
       "name": "AURORA TOKIO",
       "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
+    },
+    {
+      "added_at": "2024-06-12 01:41:08",
+      "album": {
+        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
+        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 201642,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
     },
     {
       "added_at": "2024-06-12 01:41:08",
@@ -1627,38 +1627,6 @@
     {
       "added_at": "2024-06-12 01:41:08",
       "album": {
-        "name": "\u3061\u304c\u3046",
-        "url": "https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO"
-      },
-      "artists": [
-        {
-          "name": "Maharajan",
-          "url": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
-        }
-      ],
-      "duration_ms": 230786,
-      "name": "eden",
-      "url": "https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY"
-    },
-    {
-      "added_at": "2024-06-12 01:41:08",
-      "album": {
-        "name": "Living Room",
-        "url": "https://open.spotify.com/album/17wsj6ok978OcBQhmNexce"
-      },
-      "artists": [
-        {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "\u3042\u306a\u305f\u3086\u305a\u308a",
-      "url": "https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3"
-    },
-    {
-      "added_at": "2024-06-12 01:41:08",
-      "album": {
         "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
         "url": "https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk"
       },
@@ -1687,6 +1655,38 @@
       "duration_ms": 265961,
       "name": "Regrets",
       "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
+    },
+    {
+      "added_at": "2024-06-12 01:41:08",
+      "album": {
+        "name": "\u3061\u304c\u3046",
+        "url": "https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO"
+      },
+      "artists": [
+        {
+          "name": "Maharajan",
+          "url": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "eden",
+      "url": "https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY"
+    },
+    {
+      "added_at": "2024-06-12 01:41:08",
+      "album": {
+        "name": "Living Room",
+        "url": "https://open.spotify.com/album/17wsj6ok978OcBQhmNexce"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "\u3042\u306a\u305f\u3086\u305a\u308a",
+      "url": "https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3"
     },
     {
       "added_at": "2024-06-12 01:41:08",

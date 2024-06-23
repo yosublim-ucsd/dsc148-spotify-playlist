@@ -315,6 +315,28 @@
     },
     {
       "album": {
+        "name": "Malbec",
+        "url": "https://open.spotify.com/album/6tE7zlSvK0QmTK1cxw5g7m"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264058,
+      "name": "Malbec",
+      "url": "https://open.spotify.com/track/3T3PXtfMI5oHdzOViRsJ3g"
+    },
+    {
+      "album": {
         "name": "ESENCIA",
         "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
       },

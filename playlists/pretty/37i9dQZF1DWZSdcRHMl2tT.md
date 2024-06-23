@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,366 likes - 308 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,665 likes - 308 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,7 +219,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 209 | [Mazal](https://open.spotify.com/track/1VGidY4QvUrjSJDL6lW0iu) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Mazal](https://open.spotify.com/album/3MQ37VFDqoqypH9JwvQmn7) | 2:37 |
 | 210 | [Green Leafs](https://open.spotify.com/track/6HlFrgdDGdyz9eKQZzb2UG) | [Carlo Azure](https://open.spotify.com/artist/1UosFEbzfi6fLIdQSYiL1Z) | [Underneath The Oaks](https://open.spotify.com/album/05UdyDvJk8v6499m2uDz5G) | 3:21 |
 | 211 | [Again again](https://open.spotify.com/track/7siaBvEhAnrEg27iXp2btt) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [Again again](https://open.spotify.com/album/6qnIwtjqI38oymd4TNHRoR) | 2:44 |
-| 212 | [Fanfare](https://open.spotify.com/track/2qepxROwRFTCYlwlgrIbZ5) | [Transpiritual](https://open.spotify.com/artist/59taaUJx3Bx2oLgYe8EUjN), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Fanfare](https://open.spotify.com/album/2JWzpyP2ihJSEn2MP3IsMS) | 4:06 |
+| 212 | [Fanfare](https://open.spotify.com/track/2qepxROwRFTCYlwlgrIbZ5) | [Transpiritual](https://open.spotify.com/artist/59taaUJx3Bx2oLgYe8EUjN) | [Fanfare](https://open.spotify.com/album/2JWzpyP2ihJSEn2MP3IsMS) | 4:06 |
 | 213 | [White Island Dreams](https://open.spotify.com/track/2y3gu3ivDq430JRX7eGcEv) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [White Island Dreams](https://open.spotify.com/album/3O9jUdv6lXjPNiabvGE3wT) | 3:01 |
 | 214 | [Supine](https://open.spotify.com/track/5Ko0o58lO7LJDsIl4vpLxy) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Supine](https://open.spotify.com/album/0r1YdNfM2IKLNDHxSuPZkM) | 2:34 |
 | 215 | [Velleity](https://open.spotify.com/track/4HQ41ym9uibfzg3rDtEYcm) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Velleity](https://open.spotify.com/album/4huMtPAQYTHoD8Rc3ExI3n) | 3:32 |

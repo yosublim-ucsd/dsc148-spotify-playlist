@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 ### [SUBSHIFT SELECTS ](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
 
-> The freshest tech house &amp; techno music \| Submit via Instagram: @subshiftmusic
+> The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,675 likes - 50 songs - 2 hr 40 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 10,690 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 49 | [Fantasy](https://open.spotify.com/track/6Iys4Jb5cMrbD8e8d6iOgO) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Fantasy](https://open.spotify.com/album/6obQDd1WviBdLjeousvwfw) | 3:28 |
 | 50 | [Something To Me](https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Something To Me](https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO) | 3:45 |
 
-Snapshot ID: `AAAigMZL0hVJT/hSh3949dgBqRmJOEEK`
+Snapshot ID: `AAAigcc5cOXhCnvZ8/KLy4Pb9CJUxrAV`

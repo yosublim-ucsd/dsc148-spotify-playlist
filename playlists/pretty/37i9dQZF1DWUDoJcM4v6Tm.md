@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 
 > Explore a sprawling musical landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,828 likes - 134 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,846 likes - 134 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 72 | [The Way It Shapes You](https://open.spotify.com/track/6LtBn5ySVXDQOdFzxkizfS) | [Tall Tree 6ft Man](https://open.spotify.com/artist/4tEG6lwRBr7Lit0tjCnb1o) | [Fools EP](https://open.spotify.com/album/1HvqHgLUFtsW27Bf0HTcw4) | 2:56 |
 | 73 | [On a Gravel Road](https://open.spotify.com/track/2dWXOBymnxXKptxhtlNcgf) | [Tom Brosseau](https://open.spotify.com/artist/2N8B0dQLfpwOtput9mRlko) | [North Dakota Impressions](https://open.spotify.com/album/32RN7tMf61oh02vpv936KW) | 3:00 |
 | 74 | [Flyin' Overhead](https://open.spotify.com/track/67djP6VPqGDjG5jJgBEuQb) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Flyin' Overhead](https://open.spotify.com/album/7weMOuQtaLZ5IM1FFpSv8v) | 4:51 |
-| 75 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |
+| 75 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |
 | 76 | [Albert Ross \- Acoustic Version](https://open.spotify.com/track/6b5spmZTz183Wv2NISqkuB) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Albert Ross \(Acoustic Version\)](https://open.spotify.com/album/1JOxodWPhouYYkrU4pokMs) | 4:30 |
 | 77 | [LIFE ON EARTH](https://open.spotify.com/track/6ZUZ33Hz83h6szgf56gzJx) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 5:46 |
 | 78 | [Brutally](https://open.spotify.com/track/0f7dMajOqhBYk8MCDoZEUF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/2uvvow1EWCznj0xHPztu8M) | 3:28 |

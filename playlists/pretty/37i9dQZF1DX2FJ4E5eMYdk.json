@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 164184,
+  "num_followers": 164204,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Baby Bluebird",
-      "url": "https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "The Sorry Sweater",
         "url": "https://open.spotify.com/album/63uqMPsXQz1BXFi2vHCpiC"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 206850,
       "name": "The Sorry Sweater",
       "url": "https://open.spotify.com/track/06gBjl6WD3l4ExKfelGkW5"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Baby Bluebird",
+      "url": "https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Strange to Explain",
-        "url": "https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI"
-      },
-      "artists": [
-        {
-          "name": "Woods",
-          "url": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
-        }
-      ],
-      "duration_ms": 351725,
-      "name": "Where Do You Go When You Dream",
-      "url": "https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Automechanic",
         "url": "https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 228253,
       "name": "Automechanic",
       "url": "https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Strange to Explain",
+        "url": "https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI"
+      },
+      "artists": [
+        {
+          "name": "Woods",
+          "url": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
+        }
+      ],
+      "duration_ms": 351725,
+      "name": "Where Do You Go When You Dream",
+      "url": "https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX"
     },
     {
       "added_at": "2024-06-14 04:00:00",

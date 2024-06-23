@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,747 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,763 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [HURTZ](https://open.spotify.com/track/2WWlNStuw5Tqg5noCtR7oq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [HOTSHOT](https://open.spotify.com/album/2Tt5k4YZ6gkYtjJeLBHGkG) | 1:44 |
 | 50 | [CRANKI](https://open.spotify.com/track/1dwuA3034avUaHBlIOUSlg) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [MIND UP!](https://open.spotify.com/album/2ErQkuMncjeG2DQ7mxoGih) | 1:50 |
 
-Snapshot ID: `LgjlmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lgo5cAAAAAAAAAAAAAAAAAAAAAAAAGVu`

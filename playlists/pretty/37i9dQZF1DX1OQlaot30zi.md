@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Rosa Chemical, Villabanks, Capo Plaza, Salmo e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,049 likes - 99 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,079 likes - 99 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 6 | [Rivalsa \(feat\. 22simba\)](https://open.spotify.com/track/4kt7KzlSvKTup0Oz4VhrQu) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Fame di Rivalsa](https://open.spotify.com/album/79WcSTW52Em1smSlOUupqC) | 2:21 |
 | 7 | [New Date \(feat\. Don Pero, CoCo\)](https://open.spotify.com/track/0RUzwtbvoASM5AVKRcmyYR) | [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [New Date \(feat\. Don Pero, CoCo\)](https://open.spotify.com/album/0cV8EqMkPdAivkRmFQ1uHo) | 2:45 |
 | 8 | [Vaniglia \(feat\. VillaBanks, Boro & Andry The Hitmaker\)](https://open.spotify.com/track/3ceeE7trGex4ioSAYMcuOr) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Vaniglia \(feat\. VillaBanks, Boro & Andry The Hitmaker\)](https://open.spotify.com/album/5umTTXnLDMrhAqrnBUyb1U) | 3:12 |
-| 9 | [Big Benz](https://open.spotify.com/track/47lZfI1lqF7r2zeOkuo3VC) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Big Benz](https://open.spotify.com/album/6jbPxjjzhrfMbNC75CTocu) | 2:14 |
+| 9 | [Big Benz](https://open.spotify.com/track/47lZfI1lqF7r2zeOkuo3VC) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Big Benz](https://open.spotify.com/album/6jbPxjjzhrfMbNC75CTocu) | 2:14 |
 | 10 | [GENOVARABE \(feat\. Sayf, Sossy, MARVIN, Vincè\)](https://open.spotify.com/track/32tEewbZYXPtP3dNfPHSYp) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Sossy](https://open.spotify.com/artist/4ysgK4sYkrm8Ftm8pSGbHc), [MARVIN](https://open.spotify.com/artist/7yzpHizpp0fjyfSz80XWTI), [Vincè](https://open.spotify.com/artist/5pNM7ZJn8YPNGBNAkpv3AW) | [GENOVARABE \(feat\. Sayf, Sossy, MARVIN, Vincè\)](https://open.spotify.com/album/4J8cWOfEmXleRjkn3nUroh) | 3:12 |
 | 11 | [Lasciami andare](https://open.spotify.com/track/6X5bqRKUhw297ZdR1UsoPh) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [WEEKEND SU PLUTO](https://open.spotify.com/album/0i04xMqsMUuWrVyq5O0cDD) | 3:00 |
 | 12 | [ADDIO](https://open.spotify.com/track/4IuhPS27Rf3lDqSYYmHqI0) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [ADDIO](https://open.spotify.com/album/7iFrtAfj9vQpE0EYTaIZBe) | 3:12 |

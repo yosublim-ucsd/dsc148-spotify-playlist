@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > When everything around you is falling apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,895 likes - 96 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,903 likes - 96 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 61 | [Dhaaga](https://open.spotify.com/track/4yrsSQgfXaHuPQ4prMPvzV) | [SickLot](https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6), [Big Scratch](https://open.spotify.com/artist/5YlvUMiPPR0aT4pfeGlq6u) | [Khaali Panne](https://open.spotify.com/album/6rq6XwTPgShV3wlGkVciqy) | 3:41 |
 | 62 | [Khush to Hai Na](https://open.spotify.com/track/2bGCXKKxk0FyTwYeJooaJH) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Khush to Hai Na](https://open.spotify.com/album/6mgPdNVamEDDLXbbe0dtiT) | 3:11 |
 | 63 | [Aankhon Se Batana \(feat\. Dikshant\) \- Heartbreak Version](https://open.spotify.com/track/3TvuDDztSve7iSxnd0bvHg) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA), [Harshit Saini](https://open.spotify.com/artist/03jDz58ylwSMx3LCzOM95i), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana \(feat\. Dikshant\) \[Heartbreak Version\]](https://open.spotify.com/album/2W5j6HlejBMhmiEoat8I8N) | 3:24 |
-| 64 | [Aadat](https://open.spotify.com/track/4yR2z3JafnCo86THA6ISZ4) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kalyug](https://open.spotify.com/album/1BEbWl7hVZ2B2O7zuzKOhG) | 5:33 |
-| 65 | [Ajnabee](https://open.spotify.com/track/0pQ1hgyLofFLNzE4hvjENi) | [Bhuvan Bam](https://open.spotify.com/artist/5lfGXaGmQck7m2077vsKpy) | [Ajnabee](https://open.spotify.com/album/1WGbCAsg44CV0JLld94m7g) | 3:01 |
+| 64 | [Ajnabee](https://open.spotify.com/track/0pQ1hgyLofFLNzE4hvjENi) | [Bhuvan Bam](https://open.spotify.com/artist/5lfGXaGmQck7m2077vsKpy) | [Ajnabee](https://open.spotify.com/album/1WGbCAsg44CV0JLld94m7g) | 3:01 |
+| 65 | [Aadat](https://open.spotify.com/track/4yR2z3JafnCo86THA6ISZ4) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kalyug](https://open.spotify.com/album/1BEbWl7hVZ2B2O7zuzKOhG) | 5:33 |
 | 66 | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/album/6jN4E5miEwdQBUqU0HP0Dg) | 3:32 |
 | 67 | [Khud Se](https://open.spotify.com/track/5hL9yKGJAMUxfwsjFnJ0aR) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Wahaan](https://open.spotify.com/album/0sIWkQuV1D7PDH2icX4KvL) | 3:08 |
 | 68 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 |

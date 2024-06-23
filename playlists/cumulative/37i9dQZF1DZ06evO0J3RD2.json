@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Afraid To Die",
+        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182216,
+      "name": "Afraid To Die",
+      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
+    },
+    {
+      "album": {
         "name": "Live At Studio 4",
         "url": "https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV"
       },

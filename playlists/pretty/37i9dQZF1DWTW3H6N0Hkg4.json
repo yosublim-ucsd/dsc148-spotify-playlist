@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 249389,
+  "num_followers": 249556,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Sue\u00f1o Contigo",
-        "url": "https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O"
-      },
-      "artists": [
-        {
-          "name": "Andikiru",
-          "url": "https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o"
-        }
-      ],
-      "duration_ms": 211506,
-      "name": "Mami (Angel De Paz)",
-      "url": "https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 192026,
       "name": "Paloma Mensajera",
       "url": "https://open.spotify.com/track/30HqMk10iQ4Z9RrbiNnp8B"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Sue\u00f1o Contigo",
+        "url": "https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O"
+      },
+      "artists": [
+        {
+          "name": "Andikiru",
+          "url": "https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "Mami (Angel De Paz)",
+      "url": "https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Carta De Recuerdo",
+      "url": "https://open.spotify.com/track/7gKRB1lnS911o6rfunYZsd"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
         "name": "Disco De Oro - Cumbia",
         "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 166256,
       "name": "La Pobreza - Rebajada",
       "url": "https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Carta De Recuerdo",
-      "url": "https://open.spotify.com/track/7gKRB1lnS911o6rfunYZsd"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 172813,
-      "name": "Amor Libre",
-      "url": "https://open.spotify.com/track/417hz3bOfPdXH9vKjzfM23"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Sabor A Cumbia",
         "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 174933,
       "name": "La Velludita",
       "url": "https://open.spotify.com/track/7sdCUfRUrKbqWCOguRhQnp"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 172813,
+      "name": "Amor Libre",
+      "url": "https://open.spotify.com/track/417hz3bOfPdXH9vKjzfM23"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1387,18 +1387,22 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/1lQzhAOSfvL2yBZwkdL8xR"
+        "name": "Disco De Oro - Cumbia",
+        "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
       },
       "artists": [
         {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+          "name": "Los Dinamiteros de Colombia",
+          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
+        },
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
         }
       ],
-      "duration_ms": 228840,
-      "name": "La Sirenita",
-      "url": "https://open.spotify.com/track/4lnMgeHkR4eS2diGff2YL9"
+      "duration_ms": 184972,
+      "name": "Cumbia Cienaguera",
+      "url": "https://open.spotify.com/track/3uUTp8ivOJPX695AIFBpwj"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1451,22 +1455,18 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Disco De Oro - Cumbia",
-        "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/1lQzhAOSfvL2yBZwkdL8xR"
       },
       "artists": [
         {
-          "name": "Los Dinamiteros de Colombia",
-          "url": "https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW"
-        },
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 184972,
-      "name": "Cumbia Cienaguera",
-      "url": "https://open.spotify.com/track/3uUTp8ivOJPX695AIFBpwj"
+      "duration_ms": 228840,
+      "name": "La Sirenita",
+      "url": "https://open.spotify.com/track/4lnMgeHkR4eS2diGff2YL9"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -1699,38 +1683,6 @@
       "duration_ms": 161239,
       "name": "Yo Tomo Licor",
       "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
-        "name": "Nunca Me Faltes",
-        "url": "https://open.spotify.com/album/4IERX704YcJHePC2n4irxt"
-      },
-      "artists": [
-        {
-          "name": "Santamarta",
-          "url": "https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB"
-        }
-      ],
-      "duration_ms": 266146,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/1KeFTzRrYwnDlxRFNJY4uQ"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Amor Sin Primavera",
-      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1751,6 +1703,54 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Amor Sin Primavera",
+      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Nunca Me Faltes",
+        "url": "https://open.spotify.com/album/4IERX704YcJHePC2n4irxt"
+      },
+      "artists": [
+        {
+          "name": "Santamarta",
+          "url": "https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB"
+        }
+      ],
+      "duration_ms": 266146,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/1KeFTzRrYwnDlxRFNJY4uQ"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
         "name": "Cumbia Cumbia 1 & 2",
         "url": "https://open.spotify.com/album/33nptLvg4fk3Alpy32a5s3"
       },
@@ -1763,6 +1763,38 @@
       "duration_ms": 161173,
       "name": "La Piragua",
       "url": "https://open.spotify.com/track/3JR7q9gwcWrkae41iYaXH5"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Los A\u00f1os De Oro - La Orquesta De Siempre",
+        "url": "https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Pasito Tun, Tun",
+      "url": "https://open.spotify.com/track/44DJn7xXxlUbTzErTY8DiB"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "A Morir",
+        "url": "https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9rico",
+          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
+        }
+      ],
+      "duration_ms": 229920,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1799,22 +1831,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "A Morir",
-        "url": "https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rico",
-          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI"
       },
@@ -1831,22 +1847,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1e5EdsdbKNMXUABtXSrD98"
-      },
-      "artists": [
-        {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Amor De Adolescentes",
-      "url": "https://open.spotify.com/track/1ksna7ji7FVlKDpq6FUHSE"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
         "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
       },
@@ -1859,6 +1859,22 @@
       "duration_ms": 224666,
       "name": "Alma De Acero",
       "url": "https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1e5EdsdbKNMXUABtXSrD98"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Amor De Adolescentes",
+      "url": "https://open.spotify.com/track/1ksna7ji7FVlKDpq6FUHSE"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1895,18 +1911,34 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Los A\u00f1os De Oro - La Orquesta De Siempre",
-        "url": "https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz"
+        "name": "Amor de Internet",
+        "url": "https://open.spotify.com/album/0x63AO9cXTLCjhRzdT1BuW"
       },
       "artists": [
         {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Pasito Tun, Tun",
-      "url": "https://open.spotify.com/track/44DJn7xXxlUbTzErTY8DiB"
+      "duration_ms": 230226,
+      "name": "Amor de Internet",
+      "url": "https://open.spotify.com/track/5LxGgIGHOjbzvPm5CclD1h"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
+        "name": "Serie 20 Exitos Los Yes Yes",
+        "url": "https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 313613,
+      "name": "El Verde De Tus Ojos",
+      "url": "https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3"
     },
     {
       "added_at": "2024-04-08 22:50:12",
@@ -1959,22 +1991,6 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
-        "name": "Los M\u00e1s Queridos",
-        "url": "https://open.spotify.com/album/65Z4VN8ZKEYkqM6K2yNoRl"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Te Vas a Arrepentir",
-      "url": "https://open.spotify.com/track/5Rb1YFwlxt1AgMaqbOpZzf"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
       },
@@ -1991,6 +2007,22 @@
     {
       "added_at": "2024-04-08 22:50:12",
       "album": {
+        "name": "Los M\u00e1s Queridos",
+        "url": "https://open.spotify.com/album/65Z4VN8ZKEYkqM6K2yNoRl"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Te Vas a Arrepentir",
+      "url": "https://open.spotify.com/track/5Rb1YFwlxt1AgMaqbOpZzf"
+    },
+    {
+      "added_at": "2024-04-08 22:50:12",
+      "album": {
         "name": "Guaracha Sabrosona",
         "url": "https://open.spotify.com/album/2RmmHqe6EdibrcZfvRQkYk"
       },
@@ -2003,38 +2035,6 @@
       "duration_ms": 219088,
       "name": "Guaracha Sabrosona",
       "url": "https://open.spotify.com/track/1NF3HErcMkLOcyG5K1fGLL"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
-        "name": "Cumbia Cumbia 1 & 2",
-        "url": "https://open.spotify.com/album/33nptLvg4fk3Alpy32a5s3"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Romero",
-          "url": "https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88"
-        }
-      ],
-      "duration_ms": 271880,
-      "name": "La Subienda",
-      "url": "https://open.spotify.com/track/2Czcw3HVVOVhBOMYHnfFcj"
-    },
-    {
-      "added_at": "2024-04-08 22:50:12",
-      "album": {
-        "name": "20 \u00c9xitos Bailables",
-        "url": "https://open.spotify.com/album/61Jt7JcYfQAbdGGbdvK2d0"
-      },
-      "artists": [
-        {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Ponchito de Colores",
-      "url": "https://open.spotify.com/track/0YZRusKhcSmMxaM1lJoSnH"
     }
   ],
   "unique_name": "Cumbias Viejitas",

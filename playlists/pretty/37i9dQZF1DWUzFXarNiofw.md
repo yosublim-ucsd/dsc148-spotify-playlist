@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,549 likes - 201 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,645 likes - 201 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 25 | [Voodoo](https://open.spotify.com/track/4Mm9v6Wk5aPK0g1H6WwxMW) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Voodoo](https://open.spotify.com/album/5tipdRRnZ8AsJVmenoJziS) | 2:28 |
 | 26 | [Tiny Apartment \(with SAINt JHN\)](https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:40 |
 | 27 | [S.O.B.](https://open.spotify.com/track/3yrqpxhP9gOALaaMZt7CMl) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Diva Gurl](https://open.spotify.com/artist/4ryikYxDE2ShiLDkzMqs11) | [S.O.B.](https://open.spotify.com/album/36xTzRgZywXgK12gfEIy0P) | 2:29 |
-| 28 | [Do It Out of Love](https://open.spotify.com/track/0B6fMeNXW2Ug9R5u23cbb0) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Do It out of Love](https://open.spotify.com/album/7nQpVw6tKZk4mieDLuhBMm) | 3:33 |
+| 28 | [Do It out of Love](https://open.spotify.com/track/0B6fMeNXW2Ug9R5u23cbb0) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Do It out of Love](https://open.spotify.com/album/7nQpVw6tKZk4mieDLuhBMm) | 3:33 |
 | 29 | [Want, U](https://open.spotify.com/track/2YWpQTMR8d9Ehlm6QTLDDy) | [Jeremy Pope](https://open.spotify.com/artist/524EFpZzvA7B9cdU27Fmm9) | [LAST NAME: POPE](https://open.spotify.com/album/6J51eeYBvF9cVtPsb7NppV) | 1:35 |
 | 30 | [Easy, Lee](https://open.spotify.com/track/1Bl4fX4phSMmAmwNT0n5kw) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Easy, Lee](https://open.spotify.com/album/5ufTSieimjepPAfT50ivXI) | 3:02 |
 | 31 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |

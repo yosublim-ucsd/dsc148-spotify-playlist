@@ -4,7 +4,7 @@
 
 > Workout to K\-Pop? Count me in! \(Cover: NAYEON\(나연\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-508 songs - 1 day 3 hr 36 min
+509 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-06 | 2022-07-20 |
 | [RUN AWAY](https://open.spotify.com/track/1XXyHhgmhMYqn55Gej4NXs) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) | 4:04 | 2022-01-03 | 2022-07-26 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-10 |  |
-| [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-23 |  |
+| [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-23 | 2024-06-23 |
 | [Rush \(feat\. OLNL, Khundi Panda\)](https://open.spotify.com/track/6i2LVrx7eE2gSrvf4LOCEn) | [Lym en](https://open.spotify.com/artist/3iezENWrsyQSutsDx3dXD5), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Lost Piece, Vol\. 2](https://open.spotify.com/album/7I75sf0ivMiuLM66B7BjTP) | 3:40 | 2022-03-03 | 2022-04-14 |
 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 | 2023-07-20 | 2024-04-19 |
 | [SAINT](https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:59 | 2024-06-07 |  |
@@ -510,6 +510,7 @@
 | [Zero For Conduct](https://open.spotify.com/track/2oO9xKPU8vkd02W3yOhv5v) | [Block B \- BASTARZ](https://open.spotify.com/artist/70ptvBQye3QMlbuTKrF1qb) | [Zero For Conduct](https://open.spotify.com/album/78A63dsiUsiSE9emLUgVxI) | 3:13 | 2022-03-22 | 2022-04-16 |
 | [Zig Zag](https://open.spotify.com/track/4X2559utG9iCx4pHolcKR6) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We can](https://open.spotify.com/album/3RXt9jdd9X57jxbyk9Mg9y) | 3:26 | 2022-03-22 | 2022-04-16 |
 | [Zimzalabim](https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 1](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) | 3:10 | 2022-03-22 | 2022-04-14 |
+| [ZOMBIE](https://open.spotify.com/track/57RkVmnj3b1FUJoUdkSuZD) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [ZOMBIE](https://open.spotify.com/album/6vGrWJmYXU9VqiqpOwPJ2r) | 3:18 | 2024-06-21 |  |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-01 |  |
 | [달려! Relay](https://open.spotify.com/track/7iH3faubNoXfhxmQUzUGGq) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [달려! Relay](https://open.spotify.com/album/1QBlxNoC6ScHlfLzfLUHtK) | 3:43 | 2022-03-22 | 2022-04-16 |
 | [쉼표](https://open.spotify.com/track/37Gq1KAg6bV3KAp32xOoFL) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Bamsem](https://open.spotify.com/artist/5iHMzgKZSoexGZSlY7Fext) | [Seoul Vibes, Pt​\. 4](https://open.spotify.com/album/6LHDppZ2sqbcy3uNub0duJ) | 2:30 | 2022-03-22 | 2022-04-15 |

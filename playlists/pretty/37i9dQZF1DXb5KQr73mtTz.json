@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17393,
+  "num_followers": 17396,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-06-11 07:49:41",
       "album": {
-        "name": "Replay (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2"
-      },
-      "artists": [
-        {
-          "name": "MIYEON",
-          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Dreaming About You",
-      "url": "https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5"
-    },
-    {
-      "added_at": "2024-06-11 07:49:41",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2024-06-11 07:49:41",
       "album": {
-        "name": "\uc5f0\ub9d0(\u5e74\u672b)",
-        "url": "https://open.spotify.com/album/71SJFyx6h7UHgL68e5ZHPT"
+        "name": "Replay (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2"
       },
       "artists": [
         {
-          "name": "Churry",
-          "url": "https://open.spotify.com/artist/1yhl1Sb604sZDyGavCdPUM"
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
         }
       ],
-      "duration_ms": 87942,
-      "name": "\uc5f0 \ub9d0",
-      "url": "https://open.spotify.com/track/5wePQ8qFuBt436u2L8vNbF"
+      "duration_ms": 221093,
+      "name": "Dreaming About You",
+      "url": "https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5"
     },
     {
       "added_at": "2024-06-11 07:49:41",
@@ -507,6 +491,22 @@
       "duration_ms": 195186,
       "name": "Star (Feat. 10CM)",
       "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
+    },
+    {
+      "added_at": "2024-06-11 07:49:41",
+      "album": {
+        "name": "\uc5f0\ub9d0(\u5e74\u672b)",
+        "url": "https://open.spotify.com/album/71SJFyx6h7UHgL68e5ZHPT"
+      },
+      "artists": [
+        {
+          "name": "Churry",
+          "url": "https://open.spotify.com/artist/1yhl1Sb604sZDyGavCdPUM"
+        }
+      ],
+      "duration_ms": 87942,
+      "name": "\uc5f0 \ub9d0",
+      "url": "https://open.spotify.com/track/5wePQ8qFuBt436u2L8vNbF"
     },
     {
       "added_at": "2024-06-11 07:49:41",

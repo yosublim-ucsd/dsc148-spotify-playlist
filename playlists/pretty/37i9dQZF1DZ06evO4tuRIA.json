@@ -1,12 +1,12 @@
 {
-  "description": "This is: LEGADO 7. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 81254,
+  "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
+  "num_followers": 81277,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAAAoJvull8u78YeRMPnq96c5",
+  "snapshot_id": "ZnTCgAAAAABXFvu1B9/fbK3zcicjlqXz",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Chamaco Sin Futuro",
-        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 141197,
-      "name": "El Amor No Va Conmigo",
-      "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4-20-20",
         "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 180082,
       "name": "Soy Lo Que Soy",
       "url": "https://open.spotify.com/track/1l3pEeeJygmbS1yVnrd7Cq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Chamaco Sin Futuro",
+        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 141197,
+      "name": "El Amor No Va Conmigo",
+      "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 216588,
-      "name": "El Popeye",
-      "url": "https://open.spotify.com/track/64gzvtnbBAQVJslAmzxL2V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legado 7 En Vivo Desde OK Corral",
         "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 191688,
       "name": "La Pantera (En Vivo)",
       "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 216588,
+      "name": "El Popeye",
+      "url": "https://open.spotify.com/track/64gzvtnbBAQVJslAmzxL2V"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 172303,
-      "name": "Un Chamaco Sin Futuro",
-      "url": "https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/6QTQycuYjE89y8NaYIr6Nt"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 168519,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/2kDspygoquCoFkJDEc7boN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 172303,
+      "name": "Un Chamaco Sin Futuro",
+      "url": "https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd"
     },
     {
       "added_at": null,
@@ -963,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Forma De Ser",
+        "url": "https://open.spotify.com/album/0GtF6udeFeF6wpWobXCQFQ"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 177237,
+      "name": "Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/6DVF8N91Z4yHLbX7J5DK5j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Con Tololoche Vol. 3",
         "url": "https://open.spotify.com/album/6EW70R9qB26IFFg4vXjcx9"
       },
@@ -975,22 +995,6 @@
       "duration_ms": 168976,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/39MVkJ39r1JoBUPVQnlTfa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "100% Corridos Verdes",
-        "url": "https://open.spotify.com/album/1DUb3GFpaTgNkxkCjdoc2i"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 156779,
-      "name": "Olor a Kush",
-      "url": "https://open.spotify.com/track/2MUyOgaUmr77dHeqPoZhAc"
     }
   ],
   "unique_name": "This Is LEGADO 7",

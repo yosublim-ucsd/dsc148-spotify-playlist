@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 ### [This Is Chris Stapleton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Vjk40)
 
-> This is Chris Stapleton\. The essential tracks, all in one playlist.
+> This is Chris Stapleton\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,633 likes - 45 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,870 likes - 45 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 44 | [Tell Me When It’s Over](https://open.spotify.com/track/0E5qWMuPzjkPuZ0OdJZBDk) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Tell Me When It’s Over](https://open.spotify.com/album/5bxdVStUF65zKHF4WrFNho) | 4:56 |
 | 45 | [Oh Well feat\. Chris Stapleton](https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Oh Well feat\. Chris Stapleton](https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG) | 4:33 |
 
-Snapshot ID: `ZnNxAAAAAACwYHWyzhK2cCGMQ4ljaEr/`
+Snapshot ID: `ZnTCgAAAAADxbFAvWrLFWcgXiXoUZXTL`

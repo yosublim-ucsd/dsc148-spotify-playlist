@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: 派偉俊Patrick Brasca
 
-1,485 songs - 3 day 9 hr 30 min
+1,487 songs - 3 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Ao Som do 150](https://open.spotify.com/track/2nCKTSg3tWkfth4TSYBVzy) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Ao Som do 150](https://open.spotify.com/album/0NnlEaVeimova4vnBMhkGl) | 1:59 | 2022-03-24 | 2022-04-21 |
 | [Aonde Eu Sou Cria](https://open.spotify.com/track/7M7oYTGSDkD1jfv33yWtR0) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Intocável](https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw) | 2:34 | 2022-03-24 | 2022-04-20 |
 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 | 2023-05-30 | 2023-10-28 |
+| [apollo](https://open.spotify.com/track/0DoKEamrm3P13HItt9PTwM) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [apollo](https://open.spotify.com/album/3piWNDcYfXIPKcF4JFVr8d) | 2:19 | 2024-06-21 |  |
 | [Aposto](https://open.spotify.com/track/3KA9IQQuAumlMXg0GxWdKg) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Aposto](https://open.spotify.com/album/1hHnzj2rQ4boFeXBLROIXO) | 2:31 | 2022-03-24 | 2022-04-15 |
 | [Apprends\-moi](https://open.spotify.com/track/5zH8U9YG6BrWzUh8NHAJZf) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Posthume](https://open.spotify.com/album/58UDOo7F1hbra3WoCuGznu) | 2:57 | 2024-05-31 |  |
 | [April](https://open.spotify.com/track/7kKHtsQg0WF7u5KxxupNJk) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [April](https://open.spotify.com/album/672CJ3djWeBl22WRpfmhUr) | 3:04 | 2022-04-07 | 2022-08-02 |
@@ -867,6 +868,7 @@
 | [notte vodka](https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [notte vodka](https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL) | 2:25 | 2024-04-19 | 2024-06-01 |
 | [Nouveau départ](https://open.spotify.com/track/0z2patdc6alfUwUi5dko35) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:36 | 2023-04-17 | 2023-10-28 |
 | [Novo Balanço](https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 2:20 | 2023-10-05 | 2024-01-20 |
+| [Now She Knows](https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:30 | 2024-06-21 |  |
 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 | 2024-04-19 |  |
 | [Não, Não Vou](https://open.spotify.com/track/0xBQvhJAm6f7J142ympKOn) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/5rNhX35Cmsq568dSUTDPO5) | 2:53 | 2022-03-24 | 2022-04-20 |
 | [Não, Não Vou](https://open.spotify.com/track/3jSG8oE8doxDxmpe5GlFee) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl) | 2:53 | 2022-08-01 | 2022-09-16 |
@@ -889,7 +891,7 @@
 | [Oma](https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Oma](https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX) | 3:18 | 2023-01-06 | 2023-02-11 |
 | [omokage.](https://open.spotify.com/track/0p3qc7N93wst5tEUBcLvUi) | [snctm.](https://open.spotify.com/artist/0N9VAxuKTAu0yAGwhIbyfg), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [omokage.](https://open.spotify.com/album/03P3mYMwAnR2QjEPrESGbc) | 4:25 | 2022-03-24 | 2022-04-15 |
 | [On My Way Home](https://open.spotify.com/track/2oaTpgQ9Mow7dnH3CTbXy2) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [DIZIWASTRIPPY](https://open.spotify.com/artist/2N23SDzDpduiMR58p4hQPe) | [On My Way Home](https://open.spotify.com/album/44yBdfGLBK6RXyWaEhnWkx) | 3:48 | 2022-03-24 | 2022-06-08 |
-| [On My Way Up](https://open.spotify.com/track/7EtfO5qsc7uempj2JR7Jwv) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Shadows of Blue](https://open.spotify.com/album/0jP5PBitTaYMC9TscNx38q) | 3:06 | 2024-05-10 |  |
+| [On My Way Up](https://open.spotify.com/track/7EtfO5qsc7uempj2JR7Jwv) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Shadows of Blue](https://open.spotify.com/album/0jP5PBitTaYMC9TscNx38q) | 3:06 | 2024-05-10 | 2024-06-23 |
 | [on the right track](https://open.spotify.com/track/6usIo4k5JfrPvIhau9nN2p) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHY AM I HERE](https://open.spotify.com/album/6DknG0hh3OZf7QTQCA8Ms2) | 2:53 | 2022-03-24 | 2022-08-02 |
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2022-02-03 | 2022-12-15 |
 | [one way](https://open.spotify.com/track/5DQX3YKH3270aIOqMQfpzt) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [one way](https://open.spotify.com/album/44YthLKFtNvEnn4Jzss8BA) | 3:34 | 2023-01-27 | 2023-10-06 |
@@ -1158,7 +1160,7 @@
 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 | 2022-03-24 | 2022-04-07 |
 | [Thank God](https://open.spotify.com/track/3rX4Wd80m9PSvse363wwKz) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [Thank God](https://open.spotify.com/album/2LHxOC7FonGRNhDEWaWxvI) | 2:46 | 2024-05-10 |  |
 | [THAT'S MY BABY](https://open.spotify.com/track/0PhsD58bUDnIFacJ7itwzb) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [THAT'S MY BABY](https://open.spotify.com/album/20rpmzk4aqw8CvrHTEMMPe) | 3:55 | 2023-05-30 | 2023-08-19 |
-| [The Countdown](https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 4:37 | 2024-05-10 |  |
+| [The Countdown](https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 4:37 | 2024-05-10 | 2024-06-23 |
 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 | 2024-06-14 |  |
 | [The Girl Who Cried Love](https://open.spotify.com/track/35r2RTtVGguSzfGPJgoxLl) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [The Girl Who Cried Love \(Sped Up + Slowed Down\)](https://open.spotify.com/album/20XULojiPjEGzjhUDiNoo7) | 2:57 | 2024-05-17 | 2024-05-20 |
 | [The Light](https://open.spotify.com/track/2ySkMWsWrVA7rvppQUTn8u) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/6Q8UbSdYcoTdMCayeAWMqY) | 3:12 | 2022-02-03 | 2022-12-15 |

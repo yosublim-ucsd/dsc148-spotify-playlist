@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Forest Blakk",
-  "num_followers": 78086,
+  "num_followers": 78112,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 222341,
+      "name": "Hawkmoon",
+      "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 214826,
       "name": "Treehouse (feat. Brandy Clark)",
       "url": "https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "The Past Is Still Alive",
-        "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 222341,
-      "name": "Hawkmoon",
-      "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Name of God",
+        "url": "https://open.spotify.com/album/1qk8EaixtL3TI4xc5dhyiq"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 208837,
+      "name": "Name of God",
+      "url": "https://open.spotify.com/track/39Mbprj9K0OqHA6vxkREBy"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Whiskey",
         "url": "https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Andrew",
-        "url": "https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        }
-      ],
-      "duration_ms": 240107,
-      "name": "Andrew",
-      "url": "https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Questions, Chaos & Faith",
         "url": "https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3"
       },
@@ -1027,22 +1027,6 @@
       "duration_ms": 237915,
       "name": "Questions, Chaos & Faith",
       "url": "https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Name of God",
-        "url": "https://open.spotify.com/album/1qk8EaixtL3TI4xc5dhyiq"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 208837,
-      "name": "Name of God",
-      "url": "https://open.spotify.com/track/39Mbprj9K0OqHA6vxkREBy"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 232725,
       "name": "Cape Forestier",
       "url": "https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Andrew",
+        "url": "https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 240107,
+      "name": "Andrew",
+      "url": "https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5"
     },
     {
       "added_at": "2024-05-31 04:00:00",

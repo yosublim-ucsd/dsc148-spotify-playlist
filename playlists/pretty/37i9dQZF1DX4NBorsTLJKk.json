@@ -1,6 +1,6 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 33428,
+  "num_followers": 33433,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u53ca\u6642\u96e8",
-        "url": "https://open.spotify.com/album/0DuU7EnkbqIhnXe8CiJsup"
-      },
-      "artists": [
-        {
-          "name": "Control T",
-          "url": "https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge"
-        }
-      ],
-      "duration_ms": 219487,
-      "name": "\u53ca\u6642\u96e8",
-      "url": "https://open.spotify.com/track/4NWujfXKRiGLv3fPRr4YQo"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u54c8\u56c9",
         "url": "https://open.spotify.com/album/7BL07XyqJqNjv2HU3lK7zr"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 275863,
       "name": "\u4e0b\u96e8\u7684\u6642\u5019\u6703\u60f3\u4f60",
       "url": "https://open.spotify.com/track/2P5Uv7JoJSrSQLXpVsN8kP"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u53ca\u6642\u96e8",
+        "url": "https://open.spotify.com/album/0DuU7EnkbqIhnXe8CiJsup"
+      },
+      "artists": [
+        {
+          "name": "Control T",
+          "url": "https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge"
+        }
+      ],
+      "duration_ms": 219487,
+      "name": "\u53ca\u6642\u96e8",
+      "url": "https://open.spotify.com/track/4NWujfXKRiGLv3fPRr4YQo"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/6HQ5lvLYVlXyJEl9knI9Eh"
-      },
-      "artists": [
-        {
-          "name": "Sweet John",
-          "url": "https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm"
-        }
-      ],
-      "duration_ms": 242413,
-      "name": "\u964d\u96e8\u6a5f\u7387",
-      "url": "https://open.spotify.com/track/3OS5IhOdUFyXzhZvuNCjgN"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u5c0f\u5b87\u5b99",
         "url": "https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u4f60\u7684\u4e16\u754c\u662f\u5426\u4e5f\u4e0b\u8457\u96e8",
-        "url": "https://open.spotify.com/album/1vq7JNI5tfp4haCH0xQmLj"
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/6HQ5lvLYVlXyJEl9knI9Eh"
       },
       "artists": [
         {
-          "name": "\u78a7\u6b23",
-          "url": "https://open.spotify.com/artist/7iuYotfVYhsyvM48zP31k3"
+          "name": "Sweet John",
+          "url": "https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm"
         }
       ],
-      "duration_ms": 274428,
-      "name": "\u4f60\u7684\u4e16\u754c\u662f\u5426\u4e5f\u4e0b\u8457\u96e8",
-      "url": "https://open.spotify.com/track/0raZgzeB8nEuXu4U7qHSac"
+      "duration_ms": 242413,
+      "name": "\u964d\u96e8\u6a5f\u7387",
+      "url": "https://open.spotify.com/track/3OS5IhOdUFyXzhZvuNCjgN"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -683,6 +667,22 @@
       "duration_ms": 246000,
       "name": "\u70ed\u5e26\u96e8 - \u300a\u70ed\u5e26\u96e8\u300b\u7535\u5f71\u540c\u540d\u4e3b\u9898\u66f2",
       "url": "https://open.spotify.com/track/7JrUmfeLQTT4zO0KAqnBIe"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u4f60\u7684\u4e16\u754c\u662f\u5426\u4e5f\u4e0b\u8457\u96e8",
+        "url": "https://open.spotify.com/album/1vq7JNI5tfp4haCH0xQmLj"
+      },
+      "artists": [
+        {
+          "name": "\u78a7\u6b23",
+          "url": "https://open.spotify.com/artist/7iuYotfVYhsyvM48zP31k3"
+        }
+      ],
+      "duration_ms": 274428,
+      "name": "\u4f60\u7684\u4e16\u754c\u662f\u5426\u4e5f\u4e0b\u8457\u96e8",
+      "url": "https://open.spotify.com/track/0raZgzeB8nEuXu4U7qHSac"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "Hormone Boys",
-        "url": "https://open.spotify.com/album/7FDNFIWHR4WyIBzqwZpaGD"
-      },
-      "artists": [
-        {
-          "name": "Hormone Boys",
-          "url": "https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl"
-        }
-      ],
-      "duration_ms": 249022,
-      "name": "\u50be\u96e8",
-      "url": "https://open.spotify.com/track/2XyEyfd1d02fCeLG56gRSh"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "SINGING IN THE RAIN",
         "url": "https://open.spotify.com/album/74kYd0GlI6TQ9zurIWfN70"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 228088,
       "name": "SINGING IN THE RAIN",
       "url": "https://open.spotify.com/track/1P5tiSLIE2Kp6rpOLMSJXZ"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "Hormone Boys",
+        "url": "https://open.spotify.com/album/7FDNFIWHR4WyIBzqwZpaGD"
+      },
+      "artists": [
+        {
+          "name": "Hormone Boys",
+          "url": "https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl"
+        }
+      ],
+      "duration_ms": 249022,
+      "name": "\u50be\u96e8",
+      "url": "https://open.spotify.com/track/2XyEyfd1d02fCeLG56gRSh"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u5bc4\u5c45\u87f9",
-        "url": "https://open.spotify.com/album/6Ph7NAFao76ppkg9FpDi6f"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u601d\u51fd",
-          "url": "https://open.spotify.com/artist/6VOX2zlsFiZDHICYEy3oRD"
-        }
-      ],
-      "duration_ms": 284225,
-      "name": "\u96e8\u4e0d\u505c",
-      "url": "https://open.spotify.com/track/7ARryPCDXBDHptuCjqaxYf"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u5929\u6c14:\u6674",
         "url": "https://open.spotify.com/album/3HSN2zhQC6AZ3P9KPGbCK5"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 249612,
       "name": "\u7b49\u96e8",
       "url": "https://open.spotify.com/track/6ZFbVCOCfticaZjBQ0dLDA"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u5bc4\u5c45\u87f9",
+        "url": "https://open.spotify.com/album/6Ph7NAFao76ppkg9FpDi6f"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u601d\u51fd",
+          "url": "https://open.spotify.com/artist/6VOX2zlsFiZDHICYEy3oRD"
+        }
+      ],
+      "duration_ms": 284225,
+      "name": "\u96e8\u4e0d\u505c",
+      "url": "https://open.spotify.com/track/7ARryPCDXBDHptuCjqaxYf"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u4e0b\u96e8\u591c",
-        "url": "https://open.spotify.com/album/7jYeBkdsESmTuI34GofAVi"
-      },
-      "artists": [
-        {
-          "name": "\u82cf\u661f\u5a55",
-          "url": "https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8"
-        }
-      ],
-      "duration_ms": 232888,
-      "name": "\u4e0b\u96e8\u591c",
-      "url": "https://open.spotify.com/track/2oAVwxd6a7sG6VYulTMBVA"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u4e0b\u96e8\u5929",
         "url": "https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 265000,
       "name": "\u4e0b\u96e8\u5929",
       "url": "https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u4e0b\u96e8\u591c",
+        "url": "https://open.spotify.com/album/7jYeBkdsESmTuI34GofAVi"
+      },
+      "artists": [
+        {
+          "name": "\u82cf\u661f\u5a55",
+          "url": "https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8"
+        }
+      ],
+      "duration_ms": 232888,
+      "name": "\u4e0b\u96e8\u591c",
+      "url": "https://open.spotify.com/track/2oAVwxd6a7sG6VYulTMBVA"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u76e7\u5ee3\u4ef2 Good Morning & Good Evening \u5c0f\u5de8\u86cb\u6f14\u5531\u6703",
-        "url": "https://open.spotify.com/album/3pPDH6euEUK1fRC2WoFKAi"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        }
-      ],
-      "duration_ms": 256281,
-      "name": "\u98a8\u96e8",
-      "url": "https://open.spotify.com/track/4DAMqtMMeEO7mwFDdbg3Ot"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u6b61\u8fce\u812b\u62c9\u5eab",
         "url": "https://open.spotify.com/album/6DxtTS5klLqGAl68AzouEk"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 258000,
       "name": "\u96e8",
       "url": "https://open.spotify.com/track/6LagCTmPN43dbbTvfiGwLz"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u76e7\u5ee3\u4ef2 Good Morning & Good Evening \u5c0f\u5de8\u86cb\u6f14\u5531\u6703",
+        "url": "https://open.spotify.com/album/3pPDH6euEUK1fRC2WoFKAi"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "duration_ms": 256281,
+      "name": "\u98a8\u96e8",
+      "url": "https://open.spotify.com/track/4DAMqtMMeEO7mwFDdbg3Ot"
     },
     {
       "added_at": "2023-09-20 01:51:29",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-20 01:51:29",
       "album": {
-        "name": "\u89aa\u611b\u7684\u4e16\u754c",
-        "url": "https://open.spotify.com/album/6GvKzjitgx5uE7o3b14QAb"
-      },
-      "artists": [
-        {
-          "name": "Maggie Chiang",
-          "url": "https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u"
-        }
-      ],
-      "duration_ms": 260852,
-      "name": "\u8ffd\u96e8",
-      "url": "https://open.spotify.com/track/27glpEFVip10SzfxZ1aCky"
-    },
-    {
-      "added_at": "2023-09-20 01:51:29",
-      "album": {
         "name": "\u660e\u660e",
         "url": "https://open.spotify.com/album/1KBfGXDPEzKDyxNp04oIbP"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 267078,
       "name": "\u5979\u5728\u96e8\u5929\u60f3\u4ed6",
       "url": "https://open.spotify.com/track/2zXrVSkLy7GoW2RcpLHnkV"
+    },
+    {
+      "added_at": "2023-09-20 01:51:29",
+      "album": {
+        "name": "\u89aa\u611b\u7684\u4e16\u754c",
+        "url": "https://open.spotify.com/album/6GvKzjitgx5uE7o3b14QAb"
+      },
+      "artists": [
+        {
+          "name": "Maggie Chiang",
+          "url": "https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u"
+        }
+      ],
+      "duration_ms": 260852,
+      "name": "\u8ffd\u96e8",
+      "url": "https://open.spotify.com/track/27glpEFVip10SzfxZ1aCky"
     }
   ],
   "unique_name": "\u96e8\u4e2d\u65cb\u5f8b",

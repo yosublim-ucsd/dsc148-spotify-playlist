@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- Yasser Desai
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,773 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,807 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 15 | [Kahe Kahe](https://open.spotify.com/track/1tmqE0XFrDUnnioRc1apsb) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Kahe Kahe](https://open.spotify.com/album/1ncYDhRQr4KS2esNVIM2Y4) | 2:46 |
 | 16 | [Cham Cham Karti Baarish](https://open.spotify.com/track/7bBxjbRdw7ijreua7mrIIj) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Rangon](https://open.spotify.com/artist/2kUDFnmCVtN7dQ1lJze2Gp) | [Cham Cham Karti Baarish](https://open.spotify.com/album/6FuDsczxsLqeOtah8XAQuC) | 3:19 |
 | 17 | [Laare](https://open.spotify.com/track/4gFCBPsiE5a935c74iZsZ1) | [Harvy Sandhu](https://open.spotify.com/artist/1pKUpf9IOuy2rZ0jxoo3Nz), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Laare](https://open.spotify.com/album/0IJKg96dVnhbZUaxfDu6dL) | 3:23 |
-| 18 | [Surme Dani](https://open.spotify.com/track/4WGv6gS3QZ2nn8SFuw4eFo) | [Aden](https://open.spotify.com/artist/1uqKlnRBYNhf9GXt16ysQp), [Shambhavi](https://open.spotify.com/artist/59XpYqZjgZWbjhRge0HdGY) | [Surme Dani](https://open.spotify.com/album/5Xl0kVv7tlVGcmOk6tmh0L) | 2:58 |
+| 18 | [Surme Dani](https://open.spotify.com/track/4WGv6gS3QZ2nn8SFuw4eFo) | [Aden](https://open.spotify.com/artist/1uqKlnRBYNhf9GXt16ysQp), [Raja](https://open.spotify.com/artist/5XdYfUuAbJI8JPxA4WKycY), [Shambhavi](https://open.spotify.com/artist/59XpYqZjgZWbjhRge0HdGY) | [Surme Dani](https://open.spotify.com/album/5Xl0kVv7tlVGcmOk6tmh0L) | 2:58 |
 | 19 | [Panghatwa](https://open.spotify.com/track/4PQD3P7gYXkUebtCyyJfOv) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Haiyat Khan](https://open.spotify.com/artist/2aUPCw9kqasEv9pPu0tuva), [Shivang Mathur](https://open.spotify.com/artist/5JyaVc5k4jSY4YS25UCkix) | [Panghatwa](https://open.spotify.com/album/62dzlvkmsGQPJltaS7oU2H) | 3:00 |
 | 20 | [ZID](https://open.spotify.com/track/036DrB9LguQLZUnxKcjctQ) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [ZID](https://open.spotify.com/album/1Yi80QjxTA9KfqqZtbmyxo) | 3:24 |
 | 21 | [Gallan Teri](https://open.spotify.com/track/2YGeG983ShpisQCAPO008h) | [Narci](https://open.spotify.com/artist/3b9iVRjKkiC4oIHXB7pbzJ), [Ashwini Vocals](https://open.spotify.com/artist/01qu7FisKSgdPhZ77gov1B) | [Gallan Teri](https://open.spotify.com/album/0Wyy2kj0qHsBqENjKwYB5n) | 3:50 |

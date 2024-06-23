@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "Batman Begins (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285026,
+      "name": "Barbastella",
+      "url": "https://open.spotify.com/track/6G0UFydt9FBQtIM9RaZ3My"
+    },
+    {
+      "album": {
         "name": "News Of The World (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc"
       },
@@ -730,7 +752,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 280213,
       "name": "Leta's Flashback",
       "url": "https://open.spotify.com/track/37KTm0gyJRtgxWocQ5QDur"
@@ -1088,7 +1110,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 299800,
       "name": "Rue's Farewell",
       "url": "https://open.spotify.com/track/2kAwInoNljoVi4SsYCnFeo"
@@ -1294,7 +1316,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 218506,
       "name": "The Hanging Tree",
       "url": "https://open.spotify.com/track/416MsJxvxSKY96DCmbJIRs"

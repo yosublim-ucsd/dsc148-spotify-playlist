@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Damares",
-  "num_followers": 559488,
+  "num_followers": 559560,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Extraordin\u00e1rio Amor de Deus",
-        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 343051,
-      "name": "Ressuscita-me",
-      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "O Melhor de Deus Esta Por Vir",
         "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
       },
@@ -211,18 +195,18 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Liberta-Me de Mim",
-        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
       },
       "artists": [
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 429332,
-      "name": "Liberta-Me de Mim",
-      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
+      "duration_ms": 343051,
+      "name": "Ressuscita-me",
+      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -243,6 +227,22 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas",
       "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Liberta-Me de Mim",
+        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 429332,
+      "name": "Liberta-Me de Mim",
+      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "O Maior Trof\u00e9u",
-      "url": "https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Aline Barros - Gospel Collection Ao Vivo",
         "url": "https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 239815,
       "name": "Sonda-me, Usa-me",
       "url": "https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 311280,
+      "name": "O Maior Trof\u00e9u",
+      "url": "https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
+        "name": "Principio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 267786,
+      "name": "sublime - Ao Vivo",
+      "url": "https://open.spotify.com/track/4PoMOFwptVBWUVs1KzYXBm"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
         "name": "At\u00e9 Transbordar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 271866,
       "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
-        "name": "Principio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 267786,
-      "name": "sublime - Ao Vivo",
-      "url": "https://open.spotify.com/track/4PoMOFwptVBWUVs1KzYXBm"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -479,38 +479,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6VefFSAIlIhtQppFh78rpC"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
-        }
-      ],
-      "duration_ms": 289726,
-      "name": "Abra\u00e7a-Me",
-      "url": "https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 442015,
-      "name": "Fiel a Mim",
-      "url": "https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Consagra\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
       },
@@ -527,6 +495,22 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
+        "name": "Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6VefFSAIlIhtQppFh78rpC"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        }
+      ],
+      "duration_ms": 289726,
+      "name": "Abra\u00e7a-Me",
+      "url": "https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
         "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 439266,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 442015,
+      "name": "Fiel a Mim",
+      "url": "https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -571,6 +571,22 @@
       "duration_ms": 455106,
       "name": "Aclame ao Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 208608,
+      "name": "Primeiro Amor",
+      "url": "https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM"
     },
     {
       "added_at": "2023-10-13 16:02:51",
@@ -611,42 +627,6 @@
     {
       "added_at": "2023-10-13 16:02:51",
       "album": {
-        "name": "Identidade",
-        "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Identidade",
-      "url": "https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 208608,
-      "name": "Primeiro Amor",
-      "url": "https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM"
-    },
-    {
-      "added_at": "2023-10-13 16:02:51",
-      "album": {
         "name": "Abra\u00e7a-Me (Paix\u00e3o Fogo e Gl\u00f3ria) [Ao Vivo em BH]",
         "url": "https://open.spotify.com/album/3gSpJkm2v3lIaLh4i7jRJX"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 847493,
       "name": "Abra\u00e7a-Me - Ao Vivo em BH",
       "url": "https://open.spotify.com/track/1QrwPl2n8TeAmsgIPPAcxb"
+    },
+    {
+      "added_at": "2023-10-13 16:02:51",
+      "album": {
+        "name": "Identidade",
+        "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Identidade",
+      "url": "https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH"
     },
     {
       "added_at": "2023-10-13 16:02:51",

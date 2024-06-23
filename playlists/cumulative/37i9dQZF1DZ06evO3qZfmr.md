@@ -2,7 +2,7 @@
 
 ### [This Is Megan Moroney](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qZfmr)
 
-> This Is Megan Moroney\. Los temas esenciales, todos en una lista.
+> This is Megan Moroney\. Az összes kihagyhatatlan szám egyetlen műsorlistában.
 
 24 songs - 1 hr 21 min
 

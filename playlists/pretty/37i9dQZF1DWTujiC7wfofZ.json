@@ -1,6 +1,6 @@
 {
   "description": "All the indie disco platters that matter.",
-  "num_followers": 436649,
+  "num_followers": 436698,
   "original_name": "Indie Party",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZcFrLgAAAADYUQ1GqH/PoLBBB+Zl+Pkz",
   "tracks": [
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
-        "name": "Freaks",
-        "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 147062,
-      "name": "Freaks",
-      "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
-    },
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 147062,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 213800,
       "name": "Are You Gonna Be My Girl",
       "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Isles",
-        "url": "https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Apricots",
-      "url": "https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Let's Dance",
         "url": "https://open.spotify.com/album/5FDIw0ifQrQp63uhTelMVJ"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Ribbed Music For The Numb Generation",
-        "url": "https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW"
+        "name": "Isles",
+        "url": "https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9"
       },
       "artists": [
         {
-          "name": "Sohodolls",
-          "url": "https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN"
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 181640,
-      "name": "Bang Bang Bang Bang",
-      "url": "https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3"
+      "duration_ms": 246506,
+      "name": "Apricots",
+      "url": "https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1287,6 +1271,22 @@
       "duration_ms": 281406,
       "name": "Life Itself",
       "url": "https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Ribbed Music For The Numb Generation",
+        "url": "https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW"
+      },
+      "artists": [
+        {
+          "name": "Sohodolls",
+          "url": "https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Bang Bang Bang Bang",
+      "url": "https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "The Dino Soars",
-        "url": "https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg"
-      },
-      "artists": [
-        {
-          "name": "Stegosaurus Rex",
-          "url": "https://open.spotify.com/artist/2D5kO95AWEXMHRvqvCKb7K"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Feels Right",
         "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 199006,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "The Dino Soars",
+        "url": "https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg"
+      },
+      "artists": [
+        {
+          "name": "Stegosaurus Rex",
+          "url": "https://open.spotify.com/artist/2D5kO95AWEXMHRvqvCKb7K"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Welcome To My Island",
-      "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 249906,
       "name": "Everything Is Embarrassing",
       "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Welcome To My Island",
+      "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "The Yearbook",
-        "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 218053,
-      "name": "Dover Beach",
-      "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "His N Hers",
         "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 262826,
       "name": "Do You Remember The First Time?",
       "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "The Yearbook",
+        "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 218053,
+      "name": "Dover Beach",
+      "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 293093,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/1P8BrsNLHWO5R0cK6zvyhc"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "Stoned and Dethroned",
         "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
       },
@@ -2967,6 +2951,22 @@
       "duration_ms": 151960,
       "name": "Sometimes Always",
       "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 293093,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/1P8BrsNLHWO5R0cK6zvyhc"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3019,22 +3019,6 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Black Sheep (From Scott Pilgrim vs. the World)",
-        "url": "https://open.spotify.com/album/6bLx9HGjQFNFa8PsJ0N5Fe"
-      },
-      "artists": [
-        {
-          "name": "The Evil Exes",
-          "url": "https://open.spotify.com/artist/1fCYSbCNlmuj3tteIn02rD"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "Black Sheep (From Scott Pilgrim vs. the World)",
-      "url": "https://open.spotify.com/track/08uQ6M9Imb6lh0tyHCQwPR"
-    },
-    {
-      "added_at": "2023-07-21 10:44:31",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -3055,6 +3039,22 @@
       "duration_ms": 284573,
       "name": "Impact (feat. Robyn & Channel Tres)",
       "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
+    },
+    {
+      "added_at": "2023-07-21 10:44:31",
+      "album": {
+        "name": "Black Sheep (From Scott Pilgrim vs. the World)",
+        "url": "https://open.spotify.com/album/6bLx9HGjQFNFa8PsJ0N5Fe"
+      },
+      "artists": [
+        {
+          "name": "The Evil Exes",
+          "url": "https://open.spotify.com/artist/1fCYSbCNlmuj3tteIn02rD"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "Black Sheep (From Scott Pilgrim vs. the World)",
+      "url": "https://open.spotify.com/track/08uQ6M9Imb6lh0tyHCQwPR"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3811,18 +3811,18 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Misanthropulsar",
-        "url": "https://open.spotify.com/album/3VBsDNs0P2Qo1seyo2V0IP"
+        "name": "Voyage to Mars",
+        "url": "https://open.spotify.com/album/68SvNn3ZiomWkxVeeBANvP"
       },
       "artists": [
         {
-          "name": "Dumbo Gets Mad",
-          "url": "https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO"
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
         }
       ],
-      "duration_ms": 207537,
-      "name": "Misanthropulsar",
-      "url": "https://open.spotify.com/track/1doeB8uJMZVf2A5ePRVKh0"
+      "duration_ms": 238161,
+      "name": "Cocoa Beach",
+      "url": "https://open.spotify.com/track/26MSlKdM2gVnImkA5lU8G0"
     },
     {
       "added_at": "2023-07-21 10:44:31",
@@ -3851,18 +3851,18 @@
     {
       "added_at": "2023-07-21 10:44:31",
       "album": {
-        "name": "Voyage to Mars",
-        "url": "https://open.spotify.com/album/68SvNn3ZiomWkxVeeBANvP"
+        "name": "Misanthropulsar",
+        "url": "https://open.spotify.com/album/3VBsDNs0P2Qo1seyo2V0IP"
       },
       "artists": [
         {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+          "name": "Dumbo Gets Mad",
+          "url": "https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO"
         }
       ],
-      "duration_ms": 238161,
-      "name": "Cocoa Beach",
-      "url": "https://open.spotify.com/track/26MSlKdM2gVnImkA5lU8G0"
+      "duration_ms": 207537,
+      "name": "Misanthropulsar",
+      "url": "https://open.spotify.com/track/1doeB8uJMZVf2A5ePRVKh0"
     },
     {
       "added_at": "2023-07-21 10:44:31",

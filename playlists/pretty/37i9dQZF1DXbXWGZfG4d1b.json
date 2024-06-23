@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 22695,
+  "num_followers": 22700,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "El Tiempo",
-        "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
-      },
-      "artists": [
-        {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "El Tiempo",
-      "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Una Propuesta",
         "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 195760,
       "name": "Una Propuesta",
       "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
+      },
+      "artists": [
+        {
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Indie Rockera",
+        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
+      },
+      "artists": [
+        {
+          "name": "Tobias Indigo",
+          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Indie Rockera",
+      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Controlmania",
         "url": "https://open.spotify.com/album/491OxOhH0MX9N8tpxzUJNf"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 216375,
       "name": "Modos",
       "url": "https://open.spotify.com/track/6YhIByBnGtdSGxhfP33vB1"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Indie Rockera",
-        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
-      },
-      "artists": [
-        {
-          "name": "Tobias Indigo",
-          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Indie Rockera",
-      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "El Hit",
+        "url": "https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7"
+      },
+      "artists": [
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "duration_ms": 193928,
+      "name": "El Hit",
+      "url": "https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Nunca Estuvo en Ti el Litoral",
         "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
       },
@@ -1111,38 +1127,6 @@
       "duration_ms": 178773,
       "name": "Nunca Estuvo en Ti el Litoral",
       "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Boca Seca",
-        "url": "https://open.spotify.com/album/5IjUVrNB5VrrI9aa5jLLqn"
-      },
-      "artists": [
-        {
-          "name": "Pow",
-          "url": "https://open.spotify.com/artist/2dSudyzJnqfrIA4ymWjNqB"
-        }
-      ],
-      "duration_ms": 107000,
-      "name": "Boca Seca",
-      "url": "https://open.spotify.com/track/7IunvqW7OiT60hZBxcuTaQ"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "Las Ventajas",
-        "url": "https://open.spotify.com/album/3DCRIRQgeUxsQzGPckHAxu"
-      },
-      "artists": [
-        {
-          "name": "La Primera Especie",
-          "url": "https://open.spotify.com/artist/3MXxt2uAO11bNSei5CmKtZ"
-        }
-      ],
-      "duration_ms": 243611,
-      "name": "Las Ventajas",
-      "url": "https://open.spotify.com/track/3mX8eK6njKAu7PIWh1zEOg"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Las Ventajas",
+        "url": "https://open.spotify.com/album/3DCRIRQgeUxsQzGPckHAxu"
+      },
+      "artists": [
+        {
+          "name": "La Primera Especie",
+          "url": "https://open.spotify.com/artist/3MXxt2uAO11bNSei5CmKtZ"
+        }
+      ],
+      "duration_ms": 243611,
+      "name": "Las Ventajas",
+      "url": "https://open.spotify.com/track/3mX8eK6njKAu7PIWh1zEOg"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "Entre L\u00edneas",
         "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 196173,
       "name": "Entre L\u00edneas",
       "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Boca Seca",
+        "url": "https://open.spotify.com/album/5IjUVrNB5VrrI9aa5jLLqn"
+      },
+      "artists": [
+        {
+          "name": "Pow",
+          "url": "https://open.spotify.com/artist/2dSudyzJnqfrIA4ymWjNqB"
+        }
+      ],
+      "duration_ms": 107000,
+      "name": "Boca Seca",
+      "url": "https://open.spotify.com/track/7IunvqW7OiT60hZBxcuTaQ"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Bueno Todo El D\u00eda",
-        "url": "https://open.spotify.com/album/7HI8Llk6hjEp4ihxXfhxZS"
-      },
-      "artists": [
-        {
-          "name": "Ok Pir\u00e1mides",
-          "url": "https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX"
-        }
-      ],
-      "duration_ms": 312270,
-      "name": "31 de Diciembre",
-      "url": "https://open.spotify.com/track/3EobeZqwjZbOf7jl6C1Vpz"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/69ZNrQXyGpwQ4kp6DUquQS"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 179658,
       "name": "Raz\u00f3n",
       "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Bueno Todo El D\u00eda",
+        "url": "https://open.spotify.com/album/7HI8Llk6hjEp4ihxXfhxZS"
+      },
+      "artists": [
+        {
+          "name": "Ok Pir\u00e1mides",
+          "url": "https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX"
+        }
+      ],
+      "duration_ms": 312270,
+      "name": "31 de Diciembre",
+      "url": "https://open.spotify.com/track/3EobeZqwjZbOf7jl6C1Vpz"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Promesa",
-        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
-      },
-      "artists": [
-        {
-          "name": "Maria Durante",
-          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
-        }
-      ],
-      "duration_ms": 208689,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Mi Generaci\u00f3n",
         "url": "https://open.spotify.com/album/5cfherksWvvP9ou8gMS8dj"
       },
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
+        "name": "Promesa",
+        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
+      },
+      "artists": [
+        {
+          "name": "Maria Durante",
+          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
+        }
+      ],
+      "duration_ms": 208689,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
         "name": "No Est\u00e1 Mal Volar",
         "url": "https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 196434,
       "name": "No Est\u00e1 Mal Volar",
       "url": "https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
-        "name": "A\u00f1o Nuevo",
-        "url": "https://open.spotify.com/album/4m09ocOHrupQEz7nHA6VBK"
-      },
-      "artists": [
-        {
-          "name": "La Chica del Cumplea\u00f1os",
-          "url": "https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V"
-        }
-      ],
-      "duration_ms": 211625,
-      "name": "A\u00f1o Nuevo",
-      "url": "https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ"
     }
   ],
   "unique_name": "6PM Indie",

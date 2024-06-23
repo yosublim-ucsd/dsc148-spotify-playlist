@@ -12754,7 +12754,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 224280,
       "name": "Du feu",
       "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
@@ -24538,6 +24538,24 @@
       "duration_ms": 177612,
       "name": "la punition",
       "url": "https://open.spotify.com/track/2jNg424KCAQH6mRsPbWi0X"
+    },
+    {
+      "album": {
+        "name": "La Raclure",
+        "url": "https://open.spotify.com/album/7JJAarTZBx60JtTOSczlyU"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182080,
+      "name": "La Raclure",
+      "url": "https://open.spotify.com/track/4QK1gqduV0DgTRhZk9Jbts"
     },
     {
       "album": {

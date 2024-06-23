@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. Stunt Pilots in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,283 likes - 92 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,284 likes - 92 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 14 | [Promesse](https://open.spotify.com/track/6P4ad9eyjj5ieDTD1IHsQP) | [And So Your Life Is Ruined](https://open.spotify.com/artist/33mryanYYlYMiJnYAobfEk) | [Da dove ci eravamo lasciati](https://open.spotify.com/album/6rHBtllnQbtFwMgdo8G4AD) | 3:32 |
 | 15 | [Limited Edition](https://open.spotify.com/track/7KE9p9duEcRef8ZVhoxu9N) | [Giungla](https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r) | [Limited Edition](https://open.spotify.com/album/0nn0oUFkdSCu6BNX6gvAnK) | 2:33 |
 | 16 | [GESÙ BAMBINO](https://open.spotify.com/track/0SPITJflzWbXuGYy3XzpV2) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [NOLOTOV](https://open.spotify.com/album/52BDJ4sqrkv91RUyvvaHds) | 2:33 |
-| 17 | [Letargo](https://open.spotify.com/track/23JXspX6QqfrBKDBZMdTua) | [Gegenhalt](https://open.spotify.com/artist/2F1ebm9n9KIEB0gGbkhCCT) | [TIGRI](https://open.spotify.com/album/60PIbvxLrInJWT4rmPkKue) | 4:44 |
+| 17 | [Letargo](https://open.spotify.com/track/23JXspX6QqfrBKDBZMdTua) | [Gegenhalt](https://open.spotify.com/artist/2F1ebm9n9KIEB0gGbkhCCT) | [Tigri](https://open.spotify.com/album/60PIbvxLrInJWT4rmPkKue) | 4:44 |
 | 18 | [SUPERORGASMO](https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [ULTRAFRAGOLA](https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q) | 2:39 |
 | 19 | [Parabola Ascendente](https://open.spotify.com/track/2liV7O57ND4t6X9SlvY8cL) | [Valerio Lundini](https://open.spotify.com/artist/17n0YE5JM5glbRtvOSs4gc), [Vazzanikki](https://open.spotify.com/artist/1FwzbMiwfW5Z20W6VAbBtM) | [Parabola Ascendente](https://open.spotify.com/album/2PVeexYVq4uXvcQf2HQDv8) | 3:54 |
 | 20 | [Splendere](https://open.spotify.com/track/1IbTQtCVmIHfixaU02ScIL) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Splendere](https://open.spotify.com/album/7uocoXpqYmz8Z8qHCxENDu) | 3:31 |

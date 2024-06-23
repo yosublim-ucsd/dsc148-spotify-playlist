@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
+        "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        },
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214735,
+      "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
+      "url": "https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU"
+    },
+    {
+      "album": {
         "name": "21ST CENTURY BITCH",
         "url": "https://open.spotify.com/album/3Kj5vTVyzOGBwp71lO6pYo"
       },
@@ -7516,7 +7538,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 217363,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/7D1liRVqgIYfj9CXAV9Ygw"
@@ -10672,6 +10694,28 @@
     {
       "album": {
         "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/47UFeQabeWhEO4ZeDxNeuZ"
+      },
+      "artists": [
+        {
+          "name": "ASHEN",
+          "url": "https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU"
+        },
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/6pJsavLAr71y4aL53PFGJo"
+    },
+    {
+      "album": {
+        "name": "Sacrifice",
         "url": "https://open.spotify.com/album/4uEBMcKDtKUMpOZTgZOkJN"
       },
       "artists": [
@@ -11678,7 +11722,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 232769,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/72mymKLs4ni8MYGVq8EHUP"
@@ -13536,7 +13580,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 259946,
       "name": "To The Dance Floor For Shelter",
       "url": "https://open.spotify.com/track/56Vtx5Pdhg0sgmbczxJ5b5"
@@ -14454,6 +14498,28 @@
       "duration_ms": 179906,
       "name": "Wake up!",
       "url": "https://open.spotify.com/track/7jTvkoH7CRx0rIhFW5OM8b"
+    },
+    {
+      "album": {
+        "name": "Walk Alone",
+        "url": "https://open.spotify.com/album/0Cpkr1J8G7a1ntNd1ZLdyg"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        },
+        {
+          "name": "Matty Mullins",
+          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195608,
+      "name": "Walk Alone",
+      "url": "https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 179369,
+  "num_followers": 179381,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAACpz+8nIc7Tf9Uwz2jtkFZe",
+  "snapshot_id": "ZnTCgAAAAAC7zA4bT6o5HUk6G/BxCWfy",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 271333,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
     },
     {
       "added_at": null,
@@ -63,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/3L60Vu9qmY6fg2QroRIxgi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -79,22 +115,6 @@
       "duration_ms": 238400,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/3eYCJXTViFwl5mdtcTsF4G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Cry Baby",
-      "url": "https://open.spotify.com/track/3L60Vu9qmY6fg2QroRIxgi"
     },
     {
       "added_at": null,
@@ -135,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 107866,
+      "name": "Mercedes Benz",
+      "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -151,22 +187,6 @@
       "duration_ms": 293040,
       "name": "I Need a Man to Love",
       "url": "https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 107866,
-      "name": "Mercedes Benz",
-      "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g"
     },
     {
       "added_at": null,
@@ -207,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Move Over",
+      "url": "https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Farewell Song",
         "url": "https://open.spotify.com/album/19hplTy1akI7ypHeZnXx00"
       },
@@ -223,22 +259,6 @@
       "duration_ms": 184266,
       "name": "One Night Stand",
       "url": "https://open.spotify.com/track/2g4zxggyax2ABxVM4jRF39"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "Move Over",
-      "url": "https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk"
     },
     {
       "added_at": null,
@@ -279,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Get It While You Can",
+      "url": "https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Brother & The Holding Company",
         "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
@@ -295,22 +331,6 @@
       "duration_ms": 143173,
       "name": "Blindman",
       "url": "https://open.spotify.com/track/6aUAFC6ldgKCeSL3qcSVZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Get It While You Can",
-      "url": "https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4"
     },
     {
       "added_at": null,
@@ -351,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "A Woman Left Lonely",
+      "url": "https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Brother & The Holding Company",
         "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
@@ -367,22 +403,6 @@
       "duration_ms": 116360,
       "name": "Coo Coo",
       "url": "https://open.spotify.com/track/5PEEbmeELam84bKuxZsoj2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "A Woman Left Lonely",
-      "url": "https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk"
     },
     {
       "added_at": null,
@@ -811,26 +831,6 @@
       "duration_ms": 345800,
       "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
       "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
-      },
-      "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Flower In the Sun",
-      "url": "https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv"
     },
     {
       "added_at": null,

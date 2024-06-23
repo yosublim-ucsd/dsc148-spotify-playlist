@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Cover: <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest Berre
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,391 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,388 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

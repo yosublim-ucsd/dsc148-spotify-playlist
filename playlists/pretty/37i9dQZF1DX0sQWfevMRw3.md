@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> GLAD MIDSOMMAR! HOT\-HOT\-AMORE!!
+> HOT\-HOT\-AMORE!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,463 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,515 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [FUCKING RAGGARBIL](https://open.spotify.com/track/22F3ejBpo8VAW1uI7mq32G) | [FLÄDERPOJKARNA](https://open.spotify.com/artist/6kVG7vRsL7U7UuATIAyPtd) | [FUCKING RAGGARBIL](https://open.spotify.com/album/257qnzt3brz53GLtA8ctQl) | 2:24 |
 | 100 | [TA EN ÖL \(DOH DAH\)](https://open.spotify.com/track/6DhMtmrn1rmxntTVQhvQrb) | [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [TA EN ÖL \(DOH DAH\)](https://open.spotify.com/album/0aWSNqsyetGipemN5tnhyY) | 2:21 |
 
-Snapshot ID: `ZnSmYAAAAADve8MlsANv41JELB1BhCKJ`
+Snapshot ID: `ZnaG2AAAAADzFCA/BKwICjrkn0hZA0QM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Il top dello street rap italiano\. Cover: Digital Astro, Guè
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,832 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,908 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 17 | [UFFA \(feat\. Silent Bob\)](https://open.spotify.com/track/6Z5xZS3W3zLJGGDA5hv64H) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [È LA \(LOVE\)](https://open.spotify.com/album/2xceE0IerYTmZi5Ueeppqt) | 3:35 |
 | 18 | [Soldi Arrotolati \(feat\. ANNA\)](https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:31 |
 | 19 | [Mattone \(feat\. Kuremino, Nerissima Serpe\)](https://open.spotify.com/track/4qb7IDiPEuWPOkCFAPhlfg) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mattone](https://open.spotify.com/album/3xOrZWX1VzcemFpMZ9z132) | 2:22 |
-| 20 | [Big Benz](https://open.spotify.com/track/47lZfI1lqF7r2zeOkuo3VC) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Big Benz](https://open.spotify.com/album/6jbPxjjzhrfMbNC75CTocu) | 2:14 |
+| 20 | [Big Benz](https://open.spotify.com/track/47lZfI1lqF7r2zeOkuo3VC) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Big Benz](https://open.spotify.com/album/6jbPxjjzhrfMbNC75CTocu) | 2:14 |
 | 21 | [CARRARA \(feat\. Simba La Rue\)](https://open.spotify.com/track/6uN0PQk9GLI4ze5Vr9hOX3) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 3:09 |
 | 22 | [Kill Bill](https://open.spotify.com/track/4OqRBVQcEXwKCj5d7ztx6Z) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 2:16 |
 | 23 | [Denaro \(feat\. Simba La Rue\)](https://open.spotify.com/track/2SEAbXqFtdTwkzgAb5Ci80) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:23 |

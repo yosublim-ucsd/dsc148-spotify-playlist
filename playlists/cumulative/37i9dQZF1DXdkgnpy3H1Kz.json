@@ -6529,6 +6529,24 @@
     },
     {
       "album": {
+        "name": "Point Of No Return EP",
+        "url": "https://open.spotify.com/album/3MCsUrB4JOnaYQfZ3ChMet"
+      },
+      "artists": [
+        {
+          "name": "Lucinee",
+          "url": "https://open.spotify.com/artist/0qdZ6Q6kRPDhouf3Qdjo9M"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305227,
+      "name": "Napoleon Complex",
+      "url": "https://open.spotify.com/track/32Ys2az71mr8JmrITFc9W6"
+    },
+    {
+      "album": {
         "name": "Greatest Hit vol. 1",
         "url": "https://open.spotify.com/album/4u08P32hA5AfjjxicmaF9Z"
       },

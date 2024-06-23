@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 232831,
+  "num_followers": 232851,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "It's Only Me (Studio Version)",
-        "url": "https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4"
-      },
-      "artists": [
-        {
-          "name": "Kaleb J",
-          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
-        }
-      ],
-      "duration_ms": 203075,
-      "name": "It's Only Me - Studio Version",
-      "url": "https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5"
-    },
-    {
-      "added_at": "2024-06-12 05:58:55",
-      "album": {
         "name": "butterflies",
         "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 212790,
       "name": "butterflies",
       "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
+    },
+    {
+      "added_at": "2024-06-12 05:58:55",
+      "album": {
+        "name": "It's Only Me (Studio Version)",
+        "url": "https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4"
+      },
+      "artists": [
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "duration_ms": 203075,
+      "name": "It's Only Me - Studio Version",
+      "url": "https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5"
     },
     {
       "added_at": "2024-06-12 05:58:55",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "bet",
-        "url": "https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "bet",
-      "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
-    },
-    {
-      "added_at": "2024-06-12 05:58:55",
-      "album": {
         "name": "East Daygo Popstar",
         "url": "https://open.spotify.com/album/6rDWteiCSfMDHms9Rbx0Wi"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 222315,
       "name": "Green Tea & Honey",
       "url": "https://open.spotify.com/track/25kxJg4ykcvM1wphY0yIwt"
+    },
+    {
+      "added_at": "2024-06-12 05:58:55",
+      "album": {
+        "name": "bet",
+        "url": "https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "bet",
+      "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
     },
     {
       "added_at": "2024-06-12 05:58:55",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "everything, everywhere (feat. eaJ)",
-        "url": "https://open.spotify.com/album/61xocU79Y5kZiJSPg2KcuG"
-      },
-      "artists": [
-        {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
-        },
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 190108,
-      "name": "everything, everywhere (feat. eaJ)",
-      "url": "https://open.spotify.com/track/6ru2VMkOMkSBUKWqrTZYwe"
-    },
-    {
-      "added_at": "2024-06-12 05:58:55",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 162020,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
+    },
+    {
+      "added_at": "2024-06-12 05:58:55",
+      "album": {
+        "name": "everything, everywhere (feat. eaJ)",
+        "url": "https://open.spotify.com/album/61xocU79Y5kZiJSPg2KcuG"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        },
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "everything, everywhere (feat. eaJ)",
+      "url": "https://open.spotify.com/track/6ru2VMkOMkSBUKWqrTZYwe"
     },
     {
       "added_at": "2024-06-12 05:58:55",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "Levronka",
-        "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
-      },
-      "artists": [
-        {
-          "name": "Keisya Levronka",
-          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Better On My Own",
-      "url": "https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O"
-    },
-    {
-      "added_at": "2024-06-12 05:58:55",
-      "album": {
         "name": "MAKING MY WAY",
         "url": "https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "hand on my heart",
-        "url": "https://open.spotify.com/album/76BS51UVvR4Dcc38FMzKhM"
+        "name": "Levronka",
+        "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
       },
       "artists": [
         {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
         }
       ],
-      "duration_ms": 84000,
-      "name": "hand on my heart",
-      "url": "https://open.spotify.com/track/7tYZhK3J2Rl6Fq5ivzJur6"
+      "duration_ms": 179000,
+      "name": "Better On My Own",
+      "url": "https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O"
     },
     {
       "added_at": "2024-06-12 05:58:55",
@@ -1675,6 +1659,22 @@
       "duration_ms": 150421,
       "name": "Op Shop Lover",
       "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
+    },
+    {
+      "added_at": "2024-06-12 05:58:55",
+      "album": {
+        "name": "hand on my heart",
+        "url": "https://open.spotify.com/album/76BS51UVvR4Dcc38FMzKhM"
+      },
+      "artists": [
+        {
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "hand on my heart",
+      "url": "https://open.spotify.com/track/7tYZhK3J2Rl6Fq5ivzJur6"
     },
     {
       "added_at": "2024-06-12 05:58:55",

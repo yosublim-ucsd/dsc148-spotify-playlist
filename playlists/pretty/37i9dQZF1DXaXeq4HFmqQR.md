@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: Vlntna B
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,494 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,493 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 2 | [Todo Cambia](https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [¿Será Posible El Sur?](https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj) | 4:44 |
 | 3 | [tú no](https://open.spotify.com/track/1yo6ROQQqWAHNb6alahCoY) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [tú no](https://open.spotify.com/album/3QnYvMHXIl3CM7u9f6IX5d) | 2:57 |
 | 4 | [Autopoiética](https://open.spotify.com/track/7vNHNUWpNNW9G5hokRWVpH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 2:32 |
-| 5 | [KARO LUJOSO](https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [KARO LUJOSO](https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak) | 2:14 |
+| 5 | [Flotando](https://open.spotify.com/track/23o7KuK4jNJInTiOFogpXO) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [La Fortaleza](https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9) | 4:00 |
 | 6 | [No Pensé Ni Busqué](https://open.spotify.com/track/2Yq6dSnNeGun9CS4kvzTrb) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Mal Augurio](https://open.spotify.com/album/2UWIBJqg78EqZrxp7ao0cA) | 2:56 |
-| 7 | [Flotando](https://open.spotify.com/track/23o7KuK4jNJInTiOFogpXO) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [La Fortaleza](https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9) | 4:00 |
+| 7 | [KARO LUJOSO](https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [KARO LUJOSO](https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak) | 2:14 |
 | 8 | [Maldita Primavera](https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Los Imposibles](https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz) | [AM + bonus Tracks \(Edición Aniversario\)](https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel) | 3:45 |
 | 9 | [En Mi Bolsillo](https://open.spotify.com/track/6jDcUlw3ZpL5of5A0yc6fL) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Las Canciones](https://open.spotify.com/album/57h6QaNhg051aL0RiaFKu6) | 3:02 |
 | 10 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |

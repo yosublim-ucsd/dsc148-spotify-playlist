@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "A Dios sea toda la gloria y alabanza. Foto: Jes\u00fas Adri\u00e1n Romero",
+  "description": "A Dios sea toda la gloria y alabanza. Foto: <a href=\"spotify:artist:2miffAnnUvKSyB9ykA2su9\">Living</a>",
   "name": "Alabanza y Gloria",
   "tracks": [
     {
@@ -60,10 +60,58 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 474183,
       "name": "A Casa",
       "url": "https://open.spotify.com/track/6sQa7qnVaqw734q8xcGSVz"
+    },
+    {
+      "album": {
+        "name": "Uniendo Cielo Y Tierra",
+        "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
+      },
+      "artists": [
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+        },
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 601586,
+      "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
+      "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
+    },
+    {
+      "album": {
+        "name": "Roca Firme (Live)",
+        "url": "https://open.spotify.com/album/07dyv0elWzL2jjfbbxwypw"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Intimidad Worship",
+          "url": "https://open.spotify.com/artist/4kTG6PgHuvq7bsSjJ2ZPhL"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311338,
+      "name": "Alaba - Live",
+      "url": "https://open.spotify.com/track/0TcZ7rMMo0WEU8iUgkbyEY"
     },
     {
       "album": {
@@ -82,7 +130,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 334831,
       "name": "Aleluya",
       "url": "https://open.spotify.com/track/7EOxhfDRdKdLknVVuyKKQ4"
@@ -118,7 +166,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 299013,
       "name": "Amor Sin Comparaci\u00f3n",
       "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
@@ -136,7 +184,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 296578,
       "name": "Autor de Vida (Autor da Vida)",
       "url": "https://open.spotify.com/track/6nixEbKEEewJ6JjmevRUxz"
@@ -154,7 +202,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 228616,
       "name": "Canta Sobre Ti / Sobre Mi",
       "url": "https://open.spotify.com/track/0VUoItBdkgXdCAzVGDqAAC"
@@ -194,7 +242,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 230791,
       "name": "Comenzar de Cero",
       "url": "https://open.spotify.com/track/2qXnPsj2I6hFMU7KL2E8m2"
@@ -248,7 +296,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 299600,
       "name": "Como Dijiste",
       "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
@@ -270,6 +318,24 @@
       "duration_ms": 197119,
       "name": "Conocido",
       "url": "https://open.spotify.com/track/0aCOBqgxNxnz3kvWWZPJIz"
+    },
+    {
+      "album": {
+        "name": "Gente Comun Sue\u00f1os Extraordinarios",
+        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302471,
+      "name": "Creere",
+      "url": "https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv"
     },
     {
       "album": {
@@ -324,6 +390,62 @@
       "duration_ms": 423173,
       "name": "Creo En Ti - Live",
       "url": "https://open.spotify.com/track/4iHlCejE0feD1XEXJRxmAI"
+    },
+    {
+      "album": {
+        "name": "mejor que ayer",
+        "url": "https://open.spotify.com/album/4GSVmHW4lN3IOkXbDFo3cQ"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192160,
+      "name": "c\u00f3mo pasar\u00e1 ??",
+      "url": "https://open.spotify.com/track/1nVhSPV6RtPJVEhfuFgLcM"
+    },
+    {
+      "album": {
+        "name": "Grande y Fiel (Live)",
+        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Becky Collazos",
+          "url": "https://open.spotify.com/artist/2e3Cv0nAlMvRoCfrsV75dI"
+        },
+        {
+          "name": "Josh Morales",
+          "url": "https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488927,
+      "name": "Danzando - Live",
+      "url": "https://open.spotify.com/track/6WUJmzEMK7EBa2LLgp96s0"
     },
     {
       "album": {
@@ -396,7 +518,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 270268,
       "name": "Demente",
       "url": "https://open.spotify.com/track/6NU7EbNi0lwgqaApqBTCZt"
@@ -488,7 +610,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 352500,
       "name": "Dios Conmigo Est\u00e1s",
       "url": "https://open.spotify.com/track/6ajcKo8JZHQiPaAzwhsHUa"
@@ -510,7 +632,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 322999,
       "name": "Dios de lo Imposible",
       "url": "https://open.spotify.com/track/4k06E8AMRhsUoVcWM6FtLB"
@@ -536,7 +658,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 450875,
       "name": "Dios de Lo Imposible",
       "url": "https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH"
@@ -554,7 +676,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 299680,
       "name": "Dios Es Poderoso (God Is Able)",
       "url": "https://open.spotify.com/track/56K53QX4tlStTlC5X33sLd"
@@ -572,7 +694,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 645440,
       "name": "Dios Incomparable (Invitado: Marco Barrientos)",
       "url": "https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX"
@@ -590,7 +712,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 229346,
       "name": "Dios Te Lo Pido",
       "url": "https://open.spotify.com/track/0dy5EljbzKsHcjT5fMITgx"
@@ -626,7 +748,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 245973,
       "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
       "url": "https://open.spotify.com/track/1fw5FweXpCvzNwCGPk953Q"
@@ -750,7 +872,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 409217,
       "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
       "url": "https://open.spotify.com/track/3DTZ3zRoH5QajNRxLFiLEL"
@@ -790,7 +912,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 349801,
       "name": "Eres Rey",
       "url": "https://open.spotify.com/track/0CkV4sA0c16gNXbp9VvhLk"
@@ -877,6 +999,42 @@
     },
     {
       "album": {
+        "name": "El Dios De Lo Imposible",
+        "url": "https://open.spotify.com/album/73YrJY6JBx5bBJjDmcJ7WU"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282826,
+      "name": "Esta Cayendo",
+      "url": "https://open.spotify.com/track/6XXn8f7bPRT2hP4j5nYbcJ"
+    },
+    {
+      "album": {
+        "name": "Fiesta en el desierto (la la la)",
+        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338015,
+      "name": "Fiesta en el desierto (la la la)",
+      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
+    },
+    {
+      "album": {
         "name": "SEU Worship HOLA",
         "url": "https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW"
       },
@@ -892,6 +1050,24 @@
       "duration_ms": 369420,
       "name": "Gracia",
       "url": "https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI"
+    },
+    {
+      "album": {
+        "name": "Gracias A La Cruz",
+        "url": "https://open.spotify.com/album/2qr3B7UPelc7paIgaj55Nk"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308989,
+      "name": "Gracias A La Cruz",
+      "url": "https://open.spotify.com/track/1z8O7c6SeYQymSen7xbTsF"
     },
     {
       "album": {
@@ -950,7 +1126,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 309263,
       "name": "Hasta poder ver",
       "url": "https://open.spotify.com/track/1eydCGoeuu4KeEStDpCJWk"
@@ -986,7 +1162,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 418704,
       "name": "Hay Un Hambre",
       "url": "https://open.spotify.com/track/2Wvb0A4SS6sEZWaJ7skU2Y"
@@ -1256,7 +1432,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 346933,
       "name": "La Cruz",
       "url": "https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec"
@@ -1292,10 +1468,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 331253,
       "name": "La Imagen De Dios",
       "url": "https://open.spotify.com/track/4xTj1CezTYAkR4qPsqPH1w"
+    },
+    {
+      "album": {
+        "name": "Generacion Radical",
+        "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406184,
+      "name": "La Tierra Canta",
+      "url": "https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK"
     },
     {
       "album": {
@@ -1317,6 +1511,24 @@
     },
     {
       "album": {
+        "name": "Jes\u00fas Siempre Llega a Tiempo",
+        "url": "https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40"
+      },
+      "artists": [
+        {
+          "name": "Samuel Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319650,
+      "name": "Levanto Mis Manos",
+      "url": "https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5"
+    },
+    {
+      "album": {
         "name": "Lo Har\u00e1s Otra Vez",
         "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
       },
@@ -1328,7 +1540,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 377306,
       "name": "Lo Har\u00e1s Otra Vez (Do It Again)",
       "url": "https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg"
@@ -1382,7 +1594,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 303373,
       "name": "Loco Amor - Spanish Version",
       "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
@@ -1448,7 +1660,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 344549,
       "name": "Me Amaste a M\u00ed",
       "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
@@ -1473,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Mesias (Live)",
+        "url": "https://open.spotify.com/album/3kFnyNSLQn8d4U40kkgNMP"
+      },
+      "artists": [
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 743333,
+      "name": "Mesias - Live",
+      "url": "https://open.spotify.com/track/2f76xe9iPZbab7nMXaUaNR"
+    },
+    {
+      "album": {
         "name": "Mi Dios",
         "url": "https://open.spotify.com/album/25LnH10K7SGRrrA5X9aSXE"
       },
@@ -1488,7 +1718,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 298976,
       "name": "Mi Dios",
       "url": "https://open.spotify.com/track/2sv8SthOOhWNAd9diJG7d2"
@@ -1510,7 +1740,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 291986,
       "name": "Mi Esperanza Est\u00e1 en Jes\u00fas (Live)",
       "url": "https://open.spotify.com/track/25cHB6xp0w2yTak3GOopEf"
@@ -1532,7 +1762,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 491232,
       "name": "Mi Libertador",
       "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
@@ -1616,7 +1846,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 385976,
       "name": "M\u00e1s De Lo Que So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/0PbpiYDObGKpjherCBFwFX"
@@ -1678,7 +1908,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 274050,
       "name": "No Estoy Solo",
       "url": "https://open.spotify.com/track/0w0r0o3ehxTfDoUMPU34vY"
@@ -1721,6 +1951,28 @@
     },
     {
       "album": {
+        "name": "Como En El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488333,
+      "name": "No Hay Lugar M\u00e1s Alto (En Vivo) [feat. Christine D'clario]",
+      "url": "https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9"
+    },
+    {
+      "album": {
         "name": "No Hay Otro Dios",
         "url": "https://open.spotify.com/album/5agVhIIi2JmXA5pEmjZUzW"
       },
@@ -1754,6 +2006,24 @@
       "duration_ms": 391316,
       "name": "No Hay Otro Dios",
       "url": "https://open.spotify.com/track/2kmRF1rM0ZQfZZ4RmkVIs4"
+    },
+    {
+      "album": {
+        "name": "Revive (Spanish Version)",
+        "url": "https://open.spotify.com/album/2FSUcDiAhV0xtPDgznZktw"
+      },
+      "artists": [
+        {
+          "name": "Lucia Parker",
+          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267030,
+      "name": "No Nos Callaremos",
+      "url": "https://open.spotify.com/track/3S2RAv4Cd4vcXMZIjtAkU1"
     },
     {
       "album": {
@@ -1816,10 +2086,44 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 568390,
       "name": "Nuestro Salvador (feat. Alex Campos)",
       "url": "https://open.spotify.com/track/58eeJvQQr3sJC58fT3qx8U"
+    },
+    {
+      "album": {
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 605453,
+      "name": "Obra de Tu Amor - (Alfarero)",
+      "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
     },
     {
       "album": {
@@ -1877,6 +2181,32 @@
     },
     {
       "album": {
+        "name": "Bethel Music en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414280,
+      "name": "Padre Nuestro (Live)",
+      "url": "https://open.spotify.com/track/5MPL8832azIUwbMJZqng5Q"
+    },
+    {
+      "album": {
         "name": "Por Siempre (Live)",
         "url": "https://open.spotify.com/album/2yIPFIYN8bj7nl8oeH0JE7"
       },
@@ -1892,7 +2222,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 320013,
       "name": "Por Siempre (Live)",
       "url": "https://open.spotify.com/track/0lWqNkcbYNZpik6AjywkNm"
@@ -1910,7 +2240,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 253026,
       "name": "Por Ti (Go)",
       "url": "https://open.spotify.com/track/4zofr5C8eXvIFHh1e4d3CY"
@@ -1932,7 +2262,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 299706,
       "name": "Preciosa Sangre",
       "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
@@ -2012,7 +2342,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 248813,
       "name": "Que Se Llene Tu Casa",
       "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
@@ -2144,7 +2474,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 210000,
       "name": "Recu\u00e9rdame",
       "url": "https://open.spotify.com/track/1EUGneZLImNRBHtTZyaLuK"
@@ -2224,7 +2554,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 263731,
       "name": "Rey de Reyes",
       "url": "https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2"
@@ -2275,6 +2605,36 @@
     },
     {
       "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        },
+        {
+          "name": "Louie Abrego",
+          "url": "https://open.spotify.com/artist/7JziUvazVZhoqI0PmAcyHj"
+        },
+        {
+          "name": "ruli",
+          "url": "https://open.spotify.com/artist/58zw29VNKRuVKHRPmy5c2o"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "Socorro",
+      "url": "https://open.spotify.com/track/1Xyf243Z7sN1Ekuq2JcGEi"
+    },
+    {
+      "album": {
         "name": "Solo Tu... Lo Unico Que Quiero",
         "url": "https://open.spotify.com/album/6B0oYyezYLKGtmhKhHOEwP"
       },
@@ -2286,7 +2646,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 219733,
       "name": "Solo Tu",
       "url": "https://open.spotify.com/track/2FpjyN25ntw5wRI0HHPTHs"
@@ -2322,10 +2682,46 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 170447,
       "name": "Su Poder",
       "url": "https://open.spotify.com/track/7IHDRIB6doBTcTBoOWmjOJ"
+    },
+    {
+      "album": {
+        "name": "Suelto",
+        "url": "https://open.spotify.com/album/6MtthKgel9UaIw3gegtemS"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "Suelto",
+      "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
+    },
+    {
+      "album": {
+        "name": "Mas Que Un Anhelo",
+        "url": "https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291466,
+      "name": "Supe Que Me Amabas",
+      "url": "https://open.spotify.com/track/36e4Sr0dXiyzjVeBWv8cON"
     },
     {
       "album": {
@@ -2344,10 +2740,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 187943,
       "name": "S\u00e9 Mi Shalom",
       "url": "https://open.spotify.com/track/7KN4aDexcgrtmCgZd4RhIR"
+    },
+    {
+      "album": {
+        "name": "Tantas Historias",
+        "url": "https://open.spotify.com/album/1Fe1bElYmUYHJ51jHLJ4cH"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240457,
+      "name": "Tantas Historias",
+      "url": "https://open.spotify.com/track/5kW4xrnOaXimPbVnucVzKh"
     },
     {
       "album": {
@@ -2369,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "Todo Es Posible",
+        "url": "https://open.spotify.com/album/5izMmQxqLuuP1T5pTbONwP"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285413,
+      "name": "Todo Es Posible",
+      "url": "https://open.spotify.com/track/24NGuW6DcoTZxyXofAGSOh"
+    },
+    {
+      "album": {
         "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
       },
@@ -2384,7 +2816,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 612165,
       "name": "Todo Lo Haces Nuevo",
       "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
@@ -2406,7 +2838,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 404603,
       "name": "Tu Amor No Tiene Fin (feat. Redimi2)",
       "url": "https://open.spotify.com/track/2rMEnJMZCvD0vvMA7x9Ffq"
@@ -2432,7 +2864,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 294253,
       "name": "Tumbas A Jardines (feat. Elevation Worship)",
       "url": "https://open.spotify.com/track/0RHSDsa4EkiNBC0UJtGn7l"
@@ -2522,7 +2954,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 598466,
       "name": "Ven y Ll\u00e9name",
       "url": "https://open.spotify.com/track/4Lp4it382mVKgfUDHsh04t"
@@ -2588,7 +3020,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 438519,
       "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
       "url": "https://open.spotify.com/track/22H9y1qkAXg4jhrXM3xo3U"
@@ -2606,7 +3038,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 415063,
       "name": "Yo Tambi\u00e9n (Un Bill\u00f3n De Veces)",
       "url": "https://open.spotify.com/track/4I42yC85pQAyXWDbpo8d1N"

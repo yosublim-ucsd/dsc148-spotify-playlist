@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy?si=LL89H1uSRGmdUzqvssKNNQ">Tyson Sybateli</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,704 likes - 59 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,776 likes - 59 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [IMALI \(feat\. Usimamane\)](https://open.spotify.com/track/1RBaJ70iuXwK6Wyu457Q3t) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Wordz](https://open.spotify.com/artist/7IPFplrxamAhezF49BeCsQ), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [ONLY THE BRAVE](https://open.spotify.com/album/0VIKRgqgvDdXNNfbGhUfnp) | 2:27 |
+| 1 | [IMALI \(feat\. Usimamane\)](https://open.spotify.com/track/1RBaJ70iuXwK6Wyu457Q3t) | [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Wordz](https://open.spotify.com/artist/5tiJyls54dQBxHpbXjod29), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [ONLY THE BRAVE](https://open.spotify.com/album/0VIKRgqgvDdXNNfbGhUfnp) | 2:27 |
 | 2 | [Abekho](https://open.spotify.com/track/7wb5FuOqOswDqHl4U4T8bQ) | [Sonwabile](https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Abekho](https://open.spotify.com/album/3BMX6pWfzzS6PCKvaDYFVu) | 2:40 |
 | 3 | [Slat Los](https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Slat Los](https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg) | 2:56 |
 | 4 | [Kiki](https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Glody Kasongo](https://open.spotify.com/artist/3HTDaBCCpXP4Y6TyoGyP9i) | [Kiki](https://open.spotify.com/album/5fhYSXpWS5hEzZ7e7U23y9) | 2:54 |

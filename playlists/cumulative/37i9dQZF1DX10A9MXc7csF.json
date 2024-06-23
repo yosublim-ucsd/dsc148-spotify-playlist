@@ -10863,6 +10863,32 @@
     },
     {
       "album": {
+        "name": "Nava\u2019s Girl",
+        "url": "https://open.spotify.com/album/2JH6TvRRXlUuXbCqf4Qsw9"
+      },
+      "artists": [
+        {
+          "name": "Christian Nava",
+          "url": "https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Pandemia 702",
+          "url": "https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171627,
+      "name": "Nava\u2019s Girl",
+      "url": "https://open.spotify.com/track/1p3DWeGMg32VSa6npnopML"
+    },
+    {
+      "album": {
         "name": "Negro Como La Pantera",
         "url": "https://open.spotify.com/album/1V2a8dVFLfV4lju73nnIXr"
       },

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">electronic</a> melancholy < / 3",
-  "num_followers": 628414,
+  "num_followers": 628426,
   "original_name": "Sad Beats",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Talk It Over",
-        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 209178,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Love You Better",
         "url": "https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 185524,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Talk It Over",
+        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 209178,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -799,22 +799,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Feel Less",
-        "url": "https://open.spotify.com/album/14AAzYmdbb8x9s3i4H3dL6"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
       },
       "artists": [
         {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
         }
       ],
-      "duration_ms": 241951,
-      "name": "Feel Less",
-      "url": "https://open.spotify.com/track/0uEOOlUaUT2bC2a3anIVjG"
+      "duration_ms": 177206,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -839,6 +835,50 @@
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Feel Less",
+        "url": "https://open.spotify.com/album/14AAzYmdbb8x9s3i4H3dL6"
+      },
+      "artists": [
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 241951,
+      "name": "Feel Less",
+      "url": "https://open.spotify.com/track/0uEOOlUaUT2bC2a3anIVjG"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Hurts Sometimes (with Jonathan Mendelsohn)",
+        "url": "https://open.spotify.com/album/7jOpNmgc2qpGOxwOpanK8B"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Hurts Sometimes (with Jonathan Mendelsohn)",
+      "url": "https://open.spotify.com/track/2wwSQbfTJUqNqDch31XUpW"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -883,30 +923,6 @@
       "duration_ms": 136000,
       "name": "Love We Lost (with R3HAB)",
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Hurts Sometimes (with Jonathan Mendelsohn)",
-        "url": "https://open.spotify.com/album/7jOpNmgc2qpGOxwOpanK8B"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Hurts Sometimes (with Jonathan Mendelsohn)",
-      "url": "https://open.spotify.com/track/2wwSQbfTJUqNqDch31XUpW"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1015,6 +1031,26 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Sweet Nothings (feat. Minke)",
+        "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "Minke",
+          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
+        }
+      ],
+      "duration_ms": 228845,
+      "name": "Sweet Nothings (feat. Minke)",
+      "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Never Give Up On You (with Elle Vee)",
         "url": "https://open.spotify.com/album/1Rd5iSReakdd3r5H7g9p51"
       },
@@ -1035,26 +1071,6 @@
       "duration_ms": 208888,
       "name": "Never Give Up On You (with Elle Vee)",
       "url": "https://open.spotify.com/track/6QyteQFqwV52K3YAs2a3pf"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Sweet Nothings (feat. Minke)",
-        "url": "https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi"
-      },
-      "artists": [
-        {
-          "name": "Holiday87",
-          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
-        },
-        {
-          "name": "Minke",
-          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
-        }
-      ],
-      "duration_ms": 228845,
-      "name": "Sweet Nothings (feat. Minke)",
-      "url": "https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1123,6 +1139,26 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 253121,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/26wuBc04catG1QQyYupr35"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF"
       },
@@ -1143,26 +1179,6 @@
       "duration_ms": 182350,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Love Letter",
-        "url": "https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        }
-      ],
-      "duration_ms": 253121,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/26wuBc04catG1QQyYupr35"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1191,6 +1207,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Heartaches",
+        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 207627,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/3dM5PL2xuR0xnRdkxFk0Sj"
       },
@@ -1211,22 +1243,6 @@
       "duration_ms": 255172,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/2nQyEHecmmt0WE43mOsScr"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Heartaches",
-        "url": "https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 207627,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "The Way You Had Me",
-        "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
-      },
-      "artists": [
-        {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        }
-      ],
-      "duration_ms": 190423,
-      "name": "The Way You Had Me",
-      "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Magical Thinking",
         "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
+        "name": "The Way You Had Me",
+        "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
       },
       "artists": [
         {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
         }
       ],
-      "duration_ms": 177206,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
+      "duration_ms": 190423,
+      "name": "The Way You Had Me",
+      "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/3tqijD8XuF8D6bJ9GWV6IN"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "duration_ms": 205476,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/1DxP9H5LlFb5ChzoCwgKyg"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "i...",
         "url": "https://open.spotify.com/album/7wVN5ydlkQju7GkA3OSv85"
       },
@@ -1803,26 +1823,6 @@
       "duration_ms": 193655,
       "name": "First Place",
       "url": "https://open.spotify.com/track/21kVD9H40rRQkGmcMi01Fl"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "State Of Mind",
-        "url": "https://open.spotify.com/album/3tqijD8XuF8D6bJ9GWV6IN"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        },
-        {
-          "name": "Marlhy",
-          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
-        }
-      ],
-      "duration_ms": 205476,
-      "name": "State Of Mind",
-      "url": "https://open.spotify.com/track/1DxP9H5LlFb5ChzoCwgKyg"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/1FBX7KlwpLpKMeYG23xRDu"
+      },
+      "artists": [
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        },
+        {
+          "name": "Zeli",
+          "url": "https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz"
+        }
+      ],
+      "duration_ms": 210983,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/1OlNYBgxkEL41GqBnN1X68"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Miss You (feat. GG Magree) [Seven Lions and Gem & Tauri Remix]",
         "url": "https://open.spotify.com/album/7dc72fttC6n7Q3agzyMV3f"
       },
@@ -1931,26 +1951,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/1FBX7KlwpLpKMeYG23xRDu"
-      },
-      "artists": [
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        },
-        {
-          "name": "Zeli",
-          "url": "https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz"
-        }
-      ],
-      "duration_ms": 210983,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/1OlNYBgxkEL41GqBnN1X68"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK"
       },
@@ -1967,6 +1967,22 @@
       "duration_ms": 197779,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Not the One",
+        "url": "https://open.spotify.com/album/1AfHalVy5AETYsy9Yzm92e"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Not the One",
+      "url": "https://open.spotify.com/track/481ZLYM7FUam5FACXysCev"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1991,22 +2007,6 @@
       "duration_ms": 186000,
       "name": "Read Your Mind (with sad alex)",
       "url": "https://open.spotify.com/track/5YXpxCNleJkeXZ0bLKv7MJ"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Not the One",
-        "url": "https://open.spotify.com/album/1AfHalVy5AETYsy9Yzm92e"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Not the One",
-      "url": "https://open.spotify.com/track/481ZLYM7FUam5FACXysCev"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2295,26 +2295,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Strangers (feat. Linney)",
-        "url": "https://open.spotify.com/album/1xN5qOb2SI9zDM2u0UricP"
-      },
-      "artists": [
-        {
-          "name": "Young Bombs",
-          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 195729,
-      "name": "Strangers (feat. Linney)",
-      "url": "https://open.spotify.com/track/7wKCuyM3ePTmBtygQMqbDB"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Can\u2019t Do Both (with Clara Mae)",
         "url": "https://open.spotify.com/album/3eLwA43vI5bh00YocrNWPU"
       },
@@ -2331,6 +2311,26 @@
       "duration_ms": 177345,
       "name": "Can\u2019t Do Both (with Clara Mae)",
       "url": "https://open.spotify.com/track/51Msclnf6boUX26DmZvViX"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Strangers (feat. Linney)",
+        "url": "https://open.spotify.com/album/1xN5qOb2SI9zDM2u0UricP"
+      },
+      "artists": [
+        {
+          "name": "Young Bombs",
+          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 195729,
+      "name": "Strangers (feat. Linney)",
+      "url": "https://open.spotify.com/track/7wKCuyM3ePTmBtygQMqbDB"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Digital Dreamscape (Deluxe)",
+        "url": "https://open.spotify.com/album/1sZfrNrXrkhxjAXcRHEFHQ"
+      },
+      "artists": [
+        {
+          "name": "ayokay",
+          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
+        }
+      ],
+      "duration_ms": 199407,
+      "name": "Right For You",
+      "url": "https://open.spotify.com/track/0HKumeK6is7Q970OOCrGPc"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Save Yourself",
         "url": "https://open.spotify.com/album/2VXFiPevUK5R98J8CsUjQi"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 211071,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/3sfYpzimgCeLiPIshgbIRn"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Digital Dreamscape (Deluxe)",
-        "url": "https://open.spotify.com/album/1sZfrNrXrkhxjAXcRHEFHQ"
-      },
-      "artists": [
-        {
-          "name": "ayokay",
-          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
-        }
-      ],
-      "duration_ms": 199407,
-      "name": "Right For You",
-      "url": "https://open.spotify.com/track/0HKumeK6is7Q970OOCrGPc"
     },
     {
       "added_at": "2024-06-21 04:00:00",

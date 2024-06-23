@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,148 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,155 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 28 | [The Sun Will Rise](https://open.spotify.com/track/6dQh3ivvGZqQh42B5avolF) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [The Sun Will Rise](https://open.spotify.com/album/1bwaS6JvUGRErJYUCWsWXP) | 3:30 |
 | 29 | [GO BACK](https://open.spotify.com/track/3RuK88EzkleaL2bIpUmVEP) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [GO BACK](https://open.spotify.com/album/0IpCBFsEPn1CO9Fxkfauo1) | 2:37 |
 | 30 | [Just Come](https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k) | [Creative Culture Co.](https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [At the Table](https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB) | 3:37 |
-| 31 | [Into The Sea](https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn) | [Port Blue](https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY) | [The Albatross EP](https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H) | 2:22 |
+| 31 | [God Who Saves](https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Valley](https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H) | 4:39 |
 | 32 | [The Lion And The Lamb \- Instrumental](https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Rivers & Robots Presents: Still, Vol\. 1 \(Instrumentals\)](https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM) | 4:02 |
-| 33 | [God Who Saves](https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Valley](https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H) | 4:39 |
+| 33 | [Into The Sea](https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn) | [Port Blue](https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY) | [The Albatross EP](https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H) | 2:22 |
 | 34 | [Jesus Is\_\_\_.](https://open.spotify.com/track/1ilsVjIPYIxPyjunBeDFLP) | [The City Church](https://open.spotify.com/artist/6HWUXnbMgWLWzkQAiTb4MZ) | [Jesus Is\_\_\_\. Music Project](https://open.spotify.com/album/05hvkkM29nIor7aT515II2) | 4:37 |
-| 35 | [I Will Remember](https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [I Will Remember](https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB) | 5:51 |
-| 36 | [You Are Good](https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [You Are Good](https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX) | 5:58 |
+| 35 | [You Are Good](https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [You Are Good](https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX) | 5:58 |
+| 36 | [I Will Remember](https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8) | [KJ Scriven](https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC) | [I Will Remember](https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB) | 5:51 |
 | 37 | [Great Is Our God](https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Young Oceans](https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB) | 4:33 |
 | 38 | [Weeping Mary](https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Hope Where There Was None](https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5) | 3:16 |
 | 39 | [Whirlwind](https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [High Level Praise](https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t) | 3:18 |

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Special Place",
+        "url": "https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aura",
+          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146625,
+      "name": "A Special Place",
+      "url": "https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9"
+    },
+    {
+      "album": {
         "name": "Above All Else",
         "url": "https://open.spotify.com/album/2uvqVzVwjdETh4Ri15e55A"
       },
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 238192,
       "name": "Monument",
       "url": "https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp"

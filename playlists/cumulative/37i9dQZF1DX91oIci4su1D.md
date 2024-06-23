@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-920 songs - 2 day 7 hr 39 min
+921 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -738,7 +738,7 @@
 | [Spicy Broth \- Streaming Edit](https://open.spotify.com/track/3kPNJtqNu4k9bQtATQQsQN) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL) | [Spicy Broth](https://open.spotify.com/album/2DPMQFgsMb7Ze7mIrHPRiX) | 4:40 | 2023-05-19 | 2024-05-18 |
 | [Spirit](https://open.spotify.com/track/4Get5ZiY8kJAWaqkPhSGb1) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f) | [Spirit](https://open.spotify.com/album/13ITIgtm08BvjIHUnDziCG) | 3:59 | 2022-06-17 | 2022-08-27 |
 | [Standing On the Edge Of Space \- Cold Blue Remix](https://open.spotify.com/track/3FPRzuZBjsjduQbFWtSGlI) | [The Thrillseekers](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5), [Hydra](https://open.spotify.com/artist/40hrrmQKZYEN0ipPy6h8pU), [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF) | [Standing On the Edge of Space \(Cold Blue Remix\)](https://open.spotify.com/album/4YCi6v64BwQxuWzUhFAnxc) | 3:19 | 2023-04-29 | 2023-07-01 |
-| [Starburst \- Alex M.O.R.P.H\. & Aimoon Pres\. Northern Storm](https://open.spotify.com/track/3ZHpG7NBJcWOVhPyIEd4Bp) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Aimoon](https://open.spotify.com/artist/17vJZOw0HdCJgRMBWBTmHT) | [Starburst \(Alex M.O.R.P.H\. & Aimoon Pres\. Northern Storm\)](https://open.spotify.com/album/0q7V8exflTMmuHSpClReTF) | 3:40 | 2023-12-01 |  |
+| [Starburst \- Alex M.O.R.P.H\. & Aimoon Pres\. Northern Storm](https://open.spotify.com/track/3ZHpG7NBJcWOVhPyIEd4Bp) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [Aimoon](https://open.spotify.com/artist/17vJZOw0HdCJgRMBWBTmHT) | [Starburst \(Alex M.O.R.P.H\. & Aimoon Pres\. Northern Storm\)](https://open.spotify.com/album/0q7V8exflTMmuHSpClReTF) | 3:40 | 2023-12-01 | 2024-06-23 |
 | [Stargazing \(feat\. Lin was here\)](https://open.spotify.com/track/5ZW9Dzyz3TwGCoHgRVGmY1) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT), [Lin was here](https://open.spotify.com/artist/6a2eeGEALfPlsr7bZQo9wf) | [Stargazing \(feat\. Lin was here\)](https://open.spotify.com/album/1D6jer7Ksr9doUbvKuSEqO) | 2:49 | 2023-07-21 |  |
 | [Stars Collide \- XiJaro & Pitch Remix](https://open.spotify.com/track/0K2C5JHVbS9UkqbAPoxTRj) | [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K), [Jennifer Rene](https://open.spotify.com/artist/44RB2EcmMwG4gC8EH75Ix1), [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Beside You \[Deluxe\]](https://open.spotify.com/album/54Sgvc93MjdG7o2099JlN6) | 3:59 | 2021-12-17 | 2022-02-26 |
 | [Starship](https://open.spotify.com/track/04ted2YPfm40Peb2pC9CyD) | [Vinny DeGeorge](https://open.spotify.com/artist/7chssTaMWVQ27tijoHPOb1) | [Starship](https://open.spotify.com/album/5IXKSwrdxoy2eFKzf5Tjet) | 3:53 | 2023-05-19 | 2023-12-11 |
@@ -792,6 +792,7 @@
 | [Text Me](https://open.spotify.com/track/1iDvWsd0i0tONCO8lfOqC1) | [Avao](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Text Me](https://open.spotify.com/album/1HClfxFxgWVKnTi4S7Xf99) | 2:35 | 2022-07-22 | 2023-03-04 |
 | [Text Me](https://open.spotify.com/track/7cgYvANWUAZk2yuqtJro7w) | [Avao](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Text Me](https://open.spotify.com/album/234yjteEry3Y6imN8wQl1Q) | 2:35 | 2022-01-21 | 2022-07-29 |
 | [That Feeling](https://open.spotify.com/track/234GyiMYia1kR7lPPDS4Pv) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [TRAVYP](https://open.spotify.com/artist/0XsiNGxLITrNchOt9zTW99) | [That Feeling](https://open.spotify.com/album/3g5gzdOCIrCI3ghCWOyjEd) | 3:34 | 2023-08-25 | 2023-12-09 |
+| [The Abyss](https://open.spotify.com/track/1KQ4oXd5wYGraQoGniVc5j) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [The Abyss](https://open.spotify.com/album/1qLcs69XKRElvE45dKZ97u) | 3:30 | 2024-06-21 |  |
 | [The Air I Breathe \- Kryder Remix](https://open.spotify.com/track/0WBy5iBMPqSDZA0EB2VLUA) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [The Air I Breathe \(Kryder Remix\)](https://open.spotify.com/album/1e4TS1TPs6uBoMbCdwHm2x) | 3:05 | 2022-03-11 | 2022-05-28 |
 | [The Awakening](https://open.spotify.com/track/4IxM0oIz7plmTiYCZZwnE3) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl) | [The Awakening](https://open.spotify.com/album/4ov64pSP0bAOAo1rhae7UJ) | 2:30 | 2023-09-15 |  |
 | [the darkness](https://open.spotify.com/track/4MEcRpmTuRdEw8bItHjWbi) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [the darkness](https://open.spotify.com/album/0OzEsyvzn31Ew9RbmuWSNK) | 2:50 | 2022-01-07 | 2022-04-16 |

@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Beto Vega y Tony Aguirre
 
-5,278 songs - 11 day 10 hr 31 min
+5,279 songs - 11 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3415,6 +3415,7 @@
 | [Nadie Es Inolvidable \- En Vivo](https://open.spotify.com/track/6c8Dkll2omHCdWr1Km4F3k) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Josi Cuen](https://open.spotify.com/artist/55myGMLEFMPmym8SYsDdx4) | [Bienvenidos A Casa \(En Vivo\)](https://open.spotify.com/album/2OVAUCW5Zv1ISWd1lQW1qr) | 4:03 | 2023-04-14 | 2023-04-22 |
 | [Nadie Mas](https://open.spotify.com/track/7brPYXl515g3kFaH9g7sCC) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Nadie Mas](https://open.spotify.com/album/0cRUQdUeJdx0WUZWgRXrH6) | 2:50 | 2023-04-21 | 2023-04-29 |
 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 | 2024-04-05 | 2024-04-13 |
+| [Nava’s Girl](https://open.spotify.com/track/1p3DWeGMg32VSa6npnopML) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Pandemia 702](https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM) | [Nava’s Girl](https://open.spotify.com/album/2JH6TvRRXlUuXbCqf4Qsw9) | 2:51 | 2024-06-22 |  |
 | [Navegando Por Los Cabos](https://open.spotify.com/track/4w8qup9uI7HcVMfJ4KQZk5) | [Los Originales De La Baja](https://open.spotify.com/artist/6yNDvlrySL5kjIjEpUFQ95), [Liric MX](https://open.spotify.com/artist/5hqclBf1lckpmkd9D2KIUl) | [Navegando Por Los Cabos](https://open.spotify.com/album/0Q7mdfRYMHCS6pIzYkVz5Z) | 3:24 | 2022-08-26 | 2022-09-03 |
 | [Navidad Infame](https://open.spotify.com/track/2jW7UKAv1wr1usxGdxPpRs) | [Doble Infame](https://open.spotify.com/artist/6wK8afTRnGKhlVuYsOLHM7) | [Navidad Infame](https://open.spotify.com/album/5jg355wckOszaJnnrhKOuK) | 3:43 | 2022-12-30 | 2023-01-07 |
 | [Navidad Navidad](https://open.spotify.com/track/6F12TIRr8vhHY1kIq8JB8h) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Navidad Navidad](https://open.spotify.com/album/3gShHWa2czJY8mtv0QEXlg) | 2:31 | 2022-11-18 | 2022-11-26 |
@@ -5275,7 +5276,7 @@
 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 | 2022-07-29 | 2022-08-06 |
 | [¿Y Todo Para Que?](https://open.spotify.com/track/00Yl3EpC4Po5P0dm2b1Zfp) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [La Divinidad Femenina](https://open.spotify.com/album/1E0K8c9qUQYfSCP4a1DGhF) | 3:27 | 2022-07-15 | 2022-07-23 |
 | [¿Y Todo para Qué?](https://open.spotify.com/track/5LjrDLk1KfDX0fv8311O9c) | [Vena De Rey](https://open.spotify.com/artist/4jsKRYQ2PjDJiMV1NjHEhl) | [¿Y Todo para Qué?](https://open.spotify.com/album/0dBVNP0pHvHMh4Afp77oDD) | 3:16 | 2022-09-30 | 2022-10-08 |
-| [Álbum JGL](https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Álbum JGL](https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL) | 2:50 | 2024-06-14 |  |
+| [Álbum JGL](https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Álbum JGL](https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL) | 2:50 | 2024-06-14 | 2024-06-23 |
 | [Ámame](https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ámame](https://open.spotify.com/album/0U36RN0P9awTfozisaj49A) | 3:19 | 2023-06-23 | 2023-07-01 |
 | [Árbol De Coco](https://open.spotify.com/track/4P1y2T1AkMD0cZqHzb6V4B) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Árbol De Coco](https://open.spotify.com/album/1PCsfeXwksARZlQf6u44sa) | 2:48 | 2023-10-13 | 2023-10-21 |
 | [Árboles De La Barranca \- En Vivo](https://open.spotify.com/track/6mNreZepNlGJ38w3tvLO2K) | [Nuevo Trayecto](https://open.spotify.com/artist/1sJA5TmXuqk6gSXwEbrRET), [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf) | [Árboles De La Barranca \(En Vivo\)](https://open.spotify.com/album/4z0dFltN2oczCODaQY70tB) | 3:40 | 2022-06-24 | 2022-07-02 |

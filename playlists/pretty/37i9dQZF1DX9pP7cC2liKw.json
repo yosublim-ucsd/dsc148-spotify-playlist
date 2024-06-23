@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 260860,
+  "num_followers": 261116,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -93,6 +93,26 @@
       "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
+      "added_at": "2023-10-24 02:03:26",
+      "album": {
+        "name": "Carrossel Do Tempo",
+        "url": "https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Abr\u00e3o",
+          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
+        }
+      ],
+      "duration_ms": 297440,
+      "name": "Carrossel Do Tempo",
+      "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
+    },
+    {
       "added_at": "2024-03-05 03:12:30",
       "album": {
         "name": "Bella",
@@ -115,26 +135,6 @@
       "duration_ms": 188368,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
-    },
-    {
-      "added_at": "2023-10-24 02:03:26",
-      "album": {
-        "name": "Carrossel Do Tempo",
-        "url": "https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Abr\u00e3o",
-          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
-        }
-      ],
-      "duration_ms": 297440,
-      "name": "Carrossel Do Tempo",
-      "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
     },
     {
       "added_at": "2024-05-30 00:46:57",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Out of This World",
+        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
+      },
+      "artists": [
+        {
+          "name": "Gentleman's Dub Club",
+          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
+        }
+      ],
+      "duration_ms": 289576,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
+    },
+    {
       "added_at": "2024-03-05 03:12:30",
       "album": {
         "name": "Dejate Llevar",
@@ -811,22 +827,6 @@
       "duration_ms": 301723,
       "name": "Dejate Llevar",
       "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Out of This World",
-        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
-      },
-      "artists": [
-        {
-          "name": "Gentleman's Dub Club",
-          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
-        }
-      ],
-      "duration_ms": 289576,
-      "name": "Superstylin'",
-      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd"
     },
     {
+      "added_at": "2022-08-19 01:51:18",
+      "album": {
+        "name": "Caf\u00e9 del Mar XXVIII (Vol. 28)",
+        "url": "https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Archer",
+          "url": "https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa"
+        }
+      ],
+      "duration_ms": 266401,
+      "name": "Ain't Nobody - 12\" Mix",
+      "url": "https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Aves del Sur",
@@ -1259,22 +1275,6 @@
       "duration_ms": 189811,
       "name": "Aves del Sur",
       "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
-    },
-    {
-      "added_at": "2022-08-19 01:51:18",
-      "album": {
-        "name": "Caf\u00e9 del Mar XXVIII (Vol. 28)",
-        "url": "https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Archer",
-          "url": "https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa"
-        }
-      ],
-      "duration_ms": 266401,
-      "name": "Ain't Nobody - 12\" Mix",
-      "url": "https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU"
     },
     {
       "added_at": "2022-06-15 04:26:09",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 169382,
+  "description": "This is Emicida. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 169446,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAADNljtKbH+iI0G254jtq5Hd",
+  "snapshot_id": "ZnTCgAAAAABOLkUbYZR4dLOKxOV7hN+B",
   "tracks": [
     {
       "added_at": null,
@@ -903,6 +903,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Estela Verg\u00edlio",
+          "url": "https://open.spotify.com/artist/2Yo86np78XwT8Y6ug7Dg1p"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        }
+      ],
+      "duration_ms": 138448,
+      "name": "Sol de Giz de Cera",
+      "url": "https://open.spotify.com/track/7LsxnS3jwRa0EB7Gq78lkf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dai a Cesar o Que \u00c9 de Cesar",
         "url": "https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 216000,
       "name": "Antes Que a Bala Perdida Me Ache",
       "url": "https://open.spotify.com/track/07OvVAqHyJi4ffgeLbAPUe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
-        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Estela Verg\u00edlio",
-          "url": "https://open.spotify.com/artist/2Yo86np78XwT8Y6ug7Dg1p"
-        },
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        }
-      ],
-      "duration_ms": 138448,
-      "name": "Sol de Giz de Cera",
-      "url": "https://open.spotify.com/track/7LsxnS3jwRa0EB7Gq78lkf"
     },
     {
       "added_at": null,

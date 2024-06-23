@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: The Story So Far
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,862 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,969 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 3 | [CRIMINAL](https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [CRIMINAL](https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5) | 3:47 |
 | 4 | [DON'T NEED](https://open.spotify.com/track/2qD3qR21DrjeU11wIBoipE) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [DON'T NEED](https://open.spotify.com/album/5lLxD9Ay7XljNc2q1lS16d) | 2:43 |
 | 5 | [aftermath/afterthought](https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [aftermath/afterthought](https://open.spotify.com/album/4ZqVCoQf60h1VE2kM3uz2o) | 2:26 |
-| 6 | [All Fucked Out](https://open.spotify.com/track/4VGtUSVZysk8sToKmuxEdN) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9), [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [All Fucked Out](https://open.spotify.com/album/1FF2ilAWXRRy1ioIxEAr1c) | 2:17 |
+| 6 | [All Fucked Out](https://open.spotify.com/track/4VGtUSVZysk8sToKmuxEdN) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [All Fucked Out](https://open.spotify.com/album/1FF2ilAWXRRy1ioIxEAr1c) | 2:17 |
 | 7 | [Broken Words](https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Broken Words](https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8) | 2:52 |
 | 8 | [ATTENTION BY DESIGN](https://open.spotify.com/track/4qfGBcvgliNCMH82pDB0C9) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [ATTENTION BY DESIGN](https://open.spotify.com/album/4o0FK9A5aWucXH2negaBvA) | 2:45 |
 | 9 | [Suffocate City \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/0BgznXTc2uhAWCNAkhyzi9) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [Suffocate City \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/7z3Kvn354BUVFPRjl7jnOB) | 3:33 |

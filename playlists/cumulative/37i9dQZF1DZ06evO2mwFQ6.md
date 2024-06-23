@@ -4,7 +4,7 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 44 min
+66 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Get Loud](https://open.spotify.com/track/5eJCHC6NaH5pXHqSu6Kdrk) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:54 | 2023-06-17 |  |
 | [Get On Down The Road](https://open.spotify.com/track/0L4LJGIt2QkQOnA6ZtUZC8) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 3:10 | 2023-06-17 |  |
 | [Get On Your Feet](https://open.spotify.com/track/5YF7zeU2Op6MlUHQlzBf37) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm) | 2:58 | 2023-06-17 |  |
+| [Gettin' There](https://open.spotify.com/track/64JgqpVpWecb6FSdeBnKzE) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Gettin' There](https://open.spotify.com/album/2AWjtqnJ0AZxIeDZKuVvmR) | 3:13 | 2024-06-23 |  |
 | [Good Friends](https://open.spotify.com/track/1BccrNoxYvYb3uzeNYLb4n) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:43 | 2023-06-17 |  |
 | [Good Year For The Outlaw](https://open.spotify.com/track/1p2pxUmCzV868AUHfw7Cei) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand And The Outlaws](https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz) | 3:34 | 2023-07-01 |  |
 | [Grandpa's Piano](https://open.spotify.com/track/6NWWyD73Tb728WqsWQz9eg) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:23 | 2023-06-17 |  |

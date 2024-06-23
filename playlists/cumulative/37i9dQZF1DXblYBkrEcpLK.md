@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: JELEE \("Jellyfish Can't Swim in the Night"\)
 
-664 songs - 1 day 20 hr 17 min
+665 songs - 1 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Gotoubun no Hanayome \~Arigatou no Hana\~](https://open.spotify.com/track/75DS9CHM2XEzxYrnsguHls) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \~Arigatou no Hana\~](https://open.spotify.com/album/3i7OhLd7xxZrOq16Cpg4zI) | 3:31 | 2024-02-13 | 2024-03-17 |
 | [Gotoubun no Katachi](https://open.spotify.com/track/32nW0L3AHrEasXxB4y4kt4) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Katachi / Hatsukoi \(Special Edition\)](https://open.spotify.com/album/0GIm93uEvIAQ75FCTXCkUL) | 4:03 | 2022-11-19 | 2023-01-06 |
 | [GREEN PEPPER CALISTHENICS](https://open.spotify.com/track/17zGEIVV4tSkvqZNUOcuFR) | [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.3\)](https://open.spotify.com/album/2Fj6DhkX6JQFEAcay7jzAc) | 3:41 | 2023-07-04 | 2023-07-26 |
+| [Growing Up](https://open.spotify.com/track/64q5oxmMOMalIqPGII5z4N) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [Growing Up \(TVアニメ『この素晴らしい世界に祝福を！3』オープニング・テーマ\)](https://open.spotify.com/album/1rULsxF6zg96G8kxYrvJkc) | 3:49 | 2024-05-28 |  |
 | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/track/1aA5eHoRPcuNxtJkVeWoZy) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/album/2rmLgQmIb0NhFGZHz2XUhV) | 3:49 | 2023-10-03 | 2023-11-02 |
 | [Gの閃光 / with 押尾コータロー](https://open.spotify.com/track/3QcZlflQbuxoiL9NrnoK0c) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [GUNDAM SONG COVERS 3](https://open.spotify.com/album/6u752tmdWcBCcCmsgHqF8W) | 3:39 | 2022-07-07 | 2022-07-14 |
 | [Hajimari no Sign](https://open.spotify.com/track/0gDwPtNkiPPMvnfPddX9AG) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [Hajimari no Sign](https://open.spotify.com/album/4ARKEbQec1IrJdYfzUHp7V) | 4:35 | 2022-06-09 | 2022-07-18 |
@@ -418,7 +419,7 @@
 | [アイビーダンス](https://open.spotify.com/track/0p4Pbn4ktbFCAbIWyJL3XO) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [アイビーダンス](https://open.spotify.com/album/5j3Ow8uwPk8wHVpdmndKXi) | 3:25 | 2022-06-09 | 2022-07-24 |
 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 | 2023-04-11 |  |
 | [アセビ](https://open.spotify.com/track/4bdt1luQyF745Tp7AJX3TL) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [ODDTAXI CHARACTER SONG EP](https://open.spotify.com/album/71X44bA7wxYBDr0NwtlIE9) | 3:22 | 2022-07-19 | 2022-07-25 |
-| [アンダンテ](https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p) | 3:36 | 2024-04-16 |  |
+| [アンダンテ](https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p) | 3:36 | 2024-04-16 | 2024-06-23 |
 | [アンチテーゼ](https://open.spotify.com/track/6gaTXvxDp4auqdGnAbE8tQ) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [コンポジット](https://open.spotify.com/album/7c13AoYp8d1co832E46kqU) | 4:18 | 2022-06-24 | 2022-07-04 |
 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-02-13 |  |
 | [イツカノキオク](https://open.spotify.com/track/6H89asd35YNQJ3Ga0B41Je) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [イツカノキオク / 透明のペダル](https://open.spotify.com/album/4DF9D7Tg8ciZg63yAdKvtu) | 3:55 | 2022-06-09 | 2022-07-20 |

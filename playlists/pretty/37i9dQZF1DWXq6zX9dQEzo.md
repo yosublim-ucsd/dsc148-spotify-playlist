@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,627 likes - 54 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,686 likes - 54 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 33 | [Tell Me Why](https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Tell Me Why](https://open.spotify.com/album/2q4Mu2bkMECpfOBT8UP7Vx) | 3:39 |
 | 34 | [Keep Going High](https://open.spotify.com/track/3ZxI58HpXQpq6STPReH067) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [God is Iconic](https://open.spotify.com/album/2oEyCsPPHDBmN7yRjI9pkp) | 2:13 |
 | 35 | [COUNT 'EM \(REMIX\)](https://open.spotify.com/track/16YIHrgoawGdhayXsRR6Ax) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COUNT 'EM / TEAR OFF THE ROOF \(REMIXES\)](https://open.spotify.com/album/7klfC9qvCT6gv7ffuYSUUN) | 4:05 |
-| 36 | [Winners Side](https://open.spotify.com/track/5G3owEcniITWFSLvNMxLOd) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Winners Side](https://open.spotify.com/album/4WBc9bRR0iA7o5e7dPnOqP) | 3:14 |
+| 36 | [Winners Side](https://open.spotify.com/track/5G3owEcniITWFSLvNMxLOd) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Winners Side](https://open.spotify.com/album/4WBc9bRR0iA7o5e7dPnOqP) | 3:13 |
 | 37 | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/track/0ag2DC97eI1difIz35ycfU) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [STOP WHAT YOU DIDNT START \(SWYDS\)](https://open.spotify.com/album/67P7bwrt4Vo0NMQdUrsR0q) | 1:42 |
 | 38 | [hollow](https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5) | [hollow](https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf) | 2:32 |
 | 39 | [Long Time Coming](https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Long Time Coming](https://open.spotify.com/album/1ShR3yKA7APIg2YwKDKlb7) | 2:53 |

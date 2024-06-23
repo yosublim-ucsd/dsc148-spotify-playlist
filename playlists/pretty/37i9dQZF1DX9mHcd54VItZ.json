@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=-ew7kaC0Qb-1Bg-Jy81NUw\">Spoegwolf</a>",
-  "num_followers": 18629,
+  "num_followers": 18644,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Collected Memories",
-        "url": "https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7"
-      },
-      "artists": [
-        {
-          "name": "Zebra & Giraffe",
-          "url": "https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd"
-        }
-      ],
-      "duration_ms": 257253,
-      "name": "The Knife",
-      "url": "https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
         "name": "Altyd Daar",
         "url": "https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 255773,
       "name": "Altyd Daar",
       "url": "https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW"
+    },
+    {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "Collected Memories",
+        "url": "https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7"
+      },
+      "artists": [
+        {
+          "name": "Zebra & Giraffe",
+          "url": "https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd"
+        }
+      ],
+      "duration_ms": 257253,
+      "name": "The Knife",
+      "url": "https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Klanke Van Die Antieke",
-        "url": "https://open.spotify.com/album/7KDyQTLYSUY4cb4ynkbhPZ"
+        "name": "Heelal",
+        "url": "https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw"
       },
       "artists": [
         {
-          "name": "Winterstasie",
-          "url": "https://open.spotify.com/artist/2OJzbtCzhkYel0Nfv8lx3P"
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
         }
       ],
-      "duration_ms": 184346,
-      "name": "Los My",
-      "url": "https://open.spotify.com/track/3kUB0uomWGCHUtGDi7TEzp"
+      "duration_ms": 247146,
+      "name": "Katedraal",
+      "url": "https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -627,6 +627,38 @@
       "duration_ms": 189973,
       "name": "Birthday Card",
       "url": "https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc"
+    },
+    {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "Klanke Van Die Antieke",
+        "url": "https://open.spotify.com/album/7KDyQTLYSUY4cb4ynkbhPZ"
+      },
+      "artists": [
+        {
+          "name": "Winterstasie",
+          "url": "https://open.spotify.com/artist/2OJzbtCzhkYel0Nfv8lx3P"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Los My",
+      "url": "https://open.spotify.com/track/3kUB0uomWGCHUtGDi7TEzp"
+    },
+    {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "Knip die Tou",
+        "url": "https://open.spotify.com/album/20AWF6lGGsHmxNfQsYUB9G"
+      },
+      "artists": [
+        {
+          "name": "Tian Nienaber",
+          "url": "https://open.spotify.com/artist/3nVhBs9i3aMlljbb6pOUpf"
+        }
+      ],
+      "duration_ms": 218096,
+      "name": "Knip die Tou",
+      "url": "https://open.spotify.com/track/40rNFyake81tsu8uqGhGRl"
     },
     {
       "added_at": "2024-05-03 06:46:20",
@@ -647,34 +679,18 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Knip die Tou",
-        "url": "https://open.spotify.com/album/20AWF6lGGsHmxNfQsYUB9G"
+        "name": "Net Om Die Geraas In Te Asem",
+        "url": "https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65"
       },
       "artists": [
         {
-          "name": "Tian Nienaber",
-          "url": "https://open.spotify.com/artist/3nVhBs9i3aMlljbb6pOUpf"
+          "name": "\u00e9F-\u00e9L",
+          "url": "https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka"
         }
       ],
-      "duration_ms": 218096,
-      "name": "Knip die Tou",
-      "url": "https://open.spotify.com/track/40rNFyake81tsu8uqGhGRl"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
-        "name": "Heelal",
-        "url": "https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw"
-      },
-      "artists": [
-        {
-          "name": "Ryno Velvet",
-          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
-        }
-      ],
-      "duration_ms": 247146,
-      "name": "Katedraal",
-      "url": "https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY"
+      "duration_ms": 141186,
+      "name": "Sindikaat",
+      "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -691,22 +707,6 @@
       "duration_ms": 196380,
       "name": "Na\u00efef",
       "url": "https://open.spotify.com/track/4d54vmCXTZZ65sOJz7lerr"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
-        "name": "Net Om Die Geraas In Te Asem",
-        "url": "https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65"
-      },
-      "artists": [
-        {
-          "name": "\u00e9F-\u00e9L",
-          "url": "https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka"
-        }
-      ],
-      "duration_ms": 141186,
-      "name": "Sindikaat",
-      "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-02-29 22:00:00",
       "album": {
-        "name": "Picture Perfect",
-        "url": "https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb"
-      },
-      "artists": [
-        {
-          "name": "Perez",
-          "url": "https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Picture Perfect",
-      "url": "https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP"
-    },
-    {
-      "added_at": "2024-02-29 22:00:00",
-      "album": {
         "name": "Die Lig",
         "url": "https://open.spotify.com/album/1pqLIYA4P2uh9oJWUe9tRk"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 317680,
       "name": "Die Lig",
       "url": "https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r"
+    },
+    {
+      "added_at": "2024-02-29 22:00:00",
+      "album": {
+        "name": "Picture Perfect",
+        "url": "https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb"
+      },
+      "artists": [
+        {
+          "name": "Perez",
+          "url": "https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Picture Perfect",
+      "url": "https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP"
     },
     {
       "added_at": "2024-02-29 22:00:00",

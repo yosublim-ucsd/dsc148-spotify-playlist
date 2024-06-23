@@ -2,7 +2,7 @@
 
 ### [This Is ReoNa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F3ObS)
 
-> This is ReoNa\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is ReoNa\. The essential tracks, all in one playlist.
 
 89 songs - 6 hr 45 min
 

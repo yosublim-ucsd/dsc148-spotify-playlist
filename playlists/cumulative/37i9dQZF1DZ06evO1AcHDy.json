@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "I'm Free (feat. Rina Sawayama)",
+        "url": "https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182813,
+      "name": "I'm Free (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI"
+    },
+    {
+      "album": {
         "name": "Hold The Girl",
         "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
       },

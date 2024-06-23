@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tony Trischka",
-  "num_followers": 161926,
+  "num_followers": 161949,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Heading East to West Virginia",
-        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
-      },
-      "artists": [
-        {
-          "name": "Russell Moore & IIIrd Tyme Out",
-          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
-        }
-      ],
-      "duration_ms": 156536,
-      "name": "Heading East to West Virginia",
-      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "The Whole of the Moon",
         "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 282794,
       "name": "The Whole of the Moon",
       "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Heading East to West Virginia",
+        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
+      },
+      "artists": [
+        {
+          "name": "Russell Moore & IIIrd Tyme Out",
+          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
+        }
+      ],
+      "duration_ms": 156536,
+      "name": "Heading East to West Virginia",
+      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Tiny Wooden Box",
-        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
-      },
-      "artists": [
-        {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
-        }
-      ],
-      "duration_ms": 247813,
-      "name": "Tiny Wooden Box",
-      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "The Stray Birds",
         "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 301586,
       "name": "Give That Wildman a Knife/ Bellows Falls/ Waitin' On a Hannah",
       "url": "https://open.spotify.com/track/7lNq4xjEtOVBfLdlU48g6T"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Tiny Wooden Box",
+        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "duration_ms": 247813,
+      "name": "Tiny Wooden Box",
+      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Morning Shift",
-        "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 263216,
-      "name": "Morning Shift",
-      "url": "https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 195573,
       "name": "Down the Road",
       "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Morning Shift",
+        "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 263216,
+      "name": "Morning Shift",
+      "url": "https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Into the Fire",
         "url": "https://open.spotify.com/album/11VbCENTERIqVpyGyBzZDT"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 158779,
       "name": "Into the Fire",
       "url": "https://open.spotify.com/track/0RjqoAsp5jmUVliLaCWuvt"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "This Valley",
-        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
-      },
-      "artists": [
-        {
-          "name": "Calamity Jane",
-          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
-        }
-      ],
-      "duration_ms": 255505,
-      "name": "This Valley",
-      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Disarm",
         "url": "https://open.spotify.com/album/2aqRa79t97SrXRvmpmu6zn"
       },
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "This Valley",
+        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
+      },
+      "artists": [
+        {
+          "name": "Calamity Jane",
+          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
+        }
+      ],
+      "duration_ms": 255505,
+      "name": "This Valley",
+      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
       },
@@ -1407,6 +1407,26 @@
       "duration_ms": 216950,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Mr. Charlie",
+        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        },
+        {
+          "name": "Josh Shilling",
+          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
+        }
+      ],
+      "duration_ms": 273627,
+      "name": "Mr. Charlie",
+      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1451,58 +1471,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Mr. Charlie",
-        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        },
-        {
-          "name": "Josh Shilling",
-          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
-        }
-      ],
-      "duration_ms": 273627,
-      "name": "Mr. Charlie",
-      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Heartbreak Train",
-        "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
-      },
-      "artists": [
-        {
-          "name": "Caroline Owens",
-          "url": "https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE"
-        }
-      ],
-      "duration_ms": 160471,
-      "name": "Heartbreak Train",
-      "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Railroadin' & Gamblin'",
-        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
-      },
-      "artists": [
-        {
-          "name": "East Nash Grass",
-          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
-        }
-      ],
-      "duration_ms": 173237,
-      "name": "Railroadin' & Gamblin'",
-      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Love Train",
         "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
       },
@@ -1523,6 +1491,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "Railroadin' & Gamblin'",
+        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
+      },
+      "artists": [
+        {
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+        }
+      ],
+      "duration_ms": 173237,
+      "name": "Railroadin' & Gamblin'",
+      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "Saltbush Express",
         "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
       },
@@ -1535,6 +1519,38 @@
       "duration_ms": 171823,
       "name": "Saltbush Express",
       "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Heartbreak Train",
+        "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
+      },
+      "artists": [
+        {
+          "name": "Caroline Owens",
+          "url": "https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE"
+        }
+      ],
+      "duration_ms": 160471,
+      "name": "Heartbreak Train",
+      "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Kinetic Tone",
+        "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
+      },
+      "artists": [
+        {
+          "name": "Balsam Range",
+          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Kinetic Tone",
-        "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
+        "name": "Reason To Believe",
+        "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
       },
       "artists": [
         {
-          "name": "Balsam Range",
-          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
         }
       ],
-      "duration_ms": 292000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
+      "duration_ms": 173688,
+      "name": "Reason To Believe",
+      "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1643,38 +1659,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Reason To Believe",
-        "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
-      },
-      "artists": [
-        {
-          "name": "The Seldom Scene",
-          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
-        }
-      ],
-      "duration_ms": 173688,
-      "name": "Reason To Believe",
-      "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Blues of the Night",
-        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Blues of the Night",
-      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Something You Didn't Count On",
         "url": "https://open.spotify.com/album/5hzGAHLOIWKud7WIHsQZtd"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 279506,
       "name": "Sandhill Cranes",
       "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Blues of the Night",
+        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Blues of the Night",
+      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Mary Ann is a Pistol",
-        "url": "https://open.spotify.com/album/4ELCAWPMPJn0WhWa1rbM0z"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Mary Ann is a Pistol",
-      "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Kentucky Highway",
         "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
       },
@@ -1803,6 +1787,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "The North Side",
+        "url": "https://open.spotify.com/album/0O8huJY762BUgfv7VbtnSE"
+      },
+      "artists": [
+        {
+          "name": "Blue Highway",
+          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
+        }
+      ],
+      "duration_ms": 194481,
+      "name": "The North Side",
+      "url": "https://open.spotify.com/track/3PaupMyPQ6dKZqED5Ic2ss"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "Abigail",
         "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
       },
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "The North Side",
-        "url": "https://open.spotify.com/album/0O8huJY762BUgfv7VbtnSE"
+        "name": "I'd Rather Be Alone",
+        "url": "https://open.spotify.com/album/2n8n1ij2BvFF9QZXUpm8ge"
       },
       "artists": [
         {
-          "name": "Blue Highway",
-          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 194481,
-      "name": "The North Side",
-      "url": "https://open.spotify.com/track/3PaupMyPQ6dKZqED5Ic2ss"
+      "duration_ms": 210998,
+      "name": "I'd Rather Be Alone",
+      "url": "https://open.spotify.com/track/4nII4gGx7Vd2o6EmGuEX49"
     }
   ],
   "unique_name": "Grass Roots",

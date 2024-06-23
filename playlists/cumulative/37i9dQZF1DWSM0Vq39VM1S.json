@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 324253,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/70a8PRbdLuwLVgVnwucYx0"
@@ -1948,6 +1948,24 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
+    },
+    {
+      "album": {
+        "name": "Rails of the Night",
+        "url": "https://open.spotify.com/album/7pYyi4rilAKFda806Y85VS"
+      },
+      "artists": [
+        {
+          "name": "Kids Return",
+          "url": "https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Rails of the Night",
+      "url": "https://open.spotify.com/track/57qJCSxKFD5Q4tpR3EJDwC"
     },
     {
       "album": {

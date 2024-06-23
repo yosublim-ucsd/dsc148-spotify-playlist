@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 271729,
       "name": "Affection - Radio Edit",
       "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
@@ -1548,6 +1548,24 @@
       "duration_ms": 526672,
       "name": "How It Makes You Feel",
       "url": "https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK"
+    },
+    {
+      "album": {
+        "name": "How You Move",
+        "url": "https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169614,
+      "name": "How You Move - Edit",
+      "url": "https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x"
     },
     {
       "album": {

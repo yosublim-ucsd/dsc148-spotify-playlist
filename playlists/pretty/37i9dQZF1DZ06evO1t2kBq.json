@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 76707,
+  "num_followers": 76741,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAACHV+5OUP0s5lB25SgK/fZ0",
+  "snapshot_id": "ZnTCgAAAAAB4CckZByqQJnvylIm7r5h6",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 105826,
-      "name": "Do The Paranoid Style",
-      "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
+      "duration_ms": 165075,
+      "name": "Candidate",
+      "url": "https://open.spotify.com/track/3NpXeqnYkOGLSZNsG9SfTj"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 165075,
-      "name": "Candidate",
-      "url": "https://open.spotify.com/track/3NpXeqnYkOGLSZNsG9SfTj"
+      "duration_ms": 105826,
+      "name": "Do The Paranoid Style",
+      "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
     },
     {
       "added_at": null,

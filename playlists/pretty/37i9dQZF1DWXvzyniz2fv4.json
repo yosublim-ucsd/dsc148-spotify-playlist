@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157880,
+  "num_followers": 157895,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
-        "name": "Pra Voc\u00ea Ficar",
-        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        }
-      ],
-      "duration_ms": 160819,
-      "name": "Pra Voc\u00ea Ficar",
-      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
         "name": "Sua Boca",
         "url": "https://open.spotify.com/album/713CT4lO8XlIET42xTkGfd"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 147692,
       "name": "Sua Boca",
       "url": "https://open.spotify.com/track/6uQBN4yMHx5RylUXXrEnfg"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
+        "name": "Pra Voc\u00ea Ficar",
+        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        }
+      ],
+      "duration_ms": 160819,
+      "name": "Pra Voc\u00ea Ficar",
+      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
     },
     {
       "added_at": "2024-06-21 16:06:09",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
+        "name": "Minha Mina \u00e9 Braba",
+        "url": "https://open.spotify.com/album/6mtPlDFW6xquEHzgIICgx6"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Minha Mina \u00e9 Braba",
+      "url": "https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
         "name": "Ir Embora",
         "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
       },
@@ -1275,6 +1291,22 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+      },
+      "artists": [
+        {
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
         "name": "Girl From Ipanema",
         "url": "https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T"
       },
@@ -1295,22 +1327,6 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
-      },
-      "artists": [
-        {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
         "name": "Mist\u00e9rio",
         "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 142105,
       "name": "Mist\u00e9rio",
       "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
-        "name": "Minha Mina \u00e9 Braba",
-        "url": "https://open.spotify.com/album/6mtPlDFW6xquEHzgIICgx6"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Minha Mina \u00e9 Braba",
-      "url": "https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU"
     },
     {
       "added_at": "2024-06-21 16:06:09",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
         "name": "Meia Hora",
         "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
@@ -1683,26 +1699,6 @@
       "duration_ms": 197142,
       "name": "Meia Hora",
       "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     }
   ],
   "unique_name": "Resenha na Praia",

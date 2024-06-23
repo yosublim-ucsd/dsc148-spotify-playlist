@@ -2,7 +2,7 @@
 
 ### [SUBSHIFT SELECTS ](https://open.spotify.com/playlist/2vpAyuy9HOTPjygPl63QuH)
 
-> The freshest tech house &amp; techno music \| Submit via Instagram: @subshiftmusic
+> The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
 1,862 songs - 4 day 9 hr 33 min
 

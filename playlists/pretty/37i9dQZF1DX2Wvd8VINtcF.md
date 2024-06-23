@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: Disclosure
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,623 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,646 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 27 | [luv stuck](https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 2:40 |
 | 28 | [havet](https://open.spotify.com/track/5wJf2MmIa9zSK5VrztQA9B) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [havet](https://open.spotify.com/album/6fQ0pD1xd66tZki5Znw37L) | 3:19 |
 | 29 | [Treat Each Other Right](https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Treat Each Other Right](https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B) | 4:00 |
-| 30 | [Care](https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Care](https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow) | 4:04 |
+| 30 | [Care](https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Care](https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow) | 4:04 |
 | 31 | [PULL UP](https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [PULL UP](https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9) | 2:20 |
 | 32 | [Grey Scale](https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Grey Scale](https://open.spotify.com/album/2PcTdFPrOWM28ffy1e8cY6) | 2:59 |
 | 33 | [It Is What It Is](https://open.spotify.com/track/6273C9RPgcUfhYA3yo9ppM) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 2:59 |

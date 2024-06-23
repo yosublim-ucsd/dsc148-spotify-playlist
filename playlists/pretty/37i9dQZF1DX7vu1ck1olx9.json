@@ -1,6 +1,6 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 80538,
+  "num_followers": 80569,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "butter",
-        "url": "https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS"
-      },
-      "artists": [
-        {
-          "name": "lilibu",
-          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
-        }
-      ],
-      "duration_ms": 138904,
-      "name": "butter",
-      "url": "https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "random thoughts",
         "url": "https://open.spotify.com/album/1Ci3Z0UfK2ehgnpudw86x4"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 135000,
       "name": "random thoughts",
       "url": "https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "butter",
+        "url": "https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "duration_ms": 138904,
+      "name": "butter",
+      "url": "https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "roadtrip",
-        "url": "https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu"
-      },
-      "artists": [
-        {
-          "name": "Trixie Muff",
-          "url": "https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "roadtrip",
-      "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "Gloom",
         "url": "https://open.spotify.com/album/2ZBpfVQ6ML1drkMltgRQTN"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 152258,
       "name": "Gloom",
       "url": "https://open.spotify.com/track/2JRn07cPxiOqz1AQqeJ3U5"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "roadtrip",
+        "url": "https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu"
+      },
+      "artists": [
+        {
+          "name": "Trixie Muff",
+          "url": "https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "roadtrip",
+      "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "midday walks",
-        "url": "https://open.spotify.com/album/16zVhoL5I0dzAVFwpBd2Tn"
-      },
-      "artists": [
-        {
-          "name": "With All Respect",
-          "url": "https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O"
-        }
-      ],
-      "duration_ms": 125522,
-      "name": "midday walks",
-      "url": "https://open.spotify.com/track/7FQ9mXcFQs6HbgrQO4N0eB"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "stars",
         "url": "https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 132512,
       "name": "stars",
       "url": "https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "midday walks",
+        "url": "https://open.spotify.com/album/16zVhoL5I0dzAVFwpBd2Tn"
+      },
+      "artists": [
+        {
+          "name": "With All Respect",
+          "url": "https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O"
+        }
+      ],
+      "duration_ms": 125522,
+      "name": "midday walks",
+      "url": "https://open.spotify.com/track/7FQ9mXcFQs6HbgrQO4N0eB"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "Sense Of Self",
-        "url": "https://open.spotify.com/album/6sTa0ytIQ03s3Xet4IlbHE"
-      },
-      "artists": [
-        {
-          "name": "Dreams On Vinyl",
-          "url": "https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw"
-        }
-      ],
-      "duration_ms": 131396,
-      "name": "Sense Of Self",
-      "url": "https://open.spotify.com/track/1LOnJk5qLdfmyNDCpyp7gk"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "fingerlock",
         "url": "https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 126500,
       "name": "fingerlock",
       "url": "https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "Sense Of Self",
+        "url": "https://open.spotify.com/album/6sTa0ytIQ03s3Xet4IlbHE"
+      },
+      "artists": [
+        {
+          "name": "Dreams On Vinyl",
+          "url": "https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw"
+        }
+      ],
+      "duration_ms": 131396,
+      "name": "Sense Of Self",
+      "url": "https://open.spotify.com/track/1LOnJk5qLdfmyNDCpyp7gk"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "Drow-Z",
-        "url": "https://open.spotify.com/album/3PsQtnHRTwzcXTydoCWX7V"
-      },
-      "artists": [
-        {
-          "name": "Hype Right",
-          "url": "https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4"
-        }
-      ],
-      "duration_ms": 165125,
-      "name": "Drow-Z",
-      "url": "https://open.spotify.com/track/1IAGdL9gWU2YZ20dMCmTUT"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "green velvet",
         "url": "https://open.spotify.com/album/2B893F73aIVF7MJ36y9evq"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 131625,
       "name": "green velvet",
       "url": "https://open.spotify.com/track/6v5wgMNhYbZk92SPY88lNm"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "Drow-Z",
+        "url": "https://open.spotify.com/album/3PsQtnHRTwzcXTydoCWX7V"
+      },
+      "artists": [
+        {
+          "name": "Hype Right",
+          "url": "https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4"
+        }
+      ],
+      "duration_ms": 165125,
+      "name": "Drow-Z",
+      "url": "https://open.spotify.com/track/1IAGdL9gWU2YZ20dMCmTUT"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "sleepy hat",
-        "url": "https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ"
-      },
-      "artists": [
-        {
-          "name": "Blue Bag",
-          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "sleepy hat",
-      "url": "https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "Across The Universe",
         "url": "https://open.spotify.com/album/3H5XRl7AwZMjYp42N5G3QQ"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 133359,
       "name": "Across The Universe",
       "url": "https://open.spotify.com/track/43tzeUUB5WRL4jPaXSjfgG"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "sleepy hat",
+        "url": "https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ"
+      },
+      "artists": [
+        {
+          "name": "Blue Bag",
+          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "sleepy hat",
+      "url": "https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -1803,6 +1803,38 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
+        "name": "roaming roads",
+        "url": "https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "duration_ms": 156416,
+      "name": "roaming roads",
+      "url": "https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/0Odh9MaSEKZD5C9bn5ZPfG"
+      },
+      "artists": [
+        {
+          "name": "Asokiah",
+          "url": "https://open.spotify.com/artist/4uGUzUAhZFtLDYLCR6THc5"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/08fWv17k9llzVRJ4hxq2aX"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
         "name": "I Have No Memory",
         "url": "https://open.spotify.com/album/323IPryFsAmds54ILSz8lb"
       },
@@ -1835,22 +1867,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "roaming roads",
-        "url": "https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0"
-      },
-      "artists": [
-        {
-          "name": "knock on wood",
-          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
-        }
-      ],
-      "duration_ms": 156416,
-      "name": "roaming roads",
-      "url": "https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "Dreemin'",
         "url": "https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 131641,
       "name": "Dreemin'",
       "url": "https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/0Odh9MaSEKZD5C9bn5ZPfG"
-      },
-      "artists": [
-        {
-          "name": "Asokiah",
-          "url": "https://open.spotify.com/artist/4uGUzUAhZFtLDYLCR6THc5"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/08fWv17k9llzVRJ4hxq2aX"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -1911,6 +1911,22 @@
       "duration_ms": 215713,
       "name": "memory",
       "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "Under the Moon",
+        "url": "https://open.spotify.com/album/1FIsq8iNelMqHuXctToihT"
+      },
+      "artists": [
+        {
+          "name": "Tropicolor",
+          "url": "https://open.spotify.com/artist/0C33MFjaSg48bmzyUkSAoO"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Under the Moon",
+      "url": "https://open.spotify.com/track/2f1ksx2y6I207HVlilYBBZ"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -2027,18 +2043,18 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "Under the Moon",
-        "url": "https://open.spotify.com/album/1FIsq8iNelMqHuXctToihT"
+        "name": "the eagle",
+        "url": "https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd"
       },
       "artists": [
         {
-          "name": "Tropicolor",
-          "url": "https://open.spotify.com/artist/0C33MFjaSg48bmzyUkSAoO"
+          "name": "karlaplan.",
+          "url": "https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr"
         }
       ],
-      "duration_ms": 126000,
-      "name": "Under the Moon",
-      "url": "https://open.spotify.com/track/2f1ksx2y6I207HVlilYBBZ"
+      "duration_ms": 132000,
+      "name": "the eagle",
+      "url": "https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -2055,22 +2071,6 @@
       "duration_ms": 138275,
       "name": "Sleep Under My Eyes",
       "url": "https://open.spotify.com/track/0L6QuUvDYVgsfOcYj8lxoV"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
-        "name": "the eagle",
-        "url": "https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd"
-      },
-      "artists": [
-        {
-          "name": "karlaplan.",
-          "url": "https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "the eagle",
-      "url": "https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch"
     },
     {
       "added_at": "2024-06-13 08:25:52",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2024-06-13 08:25:52",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/26Su9YAaY4v3OnZUakw4aU"
-      },
-      "artists": [
-        {
-          "name": "HLY WUD",
-          "url": "https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S"
-        }
-      ],
-      "duration_ms": 139615,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/02fGPghQgifZrjNwcASSh4"
-    },
-    {
-      "added_at": "2024-06-13 08:25:52",
-      "album": {
         "name": "Eternal Sunshine",
         "url": "https://open.spotify.com/album/1Cj58FWzBJlgJS6HcEjKVo"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 128000,
       "name": "Eternal Sunshine",
       "url": "https://open.spotify.com/track/3IjcC1K1Iu3Vv4KMQYL2tM"
+    },
+    {
+      "added_at": "2024-06-13 08:25:52",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/26Su9YAaY4v3OnZUakw4aU"
+      },
+      "artists": [
+        {
+          "name": "HLY WUD",
+          "url": "https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S"
+        }
+      ],
+      "duration_ms": 139615,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/02fGPghQgifZrjNwcASSh4"
     },
     {
       "added_at": "2024-06-13 08:25:52",

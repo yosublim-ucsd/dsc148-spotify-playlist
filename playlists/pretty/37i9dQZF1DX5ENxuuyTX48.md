@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: LAYYI
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,550 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,559 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 22 | [In Love With A Stranger \(Remake\)](https://open.spotify.com/track/1UDSrM6Aok7nFeFal7EBpa) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [In Love With A Stranger \(Remake\)](https://open.spotify.com/album/3XuN7gq843sayU9PbM7ROv) | 2:43 |
 | 23 | [BUSSDOWN](https://open.spotify.com/track/1ysZrTXCyxKWherTLuYZDr) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby), [JOEK](https://open.spotify.com/artist/5g56MfDPgNTw978k4KwCNE) | [BUSSDOWN](https://open.spotify.com/album/12nyRS91N6oD8DgXuRg50H) | 2:42 |
 | 24 | [Prahara](https://open.spotify.com/track/3F6P7UGLcmWP3Y0unbtGu0) | [Megat Fazly](https://open.spotify.com/artist/5T7mLmD9Kv0apxOrdTsace), [Ilmare](https://open.spotify.com/artist/4cvaaOmF17g4YmL5OF7SAL) | [Prahara](https://open.spotify.com/album/2zhkrwmxLHbAYHDi4LeYiF) | 4:58 |
-| 25 | [Tak Tentu](https://open.spotify.com/track/6NMvaa57gp5Pfw692yl2TN) | [etto](https://open.spotify.com/artist/5qscbO7TSjfCuOvz2kQHsl) | [Tak Tentu](https://open.spotify.com/album/6gkNz699XZkRW08lrzHNll) | 3:47 |
+| 25 | [Tak Tentu](https://open.spotify.com/track/6NMvaa57gp5Pfw692yl2TN) | [etto](https://open.spotify.com/artist/3nclN60uLT0pToquQDLN6U) | [Tak Tentu](https://open.spotify.com/album/6gkNz699XZkRW08lrzHNll) | 3:47 |
 | 26 | [BURGEON](https://open.spotify.com/track/7s3ND5UgLYSaUHyPiuq8he) | [zekke](https://open.spotify.com/artist/2tc63PQNdNFqJb2caym6IZ) | [BURGEON](https://open.spotify.com/album/1WJ0AzAcvAnELH8G8Is4nB) | 1:16 |
 | 27 | [Laila](https://open.spotify.com/track/4IZQCYvL0zvDXDDAxvGE49) | [DUKES](https://open.spotify.com/artist/1KhiHfllvx27hGdOK6kPER) | [Laila](https://open.spotify.com/album/2AK9UOC9HBoGTJUfVGPnBR) | 4:00 |
 | 28 | [Gemini](https://open.spotify.com/track/5AO08KiShi5dNmRVc6Uguf) | [Oakë](https://open.spotify.com/artist/5FFEE3urupCaWwOzfAfV4I) | [Gemini](https://open.spotify.com/album/5kdnahOziFOxF1VsfTm9N5) | 3:30 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 36 | [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 |
 | 37 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
 | 38 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 |
-| 39 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 |
-| 40 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |
+| 39 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 |
+| 40 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 |
 | 41 | [Tak Selalu Memiliki \- Ipar Adalah Maut Original Soundtrack](https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Selalu Memiliki \(Ipar Adalah Maut Original Soundtrack\)](https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu) | 4:20 |
-| 42 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 |
+| 42 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |
 | 43 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 |
 | 44 | [Satu\-Satu](https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 4:45 |
 | 45 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 |

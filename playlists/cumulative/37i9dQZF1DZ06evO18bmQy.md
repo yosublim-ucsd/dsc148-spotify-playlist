@@ -2,7 +2,7 @@
 
 ### [This Is Djonga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO18bmQy)
 
-> This is Djonga\. The essential tracks, all in one playlist.
+> This Is Djonga\. Los temas esenciales, todos en una lista.
 
 75 songs - 5 hr 4 min
 
@@ -37,7 +37,7 @@
 | [em quase tudo](https://open.spotify.com/track/26EFuKUDqQKLc4BStNDnHh) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:17 | 2023-09-18 |  |
 | [Esquimó](https://open.spotify.com/track/0LMO2d7QubdqrRXuQGvtfQ) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 4:16 | 2023-09-18 | 2023-11-11 |
 | [Eu](https://open.spotify.com/track/0GTPvFFQDJdBzdy1mGew4m) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 5:10 | 2023-09-18 | 2024-02-14 |
-| [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q) | 4:02 | 2023-09-18 |  |
+| [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Malak](https://open.spotify.com/artist/6ujnZ179RF3lS79ZBAMObr) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q) | 4:02 | 2023-09-18 |  |
 | [Eu Não Sou Tão Bom Assim \- Ao Vivo](https://open.spotify.com/track/0KVsFLoEwauzCM6A7jxXPp) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 3:57 | 2023-12-19 | 2024-05-12 |
 | [FALCÃO](https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 3:42 | 2023-09-18 |  |
 | [favela venceu \- citação "Rap das Armas" \(MC Junior / MC Leonardo\) \- Remix](https://open.spotify.com/track/54wceMXtQFk0PXorm1qNrX) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [BAKKARI](https://open.spotify.com/artist/0vWsNWKmv6lXgRQa9L2vld) | [favela venceu \- citação "Rap das Armas" \(MC Junior / MC Leonardo\) \[Remix\]](https://open.spotify.com/album/7vvSwqUZEexMXew07XfEhx) | 3:42 | 2023-10-04 | 2023-11-11 |

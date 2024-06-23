@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Derxan
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,174 likes - 74 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,183 likes - 74 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 4 | [Jóias do Bairro](https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Jóias do Bairro](https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ) | 2:51 |
 | 5 | [Royalties](https://open.spotify.com/track/7z2OOBDHZiZghqOxmW7Smo) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa), [Xuvisco na Batida](https://open.spotify.com/artist/6VrxgJBSxnIguMCptNFYXa), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Royalties](https://open.spotify.com/album/46xcEsF2vogEu0cn6fcg33) | 3:12 |
 | 6 | [Brasil de Quem? 7](https://open.spotify.com/track/2UeLa5dUZeNOysVJMi97j6) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Brasil de Quem? 7](https://open.spotify.com/album/6N2yPmWP91o6EiZU7rPkI7) | 3:39 |
-| 7 | [SÃO PAULO](https://open.spotify.com/track/37srJxBv0dfjmyvbX7xMAh) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn) | [Só Vilão, Aqui Não Tem Herói](https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt) | 2:53 |
+| 7 | [SÃO PAULO](https://open.spotify.com/track/37srJxBv0dfjmyvbX7xMAh) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [AK1N](https://open.spotify.com/artist/2b5gGLycbRqRXtC6Ylaw4j) | [Só Vilão, Aqui Não Tem Herói](https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt) | 2:53 |
 | 8 | [Lote 88](https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Lote 88](https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY) | 3:42 |
 | 9 | [Frágil](https://open.spotify.com/track/17y0Tr9GX1MrNLMWX0m8fg) | [12boishawty](https://open.spotify.com/artist/6ZotjcGWd1XXzbJbu7r1hK), [Young Hades](https://open.spotify.com/artist/4zxU9WPobQlLVJ6BXlbAal) | [Frágil](https://open.spotify.com/album/7qEz9AFcTLLavxlozVtQWB) | 3:03 |
 | 10 | [até sua alma](https://open.spotify.com/track/7CW1spLNtlpsLXpxpZu78C) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 5:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,056 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,071 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 50 | [Estar Com Você \- Acústico](https://open.spotify.com/track/6RhGK2a9CBRBhkM8IrAbFy) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Emmano](https://open.spotify.com/artist/4kexQ10G1LH3GVukrGooaq) | [Acústico Helio Bentes](https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh) | 2:56 |
 | 51 | [Solstício de Verão \- Acústico](https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Solstício de Verão \(acústico\)](https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw) | 3:11 |
 | 52 | [Nesses Olhos \- Ao Vivo](https://open.spotify.com/track/5BeOmmGoxAvDus9Ozpc0MI) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:44 |
-| 53 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x), [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7) | [A Cera \(Acústico\)](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
-| 54 | [Reggae de Barão \- Acústico](https://open.spotify.com/track/1eZq0aDtVF4JOe1OMXCQKo) | [Da Vula Band](https://open.spotify.com/artist/4foXml2ME1mqHJ6i8DDhdA) | [Flow and Slow \(Acústico\)](https://open.spotify.com/album/5Rb8yyhD4wFRbzGJxK2UOM) | 3:42 |
+| 53 | [Reggae de Barão \- Acústico](https://open.spotify.com/track/1eZq0aDtVF4JOe1OMXCQKo) | [Da Vula Band](https://open.spotify.com/artist/4foXml2ME1mqHJ6i8DDhdA) | [Flow and Slow \(Acústico\)](https://open.spotify.com/album/5Rb8yyhD4wFRbzGJxK2UOM) | 3:42 |
+| 54 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x), [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7) | [A Cera \(Acústico\)](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
 | 55 | [Acorda Pra Vida](https://open.spotify.com/track/0pHR15s9OE55dlr3Coi2X1) | [Nazirê](https://open.spotify.com/artist/0v6SZmVraj9p6fs3Zzz3ZO) | [Acorda Pra Vida](https://open.spotify.com/album/2pi1P36f6Y5K7LZHxdg6ef) | 3:33 |
 | 56 | [A Verdade](https://open.spotify.com/track/2bYnxpCsu0GOPCH0VG98mu) | [Acustico Reggae](https://open.spotify.com/artist/7FcAQCTYtDwaJxuImpe7Wh) | [Na Cidade](https://open.spotify.com/album/6PazpBG8UxyQNrf2GFFpSt) | 3:19 |
 | 57 | [Odisséia Na Babilônia \- Ao Vivo](https://open.spotify.com/track/0cUr7yd1UjtyPYwybL4fDi) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 4:12 |

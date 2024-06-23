@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: JELEE \("Jellyfish Can't Swim in the Night"\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,416 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,521 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 47 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 |
 | 48 | [Paradoxes](https://open.spotify.com/track/0j6QFgRZKMHEkvdoOUFG6d) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [Paradoxes](https://open.spotify.com/album/3T8XP1r8dAT0SqKQcizLy2) | 4:36 |
 | 49 | [Scarlet](https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Scarlet](https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh) | 3:19 |
-| 50 | [アンダンテ](https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p) | 3:36 |
+| 50 | [Growing Up](https://open.spotify.com/track/64q5oxmMOMalIqPGII5z4N) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [Growing Up \(TVアニメ『この素晴らしい世界に祝福を！3』オープニング・テーマ\)](https://open.spotify.com/album/1rULsxF6zg96G8kxYrvJkc) | 3:49 |
 
 Snapshot ID: `ZlXxdAAAAADtirEEhfY4ckVVmiK0fYPJ`

@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 49010,
+  "num_followers": 49043,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAAA4S1BdnMC7vYO3Nw1glra3",
+  "snapshot_id": "ZnTCgAAAAADr7nAyGxkvWJNyhRxMuRv3",
   "tracks": [
     {
       "added_at": null,
@@ -246,11 +246,15 @@
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
         }
       ],
-      "duration_ms": 133066,
-      "name": "Maji Yoroshiku",
-      "url": "https://open.spotify.com/track/6Wymz2GOKcsAkLF9eBC6lE"
+      "duration_ms": 159306,
+      "name": "Drama (feat. MILLI)",
+      "url": "https://open.spotify.com/track/0sh3PY1clLciTdqxe5ZZge"
     },
     {
       "added_at": null,
@@ -310,15 +314,11 @@
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        },
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
         }
       ],
-      "duration_ms": 159306,
-      "name": "Drama (feat. MILLI)",
-      "url": "https://open.spotify.com/track/0sh3PY1clLciTdqxe5ZZge"
+      "duration_ms": 133066,
+      "name": "Maji Yoroshiku",
+      "url": "https://open.spotify.com/track/6Wymz2GOKcsAkLF9eBC6lE"
     },
     {
       "added_at": null,

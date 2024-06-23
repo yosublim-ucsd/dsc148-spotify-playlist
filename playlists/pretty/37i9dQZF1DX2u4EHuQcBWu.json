@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 193917,
+  "num_followers": 193977,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Guarever",
+        "url": "https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF"
+      },
+      "artists": [
+        {
+          "name": "Aguas Ardientes",
+          "url": "https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc"
+        }
+      ],
+      "duration_ms": 284164,
+      "name": "5 Malparidos",
+      "url": "https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Spinetta y Las Bandas Eternas",
         "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 101693,
       "name": "Maribel Se Durmi\u00f3 (En Vivo Estadio V\u00e9lez Sarsfield)",
       "url": "https://open.spotify.com/track/0HKZd2VwQpkGnjGLoicqb1"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "La Cultura De La Basura",
-        "url": "https://open.spotify.com/album/6F8tryCHsDT71FSpAyhoJF"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 482333,
-      "name": "Poder Elegir",
-      "url": "https://open.spotify.com/track/6edlQ6CiXrbX8Y2zgsH9mS"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

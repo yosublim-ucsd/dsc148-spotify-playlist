@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Post Malone and Blake Shelton, Lainey Wilson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,235 likes - 69 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,564 likes - 69 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 19 | [After Me?](https://open.spotify.com/track/7fTZ1peoDmIZtpdnVe8m5G) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [After Me?](https://open.spotify.com/album/2uXVVL02SJGNLxy1tGdGKP) | 3:03 |
 | 20 | [Self\-Sabotage](https://open.spotify.com/track/27YKliutuCztPeQOJ1YOK3) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Self\-Sabotage](https://open.spotify.com/album/2nCyXWfNlblZdPtnp36PE9) | 2:42 |
 | 21 | [Go Big or Go Home](https://open.spotify.com/track/6JjheO5Bru66xj2AYfnr64) | [El Ray](https://open.spotify.com/artist/32pa3a2Tu9C4TmrAtN6cyO), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Go Big or Go Home](https://open.spotify.com/album/4HuBEhVqEynRN8aBSGwtvt) | 3:05 |
-| 22 | [She's Going to Town](https://open.spotify.com/track/78F8PiL3RkGFDZSqd7cgrd) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [She's Going to Town](https://open.spotify.com/album/0FAosiDW3mzHWimPIMVjVH) | 2:22 |
+| 22 | [She's Going To Town](https://open.spotify.com/track/78F8PiL3RkGFDZSqd7cgrd) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [She's Going To Town](https://open.spotify.com/album/0FAosiDW3mzHWimPIMVjVH) | 2:22 |
 | 23 | [Settlin' Kind](https://open.spotify.com/track/4QbOaT86OpSoHP84njEeCy) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Quarter Life Crisis](https://open.spotify.com/album/18Xr0Gx7Txglgnktvc1m7E) | 2:57 |
 | 24 | [Midnight Train](https://open.spotify.com/track/1sYwReHpKNZFjbZwg8DYJ5) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Midnight Train](https://open.spotify.com/album/7v0R3q3ywo6C0z0b3FGBb5) | 3:51 |
 | 25 | [North Carolina](https://open.spotify.com/track/7fGZAEGa9r22iudcZbHeYr) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [North Carolina](https://open.spotify.com/album/4SmXxNVGWyvGOg36tZDDUp) | 3:13 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 47 | [She Comes on Strong](https://open.spotify.com/track/2sCvQ4IOvdANejNAvhI31j) | [Matt Jordan](https://open.spotify.com/artist/42o4AcPbHwxBYJm1MK7OqC) | [Low Lights \(Deluxe Edition\)](https://open.spotify.com/album/3SqjkUFvRfuLmVy2jYkSHU) | 3:03 |
 | 48 | [Slow Burn](https://open.spotify.com/track/3P3L6ZGzGHUE3TcarR5f3z) | [Lane Smith](https://open.spotify.com/artist/2NAFBYpHLQhucaNUoUI3g2) | [Slow Burn](https://open.spotify.com/album/2toSVeR0sZ8mRacDWszKKF) | 3:28 |
 | 49 | [You Can't Buy Me](https://open.spotify.com/track/3qKGflcNmsP1PgPdZsi3it) | [Allison Daniels](https://open.spotify.com/artist/54OOcbHzemUIYga3Z351Kq) | [You Can't Buy Me](https://open.spotify.com/album/4rxu3NgIQKtnnpldaXdstk) | 3:12 |
-| 50 | [That's Us](https://open.spotify.com/track/6jCbUdSMecC7sQscPhgAAx) | [Styles Haury](https://open.spotify.com/artist/57sVUbHm2z4eBvAnexnZEG) | [That's Us](https://open.spotify.com/album/1mFUBRqdjVQWjUCgbHJCFY) | 3:11 |
+| 50 | [That's Us](https://open.spotify.com/track/6jCbUdSMecC7sQscPhgAAx) | [Styles.](https://open.spotify.com/artist/3lO4xrI8TahXdWMfVua5dl) | [That's Us](https://open.spotify.com/album/1mFUBRqdjVQWjUCgbHJCFY) | 3:11 |
 | 51 | [Love Don't Walk That Easy](https://open.spotify.com/track/12yldPyU7bCOeTmlnsm3yd) | [Sasha McVeigh](https://open.spotify.com/artist/4yrY81mNjR3hqlOAhu80IQ) | [Love Don't Walk That Easy](https://open.spotify.com/album/10fBhzxW0wyCC6B5wOwNU3) | 3:03 |
 | 52 | [American Dream](https://open.spotify.com/track/0Am9KSzyjb7uExuu6AHhnY) | [BOOMTOWN SAINTS](https://open.spotify.com/artist/53s00dAQvGIkjY33v4d4xZ) | [American Dream](https://open.spotify.com/album/4aQfcUh9dBgW37JQQaNgPu) | 2:50 |
 | 53 | [Dive Bar Baby](https://open.spotify.com/track/1NvC0e5YGMssq9ICch5wEx) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [Dive Bar Baby](https://open.spotify.com/album/7uhLxJQB1q367ATIGm8VvH) | 3:29 |

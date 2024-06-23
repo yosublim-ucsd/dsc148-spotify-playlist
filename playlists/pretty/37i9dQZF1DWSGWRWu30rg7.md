@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Deanda
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,518 likes - 84 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,522 likes - 84 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Maumu Apa](https://open.spotify.com/track/38OeRntmd4MLNMqvNvKhAV) | [Deanda](https://open.spotify.com/artist/6oJPWrK6sRuygfZ1b58SfB) | [Maumu Apa](https://open.spotify.com/album/3Oh5BqgERsTszkYk2FFrID) | 3:51 |
-| 2 | [Tak Tentu](https://open.spotify.com/track/6NMvaa57gp5Pfw692yl2TN) | [etto](https://open.spotify.com/artist/5qscbO7TSjfCuOvz2kQHsl) | [Tak Tentu](https://open.spotify.com/album/6gkNz699XZkRW08lrzHNll) | 3:47 |
+| 2 | [Tak Tentu](https://open.spotify.com/track/6NMvaa57gp5Pfw692yl2TN) | [etto](https://open.spotify.com/artist/3nclN60uLT0pToquQDLN6U) | [Tak Tentu](https://open.spotify.com/album/6gkNz699XZkRW08lrzHNll) | 3:47 |
 | 3 | [Bersama Denganku](https://open.spotify.com/track/1j6vXU9IYHbyCvBodvIEon) | [2nd Chance](https://open.spotify.com/artist/0cJjGvt4gIVtU1rGL7Q9kT) | [Bersama Denganku](https://open.spotify.com/album/1DJwYxwQIlx4vAQnTLqF7g) | 4:17 |
 | 4 | [Dipersatukan Semesta](https://open.spotify.com/track/56ps7jbVX0iVOwCyieF42M) | [Fredo Aquinaldo](https://open.spotify.com/artist/5XygoDukeHMwxWq0XITRoh) | [Dipersatukan Semesta](https://open.spotify.com/album/5ASMxe2HmlnZ14JiqJNXBB) | 4:06 |
 | 5 | [Pesona Fana](https://open.spotify.com/track/09nI1PAlZwQhg0S1vRBuAy) | [Groovebox Story](https://open.spotify.com/artist/4bHOW2FNQ5JAEWBAQoVQB5), [Adelyna](https://open.spotify.com/artist/7IdcM89sgqM7uBR4M23KZ5) | [Pesona Fana](https://open.spotify.com/album/5THu4JCjwc1F3Akm21cVkG) | 4:27 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 20 | [23](https://open.spotify.com/track/6PLPouH9lk57Kdrb6kbLnt) | [Mentari Novel](https://open.spotify.com/artist/5DsdNBqFCoD43aPV8XhxmQ) | [That Girl](https://open.spotify.com/album/0A8J1Tnh9I7JwMIrEZvwbE) | 3:45 |
 | 21 | [12 Jam Pagi](https://open.spotify.com/track/2p3btrgEb8KgPWBZgRKUxD) | [Perfecta](https://open.spotify.com/artist/28edkSAbQuCNwGGwWg8z0x) | [12 Jam Pagi](https://open.spotify.com/album/7JMpBpWlmg724iBcSela74) | 3:39 |
 | 22 | [That's Why I Lose](https://open.spotify.com/track/6h044ypsZubhKbndjRFwdi) | [NAUC](https://open.spotify.com/artist/6Ij0k9raTSYgnHCYkOaaub) | [That's Why I Lose](https://open.spotify.com/album/1PjA6eIrYO1bSVvjrnmgaR) | 3:35 |
-| 23 | [Denganmu](https://open.spotify.com/track/5p461soYJ343QtPTQYIlJF) | [Dodi Hidayatullah](https://open.spotify.com/artist/5DtLvjtL1gcVENNNoAETCL), [Ray Shareza](https://open.spotify.com/artist/5FbshoTq38tzlL25gymuli) | [Denganmu](https://open.spotify.com/album/7bANRwBWWUo3j4WEuCGYWP) | 4:06 |
+| 23 | [Denganmu](https://open.spotify.com/track/5p461soYJ343QtPTQYIlJF) | [Dodi Hidayatullah](https://open.spotify.com/artist/5DtLvjtL1gcVENNNoAETCL), [Ray Shareza](https://open.spotify.com/artist/5FbshoTq38tzlL25gymuli) | [Denganmu](https://open.spotify.com/album/7bANRwBWWUo3j4WEuCGYWP) | 4:31 |
 | 24 | [OFFSIDE!](https://open.spotify.com/track/5TeRBmCrCwlAL7kkWRSPhi) | [Crayon Cosmos](https://open.spotify.com/artist/22iWhjjaX8kiL2HcPEwdvt) | [OFFSIDE!](https://open.spotify.com/album/5cwZt65k8DAcutPkLCJsjN) | 3:14 |
 | 25 | [More Then This !](https://open.spotify.com/track/2SbRtgT6rHOMMuOW25HLli) | [FOODOMORE](https://open.spotify.com/artist/7pjUcS7PGlN60mkd82n6Wn) | [More Than This !](https://open.spotify.com/album/6PqrDQub3EvIUsmmvqBbaK) | 4:04 |
 | 26 | [Drown & Gone](https://open.spotify.com/track/74peJM8Ctp3KgpLVFErUtu) | [Merindink Disko](https://open.spotify.com/artist/7uORYqO84wkxjXknxCA6k2) | [Denial Feelin'](https://open.spotify.com/album/3ROEtuvkuJD6weBjsfn7L4) | 4:00 |

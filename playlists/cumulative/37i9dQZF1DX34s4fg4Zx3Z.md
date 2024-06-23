@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Minh Huy
 
-1,676 songs - 4 day 2 hr 13 min
+1,677 songs - 4 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Em](https://open.spotify.com/track/64IG25XnkpIwUKiYrLpvoA) | [Ca Ca](https://open.spotify.com/artist/1b5vsEIamSveO3xe3oEMsT), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Em](https://open.spotify.com/album/5dZsNmkzPlmogDfB5S5DBa) | 4:18 | 2024-05-31 |  |
 | [Em ah em ơi](https://open.spotify.com/track/5De0PeCw2yohqLp7woC6Hp) | [Đạt Dope](https://open.spotify.com/artist/00GClaLWFWlgiL2ErXzToa) | [Em ah em ơi](https://open.spotify.com/album/4NryrTPc8NszuswYIxxfRh) | 2:46 | 2022-10-15 | 2023-02-07 |
 | [Em bé cookie](https://open.spotify.com/track/7ev8itwV9go3mIvA26w3r4) | [Híu](https://open.spotify.com/artist/2J5B9kGwZXEaP7Ys4ai9Qz) | [Em bé cookie](https://open.spotify.com/album/00ItuXVNiUwPeLLiAq8TOx) | 2:27 | 2023-08-24 | 2023-09-26 |
+| [em bé mầm](https://open.spotify.com/track/6o1hMXvoBOMdwpSgav24c3) | [Minstu](https://open.spotify.com/artist/56oxFM7GQ14Z02IwpAx1lw) | [em bé mầm](https://open.spotify.com/album/6N4kSUoF7K7moyWFGZuG9n) | 3:09 | 2024-06-23 |  |
 | [Em Chẳng Tìm Thấy Đâu](https://open.spotify.com/track/2kSvUV4QEgVIv09zJEEwzS) | [Non Hanta](https://open.spotify.com/artist/0jcGcJKtH0D3xsdjHHO3KS) | [Em Chẳng Tìm Thấy Đâu](https://open.spotify.com/album/6QCiBQt5Gys1Gs2bTDa5OL) | 2:49 | 2022-06-16 | 2022-06-27 |
 | [Em Chẳng Về](https://open.spotify.com/track/02slgWKLPyZEkc6AwsNKoM) | [Manel](https://open.spotify.com/artist/3GimZFnIH5GgVbT4vAR4ah), [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7) | [Em Chẳng Về](https://open.spotify.com/album/5irxd4UEhxJ8JelUswZ10G) | 3:33 | 2023-11-15 | 2023-11-30 |
 | [Em Co That Khong Day?](https://open.spotify.com/track/2zjBaSJcsSFe3BsBRB89JF) | [boum](https://open.spotify.com/artist/6pbEZvsDqs2SGANNddwtOi) | [Em Co That Khong Day?](https://open.spotify.com/album/0PVqJxCquqe0lBiRisXfPq) | 2:07 | 2024-01-18 | 2024-01-26 |
@@ -649,7 +650,7 @@
 | [Hồi Ức Ta Đã Yêu](https://open.spotify.com/track/3oG2pS2BGxdkTAaIzwIFtR) | [Linh Hương Luz](https://open.spotify.com/artist/2FCxeoDrmuTZmyn8iXlQVB) | [Hồi Ức Ta Đã Yêu](https://open.spotify.com/album/3fTELP4UNHO3tDWfoj42aE) | 3:54 | 2023-03-21 | 2023-04-03 |
 | [Hủy Hoại Một Người](https://open.spotify.com/track/2t4TR4kmZn67IWnuNBmO29) | [Ed.Hast](https://open.spotify.com/artist/6tKesL0hlachfddWwq0Tzm), [TANDAT](https://open.spotify.com/artist/1uKzNHUPXYso6SVeXdeX98), [Melomix](https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw) | [Hủy Hoại Một Người](https://open.spotify.com/album/1hGx5I7igqO7u3LWRzlyhA) | 3:50 | 2022-09-29 | 2023-03-05 |
 | [Hứa](https://open.spotify.com/track/0YCiuLWKTlE9x6lug6e4vG) | [Nguyen Xuan Tung](https://open.spotify.com/artist/7C5XWfY5YHjZpzNvXfLmvJ) | [Hứa](https://open.spotify.com/album/2YYY3umuKQ1R14ALfT9bYi) | 4:58 | 2023-11-09 | 2023-11-30 |
-| [HỨA CHO VUI THÔI](https://open.spotify.com/track/5RiBeTz0vDYwC2xgjCmxnt) | [Cassano](https://open.spotify.com/artist/34xBbPMcvr4EInfpUB0NEo), [MPacific](https://open.spotify.com/artist/14FD1l1CkUVp1VL4z77acy) | [HỨA CHO VUI THÔI](https://open.spotify.com/album/0xVtki7OzoWkp8YDbbdUqF) | 4:15 | 2024-03-14 |  |
+| [HỨA CHO VUI THÔI](https://open.spotify.com/track/5RiBeTz0vDYwC2xgjCmxnt) | [Cassano](https://open.spotify.com/artist/34xBbPMcvr4EInfpUB0NEo), [MPacific](https://open.spotify.com/artist/14FD1l1CkUVp1VL4z77acy) | [HỨA CHO VUI THÔI](https://open.spotify.com/album/0xVtki7OzoWkp8YDbbdUqF) | 4:15 | 2024-03-14 | 2024-06-23 |
 | [Hứa Trước](https://open.spotify.com/track/0dtCSGMhJ4jqkC0yCRjFdT) | [DMYB](https://open.spotify.com/artist/7mRASKVWQFYzG4ODPVpHuE) | [Hứa Trước](https://open.spotify.com/album/3gUQpnM3o103ocF0ddEIoz) | 3:19 | 2022-06-16 | 2022-06-27 |
 | [I Belong To You](https://open.spotify.com/track/6XTkMDQvOFotgTpFqz4CJl) | [Shay N](https://open.spotify.com/artist/2EJzKiSKjtZlgzn7Ql0bsX), [Tọi](https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i) | [I Belong To You](https://open.spotify.com/album/1IRTBwTE6lCqy4JwIqRl33) | 3:55 | 2023-12-22 | 2023-12-30 |
 | [I Luv U Chucamo](https://open.spotify.com/track/4hma9kLDnYKWN15HpHFUTX) | [Hino](https://open.spotify.com/artist/46eYlws2VfnJJsyPk4cP7o), [titie](https://open.spotify.com/artist/2I8garg5B5BsdmetbsXsjG), [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB) | [I Luv U Chucamo](https://open.spotify.com/album/6C1CUjiZMzUVzQrI9EXU90) | 2:59 | 2022-06-22 | 2023-01-06 |

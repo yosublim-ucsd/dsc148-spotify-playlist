@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Victony, Rema, Asake, Black Sherif and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,206 likes - 58 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,431 likes - 58 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 48 | [Champagne Boi](https://open.spotify.com/track/0cFx3LQOHY5dDIxGAFBdBq) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Menace to Society](https://open.spotify.com/album/4vsKGGUiavlDYGsJzggawj) | 2:49 |
 | 49 | [Ja Mi Ja](https://open.spotify.com/track/5j3edLEUYex5G56o4ABTid) | [VAR1](https://open.spotify.com/artist/05TqhaJ6y6uMmhzX8TDikY), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [THE BREAKFAST CLUB](https://open.spotify.com/album/5fztqrblFzXP9pdJQf16oZ) | 2:18 |
 | 50 | [Into The Water](https://open.spotify.com/track/6rB4NvhTRyQWzLzFHliwJz) | [Takara](https://open.spotify.com/artist/0s4pACwkFS6Zo2zKs0YpYx), [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Moondust](https://open.spotify.com/album/3h5aVfuYodkltak1ToOinp) | 3:33 |
-| 51 | [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/7kqlFgn7tqLufAULiv8kJE) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 |
+| 51 | [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 |
 | 52 | [Billiki \- remix](https://open.spotify.com/track/54zHwBEGGG1k5ndsMzDbuW) | [Justina Lee Brown](https://open.spotify.com/artist/1yDOBOX7Q9i9MrFLZgh046) | [BILLIKI EP](https://open.spotify.com/album/4B8neKJWOFj40IXDqAl4nn) | 4:21 |
 | 53 | [What You About](https://open.spotify.com/track/3D4gQVbo72x0SEke0DMGJo) | [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Axgxst](https://open.spotify.com/artist/50GQH8uhvHhH5OdNc676NH) | [What](https://open.spotify.com/album/2A79r6fPs06CKRwbaGCHYV) | 2:58 |
 | 54 | [Atsha](https://open.spotify.com/track/0vKZw2SGfgDZwXhOEqwPwU) | [Hugo Kafumbi](https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te) | [Atsha](https://open.spotify.com/album/1I0N8RHSkhfiTce2OxoLmD) | 2:14 |

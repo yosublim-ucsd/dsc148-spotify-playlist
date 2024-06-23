@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Vulgo FK, Oruam, Tz da Coronel",
-  "num_followers": 138114,
+  "num_followers": 138120,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -631,30 +631,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Mimo Caro",
-        "url": "https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Mc Dena",
-          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Mimo Caro",
-      "url": "https://open.spotify.com/track/3ps209XATTFuOMkokgGywM"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "MAGIC SHOW (DELUXE)",
         "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
       },
@@ -679,6 +655,30 @@
       "duration_ms": 166449,
       "name": "C.E.O'S (B\u00d4NUS TRACK)",
       "url": "https://open.spotify.com/track/0euUJLQsKhMThMKO07qk01"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "Mimo Caro",
+        "url": "https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Mc Dena",
+          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Mimo Caro",
+      "url": "https://open.spotify.com/track/3ps209XATTFuOMkokgGywM"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -1099,30 +1099,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Para\u00ed",
-        "url": "https://open.spotify.com/album/6Fj36lgNubsMrlSFS6hCts"
-      },
-      "artists": [
-        {
-          "name": "Rudies Flacko",
-          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
-        },
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "The Boy",
-          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
-        }
-      ],
-      "duration_ms": 191991,
-      "name": "Para\u00ed",
-      "url": "https://open.spotify.com/track/6Bv13IpSrxL5ukYvEf31im"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "Festa em Ipanema",
         "url": "https://open.spotify.com/album/6f8r4VrSGxX4hvZig077tv"
       },
@@ -1143,6 +1119,30 @@
       "duration_ms": 116624,
       "name": "Festa em Ipanema",
       "url": "https://open.spotify.com/track/3wfWxaxvkHasacHIuUgR6Q"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "Para\u00ed",
+        "url": "https://open.spotify.com/album/6Fj36lgNubsMrlSFS6hCts"
+      },
+      "artists": [
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        }
+      ],
+      "duration_ms": 191991,
+      "name": "Para\u00ed",
+      "url": "https://open.spotify.com/track/6Bv13IpSrxL5ukYvEf31im"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
+        "name": "YSL",
+        "url": "https://open.spotify.com/album/08zOh1LZryOD45PYn1el9p"
+      },
+      "artists": [
+        {
+          "name": "Glaxdow",
+          "url": "https://open.spotify.com/artist/3B9B025GMpqnlHUzkH06Z2"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        }
+      ],
+      "duration_ms": 123427,
+      "name": "YSL",
+      "url": "https://open.spotify.com/track/6szz2cYI6saJ0vxD2rAMQk"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
         "name": "Maturidade",
         "url": "https://open.spotify.com/album/6vPBEJpr7ZvMTBR0GiQL9L"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 142026,
       "name": "Maturidade",
       "url": "https://open.spotify.com/track/7GvJL7IG958R87MphADwR6"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "YSL",
-        "url": "https://open.spotify.com/album/08zOh1LZryOD45PYn1el9p"
-      },
-      "artists": [
-        {
-          "name": "Glaxdow",
-          "url": "https://open.spotify.com/artist/3B9B025GMpqnlHUzkH06Z2"
-        },
-        {
-          "name": "Tropa da W&S",
-          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
-        }
-      ],
-      "duration_ms": 123427,
-      "name": "YSL",
-      "url": "https://open.spotify.com/track/6szz2cYI6saJ0vxD2rAMQk"
     },
     {
       "added_at": "2024-06-21 03:01:00",

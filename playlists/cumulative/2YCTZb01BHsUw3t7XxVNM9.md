@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-481 songs - 1 day 9 hr 34 min
+482 songs - 1 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Poseidon \- Extended Ver.](https://open.spotify.com/track/5aucc4zDDSM1WYPJHrvmn8) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [OVERHEAT](https://open.spotify.com/album/2VRH44lzNZK9sUikj2OXJ8) | 3:40 | 2021-08-13 |  |
 | [PREVAIL](https://open.spotify.com/track/588dTEjalDDFpZZODYzMTf) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [HARDCORE SYNDROME 12](https://open.spotify.com/album/1D5ur2uxXVUy26jo1hgcNR) | 3:58 | 2019-02-03 |  |
 | [Prince of Persia](https://open.spotify.com/track/6lXm1dgGagK2T6WiuHtesl) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [STORYTELLER VOLUME 1](https://open.spotify.com/album/7k3YslPsLaJj8JHEGUtsq7) | 3:49 | 2019-08-27 |  |
+| [PROBLEM](https://open.spotify.com/track/3vryPetz7HjU0ySYtFA2Df) | [SENNA](https://open.spotify.com/artist/6YpkmIr6oAhiCLebOmx2G0) | [PROBLEM](https://open.spotify.com/album/6xor6gN5vTOl1QsRqBqgXF) | 3:48 | 2024-06-22 |  |
 | [Project](https://open.spotify.com/track/24qkYmgtuMZdGXsRdhYXGs) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [HARDCORE SYNDROME 6](https://open.spotify.com/album/5hexfoxV6fafXXqRHqFNmz) | 6:06 | 2019-02-03 |  |
 | [Punish](https://open.spotify.com/track/3YQybVKHCeQR8yXtrYiLkW) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [HARDCORE SYNDROME 15](https://open.spotify.com/album/6Jvb5riOugZZZeIS0aiskO) | 4:32 | 2021-08-29 |  |
 | [Quick Charge](https://open.spotify.com/track/0Jsr1fVZ9CL8OTYPjKW8kA) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Quick Charge](https://open.spotify.com/album/6LiJkLCBQH56Pqy6dPyRSR) | 3:28 | 2022-07-29 |  |

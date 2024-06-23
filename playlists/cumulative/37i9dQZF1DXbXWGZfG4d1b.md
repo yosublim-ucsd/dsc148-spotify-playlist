@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-595 songs - 1 day 11 hr 11 min
+596 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [AVE MARÍA](https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [LA SANTÍSIMA TRINIDAD](https://open.spotify.com/album/42YySIet0Gr5dtERZBsFt0) | 1:58 | 2023-08-04 | 2023-08-19 |
 | [Ayer](https://open.spotify.com/track/74VnW6FcqDA0dIya9myWhA) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [Ayer](https://open.spotify.com/album/4uGoe4piSnx77jxLOJPMKz) | 3:05 | 2022-06-03 | 2023-02-05 |
 | [Azul](https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Azul](https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD) | 2:50 | 2023-08-11 | 2023-10-06 |
-| [Año Nuevo](https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Año Nuevo](https://open.spotify.com/album/4m09ocOHrupQEz7nHA6VBK) | 3:31 | 2023-06-23 |  |
+| [Año Nuevo](https://open.spotify.com/track/09cXnDoBkKnabWnmkb5xmQ) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Año Nuevo](https://open.spotify.com/album/4m09ocOHrupQEz7nHA6VBK) | 3:31 | 2023-06-23 | 2024-06-23 |
 | [Año Viejo](https://open.spotify.com/track/59kbsKYSbQmVOZDDBuDKAI) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH) | [Año Viejo](https://open.spotify.com/album/78aEkXgwwwoEY6764Saus9) | 5:10 | 2022-07-01 | 2022-07-29 |
 | [Bailando tristes](https://open.spotify.com/track/6ZMqp7LzIZ6u9D3I8ryWpi) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Parcialmente nublado](https://open.spotify.com/album/4ORofRFEKE8XdwPtseVnf4) | 3:04 | 2022-09-30 | 2023-10-27 |
 | [Bajo las Sombras](https://open.spotify.com/track/2GLwpugztC0QylwpvtIbnB) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/311nosRPXrVfCY5fg1TK5M) | 1:46 | 2022-07-01 | 2022-07-12 |
@@ -164,6 +164,7 @@
 | [El Disparo](https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [El Disparo](https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi) | 3:29 | 2022-06-03 | 2023-10-27 |
 | [El Fin](https://open.spotify.com/track/1KQ9arIyVcyvbixRfog2NB) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 4:09 | 2023-05-12 | 2023-06-10 |
 | [El Heladero](https://open.spotify.com/track/1y6MQ82qLW8AIXpXmLHtGh) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1), [Charlie Desidney](https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu) | [El Heladero](https://open.spotify.com/album/5u8PajcQdVpjFns2nUWzET) | 2:45 | 2022-07-01 | 2022-07-28 |
+| [El Hit](https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [El Hit](https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7) | 3:13 | 2024-06-14 |  |
 | [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 | 2022-10-28 | 2023-10-27 |
 | [El Juego de la Sed](https://open.spotify.com/track/0Gadp13jH5EsojTAXyhMwW) | [Julián Desbats](https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP) | [El Juego de la Sed](https://open.spotify.com/album/2BSgQC5v96a3oITrZ6ykRS) | 3:15 | 2023-07-24 | 2023-09-11 |
 | [El Lago \- Remix](https://open.spotify.com/track/2kOzsYkc2kBFViZLRrgpSY) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ), [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [El Lago \(Remix\)](https://open.spotify.com/album/11zavB3xrK6eHp2TZPgzA6) | 3:50 | 2022-07-15 | 2022-07-25 |

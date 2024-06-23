@@ -1,13 +1,37 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 969299,
+  "num_followers": 969751,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAADX2xyiWjDyYfKAzX90VS2f",
+  "snapshot_id": "ZnTCgAAAAACa2WyvEe20+uHCkCcmTYND",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOMPERI",
+        "url": "https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "AXL",
+          "url": "https://open.spotify.com/artist/5F1lZDYOxfcsSMEHF28hdH"
+        }
+      ],
+      "duration_ms": 125747,
+      "name": "DOMPERI",
+      "url": "https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4"
+    },
     {
       "added_at": null,
       "album": {
@@ -903,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHSM El Higado!",
-        "url": "https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 193728,
-      "name": "Muchacha - Con Grupo Firme",
-      "url": "https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de Servicio (En Vivo)",
         "url": "https://open.spotify.com/album/1lGSzvt2T0zKMTZgHL9NCV"
       },
@@ -939,6 +943,26 @@
       "duration_ms": 206506,
       "name": "Fuera de Servicio (En Vivo)",
       "url": "https://open.spotify.com/track/126OceJdkcpvQre3orMumy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHSM El Higado!",
+        "url": "https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 193728,
+      "name": "Muchacha - Con Grupo Firme",
+      "url": "https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz"
     },
     {
       "added_at": null,

@@ -15128,7 +15128,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 295775,
       "name": "Novocaine",
       "url": "https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz"
@@ -20924,6 +20924,24 @@
       "duration_ms": 134224,
       "name": "THE FIRST TEST",
       "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+    },
+    {
+      "album": {
+        "name": "The Future Is A Foreign Land",
+        "url": "https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225224,
+      "name": "The Future Is A Foreign Land",
+      "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
     },
     {
       "album": {

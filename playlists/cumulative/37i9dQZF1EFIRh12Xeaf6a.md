@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-281 songs - 14 hr 43 min
+282 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [He's a Bad Boy](https://open.spotify.com/track/16rPqhuTKqG41N4tHUGzZN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:22 | 2023-12-30 |  |
 | [He's in Town](https://open.spotify.com/track/6bt4wAVIw1xW7oCt6gXTUy) | [The Rockin' Berries](https://open.spotify.com/artist/6G18NLfr5luyGYgMKIupm3) | [They're in Town](https://open.spotify.com/album/5qpInSEP0qvV8XA6hsQ99i) | 2:39 | 2023-12-30 |  |
 | [Heartbreaker](https://open.spotify.com/track/1yYfpshvncxodfCWjFsgbn) | [Gerald Brown](https://open.spotify.com/artist/0UBFE9knxbTF9bopaqiTqh) | [I\-35 Corridor: Rock, Blues, 80's, R&B and Funk Compilation](https://open.spotify.com/album/1IomGUBY624tyBMSOGsSri) | 4:04 | 2023-12-30 |  |
-| [Help Me \(Find the Way Back to Your Heart](https://open.spotify.com/track/06bZN8p1dBhpoQZLL5BmAD) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Andy Williams \- The Ultimate Hits Collection](https://open.spotify.com/album/5qeqn1KSQ8oEKsaEv99w3Z) | 2:16 | 2023-12-30 |  |
+| [Help Me \(Find the Way Back to Your Heart](https://open.spotify.com/track/06bZN8p1dBhpoQZLL5BmAD) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Andy Williams \- The Ultimate Hits Collection](https://open.spotify.com/album/5qeqn1KSQ8oEKsaEv99w3Z) | 2:16 | 2023-12-30 | 2024-06-23 |
 | [Her Royal Majesty](https://open.spotify.com/track/1lnCcWCcHCN1uKx6toQuaA) | [James Darren, Shelley Fabares & Paul Peter](https://open.spotify.com/artist/0OD3Hhi7Dprc8AALYNHm5A) | [The Very Best of James Darren](https://open.spotify.com/album/6C145biC4F00ZZtwUcLvjt) | 2:13 | 2023-12-30 | 2024-05-27 |
 | [Hey Everybody](https://open.spotify.com/track/4MBgFs1AHq1PiC5obtdIof) | [Ramona King](https://open.spotify.com/artist/2FH3KVprpZlLbqXdYQc18G) | [Feline Soul](https://open.spotify.com/album/4vNiz9OzQepp5tPHZrBLak) | 2:27 | 2023-12-30 |  |
 | [Hi\-De\-Ho](https://open.spotify.com/track/26BpoFfXMCt0iX4daD6U9O) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [Blood, Sweat And Tears 3](https://open.spotify.com/album/3Va4LEJ4n3EZxMo3CGLpB5) | 4:23 | 2023-12-30 |  |
@@ -207,6 +207,7 @@
 | [Sometime in the Morning \- Original Stereo Version; 2006 Remaster](https://open.spotify.com/track/29MWHZL3EnA792mpBpabvU) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:30 | 2023-12-30 |  |
 | [Song of Long Ago](https://open.spotify.com/track/0exUcfluyGwOgsfYh9xYNf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:44 | 2023-12-30 |  |
 | [Soul Waltzing](https://open.spotify.com/track/0eqSSVFpBzjziDwLgAjoIR) | [Big Dee Irwin](https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa) | [Another Night With Big Dee Irwin: The Complete Dimension Recordings And More](https://open.spotify.com/album/6P1NRF6amZAXo77GG1tniN) | 2:24 | 2023-12-30 |  |
+| [Soulful Times](https://open.spotify.com/track/1xexSIykM6EN38RVMbnoIN) | [Jackie Mittoo](https://open.spotify.com/artist/6UTUjmko5raD927Hbx960a) | [Rides On](https://open.spotify.com/album/5xOeUNUjdfLd6FcqkeoN6D) | 4:56 | 2024-06-22 |  |
 | [Spaceship Races](https://open.spotify.com/track/2saV5owNXlCjz26RZ7R6pk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:06 | 2023-12-30 |  |
 | [Stand Behind Me](https://open.spotify.com/track/2vAhTyIJP5LessHhtVyEuI) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:28 | 2023-12-30 |  |
 | [Star Collector \- 2007 Remaster](https://open.spotify.com/track/0tnt3gxEkh3cK3zO95is7f) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Pisces, Aquarius, Capricorn & Jones Ltd\. \(Deluxe Edition\)](https://open.spotify.com/album/0hYCs5ttzuQcu86VPCEsXF) | 4:26 | 2023-12-30 |  |

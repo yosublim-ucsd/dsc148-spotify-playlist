@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,191 songs - 3 day 8 hr 7 min
+1,192 songs - 3 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [All Things Considered](https://open.spotify.com/track/2Encv0ig5W29JZ30hQgn6o) | [Andy Laverne](https://open.spotify.com/artist/0wHlC8tumVxWRyxKutlQUm), [Alex Sipiagin](https://open.spotify.com/artist/7q46e1hkWTUN1IWHzYb40p), [Mike Richmond](https://open.spotify.com/artist/4UAdAgxnybF0chEX9FXX9m), [Jason Tiemann](https://open.spotify.com/artist/4bj8k1TAVycxbk0zCHtpTR) | [Faith](https://open.spotify.com/album/04onMzCeOjirI5PIDnA6i8) | 10:52 | 2022-04-14 |  |
 | [Almost Home](https://open.spotify.com/track/6o2FVcJk7m0eY4AYIuf2hK) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Almost Home](https://open.spotify.com/album/3YxHVhhbU5dIUmkIiXwKQc) | 2:38 | 2024-03-22 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/6CDQBADsdzJwc3qZ3OPDHH) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 4:50 | 2022-04-14 | 2022-05-03 |
+| [Aloft](https://open.spotify.com/track/0CiU0z4zCOraHw7ilpFrkO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Aloft](https://open.spotify.com/album/4h8T76HMOJIOoJQQlWriJm) | 2:17 | 2024-06-17 |  |
 | [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-03-09 | 2024-04-19 |
 | [An Evening In Vienna](https://open.spotify.com/track/3bop0vSSbniMVgkYuOCEKR) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [An Evening In Vienna](https://open.spotify.com/album/3WfIRV65RyKAJeVTXR4WEr) | 3:04 | 2023-08-31 | 2024-04-11 |
 | [Ancient and Distant](https://open.spotify.com/track/2kXJ6su5YWx1a3YQilPxmF) | [Harold Danko](https://open.spotify.com/artist/26IGMCxg4NgtwUVLlX5rPw), [Jay Anderson](https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV), [Jeff Hirshfield](https://open.spotify.com/artist/52O6frArSmachHxpz0NSTZ) | [Triple Play](https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr) | 7:13 | 2022-04-14 |  |
@@ -1018,7 +1019,7 @@
 | [The Nearness Of You](https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [The Nearness Of You](https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0) | 5:10 | 2023-03-09 |  |
 | [The next day](https://open.spotify.com/track/3HBNf1kBZB3Sn4idl26aJK) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [The next day](https://open.spotify.com/album/0BIs50usgDMHmPBj63mtk6) | 2:13 | 2023-01-12 |  |
 | [The Night We Called It A Day](https://open.spotify.com/track/6ltEJhAuJ2ofBl63qbHVN0) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [The Night We Called It A Day](https://open.spotify.com/album/6l6Z60Wy6MTZtbrBrJT5Cw) | 3:32 | 2022-10-13 |  |
-| [The Old Days](https://open.spotify.com/track/1YdjDIUhPv0YlyDOzGv8cN) | [Joost Zoeteman](https://open.spotify.com/artist/3KttZtDvN07umfla28NQqq) | [The Old Days](https://open.spotify.com/album/3MRdBb44ud0YmXZlIK3gCB) | 3:43 | 2024-02-02 |  |
+| [The Old Days](https://open.spotify.com/track/1YdjDIUhPv0YlyDOzGv8cN) | [Joost Zoeteman](https://open.spotify.com/artist/3KttZtDvN07umfla28NQqq) | [The Old Days](https://open.spotify.com/album/3MRdBb44ud0YmXZlIK3gCB) | 3:43 | 2024-02-02 | 2024-06-23 |
 | [The Only One Was Me](https://open.spotify.com/track/5NLi9si71C7qKhksdIJje2) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [The Only One Was Me](https://open.spotify.com/album/6AG3KpztkGqP75pX37ph1W) | 4:17 | 2023-08-10 |  |
 | [The Party's Over](https://open.spotify.com/track/5M5dFQKaqNngU4ZrUZqEGP) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [The Party's Over](https://open.spotify.com/album/5uMRjgzJg7elvCKNdjsm3n) | 2:50 | 2023-03-09 |  |
 | [The Promise of Spring](https://open.spotify.com/track/5MM3iDrZqnCs1W44bHeyb7) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [The Promise of Spring](https://open.spotify.com/album/4DGprWZfEGxxxHU0HLmxiG) | 5:18 | 2024-04-10 |  |

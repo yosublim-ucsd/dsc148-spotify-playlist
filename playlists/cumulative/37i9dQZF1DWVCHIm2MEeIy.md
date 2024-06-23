@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-425 songs - 1 day 13 hr 50 min
+426 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Confide \(Contour 1\)](https://open.spotify.com/track/6GbgqFsJbytKNRlmcZIHqL) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Contour](https://open.spotify.com/album/7MvFbkm0nHFPin4SYkiOIY) | 6:41 | 2022-11-14 | 2023-04-20 |
 | [Confide \(Contour 1\)](https://open.spotify.com/track/6q4NIJH9q9qXmjQtUBnGpM) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Confide \(Contour 1\)](https://open.spotify.com/album/1NXbRThuLLae8FHXkL4tgq) | 6:41 | 2022-09-30 | 2022-10-19 |
 | [Confusion](https://open.spotify.com/track/4dUIinlaify3Z3DAZmPkc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Confusion](https://open.spotify.com/album/0c4WgnhgDzr5B0SL3mwIDM) | 6:56 | 2022-06-24 | 2024-03-08 |
+| [Confusion](https://open.spotify.com/track/00XxQRioB1tJwnELM7UxME) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Glowal](https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ) | [The Antidote](https://open.spotify.com/album/4hti1qfGjrd8pphaR7KDVy) | 4:07 | 2024-06-14 |  |
 | [Control](https://open.spotify.com/track/3qQFXz3qhRRa3HEXGeZ0Yl) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Control](https://open.spotify.com/album/5qRgoyaOBrrscesIipuThi) | 6:13 | 2022-08-19 | 2022-08-22 |
 | [Control](https://open.spotify.com/track/4Zo9X74JIGBF6773xzBhm8) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Profound Mysteries II](https://open.spotify.com/album/3TeJxmNzWgJ5Z5gyUkHBJS) | 6:13 | 2022-08-19 | 2022-12-01 |
 | [Controlled Demolition](https://open.spotify.com/track/4ByxUoZBhd2OoPI2UeWVCf) | [HIGHLITE](https://open.spotify.com/artist/5JLz9lhEIydGByUE1BZ5Bl) | [Controlled Demolition EP](https://open.spotify.com/album/56oz7if7WaYBGZcJtV8Hh4) | 5:32 | 2023-02-03 | 2023-02-25 |
@@ -360,7 +361,7 @@
 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 | 2023-04-07 |  |
 | [Sous les étoiles](https://open.spotify.com/track/7JxtWihpK0Jc5IibN8BrTl) | [Club Soda](https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r), [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC) | [Sous les étoiles](https://open.spotify.com/album/1SiT054eGkYm5lnIZznnP3) | 2:08 | 2022-05-20 | 2023-11-11 |
 | [Speak Up](https://open.spotify.com/track/4fO0HqjTcWidMX1Im1six5) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Speak Up EP](https://open.spotify.com/album/0BS8NtWrOjl6Muwhk6cOcg) | 5:03 | 2022-04-15 | 2022-04-21 |
-| [Starchaser](https://open.spotify.com/track/6irg87ZXAFnNfSSyAN5RQM) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Starchaser](https://open.spotify.com/album/5hWKdvx2iIO3qOeQiWiehL) | 4:14 | 2023-08-30 |  |
+| [Starchaser](https://open.spotify.com/track/6irg87ZXAFnNfSSyAN5RQM) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Starchaser](https://open.spotify.com/album/5hWKdvx2iIO3qOeQiWiehL) | 4:14 | 2023-08-30 | 2024-06-23 |
 | [Static \- Cinthie Remix Radio Edit](https://open.spotify.com/track/4ehyxfrCHC7NrB3FnWtwjo) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Life Signs Remixes](https://open.spotify.com/album/0dSVByJ7AcaQcwXX55G7Bv) | 3:36 | 2022-06-24 | 2022-07-21 |
 | [Stellar, Pt\. 2 \- Convinzed Remix](https://open.spotify.com/track/1vw4yFaUbySClquyyN1Xwf) | [Xavier Montrier](https://open.spotify.com/artist/0Yyy6dJMrroj3oJOz0YPLa), [Convinzed](https://open.spotify.com/artist/2HOr1gcgMNOdellmi8zuZx) | [Stellar](https://open.spotify.com/album/1MnIgI4IuEEqZdEZhOo1lm) | 6:13 | 2022-04-15 | 2022-07-16 |
 | [Steps](https://open.spotify.com/track/1pIBxvFjjnp7tAKOTwA0Az) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Steps](https://open.spotify.com/album/0uin82gWKieM4DTE77Ayrk) | 5:58 | 2022-04-15 | 2022-06-17 |

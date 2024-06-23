@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Isadora Pompeo",
-  "num_followers": 316247,
+  "num_followers": 316349,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
+        "name": "O C\u00e9u Se Abre",
+        "url": "https://open.spotify.com/album/1F6n140GLrPVRY40AJzecK"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "O C\u00e9u Se Abre",
+      "url": "https://open.spotify.com/track/1rr7OQMrPZjktRVfUOYnxd"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
         "name": "O Senhor \u00e9 o Meu Pastor (Ao Vivo)",
         "url": "https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 381302,
       "name": "O Senhor \u00e9 o Meu Pastor - Ao Vivo",
       "url": "https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
-        "name": "O C\u00e9u Se Abre",
-        "url": "https://open.spotify.com/album/1F6n140GLrPVRY40AJzecK"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "O C\u00e9u Se Abre",
-      "url": "https://open.spotify.com/track/1rr7OQMrPZjktRVfUOYnxd"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
-        "name": "Se N\u00e3o Fosse o Senhor",
-        "url": "https://open.spotify.com/album/7ov8Vbos6ZgbEwYEGgR0AS"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
-        }
-      ],
-      "duration_ms": 249099,
-      "name": "Se N\u00e3o Fosse o Senhor",
-      "url": "https://open.spotify.com/track/4JOrNUbe0HwDakXaw4BGUW"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
         "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 459720,
       "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 - Ao Vivo",
       "url": "https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
+        "name": "Se N\u00e3o Fosse o Senhor",
+        "url": "https://open.spotify.com/album/7ov8Vbos6ZgbEwYEGgR0AS"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        }
+      ],
+      "duration_ms": 249099,
+      "name": "Se N\u00e3o Fosse o Senhor",
+      "url": "https://open.spotify.com/track/4JOrNUbe0HwDakXaw4BGUW"
     },
     {
       "added_at": "2024-06-14 03:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-06-14 03:01:00",
       "album": {
-        "name": "Grande \u00e9 o Nosso Deus",
-        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 319166,
-      "name": "Grande \u00e9 o Nosso Deus",
-      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
-    },
-    {
-      "added_at": "2024-06-14 03:01:00",
-      "album": {
         "name": "T\u00e3o Bom Pra Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 496326,
       "name": "T\u00e3o Bom Pra Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8"
+    },
+    {
+      "added_at": "2024-06-14 03:01:00",
+      "album": {
+        "name": "Grande \u00e9 o Nosso Deus",
+        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 319166,
+      "name": "Grande \u00e9 o Nosso Deus",
+      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
     },
     {
       "added_at": "2024-06-14 03:01:00",

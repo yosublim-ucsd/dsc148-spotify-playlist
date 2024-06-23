@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 149406,
       "name": "akl\u0131na ben gelicem",
       "url": "https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA"
@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 157625,
       "name": "BAL",
       "url": "https://open.spotify.com/track/2RojZW2380o281z4LF0wTh"
@@ -4022,7 +4022,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 140315,
       "name": "Cennet",
       "url": "https://open.spotify.com/track/0ay0rJ0zPpu5yGLCxqz5oE"
@@ -9734,7 +9734,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 191173,
       "name": "Kaptan",
       "url": "https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw"
@@ -14184,7 +14184,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 95540,
       "name": "SAGOLUYORUM (BIG TERORISTA)",
       "url": "https://open.spotify.com/track/1e6BkMSpHCTNoBGyn1C6oV"
@@ -18362,6 +18362,24 @@
       "duration_ms": 240000,
       "name": "\u00d6mr\u00fcm",
       "url": "https://open.spotify.com/track/0GwSSml9L21vNI7VGLz1ae"
+    },
+    {
+      "album": {
+        "name": "\u00d6n\u00fcm\u00fcz Yaz",
+        "url": "https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181518,
+      "name": "\u00d6n\u00fcm\u00fcz Yaz",
+      "url": "https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR"
     },
     {
       "album": {

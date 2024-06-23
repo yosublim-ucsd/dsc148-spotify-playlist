@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,617 likes - 100 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,702 likes - 100 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 88 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
 | 89 | [Jesucristo Basta \(Ver\. Acústica\) feat\. Living](https://open.spotify.com/track/2XKkNxB8oxQHIy8023f2wH) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Jesucristo Basta \(Versión Acústica\)](https://open.spotify.com/album/7qYIGL8Zkxg0ItaAa5Ex96) | 4:39 |
 | 90 | [Te Dejo Ganar](https://open.spotify.com/track/0UdWxA5X4OBqCi3kIpC7Fb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/1GdYY1AU74YnIufNkby72P) | 3:21 |
-| 91 | [Precioso Jesús](https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI) | 6:20 |
+| 91 | [Santo Río de Dios](https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM) | 5:01 |
 | 92 | [Perfume a Tus Pies](https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa) | 5:10 |
-| 93 | [Te Deseo](https://open.spotify.com/track/0fKTsfo4878lqiCYHmvP9h) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Majo y Dan](https://open.spotify.com/album/0Y8mUmQqeF1QnQis9negrN) | 5:39 |
-| 94 | [Mi Corazón Te Anhela](https://open.spotify.com/track/3GHXUGdVIWz4KJWG9pUsrr) | [Andrea Bernal](https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6) | [Mi Corazón Te Anhela](https://open.spotify.com/album/3xvbplk4ApLbyx5SPLfoxh) | 4:57 |
-| 95 | [Santo Río de Dios](https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Santo Río de Dios](https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM) | 5:01 |
+| 93 | [Precioso Jesús](https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI) | 6:20 |
+| 94 | [Te Deseo](https://open.spotify.com/track/0fKTsfo4878lqiCYHmvP9h) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Majo y Dan](https://open.spotify.com/album/0Y8mUmQqeF1QnQis9negrN) | 5:39 |
+| 95 | [Mi Corazón Te Anhela](https://open.spotify.com/track/3GHXUGdVIWz4KJWG9pUsrr) | [Andrea Bernal](https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6) | [Mi Corazón Te Anhela](https://open.spotify.com/album/3xvbplk4ApLbyx5SPLfoxh) | 4:57 |
 | 96 | [Cantaré de Tu Amor](https://open.spotify.com/track/3uXGOO9rHDZu2hQaqOgjRG) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Colección de Danilo Montero](https://open.spotify.com/album/0yECmK5HVjCGNV30RpG1BY) | 6:00 |
-| 97 | [Cielo En La Tierra](https://open.spotify.com/track/14379PKwuusX7iKk8OnpZ7) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Cielo En La Tierra](https://open.spotify.com/album/3JTD6PWtChPdo6kxxWZS6y) | 6:26 |
-| 98 | [Lo Unico Que Quiero](https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy) | 7:27 |
+| 97 | [Lo Unico Que Quiero](https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy) | 7:27 |
+| 98 | [Cielo En La Tierra](https://open.spotify.com/track/14379PKwuusX7iKk8OnpZ7) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Cielo En La Tierra](https://open.spotify.com/album/3JTD6PWtChPdo6kxxWZS6y) | 6:26 |
 | 99 | [La Cruz](https://open.spotify.com/track/1IN4Xq6HhJtP7MylpnP8ec) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [Amor Palabra Poder](https://open.spotify.com/album/5sTiKrYnSSbcYyZYzgz4sm) | 5:46 |
-| 100 | [Bendita Cruz](https://open.spotify.com/track/3dxkHi0MsMO9iObgGSQzyP) | [Leví Music Worship](https://open.spotify.com/artist/7gsh5wOFlnP7GEVritK1f8) | [Bendita Cruz](https://open.spotify.com/album/13kfZj86Kz2C8pp1ETWhFK) | 4:44 |
+| 100 | [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/track/5u1wkV8C7Q0Vw8hK969grA) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús Salva](https://open.spotify.com/album/40uXjgQEurDWfvxlKE85cX) | 4:53 |
 
 Snapshot ID: `ZfrI2AAAAAD8ALMv8wG+IP76f5X6qxdx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K?si=w8bfuFXaS8up2\_BtCVV3zw">One True Pairing</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,935 likes - 55 songs - 4 hr 21 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,933 likes - 55 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

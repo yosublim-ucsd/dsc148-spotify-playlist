@@ -1,6 +1,6 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Incubus",
-  "num_followers": 979548,
+  "num_followers": 979451,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
+        "name": "Glass Half Empty (Part I)",
+        "url": "https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Glass Half Empty",
+      "url": "https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
         "name": "Feast Of Fire",
         "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "My Condition",
-        "url": "https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 207670,
-      "name": "My Condition",
-      "url": "https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "LIES WE TELL OURSELVES",
         "url": "https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 218973,
       "name": "The Falling Sky",
       "url": "https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "My Condition",
+        "url": "https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 207670,
+      "name": "My Condition",
+      "url": "https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -823,22 +839,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Glass Half Empty (Part I)",
-        "url": "https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Glass Half Empty",
-      "url": "https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "Golden State (20th Anniversary Expanded Version)",
         "url": "https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Gri\u00f4",
-        "url": "https://open.spotify.com/album/5YfA788MraNWD81KQbWtrB"
+        "name": "Keep It Away",
+        "url": "https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB"
       },
       "artists": [
         {
-          "name": "Black Pantera",
-          "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
+          "name": "Fuel",
+          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
         }
       ],
-      "duration_ms": 184245,
-      "name": "UKUMKANI",
-      "url": "https://open.spotify.com/track/5wcGuoIoSWPDckJ5V7Oxyw"
+      "duration_ms": 221226,
+      "name": "Keep It Away",
+      "url": "https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Keep It Away",
-        "url": "https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB"
+        "name": "Gri\u00f4",
+        "url": "https://open.spotify.com/album/5YfA788MraNWD81KQbWtrB"
       },
       "artists": [
         {
-          "name": "Fuel",
-          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
+          "name": "Black Pantera",
+          "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
         }
       ],
-      "duration_ms": 221226,
-      "name": "Keep It Away",
-      "url": "https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf"
+      "duration_ms": 184245,
+      "name": "UKUMKANI",
+      "url": "https://open.spotify.com/track/5wcGuoIoSWPDckJ5V7Oxyw"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "CRAWLER",
-        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
+        "name": "Foregone, Pt. 2",
+        "url": "https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S"
       },
       "artists": [
         {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
         }
       ],
-      "duration_ms": 260519,
-      "name": "Crawl!",
-      "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
+      "duration_ms": 270454,
+      "name": "Foregone, Pt. 2",
+      "url": "https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Foregone, Pt. 2",
-        "url": "https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S"
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv"
       },
       "artists": [
         {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
         }
       ],
-      "duration_ms": 270454,
-      "name": "Foregone, Pt. 2",
-      "url": "https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR"
+      "duration_ms": 260519,
+      "name": "Crawl!",
+      "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
     },
     {
       "added_at": "2024-06-21 03:01:00",

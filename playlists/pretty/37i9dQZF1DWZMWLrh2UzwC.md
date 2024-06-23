@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Coldplay
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,106 likes - 110 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,107 likes - 110 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 66 | [Somebody to Someone \(I Just Wanna Fall in Love\)](https://open.spotify.com/track/1EsQXJmZYsrQJoCam6StOW) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Somebody to Someone \(I Just Wanna Fall in Love\)](https://open.spotify.com/album/3azyEFtI48wqFlyWHG2Oxe) | 2:37 |
 | 67 | [Humankind](https://open.spotify.com/track/3LH03hNxNUceSZCUXdgfRm) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Humankind](https://open.spotify.com/album/6IHG8lHGYHGVWfrtBosCJd) | 3:03 |
 | 68 | [Vertigo](https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Vertigo](https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky) | 2:28 |
-| 69 | [easy on me](https://open.spotify.com/track/0i4dOFMCie6lHFgZ7xsSCS) | [Marae](https://open.spotify.com/artist/62qOxFGCzLdnKhNsx6vnhw) | [easy on me](https://open.spotify.com/album/4jZmQ4S3AATkH6jWhp1o8P) | 2:36 |
+| 69 | [easy on me](https://open.spotify.com/track/0i4dOFMCie6lHFgZ7xsSCS) | [Marae](https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI) | [easy on me](https://open.spotify.com/album/4jZmQ4S3AATkH6jWhp1o8P) | 2:36 |
 | 70 | [HOTTIE WITH HER MP3](https://open.spotify.com/track/3d7xhpRqnv0SWDbcks7vOG) | [Leeray](https://open.spotify.com/artist/5iYfkAR2436UVRFEFm9iHr) | [HOTTIE WITH HER MP3](https://open.spotify.com/album/260isGH0TPdk2KdFe7GWlJ) | 3:02 |
 | 71 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 |
 | 72 | [Found You First](https://open.spotify.com/track/4JNwx0jxdd9AzfBX3FSoWg) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Found You First](https://open.spotify.com/album/5RSzGDEaajxu1IhT0HuzQk) | 2:43 |

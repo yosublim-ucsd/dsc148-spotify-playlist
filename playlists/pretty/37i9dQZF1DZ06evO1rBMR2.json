@@ -1,12 +1,12 @@
 {
   "description": "This is Los Huracanes del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 112820,
+  "num_followers": 112893,
   "original_name": "This Is Los Huracanes del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAABkKzFUVQK4wnQ00Gt53SX4",
+  "snapshot_id": "ZnTCgAAAAACoUVwhGptbzy3QgXmqU5Iz",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,6 @@
       "duration_ms": 172480,
       "name": "Nada Contigo",
       "url": "https://open.spotify.com/track/3YgsU6KawiLl25xqaUGEPj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde Monterrey",
-        "url": "https://open.spotify.com/album/3m5srgyz9ySxGVpnMkxldJ"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Que Me Lleve El Diablo - En Vivo",
-      "url": "https://open.spotify.com/track/6AshXTa1GeNYf9mpLfJwl0"
     },
     {
       "added_at": null,
@@ -719,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mensaje De Oro",
-        "url": "https://open.spotify.com/album/7zMSnsRCy5WV88vepzSIZy"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 132597,
-      "name": "La Viudita",
-      "url": "https://open.spotify.com/track/0GhFBxxcZP6FDb2d1PXznp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Complemento",
         "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
       },
@@ -747,6 +715,22 @@
       "duration_ms": 198687,
       "name": "La Higuera",
       "url": "https://open.spotify.com/track/4LSjWECyl1hUIr2B6bD9R6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mensaje De Oro",
+        "url": "https://open.spotify.com/album/7zMSnsRCy5WV88vepzSIZy"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 132597,
+      "name": "La Viudita",
+      "url": "https://open.spotify.com/track/0GhFBxxcZP6FDb2d1PXznp"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 260794,
       "name": "Por Eso La Deje",
       "url": "https://open.spotify.com/track/6kOXYe3iDJhbuCvnCCeToK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'l Norte",
+        "url": "https://open.spotify.com/album/4mRTjmyvCz4NzsotOUs9u7"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 159253,
+      "name": "El Celular",
+      "url": "https://open.spotify.com/track/0058g7pEQRXcKEhGxgU6fM"
     }
   ],
   "unique_name": "This Is Los Huracanes del Norte",

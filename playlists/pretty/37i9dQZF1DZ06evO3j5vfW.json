@@ -1,33 +1,13 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71371,
+  "num_followers": 71370,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAADEf4RlIkHcj+vjpdFt6yCr",
+  "snapshot_id": "ZnTCgAAAAAC6+mNVGb68OpXjcDD/BpDf",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Nighttrain",
-        "url": "https://open.spotify.com/album/4t5mdjfkRkRPwQmHmXRx1v"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Maitland",
-          "url": "https://open.spotify.com/artist/0Q73yVxsPyLsllS3ILTEZL"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "The Nighttrain",
-      "url": "https://open.spotify.com/track/067wD8CKiwiOz8beq5OTV2"
-    },
     {
       "added_at": null,
       "album": {
@@ -227,6 +207,26 @@
       "duration_ms": 188284,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nighttrain",
+        "url": "https://open.spotify.com/album/4t5mdjfkRkRPwQmHmXRx1v"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Maitland",
+          "url": "https://open.spotify.com/artist/0Q73yVxsPyLsllS3ILTEZL"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "The Nighttrain",
+      "url": "https://open.spotify.com/track/067wD8CKiwiOz8beq5OTV2"
     },
     {
       "added_at": null,
@@ -499,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/3knECzpm45ekkrm06q78TJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Like Home - Radio Edit",
+      "url": "https://open.spotify.com/track/3bUbOOpXfkdDlXg5iPGdJC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 182950,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/3knECzpm45ekkrm06q78TJ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Like Home - Radio Edit",
-      "url": "https://open.spotify.com/track/3bUbOOpXfkdDlXg5iPGdJC"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/5NqGASv5yESq6lk0qkE2iI"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 190078,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/4SlkCNvosh6H75Cx46Y4K0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neon Future III",
         "url": "https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 198281,
       "name": "Be Somebody (feat. Kiiara)",
       "url": "https://open.spotify.com/track/0YnJVay1kDxknXcIigPSvn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/5NqGASv5yESq6lk0qkE2iI"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 190078,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4SlkCNvosh6H75Cx46Y4K0"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where Would We Be",
-        "url": "https://open.spotify.com/album/4309GpSGqkWBCDwGiSxqA6"
-      },
-      "artists": [
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 208023,
-      "name": "Where Would We Be",
-      "url": "https://open.spotify.com/track/2d3fNzMA3aUqeRFWHqzbHd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bittersweet (ft. Quarterback) [Remixes]",
         "url": "https://open.spotify.com/album/4ePDJZwZk6pXba002oCTT6"
       },
@@ -1055,26 +1035,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
+        "name": "Where Would We Be",
+        "url": "https://open.spotify.com/album/4309GpSGqkWBCDwGiSxqA6"
       },
       "artists": [
         {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        },
+        {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        },
-        {
-          "name": "Alexander Tidebrink",
-          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
         }
       ],
-      "duration_ms": 253440,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
+      "duration_ms": 208023,
+      "name": "Where Would We Be",
+      "url": "https://open.spotify.com/track/2d3fNzMA3aUqeRFWHqzbHd"
     },
     {
       "added_at": null,
@@ -1099,6 +1075,30 @@
       "duration_ms": 202541,
       "name": "Let Me Feel - Radio Edit",
       "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Alexander Tidebrink",
+          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
+        }
+      ],
+      "duration_ms": 253440,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
     },
     {
       "added_at": null,
@@ -1135,22 +1135,6 @@
       "duration_ms": 213624,
       "name": "Chapters",
       "url": "https://open.spotify.com/track/1gpFuNlgfcpvXtD2TQILsQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn Off The Lights (VIP Mix)",
-        "url": "https://open.spotify.com/album/6na0pPLeZHzJ2HJpITcq9b"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Turn Off The Lights - VIP Mix",
-      "url": "https://open.spotify.com/track/5zeJeJkxOFYe2Vx2YRTeEx"
     }
   ],
   "unique_name": "This Is Nicky Romero",

@@ -1,6 +1,6 @@
 {
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
-  "num_followers": 2612415,
+  "num_followers": 2612618,
   "original_name": "Warm Fuzzy Feeling",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 256426,
       "name": "Congratulations (feat. Bilal)",
       "url": "https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Those Eyes",
-        "url": "https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8"
-      },
-      "artists": [
-        {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
-        }
-      ],
-      "duration_ms": 220750,
-      "name": "Those Eyes",
-      "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+        "name": "like my father",
+        "url": "https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
         }
       ],
-      "duration_ms": 225234,
-      "name": "Forever and a Day",
-      "url": "https://open.spotify.com/track/7BXyTc2ycXzXjAaGRTqnad"
+      "duration_ms": 183133,
+      "name": "like my father",
+      "url": "https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "like my father",
-        "url": "https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj"
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
       "artists": [
         {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 183133,
-      "name": "like my father",
-      "url": "https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX"
+      "duration_ms": 225234,
+      "name": "Forever and a Day",
+      "url": "https://open.spotify.com/track/7BXyTc2ycXzXjAaGRTqnad"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Little Voice",
-        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "All I Want (from the Netflix Series \"Bridgerton\")",
         "url": "https://open.spotify.com/album/4HJ1f1jfoIzcfHTdKfbgA8"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 184866,
       "name": "All I Want (from the Netflix Series \"Bridgerton\")",
       "url": "https://open.spotify.com/track/4uuVa7YG5n5QxdVN2XM7hx"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
     },
     {
       "added_at": "2024-06-07 04:00:00",

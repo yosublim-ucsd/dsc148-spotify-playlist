@@ -144,7 +144,7 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "name": "Charli XCX",
+          "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 253642,
       "name": "911 - Charli XCX & A. G. Cook Remix",
       "url": "https://open.spotify.com/track/4xx8LCv4tUv7PNk6g7VQmY"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 192877,
       "name": "Where Are You Now - Kungs Remix",
       "url": "https://open.spotify.com/track/4GIMEDzfakGjbIUme3waUb"

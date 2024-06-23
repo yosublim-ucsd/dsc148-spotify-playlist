@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Rema and Shallipopi",
-  "num_followers": 57074,
+  "num_followers": 57196,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -875,18 +875,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Under The Canopy",
-        "url": "https://open.spotify.com/album/7c6oqqAN19VuIGt7KsKf9t"
+        "name": "How Low (Remix)",
+        "url": "https://open.spotify.com/album/5AjYtPDHP2PVgoS8urjLkW"
       },
       "artists": [
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Under The Canopy",
-      "url": "https://open.spotify.com/track/1QCtwTegsRR8XtgaMpoQLk"
+      "duration_ms": 182142,
+      "name": "How Low (Remix)",
+      "url": "https://open.spotify.com/track/2gJTSnswyu6WlFwFKO3qw2"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -935,6 +939,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Under The Canopy",
+        "url": "https://open.spotify.com/album/7c6oqqAN19VuIGt7KsKf9t"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Under The Canopy",
+      "url": "https://open.spotify.com/track/1QCtwTegsRR8XtgaMpoQLk"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "AMERICA",
         "url": "https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 212500,
       "name": "AMERICA",
       "url": "https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "How Low (Remix)",
-        "url": "https://open.spotify.com/album/5AjYtPDHP2PVgoS8urjLkW"
-      },
-      "artists": [
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "How Low (Remix)",
-      "url": "https://open.spotify.com/track/2gJTSnswyu6WlFwFKO3qw2"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "What Would You Do Without Me",
-        "url": "https://open.spotify.com/album/3CsU2AsumbGOts16pjeevM"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 157821,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/1VUUgMgnpxFLdFYcReuNE8"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 176000,
       "name": "Trabaye",
       "url": "https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "What Would You Do Without Me",
+        "url": "https://open.spotify.com/album/3CsU2AsumbGOts16pjeevM"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 157821,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/1VUUgMgnpxFLdFYcReuNE8"
     }
   ],
   "unique_name": "Street Energy ",

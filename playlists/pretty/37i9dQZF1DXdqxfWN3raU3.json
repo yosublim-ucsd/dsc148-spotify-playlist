@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Maluma y Blessd en portada.",
-  "num_followers": 253974,
+  "num_followers": 253955,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "No Sabe Igual",
-        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "No Sabe Igual",
-      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 193480,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "No Sabe Igual",
+        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "No Sabe Igual",
+      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "Bayside",
-        "url": "https://open.spotify.com/album/433b5MFhScrhyXk5p7UjU3"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 129134,
-      "name": "Bayside",
-      "url": "https://open.spotify.com/track/1HtEP7EwQrI8Rvaz1V5DEu"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "Wiken",
         "url": "https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 223643,
       "name": "Wiken",
       "url": "https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "Bayside",
+        "url": "https://open.spotify.com/album/433b5MFhScrhyXk5p7UjU3"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 129134,
+      "name": "Bayside",
+      "url": "https://open.spotify.com/track/1HtEP7EwQrI8Rvaz1V5DEu"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "la \u00faltima canci\u00f3n triste",
-        "url": "https://open.spotify.com/album/0ec73GhwMiFHzoGKjYyUqV"
-      },
-      "artists": [
-        {
-          "name": "KYOTTO",
-          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
-        },
-        {
-          "name": "QuixSmell",
-          "url": "https://open.spotify.com/artist/0MrBxgZbiw0uUO3NUqWFKp"
-        }
-      ],
-      "duration_ms": 151179,
-      "name": "la \u00faltima canci\u00f3n triste",
-      "url": "https://open.spotify.com/track/0hCZ5gNpL9WGgFA0wbsZRo"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "50/50",
         "url": "https://open.spotify.com/album/1HwhsZmxSILukqwFUFKHXZ"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 198620,
       "name": "50/50",
       "url": "https://open.spotify.com/track/5L3qzDfLiHUvvVm7B0gZwW"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "la \u00faltima canci\u00f3n triste",
+        "url": "https://open.spotify.com/album/0ec73GhwMiFHzoGKjYyUqV"
+      },
+      "artists": [
+        {
+          "name": "KYOTTO",
+          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
+        },
+        {
+          "name": "QuixSmell",
+          "url": "https://open.spotify.com/artist/0MrBxgZbiw0uUO3NUqWFKp"
+        }
+      ],
+      "duration_ms": 151179,
+      "name": "la \u00faltima canci\u00f3n triste",
+      "url": "https://open.spotify.com/track/0hCZ5gNpL9WGgFA0wbsZRo"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "Corazones en Alm\u00edbar",
-        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 228803,
-      "name": "Masaryk",
-      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 181463,
       "name": "Modo Avi\u00f3n",
       "url": "https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "Corazones en Alm\u00edbar",
+        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 228803,
+      "name": "Masaryk",
+      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
+        "name": "Obvio Bien",
+        "url": "https://open.spotify.com/album/6rSJacE18Nyc5mEB8hVLBM"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 254348,
+      "name": "Obvio Bien",
+      "url": "https://open.spotify.com/track/1tB9yQnhyBrnft7mUSpbEh"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
         "name": "hiErve",
         "url": "https://open.spotify.com/album/0QF0ORnA9iD1vXxEg0RMGI"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 231724,
       "name": "Te La Dedico",
       "url": "https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
-        "name": "Obvio Bien",
-        "url": "https://open.spotify.com/album/6rSJacE18Nyc5mEB8hVLBM"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 254348,
-      "name": "Obvio Bien",
-      "url": "https://open.spotify.com/track/1tB9yQnhyBrnft7mUSpbEh"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
+        "name": "Kafka",
+        "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Kafka",
+      "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
         "name": "Te Hice Mal (Remix)",
         "url": "https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 269000,
       "name": "Te Hice Mal (Remix)",
       "url": "https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
-        "name": "Kafka",
-        "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Kafka",
-      "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "antes que sea tarde",
-        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
-      },
-      "artists": [
-        {
-          "name": "Dani Ribba",
-          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
-        }
-      ],
-      "duration_ms": 168778,
-      "name": "antes que sea tarde",
-      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "antes que sea tarde",
+        "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
+      },
+      "artists": [
+        {
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+        }
+      ],
+      "duration_ms": 168778,
+      "name": "antes que sea tarde",
+      "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
+        "name": "idek",
+        "url": "https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "duration_ms": 152044,
+      "name": "lento",
+      "url": "https://open.spotify.com/track/6y9gnJMwDfwJZrxyCd3Q6s"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
         "name": "PLO PLO",
         "url": "https://open.spotify.com/album/2HGt6SEhs9IkBgg1dSeQgi"
       },
@@ -1819,22 +1835,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "idek",
-        "url": "https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1"
-      },
-      "artists": [
-        {
-          "name": "day2k",
-          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
-        }
-      ],
-      "duration_ms": 152044,
-      "name": "lento",
-      "url": "https://open.spotify.com/track/6y9gnJMwDfwJZrxyCd3Q6s"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "Room 302",
         "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
       },
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
+        "name": "dec\u00eddete",
+        "url": "https://open.spotify.com/album/4gJIXcAlMbC5yagmVTUgMN"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        },
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "dec\u00eddete",
+      "url": "https://open.spotify.com/track/33MvQLMWwL0vP55gnBh6L5"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/6GBWx201Pez8oOd7Y4Szqe"
       },
@@ -1863,22 +1883,6 @@
       "duration_ms": 169365,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/3VeFS1wjkjIk3pfzdtB4GJ"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
-        "name": "Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
-      },
-      "artists": [
-        {
-          "name": "FERCHO",
-          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
-        }
-      ],
-      "duration_ms": 138485,
-      "name": "Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
     }
   ],
   "unique_name": "R&B Latino",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Aruma
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,679 likes - 97 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,757 likes - 97 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 23 | [Hanya Lolongan](https://open.spotify.com/track/3gedUqUJEgNoDqDaQZwTUo) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Hanya Lolongan](https://open.spotify.com/album/7nYVMupxePZbCAczopKbWr) | 3:49 |
 | 24 | [Mau Bilang Apa \(Original Soundtrack Magic 5\)](https://open.spotify.com/track/6KOnKUUt0dUMdOcs6vSwmn) | [Afan DA5](https://open.spotify.com/artist/60jQVcXcjnlcFmXPkHEbfB) | [Mau Bilang Apa \(Original Soundtrack Magic 5\)](https://open.spotify.com/album/3jk8sufasY3cM4aJsneJGj) | 4:08 |
 | 25 | [Bersamaku Akan Sedikit Susah](https://open.spotify.com/track/2yMuG8byOPFzZRNG4SaDT9) | [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u) | [Bersamaku Akan Sedikit Susah](https://open.spotify.com/album/2JJDZRInXPi0gqROa9gaf8) | 4:11 |
-| 26 | [Tak Tentu](https://open.spotify.com/track/6NMvaa57gp5Pfw692yl2TN) | [etto](https://open.spotify.com/artist/5qscbO7TSjfCuOvz2kQHsl) | [Tak Tentu](https://open.spotify.com/album/6gkNz699XZkRW08lrzHNll) | 3:47 |
+| 26 | [Tak Tentu](https://open.spotify.com/track/6NMvaa57gp5Pfw692yl2TN) | [etto](https://open.spotify.com/artist/3nclN60uLT0pToquQDLN6U) | [Tak Tentu](https://open.spotify.com/album/6gkNz699XZkRW08lrzHNll) | 3:47 |
 | 27 | [Akhir Tak Bahagia](https://open.spotify.com/track/304FEq5eVvrxur9KdHhC5I) | [Misellia](https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn) | [Penyendiri](https://open.spotify.com/album/70JRb7Z5FHl8lcyUXmNFHc) | 3:03 |
 | 28 | [Cinta Begini](https://open.spotify.com/track/0DdWGRZZIBpEfBTAjij5sx) | [OKAAY](https://open.spotify.com/artist/0qeOMneLDwmcxGM2CuFnfq), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Cinta Begini](https://open.spotify.com/album/2zXox2ZOhTd7VSfPErSXKv) | 4:06 |
 | 29 | [Pisah Baik\-Baik](https://open.spotify.com/track/57ALt7I6PfsbIstHr2C8SW) | [Elma Dae](https://open.spotify.com/artist/3o4Y9Gn3YghgIiAlYLDNZ7) | [Pisah Baik\-Baik](https://open.spotify.com/album/26vm4ZZTKZljlzYhHO5bmg) | 3:22 |

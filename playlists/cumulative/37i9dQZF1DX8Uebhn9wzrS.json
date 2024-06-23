@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 162253,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/3kiPyaxjjdXnR7SAvQvy5W"
@@ -11100,7 +11100,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 120008,
       "name": "Flattery",
       "url": "https://open.spotify.com/track/0EZzvnbBEDGBjaQRseSrbf"
@@ -15124,6 +15124,28 @@
       "duration_ms": 133333,
       "name": "i'm fine",
       "url": "https://open.spotify.com/track/5nyCgKqcA6KhSRHeC0Qicu"
+    },
+    {
+      "album": {
+        "name": "I-65",
+        "url": "https://open.spotify.com/album/2z8x3yAvj3mnvngPn1xVII"
+      },
+      "artists": [
+        {
+          "name": "Late Night Tones",
+          "url": "https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC"
+        },
+        {
+          "name": "J Fletch",
+          "url": "https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "I-65",
+      "url": "https://open.spotify.com/track/3fQfA3LMIx9BEkHIl0iNSd"
     },
     {
       "album": {
@@ -19632,7 +19654,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 128000,
       "name": "maybe or maybe",
       "url": "https://open.spotify.com/track/1GRBea14szlPf66aUR1Yaz"
@@ -25116,7 +25138,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 144000,
       "name": "Phunk dilla",
       "url": "https://open.spotify.com/track/2dOCWgcDWcxpWq2VwmYDQE"
@@ -27038,7 +27060,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 177562,
       "name": "Roses",
       "url": "https://open.spotify.com/track/1jcxxkEpDOMdVUxgetuxPC"

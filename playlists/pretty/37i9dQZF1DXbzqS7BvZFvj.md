@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 ### [Frontline \-ヒップホップ最前線\-](https://open.spotify.com/playlist/37i9dQZF1DXbzqS7BvZFvj)
 
-> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Moneybagg Yo
+> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,606 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,618 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 78 | [Clear the Smoke](https://open.spotify.com/track/0tWvBMSTdobhWgsJyviGeU) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Clear the Smoke](https://open.spotify.com/album/23RLz5Jsy8E54z7BZnH01D) | 3:38 |
 | 79 | [IT'S US \(feat\. Lil Yachty\)](https://open.spotify.com/track/7LwCqIMsKebFSsGX1eIqoS) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [DO NOT DISTURB \(DELUXE\)](https://open.spotify.com/album/2rIbOVBLitHcUD2g9UCz1P) | 2:03 |
 
-Snapshot ID: `ZnT/OQAAAACt6+ShsVE3qwzEQ8Ps3EB/`
+Snapshot ID: `ZnZtlgAAAAB4vnqUuA4aBCeF2o9/yyuK`

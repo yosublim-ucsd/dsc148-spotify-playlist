@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,917 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,977 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 96 | [Rico el País](https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q) | [Claudio Narea](https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV) | [El Largo Camino al Éxito](https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B) | 3:43 |
 | 97 | [Empresaurio](https://open.spotify.com/track/2nnHeIo6kBeSWqj41EmC2x) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [La Dieta del Lagarto](https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw) | 3:14 |
 | 98 | [Promesas y Perdones](https://open.spotify.com/track/5frSqRBs5NdRrjoZSCUUX7) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Split](https://open.spotify.com/album/378dF8Ci1JMWc8J3yf0vf1) | 3:40 |
-| 99 | [Maribel Se Durmió \(En Vivo Estadio Vélez Sarsfield\)](https://open.spotify.com/track/0HKZd2VwQpkGnjGLoicqb1) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Spinetta y Las Bandas Eternas](https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx) | 1:41 |
-| 100 | [Poder Elegir](https://open.spotify.com/track/6edlQ6CiXrbX8Y2zgsH9mS) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Cultura De La Basura](https://open.spotify.com/album/6F8tryCHsDT71FSpAyhoJF) | 8:02 |
+| 99 | [5 Malparidos](https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:44 |
+| 100 | [Maribel Se Durmió \(En Vivo Estadio Vélez Sarsfield\)](https://open.spotify.com/track/0HKZd2VwQpkGnjGLoicqb1) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Spinetta y Las Bandas Eternas](https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx) | 1:41 |
 
 Snapshot ID: `ZljbNwAAAABdxWxc72PcdfzfMffZzs4Y`

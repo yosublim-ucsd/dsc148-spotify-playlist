@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 241948,
+  "num_followers": 242025,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAAAKPQEyOy1XaXfdQrn1Icm7",
+  "snapshot_id": "ZnTCgAAAAAB/cqGxchwfXMLEn0NruwUQ",
   "tracks": [
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 155133,
-      "name": "(Somebody Else Been) Shaking Your Tree",
-      "url": "https://open.spotify.com/track/63dvxR46Wf4qEOUS21Vlfz"
+      "duration_ms": 207706,
+      "name": "Certified Blues",
+      "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 207706,
-      "name": "Certified Blues",
-      "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
+      "duration_ms": 155133,
+      "name": "(Somebody Else Been) Shaking Your Tree",
+      "url": "https://open.spotify.com/track/63dvxR46Wf4qEOUS21Vlfz"
     },
     {
       "added_at": null,

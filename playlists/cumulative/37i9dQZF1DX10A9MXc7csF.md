@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: El Padrinito Toys and Octavio Cuadras
 
-880 songs - 1 day 21 hr 6 min
+881 songs - 1 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [Nadie En Este Mundo](https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 3:52 | 2023-01-20 | 2023-04-22 |
 | [Nadie En Este Mundo](https://open.spotify.com/track/783fveiyg1BqcdHrzNcXuo) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Nadie En Este Mundo](https://open.spotify.com/album/37a9b4XAXZzS7xg5y2A0tO) | 3:52 | 2022-07-01 | 2022-09-09 |
 | [Nadie Mas](https://open.spotify.com/track/7brPYXl515g3kFaH9g7sCC) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Nadie Mas](https://open.spotify.com/album/0cRUQdUeJdx0WUZWgRXrH6) | 2:50 | 2023-04-21 | 2023-07-29 |
+| [Nava’s Girl](https://open.spotify.com/track/1p3DWeGMg32VSa6npnopML) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Pandemia 702](https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM) | [Nava’s Girl](https://open.spotify.com/album/2JH6TvRRXlUuXbCqf4Qsw9) | 2:51 | 2024-06-22 |  |
 | [Negro Como La Pantera](https://open.spotify.com/track/1QpM1kB7sggMOBuWUNUnfg) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Negro Como La Pantera](https://open.spotify.com/album/1V2a8dVFLfV4lju73nnIXr) | 2:09 | 2023-02-24 | 2023-05-27 |
 | [Neverita](https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Neverita](https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF) | 3:11 | 2023-01-20 | 2023-04-22 |
 | [Neverita](https://open.spotify.com/track/4QwSuFs54h6NRpbNDFnX6l) | [Grupo Zenzio](https://open.spotify.com/artist/0phhTEgdg0vxSb5G3dPVsC) | [Neverita](https://open.spotify.com/album/1IB2Irrp01rgqO6alppoZ2) | 2:55 | 2023-05-26 | 2023-06-24 |

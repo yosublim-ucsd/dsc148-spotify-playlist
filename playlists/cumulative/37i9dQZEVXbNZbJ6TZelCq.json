@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys"
+      },
+      "artists": [
+        {
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
       },
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 158095,
       "name": "Amore",
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
@@ -6386,7 +6404,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 201230,
       "name": "Combin Rom",
       "url": "https://open.spotify.com/track/2w1L0bFNsy6fDEX7KiQ62S"
@@ -18190,7 +18208,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 150000,
       "name": "MAZDA",
       "url": "https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq"
@@ -23924,7 +23942,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 160450,
       "name": "P\u0103i naa",
       "url": "https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9"
@@ -25144,7 +25162,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 162461,
       "name": "RUPE-TE MAMI",
       "url": "https://open.spotify.com/track/4Uj8pdbro2QZmWpAbpdgI0"
@@ -29238,7 +29256,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 128181,
       "name": "Tati, vreau",
       "url": "https://open.spotify.com/track/7hoILhEoePHXh6qTw5H0Fe"
@@ -32400,6 +32418,28 @@
       "duration_ms": 140978,
       "name": "VROOM",
       "url": "https://open.spotify.com/track/5vVcl5Uni8HJPDTEQSTeN2"
+    },
+    {
+      "album": {
+        "name": "VTM",
+        "url": "https://open.spotify.com/album/3lP1vJgYASuISagr9oeoSO"
+      },
+      "artists": [
+        {
+          "name": "Theo Zeciu",
+          "url": "https://open.spotify.com/artist/7s0yc83w8OEjHtjOtHj0am"
+        },
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "VTM",
+      "url": "https://open.spotify.com/track/3O4haQKLphM55PL3Uc7rLo"
     },
     {
       "album": {

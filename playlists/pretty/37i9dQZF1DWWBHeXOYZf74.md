@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: JPEGMAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,349 likes - 114 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,354 likes - 114 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

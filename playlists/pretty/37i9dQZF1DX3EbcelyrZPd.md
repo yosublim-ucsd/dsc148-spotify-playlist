@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,648 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,726 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 18 | [Yumba](https://open.spotify.com/track/14Okrc9sDLqoh29iJvHBe2) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Yumba](https://open.spotify.com/album/27jDgHcDHAZ5VFMOUkHeZk) | 3:08 |
 | 19 | [Shake Shake \(feat\. Dreamdoll\)](https://open.spotify.com/track/4PdMZg2fMnOqjidtB5X9u5) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [Shake Shake \(feat\. Dreamdoll\)](https://open.spotify.com/album/0IRau8537fbmOYDvbUlgep) | 2:17 |
 | 20 | [Wololo](https://open.spotify.com/track/2T3VV5Z3JkWLQl9qEAvqXd) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Wololo](https://open.spotify.com/album/75wI90vteHYUkb6tP4bOSA) | 3:53 |
-| 21 | [Unanifaa](https://open.spotify.com/track/3nu58GJygIADFBTBGkA25t) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Unanifaa](https://open.spotify.com/album/0qR0bS6061tEud4fYRksqW) | 3:18 |
+| 21 | [Unanifaa](https://open.spotify.com/track/3nu58GJygIADFBTBGkA25t) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Unanifaa](https://open.spotify.com/album/0qR0bS6061tEud4fYRksqW) | 3:18 |
 | 22 | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/album/5Q9TxMIkTR8hNeU4ZNwTmP) | 3:26 |
 | 23 | [Lonely \(feat\. Nandy\)](https://open.spotify.com/track/7iO2DALT0B86XvNRqA4pES) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Lonely \(feat\. Nandy\)](https://open.spotify.com/album/5QRSblXzuw4jNruyefe6nI) | 3:31 |
 | 24 | [Nibusu \(feat\. Yammi\)](https://open.spotify.com/track/4dVzMCH149RdkaqROrsATS) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Nibusu \(feat\. Yammi\)](https://open.spotify.com/album/1F3HikuQyKXhIFfrPQ9SyV) | 3:37 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 64 | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/album/7yJk5o612tCEOe2mEaCX7t) | 4:28 |
 | 65 | [Wawili](https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Wawili](https://open.spotify.com/album/1vYxPvOHWpK4pFxRyFafcb) | 3:10 |
 | 66 | [Asante](https://open.spotify.com/track/5neSB7IERvhjSIDlIBjNbd) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Asante](https://open.spotify.com/album/5ddcMxbS1XXkRgt5ds6BLi) | 3:24 |
-| 67 | [Bado](https://open.spotify.com/track/74buPdQW7Xy39ryorpOaWC) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Bado](https://open.spotify.com/album/2L9Ap65owutg0v7TKoOhIV) | 3:34 |
+| 67 | [Bado](https://open.spotify.com/track/74buPdQW7Xy39ryorpOaWC) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Bado](https://open.spotify.com/album/2L9Ap65owutg0v7TKoOhIV) | 3:34 |
 | 68 | [Formula \(Moto Zimelia\)](https://open.spotify.com/track/14OBWCaKhqp7jkD4h0Qv7N) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Formula \(Moto Zimelia\)](https://open.spotify.com/album/5aRntlYfXagswLH6jXv3w2) | 4:03 |
 | 69 | [Butterfly \(feat\. Phina\)](https://open.spotify.com/track/3XHus2H79mt1LjHTqu1jN2) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Butterfly \(feat\. Phina\)](https://open.spotify.com/album/7uAArCR4SL1PZZnCVSpRvu) | 3:00 |
 | 70 | [Zamani](https://open.spotify.com/track/60bfNCQoQ668j2CbTfzqZA) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Zamani](https://open.spotify.com/album/38KjNLFKtwaHr8Vxzmviwn) | 3:38 |

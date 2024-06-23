@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Gettin' There",
+        "url": "https://open.spotify.com/album/2AWjtqnJ0AZxIeDZKuVvmR"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Gettin' There",
+      "url": "https://open.spotify.com/track/64JgqpVpWecb6FSdeBnKzE"
+    },
+    {
+      "album": {
         "name": "Good Friends",
         "url": "https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO"
       },

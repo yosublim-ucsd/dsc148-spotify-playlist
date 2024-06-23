@@ -1,6 +1,6 @@
 {
   "description": "Viikon parhaat uutuusbiisit samassa paketissa. ",
-  "num_followers": 93989,
+  "num_followers": 93993,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -1086,6 +1086,10 @@
         {
           "name": "Lemaitre",
           "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
+        },
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
         }
       ],
       "duration_ms": 244723,

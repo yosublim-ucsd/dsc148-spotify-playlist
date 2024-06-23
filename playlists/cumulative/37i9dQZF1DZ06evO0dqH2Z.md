@@ -2,7 +2,7 @@
 
 ### [This Is Tigers Jaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0dqH2Z)
 
-> This is Tigers Jaw\. The essential tracks, all in one playlist.
+> This Is Tigers Jaw\. Los temas esenciales, todos en una lista.
 
 71 songs - 3 hr 32 min
 
@@ -65,7 +65,7 @@
 | [Smile](https://open.spotify.com/track/3T634xUoZHDer4u5nZCzfe) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 1:52 | 2022-09-16 | 2024-05-28 |
 | [Smile](https://open.spotify.com/track/6fntXgWBG5KkL312QXaRIp) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 1:52 | 2024-01-31 | 2024-04-14 |
 | [Spirit Desire](https://open.spotify.com/track/3PTKa8qgM7axIkatKDxVft) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Spirit Desire](https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib) | 5:11 | 2022-09-16 |  |
-| [Static](https://open.spotify.com/track/40yWDRHSh8KfukhU5EiQLg) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 2:17 | 2024-05-28 | 2024-06-07 |
+| [Static](https://open.spotify.com/track/40yWDRHSh8KfukhU5EiQLg) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn) | 2:17 | 2024-05-28 |  |
 | [Stungun](https://open.spotify.com/track/7hhZGHHDvI2IYe7RQSPfQu) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Belongs To The Dead](https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr) | 3:32 | 2022-09-16 | 2022-10-13 |
 | [Swear](https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:39 | 2022-10-29 |  |
 | [Test Pattern](https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 2:20 | 2022-09-16 |  |

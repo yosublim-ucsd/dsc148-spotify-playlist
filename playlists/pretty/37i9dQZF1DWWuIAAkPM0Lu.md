@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:album:0vYywoBHcZgwW08A2rA9fU">KENNY</a> dør aldrig❤️‍🔥 <a href="spotify:artist:2KbikmQKGiUPR2ARs1h0sq">@gilliangilo</a>🪡 <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">@bennyjamzlive</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,447 likes - 102 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,472 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 64 | [Rock Steady](https://open.spotify.com/track/0HMkpffSlKWNgE9Qda0hB9) | [Naoui](https://open.spotify.com/artist/0AvmzQcrG34vvnXwwXy06A), [Kvali](https://open.spotify.com/artist/2gdOq55CnmQh19dBJiz1fE) | [Rock Steady](https://open.spotify.com/album/5D281EXkk8wlz7bA9qmT9z) | 2:00 |
 | 65 | [Nifunze](https://open.spotify.com/track/0amHOrUSeKvFojW8B6ceYq) | [Kaka](https://open.spotify.com/artist/1gZsxNKQOP0Bu2Obdx1YNR) | [Nifunze](https://open.spotify.com/album/1UXtxQxvNGcFlcgFbHDKNZ) | 2:28 |
 | 66 | [Extra Spicy Noodles](https://open.spotify.com/track/1jn47bO0NgHQ9dXQUBEjWo) | [IAMJJ](https://open.spotify.com/artist/5IXAoFwq3CLAMjvWorc6WJ) | [Extra Spicy Noodles](https://open.spotify.com/album/3h8iFim3VKuXAxx4QLNdgk) | 3:22 |
-| 67 | [Care](https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Care](https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow) | 4:04 |
+| 67 | [Care](https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Care](https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow) | 4:04 |
 | 68 | [Wallflower](https://open.spotify.com/track/0EccNEWfAgf4JB7vHczcym) | [Peder](https://open.spotify.com/artist/222TzH91go6DByqjFQCOGl) | [Wallflower](https://open.spotify.com/album/6u0qYxhxV0PDaXwe2VYl3C) | 3:11 |
 | 69 | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ) | 2:57 |
 | 70 | [Normal](https://open.spotify.com/track/1tKjsOJrv5vpkeqLNZvgEG) | [Klumben](https://open.spotify.com/artist/6l2TcYHKMr6XQn5hxfD48E), [Raske Penge](https://open.spotify.com/artist/7fOvQFIRL7o1WGXujMXQ46) | [Normal](https://open.spotify.com/album/5knrobOSpZgJvN3xZeKiPF) | 3:38 |

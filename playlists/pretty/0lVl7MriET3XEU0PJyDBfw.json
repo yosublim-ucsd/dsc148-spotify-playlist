@@ -6,7 +6,7 @@
     "name": "Houseium Playlists",
     "url": "https://open.spotify.com/user/jayke0108"
   },
-  "snapshot_id": "AAAYhDIUISccUMH/494Dysa3FsG4IBLC",
+  "snapshot_id": "AAAYhmQIkXq1m/QOpwxOu5MHceRqmunQ",
   "tracks": [
     {
       "added_at": "2024-06-21 05:39:46",
@@ -23,26 +23,6 @@
       "duration_ms": 199687,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/2bfXCTfLhgTuWEQUSlYGEe"
-    },
-    {
-      "added_at": "2024-05-24 19:39:54",
-      "album": {
-        "name": "Oh Baby!",
-        "url": "https://open.spotify.com/album/5dsP2jPN6LflY4wrKnmCRB"
-      },
-      "artists": [
-        {
-          "name": "TRYPBOX",
-          "url": "https://open.spotify.com/artist/5r4lVYYPWIvbRMH4rlAeFj"
-        },
-        {
-          "name": "Houseium",
-          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
-        }
-      ],
-      "duration_ms": 180468,
-      "name": "Oh Baby!",
-      "url": "https://open.spotify.com/track/7iUYRbnAN8XmiwK0WG3F66"
     },
     {
       "added_at": "2023-11-20 21:07:03",
@@ -135,6 +115,26 @@
       "duration_ms": 180000,
       "name": "Boca",
       "url": "https://open.spotify.com/track/4c0HhHcw6gIyRoVpkw4Mxr"
+    },
+    {
+      "added_at": "2024-05-24 19:39:54",
+      "album": {
+        "name": "Oh Baby!",
+        "url": "https://open.spotify.com/album/5dsP2jPN6LflY4wrKnmCRB"
+      },
+      "artists": [
+        {
+          "name": "TRYPBOX",
+          "url": "https://open.spotify.com/artist/5r4lVYYPWIvbRMH4rlAeFj"
+        },
+        {
+          "name": "Houseium",
+          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
+        }
+      ],
+      "duration_ms": 180468,
+      "name": "Oh Baby!",
+      "url": "https://open.spotify.com/track/7iUYRbnAN8XmiwK0WG3F66"
     },
     {
       "added_at": "2023-12-08 05:00:38",

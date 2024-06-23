@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 159268,
       "name": "Alam Aloshag",
       "url": "https://open.spotify.com/track/1zgIuawYbW1aRZ9MTTmnwt"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -6792,7 +6792,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -7498,6 +7498,24 @@
       "duration_ms": 191038,
       "name": "Good Boy Gone Bad",
       "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "album": {
@@ -19108,7 +19126,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 173639,
       "name": "the boy is mine",
       "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
@@ -21658,7 +21676,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 253176,
       "name": "Yekhreb Beitak",
       "url": "https://open.spotify.com/track/0KttvAWyAu87kMUmSs7Te7"
@@ -24264,6 +24282,24 @@
       "duration_ms": 201534,
       "name": "\u0645\u063a\u0631\u0628\u064a \u0647\u062c\u0648\u0644\u0647 | \u0639\u0646\u062f\u0648 \u0644\u062e\u064a\u0627\u0646\u0647 \u0645\u0648\u0636\u0647 \u060c \u0634\u062f\u064a \u0648\u0644\u062f\u0643 \u0639\u0644\u064a\u0627 - \u0645\u0637\u0644\u0648\u0628\u0647 \u0627\u0643\u062b\u0631 \u0634\u064a",
       "url": "https://open.spotify.com/track/7uiVZHtBqbQmzcp2X7TNaW"
+    },
+    {
+      "album": {
+        "name": "\u0645\u063a\u0631\u0628\u064a\u0627\u062a \u0627\u0633\u062a\u0643\u0646\u0627\u0646",
+        "url": "https://open.spotify.com/album/4RLC98kTOfWorlkVuyS6Jk"
+      },
+      "artists": [
+        {
+          "name": "Astknan Maghribi",
+          "url": "https://open.spotify.com/artist/3j2RV0vrjqFRwKVrV2aWr7"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219611,
+      "name": "\u0645\u063a\u0631\u0628\u064a\u0629 \u0637\u064a\u0627\u0631\u0629",
+      "url": "https://open.spotify.com/track/5gp2YvvqRre1LO9iNsEogZ"
     },
     {
       "album": {

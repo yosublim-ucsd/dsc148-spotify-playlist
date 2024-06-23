@@ -1,13 +1,33 @@
 {
-  "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 303556,
+  "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
+  "num_followers": 303687,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAAAy/7UY235+cmWC9LACxjdi",
+  "snapshot_id": "ZnTCgAAAAAAtt6YvXhPyd7/NrPvsnEPW",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Agricultor",
+        "url": "https://open.spotify.com/album/777kT9U0Wtv6Pfe4TbFgDp"
+      },
+      "artists": [
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 154762,
+      "name": "El Agricultor",
+      "url": "https://open.spotify.com/track/1JAak9XVWbVpxqcxUBXik7"
+    },
     {
       "added_at": null,
       "album": {
@@ -727,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imperio",
-        "url": "https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN"
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
       },
       "artists": [
         {
@@ -736,9 +756,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 191613,
-      "name": "El Regreso Del Chapo",
-      "url": "https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp"
+      "duration_ms": 218733,
+      "name": "El Jefe De La Sierra",
+      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
     },
     {
       "added_at": null,
@@ -759,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT"
+        "name": "Imperio",
+        "url": "https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN"
       },
       "artists": [
         {
@@ -768,25 +788,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 218733,
-      "name": "El Jefe De La Sierra",
-      "url": "https://open.spotify.com/track/6UuXzEW2GBwcJefoXTYztu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lista Negra",
-        "url": "https://open.spotify.com/album/4DszgJmZkatLJFbLvTyklT"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 156493,
-      "name": "El Agricultor",
-      "url": "https://open.spotify.com/track/7C3bObRIUeOGPDWlhSKEvw"
+      "duration_ms": 191613,
+      "name": "El Regreso Del Chapo",
+      "url": "https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp"
     },
     {
       "added_at": null,
@@ -839,6 +843,22 @@
       "duration_ms": 135882,
       "name": "El \u00c1guila Blanca",
       "url": "https://open.spotify.com/track/4z7isLhEqhDj5UAhDBPLNN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 141871,
+      "name": "El Jefe X",
+      "url": "https://open.spotify.com/track/3Hz5spi5hUGARyqggjkz2L"
     }
   ],
   "unique_name": "This Is Los Tucanes De Tijuana",

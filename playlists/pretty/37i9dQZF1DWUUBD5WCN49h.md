@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Shine ttw
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,175 likes - 79 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,181 likes - 79 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 17 | [Old Love](https://open.spotify.com/track/2Iuesyg6djj7hFSAHqJetN) | [KiKi Celine](https://open.spotify.com/artist/6GycTxlHdz7GvNJrl9JyWs) | [Old Love](https://open.spotify.com/album/5wfMhYYwZXVEwK6hdvZGH7) | 2:21 |
 | 18 | [California](https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [California / Rollercoaster](https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga) | 2:20 |
 | 19 | [Digestive's Story](https://open.spotify.com/track/6g0lgD3zfOYcXD8rVqwsK0) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Faygos Paradise](https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi) | [Digestive's Story](https://open.spotify.com/album/4MY8oKLiXztJ1DbR2DJCFk) | 2:48 |
-| 20 | [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/7kqlFgn7tqLufAULiv8kJE) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 |
+| 20 | [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 |
 | 21 | [Maybe It's You](https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Maybe It's You](https://open.spotify.com/album/6ZvwrJU2Ozh8CsmjiOXED6) | 1:55 |
 | 22 | [Happy](https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Happy](https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN) | 3:02 |
 | 23 | [Call Me](https://open.spotify.com/track/3ymSx5mCHlWAeb1yF6ZAPb) | [Teemanay](https://open.spotify.com/artist/73mZwsrUqiDDoyD1FMVc7l) | [Call Me](https://open.spotify.com/album/51xSh3oKnYhYi77871elgq) | 2:47 |

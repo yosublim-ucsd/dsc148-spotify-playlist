@@ -2,9 +2,9 @@
 
 ### [Latest Tamil](https://open.spotify.com/playlist/37i9dQZF1DWVo4cdnikh7Z)
 
-> New Music from Kollywood.<br/>Cover : Indian 2
+> New Music from Kollywood.<br/>Cover : GOAT
 
-1,339 songs - 3 day 9 hr 52 min
+1,340 songs - 3 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Chill Makkaa](https://open.spotify.com/track/4XmhJxv1NCvwwlPl9KQKm5) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Good Night \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtdCzPkXkjtTkYev6EgPQ) | 4:14 | 2023-05-16 | 2023-06-23 |
 | [Chill Makkaa \- From "Good Night"](https://open.spotify.com/track/6S6EGzAQVjPzBsKWjHQZpL) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Chill Makkaa \(From "Good Night"\)](https://open.spotify.com/album/6vwS08oT3eq8YGroRNGPmc) | 4:14 | 2023-04-20 | 2023-04-26 |
 | [Chillanjirukkiye \(From "Lubber Pandhu"\)](https://open.spotify.com/track/3jixbQHg5vDuZRNqzordcI) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Chillanjirukkiye \(From "Lubber Pandhu"\)](https://open.spotify.com/album/7eucanSNGPAuKBJCzXO8Pq) | 4:07 | 2023-11-10 | 2024-01-16 |
+| [Chinna Chinna Kangal \(From "The Greatest Of All Time"\)](https://open.spotify.com/track/45INGwihwyL537U2JdGuzW) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Raja Bhavatharini](https://open.spotify.com/artist/6abqwiPNT4niDf1GcS8qWK) | [Chinna Chinna Kangal \(From "The Greatest Of All Time"\)](https://open.spotify.com/album/469IlT5XtPKdVyYYKxNzWK) | 4:29 | 2024-06-22 |  |
 | [Chinna Maamiye](https://open.spotify.com/track/1oLJIeFTazH63VenzlRR2C) | [Nithi Kanagaratnam](https://open.spotify.com/artist/4EO7knyiy9ZAKJLHGVDShr), [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB) | [Gargi \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2XETbDv6zAdtX4Bj0XNGzC) | 2:39 | 2022-07-15 | 2022-07-22 |
 | [Chinna Paiyan](https://open.spotify.com/track/1s9tOQi4m09oUYrFe4NHq7) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Chinna Paiyan](https://open.spotify.com/album/2qM9ehonwr9k0gp3P9pd1N) | 3:22 | 2022-08-15 | 2022-09-16 |
 | [Chinna Ponnu](https://open.spotify.com/track/3eJbi3PhkOcy4Izv6ioqt0) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S) | [Vikrant Rona \(TAMIL\)](https://open.spotify.com/album/4clQks1A41Mjgq1vX00aza) | 3:30 | 2022-08-01 | 2022-08-08 |

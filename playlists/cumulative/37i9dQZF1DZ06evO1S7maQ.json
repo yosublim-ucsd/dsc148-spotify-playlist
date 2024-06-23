@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
+  "description": "This Is Bruce Springsteen. Los temas esenciales, todos en una lista.",
   "name": "This Is Bruce Springsteen",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 242453,
       "name": "Badlands",
       "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 278680,
       "name": "Born in the U.S.A.",
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 205986,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/4U7NhC2rQTAhH7dw7H0goB"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 254733,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 233320,
       "name": "History Books (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/0ORiGVGhQ3Mvb3F18DONlV"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 240146,
       "name": "No Surrender",
       "url": "https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 195080,
       "name": "Streets of Philadelphia - Single Edit",
       "url": "https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd"
@@ -1770,6 +1770,24 @@
       "duration_ms": 187400,
       "name": "Turn Back the Hands of Time",
       "url": "https://open.spotify.com/track/1UqC0kvyqK0pk7f9MdjBZa"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162066,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/50JK0hBaHMWYo20S7AvKbB"
     },
     {
       "album": {

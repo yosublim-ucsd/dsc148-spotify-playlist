@@ -1,6 +1,6 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 208667,
+  "num_followers": 208942,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-06-21 05:08:36",
       "album": {
+        "name": "JxW 1st Single Album 'THIS MAN'",
+        "url": "https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN"
+      },
+      "artists": [
+        {
+          "name": "JxW",
+          "url": "https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "Last night (Guitar by Park Juwon)",
+      "url": "https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS"
+    },
+    {
+      "added_at": "2024-06-21 05:08:36",
+      "album": {
         "name": "The Red Summer - Summer Mini Album",
         "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 182332,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk"
-    },
-    {
-      "added_at": "2024-06-21 05:08:36",
-      "album": {
-        "name": "JxW 1st Single Album 'THIS MAN'",
-        "url": "https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN"
-      },
-      "artists": [
-        {
-          "name": "JxW",
-          "url": "https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "Last night (Guitar by Park Juwon)",
-      "url": "https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS"
     },
     {
       "added_at": "2024-06-21 05:08:36",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-06-21 05:08:36",
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 178013,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
+    },
+    {
+      "added_at": "2024-06-21 05:08:36",
+      "album": {
         "name": "1st Mini Album 'MANITO'",
         "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 180000,
       "name": "Gashina",
       "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
-    },
-    {
-      "added_at": "2024-06-21 05:08:36",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
     },
     {
       "added_at": "2024-06-21 05:08:36",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-06-21 05:08:36",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
-    },
-    {
-      "added_at": "2024-06-21 05:08:36",
-      "album": {
         "name": "Why - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 207777,
       "name": "Why",
       "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"
+    },
+    {
+      "added_at": "2024-06-21 05:08:36",
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
     },
     {
       "added_at": "2024-06-21 05:08:36",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-06-21 05:08:36",
       "album": {
+        "name": "SABOTAGE",
+        "url": "https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL"
+      },
+      "artists": [
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "SABOTAGE",
+      "url": "https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe"
+    },
+    {
+      "added_at": "2024-06-21 05:08:36",
+      "album": {
         "name": "Like that",
         "url": "https://open.spotify.com/album/49i3C9ZMmMAXUBL0xbfrO3"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2024-06-21 05:08:36",
       "album": {
-        "name": "HOLIDAY",
-        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
-      },
-      "artists": [
-        {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "I LOVE U",
-      "url": "https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ"
-    },
-    {
-      "added_at": "2024-06-21 05:08:36",
-      "album": {
         "name": "Taste of Love",
         "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 173133,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8"
+    },
+    {
+      "added_at": "2024-06-21 05:08:36",
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "I LOVE U",
+      "url": "https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ"
     },
     {
       "added_at": "2024-06-21 05:08:36",
@@ -1147,22 +1163,6 @@
       "duration_ms": 197938,
       "name": "ISLAND",
       "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
-    },
-    {
-      "added_at": "2024-06-21 05:08:36",
-      "album": {
-        "name": "SABOTAGE",
-        "url": "https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL"
-      },
-      "artists": [
-        {
-          "name": "KWON EUNBI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        }
-      ],
-      "duration_ms": 195613,
-      "name": "SABOTAGE",
-      "url": "https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe"
     },
     {
       "added_at": "2024-06-21 05:08:36",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-06-21 05:08:36",
       "album": {
+        "name": "\ufeffcignature 5th EP Album 'Sweetie but Saltie'",
+        "url": "https://open.spotify.com/album/2b1k5XuKhLK0zkCS7B85pY"
+      },
+      "artists": [
+        {
+          "name": "cignature",
+          "url": "https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "Poongdung",
+      "url": "https://open.spotify.com/track/3k37BDB7RmEl4TvmsdLNdI"
+    },
+    {
+      "added_at": "2024-06-21 05:08:36",
+      "album": {
         "name": "What You Waiting For",
         "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 199213,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
-    },
-    {
-      "added_at": "2024-06-21 05:08:36",
-      "album": {
-        "name": "\ufeffcignature 5th EP Album 'Sweetie but Saltie'",
-        "url": "https://open.spotify.com/album/2b1k5XuKhLK0zkCS7B85pY"
-      },
-      "artists": [
-        {
-          "name": "cignature",
-          "url": "https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Poongdung",
-      "url": "https://open.spotify.com/track/3k37BDB7RmEl4TvmsdLNdI"
     },
     {
       "added_at": "2024-06-21 05:08:36",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-06-21 05:08:36",
       "album": {
+        "name": "The Red Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 204833,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid"
+    },
+    {
+      "added_at": "2024-06-21 05:08:36",
+      "album": {
         "name": "RANDOM BOX",
         "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 196866,
       "name": "Love & hate (Feat. BIBI)",
       "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
-    },
-    {
-      "added_at": "2024-06-21 05:08:36",
-      "album": {
-        "name": "The Red Summer - Summer Mini Album",
-        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 204833,
-      "name": "Zoo",
-      "url": "https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid"
     },
     {
       "added_at": "2024-06-21 05:08:36",
@@ -1639,6 +1639,30 @@
     {
       "added_at": "2024-06-21 05:08:36",
       "album": {
+        "name": "RIDE OR DIE",
+        "url": "https://open.spotify.com/album/63bRGOQ1sHPNltuaF51LDW"
+      },
+      "artists": [
+        {
+          "name": "KOALA",
+          "url": "https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ"
+        },
+        {
+          "name": "Eric Minz",
+          "url": "https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo"
+        },
+        {
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+        }
+      ],
+      "duration_ms": 195093,
+      "name": "RIDE OR DIE",
+      "url": "https://open.spotify.com/track/5KqAJUGnfeUgBOdEGoYL7J"
+    },
+    {
+      "added_at": "2024-06-21 05:08:36",
+      "album": {
         "name": "1st Single 'S.i.R'",
         "url": "https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH"
       },
@@ -1671,30 +1695,6 @@
       "duration_ms": 164293,
       "name": "What If",
       "url": "https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l"
-    },
-    {
-      "added_at": "2024-06-21 05:08:36",
-      "album": {
-        "name": "RIDE OR DIE",
-        "url": "https://open.spotify.com/album/63bRGOQ1sHPNltuaF51LDW"
-      },
-      "artists": [
-        {
-          "name": "KOALA",
-          "url": "https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ"
-        },
-        {
-          "name": "Eric Minz",
-          "url": "https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo"
-        },
-        {
-          "name": "JMIN",
-          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
-        }
-      ],
-      "duration_ms": 195093,
-      "name": "RIDE OR DIE",
-      "url": "https://open.spotify.com/track/5KqAJUGnfeUgBOdEGoYL7J"
     }
   ],
   "unique_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",

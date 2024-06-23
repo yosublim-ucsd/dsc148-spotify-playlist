@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Afgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,995 likes - 120 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,019 likes - 120 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 41 | [星街の駅で](https://open.spotify.com/track/6JgazBWIYH1tHOuGEcxLes) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [星街の駅で](https://open.spotify.com/album/2QC5kpcOy0JltYCGqBlvTv) | 3:58 |
 | 42 | [She is a Dream Pop girl](https://open.spotify.com/track/7AIH2Yv5rg0gXNs0tAoSpq) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [She is a Dream Pop girl](https://open.spotify.com/album/1JcD5n1QyKHhJ1pnQMlhQi) | 3:23 |
 | 43 | [Nothing To Miss](https://open.spotify.com/track/0TvFEvuJJtOgCldWnvdT3p) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Nothing To Miss](https://open.spotify.com/album/4rh4CdBWQ5piiVtq2QTxyP) | 3:14 |
-| 44 | [Tak Tentu](https://open.spotify.com/track/6NMvaa57gp5Pfw692yl2TN) | [etto](https://open.spotify.com/artist/5qscbO7TSjfCuOvz2kQHsl) | [Tak Tentu](https://open.spotify.com/album/6gkNz699XZkRW08lrzHNll) | 3:47 |
+| 44 | [Tak Tentu](https://open.spotify.com/track/6NMvaa57gp5Pfw692yl2TN) | [etto](https://open.spotify.com/artist/3nclN60uLT0pToquQDLN6U) | [Tak Tentu](https://open.spotify.com/album/6gkNz699XZkRW08lrzHNll) | 3:47 |
 | 45 | [23](https://open.spotify.com/track/6PLPouH9lk57Kdrb6kbLnt) | [Mentari Novel](https://open.spotify.com/artist/5DsdNBqFCoD43aPV8XhxmQ) | [That Girl](https://open.spotify.com/album/0A8J1Tnh9I7JwMIrEZvwbE) | 3:45 |
 | 46 | [Out of Time \(feat\. Bea Miller\)](https://open.spotify.com/track/10t8QGZXfGCeAnEWSaWymM) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Out of Time \(feat\. Bea Miller\)](https://open.spotify.com/album/3bYjmOOhtkMfjqfKdvhCjm) | 3:42 |
 | 47 | [Music is Better](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Music is Better](https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu) | 3:56 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 56 | [Badder Love](https://open.spotify.com/track/2muqyJpZ71YJ7bP9F69rZM) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [RIDE or DIE](https://open.spotify.com/album/66GxvvTy5DcJlhs4XAyc8v) | 2:37 |
 | 57 | [Janji Setia](https://open.spotify.com/track/69wgjqG4OKu3oMuMx3BJKq) | [Ivan Tandyo](https://open.spotify.com/artist/5TcqV9DKVke1eYk4EcdACc), [Sari Simorangkir](https://open.spotify.com/artist/4SMWyJhr2EAP4Jci5bFfEv) | [Janji Setia](https://open.spotify.com/album/25mcuW3evPLgTS0JMN0m4g) | 4:35 |
 | 58 | [Misery Boy](https://open.spotify.com/track/4R7m5UEkR2nvWuIJB5yLBB) | [Tiffany Kenanga](https://open.spotify.com/artist/0zT2tZH2apSkDSUKGMouvV) | [Misery Boy](https://open.spotify.com/album/45Gii4IheAXfjUJlFDx3Cn) | 3:04 |
-| 59 | [Denganmu](https://open.spotify.com/track/5p461soYJ343QtPTQYIlJF) | [Dodi Hidayatullah](https://open.spotify.com/artist/5DtLvjtL1gcVENNNoAETCL), [Ray Shareza](https://open.spotify.com/artist/5FbshoTq38tzlL25gymuli) | [Denganmu](https://open.spotify.com/album/7bANRwBWWUo3j4WEuCGYWP) | 4:06 |
+| 59 | [Denganmu](https://open.spotify.com/track/5p461soYJ343QtPTQYIlJF) | [Dodi Hidayatullah](https://open.spotify.com/artist/5DtLvjtL1gcVENNNoAETCL), [Ray Shareza](https://open.spotify.com/artist/5FbshoTq38tzlL25gymuli) | [Denganmu](https://open.spotify.com/album/7bANRwBWWUo3j4WEuCGYWP) | 4:31 |
 | 60 | [Inner Dance](https://open.spotify.com/track/2O4pDMQQYRAafCrlVP5AEU) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Glow <Inner Dance>](https://open.spotify.com/album/1s9mkcyxFmeOvsI1KDfW06) | 3:01 |
 | 61 | [Let It Burn](https://open.spotify.com/track/61ErurYjc1oFru6WZgic8X) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 3rd Mini Album \[LOVE or HATE\]](https://open.spotify.com/album/6SCL9tVHIBgOyr4GIRPFfN) | 3:01 |
 | 62 | [Race Up](https://open.spotify.com/track/2y8d2NPxcTDPagT2XNDbfv) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [LUNCH\-BOX](https://open.spotify.com/album/4dHoAVeWILU2xZXlla0mDG) | 3:09 |

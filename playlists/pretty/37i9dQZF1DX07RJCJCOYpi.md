@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Deorro
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,950,375 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,950,302 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 49 | [Me Sacas](https://open.spotify.com/track/6vJtAViJFjIZce8RcYfBkH) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [G4BBA](https://open.spotify.com/artist/1P4pmBbuQwsKKV39MfzGVd), [Gavss](https://open.spotify.com/artist/0qEqW7rr1VRG15q2iZiSMc) | [Me Sacas](https://open.spotify.com/album/2bI2PWT9He2tBtmfeCjJrI) | 2:18 |
 | 50 | [PE$OS \- 2DEEP Remix](https://open.spotify.com/track/13VEuKLyYPyEhYnVmin5kS) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [On The One](https://open.spotify.com/artist/1rCW6VZVxnL6tBuoqL3FNh), [Pek](https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [PE$OS \(2DEEP Remix\)](https://open.spotify.com/album/1vtOCTbr6WLRpBiBypXM8I) | 3:02 |
 
-Snapshot ID: `ZnVJQQAAAAAfAesutr33o36+c+CyGDWQ`
+Snapshot ID: `ZnaBowAAAAAlvqpE06q1+edIA4tIbTyB`

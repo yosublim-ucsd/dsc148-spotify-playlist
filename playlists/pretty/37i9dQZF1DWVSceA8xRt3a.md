@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 
 > Celine Song of A24's Past Lives curates a playlist of "love songs about cities"
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,883 likes - 47 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,913 likes - 47 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 | 11 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
 | 12 | [Paris 1919](https://open.spotify.com/track/5Zpy2HR2vYLjlTQVd81DLH) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Paris 1919](https://open.spotify.com/album/3WkD4YxRCzgXG2MJF9yDpk) | 4:06 |
 | 13 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:40 |
-| 14 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |
+| 14 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |
 | 15 | [Andalucia](https://open.spotify.com/track/5E2CoOxdJsOLeRoyfujlRn) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Paris 1919](https://open.spotify.com/album/3WkD4YxRCzgXG2MJF9yDpk) | 3:54 |
 | 16 | [The Girl from Ipanema](https://open.spotify.com/track/1aucqAQImjlcxcQajOBUAv) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Collection](https://open.spotify.com/album/4us3GOm42EubfNyOqYf55R) | 3:04 |
 | 17 | [Kansas City](https://open.spotify.com/track/7GoBeudlghOYGNoRuz9yLI) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Volume II](https://open.spotify.com/album/1xG5S6sfeFZcekU2qjGlGf) | 2:31 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 | 21 | [One Great City!](https://open.spotify.com/track/79jIauLDQffSrwtY0ostxv) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reconstruction Site](https://open.spotify.com/album/14gpuI6JNy9gekaT0p6m9N) | 2:54 |
 | 22 | [San Diego](https://open.spotify.com/track/27SYHtDA4WsdcLTJx55Sao) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Built on Squares](https://open.spotify.com/album/1upSOFGjov4vu0lN6XQsPa) | 2:35 |
 | 23 | [Toronto 4](https://open.spotify.com/track/36mfVVBV9EHw5UyrHxzLvs) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Music@Work](https://open.spotify.com/album/1HUCg8G3crYzn2sGujgSho) | 2:59 |
-| 24 | [Calgary](https://open.spotify.com/track/3rL3jc6CA4SS1eqzGwR877) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:10 |
+| 24 | [Calgary](https://open.spotify.com/track/3rL3jc6CA4SS1eqzGwR877) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:10 |
 | 25 | [Baltimore \- Live At Vine St\. Bar & Grill/1987](https://open.spotify.com/track/0Ix6OZz7O5Dh7fRKvrViZs) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It Be Me \(Live\)](https://open.spotify.com/album/3jF9Zz9QlwIMgNvSaY8KW9) | 4:41 |
 | 26 | [명동콜링](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [더 팬 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 |
 | 27 | [Streets of Philadelphia \- Single Edit](https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 3:15 |

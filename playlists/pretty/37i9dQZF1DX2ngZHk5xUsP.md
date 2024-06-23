@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat\. Cover: Juicy Luicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,587 likes - 90 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,595 likes - 90 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 45 | [Kaqotun](https://open.spotify.com/track/4Go5gWOhnFCqn6RpEjZmm7) | [Sillas](https://open.spotify.com/artist/1DGiCzaCRZdqGyOC3c2Z6y) | [Kaqotun](https://open.spotify.com/album/2mqq8dZc8acR395hXcXVhL) | 5:13 |
 | 46 | [Bertaruh Pada Api](https://open.spotify.com/track/0TblrOwGd4j8YK0cdTRo5v) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Bertaruh Pada Api](https://open.spotify.com/album/2VOfBP9LA5KsNMFyM35iR1) | 4:30 |
 | 47 | [Repetitif](https://open.spotify.com/track/77fJ3Feec0pJOFgdkn1VZI) | [A Curious Voynich](https://open.spotify.com/artist/3KGbrizFEqtuCV3EzBYxlp) | [Fase Kedua](https://open.spotify.com/album/2b7ZUDBepcJhFZt2fAciTp) | 2:18 |
-| 48 | [Memadu Rindu](https://open.spotify.com/track/5xbGCLl2WxSPmAQ0AeTLmy) | [Mustache and Beard](https://open.spotify.com/artist/016QI3CCkvtFY60hN9lPLc) | [Memadu Rindu](https://open.spotify.com/album/4ERITkLvbx6nmiBFRSqMPo) | 4:11 |
+| 48 | [Memadu Rindu](https://open.spotify.com/track/5xbGCLl2WxSPmAQ0AeTLmy) | [Soenji](https://open.spotify.com/artist/5LFvlAVJttO2Jf0TNaDdHd) | [Memadu Rindu](https://open.spotify.com/album/4ERITkLvbx6nmiBFRSqMPo) | 4:11 |
 | 49 | [Di Atas Normal](https://open.spotify.com/track/2icjHMLGHCyFngdm7zYr34) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Di Atas Normal](https://open.spotify.com/album/5iuLwZKk0Hi0VnPuFzBQbl) | 3:29 |
 | 50 | [my Mystery](https://open.spotify.com/track/36T5RCOBXJM7fXU4rKLSlP) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [my Mystery](https://open.spotify.com/album/3tfEX6ctvTwkZwzP91mQUC) | 5:08 |
 | 51 | [Lara](https://open.spotify.com/track/1sGsoXJgOZ3wY3tveCUwWs) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [Lara](https://open.spotify.com/album/28qOVtZkeUoUdzU8JEExdG) | 5:26 |

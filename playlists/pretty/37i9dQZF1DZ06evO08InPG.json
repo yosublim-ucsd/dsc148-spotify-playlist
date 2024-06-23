@@ -1,12 +1,12 @@
 {
-  "description": "This is Machine Head. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 56977,
+  "description": "This is Machine Head. The essential tracks, all in one playlist.",
+  "num_followers": 56989,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAAAdc8fm7AGTlUzsxePpx0y2",
+  "snapshot_id": "ZnTCgAAAAABDH6lxdU7Jy1spnRE8BwmM",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unto the Locust (Special Edition)",
-        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 387840,
-      "name": "Darkness Within",
-      "url": "https://open.spotify.com/track/0bHYX16vAFaFhtEqKhCeqg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supercharger",
         "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 275133,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/6T5xfC1iWSXttGlq3rTtNo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 387840,
+      "name": "Darkness Within",
+      "url": "https://open.spotify.com/track/0bHYX16vAFaFhtEqKhCeqg"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supercharger",
-        "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 193893,
-      "name": "Crashing Around You",
-      "url": "https://open.spotify.com/track/6FlLqxn1lNuVo8J5xABDcb"
+      "duration_ms": 636800,
+      "name": "Clenching the Fists of Dissent",
+      "url": "https://open.spotify.com/track/7ao9MKmhkjeFxw0alndkdM"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supercharger",
+        "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Crashing Around You",
+      "url": "https://open.spotify.com/track/6FlLqxn1lNuVo8J5xABDcb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Through the Ashes of Empires",
         "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 201506,
       "name": "Bite the Bullet",
       "url": "https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blackening",
-        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 636800,
-      "name": "Clenching the Fists of Dissent",
-      "url": "https://open.spotify.com/track/7ao9MKmhkjeFxw0alndkdM"
     },
     {
       "added_at": null,

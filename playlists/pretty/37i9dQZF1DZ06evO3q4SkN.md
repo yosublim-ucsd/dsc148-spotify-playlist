@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578 likes - 38 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 579 likes - 38 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 21 | [The Cracks Emerge](https://open.spotify.com/track/26mOsSaZlHtMtgrIQqxEl3) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 1:22 |
 | 22 | [Summer Passes Into Autumn](https://open.spotify.com/track/4XuC1b3xLK3O2zmFppHRwc) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:01 |
 | 23 | [Ginny Sees the Light](https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:09 |
-| 24 | [Royal Jet](https://open.spotify.com/track/17rn7t2bif66IjAc9q3E3Y) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:06 |
+| 24 | [George's Realization](https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:52 |
 | 25 | [Separation Anxiety](https://open.spotify.com/track/07DwLdqts4dZrfCm6sfO3k) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:35 |
 | 26 | [Someone Lives Here](https://open.spotify.com/track/0I8SWyhQy39vBSiIVzE68j) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 1:04 |
 | 27 | [Ginny's Home](https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 2:09 |
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 30 | [Winter Passes Into Spring](https://open.spotify.com/track/7E0rakzFoaTjGlVGqmfPBQ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:04 |
 | 31 | [Cowboy Frank](https://open.spotify.com/track/64JVi4jEiHt652E4jrkA65) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:23 |
 | 32 | [Win And Still Be Me](https://open.spotify.com/track/5pGZTHvOc8gs1bN8xdYrmW) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 2:55 |
-| 33 | [Adrian's Zone](https://open.spotify.com/track/0tsUUplFxwJud6sis2zcH5) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:39 |
+| 33 | [Skittles](https://open.spotify.com/track/1pOAAbPKHLaKNBnCOj7vi6) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:29 |
 | 34 | [The Box](https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 4:04 |
 | 35 | [En Este Momento \(feat\. Gabriela Martinez\)](https://open.spotify.com/track/4qTcmOgCo92nYfslCYTWxg) | [Federico Ramos](https://open.spotify.com/artist/21KfnWJ8r1OSD9sNEKrLfm), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe), [Gabriela Martinez](https://open.spotify.com/artist/6DxYmXAvO5MWIOvnwltlLk) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 2:40 |
 | 36 | [Autumn Becomes Winter](https://open.spotify.com/track/2uYcCSsJp4gHgWogMRdDpM) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:03 |
-| 37 | [Zoe's Snow Globes](https://open.spotify.com/track/3y73rn8sjA8c0aPKMkC2nk) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:21 |
-| 38 | [Into The Headlights](https://open.spotify.com/track/53zR9IVRrlnLBHx8Me3col) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 2:14 |
+| 37 | [Into The Headlights](https://open.spotify.com/track/53zR9IVRrlnLBHx8Me3col) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 2:14 |
+| 38 | [Adrian's Zone](https://open.spotify.com/track/0tsUUplFxwJud6sis2zcH5) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:39 |
 
-Snapshot ID: `ZnNxAAAAAABCo28W25EVeggVks/lDHeW`
+Snapshot ID: `ZnTCgAAAAACkVx4p9FKzwcst1NAdaaeU`

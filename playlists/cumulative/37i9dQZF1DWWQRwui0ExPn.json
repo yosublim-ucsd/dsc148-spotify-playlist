@@ -18192,7 +18192,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 96602,
       "name": "Camping With Claude",
       "url": "https://open.spotify.com/track/4lXRsUAcf5wPthpzKVYDxi"
@@ -23562,7 +23562,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 130000,
       "name": "Collecting Dust",
       "url": "https://open.spotify.com/track/2Rr4GXLsUy7vJy2PB3mSYj"
@@ -26052,6 +26052,24 @@
       "duration_ms": 149131,
       "name": "Crema",
       "url": "https://open.spotify.com/track/7IvvJS3KzogD6hbjS8ucN2"
+    },
+    {
+      "album": {
+        "name": "Crescent",
+        "url": "https://open.spotify.com/album/2IjILZtDXBXx3tHJaxBL2e"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165789,
+      "name": "Crescent",
+      "url": "https://open.spotify.com/track/3U5jU9SmJxeelFlfKCk6Rd"
     },
     {
       "album": {
@@ -35292,7 +35310,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 163468,
       "name": "Envision",
       "url": "https://open.spotify.com/track/1uXF503ovswvRMxJ3sMdBJ"
@@ -86017,6 +86035,24 @@
     },
     {
       "album": {
+        "name": "Pacman Remedy",
+        "url": "https://open.spotify.com/album/3oTWEjYpokWx6xhGAMdVFI"
+      },
+      "artists": [
+        {
+          "name": "Dubtrack",
+          "url": "https://open.spotify.com/artist/7649N0LXjp4mVaHfuLqcGo"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "Pacman Remedy",
+      "url": "https://open.spotify.com/track/1c7efWJsgIGpWFDp6YfPBN"
+    },
+    {
+      "album": {
         "name": "Padron Peppers",
         "url": "https://open.spotify.com/album/0Tbe84qMXurDdDK7xgHKGQ"
       },
@@ -113104,6 +113140,24 @@
       "duration_ms": 78187,
       "name": "swept away",
       "url": "https://open.spotify.com/track/13dy7U1olaHEBqd009EPDl"
+    },
+    {
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/2UjaAKFpNWz8FtIjXbcu3y"
+      },
+      "artists": [
+        {
+          "name": "Blue Bag",
+          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132053,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/6SQPIwxN4vzoQZNs3IIphy"
     },
     {
       "album": {

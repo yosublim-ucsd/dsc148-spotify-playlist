@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-2,052 songs - 4 day 14 hr 42 min
+2,053 songs - 4 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Antibellakera](https://open.spotify.com/track/0sUwTfPw7OEaXoNSHlItvm) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Antibellakera](https://open.spotify.com/album/0lJ5swFhbTejPG5BqScTG9) | 1:44 | 2023-04-25 | 2023-04-30 |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-11-08 | 2023-02-13 |
 | [Apaga El Cel](https://open.spotify.com/track/6yRe5Fl3lqAh759vb23eHi) | [Filtramusic](https://open.spotify.com/artist/1qdcmBIfUbb8QjPr23Hu7R) | [Apaga El Cel](https://open.spotify.com/album/3QVVMwJ4u57XM31gfxClmG) | 1:35 | 2024-05-14 | 2024-05-18 |
-| [APAGA EL CEL](https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [APAGA EL CEL](https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF) | 3:04 | 2024-06-04 |  |
+| [APAGA EL CEL](https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [APAGA EL CEL](https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF) | 3:04 | 2024-06-04 | 2024-06-23 |
 | [APRENDER A AMAR](https://open.spotify.com/track/3IIwWeUz1DEKHfY01uej6N) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 1:39 | 2024-06-04 | 2024-06-07 |
 | [Aprovechame \(Cris Mj \- ia\) IAVERSO \#1](https://open.spotify.com/track/0RGJntz0mZMZ3R8EODpP5g) | [Shelbyboy](https://open.spotify.com/artist/3YRHwwzZFs4kEw6kPgJ8zI) | [Aprovechame \(Cris Mj \- ia\) IAVERSO \#1](https://open.spotify.com/album/601kUgYSKK1ySoEAtYe03S) | 2:01 | 2023-11-15 | 2023-12-21 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-16 | 2023-05-24 |
@@ -423,6 +423,7 @@
 | [Cristina](https://open.spotify.com/track/61Rh2JHY0fs949cvhgtXIE) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Sorry, Estoy en Mi Darkera](https://open.spotify.com/album/6NK4S0ZPUudBrWThVBz8c3) | 2:59 | 2023-08-22 | 2023-10-18 |
 | [CRYSTALS \(Slowed\)](https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS \(Remixes\)](https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5) | 1:15 | 2023-05-11 | 2023-05-15 |
 | [Cuando Repetimo](https://open.spotify.com/track/2wXZID94XOUV7kB8GsVdzK) | [Rocco](https://open.spotify.com/artist/2h3vGzEnHE3ZkEDHgpLgaj), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Cuando Repetimo](https://open.spotify.com/album/06K1ODIQk3H1akTQMBHcUT) | 3:26 | 2023-01-10 | 2023-01-16 |
+| [Cuando Se Te Moja La Tare](https://open.spotify.com/track/00EVTGFVlGQ5ZNmiUvR2H8) | [LDRR](https://open.spotify.com/artist/2DtIt7mMzdaEEFVUbSmnoU) | [Cuando Se Te Moja La Tare](https://open.spotify.com/album/1yFMpxt43h5giRPJka6VS8) | 3:11 | 2024-06-22 |  |
 | [Cuando Un Bandido Se Enamora](https://open.spotify.com/track/7ubUW5H3zEXQxbS1jnSY15) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Cuando Un Bandido Se Enamora](https://open.spotify.com/album/1kuu3zPce05oeXLdk0v5h8) | 2:50 | 2023-12-26 | 2023-12-31 |
 | [Cueca Quien Diria](https://open.spotify.com/track/1218sAWJcTuUW4LUFw34oD) | [Grupo Alerzal De Los Rios](https://open.spotify.com/artist/5l7NDa2GL0zW0BXy2LSOkC) | [Cueca Quien Diria](https://open.spotify.com/album/33aVFylm2iEjfRXpZsJc1w) | 2:18 | 2022-09-17 | 2022-09-25 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-09-29 | 2022-11-02 |

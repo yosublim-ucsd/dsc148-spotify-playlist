@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Boza, Elena Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,619 likes - 55 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,665 likes - 55 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 10 | [TITI](https://open.spotify.com/track/4dmK0F5E0jVMUPgY5tMkI3) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [TITI](https://open.spotify.com/album/7H26CGe2Aom4hk3RucV8vU) | 3:07 |
 | 11 | [Prohibido](https://open.spotify.com/track/76dap7zLqLGWaQ9CZK6GBa) | [LUPVS DEI](https://open.spotify.com/artist/6c0GZsdTPRhpoZDGYKkTKx), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw), [At' Fat](https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7), [WHOISYOKI](https://open.spotify.com/artist/64z943rizD7HzaPnhAR7fw), [Samy the wizard](https://open.spotify.com/artist/0Rx7CrlF7vm6eEHNRAmk9D) | [Prohibido](https://open.spotify.com/album/4p2J0nNG0MlZsNnLJ617dX) | 2:51 |
 | 12 | [Party En Mi Casa](https://open.spotify.com/track/5PEzhJIvmjFCFZcFZRze9S) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Sonrisas Tristes](https://open.spotify.com/album/4zzCQHjlhEEAidzfNRONJL) | 2:37 |
-| 13 | [Ojitos](https://open.spotify.com/track/3kR3FCupyTbyJX9VjIJ3m4) | [ArmanPro](https://open.spotify.com/artist/1eL37nz9OoE3Ld8TkQ9sfk), [Kenny Man](https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf), [Isra Da Proxx](https://open.spotify.com/artist/25P3pQ7prPEKluIrxWQcIb) | [Ojitos](https://open.spotify.com/album/2XUlPZizZQgrlK6aQcntN6) | 2:53 |
+| 13 | [Ojitos \- Remix](https://open.spotify.com/track/3kR3FCupyTbyJX9VjIJ3m4) | [ArmanPro](https://open.spotify.com/artist/1eL37nz9OoE3Ld8TkQ9sfk), [Kenny Man](https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf), [Isra Da Proxx](https://open.spotify.com/artist/25P3pQ7prPEKluIrxWQcIb) | [Ojitos \(Remix\)](https://open.spotify.com/album/2XUlPZizZQgrlK6aQcntN6) | 2:53 |
 | 14 | [Energias](https://open.spotify.com/track/2mfuy75A61Qnx3qApmZWMt) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Par De Quina](https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob) | 3:18 |
 | 15 | [Cuna de Oro](https://open.spotify.com/track/3NcVKaoq4vsoGUGiR5Nq2y) | [Carlos Cordero](https://open.spotify.com/artist/1BPSehApxg5JCnTH4TPHxI), [Fulo El Yeyo](https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh) | [Cuna de Oro](https://open.spotify.com/album/7EeUcU3gMduoT0pjuDBrNx) | 3:18 |
 | 16 | [Puto Amo](https://open.spotify.com/track/6mMJ9B5B7reN10oBczFioW) | [Rik](https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh), [Kako Prod](https://open.spotify.com/artist/21nKcNBVvlOJx3pjOKLcRl) | [Puto Amo](https://open.spotify.com/album/30Xzg6143ci8RR8gz5tLDK) | 3:08 |

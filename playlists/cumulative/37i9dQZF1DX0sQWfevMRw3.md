@@ -2,7 +2,7 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> GLAD MIDSOMMAR! HOT\-HOT\-AMORE!!
+> HOT\-HOT\-AMORE!!
 
 1,141 songs - 1 day 23 hr 59 min
 

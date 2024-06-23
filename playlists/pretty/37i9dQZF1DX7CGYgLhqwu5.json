@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 377016,
+  "num_followers": 377045,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Son Of The South",
-        "url": "https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8"
-      },
-      "artists": [
-        {
-          "name": "Del Reeves",
-          "url": "https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Girl On The Billboard",
-      "url": "https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
         "name": "The Seely Style",
         "url": "https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 192960,
       "name": "Don't Touch Me",
       "url": "https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Son Of The South",
+        "url": "https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8"
+      },
+      "artists": [
+        {
+          "name": "Del Reeves",
+          "url": "https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Girl On The Billboard",
+      "url": "https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
+        "name": "20 All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/7rM3UENeHolGt23rGMhRLv"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Green Green Grass Of Home",
+      "url": "https://open.spotify.com/track/5TLkHWQBlL3sMDteMbskzi"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
         "name": "20 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/48aF0MyVsxQgWYBF9SUR4k"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 203733,
       "name": "Phantom 309",
       "url": "https://open.spotify.com/track/3fNQkYKo7VHZBk8GWyqGAq"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
-        "name": "20 All Time Greatest Hits",
-        "url": "https://open.spotify.com/album/2JqYWLuq0XI2r23G42Jjjp"
-      },
-      "artists": [
-        {
-          "name": "Jack Greene",
-          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Statue of a Fool",
-      "url": "https://open.spotify.com/track/3dtukeghbTpei1SJhrT3Jd"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "The Best Of Roy Clark",
-        "url": "https://open.spotify.com/album/2ADFGSvr79NVsX0KcB5r2Q"
+        "name": "20 All Time Greatest Hits",
+        "url": "https://open.spotify.com/album/2JqYWLuq0XI2r23G42Jjjp"
       },
       "artists": [
         {
-          "name": "Roy Clark",
-          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
+          "name": "Jack Greene",
+          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
         }
       ],
-      "duration_ms": 200240,
-      "name": "Yesterday When I Was Young",
-      "url": "https://open.spotify.com/track/34FHyAVCDFURtlrt6HfPHU"
+      "duration_ms": 181106,
+      "name": "Statue of a Fool",
+      "url": "https://open.spotify.com/track/3dtukeghbTpei1SJhrT3Jd"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1559,6 +1559,22 @@
       "duration_ms": 148000,
       "name": "Above And Beyond",
       "url": "https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "The Best Of Roy Clark",
+        "url": "https://open.spotify.com/album/2ADFGSvr79NVsX0KcB5r2Q"
+      },
+      "artists": [
+        {
+          "name": "Roy Clark",
+          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Yesterday When I Was Young",
+      "url": "https://open.spotify.com/track/34FHyAVCDFURtlrt6HfPHU"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 172920,
       "name": "Swinging Doors",
       "url": "https://open.spotify.com/track/6Ja76N5EcdHrZCGfsWNeGo"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
-        "name": "Tom T. Hall's Greatest Hits",
-        "url": "https://open.spotify.com/album/7qOsDBLelFcslFqn6JvQJ7"
-      },
-      "artists": [
-        {
-          "name": "Tom T. Hall",
-          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Homecoming - Single Version",
-      "url": "https://open.spotify.com/track/2Ge8ZlPMTohetRNtpMrWJi"
     }
   ],
   "unique_name": "60s Country",

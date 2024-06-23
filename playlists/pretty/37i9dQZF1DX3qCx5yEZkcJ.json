@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1482203,
+  "num_followers": 1482222,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -419,18 +419,22 @@
     {
       "added_at": "2024-06-14 23:49:22",
       "album": {
-        "name": "Zoning Out Vol. 2",
-        "url": "https://open.spotify.com/album/5otufrAYStK1GqtwpRyTTn"
+        "name": "Vinyl And Me",
+        "url": "https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp"
       },
       "artists": [
         {
-          "name": "Emapea",
-          "url": "https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6"
+          "name": "7&Nine",
+          "url": "https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
         }
       ],
-      "duration_ms": 125474,
-      "name": "Please Chill",
-      "url": "https://open.spotify.com/track/1ndEnRNcXCZWJIz8x6YEQH"
+      "duration_ms": 125714,
+      "name": "Nature & Me",
+      "url": "https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN"
     },
     {
       "added_at": "2024-06-14 23:49:22",
@@ -455,22 +459,18 @@
     {
       "added_at": "2024-06-14 23:49:22",
       "album": {
-        "name": "Vinyl And Me",
-        "url": "https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp"
+        "name": "Zoning Out Vol. 2",
+        "url": "https://open.spotify.com/album/5otufrAYStK1GqtwpRyTTn"
       },
       "artists": [
         {
-          "name": "7&Nine",
-          "url": "https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy"
-        },
-        {
-          "name": "Chill Select",
-          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+          "name": "Emapea",
+          "url": "https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6"
         }
       ],
-      "duration_ms": 125714,
-      "name": "Nature & Me",
-      "url": "https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN"
+      "duration_ms": 125474,
+      "name": "Please Chill",
+      "url": "https://open.spotify.com/track/1ndEnRNcXCZWJIz8x6YEQH"
     },
     {
       "added_at": "2024-06-14 23:49:22",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-06-14 23:49:22",
       "album": {
+        "name": "busking",
+        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+      },
+      "artists": [
+        {
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+        }
+      ],
+      "duration_ms": 140714,
+      "name": "busking",
+      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
+    },
+    {
+      "added_at": "2024-06-14 23:49:22",
+      "album": {
         "name": "Busy Bird",
         "url": "https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 130964,
       "name": "Busy Bird",
       "url": "https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8"
-    },
-    {
-      "added_at": "2024-06-14 23:49:22",
-      "album": {
-        "name": "busking",
-        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
-      },
-      "artists": [
-        {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
-        }
-      ],
-      "duration_ms": 140714,
-      "name": "busking",
-      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
     },
     {
       "added_at": "2024-06-14 23:49:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-06-14 23:49:22",
       "album": {
-        "name": "BIG BLUE",
-        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
-      },
-      "artists": [
-        {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
-        }
-      ],
-      "duration_ms": 166392,
-      "name": "BIG BLUE",
-      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
-    },
-    {
-      "added_at": "2024-06-14 23:49:22",
-      "album": {
         "name": "Just a Lullaby",
         "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 140000,
       "name": "Quiet in the Garden",
       "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
+    },
+    {
+      "added_at": "2024-06-14 23:49:22",
+      "album": {
+        "name": "BIG BLUE",
+        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "BIG BLUE",
+      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
     },
     {
       "added_at": "2024-06-14 23:49:22",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-06-14 23:49:22",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/1Q8T8tXs48kiQLIcvzMD5y"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "DLJ",
-          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
-        }
-      ],
-      "duration_ms": 159529,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/5RKxNmzhoC9gyVxUAETYBf"
-    },
-    {
-      "added_at": "2024-06-14 23:49:22",
-      "album": {
         "name": "Tangerine Hues",
         "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 184346,
       "name": "Tangerine Hues",
       "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
+    },
+    {
+      "added_at": "2024-06-14 23:49:22",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/1Q8T8tXs48kiQLIcvzMD5y"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "DLJ",
+          "url": "https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA"
+        }
+      ],
+      "duration_ms": 159529,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/5RKxNmzhoC9gyVxUAETYBf"
     },
     {
       "added_at": "2024-06-14 23:49:22",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-06-14 23:49:22",
       "album": {
-        "name": "Lofi Loyal Caf\u00e9 Customer",
-        "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
-      },
-      "artists": [
-        {
-          "name": "Single Friend",
-          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
-        },
-        {
-          "name": "Lo'fi Boy",
-          "url": "https://open.spotify.com/artist/30zqizQHom62N4hV28E1Hz"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Lofi Loyal Caf\u00e9 Customer",
-      "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
-    },
-    {
-      "added_at": "2024-06-14 23:49:22",
-      "album": {
         "name": "Reminders",
         "url": "https://open.spotify.com/album/0ybTK4uEYcnk3g5LPAILnN"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 141176,
       "name": "Dance of Love",
       "url": "https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr"
+    },
+    {
+      "added_at": "2024-06-14 23:49:22",
+      "album": {
+        "name": "Lofi Loyal Caf\u00e9 Customer",
+        "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
+      },
+      "artists": [
+        {
+          "name": "Single Friend",
+          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
+        },
+        {
+          "name": "Lo'fi Boy",
+          "url": "https://open.spotify.com/artist/30zqizQHom62N4hV28E1Hz"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Lofi Loyal Caf\u00e9 Customer",
+      "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
     },
     {
       "added_at": "2024-06-14 23:49:22",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-06-14 23:49:22",
       "album": {
-        "name": "Bike Ride in Osaka",
-        "url": "https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis"
-      },
-      "artists": [
-        {
-          "name": "tecashi",
-          "url": "https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w"
-        }
-      ],
-      "duration_ms": 120014,
-      "name": "Bike Ride in Osaka",
-      "url": "https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H"
-    },
-    {
-      "added_at": "2024-06-14 23:49:22",
-      "album": {
         "name": "Far Out",
         "url": "https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 153000,
       "name": "Far Out",
       "url": "https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj"
+    },
+    {
+      "added_at": "2024-06-14 23:49:22",
+      "album": {
+        "name": "Bike Ride in Osaka",
+        "url": "https://open.spotify.com/album/6HbBPWORHXSGkhH62Qllis"
+      },
+      "artists": [
+        {
+          "name": "tecashi",
+          "url": "https://open.spotify.com/artist/0lyektFoueMSyY7rE3212w"
+        }
+      ],
+      "duration_ms": 120014,
+      "name": "Bike Ride in Osaka",
+      "url": "https://open.spotify.com/track/1VOZoXy7aPGruK8JsFQp7H"
     },
     {
       "added_at": "2024-06-14 23:49:22",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-06-14 23:49:22",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/5gxUAHV9Zt1DXK8F2JN67b"
+        "name": "afternoon shower",
+        "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
       },
       "artists": [
         {
-          "name": "Peter Kind",
-          "url": "https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM"
+          "name": "AOI",
+          "url": "https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ"
         }
       ],
-      "duration_ms": 124151,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/4ZiuK6Y2WGVi0UajR3aIUD"
+      "duration_ms": 127595,
+      "name": "afternoon shower",
+      "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
     }
   ],
   "unique_name": "Mellow Beats",

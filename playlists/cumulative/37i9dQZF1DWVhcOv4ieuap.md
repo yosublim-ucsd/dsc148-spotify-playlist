@@ -4,7 +4,7 @@
 
 > Alegra tu día con lo más pop para la mañana.
 
-372 songs - 19 hr 55 min
+373 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 | 2022-12-01 | 2024-04-19 |
 | [Besos Moja2](https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:49 | 2022-10-07 | 2022-12-20 |
 | [Big Energy](https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 | 2022-06-03 | 2024-01-12 |
+| [BOOM BOOM](https://open.spotify.com/track/2I9eR0VGMWyqadUK3HD7KE) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [BOOM BOOM](https://open.spotify.com/album/6PFrHHg1tLlLjS2VrOJ9GK) | 2:22 | 2024-06-21 |  |
 | [Boom Boom](https://open.spotify.com/track/28E4ZbM3cBV8ehG1rXaz9g) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Boom Boom](https://open.spotify.com/album/1vwysXgMnjbrgBEAJOLayN) | 2:34 | 2022-07-06 | 2022-12-02 |
 | [BORRACHA](https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql) | [Felix Klain](https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [BORRACHA](https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex) | 3:24 | 2022-06-03 | 2022-10-04 |
 | [Borracho De Amor](https://open.spotify.com/track/4QtQgsK7DChmU4EM5NtqyK) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Borracho De Amor](https://open.spotify.com/album/5UQzf2MzbX7qGysHDX11Pg) | 2:55 | 2022-01-01 | 2022-04-16 |
@@ -68,7 +69,7 @@
 | [Contravía](https://open.spotify.com/track/0RF0vTHsseW7qa0hO4Nlac) | [Alessandra Aguirre](https://open.spotify.com/artist/0m4SQNU6NyIJxjsSQRGfpB) | [Contravía](https://open.spotify.com/album/21IAal1ql6WvdscCoi3cmx) | 3:00 | 2024-04-09 | 2024-06-03 |
 | [Contágiate](https://open.spotify.com/track/2TDO45AdrOFAVgkRwRDVU3) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Contágiate](https://open.spotify.com/album/1bC3ab18doTjxlcELYLEAc) | 3:25 | 2022-01-01 | 2022-06-04 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-06-03 | 2022-12-02 |
-| [Corazón Entero](https://open.spotify.com/track/5KLKpLIBHWeXidhs3jbt27) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Corazón Entero](https://open.spotify.com/album/1q9Uk5JuWNciN5YSSA8BS2) | 3:01 | 2024-06-14 |  |
+| [Corazón Entero](https://open.spotify.com/track/5KLKpLIBHWeXidhs3jbt27) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Corazón Entero](https://open.spotify.com/album/1q9Uk5JuWNciN5YSSA8BS2) | 3:01 | 2024-06-14 | 2024-06-23 |
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-05-25 |  |
 | [Cuando Amanezca \(feat\. Danny Ocean, Justin Quiles, Feid\)](https://open.spotify.com/track/0yx82WHSiVRekLwqfxQkvJ) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Cuando Amanezca \(feat\. Danny Ocean, Justin Quiles, Feid\)](https://open.spotify.com/album/6WjiLNVEpAtgN4XTwxRvnA) | 3:07 | 2022-01-01 | 2022-03-09 |
 | [Cuando Me Acerco A Ti](https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:13 | 2022-01-01 | 2022-06-04 |

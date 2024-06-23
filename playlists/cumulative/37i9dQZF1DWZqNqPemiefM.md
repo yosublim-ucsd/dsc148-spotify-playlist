@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-621 songs - 2 day 0 hr 42 min
+622 songs - 2 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Midsummer Night](https://open.spotify.com/track/599w57sIc7zTRE2f89TyiZ) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Broken Belief](https://open.spotify.com/album/3goyDdPVoNpBK5OroPcHfv) | 7:16 | 2022-03-31 | 2022-09-04 |
 | [Millefeuille](https://open.spotify.com/track/2GlAWOVruoh0tvj99RIYrO) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 4:01 | 2022-03-31 | 2022-07-28 |
 | [minamo](https://open.spotify.com/track/2eZwcuZFX8WKFZB1wQRJpx) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [minamo](https://open.spotify.com/album/3tC4jQiF2Lga3NFX8YonKf) | 2:40 | 2023-04-06 | 2023-04-21 |
+| [Mirror\#1](https://open.spotify.com/track/0y6jbOUzzm5NuNOhsGijqb) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Reflections](https://open.spotify.com/album/22Nb42QDmyNSEsiAUBAo3c) | 6:01 | 2024-06-15 |  |
 | [Misunderstood](https://open.spotify.com/track/0oxrapKkwUQf865tPTOByL) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Junebug Rhapsody](https://open.spotify.com/album/4kyh3E4DolanD3BMxcxG04) | 5:44 | 2023-06-01 | 2023-12-22 |
 | [Misunderstood](https://open.spotify.com/track/1gIZOz1EbjNIWNXid01UTr) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Junebug Rhapsody](https://open.spotify.com/album/3rd9fgFCqm5Nq4ekI70SmH) | 5:44 | 2023-06-01 | 2023-06-03 |
 | [Miyukinohama \(Day\)](https://open.spotify.com/track/1wm8v8VZPSiGncUxclG7Pr) | [Ryosuke Miyata](https://open.spotify.com/artist/5XQYaHvaH4u0uhZdSZpO5C) | [Private Cottage](https://open.spotify.com/album/2bd9568r3VT7Cfs2GggfbF) | 6:56 | 2022-03-31 | 2022-04-17 |
@@ -361,7 +362,7 @@
 | [Nuska](https://open.spotify.com/track/6O7OnCq0HzT08Msx088gxn) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Approach to Anima](https://open.spotify.com/album/6306c8CVmaIrZRGHG8UP5O) | 4:44 | 2024-02-08 | 2024-04-19 |
 | [obi](https://open.spotify.com/track/356DU7XWkqYSrmPnMDPD49) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [TENbient \(vol.01 "the first"\)](https://open.spotify.com/album/2DyfeR0bFqTunVWMluANrl) | 7:36 | 2022-04-16 | 2022-06-01 |
 | [Obscure Corner](https://open.spotify.com/track/7p1GxtJvJMEcAs70TnK15l) | [Hegira Moya](https://open.spotify.com/artist/5GKnUWZLOg93scPTUsXtkj) | [Slow Vein](https://open.spotify.com/album/3SzmsmIURHxAiXTQQdVRPM) | 4:49 | 2022-03-30 | 2022-04-05 |
-| [Of Mystic Dreams](https://open.spotify.com/track/3dtTmuaWc0EcnnZK63CzSq) | [Chari Chari](https://open.spotify.com/artist/4MJT57L7RMCvSvg2GjU0wQ) | [We hear the last decades dreaming](https://open.spotify.com/album/55v2rPWFhanCrbVNytkTmT) | 6:26 | 2024-06-15 |  |
+| [Of Mystic Dreams](https://open.spotify.com/track/3dtTmuaWc0EcnnZK63CzSq) | [Chari Chari](https://open.spotify.com/artist/4MJT57L7RMCvSvg2GjU0wQ) | [We hear the last decades dreaming](https://open.spotify.com/album/55v2rPWFhanCrbVNytkTmT) | 6:26 | 2024-06-15 | 2024-06-23 |
 | [ohayashi](https://open.spotify.com/track/0kuHELP9kPhXOZ5oEurNUQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [アダンの風](https://open.spotify.com/album/0clp0SFljD12UGPDOP0kN4) | 3:44 | 2022-03-31 | 2022-07-28 |
 | [ohayashi](https://open.spotify.com/track/1LTzuEZtKewRM804YjrDg6) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 3:44 | 2022-07-28 | 2023-11-17 |
 | [ohayashi](https://open.spotify.com/track/7dadALlIbGUdpYYv7HlEFD) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB) | 3:44 | 2023-11-09 | 2024-02-09 |

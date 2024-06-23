@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1288630,
+  "num_followers": 1288812,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-03-25 12:10:53",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/7LzHNQgKpTd9tkiKNcWyLK"
-      },
-      "artists": [
-        {
-          "name": "Rufus & Chaka Khan",
-          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM"
-    },
-    {
-      "added_at": "2024-03-25 12:10:53",
-      "album": {
         "name": "Carole King: The Ode Collection",
         "url": "https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 148040,
       "name": "Bitter With The Sweet",
       "url": "https://open.spotify.com/track/6bMrfP9V5s5fgL3Z02tcES"
+    },
+    {
+      "added_at": "2024-03-25 12:10:53",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/74RK3gsxjigff01cRt7pLL"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 230706,
+      "name": "If I Ain't Got You (feat. Usher)",
+      "url": "https://open.spotify.com/track/41osd5ueK4Z4KWldcluCWW"
     }
   ],
   "unique_name": "Sweet Soul Chillout",

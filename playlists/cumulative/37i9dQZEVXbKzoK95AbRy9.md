@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-178 songs - 9 hr 1 min
+178 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 | 2024-01-26 | 2024-03-09 |
 | [Só Mais Um Copo](https://open.spotify.com/track/0cpCu3J0Xg1did5lnzDCJs) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Todo Mundo Odeia o IG](https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4) | 2:25 | 2024-03-29 | 2024-04-06 |
 | [Só não dou meu celular](https://open.spotify.com/track/54EszaZ4wLw5PifFJ5NIhb) | [Vitor Amaral](https://open.spotify.com/artist/5BR3g7k0JOUJFIwnJsYpuT) | [Plantão do Vitim](https://open.spotify.com/album/1sAPTpCnB9HI7AqtGMd39x) | 1:56 | 2024-05-31 | 2024-06-08 |
-| [Te Maceto Depois do Baile](https://open.spotify.com/track/3EuPKX0FLhAxfL5hZBlfJe) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [DJ Lafon Do Md](https://open.spotify.com/artist/1zie7wOcoVwPHWLTJyEXG7), [Mc Rf](https://open.spotify.com/artist/21XypSEosIAo1NYqT0UKkc) | [Te Maceto Depois do Baile](https://open.spotify.com/album/3S84WqT6S97NTnegU0gvtg) | 3:19 | 2024-06-21 |  |
+| [Te Maceto Depois do Baile](https://open.spotify.com/track/3EuPKX0FLhAxfL5hZBlfJe) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [DJ Lafon Do Md](https://open.spotify.com/artist/1zie7wOcoVwPHWLTJyEXG7), [Mc Rf](https://open.spotify.com/artist/21XypSEosIAo1NYqT0UKkc) | [Te Maceto Depois do Baile](https://open.spotify.com/album/3S84WqT6S97NTnegU0gvtg) | 3:49 | 2024-06-21 |  |
 | [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Andrezin Araújo](https://open.spotify.com/artist/6Z9eUCDtjeQRAp4eZhTztf), [Dj Kevin Oficial](https://open.spotify.com/artist/6ysi6BecWzevAJ3HYaZNMS) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 | 2024-01-26 | 2024-04-13 |
 | [Tenho Que Me Decidir](https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Cara Do Momento](https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV) | 3:52 | 2024-01-26 | 2024-04-27 |
 | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [Mc Brinquedo](https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp) | [THE BOX MEDLEY FUNK 2](https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy) | 4:26 | 2024-05-03 |  |

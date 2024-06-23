@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,886 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,917 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 17 | [A Prueba De Todo](https://open.spotify.com/track/5K9629jLBvdabDmmhdCLui) | [Valentina](https://open.spotify.com/artist/0j1JDlYHGnOf8zQE3OzlyF) | [A Prueba De Todo](https://open.spotify.com/album/3kJ8eCheV6bqBprBW0UaN8) | 3:24 |
 | 18 | [Sweet and Sour](https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE) | [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sweet and Sour](https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG) | 1:48 |
 | 19 | [Werqin' Girl \(Professional\)](https://open.spotify.com/track/3MCG7KYRFM4uFErWnmTIuv) | [Shangela Laquifa](https://open.spotify.com/artist/7czghyR75hlwV4ddLK5MeD) | [Werqin' Girl \(Professional\)](https://open.spotify.com/album/4cAQ8XGLVUtvVSpo2KYAnm) | 3:42 |
-| 20 | [Soldier](https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [One Stone](https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO) | 3:05 |
+| 20 | [Malibu](https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Barbara](https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ) | 3:02 |
 | 21 | [Brown Cow Stunning](https://open.spotify.com/track/17nicr4bub5sGc9Hac7hUg) | [Monique Heart](https://open.spotify.com/artist/0iJr2eJYe4WsiZrmCn2nV3) | [Brown Cow Stunning](https://open.spotify.com/album/3D4tRIWeEXpUUccba35Rku) | 3:07 |
 | 22 | [Bitch Like Me](https://open.spotify.com/track/1lV3NdZCVc8wZ1wdv25Gw5) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Bitch Like Me](https://open.spotify.com/album/1VtO6ikGbNWY3bQa0aacg1) | 2:36 |
-| 23 | [The Same Parts](https://open.spotify.com/track/67JrMOd94Wbz42ywTR9ZsV) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [The Same Parts](https://open.spotify.com/album/2UOu2DuCsNjosWjN0FwZP0) | 3:12 |
-| 24 | [Hot Couture](https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Hot Couture](https://open.spotify.com/album/6Ds1mmSABZUymGcIUOvecA) | 3:20 |
+| 23 | [Hot Couture](https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Hot Couture](https://open.spotify.com/album/6Ds1mmSABZUymGcIUOvecA) | 3:20 |
+| 24 | [The Same Parts](https://open.spotify.com/track/67JrMOd94Wbz42ywTR9ZsV) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [The Same Parts](https://open.spotify.com/album/2UOu2DuCsNjosWjN0FwZP0) | 3:12 |
 | 25 | [It's Chocolate](https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89) | [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [It's Chocolate](https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF) | 2:39 |
-| 26 | [Malibu](https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Barbara](https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ) | 3:02 |
+| 26 | [Soldier](https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [One Stone](https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO) | 3:05 |
 | 27 | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS) | [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8), [Detox](https://open.spotify.com/artist/51Y484bYxxydKWYy8MDhqC), [Vicky Vox](https://open.spotify.com/artist/2PPQKCcQ2HDYrP41OSlh91) | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO) | 4:08 |
 | 28 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 |
 | 29 | [Rodeo](https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Rodeo](https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp) | 3:30 |

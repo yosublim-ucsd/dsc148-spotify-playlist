@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 38367,
+  "num_followers": 38400,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -1216,13 +1216,17 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         }
       ],
-      "duration_ms": 178374,
-      "name": "Deep Sea DRIP",
-      "url": "https://open.spotify.com/track/4zen70nrIu9vatpZfA1tUu"
+      "duration_ms": 209374,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/5VYl258IBjtiyMRKxGbMEl"
     },
     {
       "added_at": "2024-04-26 14:42:17",
@@ -1240,17 +1244,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
         }
       ],
-      "duration_ms": 209374,
-      "name": "Out Of Place",
-      "url": "https://open.spotify.com/track/5VYl258IBjtiyMRKxGbMEl"
+      "duration_ms": 178374,
+      "name": "Deep Sea DRIP",
+      "url": "https://open.spotify.com/track/4zen70nrIu9vatpZfA1tUu"
     },
     {
       "added_at": "2024-04-26 14:42:17",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-04-26 14:42:17",
       "album": {
-        "name": "Bite",
-        "url": "https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219993,
-      "name": "Bite",
-      "url": "https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D"
-    },
-    {
-      "added_at": "2024-04-26 14:42:17",
-      "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 228840,
       "name": "SOJU (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/1fRIaQ4nHZF5FybsAsqKZz"
+    },
+    {
+      "added_at": "2024-04-26 14:42:17",
+      "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/73yJOomRZF9pO34AGgAjPA"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219993,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/3WM1yelIg2AkfFAhLXTu3D"
     },
     {
       "added_at": "2024-04-26 14:42:17",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2024-04-26 14:42:17",
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "V",
+      "url": "https://open.spotify.com/track/0QwWVdreIp1dJZLPHxhLpX"
+    },
+    {
+      "added_at": "2024-04-26 14:42:17",
+      "album": {
         "name": "[Vol.66] You Hee yul's Sketchbook : 40th Voice 'Sketchbook X Jay Park'",
         "url": "https://open.spotify.com/album/4NB7wMyRsRUQ1TZ2GivpDS"
       },
@@ -2339,26 +2355,6 @@
       "duration_ms": 212334,
       "name": "Drive (feat. Gray)",
       "url": "https://open.spotify.com/track/5yaaSEA3X6qkR5Yy7RolEe"
-    },
-    {
-      "added_at": "2024-04-26 14:42:17",
-      "album": {
-        "name": "Everything You Wanted",
-        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 223681,
-      "name": "Me Like Yuh (feat. Hoody) [Korean Version]",
-      "url": "https://open.spotify.com/track/40wb1DugiG4c4ztCt9oaWp"
     }
   ],
   "unique_name": "This Is Jay Park",

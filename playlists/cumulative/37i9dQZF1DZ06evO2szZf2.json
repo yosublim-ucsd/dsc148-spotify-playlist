@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is Mc Dricka. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
   "name": "This Is Mc Dricka",
   "tracks": [
     {
@@ -598,6 +598,32 @@
       "duration_ms": 211633,
       "name": "Foi Bate Bate",
       "url": "https://open.spotify.com/track/1Y3zrX5iO7vxBvdyBH8xpQ"
+    },
+    {
+      "album": {
+        "name": "Caldeir\u00e3o",
+        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ S2k",
+          "url": "https://open.spotify.com/artist/0UGMDsR5m7QIcz0GxKTHAn"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Golpeame",
+      "url": "https://open.spotify.com/track/5lZQrRhEHEiHEvF9xguzwi"
     },
     {
       "album": {

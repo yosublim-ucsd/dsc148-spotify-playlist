@@ -1,6 +1,6 @@
 {
   "description": "Where Sitar meets Guitar. Cover - 'Sonchadi' by DigV, Neha Kakkar and Kamla Devi",
-  "num_followers": 69698,
+  "num_followers": 69702,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-06-13 12:13:13",
       "album": {
+        "name": "Making Music",
+        "url": "https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB"
+      },
+      "artists": [
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        }
+      ],
+      "duration_ms": 749466,
+      "name": "Making Music",
+      "url": "https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa"
+    },
+    {
+      "added_at": "2024-06-13 12:13:13",
+      "album": {
         "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
         "url": "https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 440999,
       "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
       "url": "https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL"
-    },
-    {
-      "added_at": "2024-06-13 12:13:13",
-      "album": {
-        "name": "Making Music",
-        "url": "https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB"
-      },
-      "artists": [
-        {
-          "name": "Zakir Hussain",
-          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
-        }
-      ],
-      "duration_ms": 749466,
-      "name": "Making Music",
-      "url": "https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa"
     },
     {
       "added_at": "2024-06-13 12:13:13",

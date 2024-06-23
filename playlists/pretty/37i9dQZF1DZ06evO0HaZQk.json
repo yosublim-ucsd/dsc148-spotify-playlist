@@ -1,12 +1,12 @@
 {
-  "description": "This Is Natalia Lafourcade. Los temas esenciales, todos en una lista.",
-  "num_followers": 494302,
+  "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
+  "num_followers": 494374,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAADWezvkA3kuNtgRcc3CBw1F",
+  "snapshot_id": "ZnTCgAAAAADImEBimIsegIDh9qubcyoU",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,26 @@
       "duration_ms": 267200,
       "name": "Mamita (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "50 A\u00f1os de Ser el Divo de Ju\u00e1rez",
+        "url": "https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 374106,
+      "name": "Ya No Vivo por Vivir (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/1vGTXll8t4co7lsSXy80x4"
     },
     {
       "added_at": null,
@@ -935,22 +955,6 @@
       "duration_ms": 198653,
       "name": "Luz de Luna (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En el 2000",
-        "url": "https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Amarte Duele",
-      "url": "https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6"
     }
   ],
   "unique_name": "This Is Natalia Lafourcade",

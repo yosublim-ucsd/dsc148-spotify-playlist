@@ -1,31 +1,55 @@
 {
   "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Dei V en portada.",
-  "num_followers": 30426,
+  "num_followers": 30478,
   "original_name": "\u00c9xitos Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlayfwAAAAA6Eqbk1Kk3GiHDmYNNXjHW",
+  "snapshot_id": "ZnZhGAAAAABiD19CdYiGqTqXKXYYFKUP",
   "tracks": [
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
-        "name": "Martini",
-        "url": "https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ"
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
       },
       "artists": [
         {
           "name": "Dei V",
           "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 164365,
-      "name": "Martini",
-      "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
+      "duration_ms": 146000,
+      "name": "Rapido (with Cris Mj)",
+      "url": "https://open.spotify.com/track/1emJPywtseFLmLCcPY92dW"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
+      "album": {
+        "name": "ADIVINO",
+        "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 278644,
+      "name": "ADIVINO",
+      "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
+    },
+    {
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "SAYONARA",
         "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
@@ -45,7 +69,7 @@
       "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "WYA REMIX RED",
         "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
@@ -77,7 +101,7 @@
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "Toki",
         "url": "https://open.spotify.com/album/4Ms2rHUlc1Gu47OPeMbvKn"
@@ -105,7 +129,7 @@
       "url": "https://open.spotify.com/track/3is7Ej9fnZLhJD9pNOy4cI"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
@@ -129,7 +153,27 @@
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
+      "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "CLIMA (with Foreign Teck)",
+      "url": "https://open.spotify.com/track/0kX6vjW7YrhHxrpZS7jcxa"
+    },
+    {
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "Porque Puedo",
         "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
@@ -145,27 +189,7 @@
       "url": "https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
-      "album": {
-        "name": "Espectacular",
-        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
-      },
-      "artists": [
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Espectacular",
-      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
-    },
-    {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
@@ -185,7 +209,63 @@
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
+      "album": {
+        "name": "Martini",
+        "url": "https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 164365,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
+    },
+    {
+      "added_at": "2024-06-22 05:28:56",
+      "album": {
+        "name": "XQCP",
+        "url": "https://open.spotify.com/album/5M1jcMKfRKDmg3vM93E6we"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 218526,
+      "name": "XQCP",
+      "url": "https://open.spotify.com/track/1VqFMK8sjfaaxYYdcuTATk"
+    },
+    {
+      "added_at": "2024-06-22 05:28:56",
+      "album": {
+        "name": "Espectacular",
+        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Espectacular",
+      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
+    },
+    {
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "El Plug D3",
         "url": "https://open.spotify.com/album/7H8RB2cNz0dynPXgESG6hw"
@@ -205,7 +285,7 @@
       "url": "https://open.spotify.com/track/1zcbWTjDHm5inIKwQmu3TI"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "BBY BOO (REMIX)",
         "url": "https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9"
@@ -229,7 +309,7 @@
       "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "Touching The Sky",
         "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
@@ -245,7 +325,7 @@
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "LUCES DE COLORES",
         "url": "https://open.spotify.com/album/5BxPeT9YRhCc6jJzk3YHd7"
@@ -261,7 +341,7 @@
       "url": "https://open.spotify.com/track/5BTnoMRlpAnyzYY9S9HbIn"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "TU$$I (with Dei V)",
         "url": "https://open.spotify.com/album/6hcobkxdWIAXzj6OYfjlWo"
@@ -281,7 +361,7 @@
       "url": "https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "LA CRUSH",
         "url": "https://open.spotify.com/album/1xpfbMT8aXQLOtMKwy1WMf"
@@ -301,7 +381,7 @@
       "url": "https://open.spotify.com/track/0r0uZzz9nsnEKOeQbYteHn"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "Kilerito",
         "url": "https://open.spotify.com/album/7aqQhBZNAFuzSclpQ5wRFm"
@@ -321,7 +401,7 @@
       "url": "https://open.spotify.com/track/3kGMgEDHQoWykByLL6Jut3"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
@@ -369,7 +449,23 @@
       "url": "https://open.spotify.com/track/3GY16GkbrhV1hya2TKsaaj"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
+      "album": {
+        "name": "Torii",
+        "url": "https://open.spotify.com/album/4qJ85usbGHHY9Hs2OdguKx"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Torii",
+      "url": "https://open.spotify.com/track/0yROknHyvAJ57hZLpxNHry"
+    },
+    {
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "M\u00fasica Buena Para D\u00edas Malos",
         "url": "https://open.spotify.com/album/2PEIXega9N5OkMHBrcvcHG"
@@ -389,7 +485,7 @@
       "url": "https://open.spotify.com/track/0aTmQfJO43j5wC0pDzWuEI"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "MANIFESTING 20-05",
         "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
@@ -409,7 +505,7 @@
       "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) [Remix]",
         "url": "https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb"
@@ -445,7 +541,23 @@
       "url": "https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
+      "album": {
+        "name": "Embuste",
+        "url": "https://open.spotify.com/album/7xtgpGt2BFkVFEAd8aHfg5"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        }
+      ],
+      "duration_ms": 159273,
+      "name": "Embuste",
+      "url": "https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86"
+    },
+    {
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
@@ -461,7 +573,7 @@
       "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "SAYONARA",
         "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
@@ -477,7 +589,7 @@
       "url": "https://open.spotify.com/track/3vfq1ovR6oBGJPvoy4Oy1B"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "LA NENA",
         "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
@@ -497,7 +609,7 @@
       "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "att.",
         "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
@@ -517,7 +629,7 @@
       "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "Sport+",
         "url": "https://open.spotify.com/album/71gG3D59KZOdUfRzta8h0L"
@@ -533,7 +645,7 @@
       "url": "https://open.spotify.com/track/3lDudOXkxqByT6RrZG5eKl"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
@@ -573,27 +685,27 @@
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
-        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
-        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
+        "name": "Mr. W (Deluxe)",
+        "url": "https://open.spotify.com/album/0uozDpPbY35wVv78dHMICs"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Divino",
-          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 218933,
-      "name": "PU\u00d1AL",
-      "url": "https://open.spotify.com/track/46qsJtMCmrD2uzYZdRzfXI"
+      "duration_ms": 196715,
+      "name": "A Distancia",
+      "url": "https://open.spotify.com/track/57OXmqVMeKe8AaEt6Y5FG1"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "WYA REMIX BLUE",
         "url": "https://open.spotify.com/album/4lcVauETJFxvlM42ue7ZDz"
@@ -625,27 +737,7 @@
       "url": "https://open.spotify.com/track/7J5Um8Nwar48h38PU7cPre"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
-      "album": {
-        "name": "ADIVINO",
-        "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 278644,
-      "name": "ADIVINO",
-      "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
-    },
-    {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "BONNIE AND CLYDE (REMIX)",
         "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
@@ -669,7 +761,7 @@
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "BYAK",
         "url": "https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5"
@@ -689,7 +781,7 @@
       "url": "https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "Mr. W",
         "url": "https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX"
@@ -709,7 +801,7 @@
       "url": "https://open.spotify.com/track/7sQTnko0Rj32DZCXG6Q756"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "SAKURA",
         "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
@@ -729,7 +821,7 @@
       "url": "https://open.spotify.com/track/1jPff2HChF9ZahcdogUaCX"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "9x19/300BLK (with Pressure 9X19)",
         "url": "https://open.spotify.com/album/427d3CxZHdeioa6SYe8iP7"
@@ -749,7 +841,23 @@
       "url": "https://open.spotify.com/track/3XbOduHVOK9fjsaPKmgzSV"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
+      "album": {
+        "name": "Con Co",
+        "url": "https://open.spotify.com/album/0LPf0p8XaAulD9YSp4ZFF8"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 126016,
+      "name": "Con Co",
+      "url": "https://open.spotify.com/track/5oMhPcsDqtK8JBJiG9of02"
+    },
+    {
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "Enzaciao",
         "url": "https://open.spotify.com/album/4CanKyDA2vwG2SftsOUvb1"
@@ -765,27 +873,7 @@
       "url": "https://open.spotify.com/track/0h0mWHM5SkpS9rcmGyBoox"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
-      "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "ay mami",
-      "url": "https://open.spotify.com/track/2tVxwJfffbJOAUgSx01eKl"
-    },
-    {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "SAYONARA",
         "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
@@ -805,7 +893,7 @@
       "url": "https://open.spotify.com/track/7keTeNuCO2ghzRRW7CVzsJ"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "KTM",
         "url": "https://open.spotify.com/album/4tLv0V8sA8pwzlOBwGJgcF"
@@ -829,7 +917,7 @@
       "url": "https://open.spotify.com/track/3EPIt4FqsVQLM48HozrcFr"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "No Te Quieren Conmigo",
         "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
@@ -853,7 +941,7 @@
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "Tacos Gucci",
         "url": "https://open.spotify.com/album/2eKNfDT5uYZ3bB2ATYedD5"
@@ -869,43 +957,7 @@
       "url": "https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
-      "album": {
-        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
-        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "K4G",
-          "url": "https://open.spotify.com/artist/7iE1RkAmNySaonnYrV8lmU"
-        }
-      ],
-      "duration_ms": 248653,
-      "name": "SHOFAR",
-      "url": "https://open.spotify.com/track/68lSedap260kbjpvdvF7Tp"
-    },
-    {
-      "added_at": "2024-05-29 04:43:43",
-      "album": {
-        "name": "LOVEO",
-        "url": "https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 173868,
-      "name": "LOVEO",
-      "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
-    },
-    {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "Narcotics (with Bryant Myers)",
         "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
@@ -925,31 +977,7 @@
       "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
-      "album": {
-        "name": "SAKURA",
-        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 253962,
-      "name": "BADGYAL",
-      "url": "https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6"
-    },
-    {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "Mr. W",
         "url": "https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX"
@@ -973,7 +1001,7 @@
       "url": "https://open.spotify.com/track/6sLqrGRUo6Ozgrn3c4Gqk2"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "WYA REMIX WHITE",
         "url": "https://open.spotify.com/album/6R29zteRiORMadmQCkLLBZ"
@@ -1005,7 +1033,7 @@
       "url": "https://open.spotify.com/track/1bvWJa118mABR5vJbHpESU"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "LOS MARCIANOS Vol.1: Dei V Version",
         "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
@@ -1029,27 +1057,7 @@
       "url": "https://open.spotify.com/track/3a18ZXF0XhEUSYpxlQdmxP"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
-      "album": {
-        "name": "DRIPPEO KBRON",
-        "url": "https://open.spotify.com/album/1aIvOQRDMbp91g032duGCj"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 198712,
-      "name": "DRIPPEO KBRON",
-      "url": "https://open.spotify.com/track/1rCKmeUUh6WDrxoH5pWq9M"
-    },
-    {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -1069,23 +1077,7 @@
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
     },
     {
-      "added_at": "2024-05-29 04:43:43",
-      "album": {
-        "name": "Bellakita",
-        "url": "https://open.spotify.com/album/0xnUNAewtVl83rVHz9b8RS"
-      },
-      "artists": [
-        {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
-        }
-      ],
-      "duration_ms": 182474,
-      "name": "Bellakita",
-      "url": "https://open.spotify.com/track/2HaBrXZV3i5AiUDzuZaQbJ"
-    },
-    {
-      "added_at": "2024-05-29 04:43:43",
+      "added_at": "2024-06-22 05:28:56",
       "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"

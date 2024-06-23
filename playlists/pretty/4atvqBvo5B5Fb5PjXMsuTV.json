@@ -1,13 +1,77 @@
 {
   "description": "Updated daily, with the latest popular singles!",
-  "num_followers": 77,
+  "num_followers": 78,
   "original_name": "NEW SINGLES RELEASES | UPDATED 22 JUN",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAJBdcDiN6GHV/W4VAZn48eegMIqr69",
+  "snapshot_id": "AAAJBy88JuVLOpoHUGKehaxVYKRKTEm1",
   "tracks": [
+    {
+      "added_at": "2024-06-22 10:02:23",
+      "album": {
+        "name": "CVNTY",
+        "url": "https://open.spotify.com/album/3YaMAbTM3kQxy5Ke6q7jVt"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 140961,
+      "name": "CVNTY",
+      "url": "https://open.spotify.com/track/6Z9DLcPnRFLupsw5WJ5sLw"
+    },
+    {
+      "added_at": "2024-06-22 10:02:23",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 182761,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ"
+    },
+    {
+      "added_at": "2024-06-22 10:02:23",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/30MjKFugfIkwTPAvvSk7bP"
+      },
+      "artists": [
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "duration_ms": 176647,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4GE2HPvrgYp6GiW8JUHpfj"
+    },
+    {
+      "added_at": "2024-06-22 10:02:23",
+      "album": {
+        "name": "icarly",
+        "url": "https://open.spotify.com/album/1KlG0SiXYQs0Ap0ZHFWMtp"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "duration_ms": 100049,
+      "name": "icarly",
+      "url": "https://open.spotify.com/track/4pwn9rCOLeteTHHgOcvAQj"
+    },
     {
       "added_at": "2024-06-21 22:02:39",
       "album": {
@@ -379,70 +443,6 @@
       "duration_ms": 192705,
       "name": "Still Feel Alone",
       "url": "https://open.spotify.com/track/3eZU3EyLMkwE3oxfuf74oS"
-    },
-    {
-      "added_at": "2024-06-21 10:03:58",
-      "album": {
-        "name": "Found You First",
-        "url": "https://open.spotify.com/album/5RSzGDEaajxu1IhT0HuzQk"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 163014,
-      "name": "Found You First",
-      "url": "https://open.spotify.com/track/4JNwx0jxdd9AzfBX3FSoWg"
-    },
-    {
-      "added_at": "2024-06-21 10:03:58",
-      "album": {
-        "name": "F**k The Rap Game",
-        "url": "https://open.spotify.com/album/5MUIJ1AGDtARYt2sYcTtYC"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 250459,
-      "name": "F**k The Rap Game",
-      "url": "https://open.spotify.com/track/5qZ6ni14zTVPlnuQ2iSeLE"
-    },
-    {
-      "added_at": "2024-06-21 10:03:58",
-      "album": {
-        "name": "Robbery 7",
-        "url": "https://open.spotify.com/album/4ozI7JpZCF7GU2p7QvFVmH"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        }
-      ],
-      "duration_ms": 224005,
-      "name": "Robbery 7",
-      "url": "https://open.spotify.com/track/2sqc7KkHcxy53gXbhA9PFa"
-    },
-    {
-      "added_at": "2024-06-21 10:03:58",
-      "album": {
-        "name": "Phat Butt",
-        "url": "https://open.spotify.com/album/6Z5OissMrsh0s6pyUE9qdr"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 129293,
-      "name": "Phat Butt",
-      "url": "https://open.spotify.com/track/0MhGYNOByI9IUNRvkf2VdA"
     }
   ],
   "unique_name": "NEW SINGLES RELEASES | UPDATED 22 JUN",

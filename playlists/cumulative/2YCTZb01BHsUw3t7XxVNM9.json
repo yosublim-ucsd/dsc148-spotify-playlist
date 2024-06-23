@@ -6251,6 +6251,24 @@
     },
     {
       "album": {
+        "name": "PROBLEM",
+        "url": "https://open.spotify.com/album/6xor6gN5vTOl1QsRqBqgXF"
+      },
+      "artists": [
+        {
+          "name": "SENNA",
+          "url": "https://open.spotify.com/artist/6YpkmIr6oAhiCLebOmx2G0"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228375,
+      "name": "PROBLEM",
+      "url": "https://open.spotify.com/track/3vryPetz7HjU0ySYtFA2Df"
+    },
+    {
+      "album": {
         "name": "HARDCORE SYNDROME 6",
         "url": "https://open.spotify.com/album/5hexfoxV6fafXXqRHqFNmz"
       },

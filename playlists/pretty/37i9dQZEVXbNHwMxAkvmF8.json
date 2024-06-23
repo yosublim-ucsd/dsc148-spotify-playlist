@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 71374,
+  "num_followers": 71378,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LgjlmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lgo5cAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "SZ\u00cdVTIPR\u00d3",
         "url": "https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "Strawberry",
         "url": "https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -69,7 +69,23 @@
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "memento",
         "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
@@ -85,7 +101,7 @@
       "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "Torz",
         "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
@@ -105,39 +121,7 @@
       "url": "https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 199183,
-      "name": "\u00dagy Hiszem",
-      "url": "https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -153,7 +137,7 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -173,43 +157,23 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
-        "name": "IGAZIAK\u00c9RT",
-        "url": "https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1"
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
       },
       "artists": [
-        {
-          "name": "ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        },
         {
           "name": "Pog\u00e1ny Indul\u00f3",
           "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 156521,
-      "name": "45 Primo",
-      "url": "https://open.spotify.com/track/1iJSUAeT5x2fooS8jFg7cy"
+      "duration_ms": 199183,
+      "name": "\u00dagy Hiszem",
+      "url": "https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -229,39 +193,23 @@
       "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
       },
       "artists": [
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 176395,
-      "name": "M\u00e1mor",
-      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
@@ -285,7 +233,27 @@
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "IGAZIAK\u00c9RT",
+        "url": "https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1"
+      },
+      "artists": [
+        {
+          "name": "ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        },
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "45 Primo",
+      "url": "https://open.spotify.com/track/1iJSUAeT5x2fooS8jFg7cy"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "Don't Turn the Bass Down",
         "url": "https://open.spotify.com/album/0tGSQtJO7b68PSv30HXfS5"
@@ -305,75 +273,7 @@
       "url": "https://open.spotify.com/track/0m1rKryxt6PuEStB89hEgy"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "Se Veled Se N\u00e9lk\u00fcled",
-        "url": "https://open.spotify.com/album/6TgqXMKR7FmgeOaiWQJVOp"
-      },
-      "artists": [
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "Marics Peti",
-          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
-        }
-      ],
-      "duration_ms": 142957,
-      "name": "Se Veled Se N\u00e9lk\u00fcled",
-      "url": "https://open.spotify.com/track/2hIPLce6sektBjU3YsePqQ"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "skatulya I",
-        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "kapu",
-      "url": "https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "A b\u00fas barista ballad\u00e1i",
-        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 126930,
-      "name": "Osztriga",
-      "url": "https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "Vagy Mindent Vagy Semmit",
         "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
@@ -382,18 +282,30 @@
         {
           "name": "Pog\u00e1ny Indul\u00f3",
           "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        },
-        {
-          "name": "Parno Graszt",
-          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Sz\u00e9kelykapu",
-      "url": "https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q"
+      "duration_ms": 176395,
+      "name": "M\u00e1mor",
+      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -413,7 +325,75 @@
       "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "Se Veled Se N\u00e9lk\u00fcled",
+        "url": "https://open.spotify.com/album/6TgqXMKR7FmgeOaiWQJVOp"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        }
+      ],
+      "duration_ms": 142957,
+      "name": "Se Veled Se N\u00e9lk\u00fcled",
+      "url": "https://open.spotify.com/track/2hIPLce6sektBjU3YsePqQ"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "A b\u00fas barista ballad\u00e1i",
+        "url": "https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 126930,
+      "name": "Osztriga",
+      "url": "https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "R\u00e9t",
         "url": "https://open.spotify.com/album/4QTBjYfiHEcmUrX0PkKIlt"
@@ -433,39 +413,23 @@
       "url": "https://open.spotify.com/track/5pYNDOTIoZZ5ab77vb8EO3"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "skatulya I",
+        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 166736,
+      "name": "kapu",
+      "url": "https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "Tiara",
-        "url": "https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 203125,
-      "name": "Tiara",
-      "url": "https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
@@ -485,23 +449,7 @@
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "Valencia",
         "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
@@ -521,7 +469,43 @@
       "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        },
+        {
+          "name": "Parno Graszt",
+          "url": "https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Sz\u00e9kelykapu",
+      "url": "https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "zek\u0151",
         "url": "https://open.spotify.com/album/7fSpOvhym4ns1HJwa6Igag"
@@ -537,95 +521,39 @@
       "url": "https://open.spotify.com/track/22BKxxJomFWgMsYn1Y7Fxn"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
-        "name": "Meg\u00e1ll Az Id\u0151",
-        "url": "https://open.spotify.com/album/22ZvDsUygqGo9SmPtPhRtp"
+        "name": "Tiara",
+        "url": "https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn"
       },
       "artists": [
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Afro Beat",
-      "url": "https://open.spotify.com/track/2KViM7OZzQU9mLWxJxHJWG"
+      "duration_ms": 203125,
+      "name": "Tiara",
+      "url": "https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "A Sky Full of Stars",
-      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "IGAZIAK\u00c9RT",
-        "url": "https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1"
-      },
-      "artists": [
-        {
-          "name": "ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        },
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 162711,
-      "name": "Idegenek",
-      "url": "https://open.spotify.com/track/04Yjs65BybxOHduLNfVe8r"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "Fall Back / Selfish Game",
-        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Fall Back",
-      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
@@ -645,55 +573,7 @@
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "skatulya I",
-        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 244660,
-      "name": "mariana.\u00e1rok",
-      "url": "https://open.spotify.com/track/0fBK1og2qGc1vSdEln0sFs"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "silbak",
         "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
@@ -709,7 +589,27 @@
       "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "Meg\u00e1ll Az Id\u0151",
+        "url": "https://open.spotify.com/album/22ZvDsUygqGo9SmPtPhRtp"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Afro Beat",
+      "url": "https://open.spotify.com/track/2KViM7OZzQU9mLWxJxHJWG"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
@@ -729,7 +629,139 @@
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "skatulya I",
+        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 244660,
+      "name": "mariana.\u00e1rok",
+      "url": "https://open.spotify.com/track/0fBK1og2qGc1vSdEln0sFs"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "Fall Back / Selfish Game",
+        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 193398,
+      "name": "3korty",
+      "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "IGAZIAK\u00c9RT",
+        "url": "https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1"
+      },
+      "artists": [
+        {
+          "name": "ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        },
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 162711,
+      "name": "Idegenek",
+      "url": "https://open.spotify.com/track/04Yjs65BybxOHduLNfVe8r"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "IGAZIAK\u00c9RT",
         "url": "https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1"
@@ -749,47 +781,27 @@
       "url": "https://open.spotify.com/track/27fZOuA4N6OXDERIHMDLIA"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 193398,
-      "name": "3korty",
-      "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "IGAZIAK\u00c9RT",
-        "url": "https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1"
-      },
-      "artists": [
-        {
-          "name": "ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        },
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 210526,
-      "name": "Mihaszna",
-      "url": "https://open.spotify.com/track/4fV9i6y3YjloifMR59K9O2"
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -809,10 +821,10 @@
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
       "artists": [
         {
@@ -820,12 +832,12 @@
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+      "duration_ms": 267866,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "DESHPERADO",
         "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
@@ -845,31 +857,7 @@
       "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
-      "album": {
-        "name": "IGAZIAK\u00c9RT",
-        "url": "https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1"
-      },
-      "artists": [
-        {
-          "name": "ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        },
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        },
-        {
-          "name": "Grasa",
-          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
-        }
-      ],
-      "duration_ms": 146285,
-      "name": "J\u00e1t\u00e9k",
-      "url": "https://open.spotify.com/track/2dleJPgG3pSBPfo1AYwVQv"
-    },
-    {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
         "name": "Torz",
         "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
@@ -885,40 +873,40 @@
       "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+        "name": "CARPE DIEM",
+        "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
         }
       ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+      "duration_ms": 161025,
+      "name": "Pakiszt\u00e1ni/popo",
+      "url": "https://open.spotify.com/track/1tCIXEBHBFHO1x3M07z3xy"
     },
     {
-      "added_at": "2024-06-21 09:03:31",
+      "added_at": "2024-06-22 09:06:12",
       "album": {
-        "name": "M\u00e9g nem",
-        "url": "https://open.spotify.com/album/0M64Q9GZzg6qkP4gdJJiOW"
+        "name": "Hajnalok a gangon",
+        "url": "https://open.spotify.com/album/7AURUJtIEVCq7sP3E7Dqii"
       },
       "artists": [
         {
           "name": "Filo",
           "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
-        },
-        {
-          "name": "Apu",
-          "url": "https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN"
         }
       ],
-      "duration_ms": 139014,
-      "name": "seholse",
-      "url": "https://open.spotify.com/track/520pvY0G0yZ9Jcwlhik7lD"
+      "duration_ms": 171428,
+      "name": "Hajnalok a gangon",
+      "url": "https://open.spotify.com/track/2AHMHf8SdDNySxZ4B7G5WN"
     }
   ],
   "unique_name": "Top 50 - Hungary",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Skip Waiters
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,815 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,860 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 19 | [CBAYAOM](https://open.spotify.com/track/6DUzGEPtdD04ZlA2JFKmCY) | [fxrrvst](https://open.spotify.com/artist/5jSYGB9XlfsqSPYVrWSz5Y) | [CBAYAOM](https://open.spotify.com/album/3mWBfhX9z5z9CjDI1c6EgS) | 3:58 |
 | 20 | [Better Off Dead](https://open.spotify.com/track/6cpdeQ00dHDZNoUriljIw3) | [Sea of Lettuce](https://open.spotify.com/artist/1uPcEitVTkNP5QpUtTbxqq) | [Any Day Now](https://open.spotify.com/album/5tELkQNIYD3QOrb74hwroX) | 3:13 |
 | 21 | [infinity](https://open.spotify.com/track/7ooqTpZ70Uzjku97ELmvyp) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn) | [steal train](https://open.spotify.com/album/0fmPcLJ7DaX9bvtlmCd8p5) | 2:31 |
-| 22 | [Dissappointing The Internet](https://open.spotify.com/track/0wpQc6DuoM3B9VsAzSHNtv) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Disappointing the Internet](https://open.spotify.com/album/3KXnbWDUt4OfEbLtCwkBPs) | 2:46 |
+| 22 | [Disappointing the Internet](https://open.spotify.com/track/0wpQc6DuoM3B9VsAzSHNtv) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Disappointing the Internet](https://open.spotify.com/album/3KXnbWDUt4OfEbLtCwkBPs) | 2:46 |
 | 23 | [La Música](https://open.spotify.com/track/3bfMpw2PVau0JsAEyw9ndi) | [Ghetto Birds](https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U) | [La Música](https://open.spotify.com/album/5KMMRu62QN9altsjFJenJe) | 2:40 |
 | 24 | [T'as vu](https://open.spotify.com/track/4UwPo0uBjGUrL7i7rgnbdY) | [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [T'as vu](https://open.spotify.com/album/0PVs8Gu7vKRJhkwY8gXUHN) | 3:39 |
 | 25 | [I'll sleep while you drive](https://open.spotify.com/track/1C2YD6Noyu0ZoPMTCWTMXv) | [Luvleelou](https://open.spotify.com/artist/12OZHc5dwkNzjQ1trfG4Ml) | [I'll sleep while you drive](https://open.spotify.com/album/0WtYWnb6QZkrKnlYhZWlm7) | 2:41 |

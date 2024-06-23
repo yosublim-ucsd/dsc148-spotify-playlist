@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 246325,
+  "num_followers": 246412,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "Ordinary Drugs",
-        "url": "https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 421700,
-      "name": "These Are Just Places To Me Now",
-      "url": "https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs"
-    },
-    {
-      "added_at": "2024-06-12 14:27:14",
-      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 138951,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
+    },
+    {
+      "added_at": "2024-06-12 14:27:14",
+      "album": {
+        "name": "Ordinary Drugs",
+        "url": "https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 421700,
+      "name": "These Are Just Places To Me Now",
+      "url": "https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
+        "name": "Dance of the Crab",
+        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 144479,
+      "name": "Dance of the Crab - Edit",
+      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
+    },
+    {
+      "added_at": "2024-06-12 14:27:14",
+      "album": {
         "name": "It'll All Be Over (DJ Koze Remix - Radio Edit)",
         "url": "https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 167093,
       "name": "Moving Men",
       "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
-    },
-    {
-      "added_at": "2024-06-12 14:27:14",
-      "album": {
-        "name": "Dance of the Crab",
-        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 144479,
-      "name": "Dance of the Crab - Edit",
-      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "Ithaque",
-        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
-      },
-      "artists": [
-        {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Ithaque",
-      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
-    },
-    {
-      "added_at": "2024-06-12 14:27:14",
-      "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 230015,
       "name": "All In A Dream",
       "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
+    },
+    {
+      "added_at": "2024-06-12 14:27:14",
+      "album": {
+        "name": "Ithaque",
+        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Ithaque",
+      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "You Luv Me",
-        "url": "https://open.spotify.com/album/6qZTG4OV8ah48eqvZnWkNw"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "You Luv Me",
-      "url": "https://open.spotify.com/track/1MzJiroVd2f9CmwNZPxxAv"
-    },
-    {
-      "added_at": "2024-06-12 14:27:14",
-      "album": {
         "name": "Stay With You",
         "url": "https://open.spotify.com/album/3ilTdY5iIS2IF6mSUooZ1G"
       },
@@ -1751,6 +1735,22 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
+        "name": "You Luv Me",
+        "url": "https://open.spotify.com/album/6qZTG4OV8ah48eqvZnWkNw"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "You Luv Me",
+      "url": "https://open.spotify.com/track/1MzJiroVd2f9CmwNZPxxAv"
+    },
+    {
+      "added_at": "2024-06-12 14:27:14",
+      "album": {
         "name": "Small Moments",
         "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
@@ -1763,6 +1763,22 @@
       "duration_ms": 315608,
       "name": "Moving",
       "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
+    },
+    {
+      "added_at": "2024-06-12 14:27:14",
+      "album": {
+        "name": "Horchata",
+        "url": "https://open.spotify.com/album/5iXzOVCrsnRMlZF7YBPMqh"
+      },
+      "artists": [
+        {
+          "name": "Olivier Verhaeghe",
+          "url": "https://open.spotify.com/artist/5ByRyadFsiEijaFBYlNxLs"
+        }
+      ],
+      "duration_ms": 322014,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/04C4hilfrfIkaPiUNqWNox"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -1791,22 +1807,6 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "Horchata",
-        "url": "https://open.spotify.com/album/5iXzOVCrsnRMlZF7YBPMqh"
-      },
-      "artists": [
-        {
-          "name": "Olivier Verhaeghe",
-          "url": "https://open.spotify.com/artist/5ByRyadFsiEijaFBYlNxLs"
-        }
-      ],
-      "duration_ms": 322014,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/04C4hilfrfIkaPiUNqWNox"
-    },
-    {
-      "added_at": "2024-06-12 14:27:14",
-      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -1827,38 +1827,22 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "Pussy Power (Desiree Remix)",
-        "url": "https://open.spotify.com/album/1Rhg4uHx4AITp2cOnykPur"
+        "name": "Thank You for Letting Me Be Myself",
+        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
       "artists": [
         {
-          "name": "&ME",
-          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+          "name": "Omar S",
+          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
         },
         {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        },
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        },
-        {
-          "name": "Nomi Ruiz",
-          "url": "https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM"
-        },
-        {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+          "name": "D Taylor",
+          "url": "https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I"
         }
       ],
-      "duration_ms": 357435,
-      "name": "Pussy Power - DESIREE Remix",
-      "url": "https://open.spotify.com/track/3p4obn8kIkhvsGSji3CuXM"
+      "duration_ms": 413315,
+      "name": "The Shit Baby",
+      "url": "https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP"
     }
   ],
   "unique_name": "Aperitivo Time",

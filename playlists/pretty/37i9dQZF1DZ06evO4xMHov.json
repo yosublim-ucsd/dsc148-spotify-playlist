@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 60639,
+  "num_followers": 60642,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAAD7W0w2gpTrXSWVL1EGIHkx",
+  "snapshot_id": "ZnTCgAAAAAAlkO9C5NWMLFYC97VhEe7c",
   "tracks": [
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hosana (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1A7Xb0rQaaG7wng9kUwVOl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 348809,
+      "name": "Hosana - Ao Vivo",
+      "url": "https://open.spotify.com/track/290pBQrxOBQHj6JaKST4JH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 267960,
       "name": "Meu Universo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hosana (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1A7Xb0rQaaG7wng9kUwVOl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 348809,
-      "name": "Hosana - Ao Vivo",
-      "url": "https://open.spotify.com/track/290pBQrxOBQHj6JaKST4JH"
     },
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
-        "url": "https://open.spotify.com/album/3ltmkD8eGzyKfH0zuwlucN"
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 663370,
-      "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
-      "url": "https://open.spotify.com/track/1ElihpcKELnES7MoJWA1LF"
+      "duration_ms": 438280,
+      "name": "O Senhor \u00c9 Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/0aNKEcvYScNukxQzjohWLE"
     },
     {
       "added_at": null,
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+        "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
+        "url": "https://open.spotify.com/album/3ltmkD8eGzyKfH0zuwlucN"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 438280,
-      "name": "O Senhor \u00c9 Bom - Ao Vivo",
-      "url": "https://open.spotify.com/track/0aNKEcvYScNukxQzjohWLE"
+      "duration_ms": 663370,
+      "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
+      "url": "https://open.spotify.com/track/1ElihpcKELnES7MoJWA1LF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > i tell them it's just your culture and everyone 🙄 📸 Sabrina Carpenter
 
-2,086 songs - 4 day 8 hr 53 min
+2,088 songs - 4 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Antichrist](https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:20 | 2023-06-30 | 2023-09-23 |
 | [Antsy](https://open.spotify.com/track/2eDBWo7MfkdezN1FKxxQRb) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Antsy](https://open.spotify.com/album/0AcNlsXfyXwZcurMIbAlww) | 2:30 | 2022-09-16 | 2022-10-29 |
 | [Anxieties \(Out of Time\)](https://open.spotify.com/track/6CCWeieiETGytwn1cblRxz) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Anxieties \(Out of Time\)](https://open.spotify.com/album/73HIfazV3wsCA6VwBBky5q) | 3:40 | 2022-04-01 | 2022-04-09 |
+| [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-06-21 |  |
 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-18 | 2022-07-16 |
 | [Anything Could Happen \- Superorganism Remix](https://open.spotify.com/track/7sHzmFRQt1YUiPaCPNtNZh) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Anything Could Happen \(Superorganism Remix\)](https://open.spotify.com/album/6rHStOE6R3mga2IW4PzOH5) | 2:55 | 2021-05-03 | 2021-11-20 |
 | [Anywhere In The World](https://open.spotify.com/track/3zYcPw7isSk0h1o1FPNsIf) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [Anywhere In The World](https://open.spotify.com/album/72kpewfE8jbIQsf9BqLaR1) | 3:14 | 2021-12-03 | 2022-01-14 |
@@ -216,6 +217,7 @@
 | [Bloodstream](https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bloodstream](https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH) | 3:31 | 2024-02-09 | 2024-06-01 |
 | [Bloom](https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Bloom](https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq) | 3:33 | 2023-06-02 | 2023-07-31 |
 | [blue](https://open.spotify.com/track/3A9RV7frnaeqKGvF7kb0vd) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [blue](https://open.spotify.com/album/29FYm9EmlZJ77BNOOq43pi) | 2:06 | 2022-05-20 | 2022-09-24 |
+| [Blue Moon](https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Blue Moon](https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5) | 3:46 | 2024-06-21 |  |
 | [Blueberry Mojito](https://open.spotify.com/track/0ajLglsDN2MJlf4pX6EpaP) | [Elli Moore](https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir) | [Drink Me](https://open.spotify.com/album/5UlTq1mAwoKZkSMmixCkou) | 3:21 | 2023-06-02 | 2023-10-01 |
 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 | 2022-06-24 | 2022-10-29 |
 | [Blur](https://open.spotify.com/track/3OGH7oTsxIrpBfmmh0PV8q) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Blur](https://open.spotify.com/album/7qP3UBU0m3yjcFoL9Ar84a) | 2:52 | 2022-06-24 | 2022-08-13 |
@@ -1491,7 +1493,7 @@
 | [Rain](https://open.spotify.com/track/1L1x0IlfPWHTMBexd7tNMP) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [Rain](https://open.spotify.com/album/5MDXhKHebA7Uc5dGGUYYGv) | 3:11 | 2023-06-30 | 2023-07-15 |
 | [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 | 2024-01-12 | 2024-05-13 |
 | [rapunzel](https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [rapunzel](https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy) | 3:07 | 2022-01-07 | 2022-04-21 |
-| [Rave Angel](https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Rave Angel](https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3) | 3:19 | 2024-01-19 |  |
+| [Rave Angel](https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Rave Angel](https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3) | 3:19 | 2024-01-19 | 2024-06-23 |
 | [Read My Mind](https://open.spotify.com/track/6wjaAghthtTG3EEIPCI9b7) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Read My Mind](https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72) | 3:25 | 2021-12-17 | 2022-01-29 |
 | [Real Close](https://open.spotify.com/track/6Y72OxyPRY8AFaV9bEzW6G) | [M\. Maggie](https://open.spotify.com/artist/3jaknADFL7EOn3lSRneM7v) | [Real Close](https://open.spotify.com/album/6hEOAmnqPvM393WFWA2DUI) | 3:30 | 2019-12-20 | 2020-06-29 |
 | [Real For You](https://open.spotify.com/track/5zkZff8E84umaBtOMO5ZQi) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Real For You](https://open.spotify.com/album/6ex00Ayghm98FG0gDHovOz) | 3:01 | 2019-05-26\* | 2020-02-19 |
@@ -1604,7 +1606,7 @@
 | [She Said](https://open.spotify.com/track/5CohHnumS8s7VEWOsIrfvq) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [She Said](https://open.spotify.com/album/0kKnHw3VB63mQTUSGQsDfJ) | 3:33 | 2020-05-14 | 2021-11-10 |
 | [Sheesh!](https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sheesh!](https://open.spotify.com/album/7aGQrZNnvPaOc0PVm7yuc5) | 2:28 | 2021-08-27 | 2022-11-19 |
 | [Shelly](https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:51 | 2022-09-23 | 2022-10-30 |
-| [Shiny New Thing](https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:38 | 2024-05-17 |  |
+| [Shiny New Thing](https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:38 | 2024-05-17 | 2024-06-23 |
 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-02-23 |  |
 | [Shit Show](https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Shit Show](https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp) | 3:20 | 2021-09-10 | 2023-02-11 |
 | [Shitty People](https://open.spotify.com/track/4gmWwnGA117kHmmzczUwlz) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Shitty People](https://open.spotify.com/album/40xU8o3w2Zw17JiTIZ3q2s) | 2:41 | 2022-05-27 | 2022-06-07 |

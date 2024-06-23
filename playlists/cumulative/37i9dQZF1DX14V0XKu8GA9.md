@@ -4,7 +4,7 @@
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: That Mexican OT
 
-405 songs - 18 hr 53 min
+406 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Trophy](https://open.spotify.com/track/0qPNdJpCAumxWHHuYQ0lcY) | [Doughboy Tony](https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2) | [Trophy](https://open.spotify.com/album/5uVe8iSF0rJxaCysIiKq8W) | 2:55 | 2022-01-31 | 2022-07-07 |
 | [True 2 This \(feat\. Bravo The Bagchaser\)](https://open.spotify.com/track/1pb5KSuYRZgmSuVseAmnbB) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Fenix Flexin Vol\. 1](https://open.spotify.com/album/2Iiyf1OLVobPU2OVhB2h04) | 2:38 | 2022-01-10 | 2022-07-07 |
 | [Tryna Win](https://open.spotify.com/track/6L8G3taO8ZyFZymPRhPNb7) | [Jewl$](https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF) | [HardTimes](https://open.spotify.com/album/7GRRCaAdCFbWavntMe21gH) | 2:11 | 2022-01-10 | 2022-07-07 |
+| [Trynna Get High Foo?](https://open.spotify.com/track/6roojFtFpBk4RYLcOaQZBT) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Trynna Get High Foo?](https://open.spotify.com/album/2BIq12Zzxv0TSFwsFMEIzw) | 3:31 | 2024-06-22 |  |
 | [Twisting Fingers \(with Moneybagg Yo\)](https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:06 | 2024-03-04 | 2024-05-22 |
 | [Two Chicanas](https://open.spotify.com/track/1SqBaFnYhXDZ8YeTjVPIb5) | [Jay Roxxx](https://open.spotify.com/artist/7jIEDP5VQzhBrWsEK3nmWo), [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [Two Chicanas](https://open.spotify.com/album/76zZf8LVysRk1FlcOgeTAd) | 3:30 | 2022-01-10 | 2022-02-26 |
 | [Tyra Banks](https://open.spotify.com/track/3osnsU7jBfDuscsa1yDEfV) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Kap On Edge](https://open.spotify.com/album/4d10Uz7cuKkX6jFXWxV30v) | 2:25 | 2022-06-07 | 2023-01-28 |

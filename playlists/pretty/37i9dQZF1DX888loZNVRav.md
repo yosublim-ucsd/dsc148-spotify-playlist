@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,870 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,885 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 22 | [Only Us](https://open.spotify.com/track/7BbtvJqWnQRt8gSrWbUVym) | [Laura Dreyfuss](https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK), [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 3:47 |
 | 23 | [Easy to Love](https://open.spotify.com/track/3hNRNKpFhsKRWRqPt2Lex3) | [Colin Donnell](https://open.spotify.com/artist/2j8GWQrHlJn97fuS5IPBtb) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 3:34 |
 | 24 | [Stupid With Love](https://open.spotify.com/track/2fB3nWTsj1Aba2oJsAiTck) | [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 2:57 |
-| 25 | [People Will Say We're In Love \- From "Oklahoma!" Soundtrack](https://open.spotify.com/track/7JvQJYUB1PjtmjkuHRTUp8) | [Gordon Macrae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof), [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 4:20 |
+| 25 | [People Will Say We're In Love \- From "Oklahoma!" Soundtrack](https://open.spotify.com/track/7JvQJYUB1PjtmjkuHRTUp8) | [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof), [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 4:20 |
 | 26 | [If I Could Tell Her](https://open.spotify.com/track/6nkcPGa0sr24NFCc5l5UjE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Laura Dreyfuss](https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 4:08 |
 | 27 | [Maria](https://open.spotify.com/track/6ZzVcf5w9RMS4iqIhVQeHe) | [Matt Cavenaugh](https://open.spotify.com/artist/6WiZX2e7EGamztEoz3w8nX), [New Broadway Cast of West Side Story \(2009\)](https://open.spotify.com/artist/0ubUSlhWxcdq2GcraY9lDG) | [West Side Story \(New Broadway Cast Recording \(2009\)\)](https://open.spotify.com/album/2tMSkFy27VIZjBum94KbpD) | 3:02 |
 | 28 | [Some Enchanted Evening](https://open.spotify.com/track/5CUSuYgUovrP4NAUc2UrLH) | [Paulo Szot](https://open.spotify.com/artist/7n4vesyceAKM34owxRDcVt) | [South Pacific \(New Broadway Cast Recording \(2008\)\)](https://open.spotify.com/album/1FDBiOMTfadi88X2jtcArB) | 2:57 |

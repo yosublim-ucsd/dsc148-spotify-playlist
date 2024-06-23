@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 32045,
+  "num_followers": 32065,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAADGQjcgxMROR6G78Qcu6BsD",
+  "snapshot_id": "ZnTCgAAAAACrl8oHV3tSMwlBS/TTKSHY",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Imposible",
-        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "El Mandil\u00f3n",
-      "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 226786,
       "name": "Luis Mart\u00ednez De La Campana",
       "url": "https://open.spotify.com/track/32tVey2lJ2rOXiX7myvmE8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Imposible",
+        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 147453,
+      "name": "El Mandil\u00f3n",
+      "url": "https://open.spotify.com/track/02bFz2UbOMliv2MifwLyej"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tengo A Mi Lupe",
-        "url": "https://open.spotify.com/album/0KOgo5R72JpkGJb4XDF0WD"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Tengo A Mi Lupe Aka Mi Lupita",
-      "url": "https://open.spotify.com/track/0kbnsN5La8x5adu0AeebTT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 168320,
       "name": "El Jardin De Las Flores",
       "url": "https://open.spotify.com/track/7HJvKtTt4JhknBQxVKgxbt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tengo A Mi Lupe",
+        "url": "https://open.spotify.com/album/0KOgo5R72JpkGJb4XDF0WD"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Tengo A Mi Lupe Aka Mi Lupita",
+      "url": "https://open.spotify.com/track/0kbnsN5La8x5adu0AeebTT"
     },
     {
       "added_at": null,

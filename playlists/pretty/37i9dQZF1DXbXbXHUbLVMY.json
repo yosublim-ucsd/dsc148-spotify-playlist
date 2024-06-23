@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28147,
+  "num_followers": 28150,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -487,18 +487,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Varig m\u00e9n",
-        "url": "https://open.spotify.com/album/1je48mRG7l23gvEMesMczK"
+        "name": "R\u00e4dda mig",
+        "url": "https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu"
       },
       "artists": [
         {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+          "name": "Mohel\u00e1",
+          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
+        },
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
         }
       ],
-      "duration_ms": 151121,
-      "name": "Varig m\u00e9n",
-      "url": "https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl"
+      "duration_ms": 143520,
+      "name": "R\u00e4dda mig",
+      "url": "https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -555,26 +559,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "R\u00e4dda mig",
-        "url": "https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu"
-      },
-      "artists": [
-        {
-          "name": "Mohel\u00e1",
-          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
-        },
-        {
-          "name": "Den svenska bj\u00f6rnstammen",
-          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "R\u00e4dda mig",
-      "url": "https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "BLANCO",
         "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 135004,
       "name": "BLANCO",
       "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Varig m\u00e9n",
+        "url": "https://open.spotify.com/album/1je48mRG7l23gvEMesMczK"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 151121,
+      "name": "Varig m\u00e9n",
+      "url": "https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "BLIND",
-        "url": "https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "BLIND",
-      "url": "https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Det Regner Penger (Allez Allez)",
         "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 93830,
       "name": "Det Regner Penger (Allez Allez)",
       "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "BLIND",
+        "url": "https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "BLIND",
+      "url": "https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "TIL DEG",
+        "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "duration_ms": 157217,
+      "name": "TIL DEG",
+      "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "TRILLE",
         "url": "https://open.spotify.com/album/1n7BDlc1vwPfZlyZwxcL1D"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 133130,
       "name": "Boys I D Bl\u00e5",
       "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Falt Ut",
-        "url": "https://open.spotify.com/album/5pbwQh49wMdn0muqJHPFgg"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "Voksen Mann Uten Slips",
-          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
-        }
-      ],
-      "duration_ms": 153059,
-      "name": "Falt Ut",
-      "url": "https://open.spotify.com/track/1Qe4tOzNLtVwtV63D9VumX"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Falt Ut",
+        "url": "https://open.spotify.com/album/5pbwQh49wMdn0muqJHPFgg"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Voksen Mann Uten Slips",
+          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
+        }
+      ],
+      "duration_ms": 153059,
+      "name": "Falt Ut",
+      "url": "https://open.spotify.com/track/1Qe4tOzNLtVwtV63D9VumX"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "K\u00f8benhavn (feat. Arif Murakami & Bargee)",
         "url": "https://open.spotify.com/album/7nk0l6LqD5bjWHZNfRuMJ9"
       },
@@ -1315,42 +1335,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Voksen Mann Uten Slips",
-        "url": "https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "Voksen Mann Uten Slips",
-          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
-        }
-      ],
-      "duration_ms": 135299,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/6UrjVpuXEnkXdiGapyT1YQ"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "STILO",
-        "url": "https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q"
-      },
-      "artists": [
-        {
-          "name": "1.Cuz",
-          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "STILO",
-      "url": "https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Pillow",
         "url": "https://open.spotify.com/album/6HP1PrNI9l1846Z5fpKBVj"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "STILO",
+        "url": "https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "STILO",
+      "url": "https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Fiende p\u00e5 hotell",
         "url": "https://open.spotify.com/album/0IeHOhjegTHDgm8GMQnLqj"
       },
@@ -1387,18 +1387,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Vidunderbarn",
-        "url": "https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3"
+        "name": "4 the summer",
+        "url": "https://open.spotify.com/album/2mbPM7vQa2XQJFDJbyzJBH"
       },
       "artists": [
         {
           "name": "Tyr",
           "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Siyab\u00e5ng",
+          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
         }
       ],
-      "duration_ms": 187874,
-      "name": "Vidunderbarn",
-      "url": "https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN"
+      "duration_ms": 201546,
+      "name": "rizla (feat. Siyab\u00e5ng)",
+      "url": "https://open.spotify.com/track/2awCNwTAJwnTDWK5P0PHKb"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1443,6 +1447,26 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Voksen Mann Uten Slips",
+        "url": "https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Voksen Mann Uten Slips",
+          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
+        }
+      ],
+      "duration_ms": 135299,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/6UrjVpuXEnkXdiGapyT1YQ"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "\u00c5 Drukne En Fisk",
         "url": "https://open.spotify.com/album/4v3uw177yv8f3AcStx8jkK"
       },
@@ -1455,22 +1479,6 @@
       "duration_ms": 149240,
       "name": "Igjen",
       "url": "https://open.spotify.com/track/0fTITw88Jr9xtvwbXzNQeW"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Slipp deg l\u00f8s",
-        "url": "https://open.spotify.com/album/5FVmiogqIdetltYzFAj67K"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 123809,
-      "name": "Slipp deg l\u00f8s",
-      "url": "https://open.spotify.com/track/6xMpDmxF3jsTrBBKuYFmJq"
     }
   ],
   "unique_name": "100 (2)",

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-923 songs - 1 day 11 hr 51 min
+924 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [After Hours](https://open.spotify.com/track/54Q1fME5hhgFWipi1SkTtU) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [After Hours](https://open.spotify.com/album/5v2UDMEhWTqNnwdTYdQXyI) | 2:03 | 2023-10-13 |  |
 | [After meal](https://open.spotify.com/track/2YM708xoJMb7ZV3cGl9dMx) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [Coffee Stand](https://open.spotify.com/album/4T8kEchzLMpyPlHzrqMRbZ) | 1:54 | 2022-04-15 | 2022-05-14 |
 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 | 2022-04-15 |  |
-| [Agata](https://open.spotify.com/track/2Hkv4yCIOCqYBKyTNqrs4f) | [Hayde Kole](https://open.spotify.com/artist/7mSzxAVpwd2cUa2llhsdwd) | [Agata](https://open.spotify.com/album/401am1vvW0SAIsfqTokvT2) | 2:00 | 2024-03-22 |  |
+| [Agata](https://open.spotify.com/track/2Hkv4yCIOCqYBKyTNqrs4f) | [Hayde Kole](https://open.spotify.com/artist/7mSzxAVpwd2cUa2llhsdwd) | [Agata](https://open.spotify.com/album/401am1vvW0SAIsfqTokvT2) | 2:00 | 2024-03-22 | 2024-06-23 |
 | [Aix](https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Aix](https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB) | 2:19 | 2023-10-06 | 2023-12-15 |
 | [Alicia](https://open.spotify.com/track/6AnCrCwqMrMvAUlDjb2pLq) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [Alicia](https://open.spotify.com/album/3EKrndHJAeEkQdLkaVqcvR) | 2:15 | 2022-04-15 | 2023-12-08 |
 | [all in time](https://open.spotify.com/track/5DBdIkRVzbRuJyT9ZlUz3b) | [Isaac Wheadon](https://open.spotify.com/artist/3JdtFl0iWwZTNO5ul5nP5e) | [all in time](https://open.spotify.com/album/4pWWQ94GJBYcTh02Etoint) | 4:25 | 2022-10-28 | 2023-09-22 |
@@ -742,6 +742,7 @@
 | [Stickwithit](https://open.spotify.com/track/4oHP5Y5kJXrnNPh6M7iMsn) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [Stickwithit](https://open.spotify.com/album/5HfJlErhpKw5scselQANe3) | 2:48 | 2022-04-15 |  |
 | [Still Young](https://open.spotify.com/track/4akTe398s6zuJumFOM84Ik) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Still Young](https://open.spotify.com/album/2trVdjWprHDbEPZ4zG597Y) | 1:48 | 2022-04-15 | 2022-05-27 |
 | [Stockholm](https://open.spotify.com/track/5nRHqipQw774uJ6y3KmECc) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [Stockholm](https://open.spotify.com/album/7yNwWw24BP1Sr2T2yw9BBa) | 1:36 | 2022-04-15 |  |
+| [stone walls](https://open.spotify.com/track/5nel7kSpeghUoQwWGg79JC) | [sunday zzzz](https://open.spotify.com/artist/4Zbz7i41jO9FLN6KfxOHIE) | [stone walls](https://open.spotify.com/album/3A36TVfR0sZnc4dTvPEvbq) | 2:41 | 2024-06-19 |  |
 | [Stonecutter](https://open.spotify.com/track/6sA23FIxsg4TmejPXSaAXM) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Dissolve](https://open.spotify.com/album/1FMSLJ1NVRYzqu3LkIKlWS) | 2:41 | 2022-04-15 | 2022-09-03 |
 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 | 2023-10-13 |  |
 | [Stoop Kid](https://open.spotify.com/track/23we50Qc5172rJ54fgfRJP) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Stoop Kid](https://open.spotify.com/album/2s1GPKQtvmdSe0CYiadig7) | 1:41 | 2022-12-09 |  |

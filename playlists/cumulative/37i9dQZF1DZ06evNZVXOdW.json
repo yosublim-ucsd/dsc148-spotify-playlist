@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Night Reign",
+        "url": "https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN"
+    },
+    {
+      "album": {
         "name": "Raat Ki Rani",
         "url": "https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx"
       },
@@ -806,7 +824,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 313311,
       "name": "Raat Ki Rani",
       "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 256846,
       "name": "Zameen (feat. Chocolate Genius Incorporated)",
       "url": "https://open.spotify.com/track/4byAerUxEEu9dKVqpK0uBA"

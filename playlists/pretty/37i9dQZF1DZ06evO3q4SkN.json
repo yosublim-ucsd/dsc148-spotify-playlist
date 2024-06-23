@@ -1,12 +1,12 @@
 {
   "description": "This is Germaine Franco. The essential tracks, all in one playlist.",
-  "num_followers": 578,
+  "num_followers": 579,
   "original_name": "This Is Germaine Franco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAABCo28W25EVeggVks/lDHeW",
+  "snapshot_id": "ZnTCgAAAAACkVx4p9FKzwcst1NAdaaeU",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 66040,
-      "name": "Royal Jet",
-      "url": "https://open.spotify.com/track/17rn7t2bif66IjAc9q3E3Y"
+      "duration_ms": 112000,
+      "name": "George's Realization",
+      "url": "https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 99986,
-      "name": "Adrian's Zone",
-      "url": "https://open.spotify.com/track/0tsUUplFxwJud6sis2zcH5"
+      "duration_ms": 89926,
+      "name": "Skittles",
+      "url": "https://open.spotify.com/track/1pOAAbPKHLaKNBnCOj7vi6"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 81320,
-      "name": "Zoe's Snow Globes",
-      "url": "https://open.spotify.com/track/3y73rn8sjA8c0aPKMkC2nk"
+      "duration_ms": 134586,
+      "name": "Into The Headlights",
+      "url": "https://open.spotify.com/track/53zR9IVRrlnLBHx8Me3col"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 134586,
-      "name": "Into The Headlights",
-      "url": "https://open.spotify.com/track/53zR9IVRrlnLBHx8Me3col"
+      "duration_ms": 99986,
+      "name": "Adrian's Zone",
+      "url": "https://open.spotify.com/track/0tsUUplFxwJud6sis2zcH5"
     }
   ],
   "unique_name": "This Is Germaine Franco",

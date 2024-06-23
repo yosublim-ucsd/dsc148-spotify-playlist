@@ -1,12 +1,12 @@
 {
-  "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 274764,
+  "description": "This Is Sabrina Carpenter. Los temas esenciales, todos en una lista.",
+  "num_followers": 277012,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAABJSxC5+77fttl31b3vEFtN",
+  "snapshot_id": "ZnTCgAAAAAB0WK1X53HDbHq+KDbXUlWz",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
@@ -52,9 +68,25 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 196458,
-      "name": "because i liked a boy",
-      "url": "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px"
+      "duration_ms": 163648,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singular Act II",
+        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "Looking at Me",
+      "url": "https://open.spotify.com/track/59tskctgqUmjCWAwhzYAFm"
     },
     {
       "added_at": null,
@@ -99,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 196458,
+      "name": "because i liked a boy",
+      "url": "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'M DOING IT AGAIN BABY!",
         "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
       },
@@ -115,38 +163,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/34qaGPDvfWqp3F4iD5nGhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 207849,
-      "name": "Read your Mind",
-      "url": "https://open.spotify.com/track/4Wos0h9ECU2Z3oJMTQxpbc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EVOLution",
-        "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 216466,
-      "name": "Thumbs",
-      "url": "https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE"
     },
     {
       "added_at": null,
@@ -192,25 +208,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 104408,
-      "name": "emails i can\u2019t send",
-      "url": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/6JISV6SiJtQnIsNC6OVpUf"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/03B2SfXuvDh1m9F4tqrX07"
+      "duration_ms": 207849,
+      "name": "Read your Mind",
+      "url": "https://open.spotify.com/track/4Wos0h9ECU2Z3oJMTQxpbc"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
       "duration_ms": 166640,
       "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina\u2019s Version",
       "url": "https://open.spotify.com/track/2WNHUp4s806SJrsj698ZX3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nonsense (Sped Up Version)",
+        "url": "https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 137514,
+      "name": "Nonsense - Sped Up Version",
+      "url": "https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR"
     },
     {
       "added_at": null,
@@ -264,25 +280,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nonsense (Sped Up Version)",
-        "url": "https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 137514,
-      "name": "Nonsense - Sped Up Version",
-      "url": "https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR"
+      "duration_ms": 104408,
+      "name": "emails i can\u2019t send",
+      "url": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
       "duration_ms": 171096,
       "name": "Why",
       "url": "https://open.spotify.com/track/1byScELwcJffsdL5QWa6Yk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
       "added_at": null,
@@ -328,25 +344,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 170827,
-      "name": "Already Over",
-      "url": "https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 233617,
-      "name": "I Knew You Were Trouble - Spotify Singles",
-      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
       "duration_ms": 179652,
       "name": "WOW (feat. Sabrina Carpenter) - Remix",
       "url": "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Can't Blame a Girl for Trying",
+      "url": "https://open.spotify.com/track/5K7fGxZQB0K5sPKhLe9e07"
     },
     {
       "added_at": null,
@@ -396,25 +412,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 174539,
-      "name": "Fast Times",
-      "url": "https://open.spotify.com/track/6n05BgVkxxz2k5ICZYa2PH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Can't Blame a Girl for Trying",
-      "url": "https://open.spotify.com/track/5K7fGxZQB0K5sPKhLe9e07"
+      "duration_ms": 170827,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Move You (From the Netflix film Work It)",
-        "url": "https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11"
+        "name": "EVOLution",
+        "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
       },
       "artists": [
         {
@@ -464,41 +464,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 147070,
-      "name": "Let Me Move You - From the Netflix film \"Work It\"",
-      "url": "https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honeymoon Fades",
-        "url": "https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 195161,
-      "name": "Honeymoon Fades",
-      "url": "https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Singular Act I",
-        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 138453,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz"
+      "duration_ms": 238133,
+      "name": "On Purpose",
+      "url": "https://open.spotify.com/track/1Xmjr9Cft2ZdiGVZPxhqCs"
     },
     {
       "added_at": null,
@@ -519,42 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVOLution",
-        "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "On Purpose",
-      "url": "https://open.spotify.com/track/1Xmjr9Cft2ZdiGVZPxhqCs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Singular Act I",
         "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
       },
@@ -564,9 +496,25 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Almost Love",
-      "url": "https://open.spotify.com/track/1yXFAwSMDZmX2ZyDLLyQ9s"
+      "duration_ms": 138453,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honeymoon Fades",
+        "url": "https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "Honeymoon Fades",
+      "url": "https://open.spotify.com/track/2o2R6ghiVJfAqEXnlmOihz"
     },
     {
       "added_at": null,
@@ -603,30 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hands",
-        "url": "https://open.spotify.com/album/0VlO7qV6DhO0qyVrDOMpUn"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/7ydN6k1pLu6GRJsJpFXnYu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Singular Act I",
         "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
       },
@@ -636,9 +560,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 166533,
-      "name": "prfct",
-      "url": "https://open.spotify.com/track/75wU86jr8iIiBVfD3kU3cU"
+      "duration_ms": 212360,
+      "name": "Almost Love",
+      "url": "https://open.spotify.com/track/1yXFAwSMDZmX2ZyDLLyQ9s"
     },
     {
       "added_at": null,
@@ -708,9 +632,9 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 229533,
-      "name": "Diamonds Are Forever",
-      "url": "https://open.spotify.com/track/2KTdmzSdPipwFYdUdilmi3"
+      "duration_ms": 166533,
+      "name": "prfct",
+      "url": "https://open.spotify.com/track/75wU86jr8iIiBVfD3kU3cU"
     },
     {
       "added_at": null,
@@ -763,6 +687,22 @@
       "duration_ms": 225010,
       "name": "Smoke and Fire",
       "url": "https://open.spotify.com/track/67zT3NI4tTOj8GreXetF6s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 229533,
+      "name": "Diamonds Are Forever",
+      "url": "https://open.spotify.com/track/2KTdmzSdPipwFYdUdilmi3"
     },
     {
       "added_at": null,
@@ -871,22 +811,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "CLOUDS (Music From The Disney+ Original Movie)",
-        "url": "https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf"
+        "name": "A Dream Is a Wish Your Heart Makes/So This Is Love",
+        "url": "https://open.spotify.com/album/3Es44cvPertgyqLdX7Shob"
       },
       "artists": [
-        {
-          "name": "Fin Argus",
-          "url": "https://open.spotify.com/artist/1oDUPFTxn5JyS8MxUe9ko4"
-        },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 277923,
-      "name": "Fix Me Up (with Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/3tlYKGhlexHCt8Ac5pYG49"
+      "duration_ms": 149973,
+      "name": "A Dream is a Wish Your Heart Makes/So This is Love",
+      "url": "https://open.spotify.com/track/3WlCLuC6emWu8kbpaEb0KT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EVOLution",
+        "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 181853,
+      "name": "Don't Want It Back",
+      "url": "https://open.spotify.com/track/2yqhHi9QfZ5INE13sS5Bva"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singular Act II",
+        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 183755,
+      "name": "Take Off All Your Cool",
+      "url": "https://open.spotify.com/track/27B9H3cOefm9lWDfh9A0gj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "Seamless",
+      "url": "https://open.spotify.com/track/75s1b4uRCk6UPOPBLNdDIA"
     }
   ],
   "unique_name": "This Is Sabrina Carpenter",

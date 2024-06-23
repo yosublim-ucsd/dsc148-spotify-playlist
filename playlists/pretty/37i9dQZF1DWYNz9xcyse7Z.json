@@ -1,6 +1,6 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 106501,
+  "num_followers": 106697,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
         }
       ],
-      "duration_ms": 172040,
-      "name": "Cruz De Madera",
-      "url": "https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA"
+      "duration_ms": 181640,
+      "name": "Sonora Y Sus Ojos Negros",
+      "url": "https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N"
     },
     {
       "added_at": "2024-06-05 19:36:41",
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
         }
       ],
-      "duration_ms": 181640,
-      "name": "Sonora Y Sus Ojos Negros",
-      "url": "https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N"
+      "duration_ms": 172040,
+      "name": "Cruz De Madera",
+      "url": "https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA"
     },
     {
       "added_at": "2024-06-05 19:36:41",
@@ -223,8 +223,8 @@
     {
       "added_at": "2024-06-05 19:36:41",
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA"
+        "name": "Anda Alterada La Gente",
+        "url": "https://open.spotify.com/album/430S7iC4QkVBs5IlU2wHIa"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
         }
       ],
-      "duration_ms": 154640,
-      "name": "El 24",
-      "url": "https://open.spotify.com/track/3NonQgxZnkfpWDBdzHQf0k"
+      "duration_ms": 212586,
+      "name": "El Cajoncito",
+      "url": "https://open.spotify.com/track/1wXbmRfuonBwgobWIZ57CO"
     },
     {
       "added_at": "2024-06-05 19:36:41",
@@ -383,8 +383,8 @@
     {
       "added_at": "2024-06-05 19:36:41",
       "album": {
-        "name": "Anda Alterada La Gente",
-        "url": "https://open.spotify.com/album/430S7iC4QkVBs5IlU2wHIa"
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
         }
       ],
-      "duration_ms": 212586,
-      "name": "El Cajoncito",
-      "url": "https://open.spotify.com/track/1wXbmRfuonBwgobWIZ57CO"
+      "duration_ms": 154640,
+      "name": "El 24",
+      "url": "https://open.spotify.com/track/3NonQgxZnkfpWDBdzHQf0k"
     },
     {
       "added_at": "2024-06-05 19:36:41",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-06-05 19:36:41",
       "album": {
-        "name": "Raza Pesada",
-        "url": "https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t"
-      },
-      "artists": [
-        {
-          "name": "Los Pescadores De Guaymas",
-          "url": "https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "Ambicion",
-      "url": "https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk"
-    },
-    {
-      "added_at": "2024-06-05 19:36:41",
-      "album": {
         "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 2",
         "url": "https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 144946,
       "name": "Mi Virgencita",
       "url": "https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu"
+    },
+    {
+      "added_at": "2024-06-05 19:36:41",
+      "album": {
+        "name": "Raza Pesada",
+        "url": "https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores De Guaymas",
+          "url": "https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "Ambicion",
+      "url": "https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk"
     },
     {
       "added_at": "2024-06-05 19:36:41",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-06-05 19:36:41",
       "album": {
+        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
+        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 146613,
+      "name": "Ayer Baj\u00e9 De La Sierra",
+      "url": "https://open.spotify.com/track/5mVCR3GfsTycFFiLils4s0"
+    },
+    {
+      "added_at": "2024-06-05 19:36:41",
+      "album": {
         "name": "Judiciales y Malandrines",
         "url": "https://open.spotify.com/album/763aWL2MrtBRXOmdWPQCxm"
       },
@@ -1399,38 +1415,6 @@
     {
       "added_at": "2024-06-05 19:36:41",
       "album": {
-        "name": "El Jardin Olvidado",
-        "url": "https://open.spotify.com/album/1xfvvHZ5FoMO5Gba9v1rZt"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos de Sinaloa",
-          "url": "https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5"
-        }
-      ],
-      "duration_ms": 162539,
-      "name": "Mujer Paseada",
-      "url": "https://open.spotify.com/track/2PIHW6nhUIF99L3Uz8bTef"
-    },
-    {
-      "added_at": "2024-06-05 19:36:41",
-      "album": {
-        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
-        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 146613,
-      "name": "Ayer Baj\u00e9 De La Sierra",
-      "url": "https://open.spotify.com/track/5mVCR3GfsTycFFiLils4s0"
-    },
-    {
-      "added_at": "2024-06-05 19:36:41",
-      "album": {
         "name": "Piel de Az\u00facar",
         "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2024-06-05 19:36:41",
       "album": {
+        "name": "El Jardin Olvidado",
+        "url": "https://open.spotify.com/album/1xfvvHZ5FoMO5Gba9v1rZt"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos de Sinaloa",
+          "url": "https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5"
+        }
+      ],
+      "duration_ms": 162539,
+      "name": "Mujer Paseada",
+      "url": "https://open.spotify.com/track/2PIHW6nhUIF99L3Uz8bTef"
+    },
+    {
+      "added_at": "2024-06-05 19:36:41",
+      "album": {
         "name": "10 Anos De Exito - 10TH Anniversary",
         "url": "https://open.spotify.com/album/7qO8xhrtO2OBOH6deh4EM6"
       },
@@ -1475,54 +1475,6 @@
       "duration_ms": 163631,
       "name": "Nunca Mas Podre Olvidarte",
       "url": "https://open.spotify.com/track/0fpOLjg4snwR2CGMcqmUbx"
-    },
-    {
-      "added_at": "2024-06-05 19:36:41",
-      "album": {
-        "name": "Judiciales y Malandrines",
-        "url": "https://open.spotify.com/album/763aWL2MrtBRXOmdWPQCxm"
-      },
-      "artists": [
-        {
-          "name": "Los Ciclones del Arroyo",
-          "url": "https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Una Paloma en Su Nido",
-      "url": "https://open.spotify.com/track/6Xzit0HIXqiWEmXusTXBNA"
-    },
-    {
-      "added_at": "2024-06-05 19:36:41",
-      "album": {
-        "name": "Hombres de rancho",
-        "url": "https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q"
-      },
-      "artists": [
-        {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Dos palomas al volar",
-      "url": "https://open.spotify.com/track/7iCNGBxWezQObpCqpaB5XG"
-    },
-    {
-      "added_at": "2024-06-05 19:36:41",
-      "album": {
-        "name": "El Jardin Olvidado",
-        "url": "https://open.spotify.com/album/1xfvvHZ5FoMO5Gba9v1rZt"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos de Sinaloa",
-          "url": "https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5"
-        }
-      ],
-      "duration_ms": 157988,
-      "name": "Jardin Olvidado",
-      "url": "https://open.spotify.com/track/1kC178uk2qh20lvlyZWci2"
     },
     {
       "added_at": "2024-06-05 19:36:41",
@@ -1559,38 +1511,6 @@
     {
       "added_at": "2024-06-05 19:36:41",
       "album": {
-        "name": "10 Anos De Exito - 10TH Anniversary",
-        "url": "https://open.spotify.com/album/7qO8xhrtO2OBOH6deh4EM6"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres de la Sierra",
-          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
-        }
-      ],
-      "duration_ms": 236016,
-      "name": "La Trenzuda",
-      "url": "https://open.spotify.com/track/7zwB7zO9osAZJgYNX7YDfH"
-    },
-    {
-      "added_at": "2024-06-05 19:36:41",
-      "album": {
-        "name": "Hombres de rancho",
-        "url": "https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q"
-      },
-      "artists": [
-        {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
-        }
-      ],
-      "duration_ms": 204567,
-      "name": "Que casualidad",
-      "url": "https://open.spotify.com/track/02BlMqEvarDn1IGr2Ix8Ej"
-    },
-    {
-      "added_at": "2024-06-05 19:36:41",
-      "album": {
         "name": "Como le hago",
         "url": "https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9"
       },
@@ -1607,6 +1527,54 @@
     {
       "added_at": "2024-06-05 19:36:41",
       "album": {
+        "name": "Hombres de rancho",
+        "url": "https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q"
+      },
+      "artists": [
+        {
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Dos palomas al volar",
+      "url": "https://open.spotify.com/track/7iCNGBxWezQObpCqpaB5XG"
+    },
+    {
+      "added_at": "2024-06-05 19:36:41",
+      "album": {
+        "name": "Judiciales y Malandrines",
+        "url": "https://open.spotify.com/album/763aWL2MrtBRXOmdWPQCxm"
+      },
+      "artists": [
+        {
+          "name": "Los Ciclones del Arroyo",
+          "url": "https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Una Paloma en Su Nido",
+      "url": "https://open.spotify.com/track/6Xzit0HIXqiWEmXusTXBNA"
+    },
+    {
+      "added_at": "2024-06-05 19:36:41",
+      "album": {
+        "name": "10 Anos De Exito - 10TH Anniversary",
+        "url": "https://open.spotify.com/album/7qO8xhrtO2OBOH6deh4EM6"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "duration_ms": 236016,
+      "name": "La Trenzuda",
+      "url": "https://open.spotify.com/track/7zwB7zO9osAZJgYNX7YDfH"
+    },
+    {
+      "added_at": "2024-06-05 19:36:41",
+      "album": {
         "name": "Los Dos De La Sierra",
         "url": "https://open.spotify.com/album/6Rxsefqi3Fj9DL2yfFYAk1"
       },
@@ -1619,6 +1587,38 @@
       "duration_ms": 201549,
       "name": "Los Barandales Del Puente",
       "url": "https://open.spotify.com/track/2du1PD4nE2dYU6lfZeVD16"
+    },
+    {
+      "added_at": "2024-06-05 19:36:41",
+      "album": {
+        "name": "El Jardin Olvidado",
+        "url": "https://open.spotify.com/album/1xfvvHZ5FoMO5Gba9v1rZt"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos de Sinaloa",
+          "url": "https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5"
+        }
+      ],
+      "duration_ms": 157988,
+      "name": "Jardin Olvidado",
+      "url": "https://open.spotify.com/track/1kC178uk2qh20lvlyZWci2"
+    },
+    {
+      "added_at": "2024-06-05 19:36:41",
+      "album": {
+        "name": "Hombres de rancho",
+        "url": "https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q"
+      },
+      "artists": [
+        {
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+        }
+      ],
+      "duration_ms": 204567,
+      "name": "Que casualidad",
+      "url": "https://open.spotify.com/track/02BlMqEvarDn1IGr2Ix8Ej"
     },
     {
       "added_at": "2024-06-05 19:36:41",

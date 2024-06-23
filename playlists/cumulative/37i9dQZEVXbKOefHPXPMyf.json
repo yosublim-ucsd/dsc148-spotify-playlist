@@ -512,7 +512,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -3648,7 +3648,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 178579,
       "name": "B2b",
       "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
@@ -8140,7 +8140,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -18080,7 +18080,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
@@ -21331,6 +21331,24 @@
     },
     {
       "album": {
+        "name": "Cantan las Canciones de Hannah",
+        "url": "https://open.spotify.com/album/2tAUPXIDZOFyPpuFJetThW"
+      },
+      "artists": [
+        {
+          "name": "Tina y Tin",
+          "url": "https://open.spotify.com/artist/2iNwRUfZjytm6noUCtN7Nz"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114442,
+      "name": "La Super Fiesta Hannah",
+      "url": "https://open.spotify.com/track/77rASAoppjLfhrkDnSA3oh"
+    },
+    {
+      "album": {
         "name": "La Trampa es Ley",
         "url": "https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs"
       },
@@ -24052,7 +24070,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 137933,
       "name": "MAMI 100PRE SABE (INTERLUDE)",
       "url": "https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ"
@@ -24378,7 +24396,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 286283,
       "name": "Maquillaje - Remix",
       "url": "https://open.spotify.com/track/1eMXh9WqMtnmeyZnig2NUA"
@@ -26376,7 +26394,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 157453,
       "name": "Mirame",
       "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
@@ -35041,6 +35059,24 @@
     },
     {
       "album": {
+        "name": "Cantan las Canciones de Lona",
+        "url": "https://open.spotify.com/album/0okSuR9REAM3YPUcud8l9L"
+      },
+      "artists": [
+        {
+          "name": "Tina y Tin",
+          "url": "https://open.spotify.com/artist/2iNwRUfZjytm6noUCtN7Nz"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125309,
+      "name": "R\u00e1pido Muy R\u00e1pido Lona",
+      "url": "https://open.spotify.com/track/2ujv6yiFVrRCOXwH7VDoVL"
+    },
+    {
+      "album": {
         "name": "R\u00e1pido Soy",
         "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
       },
@@ -38092,6 +38128,24 @@
       "duration_ms": 289533,
       "name": "Soul to Squeeze",
       "url": "https://open.spotify.com/track/3arKRnq9OUd7yq6LRwVW8I"
+    },
+    {
+      "album": {
+        "name": "Cantan las Canciones de Jose Manuel",
+        "url": "https://open.spotify.com/album/7aUGwNbCPvhiJ3eEgCUu3E"
+      },
+      "artists": [
+        {
+          "name": "Tina y Tin",
+          "url": "https://open.spotify.com/artist/2iNwRUfZjytm6noUCtN7Nz"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113110,
+      "name": "Soy Astronauta Jose Manuel",
+      "url": "https://open.spotify.com/track/2pUcbllLb9258f4QTKolew"
     },
     {
       "album": {
@@ -45816,7 +45870,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
@@ -47056,7 +47110,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 191250,
       "name": "\u2060Aviso importante",
       "url": "https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD"

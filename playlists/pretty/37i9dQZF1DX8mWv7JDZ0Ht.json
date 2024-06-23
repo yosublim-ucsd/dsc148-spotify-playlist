@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: GUPE",
-  "num_followers": 433894,
+  "num_followers": 433900,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -139,42 +139,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Antes Que O Mundo Acabe",
-        "url": "https://open.spotify.com/album/7rAGzb5tmPjeJRJZULY1GD"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 198961,
-      "name": "Eu S\u00f3 Queria...",
-      "url": "https://open.spotify.com/track/6F9UyxHuKfvHOmfMkRDCdm"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
-        "name": "Vento",
-        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 172329,
-      "name": "Vento",
-      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Nossa Resenha",
         "url": "https://open.spotify.com/album/6bFqfgfvRkjciDVVQCZZYr"
       },
@@ -203,6 +167,22 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
+        "name": "Antes Que O Mundo Acabe",
+        "url": "https://open.spotify.com/album/7rAGzb5tmPjeJRJZULY1GD"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 198961,
+      "name": "Eu S\u00f3 Queria...",
+      "url": "https://open.spotify.com/track/6F9UyxHuKfvHOmfMkRDCdm"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
         "name": "Flor de Outono",
         "url": "https://open.spotify.com/album/3Pvb6EwXutHUc2LPTlIVBn"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 189783,
       "name": "Flor de Outono",
       "url": "https://open.spotify.com/track/0tUFGtuyiDhhxgw3FBFFZ6"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Vento",
+        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 172329,
+      "name": "Vento",
+      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
+        "name": "Ela n\u00e3o \u00e9 pra qualquer um",
+        "url": "https://open.spotify.com/album/3agtWz9aoBrXHrbByXd3gS"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 193190,
+      "name": "Ela n\u00e3o \u00e9 pra qualquer um",
+      "url": "https://open.spotify.com/track/0lT3qWdrV0qwhjydlgs0uN"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
         "name": "Recome\u00e7o",
         "url": "https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 161706,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
-        "name": "Ela n\u00e3o \u00e9 pra qualquer um",
-        "url": "https://open.spotify.com/album/3agtWz9aoBrXHrbByXd3gS"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 193190,
-      "name": "Ela n\u00e3o \u00e9 pra qualquer um",
-      "url": "https://open.spotify.com/track/0lT3qWdrV0qwhjydlgs0uN"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Rom\u00e3",
-        "url": "https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 194630,
-      "name": "Rom\u00e3",
-      "url": "https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Segue o Jogo",
         "url": "https://open.spotify.com/album/77KghYmKDbtCyEff33pZOM"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 222714,
       "name": "Segue o Jogo",
       "url": "https://open.spotify.com/track/6nFnTql6A9bk4W4WMBS819"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Rom\u00e3",
+        "url": "https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 194630,
+      "name": "Rom\u00e3",
+      "url": "https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Lindo Dom",
-        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 193842,
-      "name": "Lindo Dom",
-      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Inevit\u00e1vel",
         "url": "https://open.spotify.com/album/6nFK4rVRWiM5q0wEAf7sBb"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 133626,
       "name": "Inevit\u00e1vel",
       "url": "https://open.spotify.com/track/7xORcxqVgL6v5h0cj0VNlA"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Lindo Dom",
+        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "Lindo Dom",
+      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
+        "name": "Guaec\u00e1",
+        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
+      },
+      "artists": [
+        {
+          "name": "LUAU",
+          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Guaec\u00e1",
+      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
         "name": "V\u00e1rios Tipos de Amor",
         "url": "https://open.spotify.com/album/5HoZBDPdcsGtBFjjIvCy3J"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 160008,
       "name": "Cad\u00ea Voc\u00ea",
       "url": "https://open.spotify.com/track/5gJ2NB8gUcdCcTgJELxGL0"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
-        "name": "Guaec\u00e1",
-        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
-      },
-      "artists": [
-        {
-          "name": "LUAU",
-          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Guaec\u00e1",
-      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Como \u00e9 que se faz",
-        "url": "https://open.spotify.com/album/59FTyUoEWJjgsLPvlTz4xh"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 244629,
-      "name": "Como \u00e9 que se faz",
-      "url": "https://open.spotify.com/track/5v6dcZq1rhA4m51X1x49c7"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Sol de S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 174000,
       "name": "Sol de S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Como \u00e9 que se faz",
+        "url": "https://open.spotify.com/album/59FTyUoEWJjgsLPvlTz4xh"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 244629,
+      "name": "Como \u00e9 que se faz",
+      "url": "https://open.spotify.com/track/5v6dcZq1rhA4m51X1x49c7"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Sem Saber Seu Nome",
-        "url": "https://open.spotify.com/album/3a63XpQ1GsZ55I6KRNY0vh"
-      },
-      "artists": [
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "Sem Saber Seu Nome",
-      "url": "https://open.spotify.com/track/7DmmaG43Jq3rZUDR3bITqD"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 128904,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Sem Saber Seu Nome",
+        "url": "https://open.spotify.com/album/3a63XpQ1GsZ55I6KRNY0vh"
+      },
+      "artists": [
+        {
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+        }
+      ],
+      "duration_ms": 228631,
+      "name": "Sem Saber Seu Nome",
+      "url": "https://open.spotify.com/track/7DmmaG43Jq3rZUDR3bITqD"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Culpado",
-        "url": "https://open.spotify.com/album/3VNqH2ZaJVBptOxIuXnCqI"
-      },
-      "artists": [
-        {
-          "name": "Izzy",
-          "url": "https://open.spotify.com/artist/53qvaeHTtdkKmzXPMMaImN"
-        },
-        {
-          "name": "HERvolution",
-          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
-        }
-      ],
-      "duration_ms": 180833,
-      "name": "Culpado",
-      "url": "https://open.spotify.com/track/19ZlB2NOx118fs8YBKm155"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
         "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 161632,
       "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
       "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Culpado",
+        "url": "https://open.spotify.com/album/3VNqH2ZaJVBptOxIuXnCqI"
+      },
+      "artists": [
+        {
+          "name": "Izzy",
+          "url": "https://open.spotify.com/artist/53qvaeHTtdkKmzXPMMaImN"
+        },
+        {
+          "name": "HERvolution",
+          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
+        }
+      ],
+      "duration_ms": 180833,
+      "name": "Culpado",
+      "url": "https://open.spotify.com/track/19ZlB2NOx118fs8YBKm155"
     },
     {
       "added_at": "2024-06-21 12:17:45",

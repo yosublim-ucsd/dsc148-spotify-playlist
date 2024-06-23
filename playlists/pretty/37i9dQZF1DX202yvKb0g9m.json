@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 120377,
+  "num_followers": 120436,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-04-08 15:38:28",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 511031,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN"
-    },
-    {
-      "added_at": "2024-04-08 15:38:28",
-      "album": {
         "name": "Phuture And Other Classics From DJ Pierre",
         "url": "https://open.spotify.com/album/48utdF1Edpn7ALtSVGIRu8"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 370280,
       "name": "Box Energy",
       "url": "https://open.spotify.com/track/7zuSn5nyxCYD1xSdtxR0w7"
+    },
+    {
+      "added_at": "2024-04-08 15:38:28",
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 511031,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN"
     },
     {
       "added_at": "2024-04-08 15:38:28",

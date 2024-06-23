@@ -7657,6 +7657,28 @@
     },
     {
       "album": {
+        "name": "Trynna Get High Foo?",
+        "url": "https://open.spotify.com/album/2BIq12Zzxv0TSFwsFMEIzw"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "B-Real",
+          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211361,
+      "name": "Trynna Get High Foo?",
+      "url": "https://open.spotify.com/track/6roojFtFpBk4RYLcOaQZBT"
+    },
+    {
+      "album": {
         "name": "Texas Technician",
         "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
       },

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAAAQud0KK5BW+3fCcFxRxfPs",
+  "snapshot_id": "ZnTCgAAAAABPmN+2eAgH6FjWXUOyn6II",
   "tracks": [
     {
       "added_at": null,
@@ -527,30 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Latin Quarter, Pt. 1",
-        "url": "https://open.spotify.com/album/664jQP42bq5pirZyL7ED02"
+        "name": "Deleted Scenes 2",
+        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
       },
       "artists": [
-        {
-          "name": "Akhenaton",
-          "url": "https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu"
-        },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Caballero",
-          "url": "https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7"
-        },
-        {
-          "name": "JeanJass",
-          "url": "https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         }
       ],
-      "duration_ms": 199751,
-      "name": "Jeff Panacloc",
-      "url": "https://open.spotify.com/track/5YKtEDhceft3Mt48fBTMIV"
+      "duration_ms": 175507,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/1ufe5VjaPm5lQwrJY9rQMy"
     },
     {
       "added_at": null,
@@ -595,22 +587,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes 2",
-        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
+        "name": "Latin Quarter, Pt. 1",
+        "url": "https://open.spotify.com/album/664jQP42bq5pirZyL7ED02"
       },
       "artists": [
+        {
+          "name": "Akhenaton",
+          "url": "https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu"
+        },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+          "name": "Caballero",
+          "url": "https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7"
+        },
+        {
+          "name": "JeanJass",
+          "url": "https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo"
         }
       ],
-      "duration_ms": 175507,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/1ufe5VjaPm5lQwrJY9rQMy"
+      "duration_ms": 199751,
+      "name": "Jeff Panacloc",
+      "url": "https://open.spotify.com/track/5YKtEDhceft3Mt48fBTMIV"
     },
     {
       "added_at": null,
@@ -648,13 +648,13 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Crooked I",
-          "url": "https://open.spotify.com/artist/4GHvhZJxQ9Eq0vBZBNZMRd"
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
         }
       ],
-      "duration_ms": 184186,
-      "name": "Enemy Of The State",
-      "url": "https://open.spotify.com/track/0GCDgNhIK82VRQCZlkjMF7"
+      "duration_ms": 175384,
+      "name": "War Dogs",
+      "url": "https://open.spotify.com/track/0jpjz8LG1lUH1VVLBPvuPQ"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 120187,
-      "name": "Big George Bombs",
-      "url": "https://open.spotify.com/track/5Ts0RBQLHGiDhCDsSJNSm6"
+      "duration_ms": 134269,
+      "name": "Look What You Done",
+      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
     },
     {
       "added_at": null,
@@ -732,13 +732,13 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+          "name": "Crooked I",
+          "url": "https://open.spotify.com/artist/4GHvhZJxQ9Eq0vBZBNZMRd"
         }
       ],
-      "duration_ms": 196539,
-      "name": "Across 110 Street",
-      "url": "https://open.spotify.com/track/0kQiirHiQgzagEZO5YDNjp"
+      "duration_ms": 184186,
+      "name": "Enemy Of The State",
+      "url": "https://open.spotify.com/track/0GCDgNhIK82VRQCZlkjMF7"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 134269,
-      "name": "Look What You Done",
-      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
+      "duration_ms": 120187,
+      "name": "Big George Bombs",
+      "url": "https://open.spotify.com/track/5Ts0RBQLHGiDhCDsSJNSm6"
     },
     {
       "added_at": null,
@@ -820,13 +820,13 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Che Noir",
-          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
         }
       ],
-      "duration_ms": 175384,
-      "name": "War Dogs",
-      "url": "https://open.spotify.com/track/0jpjz8LG1lUH1VVLBPvuPQ"
+      "duration_ms": 196539,
+      "name": "Across 110 Street",
+      "url": "https://open.spotify.com/track/0kQiirHiQgzagEZO5YDNjp"
     },
     {
       "added_at": null,
@@ -931,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conway Remixes 1 & 2",
-        "url": "https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 170286,
-      "name": "212",
-      "url": "https://open.spotify.com/track/3007ULz7n9JVrJqNITsIXg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Circumstances",
         "url": "https://open.spotify.com/album/14qunYehq5fAbj8oAtpWVn"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 275917,
       "name": "Circumstances",
       "url": "https://open.spotify.com/track/5AnyUq0QkIQPrmysUe5bYD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conway Remixes 1 & 2",
+        "url": "https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 170286,
+      "name": "212",
+      "url": "https://open.spotify.com/track/3007ULz7n9JVrJqNITsIXg"
     },
     {
       "added_at": null,

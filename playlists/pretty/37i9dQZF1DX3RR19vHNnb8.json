@@ -1,6 +1,6 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 22358,
+  "num_followers": 22372,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,26 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
+        "name": "Assignment",
+        "url": "https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D"
       },
       "artists": [
         {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+          "name": "KiddBlack",
+          "url": "https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH"
         },
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "DJ FortuneDJ",
+          "url": "https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
+      "duration_ms": 137472,
+      "name": "Assignment",
+      "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -963,18 +967,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Will Be",
-        "url": "https://open.spotify.com/album/3Gtsc2tZYcWsidiJLGL05R"
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
       },
       "artists": [
         {
-          "name": "Michealz",
-          "url": "https://open.spotify.com/artist/0K1eScENkg0iUF28eR1RHB"
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 235520,
-      "name": "Will Be",
-      "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"
+      "duration_ms": 210133,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
     }
   ],
   "unique_name": "Pump it Up ",

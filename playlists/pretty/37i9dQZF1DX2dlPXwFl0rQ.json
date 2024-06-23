@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. NXNNI en portada.",
-  "num_followers": 105425,
+  "num_followers": 105456,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Diamante",
-        "url": "https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158813,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA"
-    },
-    {
-      "added_at": "2024-06-21 16:10:06",
-      "album": {
         "name": "Pa\u2019Delante",
         "url": "https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 190906,
       "name": "J\u00f3dete",
       "url": "https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2"
+    },
+    {
+      "added_at": "2024-06-21 16:10:06",
+      "album": {
+        "name": "Diamante",
+        "url": "https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158813,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "De Lo Que Me Salv\u00e9",
-        "url": "https://open.spotify.com/album/4pqSQejVHrDuLaTdu3mmj0"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 211280,
-      "name": "De Lo Que Me Salv\u00e9",
-      "url": "https://open.spotify.com/track/3njGgBsNB4RnxqYKc1YDh2"
-    },
-    {
-      "added_at": "2024-06-21 16:10:06",
-      "album": {
         "name": "Promesas No",
         "url": "https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 206213,
       "name": "Es Cosa De El",
       "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
+    },
+    {
+      "added_at": "2024-06-21 16:10:06",
+      "album": {
+        "name": "De Lo Que Me Salv\u00e9",
+        "url": "https://open.spotify.com/album/4pqSQejVHrDuLaTdu3mmj0"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "De Lo Que Me Salv\u00e9",
+      "url": "https://open.spotify.com/track/3njGgBsNB4RnxqYKc1YDh2"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Aprendiz",
-        "url": "https://open.spotify.com/album/7JLeFKD3oZnZ6VHmEn854y"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 223426,
-      "name": "Aprendiz",
-      "url": "https://open.spotify.com/track/0KI94DLbKBVnTKt9lEKPOy"
-    },
-    {
-      "added_at": "2024-06-21 16:10:06",
-      "album": {
         "name": "Cuando Me Importabas",
         "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 192913,
       "name": "Cuando Me Importabas",
       "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
+    },
+    {
+      "added_at": "2024-06-21 16:10:06",
+      "album": {
+        "name": "Aprendiz",
+        "url": "https://open.spotify.com/album/7JLeFKD3oZnZ6VHmEn854y"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 223426,
+      "name": "Aprendiz",
+      "url": "https://open.spotify.com/track/0KI94DLbKBVnTKt9lEKPOy"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Mentirme",
-        "url": "https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 188087,
-      "name": "Mentirme",
-      "url": "https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY"
-    },
-    {
-      "added_at": "2024-06-21 16:10:06",
-      "album": {
         "name": "Graciela Beltran 14 Super Exitos",
         "url": "https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 186245,
       "name": "Estan Lloviendo Lagrimas",
       "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
+    },
+    {
+      "added_at": "2024-06-21 16:10:06",
+      "album": {
+        "name": "Mentirme",
+        "url": "https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 188087,
+      "name": "Mentirme",
+      "url": "https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
-    },
-    {
-      "added_at": "2024-06-21 16:10:06",
-      "album": {
         "name": "Ahora Va La M\u00eda",
         "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Cuando Caiga la Noche",
-        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 201802,
-      "name": "Cuando Caiga la Noche",
-      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -1271,6 +1255,22 @@
       "duration_ms": 185653,
       "name": "Me Llamaron Asesina",
       "url": "https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi"
+    },
+    {
+      "added_at": "2024-06-21 16:10:06",
+      "album": {
+        "name": "Cuando Caiga la Noche",
+        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Cuando Caiga la Noche",
+      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Quer\u00eda Que Fueras T\u00fa",
-        "url": "https://open.spotify.com/album/0UjakKKW8s4caHqn1NA8wY"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
       "artists": [
         {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 174874,
-      "name": "Quer\u00eda Que Fueras T\u00fa",
-      "url": "https://open.spotify.com/track/3krJcR6T8Q5hk58TlKYUH8"
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+        "name": "Quer\u00eda Que Fueras T\u00fa",
+        "url": "https://open.spotify.com/album/0UjakKKW8s4caHqn1NA8wY"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
         }
       ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+      "duration_ms": 174874,
+      "name": "Quer\u00eda Que Fueras T\u00fa",
+      "url": "https://open.spotify.com/track/3krJcR6T8Q5hk58TlKYUH8"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Mujeres al Tiro",
-        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 145962,
-      "name": "Mujeres al Tiro",
-      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
-    },
-    {
-      "added_at": "2024-06-21 16:10:06",
-      "album": {
         "name": "Le Cale A Quien Le Cale",
         "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Aqu\u00ed Nom\u00e1s",
-        "url": "https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV"
+        "name": "Mujeres al Tiro",
+        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
       },
       "artists": [
         {
-          "name": "ROSUL",
-          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 182309,
-      "name": "El R\u00e1pido",
-      "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
+      "duration_ms": 145962,
+      "name": "Mujeres al Tiro",
+      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -1499,8 +1483,24 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Cherry Mo\u00ebt",
-        "url": "https://open.spotify.com/album/7eC6nc8QoI2GBtGLYfcR4B"
+        "name": "Aqu\u00ed Nom\u00e1s",
+        "url": "https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV"
+      },
+      "artists": [
+        {
+          "name": "ROSUL",
+          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+        }
+      ],
+      "duration_ms": 182309,
+      "name": "El R\u00e1pido",
+      "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
+    },
+    {
+      "added_at": "2024-06-21 16:10:06",
+      "album": {
+        "name": "Las Noches",
+        "url": "https://open.spotify.com/album/77b67zkABlkeckYY9DYcmZ"
       },
       "artists": [
         {
@@ -1508,9 +1508,9 @@
           "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
         }
       ],
-      "duration_ms": 148951,
-      "name": "Cherry Mo\u00ebt",
-      "url": "https://open.spotify.com/track/5sVce8xSleIsaMwmPt7LbG"
+      "duration_ms": 133909,
+      "name": "Las Noches",
+      "url": "https://open.spotify.com/track/5R4Qx8nAWFbJKudNi6flkB"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Corridos Empoderados",
-        "url": "https://open.spotify.com/album/6r6JRi3rLCuIP0YVIGe43w"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 156765,
-      "name": "El Tubo y la Blindada",
-      "url": "https://open.spotify.com/track/5ZNYDmqWUMDWMSZHHrut9d"
-    },
-    {
-      "added_at": "2024-06-21 16:10:06",
-      "album": {
         "name": "Voy A Quedarte Mal",
         "url": "https://open.spotify.com/album/6hpTo2yzqSjV7ZORP6LW0r"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 223211,
       "name": "Voy A Quedarte Mal",
       "url": "https://open.spotify.com/track/0AMcdHtKAFDBtEtDb1JNl2"
+    },
+    {
+      "added_at": "2024-06-21 16:10:06",
+      "album": {
+        "name": "Corridos Empoderados",
+        "url": "https://open.spotify.com/album/6r6JRi3rLCuIP0YVIGe43w"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 156765,
+      "name": "El Tubo y la Blindada",
+      "url": "https://open.spotify.com/track/5ZNYDmqWUMDWMSZHHrut9d"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -1611,8 +1611,8 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Las Noches",
-        "url": "https://open.spotify.com/album/77b67zkABlkeckYY9DYcmZ"
+        "name": "Cherry Mo\u00ebt",
+        "url": "https://open.spotify.com/album/7eC6nc8QoI2GBtGLYfcR4B"
       },
       "artists": [
         {
@@ -1620,9 +1620,29 @@
           "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
         }
       ],
-      "duration_ms": 133909,
-      "name": "Las Noches",
-      "url": "https://open.spotify.com/track/5R4Qx8nAWFbJKudNi6flkB"
+      "duration_ms": 148951,
+      "name": "Cherry Mo\u00ebt",
+      "url": "https://open.spotify.com/track/5sVce8xSleIsaMwmPt7LbG"
+    },
+    {
+      "added_at": "2024-06-21 16:10:06",
+      "album": {
+        "name": "Hielera De Caricias",
+        "url": "https://open.spotify.com/album/3e6BTD3xUgDhJG3dcUqnzU"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        },
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Hielera De Caricias",
+      "url": "https://open.spotify.com/track/4MDQ3wJRrqwY5jh1q6DTZA"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -1659,26 +1679,6 @@
       "duration_ms": 234026,
       "name": "La Gitanilla",
       "url": "https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w"
-    },
-    {
-      "added_at": "2024-06-21 16:10:06",
-      "album": {
-        "name": "Hielera De Caricias",
-        "url": "https://open.spotify.com/album/3e6BTD3xUgDhJG3dcUqnzU"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        },
-        {
-          "name": "La Morra De La Vihuela",
-          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Hielera De Caricias",
-      "url": "https://open.spotify.com/track/4MDQ3wJRrqwY5jh1q6DTZA"
     },
     {
       "added_at": "2024-06-21 16:10:06",

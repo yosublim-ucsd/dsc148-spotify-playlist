@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Stacy N.K.R.",
-  "num_followers": 90056,
+  "num_followers": 90057,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "Is it too much? (Pray things change)",
-        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
-      },
-      "artists": [
-        {
-          "name": "G!ft",
-          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
-        },
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
-        }
-      ],
-      "duration_ms": 171678,
-      "name": "Is it too much? (Pray things change)",
-      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 135000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
+        "name": "Is it too much? (Pray things change)",
+        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
+      },
+      "artists": [
+        {
+          "name": "G!ft",
+          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
+        },
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
+        }
+      ],
+      "duration_ms": 171678,
+      "name": "Is it too much? (Pray things change)",
+      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
     },
     {
       "added_at": "2024-06-12 15:11:47",

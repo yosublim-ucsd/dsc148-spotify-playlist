@@ -1,29 +1,13 @@
 {
-  "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 233849,
+  "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
+  "num_followers": 234035,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAACFHNyxtITuyRZpkxJqipJK",
+  "snapshot_id": "ZnTCgAAAAADilh7eXIP6cLYimLDN2Pse",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "todo me vale madre",
-        "url": "https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 176382,
-      "name": "todo me vale madre",
-      "url": "https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1"
-    },
     {
       "added_at": null,
       "album": {
@@ -227,6 +211,22 @@
       "duration_ms": 232321,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "todo me vale madre",
+        "url": "https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 176382,
+      "name": "todo me vale madre",
+      "url": "https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
       "duration_ms": 244125,
       "name": "Soy De La Calle - En Vivo",
       "url": "https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni Volviendo a Nacer",
-        "url": "https://open.spotify.com/album/4iIj1mXav2SUNKXS0yR57W"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 166992,
-      "name": "Ni Volviendo a Nacer",
-      "url": "https://open.spotify.com/track/1mQ20WIB5sGmvqaiHm5mw5"
     }
   ],
   "unique_name": "This Is Eden Mu\u00f1oz",

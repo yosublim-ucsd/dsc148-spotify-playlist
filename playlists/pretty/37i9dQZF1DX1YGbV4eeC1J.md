@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > Exceptionally vivid Swahili love stories for you and yours\.  Cover: Arrown Bwoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,765 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,776 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 7 | [No Body \(feat\. Bien\)](https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [No Body \(feat\. Bien\)](https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d) | 3:23 |
 | 8 | [Mapoz \(feat\. Mr\. Blue & Jay Melody\)](https://open.spotify.com/track/7kJujeE4Zi8e22ohmHFqEF) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70), [Mr Blue](https://open.spotify.com/artist/4MBbQTNGuU79xD84szvt0a) | [Mapoz \(feat\. Mr\. Blue & Jay Melody\)](https://open.spotify.com/album/52cracIwbALowujVVS3onE) | 4:08 |
 | 9 | [Lonely \(feat\. Nandy\)](https://open.spotify.com/track/7iO2DALT0B86XvNRqA4pES) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Lonely \(feat\. Nandy\)](https://open.spotify.com/album/5QRSblXzuw4jNruyefe6nI) | 3:31 |
-| 10 | [Unanifaa](https://open.spotify.com/track/3nu58GJygIADFBTBGkA25t) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Unanifaa](https://open.spotify.com/album/0qR0bS6061tEud4fYRksqW) | 3:18 |
+| 10 | [Unanifaa](https://open.spotify.com/track/3nu58GJygIADFBTBGkA25t) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Unanifaa](https://open.spotify.com/album/0qR0bS6061tEud4fYRksqW) | 3:18 |
 | 11 | [Nini Mapenzi](https://open.spotify.com/track/6DZbkBCNOJCrdeelhTt11E) | [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [Nini Mapenzi](https://open.spotify.com/album/5s6OQh8EnErELs3qq0YMoY) | 3:24 |
 | 12 | [Nibusu \(feat\. Yammi\)](https://open.spotify.com/track/4dVzMCH149RdkaqROrsATS) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Nibusu \(feat\. Yammi\)](https://open.spotify.com/album/1F3HikuQyKXhIFfrPQ9SyV) | 3:37 |
 | 13 | [Je T Aime](https://open.spotify.com/track/66O4jcm2vic0JaakFzjomN) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Je T Aime](https://open.spotify.com/album/3i9QRcRD7cre4ZNIRDbxUj) | 4:16 |

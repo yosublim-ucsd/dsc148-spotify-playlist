@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 37090,
+  "num_followers": 37117,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Un Beso",
-        "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        }
-      ],
-      "duration_ms": 225029,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Always Talkin Sh!t",
         "url": "https://open.spotify.com/album/7g72cfZ9mi01pZQ99FLvMf"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 460615,
       "name": "Always Talkin Sh!t",
       "url": "https://open.spotify.com/track/1yaAs2qUxamFVX5VotHroG"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Un Beso",
+        "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "duration_ms": 225029,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "In You",
+        "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 373920,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "You Can Forever Be",
         "url": "https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "In You",
-        "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
+        "name": "Dusty Showbiz",
+        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
       },
       "artists": [
         {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         }
       ],
-      "duration_ms": 373920,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
+      "duration_ms": 178040,
+      "name": "Dusty Showbiz",
+      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1303,22 +1319,6 @@
       "duration_ms": 186299,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Dusty Showbiz",
-        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "Dusty Showbiz",
-      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "ROCK THIS",
-        "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
-      },
-      "artists": [
-        {
-          "name": "Sergio Saffe",
-          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "ROCK THIS",
-      "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "OSSAB",
         "url": "https://open.spotify.com/album/1GSPmdzZVo4VUsM7cx4Gxh"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 330000,
       "name": "OSSAB",
       "url": "https://open.spotify.com/track/5u7zi0mI6uzATPYyOd8WC3"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "ROCK THIS",
+        "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
+      },
+      "artists": [
+        {
+          "name": "Sergio Saffe",
+          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "ROCK THIS",
+      "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Get On The Floor EP",
-        "url": "https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 388800,
-      "name": "Get On The Floor",
-      "url": "https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Vamo",
         "url": "https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 216000,
       "name": "Vamo",
       "url": "https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Get On The Floor EP",
+        "url": "https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 388800,
+      "name": "Get On The Floor",
+      "url": "https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Guardian",
-        "url": "https://open.spotify.com/album/3vERVTVUvIE7JRPr5wlQwq"
-      },
-      "artists": [
-        {
-          "name": "Spencer Brown",
-          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
-        }
-      ],
-      "duration_ms": 443500,
-      "name": "Guardian",
-      "url": "https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "N NIGHT",
         "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 320000,
       "name": "What We Got",
       "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/3vERVTVUvIE7JRPr5wlQwq"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        }
+      ],
+      "duration_ms": 443500,
+      "name": "Guardian",
+      "url": "https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "without you",
+        "url": "https://open.spotify.com/album/05maWYabu665iJoxUOxDHB"
+      },
+      "artists": [
+        {
+          "name": "QRTR",
+          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
+        },
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "duration_ms": 336350,
+      "name": "without you",
+      "url": "https://open.spotify.com/track/7H42rYILst7JUooiGyqz9u"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Express Yourself",
         "url": "https://open.spotify.com/album/4WlAI1jYrcdXuQ8QH1X5Fd"
       },
@@ -1791,26 +1811,6 @@
       "duration_ms": 246474,
       "name": "YAP",
       "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "without you",
-        "url": "https://open.spotify.com/album/05maWYabu665iJoxUOxDHB"
-      },
-      "artists": [
-        {
-          "name": "QRTR",
-          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
-        },
-        {
-          "name": "Villager",
-          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
-        }
-      ],
-      "duration_ms": 336350,
-      "name": "without you",
-      "url": "https://open.spotify.com/track/7H42rYILst7JUooiGyqz9u"
     }
   ],
   "unique_name": "Minimal Tech",

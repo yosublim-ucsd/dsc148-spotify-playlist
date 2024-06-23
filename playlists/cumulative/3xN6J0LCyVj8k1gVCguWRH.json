@@ -893,6 +893,28 @@
     },
     {
       "album": {
+        "name": "5urati for you",
+        "url": "https://open.spotify.com/album/7D4rE8IY66XXhv4BVNi04D"
+      },
+      "artists": [
+        {
+          "name": "5urati",
+          "url": "https://open.spotify.com/artist/6J7Awu6ho0iwisvF9sUQBR"
+        },
+        {
+          "name": "Ashley Zarah",
+          "url": "https://open.spotify.com/artist/7zx2lEBvJVxPcD4INOgloz"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173454,
+      "name": "5urati for you",
+      "url": "https://open.spotify.com/track/6rGQRiIHHNenKw62yAQjLp"
+    },
+    {
+      "album": {
         "name": "7 Pointed Leaf",
         "url": "https://open.spotify.com/album/6zKVFUVCAp11mtjLUcnY6H"
       },
@@ -5610,7 +5632,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 239899,
       "name": "Be Thankful for What You Got",
       "url": "https://open.spotify.com/track/2Y9quh9LpW3mEVOs78xO6f"
@@ -15303,6 +15325,24 @@
     },
     {
       "album": {
+        "name": "Do Wit It",
+        "url": "https://open.spotify.com/album/5vCL12slQctY2AL4PQbgzJ"
+      },
+      "artists": [
+        {
+          "name": "Rich Girl Fulani",
+          "url": "https://open.spotify.com/artist/3uOczg1Dd0TqWN1lJCt67W"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160914,
+      "name": "Do Wit It",
+      "url": "https://open.spotify.com/track/4TMdJC1TS254KjzJaw27se"
+    },
+    {
+      "album": {
         "name": "Still Luv",
         "url": "https://open.spotify.com/album/3K984cTKmKdox6Q6B3o5e3"
       },
@@ -19378,7 +19418,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 210279,
       "name": "Feel the Vibes",
       "url": "https://open.spotify.com/track/7jU2TZjfinlqCcTVwZY2IQ"
@@ -21424,6 +21464,24 @@
       "duration_ms": 174556,
       "name": "Friends Like This",
       "url": "https://open.spotify.com/track/5baDVrq0dbQQQRLxboLhSH"
+    },
+    {
+      "album": {
+        "name": "friends with benefits",
+        "url": "https://open.spotify.com/album/5zoz1RfZlZ3RtsbFt4czcK"
+      },
+      "artists": [
+        {
+          "name": "DDFRx",
+          "url": "https://open.spotify.com/artist/09ISwaizFCQJxso9NyIfHv"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222452,
+      "name": "friends with benefits",
+      "url": "https://open.spotify.com/track/41BiRr0pGfZEkF1eMS4ep6"
     },
     {
       "album": {
@@ -35049,6 +35107,24 @@
     },
     {
       "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/7hxnN9L47HBsqFGpUZ1SyY"
+      },
+      "artists": [
+        {
+          "name": "JoiStaRR",
+          "url": "https://open.spotify.com/artist/1IqGEfjh8ScdSV8jaHzHxN"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216009,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/30uFI1KICQnH4N7wv0UQIh"
+    },
+    {
+      "album": {
         "name": "Special Delivery",
         "url": "https://open.spotify.com/album/583tJiSiBT4NluruEWXKqM"
       },
@@ -43679,6 +43755,24 @@
     },
     {
       "album": {
+        "name": "Trying To Hate You",
+        "url": "https://open.spotify.com/album/6prx6hwuADRxYESBmOI8If"
+      },
+      "artists": [
+        {
+          "name": "Kaiyah Mercedes",
+          "url": "https://open.spotify.com/artist/3IRMaFHnt7sbXqYJLMBRtS"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117886,
+      "name": "Painkillers",
+      "url": "https://open.spotify.com/track/7s5mvSU6Wqyxe1O0utHUtL"
+    },
+    {
+      "album": {
         "name": "PAINLESS",
         "url": "https://open.spotify.com/album/2n0CkKn4HqU9wmD2FmSMrj"
       },
@@ -47062,6 +47156,24 @@
       "duration_ms": 87191,
       "name": "Red",
       "url": "https://open.spotify.com/track/0hqg215pTzIbUAa85NaZPt"
+    },
+    {
+      "album": {
+        "name": "Red Sun",
+        "url": "https://open.spotify.com/album/4OsYmPBQc9ogFOD4GNDojX"
+      },
+      "artists": [
+        {
+          "name": "VVG ACE",
+          "url": "https://open.spotify.com/artist/5m2I4HERXfgEjdzXXlszja"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205113,
+      "name": "Red Sun",
+      "url": "https://open.spotify.com/track/6FRNLOR5qom0JPAeQlzu5U"
     },
     {
       "album": {

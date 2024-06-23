@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Andr\u00e9s Su\u00e1rez.",
-  "num_followers": 326831,
+  "num_followers": 326861,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Luna nueva",
-        "url": "https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 239653,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "No soy de aqu\u00ed",
         "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 247266,
       "name": "No soy de aqu\u00ed",
       "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Luna nueva",
+        "url": "https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 239653,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Lunas Rotas: De casa a las ventas (Standard version)",
-        "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Si t\u00fa no estas",
-      "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Canciones 1980-2009",
         "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 190493,
       "name": "El sitio de mi recreo",
       "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Lunas Rotas: De casa a las ventas (Standard version)",
+        "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Si t\u00fa no estas",
+      "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "City Zen",
+        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Desde Que Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Peces de Ciudad (feat. Pablo L\u00f3pez)",
         "url": "https://open.spotify.com/album/1z62EMbonbN8m5fjpzT9cn"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "City Zen",
-        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
+        "name": "Canciones De Amor Para Tiempos Dificiles",
+        "url": "https://open.spotify.com/album/1HITxEQK7ac082gDH7ynDR"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
         }
       ],
-      "duration_ms": 228413,
-      "name": "Desde Que Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
+      "duration_ms": 225800,
+      "name": "Santa Lucia",
+      "url": "https://open.spotify.com/track/4rOf6mtF2MpDwWipaila0L"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1147,22 +1163,6 @@
       "duration_ms": 157466,
       "name": "Las Cuatro y Diez",
       "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Canciones De Amor Para Tiempos Dificiles",
-        "url": "https://open.spotify.com/album/1HITxEQK7ac082gDH7ynDR"
-      },
-      "artists": [
-        {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Santa Lucia",
-      "url": "https://open.spotify.com/track/4rOf6mtF2MpDwWipaila0L"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
+      },
+      "artists": [
+        {
+          "name": "Jose Merce",
+          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
+        }
+      ],
+      "duration_ms": 256839,
+      "name": "Al alba",
+      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 217373,
       "name": "Sinmigo",
       "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
-      },
-      "artists": [
-        {
-          "name": "Jose Merce",
-          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
-        }
-      ],
-      "duration_ms": 256839,
-      "name": "Al alba",
-      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1611,22 +1611,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "El Otro",
-        "url": "https://open.spotify.com/album/6pl3ZsD89ASk91SpE61Gt5"
+        "name": "Qui\u00e9reme Bien (feat. Leiva)",
+        "url": "https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm"
       },
       "artists": [
         {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
         },
         {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 216490,
-      "name": "El Otro",
-      "url": "https://open.spotify.com/track/3rSMP6Rx0DxlXN01DWotof"
+      "duration_ms": 281095,
+      "name": "Qui\u00e9reme Bien (feat. Leiva)",
+      "url": "https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1647,22 +1647,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Qui\u00e9reme Bien (feat. Leiva)",
-        "url": "https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm"
+        "name": "El Otro",
+        "url": "https://open.spotify.com/album/6pl3ZsD89ASk91SpE61Gt5"
       },
       "artists": [
         {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
         },
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
         }
       ],
-      "duration_ms": 281095,
-      "name": "Qui\u00e9reme Bien (feat. Leiva)",
-      "url": "https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m"
+      "duration_ms": 216490,
+      "name": "El Otro",
+      "url": "https://open.spotify.com/track/3rSMP6Rx0DxlXN01DWotof"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "V\u00e9rtigo (Sinf\u00f3nico)",
+        "url": "https://open.spotify.com/album/3CnIeXRR0e3uyPvGtXXEeQ"
+      },
+      "artists": [
+        {
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
+        }
+      ],
+      "duration_ms": 479570,
+      "name": "V\u00e9rtigo - Sinf\u00f3nico",
+      "url": "https://open.spotify.com/track/5iBcbt0DM8ceHIPTejsPu7"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Apuntes Sobre Mi Paso por el Invierno",
         "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 256894,
       "name": "Puede Ser Que la Conozcas",
       "url": "https://open.spotify.com/track/3C0uVZhpunilhtO5JHvxX7"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "V\u00e9rtigo (Sinf\u00f3nico)",
-        "url": "https://open.spotify.com/album/3CnIeXRR0e3uyPvGtXXEeQ"
-      },
-      "artists": [
-        {
-          "name": "Ismael Serrano",
-          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
-        }
-      ],
-      "duration_ms": 479570,
-      "name": "V\u00e9rtigo - Sinf\u00f3nico",
-      "url": "https://open.spotify.com/track/5iBcbt0DM8ceHIPTejsPu7"
     },
     {
       "added_at": "2024-06-20 22:00:00",

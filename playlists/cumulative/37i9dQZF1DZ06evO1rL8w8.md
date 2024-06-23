@@ -2,7 +2,7 @@
 
 ### [This Is El Komander](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rL8w8)
 
-> This is El Komander\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is El Komander\. The essential tracks, all in one playlist.
 
 62 songs - 3 hr 0 min
 

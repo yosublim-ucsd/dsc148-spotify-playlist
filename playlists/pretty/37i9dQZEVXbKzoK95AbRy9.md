@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,786 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,863 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 25 | [Quase Algo \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/3iam4WkRoqMoBBCwDFZNgd) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo\)](https://open.spotify.com/album/7BnVrKWFfVy42V2Ozg7Ri6) | 2:58 |
 | 26 | [Vem Desestressar](https://open.spotify.com/track/5jrQZnYInM6YUjr2yFSa3E) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [O Cara Do Momento, Vol\. 2](https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf) | 4:03 |
 | 27 | [Dedo do Meio \- Ao Vivo](https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK) | 2:47 |
-| 28 | [Te Maceto Depois do Baile](https://open.spotify.com/track/3EuPKX0FLhAxfL5hZBlfJe) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [DJ Lafon Do Md](https://open.spotify.com/artist/1zie7wOcoVwPHWLTJyEXG7), [Mc Rf](https://open.spotify.com/artist/21XypSEosIAo1NYqT0UKkc) | [Te Maceto Depois do Baile](https://open.spotify.com/album/3S84WqT6S97NTnegU0gvtg) | 3:19 |
+| 28 | [Te Maceto Depois do Baile](https://open.spotify.com/track/3EuPKX0FLhAxfL5hZBlfJe) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [DJ Lafon Do Md](https://open.spotify.com/artist/1zie7wOcoVwPHWLTJyEXG7), [Mc Rf](https://open.spotify.com/artist/21XypSEosIAo1NYqT0UKkc) | [Te Maceto Depois do Baile](https://open.spotify.com/album/3S84WqT6S97NTnegU0gvtg) | 3:49 |
 | 29 | [Morena De Goiânia \- Ao Vivo](https://open.spotify.com/track/1WHDOr19zyyqu6XXIvdgfX) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [062 \(Ao Vivo\)](https://open.spotify.com/album/2BvTUSzjyRiATeuIPicQPY) | 2:46 |
 | 30 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 |
 | 31 | [Aquariano Nato](https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [Complexo dos Hits](https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv) | [Funktroit](https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU) | 1:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [De Trás Pra Frente \- Ao Vivo](https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:43 |
 | 50 | [Piração](https://open.spotify.com/track/2SFcDfkE1MRXZfl4LIwscm) | [Kaká e Pedrinho](https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ) | [Piração 2.0](https://open.spotify.com/album/7fQ7FbXBfe2IbrSQJ0QltX) | 2:33 |
 
-Snapshot ID: `LgjlmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lgo5cAAAAAAAAAAAAAAAAAAAAAAAAGVu`

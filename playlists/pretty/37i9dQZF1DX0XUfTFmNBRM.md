@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music served here\. Cover \- Pushpa 2 The Rule
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,167,893 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,170,651 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Angaaron \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/track/2ZDOzySC2g3YF1p26TPzBt) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Angaaron \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/album/7i3rOAK3iPA96QAekZeOrh) | 4:20 |
-| 2 | [Soni Soni \(From "Ishq Vishk Rebound"\)](https://open.spotify.com/track/36N5awamOX6XX5pQn3aFXZ) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Soni Soni \(From "Ishq Vishk Rebound"\)](https://open.spotify.com/album/3vBso6gFPmEwstdMXn3Ahi) | 2:56 |
+| 2 | [Soni Soni \(From "Ishq Vishk Rebound"\)](https://open.spotify.com/track/36N5awamOX6XX5pQn3aFXZ) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Soni Soni \(From "Ishq Vishk Rebound"\)](https://open.spotify.com/album/3vBso6gFPmEwstdMXn3Ahi) | 2:56 |
 | 3 | [Taras \- From "Munjya"](https://open.spotify.com/track/6t9KM2EQD4H2KbrTgHGYf3) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Taras \(From "Munjya"\)](https://open.spotify.com/album/0sEowDRNDEVD8T31onRthr) | 3:08 |
 | 4 | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60) | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc) | 4:41 |
 | 5 | [Sajni \(From "Laapataa Ladies"\)](https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy) | [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Prashant Pandey](https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w) | [Sajni \(From "Laapataa Ladies"\)](https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6) | 2:50 |

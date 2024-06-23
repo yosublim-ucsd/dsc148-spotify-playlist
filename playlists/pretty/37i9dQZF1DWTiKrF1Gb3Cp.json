@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 205055,
+  "num_followers": 205129,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
+        "name": "Qui\u00e9n?",
+        "url": "https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "Qui\u00e9n?",
+      "url": "https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
         "name": "BELICONTENTO",
         "url": "https://open.spotify.com/album/1Oo4iemjn5zgW9ah4p1gp7"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 151680,
       "name": "BELICONTENTO",
       "url": "https://open.spotify.com/track/5WoQIn0VwI7h4D5QWMDBx2"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
-        "name": "Qui\u00e9n?",
-        "url": "https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Qui\u00e9n?",
-      "url": "https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "El LP",
-        "url": "https://open.spotify.com/album/03znBeyglN3fms5BClz1mv"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 219002,
-      "name": "El LP",
-      "url": "https://open.spotify.com/track/6gCfghaTVO97n6OxkFvGhQ"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "Directo Hasta Arriba",
         "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 212666,
       "name": "Estilo Malandro",
       "url": "https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "El LP",
+        "url": "https://open.spotify.com/album/03znBeyglN3fms5BClz1mv"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 219002,
+      "name": "El LP",
+      "url": "https://open.spotify.com/track/6gCfghaTVO97n6OxkFvGhQ"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "Trakas Belico",
-        "url": "https://open.spotify.com/album/1DsEIRuqKVBpZSCvfLZfpx"
-      },
-      "artists": [
-        {
-          "name": "Gerry Garcia",
-          "url": "https://open.spotify.com/artist/3JBqGOnpdinzeD7sSMyiU4"
-        }
-      ],
-      "duration_ms": 152715,
-      "name": "Trakas Belico",
-      "url": "https://open.spotify.com/track/5aSevcoVohlQUvVyF7NKbC"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "El de Villa Union",
         "url": "https://open.spotify.com/album/59SneEeDWmX2aIhjgzTHvf"
       },
@@ -1615,22 +1599,46 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
+        "name": "Trakas Belico",
+        "url": "https://open.spotify.com/album/1DsEIRuqKVBpZSCvfLZfpx"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+          "name": "Gerry Garcia",
+          "url": "https://open.spotify.com/artist/3JBqGOnpdinzeD7sSMyiU4"
         }
       ],
-      "duration_ms": 150517,
-      "name": "Toretto",
-      "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
+      "duration_ms": 152715,
+      "name": "Trakas Belico",
+      "url": "https://open.spotify.com/track/5aSevcoVohlQUvVyF7NKbC"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "Sabadrugs",
+        "url": "https://open.spotify.com/album/4DjsNnuINp4iwMarVMSvJC"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "B-RASTER",
+          "url": "https://open.spotify.com/artist/4TH5DHRtzUUijYshUgKdby"
+        },
+        {
+          "name": "Sonik 420",
+          "url": "https://open.spotify.com/artist/21TpgyDPXfEFa21Hgaj9Ed"
+        }
+      ],
+      "duration_ms": 229251,
+      "name": "Sabadrugs",
+      "url": "https://open.spotify.com/track/5RuBHhtREoVI9t1YpdsJJ5"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1687,30 +1695,22 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "Sabadrugs",
-        "url": "https://open.spotify.com/album/4DjsNnuINp4iwMarVMSvJC"
+        "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
       },
       "artists": [
         {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        },
-        {
-          "name": "B-RASTER",
-          "url": "https://open.spotify.com/artist/4TH5DHRtzUUijYshUgKdby"
-        },
-        {
-          "name": "Sonik 420",
-          "url": "https://open.spotify.com/artist/21TpgyDPXfEFa21Hgaj9Ed"
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         }
       ],
-      "duration_ms": 229251,
-      "name": "Sabadrugs",
-      "url": "https://open.spotify.com/track/5RuBHhtREoVI9t1YpdsJJ5"
+      "duration_ms": 150517,
+      "name": "Toretto",
+      "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1727,26 +1727,6 @@
       "duration_ms": 235728,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
-        "name": "Andamos Francos",
-        "url": "https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 125402,
-      "name": "Andamos Francos",
-      "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1783,6 +1763,26 @@
       "duration_ms": 192720,
       "name": "Adentro de la Disco (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "Andamos Francos",
+        "url": "https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 125402,
+      "name": "Andamos Francos",
+      "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Fe",
+      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
         "name": "Barrio (with Lefty Sm)",
         "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 216750,
       "name": "Round 6",
       "url": "https://open.spotify.com/track/2fqcMU5Y5HnqPYj4p47Kcz"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Fe",
-      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
     },
     {
       "added_at": "2024-06-21 06:00:00",

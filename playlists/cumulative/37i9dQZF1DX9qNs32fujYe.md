@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Kittie
 
-899 songs - 2 day 18 hr 10 min
+901 songs - 2 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Hearts On Fire](https://open.spotify.com/track/1uPJUOUzZydICIfknCS2nK) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2X6TTloD276GgLsMAWfZQn) | 3:51 | 2021-12-17 | 2022-07-28 |
 | [Heavy Metal](https://open.spotify.com/track/2r8GRuR1UiNM1lA1e45T0o) | [Knights of the Realm](https://open.spotify.com/artist/7drZpVrfcqFcFdX3of49Uo) | [Heavy Metal](https://open.spotify.com/album/3M9LSjt00aeAcpt9GUwL68) | 2:59 | 2022-01-14 | 2022-03-26 |
 | [Heavy Metal Never Dies](https://open.spotify.com/track/4mJmi9z3o1B6k2vry39Ufh) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [The Landing](https://open.spotify.com/album/2UhgoMIFgbaiLHuiB0qjHU) | 4:14 | 2021-12-17 |  |
+| [Heavy Metal Viking](https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Heavy Metal Viking](https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J) | 3:51 | 2024-06-21 |  |
 | [Hel](https://open.spotify.com/track/5GkmMQsuMARKcbtC18cmsf) | [HAVAMAL](https://open.spotify.com/artist/6ldp4tSRbPDs5VA2w9KXmD) | [Hel](https://open.spotify.com/album/4x7CNsDuc8tS7U7xnhLHB6) | 5:51 | 2021-12-17 | 2022-07-13 |
 | [Hellbreaker](https://open.spotify.com/track/2s79XUW9f2VTs3Jgs1tzJP) | [Motorjesus](https://open.spotify.com/artist/5ZD2aRanslnMOZ7EO9Onde) | [Hellbreaker](https://open.spotify.com/album/4tN4z7UnYMD8ENTHX0z9ZW) | 4:07 | 2021-12-17 | 2022-07-28 |
 | [Hellfire Thunderbolt](https://open.spotify.com/track/008eogHQPXUzUuIURJoZuJ) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [Hellfire Thunderbolt](https://open.spotify.com/album/0uzXsHn4u4M052Ok4Vfz2u) | 3:49 | 2021-12-17 | 2022-07-27 |
@@ -637,7 +638,7 @@
 | [Sad But True](https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:23 | 2021-12-17 | 2022-07-29 |
 | [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 | 2022-07-08 | 2024-01-27 |
 | [Sainted by the Storm](https://open.spotify.com/track/5zlUrvdz6o5tIC2bBg31iZ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sainted by the Storm](https://open.spotify.com/album/6eb9mUmP6egV7LQigKc9bf) | 3:44 | 2022-03-25 | 2024-06-22 |
-| [Saoirse](https://open.spotify.com/track/1YtnZi7QgKE3rcgg91mDKn) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Saoirse](https://open.spotify.com/album/6zhT0ZNSRJWVCyWiyyeCLz) | 6:17 | 2024-04-05 |  |
+| [Saoirse](https://open.spotify.com/track/1YtnZi7QgKE3rcgg91mDKn) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Saoirse](https://open.spotify.com/album/6zhT0ZNSRJWVCyWiyyeCLz) | 6:17 | 2024-04-05 | 2024-06-23 |
 | [Saturday Night \(Hallelujah\)](https://open.spotify.com/track/3cnHO8mFG1tqSNWChMI1zh) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Saturday Night \(Hallelujah\)](https://open.spotify.com/album/12oWtJ1bV116awAv3DRWMK) | 3:16 | 2021-12-17 | 2022-07-27 |
 | [Save Us](https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Save Us](https://open.spotify.com/album/5vCm979YxXhzYDlpgyYRgW) | 4:45 | 2022-03-02 | 2022-07-29 |
 | [Scars](https://open.spotify.com/track/7AkmjII5u3rtaec0240tBw) | [Fates Warning](https://open.spotify.com/artist/4S6URhg3PMKnCv9clR4ejE) | [Scars](https://open.spotify.com/album/3bXCAqkH3vmo3bsPvTNmgY) | 5:04 | 2022-03-02 | 2022-04-21 |
@@ -666,6 +667,7 @@
 | [Sickle and Peace](https://open.spotify.com/track/05eJpA9YX6C25tnJEOgEpH) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Sickle and Peace](https://open.spotify.com/album/2ppckPJjNgNhIjxJ2hIcrZ) | 6:17 | 2022-03-22 | 2022-04-19 |
 | [Siege Lord](https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Siege Lord](https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP) | 3:25 | 2024-05-03 | 2024-06-22 |
 | [Silver Tongue](https://open.spotify.com/track/5uNazTJV7Rpd8zAtWDiSiG) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Pawns & Kings](https://open.spotify.com/album/6GfoBh7p2LS5fMbYYMjj5b) | 4:18 | 2023-10-27 | 2024-04-19 |
+| [Sinners of the Seven Seas](https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sinners of the Seven Seas](https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP) | 3:00 | 2024-06-21 |  |
 | [Slaughter Of The Soul](https://open.spotify.com/track/2Vy4z1ZUN7RvN7syWI2yef) | [At The Gates](https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD) | [Slaughter Of The Soul](https://open.spotify.com/album/1m0px7K5tJndjxU6RIuL8U) | 3:03 | 2022-08-19 |  |
 | [Slaughterhouse \(feat\. Bryan Garris\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2022-05-13 |  |
 | [Slave New World](https://open.spotify.com/track/1rriJU19bJPPSZTkfnOEsH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Sepulquarta](https://open.spotify.com/album/3p9xh35Qupdic1CREgJUIz) | 2:55 | 2022-07-13 | 2022-11-14 |
@@ -727,7 +729,7 @@
 | [Symphony Of Destruction](https://open.spotify.com/track/4YJZjINIhakR98fnz1Pvup) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 4:06 | 2022-08-26 |  |
 | [Symphony Of Destruction](https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:06 | 2021-12-17 | 2022-08-27 |
 | [Take the World](https://open.spotify.com/track/4ZpMNbTPXI9sOPv0mIPY7K) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [Take the World](https://open.spotify.com/album/3zc9s6GMTNjZhTfIxvkT5x) | 2:48 | 2022-04-01 | 2022-04-17 |
-| [Teardrinker](https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Teardrinker](https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw) | 5:20 | 2021-12-17 |  |
+| [Teardrinker](https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Teardrinker](https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw) | 5:20 | 2021-12-17 | 2024-06-23 |
 | [Teardrinker](https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:20 | 2022-07-13 | 2022-08-06 |
 | [Tears Don't Fall](https://open.spotify.com/track/3iWlbqAaoIR7H7gyO3a6rV) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 5:48 | 2022-08-19 | 2023-03-11 |
 | [Tears of a Mandrake](https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Mandrake](https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5) | 7:11 | 2022-07-08 | 2024-04-19 |

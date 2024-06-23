@@ -2,7 +2,7 @@
 
 ### [Frontline \-ヒップホップ最前線\-](https://open.spotify.com/playlist/37i9dQZF1DXbzqS7BvZFvj)
 
-> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Moneybagg Yo
+> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Ice Spice
 
 693 songs - 1 day 11 hr 13 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Maru2D
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,938 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,997 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 7 | [Aquela](https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Aquela](https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs) | 2:01 |
 | 8 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 |
 | 9 | [Karma](https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:57 |
-| 10 | [Bolo e Rebolo](https://open.spotify.com/track/4inCynFTlqhdsYtZphU2eo) | [Bárbara Leão](https://open.spotify.com/artist/4JduGZ99yejLQKkve0LMUn) | [Bolo e Rebolo](https://open.spotify.com/album/6LXmfgvKcmLhRRW32sz5qi) | 3:01 |
+| 10 | [Bolo e Rebolo](https://open.spotify.com/track/4inCynFTlqhdsYtZphU2eo) | [Bárbara Leão](https://open.spotify.com/artist/4JduGZ99yejLQKkve0LMUn), [Lucas Faria](https://open.spotify.com/artist/7kmdKa5nuCqo8g9u4PDs7d) | [Bolo e Rebolo](https://open.spotify.com/album/6LXmfgvKcmLhRRW32sz5qi) | 3:01 |
 | 11 | [Joias Caras](https://open.spotify.com/track/6qL6PbTSJYMF9waKQOWdNb) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Biazotto](https://open.spotify.com/artist/6pIhlzAGpJu6YkWsG3fe3b) | [Joias Caras](https://open.spotify.com/album/6iPNo87W8FkjKyPPwsnhdG) | 1:58 |
 | 12 | [Espero Que Entendam \- Freestyle](https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Espero Que Entendam \(Freestyle\)](https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu) | 3:31 |
 | 13 | [Set da Menorzinha 1.0](https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO) | [Mc Menorzinha](https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ), [MC Marcelly](https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Set da Menorzinha 1.0](https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz) | 5:24 |

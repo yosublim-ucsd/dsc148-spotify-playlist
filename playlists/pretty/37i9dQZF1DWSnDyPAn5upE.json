@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 56377,
+  "num_followers": 56429,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Anomi",
-        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
-      },
-      "artists": [
-        {
-          "name": "Sonja Tofik",
-          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
-        }
-      ],
-      "duration_ms": 173798,
-      "name": "Graveyard",
-      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Leave No Path Untaken",
         "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Anomi",
+        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
+      },
+      "artists": [
+        {
+          "name": "Sonja Tofik",
+          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
+        }
+      ],
+      "duration_ms": 173798,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Closer Now",
         "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 282920,
       "name": "Closer Now",
       "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Fountain",
-        "url": "https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL"
-      },
-      "artists": [
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        }
-      ],
-      "duration_ms": 276305,
-      "name": "Tendril",
-      "url": "https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -599,22 +583,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Northwest & Southeast",
-        "url": "https://open.spotify.com/album/2kkBsfxeuSjGUi0cxHMXDt"
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/0fasH5TVfXvpzoYpFmemgL"
       },
       "artists": [
         {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        },
-        {
-          "name": "Party Store",
-          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
         }
       ],
-      "duration_ms": 406000,
-      "name": "Thursday Night, Friday Morning",
-      "url": "https://open.spotify.com/track/5Tsdj9fb4y4YElEh5cZaCG"
+      "duration_ms": 276305,
+      "name": "Tendril",
+      "url": "https://open.spotify.com/track/4ZRQpRpeqICEqlTcDzGVWX"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -635,6 +615,26 @@
       "duration_ms": 360193,
       "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
       "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Northwest & Southeast",
+        "url": "https://open.spotify.com/album/2kkBsfxeuSjGUi0cxHMXDt"
+      },
+      "artists": [
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        },
+        {
+          "name": "Party Store",
+          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "Thursday Night, Friday Morning",
+      "url": "https://open.spotify.com/track/5Tsdj9fb4y4YElEh5cZaCG"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
         }
       ],
-      "duration_ms": 264250,
-      "name": "Haven't Left Home 4 4 Days",
-      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -916,25 +916,9 @@
           "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
         }
       ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Dalmarnock Tapes",
-        "url": "https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7"
-      },
-      "artists": [
-        {
-          "name": "Cucina Povera",
-          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
-        }
-      ],
-      "duration_ms": 314036,
-      "name": "L\u00e4mp\u00f6",
-      "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
+      "duration_ms": 264250,
+      "name": "Haven't Left Home 4 4 Days",
+      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -971,6 +955,22 @@
       "duration_ms": 250440,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Dalmarnock Tapes",
+        "url": "https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7"
+      },
+      "artists": [
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+        }
+      ],
+      "duration_ms": 314036,
+      "name": "L\u00e4mp\u00f6",
+      "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1063,6 +1063,30 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "You Make It Look so Easy (Reverbed by Malibu)",
+        "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
+      },
+      "artists": [
+        {
+          "name": "Himera",
+          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
+        },
+        {
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 239232,
+      "name": "You Make It Look so Easy - Reverbed by Malibu",
+      "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Honest Labour",
         "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
       },
@@ -1115,30 +1139,6 @@
       "duration_ms": 444000,
       "name": "Bright Girl",
       "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "You Make It Look so Easy (Reverbed by Malibu)",
-        "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
-      },
-      "artists": [
-        {
-          "name": "Himera",
-          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
-        },
-        {
-          "name": "Petal Supply",
-          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 239232,
-      "name": "You Make It Look so Easy - Reverbed by Malibu",
-      "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Lost in Time",
-        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 114080,
-      "name": "Chapitre I",
-      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 245636,
       "name": "Waving",
       "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 114080,
+      "name": "Chapitre I",
+      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Stretch Your Eyes (Ambient Acapella)",
+        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 367253,
+      "name": "Stretch Your Eyes - Ambient Acapella",
+      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Pilled Up on a Couple of Doves",
         "url": "https://open.spotify.com/album/0J8haEuiXYtr6z7Pg4HFz6"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Stretch Your Eyes (Ambient Acapella)",
-        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 367253,
-      "name": "Stretch Your Eyes - Ambient Acapella",
-      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Forward / Wreck Dive",
         "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 196129,
       "name": "Forward",
       "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "a journey\u2026",
+        "url": "https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1415,22 +1431,6 @@
       "duration_ms": 156000,
       "name": "Shimmer in the Sky - Yoko Komatsu Rework",
       "url": "https://open.spotify.com/track/7svmNfhslMWoTwwR7VGgPY"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "a journey\u2026",
-        "url": "https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW"
-      },
-      "artists": [
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "All Things Devour (Botany Remix)",
-        "url": "https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70"
-      },
-      "artists": [
-        {
-          "name": "aeseaes",
-          "url": "https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO"
-        },
-        {
-          "name": "Botany",
-          "url": "https://open.spotify.com/artist/4X8xPTUQoC19tQjPG40M81"
-        }
-      ],
-      "duration_ms": 326426,
-      "name": "All Things Devour - Botany Remix",
-      "url": "https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Inori (William Basinski Rework)",
         "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 306154,
       "name": "Inori - William Basinski Rework",
       "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "All Things Devour (Botany Remix)",
+        "url": "https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70"
+      },
+      "artists": [
+        {
+          "name": "aeseaes",
+          "url": "https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO"
+        },
+        {
+          "name": "Botany",
+          "url": "https://open.spotify.com/artist/4X8xPTUQoC19tQjPG40M81"
+        }
+      ],
+      "duration_ms": 326426,
+      "name": "All Things Devour - Botany Remix",
+      "url": "https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Dango (Colloid Version)",
-        "url": "https://open.spotify.com/album/5tbc91panu3bb9H1Cg3ull"
-      },
-      "artists": [
-        {
-          "name": "Satomimagae",
-          "url": "https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf"
-        }
-      ],
-      "duration_ms": 268555,
-      "name": "Dango - Colloid Version",
-      "url": "https://open.spotify.com/track/29MBtrRzSGCnns9CPycR0C"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Grand Views",
         "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 306908,
       "name": "Epic Mirage",
       "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Dango (Colloid Version)",
+        "url": "https://open.spotify.com/album/5tbc91panu3bb9H1Cg3ull"
+      },
+      "artists": [
+        {
+          "name": "Satomimagae",
+          "url": "https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf"
+        }
+      ],
+      "duration_ms": 268555,
+      "name": "Dango - Colloid Version",
+      "url": "https://open.spotify.com/track/29MBtrRzSGCnns9CPycR0C"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Find Sound",
-        "url": "https://open.spotify.com/album/04Kd4PBkBMEGJBf6JLn35c"
+        "name": "Penelope Three",
+        "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
       },
       "artists": [
         {
-          "name": "Shards",
-          "url": "https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU"
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
         }
       ],
-      "duration_ms": 217090,
-      "name": "Thoughts",
-      "url": "https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ"
+      "duration_ms": 184973,
+      "name": "Fur & Feather",
+      "url": "https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Penelope Three",
-        "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
+        "name": "Find Sound",
+        "url": "https://open.spotify.com/album/04Kd4PBkBMEGJBf6JLn35c"
       },
       "artists": [
         {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+          "name": "Shards",
+          "url": "https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU"
         }
       ],
-      "duration_ms": 184973,
-      "name": "Fur & Feather",
-      "url": "https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO"
+      "duration_ms": 217090,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ"
     },
     {
       "added_at": "2023-10-12 18:05:50",

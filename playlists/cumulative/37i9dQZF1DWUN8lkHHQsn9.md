@@ -4,7 +4,7 @@
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>
 
-236 songs - 13 hr 16 min
+237 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Nie mój typ](https://open.spotify.com/track/0R8CXA2R06LBzMSby2mz34) | [Stysio](https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT) | [Nie mój typ](https://open.spotify.com/album/3dVeCcsSnCTQZsNHysUSme) | 2:25 | 2024-06-10 |  |
 | [nie wracam nie wracam nie wracam nie wracam](https://open.spotify.com/track/0AEA4U5rbpOrB4UZlGktsN) | [Kamil Hasselhoff](https://open.spotify.com/artist/1XHvLGFiaNYB5zU9QSVYm9) | [nie wracam nie wracam nie wracam nie wracam](https://open.spotify.com/album/7s9dWBppVm7BbttpnStpfx) | 3:16 | 2024-03-11 |  |
 | [nie wrócę](https://open.spotify.com/track/5nVQRlR20mRJH3k3S0aGj3) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw) | [nie wrócę](https://open.spotify.com/album/3wAyjQpKrq553kPXjR2rkV) | 2:40 | 2023-08-07 | 2023-11-14 |
+| [NIE ZNASZ JEJ](https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8) | [Elena](https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn) | [NIE ZNASZ JEJ](https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1) | 2:34 | 2024-06-20 |  |
 | [Nieludzie \(Ignorance Ha\)](https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [Gusła \(Human Rites\)](https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX) | 5:05 | 2021-06-22 | 2024-06-11 |
 | [niemówmi](https://open.spotify.com/track/7KSRgQPBOsuTi9SclLCQHc) | [Patryk Janiak](https://open.spotify.com/artist/5f0iJm2Clf3zrxcWfgTS7k) | [niemówmi](https://open.spotify.com/album/1BniDqtFGZMyVjPEf6saZz) | 2:40 | 2023-10-09 | 2024-06-11 |
 | [Niepolka](https://open.spotify.com/track/3SEP7Q0BsICf5qlhRBGtwG) | [Karolina Czarnecka](https://open.spotify.com/artist/6J2uYw9Hf0spyvUuwvEP1l), [Szatt](https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS) | [Niepolka](https://open.spotify.com/album/1ubWl6fNt6Ktmun9DunofW) | 3:16 | 2023-06-23 | 2023-07-11 |
@@ -191,7 +192,7 @@
 | [SLAY](https://open.spotify.com/track/5inHdBzp49cEZ96hvpRug4) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [SLAY](https://open.spotify.com/album/09pZiA20YaLGEHkqGqzC9m) | 2:59 | 2023-06-20 |  |
 | [Spicy](https://open.spotify.com/track/0L6WdUBOquVBQ8Gu3ASpZZ) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [H8](https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO) | [Spicy](https://open.spotify.com/album/5s9O3oTtIG0TscYAG8gRaH) | 2:39 | 2023-08-07 | 2024-02-13 |
 | [Spicy \(Lulu x Uaziuk Remix\)](https://open.spotify.com/track/4wz4d6QxhgN4GfiN3bFjfA) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc), [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O) | [Spicy \(Lulu x Uaziuk Remix\)](https://open.spotify.com/album/2clwWQQcD6CTDJK6wSm94L) | 3:22 | 2024-02-12 |  |
-| [Spina](https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O) | [Spina](https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd) | 3:33 | 2023-03-17 |  |
+| [Spina](https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX) | [Lulu x Uaziuk](https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O) | [Spina](https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd) | 3:33 | 2023-03-17 | 2024-06-23 |
 | [Spytaj mnie](https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb) | 3:13 | 2023-05-31 | 2024-04-09 |
 | [Stalker](https://open.spotify.com/track/3BdtOK2oTUSLcwgHAQ6aIi) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Stalker](https://open.spotify.com/album/6EPLw3UyM9oCzbBatzdWkz) | 3:30 | 2021-06-22 | 2022-06-01 |
 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 | 2022-06-01 |  |

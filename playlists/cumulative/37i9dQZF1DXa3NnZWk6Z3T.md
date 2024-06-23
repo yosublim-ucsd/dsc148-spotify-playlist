@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-368 songs - 21 hr 18 min
+369 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Amor Papaya en Invierno](https://open.spotify.com/track/4TZ0kv6Elbb4cTsoNXxBZJ) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Amor Papaya](https://open.spotify.com/album/4SedZWefA0qnDU6mnDiXI6) | 3:25 | 2022-04-07 | 2022-10-28 |
 | [Amor Sensible](https://open.spotify.com/track/4ERDIJmue9ZZY4nOdNZ7KR) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl) | [Encuentro](https://open.spotify.com/album/5dMx0NVZdoTtrdVprK7gSz) | 3:11 | 2021-12-09 | 2022-07-29 |
 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/5mGLoYLnMe0LpEOSIPLSpv) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura \(Extended\)](https://open.spotify.com/album/6zmVEzMyhSJCqggKxTtFJY) | 3:57 | 2021-12-09 | 2022-03-22 |
-| [Amuleto](https://open.spotify.com/track/32aNloyjcFTw3ST8fkEVUX) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/6AybhPKCqRGzCphbZc1jGW) | 3:49 | 2024-05-13 |  |
+| [Amuleto](https://open.spotify.com/track/32aNloyjcFTw3ST8fkEVUX) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/6AybhPKCqRGzCphbZc1jGW) | 3:49 | 2024-05-13 | 2024-06-23 |
 | [Amá](https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Amá](https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ) | 2:56 | 2021-12-09 |  |
 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 | 2021-12-09 | 2022-10-28 |
 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 | 2024-05-13 |  |
@@ -120,6 +120,7 @@
 | [Diablo De Un Segundo](https://open.spotify.com/track/0f2AQr7tUre0BIGxx6RxX7) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Diablo De Un Segundo](https://open.spotify.com/album/14FFsLvG1NLDm2pK0Jc14c) | 2:07 | 2021-12-09 | 2022-07-24 |
 | [Distancia](https://open.spotify.com/track/1I4Tj5GjMBFOGd6HpwqSUF) | [Ale Aguirre](https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS) | [Ambivalente](https://open.spotify.com/album/4ZXeVhvevhngnTB8UxB0sK) | 3:19 | 2022-04-07 | 2022-04-21 |
 | [Dividido](https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dividido](https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC) | 3:34 | 2021-12-09 |  |
+| [Domingo De Extrañarte](https://open.spotify.com/track/6RXEseuzwTpzbgubr0V1TP) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Domingo De Extrañarte](https://open.spotify.com/album/46BpuNJxjysWWrRvU7tqwg) | 2:33 | 2024-06-21 |  |
 | [Dos Y Siete](https://open.spotify.com/track/288IrRlNLeIurDNOeSgwOB) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:15 | 2022-04-07 | 2022-10-28 |
 | [Dulcito e Coco](https://open.spotify.com/track/7Li9u5C7CNLvqOqhrhZEML) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:09 | 2021-12-09 | 2022-10-28 |
 | [Déjame Pasar](https://open.spotify.com/track/5wZvk9ItEFxpTQpEXljqSm) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Miocarditis](https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j) | 3:50 | 2021-12-09 | 2022-12-31 |

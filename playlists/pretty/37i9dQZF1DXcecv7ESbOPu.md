@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,357 likes - 124 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,369 likes - 124 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 67 | [Underbart är kort](https://open.spotify.com/track/3nBH4JLXw1XJuoMXxiuizQ) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Underbart är kort](https://open.spotify.com/album/3DLq7TpZfPda8HtNA8CIsx) | 2:18 |
 | 68 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 |
 | 69 | [Sofðu Unga Ástin Mín](https://open.spotify.com/track/3NvmSRS1q7Lp8kM9Pihuv8) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Sofðu Unga Ástin Mín](https://open.spotify.com/album/0rIzFmrBoCXcJRSHuJAboE) | 5:02 |
-| 70 | [Care](https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Care](https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow) | 4:04 |
+| 70 | [Care](https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Care](https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow) | 4:04 |
 | 71 | [Lose My Mind](https://open.spotify.com/track/1FAkrKEfqtEYwjCXFCD5Hf) | [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [Emelie](https://open.spotify.com/artist/2wDa35kRfi8dooiuYvAgWB) | [Lose My Mind](https://open.spotify.com/album/08jmhngmmmpISU3nEtpJmd) | 2:52 |
 | 72 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
 | 73 | [Doggy Style](https://open.spotify.com/track/6ZfpGs7AtyO29kRjcI52dN) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [Doggy Style](https://open.spotify.com/album/0Jd5RNbJ8EBwzRopT611wS) | 2:07 |

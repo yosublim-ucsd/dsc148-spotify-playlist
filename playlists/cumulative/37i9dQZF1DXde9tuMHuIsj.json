@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 144583,
       "name": "6PM EN MALLORCA",
       "url": "https://open.spotify.com/track/24k6OwxLtnJX0UaC4j5O8W"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 148965,
       "name": "BBY BOO",
       "url": "https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh"
@@ -1475,6 +1475,28 @@
     },
     {
       "album": {
+        "name": "FLY CITY",
+        "url": "https://open.spotify.com/album/1hiFt1RgjfXx3YKETueU2g"
+      },
+      "artists": [
+        {
+          "name": "LA MAS FLY",
+          "url": "https://open.spotify.com/artist/4aUcQBWDj6ka9IlziykmQy"
+        },
+        {
+          "name": "Nesi",
+          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181258,
+      "name": "BRICKELL",
+      "url": "https://open.spotify.com/track/4S5KwSntvkT6bbUnfltXQl"
+    },
+    {
+      "album": {
         "name": "Brillan",
         "url": "https://open.spotify.com/album/6zMKSeKh95EJXEu711CS3W"
       },
@@ -1622,6 +1644,24 @@
       "duration_ms": 224347,
       "name": "Caracol (feat. DimeWest)",
       "url": "https://open.spotify.com/track/2nGb0GKBRxHS8t5jeqgXQI"
+    },
+    {
+      "album": {
+        "name": "Casamigos",
+        "url": "https://open.spotify.com/album/6O9Q0iK8wmDIS4ljLHYA6Q"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127593,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/1GbbkGu8E2DSHakXffSV45"
     },
     {
       "album": {
@@ -1804,7 +1844,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 130461,
       "name": "Clonazepamela",
       "url": "https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4"
@@ -2764,7 +2804,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 149424,
       "name": "El Rey De La Rapidas",
       "url": "https://open.spotify.com/track/06K5Vl4Ui4QhMEHD6IW9U2"
@@ -2820,6 +2860,24 @@
       "duration_ms": 229840,
       "name": "Ele Uve - Remix",
       "url": "https://open.spotify.com/track/6n43lawNZSsPHiCostJj9N"
+    },
+    {
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124374,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
     },
     {
       "album": {
@@ -4868,7 +4926,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 167571,
       "name": "LO MIO AL DIA",
       "url": "https://open.spotify.com/track/6sG1Gj2ObZwL0pZWUNgUOD"
@@ -5444,7 +5502,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 144878,
       "name": "MILWAUKEE 2",
       "url": "https://open.spotify.com/track/5Fay99JyfeG16pLs9gLJno"
@@ -5744,7 +5802,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 155888,
       "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
       "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
@@ -6556,6 +6614,28 @@
       "duration_ms": 238706,
       "name": "Problem Childs",
       "url": "https://open.spotify.com/track/23Fmq949U38V5WpSbNS1N7"
+    },
+    {
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "PUT EM IN THE FRIDGE",
+      "url": "https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B"
     },
     {
       "album": {
@@ -8171,6 +8251,28 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137471,
+      "name": "VNKLF (with Foreign Teck)",
+      "url": "https://open.spotify.com/track/4UezZq4mWX19bZ3r4CHjDv"
+    },
+    {
+      "album": {
         "name": "No More Tears",
         "url": "https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J"
       },
@@ -8535,6 +8637,28 @@
     },
     {
       "album": {
+        "name": "Yo s\u00e9",
+        "url": "https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "TORRRES",
+          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129705,
+      "name": "Yo s\u00e9",
+      "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"
+    },
+    {
+      "album": {
         "name": "Young Flex",
         "url": "https://open.spotify.com/album/5Y2GbPfqARt1tXJ5O7ZWUR"
       },
@@ -8576,6 +8700,36 @@
       "duration_ms": 207751,
       "name": "Zili",
       "url": "https://open.spotify.com/track/2HtCmNAnVAAOHsq8Qxtbzg"
+    },
+    {
+      "album": {
+        "name": "Zodiaco",
+        "url": "https://open.spotify.com/album/7pbWV4PAw7qNMCLrJBnqb9"
+      },
+      "artists": [
+        {
+          "name": "Custom",
+          "url": "https://open.spotify.com/artist/0cZRCTXUF6Bn7r7LTl6f7x"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "La Exce",
+          "url": "https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240043,
+      "name": "Zodiaco",
+      "url": "https://open.spotify.com/track/3NrAgRyxGJ4wD4lIxspNjq"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jordan Davis. Los temas esenciales, todos en una lista.",
-  "num_followers": 34009,
+  "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
+  "num_followers": 34045,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAACUG3UYBp+FojDI10u+Rqfg",
+  "snapshot_id": "ZnTCgAAAAAAhUd90o41LdApiywcygE6Z",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country Gold",
-        "url": "https://open.spotify.com/album/4O4Ivcxj7nW28W1cM4tl2y"
+        "name": "Good Beer",
+        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
       },
       "artists": [
         {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
         },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 196733,
-      "name": "Country Gold",
-      "url": "https://open.spotify.com/track/6xevQf91nZicZCkdUVObU7"
+      "duration_ms": 174111,
+      "name": "Good Beer",
+      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
     },
     {
       "added_at": null,
@@ -295,22 +295,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Beer",
-        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
+        "name": "Detours",
+        "url": "https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj"
       },
       "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 174111,
-      "name": "Good Beer",
-      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
+      "duration_ms": 211229,
+      "name": "Detours",
+      "url": "https://open.spotify.com/track/1xt5FBy475sGBgWEfMtUCL"
     },
     {
       "added_at": null,
@@ -347,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+        "name": "Church In A Chevy (Live Acoustic)",
+        "url": "https://open.spotify.com/album/3MjtQxbVre9LdgtqaDyPGP"
       },
       "artists": [
         {
@@ -356,15 +352,15 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 161553,
-      "name": "Ruin My Weekend",
-      "url": "https://open.spotify.com/track/0LaZ4n2gyWeO4kFtzpHQ5M"
+      "duration_ms": 243712,
+      "name": "Church In A Chevy - Live Acoustic",
+      "url": "https://open.spotify.com/track/4dh9oVIu0WYq5JixelIHS1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Detours",
-        "url": "https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj"
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
       "artists": [
         {
@@ -372,9 +368,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 211229,
-      "name": "Detours",
-      "url": "https://open.spotify.com/track/1xt5FBy475sGBgWEfMtUCL"
+      "duration_ms": 213689,
+      "name": "Going 'Round",
+      "url": "https://open.spotify.com/track/533eZXKFBL7Lpk5zMIqxCB"
     },
     {
       "added_at": null,
@@ -411,34 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Church In A Chevy (Live Acoustic)",
-        "url": "https://open.spotify.com/album/3MjtQxbVre9LdgtqaDyPGP"
+        "name": "Among Friends",
+        "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
       },
       "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 243712,
-      "name": "Church In A Chevy - Live Acoustic",
-      "url": "https://open.spotify.com/track/4dh9oVIu0WYq5JixelIHS1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 213689,
-      "name": "Going 'Round",
-      "url": "https://open.spotify.com/track/533eZXKFBL7Lpk5zMIqxCB"
+      "duration_ms": 166066,
+      "name": "Buy Dirt",
+      "url": "https://open.spotify.com/track/0pvwG3L9KMrWFQItEnimaa"
     },
     {
       "added_at": null,
@@ -463,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Among Friends",
-        "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
       "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 166066,
-      "name": "Buy Dirt",
-      "url": "https://open.spotify.com/track/0pvwG3L9KMrWFQItEnimaa"
+      "duration_ms": 187913,
+      "name": "So Do I",
+      "url": "https://open.spotify.com/track/0MjbiK4r82QTmDiJPvBngj"
     },
     {
       "added_at": null,
@@ -495,22 +475,6 @@
       "duration_ms": 184174,
       "name": "Trouble Town",
       "url": "https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 187913,
-      "name": "So Do I",
-      "url": "https://open.spotify.com/track/0MjbiK4r82QTmDiJPvBngj"
     },
     {
       "added_at": null,

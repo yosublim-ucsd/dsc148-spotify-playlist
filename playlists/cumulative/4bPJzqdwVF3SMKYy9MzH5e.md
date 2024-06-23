@@ -4,7 +4,7 @@
 
 > 
 
-1,924 songs - 4 day 7 hr 45 min
+1,925 songs - 4 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Everything Black](https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga), [Mike Taylor](https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW) | [Everything Black](https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz) | 3:48 | 2022-02-04 |  |
 | [Everything Is Embarrassing](https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 4:09 | 2022-02-18 |  |
 | [everything is fine](https://open.spotify.com/track/27dgLuKlG9Z9aCnzGg0IHY) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [dc snuff film / waste yrself](https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt) | 2:01 | 2021-11-30 |  |
+| [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-06-22 |  |
 | [Everytime](https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 2:52 | 2021-08-05 |  |
 | [Everywhereigo](https://open.spotify.com/track/3DICBZOMaEWbCxwUfPGcE5) | [Babyxsosa](https://open.spotify.com/artist/0z6XSqpMBqmhaRVWduV9HJ) | [Everywhereigo](https://open.spotify.com/album/5W150vEDIbzQt4BMWaxNbY) | 2:15 | 2021-08-05 |  |
 | [Evian \(feat\. PinkPantheress, Rizloski & Rax\)](https://open.spotify.com/track/5uakDGEx9HegMZZi840VzH) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Rizloski](https://open.spotify.com/artist/6Wl9y5OsaB4fyXl0cCC2iO), [Rax](https://open.spotify.com/artist/5WeVKbqPBzsASTkta9ijsz) | [HARAM!](https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1) | 2:08 | 2023-01-26 |  |

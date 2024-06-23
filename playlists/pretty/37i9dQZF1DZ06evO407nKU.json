@@ -1,12 +1,12 @@
 {
-  "description": "This is Perdidos De Sinaloa. Tutti i brani in un'unica playlist.",
-  "num_followers": 48925,
+  "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
+  "num_followers": 48942,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAAACzc3KUtI7X5M9RVZVVqvp",
+  "snapshot_id": "ZnTCgAAAAACl/8aj6qNXzOqrW/iHu/bE",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Los Mochis",
-        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 303297,
-      "name": "Popurri Cumbias - En Vivo",
-      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Necesito",
         "url": "https://open.spotify.com/album/00XEWfKhMquiyTWMVdBl7p"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde Los Mochis",
+        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 303297,
+      "name": "Popurri Cumbias - En Vivo",
+      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Ped\u00ed",
-        "url": "https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 182158,
-      "name": "Ayer Ped\u00ed",
-      "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Lo Que Soy",
         "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 236493,
       "name": "La Pura Verdad",
       "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ayer Ped\u00ed",
+        "url": "https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 182158,
+      "name": "Ayer Ped\u00ed",
+      "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
     },
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Muero",
+        "url": "https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Me Muero",
+      "url": "https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
       },
@@ -703,22 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Muero",
-        "url": "https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3"
+        "name": "D\u00edganle",
+        "url": "https://open.spotify.com/album/0KvyHutI4hdGctz0SnhT9z"
       },
       "artists": [
         {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        },
-        {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
         }
       ],
-      "duration_ms": 194500,
-      "name": "Me Muero",
-      "url": "https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM"
+      "duration_ms": 180447,
+      "name": "D\u00edganle",
+      "url": "https://open.spotify.com/track/5QnDgXOeUQtDac2uqWecK9"
     },
     {
       "added_at": null,
@@ -751,26 +771,6 @@
       "duration_ms": 174863,
       "name": "Mi Ranchito - En Vivo",
       "url": "https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00edganle",
-        "url": "https://open.spotify.com/album/0KvyHutI4hdGctz0SnhT9z"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        }
-      ],
-      "duration_ms": 180447,
-      "name": "D\u00edganle",
-      "url": "https://open.spotify.com/track/5QnDgXOeUQtDac2uqWecK9"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Idiota",
+        "url": "https://open.spotify.com/album/5DoFTiNjJxXKRIzUaiRQkG"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 173412,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/1JUwppOYBF8S2zKGq6JDye"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Callando Bocas",
         "url": "https://open.spotify.com/album/0S3nvq7AR2ioU0taCOrr7z"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 160307,
       "name": "Callando Bocas",
       "url": "https://open.spotify.com/track/6Vxa29uUkgRWmZEj8PyJnz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Idiota",
-        "url": "https://open.spotify.com/album/5DoFTiNjJxXKRIzUaiRQkG"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 173412,
-      "name": "Un Idiota",
-      "url": "https://open.spotify.com/track/1JUwppOYBF8S2zKGq6JDye"
     },
     {
       "added_at": null,

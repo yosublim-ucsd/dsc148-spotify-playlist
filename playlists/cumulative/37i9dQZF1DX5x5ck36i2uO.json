@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 235374,
       "name": "Flowers (feat.Justhis)",
       "url": "https://open.spotify.com/track/1S1nLBl7wUQUfIF9tfSEMR"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 177013,
       "name": "good1ife",
       "url": "https://open.spotify.com/track/68HKEP1hUGgWUDFEptT31F"
@@ -2805,6 +2805,28 @@
     },
     {
       "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189706,
+      "name": "Small girl (feat. D.O.)",
+      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
+    },
+    {
+      "album": {
         "name": "ANGELS",
         "url": "https://open.spotify.com/album/1rGLCl441U8QbWx4k0HUlT"
       },
@@ -3270,6 +3292,24 @@
       "duration_ms": 222133,
       "name": "under the ground (feat. Dean)",
       "url": "https://open.spotify.com/track/6EU4Ox9nBAE4BMatsggp8i"
+    },
+    {
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187426,
+      "name": "Unknown guy",
+      "url": "https://open.spotify.com/track/3L35k66dy48LZCty4rOqxM"
     },
     {
       "album": {

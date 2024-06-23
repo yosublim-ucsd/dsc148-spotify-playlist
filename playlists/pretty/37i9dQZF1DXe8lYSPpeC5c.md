@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8lYSPpeC5c.md) - [plain]
 
 > From gamer to racer\. Listen to the music from and inspired by Gran Turismo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,859 likes - 26 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,921 likes - 26 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8lYSPpeC5c.md) - [plain]
 | 18 | [Celebrate \- Bonus Track](https://open.spotify.com/track/3u0066MhzliZ9QKrG4UAMg) | [Courtney Bell](https://open.spotify.com/artist/7AmVadaacpE7sJtlFpRLU2) | [Poverty Stricken](https://open.spotify.com/album/100qE2h6nZeT3BQk6cicxw) | 3:22 |
 | 19 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 |
 | 20 | [Pepas \- Tiësto Remix](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pepas \(Tiësto Remix\)](https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ) | 3:43 |
-| 21 | [Wash.](https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:58 |
+| 21 | [Wash.](https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:58 |
 | 22 | [La Marseillaise](https://open.spotify.com/track/3UcgFpeFrrebm1upPSYsy8) | [Claude Joseph Rouget de Lisle](https://open.spotify.com/artist/2KSEkxp7sxOeuQs7LfaTyM), [Garde Républicaine \- Roger Boutry \- Choeur De L'Armée Française \- Mireille Mathieu](https://open.spotify.com/artist/58bttXKRCD5Wgd1hmdcWaY), [Roger Boutry](https://open.spotify.com/artist/38RtF0uAniPVIsnKEjpfdu) | [musiques militaires](https://open.spotify.com/album/72uEAOiMmzDhkF3BF5Squm) | 4:18 |
 | 23 | [Harder Than You Think](https://open.spotify.com/track/5YpZh8wfS4moRBk0ijNcXr) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [How You Sell Soul to a Soulless People Who Sold Their Soul?](https://open.spotify.com/album/6izTLoTDL2k78sAvpLfHOP) | 4:09 |
 | 24 | [God Moving Over the Face of the Waters](https://open.spotify.com/track/4WxOFybmhNxHGnkPGBJzIE) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Everything Is Wrong](https://open.spotify.com/album/31qneFkDfKhjVNH0kqdhQ1) | 5:44 |

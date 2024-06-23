@@ -5668,7 +5668,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 192760,
       "name": "California",
       "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
@@ -6442,7 +6442,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -16710,7 +16710,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 147828,
       "name": "KAUCJA",
       "url": "https://open.spotify.com/track/0lJaxXf5i5zLbvxEBZuXvk"
@@ -24495,6 +24495,24 @@
     },
     {
       "album": {
+        "name": "och i ach",
+        "url": "https://open.spotify.com/album/2MNCHzcw3C3wpo81uWeOxF"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181382,
+      "name": "och i ach",
+      "url": "https://open.spotify.com/track/1MsoH4Fz8O9PKbTW5SkXbJ"
+    },
+    {
+      "album": {
         "name": "Oczko w g\u0142owie",
         "url": "https://open.spotify.com/album/5UIDP3PjvYxT9nHMthYyg1"
       },
@@ -25036,6 +25054,28 @@
       "duration_ms": 261543,
       "name": "On BS",
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
+    },
+    {
+      "album": {
+        "name": "On Me",
+        "url": "https://open.spotify.com/album/6ay5i1EpdXJA1MO4216Cif"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/6esBajH4pfY0i61Vr53QWR"
     },
     {
       "album": {
@@ -31915,6 +31955,28 @@
     },
     {
       "album": {
+        "name": "SOBOTA WIECZ\u00d3R",
+        "url": "https://open.spotify.com/album/3ve9nVA4gEYrA0m1OrL2P6"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "Jacu\u015b",
+          "url": "https://open.spotify.com/artist/1efYxTvCNTpqYqfiEsxawq"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "SOBOTA WIECZ\u00d3R",
+      "url": "https://open.spotify.com/track/62x7s8C2GFiu9Ju3eSZ5GB"
+    },
+    {
+      "album": {
         "name": "Organic Human",
         "url": "https://open.spotify.com/album/0nrlRRu8hYLnfIqilFDOZ2"
       },
@@ -37392,7 +37454,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 211029,
       "name": "Wi\u015bta wio!",
       "url": "https://open.spotify.com/track/0A88MJilMZwrnRv5514PE8"
@@ -40102,7 +40164,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 157720,
       "name": "\u201eTak to lecia\u0142o!\u201d",
       "url": "https://open.spotify.com/track/77qp2lzKsMmOeyKbtnoSVI"

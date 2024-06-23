@@ -1,33 +1,13 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 157997,
+  "num_followers": 158033,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAACeejpXhaIUQ1V/9aZEdJoo",
+  "snapshot_id": "ZnTCgAAAAADjudRSWqE8CpVISnJC1OaH",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "fome",
-        "url": "https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm"
-      },
-      "artists": [
-        {
-          "name": "JUNIOR",
-          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "fome",
-      "url": "https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw"
-    },
     {
       "added_at": null,
       "album": {
@@ -499,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Presente do C\u00e9u",
+        "url": "https://open.spotify.com/album/0QmzwHqNp2HToWwJtywIDu"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 253932,
+      "name": "Presente do C\u00e9u",
+      "url": "https://open.spotify.com/track/6KkAL46I43zqQEK2LNH0pJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -523,26 +523,6 @@
       "duration_ms": 174213,
       "name": "BRUXARIA 3000",
       "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Presente do C\u00e9u",
-        "url": "https://open.spotify.com/album/0QmzwHqNp2HToWwJtywIDu"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 253932,
-      "name": "Presente do C\u00e9u",
-      "url": "https://open.spotify.com/track/6KkAL46I43zqQEK2LNH0pJ"
     },
     {
       "added_at": null,
@@ -587,6 +567,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zod\u00edaco",
+        "url": "https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Capric\u00f3rnio",
+      "url": "https://open.spotify.com/track/2lcSfqZ5QO07wH3xz8SzOK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -623,34 +631,6 @@
       "duration_ms": 173023,
       "name": "Sinal",
       "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zod\u00edaco",
-        "url": "https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Capric\u00f3rnio",
-      "url": "https://open.spotify.com/track/2lcSfqZ5QO07wH3xz8SzOK"
     },
     {
       "added_at": null,
@@ -971,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "fome",
+        "url": "https://open.spotify.com/album/5dKNvUECLauCuRHNKzcwWm"
+      },
+      "artists": [
+        {
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "fome",
+      "url": "https://open.spotify.com/track/2FRVrkDAxMRTIah32jnNCw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -1027,30 +1027,6 @@
       "duration_ms": 174065,
       "name": "Rebola (Participa\u00e7\u00e3o especial de Carlinhos Brown e Gloria Groove)",
       "url": "https://open.spotify.com/track/7yHyGrwWRUdDVcZIC4HBdA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vem com tudo",
-        "url": "https://open.spotify.com/album/53ycsc2CcgfoTgYtBWtEY8"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Vem com tudo",
-      "url": "https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ"
     }
   ],
   "unique_name": "This Is Gloria Groove",

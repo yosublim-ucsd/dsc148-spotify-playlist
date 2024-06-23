@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-454 songs - 1 day 2 hr 22 min
+455 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Not Our Fault](https://open.spotify.com/track/6QuwHuwgucbVeqJBlIWD0h) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/5H7nCfkt7ovBwVG7LqU2xA) | 4:31 | 2024-01-16 | 2024-03-21 |
 | [Not Over You](https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Sweeter](https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j) | 3:38 | 2024-03-21 |  |
 | [Nothing Really Matters](https://open.spotify.com/track/4fGbdX3qUTOS8Kpsc8hQT6) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Nothing Really Matters](https://open.spotify.com/album/4thfd5IORYpYB83wxnQAQ0) | 3:42 | 2023-02-23 | 2023-10-16 |
+| [Nothing To Lose \(Piano Acoustic\)](https://open.spotify.com/track/40Yjmp491Hiw9opJbnpTWL) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Nothing To Lose \(Piano Acoustic\)](https://open.spotify.com/album/63R87KNka7X83DKE0CSZqs) | 2:56 | 2024-06-20 |  |
 | [Nothing's Ever Good Enough \(feat\. Lorrèn\)](https://open.spotify.com/track/0WAuQsfiajy1TuxLuRbWM0) | [The BlueBirds](https://open.spotify.com/artist/1WKVDXahDiNpcTlTf8ltq0), [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi), [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw), [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Great Big World](https://open.spotify.com/album/522Og7vcXvS4BI6PKAazYm) | 3:09 | 2023-03-09 | 2024-04-19 |
 | [Nothing's Ever Good Enough \(feat\. Lorrèn\)](https://open.spotify.com/track/5i2gud3IkzMXg1QlS5Eblr) | [The BlueBirds](https://open.spotify.com/artist/1WKVDXahDiNpcTlTf8ltq0), [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi), [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw), [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Nothing's Ever Good Enough](https://open.spotify.com/album/3CZ5MiCVazk5SEZhbQxqXi) | 3:09 | 2023-02-23 | 2023-02-26 |
 | [Now That We’ve Found Love](https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB), [We Said](https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY) | [Now That We’ve Found Love](https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8) | 2:34 | 2023-02-23 |  |
@@ -319,7 +320,7 @@
 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 | 2023-02-23 | 2023-04-07 |
 | [Say Something \(feat\. Chris Stapleton\)](https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:38 | 2023-02-23 |  |
 | [Seatbelts](https://open.spotify.com/track/5LpNNr02dABUYZ6ofq0xkY) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Seatbelts](https://open.spotify.com/album/7dx3bn5pvZnNwVA1Gptpll) | 3:47 | 2023-02-23 |  |
-| [Second Hand Lover](https://open.spotify.com/track/4uFws0rPYlbDCcPXTMjbfC) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Horizon](https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC) | 3:34 | 2023-02-23 |  |
+| [Second Hand Lover](https://open.spotify.com/track/4uFws0rPYlbDCcPXTMjbfC) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Horizon](https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC) | 3:34 | 2023-02-23 | 2024-06-23 |
 | [Seeing Straight](https://open.spotify.com/track/37jDUmxh5NUuaBWTAOB0si) | [Mitch Santiago](https://open.spotify.com/artist/6eERFYkiQQPyRK4rPEXTNH) | [Seeing Straight](https://open.spotify.com/album/4JAKg35Lyg9g9259rmL2cW) | 4:38 | 2023-02-23 | 2023-04-26 |
 | [Selfish Ways \- Acoustic](https://open.spotify.com/track/1nnNyDxDuSW88AP2oh4pQp) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [Selfish Ways \(Acoustic\)](https://open.spotify.com/album/1F4rojYzrIQvsD6xNU1dTC) | 2:40 | 2023-04-25 | 2024-03-20 |
 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 | 2024-03-21 |  |

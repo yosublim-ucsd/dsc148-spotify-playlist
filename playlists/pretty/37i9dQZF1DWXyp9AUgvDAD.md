@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyp9AUgvDAD.md) - [plain]
 
 > À deux, c'est mieux ! Photo : Vitaa & Slimane
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,479 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,527 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

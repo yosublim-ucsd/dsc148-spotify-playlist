@@ -1,13 +1,125 @@
 {
   "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Minh Huy",
-  "num_followers": 22930,
+  "num_followers": 22934,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnPJpAAAAABGW9bXu72bd4aL8syYYZu2",
+  "snapshot_id": "ZndtAgAAAAAbrN6xE1dfWf395kvqozVF",
   "tracks": [
+    {
+      "added_at": "2024-06-20 06:18:12",
+      "album": {
+        "name": "\u01a0 Th\u1ebf L\u00e0",
+        "url": "https://open.spotify.com/album/2uIByO5wJ5NEgHZWOVTpgf"
+      },
+      "artists": [
+        {
+          "name": "Kim Chi Sun",
+          "url": "https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh"
+        }
+      ],
+      "duration_ms": 234078,
+      "name": "\u01a0 Th\u1ebf L\u00e0",
+      "url": "https://open.spotify.com/track/6lKKe2DNtxx2F13220bVYo"
+    },
+    {
+      "added_at": "2024-06-20 06:18:12",
+      "album": {
+        "name": "Dreamboat",
+        "url": "https://open.spotify.com/album/3VrLOHmBp3PtywjTEIaa18"
+      },
+      "artists": [
+        {
+          "name": "Grassic",
+          "url": "https://open.spotify.com/artist/4mCkqAH51xAWHQjrngxPsg"
+        }
+      ],
+      "duration_ms": 225542,
+      "name": "Dreamboat",
+      "url": "https://open.spotify.com/track/6wkUagrscMyyHQTY3kGlwk"
+    },
+    {
+      "added_at": "2024-06-20 06:18:12",
+      "album": {
+        "name": "Th\u1ea5u Hi\u1ec3u",
+        "url": "https://open.spotify.com/album/4TZmVTx43b3NbIOSxDotba"
+      },
+      "artists": [
+        {
+          "name": "An V\u0169",
+          "url": "https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Th\u1ea5u Hi\u1ec3u",
+      "url": "https://open.spotify.com/track/3cFOA7zgCHW7cGFgnqwjiD"
+    },
+    {
+      "added_at": "2024-06-20 06:18:12",
+      "album": {
+        "name": "Th\u1ebf gi\u1edbi m\u00e0u lam h\u1ed3ng",
+        "url": "https://open.spotify.com/album/2FY8FJ0MopS0p2L9rzvPQ9"
+      },
+      "artists": [
+        {
+          "name": "Dr. ND",
+          "url": "https://open.spotify.com/artist/13893x4VfbHoXXNfEpN6Zw"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Th\u1ebf gi\u1edbi m\u00e0u lam h\u1ed3ng",
+      "url": "https://open.spotify.com/track/7omHUqaxjk8T5trj5xszwi"
+    },
+    {
+      "added_at": "2024-06-20 06:18:12",
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/1dhf7ngVLdEG3kDRcTYG2Q"
+      },
+      "artists": [
+        {
+          "name": "Raven x Rabbit",
+          "url": "https://open.spotify.com/artist/3EbhwySdn2EFUhSF55GM2v"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/2BDJENfgJLEuGwnK8lW5j5"
+    },
+    {
+      "added_at": "2024-06-23 00:32:02",
+      "album": {
+        "name": "em b\u00e9 m\u1ea7m",
+        "url": "https://open.spotify.com/album/6N4kSUoF7K7moyWFGZuG9n"
+      },
+      "artists": [
+        {
+          "name": "Minstu",
+          "url": "https://open.spotify.com/artist/56oxFM7GQ14Z02IwpAx1lw"
+        }
+      ],
+      "duration_ms": 189528,
+      "name": "em b\u00e9 m\u1ea7m",
+      "url": "https://open.spotify.com/track/6o1hMXvoBOMdwpSgav24c3"
+    },
+    {
+      "added_at": "2024-06-20 06:18:12",
+      "album": {
+        "name": "Tr\u1ed1n Nh\u1eefng \u0110au Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/7EOthaTy5NqgSxl05nPTA4"
+      },
+      "artists": [
+        {
+          "name": "Minh Huy",
+          "url": "https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Tr\u1ed1n Nh\u1eefng \u0110au Th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/1nvvZwvWm2KsJeqajdo6NM"
+    },
     {
       "added_at": "2024-06-20 06:18:12",
       "album": {
@@ -83,22 +195,6 @@
       "duration_ms": 303203,
       "name": "Em \u01a0i Sau N\u00e0y",
       "url": "https://open.spotify.com/track/2xBnMoZDDxFTxUeP6zFWV2"
-    },
-    {
-      "added_at": "2024-06-20 06:18:12",
-      "album": {
-        "name": "Tr\u1ed1n Nh\u1eefng \u0110au Th\u01b0\u01a1ng",
-        "url": "https://open.spotify.com/album/7EOthaTy5NqgSxl05nPTA4"
-      },
-      "artists": [
-        {
-          "name": "Minh Huy",
-          "url": "https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Tr\u1ed1n Nh\u1eefng \u0110au Th\u01b0\u01a1ng",
-      "url": "https://open.spotify.com/track/1nvvZwvWm2KsJeqajdo6NM"
     },
     {
       "added_at": "2024-06-20 06:18:12",
@@ -299,22 +395,6 @@
     {
       "added_at": "2024-06-20 06:18:12",
       "album": {
-        "name": "\u01a0 Th\u1ebf L\u00e0",
-        "url": "https://open.spotify.com/album/2uIByO5wJ5NEgHZWOVTpgf"
-      },
-      "artists": [
-        {
-          "name": "Kim Chi Sun",
-          "url": "https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh"
-        }
-      ],
-      "duration_ms": 234078,
-      "name": "\u01a0 Th\u1ebf L\u00e0",
-      "url": "https://open.spotify.com/track/6lKKe2DNtxx2F13220bVYo"
-    },
-    {
-      "added_at": "2024-06-20 06:18:12",
-      "album": {
         "name": "2H S\u00c1NG",
         "url": "https://open.spotify.com/album/1VNe801vS4PuCimgIYzPAl"
       },
@@ -331,22 +411,6 @@
       "duration_ms": 187147,
       "name": "2H S\u00c1NG",
       "url": "https://open.spotify.com/track/4N9VUbriKGD9WXSdNhknbM"
-    },
-    {
-      "added_at": "2024-06-20 06:18:12",
-      "album": {
-        "name": "Th\u1ea5u Hi\u1ec3u",
-        "url": "https://open.spotify.com/album/4TZmVTx43b3NbIOSxDotba"
-      },
-      "artists": [
-        {
-          "name": "An V\u0169",
-          "url": "https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Th\u1ea5u Hi\u1ec3u",
-      "url": "https://open.spotify.com/track/3cFOA7zgCHW7cGFgnqwjiD"
     },
     {
       "added_at": "2024-06-20 06:18:12",
@@ -755,22 +819,6 @@
       "duration_ms": 209292,
       "name": "Ch\u01b0a Ch\u1eafc",
       "url": "https://open.spotify.com/track/6iuzM2O1IY0GTao5tXx5Zc"
-    },
-    {
-      "added_at": "2024-06-20 06:18:12",
-      "album": {
-        "name": "Th\u1ebf gi\u1edbi m\u00e0u lam h\u1ed3ng",
-        "url": "https://open.spotify.com/album/2FY8FJ0MopS0p2L9rzvPQ9"
-      },
-      "artists": [
-        {
-          "name": "Dr. ND",
-          "url": "https://open.spotify.com/artist/13893x4VfbHoXXNfEpN6Zw"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "Th\u1ebf gi\u1edbi m\u00e0u lam h\u1ed3ng",
-      "url": "https://open.spotify.com/track/7omHUqaxjk8T5trj5xszwi"
     },
     {
       "added_at": "2024-06-20 06:18:12",
@@ -1475,22 +1523,6 @@
     {
       "added_at": "2024-06-20 06:18:12",
       "album": {
-        "name": "Dreamboat",
-        "url": "https://open.spotify.com/album/3VrLOHmBp3PtywjTEIaa18"
-      },
-      "artists": [
-        {
-          "name": "Grassic",
-          "url": "https://open.spotify.com/artist/4mCkqAH51xAWHQjrngxPsg"
-        }
-      ],
-      "duration_ms": 225542,
-      "name": "Dreamboat",
-      "url": "https://open.spotify.com/track/6wkUagrscMyyHQTY3kGlwk"
-    },
-    {
-      "added_at": "2024-06-20 06:18:12",
-      "album": {
         "name": "T\u1eeb V\u1ef1c Th\u1eb3m \u0110\u1ebfn R\u00eca \u00c1nh S\u00e1ng",
         "url": "https://open.spotify.com/album/3Q4TNeqYmFXNPItKvzYi8Z"
       },
@@ -1763,42 +1795,6 @@
       "duration_ms": 357040,
       "name": "Bu\u1ed5i Di\u1ec5n H\u00f4m Nay (C\u00f4 \u1ea4y Kh\u00f4ng \u0110\u1ebfn)",
       "url": "https://open.spotify.com/track/4QBjWVUt1Jp1rORRGDResS"
-    },
-    {
-      "added_at": "2024-06-20 06:18:12",
-      "album": {
-        "name": "H\u1ee8A CHO VUI TH\u00d4I",
-        "url": "https://open.spotify.com/album/0xVtki7OzoWkp8YDbbdUqF"
-      },
-      "artists": [
-        {
-          "name": "Cassano",
-          "url": "https://open.spotify.com/artist/34xBbPMcvr4EInfpUB0NEo"
-        },
-        {
-          "name": "MPacific",
-          "url": "https://open.spotify.com/artist/14FD1l1CkUVp1VL4z77acy"
-        }
-      ],
-      "duration_ms": 255319,
-      "name": "H\u1ee8A CHO VUI TH\u00d4I",
-      "url": "https://open.spotify.com/track/5RiBeTz0vDYwC2xgjCmxnt"
-    },
-    {
-      "added_at": "2024-06-20 06:18:12",
-      "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/1dhf7ngVLdEG3kDRcTYG2Q"
-      },
-      "artists": [
-        {
-          "name": "Raven x Rabbit",
-          "url": "https://open.spotify.com/artist/3EbhwySdn2EFUhSF55GM2v"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/2BDJENfgJLEuGwnK8lW5j5"
     },
     {
       "added_at": "2024-06-20 06:18:12",

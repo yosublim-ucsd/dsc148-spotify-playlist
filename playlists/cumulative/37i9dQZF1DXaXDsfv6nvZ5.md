@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-529 songs - 1 day 8 hr 5 min
+531 songs - 1 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Dumpalltheguns \- Feat\. Danielle Ponder](https://open.spotify.com/track/6p3011ub8UH8gohU0cmG7K) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Dumpalltheguns \(Feat\. Danielle Ponder\)](https://open.spotify.com/album/7CIcz7JIpKAcogiVQXwPMq) | 4:53 | 2024-03-08 | 2024-06-09 |
 | [Déjà Vu \(ft\. Mavis Staples\)](https://open.spotify.com/track/2copPxM13iCTKG9rJNNxGr) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [SEA/SONS](https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ) | 3:18 | 2023-04-14 | 2023-05-11 |
 | [Easy](https://open.spotify.com/track/4k6eg0pf9IeopgOREVkj5T) | [Bea Anderson](https://open.spotify.com/artist/2FVCMrYrSKRNPXoWw2VozG) | [Easy](https://open.spotify.com/album/1rPv254umKfCuZwyWUoFBl) | 3:30 | 2021-12-03 | 2022-07-29 |
+| [Easy, Lee](https://open.spotify.com/track/1Bl4fX4phSMmAmwNT0n5kw) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Easy, Lee](https://open.spotify.com/album/5ufTSieimjepPAfT50ivXI) | 3:02 | 2024-06-21 |  |
 | [Eve Gene](https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Eve Gene](https://open.spotify.com/album/2hb1EQDUBqVOaKwJCwW44X) | 3:18 | 2023-05-05 | 2023-10-16 |
 | [Eve Gene](https://open.spotify.com/track/6eKpk5wa0sP4YgjoI1psFX) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Eve Gene](https://open.spotify.com/album/6ZiVCsS6PHMDOIAHZ0JXUl) | 3:18 | 2023-05-05 | 2024-03-02 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-09 | 2023-04-29 |
@@ -191,7 +192,7 @@
 | [Habits \- Radio Edit](https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Habits](https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6) | 3:31 | 2024-03-08 | 2024-05-17 |
 | [Half Time](https://open.spotify.com/track/4d0dY3ZeMdoYrD5YmdFvWZ) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 3:50 | 2022-03-11 | 2023-04-01 |
 | [Have You Ever Been \(To Electric Ladyland\)](https://open.spotify.com/track/7mgWCXPKOWgOexqeYLGjeu) | [Nai Palm](https://open.spotify.com/artist/5X0dCi2aVnYEV27S8wgQdF) | [Needle Paw](https://open.spotify.com/album/4b6uW0x09FkRSqadcioB1u) | 4:19 | 2022-10-03 | 2023-10-07 |
-| [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 | 2023-09-16 |  |
+| [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 | 2023-09-16 | 2024-06-23 |
 | [Head Straight](https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Head Straight](https://open.spotify.com/album/2MjQxYxyjRGEBgkBzlCcll) | 2:20 | 2023-06-02 | 2023-08-26 |
 | [HEADLINE](https://open.spotify.com/track/59mmKoHbCWc10mlWwwTYxn) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [HEADLINE](https://open.spotify.com/album/3FhtDmAzJe8t8RveMcmNJb) | 3:16 | 2022-03-11 | 2022-09-10 |
 | [Heal](https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Heal](https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh) | 4:16 | 2022-09-09 | 2023-11-08 |
@@ -282,6 +283,7 @@
 | [Love On You](https://open.spotify.com/track/0mBX1jSxAQbOlfSWgZlL0I) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [The Found Album](https://open.spotify.com/album/4pRSg1bpkomA4aSn9EIxfx) | 4:10 | 2023-06-16 | 2023-10-21 |
 | [Love Transaction](https://open.spotify.com/track/5Mll0PxRbSNzzrpcbD7WdO) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Love Transaction](https://open.spotify.com/album/3luwfFcfzzCsbxDI6WYxP1) | 5:19 | 2023-09-01 | 2023-09-14 |
 | [Love, Love, Love](https://open.spotify.com/track/3Tc6dHggtSaZqlKRhzkeub) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Never My Love: The Anthology](https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO) | 3:24 | 2021-12-03 | 2022-09-24 |
+| [Lovely Day](https://open.spotify.com/track/4kx8ErC9E73WvzjZYBXjiO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Lovely Day](https://open.spotify.com/album/4OI5GHBHHCUHYiKDntOiAy) | 3:00 | 2024-06-21 |  |
 | [LOW TIDE](https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:26 | 2023-11-10 |  |
 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 | 2024-06-21 |  |
 | [Lucky](https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Lucky](https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet) | 3:36 | 2023-06-30 | 2024-06-15 |
@@ -432,7 +434,7 @@
 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 | 2022-10-21 |  |
 | [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 | 2022-03-11 | 2023-04-02 |
 | [STEREO DRIVER](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [STEREO DRIVER](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 | 2022-09-23 | 2023-05-06 |
-| [Still](https://open.spotify.com/track/4E3CP6Dczv5mYkBaZ65Etg) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Still](https://open.spotify.com/album/6WlivRKfQyk9vLeG8ljV3R) | 4:12 | 2024-05-03 |  |
+| [Still](https://open.spotify.com/track/4E3CP6Dczv5mYkBaZ65Etg) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Still](https://open.spotify.com/album/6WlivRKfQyk9vLeG8ljV3R) | 4:12 | 2024-05-03 | 2024-06-23 |
 | [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-02-24 | 2023-10-11 |
 | [Stolen Fruit](https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Stolen Fruit](https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv) | 3:37 | 2022-02-25 | 2023-10-17 |
 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 | 2022-03-11 | 2022-10-15 |

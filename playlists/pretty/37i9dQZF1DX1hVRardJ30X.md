@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,522 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,678 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 35 | [Te Desenamoraste](https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM) | [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Te Desenamoraste](https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D) | 2:42 |
 | 36 | [UNDO](https://open.spotify.com/track/2ZmWkW0NexjqymHIHeji8r) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [UNDO](https://open.spotify.com/album/2EroquQB91xv1YExYGSkBd) | 2:29 |
 | 37 | [Cómo Se Puede](https://open.spotify.com/track/3Qb4xTOVDMl0u1tTwBC2nA) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh), [Dave Levita](https://open.spotify.com/artist/6E0xn9lG9yAfNAF5wAJnTe) | [Cómo Se Puede](https://open.spotify.com/album/7FMQbiSnqYWhDYFqQaytNu) | 4:32 |
-| 38 | [Embuste](https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Embuste](https://open.spotify.com/album/7xtgpGt2BFkVFEAd8aHfg5) | 2:40 |
+| 38 | [Embuste](https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Embuste](https://open.spotify.com/album/7xtgpGt2BFkVFEAd8aHfg5) | 2:39 |
 | 39 | [fit mami](https://open.spotify.com/track/7IMRZR1rZHzpz6ggu6zih2) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [fit mami](https://open.spotify.com/album/2WsAeXmqIu0IOdz8DhoRmk) | 2:22 |
 | 40 | [Al Reves](https://open.spotify.com/track/0bCorsBksr8DsEc5yNyIEW) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Al Reves](https://open.spotify.com/album/7a0jJ2NMNxGSmPHnpHOKPy) | 2:56 |
 | 41 | [Cereza \(with Persy\)](https://open.spotify.com/track/40XoFbeBrp0p8tz9OkyBqk) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6), [Persy](https://open.spotify.com/artist/16UPUknt50G7mlDv6ciCna) | [Cereza \(with Persy\)](https://open.spotify.com/album/5CPz0kXPhiL3P4HkFSoit2) | 2:57 |

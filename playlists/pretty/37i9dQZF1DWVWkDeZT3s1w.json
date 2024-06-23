@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 100723,
+  "num_followers": 100770,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 347441,
+      "name": "Origen",
+      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Jamming Sin Fronteras",
         "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 347441,
-      "name": "Origen",
-      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1271,18 +1271,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Dictamen",
-        "url": "https://open.spotify.com/album/4USKDqlbw79WXbr5KMbXEx"
+        "name": "REPRE$ENT",
+        "url": "https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA"
       },
       "artists": [
         {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+          "name": "Nero Lvigi",
+          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
+        },
+        {
+          "name": "Don-J HH",
+          "url": "https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3"
+        },
+        {
+          "name": "Der Enyel",
+          "url": "https://open.spotify.com/artist/64lfjA638IlbxVaKfZVQgC"
         }
       ],
-      "duration_ms": 194730,
-      "name": "Dictamen",
-      "url": "https://open.spotify.com/track/55J7TRa8LzJuW37RidTxJb"
+      "duration_ms": 245340,
+      "name": "REPRE$ENT",
+      "url": "https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1323,26 +1331,18 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "REPRE$ENT",
-        "url": "https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA"
+        "name": "Dictamen",
+        "url": "https://open.spotify.com/album/4USKDqlbw79WXbr5KMbXEx"
       },
       "artists": [
         {
-          "name": "Nero Lvigi",
-          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
-        },
-        {
-          "name": "Don-J HH",
-          "url": "https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3"
-        },
-        {
-          "name": "Der Enyel",
-          "url": "https://open.spotify.com/artist/64lfjA638IlbxVaKfZVQgC"
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
         }
       ],
-      "duration_ms": 245340,
-      "name": "REPRE$ENT",
-      "url": "https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e"
+      "duration_ms": 194730,
+      "name": "Dictamen",
+      "url": "https://open.spotify.com/track/55J7TRa8LzJuW37RidTxJb"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Helarte",
+        "url": "https://open.spotify.com/album/4bParJOMVqOcoVkDM3W4QT"
+      },
+      "artists": [
+        {
+          "name": "Lirika Inverza",
+          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
+        }
+      ],
+      "duration_ms": 203909,
+      "name": "Helarte",
+      "url": "https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Cuarto De Siglo",
         "url": "https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 244177,
       "name": "Cuarto De Siglo",
       "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Helarte",
-        "url": "https://open.spotify.com/album/4bParJOMVqOcoVkDM3W4QT"
-      },
-      "artists": [
-        {
-          "name": "Lirika Inverza",
-          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
-        }
-      ],
-      "duration_ms": 203909,
-      "name": "Helarte",
-      "url": "https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a"
     },
     {
       "added_at": "2024-06-21 06:01:00",

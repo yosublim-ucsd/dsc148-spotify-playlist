@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,314 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,315 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 6 | [It’s All In Your Mind](https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 4:38 |
 | 7 | [Black Bird \- A COLORS SHOW](https://open.spotify.com/track/00SYX4AtIHCpSXopJUj5pP) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Black Bird \- A COLORS SHOW](https://open.spotify.com/album/3onGnASoMyRBbCSWp4H5AR) | 2:53 |
 | 8 | [I Came Here to Leave You](https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 2:58 |
-| 9 | [Dissappointing The Internet](https://open.spotify.com/track/0wpQc6DuoM3B9VsAzSHNtv) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Disappointing the Internet](https://open.spotify.com/album/3KXnbWDUt4OfEbLtCwkBPs) | 2:46 |
+| 9 | [Disappointing the Internet](https://open.spotify.com/track/0wpQc6DuoM3B9VsAzSHNtv) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Disappointing the Internet](https://open.spotify.com/album/3KXnbWDUt4OfEbLtCwkBPs) | 2:46 |
 | 10 | [Early Morning Sun](https://open.spotify.com/track/6irktO5jFEuTjSEB8FIXlS) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Early Morning Sun](https://open.spotify.com/album/3b8Exk4GmAPa3OVUNhij5L) | 3:11 |
 | 11 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 |
 | 12 | [I Went Dancing With My Sister \- Bonus Track](https://open.spotify.com/track/2E8p2xkMaloP8V7tSgi0Ba) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 4:22 |

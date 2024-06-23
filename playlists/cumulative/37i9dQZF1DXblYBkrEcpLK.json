@@ -2217,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Growing Up (TV\u30a2\u30cb\u30e1\u300e\u3053\u306e\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c\u306b\u795d\u798f\u3092\uff013\u300f\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30fb\u30c6\u30fc\u30de)",
+        "url": "https://open.spotify.com/album/1rULsxF6zg96G8kxYrvJkc"
+      },
+      "artists": [
+        {
+          "name": "Machico",
+          "url": "https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229506,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/64q5oxmMOMalIqPGII5z4N"
+    },
+    {
+      "album": {
         "name": "Guitar, Loneliness and Blue Planet - From CrosSing",
         "url": "https://open.spotify.com/album/2rmLgQmIb0NhFGZHz2XUhV"
       },
@@ -7848,7 +7866,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 216413,
       "name": "\u30a2\u30f3\u30c0\u30f3\u30c6",
       "url": "https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P"

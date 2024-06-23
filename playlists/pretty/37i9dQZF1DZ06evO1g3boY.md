@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 ### [This Is Emicida](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1g3boY)
 
-> This is Emicida\. The essential tracks, all in one playlist.
+> This is Emicida\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,382 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,446 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 42 | [O Pequeno Burguês/ Canta Canta Minha Gente \- Ao Vivo](https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 4:09 |
 | 43 | [Gueto \- Ao Vivo](https://open.spotify.com/track/4qFliZbsCTWYEpL75Vw3RO) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 3:13 |
 | 44 | [Manifesto \(feat\. Lenine & Emicida\)](https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Eu Sou a Maré Viva](https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe) | 4:34 |
-| 45 | [Antes Que a Bala Perdida Me Ache](https://open.spotify.com/track/07OvVAqHyJi4ffgeLbAPUe) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Jaddy](https://open.spotify.com/artist/4mZA1cH9B0SBDue0fa1ok6) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux) | 3:36 |
-| 46 | [Sol de Giz de Cera](https://open.spotify.com/track/7LsxnS3jwRa0EB7Gq78lkf) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Estela Vergílio](https://open.spotify.com/artist/2Yo86np78XwT8Y6ug7Dg1p), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 2:18 |
+| 45 | [Sol de Giz de Cera](https://open.spotify.com/track/7LsxnS3jwRa0EB7Gq78lkf) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Estela Vergílio](https://open.spotify.com/artist/2Yo86np78XwT8Y6ug7Dg1p), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 2:18 |
+| 46 | [Antes Que a Bala Perdida Me Ache](https://open.spotify.com/track/07OvVAqHyJi4ffgeLbAPUe) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Jaddy](https://open.spotify.com/artist/4mZA1cH9B0SBDue0fa1ok6) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux) | 3:36 |
 | 47 | [A Chapa é Quente \- Ao Vivo](https://open.spotify.com/track/0wwuQ08af73yA7lgIFuKv8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 3:52 |
 | 48 | [Linha De Frente \- Live](https://open.spotify.com/track/6KzAGApzyPBttDCH9rKUNv) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 4:00 |
 | 49 | [Melhor Remédio](https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 3:00 |
 | 50 | [Boa Esperança](https://open.spotify.com/track/2v3FdNAsIe9rh62DOb4ZIz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [J\. Ghetto](https://open.spotify.com/artist/6vcFsBBJc4qleLGg6JzT4z) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:02 |
 
-Snapshot ID: `ZnNxAAAAAADNljtKbH+iI0G254jtq5Hd`
+Snapshot ID: `ZnTCgAAAAABOLkUbYZR4dLOKxOV7hN+B`

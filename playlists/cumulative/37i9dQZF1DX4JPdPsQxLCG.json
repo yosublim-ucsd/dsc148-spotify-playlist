@@ -850,7 +850,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 167979,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0"
@@ -2328,6 +2328,24 @@
       "duration_ms": 255320,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
+    },
+    {
+      "album": {
+        "name": "Get Back Again",
+        "url": "https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250331,
+      "name": "Get Back Again",
+      "url": "https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0"
     },
     {
       "album": {

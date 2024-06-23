@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY?si=QJbuh\-RjQmmrNwSQBrFQhA">Kanji Mbugua</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,808 likes - 99 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,841 likes - 99 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 3 | [Mungu Mmoja \- Live](https://open.spotify.com/track/71FXICK2kMMLCCW7JQTGiy) | [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk), [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK), [Neema Gospel Choir](https://open.spotify.com/artist/0Rj46magWSjvL3hnxTaNGy) | [Mungu Mmoja \(Live\)](https://open.spotify.com/album/0dc3Brta6vhGPl09I6RT4I) | 9:09 |
 | 4 | [Nita Amini \- Live](https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Nita Amini \(Live\)](https://open.spotify.com/album/3yDmAg043NqgSAml9wAQs9) | 12:59 |
 | 5 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 |
-| 6 | [Wapi](https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wapi](https://open.spotify.com/album/6k2Mz6mqJpd0O1xSNkYGXP) | 3:35 |
+| 6 | [Wapi](https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wapi](https://open.spotify.com/album/6k2Mz6mqJpd0O1xSNkYGXP) | 3:37 |
 | 7 | [Niseme Nini](https://open.spotify.com/track/1CrMQWrcbgM12xZWAnPITv) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Niseme Nini](https://open.spotify.com/album/2mdLbdOQc9Cst2FE4TQK1m) | 15:37 |
 | 8 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 |
 | 9 | [Hekima Yako](https://open.spotify.com/track/5hgE39Qp8NZ4AH6OPwvj4O) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Hekima Yako](https://open.spotify.com/album/1XJi0mvsuEwpELBDRoIj6Q) | 4:20 |

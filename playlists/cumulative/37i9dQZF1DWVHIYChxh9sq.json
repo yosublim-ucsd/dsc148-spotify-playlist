@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Carin Le\u00f3n",
+  "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Regulo Caro, Banda la Unica del Rancho",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 237700,
       "name": "A Punta De Balazos (En Vivo)",
       "url": "https://open.spotify.com/track/3cGlwJIMYJzMsuCsK2AbVe"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 137506,
       "name": "Aguanta Corazon",
       "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 190080,
       "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
       "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
@@ -1539,6 +1539,28 @@
     },
     {
       "album": {
+        "name": "Crisis Existencial (En Vivo)",
+        "url": "https://open.spotify.com/album/6G2m70YRgeN7MomTy4VbF2"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Banda la \u00danica del Rancho",
+          "url": "https://open.spotify.com/artist/7H2EP5MBxgYqLuqlgQ1bXU"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170631,
+      "name": "Crisis Existencial - En Vivo",
+      "url": "https://open.spotify.com/track/0U0d4CBVKR2wuycVXnNK6g"
+    },
+    {
+      "album": {
         "name": "Cr\u00f3nicas de la Batalla",
         "url": "https://open.spotify.com/album/5Q4J26KtTCjWK9QQpp9ZqC"
       },
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 262597,
       "name": "C\u00f3mo Este Loco (En Vivo)",
       "url": "https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd"
@@ -2789,6 +2811,28 @@
     },
     {
       "album": {
+        "name": "El de los 7 Chinos (En Vivo)",
+        "url": "https://open.spotify.com/album/4SfKwU0sIAHzmaWky8wN5r"
+      },
+      "artists": [
+        {
+          "name": "Los Varones De California",
+          "url": "https://open.spotify.com/artist/4JtXEZQTssP9XfeaPbi8NF"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171327,
+      "name": "El de los 7 Chinos (En Vivo)",
+      "url": "https://open.spotify.com/track/35LrSWA4EBbB3vOcAALOZe"
+    },
+    {
+      "album": {
         "name": "En Vivo Desde Colony Music",
         "url": "https://open.spotify.com/album/2C2fUFAgltuOeARxxTcq3q"
       },
@@ -3239,6 +3283,28 @@
     },
     {
       "album": {
+        "name": "El Mago de la Sierra (En Vivo)",
+        "url": "https://open.spotify.com/album/6TEVSxgbWFUUqrPD6ZpS0k"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203168,
+      "name": "El Mago de la Sierra - En Vivo",
+      "url": "https://open.spotify.com/track/1N6GONbD8DbxrBPY9qi4zp"
+    },
+    {
+      "album": {
         "name": "(EN VIVO) con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa",
         "url": "https://open.spotify.com/album/7fH3B249lIrp6YapI1HHEy"
       },
@@ -3442,6 +3508,28 @@
       "duration_ms": 268354,
       "name": "El Pavido Navido - En Vivo",
       "url": "https://open.spotify.com/track/3SUwM4xTaelVTyxeypf0XJ"
+    },
+    {
+      "album": {
+        "name": "El Penguin (En Vivo)",
+        "url": "https://open.spotify.com/album/7Ls8SXoC9FhdvCZGi9gS6Y"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "El Penguin - En Vivo",
+      "url": "https://open.spotify.com/track/3Ye5nlgUSowct2G2lI2Skd"
     },
     {
       "album": {
@@ -3956,7 +4044,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 272913,
       "name": "El Zapata (En Vivo)",
       "url": "https://open.spotify.com/track/2I6NDO6Y43LseIqBj5v3oC"
@@ -5278,7 +5366,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 240624,
       "name": "La Historia - En Vivo",
       "url": "https://open.spotify.com/track/2b7cnILSmRmMQCa6yjo6X9"
@@ -6134,6 +6222,32 @@
       "duration_ms": 148793,
       "name": "Los Collares",
       "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
+    },
+    {
+      "album": {
+        "name": "La Revancha (En Vivo)",
+        "url": "https://open.spotify.com/album/0UNQNIZZhS7dlLGhEvPCUD"
+      },
+      "artists": [
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Banda la \u00danica del Rancho",
+          "url": "https://open.spotify.com/artist/7H2EP5MBxgYqLuqlgQ1bXU"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182045,
+      "name": "Los Cuartitos (En Vivo)",
+      "url": "https://open.spotify.com/track/73XOOI8jTRXGLlLzequy3M"
     },
     {
       "album": {
@@ -7190,7 +7304,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 208049,
       "name": "Ojala y te animes",
       "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"

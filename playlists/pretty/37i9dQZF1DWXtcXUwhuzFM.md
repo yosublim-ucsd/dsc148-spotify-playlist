@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,989 likes - 124 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,993 likes - 124 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 56 | [here, alone, again](https://open.spotify.com/track/36yrRl61EcLYpTgiy2MB8V) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [love & limerence](https://open.spotify.com/album/7B4gJ3EYgyZw98HCvcUZRA) | 4:23 |
 | 57 | [Heartbreaker](https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Heartbreaker](https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl) | 3:50 |
 | 58 | [Kaikki Hyvin](https://open.spotify.com/track/2bfzXunjo7adbZu3UGzEr9) | [Ällä](https://open.spotify.com/artist/0RKmxy2MqzSBukdvMV5Ceq) | [Kaikki Hyvin](https://open.spotify.com/album/6aocpacFjZrpPjKgFJmStZ) | 2:47 |
-| 59 | [Care](https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Care](https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow) | 4:04 |
+| 59 | [Care](https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Care](https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow) | 4:04 |
 | 60 | [hall of shame](https://open.spotify.com/track/4ltHLPJ478owSTab5NpDVm) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [hall of shame](https://open.spotify.com/album/7qtPZv7fv8kBVGWPMBjvft) | 2:56 |
 | 61 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
 | 62 | [Yläkertaan](https://open.spotify.com/track/609WMaa9LZm1hoUUmj2Xvb) | [Business City](https://open.spotify.com/artist/1M2HQFDJOOeMGbUkZIcfbb) | [Yläkertaan / Mutter, der Mann mit dem Koks ist da](https://open.spotify.com/album/2En1Ls9y6eKCHKwFT4bdmm) | 3:45 |

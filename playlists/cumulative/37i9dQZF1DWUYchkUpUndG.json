@@ -28155,6 +28155,28 @@
     },
     {
       "album": {
+        "name": "Kabiyesi (Spontaneous \u2014 Live)",
+        "url": "https://open.spotify.com/album/6e1q9QIykhXZiKBvJNOZ3u"
+      },
+      "artists": [
+        {
+          "name": "Fiyin Adeniyi",
+          "url": "https://open.spotify.com/artist/7b4BZkj7cS5gokEOCrNuN0"
+        },
+        {
+          "name": "Daniel Bentley",
+          "url": "https://open.spotify.com/artist/0mxPrIzGozDccr6pwtRlXZ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494000,
+      "name": "Kabiyesi - Spontaneous \u2014 Live",
+      "url": "https://open.spotify.com/track/0hDNaqeSmJKCP7vbgdh1Fp"
+    },
+    {
+      "album": {
         "name": "The Prophecy (Live)",
         "url": "https://open.spotify.com/album/6clxzkILHko47h5ggpy3TA"
       },
@@ -54051,7 +54073,7 @@
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 215328,
+      "duration_ms": 217613,
       "name": "Wapi",
       "url": "https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH"
     },

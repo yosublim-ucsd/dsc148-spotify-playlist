@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAhvO1GBNR7K87ME2r0jZFR",
+  "snapshot_id": "AAAAAAAAAADFVzL9NfyZ0S6ic+W18kOp",
   "tracks": [
     {
       "added_at": "2024-06-21 04:00:00",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Never Be Yours",
-        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 196025,
-      "name": "Never Be Yours",
-      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "the boy is mine (Remix)",
         "url": "https://open.spotify.com/album/5zesPlZ3PXnxQ8HWzQ9idI"
       },
@@ -139,18 +123,78 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Chanel No.5",
-        "url": "https://open.spotify.com/album/4fSheJGSNnkHOR5psNKUWG"
+        "name": "Pretty Low",
+        "url": "https://open.spotify.com/album/018yMXnmOl0KjDiNZ2gJPy"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
         }
       ],
-      "duration_ms": 160573,
-      "name": "Chanel No.5",
-      "url": "https://open.spotify.com/track/1NV3GyttwPTCgQ15BtBPpn"
+      "duration_ms": 172655,
+      "name": "Pretty Low",
+      "url": "https://open.spotify.com/track/5rHx94vZVW6wHmnTeFaxIF"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "The Henry Mancini 100th Sessions: Henry Has Company",
+        "url": "https://open.spotify.com/album/6GkHGNDk3Zf7pIAsvN5J0v"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 417156,
+      "name": "Baby Elephant Walk - Encore",
+      "url": "https://open.spotify.com/track/5bekuChJg899odtYWUMTVF"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Stifled Creativity",
+        "url": "https://open.spotify.com/album/35IMV2kpVJDmwOm9j47CK0"
+      },
+      "artists": [
+        {
+          "name": "Da Beatminerz",
+          "url": "https://open.spotify.com/artist/02AnZfp6mEFw5LprUPv8SD"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Rasheed Chappell",
+          "url": "https://open.spotify.com/artist/18QL8xB24RzcuwTcfX86Yw"
+        },
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        },
+        {
+          "name": "Corey Glover",
+          "url": "https://open.spotify.com/artist/1q43UYqmrt3prvsBUfuRdr"
+        }
+      ],
+      "duration_ms": 336220,
+      "name": "My Year",
+      "url": "https://open.spotify.com/track/4W8epOMIBR3z7UjWI2yiXs"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -235,58 +279,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Stifled Creativity",
-        "url": "https://open.spotify.com/album/35IMV2kpVJDmwOm9j47CK0"
+        "name": "Never Be Yours",
+        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
       },
       "artists": [
         {
-          "name": "Da Beatminerz",
-          "url": "https://open.spotify.com/artist/02AnZfp6mEFw5LprUPv8SD"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "Rasheed Chappell",
-          "url": "https://open.spotify.com/artist/18QL8xB24RzcuwTcfX86Yw"
-        },
-        {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
-        },
-        {
-          "name": "Corey Glover",
-          "url": "https://open.spotify.com/artist/1q43UYqmrt3prvsBUfuRdr"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 336220,
-      "name": "My Year",
-      "url": "https://open.spotify.com/track/4W8epOMIBR3z7UjWI2yiXs"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Don't Come Around Here No More",
-        "url": "https://open.spotify.com/album/4GA6njv7UdGzt1JYvK3BcB"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Benmont Tench",
-          "url": "https://open.spotify.com/artist/64BpBvN4VY7JdhV9GaEbiV"
-        }
-      ],
-      "duration_ms": 276856,
-      "name": "Don't Come Around Here No More",
-      "url": "https://open.spotify.com/track/5HoXRYP9uOELM7CbnSMHaS"
+      "duration_ms": 196025,
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -335,46 +339,26 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Pretty Low",
-        "url": "https://open.spotify.com/album/018yMXnmOl0KjDiNZ2gJPy"
+        "name": "Don't Come Around Here No More",
+        "url": "https://open.spotify.com/album/4GA6njv7UdGzt1JYvK3BcB"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+          "name": "Benmont Tench",
+          "url": "https://open.spotify.com/artist/64BpBvN4VY7JdhV9GaEbiV"
         }
       ],
-      "duration_ms": 172655,
-      "name": "Pretty Low",
-      "url": "https://open.spotify.com/track/5rHx94vZVW6wHmnTeFaxIF"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "The Henry Mancini 100th Sessions: Henry Has Company",
-        "url": "https://open.spotify.com/album/6GkHGNDk3Zf7pIAsvN5J0v"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        },
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 417156,
-      "name": "Baby Elephant Walk - Encore",
-      "url": "https://open.spotify.com/track/5bekuChJg899odtYWUMTVF"
+      "duration_ms": 276856,
+      "name": "Don't Come Around Here No More",
+      "url": "https://open.spotify.com/track/5HoXRYP9uOELM7CbnSMHaS"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -395,6 +379,42 @@
       "duration_ms": 260026,
       "name": "Joy In The Battle - Church Edition",
       "url": "https://open.spotify.com/track/5MsVtTUBmoqjMxZxsmCmKd"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Chanel No.5",
+        "url": "https://open.spotify.com/album/4fSheJGSNnkHOR5psNKUWG"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 160573,
+      "name": "Chanel No.5",
+      "url": "https://open.spotify.com/track/1NV3GyttwPTCgQ15BtBPpn"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2Nos1S7CRz9cs2cxzht1Vn"
+      },
+      "artists": [
+        {
+          "name": "Mateo Santiago",
+          "url": "https://open.spotify.com/artist/0c7bsEYzoQOexKPoC4ggSC"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 92135,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/3NEqf1JP1mbJYhmoNd3ZYt"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -491,6 +511,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Hey Stranger",
+        "url": "https://open.spotify.com/album/3LrKY4Q1ZJdOXDAEeKGfE9"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 288220,
+      "name": "Hey Stranger",
+      "url": "https://open.spotify.com/track/7y9TVM2phcRCwSlevzG7pj"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Lemons",
         "url": "https://open.spotify.com/album/4CYg6XtJs56jEQ1vzDSvAd"
       },
@@ -507,22 +543,6 @@
       "duration_ms": 204923,
       "name": "Lemons",
       "url": "https://open.spotify.com/track/4aePYLeftWwSrVGVtBVA1v"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Hey Stranger",
-        "url": "https://open.spotify.com/album/3LrKY4Q1ZJdOXDAEeKGfE9"
-      },
-      "artists": [
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
-        }
-      ],
-      "duration_ms": 288220,
-      "name": "Hey Stranger",
-      "url": "https://open.spotify.com/track/7y9TVM2phcRCwSlevzG7pj"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -583,26 +603,6 @@
       "duration_ms": 245471,
       "name": "feelings come undone (feat. Raquel Rodriguez)",
       "url": "https://open.spotify.com/track/6KIVg5NKdTujYktbRX3aTv"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/5M8eXGXY9ds3L7qSAMY5me"
-      },
-      "artists": [
-        {
-          "name": "Julius Rodriguez",
-          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Champion\u2019s Call (feat. Georgia Anne Muldrow)",
-      "url": "https://open.spotify.com/track/4aB1U0QvgHWDAMTwR5zSFS"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -787,102 +787,6 @@
       "duration_ms": 307800,
       "name": "libre",
       "url": "https://open.spotify.com/track/2Mb6eQQg99LqGIEitCnPea"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Mid Spiral: Growth",
-        "url": "https://open.spotify.com/album/5CqumIo51QeCiboYgpxpN8"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 333881,
-      "name": "Celestial Hands",
-      "url": "https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "And Yet Still",
-        "url": "https://open.spotify.com/album/2Btpzgvr0nAfQpoPnsr17C"
-      },
-      "artists": [
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 135610,
-      "name": "Thankful For",
-      "url": "https://open.spotify.com/track/60hZdbkZNfyt8HFpYvFpXU"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "John Coltrane Quartet Live at \"Music at Newport\" 1961 (Restauraci\u00f3n 2024)",
-        "url": "https://open.spotify.com/album/1kuMZCFRXKXcby3JVgffpU"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        },
-        {
-          "name": "Reggie Workman",
-          "url": "https://open.spotify.com/artist/3mBoT9nTZ12JQPfrOrwD3p"
-        },
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        }
-      ],
-      "duration_ms": 987282,
-      "name": "My Favorite Things - \"Music at Newport\" Live July 1st. 1961 - Restauraci\u00f3n 2024",
-      "url": "https://open.spotify.com/track/19Pbm8dJwiS9fjtnr9a4xF"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "wasted time re-mix",
-        "url": "https://open.spotify.com/album/67EFBkdaaq4kJ9gUUYgRXe"
-      },
-      "artists": [
-        {
-          "name": "white grouse",
-          "url": "https://open.spotify.com/artist/7pIv06qOhU2S6qfbAZn5KV"
-        },
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 139468,
-      "name": "wasted time re-mix",
-      "url": "https://open.spotify.com/track/09vOW9W5lC9O7tQZ73YtR5"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Burn for You (Extended Remix)",
-        "url": "https://open.spotify.com/album/0SMzwGfocvgE2AhwudkhFe"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 368240,
-      "name": "Burn for You - Extended Remix",
-      "url": "https://open.spotify.com/track/6ZbVB0IaTWxNndZu2VIgGJ"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

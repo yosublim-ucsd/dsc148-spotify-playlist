@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Theo Rubia, Cassiane
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,958 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,008 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 40 | [Tua Graça Me Basta • BRAVE Camp \- Ao Vivo](https://open.spotify.com/track/0uZfZL0VpmNJdBMsp4qj0D) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Tua Graça Me Basta • BRAVE Camp \(Ao Vivo\)](https://open.spotify.com/album/64s0DzUKpSOpeuJ6wnLQ8c) | 4:57 |
 | 41 | [Aviva\-nos \- Ao Vivo](https://open.spotify.com/track/3F7XQoLvAbOEdXQ0XAeL6G) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U), [Tiago Andrade](https://open.spotify.com/artist/6TC30lemrpnMFDQKyvGa50) | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/album/6LPttx7iwCricuQksJZNOW) | 5:11 |
 | 42 | [Para Sempre Cantarei](https://open.spotify.com/track/6fIpe5GYGHpZgADQ7jmtcV) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Para Sempre Cantarei](https://open.spotify.com/album/01Ulj0a2q96xZcfSiYOYPT) | 4:06 |
-| 43 | [Multidão](https://open.spotify.com/track/4JxwyiXfJUBstnzhDo5Pnb) | [Oseas Silva](https://open.spotify.com/artist/4TgTsq9dm2YdErrB8AJHMh) | [Multidão](https://open.spotify.com/album/3FF473n9vIfN1fszeYk1MZ) | 5:33 |
+| 43 | [Multidão](https://open.spotify.com/track/4JxwyiXfJUBstnzhDo5Pnb) | [Oseas Silva](https://open.spotify.com/artist/4TgTsq9dm2YdErrB8AJHMh) | [Multidão](https://open.spotify.com/album/3FF473n9vIfN1fszeYk1MZ) | 5:32 |
 | 44 | [Nossa Oração](https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Nossa Oração](https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6) | 3:09 |
 | 45 | [Enganoso Coração](https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Enganoso Coração](https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx) | 3:10 |
 | 46 | [Aguenta Mais um Pouco](https://open.spotify.com/track/0BdqnMGi4m8nzhurD5oljn) | [Izabelle Ribeiro](https://open.spotify.com/artist/74kfzSZBsfGsaDC4pHnWFF) | [Aguenta Mais um Pouco](https://open.spotify.com/album/4EePPVqYp9q8NoXHQ0tXW9) | 4:18 |

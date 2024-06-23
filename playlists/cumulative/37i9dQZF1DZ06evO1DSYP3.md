@@ -2,9 +2,9 @@
 
 ### [This Is P\-Lo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DSYP3)
 
-> This is P\-Lo\. The essential tracks, all in one playlist.
+> This is P\-Lo\. Tutti i brani in un'unica playlist.
 
-61 songs - 2 hr 50 min
+62 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Ask 'Em \(feat\. P\-Lo & Jessi\)](https://open.spotify.com/track/06cgIaSS8aWWEh7Culie0U) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [B.A.R.S](https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.R.S \(Vol\. 1\)](https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2) | 2:39 | 2024-01-29 |  |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2024-01-29 |  |
 | [bamboo](https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:39 | 2024-01-29 |  |
+| [BIG DREAMS](https://open.spotify.com/track/0yrEsPn0G4PWR9iFhQT61I) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Michael Sneed](https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [ClayDough](https://open.spotify.com/artist/5r7Rbfw8HjHPA5H0lHLyWW), [demahjiae](https://open.spotify.com/artist/0BajT9ZXitGajSuc16Rass) | [BIG DREAMS](https://open.spotify.com/album/26I8DT6PxpRA6O1IHYr1nA) | 3:31 | 2024-06-23 |  |
 | [Big Steppin' \(feat\. E\-40 & P\-Lo\) \- Remix](https://open.spotify.com/track/7wOG9tjfJUrdMQvV5BXJz1) | [Stunnaman02](https://open.spotify.com/artist/6GqksGv39gHrhEbbI0Mavw), [QuakeBeatz](https://open.spotify.com/artist/30HKqvpaWBTGoxIO8hFMt1), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Big Steppin' \(Remix\) \[feat\. E\-40 & P\-Lo\]](https://open.spotify.com/album/67rMSc4nEWohwEYjA2MaJY) | 3:07 | 2024-01-29 |  |
 | [Blue Hunnids](https://open.spotify.com/track/2BFeLCEDQBecReNuLbOHoQ) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Blue Hunnids \(feat\. P\-Lo\) \- Single](https://open.spotify.com/album/5PYpthagjwOjL17AqVxbKq) | 3:16 | 2024-01-29 |  |
 | [Boomerang](https://open.spotify.com/track/3gv1CETVeiUGv8uTeh9W8h) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Boomerang](https://open.spotify.com/album/6fRc7CdGEkG3w3NtclhxHP) | 2:52 | 2024-06-09 | 2024-06-22 |
@@ -52,7 +53,7 @@
 | [same squad](https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:31 | 2024-01-29 |  |
 | [shake ya ass \(feat\. P\-Lo\)](https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [drink bleach](https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r) | 3:21 | 2024-01-29 |  |
 | [Shine](https://open.spotify.com/track/7reqdhRTImOChEgyZlrqJJ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 1:58 | 2024-01-29 | 2024-06-09 |
-| [SILK](https://open.spotify.com/track/649JkfJv5FNUMTbIarTDty) | [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SILK](https://open.spotify.com/album/5aMNCaPqaJDh9BDjrYFdOR) | 3:21 | 2024-01-29 |  |
+| [SILK](https://open.spotify.com/track/649JkfJv5FNUMTbIarTDty) | [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SILK](https://open.spotify.com/album/5aMNCaPqaJDh9BDjrYFdOR) | 3:21 | 2024-01-29 | 2024-06-23 |
 | [Sneeze](https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:35 | 2024-01-29 |  |
 | [Stunna Anthem](https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 3:01 | 2024-01-29 |  |
 | [Talkin Bout](https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Talkin Bout](https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx) | 1:57 | 2024-01-29 |  |

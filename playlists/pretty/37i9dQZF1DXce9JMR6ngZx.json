@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 214020,
+  "num_followers": 214041,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "Vital Idol",
+        "url": "https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 359733,
+      "name": "Dancing With Myself",
+      "url": "https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 352906,
       "name": "When Doves Cry",
       "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "Vital Idol",
-        "url": "https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 359733,
-      "name": "Dancing With Myself",
-      "url": "https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "O Passo Do Lui",
-        "url": "https://open.spotify.com/album/4C70kCh7SQW3XFQIsMrQTQ"
-      },
-      "artists": [
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Meu Erro",
-      "url": "https://open.spotify.com/track/7pn5QXr2LTeGsgHyCaJxDo"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Rhythm Of The Night",
         "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
+        "name": "Discography - Complete Singles Collection",
+        "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Domino Dancing",
+      "url": "https://open.spotify.com/track/4mVLzFbc3gaCoWCEENLouc"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
         "name": "The Best of New Order",
         "url": "https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ"
       },
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Discography - Complete Singles Collection",
-        "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
+        "name": "O Passo Do Lui",
+        "url": "https://open.spotify.com/album/4C70kCh7SQW3XFQIsMrQTQ"
       },
       "artists": [
         {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
         }
       ],
-      "duration_ms": 258333,
-      "name": "Domino Dancing",
-      "url": "https://open.spotify.com/track/4mVLzFbc3gaCoWCEENLouc"
+      "duration_ms": 208626,
+      "name": "Meu Erro",
+      "url": "https://open.spotify.com/track/7pn5QXr2LTeGsgHyCaJxDo"
     },
     {
       "added_at": "2020-06-24 14:37:20",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-619 songs - 2 day 5 hr 11 min
+620 songs - 2 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Mystic Voltage](https://open.spotify.com/track/1If33jbO5eZD0nqlFK5QHF) | [Pøl](https://open.spotify.com/artist/6PDjCz5dJ9rZz0AdTNr3vz) | [Lqd016](https://open.spotify.com/album/6kr38HFzF91sHVtRT48BbV) | 6:05 | 2024-03-13 | 2024-04-13 |
 | [N2020](https://open.spotify.com/track/05BjRTuVGeUpsMsXckj4lC) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Rosen](https://open.spotify.com/album/6FWl72GGyR4ew4k64IzAfC) | 5:18 | 2022-12-03 | 2023-08-05 |
 | [Nachts stehe ich heimlich auf dem Klodeckel](https://open.spotify.com/track/3g8uiQXx3RW1u2hwceyznQ) | [HGich.T](https://open.spotify.com/artist/0Mc1RdR7nqk1S2DHapXJhl) | [Megabobo](https://open.spotify.com/album/4CqZZ7vbtXAsmrC0NoEohv) | 4:40 | 2023-04-14 | 2023-05-26 |
+| [Napoleon Complex](https://open.spotify.com/track/32Ys2az71mr8JmrITFc9W6) | [Lucinee](https://open.spotify.com/artist/0qdZ6Q6kRPDhouf3Qdjo9M) | [Point Of No Return EP](https://open.spotify.com/album/3MCsUrB4JOnaYQfZ3ChMet) | 5:05 | 2024-06-22 |  |
 | [Negative Space](https://open.spotify.com/track/0P2SyKn2Oq36gGMYQuDuFi) | [Ghost In The Machine](https://open.spotify.com/artist/5opfVCjYF7B4DIKULygJ84), [Baseck](https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq) | [Greatest Hit vol\. 1](https://open.spotify.com/album/4u08P32hA5AfjjxicmaF9Z) | 7:17 | 2023-06-30 | 2023-08-05 |
 | [Neo Romance](https://open.spotify.com/track/0MSycxDuVHxfYepoWmAmuB) | [Stephanie Sykes](https://open.spotify.com/artist/0Q6dRCEC8zbkt629wKltea) | [Neo Romance](https://open.spotify.com/album/6XXEG9oIRnrG6wirbWfGoA) | 4:11 | 2023-03-17 | 2023-04-15 |
 | [Night](https://open.spotify.com/track/2ST4rHwfdfkuArUKvdGn8a) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p), [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG) | [Diary Of An Afro Warrior \(Expanded Edition\)](https://open.spotify.com/album/1Kl9PK9QiRu95xERylVZ7K) | 5:56 | 2023-08-04 | 2023-12-14 |

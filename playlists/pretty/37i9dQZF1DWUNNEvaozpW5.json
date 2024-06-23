@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
-  "num_followers": 575888,
+  "num_followers": 575942,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Sin Tiempo",
+        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
+      },
+      "artists": [
+        {
+          "name": "Medina Azahara",
+          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+        }
+      ],
+      "duration_ms": 269426,
+      "name": "Necesito Respirar",
+      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "De vuelta a casa",
         "url": "https://open.spotify.com/album/2vKUZNXh08ctZ9ItoKSQ30"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 189600,
       "name": "Y volar (con los Caligaris)",
       "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Sin Tiempo",
-        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
-      },
-      "artists": [
-        {
-          "name": "Medina Azahara",
-          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
-        }
-      ],
-      "duration_ms": 269426,
-      "name": "Necesito Respirar",
-      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Madrid, Madrid, Madrid",
-        "url": "https://open.spotify.com/album/6aCaSgOJi2AgrnWCjk9Zo1"
+        "name": "Correos",
+        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
       },
       "artists": [
         {
-          "name": "Sidecars",
-          "url": "https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj"
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
         }
       ],
-      "duration_ms": 141731,
-      "name": "Madrid, Madrid, Madrid",
-      "url": "https://open.spotify.com/track/72ko9QbSW0PIR8rD0WItAH"
+      "duration_ms": 236413,
+      "name": "Cigarrito",
+      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Correos",
-        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
-      },
-      "artists": [
-        {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cigarrito",
-      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Nos Vemos En Los Bares",
         "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 237346,
       "name": "20 de abril - En directo 1997",
       "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Madrid, Madrid, Madrid",
+        "url": "https://open.spotify.com/album/6aCaSgOJi2AgrnWCjk9Zo1"
+      },
+      "artists": [
+        {
+          "name": "Sidecars",
+          "url": "https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj"
+        }
+      ],
+      "duration_ms": 141731,
+      "name": "Madrid, Madrid, Madrid",
+      "url": "https://open.spotify.com/track/72ko9QbSW0PIR8rD0WItAH"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Coces al Aire 1997-2007",
-        "url": "https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ"
-      },
-      "artists": [
-        {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
-        }
-      ],
-      "duration_ms": 337666,
-      "name": "Corazon de mimbre",
-      "url": "https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Bailar\u00e9 sobre tu tumba",
         "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 185933,
       "name": "Bailar\u00e9 sobre tu tumba",
       "url": "https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Coces al Aire 1997-2007",
+        "url": "https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ"
+      },
+      "artists": [
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        }
+      ],
+      "duration_ms": 337666,
+      "name": "Corazon de mimbre",
+      "url": "https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Un Encuentro",
-        "url": "https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL"
-      },
-      "artists": [
-        {
-          "name": "Triana",
-          "url": "https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Tu frialdad",
-      "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Insurreccion (En Directo)",
         "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 134200,
       "name": "Insurreccion (En Directo)",
       "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Un Encuentro",
+        "url": "https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL"
+      },
+      "artists": [
+        {
+          "name": "Triana",
+          "url": "https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Tu frialdad",
+      "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
     },
     {
       "added_at": "2024-06-20 22:00:00",

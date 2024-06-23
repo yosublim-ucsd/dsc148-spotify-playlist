@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 
 > Go inside the music from the Marvel worlds that you love!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,994 likes - 179 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,998 likes - 179 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

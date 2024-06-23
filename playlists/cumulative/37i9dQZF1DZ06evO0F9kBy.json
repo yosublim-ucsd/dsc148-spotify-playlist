@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 249066,
       "name": "As It Is In Heaven",
       "url": "https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 225755,
       "name": "Hallelujah Anyway",
       "url": "https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9"
@@ -1662,6 +1662,28 @@
       "duration_ms": 197506,
       "name": "What a Friend",
       "url": "https://open.spotify.com/track/7ozWDT47HkfCmbNGgMorU8"
+    },
+    {
+      "album": {
+        "name": "With A Little Help From My Friends (Live)",
+        "url": "https://open.spotify.com/album/58Z5rBOC7zxqEMELvZK2e4"
+      },
+      "artists": [
+        {
+          "name": "The Choir Room",
+          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259453,
+      "name": "With A Little Help From My Friends - Live",
+      "url": "https://open.spotify.com/track/1DvuS4n9s9GE3BqCQw6Vo5"
     },
     {
       "album": {

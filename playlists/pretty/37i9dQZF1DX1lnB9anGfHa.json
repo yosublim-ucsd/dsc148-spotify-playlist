@@ -1,6 +1,6 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 222380,
+  "num_followers": 222433,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 227212,
+      "name": "Mata Hari",
+      "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 227212,
-      "name": "Mata Hari",
-      "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Trececerotres",
         "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 135773,
       "name": "Trececerotres",
       "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
-      },
-      "artists": [
-        {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
-        }
-      ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -635,6 +619,22 @@
       "duration_ms": 245008,
       "name": "Unknown Tokyo",
       "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
+      },
+      "artists": [
+        {
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
+        }
+      ],
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Death Is Home",
-        "url": "https://open.spotify.com/album/5HO1N4upxkWKuO3hdB4d2m"
-      },
-      "artists": [
-        {
-          "name": "A\u00efsha Devi",
-          "url": "https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4"
-        }
-      ],
-      "duration_ms": 272990,
-      "name": "Mind Era",
-      "url": "https://open.spotify.com/track/7ikwHilKD3pDtp9tcLTeCn"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "THE QUANTA SERIES",
         "url": "https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 389266,
       "name": "EVER",
       "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Death Is Home",
+        "url": "https://open.spotify.com/album/5HO1N4upxkWKuO3hdB4d2m"
+      },
+      "artists": [
+        {
+          "name": "A\u00efsha Devi",
+          "url": "https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4"
+        }
+      ],
+      "duration_ms": 272990,
+      "name": "Mind Era",
+      "url": "https://open.spotify.com/track/7ikwHilKD3pDtp9tcLTeCn"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Signal Remixes",
-        "url": "https://open.spotify.com/album/5Plx7Zi9lHnIDUq9HwkaeQ"
+        "name": "Vajranala",
+        "url": "https://open.spotify.com/album/7iIu8O2ueBqIuhWDKQorYO"
       },
       "artists": [
         {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
-        },
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+          "name": "Senyawa",
+          "url": "https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Signal (Maral Remix)",
-      "url": "https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD"
+      "duration_ms": 522000,
+      "name": "Vajranala",
+      "url": "https://open.spotify.com/track/0262OfotysNpIAs6R1meEI"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1171,18 +1167,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Vajranala",
-        "url": "https://open.spotify.com/album/7iIu8O2ueBqIuhWDKQorYO"
+        "name": "Signal Remixes",
+        "url": "https://open.spotify.com/album/5Plx7Zi9lHnIDUq9HwkaeQ"
       },
       "artists": [
         {
-          "name": "Senyawa",
-          "url": "https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ"
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+        },
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
         }
       ],
-      "duration_ms": 522000,
-      "name": "Vajranala",
-      "url": "https://open.spotify.com/track/0262OfotysNpIAs6R1meEI"
+      "duration_ms": 218000,
+      "name": "Signal (Maral Remix)",
+      "url": "https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Dois Litorais",
-        "url": "https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1 Portugal",
-          "url": "https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP"
-        }
-      ],
-      "duration_ms": 520719,
-      "name": "Dois Litorais",
-      "url": "https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "An Ocean",
         "url": "https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 259648,
       "name": "An Ocean",
       "url": "https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Dois Litorais",
+        "url": "https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1 Portugal",
+          "url": "https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP"
+        }
+      ],
+      "duration_ms": 520719,
+      "name": "Dois Litorais",
+      "url": "https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Da pacem",
-        "url": "https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK"
+        "name": "Wanci",
+        "url": "https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS"
       },
       "artists": [
         {
-          "name": "Mykalle",
-          "url": "https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0"
+          "name": "Tarawangsawelas",
+          "url": "https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il"
         }
       ],
-      "duration_ms": 275906,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys"
+      "duration_ms": 344074,
+      "name": "Selalu",
+      "url": "https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32"
     }
   ],
   "unique_name": "Terra Incognita",

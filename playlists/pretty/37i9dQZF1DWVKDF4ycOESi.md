@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Coldplay in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,526 likes - 97 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,594 likes - 97 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 51 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 |
 | 52 | [Periferia](https://open.spotify.com/track/1EcVrX4oy3Z9mUjsvhsIEh) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Periferia](https://open.spotify.com/album/5imPI6T7UGse84jzoy1Zcy) | 3:05 |
 | 53 | [PAGINE BIANCHE \(feat\. EDONiCO\)](https://open.spotify.com/track/0nNplNrSFfg3aHBpKxTtnb) | [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [PAGINE BIANCHE \(feat\. EDONiCO\)](https://open.spotify.com/album/6aZusQBvOEJVForkNE7ZHX) | 2:46 |
-| 54 | [Big Benz](https://open.spotify.com/track/47lZfI1lqF7r2zeOkuo3VC) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Big Benz](https://open.spotify.com/album/6jbPxjjzhrfMbNC75CTocu) | 2:14 |
+| 54 | [Big Benz](https://open.spotify.com/track/47lZfI1lqF7r2zeOkuo3VC) | [BM](https://open.spotify.com/artist/5hQAO1u7TC2MjIeMVDbsg5), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Big Benz](https://open.spotify.com/album/6jbPxjjzhrfMbNC75CTocu) | 2:14 |
 | 55 | [Ma Belle \(feat\. Kassimi & Yunes LaGrintaa\)](https://open.spotify.com/track/67kspZ54hoRYtc23oQOkRk) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Ma Belle \(feat\. Kassimi & Yunes LaGrintaa\)](https://open.spotify.com/album/3sgZkF4BMzB3ttKJ35qJy8) | 3:17 |
 | 56 | [Time For Slurp](https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [SHHHHHHH!](https://open.spotify.com/album/1zvvdEwZHfPQvLsADalPmf) | 1:57 |
 | 57 | [GENERAZIONE ANSIA](https://open.spotify.com/track/4uidJqvRKCt9FyDQ6rrvH5) | [SoDa](https://open.spotify.com/artist/61ssXv3eSeePstTB6J8YtB), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [GENERAZIONE ANSIA](https://open.spotify.com/album/7lLrHs2325wybE62eUCJyd) | 2:21 |

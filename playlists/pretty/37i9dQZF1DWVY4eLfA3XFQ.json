@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Sosa. 50% techno, 50% house",
-  "num_followers": 626855,
+  "num_followers": 626936,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/5JA85EYInaPr1SehlXtMXG"
     },
     {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "So H\u00ef",
+        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 212139,
+      "name": "So H\u00ef",
+      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Ando High",
@@ -1095,22 +1111,6 @@
       "duration_ms": 165875,
       "name": "Ando High",
       "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "So H\u00ef",
-        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 212139,
-      "name": "So H\u00ef",
-      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1325,6 +1325,26 @@
       "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
     },
     {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        }
+      ],
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
+    },
+    {
       "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "CARNET (Cloonee Remix)",
@@ -1347,26 +1367,6 @@
       "duration_ms": 225587,
       "name": "CARNET - Cloonee Remix",
       "url": "https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Vente",
-        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        }
-      ],
-      "duration_ms": 182891,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Ghetto EP",
-        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
-        }
-      ],
-      "duration_ms": 214389,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "The Edge",
@@ -1559,6 +1543,22 @@
       "duration_ms": 153281,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Ghetto EP",
+        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        }
+      ],
+      "duration_ms": 214389,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1753,46 +1753,6 @@
       "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Tarantula (Max Styler Remix)",
-        "url": "https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1"
-      },
-      "artists": [
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 201243,
-      "name": "Tarantula - Max Styler Remix",
-      "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "What You Looking For",
-        "url": "https://open.spotify.com/album/0xpzEqmImstaRCOo64kOta"
-      },
-      "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 182343,
-      "name": "What You Looking For",
-      "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"
-    },
-    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Keep It Real",
@@ -1811,6 +1771,26 @@
       "duration_ms": 142322,
       "name": "Keep It Real",
       "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Tarantula (Max Styler Remix)",
+        "url": "https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 201243,
+      "name": "Tarantula - Max Styler Remix",
+      "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1837,6 +1817,26 @@
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "What You Looking For",
+        "url": "https://open.spotify.com/album/0xpzEqmImstaRCOo64kOta"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 182343,
+      "name": "What You Looking For",
+      "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"
+    },
+    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Kite (Remixes)",
@@ -1855,30 +1855,6 @@
       "duration_ms": 152371,
       "name": "Kite - Majestic Remix",
       "url": "https://open.spotify.com/track/7iXl6u3RSBMOJNBNCKcGfs"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Mind Still (feat. blythe) [Tita Lau Remix]",
-        "url": "https://open.spotify.com/album/0Ag0eHjpSYHggENsZeurew"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "blythe",
-          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
-        },
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Mind Still (feat. blythe) - Tita Lau Remix",
-      "url": "https://open.spotify.com/track/0PTLOaQWvnRycfCL9i9d9p"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1903,6 +1879,30 @@
       "duration_ms": 208637,
       "name": "Up N' Down (feat. JmNPR)",
       "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Mind Still (feat. blythe) [Tita Lau Remix]",
+        "url": "https://open.spotify.com/album/0Ag0eHjpSYHggENsZeurew"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Mind Still (feat. blythe) - Tita Lau Remix",
+      "url": "https://open.spotify.com/track/0PTLOaQWvnRycfCL9i9d9p"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2101,30 +2101,6 @@
       "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "We Groovin (with Jazzy) [Shermanology Remix]",
-        "url": "https://open.spotify.com/album/3vFN9Zi54TTXRBRvyTfg4T"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "We Groovin (with Jazzy) - Shermanology Remix",
-      "url": "https://open.spotify.com/track/7erTn3eeUxPzlkiThXkevf"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Body Pop",
@@ -2167,6 +2143,30 @@
       "duration_ms": 168983,
       "name": "PLAY SOME RECORDS",
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "We Groovin (with Jazzy) [Shermanology Remix]",
+        "url": "https://open.spotify.com/album/3vFN9Zi54TTXRBRvyTfg4T"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "We Groovin (with Jazzy) - Shermanology Remix",
+      "url": "https://open.spotify.com/track/7erTn3eeUxPzlkiThXkevf"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2345,6 +2345,30 @@
       "url": "https://open.spotify.com/track/6kjWT6uVoK8JsBuO2KUHW1"
     },
     {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Fetish",
+        "url": "https://open.spotify.com/album/7J4EH4bP7h8oqmDVvpBPAz"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 185478,
+      "name": "Fetish",
+      "url": "https://open.spotify.com/track/5iuVm0iFFVThDwJ1CC4HHl"
+    },
+    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Don't Wanna Fall",
@@ -2385,48 +2409,24 @@
       "url": "https://open.spotify.com/track/773tughXqcLU5ztfWVyEsk"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Fetish",
-        "url": "https://open.spotify.com/album/7J4EH4bP7h8oqmDVvpBPAz"
+        "name": "Better Recognize",
+        "url": "https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag"
       },
       "artists": [
         {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
         },
         {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        },
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
         }
       ],
-      "duration_ms": 185478,
-      "name": "Fetish",
-      "url": "https://open.spotify.com/track/5iuVm0iFFVThDwJ1CC4HHl"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "No Big Deal",
-        "url": "https://open.spotify.com/album/3buVlngArH6e0boFoaH58f"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Reggie Watts",
-          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
-        }
-      ],
-      "duration_ms": 181251,
-      "name": "Motivashun",
-      "url": "https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU"
+      "duration_ms": 211586,
+      "name": "Better Recognize",
+      "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     }
   ],
   "unique_name": "Tech House Operator",

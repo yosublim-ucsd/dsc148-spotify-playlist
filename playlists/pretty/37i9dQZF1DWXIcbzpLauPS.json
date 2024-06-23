@@ -1,6 +1,6 @@
 {
   "description": "Metalcore at its finest. Cover: Knocked Loose",
-  "num_followers": 928442,
+  "num_followers": 928509,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Blinding Faith",
-        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        }
-      ],
-      "duration_ms": 171090,
-      "name": "Blinding Faith",
-      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Creature",
         "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 140203,
       "name": "Low Tech",
       "url": "https://open.spotify.com/track/1G9givRPDFvYoKaMw2OqjK"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Blinding Faith",
+        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 171090,
+      "name": "Blinding Faith",
+      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Don't Reach For Me",
-        "url": "https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Don't Reach For Me",
-      "url": "https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "New Devil",
         "url": "https://open.spotify.com/album/208ZYeARcVCbjryVLd6Ynk"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 210559,
       "name": "Meat & Greet",
       "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Don't Reach For Me",
+        "url": "https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Don't Reach For Me",
+      "url": "https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Concrete",
-        "url": "https://open.spotify.com/album/6Y0zQ1z2uErJpXItxaYr8K"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 198517,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/2grLZw9UmUUwMoyZj9AAY7"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 236953,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/6Y0zQ1z2uErJpXItxaYr8K"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "duration_ms": 198517,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/2grLZw9UmUUwMoyZj9AAY7"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
+        "name": "Invisible Rain",
+        "url": "https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx"
+      },
+      "artists": [
+        {
+          "name": "Stick To Your Guns",
+          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
+        }
+      ],
+      "duration_ms": 159285,
+      "name": "Invisible Rain",
+      "url": "https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
         "name": "XOXO (feat. From Ashes to New)",
         "url": "https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 173180,
       "name": "XOXO (feat. From Ashes to New)",
       "url": "https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
-        "name": "Invisible Rain",
-        "url": "https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx"
-      },
-      "artists": [
-        {
-          "name": "Stick To Your Guns",
-          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
-        }
-      ],
-      "duration_ms": 159285,
-      "name": "Invisible Rain",
-      "url": "https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
+        "name": "FLY AWAY",
+        "url": "https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grove",
+          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
+        }
+      ],
+      "duration_ms": 161407,
+      "name": "FLY AWAY",
+      "url": "https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
         "name": "Murder8",
         "url": "https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 193900,
       "name": "Don\u2019t Look Away",
       "url": "https://open.spotify.com/track/0vEp4LmvDQNcc8MGOHno6Q"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
-        "name": "FLY AWAY",
-        "url": "https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd"
-      },
-      "artists": [
-        {
-          "name": "Ocean Grove",
-          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
-        }
-      ],
-      "duration_ms": 161407,
-      "name": "FLY AWAY",
-      "url": "https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Sleepless Deathbed",
-        "url": "https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ"
-      },
-      "artists": [
-        {
-          "name": "Invent Animate",
-          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Sleepless Deathbed",
-      "url": "https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Abyss Pt I",
         "url": "https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 234932,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/4WQjkKYfMU5E6UI6WYzsok"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Sleepless Deathbed",
+        "url": "https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Sleepless Deathbed",
+      "url": "https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 260820,
-      "name": "Continuum",
-      "url": "https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Killshot",
         "url": "https://open.spotify.com/album/6RLzKueY42p7BlSIRgOpVC"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 152547,
       "name": "Killshot",
       "url": "https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "duration_ms": 260820,
+      "name": "Continuum",
+      "url": "https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "HIVEMIND",
-        "url": "https://open.spotify.com/album/6iHHdRsPAn9HBXOQxMlb0e"
-      },
-      "artists": [
-        {
-          "name": "The Browning",
-          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
-        }
-      ],
-      "duration_ms": 192182,
-      "name": "HIVEMIND",
-      "url": "https://open.spotify.com/track/65qnoPqpsez7gfoGqV9ZKk"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 244254,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "HIVEMIND",
+        "url": "https://open.spotify.com/album/6iHHdRsPAn9HBXOQxMlb0e"
+      },
+      "artists": [
+        {
+          "name": "The Browning",
+          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+        }
+      ],
+      "duration_ms": 192182,
+      "name": "HIVEMIND",
+      "url": "https://open.spotify.com/track/65qnoPqpsez7gfoGqV9ZKk"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Worlds Apart",
-        "url": "https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV"
-      },
-      "artists": [
-        {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        }
-      ],
-      "duration_ms": 268235,
-      "name": "Worlds Apart",
-      "url": "https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Nefarious",
         "url": "https://open.spotify.com/album/68g2t1UpqqHUPzYJzeGhZt"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 251722,
       "name": "Nefarious",
       "url": "https://open.spotify.com/track/36sawGMYzK5ZMcW0mNtuFr"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "duration_ms": 268235,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/3rjMJ2WhDsDeZtGRDVf5gl"
-      },
-      "artists": [
-        {
-          "name": "Our Mirage",
-          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
-        }
-      ],
-      "duration_ms": 224347,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/2edDAzLyy0m1Yt7LWRad2e"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "A Different Shade Of Misery",
         "url": "https://open.spotify.com/album/0EUw8C9ILegKHE3AzgmLID"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 218742,
       "name": "A Different Shade Of Misery",
       "url": "https://open.spotify.com/track/3DwTUh6jG71oZC2j6wyIOq"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/3rjMJ2WhDsDeZtGRDVf5gl"
+      },
+      "artists": [
+        {
+          "name": "Our Mirage",
+          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
+        }
+      ],
+      "duration_ms": 224347,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/2edDAzLyy0m1Yt7LWRad2e"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Wash It Away",
-        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 214710,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Red Fur",
         "url": "https://open.spotify.com/album/0QouGNBQ8cnRBNBkKXrXgc"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 223685,
       "name": "Cave",
       "url": "https://open.spotify.com/track/5eoPFyNeOVBCqjKjVVcv6o"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Wash It Away",
+        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
+        "name": "Devastator",
+        "url": "https://open.spotify.com/album/3IbiUIMTCPT5I1Cu5Cw0kn"
+      },
+      "artists": [
+        {
+          "name": "The Narrator",
+          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Devastator",
+      "url": "https://open.spotify.com/track/6CrLhXSfLNpfi8D1B2YacS"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
         "name": "The Fullness of My Being",
         "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
       },
@@ -1791,18 +1807,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Devastator",
-        "url": "https://open.spotify.com/album/3IbiUIMTCPT5I1Cu5Cw0kn"
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/7zc8anigDU6aPd6bAOSppC"
       },
       "artists": [
         {
-          "name": "The Narrator",
-          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Devastator",
-      "url": "https://open.spotify.com/track/6CrLhXSfLNpfi8D1B2YacS"
+      "duration_ms": 272659,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/3lSaNqdv9RsJpmI0V4afRQ"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1855,22 +1871,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Future Proof",
-        "url": "https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd"
-      },
-      "artists": [
-        {
-          "name": "Many Eyes",
-          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Future Proof",
-      "url": "https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "No Place",
         "url": "https://open.spotify.com/album/1yeVyimts1V78yYwxLyyPt"
       },
@@ -1891,18 +1891,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Sleepless",
-        "url": "https://open.spotify.com/album/7zc8anigDU6aPd6bAOSppC"
+        "name": "Future Proof",
+        "url": "https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd"
       },
       "artists": [
         {
-          "name": "What Lies Below",
-          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
         }
       ],
-      "duration_ms": 272659,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/3lSaNqdv9RsJpmI0V4afRQ"
+      "duration_ms": 210973,
+      "name": "Future Proof",
+      "url": "https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3"
     },
     {
       "added_at": "2024-06-10 14:54:42",

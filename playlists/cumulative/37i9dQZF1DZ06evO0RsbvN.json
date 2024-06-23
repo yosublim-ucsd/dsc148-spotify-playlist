@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This is Ma Rainey. Track-track unggulan, semuanya dalam satu playlist.",
+  "description": "This is Ma Rainey. The essential tracks, all in one playlist.",
   "name": "This Is Ma Rainey",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 173244,
       "name": "Army Camp Harmony Blues",
       "url": "https://open.spotify.com/track/6LSyNmCX6S2mhLTqi0V8Er"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 198933,
       "name": "Black Eye Blues",
       "url": "https://open.spotify.com/track/0pyIUitbPJ0Yau1DSlMZYc"
@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Midnight Moods September Blues - Ma Rainey's Timeless Tunes",
+        "url": "https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196153,
+      "name": "Cell Bound Blues",
+      "url": "https://open.spotify.com/track/1IcSCQlLdYhcYv0cYGAVBr"
+    },
+    {
+      "album": {
         "name": "The Masters of Blues! (33 Best of Ma Rainey & Kokomo Arnold)",
         "url": "https://open.spotify.com/album/6SxP99PaBwZkvPkkAKiQRW"
       },
@@ -690,7 +708,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 184800,
       "name": "Chain Gang Blues",
       "url": "https://open.spotify.com/track/14SjdOx2HaetXQbkzevjgm"
@@ -726,7 +744,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 200760,
       "name": "Countin' The Blues",
       "url": "https://open.spotify.com/track/7eoG78qWA5DG4ib7O57iZS"
@@ -834,7 +852,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 156573,
       "name": "Damper Down Blues",
       "url": "https://open.spotify.com/track/7fjWYrWm0ufAwVaEvge2aM"
@@ -942,7 +960,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 157760,
       "name": "Down By The Riverside",
       "url": "https://open.spotify.com/track/4g1FheFJBJykPx8ufKpGfv"
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 194638,
       "name": "Explaining the Blues",
       "url": "https://open.spotify.com/track/5IaJtmugF9q7OoCIJg23r0"
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 187133,
       "name": "Hellish Rag",
       "url": "https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb"
@@ -1518,7 +1536,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 162213,
       "name": "Hustlin' Blues",
       "url": "https://open.spotify.com/track/3cx1higVVrg0XLKQCGOxZ9"
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 199400,
       "name": "Jelly Bean Blues",
       "url": "https://open.spotify.com/track/4VvNDjcJTSA4PxeCE7DIlf"
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 189080,
       "name": "Leaving This Morning",
       "url": "https://open.spotify.com/track/6R73IyuMx4cbGXRkEXgHQZ"
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 170413,
       "name": "Lost Wandering Blues",
       "url": "https://open.spotify.com/track/2JAyncenX1OXpHa7Ij6Zd4"
@@ -2040,7 +2058,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 203986,
       "name": "Ma Rainey's Mystery Blues",
       "url": "https://open.spotify.com/track/0KTEMMfYtJKmluofk8WVRa"
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 186506,
       "name": "Moonshine Blues",
       "url": "https://open.spotify.com/track/1b4QvhphZBOr6rqplTXSux"
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 154800,
       "name": "Morning Hour Blues",
       "url": "https://open.spotify.com/track/4M7zDkvqwLGAIGs05AOe5N"
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 157733,
       "name": "Mountain Jack Blues",
       "url": "https://open.spotify.com/track/2TczffyjhN9ZKy1nZMvO6t"
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 146226,
       "name": "Runaway Blues",
       "url": "https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL"
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 157906,
       "name": "Slave To The Blues",
       "url": "https://open.spotify.com/track/0tGs8feVlnuw2HiEITqVZI"
@@ -3030,7 +3048,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 187853,
       "name": "Those All Night Blues",
       "url": "https://open.spotify.com/track/3NWcy10odYa4dR9k1bZt8D"
@@ -3210,7 +3228,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 174707,
       "name": "Travelling Blues: 2",
       "url": "https://open.spotify.com/track/3Dzmsx87ArkZ8nz66EXzgM"
@@ -3354,7 +3372,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 171666,
       "name": "Wringin' And Twistin' Blues",
       "url": "https://open.spotify.com/track/5Fuq4Euqqy7AmyPbJqKiiX"
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 178653,
       "name": "Ya-Da-Do",
       "url": "https://open.spotify.com/track/5rd5VIxBcDMYoPjv5C2emj"

@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 143963,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/33w8uhoFjr7Y9FkzHDf94f"
@@ -3862,7 +3862,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 165920,
       "name": "G\u00e4nsehaut",
       "url": "https://open.spotify.com/track/1oZFgsKtzrqKxwHUjmdROu"
@@ -4838,6 +4838,28 @@
     {
       "album": {
         "name": "Islands (kompa pasi\u00f3n)",
+        "url": "https://open.spotify.com/album/0ZoUKS7k3JfhKbc7T3zjcs"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        },
+        {
+          "name": "Tomo",
+          "url": "https://open.spotify.com/artist/5VPtDTD7IRhJ4N322GNFJj"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126494,
+      "name": "Islands (kompa pasi\u00f3n)",
+      "url": "https://open.spotify.com/track/6LCIDTgSgQtpzXTW5FpW12"
+    },
+    {
+      "album": {
+        "name": "Islands (kompa pasi\u00f3n)",
         "url": "https://open.spotify.com/album/4ZPSYxKeYGWBwnswkAnH3n"
       },
       "artists": [
@@ -5328,7 +5350,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 123809,
       "name": "Klimpa Klimpa",
       "url": "https://open.spotify.com/track/5Mhcs48UfZn7CeNv1wgNyT"
@@ -6192,7 +6214,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 111206,
       "name": "Mach die Augen auf",
       "url": "https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS"
@@ -6258,6 +6280,24 @@
       "duration_ms": 122906,
       "name": "MAGDALENA",
       "url": "https://open.spotify.com/track/5wTDhRWC81LtKuflVzWg6R"
+    },
+    {
+      "album": {
+        "name": "Valedictorian [Deluxe]",
+        "url": "https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137158,
+      "name": "Magic Johnson",
+      "url": "https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5"
     },
     {
       "album": {
@@ -8614,7 +8654,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 235093,
       "name": "Schwarz und Weiss - Radio Edit",
       "url": "https://open.spotify.com/track/3Ogoc8UP1enRI7ySbsn298"
@@ -10040,7 +10080,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 182423,
       "name": "Throw Some Ass",
       "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"

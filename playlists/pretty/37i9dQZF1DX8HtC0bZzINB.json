@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 89143,
+  "num_followers": 89188,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-06-21 15:31:01",
       "album": {
-        "name": "\u00dccra",
-        "url": "https://open.spotify.com/album/4PypqHBUVxAuaApFq9Mbxr"
-      },
-      "artists": [
-        {
-          "name": "Emrah Karakuyu",
-          "url": "https://open.spotify.com/artist/1Kb8Eb6SbHbzUYSqhhDtx5"
-        },
-        {
-          "name": "Contra",
-          "url": "https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "\u00dccra",
-      "url": "https://open.spotify.com/track/77Ny1rmMwjTdRrYmK3Gjzg"
-    },
-    {
-      "added_at": "2024-06-21 15:31:01",
-      "album": {
         "name": "Baby (feat. Murda)",
         "url": "https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 167280,
       "name": "Baby (feat. Murda)",
       "url": "https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU"
+    },
+    {
+      "added_at": "2024-06-21 15:31:01",
+      "album": {
+        "name": "\u00dccra",
+        "url": "https://open.spotify.com/album/4PypqHBUVxAuaApFq9Mbxr"
+      },
+      "artists": [
+        {
+          "name": "Emrah Karakuyu",
+          "url": "https://open.spotify.com/artist/1Kb8Eb6SbHbzUYSqhhDtx5"
+        },
+        {
+          "name": "Contra",
+          "url": "https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "\u00dccra",
+      "url": "https://open.spotify.com/track/77Ny1rmMwjTdRrYmK3Gjzg"
     },
     {
       "added_at": "2024-06-21 15:31:01",

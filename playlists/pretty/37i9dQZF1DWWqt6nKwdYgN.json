@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Eptos Uno en portada. ",
-  "num_followers": 14268,
+  "num_followers": 14273,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-06-21 20:36:50",
       "album": {
+        "name": "Mis Demonios",
+        "url": "https://open.spotify.com/album/5xXtWGBc3x0tqPSgPlmA8B"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Mis Demonios",
+      "url": "https://open.spotify.com/track/2bt4ICyaBAmqjfSjkMcNtx"
+    },
+    {
+      "added_at": "2024-06-21 20:36:50",
+      "album": {
         "name": "T\u00e9 Con Miel",
         "url": "https://open.spotify.com/album/5fK00gfjMpU3hRUsIC9ryP"
       },
@@ -695,18 +711,26 @@
     {
       "added_at": "2024-06-21 20:36:50",
       "album": {
-        "name": "Mis Demonios",
-        "url": "https://open.spotify.com/album/5xXtWGBc3x0tqPSgPlmA8B"
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/5CJGLdMZxYbGuPGxcJzjev"
       },
       "artists": [
         {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Mis Demonios",
-      "url": "https://open.spotify.com/track/2bt4ICyaBAmqjfSjkMcNtx"
+      "duration_ms": 188600,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/1MIJ50wwMXAbnQOtrkU2Cn"
     },
     {
       "added_at": "2024-06-21 20:36:50",
@@ -731,30 +755,6 @@
       "duration_ms": 199997,
       "name": "Millo",
       "url": "https://open.spotify.com/track/24AF2GjSvGI0RRXTTUnE6d"
-    },
-    {
-      "added_at": "2024-06-21 20:36:50",
-      "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/5CJGLdMZxYbGuPGxcJzjev"
-      },
-      "artists": [
-        {
-          "name": "Teeam Revolver",
-          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Cicatrices",
-      "url": "https://open.spotify.com/track/1MIJ50wwMXAbnQOtrkU2Cn"
     },
     {
       "added_at": "2024-06-21 20:36:50",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-06-21 20:36:50",
       "album": {
-        "name": "El Humito",
-        "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "El Humito",
-      "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
-    },
-    {
-      "added_at": "2024-06-21 20:36:50",
-      "album": {
         "name": "Uh La La",
         "url": "https://open.spotify.com/album/4UgDDoaOgvQXiry2wkWMG9"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 182500,
       "name": "Uh La La",
       "url": "https://open.spotify.com/track/0oR442tmn2hgZ5jYycPKO3"
+    },
+    {
+      "added_at": "2024-06-21 20:36:50",
+      "album": {
+        "name": "El Humito",
+        "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "El Humito",
+      "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
     },
     {
       "added_at": "2024-06-21 20:36:50",
@@ -1035,30 +1035,18 @@
     {
       "added_at": "2024-06-21 20:36:50",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/3g278nbiWZi8eHx5iRAxlD"
+        "name": "Voy tranquilo",
+        "url": "https://open.spotify.com/album/2sODnDNsxbIF8snIvBiR8b"
       },
       "artists": [
         {
-          "name": "AMBKOR",
-          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
-        },
-        {
-          "name": "ZPU",
-          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
-        },
-        {
-          "name": "Morodo",
-          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
-        },
-        {
-          "name": "El Santo",
-          "url": "https://open.spotify.com/artist/0X0o5wsXqn6uunus02kGvF"
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
         }
       ],
-      "duration_ms": 285333,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/5JVkOvgb7pvRyIn6bwMxfH"
+      "duration_ms": 142921,
+      "name": "Voy tranquilo",
+      "url": "https://open.spotify.com/track/1YBLxv6oT9SGuxwwmE6w88"
     },
     {
       "added_at": "2024-06-21 20:36:50",
@@ -1095,6 +1083,34 @@
     {
       "added_at": "2024-06-21 20:36:50",
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/3g278nbiWZi8eHx5iRAxlD"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        },
+        {
+          "name": "ZPU",
+          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
+        },
+        {
+          "name": "Morodo",
+          "url": "https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn"
+        },
+        {
+          "name": "El Santo",
+          "url": "https://open.spotify.com/artist/0X0o5wsXqn6uunus02kGvF"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/5JVkOvgb7pvRyIn6bwMxfH"
+    },
+    {
+      "added_at": "2024-06-21 20:36:50",
+      "album": {
         "name": "Constante",
         "url": "https://open.spotify.com/album/193EIfHuOLnYx7Gf9n2I9x"
       },
@@ -1107,42 +1123,6 @@
       "duration_ms": 140000,
       "name": "Constante",
       "url": "https://open.spotify.com/track/150sQBgNOXOYZkMHuDQ0xW"
-    },
-    {
-      "added_at": "2024-06-21 20:36:50",
-      "album": {
-        "name": "Voy tranquilo",
-        "url": "https://open.spotify.com/album/2sODnDNsxbIF8snIvBiR8b"
-      },
-      "artists": [
-        {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
-        }
-      ],
-      "duration_ms": 142921,
-      "name": "Voy tranquilo",
-      "url": "https://open.spotify.com/track/1YBLxv6oT9SGuxwwmE6w88"
-    },
-    {
-      "added_at": "2024-06-21 20:36:50",
-      "album": {
-        "name": "NEZA",
-        "url": "https://open.spotify.com/album/6QryhfUs8EDXS3nw2SPnME"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Kid Frost",
-          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
-        }
-      ],
-      "duration_ms": 167746,
-      "name": "NEZA",
-      "url": "https://open.spotify.com/track/22CAGoeCFwdDQQQkeSUtDO"
     },
     {
       "added_at": "2024-06-21 20:36:50",
@@ -1163,6 +1143,26 @@
       "duration_ms": 150000,
       "name": "EL POINT",
       "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
+    },
+    {
+      "added_at": "2024-06-21 20:36:50",
+      "album": {
+        "name": "NEZA",
+        "url": "https://open.spotify.com/album/6QryhfUs8EDXS3nw2SPnME"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Kid Frost",
+          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "NEZA",
+      "url": "https://open.spotify.com/track/22CAGoeCFwdDQQQkeSUtDO"
     },
     {
       "added_at": "2024-06-21 20:36:50",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-06-21 20:36:50",
       "album": {
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
+      },
+      "artists": [
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 156683,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
+    },
+    {
+      "added_at": "2024-06-21 20:36:50",
+      "album": {
         "name": "Recuerda",
         "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
       },
@@ -1247,18 +1263,26 @@
     {
       "added_at": "2024-06-21 20:36:50",
       "album": {
-        "name": "DUCATI",
-        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
+        "name": "Apartamento 23",
+        "url": "https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet"
       },
       "artists": [
         {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 156683,
-      "name": "DUCATI",
-      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
+      "duration_ms": 229500,
+      "name": "Olvidarme de Ti",
+      "url": "https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH"
     },
     {
       "added_at": "2024-06-21 20:36:50",
@@ -1303,30 +1327,6 @@
       "duration_ms": 303093,
       "name": "Entre Tiburones",
       "url": "https://open.spotify.com/track/0jyxpCE5AzNPeekF9vmkR8"
-    },
-    {
-      "added_at": "2024-06-21 20:36:50",
-      "album": {
-        "name": "Apartamento 23",
-        "url": "https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        },
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Olvidarme de Ti",
-      "url": "https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH"
     },
     {
       "added_at": "2024-06-21 20:36:50",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-06-21 20:36:50",
       "album": {
-        "name": "F\u00e9 De M\u00e1s",
-        "url": "https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx"
-      },
-      "artists": [
-        {
-          "name": "La Potter",
-          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
-        },
-        {
-          "name": "D\u00edmelo Seven",
-          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
-        }
-      ],
-      "duration_ms": 140930,
-      "name": "F\u00e9 De M\u00e1s",
-      "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
-    },
-    {
-      "added_at": "2024-06-21 20:36:50",
-      "album": {
         "name": "La Gangsta",
         "url": "https://open.spotify.com/album/5LinuS1Upb1B51fuUm3v8l"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 312703,
       "name": "La Gangsta",
       "url": "https://open.spotify.com/track/60ptar7MA911kEF6s5AEha"
+    },
+    {
+      "added_at": "2024-06-21 20:36:50",
+      "album": {
+        "name": "F\u00e9 De M\u00e1s",
+        "url": "https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "duration_ms": 140930,
+      "name": "F\u00e9 De M\u00e1s",
+      "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
     },
     {
       "added_at": "2024-06-21 20:36:50",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-06-21 20:36:50",
       "album": {
+        "name": "Easy To Hate",
+        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
+      },
+      "artists": [
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lounge",
+      "url": "https://open.spotify.com/track/0JKhjlnxU2YFkwBW3YSWSv"
+    },
+    {
+      "added_at": "2024-06-21 20:36:50",
+      "album": {
         "name": "Linda como siempre",
         "url": "https://open.spotify.com/album/6ZW8e7vagrNeqwiFcli0CX"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 191977,
       "name": "Linda como siempre",
       "url": "https://open.spotify.com/track/2LhSnFBianHUfisgAgUMh7"
-    },
-    {
-      "added_at": "2024-06-21 20:36:50",
-      "album": {
-        "name": "Easy To Hate",
-        "url": "https://open.spotify.com/album/0ZF33hMiwMqDHu8IadpggZ"
-      },
-      "artists": [
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lounge",
-      "url": "https://open.spotify.com/track/0JKhjlnxU2YFkwBW3YSWSv"
     },
     {
       "added_at": "2024-06-21 20:36:50",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2024-06-21 20:36:50",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        }
-      ],
-      "duration_ms": 186197,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
-    },
-    {
-      "added_at": "2024-06-21 20:36:50",
-      "album": {
         "name": "LA VIDA ES TAN DURA",
         "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 160000,
       "name": "LA VIDA ES TAN DURA",
       "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
+    },
+    {
+      "added_at": "2024-06-21 20:36:50",
+      "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        }
+      ],
+      "duration_ms": 186197,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
     },
     {
       "added_at": "2024-06-21 20:36:50",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2024-06-21 20:36:50",
       "album": {
+        "name": "PERO NAH!",
+        "url": "https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "MARI",
+          "url": "https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "PERO NAH!",
+      "url": "https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq"
+    },
+    {
+      "added_at": "2024-06-21 20:36:50",
+      "album": {
         "name": "Ya Te Solt\u00e9",
         "url": "https://open.spotify.com/album/6pmMIRI9bFpkCWmjLhnM6g"
       },
@@ -1935,46 +1955,6 @@
     {
       "added_at": "2024-06-21 20:36:50",
       "album": {
-        "name": "PERO NAH!",
-        "url": "https://open.spotify.com/album/6cTAjRwKXVfrHvFGFGHlHk"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "MARI",
-          "url": "https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "PERO NAH!",
-      "url": "https://open.spotify.com/track/1XGfXlXEggYgLHPFQIT1Aq"
-    },
-    {
-      "added_at": "2024-06-21 20:36:50",
-      "album": {
-        "name": "Ni\u00f1os",
-        "url": "https://open.spotify.com/album/6eebAfJJZEyLxe2CS770W9"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        }
-      ],
-      "duration_ms": 254186,
-      "name": "Ni\u00f1os",
-      "url": "https://open.spotify.com/track/3VMJCXtKX7bJMqU8PZrE7s"
-    },
-    {
-      "added_at": "2024-06-21 20:36:50",
-      "album": {
         "name": "Hip Hop Sh*t",
         "url": "https://open.spotify.com/album/71D1qHdaXdfmGyvjX3Cr0Y"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 195113,
       "name": "Hip Hop Sh*t",
       "url": "https://open.spotify.com/track/3lQPizdfzljCNbtKfkvOMT"
+    },
+    {
+      "added_at": "2024-06-21 20:36:50",
+      "album": {
+        "name": "Ni\u00f1os",
+        "url": "https://open.spotify.com/album/6eebAfJJZEyLxe2CS770W9"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "duration_ms": 254186,
+      "name": "Ni\u00f1os",
+      "url": "https://open.spotify.com/track/3VMJCXtKX7bJMqU8PZrE7s"
     },
     {
       "added_at": "2024-06-21 20:36:50",

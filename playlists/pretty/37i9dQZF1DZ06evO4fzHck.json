@@ -1,12 +1,12 @@
 {
-  "description": "This is The Cure. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 535215,
+  "description": "This is The Cure. The essential tracks, all in one playlist.",
+  "num_followers": 535399,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAAB/Wkoe9hjgvUWc14j512lJ",
+  "snapshot_id": "ZnTCgAAAAAAEmzrKs26h3n/0AMCGr49u",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Friday I'm In Love",
+      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
     },
     {
       "added_at": null,
@@ -363,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 223760,
       "name": "The End Of The World",
       "url": "https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr"
     },
     {
       "added_at": null,
@@ -459,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
       },
       "artists": [
         {
@@ -468,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 253333,
-      "name": "Charlotte Sometimes - Single Version",
-      "url": "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
+      "duration_ms": 219533,
+      "name": "Primary",
+      "url": "https://open.spotify.com/track/4fnx6Wman02ryvAOqKm6iI"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Primary",
-      "url": "https://open.spotify.com/track/4fnx6Wman02ryvAOqKm6iI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kiss Me, Kiss Me, Kiss Me",
         "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 163600,
       "name": "Catch",
       "url": "https://open.spotify.com/track/3sNALJvZznQrafpRvniDCw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 250653,
+      "name": "Cut Here",
+      "url": "https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 250653,
-      "name": "Cut Here",
-      "url": "https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Top (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disintegration (Remastered)",
-        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 258346,
-      "name": "Closedown - Remastered 2010",
-      "url": "https://open.spotify.com/track/0WVwKob5LPld3ywrxcHJnE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Disintegration (Remastered)",
+        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 258346,
+      "name": "Closedown - Remastered 2010",
+      "url": "https://open.spotify.com/track/0WVwKob5LPld3ywrxcHJnE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pornography",
         "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 399866,
       "name": "One Hundred Years",
       "url": "https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloodflowers",
+        "url": "https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 335746,
+      "name": "The Last Day Of Summer",
+      "url": "https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 213293,
       "name": "Cut - 1990 Demo",
       "url": "https://open.spotify.com/track/0DuagCkRRIggdD2K058KHf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 393986,
-      "name": "Apart",
-      "url": "https://open.spotify.com/track/6g5yxNUBisdqOqBLHeWQFc"
     }
   ],
   "unique_name": "This Is The Cure",

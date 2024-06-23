@@ -4,7 +4,7 @@
 
 > as gigantes da internê
 
-418 songs - 19 hr 43 min
+418 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 | 2022-08-11 | 2023-05-11 |
 | [Tchau Obrigado 2](https://open.spotify.com/track/1rlwNQVWtrM96ufHPHCwLG) | [GS da norte](https://open.spotify.com/artist/7iBTuEdsP0rSiWkYBw5Mhp) | [Tchau Obrigado 2](https://open.spotify.com/album/3MNxprBrLtjrMfMo5XPk2b) | 7:46 | 2023-11-08 | 2023-11-23 |
 | [Te Love \- Ao Vivo](https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Te Love \(Ao Vivo\)](https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX) | 2:49 | 2022-09-19 | 2023-08-04 |
-| [Te Maceto Depois do Baile](https://open.spotify.com/track/3EuPKX0FLhAxfL5hZBlfJe) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [DJ Lafon Do Md](https://open.spotify.com/artist/1zie7wOcoVwPHWLTJyEXG7), [Mc Rf](https://open.spotify.com/artist/21XypSEosIAo1NYqT0UKkc) | [Te Maceto Depois do Baile](https://open.spotify.com/album/3S84WqT6S97NTnegU0gvtg) | 3:19 | 2024-06-06 |  |
+| [Te Maceto Depois do Baile](https://open.spotify.com/track/3EuPKX0FLhAxfL5hZBlfJe) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [DJ Lafon Do Md](https://open.spotify.com/artist/1zie7wOcoVwPHWLTJyEXG7), [Mc Rf](https://open.spotify.com/artist/21XypSEosIAo1NYqT0UKkc) | [Te Maceto Depois do Baile](https://open.spotify.com/album/3S84WqT6S97NTnegU0gvtg) | 3:49 | 2024-06-06 |  |
 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2) | 3:22 | 2022-08-09 | 2023-05-03 |
 | [Tem Cabaré essa Noite](https://open.spotify.com/track/1rJFFWDXrlMS0C5JlbqFbI) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré essa Noite](https://open.spotify.com/album/7i4B4BWHpZlMGWDdtbZ0rs) | 3:22 | 2022-07-20 | 2022-08-10 |
 | [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Andrezin Araújo](https://open.spotify.com/artist/6Z9eUCDtjeQRAp4eZhTztf), [Dj Kevin Oficial](https://open.spotify.com/artist/6ysi6BecWzevAJ3HYaZNMS) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 | 2023-12-13 | 2024-04-20 |

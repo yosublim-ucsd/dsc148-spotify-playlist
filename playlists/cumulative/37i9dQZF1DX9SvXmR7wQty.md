@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: 2Frères
 
-2,629 songs - 5 day 20 hr 7 min
+2,630 songs - 5 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,7 +655,7 @@
 | [Drug Dealin](https://open.spotify.com/track/3cwQfiYlCCsA4TcsbMxYv2) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [Little Bro](https://open.spotify.com/album/69GbVidiLTfUezF80QTcff) | 3:12 | 2022-12-02 | 2023-01-14 |
 | [Drôle de vie](https://open.spotify.com/track/77GNOOPVZy6sepSoMxQg9X) | [Sophie Pelletier](https://open.spotify.com/artist/5uXoTuYyWyAPGj93tZzZH8) | [Drôle de vie](https://open.spotify.com/album/2WNCk8xpDSL8zTIhgFMjPN) | 2:51 | 2022-09-09 | 2022-09-24 |
 | [Du country dans le ravin](https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Ça s'invente pas](https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg) | 2:23 | 2023-10-20 | 2023-10-30 |
-| [Du feu](https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 3:44 | 2024-05-03 |  |
+| [Du feu](https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 3:44 | 2024-05-03 | 2024-06-23 |
 | [Du Pain & des Jeux](https://open.spotify.com/track/5AbazAZJGusnPpnEVFu50g) | [Monk.E](https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Du Pain & des Jeux](https://open.spotify.com/album/75sRAzblfEbQ3Ku31ftSQy) | 3:48 | 2022-04-22 | 2022-05-07 |
 | [Du temps](https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du temps](https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno) | 3:42 | 2023-10-06 | 2023-10-14 |
 | [Dunk On 'Em](https://open.spotify.com/track/0u4Q7fpXtrTAHTPYCKcoIA) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [FIYAH](https://open.spotify.com/album/7LhkTAJ8NTMhMbynv8RQav) | 3:11 | 2023-02-10 | 2023-02-25 |
@@ -1264,6 +1264,7 @@
 | [La promesse](https://open.spotify.com/track/4rirFm1iF6yvXk6SCvKXKV) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du feu dans les lilas](https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V) | 4:53 | 2024-02-09 | 2024-02-17 |
 | [La protagoniste](https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Traits d'union](https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g) | 2:15 | 2023-09-22 | 2023-09-30 |
 | [la punition](https://open.spotify.com/track/2jNg424KCAQH6mRsPbWi0X) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [la punition](https://open.spotify.com/album/5Fg4OgnwkqbsevMEnVBSc8) | 2:57 | 2024-06-14 | 2024-06-22 |
+| [La Raclure](https://open.spotify.com/track/4QK1gqduV0DgTRhZk9Jbts) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La Raclure](https://open.spotify.com/album/7JJAarTZBx60JtTOSczlyU) | 3:02 | 2024-06-21 |  |
 | [La recette](https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [La recette](https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v) | 3:17 | 2022-05-20 | 2022-05-28 |
 | [La Ronde](https://open.spotify.com/track/5mxvBhTdtp8bVxUOg1qjBe) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [La Ronde](https://open.spotify.com/album/44zJbRgjUPe7jlGjXBKUcQ) | 3:40 | 2022-02-04 | 2022-02-19 |
 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 | 2022-03-25 | 2022-04-09 |

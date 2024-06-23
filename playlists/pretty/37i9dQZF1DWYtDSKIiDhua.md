@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover:  NYK
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,282 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,320 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 16 | [Lesson](https://open.spotify.com/track/2UOoRwTcpECejzbSg8QSLD) | [Tiana Kocher](https://open.spotify.com/artist/0aQl6dYFpdEuGuRVzcUBE6) | [Lesson](https://open.spotify.com/album/0W71AvEp7lYajSIngkxNno) | 3:19 |
 | 17 | [Super\-dandelion](https://open.spotify.com/track/2DZamyk2e20VPrD8IOU5aY) | [CHUROSE](https://open.spotify.com/artist/4y9Jhm3jRfDCgGJ3kgyGDp) | [Super\-dandelion](https://open.spotify.com/album/32ejvGq6amnYYNOTKtuj9b) | 3:31 |
 | 18 | [In Love With A Stranger \(Remake\)](https://open.spotify.com/track/1UDSrM6Aok7nFeFal7EBpa) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [In Love With A Stranger \(Remake\)](https://open.spotify.com/album/3XuN7gq843sayU9PbM7ROv) | 2:43 |
-| 19 | [easy on me](https://open.spotify.com/track/0i4dOFMCie6lHFgZ7xsSCS) | [Marae](https://open.spotify.com/artist/62qOxFGCzLdnKhNsx6vnhw) | [easy on me](https://open.spotify.com/album/4jZmQ4S3AATkH6jWhp1o8P) | 2:36 |
+| 19 | [easy on me](https://open.spotify.com/track/0i4dOFMCie6lHFgZ7xsSCS) | [Marae](https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI) | [easy on me](https://open.spotify.com/album/4jZmQ4S3AATkH6jWhp1o8P) | 2:36 |
 | 20 | [SECLUDED](https://open.spotify.com/track/0H5xiAXFONl7NxRPWkpoQ4) | [zekke](https://open.spotify.com/artist/2tc63PQNdNFqJb2caym6IZ) | [SECLUDED](https://open.spotify.com/album/4nbAX9IwbEnlDt9yvdzezi) | 2:56 |
 | 21 | [piece of mind](https://open.spotify.com/track/22GeaRbTM6J9MZLA9TqDx0) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [piece of mind](https://open.spotify.com/album/6FiYjPbvIHjKo0pWLn8tt6) | 3:01 |
 | 22 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 |

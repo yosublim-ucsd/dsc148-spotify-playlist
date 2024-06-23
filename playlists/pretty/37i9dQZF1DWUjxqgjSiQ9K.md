@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:2ayNSoKPCRAfjp6hQ76hRu">Nacho</a>, <a href="spotify:artist:0WI8OfWCRvK4nGHmKfFQmd">Alex Zurdo</a> , y <a href="spotify:artist:0WZOmdnCln6FK6GM9e2tGm">Redimi2</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,445 likes - 98 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,544 likes - 98 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

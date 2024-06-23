@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 219865,
+  "num_followers": 220164,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAADKNxlzjsCm4Pf7ashvxPaS",
+  "snapshot_id": "ZnTCgAAAAAB+y0VLn2Bs48Wf5ddCtHn3",
   "tracks": [
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trailer In The Sky",
-        "url": "https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9"
-      },
-      "artists": [
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Trailer In The Sky",
-      "url": "https://open.spotify.com/track/0L0JLgaFwuPhCs7W9CzwRb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waylon & Willie III",
         "url": "https://open.spotify.com/album/138S8GterIlZRtIQCzMeml"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 191024,
       "name": "Outlaw Classics",
       "url": "https://open.spotify.com/track/3MZI08IlR1CnfxJLMkm5rg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trailer In The Sky",
+        "url": "https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9"
+      },
+      "artists": [
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Trailer In The Sky",
+      "url": "https://open.spotify.com/track/0L0JLgaFwuPhCs7W9CzwRb"
     },
     {
       "added_at": null,

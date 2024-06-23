@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 17631,
+  "num_followers": 17643,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Atitude",
-        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
-      },
-      "artists": [
-        {
-          "name": "RUBY",
-          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
-        },
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 185741,
-      "name": "Brinca Comigo",
-      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "T\u00f4 Aqui de Novo",
         "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 215572,
       "name": "T\u00f4 Aqui de Novo",
       "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "Atitude",
+        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
+      },
+      "artists": [
+        {
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 185741,
+      "name": "Brinca Comigo",
+      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -779,6 +779,26 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
+        "name": "Arrepios",
+        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
         "name": "Me Diz",
         "url": "https://open.spotify.com/album/78VjVSVMCI9QXjb0I3XxQP"
       },
@@ -803,22 +823,26 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Arrepios",
-        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
+        "name": "Sossega (Nada Mal)",
+        "url": "https://open.spotify.com/album/0eCs8F3tpB4sKdWJ9vHXQt"
       },
       "artists": [
         {
-          "name": "Salah",
-          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+          "name": "Thalia Abdon",
+          "url": "https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05"
         },
         {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Peninha'",
+          "url": "https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Arrepios",
-      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
+      "duration_ms": 201600,
+      "name": "Sossega (Nada mal)",
+      "url": "https://open.spotify.com/track/6mvy9xtCF374eRvxeY6C0d"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -987,26 +1011,18 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Sossega (Nada Mal)",
-        "url": "https://open.spotify.com/album/0eCs8F3tpB4sKdWJ9vHXQt"
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/3KfcQkrlCWy2J1hW3q1Aoj"
       },
       "artists": [
         {
-          "name": "Thalia Abdon",
-          "url": "https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05"
-        },
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Peninha'",
-          "url": "https://open.spotify.com/artist/02e9lRqB5AyDxWiLhakLu7"
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Sossega (Nada mal)",
-      "url": "https://open.spotify.com/track/6mvy9xtCF374eRvxeY6C0d"
+      "duration_ms": 142909,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/3h7IAT8VPtfrn0o7SeCEy6"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -1027,22 +1043,6 @@
       "duration_ms": 216000,
       "name": "Proveito",
       "url": "https://open.spotify.com/track/2Q7d9bsJArH3ecLOBd6Axs"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/3KfcQkrlCWy2J1hW3q1Aoj"
-      },
-      "artists": [
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        }
-      ],
-      "duration_ms": 142909,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/3h7IAT8VPtfrn0o7SeCEy6"
     },
     {
       "added_at": "2024-06-21 03:01:00",

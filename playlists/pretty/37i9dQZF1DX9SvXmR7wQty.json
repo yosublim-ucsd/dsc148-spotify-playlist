@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: 2Fr\u00e8res",
-  "num_followers": 41092,
+  "num_followers": 41097,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Quill\u00e9",
-        "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
+        "name": "Tout g\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
       },
       "artists": [
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 180107,
-      "name": "Quill\u00e9",
-      "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
+      "duration_ms": 150029,
+      "name": "Tout g\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -363,18 +359,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Tout g\u00e2ch\u00e9",
-        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
+        "name": "Quill\u00e9",
+        "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
       },
       "artists": [
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 150029,
-      "name": "Tout g\u00e2ch\u00e9",
-      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
+      "duration_ms": 180107,
+      "name": "Quill\u00e9",
+      "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Galbi",
-        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Galbi",
-      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "C\u0152UR DE ICE",
         "url": "https://open.spotify.com/album/16q1SBIfIoTnp6jxlRugUe"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 204080,
       "name": "C\u0152UR DE ICE",
       "url": "https://open.spotify.com/track/1KPuYzyP2wKwFXQEF1voqj"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Chaque seconde",
+        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Chaque seconde",
+      "url": "https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "PAF",
         "url": "https://open.spotify.com/album/6pgypgF6c5yIrfmQ099g8x"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Chaque seconde",
-        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Chaque seconde",
-      "url": "https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "DLPDA",
         "url": "https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 170946,
       "name": "YOMB",
       "url": "https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Imad",
-        "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
-      },
-      "artists": [
-        {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "Si \u00e7a va",
-      "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -747,22 +731,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Allo",
-        "url": "https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD"
+        "name": "Imad",
+        "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
       },
       "artists": [
         {
-          "name": "Youka",
-          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
-        },
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
         }
       ],
-      "duration_ms": 136788,
-      "name": "Allo",
-      "url": "https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj"
+      "duration_ms": 184680,
+      "name": "Si \u00e7a va",
+      "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -783,6 +763,26 @@
       "duration_ms": 161666,
       "name": "Shayo",
       "url": "https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 136788,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "La Raclure",
+        "url": "https://open.spotify.com/album/7JJAarTZBx60JtTOSczlyU"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "La Raclure",
+      "url": "https://open.spotify.com/track/4QK1gqduV0DgTRhZk9Jbts"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "RECOMMENCE-MOI",
         "url": "https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu"
       },
@@ -883,26 +899,6 @@
       "duration_ms": 272413,
       "name": "La Diff\u00e9rence",
       "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Page blanche",
-        "url": "https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN"
-      },
-      "artists": [
-        {
-          "name": "Eva",
-          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "Du feu",
-      "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

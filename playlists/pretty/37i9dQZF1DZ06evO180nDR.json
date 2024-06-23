@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Dareyes De La Sierra. Los temas esenciales, todos en una lista.",
-  "num_followers": 28363,
+  "description": "This is Los Dareyes De La Sierra. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
+  "num_followers": 28395,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAAByWQhBy5XzO5ULPInzQxHE",
+  "snapshot_id": "ZnTCgAAAAABcWFJNqzD4Qx3xDnDgtt8b",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Benjamines",
+        "url": "https://open.spotify.com/album/0VEaLh5tBoho0M6BlbGUIa"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 166284,
+      "name": "Los Benjamines",
+      "url": "https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F\u00e1cil Criticar (En Vivo)",
         "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 194253,
       "name": "F\u00e1cil Criticar - En Vivo",
       "url": "https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Benjamines",
-        "url": "https://open.spotify.com/album/0VEaLh5tBoho0M6BlbGUIa"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 166284,
-      "name": "Los Benjamines",
-      "url": "https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b"
     },
     {
       "added_at": null,
@@ -567,38 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00c1guila Real",
-        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "El \u00c1guila Real (Nave 727)",
-      "url": "https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 189240,
-      "name": "Que Te Entregues Hoy",
-      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "C ARMO",
         "url": "https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g"
       },
@@ -619,6 +587,38 @@
       "duration_ms": 182500,
       "name": "C ARMO",
       "url": "https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 189240,
+      "name": "Que Te Entregues Hoy",
+      "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El \u00c1guila Real",
+        "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "El \u00c1guila Real (Nave 727)",
+      "url": "https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK"
     },
     {
       "added_at": null,

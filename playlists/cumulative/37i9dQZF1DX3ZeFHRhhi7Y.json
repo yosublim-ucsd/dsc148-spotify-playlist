@@ -6886,7 +6886,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 213426,
       "name": "RUN2U",
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
@@ -9482,6 +9482,24 @@
       "duration_ms": 190859,
       "name": "Zimzalabim",
       "url": "https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB"
+    },
+    {
+      "album": {
+        "name": "ZOMBIE",
+        "url": "https://open.spotify.com/album/6vGrWJmYXU9VqiqpOwPJ2r"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198853,
+      "name": "ZOMBIE",
+      "url": "https://open.spotify.com/track/57RkVmnj3b1FUJoUdkSuZD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 31420,
+  "num_followers": 31423,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Desire (Jersey Club Remix)",
         "url": "https://open.spotify.com/album/0yDIsqT5Om4waEGlHYeTKY"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 139130,
       "name": "Desire - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1ILih0tnJMvkggPP2879Bg"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Spence Lee",
-          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Nights Into Mornings EP",
+        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Zfrek",
+          "url": "https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "Shake My Ass",
+      "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Squad Up",
         "url": "https://open.spotify.com/album/1S2JXFkTAuO1OYBF1uvwvj"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 166285,
       "name": "Squad Up",
       "url": "https://open.spotify.com/track/1MNSnH2vMRV12gDZTGwFNN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Nights Into Mornings EP",
-        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
-      },
-      "artists": [
-        {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "Zfrek",
-          "url": "https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "Shake My Ass",
-      "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "We from Baltimore",
+        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
+      },
+      "artists": [
+        {
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Charles",
+          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
+        }
+      ],
+      "duration_ms": 131391,
+      "name": "Bitch We from Baltimore",
+      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Rhythm Chronicles",
         "url": "https://open.spotify.com/album/7ou6gSn7Qh5osmu10HHhT7"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 176572,
       "name": "Lonely in Tokyo - Bianca Oblivion Club Remix",
       "url": "https://open.spotify.com/track/4nFTdm00nqHN0TKT39QnsE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "We from Baltimore",
-        "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
-      },
-      "artists": [
-        {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "Charles",
-          "url": "https://open.spotify.com/artist/4vo52QgWlbFrUbKoh2uXk3"
-        }
-      ],
-      "duration_ms": 131391,
-      "name": "Bitch We from Baltimore",
-      "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "INTO THE COCOON",
+        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
+      },
+      "artists": [
+        {
+          "name": "THE BLVCK BUTTAFLY",
+          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "BALTIMORE",
+      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Blessed More Blessed (Dance Remixes)",
         "url": "https://open.spotify.com/album/1hGXMvwkZUCtD74eVowCMk"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "INTO THE COCOON",
-        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
-      },
-      "artists": [
-        {
-          "name": "THE BLVCK BUTTAFLY",
-          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "BALTIMORE",
-      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "The Floor Is Ours",
         "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
       },
@@ -1395,38 +1395,6 @@
       "duration_ms": 209090,
       "name": "The Floor Is Ours",
       "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Wash Yo Handz",
-        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
-      },
-      "artists": [
-        {
-          "name": "DJ Class",
-          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
-        }
-      ],
-      "duration_ms": 118282,
-      "name": "Wash Yo Handz",
-      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Sub Zero",
-        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
-      },
-      "artists": [
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1455,22 +1423,34 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Money Mouth",
-        "url": "https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o"
+        "name": "Sub Zero",
+        "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
       },
       "artists": [
         {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
         }
       ],
-      "duration_ms": 129348,
-      "name": "Money Mouth",
-      "url": "https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd"
+      "duration_ms": 206093,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/46QjkOGT7m4O6Hiy4v7IQP"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Wash Yo Handz",
+        "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
+      },
+      "artists": [
+        {
+          "name": "DJ Class",
+          "url": "https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507"
+        }
+      ],
+      "duration_ms": 118282,
+      "name": "Wash Yo Handz",
+      "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1491,6 +1471,26 @@
       "duration_ms": 178872,
       "name": "Get Freaky",
       "url": "https://open.spotify.com/track/5gugAjAxDTPulzcCfDUu3c"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Money Mouth",
+        "url": "https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 129348,
+      "name": "Money Mouth",
+      "url": "https://open.spotify.com/track/0G6rvTge4OQ8DYaOntvqFd"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1599,6 +1599,30 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC"
+      },
+      "artists": [
+        {
+          "name": "Gianni Lee",
+          "url": "https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20"
+        },
+        {
+          "name": "Tunji Ige",
+          "url": "https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju"
+        },
+        {
+          "name": "Andrea Valle",
+          "url": "https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "BADBOI",
         "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
       },
@@ -1635,50 +1659,6 @@
       "duration_ms": 202439,
       "name": "Ga$ton Rasta",
       "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Switch",
-        "url": "https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC"
-      },
-      "artists": [
-        {
-          "name": "Gianni Lee",
-          "url": "https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20"
-        },
-        {
-          "name": "Tunji Ige",
-          "url": "https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju"
-        },
-        {
-          "name": "Andrea Valle",
-          "url": "https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Switch",
-      "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "De Todo Se Aprende (Remix)",
-        "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
-      },
-      "artists": [
-        {
-          "name": "G.Zamora",
-          "url": "https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F"
-        },
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 361500,
-      "name": "De Todo Se Aprende - Yamil Remix",
-      "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1723,6 +1703,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "De Todo Se Aprende (Remix)",
+        "url": "https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ"
+      },
+      "artists": [
+        {
+          "name": "G.Zamora",
+          "url": "https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F"
+        },
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 361500,
+      "name": "De Todo Se Aprende - Yamil Remix",
+      "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/7umROuCtAPm20KzC8PW6m5"
       },
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Let Me Catch My Breath (Baltimega Remix)",
-        "url": "https://open.spotify.com/album/318sp40nw0rYQapfTwUz0Z"
-      },
-      "artists": [
-        {
-          "name": "DJ Phinesse",
-          "url": "https://open.spotify.com/artist/1kKYhBkBmPwu2Yj8LVbyM3"
-        },
-        {
-          "name": "Baltimega",
-          "url": "https://open.spotify.com/artist/2rMchIS8V6g5z0YP6UAlwh"
-        }
-      ],
-      "duration_ms": 209076,
-      "name": "Let Me Catch My Breath - Baltimega Remix",
-      "url": "https://open.spotify.com/track/31szi24yMz41kl2oz87mlW"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Bedroom DJ Remixes",
         "url": "https://open.spotify.com/album/4dlycoHbcrvJS5nLvUf2fS"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 168827,
       "name": "Bedroom DJ - So Drove's Reefer Mix",
       "url": "https://open.spotify.com/track/6RqVgeyPhiV42dtTYSGzQT"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Let Me Catch My Breath (Baltimega Remix)",
+        "url": "https://open.spotify.com/album/318sp40nw0rYQapfTwUz0Z"
+      },
+      "artists": [
+        {
+          "name": "DJ Phinesse",
+          "url": "https://open.spotify.com/artist/1kKYhBkBmPwu2Yj8LVbyM3"
+        },
+        {
+          "name": "Baltimega",
+          "url": "https://open.spotify.com/artist/2rMchIS8V6g5z0YP6UAlwh"
+        }
+      ],
+      "duration_ms": 209076,
+      "name": "Let Me Catch My Breath - Baltimega Remix",
+      "url": "https://open.spotify.com/track/31szi24yMz41kl2oz87mlW"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Holding It Together",
-        "url": "https://open.spotify.com/album/5XKhfINdaG84OaXHmQKCVS"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Sunny Cowell",
-          "url": "https://open.spotify.com/artist/5Vx8yHZLeIngcgEJH65uGF"
-        }
-      ],
-      "duration_ms": 243720,
-      "name": "Holding It Together",
-      "url": "https://open.spotify.com/track/2I86S8Clb865nD6VTiMq6n"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Nothing Else",
         "url": "https://open.spotify.com/album/6XReRYAylbP5hECgFIAC8A"
       },
@@ -1919,6 +1899,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Holding It Together",
+        "url": "https://open.spotify.com/album/5XKhfINdaG84OaXHmQKCVS"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Sunny Cowell",
+          "url": "https://open.spotify.com/artist/5Vx8yHZLeIngcgEJH65uGF"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "Holding It Together",
+      "url": "https://open.spotify.com/track/2I86S8Clb865nD6VTiMq6n"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Beat It",
         "url": "https://open.spotify.com/album/2UtT9FpmI9msvUab9DQIUg"
       },
@@ -1935,22 +1935,6 @@
       "duration_ms": 184529,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/4wbOo8y5y3C96cXLZaSbER"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "I Said",
-        "url": "https://open.spotify.com/album/3dRwrDrZAVZuUnPQ0mZCde"
-      },
-      "artists": [
-        {
-          "name": "Kade Young",
-          "url": "https://open.spotify.com/artist/0HuyMTJ3Nd3JQsOfDrGYVT"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "I Said",
-      "url": "https://open.spotify.com/track/4Memi5MoLKZVCELuMCa3ku"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1975,6 +1959,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "I Said",
+        "url": "https://open.spotify.com/album/3dRwrDrZAVZuUnPQ0mZCde"
+      },
+      "artists": [
+        {
+          "name": "Kade Young",
+          "url": "https://open.spotify.com/artist/0HuyMTJ3Nd3JQsOfDrGYVT"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "I Said",
+      "url": "https://open.spotify.com/track/4Memi5MoLKZVCELuMCa3ku"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "DELETE",
         "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
       },
@@ -1987,26 +1987,6 @@
       "duration_ms": 376888,
       "name": "DELETE",
       "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Dapper Dan Midas",
-          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
-        }
-      ],
-      "duration_ms": 189518,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2043,6 +2023,30 @@
       "duration_ms": 143571,
       "name": "Bustin' At Em'",
       "url": "https://open.spotify.com/track/3vIvmbcfvC9ByPrpvTrSZq"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Progression",
+        "url": "https://open.spotify.com/album/66GgLiC3TRHQrXKj6suhq2"
+      },
+      "artists": [
+        {
+          "name": "Twinny Twin",
+          "url": "https://open.spotify.com/artist/7w2gMJn1yZ8R7aUvNFbPGF"
+        },
+        {
+          "name": "Caesar Corleone",
+          "url": "https://open.spotify.com/artist/5EH9ReV7qP0a0EG1VLEtSb"
+        },
+        {
+          "name": "Cardi Ice",
+          "url": "https://open.spotify.com/artist/0XBwyY2qsWPdNihked3RAD"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Progression",
+      "url": "https://open.spotify.com/track/4pnDR3Dbsn19PE7VRbI4ed"
     }
   ],
   "unique_name": "Global Club Music",

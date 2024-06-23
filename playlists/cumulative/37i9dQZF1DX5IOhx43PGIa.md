@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\.  Cover: Raveena.
 
-824 songs - 1 day 18 hr 33 min
+825 songs - 1 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [I Like U Looking At Me](https://open.spotify.com/track/1hLAuD1gxuAkUSXgeo4mRd) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [I Like U Looking At Me](https://open.spotify.com/album/6DVi6pH3O6hMN13HLa10PV) | 3:03 | 2024-03-15 | 2024-04-27 |
 | [I Miss My Friends \(feat\. Phum Viphurit\)](https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [I Miss My Friends \(feat\. Phum Viphurit\)](https://open.spotify.com/album/33HFtu7PiE4xTeV3FFGoOD) | 3:43 | 2022-11-11 | 2023-11-01 |
 | [I say bye](https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [I say bye](https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ) | 3:00 | 2023-09-22 | 2024-05-11 |
-| [I Think I Kinda Like You!](https://open.spotify.com/track/579mWIafpRjhwpROYru3je) | [Super Smack](https://open.spotify.com/artist/1McL0pyMKraMJ7i9lsrthE), [AJ Rafael](https://open.spotify.com/artist/4zrB9WV6Z0iKKnGb1Pj0P2), [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL), [Elise Go](https://open.spotify.com/artist/10WKdxJA3zaB9Y5XWDZNu2), [Miko Shudo](https://open.spotify.com/artist/46qUbkFKVuVOUYB5FVaLOn) | [I Think I Kinda Like You!](https://open.spotify.com/album/2mIE3Vc41N9SsbPORv1UJd) | 2:20 | 2024-02-23 |  |
+| [I Think I Kinda Like You!](https://open.spotify.com/track/579mWIafpRjhwpROYru3je) | [Super Smack](https://open.spotify.com/artist/1McL0pyMKraMJ7i9lsrthE), [AJ Rafael](https://open.spotify.com/artist/4zrB9WV6Z0iKKnGb1Pj0P2), [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL), [Elise Go](https://open.spotify.com/artist/10WKdxJA3zaB9Y5XWDZNu2), [Miko Shudo](https://open.spotify.com/artist/46qUbkFKVuVOUYB5FVaLOn) | [I Think I Kinda Like You!](https://open.spotify.com/album/2mIE3Vc41N9SsbPORv1UJd) | 2:20 | 2024-02-23 | 2024-06-23 |
 | [I Wish I Didn't Love You](https://open.spotify.com/track/6JuD8oygJeA3kfUH7BqXZg) | [Ashley Mehta](https://open.spotify.com/artist/0SkdOD7lcoBZaLOh2dsMsA) | [I Wish I Didn't Love You](https://open.spotify.com/album/106vwzEKRQeu6OqP7KOk2p) | 3:09 | 2023-03-10 | 2023-08-26 |
 | [i'm having a hard time being myself](https://open.spotify.com/track/0SWaiAaopRPU4waN2GO9lZ) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU) | [i'm having a hard time being myself](https://open.spotify.com/album/3NdGDRYfBGATp0dKub8B09) | 2:56 | 2022-05-27 | 2022-12-30 |
 | [I'm Not Crying](https://open.spotify.com/track/1aHHY8YfeH2tepf185bzF7) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [I'm Not Crying](https://open.spotify.com/album/2uUnItlwyHkVGL7INYvinp) | 2:29 | 2023-05-12 | 2023-08-27 |
@@ -540,6 +540,7 @@
 | [PARTY W OUT ME](https://open.spotify.com/track/1y5pHb1686VfUAjaypoYG4) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [PARTY W OUT ME](https://open.spotify.com/album/3QjPIxdyzpOXHbuE0RE8BO) | 2:29 | 2022-07-01 | 2022-07-29 |
 | [PARTY W OUT ME](https://open.spotify.com/track/61fqBmhT61WSBuubgppM2N) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [PARTY W OUT ME](https://open.spotify.com/album/4EGdv4lT6qgnEEDL7FZSu7) | 2:29 | 2022-08-05 | 2022-10-22 |
 | [Passed Me By](https://open.spotify.com/track/2nVxL1B523h70Gign7W2Le) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Passed Me By](https://open.spotify.com/album/3XXKD7oise1AekkRWE9aRu) | 4:03 | 2023-04-07 | 2023-06-13 |
+| [Peace Of Mind](https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Blue Jeans](https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR) | 3:09 | 2024-06-21 |  |
 | [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 | 2023-08-04 | 2024-06-01 |
 | [people i love \(hurt me\)](https://open.spotify.com/track/2GqbmGCGPEpkM0x2QAwhsh) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [people i love \(hurt me\)](https://open.spotify.com/album/02UqfJY6ZbmmSzoSdHRRRq) | 2:44 | 2022-05-27 | 2022-07-29 |
 | [Petals on the Moon](https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Petals on the Moon](https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs) | 4:16 | 2023-08-11 | 2023-11-18 |

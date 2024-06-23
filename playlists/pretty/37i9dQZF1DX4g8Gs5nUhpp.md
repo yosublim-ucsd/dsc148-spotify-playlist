@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Vũ Cát Tường
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Charmy Pham
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,933 likes - 55 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,944 likes - 55 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 54 | [Dành Hết Xuân Thì Để Chờ Nhau](https://open.spotify.com/track/2ddbldKhKrYvOBbYa87cbj) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [Hà Anh Tuấn](https://open.spotify.com/artist/3FwYnbtGNt8hJfjNuOfpeG) | [Dành Hết Xuân Thì Để Chờ Nhau](https://open.spotify.com/album/2VRIiuSSYKQbmaPqSaRqTc) | 4:48 |
 | 55 | [nhạt\-fine](https://open.spotify.com/track/10AZ3ChoIGMxvcCoFsoFjf) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [nhạt\-fine](https://open.spotify.com/album/7KmkBn6FI2QOe471OvwIPR) | 3:31 |
 
-Snapshot ID: `ZnQ84gAAAABzayBxzJJVbV/ZQ3H9xLAC`
+Snapshot ID: `ZnZA7QAAAAB0JSIPiWtIOIQzlUCMgZrE`

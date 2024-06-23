@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-956 songs - 2 day 10 hr 51 min
+957 songs - 2 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Come to Life](https://open.spotify.com/track/5xvXeuxISyXJDRbZZf4uzd) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:10 | 2024-02-13 |  |
 | [Coming of Age](https://open.spotify.com/track/6RqMj4DU5lFygMPeJip6ln) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Change the Show](https://open.spotify.com/album/0dI32Mcr4eYerUWYWEuB28) | 3:46 | 2022-02-07 |  |
 | [Common Ground](https://open.spotify.com/track/2OZfJcpzSFApBxUA0gXuJz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:40 | 2023-04-28 |  |
+| [Constant Picnic](https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 3:29 | 2024-06-23 |  |
 | [Conversations with my Wife](https://open.spotify.com/track/1EAZ0APxPiVuzDb7R5TfVI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 3:26 | 2023-12-07 |  |
 | [Conversations with my Wife \- Acoustic](https://open.spotify.com/track/0EvkKZkNeH8Ss87xH7Z0iM) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Conversations with my Wife \(Acoustic\)](https://open.spotify.com/album/4mJEklBcEfzHPiH54Ba8NZ) | 3:54 | 2023-12-07 |  |
 | [Corduroy](https://open.spotify.com/track/0t5MrCPX2y4pIeCxw5yY6t) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 3:14 | 2023-11-30 |  |

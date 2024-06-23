@@ -9473,6 +9473,24 @@
     },
     {
       "album": {
+        "name": "em b\u00e9 m\u1ea7m",
+        "url": "https://open.spotify.com/album/6N4kSUoF7K7moyWFGZuG9n"
+      },
+      "artists": [
+        {
+          "name": "Minstu",
+          "url": "https://open.spotify.com/artist/56oxFM7GQ14Z02IwpAx1lw"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189528,
+      "name": "em b\u00e9 m\u1ea7m",
+      "url": "https://open.spotify.com/track/6o1hMXvoBOMdwpSgav24c3"
+    },
+    {
+      "album": {
         "name": "Em Ch\u1eb3ng T\u00ecm Th\u1ea5y \u0110\u00e2u",
         "url": "https://open.spotify.com/album/6QCiBQt5Gys1Gs2bTDa5OL"
       },
@@ -13226,7 +13244,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-23",
       "duration_ms": 255319,
       "name": "H\u1ee8A CHO VUI TH\u00d4I",
       "url": "https://open.spotify.com/track/5RiBeTz0vDYwC2xgjCmxnt"

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 8935,
+  "num_followers": 8944,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnNxAAAAAAAkRyRfTwrFdHox9ORfe2lo",
+  "snapshot_id": "ZnTCgAAAAAAe1YvdP7Iv8Qm5yZ9Shhd/",
   "tracks": [
     {
       "added_at": null,
@@ -607,30 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5rPUr8CQYik6Qxi3Rr8VFN"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 124236,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/20Bue8isWFXYXjxVcLKJZH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set Ajc",
         "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
       },
@@ -687,6 +663,30 @@
       "duration_ms": 179824,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5rPUr8CQYik6Qxi3Rr8VFN"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 124236,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/20Bue8isWFXYXjxVcLKJZH"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 124546,
-      "name": "Foi S\u00f3 Eu Te Deixar",
-      "url": "https://open.spotify.com/track/3G5iHgGJqWAKRi60HT0pHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donas do Jogo 2",
         "url": "https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 197340,
       "name": "Donas do Jogo 2",
       "url": "https://open.spotify.com/track/2U9UpFV2WEjoAs9TqEb2ah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 124546,
+      "name": "Foi S\u00f3 Eu Te Deixar",
+      "url": "https://open.spotify.com/track/3G5iHgGJqWAKRi60HT0pHG"
     },
     {
       "added_at": null,
@@ -1055,6 +1055,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "First",
+        "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "First",
+      "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tipo Anitta",
         "url": "https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 151232,
       "name": "Tipo Anitta",
       "url": "https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First",
-        "url": "https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "First",
-      "url": "https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA"
     },
     {
       "added_at": null,
@@ -1259,22 +1259,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Linha Torta",
-        "url": "https://open.spotify.com/album/3KrYvhcB19xsyDusw9UiJI"
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX"
       },
       "artists": [
         {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
         },
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Su Madre Mandrake",
+          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
         }
       ],
-      "duration_ms": 128242,
-      "name": "Linha Torta",
-      "url": "https://open.spotify.com/track/3Ifz1x4eWUlPArtAPeog8w"
+      "duration_ms": 246965,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
     }
   ],
   "unique_name": "This Is Mc Luanna",
