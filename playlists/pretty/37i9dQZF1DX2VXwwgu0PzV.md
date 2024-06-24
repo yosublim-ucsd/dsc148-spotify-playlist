@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:   <a href=https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=L\_\-49UC4RDGEorulPSll\_g>Naffymar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,358 likes - 115 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,388 likes - 115 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

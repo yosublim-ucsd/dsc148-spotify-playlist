@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Dricka com Arca, Lauana Prado com Zé Neto & Cristiano e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,917,565 likes - 72 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,917,675 likes - 72 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 57 | [Lights](https://open.spotify.com/track/1eDmbxoNF80TSki1uUJ4cn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Lights](https://open.spotify.com/album/1E4C3qoHeDd6FIfqs3vImr) | 3:53 |
 | 58 | [Wait](https://open.spotify.com/track/3g7QrkxytGxHue8BQE2zK2) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Wait](https://open.spotify.com/album/6o3vNyPtF8yDAhlnrwKJ6v) | 2:40 |
 | 59 | [Pu$$y](https://open.spotify.com/track/2qAXoc9JhzEhlZDuNUHAKO) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Pu$$y](https://open.spotify.com/album/0Mt2AQHo4r4LfWw7PCmHZo) | 2:38 |
-| 60 | [Mano Vivendo Igual Boy](https://open.spotify.com/track/5ICELaIuFc3NgalhMWHTZO) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH) | [Mano Vivendo Igual Boy](https://open.spotify.com/album/5JVTUDKuBG9dlZpTuozqsk) | 3:47 |
+| 60 | [Mano Vivendo Igual Boy](https://open.spotify.com/track/5ICELaIuFc3NgalhMWHTZO) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4), [22Carter](https://open.spotify.com/artist/24sb2kORK0YNkpoUxnBuC3) | [Mano Vivendo Igual Boy](https://open.spotify.com/album/5JVTUDKuBG9dlZpTuozqsk) | 3:47 |
 | 61 | [Prazo](https://open.spotify.com/track/2almmbU8ugnn7v18iNMyeI) | [OGBEATZZ](https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [c4](https://open.spotify.com/artist/52IfKVHb6UVghCxOoKhYxw), [Gubeatz](https://open.spotify.com/artist/3onpHCaIChS7saQn7fYncx) | [Prazo](https://open.spotify.com/album/24ykHt9mLGgeS1e4fkwEvL) | 2:40 |
 | 62 | [Guerra de Ego](https://open.spotify.com/track/6b65ALxPcGEEozmTTjyhpq) | [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [O Lado Bom do Homem Mau](https://open.spotify.com/album/0Gl7QJiBqjNsnogLP5yuLb) | 2:12 |
 | 63 | [CONFESSO](https://open.spotify.com/track/4uexfxiXP7F6JxPnnSMJr2) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [CONFESSO](https://open.spotify.com/album/3uzt0Bvc6SS3UaMhRdaHKg) | 3:10 |

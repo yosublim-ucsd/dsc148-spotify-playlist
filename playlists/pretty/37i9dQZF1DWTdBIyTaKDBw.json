@@ -1,6 +1,6 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 16,
+  "num_followers": 43,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
+        "name": "I made",
+        "url": "https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 220924,
+      "name": "Give Me Your",
+      "url": "https://open.spotify.com/track/39wNZpYE66vs3FlqMyhMYA"
+    },
+    {
+      "added_at": "2024-06-21 07:55:54",
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
-        "name": "I made",
-        "url": "https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 220924,
-      "name": "Give Me Your",
-      "url": "https://open.spotify.com/track/39wNZpYE66vs3FlqMyhMYA"
-    },
-    {
-      "added_at": "2024-06-21 07:55:54",
-      "album": {
         "name": "vacation",
         "url": "https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV"
       },
@@ -179,38 +179,6 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
-      },
-      "artists": [
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Kiss The Rain",
-      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
-    },
-    {
-      "added_at": "2024-06-21 07:55:54",
-      "album": {
-        "name": "INNER CHILD",
-        "url": "https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Sipping My life (Bonus Track)",
-      "url": "https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk"
-    },
-    {
-      "added_at": "2024-06-21 07:55:54",
-      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -223,6 +191,22 @@
       "duration_ms": 272662,
       "name": "Missing you",
       "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
+    },
+    {
+      "added_at": "2024-06-21 07:55:54",
+      "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Kiss The Rain",
+      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
     },
     {
       "added_at": "2024-06-21 07:55:54",
@@ -291,18 +275,34 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
-        "name": "Autumn Breeze (re;code Episode \u2166)",
-        "url": "https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj"
+        "name": "INNER CHILD",
+        "url": "https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg"
       },
       "artists": [
         {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
         }
       ],
-      "duration_ms": 219813,
-      "name": "Autumn Breeze",
-      "url": "https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC"
+      "duration_ms": 226186,
+      "name": "Sipping My life (Bonus Track)",
+      "url": "https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk"
+    },
+    {
+      "added_at": "2024-06-21 07:55:54",
+      "album": {
+        "name": "Spring Is You",
+        "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 225647,
+      "name": "Spring Is You",
+      "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
     },
     {
       "added_at": "2024-06-21 07:55:54",
@@ -327,18 +327,18 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
-        "name": "Spring Is You",
-        "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
+        "name": "Autumn Breeze (re;code Episode \u2166)",
+        "url": "https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj"
       },
       "artists": [
         {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 225647,
-      "name": "Spring Is You",
-      "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
+      "duration_ms": 219813,
+      "name": "Autumn Breeze",
+      "url": "https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC"
     },
     {
       "added_at": "2024-06-21 07:55:54",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
+        "name": "\ub108\ub294\uc5b4\ub54c",
+        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
+      },
+      "artists": [
+        {
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
+      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
+    },
+    {
+      "added_at": "2024-06-21 07:55:54",
+      "album": {
         "name": "Salt Rain (Prod. By Alfie Hole)",
         "url": "https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 217774,
       "name": "Waters of March",
       "url": "https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS"
-    },
-    {
-      "added_at": "2024-06-21 07:55:54",
-      "album": {
-        "name": "\ub108\ub294\uc5b4\ub54c",
-        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
-      },
-      "artists": [
-        {
-          "name": "Coldin",
-          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
-        }
-      ],
-      "duration_ms": 260812,
-      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
-      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
     },
     {
       "added_at": "2024-06-21 07:55:54",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
-        "name": "SMILE",
-        "url": "https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 228934,
-      "name": "SMILE",
-      "url": "https://open.spotify.com/track/5Wy03J4ACV1DR3L1J7tm51"
-    },
-    {
-      "added_at": "2024-06-21 07:55:54",
-      "album": {
         "name": "gr8",
         "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 158468,
       "name": "gr8",
       "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+    },
+    {
+      "added_at": "2024-06-21 07:55:54",
+      "album": {
+        "name": "SMILE",
+        "url": "https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 228934,
+      "name": "SMILE",
+      "url": "https://open.spotify.com/track/5Wy03J4ACV1DR3L1J7tm51"
     },
     {
       "added_at": "2024-06-21 07:55:54",
@@ -571,6 +571,26 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
+        "name": "Candy Pianist",
+        "url": "https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5"
+      },
+      "artists": [
+        {
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Awake (Feat. Sam Kim)",
+      "url": "https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC"
+    },
+    {
+      "added_at": "2024-06-21 07:55:54",
+      "album": {
         "name": "\uc774\ub978 \uaca8\uc6b8",
         "url": "https://open.spotify.com/album/5rR1JjdxLhu5AagkC7u1Tu"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 172500,
       "name": "\uc774\ub978 \uaca8\uc6b8(Feat. Gist, \uae30\uc6d0(Giwon))",
       "url": "https://open.spotify.com/track/0lRyIfhsqlRYULXPBL848R"
-    },
-    {
-      "added_at": "2024-06-21 07:55:54",
-      "album": {
-        "name": "Candy Pianist",
-        "url": "https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5"
-      },
-      "artists": [
-        {
-          "name": "Lee Jin Ah",
-          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Awake (Feat. Sam Kim)",
-      "url": "https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC"
     },
     {
       "added_at": "2024-06-21 07:55:54",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
-        "name": "Unlock My Boss, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh"
-      },
-      "artists": [
-        {
-          "name": "Park Hyun Kyu",
-          "url": "https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "NOW",
-      "url": "https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT"
-    },
-    {
-      "added_at": "2024-06-21 07:55:54",
-      "album": {
         "name": "Carpet - SM STATION",
         "url": "https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 222400,
       "name": "Carpet",
       "url": "https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t"
+    },
+    {
+      "added_at": "2024-06-21 07:55:54",
+      "album": {
+        "name": "Unlock My Boss, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh"
+      },
+      "artists": [
+        {
+          "name": "Park Hyun Kyu",
+          "url": "https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "NOW",
+      "url": "https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT"
     },
     {
       "added_at": "2024-06-21 07:55:54",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
+        "name": "I Really Didn't Know You",
+        "url": "https://open.spotify.com/album/1qg7swV1Cs2SIgUvX7bmkq"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 223220,
+      "name": "I Really Didn't Know You",
+      "url": "https://open.spotify.com/track/11yW0e3Pth5l2rTIShyDsj"
+    },
+    {
+      "added_at": "2024-06-21 07:55:54",
+      "album": {
         "name": "Leave like this",
         "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 212080,
       "name": "Dreamy Alarm",
       "url": "https://open.spotify.com/track/7unbE46iO68VyMnVXXrVrB"
-    },
-    {
-      "added_at": "2024-06-21 07:55:54",
-      "album": {
-        "name": "I Really Didn't Know You",
-        "url": "https://open.spotify.com/album/1qg7swV1Cs2SIgUvX7bmkq"
-      },
-      "artists": [
-        {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
-        }
-      ],
-      "duration_ms": 223220,
-      "name": "I Really Didn't Know You",
-      "url": "https://open.spotify.com/track/11yW0e3Pth5l2rTIShyDsj"
     },
     {
       "added_at": "2024-06-21 07:55:54",

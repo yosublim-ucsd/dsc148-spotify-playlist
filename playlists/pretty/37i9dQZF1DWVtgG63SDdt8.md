@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:5BfKKSmpGmj2moMNlaWeJK">Marty</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,388 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,422 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 66 | [Amen](https://open.spotify.com/track/4H6r782Nxx4zBtSAjuBviH) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Charlotte Kiwanuka](https://open.spotify.com/artist/1bs5ND8OMU7KR5CQwzroAC) | [Paradise](https://open.spotify.com/album/2AQV4UU80HM2CpUwcdT97s) | 4:08 |
 | 67 | [Rest Of My Life](https://open.spotify.com/track/25lWrqB1D0SUrPSBjO3gNr) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Rest Of My Life](https://open.spotify.com/album/2QATjCczaMUZPIUfk4oMb9) | 5:14 |
 | 68 | [Cost \(Live\)](https://open.spotify.com/track/5VyRQ7H2rEEfBne5skLN8t) | [VIVE Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [Cost \(Live\)](https://open.spotify.com/album/6f0lKDysf50WXCYwQy5Rpw) | 6:11 |
-| 69 | [Syllables \- Live](https://open.spotify.com/track/38Jt3FJBNN0azNIBiOsi4q) | [P&W](https://open.spotify.com/artist/6s0mYfHQjI3oWTWL5aChcU), [Tiff Willmott](https://open.spotify.com/artist/5wIQoZsxW6jA9LXiyIz23h), [Theunis Pretorius](https://open.spotify.com/artist/2Bcj0qZNJ7mf6ARhOCS3sZ) | [Live At Tehillah '23](https://open.spotify.com/album/79xzTpMx8DXgqTurPjOiLS) | 5:23 |
+| 69 | [Syllables \- Live](https://open.spotify.com/track/38Jt3FJBNN0azNIBiOsi4q) | [P&W](https://open.spotify.com/artist/6s0mYfHQjI3oWTWL5aChcU), [Tiff Willmott](https://open.spotify.com/artist/5wIQoZsxW6jA9LXiyIz23h), [Theunis Pretorius](https://open.spotify.com/artist/2Bcj0qZNJ7mf6ARhOCS3sZ) | [Live At Tehillah '23](https://open.spotify.com/album/79xzTpMx8DXgqTurPjOiLS) | 5:22 |
 | 70 | [Broken Vessels \(Amazing Grace\)](https://open.spotify.com/track/6c4T76logfDoSx9VwLp21t) | [Hillsong Chapel](https://open.spotify.com/artist/3kb5Da0lPehCHCE5SVLNQk) | [Broken Vessels \(Amazing Grace\)](https://open.spotify.com/album/43LkimEj2oamZaNlag5xbz) | 5:20 |
 | 71 | [Rest On Us \- Live](https://open.spotify.com/track/3Qo0Fi5Ugn0j5PjSzcREsz) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Rest On Us \(Live\)](https://open.spotify.com/album/5Y1ng8Gt4DrhfQUc4iv4pR) | 7:24 |
 | 72 | [Majesty](https://open.spotify.com/track/5FtW9IlslazN8yBYT3WtvU) | [Brent Jones](https://open.spotify.com/artist/2b9paaAwb2Xd3iR1LSnCDN) | [Majesty](https://open.spotify.com/album/3nU609EFqE2v7BvWMW3NOk) | 4:10 |

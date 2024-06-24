@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,884 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,546 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jeu De Jambes](https://open.spotify.com/track/2vYKJpvtR9JNtBmLW8tAac) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [Jeu De Jambes](https://open.spotify.com/album/29VGHpvyLnZdJyX1aVkTXZ) | 2:11 |
-| 2 | [Wa zebi](https://open.spotify.com/track/2fisgK2Gvu3Fn2yShuZqaO) | [Cappuccino](https://open.spotify.com/artist/0iOZ6jaUQL07vALKUPworY) | [Wa zebi](https://open.spotify.com/album/1PUqIOcYy8b8JXh2nN0071) | 2:22 |
+| 1 | [Il est marié](https://open.spotify.com/track/6tr6JVAIjhpQ02jtmzMPtm) | [Dj Sad](https://open.spotify.com/artist/3hLERkA9u0qj3A6S4yGeTb), [La Traine](https://open.spotify.com/artist/5tk0jsqb4leLOR0BFzg2ZR), [Ninocess](https://open.spotify.com/artist/4IjjueQMO8pGfgrjh13Bh3), [pitroipa](https://open.spotify.com/artist/4JJKg8bePqpcxXob8gQVC8) | [Il est marié](https://open.spotify.com/album/23MQNuBqiNuRdeeUX7OrH5) | 2:32 |
+| 2 | [Jeu De Jambes](https://open.spotify.com/track/2vYKJpvtR9JNtBmLW8tAac) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [Jeu De Jambes](https://open.spotify.com/album/29VGHpvyLnZdJyX1aVkTXZ) | 2:11 |
 | 3 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 |
-| 4 | [Mélanine](https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Mélanine](https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO) | 3:00 |
-| 5 | [DANS MON MONDE](https://open.spotify.com/track/0R3uBKGyMHv8loHPX1X4hz) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [DANS MON MONDE](https://open.spotify.com/album/0ZF0smxfOf7iK27jC7SEyk) | 2:52 |
-| 6 | [Il est marié](https://open.spotify.com/track/6tr6JVAIjhpQ02jtmzMPtm) | [Dj Sad](https://open.spotify.com/artist/3hLERkA9u0qj3A6S4yGeTb), [La Traine](https://open.spotify.com/artist/5tk0jsqb4leLOR0BFzg2ZR), [Ninocess](https://open.spotify.com/artist/4IjjueQMO8pGfgrjh13Bh3), [pitroipa](https://open.spotify.com/artist/4JJKg8bePqpcxXob8gQVC8) | [Il est marié](https://open.spotify.com/album/23MQNuBqiNuRdeeUX7OrH5) | 2:32 |
+| 4 | [Wa zebi](https://open.spotify.com/track/2fisgK2Gvu3Fn2yShuZqaO) | [Cappuccino](https://open.spotify.com/artist/0iOZ6jaUQL07vALKUPworY) | [Wa zebi](https://open.spotify.com/album/1PUqIOcYy8b8JXh2nN0071) | 2:22 |
+| 5 | [Mélanine](https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Mélanine](https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO) | 3:00 |
+| 6 | [DANS MON MONDE](https://open.spotify.com/track/0R3uBKGyMHv8loHPX1X4hz) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [DANS MON MONDE](https://open.spotify.com/album/0ZF0smxfOf7iK27jC7SEyk) | 2:52 |
 | 7 | [Wayeh](https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Wayeh](https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV) | 2:30 |
 | 8 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 |
 | 9 | [BOOYAKASHA](https://open.spotify.com/track/2Tr3E5pg3IGC64zrihS5Vf) | [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [BOOYAKASHA](https://open.spotify.com/album/53ZoT7nBjTNDuQYqo0TQrX) | 2:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 79 | [Natural](https://open.spotify.com/track/3OKAYvfvOvxqZQk3KBCIZr) | [Prinsess Jorge](https://open.spotify.com/artist/6f2aOoKCFhLJLEJqZKyf7j) | [Natural](https://open.spotify.com/album/54NfArLaY7lyO3x0D5G5RX) | 2:53 |
 | 80 | [Smalltown Boy](https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 5:02 |
 
-Snapshot ID: `ZnVqqAAAAAAEkREyW7oTd9wg4I8vTOfB`
+Snapshot ID: `Znh3AQAAAADcTNsbyZcs09OSCNRCaG+U`

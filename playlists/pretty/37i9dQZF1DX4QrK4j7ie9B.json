@@ -1,6 +1,6 @@
 {
   "description": "The ultimate classical playlist for post-workout stretching, meditation and mindfulness.",
-  "num_followers": 104749,
+  "num_followers": 104770,
   "original_name": "Classical Cooldown",
   "owner": {
     "name": "Spotify",
@@ -70,6 +70,10 @@
         {
           "name": "Yo-Yo Ma",
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
         }
       ],
       "duration_ms": 160226,

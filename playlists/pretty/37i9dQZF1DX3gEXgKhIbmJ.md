@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,581 likes - 66 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,592 likes - 66 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 2 | [Jeito que ela mente](https://open.spotify.com/track/21Q001YAzkZ26L2XF6hOvs) | [Vidal](https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI) | [Jeito que ela mente](https://open.spotify.com/album/45iJ1aFJkYsCp21doTrrWA) | 2:19 |
 | 3 | [Magia](https://open.spotify.com/track/2VAV3GVOT6cCxl3PMDzm65) | [Akascagrossa](https://open.spotify.com/artist/4g75QCIGrJufszfx2cH7Qj) | [Magia](https://open.spotify.com/album/22w3IMJ6SZgVfMPKeLr3Bn) | 2:41 |
 | 4 | [NAVE](https://open.spotify.com/track/7gjhc84DGkAIqvbhR5qJ5L) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [NAVE](https://open.spotify.com/album/2a3E5uCRivtqyEWToSXVqY) | 2:35 |
-| 5 | [Jersey do Jota](https://open.spotify.com/track/0e8WMIlTanCMBunBw9v8zo) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Barter 7](https://open.spotify.com/album/6zp7QvTKnn4apcGh498z1A) | 1:21 |
+| 5 | [Jersey do Jota](https://open.spotify.com/track/0e8WMIlTanCMBunBw9v8zo) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI) | [Barter 7](https://open.spotify.com/album/6zp7QvTKnn4apcGh498z1A) | 1:21 |
 | 6 | [Boa Sorte Mesmo](https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:26 |
 | 7 | [Pique Jersey](https://open.spotify.com/track/1OdIAwpnYdSjtfIfIA2sx4) | [Koala Ninja](https://open.spotify.com/artist/3IqZFZ7N1MddpRFFqUPNkE), [kam](https://open.spotify.com/artist/3DWT9SZoA2lOKM32hTseMp) | [Pique Jersey](https://open.spotify.com/album/4FFxJTNJQdfN1XmwobxiQp) | 2:15 |
 | 8 | [Guerra](https://open.spotify.com/track/2Kmnl2HePPPejOeethzWmY) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Guerra](https://open.spotify.com/album/13OY8tDfRBOisgLf6E1pqO) | 2:23 |

@@ -2,7 +2,7 @@
 
 ### [This Is Rauw Alejandro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Kc0i8)
 
-> This Is Rauw Alejandro\. Los temas esenciales, todos en una lista.
+> This is Rauw Alejandro\. The essential tracks, all in one playlist.
 
 86 songs - 5 hr 2 min
 

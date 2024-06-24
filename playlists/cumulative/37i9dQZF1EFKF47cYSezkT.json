@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "PALPITATIONS",
+        "url": "https://open.spotify.com/album/7fxhGVYVaAnGw6ZQ50DkJC"
+      },
+      "artists": [
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153160,
+      "name": "Coming Back For More",
+      "url": "https://open.spotify.com/track/73xrd1Gv43Ddar11zLDtP1"
+    },
+    {
+      "album": {
         "name": "Crocodile Tears (Skylar x AC13 feat. Piri)",
         "url": "https://open.spotify.com/album/6cNuIGqrpbKD1fWKVITJJM"
       },

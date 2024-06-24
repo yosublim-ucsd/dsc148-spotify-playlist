@@ -1,12 +1,12 @@
 {
-  "description": "This Is Talking Heads. Los temas esenciales, todos en una lista.",
-  "num_followers": 181835,
-  "original_name": "This Is Talking Heads",
+  "description": "This is \u30c8\u30fc\u30ad\u30f3\u30b0\u30fb\u30d8\u30c3\u30ba\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 181895,
+  "original_name": "This Is \u30c8\u30fc\u30ad\u30f3\u30b0\u30fb\u30d8\u30c3\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnTCgAAAAACNxxjUbPmvrVMc4w39HdvW",
+  "snapshot_id": "ZnYUAAAAAAAKo27WxrLcD2i5CbQqb91y",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 349280,
-      "name": "Born Under Punches (The Heat Goes On) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x"
+      "duration_ms": 273200,
+      "name": "Houses in Motion - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 273200,
-      "name": "Houses in Motion - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la"
+      "duration_ms": 349280,
+      "name": "Born Under Punches (The Heat Goes On) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x"
     },
     {
       "added_at": null,
@@ -817,6 +817,6 @@
       "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
     }
   ],
-  "unique_name": "This Is Talking Heads",
+  "unique_name": "This Is \u30c8\u30fc\u30ad\u30f3\u30b0\u30fb\u30d8\u30c3\u30ba",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1s5u8w"
 }

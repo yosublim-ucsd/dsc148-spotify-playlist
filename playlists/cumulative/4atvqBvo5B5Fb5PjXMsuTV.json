@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 22 JUN",
+  "name": "NEW SINGLES RELEASES | UPDATED 23 JUN",
   "tracks": [
     {
       "album": {
@@ -3340,6 +3340,28 @@
       "duration_ms": 213517,
       "name": "CYBERSPACE DREAMS",
       "url": "https://open.spotify.com/track/0rAGCFKQwnGaHPNukHNMWT"
+    },
+    {
+      "album": {
+        "name": "Damn This Goes Hard on Mute !!",
+        "url": "https://open.spotify.com/album/7dfLcjnNUz9aO2TDU6lKXi"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "Damn This Goes Hard on Mute !!",
+      "url": "https://open.spotify.com/track/5v4aJYrQADDLMtBQxAtBNJ"
     },
     {
       "album": {
@@ -9270,7 +9292,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
@@ -9938,6 +9960,28 @@
       "duration_ms": 272000,
       "name": "Out of Frame",
       "url": "https://open.spotify.com/track/3UBc3PbliCYiVHNeyX4Z5b"
+    },
+    {
+      "album": {
+        "name": "Out of Time (feat. Bea Miller)",
+        "url": "https://open.spotify.com/album/3bYjmOOhtkMfjqfKdvhCjm"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222908,
+      "name": "Out of Time (feat. Bea Miller)",
+      "url": "https://open.spotify.com/track/10t8QGZXfGCeAnEWSaWymM"
     },
     {
       "album": {
@@ -12492,7 +12536,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 192705,
       "name": "Still Feel Alone",
       "url": "https://open.spotify.com/track/3eZU3EyLMkwE3oxfuf74oS"

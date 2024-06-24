@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 237430,
+  "num_followers": 237508,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Dance And Dense Denso",
-        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 256386,
-      "name": "Hit Me",
-      "url": "https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
         "name": "Vol. 4",
         "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
+        "name": "Dance And Dense Denso",
+        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 256386,
+      "name": "Hit Me",
+      "url": "https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
         "name": "Hecho En Mexico",
         "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
       },
@@ -303,6 +303,38 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
+        "name": "Volumen Prohibido",
+        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Hey Si Me Ven",
+      "url": "https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "La Sangre Nunca Muere",
+        "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 314600,
+      "name": "La Sangre Nunca Muere",
+      "url": "https://open.spotify.com/track/3Y3gM4rXlaDgiNqEQDBPfw"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
         "name": "Vieja Guardia",
         "url": "https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN"
       },
@@ -335,22 +367,6 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Volumen Prohibido",
-        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Hey Si Me Ven",
-      "url": "https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
         "name": "Vieja Guardia",
         "url": "https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN"
       },
@@ -363,58 +379,6 @@
       "duration_ms": 225640,
       "name": "B\u00f3mboro",
       "url": "https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "Si Ladran No Muerden",
-        "url": "https://open.spotify.com/album/5hUI3j0exMZcORuarfhK3J"
-      },
-      "artists": [
-        {
-          "name": "El Chivo",
-          "url": "https://open.spotify.com/artist/69SY9YEb04oDqLvN0xU9i7"
-        }
-      ],
-      "duration_ms": 266946,
-      "name": "Que Me Entierren Con La Banda",
-      "url": "https://open.spotify.com/track/5zqu802NxT6gyJdxeGVWgE"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "Guerra de Karteles",
-        "url": "https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7"
-      },
-      "artists": [
-        {
-          "name": "Kartel De Las Calles",
-          "url": "https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va"
-        },
-        {
-          "name": "Mafya Azteca",
-          "url": "https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe"
-        }
-      ],
-      "duration_ms": 357400,
-      "name": "Las Armas las Karga el Dyablo",
-      "url": "https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "La Sangre Nunca Muere",
-        "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 314600,
-      "name": "La Sangre Nunca Muere",
-      "url": "https://open.spotify.com/track/3Y3gM4rXlaDgiNqEQDBPfw"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -435,6 +399,22 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
+        "name": "Si Ladran No Muerden",
+        "url": "https://open.spotify.com/album/5hUI3j0exMZcORuarfhK3J"
+      },
+      "artists": [
+        {
+          "name": "El Chivo",
+          "url": "https://open.spotify.com/artist/69SY9YEb04oDqLvN0xU9i7"
+        }
+      ],
+      "duration_ms": 266946,
+      "name": "Que Me Entierren Con La Banda",
+      "url": "https://open.spotify.com/track/5zqu802NxT6gyJdxeGVWgE"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
         "name": "La Plaga (Digitally Remastered Remix)",
         "url": "https://open.spotify.com/album/38NnPJUlEj4ciQ1kdZ3ND7"
       },
@@ -447,6 +427,58 @@
       "duration_ms": 227000,
       "name": "La Plaga (Digitally Remastered Remix)",
       "url": "https://open.spotify.com/track/6U6UoE9LfZjeM6esvEdgCP"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "El Arte del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Hecho En Mexico",
+        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Raza Es Raza",
+      "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Guerra de Karteles",
+        "url": "https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7"
+      },
+      "artists": [
+        {
+          "name": "Kartel De Las Calles",
+          "url": "https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va"
+        },
+        {
+          "name": "Mafya Azteca",
+          "url": "https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe"
+        }
+      ],
+      "duration_ms": 357400,
+      "name": "Las Armas las Karga el Dyablo",
+      "url": "https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -531,8 +563,8 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
+        "name": "Cartel De Santa",
+        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
       },
       "artists": [
         {
@@ -540,25 +572,9 @@
           "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 262746,
-      "name": "El Arte del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "Hecho En Mexico",
-        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Raza Es Raza",
-      "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
+      "duration_ms": 221586,
+      "name": "La Pelotona",
+      "url": "https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -673,22 +689,6 @@
       "url": "https://open.spotify.com/track/7t4rIjeixySolatxQ336g9"
     },
     {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "Cartel De Santa",
-        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 221586,
-      "name": "La Pelotona",
-      "url": "https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj"
-    },
-    {
       "added_at": "2023-02-24 21:30:46",
       "album": {
         "name": "Tu (feat. Sekreto) - Single",
@@ -707,6 +707,22 @@
       "duration_ms": 260947,
       "name": "Tu",
       "url": "https://open.spotify.com/track/6nq4eEHLFFvTA2Q1LuHdJK"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "No Podr\u00eda Estar Mejor",
+        "url": "https://open.spotify.com/album/61sTVZp2ZIm2Dm9GI80wr7"
+      },
+      "artists": [
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        }
+      ],
+      "duration_ms": 185161,
+      "name": "No Podr\u00eda Estar Mejor",
+      "url": "https://open.spotify.com/track/1x1ixNnjqwTtxhok29eanv"
     },
     {
       "added_at": "2023-02-24 21:30:46",
@@ -739,22 +755,6 @@
       "duration_ms": 215586,
       "name": "Plata o Plomo (feat. Eugenia Le\u00f3n)",
       "url": "https://open.spotify.com/track/1lCSrtvSwDH0BWXvlLJyyW"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "No Podr\u00eda Estar Mejor",
-        "url": "https://open.spotify.com/album/61sTVZp2ZIm2Dm9GI80wr7"
-      },
-      "artists": [
-        {
-          "name": "Fermin IV",
-          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
-        }
-      ],
-      "duration_ms": 185161,
-      "name": "No Podr\u00eda Estar Mejor",
-      "url": "https://open.spotify.com/track/1x1ixNnjqwTtxhok29eanv"
     },
     {
       "added_at": "2022-03-07 23:02:38",

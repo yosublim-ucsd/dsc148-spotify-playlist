@@ -1,6 +1,6 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 9294,
+  "num_followers": 9307,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "sins (let me in)",
+        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 128326,
+      "name": "sins (let me in)",
+      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "The Hillbillies",
         "url": "https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 204800,
       "name": "The Hillbillies",
       "url": "https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "sins (let me in)",
-        "url": "https://open.spotify.com/album/67sbzjPbujx9SQwLyOetYg"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 128326,
-      "name": "sins (let me in)",
-      "url": "https://open.spotify.com/track/6EQLN1Fl8oy46k4FMwhxug"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "jersey luv",
         "url": "https://open.spotify.com/album/6z30pC8bxK3JIWRhLLbXwr"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 231090,
       "name": "jersey luv",
       "url": "https://open.spotify.com/track/50kWigrg0O9DFUzzbgJMZO"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Throw Dat",
-        "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Throw Dat",
-      "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "Honesty (Jersey Club Remix)",
         "url": "https://open.spotify.com/album/1sOF5dtyOTo9s6fx4AtmBe"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 130612,
       "name": "Honesty - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1vBluRXN20JZBMA4G7oe7w"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Throw Dat",
+        "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Throw Dat",
+      "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/1U4jHPRjnjBPhVcAXw3skP"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "XV",
         "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 186399,
       "name": "Cagoule",
       "url": "https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/1U4jHPRjnjBPhVcAXw3skP"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1179,30 +1179,6 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
-        "name": "Beat it Up 2k23",
-        "url": "https://open.spotify.com/album/2MW2quIyd72cp0Gv8vtc4n"
-      },
-      "artists": [
-        {
-          "name": "DJ Difficult",
-          "url": "https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39"
-        },
-        {
-          "name": "A.B.E",
-          "url": "https://open.spotify.com/artist/6xZs87XR7vPelRzsbyz17R"
-        },
-        {
-          "name": "Slice ThaHitMaker",
-          "url": "https://open.spotify.com/artist/6Vmkl1MWtu88DAcSWoMmul"
-        }
-      ],
-      "duration_ms": 225175,
-      "name": "Beat it Up 2k23",
-      "url": "https://open.spotify.com/track/7dW44unUq1kL0Hku6wq7uj"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
         "name": "In The Night (feat. Bandmanrill)",
         "url": "https://open.spotify.com/album/7azk253Tycfnk5vQKbiWTM"
       },
@@ -1227,6 +1203,30 @@
       "duration_ms": 212400,
       "name": "In The Night (feat. Bandmanrill)",
       "url": "https://open.spotify.com/track/7rOyc2gkZkWgT2g4LIbqTD"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Beat it Up 2k23",
+        "url": "https://open.spotify.com/album/2MW2quIyd72cp0Gv8vtc4n"
+      },
+      "artists": [
+        {
+          "name": "DJ Difficult",
+          "url": "https://open.spotify.com/artist/6n5uPTOp1khc829NG6tQ39"
+        },
+        {
+          "name": "A.B.E",
+          "url": "https://open.spotify.com/artist/6xZs87XR7vPelRzsbyz17R"
+        },
+        {
+          "name": "Slice ThaHitMaker",
+          "url": "https://open.spotify.com/artist/6Vmkl1MWtu88DAcSWoMmul"
+        }
+      ],
+      "duration_ms": 225175,
+      "name": "Beat it Up 2k23",
+      "url": "https://open.spotify.com/track/7dW44unUq1kL0Hku6wq7uj"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1295,6 +1295,30 @@
       "duration_ms": 146834,
       "name": "Love You",
       "url": "https://open.spotify.com/track/0SxskGC5lanJHfNMSbDVpv"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
+        "name": "Real Hips 2",
+        "url": "https://open.spotify.com/album/25MTp5gwjXq9Y1iVzpWUth"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/6Sjz15WhzCRr3G8J8j3yO0"
+        },
+        {
+          "name": "Defiant Presents",
+          "url": "https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Real Hips 2",
+      "url": "https://open.spotify.com/track/740rzQXrAE1qwhQ7UqZPzN"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1407,30 +1431,6 @@
       "duration_ms": 108923,
       "name": "You",
       "url": "https://open.spotify.com/track/74JW8w5UPKzRPLcNatdeSI"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "Real Hips 2",
-        "url": "https://open.spotify.com/album/25MTp5gwjXq9Y1iVzpWUth"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Bandmanrill",
-          "url": "https://open.spotify.com/artist/6Sjz15WhzCRr3G8J8j3yO0"
-        },
-        {
-          "name": "Defiant Presents",
-          "url": "https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Real Hips 2",
-      "url": "https://open.spotify.com/track/740rzQXrAE1qwhQ7UqZPzN"
     },
     {
       "added_at": "2023-12-01 14:44:59",

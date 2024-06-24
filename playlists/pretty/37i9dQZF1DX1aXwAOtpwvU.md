@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:7ruGjTmqO10lSqHWRIchnU">Daniel Godson</a>, <a href="spotify:artist:251W9nU4osxaBuBkU9HXT3">Jea Mira</a>, <a href="spotify:artist:0eWYWLizN5us1MOF1rdyh9">Livka</a>, <a href="spotify:artist:07EyVrrbqIAHNLw9FEnQUs">Lotta</a>, <a href="spotify:artist:7qAu2kYGjO28g0CJERiQhM">MAJA</a>, <a href="spotify:artist:3IQIVYEmRr7wZnEqpSjfV5">Zaleś</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,007 likes - 78 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,078 likes - 78 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

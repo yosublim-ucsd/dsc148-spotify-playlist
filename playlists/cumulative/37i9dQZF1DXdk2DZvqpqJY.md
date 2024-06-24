@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-440 songs - 1 day 3 hr 9 min
+441 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Everytime We Say Goodbye](https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Everytime We Say Goodbye](https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh) | 4:40 | 2023-03-20 | 2024-03-12 |
 | [EYES](https://open.spotify.com/track/7p0fqkMZzEnpzwaAF1BbDR) | [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [EYES](https://open.spotify.com/album/2heTYhmqhs6PTSdvyqXHp9) | 2:19 | 2022-09-14 | 2022-10-07 |
 | [Falling In Love With Love](https://open.spotify.com/track/22KchPj2ebXOCwdvK4azrZ) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Falling In Love With Love](https://open.spotify.com/album/3K9sLxweNS6ILqTRFSYiJB) | 2:54 | 2023-05-05 |  |
-| [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-03-20 |  |
+| [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-03-20 | 2024-06-24 |
 | [Feelm](https://open.spotify.com/track/6xWxeW72ywpygla3hHwlb1) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo) | [Feelm](https://open.spotify.com/album/7IUXAEy1XizpVDGROtNkgG) | 4:06 | 2022-06-02 | 2023-03-26 |
 | [First Call](https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [First Call](https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA) | 2:44 | 2023-06-01 |  |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2023-03-20 |  |
@@ -401,6 +401,7 @@
 | [Torino](https://open.spotify.com/track/0Fd6VzCMBYsNWBsJnF7snn) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:42 | 2022-12-01 | 2023-03-21 |
 | [Torino](https://open.spotify.com/track/6cEtprCmXLwljz6Kl3J9Tc) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/19IM6CveZ3jfng86RG1pbD) | 3:42 | 2022-05-05 | 2022-11-20 |
 | [Train Ride](https://open.spotify.com/track/3pNijZFoqxfIUVzzN9pDtA) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [Train Ride](https://open.spotify.com/album/3EFv9EzA7O7G2YbCx5vnKb) | 2:27 | 2022-06-02 | 2022-10-27 |
+| [Tranquility](https://open.spotify.com/track/6CgnEtKYDu8HIva6erHcjp) | [Benjamin Davies](https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ) | [Tranquility](https://open.spotify.com/album/01rtNCqJHkyaggjCKe5T8V) | 3:26 | 2024-06-17 |  |
 | [Traveling Day](https://open.spotify.com/track/527VRJrXGblLbAHcHSdAr6) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Traveling Day](https://open.spotify.com/album/51eqBfg9k9GAh40Rq12vHH) | 5:41 | 2023-05-25 |  |
 | [Tremendoce \(feat\. Jonas Kullhammar & Per "Texas" Johansson\)](https://open.spotify.com/track/1uZKWan10GRRfqLUOUVrJt) | [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Dan Nicholls](https://open.spotify.com/artist/3jPACp3hjJoZE4amLccrTW), [Tilo Weber](https://open.spotify.com/artist/3eHtftmDOgj9FpDTcPmvl4), [Jonas Kullhammar](https://open.spotify.com/artist/3hHc4tqyPsRJOzzqaxkadB), [Per 'Texas' Johansson](https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T) | [Tremendoce \(feat\. Petter Eldh, Dan Nicholls, Tilo Weber, Jonas Kullhammar & Per "Texas" Johansson\)](https://open.spotify.com/album/2CYHf1mM4QL6L4oa8TzgmC) | 4:14 | 2022-02-17 | 2022-11-28 |
 | [Try Walk with Me](https://open.spotify.com/track/7oebiuuObYBjX2F4kuTKfn) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Asheber](https://open.spotify.com/artist/6jHU62NQ2ooWor2Oc0nAEw) | [Turn to Clear View](https://open.spotify.com/album/4yws2FxiYwtH0rhSCe651X) | 4:19 | 2022-02-17 | 2022-07-29 |

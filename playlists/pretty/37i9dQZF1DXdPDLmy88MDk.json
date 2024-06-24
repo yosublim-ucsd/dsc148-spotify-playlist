@@ -1,6 +1,6 @@
 {
   "description": "Gentle instrumental tunes.",
-  "num_followers": 212903,
+  "num_followers": 212970,
   "original_name": "Soft Instrumental",
   "owner": {
     "name": "Spotify",
@@ -1020,12 +1020,12 @@
           "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
         },
         {
-          "name": "Robert Ziegler",
-          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
-        },
-        {
           "name": "London Symphony Orchestra",
           "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
         }
       ],
       "duration_ms": 206400,
@@ -1066,6 +1066,10 @@
         {
           "name": "Yo-Yo Ma",
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
         }
       ],
       "duration_ms": 160226,

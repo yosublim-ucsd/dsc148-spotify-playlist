@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-377 songs - 17 hr 57 min
+378 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Deu a Louca Nessa Raba](https://open.spotify.com/track/5UZIU262qdyMcE0n8z0Icj) | [Thamy](https://open.spotify.com/artist/5NUcO47R7xlNLpeQiHhqol), [Edu Donna](https://open.spotify.com/artist/3O7If1JfH3Fgjr9qmN1T3d) | [Deu a Louca Nessa Raba](https://open.spotify.com/album/2SqYJWJW7kwQTRV7ftpaB5) | 2:33 | 2024-01-29 |  |
 | [Deus Me Livre De Fofoca \- Léo Santana Ao Vivo / 2020](https://open.spotify.com/track/55bxiH6LekEgK1yK2r4lZi) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [O Poeta](https://open.spotify.com/artist/44joZFurg31HS9vvv64WpU) | [Al Mare \(Léo Santana Ao Vivo / 2020\)](https://open.spotify.com/album/4qX0iBJJuhC7YmYvMC9JZ3) | 2:49 | 2024-01-29 |  |
 | [Deve Haver](https://open.spotify.com/track/1KUthtIQJQEqBYOgewiMEs) | [Sampa Crew](https://open.spotify.com/artist/1sPTOnMc3tEimHIT9xZX4G) | [Todo Coração Tem Jeito](https://open.spotify.com/album/7gVXiIpReG9lHFg6jPDmHU) | 3:29 | 2024-01-29 |  |
-| [Dia D \- Ao Vivo](https://open.spotify.com/track/0sE0T1vVGKPd06ZU7CTIwI) | [Rick & Nogueira](https://open.spotify.com/artist/0MZjTmgoSErzmMapfREhGv) | [Resenha dos Lokos 2, Ep\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3BrCylfQ10rcEm1PBWJKJu) | 2:49 | 2024-01-29 |  |
+| [Dia D \- Ao Vivo](https://open.spotify.com/track/0sE0T1vVGKPd06ZU7CTIwI) | [Rick & Nogueira](https://open.spotify.com/artist/0MZjTmgoSErzmMapfREhGv) | [Resenha dos Lokos 2, Ep\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3BrCylfQ10rcEm1PBWJKJu) | 2:49 | 2024-01-29 | 2024-06-24 |
+| [Dia D \- Ao Vivo](https://open.spotify.com/track/2x27qfjs2LHNDFCgdbBusn) | [Rick & Nogueira](https://open.spotify.com/artist/0MZjTmgoSErzmMapfREhGv) | [Resenha dos Lokos 2 \(Ao Vivo\)](https://open.spotify.com/album/2BsZHZMyJKhfMMiFb3348T) | 2:49 | 2024-06-23 |  |
 | [Doida](https://open.spotify.com/track/4AyZQaRMTszmhWo7enzHqe) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Doida](https://open.spotify.com/album/21pd7NfUknICTdrZTynWoy) | 2:53 | 2024-01-29 |  |
 | [Domingo De Chuva \- Ao Vivo](https://open.spotify.com/track/7f3znnIKxmEIi6Y7Jg3dmu) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 3:07 | 2024-01-29 |  |
 | [Dona da Razão](https://open.spotify.com/track/2Pa86tygZlYAVHqtteQlIl) | [Brenno](https://open.spotify.com/artist/0c5f0klhhMSmuY8inT8Y16) | [Dona da Razão](https://open.spotify.com/album/4xr32sTS7SjffuH3TPboev) | 2:51 | 2024-01-29 |  |
@@ -214,7 +215,7 @@
 | [Nem Liga pra Mim](https://open.spotify.com/track/47OmDc9C3YQCL6vUC4NPnw) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Todo Seu](https://open.spotify.com/album/2TykZEYbsi1qPgxz3QQ1rK) | 3:11 | 2024-01-29 |  |
 | [Nem Solteiro, Nem Casado](https://open.spotify.com/track/4RIwJFIllGROj3yvCFPBik) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Nem Solteiro, Nem Casado](https://open.spotify.com/album/26OJEhbmdahqJqYT20YLxT) | 2:25 | 2024-01-29 |  |
 | [Nem Vai Lembrar de Namorada \- Ao Vivo](https://open.spotify.com/track/4zbiEY3eLtj3C83v7LNjw7) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Esse Sou Eu: Ao Vivo em Goiânia](https://open.spotify.com/album/5Ib4RGQ8eVYhQvV7gbEpAB) | 3:01 | 2024-01-29 |  |
-| [Nenhum Tempo](https://open.spotify.com/track/2yfoCcbOyGNkxWsrJRgqbv) | [Alessandro Maia](https://open.spotify.com/artist/3GzZtVg9uutebpuoFID1Ew) | [Alessandro Maia](https://open.spotify.com/album/5e7I0iIlxGGDMwhIvAkjqK) | 3:08 | 2024-01-29 | 2024-06-21 |
+| [Nenhum Tempo](https://open.spotify.com/track/2yfoCcbOyGNkxWsrJRgqbv) | [Alessandro Maia](https://open.spotify.com/artist/3GzZtVg9uutebpuoFID1Ew) | [Alessandro Maia](https://open.spotify.com/album/5e7I0iIlxGGDMwhIvAkjqK) | 3:08 | 2024-01-29 |  |
 | [Nome aos Bois](https://open.spotify.com/track/7J32zg9XBrmutzavJoNPJ3) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [Raquel dos Teclados](https://open.spotify.com/artist/6AZMMl0OWhhybvX6q8FXhq) | [Prazer, Eu Sou Kadu Martins](https://open.spotify.com/album/6W4vZKpjvAx1a9BwncWue8) | 2:02 | 2024-01-29 |  |
 | [Nunca Foi Tão Gostoso \- Ao Vivo](https://open.spotify.com/track/5RpAYFxIR8vMfdRBIeVTDF) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:42 | 2024-01-29 |  |
 | [Nunca Mais Vou Namorar](https://open.spotify.com/track/33rmc41pIFg59RxYLTJ0Rw) | [Sem Reznha](https://open.spotify.com/artist/1jcSJxePI4nTKpjHrWfBNd) | [Nunca Mais Vou Namorar](https://open.spotify.com/album/5uSLHVvlTsYSYwTOPSTlQx) | 2:41 | 2024-01-29 |  |
@@ -253,7 +254,7 @@
 | [Por Que Foi Embora?](https://open.spotify.com/track/5YeuTsYnUo1ZrswdC3axSO) | [Luis Marcelo e Gabriel](https://open.spotify.com/artist/0DBu2G8PTvpM6uvMrnnS5B) | [Por Que Foi Embora?](https://open.spotify.com/album/7rqihOS33BO68TQeXCH7bd) | 2:59 | 2024-01-29 |  |
 | [Porra Loka \- Ao Vivo](https://open.spotify.com/track/0W20DJYFBaL6UlttxM2U6e) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [GG Astral \(Ao Vivo\)](https://open.spotify.com/album/1ldJ0FBMF8yZpbRqlno8kL) | 2:40 | 2024-01-29 |  |
 | [Pra Fazer Ciúme](https://open.spotify.com/track/2F1Q6ErXyO3nZfxASlFXkV) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Made In Studio](https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV) | 2:20 | 2024-01-29 |  |
-| [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 | 2024-01-29 | 2024-06-23 |
+| [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 | 2024-01-29 |  |
 | [Pra Ser Feliz](https://open.spotify.com/track/6BzzXkRBs6siOGOUHdNAeL) | [Pericles & Leonardo](https://open.spotify.com/artist/341RneaC9FWOyMcrNdEGsV) | [Pra Ser Feliz](https://open.spotify.com/album/5MlWmlvDTbjjp0AA9mXYMx) | 3:25 | 2024-01-29 |  |
 | [Pra Você \- Ao Vivo](https://open.spotify.com/track/5CIN5OD3jSO1nt2OOUikp8) | [Marcos Junior](https://open.spotify.com/artist/5DjYAz5ZEN1nnWW1RZKQbV) | [Acústico Ao Vivo](https://open.spotify.com/album/2MZKLcx6ntz80t7t6omztV) | 3:24 | 2024-01-29 |  |
 | [Pra Você Que Duvidou](https://open.spotify.com/track/72atcbVa0BrK6qKLTe66k7) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/2kzcUtSEOVfzgk1D9BvirQ) | 2:43 | 2024-01-29 |  |

@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,570 songs - 4 day 14 hr 32 min
+1,571 songs - 4 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -894,7 +894,7 @@
 | [Nada es para siempre](https://open.spotify.com/track/2ML9WD4YHqZvr9DLckmmUp) | [DJ TEE](https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1983](https://open.spotify.com/album/6HoeHwptx6joAqQgnYu5UD) | 5:13 | 2024-05-17 | 2024-06-02 |
 | [Nada Mas, Nada Menos \- remastered](https://open.spotify.com/track/4vEm6KMHaJZo8aU1L7Uztu) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [Como Asesinar a Felipes \(remastered\)](https://open.spotify.com/album/6ePG8JBkPJb8dmyjnMETzW) | 4:55 | 2023-09-01 | 2023-09-24 |
 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 | 2023-07-28 | 2023-08-12 |
-| [narcissistic cannibal \- lofi](https://open.spotify.com/track/1bijJQi2B0THRCnEIw0Hvx) | [lonelyboy](https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc), [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [lofi chill vibes with korn](https://open.spotify.com/album/2an3rCrUgZsJu7ApHemCBC) | 1:41 | 2024-06-21 |  |
+| [narcissistic cannibal \- lofi](https://open.spotify.com/track/1bijJQi2B0THRCnEIw0Hvx) | [lonelyboy](https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc), [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [lofi chill vibes with korn](https://open.spotify.com/album/2an3rCrUgZsJu7ApHemCBC) | 1:41 | 2024-06-21 | 2024-06-24 |
 | [Natural Thing \- Live](https://open.spotify.com/track/051nhFAF8tpcb7DduLxtTn) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Werewolves of London \(Live\)](https://open.spotify.com/album/0UWYYGAuvcWJSXlgBYtf7g) | 3:33 | 2023-03-10 | 2023-03-19 |
 | [Naughty Girl](https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 2:56 | 2023-10-13 | 2023-11-05 |
 | [Naughty Girl](https://open.spotify.com/track/6N1T8r7vpVoxUIwdMCihKr) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Naughty Girl](https://open.spotify.com/album/7bhmi0fi3gB7PXRKfeE4jQ) | 2:56 | 2023-10-27 | 2023-11-03 |
@@ -1085,6 +1085,7 @@
 | [Rey](https://open.spotify.com/track/3rS6pLKhoZ8m0Z5vqgoCfc) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Rey](https://open.spotify.com/album/5IMv5sPdSP7leaSaehgacp) | 3:43 | 2023-03-17 | 2023-03-25 |
 | [Richter und Henker](https://open.spotify.com/track/5QXz214BK8Q1mEq6Gf9kOV) | [OOMPH!](https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM) | [Richter und Henker](https://open.spotify.com/album/6lks0VKsFMfQeYCdLzJNru) | 4:37 | 2023-08-18 | 2023-08-26 |
 | [Riders On The Storm](https://open.spotify.com/track/5sMu4Fd9ToffxuHLQWMkGH) | [Maggie Declan](https://open.spotify.com/artist/2jDamBH3LPH8p5vigMiQwh), [LM.ORG](https://open.spotify.com/artist/3mbulgTpuUoEKMM6qj7rpW), [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W) | [Riders On The Storm](https://open.spotify.com/album/2cvwu3N5we9ShQ6xiU0LjX) | 6:20 | 2023-05-19 | 2023-06-18 |
+| [right now \- lofi](https://open.spotify.com/track/4AiQPX8APnKSSkrE3yOs2l) | [lonelyboy](https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc), [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [lofi chill vibes with korn](https://open.spotify.com/album/2an3rCrUgZsJu7ApHemCBC) | 2:03 | 2024-06-21 |  |
 | [Rigor Mortis Radio](https://open.spotify.com/track/006xBsccJhHkcrdUILF1cP) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Rigor Mortis Radio](https://open.spotify.com/album/5c8XabOTIVdkm39NkdAUJv) | 2:28 | 2023-07-14 | 2023-08-06 |
 | [Riot Act \- Live 1995](https://open.spotify.com/track/1LZxzhgC2YudzmEW3B7GHt) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Fall In Line \(Live\)](https://open.spotify.com/album/3Z727Un55UoG0xsbBz9W2i) | 2:14 | 2023-03-31 | 2023-04-09 |
 | [RISE](https://open.spotify.com/track/76czruvGQUkQyBu5IwbOLx) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [RISE](https://open.spotify.com/album/7EqVVPEGA3fpoLhNaafNaP) | 4:35 | 2023-03-03 | 2023-03-11 |

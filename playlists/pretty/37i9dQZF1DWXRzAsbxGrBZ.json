@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 57741,
+  "num_followers": 57813,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -223,26 +223,6 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
-        "name": "AWA",
-        "url": "https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe"
-      },
-      "artists": [
-        {
-          "name": "Ralf Gum",
-          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
-        },
-        {
-          "name": "Monica Blaire",
-          "url": "https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK"
-        }
-      ],
-      "duration_ms": 239995,
-      "name": "AWA - Ralf GUM Vocal Mix Edit",
-      "url": "https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY"
-    },
-    {
-      "added_at": "2024-06-13 23:00:00",
-      "album": {
         "name": "Welcome To The Party",
         "url": "https://open.spotify.com/album/7CZsavnt6vFWPkk8KntzjO"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 382300,
       "name": "Ngaphakathi",
       "url": "https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug"
+    },
+    {
+      "added_at": "2024-06-13 23:00:00",
+      "album": {
+        "name": "AWA",
+        "url": "https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe"
+      },
+      "artists": [
+        {
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Monica Blaire",
+          "url": "https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK"
+        }
+      ],
+      "duration_ms": 239995,
+      "name": "AWA - Ralf GUM Vocal Mix Edit",
+      "url": "https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY"
     },
     {
       "added_at": "2024-06-13 23:00:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
+    },
+    {
+      "added_at": "2024-06-13 23:00:00",
+      "album": {
         "name": "Never Thought",
         "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 284284,
       "name": "Never Thought",
       "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
-    },
-    {
-      "added_at": "2024-06-13 23:00:00",
-      "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
     },
     {
       "added_at": "2024-06-13 23:00:00",
@@ -467,6 +467,38 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA"
+      },
+      "artists": [
+        {
+          "name": "T.Williams",
+          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t"
+    },
+    {
+      "added_at": "2024-06-13 23:00:00",
+      "album": {
+        "name": "Trace EP",
+        "url": "https://open.spotify.com/album/2k6OcQTdxtE89UQzh7nek3"
+      },
+      "artists": [
+        {
+          "name": "The Godfathers Of Deep House SA",
+          "url": "https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND"
+        }
+      ],
+      "duration_ms": 428933,
+      "name": "Truth - Nostalgic Mix",
+      "url": "https://open.spotify.com/track/1TNs2tJtHYShkH5OYYYLEK"
+    },
+    {
+      "added_at": "2024-06-13 23:00:00",
+      "album": {
         "name": "Ingoma",
         "url": "https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0"
       },
@@ -507,22 +539,6 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
-        "name": "Trace EP",
-        "url": "https://open.spotify.com/album/2k6OcQTdxtE89UQzh7nek3"
-      },
-      "artists": [
-        {
-          "name": "The Godfathers Of Deep House SA",
-          "url": "https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND"
-        }
-      ],
-      "duration_ms": 428933,
-      "name": "Truth - Nostalgic Mix",
-      "url": "https://open.spotify.com/track/1TNs2tJtHYShkH5OYYYLEK"
-    },
-    {
-      "added_at": "2024-06-13 23:00:00",
-      "album": {
         "name": "Reputation",
         "url": "https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 330730,
       "name": "Another Day (feat. Ziyon)",
       "url": "https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ"
-    },
-    {
-      "added_at": "2024-06-13 23:00:00",
-      "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA"
-      },
-      "artists": [
-        {
-          "name": "T.Williams",
-          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Sensitive",
-      "url": "https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t"
     },
     {
       "added_at": "2024-06-13 23:00:00",
@@ -735,30 +735,6 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
-        "name": "Usangikhumbula (Fka Mash Glitch Dub)",
-        "url": "https://open.spotify.com/album/2euiDFx9jHb8wmUfD63sIT"
-      },
-      "artists": [
-        {
-          "name": "Kid Fonque",
-          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
-        },
-        {
-          "name": "Okmalumkoolkat",
-          "url": "https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f"
-        },
-        {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        }
-      ],
-      "duration_ms": 359750,
-      "name": "Usangikhumbula - Fka Mash Glitch Dub",
-      "url": "https://open.spotify.com/track/7Ef7oadhBDjyTj2OdxLXcz"
-    },
-    {
-      "added_at": "2024-06-13 23:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE"
       },
@@ -779,6 +755,30 @@
       "duration_ms": 366217,
       "name": "With You",
       "url": "https://open.spotify.com/track/63haVmKN5Arr9MgN1z6Qdw"
+    },
+    {
+      "added_at": "2024-06-13 23:00:00",
+      "album": {
+        "name": "Usangikhumbula (Fka Mash Glitch Dub)",
+        "url": "https://open.spotify.com/album/2euiDFx9jHb8wmUfD63sIT"
+      },
+      "artists": [
+        {
+          "name": "Kid Fonque",
+          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
+        },
+        {
+          "name": "Okmalumkoolkat",
+          "url": "https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        }
+      ],
+      "duration_ms": 359750,
+      "name": "Usangikhumbula - Fka Mash Glitch Dub",
+      "url": "https://open.spotify.com/track/7Ef7oadhBDjyTj2OdxLXcz"
     },
     {
       "added_at": "2024-06-13 23:00:00",
@@ -879,6 +879,26 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
+        "name": "OOO: AFRO",
+        "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
+      },
+      "artists": [
+        {
+          "name": "OUT OF ORDER",
+          "url": "https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC"
+        },
+        {
+          "name": "C-Blak",
+          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
+        }
+      ],
+      "duration_ms": 466467,
+      "name": "Don't 4get To Call Me",
+      "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
+    },
+    {
+      "added_at": "2024-06-13 23:00:00",
+      "album": {
         "name": "Some Lovin'",
         "url": "https://open.spotify.com/album/7sy4IIIAlvxUqCNSOczerx"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 236659,
       "name": "Some Lovin'",
       "url": "https://open.spotify.com/track/101I43Y2D9AHKOtgJlB4tO"
-    },
-    {
-      "added_at": "2024-06-13 23:00:00",
-      "album": {
-        "name": "OOO: AFRO",
-        "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
-      },
-      "artists": [
-        {
-          "name": "OUT OF ORDER",
-          "url": "https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC"
-        },
-        {
-          "name": "C-Blak",
-          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
-        }
-      ],
-      "duration_ms": 466467,
-      "name": "Don't 4get To Call Me",
-      "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
     },
     {
       "added_at": "2024-06-13 23:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {
-        "name": "Old but New Last Episode",
-        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 412264,
-      "name": "Sunday Showers",
-      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
-    },
-    {
-      "added_at": "2024-06-13 23:00:00",
-      "album": {
         "name": "Artform",
         "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 459731,
       "name": "Flute Activation - Original Mix",
       "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
+    },
+    {
+      "added_at": "2024-06-13 23:00:00",
+      "album": {
+        "name": "Old but New Last Episode",
+        "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 412264,
+      "name": "Sunday Showers",
+      "url": "https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1"
     }
   ],
   "unique_name": "Deep House Session",

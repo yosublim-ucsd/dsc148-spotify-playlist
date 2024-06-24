@@ -2300,12 +2300,12 @@
           "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
         },
         {
-          "name": "Jonathan Cohen",
-          "url": "https://open.spotify.com/artist/0z6t3buywDCXXWpXnkmH7R"
-        },
-        {
           "name": "Arcangelo",
           "url": "https://open.spotify.com/artist/7CZfCnmFRBPanhnBO1ZdMq"
+        },
+        {
+          "name": "Jonathan Cohen",
+          "url": "https://open.spotify.com/artist/0z6t3buywDCXXWpXnkmH7R"
         }
       ],
       "date_added": "2023-10-24",
@@ -9077,6 +9077,32 @@
     },
     {
       "album": {
+        "name": "Relaxing Classical",
+        "url": "https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12"
+      },
+      "artists": [
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        },
+        {
+          "name": "Evelyn Chen",
+          "url": "https://open.spotify.com/artist/4MHm4zX4oZyhnRS9d6ap0g"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192400,
+      "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation XVIII",
+      "url": "https://open.spotify.com/track/2qgBR486OqLNVS7ETrHF07"
+    },
+    {
+      "album": {
         "name": "The Depths of Winter",
         "url": "https://open.spotify.com/album/4esowhE2QG5btJkM1blB31"
       },
@@ -12336,32 +12362,6 @@
       "duration_ms": 247874,
       "name": "Valse sentimentale, Op. 51, No. 6",
       "url": "https://open.spotify.com/track/0zSDVlSukk8LCQByaOLZP7"
-    },
-    {
-      "album": {
-        "name": "Relaxing Classical",
-        "url": "https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12"
-      },
-      "artists": [
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Leonard Slatkin",
-          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
-        },
-        {
-          "name": "Evelyn Chen",
-          "url": "https://open.spotify.com/artist/4MHm4zX4oZyhnRS9d6ap0g"
-        }
-      ],
-      "date_added": "2023-04-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192400,
-      "name": "Variation XVIII",
-      "url": "https://open.spotify.com/track/2qgBR486OqLNVS7ETrHF07"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Hafitz",
     "url": "https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf"
   },
-  "snapshot_id": "AAABZyop35+PcKvf6rHgWpNoS1kkW5SB",
+  "snapshot_id": "AAABaA853uMHuLdDC1I4ZapiH6xfZRFd",
   "tracks": [
     {
       "added_at": "2022-02-21 00:16:41",
@@ -4371,6 +4371,22 @@
       "duration_ms": 260918,
       "name": "Radiance",
       "url": "https://open.spotify.com/track/7mdh10Y5dQsa3O0sYMM4zv"
+    },
+    {
+      "added_at": "2024-06-23 07:00:39",
+      "album": {
+        "name": "Immortalize",
+        "url": "https://open.spotify.com/album/32ZVSj5PM7VQSs0FvNYss2"
+      },
+      "artists": [
+        {
+          "name": "Ruins of Perception",
+          "url": "https://open.spotify.com/artist/2s5wWlq89QJWGwnpw0fLdI"
+        }
+      ],
+      "duration_ms": 371357,
+      "name": "Immortalize",
+      "url": "https://open.spotify.com/track/3pXpktbTqeYdZSswpxKmnx"
     }
   ],
   "unique_name": "Deathcore (2)",

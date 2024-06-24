@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Stemlines on cover. Artwork by Thami Nabil",
-  "num_followers": 163992,
+  "num_followers": 164090,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -469,6 +469,22 @@
       "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 123953,
+      "name": "Yip, Yip, Yip",
+      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
+    },
+    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "The Turning Ground",
@@ -485,20 +501,20 @@
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
+      "added_at": "2024-05-24 06:00:00",
       "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+        "name": "Bearded Fireworm",
+        "url": "https://open.spotify.com/album/3oJHNvLKrp708XlgVTjFbG"
       },
       "artists": [
         {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 123953,
-      "name": "Yip, Yip, Yip",
-      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
+      "duration_ms": 198000,
+      "name": "Bearded Fireworm",
+      "url": "https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -571,22 +587,6 @@
       "duration_ms": 138480,
       "name": "jacarandas",
       "url": "https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "Bearded Fireworm",
-        "url": "https://open.spotify.com/album/3oJHNvLKrp708XlgVTjFbG"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Bearded Fireworm",
-      "url": "https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-05-08 03:43:46",
       "album": {
-        "name": "hope's return",
-        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 103250,
-      "name": "hope's return",
-      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
         "name": "The Garden Dream",
         "url": "https://open.spotify.com/album/6ZaWKnLc8g4KDily8uOC9R"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 169226,
       "name": "Easy Fun",
       "url": "https://open.spotify.com/track/0rOkbQTwFnCsPqMeTWrLnB"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "hope's return",
+        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 103250,
+      "name": "hope's return",
+      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -881,6 +881,22 @@
       "url": "https://open.spotify.com/track/6bHQyX0G9QEjpna830dvBt"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Paradisia, Vol. 10",
+        "url": "https://open.spotify.com/album/3aHzXnf97IVgxMHZEDMDMe"
+      },
+      "artists": [
+        {
+          "name": "SSIEGE",
+          "url": "https://open.spotify.com/artist/4m4ywwSd3EtlfquQLUHnyW"
+        }
+      ],
+      "duration_ms": 209722,
+      "name": "Neo Blu",
+      "url": "https://open.spotify.com/track/6kuH2iKoD1vIhTy7uoOC33"
+    },
+    {
       "added_at": "2024-05-29 02:04:24",
       "album": {
         "name": "Un Sasso Nero",
@@ -911,22 +927,6 @@
       "duration_ms": 177249,
       "name": "pie \u6279",
       "url": "https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Paradisia, Vol. 10",
-        "url": "https://open.spotify.com/album/3aHzXnf97IVgxMHZEDMDMe"
-      },
-      "artists": [
-        {
-          "name": "SSIEGE",
-          "url": "https://open.spotify.com/artist/4m4ywwSd3EtlfquQLUHnyW"
-        }
-      ],
-      "duration_ms": 209722,
-      "name": "Neo Blu",
-      "url": "https://open.spotify.com/track/6kuH2iKoD1vIhTy7uoOC33"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "the mould",
-        "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
-      },
-      "artists": [
-        {
-          "name": "mui zyu",
-          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "the mould",
-      "url": "https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw"
-    },
-    {
       "added_at": "2024-05-29 02:04:24",
       "album": {
         "name": "\u98a8\u306e\u3088\u3046\u306b",
@@ -1011,6 +995,22 @@
       "duration_ms": 383090,
       "name": "\u98a8\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/4R6iLmupfyrt4PrvaxMifX"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "the mould",
+        "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
+      },
+      "artists": [
+        {
+          "name": "mui zyu",
+          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "the mould",
+      "url": "https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/0aWLipAcgGmCqDD2pQsCUp"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Webcrawler",
-      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
-    },
-    {
       "added_at": "2024-05-29 02:04:24",
       "album": {
         "name": "\u305d\u306e\u524d\u591c",
@@ -1075,6 +1059,22 @@
       "duration_ms": 136905,
       "name": "clarinette de nuit",
       "url": "https://open.spotify.com/track/22wysfy62hRd2cH3DYvkSa"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Webcrawler",
+      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/7tzDwhlzkamwtbHFXLzmOV"
     },
     {
-      "added_at": "2024-03-13 03:47:45",
-      "album": {
-        "name": "Kalma Meli Melo",
-        "url": "https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 1202372,
-      "name": "Breathing Flute 88",
-      "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "onomatopoeia",
@@ -1171,6 +1155,22 @@
       "duration_ms": 269812,
       "name": "tdU_du_tdu_tdu",
       "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
+    },
+    {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "Kalma Meli Melo",
+        "url": "https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 1202372,
+      "name": "Breathing Flute 88",
+      "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1421,26 +1421,6 @@
       "url": "https://open.spotify.com/track/3RwZGa13Iv5Wk1XYnQ90ya"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "Seedling (Me Lost Me Remix)",
-        "url": "https://open.spotify.com/album/4i5KscQeIWAOYSMOdjumQs"
-      },
-      "artists": [
-        {
-          "name": "Ceitidh Mac",
-          "url": "https://open.spotify.com/artist/6r6YPoX4hfknOTw0tV3mWb"
-        },
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227920,
-      "name": "Seedling - Me Lost Me Remix",
-      "url": "https://open.spotify.com/track/6Ut4itwtkL9imP9esqJV0X"
-    },
-    {
       "added_at": "2024-03-13 03:47:45",
       "album": {
         "name": "cyanotype memories (joe goddard remix)",
@@ -1459,6 +1439,26 @@
       "duration_ms": 191733,
       "name": "cyanotype memories - edit - joe goddard remix",
       "url": "https://open.spotify.com/track/1qTLK7XA1zRMcrmXQ2VLsr"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "Seedling (Me Lost Me Remix)",
+        "url": "https://open.spotify.com/album/4i5KscQeIWAOYSMOdjumQs"
+      },
+      "artists": [
+        {
+          "name": "Ceitidh Mac",
+          "url": "https://open.spotify.com/artist/6r6YPoX4hfknOTw0tV3mWb"
+        },
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227920,
+      "name": "Seedling - Me Lost Me Remix",
+      "url": "https://open.spotify.com/track/6Ut4itwtkL9imP9esqJV0X"
     },
     {
       "added_at": "2024-03-06 06:00:00",

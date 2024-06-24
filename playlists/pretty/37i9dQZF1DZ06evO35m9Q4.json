@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 151445,
+  "num_followers": 151499,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnTCgAAAAAC0Ky4m7qlwFUVNeXRhVpyu",
+  "snapshot_id": "ZnYUAAAAAAD9iRil8nq1XMnqB3I4FTKW",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky Is Crying",
-        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "Chitlins Con Carne",
-      "url": "https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Stevie Ray Vaughan And Double Trouble",
         "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 280826,
       "name": "Superstition - Live",
       "url": "https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "Chitlins Con Carne",
+      "url": "https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Deal: Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 270360,
+      "name": "Come On, Pt. III",
+      "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Session",
         "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 537226,
       "name": "Don't Lie To Me",
       "url": "https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Real Deal: Greatest Hits Volume 1",
-        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 270360,
-      "name": "Come On, Pt. III",
-      "url": "https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solos, Sessions & Encores",
+        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 333480,
+      "name": "On The Run - Live",
+      "url": "https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Session",
         "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 302640,
       "name": "Ask Me No Questions",
       "url": "https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solos, Sessions & Encores",
-        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 333480,
-      "name": "On The Run - Live",
-      "url": "https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn"
     },
     {
       "added_at": null,

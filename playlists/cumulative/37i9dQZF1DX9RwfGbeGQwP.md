@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,401 songs - 2 day 4 hr 46 min
+1,402 songs - 2 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,7 +466,7 @@
 | [Ginger Shot](https://open.spotify.com/track/1MRRnwQEsl2os1I1ZjPcUm) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n), [Osive](https://open.spotify.com/artist/0xU9dnJU5OscWWwAZVJwtc) | [Ginger Shot](https://open.spotify.com/album/0TNZfawkcV33823CBAIirK) | 2:05 | 2022-04-08 | 2022-10-15 |
 | [Given Moment](https://open.spotify.com/track/6hpOK6d4UWB7aOQcUEQ6Jv) | [Zibi & Bibi](https://open.spotify.com/artist/1Pkve0Wq80BendrhjGGYmo) | [Given Moment](https://open.spotify.com/album/1faduVStlrl15AtFIGEkiR) | 2:29 | 2022-11-25 |  |
 | [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 | 2022-10-15 | 2023-09-22 |
-| [Glimmer](https://open.spotify.com/track/6vHpwXwx4jV9iUjq6RzxdZ) | [Moon Dog](https://open.spotify.com/artist/4SCLmeVjCP3cZyIVzqYG1K) | [Glimmer](https://open.spotify.com/album/2U5infJxCF83jzqiqasVyJ) | 2:04 | 2023-03-08 |  |
+| [Glimmer](https://open.spotify.com/track/6vHpwXwx4jV9iUjq6RzxdZ) | [Moon Dog](https://open.spotify.com/artist/4SCLmeVjCP3cZyIVzqYG1K) | [Glimmer](https://open.spotify.com/album/2U5infJxCF83jzqiqasVyJ) | 2:04 | 2023-03-08 | 2024-06-24 |
 | [Glitch Sunset](https://open.spotify.com/track/30cNkj6a0i9yjxz5E4hSwH) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Glitch Sunset](https://open.spotify.com/album/5c58qAL3B7hykcTImx0BV2) | 2:03 | 2022-10-15 | 2023-08-04 |
 | [Glorious](https://open.spotify.com/track/6MtDXkpB4tCtiRIFfAyzCE) | [Lozzle](https://open.spotify.com/artist/3qhKLxCl0TVYBmDoNCKMbt) | [Glorious](https://open.spotify.com/album/0Gp6gzfEUO9RPly3O6hyOz) | 2:11 | 2022-01-27 | 2022-07-01 |
 | [Go Time](https://open.spotify.com/track/5JMpTtLvOURWPEQiWngaPF) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY), [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [Go Time](https://open.spotify.com/album/1UKehuNkpnmef1mtY4tu8Q) | 2:26 | 2023-05-19 | 2023-10-20 |
@@ -1108,6 +1108,7 @@
 | [Snow](https://open.spotify.com/track/7gDD63ZLoB08QdUkamY9cc) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS), [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Snow](https://open.spotify.com/album/5FHTW00QwPLbDBa3uJZHqp) | 2:34 | 2022-07-29 | 2022-11-12 |
 | [So Be It](https://open.spotify.com/track/0W0nUfbrPMHfjx2W1rtmQR) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [So Be It](https://open.spotify.com/album/4hVT7AuO0urPieBLyJiZ9y) | 2:40 | 2022-01-27 | 2024-05-14 |
 | [Social Jazz](https://open.spotify.com/track/7GzdWuACBcAB9nmz0JJ4Pl) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Social Jazz](https://open.spotify.com/album/2FOY9O0VU5AEfvmEXQYbQT) | 2:01 | 2022-06-10 | 2023-08-04 |
+| [SoFi](https://open.spotify.com/track/00ZXkrMBoVMBMXgVOz8nWX) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [SoFi](https://open.spotify.com/album/6XNEjT7GPdFp6QhgpJy4w6) | 2:11 | 2024-06-21 |  |
 | [Soft Garden](https://open.spotify.com/track/2a2MBD0XGNCPAHPKQNHusQ) | [jaxtun](https://open.spotify.com/artist/6OmeKMPyPWWmugowWQ68Pn) | [Soft Garden](https://open.spotify.com/album/3WyZrSpAVXW6d62wshYc8b) | 2:04 | 2022-01-27 | 2022-04-22 |
 | [Soft Lad](https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [Soft Lad](https://open.spotify.com/album/7uoBTodwAjmtlC51RFcl6g) | 4:26 | 2022-01-27 | 2022-07-15 |
 | [Soft Touch](https://open.spotify.com/track/6EEjOtoTfQRcwiUwqlBSnu) | [Eazy Lotus](https://open.spotify.com/artist/6yA8bNfaBNdvoDuhna5xvk) | [Soft Touch](https://open.spotify.com/album/6A5fST66CTPtWLj1OuuQdW) | 2:19 | 2023-09-04 |  |

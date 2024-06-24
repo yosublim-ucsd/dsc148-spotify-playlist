@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe?si=T8tc\_gnoT8eALkVMHFMEWA>Sinach</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,966 likes - 68 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,033 likes - 68 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

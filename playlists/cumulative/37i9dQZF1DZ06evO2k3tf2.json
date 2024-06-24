@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-06-01",
-  "description": "This Is Twenty One Pilots. Los temas esenciales, todos en una lista.",
+  "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
   "name": "This Is Twenty One Pilots",
   "tracks": [
     {
@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 214506,
       "name": "Ride",
       "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 202333,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"

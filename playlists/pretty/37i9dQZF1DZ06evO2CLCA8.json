@@ -1,18 +1,18 @@
 {
-  "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
+  "description": "This Is Tom Petty and the Heartbreakers. Los temas esenciales, todos en una lista.",
   "num_followers": 782,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnTCgAAAAABP7UHaQEQ7etNCurIiY3IC",
+  "snapshot_id": "ZnYUAAAAAAD89VD66OAHbTV9La/65oVW",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y"
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
       },
       "artists": [
         {
@@ -20,9 +20,25 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 273600,
-      "name": "Mary Jane's Last Dance",
-      "url": "https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6"
+      "duration_ms": 242106,
+      "name": "Learning To Fly",
+      "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": null,
@@ -39,22 +55,6 @@
       "duration_ms": 214733,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 161786,
-      "name": "Don't Do Me Like That",
-      "url": "https://open.spotify.com/track/5AzpZ5ADn1AFPxcEBd2Ugf"
     },
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 161786,
+      "name": "Don't Do Me Like That",
+      "url": "https://open.spotify.com/track/5AzpZ5ADn1AFPxcEBd2Ugf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
@@ -103,42 +119,6 @@
       "duration_ms": 163893,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bella Donna (2016 Remastered)",
-        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Stop Draggin' My Heart Around (with Tom Petty and The Heartbreakers) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 264453,
-      "name": "Here Comes My Girl",
-      "url": "https://open.spotify.com/track/685sEpLJe80Zzuxz3siOVT"
     },
     {
       "added_at": null,
@@ -175,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 264453,
+      "name": "Here Comes My Girl",
+      "url": "https://open.spotify.com/track/685sEpLJe80Zzuxz3siOVT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You're Gonna Get It!",
         "url": "https://open.spotify.com/album/5hULIIwBVNm3cinAAFmv1P"
       },
@@ -207,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Promises",
-        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 259773,
-      "name": "A Woman In Love (It's Not Me)",
-      "url": "https://open.spotify.com/track/2OECBjmrt1tupVdg8jcfE1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y"
       },
@@ -235,6 +215,22 @@
       "duration_ms": 196960,
       "name": "Something In The Air",
       "url": "https://open.spotify.com/track/61ydRWnQ31DWFDqEj325nf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 259773,
+      "name": "A Woman In Love (It's Not Me)",
+      "url": "https://open.spotify.com/track/2OECBjmrt1tupVdg8jcfE1"
     },
     {
       "added_at": null,
@@ -383,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Southern Accents",
-        "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 284773,
-      "name": "Southern Accents",
-      "url": "https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last DJ",
         "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
       },
@@ -411,6 +391,22 @@
       "duration_ms": 227986,
       "name": "The Last DJ",
       "url": "https://open.spotify.com/track/0uUy3WK0JtTqhSFikqprgz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Southern Accents",
+        "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 284773,
+      "name": "Southern Accents",
+      "url": "https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV"
     },
     {
       "added_at": null,
@@ -447,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Southern Accents",
-        "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 321693,
-      "name": "Rebels",
-      "url": "https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Up (I've Had Enough)",
         "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
       },
@@ -475,6 +455,22 @@
       "duration_ms": 191533,
       "name": "It'll All Work Out",
       "url": "https://open.spotify.com/track/18N4jiKRHtC5v5bgMtFeUF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Southern Accents",
+        "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 321693,
+      "name": "Rebels",
+      "url": "https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe"
     },
     {
       "added_at": null,
@@ -531,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 300933,
+      "name": "Room at the Top",
+      "url": "https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pack Up The Plantation: Live!",
         "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
       },
@@ -547,22 +559,6 @@
       "duration_ms": 145201,
       "name": "Needles And Pins - Live At The The Forum/1981",
       "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 300933,
-      "name": "Room at the Top",
-      "url": "https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7"
     },
     {
       "added_at": null,
@@ -735,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into The Great Wide Open",
-        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 245733,
-      "name": "All Or Nothin'",
-      "url": "https://open.spotify.com/track/1yVRnCEy5qXzwwaWaq4NB9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
@@ -783,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 350733,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Live Anthology",
         "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
       },
@@ -799,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+        "name": "Long After Dark",
+        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
       },
       "artists": [
         {
@@ -808,15 +804,15 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 273573,
-      "name": "You Tell Me",
-      "url": "https://open.spotify.com/track/0g4AY5N5nCLqchHpnYu26u"
+      "duration_ms": 229000,
+      "name": "Straight Into Darkness",
+      "url": "https://open.spotify.com/track/7qqxZi3lnnNNdoeUOwzN6g"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+        "name": "I Won't Back Down (Live at the Fillmore, 1997)",
+        "url": "https://open.spotify.com/album/0OmDmOf0kDHw2RXxjeaMLf"
       },
       "artists": [
         {
@@ -824,9 +820,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 350733,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI"
+      "duration_ms": 222436,
+      "name": "I Won't Back Down - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/0IXin8XHw7ikscCycdCZwa"
     }
   ],
   "unique_name": "This Is Tom Petty and the Heartbreakers",

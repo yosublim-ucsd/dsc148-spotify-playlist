@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 35390,
+  "num_followers": 35399,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnTCgAAAAAAxREquXWqFiKPvWAfovHP8",
+  "snapshot_id": "ZnYUAAAAAAB1R8deTy00KiSw7CXDa95I",
   "tracks": [
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/68RV0HNYnbkrztSe9sBZ1W"
+      "duration_ms": 237026,
+      "name": "Too Late For Mama",
+      "url": "https://open.spotify.com/track/5HQ1TGuNCF13mtH2HF39w0"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Too Late For Mama",
-      "url": "https://open.spotify.com/track/5HQ1TGuNCF13mtH2HF39w0"
+      "duration_ms": 233266,
+      "name": "Istraight Le Ndaba",
+      "url": "https://open.spotify.com/track/7qoPu9OMcp56rieRncfF6J"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
       "duration_ms": 261333,
       "name": "Soon And Very Soon",
       "url": "https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Istraight Le Ndaba",
-      "url": "https://open.spotify.com/track/7qoPu9OMcp56rieRncfF6J"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 244400,
+      "name": "Boipatong",
+      "url": "https://open.spotify.com/track/0RjRoE7GPfLq0hs51lhIPN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
       },
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Am Not A Bad Girl",
+        "url": "https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 288626,
+      "name": "Romantic World",
+      "url": "https://open.spotify.com/track/6pOOXngC299Z7wOPU4kDWQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0RDdkzqoqSDVle30Cn4csO"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 230946,
       "name": "Tendercare",
       "url": "https://open.spotify.com/track/6ukIZrNRs0LlBTV1Ewo1gd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Am Not A Bad Girl",
-        "url": "https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 314426,
-      "name": "Ngiyakusaba",
-      "url": "https://open.spotify.com/track/6ILdtae2jIJoaj0aFxqQQ4"
     },
     {
       "added_at": null,

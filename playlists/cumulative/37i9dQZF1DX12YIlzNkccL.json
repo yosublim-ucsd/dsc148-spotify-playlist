@@ -1023,32 +1023,6 @@
     },
     {
       "album": {
-        "name": "Beethoven: Missa Solemnis in D Major, Op. 123",
-        "url": "https://open.spotify.com/album/77MleVWoi45nMM4U6D9bGE"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Nikolaus Harnoncourt",
-          "url": "https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO"
-        },
-        {
-          "name": "Concentus Musicus Wien",
-          "url": "https://open.spotify.com/artist/13I2ztd72qYJXj9wS7a5VU"
-        }
-      ],
-      "date_added": "2021-06-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 596106,
-      "name": "I. Kyrie",
-      "url": "https://open.spotify.com/track/1K396bFReLYvN2Xonknvr8"
-    },
-    {
-      "album": {
         "name": "Piano Trio No. 3 in C Minor, Op. 1, No. 3/II. Andante cantabile con variazioni",
         "url": "https://open.spotify.com/album/68q3yTkL4BARSPZDzaOkSa"
       },
@@ -1144,6 +1118,56 @@
       "duration_ms": 170333,
       "name": "Minuet in G Major, WoO 10, No. 2",
       "url": "https://open.spotify.com/track/3GLLowmxDIVQBYJJR5YRBz"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Missa Solemnis in D Major, Op. 123",
+        "url": "https://open.spotify.com/album/77MleVWoi45nMM4U6D9bGE"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nikolaus Harnoncourt",
+          "url": "https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO"
+        },
+        {
+          "name": "Concentus Musicus Wien",
+          "url": "https://open.spotify.com/artist/13I2ztd72qYJXj9wS7a5VU"
+        },
+        {
+          "name": "Laura Aikin",
+          "url": "https://open.spotify.com/artist/0iTQQciEFfjROcgacVgiQF"
+        },
+        {
+          "name": "Johannes Chum",
+          "url": "https://open.spotify.com/artist/7zjocN45MChi3vMjAiwr9v"
+        },
+        {
+          "name": "Ruben Drole",
+          "url": "https://open.spotify.com/artist/0Pw6YzdzwT8sEQXkEpQmmk"
+        },
+        {
+          "name": "Arnold Schoenberg Chor",
+          "url": "https://open.spotify.com/artist/2WyMSi625FrLBuYebIJjMu"
+        },
+        {
+          "name": "Bernarda Fink",
+          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
+        },
+        {
+          "name": "Elisabeth Kulman",
+          "url": "https://open.spotify.com/artist/7CJMo5ACjwgAMWgQOaVZ7z"
+        }
+      ],
+      "date_added": "2021-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596106,
+      "name": "Missa Solemnis in D Major, Op. 123: I. Kyrie",
+      "url": "https://open.spotify.com/track/1K396bFReLYvN2Xonknvr8"
     },
     {
       "album": {

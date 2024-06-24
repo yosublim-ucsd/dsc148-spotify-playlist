@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABvNNCVs9RKGnGF1KXJ0ZUJ",
+  "snapshot_id": "AAAAAAAAAACHC9/vOLUq1ZK5Iz/U0+U7",
   "tracks": [
     {
       "added_at": "2024-06-21 04:00:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Cuarto",
+        "url": "https://open.spotify.com/album/57rUsa5oTRdwbgKbCHSNQb"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 220040,
+      "name": "Somos Errantes",
+      "url": "https://open.spotify.com/track/0HapbnDdUPdVHT0C6jHGV9"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Worlds Collide Tour (Live in Amsterdam)",
         "url": "https://open.spotify.com/album/4FA76o2vhVqP8dpMlnnmPv"
       },
@@ -107,18 +123,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Cuarto",
-        "url": "https://open.spotify.com/album/57rUsa5oTRdwbgKbCHSNQb"
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
       "artists": [
         {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 220040,
-      "name": "Somos Errantes",
-      "url": "https://open.spotify.com/track/0HapbnDdUPdVHT0C6jHGV9"
+      "duration_ms": 242666,
+      "name": "us. (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -164,29 +184,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 101142,
-      "name": "narcissistic cannibal - lofi",
-      "url": "https://open.spotify.com/track/1bijJQi2B0THRCnEIw0Hvx"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "us. (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+      "duration_ms": 123428,
+      "name": "right now - lofi",
+      "url": "https://open.spotify.com/track/4AiQPX8APnKSSkrE3yOs2l"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Columbia (Sawmills Outtake)",
-        "url": "https://open.spotify.com/album/38uIcT5xt5iECIYM33vRfK"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 437502,
-      "name": "Columbia - Sawmills Outtake",
-      "url": "https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Worry",
         "url": "https://open.spotify.com/album/1qISfk68iEjgZ4cG17YuEy"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 288946,
       "name": "Worry",
       "url": "https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Columbia (Sawmills Outtake)",
+        "url": "https://open.spotify.com/album/38uIcT5xt5iECIYM33vRfK"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 437502,
+      "name": "Columbia - Sawmills Outtake",
+      "url": "https://open.spotify.com/track/7C2nz2EEB7pvqUbWFdZk3g"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Top of the World (Live at the West End Marketplace, Dallas, TX, 12/4/1991)",
-        "url": "https://open.spotify.com/album/2OG75CV0b66G4TkZRsVJ9J"
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/74Fi5fLSHlxRhveI7HMLHz"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
         }
       ],
-      "duration_ms": 383204,
-      "name": "Top of the World - Live at the West End Marketplace, Dallas, TX, 12/4/1991",
-      "url": "https://open.spotify.com/track/22zR1Ih6YXMDDW4eeZmFfH"
+      "duration_ms": 231769,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/5URlaiX8c6XtrpI2ucYxpK"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -447,34 +447,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/74Fi5fLSHlxRhveI7HMLHz"
+        "name": "Top of the World (Live at the West End Marketplace, Dallas, TX, 12/4/1991)",
+        "url": "https://open.spotify.com/album/2OG75CV0b66G4TkZRsVJ9J"
       },
       "artists": [
         {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 231769,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/5URlaiX8c6XtrpI2ucYxpK"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "With Arms Wide Open (Live At Freeman Coliseum / 1999)",
-        "url": "https://open.spotify.com/album/02PewFxKI9y5S5rAPcQfRJ"
-      },
-      "artists": [
-        {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-        }
-      ],
-      "duration_ms": 323738,
-      "name": "With Arms Wide Open - Live At Freeman Coliseum / 1999",
-      "url": "https://open.spotify.com/track/0gFT6Rj2QVxpWSh36EiZ4Z"
+      "duration_ms": 383204,
+      "name": "Top of the World - Live at the West End Marketplace, Dallas, TX, 12/4/1991",
+      "url": "https://open.spotify.com/track/22zR1Ih6YXMDDW4eeZmFfH"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -499,6 +483,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "With Arms Wide Open (Live At Freeman Coliseum / 1999)",
+        "url": "https://open.spotify.com/album/02PewFxKI9y5S5rAPcQfRJ"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "duration_ms": 323738,
+      "name": "With Arms Wide Open - Live At Freeman Coliseum / 1999",
+      "url": "https://open.spotify.com/track/0gFT6Rj2QVxpWSh36EiZ4Z"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Que Viva el Chamam\u00e9",
         "url": "https://open.spotify.com/album/4HenxJp1vS4ki7Bhye7H0D"
       },
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Sobras de Arte",
-        "url": "https://open.spotify.com/album/7dNiMRVlejE0ScgbNWDRLX"
-      },
-      "artists": [
-        {
-          "name": "Frainstrumentos",
-          "url": "https://open.spotify.com/artist/1XIFZexGu17xwWAjdFBLwI"
-        },
-        {
-          "name": "Gran Rah",
-          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
-        }
-      ],
-      "duration_ms": 201823,
-      "name": "Siguen Ah\u00ed",
-      "url": "https://open.spotify.com/track/5p2jHU5DGZbztnxcXMa5zu"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "One Hand Clapping",
         "url": "https://open.spotify.com/album/5bo520v8a72MrqnQNCPh5Y"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 236933,
       "name": "Soily - One Hand Clapping Sessions",
       "url": "https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Sobras de Arte",
+        "url": "https://open.spotify.com/album/7dNiMRVlejE0ScgbNWDRLX"
+      },
+      "artists": [
+        {
+          "name": "Frainstrumentos",
+          "url": "https://open.spotify.com/artist/1XIFZexGu17xwWAjdFBLwI"
+        },
+        {
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+        }
+      ],
+      "duration_ms": 201823,
+      "name": "Siguen Ah\u00ed",
+      "url": "https://open.spotify.com/track/5p2jHU5DGZbztnxcXMa5zu"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Make It All Right",
+        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "The Quest for Tanelorn (Revisited)",
         "url": "https://open.spotify.com/album/7vtUeoxwk5o5zSJ7IudmNY"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Make It All Right",
-        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
+        "name": "Pictures of You",
+        "url": "https://open.spotify.com/album/7H0rjJQJ1QqQC9VLaOSEa5"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 214053,
-      "name": "Make It All Right",
-      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+      "duration_ms": 231160,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/5E5cy2Ns02oIxRL0STdLOP"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -719,22 +735,6 @@
       "duration_ms": 230840,
       "name": "Parklife - Live at Wembley Stadium",
       "url": "https://open.spotify.com/track/1iJXeKNHHAX9ZqoXW0NPsS"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Pictures of You",
-        "url": "https://open.spotify.com/album/7H0rjJQJ1QqQC9VLaOSEa5"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Pictures of You",
-      "url": "https://open.spotify.com/track/5E5cy2Ns02oIxRL0STdLOP"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 195099,
-      "name": "We Made It Look Easy",
-      "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "The Born in the U.S.A. Tour '84 - '85",
         "url": "https://open.spotify.com/album/7I1AeiGL76IsHls98I6xEe"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 195099,
+      "name": "We Made It Look Easy",
+      "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Boston Tea Party, Boston 1970",
         "url": "https://open.spotify.com/album/24TZHrFBS55qRZ8G5SK575"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 350722,
       "name": "For a Thousand Mothers - Live",
       "url": "https://open.spotify.com/track/6WQzrcoT13xFaACybHjgIZ"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Count Me Out",
-        "url": "https://open.spotify.com/album/1ePPzs2oFi7S0PtgdJidgQ"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 252392,
-      "name": "Count Me Out",
-      "url": "https://open.spotify.com/track/5Obhe5gMI1htOwRupTc5K2"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -951,6 +935,22 @@
       "duration_ms": 207992,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Count Me Out",
+        "url": "https://open.spotify.com/album/1ePPzs2oFi7S0PtgdJidgQ"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "duration_ms": 252392,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/5Obhe5gMI1htOwRupTc5K2"
     },
     {
       "added_at": "2024-06-21 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L?si=PjQiQTPdTpmEShNASUkQIQ"> Major Myjah </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,358 likes - 204 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,433 likes - 204 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

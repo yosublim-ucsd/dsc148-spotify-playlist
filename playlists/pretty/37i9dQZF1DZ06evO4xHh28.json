@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 562333,
+  "num_followers": 562431,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnTCgAAAAACV8PDDchxqYaqKWRaCy5lW",
+  "snapshot_id": "ZnYUAAAAAADTgQkMuDS+rbr5hEaq00xI",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 194253,
-      "name": "The Ghost of You",
-      "url": "https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL"
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 173733,
-      "name": "You Know What They Do to Guys Like Us in Prison",
-      "url": "https://open.spotify.com/track/5bTuwAgYUD5MABOIPH8ZMt"
+      "duration_ms": 194253,
+      "name": "The Ghost of You",
+      "url": "https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 221093,
-      "name": "Thank You for the Venom",
-      "url": "https://open.spotify.com/track/0BpKPyXhWsTaWkgXeOd1Sn"
+      "duration_ms": 173733,
+      "name": "You Know What They Do to Guys Like Us in Prison",
+      "url": "https://open.spotify.com/track/5bTuwAgYUD5MABOIPH8ZMt"
     },
     {
       "added_at": null,
@@ -292,9 +292,25 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 188066,
-      "name": "Cemetery Drive",
-      "url": "https://open.spotify.com/track/2cViIXIe8Pbd1sOJExMJlK"
+      "duration_ms": 221093,
+      "name": "Thank You for the Venom",
+      "url": "https://open.spotify.com/track/0BpKPyXhWsTaWkgXeOd1Sn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
+        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 270386,
+      "name": "SING",
+      "url": "https://open.spotify.com/track/1mX6SYJ1ZpcoxQUiER8wOI"
     },
     {
       "added_at": null,
@@ -311,22 +327,6 @@
       "duration_ms": 326506,
       "name": "Vampires Will Never Hurt You",
       "url": "https://open.spotify.com/track/7J4uwuiyWB7BqIcyNdcVRl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Number Three",
-        "url": "https://open.spotify.com/album/4pE8Bo9MYWMvc8JfYr5v5E"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 312760,
-      "name": "The Light Behind Your Eyes",
-      "url": "https://open.spotify.com/track/3HyDpKAuR3e4l6QB7hSB2l"
     },
     {
       "added_at": null,
@@ -356,9 +356,25 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 138840,
-      "name": "Give 'Em Hell, Kid",
-      "url": "https://open.spotify.com/track/0axF06XwNLobcx5z8BVtYw"
+      "duration_ms": 188066,
+      "name": "Cemetery Drive",
+      "url": "https://open.spotify.com/track/2cViIXIe8Pbd1sOJExMJlK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Number Three",
+        "url": "https://open.spotify.com/album/4pE8Bo9MYWMvc8JfYr5v5E"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 312760,
+      "name": "The Light Behind Your Eyes",
+      "url": "https://open.spotify.com/track/3HyDpKAuR3e4l6QB7hSB2l"
     },
     {
       "added_at": null,
@@ -475,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
-        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
+        "name": "Number Two",
+        "url": "https://open.spotify.com/album/2WzXUz0hVD8s9FBmpIl9XM"
       },
       "artists": [
         {
@@ -484,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 272906,
-      "name": "DESTROYA",
-      "url": "https://open.spotify.com/track/08gaUXuT1LXIae7TwBTCB9"
+      "duration_ms": 232173,
+      "name": "AMBULANCE",
+      "url": "https://open.spotify.com/track/1X75XA77E14HqCCBfkl5FM"
     },
     {
       "added_at": null,
@@ -503,22 +519,6 @@
       "duration_ms": 305053,
       "name": "Early Sunsets Over Monroeville",
       "url": "https://open.spotify.com/track/2aHqdN4K9naX3oBuUxp6zf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Number Two",
-        "url": "https://open.spotify.com/album/2WzXUz0hVD8s9FBmpIl9XM"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "AMBULANCE",
-      "url": "https://open.spotify.com/track/1X75XA77E14HqCCBfkl5FM"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "May Death Never Stop You",
+        "url": "https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/3ZaS7Bcz9tpFIjfst63tSw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/2RCPu5qyaDPWIeWdy4WJCU"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 222013,
       "name": "Make Room!!!!",
       "url": "https://open.spotify.com/track/2Yi6aqwX2e0JQ9bTNUGfRT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "May Death Never Stop You",
-        "url": "https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/3ZaS7Bcz9tpFIjfst63tSw"
     }
   ],
   "unique_name": "This Is My Chemical Romance",

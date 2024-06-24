@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 54 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 55 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,13 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 | 44 | [DONE WITH YOU](https://open.spotify.com/track/4jogIUuguYYQcggPlAAy2a) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG), [Danny Baldursson](https://open.spotify.com/artist/7DdOl2eNdIGAiHF74dFtYS) | [DONE WITH YOU](https://open.spotify.com/album/6mzgSAMmEMNbS93V92aLal) | 2:31 |
 | 45 | [I'll Be Home](https://open.spotify.com/track/0swU3UEVigidoLc8k5dd7Y) | [YUNA](https://open.spotify.com/artist/7unfyHphLkqeFODqHAgvr2), [Martin van Lectro](https://open.spotify.com/artist/0goAkRbqjvGdCHsTN0ToOL), [Patrick Metzker](https://open.spotify.com/artist/33uhwUheWoyh63ggR3eZaL) | [I'll Be Home](https://open.spotify.com/album/0ETN9o5bXMk2RI75CHLNpx) | 2:02 |
 | 46 | [ZURÜCK ZU DIR](https://open.spotify.com/track/0iAXtySs1LbwnCVCIeCL7h) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [ZURÜCK ZU DIR](https://open.spotify.com/album/6S2SfITnDPl4eDe4TunS9C) | 2:36 |
-| 47 | [Last Christmas](https://open.spotify.com/track/7EOgEy6NH28zV2q8i6apNN) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Last Christmas](https://open.spotify.com/album/0iEH4xMIHTSmrHXsoA0qT3) | 2:20 |
-| 48 | [Talk To My Body](https://open.spotify.com/track/5NIRs5yzSHnD4lDiZhTyt1) | [J\-MOX](https://open.spotify.com/artist/0cFSCEnmtvNCdKNxPLSwP2), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Talk To My Body](https://open.spotify.com/album/0lhCnHBthlbwEaQuvvhPWB) | 2:46 |
-| 49 | [Insecurities](https://open.spotify.com/track/3Bv7K7WqHXa0u3tdUyEpNg) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Insecurities](https://open.spotify.com/album/3Q8o4LeEkVHn59LLmGBuuw) | 2:58 |
-| 50 | [It's You](https://open.spotify.com/track/6pbAV8UDevvh8GaWtiylzA) | [Allenx](https://open.spotify.com/artist/6MRiy2aJOrZwKRcgdAZ2oH) | [It's You](https://open.spotify.com/album/6yNCLRluSrZPxK8f5PHWa6) | 2:25 |
-| 51 | [Tonight I'm Gonna Dance](https://open.spotify.com/track/3kFcllup1aucn7AWLDKqA3) | [Sanzach](https://open.spotify.com/artist/62GsFBdGVenYYlclZgtXDD) | [Tonight I'm Gonna Dance](https://open.spotify.com/album/3vgkuOQieRHCrNkrloKZSW) | 2:56 |
-| 52 | [5/10](https://open.spotify.com/track/5rIYn6fgIIraBGl6kvY3g3) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Moody](https://open.spotify.com/album/3NeQAa6mtrJdgvbu2pEaAN) | 2:29 |
-| 53 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 |
-| 54 | [One More Night to Go](https://open.spotify.com/track/4xylMnIhy4TEpsKwFW1jFd) | [Swasion](https://open.spotify.com/artist/2laSdQ3VWlxoqY1HOV6KFm) | [One More Night to Go](https://open.spotify.com/album/4MGkPbRnNQKX3aPgB6slEO) | 2:38 |
+| 47 | [Break This Love](https://open.spotify.com/track/4XvteN1VIVKZnNB2jmQnHZ) | [Hanno](https://open.spotify.com/artist/4y08hdBM8X8dh1Ik7eWZFg), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Break This Love](https://open.spotify.com/album/7861FXVmpGC4c8YeWKi9CE) | 2:33 |
+| 48 | [Last Christmas](https://open.spotify.com/track/7EOgEy6NH28zV2q8i6apNN) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Last Christmas](https://open.spotify.com/album/0iEH4xMIHTSmrHXsoA0qT3) | 2:20 |
+| 49 | [Talk To My Body](https://open.spotify.com/track/5NIRs5yzSHnD4lDiZhTyt1) | [J\-MOX](https://open.spotify.com/artist/0cFSCEnmtvNCdKNxPLSwP2), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Talk To My Body](https://open.spotify.com/album/0lhCnHBthlbwEaQuvvhPWB) | 2:46 |
+| 50 | [Insecurities](https://open.spotify.com/track/3Bv7K7WqHXa0u3tdUyEpNg) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Insecurities](https://open.spotify.com/album/3Q8o4LeEkVHn59LLmGBuuw) | 2:58 |
+| 51 | [It's You](https://open.spotify.com/track/6pbAV8UDevvh8GaWtiylzA) | [Allenx](https://open.spotify.com/artist/6MRiy2aJOrZwKRcgdAZ2oH) | [It's You](https://open.spotify.com/album/6yNCLRluSrZPxK8f5PHWa6) | 2:25 |
+| 52 | [Tonight I'm Gonna Dance](https://open.spotify.com/track/3kFcllup1aucn7AWLDKqA3) | [Sanzach](https://open.spotify.com/artist/62GsFBdGVenYYlclZgtXDD) | [Tonight I'm Gonna Dance](https://open.spotify.com/album/3vgkuOQieRHCrNkrloKZSW) | 2:56 |
+| 53 | [5/10](https://open.spotify.com/track/5rIYn6fgIIraBGl6kvY3g3) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Moody](https://open.spotify.com/album/3NeQAa6mtrJdgvbu2pEaAN) | 2:29 |
+| 54 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 |
+| 55 | [One More Night to Go](https://open.spotify.com/track/4xylMnIhy4TEpsKwFW1jFd) | [Swasion](https://open.spotify.com/artist/2laSdQ3VWlxoqY1HOV6KFm) | [One More Night to Go](https://open.spotify.com/album/4MGkPbRnNQKX3aPgB6slEO) | 2:38 |
 
-Snapshot ID: `AbUxVwAAAAByyuVc8aUurW5I9Cxr7VGj`
+Snapshot ID: `AbU29wAAAADSTWgZ7OHbWl2Ca9ya+/RE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,353 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,355 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKxYYIUIgn7V.md) - [plain]
 | 49 | [Islands \(kompa pasión\)](https://open.spotify.com/track/6LCIDTgSgQtpzXTW5FpW12) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [Tomo](https://open.spotify.com/artist/5VPtDTD7IRhJ4N322GNFJj) | [Islands \(kompa pasión\)](https://open.spotify.com/album/0ZoUKS7k3JfhKbc7T3zjcs) | 2:06 |
 | 50 | [Klimpa Klimpa](https://open.spotify.com/track/5Mhcs48UfZn7CeNv1wgNyT) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Klimpa Klimpa](https://open.spotify.com/album/4jKFE0VEvvWOAZDY8aKq7z) | 2:03 |
 
-Snapshot ID: `Lgo5cAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LguImAAAAAAAAAAAAAAAAAAAAAAAAGVu`

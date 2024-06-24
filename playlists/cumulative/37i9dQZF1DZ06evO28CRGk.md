@@ -2,9 +2,9 @@
 
 ### [This Is Marco Polo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28CRGk)
 
-> This is Marco Polo\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Marco Polo。アーティストの代表曲をひとつのプレイリストに。
 
-78 songs - 4 hr 12 min
+79 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [December 26th \(Skit\)](https://open.spotify.com/track/034iKJM6I8imO6cG3uqBc6) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Richmond Hill](https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V) | 1:07 | 2024-01-27 | 2024-04-19 |
 | [Don't Touch That Phone](https://open.spotify.com/track/5XweTODWq5Fp93bcXVLYMq) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [MP On The MP: The Beat Tape Vol\. 1](https://open.spotify.com/album/0jVA9R5PBXoBnl27fbRJEh) | 3:54 | 2024-01-24 | 2024-01-26 |
 | [Double Barrel](https://open.spotify.com/track/7G44SyqP1cQqyeKcje7f3k) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [DJ Revolution](https://open.spotify.com/artist/5OsTd4JBco0XckFuy3vCql) | [Double Barrel](https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY) | 3:24 | 2023-12-13 | 2024-01-29 |
+| [Długi](https://open.spotify.com/track/7haE5yRQF0r2KEjP6wYUVI) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Dj Haem](https://open.spotify.com/artist/18517Eowkj2uscvAX3FdOm) | [Kartagina](https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz) | 3:55 | 2024-06-24 |  |
 | [E.A.T.](https://open.spotify.com/track/5wf4rbeLC7w5vh5mRGuPWN) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Evidence](https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Breukelen Story \(Deluxe Edition\)](https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw) | 3:47 | 2023-12-13 |  |
 | [Fame For President](https://open.spotify.com/track/4eRfNBuj4EyOmGHvvPmTsd) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Lil Fame](https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u) | [Newport Authority 2](https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O) | 2:59 | 2023-12-13 | 2024-01-17 |
 | [For the Future](https://open.spotify.com/track/70otjXKq2lzJbynH7W3N76) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 3:37 | 2023-12-13 |  |

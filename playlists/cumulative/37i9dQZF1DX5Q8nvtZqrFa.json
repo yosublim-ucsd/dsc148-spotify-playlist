@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 194344,
       "name": "\u306a\u3041",
       "url": "https://open.spotify.com/track/0E5FxZ0spndv7NZGQdrJaZ"
@@ -2140,6 +2140,24 @@
       "duration_ms": 197307,
       "name": "\u50d5\u3089\u307e\u305f",
       "url": "https://open.spotify.com/track/5hzOyvCqy8sb39xGXUEdpb"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30cb\u30fc\u30dc\u30c8\u30eb",
+        "url": "https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258207,
+      "name": "\u512a\u3057\u3055\u306b\u6ea2\u308c\u305f\u4e16\u754c\u3067",
+      "url": "https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE"
     },
     {
       "album": {

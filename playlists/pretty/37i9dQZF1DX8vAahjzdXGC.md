@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Afgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,019 likes - 120 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,064 likes - 120 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 54 | [SABOTAGE](https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [SABOTAGE](https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL) | 3:15 |
 | 55 | [POM POM POM](https://open.spotify.com/track/4KtNoHpc781qroUhOol1I1) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [UNFRAMED](https://open.spotify.com/album/09fRNZvZnqJqm7024Sa7uP) | 3:25 |
 | 56 | [Badder Love](https://open.spotify.com/track/2muqyJpZ71YJ7bP9F69rZM) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [RIDE or DIE](https://open.spotify.com/album/66GxvvTy5DcJlhs4XAyc8v) | 2:37 |
-| 57 | [Janji Setia](https://open.spotify.com/track/69wgjqG4OKu3oMuMx3BJKq) | [Ivan Tandyo](https://open.spotify.com/artist/5TcqV9DKVke1eYk4EcdACc), [Sari Simorangkir](https://open.spotify.com/artist/4SMWyJhr2EAP4Jci5bFfEv) | [Janji Setia](https://open.spotify.com/album/25mcuW3evPLgTS0JMN0m4g) | 4:35 |
+| 57 | [Janji Setia](https://open.spotify.com/track/69wgjqG4OKu3oMuMx3BJKq) | [Ivan Tandyo](https://open.spotify.com/artist/2qi45OSWJeq0lyAng2Lh5Y), [Sari Simorangkir](https://open.spotify.com/artist/4SMWyJhr2EAP4Jci5bFfEv) | [Janji Setia](https://open.spotify.com/album/25mcuW3evPLgTS0JMN0m4g) | 4:35 |
 | 58 | [Misery Boy](https://open.spotify.com/track/4R7m5UEkR2nvWuIJB5yLBB) | [Tiffany Kenanga](https://open.spotify.com/artist/0zT2tZH2apSkDSUKGMouvV) | [Misery Boy](https://open.spotify.com/album/45Gii4IheAXfjUJlFDx3Cn) | 3:04 |
 | 59 | [Denganmu](https://open.spotify.com/track/5p461soYJ343QtPTQYIlJF) | [Dodi Hidayatullah](https://open.spotify.com/artist/5DtLvjtL1gcVENNNoAETCL), [Ray Shareza](https://open.spotify.com/artist/5FbshoTq38tzlL25gymuli) | [Denganmu](https://open.spotify.com/album/7bANRwBWWUo3j4WEuCGYWP) | 4:31 |
 | 60 | [Inner Dance](https://open.spotify.com/track/2O4pDMQQYRAafCrlVP5AEU) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Glow <Inner Dance>](https://open.spotify.com/album/1s9mkcyxFmeOvsI1KDfW06) | 3:01 |

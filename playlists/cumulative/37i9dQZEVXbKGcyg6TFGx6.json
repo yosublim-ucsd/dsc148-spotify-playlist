@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295893,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
@@ -1995,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "Remember Stories (Live)",
+        "url": "https://open.spotify.com/album/1zjyAw9ZvlqEuARRWomf9h"
+      },
+      "artists": [
+        {
+          "name": "Antonie Eyries",
+          "url": "https://open.spotify.com/artist/67nXCDLJ9TvUPRmQoVpeyr"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133863,
+      "name": "Always Forward - Live",
+      "url": "https://open.spotify.com/track/4aXZt7G5oiuybIrNH5Zvml"
+    },
+    {
+      "album": {
         "name": "Always on the run",
         "url": "https://open.spotify.com/album/61t1CVlAIr7HWUkS0KcF3K"
       },
@@ -2356,7 +2392,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2962,7 +2998,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 161977,
       "name": "Aucune attache",
       "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
@@ -3486,6 +3522,24 @@
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+    },
+    {
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/45LXdtum8gm986kuWAozKD"
+      },
+      "artists": [
+        {
+          "name": "FABIO PEREZ",
+          "url": "https://open.spotify.com/artist/502zQ1unzcBaHO68WnEh0J"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115641,
+      "name": "Back Up",
+      "url": "https://open.spotify.com/track/6cweomcd7oH1CRGxLCrpVy"
     },
     {
       "album": {
@@ -4738,6 +4792,24 @@
       "duration_ms": 291858,
       "name": "Billions",
       "url": "https://open.spotify.com/track/4oUxbnDuftDySQKvdjJImH"
+    },
+    {
+      "album": {
+        "name": "Coconut",
+        "url": "https://open.spotify.com/album/53nsBZHJnyJAQvHOxyLRyR"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Biography",
+      "url": "https://open.spotify.com/track/14LIi6WxoPl1ZtDb3qppIK"
     },
     {
       "album": {
@@ -12652,7 +12724,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
@@ -14776,6 +14848,24 @@
       "duration_ms": 127991,
       "name": "GOD'S COUNTRY",
       "url": "https://open.spotify.com/track/04WxWo7XeVyx22xEsrWRUb"
+    },
+    {
+      "album": {
+        "name": "Passionate",
+        "url": "https://open.spotify.com/album/5d1n9q90NnXbVJqFgI20bK"
+      },
+      "artists": [
+        {
+          "name": "BRENO MORGAN",
+          "url": "https://open.spotify.com/artist/6iLCpqN9se5NYJI1Df1eyy"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106167,
+      "name": "God's Work",
+      "url": "https://open.spotify.com/track/6Lh9D1YLtkKPkHwCVaDTef"
     },
     {
       "album": {
@@ -21958,7 +22048,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 233240,
       "name": "MAMI WATA",
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
@@ -23274,7 +23364,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 179106,
       "name": "Mittelmeer",
       "url": "https://open.spotify.com/track/6leQi7NakJQS1vHRtZsroe"
@@ -26994,7 +27084,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 175321,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
@@ -28006,7 +28096,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -28028,6 +28118,28 @@
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
+    },
+    {
+      "album": {
+        "name": "Invincible Friends (Edition Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/6d2wdCPbQQYZ4FMoEp0gSV"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190243,
+      "name": "Prayer In C - Robin Schulz Remix - Radio Edit",
+      "url": "https://open.spotify.com/track/5HdUMBc7AhPFhlPDZUpSwf"
     },
     {
       "album": {
@@ -29110,6 +29222,24 @@
       "duration_ms": 235642,
       "name": "Remember the Love",
       "url": "https://open.spotify.com/track/1ynnAfvyW1lzpYkG7NpqbH"
+    },
+    {
+      "album": {
+        "name": "Remember Stories (Live)",
+        "url": "https://open.spotify.com/album/1zjyAw9ZvlqEuARRWomf9h"
+      },
+      "artists": [
+        {
+          "name": "Antonie Eyries",
+          "url": "https://open.spotify.com/artist/67nXCDLJ9TvUPRmQoVpeyr"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148421,
+      "name": "Renew Me - Live",
+      "url": "https://open.spotify.com/track/2E7wibWdZRLj0gfVpQAz7Y"
     },
     {
       "album": {
@@ -30993,6 +31123,24 @@
     },
     {
       "album": {
+        "name": "Crossfire",
+        "url": "https://open.spotify.com/album/5um9lKYuM9GcGDhgYnKfmb"
+      },
+      "artists": [
+        {
+          "name": "DANIEL SAGATTO",
+          "url": "https://open.spotify.com/artist/1x7nm6EDfmlIz842HZ3pTh"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102095,
+      "name": "Security Dog",
+      "url": "https://open.spotify.com/track/5c1cWBGJi65WC7LK8hvLzF"
+    },
+    {
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -32052,7 +32200,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
@@ -33678,6 +33826,28 @@
       "duration_ms": 190746,
       "name": "Sueltate",
       "url": "https://open.spotify.com/track/0zGCLDwYckDIwSSh7gh00i"
+    },
+    {
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219043,
+      "name": "Sugar (feat. Francesco Yates)",
+      "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
     },
     {
       "album": {
@@ -35504,6 +35674,24 @@
       "duration_ms": 293048,
       "name": "The Tortured Poets Department",
       "url": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"
+    },
+    {
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/45LXdtum8gm986kuWAozKD"
+      },
+      "artists": [
+        {
+          "name": "FABIO PEREZ",
+          "url": "https://open.spotify.com/artist/502zQ1unzcBaHO68WnEh0J"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114111,
+      "name": "The Whole City",
+      "url": "https://open.spotify.com/track/5zquRILII4WPAmd07BgmSW"
     },
     {
       "album": {
@@ -37732,7 +37920,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
@@ -39446,7 +39634,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 176492,
       "name": "Wunder",
       "url": "https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM"

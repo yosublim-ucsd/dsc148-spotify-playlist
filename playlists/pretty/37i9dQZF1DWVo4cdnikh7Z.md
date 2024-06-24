@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : GOAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,258 likes - 87 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,406 likes - 87 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

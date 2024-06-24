@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,983 likes - 108 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,984 likes - 108 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 104 | [Me La Gozo Entera](https://open.spotify.com/track/5aBnVmzJvo5rJfoXTXJz5a) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Rumbon Navideno](https://open.spotify.com/album/0R4hEWSzwwRwXE5mNT82H7) | 3:54 |
 | 105 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/3jcQdzXtzd6jnjRny2Ez6b) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:29 |
 | 106 | [El Tamborilero](https://open.spotify.com/track/4SIRNOB4kL8Uox6xqr07Ej) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Navidad](https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR) | 3:45 |
-| 107 | [Farolito \(Little Star\)](https://open.spotify.com/track/7rYC3pa1w04szXDCCOpbsd) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Party](https://open.spotify.com/album/5zia3CV55WrS5QwEHWvFcY) | 4:39 |
+| 107 | [Farolito \(Little Star\)](https://open.spotify.com/track/7rYC3pa1w04szXDCCOpbsd) | [Kike Santander](https://open.spotify.com/artist/74cNhp7LsCkRB6i4ey3hIT), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Party](https://open.spotify.com/album/5zia3CV55WrS5QwEHWvFcY) | 4:39 |
 | 108 | [Aires De Navidad](https://open.spotify.com/track/3q07EDAXOMoQ4SSf5NRkVn) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideño](https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI) | 3:43 |
 
 Snapshot ID: `ZIsP4gAAAADInF9Mrhl/ezs8XtyYSFIU`

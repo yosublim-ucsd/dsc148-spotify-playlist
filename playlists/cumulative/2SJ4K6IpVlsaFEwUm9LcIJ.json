@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Weird Little Birthday",
+        "url": "https://open.spotify.com/album/64hZe9D1dLyyq0s3NLBfsB"
+      },
+      "artists": [
+        {
+          "name": "Happyness",
+          "url": "https://open.spotify.com/artist/4nddgNqdf0SFeeqhbDN6rN"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205752,
+      "name": "A Whole New Shape",
+      "url": "https://open.spotify.com/track/0TTyYV1dQAcB5uDH9VJKbQ"
+    },
+    {
+      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/6KSS1RgmJO0eqNglGiLrhU"
       },

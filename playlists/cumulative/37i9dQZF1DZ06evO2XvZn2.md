@@ -2,7 +2,7 @@
 
 ### [This Is Evaluna Montaner](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XvZn2)
 
-> This is Evaluna Montaner\. Todos os maiores hits em uma só playlist.
+> This is Evaluna Montaner\. The essential tracks, all in one playlist.
 
 42 songs - 2 hr 24 min
 
@@ -21,7 +21,7 @@
 | [Eva \(feat\. Riccardo Frascari\)](https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Riccardo Frascari](https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76) | [Eva \(feat\. Riccardo Frascari\)](https://open.spotify.com/album/5etNIcaFHbH0LbcTFoeCMB) | 2:34 | 2023-09-25 |  |
 | [Gracia Incomparable \- Versión Acústica](https://open.spotify.com/track/1pyA01cXyIK49MGbjVMMYZ) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Sesión Orgánica: Parte 2](https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu) | 3:56 | 2023-09-25 |  |
 | [Hallelujah](https://open.spotify.com/track/1QKYuBO7MDcmV9ruzCJTlv) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Piano y Mujer](https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1) | 3:42 | 2023-09-25 |  |
-| [If The World Was Ending \- Spanglish Version](https://open.spotify.com/track/5Lp9GcZAY7H2M2NjIS3Cdn) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [If The World Was Ending \(Spanglish Version\)](https://open.spotify.com/album/2GszvoZ2OFlv8iRSDHw5Ek) | 3:31 | 2023-09-25 | 2024-06-23 |
+| [If The World Was Ending \- Spanglish Version](https://open.spotify.com/track/5Lp9GcZAY7H2M2NjIS3Cdn) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [If The World Was Ending \(Spanglish Version\)](https://open.spotify.com/album/2GszvoZ2OFlv8iRSDHw5Ek) | 3:31 | 2023-09-25 |  |
 | [Interludio: La Gloria de Dios](https://open.spotify.com/track/4I85x8j08iqV0fVAqB5Lnx) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Fe](https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw) | 3:26 | 2023-09-25 |  |
 | [La Gloria de Dios \(feat\. Evaluna Montaner\)](https://open.spotify.com/track/2SXA7iCdyfpIr2fpsYpf8U) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Viajero Frecuente](https://open.spotify.com/album/1bTNKPf95iD8ltYReGkVrS) | 6:21 | 2023-09-25 |  |
 | [Ladrona \(feat\. Carolina Mestrovic\)](https://open.spotify.com/track/4mNYI236bic5jVoZXZXYbH) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Carolina Mestrovic](https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 2:57 | 2023-09-25 |  |

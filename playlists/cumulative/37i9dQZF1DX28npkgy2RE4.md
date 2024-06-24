@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 | 2021-11-12 | 2022-07-21 |
+| [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 | 2021-11-12 |  |
 | [2 FOR THA SHOW](https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Traffic Fiction](https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA) | 3:56 | 2023-10-06 |  |
 | [A Dream Of Home](https://open.spotify.com/track/4LINukxWI1NvCP7NUA9mKI) | [Tyler Ramsey](https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK) | [A Dream Of Home](https://open.spotify.com/album/2HSl3zIGxIG78lMrPIhWQK) | 6:02 | 2021-11-12 | 2022-07-29 |
 | [A Dream Of Home](https://open.spotify.com/track/1gus1NMkhoa9HqHflUh4f0) | [Tyler Ramsey](https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK) | [For The Morning](https://open.spotify.com/album/5Zktlm6wdERfJnqGCNN3n6) | 6:02 | 2022-07-11 | 2023-11-02 |
@@ -213,7 +213,7 @@
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-07-11 | 2024-04-19 |
 | [In Dreams](https://open.spotify.com/track/1jzBSEvkIH8uDZbLstFVbV) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [In Dreams](https://open.spotify.com/album/2wluscaDRRfUyN46LD9lee) | 2:41 | 2021-11-12 | 2022-07-29 |
 | [Isolation](https://open.spotify.com/track/06pJGXrocnDom4Sk7jgiW8) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [Wake Me if I'm Asleep / Isolation](https://open.spotify.com/album/0udStOWNyF0SwmlLPvad6r) | 2:54 | 2022-04-01 | 2022-04-16 |
-| [It Is What It Is](https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Green to Gold](https://open.spotify.com/album/72XWeRa3UZSkxLkGs2kTHo) | 3:57 | 2021-11-12 |  |
+| [It Is What It Is](https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Green to Gold](https://open.spotify.com/album/72XWeRa3UZSkxLkGs2kTHo) | 3:57 | 2021-11-12 | 2024-06-24 |
 | [It Just Goes On](https://open.spotify.com/track/2sQTFWciCwG4CgNql5aiKj) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [It Just Goes On](https://open.spotify.com/album/5aXWY1KsCF76okXvdps06y) | 3:33 | 2022-04-01 | 2022-07-26 |
 | [It Must Be Someone Else’s Fault](https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 3:18 | 2021-11-12 |  |
 | [It's a good day \(to fight the system\)](https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I \(motsi\)](https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G) | 3:17 | 2021-11-12 | 2023-11-05 |

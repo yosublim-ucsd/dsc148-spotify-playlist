@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 101647,
       "name": "1989 at the bustop",
       "url": "https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO"
@@ -704,6 +704,24 @@
       "duration_ms": 118411,
       "name": "Autumn Stroll",
       "url": "https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO"
+    },
+    {
+      "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/1BEIyMdOKIlmmXCyf9ORET"
+      },
+      "artists": [
+        {
+          "name": "Quinn Rain",
+          "url": "https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149504,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/0GEmUg3e8CGFtWjJU0cDux"
     },
     {
       "album": {
@@ -8325,6 +8343,24 @@
     },
     {
       "album": {
+        "name": "SoFi",
+        "url": "https://open.spotify.com/album/6XNEjT7GPdFp6QhgpJy4w6"
+      },
+      "artists": [
+        {
+          "name": "Glozone",
+          "url": "https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131333,
+      "name": "SoFi",
+      "url": "https://open.spotify.com/track/00ZXkrMBoVMBMXgVOz8nWX"
+    },
+    {
+      "album": {
         "name": "Softly Whispering",
         "url": "https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3"
       },
@@ -8372,7 +8408,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 123058,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6DD1Ddv0U7cTA2pqqmjWxR"

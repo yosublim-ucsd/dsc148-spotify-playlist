@@ -1,12 +1,12 @@
 {
-  "description": "This is Heroes Del Silencio. The essential tracks, all in one playlist.",
-  "num_followers": 187159,
+  "description": "This Is Heroes Del Silencio. Los temas esenciales, todos en una lista.",
+  "num_followers": 187220,
   "original_name": "This Is Heroes Del Silencio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnTCgAAAAAAJG6ZW23ZYXrDLr44STzUr",
+  "snapshot_id": "ZnYUAAAAAAAfes04FnRBZ1rtPuXEbbLG",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senderos De Traici\u00f3n",
-        "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 368320,
-      "name": "Entre dos tierras",
-      "url": "https://open.spotify.com/track/4rJdaSwOCHLBhxdMsymeMw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Esp\u00edritu Del Vino- Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3"
       },
@@ -75,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "La carta",
-      "url": "https://open.spotify.com/track/2RzZSZbfu3jir4udOhyd75"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avalancha- Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4"
       },
@@ -103,6 +71,22 @@
       "duration_ms": 327426,
       "name": "La chispa adecuada (Bendecida 3)",
       "url": "https://open.spotify.com/track/0JiwybZpLST3DzJawCbRtC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "La carta",
+      "url": "https://open.spotify.com/track/2RzZSZbfu3jir4udOhyd75"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 357440,
       "name": "D\u00edas De Borrasca (V\u00edspera De Resplandores) (Direct",
       "url": "https://open.spotify.com/track/0UtqkyNb7h29EvFyYxgG3R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senderos De Traici\u00f3n",
+        "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "El cuadro II",
+      "url": "https://open.spotify.com/track/3NpOxII1eBUhQ12y8MA8UJ"
     },
     {
       "added_at": null,

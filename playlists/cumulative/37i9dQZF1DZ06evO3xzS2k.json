@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Auditory Trauma: Nothing Isolation Sessions (Live)",
+        "url": "https://open.spotify.com/album/2MWM3VRR7BXbseyUWU9XDI"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79181,
+      "name": "Intro - Live",
+      "url": "https://open.spotify.com/track/0HtgSvKuGGQIL6wFJkaULw"
+    },
+    {
+      "album": {
         "name": "Whirr & Nothing (Split Version)",
         "url": "https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo"
       },

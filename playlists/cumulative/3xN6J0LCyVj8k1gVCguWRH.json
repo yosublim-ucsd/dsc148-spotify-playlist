@@ -3512,7 +3512,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 219860,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1XFQCO045csYHnDoJq2PZ7"
@@ -12865,6 +12865,24 @@
     },
     {
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/4lhKdbHYYsvMnU2vilpbzy"
+      },
+      "artists": [
+        {
+          "name": "Shani G",
+          "url": "https://open.spotify.com/artist/0gf5IFqCBXj41jrFbrGfRs"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171049,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/1UMmyU3UgLM1nbCTPB0Mum"
+    },
+    {
+      "album": {
         "name": "INDUSTRY GAMES",
         "url": "https://open.spotify.com/album/7zWWVQna0sWAmjAqJ3e1Py"
       },
@@ -13968,7 +13986,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 170000,
       "name": "Dash Me",
       "url": "https://open.spotify.com/track/5oMD4uaWVxvqcJDj3db7dl"
@@ -15318,7 +15336,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 266874,
       "name": "Do Time",
       "url": "https://open.spotify.com/track/4hNWqOYjh5hH3zPY3tEs3E"
@@ -18440,6 +18458,24 @@
       "duration_ms": 276600,
       "name": "Fade Out Lines - The Avener Rework",
       "url": "https://open.spotify.com/track/2y2TNx72H4oE01TkztsAR6"
+    },
+    {
+      "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/4IG6VAehaCCwF5WKFnm12B"
+      },
+      "artists": [
+        {
+          "name": "K. Epps",
+          "url": "https://open.spotify.com/artist/2ASZBoq95nqRoeOAUV7AGM"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211265,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/47qhavyUKBH9N4iFKQVL5p"
     },
     {
       "album": {
@@ -28562,7 +28598,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 227227,
       "name": "Immature",
       "url": "https://open.spotify.com/track/1PgSP2UhPAkta21Vtd0Xn2"
@@ -29026,7 +29062,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 229991,
       "name": "In The Middle of The Game",
       "url": "https://open.spotify.com/track/2Pb1PyhmGAuQPl6Vk9MxlH"
@@ -31394,6 +31430,24 @@
       "duration_ms": 339870,
       "name": "Koto Island",
       "url": "https://open.spotify.com/track/5798LhOwTN7piSWHRLk58M"
+    },
+    {
+      "album": {
+        "name": "KRIBZ",
+        "url": "https://open.spotify.com/album/3DjkFiqKmg9USDb55PsNK7"
+      },
+      "artists": [
+        {
+          "name": "AP x FOCUS",
+          "url": "https://open.spotify.com/artist/7l6JxLuwEP5jIR0MJN8sO5"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158920,
+      "name": "KRIBZ",
+      "url": "https://open.spotify.com/track/6BcWxkpZHe1v0u4yIBfst7"
     },
     {
       "album": {
@@ -35738,6 +35792,24 @@
       "duration_ms": 184477,
       "name": "Lying in LA",
       "url": "https://open.spotify.com/track/17Nv4GnG2JZJJK0aOXbW2w"
+    },
+    {
+      "album": {
+        "name": "M. I. A.",
+        "url": "https://open.spotify.com/album/3rSBOTEitVcUEKlUjyx9DG"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Kennan",
+          "url": "https://open.spotify.com/artist/4kVoZUfn6VXbI0HbEP8Gfz"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "M. I. A.",
+      "url": "https://open.spotify.com/track/5BRzi7oEylgXnTkSpm5nw1"
     },
     {
       "album": {
@@ -41043,6 +41115,24 @@
     },
     {
       "album": {
+        "name": "No WiFi",
+        "url": "https://open.spotify.com/album/5R6efGpOXqSz7KrOQLoGUK"
+      },
+      "artists": [
+        {
+          "name": "Soro",
+          "url": "https://open.spotify.com/artist/4oEVvyMyPXVP2h8JkNpng5"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104085,
+      "name": "No WiFi",
+      "url": "https://open.spotify.com/track/0gPtlR4XF9xSz5bwxCSF9p"
+    },
+    {
+      "album": {
         "name": "No Worries",
         "url": "https://open.spotify.com/album/6IAn7B6LduDnjHrCnlHhFB"
       },
@@ -42030,6 +42120,24 @@
       "duration_ms": 162567,
       "name": "Oga Adviser",
       "url": "https://open.spotify.com/track/7yqXSEu9DQ4BuRiDKYTrlr"
+    },
+    {
+      "album": {
+        "name": "OH ME OH MY",
+        "url": "https://open.spotify.com/album/4OfP2ZQ2ZCZMrS7GdVLpQi"
+      },
+      "artists": [
+        {
+          "name": "Tyriq",
+          "url": "https://open.spotify.com/artist/0uJcNVUUQkwkU86EJdz9EQ"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151858,
+      "name": "OH ME OH MY",
+      "url": "https://open.spotify.com/track/0pwLdGeN0tGywFyHOQWUlf"
     },
     {
       "album": {
@@ -45190,7 +45298,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
@@ -46038,6 +46146,24 @@
       "duration_ms": 168211,
       "name": "Puffy Eyes",
       "url": "https://open.spotify.com/track/1dtcvUNShoDTo7iYYkk9a9"
+    },
+    {
+      "album": {
+        "name": "Pull Away",
+        "url": "https://open.spotify.com/album/1ZkCoqED2xSyqeAtZ7qYrz"
+      },
+      "artists": [
+        {
+          "name": "Lana Burford",
+          "url": "https://open.spotify.com/artist/36YyCk9ZiQ2f0QhaOkoMpw"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125454,
+      "name": "Pull Away",
+      "url": "https://open.spotify.com/track/3QA2dhV76yphBaaRWTwwYG"
     },
     {
       "album": {
@@ -47448,7 +47574,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 172235,
       "name": "Reprise",
       "url": "https://open.spotify.com/track/0cwnXTbs7ZkDTpVCizLNgQ"
@@ -50482,7 +50608,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 207426,
       "name": "Shine",
       "url": "https://open.spotify.com/track/0nCVDWPdR4UpGSxRKQoqrG"

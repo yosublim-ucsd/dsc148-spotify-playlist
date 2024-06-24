@@ -2,7 +2,7 @@
 
 ### [This Is P\-Lo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DSYP3)
 
-> This is P\-Lo\. Tutti i brani in un'unica playlist.
+> This is P\-Lo\. The essential tracks, all in one playlist.
 
 62 songs - 2 hr 54 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Des m\u00e9lodies classiques pour l'heure du coucher",
-  "num_followers": 1397,
+  "num_followers": 1398,
   "original_name": "Berceuses classiques",
   "owner": {
     "name": "Spotify",
@@ -210,6 +210,10 @@
         {
           "name": "Yo-Yo Ma",
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
         }
       ],
       "duration_ms": 109800,

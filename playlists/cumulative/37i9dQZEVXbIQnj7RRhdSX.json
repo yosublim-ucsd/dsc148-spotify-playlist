@@ -7016,7 +7016,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 180184,
       "name": "Ci pensiamo domani",
       "url": "https://open.spotify.com/track/5qR8me97mDHqvggt1G2eFn"
@@ -9424,7 +9424,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 174666,
       "name": "DESNUDA",
       "url": "https://open.spotify.com/track/35BRwHz18c75LnbPq1IvTQ"
@@ -21677,6 +21677,24 @@
     },
     {
       "album": {
+        "name": "MALAVITA",
+        "url": "https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE"
+      },
+      "artists": [
+        {
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166725,
+      "name": "MALAVITA",
+      "url": "https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD"
+    },
+    {
+      "album": {
         "name": "sangiovanni",
         "url": "https://open.spotify.com/album/4fEIBZaOmbxZnzAJ9SEx4v"
       },
@@ -23044,7 +23062,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 206242,
       "name": "Mezzo secondo",
       "url": "https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA"
@@ -37632,7 +37650,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 171546,
       "name": "UNA VITA FA (feat. Shiva)",
       "url": "https://open.spotify.com/track/362nbPmkrCtts9zhlLFfIR"
@@ -37948,7 +37966,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 156923,
       "name": "Vai!",
       "url": "https://open.spotify.com/track/2aptSWAkwTLva4188FFrjE"

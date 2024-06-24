@@ -1,6 +1,6 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Taeha(\ud0dc\ud558)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 52456,
+  "num_followers": 52486,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "MORE & MORE",
-        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "SWEET SUMMER DAY",
-      "url": "https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "First Winter",
         "url": "https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 240853,
       "name": "First Winter",
       "url": "https://open.spotify.com/track/5eWw4OyW26hL51XFSTkTPg"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "SWEET SUMMER DAY",
+      "url": "https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "timeabout,",
-        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 207125,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/7vZ0v0ZUX9KSCdZgCrtovy"
       },
@@ -319,22 +303,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "FREE`SM",
-        "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
-      },
-      "artists": [
-        {
-          "name": "CLC",
-          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
-        }
-      ],
-      "duration_ms": 220526,
-      "name": "Where are you?",
-      "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "Red Light - The 3rd Album",
         "url": "https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W"
       },
@@ -347,6 +315,38 @@
       "duration_ms": 210042,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "timeabout,",
+        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 207125,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "FREE`SM",
+        "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
+      },
+      "artists": [
+        {
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+        }
+      ],
+      "duration_ms": 220526,
+      "name": "Where are you?",
+      "url": "https://open.spotify.com/track/6MSfAJiEQjJvia4dsWhO93"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "Love in TV World",
-        "url": "https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 243022,
-      "name": "Love in TV World",
-      "url": "https://open.spotify.com/track/71gxvSj62Daqer8F57b22C"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "\u2018The ReVe Festival\u2019 Day 2",
         "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
       },
@@ -483,22 +467,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
-        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
-      },
-      "artists": [
-        {
-          "name": "\uac15\uc218\uc9c0",
-          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
-        }
-      ],
-      "duration_ms": 208236,
-      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
-      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "Pink Tape - The 2nd Album",
         "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
       },
@@ -511,6 +479,38 @@
       "duration_ms": 200863,
       "name": "\uc2dc\uadf8\ub110 (Signal)",
       "url": "https://open.spotify.com/track/1Ed91xIltQC8hSOAOCA7Se"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "Love in TV World",
+        "url": "https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 243022,
+      "name": "Love in TV World",
+      "url": "https://open.spotify.com/track/71gxvSj62Daqer8F57b22C"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "\uac15\uc218\uc9c0 BEST ALBUM",
+        "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
+      },
+      "artists": [
+        {
+          "name": "\uac15\uc218\uc9c0",
+          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
+        }
+      ],
+      "duration_ms": 208236,
+      "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
+      "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
+        "name": "City Drive",
+        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 207888,
+      "name": "City Drive",
+      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
         "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
         "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 214847,
       "name": "You Got",
       "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "City Drive",
-        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 207888,
-      "name": "City Drive",
-      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "5min to heartbreak",
-        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "5min to heartbreak",
-      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 226453,
       "name": "A day of weather",
       "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "5min to heartbreak",
+        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "5min to heartbreak",
+      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "Line",
-      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "Scent",
         "url": "https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G"
       },
@@ -803,6 +787,38 @@
       "duration_ms": 211149,
       "name": "Scent",
       "url": "https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 234856,
+      "name": "Line",
+      "url": "https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -823,22 +839,6 @@
       "duration_ms": 270713,
       "name": "Afterlife (Feat. OOHYO)",
       "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 191426,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "AQUA CITY",
-        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        },
-        {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
-        }
-      ],
-      "duration_ms": 299500,
-      "name": "Aqua (feat. Muzie)",
-      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "<K>",
         "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 223653,
       "name": "I\u2019m not good at",
       "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "AQUA CITY",
+        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        },
+        {
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+        }
+      ],
+      "duration_ms": 299500,
+      "name": "Aqua (feat. Muzie)",
+      "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "Plastic Candy",
-        "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
-      },
-      "artists": [
-        {
-          "name": "HaSeul",
-          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Plastic Candy",
-      "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/4PPuKcHISN1tFnSpWjOp0o"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 208346,
       "name": "Reckless (with TTG)",
       "url": "https://open.spotify.com/track/4AjlkfzjcDBs9dsCRbBmFB"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "Plastic Candy",
+        "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
+      },
+      "artists": [
+        {
+          "name": "HaSeul",
+          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Plastic Candy",
+      "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
+        "name": "Drive Thru",
+        "url": "https://open.spotify.com/album/4kzzDbJLtozPPuBgpdqEMH"
+      },
+      "artists": [
+        {
+          "name": "Wilcox",
+          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
+        }
+      ],
+      "duration_ms": 182188,
+      "name": "Drive Thru",
+      "url": "https://open.spotify.com/track/6QWdR3MXiocvTqsJw4z9eh"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
         "name": "Rainbow note",
         "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "Drive Thru",
-        "url": "https://open.spotify.com/album/4kzzDbJLtozPPuBgpdqEMH"
+        "name": "AQUA CITY",
+        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
       },
       "artists": [
         {
-          "name": "Wilcox",
-          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
         }
       ],
-      "duration_ms": 182188,
-      "name": "Drive Thru",
-      "url": "https://open.spotify.com/track/6QWdR3MXiocvTqsJw4z9eh"
+      "duration_ms": 216578,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1279,22 +1295,6 @@
       "duration_ms": 226894,
       "name": "LOL (LOUDNESS OF LOVE)",
       "url": "https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "AQUA CITY",
-        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 216578,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Chul",
-          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "It`s Been A While (Maxim City Summer Life c.f)",
-      "url": "https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "MINI",
         "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 187653,
       "name": "Loveholic",
       "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "It`s Been A While (Maxim City Summer Life c.f)",
+      "url": "https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1535,42 +1535,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "Myspace",
-        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
-      },
-      "artists": [
-        {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Myspace",
-      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "INCHEON CITYPOP Vol. 1",
-        "url": "https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH"
-      },
-      "artists": [
-        {
-          "name": "QUDO",
-          "url": "https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf"
-        },
-        {
-          "name": "Sehwan Hong",
-          "url": "https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "I\u2032m Alright",
-      "url": "https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "Afterlife (Feat. OOHYO)",
         "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
@@ -1591,6 +1555,22 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
+        "name": "Myspace",
+        "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Myspace",
+      "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
         "name": "Temperature of Love",
         "url": "https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 226440,
       "name": "Love Counseling",
       "url": "https://open.spotify.com/track/3806qzWO2NAHJUEBse4g8a"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "INCHEON CITYPOP Vol. 1",
+        "url": "https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH"
+      },
+      "artists": [
+        {
+          "name": "QUDO",
+          "url": "https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf"
+        },
+        {
+          "name": "Sehwan Hong",
+          "url": "https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "I\u2032m Alright",
+      "url": "https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj"
     },
     {
       "added_at": "2024-06-05 04:06:41",

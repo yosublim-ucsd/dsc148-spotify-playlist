@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,675 likes - 182 songs - 9 hr 53 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,674 likes - 182 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 83 | [Suite for String Orchestra No\. 3 in D Major, BWV 1068: Air \(Arr\. for piano by A\. Siloti\)](https://open.spotify.com/track/0QyjUVRu3BkQNSJkgJ4whZ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Suite for String Orchestra No\. 3 in D Major, BWV 1068: Air \(Arr\. for piano by A\. Siloti\)](https://open.spotify.com/album/3iM0yCNjk0xEoGyi3j5Ey6) | 4:29 |
 | 84 | [Human](https://open.spotify.com/track/62dY12zDrJYqkOpLU53aQK) | [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Genesis](https://open.spotify.com/album/0pGgNxR0YecEYnygce6C8e) | 2:10 |
 | 85 | [Natural](https://open.spotify.com/track/4mYZ0tjiZbsFwJ1o0EeGJM) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Natural](https://open.spotify.com/album/24A6A9R4I5VRyUSxBVkr7D) | 2:31 |
-| 86 | ["Méditation" from Thaïs](https://open.spotify.com/track/7hkkFy7B23o5nwPwnH3XMc) | [Jules Massenet](https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Tsung Yeh](https://open.spotify.com/artist/1Q7wGCmzbwsp19QhtC8hMk), [Singapore Chinese Orchestra](https://open.spotify.com/artist/6eJLO6Sl0s9pOozQ3bqJNA) | [Butterfly Lovers](https://open.spotify.com/album/2S5MFj2pNUKEKmL6nbAB5j) | 5:16 |
+| 86 | ["Méditation" from Thaïs](https://open.spotify.com/track/7hkkFy7B23o5nwPwnH3XMc) | [Jules Massenet](https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Singapore Chinese Orchestra](https://open.spotify.com/artist/6eJLO6Sl0s9pOozQ3bqJNA), [Tsung Yeh](https://open.spotify.com/artist/1Q7wGCmzbwsp19QhtC8hMk) | [Butterfly Lovers](https://open.spotify.com/album/2S5MFj2pNUKEKmL6nbAB5j) | 5:16 |
 | 87 | [Contes de la nuit](https://open.spotify.com/track/2CuMHRqxncgEAGF5qaajHh) | [Uèle Lamore](https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Uèle Lamore & Theo Croker](https://open.spotify.com/album/3gjvzlYi5RBpptiEZ0md6e) | 3:34 |
 | 88 | [Concerto in D Minor: II\. Adagio](https://open.spotify.com/track/5kynOCu6wmrjLm5pEp6DNQ) | [Alessandro Marcello](https://open.spotify.com/artist/36VGTEPZnpAU5FfivpFaJO), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4), [Jonathan Cohen](https://open.spotify.com/artist/0z6t3buywDCXXWpXnkmH7R), [Arcangelo](https://open.spotify.com/artist/7CZfCnmFRBPanhnBO1ZdMq) | [Concerto in D Minor: II\. Adagio](https://open.spotify.com/album/1pltLL7r1kjV06GxqeobnV) | 3:42 |
 | 89 | [The Roads Not Taken](https://open.spotify.com/track/1rI8NOKFO3m7v1h9CAAQd3) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [The Roads Not Taken](https://open.spotify.com/album/0iaxhFVdI63dyOzHzfQhmS) | 4:21 |

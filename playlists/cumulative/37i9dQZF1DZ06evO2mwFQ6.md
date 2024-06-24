@@ -2,7 +2,7 @@
 
 ### [This Is Adam Brand](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mwFQ6)
 
-> This is Adam Brand\. The essential tracks, all in one playlist.
+> This is: Adam Brand\. Alle wichtigen Tracks in einer Playlist.
 
 66 songs - 3 hr 47 min
 

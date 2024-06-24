@@ -1,12 +1,12 @@
 {
-  "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 24727,
+  "description": "This is SPYAIR. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 24733,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnTCgAAAAABFT7Bm2BX4/Ck/9UIP5r28",
+  "snapshot_id": "ZnYUAAAAAACAG+ObwZKaLrBy5jiU+PZg",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MILLION",
+        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 280933,
+      "name": "Winding Road",
+      "url": "https://open.spotify.com/track/1kV6pij3pjXHbAbvhehnOY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just Do It",
         "url": "https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33"
       },
@@ -459,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILLION",
-        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
+        "name": "4",
+        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
       },
       "artists": [
         {
@@ -468,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 280933,
-      "name": "Winding Road",
-      "url": "https://open.spotify.com/track/1kV6pij3pjXHbAbvhehnOY"
+      "duration_ms": 232973,
+      "name": "\u30d5\u30a1\u30a4\u30a2\u30b9\u30bf\u30fc\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/34zx9CE9xviVXZk5tyj5Ut"
     },
     {
       "added_at": null,
@@ -507,38 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8f4d\uff5eWadachi\uff5e",
-        "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 266506,
-      "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb",
-      "url": "https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 232973,
-      "name": "\u30d5\u30a1\u30a4\u30a2\u30b9\u30bf\u30fc\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/34zx9CE9xviVXZk5tyj5Ut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RE-BIRTH",
         "url": "https://open.spotify.com/album/0QkQ99HalEIISHAJnKIdG3"
       },
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KINGDOM",
-        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
+        "name": "\u8f4d\uff5eWadachi\uff5e",
+        "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
       },
       "artists": [
         {
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 236000,
-      "name": "THIS IS HOW WE ROCK",
-      "url": "https://open.spotify.com/track/3BNlW6QAR8xiONRS0wRmPE"
+      "duration_ms": 266506,
+      "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl"
     },
     {
       "added_at": null,
@@ -587,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/3KYvw9yizdKqQPa7K1iEd9"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 229453,
-      "name": "STAR",
-      "url": "https://open.spotify.com/track/6tWWNHpJMwIsy3NeSGGvYi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIAR",
         "url": "https://open.spotify.com/album/5Q7cs4fbLi9ouR8FpLHikk"
       },
@@ -615,6 +583,38 @@
       "duration_ms": 245053,
       "name": "SINGING",
       "url": "https://open.spotify.com/track/23CvdoP44hvsQQHzZmBEWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KINGDOM",
+        "url": "https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "THIS IS HOW WE ROCK",
+      "url": "https://open.spotify.com/track/3BNlW6QAR8xiONRS0wRmPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3KYvw9yizdKqQPa7K1iEd9"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 229453,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/6tWWNHpJMwIsy3NeSGGvYi"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILLION",
-        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "OVERLOAD",
-      "url": "https://open.spotify.com/track/3zJD8i4v5bM3D7uyxAVI4P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JUST ONE LIFE",
         "url": "https://open.spotify.com/album/5A7EqhnNTiZRwqkxbu25So"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 222266,
       "name": "Radio",
       "url": "https://open.spotify.com/track/4Li77YJ1PAvh1H3l3E6AiB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILLION",
+        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "OVERLOAD",
+      "url": "https://open.spotify.com/track/3zJD8i4v5bM3D7uyxAVI4P"
     },
     {
       "added_at": null,

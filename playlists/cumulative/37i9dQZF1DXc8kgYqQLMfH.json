@@ -2773,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "Cardboard",
+        "url": "https://open.spotify.com/album/74Tj2d8l4GmJcp2CPgLOO0"
+      },
+      "artists": [
+        {
+          "name": "Son Of Emilio",
+          "url": "https://open.spotify.com/artist/4Tp7GiwfljbNCqlZ6WFity"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108800,
+      "name": "Cardboard",
+      "url": "https://open.spotify.com/track/4sfH6LUuVwsUXbifqe0kV0"
+    },
+    {
+      "album": {
         "name": "Fotos\u00edntesis (Instrumental)",
         "url": "https://open.spotify.com/album/2kSZnrMZ1NC4lrh4cF4zsx"
       },
@@ -7557,6 +7575,32 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5vvp53egItvYzHUmIyckzG"
+      },
+      "artists": [
+        {
+          "name": "Maadrhino",
+          "url": "https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx"
+        },
+        {
+          "name": "Ezra Skys",
+          "url": "https://open.spotify.com/artist/2Ay5ctNDFzQQz4fWV3DGMT"
+        },
+        {
+          "name": "soave lofi",
+          "url": "https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/7IdPBPwuiemoNSbkck8rRx"
+    },
+    {
+      "album": {
         "name": "Golden Gardens",
         "url": "https://open.spotify.com/album/3MnvFHRNCoyHnoagZq48qt"
       },
@@ -7934,7 +7978,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 162797,
       "name": "Hand Me Your Honey",
       "url": "https://open.spotify.com/track/7ip7vN6yQt6KiSve0tGi49"
@@ -8234,6 +8278,24 @@
       "duration_ms": 153947,
       "name": "hidden beauty",
       "url": "https://open.spotify.com/track/6HkdCCE61XLWwHN6QkMvDm"
+    },
+    {
+      "album": {
+        "name": "Hidden Cateract",
+        "url": "https://open.spotify.com/album/2u3wf3qD72dxSL6eHyGsvr"
+      },
+      "artists": [
+        {
+          "name": "Carl Borg",
+          "url": "https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186059,
+      "name": "Hidden Cateract",
+      "url": "https://open.spotify.com/track/7kvIF3LgW4rUbwUhk1auws"
     },
     {
       "album": {
@@ -12690,7 +12752,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 140958,
       "name": "Morning Nature",
       "url": "https://open.spotify.com/track/7mTekQjP822DSXDNsjUM7b"
@@ -14004,7 +14066,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 114000,
       "name": "NY Breeze",
       "url": "https://open.spotify.com/track/5I51wS8eZm9sOHraU2jfZw"

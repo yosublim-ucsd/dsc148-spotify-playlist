@@ -1663,6 +1663,32 @@
     },
     {
       "album": {
+        "name": "Be As One",
+        "url": "https://open.spotify.com/album/41908SUGbE1gef0aBlyblN"
+      },
+      "artists": [
+        {
+          "name": "Craig Connelly",
+          "url": "https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL"
+        },
+        {
+          "name": "James Cottle",
+          "url": "https://open.spotify.com/artist/2rr6J8CvcI3egBMmFr1PTR"
+        },
+        {
+          "name": "Liel Kolet",
+          "url": "https://open.spotify.com/artist/1VQkaCSwcIyjYQiVkg791s"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299347,
+      "name": "Be As One",
+      "url": "https://open.spotify.com/track/1sKJgregY1mEPQd69wcku2"
+    },
+    {
+      "album": {
         "name": "Before It's Lost",
         "url": "https://open.spotify.com/album/0ZBDI00xeHdv7ucud2UB1g"
       },
@@ -11511,6 +11537,28 @@
     },
     {
       "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/3ZFqk2ooSITO1bMzhielGh"
+      },
+      "artists": [
+        {
+          "name": "Aly & Fila",
+          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
+        },
+        {
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/3PzvRstHC1ItqEZhdH4NmX"
+    },
+    {
+      "album": {
         "name": "Need To Feel Loved",
         "url": "https://open.spotify.com/album/0IeGNtS4eIPUePmQzvLOiV"
       },
@@ -15254,7 +15302,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 232285,
       "name": "Someone - Kinetica Remix",
       "url": "https://open.spotify.com/track/14b6rZyEHbOsuUL992hPZn"
@@ -16356,7 +16404,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 205821,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/2WJGWrVwAbpXCF5ba4fIfD"

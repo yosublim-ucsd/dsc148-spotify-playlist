@@ -1,6 +1,6 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 632438,
+  "num_followers": 632474,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Lumiere",
-        "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
-      },
-      "artists": [
-        {
-          "name": "Deep Vibrations",
-          "url": "https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Lumiere",
-      "url": "https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
         "name": "Yalmi",
         "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
       },
@@ -363,6 +347,38 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
+        "name": "Lumiere",
+        "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
+      },
+      "artists": [
+        {
+          "name": "Deep Vibrations",
+          "url": "https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Lumiere",
+      "url": "https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
+        "name": "Niveous",
+        "url": "https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF"
+      },
+      "artists": [
+        {
+          "name": "Hers Lake",
+          "url": "https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "Niveous",
+      "url": "https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
         "name": "Armon\u00eda Serena",
         "url": "https://open.spotify.com/album/1S06SLy0ZHrSrbHFsPsNBD"
       },
@@ -379,6 +395,22 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
+        "name": "Definite",
+        "url": "https://open.spotify.com/album/4lkKRBJ6o0mrMgh1Wcn2AV"
+      },
+      "artists": [
+        {
+          "name": "Arietis",
+          "url": "https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH"
+        }
+      ],
+      "duration_ms": 165392,
+      "name": "Definite",
+      "url": "https://open.spotify.com/track/5yCIRoiQ4DatjmySLxm20e"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/57bF9UXUsV3Fczqi4vleLJ"
       },
@@ -391,6 +423,22 @@
       "duration_ms": 150000,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0tfMURtsB63Q3F6CVwAXyn"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
+        "name": "Ideal",
+        "url": "https://open.spotify.com/album/3PtMb8ahqkZiyBxCHzSCXw"
+      },
+      "artists": [
+        {
+          "name": "Avieone",
+          "url": "https://open.spotify.com/artist/1xCASyEEWKBXSyHdRq9JOJ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Ideal",
+      "url": "https://open.spotify.com/track/4u8gHl3MrLMeQN0JDhDJvr"
     },
     {
       "added_at": "2024-06-10 23:16:59",
@@ -427,22 +475,6 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Niveous",
-        "url": "https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF"
-      },
-      "artists": [
-        {
-          "name": "Hers Lake",
-          "url": "https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "Niveous",
-      "url": "https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
         "name": "Ulayaw",
         "url": "https://open.spotify.com/album/2qoEb7DazQiYwE5zsGtiDd"
       },
@@ -455,38 +487,6 @@
       "duration_ms": 188000,
       "name": "Ulayaw",
       "url": "https://open.spotify.com/track/6mk4Fk0a1ZEQZTBBQBccIm"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
-        "name": "Definite",
-        "url": "https://open.spotify.com/album/4lkKRBJ6o0mrMgh1Wcn2AV"
-      },
-      "artists": [
-        {
-          "name": "Arietis",
-          "url": "https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH"
-        }
-      ],
-      "duration_ms": 165392,
-      "name": "Definite",
-      "url": "https://open.spotify.com/track/5yCIRoiQ4DatjmySLxm20e"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
-        "name": "Ideal",
-        "url": "https://open.spotify.com/album/3PtMb8ahqkZiyBxCHzSCXw"
-      },
-      "artists": [
-        {
-          "name": "Avieone",
-          "url": "https://open.spotify.com/artist/1xCASyEEWKBXSyHdRq9JOJ"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Ideal",
-      "url": "https://open.spotify.com/track/4u8gHl3MrLMeQN0JDhDJvr"
     },
     {
       "added_at": "2024-06-10 23:16:59",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Yoga Meditation",
-        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
-      },
-      "artists": [
-        {
-          "name": "Zen Wuan",
-          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
-        }
-      ],
-      "duration_ms": 163730,
-      "name": "Chapters",
-      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
         "name": "Rivers of Relief",
         "url": "https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
+        "name": "Hvis du bare vidste",
+        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
+      },
+      "artists": [
+        {
+          "name": "Silas Mathiasen",
+          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Hvis du bare vidste",
+      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
         "name": "The Light of Day",
         "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
       },
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Hvis du bare vidste",
-        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
+        "name": "Yoga Meditation",
+        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
       },
       "artists": [
         {
-          "name": "Silas Mathiasen",
-          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
+          "name": "Zen Wuan",
+          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Hvis du bare vidste",
-      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
+      "duration_ms": 163730,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
     },
     {
       "added_at": "2024-06-10 23:16:59",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Arrivals",
-        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
-      },
-      "artists": [
-        {
-          "name": "Fahda Mohamed",
-          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Takamatsu",
-      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
         "name": "The Acoustic Mind - Vol. 1",
         "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 172589,
       "name": "Headroom",
       "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
+        "name": "Arrivals",
+        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
+      },
+      "artists": [
+        {
+          "name": "Fahda Mohamed",
+          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Takamatsu",
+      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
     },
     {
       "added_at": "2024-06-10 23:16:59",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Vortex Trance",
-        "url": "https://open.spotify.com/album/70sKQPPEhenDxhxPmC6QGJ"
-      },
-      "artists": [
-        {
-          "name": "Just Fillin' Time",
-          "url": "https://open.spotify.com/artist/3kpfRZ9ygubWr0Ydx9pARu"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Vortex Trance",
-      "url": "https://open.spotify.com/track/6bl76Eco7CEr7JJdhmdqoF"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
         "name": "Eupheme",
         "url": "https://open.spotify.com/album/3sQdlZdewv3gCI3PFTT1zi"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 176584,
       "name": "Eupheme",
       "url": "https://open.spotify.com/track/6JHqScV6hvbjKlk1vunb1q"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
+        "name": "Vortex Trance",
+        "url": "https://open.spotify.com/album/70sKQPPEhenDxhxPmC6QGJ"
+      },
+      "artists": [
+        {
+          "name": "Just Fillin' Time",
+          "url": "https://open.spotify.com/artist/3kpfRZ9ygubWr0Ydx9pARu"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Vortex Trance",
+      "url": "https://open.spotify.com/track/6bl76Eco7CEr7JJdhmdqoF"
     },
     {
       "added_at": "2024-06-10 23:16:59",

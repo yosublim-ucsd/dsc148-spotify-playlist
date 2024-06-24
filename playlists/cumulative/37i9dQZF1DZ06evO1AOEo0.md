@@ -2,7 +2,7 @@
 
 ### [This Is Shane & Shane](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AOEo0)
 
-> This is Shane & Shane。アーティストの代表曲をひとつのプレイリストに。
+> This is Shane & Shane\. The essential tracks, all in one playlist.
 
 68 songs - 5 hr 35 min
 

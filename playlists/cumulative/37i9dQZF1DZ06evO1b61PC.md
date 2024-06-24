@@ -2,7 +2,7 @@
 
 ### [This Is Jai Wolf](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1b61PC)
 
-> This is Jai Wolf。アーティストの代表曲をひとつのプレイリストに。
+> This is Jai Wolf\. The essential tracks, all in one playlist.
 
 27 songs - 1 hr 43 min
 

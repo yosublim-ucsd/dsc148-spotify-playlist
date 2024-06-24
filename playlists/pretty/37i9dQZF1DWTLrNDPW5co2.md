@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Tove Lo & SG Lewis celebrate pride month with their guest curation takeover of Club Resistance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,267 likes - 90 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,295 likes - 90 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 34 | [Lesbians <3](https://open.spotify.com/track/6qNarhsEYw4h8GKvtU33lY) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Lesbians <3](https://open.spotify.com/album/4Q0AyfIv7BZjnGt2unFeY9) | 2:06 |
 | 35 | [Puta](https://open.spotify.com/track/4YZpWGihruxXJOf2FPnZmp) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Puta](https://open.spotify.com/album/6kbzIKqCQP7tdb2ncGcWEv) | 2:33 |
 | 36 | [Don't Be Afraid \(feat\. LATASHÁ\)](https://open.spotify.com/track/1sY09LjCOiWtZKooLBhwUI) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 4:04 |
-| 37 | [Won't Bring Me Down](https://open.spotify.com/track/7bLSxU45c73nYiBUWHYTb6) | [EMMBER](https://open.spotify.com/artist/71rcTEvFq0CSbKivpPrx7n), [Terrell Carter](https://open.spotify.com/artist/4slqmBm48YTltzDWUvQju6) | [Won't Bring Me Down](https://open.spotify.com/album/0VmSyU3137lyHjvS5KYjqp) | 3:15 |
+| 37 | [Won't Bring Me Down](https://open.spotify.com/track/7bLSxU45c73nYiBUWHYTb6) | [Emmber](https://open.spotify.com/artist/4hwIFnxgvP9Lgq3JMPrjNe), [Terrell Carter](https://open.spotify.com/artist/4slqmBm48YTltzDWUvQju6) | [Won't Bring Me Down](https://open.spotify.com/album/0VmSyU3137lyHjvS5KYjqp) | 3:15 |
 | 38 | [PERSONALIDAD CONTROL \(A Tribute to Leiomy\)](https://open.spotify.com/track/1DXhcFfChBHkwcaVsb15ih) | [Gÿe](https://open.spotify.com/artist/1ffsfWPOpRQYNB80asmZv6) | [PERSONALIDAD CONTROL \(A Tribute to Leiomy\)](https://open.spotify.com/album/7MY2S7wlIWsuRSpPe9BYAS) | 3:45 |
 | 39 | [T.E.T.A Intergalactica](https://open.spotify.com/track/4AuVKafP9n7Y8NvjyEMGtd) | [Slim Soledad](https://open.spotify.com/artist/0PMIt2iZdVVvBzyYRpM7Db), [Iki Yos](https://open.spotify.com/artist/6M9pbhfaqC8axIxpEkioK1) | [T.E.T.A Intergalactica](https://open.spotify.com/album/672vnH5HCMgYe0ReIxGiCS) | 4:00 |
 | 40 | [Run \(Dave Audé Remix\)](https://open.spotify.com/track/3I8AxqYVSl4Cjh2LhpsmSC) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Run \(Dave Audé Remix\)](https://open.spotify.com/album/0gYlrpkgX8yzBPo9KX2hxu) | 4:14 |

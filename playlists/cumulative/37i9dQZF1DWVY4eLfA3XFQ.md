@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Sosa\. 50% techno, 50% house
 
-1,647 songs - 3 day 20 hr 29 min
+1,648 songs - 3 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -737,7 +737,7 @@
 | [Jungle](https://open.spotify.com/track/7qUKunNI8Gvfn6uM2EOhLE) | [Rob Black](https://open.spotify.com/artist/6mVOQan1tOCXwFuyrAffOK) | [Jungle](https://open.spotify.com/album/26jD9l49XNSn8rBbpDuOsT) | 2:55 | 2021-11-26 | 2022-06-04 |
 | [Junglist](https://open.spotify.com/track/40E2w7AGNUFx4roieo6ekh) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [Junglist](https://open.spotify.com/album/7bk9B0wJbhPD3eCrPclPxB) | 3:30 | 2023-03-17 | 2023-06-02 |
 | [Just Feels Tight](https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS) | 3:17 | 2021-11-26 | 2022-01-06 |
-| [Justiça](https://open.spotify.com/track/773tughXqcLU5ztfWVyEsk) | [OldChild](https://open.spotify.com/artist/0ASxOxyFC1JcjhnYxmldls), [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Justiça EP](https://open.spotify.com/album/4jlunifPdEPVEVShNZYhrY) | 3:30 | 2024-05-17 |  |
+| [Justiça](https://open.spotify.com/track/773tughXqcLU5ztfWVyEsk) | [OldChild](https://open.spotify.com/artist/0ASxOxyFC1JcjhnYxmldls), [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Justiça EP](https://open.spotify.com/album/4jlunifPdEPVEVShNZYhrY) | 3:30 | 2024-05-17 | 2024-06-24 |
 | [Kanpai](https://open.spotify.com/track/44UxWRfHk1fnB9IaaTwesy) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Kanpai](https://open.spotify.com/album/0cnohJmdsFgCYmjgCN8ywB) | 2:22 | 2023-02-17 | 2023-04-21 |
 | [Karma](https://open.spotify.com/track/5OErHyr8q2oIDe5qyHL8IO) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Karma EP](https://open.spotify.com/album/7b7XaEhUvLi1MeQ4nJe7F5) | 3:15 | 2024-02-16 | 2024-03-02 |
 | [Kattapult \(James Hype Edit\)](https://open.spotify.com/track/1bq0odxoXVY7pJbwk6uLcD) | [Adapter](https://open.spotify.com/artist/4EGRFrnmprB7ikY7EmTQ7V), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Kattapult \(James Hype Edit\)](https://open.spotify.com/album/2ZdEIUcfJ6sf61XlDysSiz) | 2:00 | 2024-03-22 |  |
@@ -1317,6 +1317,7 @@
 | [Something Fresh](https://open.spotify.com/track/1KBPJUMJjKd95viVQGy5NK) | [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Nicole Fiallo](https://open.spotify.com/artist/73UetSYlADQU9aDYjakZsc) | [Something Fresh](https://open.spotify.com/album/32SFNhZoeh2Tax77hAqWzr) | 2:52 | 2021-11-26 | 2022-01-06 |
 | [Something Going On 2022 \(feat\. Martha Wash & Jocelyn Brown\)](https://open.spotify.com/track/5bExqqlQbWM7LWeOK1ZzCR) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq), [Martha Wash](https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx) | [Something Going On 2022 \(feat\. Martha Wash & Jocelyn Brown\)](https://open.spotify.com/album/7Lqi1L3oTGhnHlwDhVgZmh) | 2:48 | 2022-04-01 | 2022-06-04 |
 | [Something In Your Eyes](https://open.spotify.com/track/5vr8JEu7dWxm6p1IXBGEbH) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Something In Your Eyes](https://open.spotify.com/album/5s4ZxE4IDV0TlOBwZNAPo1) | 2:08 | 2023-02-17 | 2023-04-22 |
+| [Something To Me](https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Something To Me](https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO) | 3:45 | 2024-06-21 |  |
 | [Sometimes](https://open.spotify.com/track/6FIMkyHbGmBwdTTLexMb9h) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Sometimes](https://open.spotify.com/album/37fpjqTSqYLV6ybowtvGCI) | 3:25 | 2021-11-26 | 2022-01-06 |
 | [Soul System](https://open.spotify.com/track/5LBALrbr55bXfJNb8dsWb1) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [ISOLAT003](https://open.spotify.com/album/1dQUrrp5pAkTvCcfzY2Mvh) | 3:43 | 2022-01-05 | 2022-02-26 |
 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 | 2022-10-14 | 2023-02-04 |

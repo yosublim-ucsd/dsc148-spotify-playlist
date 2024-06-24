@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1D0sR2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1D0sR2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1D0sR2)
 
-### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
+### [This is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. The essential tracks, all in one playlist.
+> This is JJ Hairston\. De essentiële nummers, allemaal in één playlist.
 
 142 songs - 15 hr 54 min
 

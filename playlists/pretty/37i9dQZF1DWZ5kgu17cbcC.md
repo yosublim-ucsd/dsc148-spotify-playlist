@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including The Greatest Hits, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,980 likes - 96 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,953 likes - 96 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

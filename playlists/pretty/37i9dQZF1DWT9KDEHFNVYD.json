@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 12608,
+  "num_followers": 12613,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Flying Microtonal Banana",
+        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 468093,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Sound of Silver",
         "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 235226,
       "name": "Watch the Tapes",
       "url": "https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Hei\u00dfe Lippen",
-      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Flying Microtonal Banana",
-        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 468093,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
+      "duration_ms": 141160,
+      "name": "Hei\u00dfe Lippen",
+      "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -511,18 +511,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
+        "name": "No Shouts, No Calls",
+        "url": "https://open.spotify.com/album/5UgqB0fJd5lI58r6tPJNMs"
       },
       "artists": [
         {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
         }
       ],
-      "duration_ms": 189040,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
+      "duration_ms": 295026,
+      "name": "To the East",
+      "url": "https://open.spotify.com/track/1bzQEsGH0KEMLt9ZlJ3vmk"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -541,20 +541,20 @@
       "url": "https://open.spotify.com/track/0GNWAR5YioLyQSZMXMjBX4"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2023-01-25 02:05:47",
       "album": {
-        "name": "No Shouts, No Calls",
-        "url": "https://open.spotify.com/album/5UgqB0fJd5lI58r6tPJNMs"
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
       },
       "artists": [
         {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 295026,
-      "name": "To the East",
-      "url": "https://open.spotify.com/track/1bzQEsGH0KEMLt9ZlJ3vmk"
+      "duration_ms": 410666,
+      "name": "77 Slightly Delayed",
+      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
     },
     {
       "added_at": "2024-03-12 18:16:53",
@@ -573,20 +573,20 @@
       "url": "https://open.spotify.com/track/6GFhFmcObGLbUS4EfRtLQw"
     },
     {
-      "added_at": "2023-01-25 02:05:47",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 410666,
-      "name": "77 Slightly Delayed",
-      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+      "duration_ms": 189040,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 391002,
-      "name": "Cassettesingle",
-      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "F\u00fcr mich",
         "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 277845,
       "name": "Nieve Afuera",
       "url": "https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 391002,
+      "name": "Cassettesingle",
+      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
     },
     {
-      "added_at": "2022-03-29 02:06:14",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Can't Get There EP",
@@ -1317,20 +1301,20 @@
       "url": "https://open.spotify.com/track/3xGzJ6lwDAoBDisjCHkGtT"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2022-03-29 02:06:14",
       "album": {
-        "name": "Inform - Educate - Entertain",
-        "url": "https://open.spotify.com/album/1aSU7tVnGuKquY8yKCw1jm"
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
       },
       "artists": [
         {
-          "name": "Public Service Broadcasting",
-          "url": "https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h"
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
         }
       ],
-      "duration_ms": 237532,
-      "name": "Spitfire",
-      "url": "https://open.spotify.com/track/2vRI17zbIpXatNS3IS1ktx"
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2023-03-23 21:21:38",
@@ -1347,6 +1331,22 @@
       "duration_ms": 387200,
       "name": "Autoroute",
       "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Inform - Educate - Entertain",
+        "url": "https://open.spotify.com/album/1aSU7tVnGuKquY8yKCw1jm"
+      },
+      "artists": [
+        {
+          "name": "Public Service Broadcasting",
+          "url": "https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h"
+        }
+      ],
+      "duration_ms": 237532,
+      "name": "Spitfire",
+      "url": "https://open.spotify.com/track/2vRI17zbIpXatNS3IS1ktx"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1387,38 +1387,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Minami Deutsch",
-        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 546500,
-      "name": "Futsu Ni Ikirenai",
-      "url": "https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "La D\u00fcsseldorf",
-        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
-      },
-      "artists": [
-        {
-          "name": "La D\u00fcsseldorf",
-          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
-        }
-      ],
-      "duration_ms": 482773,
-      "name": "Silver Cloud",
-      "url": "https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Radar, Vol. 1",
         "url": "https://open.spotify.com/album/6G1hvboRkS2czOgqUZqh9z"
       },
@@ -1435,6 +1403,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Minami Deutsch",
+        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 546500,
+      "name": "Futsu Ni Ikirenai",
+      "url": "https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Blood-Drums",
         "url": "https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 509853,
       "name": "Blood-Drums",
       "url": "https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "La D\u00fcsseldorf",
+        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
+      },
+      "artists": [
+        {
+          "name": "La D\u00fcsseldorf",
+          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
+        }
+      ],
+      "duration_ms": 482773,
+      "name": "Silver Cloud",
+      "url": "https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1512,9 +1512,25 @@
           "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
         }
       ],
-      "duration_ms": 787133,
-      "name": "Die lange Gerade",
-      "url": "https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU"
+      "duration_ms": 392320,
+      "name": "Tonband Laufspur",
+      "url": "https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Minami Deutsch",
+        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 414222,
+      "name": "Sunrise, Sunset",
+      "url": "https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Minami Deutsch",
-        "url": "https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 414222,
-      "name": "Sunrise, Sunset",
-      "url": "https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Feather Float",
         "url": "https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi"
       },
@@ -1597,6 +1597,22 @@
       "url": "https://open.spotify.com/track/6h6Zt6iZbtyThlMCUmQs51"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Radiate!",
+        "url": "https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN"
+      },
+      "artists": [
+        {
+          "name": "Camera",
+          "url": "https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs"
+        }
+      ],
+      "duration_ms": 414800,
+      "name": "E-Go",
+      "url": "https://open.spotify.com/track/0IEqm9k648GiajWFUvsgLz"
+    },
+    {
       "added_at": "2024-02-02 05:39:17",
       "album": {
         "name": "Future Sounds Of Kraut, Vol. 2 - Teaser 1",
@@ -1611,22 +1627,6 @@
       "duration_ms": 439529,
       "name": "Krautwickel",
       "url": "https://open.spotify.com/track/5lM4npHv57txmyWH9wUnkh"
-    },
-    {
-      "added_at": "2021-11-05 19:39:16",
-      "album": {
-        "name": "En Letargo",
-        "url": "https://open.spotify.com/album/36bBecUrinX68SW69nmx1S"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1rboles Mentirosos",
-          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
-        }
-      ],
-      "duration_ms": 241902,
-      "name": "En Letargo",
-      "url": "https://open.spotify.com/track/6d4QZMKcx6BvOwo5EmumxZ"
     }
   ],
   "unique_name": "Krautrock",

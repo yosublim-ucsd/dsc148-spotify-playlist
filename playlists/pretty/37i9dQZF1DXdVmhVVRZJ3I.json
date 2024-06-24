@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 276443,
+  "num_followers": 276453,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,30 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
+        "name": "What Would You Do?",
+        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 174215,
+      "name": "What Would You Do?",
+      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
+    },
+    {
+      "added_at": "2024-06-21 03:03:00",
+      "album": {
         "name": "My City",
         "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
       },
@@ -327,26 +351,26 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
-        "name": "What Would You Do?",
-        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
+        "name": "It Don\u2019t Matter - Spotify Singles",
+        "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
         }
       ],
-      "duration_ms": 174215,
-      "name": "What Would You Do?",
-      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
+      "duration_ms": 173742,
+      "name": "It Don\u2019t Matter - Spotify Singles",
+      "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
     },
     {
       "added_at": "2024-06-21 03:03:00",
@@ -419,30 +443,6 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
-        "name": "It Don\u2019t Matter - Spotify Singles",
-        "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 173742,
-      "name": "It Don\u2019t Matter - Spotify Singles",
-      "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
-    },
-    {
-      "added_at": "2024-06-21 03:03:00",
-      "album": {
         "name": "Pararam",
         "url": "https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH"
       },
@@ -499,6 +499,26 @@
       "duration_ms": 211024,
       "name": "Human (Remix)",
       "url": "https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm"
+    },
+    {
+      "added_at": "2024-06-21 03:03:00",
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
     },
     {
       "added_at": "2024-06-21 03:03:00",
@@ -583,26 +603,6 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "The Wall",
-      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
-    },
-    {
-      "added_at": "2024-06-21 03:03:00",
-      "album": {
         "name": "Never Be Alone (feat. Aloe Blacc)",
         "url": "https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK"
       },
@@ -671,30 +671,6 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
-        "name": "One in a Million (Alok Remix)",
-        "url": "https://open.spotify.com/album/73bk5G6KNwb6gF1rjBXa4o"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 142816,
-      "name": "One in a Million - Alok Remix",
-      "url": "https://open.spotify.com/track/0nuszfz2u3hjdCDaNhc4m2"
-    },
-    {
-      "added_at": "2024-06-21 03:03:00",
-      "album": {
         "name": "Party On My Own (feat. FAULHABER)",
         "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
       },
@@ -715,6 +691,30 @@
       "duration_ms": 146500,
       "name": "Party On My Own (feat. FAULHABER)",
       "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
+    },
+    {
+      "added_at": "2024-06-21 03:03:00",
+      "album": {
+        "name": "One in a Million (Alok Remix)",
+        "url": "https://open.spotify.com/album/73bk5G6KNwb6gF1rjBXa4o"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 142816,
+      "name": "One in a Million - Alok Remix",
+      "url": "https://open.spotify.com/track/0nuszfz2u3hjdCDaNhc4m2"
     },
     {
       "added_at": "2024-06-21 03:03:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
-        "name": "Two Sides (feat. Julia Temos)",
-        "url": "https://open.spotify.com/album/3cNQpCVYoz0wwCTXAdsZG7"
-      },
-      "artists": [
-        {
-          "name": "INGEK",
-          "url": "https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2"
-        },
-        {
-          "name": "Julia Temos",
-          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
-        }
-      ],
-      "duration_ms": 153870,
-      "name": "Two Sides (feat. Julia Temos)",
-      "url": "https://open.spotify.com/track/3tyYBPax1BWTXwgL86131f"
-    },
-    {
-      "added_at": "2024-06-21 03:03:00",
-      "album": {
         "name": "Stay High (Zerb Remix)",
         "url": "https://open.spotify.com/album/3WNwoy8cC9kcksFSf4d0kM"
       },
@@ -1039,6 +1019,26 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
+        "name": "Two Sides (feat. Julia Temos)",
+        "url": "https://open.spotify.com/album/3cNQpCVYoz0wwCTXAdsZG7"
+      },
+      "artists": [
+        {
+          "name": "INGEK",
+          "url": "https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2"
+        },
+        {
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+        }
+      ],
+      "duration_ms": 153870,
+      "name": "Two Sides (feat. Julia Temos)",
+      "url": "https://open.spotify.com/track/3tyYBPax1BWTXwgL86131f"
+    },
+    {
+      "added_at": "2024-06-21 03:03:00",
+      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/6gfGUXVaqfEKv8x9jaJ3LP"
       },
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
+        "name": "Shingaling Shingaling",
+        "url": "https://open.spotify.com/album/2djHqWUscYXsPqrEugmx8w"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Shingaling Shingaling",
+      "url": "https://open.spotify.com/track/7mMgH7AulApCvRqiMtVuBS"
+    },
+    {
+      "added_at": "2024-06-21 03:03:00",
+      "album": {
         "name": "where is your pride?",
         "url": "https://open.spotify.com/album/2gC9Z5MHfmUkW2e3uHw56f"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 218666,
       "name": "where is your pride?",
       "url": "https://open.spotify.com/track/5H8f92czIxzvXko1n7toHZ"
-    },
-    {
-      "added_at": "2024-06-21 03:03:00",
-      "album": {
-        "name": "Shingaling Shingaling",
-        "url": "https://open.spotify.com/album/2djHqWUscYXsPqrEugmx8w"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Shingaling Shingaling",
-      "url": "https://open.spotify.com/track/7mMgH7AulApCvRqiMtVuBS"
     }
   ],
   "unique_name": "Suor EDM",

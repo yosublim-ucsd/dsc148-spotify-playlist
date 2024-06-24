@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-01",
-  "description": "This Is Gustavo Santaolalla. Los temas esenciales, todos en una lista.",
+  "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
   "name": "This Is Gustavo Santaolalla",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 152760,
       "name": "Brokeback Mountain 1",
       "url": "https://open.spotify.com/track/2MMboiwtvpKYz1jyB0FUnK"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-24",
       "duration_ms": 202906,
       "name": "La Noche Ya Es D\u00eda",
       "url": "https://open.spotify.com/track/2hUATbFX6dEZeFpikctyyS"

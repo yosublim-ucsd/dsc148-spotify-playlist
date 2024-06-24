@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > Tom Grennan의 추천곡과 함께 감미로운 재즈 타임을 가져보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131 likes - 15 songs - 55 min 13 sec
+[Spotify](https://open.spotify.com/user/spotify) - 132 likes - 15 songs - 55 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -133,6 +133,32 @@
     },
     {
       "album": {
+        "name": "Break This Love",
+        "url": "https://open.spotify.com/album/7861FXVmpGC4c8YeWKi9CE"
+      },
+      "artists": [
+        {
+          "name": "Hanno",
+          "url": "https://open.spotify.com/artist/4y08hdBM8X8dh1Ik7eWZFg"
+        },
+        {
+          "name": "Jordan Rys",
+          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
+        },
+        {
+          "name": "BELLA X",
+          "url": "https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153201,
+      "name": "Break This Love",
+      "url": "https://open.spotify.com/track/4XvteN1VIVKZnNB2jmQnHZ"
+    },
+    {
+      "album": {
         "name": "Bring Me Down",
         "url": "https://open.spotify.com/album/3gIvB6eeroGOChprJ0nB2f"
       },

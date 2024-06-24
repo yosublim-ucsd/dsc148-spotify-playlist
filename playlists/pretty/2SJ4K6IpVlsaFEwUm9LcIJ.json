@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2024 (previous playlists archived on my profile)",
-  "num_followers": 19989,
+  "num_followers": 19995,
   "original_name": "impressive\u2026 but true!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAKpXzZ8UKzDdIfCGdFeREYkSl1RbTA",
+  "snapshot_id": "AAAKpqVtkYpsEXI1V/YYwNyKhNVyjucP",
   "tracks": [
     {
       "added_at": "2024-05-16 01:01:16",
@@ -911,6 +911,22 @@
       "duration_ms": 117876,
       "name": "Time For Slurp",
       "url": "https://open.spotify.com/track/753EklH444D0oZj4ClafLc"
+    },
+    {
+      "added_at": "2024-06-23 05:47:48",
+      "album": {
+        "name": "Weird Little Birthday",
+        "url": "https://open.spotify.com/album/64hZe9D1dLyyq0s3NLBfsB"
+      },
+      "artists": [
+        {
+          "name": "Happyness",
+          "url": "https://open.spotify.com/artist/4nddgNqdf0SFeeqhbDN6rN"
+        }
+      ],
+      "duration_ms": 205752,
+      "name": "A Whole New Shape",
+      "url": "https://open.spotify.com/track/0TTyYV1dQAcB5uDH9VJKbQ"
     }
   ],
   "unique_name": "impressive\u2026 but true!",

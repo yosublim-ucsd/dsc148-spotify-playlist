@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-55 songs - 2 hr 20 min
+56 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [BESTIE BOO](https://open.spotify.com/track/3BDjECqVu4bZtxJv32Xev3) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG), [WLHELMINA](https://open.spotify.com/artist/0XKPkyNYSExK4hjtSDwBQ4) | [BESTIE BOO](https://open.spotify.com/album/2mmLKqwyfgGrJJQyTFLQJ2) | 3:26 | 2024-01-29 |  |
 | [Boom Boom](https://open.spotify.com/track/0WJblMHthgE1EZNwKk2Rlh) | [HADES](https://open.spotify.com/artist/10MePwUrEFRfJ3lN2FLs4b), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Boom Boom](https://open.spotify.com/album/1fChPEAP4ZYDbMu7aluGtn) | 2:34 | 2024-06-22 |  |
 | [Boys Make Me Cry](https://open.spotify.com/track/1rGnLwL6mJ7ULB19szUUfm) | [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Boys Make Me Cry](https://open.spotify.com/album/1yjPO13ze1nY2a6FmLSnWt) | 2:07 | 2024-01-29 |  |
+| [Break This Love](https://open.spotify.com/track/4XvteN1VIVKZnNB2jmQnHZ) | [Hanno](https://open.spotify.com/artist/4y08hdBM8X8dh1Ik7eWZFg), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Break This Love](https://open.spotify.com/album/7861FXVmpGC4c8YeWKi9CE) | 2:33 | 2024-06-23 |  |
 | [Bring Me Down](https://open.spotify.com/track/7bmPAfbCyHq5WRzIneUYQo) | [Rootkid](https://open.spotify.com/artist/4XsjzN2fdnTqKhXDuDlAJn), [Lonely Night](https://open.spotify.com/artist/5z7pjN7SUEN8nZFOO4MWhx), [Ari](https://open.spotify.com/artist/0V1Q4k9X1xSKiF9JVzRof1) | [Bring Me Down](https://open.spotify.com/album/3gIvB6eeroGOChprJ0nB2f) | 2:10 | 2024-01-29 |  |
 | [Bump](https://open.spotify.com/track/1bzCUnAH3gLc0yCMBrkIBI) | [Rob Late](https://open.spotify.com/artist/6OmPUPxJmHooPogepW0elo), [Georgia Box](https://open.spotify.com/artist/0fipA58lCvlkdokbwpoZZi) | [Bump](https://open.spotify.com/album/1wKO2g0UNisVXedPTMAYbP) | 3:08 | 2024-01-29 |  |
 | [Cherry Chapstick](https://open.spotify.com/track/7k5I4kPM8G9Bs207bYikhT) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN) | [Cherry Chapstick](https://open.spotify.com/album/6VenId9WrXydjUAxtKvb9T) | 2:25 | 2024-01-29 |  |

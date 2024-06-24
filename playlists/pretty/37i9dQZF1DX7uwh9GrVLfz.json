@@ -1,6 +1,6 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30e4\u30f3\u30b0\u30b9\u30ad\u30cb\u30fc",
-  "num_followers": 120289,
+  "num_followers": 120313,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-06-11 15:04:49",
       "album": {
-        "name": "\u3042\u306e\u65e5\u3001\u3042\u306e\u5834\u6240/\u7729\u5149",
-        "url": "https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "\u7729\u5149",
-      "url": "https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp"
-    },
-    {
-      "added_at": "2024-06-11 15:04:49",
-      "album": {
         "name": "175R BEST \u300cANNIVERSARY 1998-2018\u300d",
         "url": "https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A"
       },
@@ -495,18 +479,34 @@
     {
       "added_at": "2024-06-11 15:04:49",
       "album": {
-        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
-        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
+        "name": "REALIFE",
+        "url": "https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA"
       },
       "artists": [
         {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
         }
       ],
-      "duration_ms": 234627,
-      "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
-      "url": "https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj"
+      "duration_ms": 261360,
+      "name": "RIVER",
+      "url": "https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t"
+    },
+    {
+      "added_at": "2024-06-11 15:04:49",
+      "album": {
+        "name": "\u30ae\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig"
+      },
+      "artists": [
+        {
+          "name": "Humbreaders",
+          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
+        }
+      ],
+      "duration_ms": 228448,
+      "name": "BGM\u306b\u306a\u308b\u306a\u3088",
+      "url": "https://open.spotify.com/track/3iuviQn85fBJ9Y7JQbCvbr"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-06-11 15:04:49",
       "album": {
+        "name": "\u3042\u306e\u65e5\u3001\u3042\u306e\u5834\u6240/\u7729\u5149",
+        "url": "https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "\u7729\u5149",
+      "url": "https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp"
+    },
+    {
+      "added_at": "2024-06-11 15:04:49",
+      "album": {
         "name": "\u611b\u5f4c\u3005",
         "url": "https://open.spotify.com/album/2OyqM4vsvt06EgArxRoYZv"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": "2024-06-11 15:04:49",
       "album": {
-        "name": "REALIFE",
-        "url": "https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "RIVER",
-      "url": "https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t"
-    },
-    {
-      "added_at": "2024-06-11 15:04:49",
-      "album": {
         "name": "St. ROSALIA",
         "url": "https://open.spotify.com/album/43e5TtPmMPi61k6Q2x0r8B"
       },
@@ -591,38 +591,6 @@
       "duration_ms": 292592,
       "name": "St.ROSALIA",
       "url": "https://open.spotify.com/track/2RJPRXjpsDK0xyVfgNqoMR"
-    },
-    {
-      "added_at": "2024-06-11 15:04:49",
-      "album": {
-        "name": "\u30ae\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig"
-      },
-      "artists": [
-        {
-          "name": "Humbreaders",
-          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
-        }
-      ],
-      "duration_ms": 228448,
-      "name": "BGM\u306b\u306a\u308b\u306a\u3088",
-      "url": "https://open.spotify.com/track/3iuviQn85fBJ9Y7JQbCvbr"
-    },
-    {
-      "added_at": "2024-06-11 15:04:49",
-      "album": {
-        "name": "sleeps",
-        "url": "https://open.spotify.com/album/2isLTYuqfrBPQXwXuIgSe7"
-      },
-      "artists": [
-        {
-          "name": "RAINCOVER",
-          "url": "https://open.spotify.com/artist/2sOzogZ56UHGK5MxDIniyW"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "sleeps",
-      "url": "https://open.spotify.com/track/13xF5hSOJOBbv2jNNEwY7F"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -643,18 +611,18 @@
     {
       "added_at": "2024-06-11 15:04:49",
       "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/4hKowDy7jzTEp0SQU3NjY6"
+        "name": "sleeps",
+        "url": "https://open.spotify.com/album/2isLTYuqfrBPQXwXuIgSe7"
       },
       "artists": [
         {
-          "name": "waterweed",
-          "url": "https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ"
+          "name": "RAINCOVER",
+          "url": "https://open.spotify.com/artist/2sOzogZ56UHGK5MxDIniyW"
         }
       ],
-      "duration_ms": 160533,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/0hx0wgbkX6Rl7gRkySR1X0"
+      "duration_ms": 262506,
+      "name": "sleeps",
+      "url": "https://open.spotify.com/track/13xF5hSOJOBbv2jNNEwY7F"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -671,6 +639,38 @@
       "duration_ms": 301440,
       "name": "\u5922\u3067\u9022\u3048\u305f\u3089",
       "url": "https://open.spotify.com/track/5rvaDukztuWN4S82JoGd7R"
+    },
+    {
+      "added_at": "2024-06-11 15:04:49",
+      "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/4hKowDy7jzTEp0SQU3NjY6"
+      },
+      "artists": [
+        {
+          "name": "waterweed",
+          "url": "https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/0hx0wgbkX6Rl7gRkySR1X0"
+    },
+    {
+      "added_at": "2024-06-11 15:04:49",
+      "album": {
+        "name": "\u590f\u6681",
+        "url": "https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 232750,
+      "name": "\u590f\u6681",
+      "url": "https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-06-11 15:04:49",
       "album": {
-        "name": "\u590f\u6681",
-        "url": "https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez"
+        "name": "THE BAND STAR",
+        "url": "https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS"
       },
       "artists": [
         {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
         }
       ],
-      "duration_ms": 232750,
-      "name": "\u590f\u6681",
-      "url": "https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ"
+      "duration_ms": 179626,
+      "name": "PEAK'D YELLOW",
+      "url": "https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-06-11 15:04:49",
       "album": {
-        "name": "THE BAND STAR",
-        "url": "https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS"
+        "name": "\u307d",
+        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
       },
       "artists": [
         {
-          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
-          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
+          "name": "B-DASH",
+          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
         }
       ],
-      "duration_ms": 179626,
-      "name": "PEAK'D YELLOW",
-      "url": "https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv"
+      "duration_ms": 195533,
+      "name": "\u3061\u3087",
+      "url": "https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -755,22 +755,6 @@
       "duration_ms": 188133,
       "name": "\u5927\u5207\u306a\u3082\u306e",
       "url": "https://open.spotify.com/track/369Hij6w8bRwahCIlhYW5A"
-    },
-    {
-      "added_at": "2024-06-11 15:04:49",
-      "album": {
-        "name": "\u307d",
-        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
-      },
-      "artists": [
-        {
-          "name": "B-DASH",
-          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "\u3061\u3087",
-      "url": "https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -807,22 +791,6 @@
     {
       "added_at": "2024-06-11 15:04:49",
       "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/2ZPTCQBG8YLgf83T8W3Bfh"
-      },
-      "artists": [
-        {
-          "name": "ROTTENGRAFFTY",
-          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "\u91d1\u8272\u30b0\u30e9\u30d5\u30c6\u30a3\u30fc",
-      "url": "https://open.spotify.com/track/3Qs3O0rc4R0hl7WkTuMJ6U"
-    },
-    {
-      "added_at": "2024-06-11 15:04:49",
-      "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq"
       },
@@ -835,22 +803,6 @@
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
-    },
-    {
-      "added_at": "2024-06-11 15:04:49",
-      "album": {
-        "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
-        "url": "https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx"
-      },
-      "artists": [
-        {
-          "name": "Suspended 4th",
-          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
-        }
-      ],
-      "duration_ms": 197269,
-      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -871,22 +823,6 @@
     {
       "added_at": "2024-06-11 15:04:49",
       "album": {
-        "name": "BRING YOUR BOARD!!",
-        "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
-      "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
-    },
-    {
-      "added_at": "2024-06-11 15:04:49",
-      "album": {
         "name": "\u30d9\u30b9\u30c8 \u30aa\u30d6 \u30b4\u30fc!\u30b4\u30fc!",
         "url": "https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k"
       },
@@ -903,18 +839,50 @@
     {
       "added_at": "2024-06-11 15:04:49",
       "album": {
-        "name": "rainy day",
-        "url": "https://open.spotify.com/album/0KhN1AYoTQF7z0WugJMW9Z"
+        "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx"
       },
       "artists": [
         {
-          "name": "EiHilE",
-          "url": "https://open.spotify.com/artist/754tcMSEqzwZPMch88LbED"
+          "name": "Suspended 4th",
+          "url": "https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp"
         }
       ],
-      "duration_ms": 38808,
-      "name": "rainy day",
-      "url": "https://open.spotify.com/track/5NEtRE4ehYHg6uJ8lrbNTh"
+      "duration_ms": 197269,
+      "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH"
+    },
+    {
+      "added_at": "2024-06-11 15:04:49",
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/2ZPTCQBG8YLgf83T8W3Bfh"
+      },
+      "artists": [
+        {
+          "name": "ROTTENGRAFFTY",
+          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "\u91d1\u8272\u30b0\u30e9\u30d5\u30c6\u30a3\u30fc",
+      "url": "https://open.spotify.com/track/3Qs3O0rc4R0hl7WkTuMJ6U"
+    },
+    {
+      "added_at": "2024-06-11 15:04:49",
+      "album": {
+        "name": "BRING YOUR BOARD!!",
+        "url": "https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
+      "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -931,6 +899,22 @@
       "duration_ms": 376375,
       "name": "Feel",
       "url": "https://open.spotify.com/track/1x9DvNhTh5vXYuCKiN7tV6"
+    },
+    {
+      "added_at": "2024-06-11 15:04:49",
+      "album": {
+        "name": "rainy day",
+        "url": "https://open.spotify.com/album/0KhN1AYoTQF7z0WugJMW9Z"
+      },
+      "artists": [
+        {
+          "name": "EiHilE",
+          "url": "https://open.spotify.com/artist/754tcMSEqzwZPMch88LbED"
+        }
+      ],
+      "duration_ms": 38808,
+      "name": "rainy day",
+      "url": "https://open.spotify.com/track/5NEtRE4ehYHg6uJ8lrbNTh"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -1191,18 +1175,50 @@
     {
       "added_at": "2024-06-11 15:04:49",
       "album": {
-        "name": "\u30cb\u30e5\u30fc\u30de\u30cb\u30a2",
-        "url": "https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll"
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ"
       },
       "artists": [
         {
-          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
-          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
         }
       ],
-      "duration_ms": 87853,
-      "name": "\u30d5\u30eb\u30a2\u30a4\u30d3\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/5sqf3htL9JLOmwQtmWliqM"
+      "duration_ms": 101306,
+      "name": "Every",
+      "url": "https://open.spotify.com/track/5gzlFI9vHINA48pTJD7PeA"
+    },
+    {
+      "added_at": "2024-06-11 15:04:49",
+      "album": {
+        "name": "TENDOUJI",
+        "url": "https://open.spotify.com/album/0vfzJ1M6LLhqzx6MLmvnjY"
+      },
+      "artists": [
+        {
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+        }
+      ],
+      "duration_ms": 162322,
+      "name": "TOKYO ASH",
+      "url": "https://open.spotify.com/track/5nBE5YTtvIWxQYvTOG76Wz"
+    },
+    {
+      "added_at": "2024-06-11 15:04:49",
+      "album": {
+        "name": "Indian Burn",
+        "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "duration_ms": 174985,
+      "name": "These Magic Words",
+      "url": "https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -1239,34 +1255,18 @@
     {
       "added_at": "2024-06-11 15:04:49",
       "album": {
-        "name": "Harvest",
-        "url": "https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ"
+        "name": "\u30cb\u30e5\u30fc\u30de\u30cb\u30a2",
+        "url": "https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll"
       },
       "artists": [
         {
-          "name": "04 Limited Sazabys",
-          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
+          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
         }
       ],
-      "duration_ms": 101306,
-      "name": "Every",
-      "url": "https://open.spotify.com/track/5gzlFI9vHINA48pTJD7PeA"
-    },
-    {
-      "added_at": "2024-06-11 15:04:49",
-      "album": {
-        "name": "TENDOUJI",
-        "url": "https://open.spotify.com/album/0vfzJ1M6LLhqzx6MLmvnjY"
-      },
-      "artists": [
-        {
-          "name": "TENDOUJI",
-          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
-        }
-      ],
-      "duration_ms": 162322,
-      "name": "TOKYO ASH",
-      "url": "https://open.spotify.com/track/5nBE5YTtvIWxQYvTOG76Wz"
+      "duration_ms": 87853,
+      "name": "\u30d5\u30eb\u30a2\u30a4\u30d3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/5sqf3htL9JLOmwQtmWliqM"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -1283,22 +1283,6 @@
       "duration_ms": 157666,
       "name": "B\u30fbM\u30fbW",
       "url": "https://open.spotify.com/track/3CBy99A0i7gTKOjOSSIw53"
-    },
-    {
-      "added_at": "2024-06-11 15:04:49",
-      "album": {
-        "name": "Indian Burn",
-        "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
-      },
-      "artists": [
-        {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
-        }
-      ],
-      "duration_ms": 174985,
-      "name": "These Magic Words",
-      "url": "https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -1399,22 +1383,6 @@
     {
       "added_at": "2024-06-11 15:04:49",
       "album": {
-        "name": "\u30d3\u30c3\u30b0 \u30d6\u30e9\u30c3\u30af \u30b9\u30c8\u30a2(\u9023\u7d61\u3057\u308d)",
-        "url": "https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU"
-      },
-      "artists": [
-        {
-          "name": "B-DASH",
-          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "\u60c5\u71b1\u305f\u307e\u3057\u3044",
-      "url": "https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp"
-    },
-    {
-      "added_at": "2024-06-11 15:04:49",
-      "album": {
         "name": "\u6b7b\u4ea1\u30d5\u30e9\u30b0\u3092\u7acb\u3066\u306a\u3044\u3067",
         "url": "https://open.spotify.com/album/5lkOWi2hkb6Rj72eE2E3aG"
       },
@@ -1479,6 +1447,22 @@
       "duration_ms": 143266,
       "name": "Ohichyo",
       "url": "https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F"
+    },
+    {
+      "added_at": "2024-06-11 15:04:49",
+      "album": {
+        "name": "\u30d3\u30c3\u30b0 \u30d6\u30e9\u30c3\u30af \u30b9\u30c8\u30a2(\u9023\u7d61\u3057\u308d)",
+        "url": "https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU"
+      },
+      "artists": [
+        {
+          "name": "B-DASH",
+          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "\u60c5\u71b1\u305f\u307e\u3057\u3044",
+      "url": "https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp"
     },
     {
       "added_at": "2024-06-11 15:04:49",
@@ -1623,6 +1607,22 @@
       "duration_ms": 203960,
       "name": "\u30cf\u30ed\u30fc\u30d5\u30a3\u30af\u30b5\u30fc",
       "url": "https://open.spotify.com/track/6vDYdnpW1ZX7fsFI5d0apl"
+    },
+    {
+      "added_at": "2024-06-11 15:04:49",
+      "album": {
+        "name": "illuminate",
+        "url": "https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC"
+      },
+      "artists": [
+        {
+          "name": "SHADOWS",
+          "url": "https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3"
+        }
+      ],
+      "duration_ms": 203024,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr"
     }
   ],
   "unique_name": "Punk Japan",

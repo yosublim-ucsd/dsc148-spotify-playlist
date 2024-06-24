@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-332 songs - 18 hr 36 min
+333 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,9 +69,10 @@
 | [Cinema](https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cinema](https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9) | 2:59 | 2023-12-04 |  |
 | [circle of feelings](https://open.spotify.com/track/0Zr57tyrXXfbnjejbNWwfg) | [g y l s](https://open.spotify.com/artist/5P9ZfGxqKllKQuq3xBfWSk) | [circle of feelings](https://open.spotify.com/album/3PvBRlnbO6mZSD4WwsV4c8) | 3:03 | 2022-06-06 | 2022-07-26 |
 | [Close To Me](https://open.spotify.com/track/4uqrNjosNZKTxtsEUpjkIm) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Close To Me](https://open.spotify.com/album/5OOea733uhyneBGd5UKDRS) | 3:29 | 2024-03-22 | 2024-04-01 |
+| [Closer to Hell](https://open.spotify.com/track/4eFQHYCWctyJr4dwymVbAI) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Closer to Hell](https://open.spotify.com/album/6sq7O63sKs2NPbK3bPqZJg) | 2:45 | 2024-06-24 |  |
 | [Cloud](https://open.spotify.com/track/35kirOag3DTj2NZyvxfba5) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cloud](https://open.spotify.com/album/2spfiRY5MvsWFa81ZRnhp2) | 3:52 | 2022-06-06 | 2022-07-29 |
 | [Cloud 9 \(feat\. Juan Periquet, Kakie & Cub Fuque\)](https://open.spotify.com/track/388eLgpqeex2oOj9DxKEYI) | [Luis Villanueva](https://open.spotify.com/artist/12Y3P0t9K2ShPGHHJbZduX), [Cub Fuque](https://open.spotify.com/artist/47Vr0uma5dXBQ0nkSmqCXU), [Juan Periquet](https://open.spotify.com/artist/6zuxhwzRvx4f0Yeryu207j), [kakie](https://open.spotify.com/artist/3rMkO05Kgt99HDp4P41cbk) | [VOL\. 1 \(feat\. Kakie & Cub Fuque\)](https://open.spotify.com/album/4G4Ey7HMOteTfkYqYvcQDM) | 5:41 | 2022-06-06 | 2022-07-29 |
-| [cloud9](https://open.spotify.com/track/2KO0sztUM1YycUiP5Ny8Dg) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy), [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [cloud9](https://open.spotify.com/album/1ueZFUuqoyR9hzRxrgrgoK) | 3:09 | 2022-06-06 |  |
+| [cloud9](https://open.spotify.com/track/2KO0sztUM1YycUiP5Ny8Dg) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy), [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [cloud9](https://open.spotify.com/album/1ueZFUuqoyR9hzRxrgrgoK) | 3:09 | 2022-06-06 | 2024-06-24 |
 | [Cold \(2 AM\)](https://open.spotify.com/track/56ZMz7ERZ7NwLOqDtdsTlq) | [Michelle](https://open.spotify.com/artist/13VDZTUvX9b5ivTysrXuMk) | [Cold \(2 AM\)](https://open.spotify.com/album/4CzVzLksrXIUZAyixlsdE3) | 2:23 | 2022-06-06 | 2022-07-27 |
 | [Cold World](https://open.spotify.com/track/4vYvDdyDOw9CPjTjo6GAvt) | [Teddy](https://open.spotify.com/artist/0a6Q2oHRwUYaZMChVBZWts) | [Teddy](https://open.spotify.com/album/5pYU8aLsqEwutDZqO0vYEj) | 2:33 | 2022-10-24 | 2022-11-13 |
 | [Complexion](https://open.spotify.com/track/2nQtfIkK3eE4SQiaUfAgd5) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Complexion](https://open.spotify.com/album/6mLbfA9FOK4gnbcdXD0Mr6) | 3:09 | 2022-07-11 | 2022-07-29 |

@@ -2345,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Immortalize",
+        "url": "https://open.spotify.com/album/32ZVSj5PM7VQSs0FvNYss2"
+      },
+      "artists": [
+        {
+          "name": "Ruins of Perception",
+          "url": "https://open.spotify.com/artist/2s5wWlq89QJWGwnpw0fLdI"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371357,
+      "name": "Immortalize",
+      "url": "https://open.spotify.com/track/3pXpktbTqeYdZSswpxKmnx"
+    },
+    {
+      "album": {
         "name": "In the Sunken City of R'lyeh",
         "url": "https://open.spotify.com/album/284kiY1mTW4A7UwqR3gNa5"
       },

@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae. Welcome To Jamrock Reggae Cruise. Cover: H.E.R & Lila Ike",
-  "num_followers": 1114967,
+  "num_followers": 1115063,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,26 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 197183,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
         "name": "Rebel Time",
         "url": "https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7"
       },
@@ -139,6 +159,42 @@
       "duration_ms": 241734,
       "name": "Rebel Time",
       "url": "https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Step by Step",
+        "url": "https://open.spotify.com/album/6gF4AjZeBsUIHX5LKTASfe"
+      },
+      "artists": [
+        {
+          "name": "Jah Lil",
+          "url": "https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww"
+        }
+      ],
+      "duration_ms": 225168,
+      "name": "Step by Step",
+      "url": "https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "That's Not True",
+      "url": "https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -163,62 +219,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Step by Step",
-        "url": "https://open.spotify.com/album/6gF4AjZeBsUIHX5LKTASfe"
-      },
-      "artists": [
-        {
-          "name": "Jah Lil",
-          "url": "https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww"
-        }
-      ],
-      "duration_ms": 225168,
-      "name": "Step by Step",
-      "url": "https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "A Thousand Times",
-        "url": "https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 197183,
-      "name": "A Thousand Times",
-      "url": "https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "The Kalling",
-        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 229057,
-      "name": "Red Gold and Green",
-      "url": "https://open.spotify.com/track/3G2JE7DiHUhEizVPLiU0vw"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Is This A Dream",
         "url": "https://open.spotify.com/album/4B9GJIKrbgUQa6vhiF4YEB"
       },
@@ -239,22 +239,22 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Higher Place",
-        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+        "name": "The Kalling",
+        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
       },
       "artists": [
         {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
         },
         {
           "name": "Damian Marley",
           "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
         }
       ],
-      "duration_ms": 208893,
-      "name": "That's Not True",
-      "url": "https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL"
+      "duration_ms": 229057,
+      "name": "Red Gold and Green",
+      "url": "https://open.spotify.com/track/3G2JE7DiHUhEizVPLiU0vw"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Love And Mercy",
-        "url": "https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62"
-      },
-      "artists": [
-        {
-          "name": "Samory I",
-          "url": "https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Love And Mercy",
-      "url": "https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Ten Cane Row (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
@@ -335,6 +319,26 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 195829,
+      "name": "Vibe (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
         "name": "Love That Don't Change",
         "url": "https://open.spotify.com/album/63kwJPFzIUVO0uulgw7tFe"
       },
@@ -351,6 +355,22 @@
       "duration_ms": 196801,
       "name": "Love That Don't Change",
       "url": "https://open.spotify.com/track/5Grg0T6Warm8nAXeD1LE5d"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Love And Mercy",
+        "url": "https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62"
+      },
+      "artists": [
+        {
+          "name": "Samory I",
+          "url": "https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Love And Mercy",
+      "url": "https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -391,26 +411,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 195829,
-      "name": "Vibe (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
       },
@@ -423,26 +423,6 @@
       "duration_ms": 173251,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "In Search Of Lost Time",
-        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "In Bloom (feat. Lila Ik\u00e9)",
-      "url": "https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -515,6 +495,26 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
+        "name": "In Search Of Lost Time",
+        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "In Bloom (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
         "name": "Mi Deh Yah",
         "url": "https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu"
       },
@@ -531,6 +531,38 @@
       "duration_ms": 227404,
       "name": "Mi Deh Yah",
       "url": "https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Nice Up The Dance",
+        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 212795,
+      "name": "Nice Up The Dance",
+      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "duration_ms": 198362,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -603,22 +635,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Higher Place",
-        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        }
-      ],
-      "duration_ms": 198362,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Alert",
         "url": "https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc"
       },
@@ -635,42 +651,6 @@
       "duration_ms": 179861,
       "name": "Alert",
       "url": "https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "Like Royalty (feat. Popcaan)",
-        "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 245986,
-      "name": "Like Royalty (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "Nice Up The Dance",
-        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 212795,
-      "name": "Nice Up The Dance",
-      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -707,6 +687,26 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
+        "name": "Like Royalty (feat. Popcaan)",
+        "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "Like Royalty (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
         "name": "Make Me Feel",
         "url": "https://open.spotify.com/album/5debgHMJNijFtEvXbR6LS0"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 192284,
       "name": "Make Me Feel (feat. Rick Ross & Ari Lennox)",
       "url": "https://open.spotify.com/track/683pmH1N542FzPKKvs0Aqs"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -767,22 +783,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Rose Petal",
         "url": "https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 209856,
       "name": "Rose Petal",
       "url": "https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "Same So",
-        "url": "https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 208719,
-      "name": "Same So",
-      "url": "https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -899,6 +883,22 @@
       "duration_ms": 291186,
       "name": "Let's Make Up",
       "url": "https://open.spotify.com/track/0vXUQKUSOItuBwnRU6FsW2"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Same So",
+        "url": "https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 208719,
+      "name": "Same So",
+      "url": "https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW"
     },
     {
       "added_at": "2024-06-18 11:27:57",

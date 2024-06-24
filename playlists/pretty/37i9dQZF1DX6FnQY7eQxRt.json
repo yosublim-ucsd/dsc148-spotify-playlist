@@ -1,6 +1,6 @@
 {
   "description": "Your favourite Christmas carols, performed and re-imagined by the world's greatest choirs.",
-  "num_followers": 43270,
+  "num_followers": 43265,
   "original_name": "Christmas Choir",
   "owner": {
     "name": "Spotify",
@@ -1288,20 +1288,16 @@
       },
       "artists": [
         {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
           "name": "The Tabernacle Choir at Temple Square",
           "url": "https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5"
         },
         {
-          "name": "Jerold D. Ottley",
-          "url": "https://open.spotify.com/artist/3NE03TxIuZ7kTpgqc1tWoH"
-        },
-        {
           "name": "Columbia Symphony Orchestra",
           "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+        },
+        {
+          "name": "Jerold D. Ottley",
+          "url": "https://open.spotify.com/artist/3NE03TxIuZ7kTpgqc1tWoH"
         }
       ],
       "duration_ms": 287106,

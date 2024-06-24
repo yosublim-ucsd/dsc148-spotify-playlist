@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 2609,
+  "num_followers": 2612,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnTCgAAAAACqqda2oLunkMwRbDhNEUfF",
+  "snapshot_id": "ZnYUAAAAAADeLh+FULQQEruM9kh84S42",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Little Mermaid Live!",
-        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+        "name": "Mean Girls (Music From The Motion Picture \u2013 Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2VqGOWnMT8pJsYkRuEkqb7"
       },
       "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         }
       ],
-      "duration_ms": 181089,
-      "name": "Under the Sea - From \"The Little Mermaid Live!\"",
-      "url": "https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX"
+      "duration_ms": 50646,
+      "name": "Someone Gets Hurt - Reprise",
+      "url": "https://open.spotify.com/track/1uElzTQ3ZDKimyoTeShKAv"
     },
     {
       "added_at": null,
@@ -135,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture \u2013 Bonus Track Version)",
-        "url": "https://open.spotify.com/album/2VqGOWnMT8pJsYkRuEkqb7"
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
       },
       "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         }
       ],
-      "duration_ms": 50646,
-      "name": "Someone Gets Hurt - Reprise",
-      "url": "https://open.spotify.com/track/1uElzTQ3ZDKimyoTeShKAv"
+      "duration_ms": 181089,
+      "name": "Under the Sea - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX"
     },
     {
       "added_at": null,

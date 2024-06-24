@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Peso Pluma no siguió su carrera en el fut, pero este nuevo álbum es de trofeo mundial 🏆✨🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,667 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,983 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

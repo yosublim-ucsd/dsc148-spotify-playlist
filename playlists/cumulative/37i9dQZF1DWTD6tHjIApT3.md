@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: mei ehara
 
-2,519 songs - 6 day 17 hr 40 min
+2,520 songs - 6 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1412,7 +1412,7 @@
 | [Wish](https://open.spotify.com/track/6wMnf3VRkhtT8NmJuWNimt) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Wish](https://open.spotify.com/album/2RFVJfCtxR9E8NoFOG0Jgi) | 4:46 | 2022-10-04 | 2022-12-16 |
 | [Wishing](https://open.spotify.com/track/1VfdAoxCRpZce6H1Er7EUa) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [UNTITLED](https://open.spotify.com/album/5YcBwWlQmOm6Hd3VqohUsC) | 2:49 | 2023-12-12 | 2023-12-20 |
 | [Wishing](https://open.spotify.com/track/4xnmwQFY3pU00bO8qeu63K) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [UNTITLED](https://open.spotify.com/album/5kekyUJVTxhkaRAuEN0l73) | 2:49 | 2023-12-12 | 2023-12-14 |
-| [With](https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [With](https://open.spotify.com/album/3H2UC7kPo1DNB4aVTiSNzE) | 3:47 | 2023-10-05 |  |
+| [With](https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [With](https://open.spotify.com/album/3H2UC7kPo1DNB4aVTiSNzE) | 3:47 | 2023-10-05 | 2024-06-24 |
 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 | 2023-02-09 | 2023-10-18 |
 | [Wolf](https://open.spotify.com/track/1mjl6shDbIttccQj3ktzuB) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [Wolf](https://open.spotify.com/album/6aSz8m9KHNfymtKh3TDOE9) | 3:09 | 2023-11-21 | 2023-11-29 |
 | [Wolf](https://open.spotify.com/track/562QVA1IwYK8FpKbTAN3jU) | [HITOMIN](https://open.spotify.com/artist/54WlbKLgYBjRlWsee92OJt) | [Wolf](https://open.spotify.com/album/689ooeF6npWjM7n2k6qLrl) | 3:09 | 2023-11-21 | 2023-11-23 |
@@ -1807,6 +1807,7 @@
 | [ハウ・アー・ユー](https://open.spotify.com/track/6RJFqida1S0XpSTfq9sWSC) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [Breath](https://open.spotify.com/album/0903f6AZbxF6OUEgxTjsos) | 3:31 | 2022-08-17 | 2022-08-24 |
 | [ハッピー☆ブギ](https://open.spotify.com/track/6CxbTX5K3LVTVj41wk5XQn) | [Yoshie Nakano](https://open.spotify.com/artist/1sJY6QnXKQjX7SCtiXOzkg), [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [趣里](https://open.spotify.com/artist/2rodLJLnpKoFMJggODrOMg) | [ハッピー☆ブギ](https://open.spotify.com/album/16SgWv3BPNBRIlPy70OgOl) | 3:40 | 2023-10-03 | 2023-10-18 |
 | [ハツコイノウタ](https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ハツコイノウタ](https://open.spotify.com/album/4VtLZNRYHHAe7esWR5eD93) | 3:18 | 2022-12-22 | 2023-01-25 |
+| [ハニートースト](https://open.spotify.com/track/1wHh3KOgmph3brfijQTMQb) | [パン野実々美](https://open.spotify.com/artist/3MEW5IClWg8SGxJI4iuVat) | [ハニートースト](https://open.spotify.com/album/0v6cLD46izfqlykU26JiW7) | 3:19 | 2024-06-23 |  |
 | [ハミング](https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [ハミング](https://open.spotify.com/album/17eurvWkXobPOJpJZsrbLw) | 3:39 | 2024-06-04 |  |
 | [ハルノオト](https://open.spotify.com/track/1NEjZxYHLKl0Cqyf1tX8iW) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [ハルノオト](https://open.spotify.com/album/0qWF1sbvxcApXbRlZZOz4y) | 3:41 | 2023-04-04 | 2023-04-12 |
 | [ハードデイズナイト](https://open.spotify.com/track/7lZO05uPQiy8HyVv03r93G) | [mayuco](https://open.spotify.com/artist/5TU2Hv6HdlelBGDWRPAvff), [KINAKO](https://open.spotify.com/artist/5TuiBia1vSBXzoYl8X2KOC), [Shimar](https://open.spotify.com/artist/5gvLv8Wb10hhajWKW76Swj) | [ハードデイズナイト](https://open.spotify.com/album/6pptEGfGViIMBEQc9TRdq3) | 3:15 | 2022-06-21 | 2022-07-01 |

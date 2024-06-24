@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 58597,
+  "num_followers": 58623,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnTCgAAAAADp5Ske2LFZ+YD9i4XJwKT+",
+  "snapshot_id": "ZnYUAAAAAADGxWlFnOkn5NUIdiH3DNz3",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los machos tambi\u00e9n lloran",
-        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+        "name": "Historia sin fin",
+        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 165106,
-      "name": "G\u00fcerita",
-      "url": "https://open.spotify.com/track/6fkhelPceMGuArIxYKyagL"
+      "duration_ms": 197426,
+      "name": "Tres minutos",
+      "url": "https://open.spotify.com/track/0mKKoYIkWf9BeAWNV8OQoP"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Historia sin fin",
-        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 197426,
-      "name": "Tres minutos",
-      "url": "https://open.spotify.com/track/0mKKoYIkWf9BeAWNV8OQoP"
+      "duration_ms": 165106,
+      "name": "G\u00fcerita",
+      "url": "https://open.spotify.com/track/6fkhelPceMGuArIxYKyagL"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 158293,
-      "name": "El puchoncito",
-      "url": "https://open.spotify.com/track/1kwKUM2BG2Myfj7FmImZEU"
+      "duration_ms": 160560,
+      "name": "Besando borrachos",
+      "url": "https://open.spotify.com/track/44kod3HVpNIvakBmRd0Lvb"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 160560,
-      "name": "Besando borrachos",
-      "url": "https://open.spotify.com/track/44kod3HVpNIvakBmRd0Lvb"
+      "duration_ms": 158293,
+      "name": "El puchoncito",
+      "url": "https://open.spotify.com/track/1kwKUM2BG2Myfj7FmImZEU"
     },
     {
       "added_at": null,
