@@ -1,4 +1,4 @@
-## Playlists \(7848\)
+## Playlists \(7849\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3975,6 +3975,7 @@
 - [On Record \(7\)](/playlists/pretty/37i9dQZF1EOJh44pNjcwdt.md)
 - [On Record \(8\)](/playlists/pretty/37i9dQZF1EOpIiOtUcbBqI.md)
 - [On Record \(9\)](/playlists/pretty/37i9dQZF1EOpRGOH7Qce7F.md)
+- [On Repeat](/playlists/pretty/37i9dQZF1EpsSkWDweSLfR.md)
 - [On Replay \-メガヒット・リプレイ\-](/playlists/pretty/37i9dQZF1DX6rGPDxQsF1V.md)
 - [On The Farm](/playlists/pretty/37i9dQZF1DX3fBYada3bEd.md)
 - [On Tour Ado: Final](/playlists/pretty/37i9dQZF1DXbBHo5sKcpSI.md)
