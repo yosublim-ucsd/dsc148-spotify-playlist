@@ -4,7 +4,7 @@
 
 > Every summer needs a soundtrack.
 
-223 songs - 11 hr 11 min
+224 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-10-13 | 2024-05-07 |
 | [BELLAKEO](https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [BELLAKEO](https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0) | 3:17 | 2024-03-08 |  |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2023-10-13 |  |
-| [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-10-13 |  |
+| [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-10-13 | 2024-06-25 |
 | [Big Boom](https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Big Boom](https://open.spotify.com/album/6KBWwX5kdgbmGe5ElXQXfz) | 2:14 | 2023-10-13 | 2024-03-09 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-14 |  |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-10-13 |  |
@@ -191,6 +191,7 @@
 | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 | 2024-05-03 |  |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-07 |  |
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-05-31 | 2024-06-08 |
+| [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-21 |  |
 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 | 2024-06-14 |  |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-10-13 | 2024-01-22 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-10-13 | 2024-06-08 |

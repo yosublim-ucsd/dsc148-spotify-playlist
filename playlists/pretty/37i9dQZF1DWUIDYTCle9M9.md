@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 
 > Hits e clássicos para jogar sua energia lá em cima!
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,846 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,904 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUIDYTCle9M9.md) - [plain]
 | 21 | [I Gotta Feeling](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:49 |
 | 22 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 |
 | 23 | [Drive By](https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 3:15 |
-| 24 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
-| 25 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
+| 24 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
+| 25 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 26 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 |
 | 27 | [Poker Face](https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 3:57 |
 | 28 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over \(Revised International Standard version\)](https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn) | 3:21 |

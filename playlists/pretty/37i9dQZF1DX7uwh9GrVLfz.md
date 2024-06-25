@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ヤングスキニー
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,313 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,360 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 63 | [春のまま](https://open.spotify.com/track/3B2JxxWYdQ6ZnRhpWlDO1a) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [「学生街より、抜粋」](https://open.spotify.com/album/7lG1lbB4URAEYxiY9IDmwj) | 3:02 |
 | 64 | [ロックンロール イズ ノットデッド](https://open.spotify.com/track/2T0NlmguJeLXbXc4xZ10TU) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ロックンロール イズ ノットデッド](https://open.spotify.com/album/0ETJil8vr0LrBGRA8oxC0p) | 5:00 |
 | 65 | [Stereoman](https://open.spotify.com/track/6ZIOIVey5pvMycER6mSA4y) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Space Sonic](https://open.spotify.com/album/4MJpSVLeU2zWaph5ywV60A) | 3:33 |
-| 66 | [Dandadan](https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:03 |
-| 67 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 |
+| 66 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 |
+| 67 | [Dandadan](https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:03 |
 | 68 | [YAEN](https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [YAEN](https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m) | 2:19 |
 | 69 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 |
 | 70 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 |

@@ -4,7 +4,7 @@
 
 > Coldplay in cover + le migliori uscite di questa settimana!
 
-864 songs - 1 day 19 hr 8 min
+865 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,7 +573,8 @@
 | [OGGI COME IERI](https://open.spotify.com/track/15J7tvAXC0ZrmJamowiMWC) | [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF) | [OGGI COME IERI](https://open.spotify.com/album/6ZfdmYNHxiAzAGij5zEiNB) | 2:49 | 2024-04-26 | 2024-05-03 |
 | [Ogni maledetta domenica](https://open.spotify.com/track/0HS43s0nNeGFsnn1ZKlrxa) | [Sir Giove](https://open.spotify.com/artist/50Pi0iTbnC3hDmCx6Bge2i) | [Ogni maledetta domenica](https://open.spotify.com/album/74CMUCMtcxy97UijT94WGP) | 2:34 | 2024-05-23 | 2024-06-01 |
 | [Ogni volta che](https://open.spotify.com/track/0W4LW6qzPoV1tiCu4pcDfk) | [Orang3](https://open.spotify.com/artist/2CiAivRzLBZI5HDPKNUokU) | [Ogni volta che](https://open.spotify.com/album/2BCZ6sBWEbJQ9fIrlvcsP3) | 3:08 | 2024-06-06 | 2024-06-14 |
-| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-20 |  |
+| [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 | 2024-06-24 |  |
+| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-20 | 2024-06-25 |
 | [OKAY OKAY \(S1 E2\)](https://open.spotify.com/track/1NZsIGqB8N4BgRtBcRP1WT) | [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [OKAY OKAY \(S1 E2\)](https://open.spotify.com/album/52Nws4hSiY3CoOvkKdBARm) | 2:55 | 2024-05-23 | 2024-06-01 |
 | [OKOK](https://open.spotify.com/track/3iKGHl5z71jocmVJSIQX0j) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [OKOK](https://open.spotify.com/album/4HELP1Hj8kPeU79lJJDUB6) | 1:54 | 2024-05-31 | 2024-06-07 |
 | [One Cry \(feat\. Rosa Linn\)](https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 3:06 | 2024-05-16 | 2024-05-24 |

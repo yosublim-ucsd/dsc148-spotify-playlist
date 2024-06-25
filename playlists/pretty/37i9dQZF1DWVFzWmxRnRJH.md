@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 
 > A fun library of country hits to pass on to the next generation!
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,426 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,637 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 36 | [Mammas Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:32 |
 | 37 | [Write This Down](https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Always Never The Same](https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F) | 3:39 |
 | 38 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
-| 39 | [Achy Breaky Heart](https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 3:23 |
-| 40 | [The Devil Went Down to Georgia](https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 3:34 |
+| 39 | [The Devil Went Down to Georgia](https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 3:34 |
+| 40 | [Achy Breaky Heart](https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 3:23 |
 | 41 | [Little Bitty](https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Everything I Love](https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW) | 2:38 |
 | 42 | [Wide Open Spaces](https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:43 |
 | 43 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
-| 44 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
+| 44 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
 | 45 | [Carrying Your Love With Me](https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Carrying Your Love With Me](https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ) | 3:52 |
-| 46 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
+| 46 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 |
 | 47 | [Coat of Many Colors](https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Coat Of Many Colors](https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg) | 3:03 |
 | 48 | [What Part of No](https://open.spotify.com/track/00klSin5es2cwPgZf103Fz) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Greatest Hits](https://open.spotify.com/album/0h4UTgpQYFLzUw0xCtJGNV) | 2:46 |
 | 49 | [Amazed](https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 4:00 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 92 | [Convoy](https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh) | [C.W\. McCall](https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV) | [C.W\. McCall's Greatest Hits](https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY) | 3:50 |
 | 93 | [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Coal Miner's Daughter](https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr) | 3:00 |
 | 94 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
-| 95 | [John Deere Green](https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Honky Tonk Attitude](https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi) | 4:32 |
-| 96 | [Days Go By](https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 3:44 |
+| 95 | [Days Go By](https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 3:44 |
+| 96 | [John Deere Green](https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Honky Tonk Attitude](https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi) | 4:32 |
 | 97 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 |
 | 98 | [One Piece at a Time](https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tennessee Three](https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp) | [One Piece At A Time](https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67) | 4:01 |
 | 99 | [Mama Tried](https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Mama Tried/ Pride In What I Am](https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn) | 2:14 |

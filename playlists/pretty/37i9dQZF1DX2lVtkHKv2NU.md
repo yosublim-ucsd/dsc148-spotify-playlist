@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,931 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,912 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 7 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |
 | 8 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
 | 9 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |
-| 10 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
+| 10 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
 | 11 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
-| 12 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
+| 12 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 13 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
 | 14 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 15 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 |
-| 16 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
-| 17 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
+| 16 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
+| 17 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 18 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 19 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 20 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 76 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 |
 | 77 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 |
 | 78 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 |
-| 79 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
-| 80 | [Home](https://open.spotify.com/track/2qPSa6HXjzwa9sLhNGpA1T) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Home](https://open.spotify.com/album/6FTZtwV3e6WYgVeRhi6Gbm) | 3:15 |
+| 79 | [Home](https://open.spotify.com/track/2qPSa6HXjzwa9sLhNGpA1T) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Home](https://open.spotify.com/album/6FTZtwV3e6WYgVeRhi6Gbm) | 3:15 |
+| 80 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 81 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |
 | 82 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 |
 | 83 | [00:00](https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 3:35 |

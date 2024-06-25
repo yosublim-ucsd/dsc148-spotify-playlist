@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8OvHOQg0RD.md) - [plain]
 
 > a ti te quedé grande y por eso estás con una igualita que tú 🔥 🐺 👄
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,138 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,151 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:34 |
+| 1 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 2 | [Muñecas](https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Muñecas](https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR) | 2:36 |
 | 3 | [Fingías](https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Fingías](https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn) | 3:45 |
-| 4 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 |
-| 5 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 |
-| 6 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
-| 7 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 |
+| 4 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:34 |
+| 5 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 |
+| 6 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 |
+| 7 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
 | 8 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 |
 | 9 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
 | 10 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8OvHOQg0RD.md) - [plain]
 | 49 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 |
 | 50 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 |
 
-Snapshot ID: `ZNWyfAAAAABy4uSjoTjqItMpemrd99JS`
+Snapshot ID: `ZnnaDgAAAABTShqGkxzZMR49s+n0zNxb`

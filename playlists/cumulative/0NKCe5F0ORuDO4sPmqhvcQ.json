@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "2 Many Lies / Your Love",
+        "url": "https://open.spotify.com/album/1ZdN5DsyEMxOmt7Vpy8IiL"
+      },
+      "artists": [
+        {
+          "name": "CHROMEBODIES",
+          "url": "https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI"
+        },
+        {
+          "name": "Centre Court",
+          "url": "https://open.spotify.com/artist/5CyxC6fwavhoRAf1n9n7wh"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "2 Many Lies",
+      "url": "https://open.spotify.com/track/5MtkeJ3mnxiQnkQGrGuIpm"
+    },
+    {
+      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/5v4pzv7O0Ye6dKobqXgMg5"
       },
@@ -4438,6 +4460,28 @@
       "duration_ms": 222160,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/5viOqMYnOlMeuCQmhqxyzg"
+    },
+    {
+      "album": {
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V"
+      },
+      "artists": [
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        },
+        {
+          "name": "Sam Bruno",
+          "url": "https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
     },
     {
       "album": {

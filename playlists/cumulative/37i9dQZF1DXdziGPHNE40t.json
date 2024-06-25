@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 183776,
       "name": "Barney's",
       "url": "https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 211671,
       "name": "Beyond Belief",
       "url": "https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU"
@@ -2216,7 +2216,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 197253,
       "name": "Dreams About Change",
       "url": "https://open.spotify.com/track/1TPGqUM9ZzAfAv9FP4PtQN"
@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 335020,
       "name": "Early Mornings",
       "url": "https://open.spotify.com/track/4a0p3YclRTqjojqSG75XLK"
@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 207231,
       "name": "Faded pictures of the past",
       "url": "https://open.spotify.com/track/4RRX9y5c5BZWFV1VHifBaI"
@@ -3020,6 +3020,24 @@
       "duration_ms": 192573,
       "name": "Georgia On My Mind",
       "url": "https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3"
+    },
+    {
+      "album": {
+        "name": "Getting Lazy",
+        "url": "https://open.spotify.com/album/49NQCzYWXxDR6fSgUD7Fya"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296582,
+      "name": "Getting Lazy",
+      "url": "https://open.spotify.com/track/2iMDmVHOkkzFGbAXlighpd"
     },
     {
       "album": {
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 280418,
       "name": "I Concentrate On You",
       "url": "https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL"
@@ -3942,7 +3960,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 273178,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM"
@@ -4000,6 +4018,24 @@
       "duration_ms": 174867,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj"
+    },
+    {
+      "album": {
+        "name": "Trio Serena",
+        "url": "https://open.spotify.com/album/1iE7mKXtPuIPlDyJHmMpgD"
+      },
+      "artists": [
+        {
+          "name": "Trio Serena",
+          "url": "https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294221,
+      "name": "In Every Way",
+      "url": "https://open.spotify.com/track/1YlfyVONpiMygsqGI6dfDt"
     },
     {
       "album": {
@@ -4813,6 +4849,24 @@
     },
     {
       "album": {
+        "name": "Let it speak",
+        "url": "https://open.spotify.com/album/74XjC5kOChZdYZckuMCMUC"
+      },
+      "artists": [
+        {
+          "name": "Fortune Morel Trio",
+          "url": "https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140182,
+      "name": "Let it speak",
+      "url": "https://open.spotify.com/track/3Cc66ZcXbbGumKkHKKtIt7"
+    },
+    {
+      "album": {
         "name": "Misty",
         "url": "https://open.spotify.com/album/3VxtokLaFZNDwce4YijTmE"
       },
@@ -4918,6 +4972,24 @@
       "duration_ms": 224113,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/5aQgWuYF4U6N1XDuk0fcol"
+    },
+    {
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/1sLnvQFc4FAHufXfm0FhgS"
+      },
+      "artists": [
+        {
+          "name": "Prism Trio",
+          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263548,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/6fI0UzIJTBiBhSxDhKHwXH"
     },
     {
       "album": {
@@ -5296,6 +5368,24 @@
       "duration_ms": 153362,
       "name": "Madison",
       "url": "https://open.spotify.com/track/4XJwaQOwqrfkiXkAuxZSNd"
+    },
+    {
+      "album": {
+        "name": "Magnolia Tree",
+        "url": "https://open.spotify.com/album/4zvCIVnX4Q4oBXyyUhY3O1"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290168,
+      "name": "Magnolia Tree",
+      "url": "https://open.spotify.com/track/61AogUlvzPjV9VE8AHlvsi"
     },
     {
       "album": {
@@ -5724,7 +5814,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 183871,
       "name": "Moon Side",
       "url": "https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb"
@@ -6343,6 +6433,24 @@
     },
     {
       "album": {
+        "name": "Nights in Montauk",
+        "url": "https://open.spotify.com/album/5tS8xLDFN2Y0iBjqv5lKpJ"
+      },
+      "artists": [
+        {
+          "name": "The Midnight Quartet",
+          "url": "https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236632,
+      "name": "Nights in Montauk",
+      "url": "https://open.spotify.com/track/5jD5xLt3rtreHpDcTcib3n"
+    },
+    {
+      "album": {
         "name": "No Going Back",
         "url": "https://open.spotify.com/album/5oeHg9rGj4rvC3wcgRNVww"
       },
@@ -6834,6 +6942,24 @@
       "duration_ms": 170145,
       "name": "Part of the moment",
       "url": "https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A"
+    },
+    {
+      "album": {
+        "name": "Pass the Salt",
+        "url": "https://open.spotify.com/album/650WMgglCat9jejss0KSu6"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222545,
+      "name": "Pass the Salt",
+      "url": "https://open.spotify.com/track/6c7YlCeNwLuua6LDeflx1U"
     },
     {
       "album": {
@@ -9126,7 +9252,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 290709,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK"
@@ -9180,7 +9306,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 195181,
       "name": "This Is New",
       "url": "https://open.spotify.com/track/6fYwCP9RSKhbOkLmGwX41N"
@@ -9396,7 +9522,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 269002,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk"

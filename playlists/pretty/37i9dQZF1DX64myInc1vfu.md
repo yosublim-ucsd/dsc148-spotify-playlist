@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Noreh
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,920 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,955 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 46 | [La Mudanza](https://open.spotify.com/track/56cTihSjtGj6A0RgjxA8TZ) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [La Mudanza](https://open.spotify.com/album/56gxJ8UilpgUPdRnexnLAl) | 3:43 |
 | 47 | [Somos Algo](https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Somos Algo](https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k) | 3:54 |
 | 48 | [Casi algo](https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Casi algo](https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY) | 2:45 |
-| 49 | [Cómplices](https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Cómplices](https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ) | 3:03 |
-| 50 | [Carmines](https://open.spotify.com/track/4o2GBzQUdB1JxtPugYW2gx) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL), [Aquiles Moon](https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4) | [Carmines](https://open.spotify.com/album/57Tm8zyEIX34uoq4Q62jOz) | 3:22 |
+| 49 | [Carmines](https://open.spotify.com/track/4o2GBzQUdB1JxtPugYW2gx) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL), [Aquiles Moon](https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4) | [Carmines](https://open.spotify.com/album/57Tm8zyEIX34uoq4Q62jOz) | 3:22 |
+| 50 | [Desahogo](https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Desahogo](https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9) | 4:20 |
 | 51 | [Para No Romperme](https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Para No Romperme](https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh) | 2:51 |
-| 52 | [Desahogo](https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Desahogo](https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9) | 4:20 |
+| 52 | [Cómplices](https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Cómplices](https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ) | 3:03 |
 | 53 | [Diablo](https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [Diablo](https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP) | 3:11 |
-| 54 | [Ojos de Serpiente](https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Ojos de Serpiente](https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt) | 2:51 |
-| 55 | [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 |
+| 54 | [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 |
+| 55 | [Ojos de Serpiente](https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Ojos de Serpiente](https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt) | 2:51 |
 | 56 | [Amor En Cuarentena](https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Amor En Cuarentena](https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW) | 2:45 |
 | 57 | [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 |
 | 58 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 61 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
 | 62 | [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 |
 | 63 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 |
-| 64 | [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 |
-| 65 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
+| 64 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
+| 65 | [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 |
 
 Snapshot ID: `ZnT6wAAAAAAZrFhlHEkpGr7Q9hQbl/PW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 
 > La playlist au\-delà des genres\. Photo : Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,599 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,621 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

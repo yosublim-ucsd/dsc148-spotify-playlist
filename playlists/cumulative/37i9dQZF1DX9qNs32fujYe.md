@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Kittie
 
-901 songs - 2 day 18 hr 17 min
+902 songs - 2 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Rise Of The Dragon Empire](https://open.spotify.com/track/1CfIgWmS5LuZMinBMjxuWc) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Rise Of The Dragon Empire](https://open.spotify.com/album/2EfhdHrbnVo4zt4RnoHOdr) | 4:36 | 2021-12-17 | 2022-07-28 |
 | [Rise of the Dragon Empire](https://open.spotify.com/track/3JqeGhxwgyVDdO9T8kUeda) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Rise of the Dragon Empire](https://open.spotify.com/album/6vdr1V3sTwEmhfho5oMURC) | 4:36 | 2022-07-08 | 2023-02-11 |
 | [Rising Fire](https://open.spotify.com/track/5uEOhWDWr4gN9YMgZNVGRB) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Rising Fire](https://open.spotify.com/album/4gGtBcTbf80l1PNvhgJXnx) | 3:26 | 2021-12-17 | 2022-07-29 |
+| [ROAR](https://open.spotify.com/track/5JlWqUUOdPUPPCrcWe0NrV) | [BORN FOR GREATNESS](https://open.spotify.com/artist/3Bj3JIqxGSDu76tCEemTbT) | [ROAR](https://open.spotify.com/album/54QCfkIvD05tIOfbe6eeAR) | 3:48 | 2024-06-21 |  |
 | [Rock Your Body](https://open.spotify.com/track/6pgpBFtcpcFN82yFR8aKdR) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [H.E.A.T II](https://open.spotify.com/album/15sPcYoNcEXrAEKCz2No3M) | 4:03 | 2021-12-17 | 2022-06-07 |
 | [Romeo Delight](https://open.spotify.com/track/0Zl2Wx0aqXhMfFMcsLYmor) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO), [Stu Block](https://open.spotify.com/artist/3y7cQLWTNdxQ1u3KZBSTtl), [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [Metal II](https://open.spotify.com/album/6rvqy7S1R8d5kZ7jHNQ3Iw) | 4:20 | 2022-03-02 | 2022-06-15 |
 | [Roses on Your Grave](https://open.spotify.com/track/2xMEKnHsZLusGWXSCaKkh9) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Wired](https://open.spotify.com/album/5dX2WDUUG8FxtXojBn6D3V) | 3:22 | 2021-12-17 |  |
@@ -729,7 +730,7 @@
 | [Symphony Of Destruction](https://open.spotify.com/track/4YJZjINIhakR98fnz1Pvup) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 4:06 | 2022-08-26 |  |
 | [Symphony Of Destruction](https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:06 | 2021-12-17 | 2022-08-27 |
 | [Take the World](https://open.spotify.com/track/4ZpMNbTPXI9sOPv0mIPY7K) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [Take the World](https://open.spotify.com/album/3zc9s6GMTNjZhTfIxvkT5x) | 2:48 | 2022-04-01 | 2022-04-17 |
-| [Teardrinker](https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Teardrinker](https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw) | 5:20 | 2021-12-17 |  |
+| [Teardrinker](https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Teardrinker](https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw) | 5:20 | 2021-12-17 | 2024-06-25 |
 | [Teardrinker](https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:20 | 2022-07-13 | 2022-08-06 |
 | [Tears Don't Fall](https://open.spotify.com/track/3iWlbqAaoIR7H7gyO3a6rV) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 5:48 | 2022-08-19 | 2023-03-11 |
 | [Tears of a Mandrake](https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Mandrake](https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5) | 7:11 | 2022-07-08 | 2024-04-19 |

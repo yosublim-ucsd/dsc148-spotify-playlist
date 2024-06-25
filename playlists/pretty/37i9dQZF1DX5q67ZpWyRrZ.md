@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > Best of the Indian Indie scene\. Cover \- Akshath
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,010 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,432 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,17 +13,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 3 | [Choo Lo](https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:53 |
 | 4 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 |
 | 5 | [Bye](https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm) | 2:54 |
-| 6 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
-| 7 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 |
-| 8 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
-| 9 | [Chor](https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR) | 3:28 |
-| 10 | [Tuu](https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Tuu](https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp) | 3:10 |
-| 11 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 |
-| 12 | [Kaise Ab Kahein \- From "Gutar Gu"](https://open.spotify.com/track/3eSm4iAkLsn3BeggfiQOH9) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Hrishi Giridhar](https://open.spotify.com/artist/2LX2ca4llDo1CckEcTl2Nc), [Pratik Gangavane](https://open.spotify.com/artist/6eBkw5IL6oFehkMupSVa0S) | [Kaise Ab Kahein \(From "Gutar Gu"\)](https://open.spotify.com/album/6NXaQGU2jsb6O38BIJ6QXy) | 2:00 |
-| 13 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 |
-| 14 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
-| 15 | [Mulaqat](https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa) | 4:06 |
-| 16 | [Dil Ki Ye Baatein \- Solo](https://open.spotify.com/track/4Yy2lVtP7IRZNyTYHmKJ0y) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Dil Ki Ye Baatein \(Solo\)](https://open.spotify.com/album/0g7Lxz5vDlYCLG2hNzav11) | 2:20 |
+| 6 | [Jaadugari](https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Jaadugari](https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8) | 2:33 |
+| 7 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
+| 8 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 |
+| 9 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
+| 10 | [Chor](https://open.spotify.com/track/0FCe2NhPWKiSTAipf0lOAT) | [Justh](https://open.spotify.com/artist/6gxRXj2KUJ02vfIgkNUq5b) | [Chor](https://open.spotify.com/album/41cYr6R4rPiKExcTvQTnmR) | 3:28 |
+| 11 | [Tuu](https://open.spotify.com/track/4xjl6sWP6L2CxuuJ2Ue3U0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Tuu](https://open.spotify.com/album/4c71J6heXCYsJP6IVrzHFp) | 3:10 |
+| 12 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 |
+| 13 | [Kaise Ab Kahein \- From "Gutar Gu"](https://open.spotify.com/track/3eSm4iAkLsn3BeggfiQOH9) | [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Hrishi Giridhar](https://open.spotify.com/artist/2LX2ca4llDo1CckEcTl2Nc), [Pratik Gangavane](https://open.spotify.com/artist/6eBkw5IL6oFehkMupSVa0S) | [Kaise Ab Kahein \(From "Gutar Gu"\)](https://open.spotify.com/album/6NXaQGU2jsb6O38BIJ6QXy) | 2:00 |
+| 14 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 |
+| 15 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
+| 16 | [Mulaqat](https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa) | 4:06 |
 | 17 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 |
 | 18 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 |
 | 19 | [Aa Mil](https://open.spotify.com/track/67LdLmIj2GVrGf4ZUuLaE1) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Aa Mil](https://open.spotify.com/album/0MFdPJ9l8lAWb6zaWcEMwt) | 2:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 74 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 |
 | 75 | [Aziyat](https://open.spotify.com/track/5DEp8hauuZ45oG38YOkkQq) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat](https://open.spotify.com/album/45ClrZZAaxYdWMG5FqsjfB) | 3:41 |
 
-Snapshot ID: `ZnKpvQAAAABOqYeiEySVEwvFpkFTlLWC`
+Snapshot ID: `ZnkcmgAAAABE4Fj6THeAGjDStygkURqz`

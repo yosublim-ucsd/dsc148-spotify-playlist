@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 130908,
+  "num_followers": 130935,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-06-12 01:45:58",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
+    },
+    {
+      "added_at": "2024-06-12 01:45:58",
+      "album": {
         "name": "12 Notes",
         "url": "https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 154705,
       "name": "Ways To Go (feat. Khalid)",
       "url": "https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6"
-    },
-    {
-      "added_at": "2024-06-12 01:45:58",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
     },
     {
       "added_at": "2024-06-12 01:45:58",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2024-06-12 01:45:58",
       "album": {
+        "name": "\u660e\u308b\u3044\u90e8\u5c4b",
+        "url": "https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 174082,
+      "name": "\u660e\u308b\u3044\u90e8\u5c4b",
+      "url": "https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1"
+    },
+    {
+      "added_at": "2024-06-12 01:45:58",
+      "album": {
         "name": "FromHere (feat. Snoop Dogg & October London)",
         "url": "https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 241511,
       "name": "FromHere (feat. Snoop Dogg & October London)",
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
-    },
-    {
-      "added_at": "2024-06-12 01:45:58",
-      "album": {
-        "name": "\u660e\u308b\u3044\u90e8\u5c4b",
-        "url": "https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
-        },
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 174082,
-      "name": "\u660e\u308b\u3044\u90e8\u5c4b",
-      "url": "https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1"
     },
     {
       "added_at": "2024-06-12 01:45:58",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-06-12 01:45:58",
       "album": {
+        "name": "\u7768\u3081\u3063\u5a18",
+        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
+      },
+      "artists": [
+        {
+          "name": "\u53cb\u6210\u7a7a",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u7768\u3081\u3063\u5a18",
+      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
+    },
+    {
+      "added_at": "2024-06-12 01:45:58",
+      "album": {
         "name": "SCIENCE FICTION",
         "url": "https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 159000,
       "name": "golden hour - Fujii Kaze Remix",
       "url": "https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S"
-    },
-    {
-      "added_at": "2024-06-12 01:45:58",
-      "album": {
-        "name": "\u7768\u3081\u3063\u5a18",
-        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
-      },
-      "artists": [
-        {
-          "name": "\u53cb\u6210\u7a7a",
-          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u7768\u3081\u3063\u5a18",
-      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
     },
     {
       "added_at": "2024-06-12 01:45:58",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-06-12 01:45:58",
       "album": {
-        "name": "F64",
-        "url": "https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 204893,
-      "name": "F64",
-      "url": "https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE"
-    },
-    {
-      "added_at": "2024-06-12 01:45:58",
-      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+    },
+    {
+      "added_at": "2024-06-12 01:45:58",
+      "album": {
+        "name": "F64",
+        "url": "https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 204893,
+      "name": "F64",
+      "url": "https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE"
     },
     {
       "added_at": "2024-06-12 01:45:58",

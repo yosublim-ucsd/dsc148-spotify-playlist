@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere.  Cover: Raveena.",
-  "num_followers": 286717,
+  "num_followers": 286704,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Sorry Sorry",
-        "url": "https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 208830,
-      "name": "Sorry Sorry",
-      "url": "https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "So I Danced",
         "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+        "name": "Sorry Sorry",
+        "url": "https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
         }
       ],
-      "duration_ms": 182282,
-      "name": "Coyote, My Little Brother - Spotify Singles",
-      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
+      "duration_ms": 208830,
+      "name": "Sorry Sorry",
+      "url": "https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 165525,
       "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "Coyote, My Little Brother - Spotify Singles",
+      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1795,18 +1795,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "New Beginnings",
-        "url": "https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL"
+        "name": "If I Say I Love You",
+        "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
       },
       "artists": [
         {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+          "name": "\u6050\u9f8d\u7684\u76ae",
+          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
+        },
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
         }
       ],
-      "duration_ms": 184148,
-      "name": "New Beginnings",
-      "url": "https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG"
+      "duration_ms": 230704,
+      "name": "If I Say I Love You",
+      "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1831,22 +1835,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "If I Say I Love You",
-        "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL"
       },
       "artists": [
         {
-          "name": "\u6050\u9f8d\u7684\u76ae",
-          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
-        },
-        {
-          "name": "Summer Salt",
-          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 230704,
-      "name": "If I Say I Love You",
-      "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
+      "duration_ms": 184148,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2231,6 +2231,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Blue Jeans",
+        "url": "https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR"
+      },
+      "artists": [
+        {
+          "name": "Layton Wu",
+          "url": "https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a"
+        }
+      ],
+      "duration_ms": 189555,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "maybe",
         "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
       },
@@ -2263,22 +2279,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR"
-      },
-      "artists": [
-        {
-          "name": "Layton Wu",
-          "url": "https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a"
-        }
-      ],
-      "duration_ms": 189555,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Birdwatcher",
         "url": "https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ"
       },
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "giving up everything",
-        "url": "https://open.spotify.com/album/0hRWoOXt6F6sQmipGfeza3"
-      },
-      "artists": [
-        {
-          "name": "nicole han",
-          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
-        }
-      ],
-      "duration_ms": 184750,
-      "name": "giving up everything",
-      "url": "https://open.spotify.com/track/2tEflzVmd3qb9vSMKd4i5x"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Blue Car",
         "url": "https://open.spotify.com/album/2nmTgipc2Mjf7vhtgjkbSl"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 179538,
       "name": "Blue Car",
       "url": "https://open.spotify.com/track/6q0T53SQOskEXvzI5BcpWR"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "giving up everything",
+        "url": "https://open.spotify.com/album/0hRWoOXt6F6sQmipGfeza3"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "duration_ms": 184750,
+      "name": "giving up everything",
+      "url": "https://open.spotify.com/track/2tEflzVmd3qb9vSMKd4i5x"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2427,6 +2427,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "all these little words",
+        "url": "https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ"
+      },
+      "artists": [
+        {
+          "name": "wilo wilde",
+          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
+        }
+      ],
+      "duration_ms": 137946,
+      "name": "all these little words",
+      "url": "https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "we'll be okay (EP)",
         "url": "https://open.spotify.com/album/224m1yyY93SJrzv3833ZFz"
       },
@@ -2471,22 +2487,6 @@
       "duration_ms": 264424,
       "name": "i know you know",
       "url": "https://open.spotify.com/track/3WyZ7dK3zospzqBdVeIVlF"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "all these little words",
-        "url": "https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ"
-      },
-      "artists": [
-        {
-          "name": "wilo wilde",
-          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
-        }
-      ],
-      "duration_ms": 137946,
-      "name": "all these little words",
-      "url": "https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61"
     },
     {
       "added_at": "2024-06-21 04:00:00",

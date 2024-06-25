@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003 likes - 179 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004 likes - 179 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 45 | [Them Girls Be Like](https://open.spotify.com/track/5L5zJyglhpR0iHKoMLNaBJ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:42 |
 | 46 | [I Lied](https://open.spotify.com/track/7EvIMAbhkHXcV8rHbOyNzh) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:23 |
 | 47 | [Good Things Fall Apart vs\. Sad Songs \(With Said The Sky feat\. Annika Wells\)](https://open.spotify.com/track/2DqhE7xzpGNsKYbptqblJg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [ASCEND \(Tour Edits\)](https://open.spotify.com/album/6KICcLGlQnS7908qVzbhP6) | 6:06 |
-| 48 | [World For Two](https://open.spotify.com/track/4K7uhx9RpAQayZwKIxwGRh) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 3:05 |
-| 49 | [Impossible](https://open.spotify.com/track/1JTmrZwZhaP1yYJtuzfvJ9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 3:02 |
+| 48 | [Impossible](https://open.spotify.com/track/1JTmrZwZhaP1yYJtuzfvJ9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 3:02 |
+| 49 | [World For Two](https://open.spotify.com/track/4K7uhx9RpAQayZwKIxwGRh) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 3:05 |
 | 50 | [Remember](https://open.spotify.com/track/2uAX7DbFp5GWCkE1bpkUn4) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:09 |
 | 51 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
 | 52 | [Gasoline \(feat\. Laura White\)](https://open.spotify.com/track/1Env1Ldwa5Ob2QMtBTTVZG) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 3:29 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 83 | [Taste](https://open.spotify.com/track/7MeoVQJEZjI9WDFEm0VJ4U) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/1HZ53O7uBXyyYCaD7jY8I6) | 3:22 |
 | 84 | [Feel Right](https://open.spotify.com/track/5pyi5wDSHfdY3R5JQdngQ9) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [J Hart](https://open.spotify.com/artist/0CwAIKaq06Ep8gtTJ6zy0d) | [10 Ways to Steal Home Plate](https://open.spotify.com/album/2Pkt22VgdQpDrRroWw4AyA) | 3:15 |
 | 85 | [Burn](https://open.spotify.com/track/1yvIUHWMU3UM8StH7I0Tlq) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Burn](https://open.spotify.com/album/6iAUobi1fcxy60buZZBiqK) | 2:19 |
-| 86 | [To The Wire](https://open.spotify.com/track/6n7iWKl8PTpHBFJkXz4LWV) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [To The Wire](https://open.spotify.com/album/02HMMz2rCvZK7wt53IpU6q) | 2:36 |
-| 87 | [Angel Eyes](https://open.spotify.com/track/2bOrjwAmNpzLZBIe51FAUq) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 |
+| 86 | [Angel Eyes](https://open.spotify.com/track/2bOrjwAmNpzLZBIe51FAUq) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 |
+| 87 | [To The Wire](https://open.spotify.com/track/6n7iWKl8PTpHBFJkXz4LWV) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [To The Wire](https://open.spotify.com/album/02HMMz2rCvZK7wt53IpU6q) | 2:36 |
 | 88 | [Young \- From "Songland"](https://open.spotify.com/track/7nzxQacflIozCTLTiBl4JB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Young \(From "Songland"\)](https://open.spotify.com/album/5gUfxcxbwFbKjXuz0Trknk) | 3:05 |
 | 89 | [Put It to Bed](https://open.spotify.com/track/5KfDCX3PEyU4gJ81n2Mtz9) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Put It to Bed](https://open.spotify.com/album/3Vwnuv0NEc0OTYltcT619a) | 3:34 |
 | 90 | [NO GOOD REASON](https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:36 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 178 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 |
 | 179 | [Tonight](https://open.spotify.com/track/16LDHU7Ir8BAEQs9j61qDE) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/02x1wspowX3eX0DBV63jjF) | 3:53 |
 
-Snapshot ID: `AbU29AAAAACN3ojZAbXIWjA7R2+Re2hu`
+Snapshot ID: `AbU8bAAAAAD6c1JHRWOLjLwCRGRelZo3`

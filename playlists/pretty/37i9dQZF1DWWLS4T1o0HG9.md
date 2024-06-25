@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 
 > The essential pop rock songs from the 80s\. Cover: The Go\-Go's
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,407 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,797 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 68 | [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 |
 | 69 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 |
 | 70 | [My Best Friend's Girl](https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:43 |
-| 71 | [Sister Christian](https://open.spotify.com/track/57trQKFZdJxHia4sMJioWk) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Midnight Madness](https://open.spotify.com/album/0XSzjoQ6rMkWeoOQdQAWRs) | 5:02 |
+| 71 | [867\-5309 / Jenny](https://open.spotify.com/track/6iX1f3r7oUJnMbGgQ2gx1j) | [Tommy Tutone](https://open.spotify.com/artist/1n2LWYgwtGp7EzDapUoniE) | [Tommy Tutone \- 2](https://open.spotify.com/album/7aks5lgwJAdiZLN51UjkU1) | 3:46 |
 | 72 | [Kiss on My List](https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 4:24 |
 | 73 | [Hip To Be Square](https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Fore!](https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE) | 4:05 |
-| 74 | [867\-5309 / Jenny](https://open.spotify.com/track/6iX1f3r7oUJnMbGgQ2gx1j) | [Tommy Tutone](https://open.spotify.com/artist/1n2LWYgwtGp7EzDapUoniE) | [Tommy Tutone \- 2](https://open.spotify.com/album/7aks5lgwJAdiZLN51UjkU1) | 3:46 |
+| 74 | [Sister Christian](https://open.spotify.com/track/57trQKFZdJxHia4sMJioWk) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Midnight Madness](https://open.spotify.com/album/0XSzjoQ6rMkWeoOQdQAWRs) | 5:02 |
 | 75 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
 | 76 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
 | 77 | [Mony Mony](https://open.spotify.com/track/3GfGTJ2xzC0rqKgdjNJLOC) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Idolize Yourself: The Very Best Of Billy Idol](https://open.spotify.com/album/0dvStBuexp9Chq1hg3Yjes) | 5:00 |

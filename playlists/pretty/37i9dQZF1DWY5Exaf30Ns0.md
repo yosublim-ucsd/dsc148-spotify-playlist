@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 
 > ¿searma o nosearma?
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,178 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,181 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 17 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
 | 18 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 |
 | 19 | [Regalo De Dios](https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:05 |
-| 20 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
-| 21 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
+| 20 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
+| 21 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 22 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 23 | [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 |
 | 24 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 38 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 |
 | 39 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
 | 40 | [Un Desperdicio](https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 3:43 |
-| 41 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 |
-| 42 | [El Beneficio De La Duda](https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Beneficio De La Duda](https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6) | 4:05 |
+| 41 | [El Beneficio De La Duda](https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Beneficio De La Duda](https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6) | 4:05 |
+| 42 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 |
 | 43 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 44 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 |
 | 45 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 65 | [LA PEOPLE](https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:33 |
 | 66 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 |
 | 67 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
-| 68 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
-| 69 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
+| 68 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
+| 69 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
 | 70 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 |
 
 Snapshot ID: `ZnXt5gAAAADQFLuvebfCDCPNGdxmJCB6`

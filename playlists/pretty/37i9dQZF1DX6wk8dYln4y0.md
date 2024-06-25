@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 
 > Music that just \*hits different\* Cover: Blusher
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,650 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,649 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 37 | [Who’s Afraid of Little Old Me?](https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:34 |
 | 38 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 |
 | 39 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
-| 40 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 |
-| 41 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 |
+| 40 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 |
+| 41 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 |
 | 42 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 | 43 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 44 | [Drag Me Down](https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:12 |
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 66 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 |
 | 67 | [Beauty And A Beat](https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:47 |
 | 68 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 |
-| 69 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 |
-| 70 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 |
+| 69 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 |
+| 70 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 |
 | 71 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 | 72 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 |
 | 73 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 |
 | 74 | [Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Agony](https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L) | 1:43 |
 | 75 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
-| 76 | [Work Song](https://open.spotify.com/track/35PKfoynRpVFoAUE3D5Kc6) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 3:49 |
-| 77 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 |
-| 78 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 |
-| 79 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 |
+| 76 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 |
+| 77 | [Work Song](https://open.spotify.com/track/35PKfoynRpVFoAUE3D5Kc6) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 3:49 |
+| 78 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 |
+| 79 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 |
 | 80 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 |
 
 Snapshot ID: `ZnEKoQAAAACqGXY1jygHh62NhxUYqvdH`

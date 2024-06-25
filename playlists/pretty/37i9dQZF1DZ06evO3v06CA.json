@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 194582,
+  "num_followers": 194609,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAATXV+sdEUDDNW+amU47kKS",
+  "snapshot_id": "ZndlgAAAAABfFt0eVrch4vyRmRMGh3e6",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "California Sober (feat. Willie Nelson)",
+        "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 230033,
+      "name": "California Sober (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -651,38 +671,6 @@
       "duration_ms": 181173,
       "name": "Welcome To Hazeville",
       "url": "https://open.spotify.com/track/39TYRr1lPpurfYPXzsOiBV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highwayman",
-        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Big River",
-      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
     },
     {
       "added_at": null,
@@ -879,42 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "City Of New Orleans",
-        "url": "https://open.spotify.com/album/7sZ5lfnlyqmnlcInnKf3o3"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "City of New Orleans",
-      "url": "https://open.spotify.com/track/15qBdyeOsal1QJvB3ysW9g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ballad of Dood & Juanita",
-        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 220976,
-      "name": "Juanita",
-      "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okie From Muskogee (Live)",
         "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
       },
@@ -1007,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "City Of New Orleans",
+        "url": "https://open.spotify.com/album/7sZ5lfnlyqmnlcInnKf3o3"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "City of New Orleans",
+      "url": "https://open.spotify.com/track/15qBdyeOsal1QJvB3ysW9g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -1039,18 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Border",
-        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
+        "name": "The Ballad of Dood & Juanita",
+        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
       },
       "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 235720,
-      "name": "Nobody Knows Me Like You",
-      "url": "https://open.spotify.com/track/4oUdFQ6rJqCb2h0dB9oNkU"
+      "duration_ms": 220976,
+      "name": "Juanita",
+      "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
     },
     {
       "added_at": null,
@@ -1095,6 +1067,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Border",
+        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "The Border",
+      "url": "https://open.spotify.com/track/5BmX2B6OrGI3czAU8VNF8s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To All The Girls...",
         "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
       },
@@ -1111,22 +1099,6 @@
       "duration_ms": 278653,
       "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
       "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Border",
-        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "The Border",
-      "url": "https://open.spotify.com/track/5BmX2B6OrGI3czAU8VNF8s"
     },
     {
       "added_at": null,
@@ -1179,6 +1151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Border",
+        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 235720,
+      "name": "Nobody Knows Me Like You",
+      "url": "https://open.spotify.com/track/4oUdFQ6rJqCb2h0dB9oNkU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
       },
@@ -1191,22 +1179,6 @@
       "duration_ms": 148293,
       "name": "Cruel World",
       "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Border",
-        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 228760,
-      "name": "I Wrote This Song For You",
-      "url": "https://open.spotify.com/track/6gpaIGuQVDZYPvZaPVtmPl"
     },
     {
       "added_at": null,
@@ -1259,6 +1231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Border",
+        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 228760,
+      "name": "I Wrote This Song For You",
+      "url": "https://open.spotify.com/track/6gpaIGuQVDZYPvZaPVtmPl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
       },
@@ -1271,54 +1259,6 @@
       "duration_ms": 259360,
       "name": "Georgia On My Mind",
       "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Border",
-        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Many A Long And Lonesome Highway",
-      "url": "https://open.spotify.com/track/1SMQpPCS7nDXC0YbQz015u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 185409,
-      "name": "Funny How Time Slips Away",
-      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yesterday's Wine",
-        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Me and Paul",
-      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
     },
     {
       "added_at": null,
@@ -1339,6 +1279,54 @@
       "duration_ms": 270573,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yesterday's Wine",
+        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "Me and Paul",
+      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Border",
+        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Many A Long And Lonesome Highway",
+      "url": "https://open.spotify.com/track/1SMQpPCS7nDXC0YbQz015u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phases And Stages",
+        "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Bloody Mary Morning",
+      "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
     }
   ],
   "unique_name": "This Is Willie Nelson",

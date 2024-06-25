@@ -3488,7 +3488,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "blind - lofi",
       "url": "https://open.spotify.com/track/0nOAqwyTeddVOUC9KZBb8I"
@@ -8942,7 +8942,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 350722,
       "name": "For a Thousand Mothers - Live",
       "url": "https://open.spotify.com/track/6WQzrcoT13xFaACybHjgIZ"
@@ -21958,7 +21958,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 123428,
       "name": "right now - lofi",
       "url": "https://open.spotify.com/track/4AiQPX8APnKSSkrE3yOs2l"
@@ -30378,6 +30378,24 @@
       "duration_ms": 219999,
       "name": "We Might Be Giants",
       "url": "https://open.spotify.com/track/6RV8XTQfO7DXRgT0yJmq2U"
+    },
+    {
+      "album": {
+        "name": "Boston Tea Party, Boston 1970",
+        "url": "https://open.spotify.com/album/24TZHrFBS55qRZ8G5SK575"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201114,
+      "name": "We Used to Know - Live",
+      "url": "https://open.spotify.com/track/07jxFD0egxD4lrBcKNebqb"
     },
     {
       "album": {

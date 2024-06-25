@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: oSHAMO",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Melle Brown",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 185184,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/3oYuIcMNiEgy3HMX2BPUb2"
+    },
+    {
+      "album": {
+        "name": "All The Mels",
+        "url": "https://open.spotify.com/album/3YGiEYfrVpzFeL8ea6GYc8"
+      },
+      "artists": [
+        {
+          "name": "Melle Brown",
+          "url": "https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271736,
+      "name": "All The Mels",
+      "url": "https://open.spotify.com/track/1d2NuaC27YWPW7gPcZxSJe"
     },
     {
       "album": {

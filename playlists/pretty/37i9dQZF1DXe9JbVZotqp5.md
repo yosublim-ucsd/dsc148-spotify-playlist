@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 
 > Easy rock for that peaceful, easy feeling\. Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,750 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,732 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 10 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
 | 11 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 |
 | 12 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
-| 13 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
-| 14 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
+| 13 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
+| 14 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
 | 15 | [Beast Of Burden \- Remastered 1994](https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:25 |
 | 16 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
 | 17 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 40 | [Weather With You](https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:44 |
 | 41 | [Every Rose Has Its Thorn \- 2003 Remaster](https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 4:20 |
 | 42 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
-| 43 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
-| 44 | [Let It Go](https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 4:20 |
+| 43 | [Let It Go](https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 4:20 |
+| 44 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
 | 45 | [Trouble](https://open.spotify.com/track/0R8P9KfGJCDULmlEoBagcO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:33 |
 | 46 | [Again](https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Again](https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs) | 3:51 |
 | 47 | [Far Away](https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 3:58 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 63 | [New Kid in Town \- 2013 Remaster](https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 5:04 |
 | 64 | [Everglow](https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:42 |
 | 65 | [Drive](https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City](https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO) | 3:54 |
-| 66 | [Love Bites \- Remastered 2017](https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:46 |
-| 67 | [The River](https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 5:01 |
+| 66 | [The River](https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 5:01 |
+| 67 | [Love Bites \- Remastered 2017](https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:46 |
 | 68 | [Helplessly Hoping \- 2005 Remaster](https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 2:37 |
 | 69 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 |
 | 70 | [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 90 | [I Belong To You](https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI) | 4:17 |
 | 91 | [Wild World \- 2009 Remastered Version](https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:28 |
 | 92 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 |
-| 93 | [Sympathy](https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Gutterflower](https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M) | 2:58 |
-| 94 | [Sara](https://open.spotify.com/track/0q1exbzIDRxqJ6VUKH3seg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 6:22 |
+| 93 | [Sara](https://open.spotify.com/track/0q1exbzIDRxqJ6VUKH3seg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 6:22 |
+| 94 | [Sympathy](https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Gutterflower](https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M) | 2:58 |
 | 95 | [Woman \- Remastered 2010](https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 3:32 |
 | 96 | [Eyes Without A Face \- Remastered 1999](https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:57 |
 | 97 | [Simple Man \- Acoustic](https://open.spotify.com/track/4VuKGQiCzE5BdSdvp6Hjoh) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Leave a Whisper \(Deluxe Edition\)](https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l) | 5:20 |
 | 98 | [Don't Stop Believin' \(2024 Remaster\)](https://open.spotify.com/track/5ehcf6UL1TkwozB386cRAp) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Greatest Hits \(2024 Remaster\)](https://open.spotify.com/album/1Gtf2hZQlOGVER16uemmzR) | 4:10 |
-| 99 | [Runaway Train](https://open.spotify.com/track/3Ib3SJV8ZXuLvDiDb2w1As) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Black Gold: The Best Of Soul Asylum](https://open.spotify.com/album/6RARuzN6pIZZnQKwPeY7xQ) | 4:26 |
-| 100 | [All I Need To Hear](https://open.spotify.com/track/1RB8jMVr0eSo6ExOOvXavV) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:30 |
+| 99 | [Stop Loving You](https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [The Seventh One](https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3) | 4:29 |
+| 100 | [Runaway Train](https://open.spotify.com/track/3Ib3SJV8ZXuLvDiDb2w1As) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Black Gold: The Best Of Soul Asylum](https://open.spotify.com/album/6RARuzN6pIZZnQKwPeY7xQ) | 4:26 |
 
 Snapshot ID: `ZkaqTQAAAABKrF9bXtqlUQR/8UhTWKKo`

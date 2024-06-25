@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,120 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,138 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 39 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
 | 40 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
 | 41 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 |
-| 42 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 |
-| 43 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 |
+| 42 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 |
+| 43 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 |
 | 44 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 |
 | 45 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 |
 | 46 | [二度寝](https://open.spotify.com/track/38Ypb7FJIGVovqqQO2Yu5S) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [二度寝](https://open.spotify.com/album/1A68DtaRuQEtOfIHkB8C2p) | 3:27 |

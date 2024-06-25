@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,803,346 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,804,179 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 42 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
 | 43 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 |
 | 44 | [Teenage Fever](https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:39 |
-| 45 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 |
-| 46 | [Bathroom](https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:28 |
+| 45 | [Bathroom](https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:28 |
+| 46 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 |
 | 47 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
 | 48 | [Consume \(feat\. Goon Des Garcons\)](https://open.spotify.com/track/0X2bh8NVQ8svDQIn2AdCbW) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT), [GOON DES GARCONS\*](https://open.spotify.com/artist/5WyJhpNewRPUahSlrxkOeR) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 4:27 |
 | 49 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 |

@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
@@ -2203,6 +2203,24 @@
     },
     {
       "album": {
+        "name": "Sunkissed",
+        "url": "https://open.spotify.com/album/5IxTreJqAgwytAjsGZDSNV"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216094,
+      "name": "Forever Ayayay",
+      "url": "https://open.spotify.com/track/5Z50CiMHjQ5bk013yfWeTU"
+    },
+    {
+      "album": {
         "name": "Forget About Us",
         "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
       },
@@ -2651,6 +2669,28 @@
     },
     {
       "album": {
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162051,
+      "name": "Healing (Shattered Heart)",
+      "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
+    },
+    {
+      "album": {
         "name": "Heart And Soul",
         "url": "https://open.spotify.com/album/2BgRGjEHjI4mCsBtIir7Up"
       },
@@ -2720,6 +2760,28 @@
       "duration_ms": 198803,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230942,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
     },
     {
       "album": {
@@ -4370,7 +4432,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 221822,
       "name": "My Blood",
       "url": "https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ"
@@ -4900,6 +4962,28 @@
       "duration_ms": 214723,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
+    },
+    {
+      "album": {
+        "name": "Overpass Graffiti",
+        "url": "https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9"
+      },
+      "artists": [
+        {
+          "name": "The Road",
+          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
+        },
+        {
+          "name": "Elske DeWall",
+          "url": "https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234237,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a"
     },
     {
       "album": {
@@ -6326,7 +6410,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 181370,
       "name": "Tainted",
       "url": "https://open.spotify.com/track/1KY71U9JNydW5ZxvUgemc2"
@@ -7904,7 +7988,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"

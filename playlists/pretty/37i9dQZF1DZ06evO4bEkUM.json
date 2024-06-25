@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 873499,
+  "num_followers": 873751,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAD/rwxxT9PAF0+aI3dNogu+",
+  "snapshot_id": "ZndlgAAAAADbdbcLNlpHFnQVhlRnNpG2",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 211520,
       "name": "Misery Business",
       "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
       "added_at": null,
@@ -219,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burning Down the House",
+        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -235,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -263,6 +279,22 @@
       "duration_ms": 253946,
       "name": "Brick by Boring Brick",
       "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
     },
     {
       "added_at": null,
@@ -299,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 245521,
-      "name": "You First",
-      "url": "https://open.spotify.com/track/2ZMkAWKrNDXrQuF0N9Q9Xj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -327,6 +343,22 @@
       "duration_ms": 182800,
       "name": "Playing God",
       "url": "https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 235012,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F"
     },
     {
       "added_at": null,
@@ -363,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 235012,
-      "name": "Crave",
-      "url": "https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Caught Myself",
         "url": "https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k"
       },
@@ -391,6 +407,38 @@
       "duration_ms": 235440,
       "name": "I Caught Myself",
       "url": "https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 245521,
+      "name": "You First",
+      "url": "https://open.spotify.com/track/2ZMkAWKrNDXrQuF0N9Q9Xj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "Last Hope",
+      "url": "https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh"
     },
     {
       "added_at": null,
@@ -479,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
       "artists": [
         {
@@ -488,9 +536,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 212560,
-      "name": "(One of Those) Crazy Girls",
-      "url": "https://open.spotify.com/track/6JmV5cyTQ934NxLY4Z0tg1"
+      "duration_ms": 181506,
+      "name": "Misguided Ghosts",
+      "url": "https://open.spotify.com/track/2VYqkb77OjToeRAnMNd4yU"
     },
     {
       "added_at": null,
@@ -511,38 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Misguided Ghosts",
-      "url": "https://open.spotify.com/track/2VYqkb77OjToeRAnMNd4yU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/74ABBu8osxqmuFOAKcWWpG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -552,25 +568,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 309293,
-      "name": "Hate to See Your Heart Break",
-      "url": "https://open.spotify.com/track/3AX4HIRJY6GT6tgMkO5987"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 260384,
-      "name": "Big Man, Little Dignity",
-      "url": "https://open.spotify.com/track/2bfOeIn8bQkRr02NNX29tR"
+      "duration_ms": 212560,
+      "name": "(One of Those) Crazy Girls",
+      "url": "https://open.spotify.com/track/6JmV5cyTQ934NxLY4Z0tg1"
     },
     {
       "added_at": null,
@@ -607,6 +607,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 260384,
+      "name": "Big Man, Little Dignity",
+      "url": "https://open.spotify.com/track/2bfOeIn8bQkRr02NNX29tR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 309293,
+      "name": "Hate to See Your Heart Break",
+      "url": "https://open.spotify.com/track/3AX4HIRJY6GT6tgMkO5987"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paramore (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH"
       },
@@ -623,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
       "artists": [
         {
@@ -632,9 +664,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 137933,
-      "name": "Anklebiters",
-      "url": "https://open.spotify.com/track/3hgzEGrm5iTY6pkgJ827qX"
+      "duration_ms": 228293,
+      "name": "For a Pessimist, I'm Pretty Optimistic",
+      "url": "https://open.spotify.com/track/2PDLmgDWiwjUTxl1pPyDQA"
     },
     {
       "added_at": null,
@@ -651,22 +683,6 @@
       "duration_ms": 226293,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/5Pp1H1mFlL6o63omITUvfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 228293,
-      "name": "For a Pessimist, I'm Pretty Optimistic",
-      "url": "https://open.spotify.com/track/2PDLmgDWiwjUTxl1pPyDQA"
     },
     {
       "added_at": null,

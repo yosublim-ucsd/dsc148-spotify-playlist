@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SEFZskKvKB.md) - [plain]
 
 > Ambient and percussion to move the body and heal the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,875 likes - 115 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,025 likes - 115 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

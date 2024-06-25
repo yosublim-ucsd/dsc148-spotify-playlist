@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Far Away From Home",
+        "url": "https://open.spotify.com/album/09fyD6GBCml59WivM8dhow"
+      },
+      "artists": [
+        {
+          "name": "Hermie",
+          "url": "https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218865,
+      "name": "Far Away From Home",
+      "url": "https://open.spotify.com/track/3vqwzMRKAi8Zr2JKuzYqhz"
+    },
+    {
+      "album": {
         "name": "Farmland",
         "url": "https://open.spotify.com/album/1CknfwJF9oqXYKFwCNYo1C"
       },

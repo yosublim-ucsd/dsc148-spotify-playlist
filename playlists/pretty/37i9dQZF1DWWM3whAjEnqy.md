@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,365 likes - 85 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,367 likes - 85 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 32 | [Lay It On Me](https://open.spotify.com/track/1wb9iylRnBbBBHGYAatao0) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:35 |
 | 33 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 34 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 |
-| 35 | [On Our Own](https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [14 Steps To A Better You](https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY) | 3:36 |
-| 36 | [Groceries](https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In The Sky](https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C) | 3:37 |
+| 35 | [Groceries](https://open.spotify.com/track/4x0pNOZ5r6kJMjsvsoliBm) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In The Sky](https://open.spotify.com/album/3nmMmfLZCp9nw0Ol2eqP2C) | 3:37 |
+| 36 | [On Our Own](https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [14 Steps To A Better You](https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY) | 3:36 |
 | 37 | [Feeding Line](https://open.spotify.com/track/5PRN8ql17R8rcKnHo6Ajlk) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Moonfire](https://open.spotify.com/album/3UsAObHERCrshH20RiicHG) | 4:28 |
 | 38 | [True Lovers](https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Paint](https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz) | 4:19 |
 | 39 | [The Woods \(Acoustic\)](https://open.spotify.com/track/0T7OKMuhcMNClxEYQzVyyb) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/4EWd8fo9kyMQjB5LVkFwYI) | 3:59 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 41 | [Drift](https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [GG](https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF) | 4:03 |
 | 42 | [Everything Is Easy](https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Everything Is Easy](https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r) | 3:17 |
 | 43 | [Hold Me](https://open.spotify.com/track/1gSHyTYbpazDVGnzGtn4jn) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT) | 3:07 |
-| 44 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
-| 45 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 |
+| 44 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 |
+| 45 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
 | 46 | [Mystik](https://open.spotify.com/track/0NnVzBW6TJLaEzcyXjqRDH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mystik](https://open.spotify.com/album/00yAwDfu7JLRlhvHSchMzu) | 4:09 |
 | 47 | [La Mar](https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [HOPE Campaign Tribute Album 2010](https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM) | 4:17 |
 | 48 | [The Summer](https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Chimney's Afire](https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw) | 3:23 |

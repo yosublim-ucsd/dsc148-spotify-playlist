@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 90.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,409 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,534 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 | 5 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 6 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 |
 | 7 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
-| 8 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 |
+| 8 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 |
 | 9 | [En El Muelle de San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 |
 | 10 | [Ciega, Sordomuda](https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:27 |
 | 11 | [Con Todos Menos Conmigo](https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:04 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 | 45 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 |
 | 46 | [Ojos Así](https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:55 |
 | 47 | [Dime Que No](https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 4:24 |
-| 48 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
-| 49 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
+| 48 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
+| 49 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
 | 50 | [Bella Señora](https://open.spotify.com/track/7vyfkPROxVBZQOJtufdIIJ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [20 Exitos Originales](https://open.spotify.com/album/7GJk5uyd0Fk8ekmz9v3ywI) | 4:41 |
 
 Snapshot ID: `Zmm3bAAAAAB9XBZL2f+z0u42LvALJvuj`

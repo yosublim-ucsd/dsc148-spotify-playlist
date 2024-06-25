@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Mustard, Travis Scott, Kendrick Lamar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,705 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,712 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 3 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/093MlZS93ZKlHpGkmb3k3W) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:22 |
 | 4 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 |
 | 5 | [Wanna Be \(with Megan Thee Stallion & Cardi B\) \- Remix](https://open.spotify.com/track/2WaOQ9TCXEpoAMVzT9GUJt) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wanna Be \(with Megan Thee Stallion & Cardi B\) \[Remix\]](https://open.spotify.com/album/49cRdNg9oX8XyiIVe45BK3) | 3:44 |
-| 6 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:50 |
+| 6 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:51 |
 | 7 | [ATTITUDE \(FEAT\. CHARLIE WILSON & CASH COBAIN\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 |
 | 8 | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI) | 2:45 |
 | 9 | [Phat Butt](https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Phat Butt](https://open.spotify.com/album/13lNTRScGj4CVAYszzxioi) | 2:09 |

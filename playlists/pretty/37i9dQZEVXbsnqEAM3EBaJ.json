@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACHC9/vOLUq1ZK5Iz/U0+U7",
+  "snapshot_id": "AAAAAAAAAACb8CIMde1KWJrn5kikblj2",
   "tracks": [
     {
       "added_at": "2024-06-21 04:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Only The Strong Survive (Live)",
-        "url": "https://open.spotify.com/album/3fSrcBnBcXCKHB7UEtk5tP"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 251040,
-      "name": "Only The Strong Survive - Live, Hamburg, 1979",
-      "url": "https://open.spotify.com/track/2mTSeu5k2k9RwhWeo77TJq"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "7 Screaming Diz-Busters (Live)",
         "url": "https://open.spotify.com/album/37YpFvRfNqmJm5HYwesE2u"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 421648,
       "name": "7 Screaming Diz-Busters - Live",
       "url": "https://open.spotify.com/track/3c85MmYaJkGPhHEJFZ8vZv"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Only The Strong Survive (Live)",
+        "url": "https://open.spotify.com/album/3fSrcBnBcXCKHB7UEtk5tP"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 251040,
+      "name": "Only The Strong Survive - Live, Hamburg, 1979",
+      "url": "https://open.spotify.com/track/2mTSeu5k2k9RwhWeo77TJq"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Worlds Collide Tour (Live in Amsterdam)",
-        "url": "https://open.spotify.com/album/4FA76o2vhVqP8dpMlnnmPv"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 270100,
-      "name": "Faster - Live in Amsterdam",
-      "url": "https://open.spotify.com/track/09az9LNbYDb1aBXiKoNjjz"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Worlds Collide Tour (Live in Amsterdam)",
+        "url": "https://open.spotify.com/album/4FA76o2vhVqP8dpMlnnmPv"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 270100,
+      "name": "Faster - Live in Amsterdam",
+      "url": "https://open.spotify.com/track/09az9LNbYDb1aBXiKoNjjz"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 123428,
-      "name": "right now - lofi",
-      "url": "https://open.spotify.com/track/4AiQPX8APnKSSkrE3yOs2l"
+      "duration_ms": 120000,
+      "name": "blind - lofi",
+      "url": "https://open.spotify.com/track/0nOAqwyTeddVOUC9KZBb8I"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -207,30 +207,6 @@
       "duration_ms": 252453,
       "name": "The Seasons, Op. 37a: No. 12. December: Christmas",
       "url": "https://open.spotify.com/track/0AXAlpko37X8LfdYqTebpP"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Jewel (Remastered and Expanded)",
-        "url": "https://open.spotify.com/album/2JFMNWJoPCWOqL0QpnjaWp"
-      },
-      "artists": [
-        {
-          "name": "Marcella Detroit",
-          "url": "https://open.spotify.com/artist/37zKpwMQ7NFzk0MPR4FUJe"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 351120,
-      "name": "Ain't Nothing Like the Real Thing (feat. Elton John) - Kenny Dope Extended Mix",
-      "url": "https://open.spotify.com/track/2p5tO39jvj5kPy7voaCOWX"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -267,6 +243,30 @@
       "duration_ms": 267314,
       "name": "Moon River / Audrey\u2019s Letter",
       "url": "https://open.spotify.com/track/6g7uwja1iFcOEPFHWEZN8I"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Jewel (Remastered and Expanded)",
+        "url": "https://open.spotify.com/album/2JFMNWJoPCWOqL0QpnjaWp"
+      },
+      "artists": [
+        {
+          "name": "Marcella Detroit",
+          "url": "https://open.spotify.com/artist/37zKpwMQ7NFzk0MPR4FUJe"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 351120,
+      "name": "Ain't Nothing Like the Real Thing (feat. Elton John) - Kenny Dope Extended Mix",
+      "url": "https://open.spotify.com/track/2p5tO39jvj5kPy7voaCOWX"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Rock 'n' Roll Star!",
-        "url": "https://open.spotify.com/album/1bqZP0fgsBTnQaYj4Dte7Z"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 142338,
-      "name": "I Can't Explain - Trident Studios Version",
-      "url": "https://open.spotify.com/track/0YK64CRFEMRCDkMTiM6Sjk"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Worry",
         "url": "https://open.spotify.com/album/1qISfk68iEjgZ4cG17YuEy"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 288946,
       "name": "Worry",
       "url": "https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Rock 'n' Roll Star!",
+        "url": "https://open.spotify.com/album/1bqZP0fgsBTnQaYj4Dte7Z"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 142338,
+      "name": "I Can't Explain - Trident Studios Version",
+      "url": "https://open.spotify.com/track/0YK64CRFEMRCDkMTiM6Sjk"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "With Arms Wide Open (Live At Freeman Coliseum / 1999)",
+        "url": "https://open.spotify.com/album/02PewFxKI9y5S5rAPcQfRJ"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "duration_ms": 323738,
+      "name": "With Arms Wide Open - Live At Freeman Coliseum / 1999",
+      "url": "https://open.spotify.com/track/0gFT6Rj2QVxpWSh36EiZ4Z"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Saldek 2024",
         "url": "https://open.spotify.com/album/5DxxXEVXAQa8P8OgTARXL5"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 385573,
       "name": "Saldek 2024",
       "url": "https://open.spotify.com/track/70qYwGsYqv59fxqQ1o3QGn"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "With Arms Wide Open (Live At Freeman Coliseum / 1999)",
-        "url": "https://open.spotify.com/album/02PewFxKI9y5S5rAPcQfRJ"
-      },
-      "artists": [
-        {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-        }
-      ],
-      "duration_ms": 323738,
-      "name": "With Arms Wide Open - Live At Freeman Coliseum / 1999",
-      "url": "https://open.spotify.com/track/0gFT6Rj2QVxpWSh36EiZ4Z"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "One Hand Clapping",
-        "url": "https://open.spotify.com/album/5bo520v8a72MrqnQNCPh5Y"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Soily - One Hand Clapping Sessions",
-      "url": "https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Sobras de Arte",
         "url": "https://open.spotify.com/album/7dNiMRVlejE0ScgbNWDRLX"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 201823,
       "name": "Siguen Ah\u00ed",
       "url": "https://open.spotify.com/track/5p2jHU5DGZbztnxcXMa5zu"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "One Hand Clapping",
+        "url": "https://open.spotify.com/album/5bo520v8a72MrqnQNCPh5Y"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Soily - One Hand Clapping Sessions",
+      "url": "https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Parklife (Live at Wembley Stadium)",
+        "url": "https://open.spotify.com/album/3ZzDxJVNHIgXbeiSXwtDqY"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 230840,
+      "name": "Parklife - Live at Wembley Stadium",
+      "url": "https://open.spotify.com/track/1iJXeKNHHAX9ZqoXW0NPsS"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Pictures of You",
         "url": "https://open.spotify.com/album/7H0rjJQJ1QqQC9VLaOSEa5"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Parklife (Live at Wembley Stadium)",
-        "url": "https://open.spotify.com/album/3ZzDxJVNHIgXbeiSXwtDqY"
+        "name": "London Session 1972",
+        "url": "https://open.spotify.com/album/4Ea2mTODEbaxH49mywljHY"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
         }
       ],
-      "duration_ms": 230840,
-      "name": "Parklife - Live at Wembley Stadium",
-      "url": "https://open.spotify.com/track/1iJXeKNHHAX9ZqoXW0NPsS"
+      "duration_ms": 199947,
+      "name": "Search And Destroy - Early Demo",
+      "url": "https://open.spotify.com/track/3YTKTIN1OeKA5DYvXuNfCm"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -751,22 +767,6 @@
       "duration_ms": 348340,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/18S3d7Qxm462bVqqcdhwXy"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "London Session 1972",
-        "url": "https://open.spotify.com/album/4Ea2mTODEbaxH49mywljHY"
-      },
-      "artists": [
-        {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
-        }
-      ],
-      "duration_ms": 199947,
-      "name": "Search And Destroy - Early Demo",
-      "url": "https://open.spotify.com/track/3YTKTIN1OeKA5DYvXuNfCm"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "The Born in the U.S.A. Tour '84 - '85",
-        "url": "https://open.spotify.com/album/7I1AeiGL76IsHls98I6xEe"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 252366,
-      "name": "Downbound Train - Live at LA Memorial Coliseum, Los Angeles, CA - 9/27/1985",
-      "url": "https://open.spotify.com/track/08xrGsq938BBXHX9yRwDyB"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "The Born in the U.S.A. Tour '84 - '85",
+        "url": "https://open.spotify.com/album/7I1AeiGL76IsHls98I6xEe"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 252366,
+      "name": "Downbound Train - Live at LA Memorial Coliseum, Los Angeles, CA - 9/27/1985",
+      "url": "https://open.spotify.com/track/08xrGsq938BBXHX9yRwDyB"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Boston Tea Party, Boston 1970",
         "url": "https://open.spotify.com/album/24TZHrFBS55qRZ8G5SK575"
       },
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 350722,
-      "name": "For a Thousand Mothers - Live",
-      "url": "https://open.spotify.com/track/6WQzrcoT13xFaACybHjgIZ"
+      "duration_ms": 201114,
+      "name": "We Used to Know - Live",
+      "url": "https://open.spotify.com/track/07jxFD0egxD4lrBcKNebqb"
     },
     {
       "added_at": "2024-06-21 04:00:00",

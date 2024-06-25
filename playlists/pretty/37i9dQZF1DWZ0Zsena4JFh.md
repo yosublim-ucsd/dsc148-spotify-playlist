@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. King Krule en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,295 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,307 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 22 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 |
 | 23 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 |
 | 24 | [OMG](https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [OMG](https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh) | 2:58 |
-| 25 | [All Your Life](https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [All Your Life](https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez) | 3:16 |
+| 25 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 |
 | 26 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 |
-| 27 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 |
+| 27 | [All Your Life](https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [All Your Life](https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez) | 3:16 |
 | 28 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 |
 | 29 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 |
 | 30 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 45 | [Until We Meet Again](https://open.spotify.com/track/66ttkjHJsfNXTot9SgIere) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Until We Meet Again](https://open.spotify.com/album/0rTbmVftdBHOiEvRyjEuub) | 3:01 |
 | 46 | [Starvation](https://open.spotify.com/track/67c7PNN05Co9royqUCthR7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 3:27 |
 | 47 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 |
-| 48 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 |
-| 49 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
+| 48 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
+| 49 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 |
 | 50 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 |
 
 Snapshot ID: `ZnWokQAAAADETZGR5ble5Q2uZgth3GrK`

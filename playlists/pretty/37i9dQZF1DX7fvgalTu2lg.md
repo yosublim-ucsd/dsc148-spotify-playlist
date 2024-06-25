@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 
 > Don't worry, be happy :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,967 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,024 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 8 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 4:05 |
 | 9 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 |
 | 10 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
-| 11 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
+| 11 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 12 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 |
-| 13 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
+| 13 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
 | 14 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 15 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 |
 | 16 | [It's Not Unusual](https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Along Came Jones](https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR) | 1:59 |

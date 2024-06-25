@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121696,
+  "num_followers": 121700,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Just for a Moment",
+        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Just for a Moment",
+      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 220800,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Just for a Moment",
-        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
-      },
-      "artists": [
-        {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Just for a Moment",
-      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -523,26 +523,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "NaturHaus",
-        "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
-      },
-      "artists": [
-        {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
-        },
-        {
-          "name": "Soft Palace",
-          "url": "https://open.spotify.com/artist/1KiYF9PWPsFiCBes5YbUJy"
-        }
-      ],
-      "duration_ms": 239548,
-      "name": "NaturHaus",
-      "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Anima",
         "url": "https://open.spotify.com/album/0XJNZA4EavYZ26GZl69o66"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 176000,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "NaturHaus",
+        "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        },
+        {
+          "name": "Soft Palace",
+          "url": "https://open.spotify.com/artist/1KiYF9PWPsFiCBes5YbUJy"
+        }
+      ],
+      "duration_ms": 239548,
+      "name": "NaturHaus",
+      "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Gaia - Radio Edit",
-      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "You Just Danced",
         "url": "https://open.spotify.com/album/17d0PBIogEhv6lGBTgYXKV"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
       },
       "artists": [
         {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
         }
       ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+      "duration_ms": 245202,
+      "name": "Gaia - Radio Edit",
+      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -827,6 +811,22 @@
       "duration_ms": 213611,
       "name": "Don't Stop the Dance - Kraak & Smaak Radio Edit",
       "url": "https://open.spotify.com/track/1zoI4kALck0KVXw8wYJEfY"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Mr. Magic",
-        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
-      },
-      "artists": [
-        {
-          "name": "Baka G",
-          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
-        }
-      ],
-      "duration_ms": 345534,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Too Many Questions (Remix)",
         "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 145454,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
+      },
+      "artists": [
+        {
+          "name": "Baka G",
+          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
+        }
+      ],
+      "duration_ms": 345534,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "RDV",
+        "url": "https://open.spotify.com/album/2WjEkuvVo6z3puQTGET9H7"
+      },
+      "artists": [
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
+        }
+      ],
+      "duration_ms": 159705,
+      "name": "RDV",
+      "url": "https://open.spotify.com/track/3oIy7vraINdyE19cGdi1xX"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 343384,
       "name": "Falling Upwards",
       "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "RDV",
-        "url": "https://open.spotify.com/album/2WjEkuvVo6z3puQTGET9H7"
-      },
-      "artists": [
-        {
-          "name": "Teuteu",
-          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
-        }
-      ],
-      "duration_ms": 159705,
-      "name": "RDV",
-      "url": "https://open.spotify.com/track/3oIy7vraINdyE19cGdi1xX"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Fleur d'Hiver",
         "url": "https://open.spotify.com/album/4sBW2Pcr7KlMa28FxpAf6e"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 231500,
       "name": "Fleur d'Hiver",
       "url": "https://open.spotify.com/track/6vr5tDOUOTgtRHWCLrTEtX"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Coffee (Edit)",
-        "url": "https://open.spotify.com/album/4pNeMokkPtuc5PMsr5oPzB"
-      },
-      "artists": [
-        {
-          "name": "Fouk",
-          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
-        }
-      ],
-      "duration_ms": 235039,
-      "name": "Coffee - Edit",
-      "url": "https://open.spotify.com/track/2LPeOMRJpuKLOLlUcHBDzB"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Moraine",
         "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 237947,
       "name": "Moraine",
       "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Coffee (Edit)",
+        "url": "https://open.spotify.com/album/4pNeMokkPtuc5PMsr5oPzB"
+      },
+      "artists": [
+        {
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+        }
+      ],
+      "duration_ms": 235039,
+      "name": "Coffee - Edit",
+      "url": "https://open.spotify.com/track/2LPeOMRJpuKLOLlUcHBDzB"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Dub 002",
-        "url": "https://open.spotify.com/album/1izE0AfZaQbrXmcDRrpcw6"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 370006,
-      "name": "Dub 002",
-      "url": "https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Proto/Emotions",
         "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 319743,
       "name": "Ballo Da Solo",
       "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Dub 002",
+        "url": "https://open.spotify.com/album/1izE0AfZaQbrXmcDRrpcw6"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 370006,
+      "name": "Dub 002",
+      "url": "https://open.spotify.com/track/23gIyPfmbczIngg3vvvu3P"
     },
     {
       "added_at": "2024-06-03 13:14:44",

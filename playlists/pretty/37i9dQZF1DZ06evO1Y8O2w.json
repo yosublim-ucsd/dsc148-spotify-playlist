@@ -1,12 +1,12 @@
 {
   "description": "This is Phyllis Hyman. The essential tracks, all in one playlist.",
-  "num_followers": 7507,
+  "num_followers": 7508,
   "original_name": "This Is Phyllis Hyman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAADOUD4KTs6+qU8SqMzoOebC",
+  "snapshot_id": "ZndlgAAAAADL7QB1MfBb1/1l/TGY8J64",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere In My Lifetime (Expanded)",
-        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "Somewhere In My Lifetime",
-      "url": "https://open.spotify.com/track/2MXUONwP4lnGiRLtqlKP9Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living All Alone",
         "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 254240,
       "name": "You Just Don't Know",
       "url": "https://open.spotify.com/track/1UtIQ6BxB9GyfrweUAj1YR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somewhere In My Lifetime (Expanded)",
+        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "Somewhere In My Lifetime",
+      "url": "https://open.spotify.com/track/2MXUONwP4lnGiRLtqlKP9Z"
     },
     {
       "added_at": null,
@@ -591,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slingshot",
-        "url": "https://open.spotify.com/album/4ZTtXdTxQFaHLJrJPxUt3x"
+        "name": "Somewhere In My Lifetime (Expanded)",
+        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
       },
       "artists": [
-        {
-          "name": "Michael Henderson",
-          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
-        },
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 224226,
-      "name": "Can't We Fall in Love Again",
-      "url": "https://open.spotify.com/track/7LoUpAYekcUxAnBC8Cv27p"
+      "duration_ms": 374693,
+      "name": "Living Inside Your Love",
+      "url": "https://open.spotify.com/track/1phsrcc05RCH8unS2gtJk9"
     },
     {
       "added_at": null,
@@ -643,34 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere In My Lifetime (Expanded)",
-        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
+        "name": "Slingshot",
+        "url": "https://open.spotify.com/album/4ZTtXdTxQFaHLJrJPxUt3x"
       },
       "artists": [
+        {
+          "name": "Michael Henderson",
+          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
+        },
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 374693,
-      "name": "Living Inside Your Love",
-      "url": "https://open.spotify.com/track/1phsrcc05RCH8unS2gtJk9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Goddess of Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "Let Somebody Love You",
-      "url": "https://open.spotify.com/track/6jwpjWDFYCgtNUYfx7KE7B"
+      "duration_ms": 224226,
+      "name": "Can't We Fall in Love Again",
+      "url": "https://open.spotify.com/track/7LoUpAYekcUxAnBC8Cv27p"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
       "duration_ms": 231413,
       "name": "Baby (I'm Gonna Love You) - 7\" Version",
       "url": "https://open.spotify.com/track/5TnLtfz0X6Z1Sou7UiJrWJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goddess of Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "Let Somebody Love You",
+      "url": "https://open.spotify.com/track/6jwpjWDFYCgtNUYfx7KE7B"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Know How to Love Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "But I Love You",
-      "url": "https://open.spotify.com/track/0ZyE4cTb4IRlMI3iwMoT8E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phyllis Hyman (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 252346,
       "name": "Why Did You Turn Me On",
       "url": "https://open.spotify.com/track/7Bx4kCWT6c8Z6Th747COko"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Know How to Love Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "But I Love You",
+      "url": "https://open.spotify.com/track/0ZyE4cTb4IRlMI3iwMoT8E"
     },
     {
       "added_at": null,

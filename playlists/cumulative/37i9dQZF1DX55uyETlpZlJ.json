@@ -1559,6 +1559,32 @@
     },
     {
       "album": {
+        "name": "ejawa",
+        "url": "https://open.spotify.com/album/27ZsRLlqfWtcll9P6AI0KO"
+      },
+      "artists": [
+        {
+          "name": "Trap Raag",
+          "url": "https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09"
+        },
+        {
+          "name": "Vishakh",
+          "url": "https://open.spotify.com/artist/42KrPpRSeWS2hUW1WdRzpV"
+        },
+        {
+          "name": "Chaithra M",
+          "url": "https://open.spotify.com/artist/0tlgDYGfWVP7w47t4XWX4y"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "ejawa",
+      "url": "https://open.spotify.com/track/6s8ZrFf8RYn1R4q2vcyckp"
+    },
+    {
+      "album": {
         "name": "Elli Elli Neenu",
         "url": "https://open.spotify.com/album/25Hbr6OBZbPcoq64hgXadr"
       },

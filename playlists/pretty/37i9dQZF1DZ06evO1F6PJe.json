@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 100882,
+  "num_followers": 100912,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAABGLBh/OfeB13/FFCcbvsUA",
+  "snapshot_id": "ZndlgAAAAABTJYcqz1thCqdku0o5o1S/",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Black Lung Heartache",
-      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues From The Heart Live (Live)",
         "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 349573,
       "name": "Summertime (Live)",
       "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Black Lung Heartache",
+      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
     },
     {
       "added_at": null,
@@ -615,6 +615,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 272280,
+      "name": "Twenty-Four Hour Blues",
+      "url": "https://open.spotify.com/track/1GIkTBgTJYpWmvLYz2Nxrp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
+        "url": "https://open.spotify.com/album/0FAqA6YKkJmz3y1rLhYnM4"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/3U9bFP9W41u4Bjxx3A0Nad"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enlighten",
         "url": "https://open.spotify.com/album/0apqDCEjK86D64512xrslX"
       },
@@ -647,38 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
-        "url": "https://open.spotify.com/album/0FAqA6YKkJmz3y1rLhYnM4"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/3U9bFP9W41u4Bjxx3A0Nad"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 382040,
-      "name": "Is It Safe To Go Home",
-      "url": "https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joe Bonamassa Live from the Royal Albert Hall",
         "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
       },
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 382040,
+      "name": "Is It Safe To Go Home",
+      "url": "https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cradle Rock",
         "url": "https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA"
       },
@@ -711,6 +727,30 @@
       "duration_ms": 230026,
       "name": "Cradle Rock",
       "url": "https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Come U Don't Call Me Anymore",
+        "url": "https://open.spotify.com/album/6Q9NrZjwc8XnIFT5ICbiTu"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/79xCRaEpYC3kdfmZWGRNjX"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 251425,
+      "name": "How Come U Don't Call Me Anymore",
+      "url": "https://open.spotify.com/track/1bcNoi2yLxpbtyZCmajS62"
     },
     {
       "added_at": null,
@@ -755,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Come U Don't Call Me Anymore",
-        "url": "https://open.spotify.com/album/6Q9NrZjwc8XnIFT5ICbiTu"
+        "name": "Back in Black",
+        "url": "https://open.spotify.com/album/736B83hbqftdlB7yewbdOF"
       },
       "artists": [
         {
@@ -764,17 +804,17 @@
           "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
         },
         {
-          "name": "Hunter",
-          "url": "https://open.spotify.com/artist/79xCRaEpYC3kdfmZWGRNjX"
+          "name": "Joanna Jones",
+          "url": "https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx"
         },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 251425,
-      "name": "How Come U Don't Call Me Anymore",
-      "url": "https://open.spotify.com/track/1bcNoi2yLxpbtyZCmajS62"
+      "duration_ms": 192590,
+      "name": "Back in Black",
+      "url": "https://open.spotify.com/track/3QbM1s2qg68bKEByp0Uvh8"
     },
     {
       "added_at": null,
@@ -811,46 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back in Black",
-        "url": "https://open.spotify.com/album/736B83hbqftdlB7yewbdOF"
-      },
-      "artists": [
-        {
-          "name": "Scary Pockets",
-          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
-        },
-        {
-          "name": "Joanna Jones",
-          "url": "https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 192590,
-      "name": "Back in Black",
-      "url": "https://open.spotify.com/track/3QbM1s2qg68bKEByp0Uvh8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 197186,
-      "name": "Lazy Poker Blues",
-      "url": "https://open.spotify.com/track/7yRxdM2XWe80UU46IZngBk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red Sun",
         "url": "https://open.spotify.com/album/1bz0eLu507dD896Zj7zJIR"
       },
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twenty-Four Hour Blues (Live At The Hollywood Bowl With Orchestra)",
-        "url": "https://open.spotify.com/album/5uhbe2M4tPRoDb6fH52TaJ"
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 347240,
-      "name": "Twenty-Four Hour Blues (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/78PzYa2mqx9MJcAvTIxR6N"
+      "duration_ms": 197186,
+      "name": "Lazy Poker Blues",
+      "url": "https://open.spotify.com/track/7yRxdM2XWe80UU46IZngBk"
     },
     {
       "added_at": null,

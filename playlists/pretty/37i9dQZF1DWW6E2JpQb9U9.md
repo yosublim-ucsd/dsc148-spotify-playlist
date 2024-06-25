@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,372 likes - 100 songs - 7 hr 36 min
+[](https://open.spotify.com/user/null) - 112,395 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 45 | [De la Guitarra \- En Vivo Luna Park](https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otra Noche en la Luna \(Episodio I\)](https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI) | 5:11 |
 | 46 | [Reyes de la Noche](https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Rock De Mi Vida](https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym) | 4:23 |
 | 47 | [Avanti Morocha \(En Vivo Provincia Emergente\)](https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Provincia Emergente Estadio Unico de La Plata \(En Vivo\)](https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi) | 5:34 |
-| 48 | [El Charro Chino \- En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil](https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [El Charro Chino \(En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil\)](https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U) | 4:54 |
-| 49 | [Sé Vos \- En Vivo](https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo Obras](https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT) | 4:09 |
+| 48 | [Sé Vos \- En Vivo](https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo Obras](https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT) | 4:09 |
+| 49 | [El Charro Chino \- En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil](https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [El Charro Chino \(En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil\)](https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U) | 4:54 |
 | 50 | [Espejismo \- En Vivo](https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Los Fundamentalistas del Aire Acondicionado en Huracán \(En Vivo\)](https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL) | 6:23 |
 | 51 | [Pronta Entrega \- En Vivo](https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:23 |
 | 52 | [Carismático \(En Vivo Luna Park 2006\)](https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Luces \(En Vivo Luna Park 2006\)](https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z) | 2:43 |

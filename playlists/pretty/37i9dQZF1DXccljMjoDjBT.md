@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s\. Cover: Peter Cetera
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,884 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,965 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 46 | [I Just Can't Let Go](https://open.spotify.com/track/5K27xdI3aPGoyXnxdcan82) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:52 |
 | 47 | [Livin' It Up](https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:21 |
 | 48 | [Once In a Lifetime](https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE) | [Michael Ruff](https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI) | [Once In a Lifetime](https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf) | 4:24 |
-| 49 | [MARGARITA](https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz) | 4:10 |
-| 50 | [Live Every Moment](https://open.spotify.com/track/1IMz8NXt3d1ApV6WJUFmg2) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:59 |
+| 49 | [Live Every Moment](https://open.spotify.com/track/1IMz8NXt3d1ApV6WJUFmg2) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:59 |
+| 50 | [MARGARITA](https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz) | 4:10 |
 | 51 | [Boys of Autumn](https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ) | [David Roberts](https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83) | [All Dressed Up](https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz) | 4:14 |
 | 52 | [Real Love](https://open.spotify.com/track/1NI2i1BjKiVrEYCC0WTug4) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [One Step Closer](https://open.spotify.com/album/5BVnu0gNiU6VJhRA4AdqUi) | 4:19 |
 | 53 | [You're the Inspiration \- 2009 Remaster](https://open.spotify.com/track/6d7PQZtTbHbcYqaygOW7vs) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded Edition\)](https://open.spotify.com/album/3kkAB63Am6POYuMTisinaa) | 3:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > pura morra rifada\. RPLK en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,973 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,979 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,19 +48,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 38 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
 | 39 | [Bolero Falaz](https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 3:45 |
 | 40 | [Loba](https://open.spotify.com/track/30XvfCUPHSK2rzxmPlJGFf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Loba](https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9) | 3:08 |
-| 41 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 |
-| 42 | [Bailar Contigo](https://open.spotify.com/track/4hi9OTFKomNUlAIhp1fmap) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:38 |
+| 41 | [Bailar Contigo](https://open.spotify.com/track/4hi9OTFKomNUlAIhp1fmap) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:38 |
+| 42 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 |
 | 43 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
 | 44 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
 | 45 | [Amor Prohibido](https://open.spotify.com/track/1eKvXRg5ntWvQoHZnGCKh3) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 2:55 |
 | 46 | [Tengo Un Trato \- Remastered 2015](https://open.spotify.com/track/13crLwJf5aEt3R8MKcisou) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Lujo Ibérico \(Edición 15 Aniversario\)](https://open.spotify.com/album/0jSaLt79iNOr9ydaF1cMLR) | 2:48 |
 | 47 | [Dame Chance \(Rayuela\)](https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Dame Chance \(Rayuela\)](https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL) | 2:32 |
 | 48 | [Chicle de Menta](https://open.spotify.com/track/73VqJSXXWF3pV5uqnuO92N) | [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4) | [Mdyssl](https://open.spotify.com/album/3FechyjHr69GRejwbQY6AK) | 3:05 |
-| 49 | [Lejos De La Ciudad](https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lejos De La Ciudad](https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf) | 3:08 |
-| 50 | [Obra de Dios](https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Obra de Dios](https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a) | 3:37 |
+| 49 | [Obra de Dios](https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Obra de Dios](https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a) | 3:37 |
+| 50 | [Lejos De La Ciudad](https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lejos De La Ciudad](https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf) | 3:08 |
 | 51 | [Bestia](https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Bestia](https://open.spotify.com/album/3thOTiN8dswNmDUHEkIXiL) | 4:08 |
-| 52 | [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 |
-| 53 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
+| 52 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
+| 53 | [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 |
 | 54 | [El Disfraz](https://open.spotify.com/track/6ktPBO8Otumx59kpmKXlls) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Disfraz](https://open.spotify.com/album/2MTpCSuWzi4Lfv2gBU0Wkb) | 2:48 |
 | 55 | [Monstruo Verde](https://open.spotify.com/track/0gcZCJrIY0biWG100VrLKq) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Yo Fui una Adolescente Terrosatánica](https://open.spotify.com/album/3zMDMHmWNh5JvoMf9WEL1S) | 2:13 |
 | 56 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 |

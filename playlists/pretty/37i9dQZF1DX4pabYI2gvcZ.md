@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pabYI2gvcZ.md) - [plain]
 
 > Las superestrellas del agua y el jabón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,707 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,781 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pabYI2gvcZ.md) - [plain]
 | 41 | [Inevitable](https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:12 |
 | 42 | [On Top Of The World](https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS) | 3:12 |
 | 43 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 |
-| 44 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
-| 45 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 |
+| 44 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 |
+| 45 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
 | 46 | [Dueles](https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 4:07 |
 | 47 | [El Color de Tus Ojos](https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:22 |
 | 48 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |

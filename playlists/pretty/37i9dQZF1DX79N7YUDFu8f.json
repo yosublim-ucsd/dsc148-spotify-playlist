@@ -1,28 +1,92 @@
 {
   "description": "Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.",
-  "num_followers": 112725,
+  "num_followers": 112724,
   "original_name": "Easy On Saturday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl24mgAAAADVwRpLMv+O/mTG2r/JrDRA",
+  "snapshot_id": "ZnkqswAAAAA30Kiq23t6E1bX67vEfibe",
   "tracks": [
     {
       "added_at": "2024-06-03 12:35:38",
       "album": {
-        "name": "Love Out Loud",
-        "url": "https://open.spotify.com/album/77A0zjywOShlbv2fZgrOvu"
+        "name": "The First Train Home",
+        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
       },
       "artists": [
         {
-          "name": "Sven Ross",
-          "url": "https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 188933,
-      "name": "Love Out Loud",
-      "url": "https://open.spotify.com/track/6zAnoyecEdyzK1qo569Wa0"
+      "duration_ms": 212373,
+      "name": "The First Train Home",
+      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
+    },
+    {
+      "added_at": "2024-06-03 12:35:38",
+      "album": {
+        "name": "I Live After I Died",
+        "url": "https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i"
+      },
+      "artists": [
+        {
+          "name": "Sofia Dragt",
+          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
+        }
+      ],
+      "duration_ms": 164083,
+      "name": "I Live After I Died",
+      "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
+    },
+    {
+      "added_at": "2024-06-03 12:35:38",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/2mmC1rWiWGZvcOQ2iJVXo0"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 259329,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/1pzUJC95ApZrPchMgTmeS2"
+    },
+    {
+      "added_at": "2024-06-03 12:35:38",
+      "album": {
+        "name": "Slow (live from the van)",
+        "url": "https://open.spotify.com/album/7h7SwY5wjq13e42mKsr1x6"
+      },
+      "artists": [
+        {
+          "name": "Scott & Young",
+          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
+        }
+      ],
+      "duration_ms": 172182,
+      "name": "Slow - live from the van",
+      "url": "https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz"
+    },
+    {
+      "added_at": "2024-06-03 12:35:38",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/0D0FZUmTHNSvsVJ89ZlvZL"
+      },
+      "artists": [
+        {
+          "name": "Iskander Moon",
+          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/3xe0as9iSolwPSaZdNhka8"
     },
     {
       "added_at": "2024-06-03 12:35:38",
@@ -95,22 +159,6 @@
     {
       "added_at": "2024-06-03 12:35:38",
       "album": {
-        "name": "The First Train Home",
-        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "The First Train Home",
-      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
-    },
-    {
-      "added_at": "2024-06-03 12:35:38",
-      "album": {
         "name": "Lights Down Low",
         "url": "https://open.spotify.com/album/0KWtVo7Q9QIpXycrm9MuWI"
       },
@@ -175,18 +223,18 @@
     {
       "added_at": "2024-06-03 12:35:38",
       "album": {
-        "name": "Slow (live from the van)",
-        "url": "https://open.spotify.com/album/7h7SwY5wjq13e42mKsr1x6"
+        "name": "garden",
+        "url": "https://open.spotify.com/album/2D6jurbZ8a88dgoSPicI2o"
       },
       "artists": [
         {
-          "name": "Scott & Young",
-          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
         }
       ],
-      "duration_ms": 172182,
-      "name": "Slow - live from the van",
-      "url": "https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz"
+      "duration_ms": 278516,
+      "name": "garden",
+      "url": "https://open.spotify.com/track/7eC9BhFyx9etpODa2p9eRV"
     },
     {
       "added_at": "2024-06-03 12:35:38",
@@ -223,22 +271,6 @@
       "duration_ms": 278029,
       "name": "Even on Bad Days",
       "url": "https://open.spotify.com/track/1Yn0e8tam3k9rNHIhI5GNg"
-    },
-    {
-      "added_at": "2024-06-03 12:35:38",
-      "album": {
-        "name": "garden",
-        "url": "https://open.spotify.com/album/2D6jurbZ8a88dgoSPicI2o"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 278516,
-      "name": "garden",
-      "url": "https://open.spotify.com/track/7eC9BhFyx9etpODa2p9eRV"
     },
     {
       "added_at": "2024-06-03 12:35:38",
@@ -335,6 +367,22 @@
       "duration_ms": 243763,
       "name": "Alice - Acoustic",
       "url": "https://open.spotify.com/track/6dp4Rf8RxrbKUIOGMGWErU"
+    },
+    {
+      "added_at": "2024-06-03 12:35:38",
+      "album": {
+        "name": "Love Out Loud",
+        "url": "https://open.spotify.com/album/77A0zjywOShlbv2fZgrOvu"
+      },
+      "artists": [
+        {
+          "name": "Sven Ross",
+          "url": "https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Love Out Loud",
+      "url": "https://open.spotify.com/track/6zAnoyecEdyzK1qo569Wa0"
     },
     {
       "added_at": "2024-06-03 12:35:38",
@@ -607,22 +655,6 @@
     {
       "added_at": "2024-06-03 12:35:38",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/2mmC1rWiWGZvcOQ2iJVXo0"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 259329,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/1pzUJC95ApZrPchMgTmeS2"
-    },
-    {
-      "added_at": "2024-06-03 12:35:38",
-      "album": {
         "name": "Be Good (feat. Tom Rosenthal)",
         "url": "https://open.spotify.com/album/4IWLXhyvj0rH2cm5VwuuW9"
       },
@@ -639,38 +671,6 @@
       "duration_ms": 164630,
       "name": "Be Good (feat. Tom Rosenthal)",
       "url": "https://open.spotify.com/track/7ksUuRAALPLYjhlpwTcDCH"
-    },
-    {
-      "added_at": "2024-06-03 12:35:38",
-      "album": {
-        "name": "I Live After I Died",
-        "url": "https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i"
-      },
-      "artists": [
-        {
-          "name": "Sofia Dragt",
-          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
-        }
-      ],
-      "duration_ms": 164083,
-      "name": "I Live After I Died",
-      "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
-    },
-    {
-      "added_at": "2024-06-03 12:35:38",
-      "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/0D0FZUmTHNSvsVJ89ZlvZL"
-      },
-      "artists": [
-        {
-          "name": "Iskander Moon",
-          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/3xe0as9iSolwPSaZdNhka8"
     },
     {
       "added_at": "2024-06-03 12:35:38",

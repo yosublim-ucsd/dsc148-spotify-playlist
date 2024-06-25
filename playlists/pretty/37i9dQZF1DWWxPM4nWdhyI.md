@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxPM4nWdhyI.md) - [plain]
 
 > Celebrating 10 years of ' X' alongside all his biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,543,012 likes - 83 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,543,430 likes - 83 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

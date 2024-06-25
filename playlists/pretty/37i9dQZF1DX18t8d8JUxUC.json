@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Hermanos Guti\u00e9rrez",
-  "num_followers": 22662,
+  "num_followers": 22673,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 172926,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 183880,
       "name": "Asilo (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 172926,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Wacha Checa",
-        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Wacha Checa",
-      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/1ricDoCdrqzaqrLmz64N4G"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 176106,
       "name": "Querida Rosa",
       "url": "https://open.spotify.com/track/6wBrZZ1LyiBxytLnpgnlhf"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Wacha Checa",
+        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -359,26 +359,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Stampede: Vol. 1",
-        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Bu Cuaron",
-          "url": "https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj"
-        }
-      ],
-      "duration_ms": 190577,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/2u79bMbsXBvNxh4rlAfB7L"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 213013,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Stampede: Vol. 1",
+        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Bu Cuaron",
+          "url": "https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj"
+        }
+      ],
+      "duration_ms": 190577,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/2u79bMbsXBvNxh4rlAfB7L"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Larga Duraci\u00f3n",
-        "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
-      },
-      "artists": [
-        {
-          "name": "Paulino Monroy",
-          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
-        }
-      ],
-      "duration_ms": 198536,
-      "name": "Las Vacas",
-      "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Romancera",
         "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 232493,
       "name": "Romancera",
       "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Larga Duraci\u00f3n",
+        "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
+      },
+      "artists": [
+        {
+          "name": "Paulino Monroy",
+          "url": "https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC"
+        }
+      ],
+      "duration_ms": 198536,
+      "name": "Las Vacas",
+      "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 203112,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Desaparezca Aqu\u00ed",
         "url": "https://open.spotify.com/album/2L8X2C1ySndk4McTP6lfpf"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 345706,
       "name": "El Hombre Que Casi Conoci\u00f3 a Michi Panero",
       "url": "https://open.spotify.com/track/4DLQ9mWBFWj7XjpQk1FtmP"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 203112,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Todo alrededor",
-        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 248937,
-      "name": "Somos raros",
-      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD"
       },
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Todo alrededor",
+        "url": "https://open.spotify.com/album/1c33eptv7tyacbAgU9X6rO"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 248937,
+      "name": "Somos raros",
+      "url": "https://open.spotify.com/track/7vqd25RugFisRuScw3xSyq"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Instantes y Aullidos",
         "url": "https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 300114,
       "name": "Instantes y Aullidos",
       "url": "https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 201861,
+      "name": "Sagitario",
+      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 201861,
-      "name": "Sagitario",
-      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Iridiscente",
         "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE"
-      },
-      "artists": [
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Qu\u00e9 Problema",
         "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 204735,
       "name": "Qu\u00e9 Problema",
       "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV"
     },
     {
       "added_at": "2024-06-21 04:00:00",

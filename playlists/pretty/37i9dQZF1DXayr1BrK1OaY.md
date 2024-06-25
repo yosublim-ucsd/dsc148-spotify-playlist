@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,369 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,433 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 73 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 |
 | 74 | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI) | 2:55 |
 | 75 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
-| 76 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 |
+| 76 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 |
 | 77 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
-| 78 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 |
+| 78 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 |
 | 79 | [In The Rain](https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [In The Rain](https://open.spotify.com/album/1dKSdR7wJvaNwbB1cE0Mha) | 3:59 |
 | 80 | [back2u](https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [back2u](https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG) | 2:38 |
-| 81 | [Strong](https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:54 |
-| 82 | [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 |
+| 81 | [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 |
+| 82 | [Strong](https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:54 |
 | 83 | [Another Life \(feat\. FLETCHER & Josh Golden\)](https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Another Life](https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr) | 2:42 |
 | 84 | [Forever In My Mind](https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Forever In My Mind](https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW) | 2:32 |
 | 85 | [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 97 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |
 | 98 | [Calling On](https://open.spotify.com/track/6ByN6v7D5YUogv622VMGrk) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:35 |
 | 99 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
-| 100 | [Waterfall](https://open.spotify.com/track/7C7jWTX2gRjQMmhuTCrHrA) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Waterfall](https://open.spotify.com/album/2ho8S28yjGizJFyC6LP5Nw) | 2:46 |
+| 100 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
 
 Snapshot ID: `ZnDCGAAAAADuQwYJmqOSNe/2Dol8IV79`

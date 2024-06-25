@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/4SIEe2m3angT9PaSxPERpj"
+      },
+      "artists": [
+        {
+          "name": "X-Pander",
+          "url": "https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/65VnFcg021LSGnysdpjVXj"
+    },
+    {
+      "album": {
         "name": "Adrenaline Overload",
         "url": "https://open.spotify.com/album/4Mfm6EyEDSRwVy2gFd5jr2"
       },
@@ -2248,6 +2266,24 @@
       "duration_ms": 203368,
       "name": "Below Zero",
       "url": "https://open.spotify.com/track/4grqoiUviJpSwf3BefZE5m"
+    },
+    {
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/4rdfgZUZzS2N1BcYo4jQtN"
+      },
+      "artists": [
+        {
+          "name": "Avi8",
+          "url": "https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219903,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/4w5TAMlbpxNThD7vnCSnFA"
     },
     {
       "album": {
@@ -13369,6 +13405,28 @@
     },
     {
       "album": {
+        "name": "In Control",
+        "url": "https://open.spotify.com/album/70PdtWsk7UyLpViq8mRNch"
+      },
+      "artists": [
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+        },
+        {
+          "name": "Exproz",
+          "url": "https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220507,
+      "name": "In Control",
+      "url": "https://open.spotify.com/track/6UGTc2z2xFhKkGLVFERnJ1"
+    },
+    {
+      "album": {
         "name": "In My Arms",
         "url": "https://open.spotify.com/album/5wfcNN43Af6PcpAJW4r9QR"
       },
@@ -22811,6 +22869,32 @@
     },
     {
       "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/29xilFGP5o6DtJzDJFhnJh"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/15YYQC2n1LJblmAoN8F5ke"
+    },
+    {
+      "album": {
         "name": "Beyond core EVANGELIX 01",
         "url": "https://open.spotify.com/album/5mFg1Tms9cKuoG2LsnIn1V"
       },
@@ -29808,6 +29892,28 @@
       "duration_ms": 199163,
       "name": "Wind Up - Nightcore Extended Mix",
       "url": "https://open.spotify.com/track/0x34trHnFpC8dKepL2WZOu"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/2WQoo26sJ84seYBTpzogil"
+      },
+      "artists": [
+        {
+          "name": "JTS",
+          "url": "https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no"
+        },
+        {
+          "name": "Technikore",
+          "url": "https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/79tkJ9jyhyE5tlCBWz3226"
     },
     {
       "album": {

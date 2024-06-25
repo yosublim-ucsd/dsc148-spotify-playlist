@@ -4,7 +4,7 @@
 
 > 1978年に「勝手にシンドバッド」でデビュー。1980年代から2010年代までの4年代でそれぞれチャート1位を記録する国民的バンド=サザンオールスターズのオールタイム・ベスト。
 
-105 songs - 7 hr 47 min
+106 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [心を込めて花束を](https://open.spotify.com/track/0QHw0r6r8qh52ZlfTpSNz8) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love](https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0) | 4:09 | 2023-09-18 |  |
 | [忘れられた Big Wave](https://open.spotify.com/track/6CiDS0jdLuxsLJjXWjETfG) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [SOUTHERN ALL STARS](https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL) | 3:10 | 2023-09-18 |  |
 | [恋のジャック・ナイフ](https://open.spotify.com/track/77YFGPQfTd7H7p4EMwdiKt) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love](https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0) | 4:37 | 2023-09-18 |  |
+| [恋のブギウギナイト](https://open.spotify.com/track/2rufq31NDNGXuT92QCmCzR) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [恋のブギウギナイト](https://open.spotify.com/album/1DXUY10rDL66liqdW2ShDz) | 4:59 | 2024-06-25 |  |
 | [恋はお熱く](https://open.spotify.com/track/64ImLMWhTsD0KxCW6IxXBY) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [熱い胸さわぎ](https://open.spotify.com/album/35lVeQiY2JsnKUiWCPGtre) | 4:30 | 2023-09-18 |  |
 | [愛する女性とのすれ違い](https://open.spotify.com/track/099631AOgjCSzArD03TdRn) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 4:01 | 2023-09-18 |  |
 | [愛と欲望の日々](https://open.spotify.com/track/4LBeEalws5w5e20pGU0r1V) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [愛と欲望の日々/LONELY WOMAN](https://open.spotify.com/album/3MbadmKiGX4Pq4z48Q7OWc) | 4:26 | 2023-09-18 |  |

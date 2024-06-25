@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,064 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,106 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 13 | [S.I.M.P\. \(Squirrels in My Pants\)](https://open.spotify.com/track/7ymrbUUrrqvUKBMmdRvieZ) | [2 Guys n the Parque](https://open.spotify.com/artist/2HQvN6u2hFOIRsZOdXB6UM) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 1:34 |
 | 14 | [El Baile de los Animales](https://open.spotify.com/track/11wx5VuLgu4GALjJIb0mT0) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Canciones del Zoo Vol\. 3](https://open.spotify.com/album/3COabJotsgeogBvNsNpcok) | 2:54 |
 | 15 | [Me Encantan las Mascotas](https://open.spotify.com/track/0zz7G0akn1b4eOrYLG0OUw) | [Blippi Español](https://open.spotify.com/artist/7ceSQbq8SfnNLlecfPpysV) | [Animales con Blippi, Vol.1](https://open.spotify.com/album/0vHxexw4c4CNfYvDoJO3RW) | 1:53 |
-| 16 | [Pom pom gallinita](https://open.spotify.com/track/4kL7BS01ZXtIsWFdkClJVA) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 1:04 |
-| 17 | [Bichos](https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:45 |
+| 16 | [Bichos](https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:45 |
+| 17 | [Pom pom gallinita](https://open.spotify.com/track/4kL7BS01ZXtIsWFdkClJVA) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 1:04 |
 | 18 | [Escuela de Perritos](https://open.spotify.com/track/51WoyBaeyNkoRK8yJkY4ac) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [100 Años...100 Exitos](https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco) | 2:30 |
 | 19 | [Perry the Platypus Theme](https://open.spotify.com/track/48Rf7JYGhYrY5zkc3dld3O) | [Randy Crenshaw](https://open.spotify.com/artist/1uYWNGwHu2d2au8iOXZROv) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 0:47 |
 | 20 | [Bear's Song](https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq) | [Маша и медведь](https://open.spotify.com/artist/6CJDS6xbJlxbBTUgALlHJa) | [Masha and the Bear Songs, Pt\. 2](https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT) | 1:23 |

@@ -1,6 +1,6 @@
 {
   "description": "nos fuimos de fiesta con Myke Towers. \ud83c\udf89",
-  "num_followers": 900491,
+  "num_followers": 900497,
   "original_name": "Fiesta",
   "owner": {
     "name": "Spotify",
@@ -1515,34 +1515,6 @@
     {
       "added_at": "2024-06-06 23:40:57",
       "album": {
-        "name": "EXCESO",
-        "url": "https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 142802,
-      "name": "EXCESO",
-      "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
-    },
-    {
-      "added_at": "2024-06-06 23:40:57",
-      "album": {
         "name": "La Jumpa",
         "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
       },
@@ -1591,6 +1563,34 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2024-06-06 23:40:57",
+      "album": {
+        "name": "EXCESO",
+        "url": "https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 142802,
+      "name": "EXCESO",
+      "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
     },
     {
       "added_at": "2024-06-06 23:40:57",

@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 16842,
+  "num_followers": 16843,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "A Ballad for Alice",
-        "url": "https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 178728,
-      "name": "A Ballad for Alice",
-      "url": "https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "A Beautiful Friendship",
         "url": "https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 258239,
       "name": "A Beautiful Friendship",
       "url": "https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "A Ballad for Alice",
+        "url": "https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 178728,
+      "name": "A Ballad for Alice",
+      "url": "https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Spring Is Here",
-      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "In Love Again",
         "url": "https://open.spotify.com/album/4mvkItBFlkQ2BUxi4kPaKl"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
       },
       "artists": [
         {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 220440,
-      "name": "There'll Be Another Spring",
-      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
+      "duration_ms": 219826,
+      "name": "Spring Is Here",
+      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -667,6 +651,22 @@
       "duration_ms": 304466,
       "name": "Very Early",
       "url": "https://open.spotify.com/track/58gg22rFN1xRC2MqKkzDNq"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "There'll Be Another Spring",
+      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "They Say It's Swing",
-        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
-      },
-      "artists": [
-        {
-          "name": "Clare Teal",
-          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
-        }
-      ],
-      "duration_ms": 249997,
-      "name": "They Say It's Spring",
-      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 561826,
       "name": "Chandra",
       "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "They Say It's Swing",
+        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
+      },
+      "artists": [
+        {
+          "name": "Clare Teal",
+          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
+        }
+      ],
+      "duration_ms": 249997,
+      "name": "They Say It's Spring",
+      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
         "name": "Cad\u00eancia Verde e Amarela",
         "url": "https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Come What May",
-        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
+        "name": "Let's Face the Music",
+        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
       },
       "artists": [
         {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
         }
       ],
-      "duration_ms": 178573,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A"
+      "duration_ms": 257148,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -967,22 +983,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Let's Face the Music",
-        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
-      },
-      "artists": [
-        {
-          "name": "Reinhardt Winkler",
-          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
-        }
-      ],
-      "duration_ms": 257148,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Dare That Dream",
-        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
-      },
-      "artists": [
-        {
-          "name": "Estelle Perrault",
-          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
-        }
-      ],
-      "duration_ms": 256972,
-      "name": "You Must Believe In Spring",
-      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "Backlash",
         "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 401226,
       "name": "Up Jumped Spring",
       "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "Dare That Dream",
+        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
+      },
+      "artists": [
+        {
+          "name": "Estelle Perrault",
+          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
+        }
+      ],
+      "duration_ms": 256972,
+      "name": "You Must Believe In Spring",
+      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
+        "name": "The Art Of Elegance",
+        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
+      },
+      "artists": [
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 174813,
+      "name": "I\u2019ve Got A Crush On You",
+      "url": "https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
         "name": "Live at Unity",
         "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 364626,
       "name": "Only Love Can Break Your Heart - Live",
       "url": "https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
-        "name": "The Art Of Elegance",
-        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
-      },
-      "artists": [
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 174813,
-      "name": "I\u2019ve Got A Crush On You",
-      "url": "https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Simple Life",
-        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
-      },
-      "artists": [
-        {
-          "name": "Yoon Jong Ryul",
-          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
-        }
-      ],
-      "duration_ms": 357621,
-      "name": "Needle and Candle",
-      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 277866,
       "name": "Something 'bout the Rain",
       "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Ryul",
+          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
+        }
+      ],
+      "duration_ms": 357621,
+      "name": "Needle and Candle",
+      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
     },
     {
       "added_at": "2024-06-13 12:59:10",

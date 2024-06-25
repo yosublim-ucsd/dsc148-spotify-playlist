@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ENg5TiKRg4.md) - [plain]
 
 > Happy Pop\-Rock Tunes to start your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,426 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,449 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ENg5TiKRg4.md) - [plain]
 | 18 | [This Is Nowhere](https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [This Is Nowhere](https://open.spotify.com/album/1GrFd2S89YW8mQMop0Bu7S) | 3:44 |
 | 19 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 |
 | 20 | [Golden Harbor](https://open.spotify.com/track/4nz2wBxuWeRJ802fKQqjbp) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Golden Harbor](https://open.spotify.com/album/3gxT6F1LrpWqiG6X6m7ggT) | 2:36 |
-| 21 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
+| 21 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
 | 22 | [For the First Time](https://open.spotify.com/track/6inMymbAB1obAUtUPVeWjU) | [Ringgo 5](https://open.spotify.com/artist/73kWDkoIKhN58ALBh7cF3t) | [Love & Light](https://open.spotify.com/album/1Y2i1JvNR7mXb2mAxpth65) | 3:10 |
-| 23 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
+| 23 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
 | 24 | [Save Me](https://open.spotify.com/track/0tY6cjuSG8vLZBfO7NSdKG) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Save Me](https://open.spotify.com/album/74ru0U9zgqGD7p6zQEW5Vh) | 3:34 |
 | 25 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 26 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |

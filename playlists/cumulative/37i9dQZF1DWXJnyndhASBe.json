@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 203478,
       "name": "CASTROL",
       "url": "https://open.spotify.com/track/4MNLB3RQ9vGxvaNKoQHpIQ"
@@ -4960,6 +4960,28 @@
       "duration_ms": 187415,
       "name": "NAPALONE FANKI",
       "url": "https://open.spotify.com/track/1am7ZCYTibeYENexigk6Gz"
+    },
+    {
+      "album": {
+        "name": "Nawiedzony dom",
+        "url": "https://open.spotify.com/album/1R7RAEaC6WflG7Yr32Jb7U"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Nawiedzony dom",
+      "url": "https://open.spotify.com/track/1ZBOgphzRPANN4IFOU9L3H"
     },
     {
       "album": {

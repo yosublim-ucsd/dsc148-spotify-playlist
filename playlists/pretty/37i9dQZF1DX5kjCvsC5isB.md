@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > Women who rock our world\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,006 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,056 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 37 | [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 |
 | 38 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
 | 39 | [Nosebleeds](https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN) | 3:03 |
-| 40 | [IDC AT ALL](https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [IDC AT ALL](https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo) | 3:21 |
-| 41 | [Always Get This Way](https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Always Get This Way](https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0) | 2:54 |
+| 40 | [Always Get This Way](https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Always Get This Way](https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0) | 2:54 |
+| 41 | [IDC AT ALL](https://open.spotify.com/track/0L0wwswP2xOiWv25Out7nn) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [IDC AT ALL](https://open.spotify.com/album/4wMtz7zQFP5Sbjf5djv5lo) | 3:21 |
 | 42 | [People That I Love Leave](https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [People That I Love Leave](https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU) | 2:29 |
 | 43 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 |
-| 44 | [poser](https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [poser](https://open.spotify.com/album/2cYM6qi8MBNjQIwfAcJa3C) | 2:49 |
+| 44 | [Raw Raw](https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Raw Raw](https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0) | 2:57 |
 | 45 | [Terrible Things \(feat\. Ashley McBryde\)](https://open.spotify.com/track/0WxnOLr3M8kI7eRdVKuZm3) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Terrible Things \(feat\. Ashley McBryde\)](https://open.spotify.com/album/2eplD0qk51Hs52ngmjwRl2) | 3:30 |
-| 46 | [Raw Raw](https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Raw Raw](https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0) | 2:57 |
+| 46 | [poser](https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [poser](https://open.spotify.com/album/2cYM6qi8MBNjQIwfAcJa3C) | 2:49 |
 | 47 | [Window](https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Window](https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW) | 3:03 |
 | 48 | [Liquor and Kerosene \(feat\. The Maine\)](https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Liquor and Kerosene \(feat\. The Maine\)](https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j) | 3:34 |
 | 49 | [Mood Ring](https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Mood Ring](https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS) | 2:57 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 61 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
 | 62 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 |
 | 63 | [CULT CLASSIC](https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Cult Classic](https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr) | 3:18 |
-| 64 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 |
-| 65 | [Over The Threshold](https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Over The Threshold](https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU) | 4:09 |
+| 64 | [Over The Threshold](https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Over The Threshold](https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU) | 4:09 |
+| 65 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 |
 | 66 | [Hate You When You Party](https://open.spotify.com/track/4fh7Ymv5hojW13vBLOJ8yj) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Hate You When You Party](https://open.spotify.com/album/5oDm9L1HZpWELHtEpDamTn) | 3:34 |
 | 67 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 |
 | 68 | [Love & War](https://open.spotify.com/track/2MxErftY5S07dFtIdxQOSF) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [God's Favorite](https://open.spotify.com/album/5Nt5QeIInvUuWahaoCB9Li) | 3:40 |
@@ -81,16 +81,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 71 | [Love Goes On](https://open.spotify.com/track/3xeyZGEEVW8SZPmteR9Fw6) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Love Goes On](https://open.spotify.com/album/30eJbXVjjtYtYtwkt337Sr) | 3:15 |
 | 72 | [Trying](https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Trying](https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB) | 3:46 |
 | 73 | [February](https://open.spotify.com/track/1qrUGw2NFIJinugQpN4Csk) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [February](https://open.spotify.com/album/2PZ6t16zWlyKvQDp1SBAZq) | 3:52 |
-| 74 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 |
-| 75 | [What's The Point In Life](https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:18 |
+| 74 | [What's The Point In Life](https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:18 |
+| 75 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 |
 | 76 | [Say It](https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:35 |
 | 77 | [Baggage](https://open.spotify.com/track/2ikmBwZKZr0ahGcX4x8qtj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [When Everything Went Dark](https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v) | 3:03 |
 | 78 | [SILYMI](https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [SILYMI](https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg) | 2:29 |
 | 79 | [Kills Me To Be Kind](https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Kills Me To Be Kind](https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg) | 4:40 |
 | 80 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 |
-| 81 | [I Think You Should Leave](https://open.spotify.com/track/6YcrBSmLlD2vRUjAQkcUtL) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [I Think You Should Leave](https://open.spotify.com/album/1XsERUmCUSsSnoGCsNpbX3) | 2:43 |
-| 82 | [hostage](https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc) | 2:43 |
-| 83 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 |
+| 81 | [hostage](https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc) | 2:43 |
+| 82 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 |
+| 83 | [I Think You Should Leave](https://open.spotify.com/track/6YcrBSmLlD2vRUjAQkcUtL) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [I Think You Should Leave](https://open.spotify.com/album/1XsERUmCUSsSnoGCsNpbX3) | 2:43 |
 | 84 | [The Pain](https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [The Pain](https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD) | 3:41 |
 | 85 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 86 | [Heartstrings](https://open.spotify.com/track/1mbjK97guGHZjDQpvaRqYI) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Heartstrings](https://open.spotify.com/album/1fWHWOGtmjZWhK1dZpmmau) | 2:42 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 96 | [FCKN IN LOVE \(Mute Choir Remix\)](https://open.spotify.com/track/7LzZoRUTE997XJlJakYyBF) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ), [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [FCKN IN LOVE \(Mute Choir Remix\)](https://open.spotify.com/album/4rGngww6I50IfgUAZAnDxs) | 3:09 |
 | 97 | [Sick](https://open.spotify.com/track/4wBf57Njjl4tKNBGpa39s2) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Velveteen](https://open.spotify.com/album/20autaRlTtoAUnewO5c12H) | 3:07 |
 | 98 | [Phases](https://open.spotify.com/track/7FRlrXBo0ehkwX7CY6uuUF) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Phases](https://open.spotify.com/album/12sSkOu2quogJ67DTjpX3s) | 2:49 |
-| 99 | [Eternal](https://open.spotify.com/track/265WBgFx8YH6lGFN4CS6fh) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Eternal](https://open.spotify.com/album/1QO1HlCWGZgozbDy0AsW8b) | 2:18 |
-| 100 | [RICH$$$](https://open.spotify.com/track/0WJqGFXhuSV7UxjrvbcLdY) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [RICH$$$](https://open.spotify.com/album/5LPNhMtx4YfvNzZzHyv8YF) | 2:59 |
+| 99 | [RICH$$$](https://open.spotify.com/track/0WJqGFXhuSV7UxjrvbcLdY) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [RICH$$$](https://open.spotify.com/album/5LPNhMtx4YfvNzZzHyv8YF) | 2:59 |
+| 100 | [Eternal](https://open.spotify.com/track/265WBgFx8YH6lGFN4CS6fh) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Eternal](https://open.spotify.com/album/1QO1HlCWGZgozbDy0AsW8b) | 2:18 |
 
 Snapshot ID: `Zd+HfwAAAAD+MkYwq4+Vjn/ZBpNKij83`

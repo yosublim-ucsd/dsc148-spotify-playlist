@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 97,640 likes - 257 songs - 11 hr 41 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 97,635 likes - 257 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reality](https://open.spotify.com/track/51hVRQifMP6k0jJUzDbcpz) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck Devy](https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON) | [Less Is More](https://open.spotify.com/album/5UWB3ZDnmNmGzQb1C3ExxR) | 2:38 |
 | 2 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
-| 3 | [When I Am With You](https://open.spotify.com/track/6mog77k7BrF7IdiKcqSnOm) | [Saimöö](https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt) | [When I Am With You](https://open.spotify.com/album/2Dv8UKdPGLDPemTZUgpnDO) | 2:16 |
-| 4 | [Follow](https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Follow](https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ) | 2:32 |
+| 3 | [Follow](https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Follow](https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ) | 2:32 |
+| 4 | [When I Am With You](https://open.spotify.com/track/6mog77k7BrF7IdiKcqSnOm) | [Saimöö](https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt) | [When I Am With You](https://open.spotify.com/album/2Dv8UKdPGLDPemTZUgpnDO) | 2:16 |
 | 5 | [Faded](https://open.spotify.com/track/3PJ5S08jxr3C1vPIUu7zoM) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [ELERA](https://open.spotify.com/artist/4xo3EH1H4QcgoX3512eF4N), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Faded](https://open.spotify.com/album/1KvpVmwVaHQWGeD5aXD0GZ) | 2:31 |
 | 6 | [Light Up](https://open.spotify.com/track/3gMOvvmQCVwhdHZREkBSMn) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Light Up](https://open.spotify.com/album/6tyv8yEMeYQfL3M1Srnw7l) | 2:12 |
 | 7 | [Here Comes The Sun](https://open.spotify.com/track/08bxp2Z6aASsZHINQ5tanv) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [Here Comes The Sun](https://open.spotify.com/album/1q3B6NIZAiJIk6bmBSYxif) | 2:10 |
@@ -266,4 +266,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 256 | [I'm Enough](https://open.spotify.com/track/6Mo62DEnnUnT46xvFR712b) | [Cloudy Bubbles](https://open.spotify.com/artist/48q8LIxu2krOGgb9RwA8GW) | [I'm Enough](https://open.spotify.com/album/3mvWWNv4lUThpH1CxyURl9) | 2:11 |
 | 257 | [Story](https://open.spotify.com/track/6pZp3Glk0bAD22Vb21ifem) | [Atch](https://open.spotify.com/artist/1RXmgjI1slIFaZZHN0Q22V) | [Story](https://open.spotify.com/album/3uMbwGHVOtAnf8KOZEsBcG) | 2:37 |
 
-Snapshot ID: `AAAXK1UhUFm0Y0fKdmf6cAe+Y5BDUZwc`
+Snapshot ID: `AAAXMeoygLHGP0VMFKE8Jjuv6nHboqsr`

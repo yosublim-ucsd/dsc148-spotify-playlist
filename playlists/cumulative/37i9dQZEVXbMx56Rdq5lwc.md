@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,662 songs - 3 day 19 hr 5 min
+1,663 songs - 3 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,6 +988,7 @@
 | [NIEKAM NESAKYK](https://open.spotify.com/track/5Uql8HVRaJP7ciV5lEz6DB) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5), [Proflame](https://open.spotify.com/artist/08hlS00IaeGBaRSZtxuwUq) | [NIEKAM NESAKYK](https://open.spotify.com/album/5uf37FJRVEi8ZZxmxUZnhr) | 3:21 | 2021-04-18 | 2021-05-13 |
 | [nieko nebijojo](https://open.spotify.com/track/2Dy6W9uSgMHIPjqkfxPMAk) | [Gabrielė Vilkickytė](https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy) | [nieko nebijojo](https://open.spotify.com/album/2al2JO7btjP5yUT10wR1fy) | 3:49 | 2022-06-18 | 2022-06-24 |
 | [Nieko Nieko](https://open.spotify.com/track/2DAYE1jtbM0UNeYyPCC2z1) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Pasaka](https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U) | 3:08 | 2023-03-11 | 2024-04-03 |
+| [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-06-24 |  |
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-08-31 | 2021-09-05 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-09 |
 | [No morë talk](https://open.spotify.com/track/7qPiAhk71D2RqLRtnjDL76) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:58 | 2023-02-25 | 2023-03-02 |
@@ -1250,7 +1251,7 @@
 | [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 | 2023-09-22 | 2023-09-24 |
 | [Set Me Free](https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9) | [Eden Alene](https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG) | [Set Me Free](https://open.spotify.com/album/08DdXBJAEq7TPj0EbkhJK5) | 2:59 | 2021-05-21 | 2021-06-01 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-03-29 |
-| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2023-11-04 | 2024-06-24 |
+| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2023-11-04 |  |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 | 2023-11-05 |
 | [Sex Sells](https://open.spotify.com/track/6ShHxD0hoJSXajmcpQ5Ri8) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 4:06 | 2021-05-13 | 2021-05-16 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-06-07 | 2023-02-26 |
@@ -1358,7 +1359,7 @@
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-02 | 2024-03-24 |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-27 |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2021-03-27\* | 2021-05-23 |
-| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-04-28 |  |
+| [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-04-28 | 2024-06-25 |
 | [Style \(Taylor's Version\)](https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-10-30 |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-06-21 | 2023-07-23 |
 | [Sugar](https://open.spotify.com/track/4ajjeZhSAVz2Zp9rf9OTIL) | [Natalia Gordienko](https://open.spotify.com/artist/2Q94VIGMp0vhZetkOae27U) | [Sugar](https://open.spotify.com/album/3sRJWlMDplaZjzPzDhkNRA) | 2:58 | 2021-05-25 | 2021-05-27 |
@@ -1552,7 +1553,7 @@
 | [Visiems Reikia Meilės](https://open.spotify.com/track/4YzEkKX4i5s6FJlK9HGB3o) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Visiems Reikia Meilės](https://open.spotify.com/album/0WghARoKRu5Qj2W3yoLHcK) | 2:38 | 2021-12-08 | 2021-12-10 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-29 |
 | [Viskas Ką Turiu](https://open.spotify.com/track/3XxelZxcOZFY4xcXr7ZYvq) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Viskas Ką Turiu](https://open.spotify.com/album/0TYJSkJ5xrMoFWJ8I5Zv0F) | 2:53 | 2022-08-14 | 2024-06-11 |
-| [Viskas puiku](https://open.spotify.com/track/6qsIIEuJy1MflfNcik4XZK) | [Jazzu](https://open.spotify.com/artist/1wFdWxzcJOmD61tZBVk0lu), [Gamka](https://open.spotify.com/artist/5D5bUnXBGrpSFRosyhUuY5) | [Viskas puiku](https://open.spotify.com/album/1mBuCoanxBSLx3q51XeK24) | 3:52 | 2024-02-19 |  |
+| [Viskas puiku](https://open.spotify.com/track/6qsIIEuJy1MflfNcik4XZK) | [Jazzu](https://open.spotify.com/artist/1wFdWxzcJOmD61tZBVk0lu), [Gamka](https://open.spotify.com/artist/5D5bUnXBGrpSFRosyhUuY5) | [Viskas puiku](https://open.spotify.com/album/1mBuCoanxBSLx3q51XeK24) | 3:52 | 2024-02-19 | 2024-06-25 |
 | [Voices](https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Voices](https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV) | 3:04 | 2021-05-21 | 2021-06-05 |
 | [VOID](https://open.spotify.com/track/6KqOVYU3af2wsqxh1iO1lx) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 4:07 | 2023-04-01 | 2023-04-03 |
 | [Voilà](https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Voilà](https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE) | 2:56 | 2021-05-21 | 2021-06-27 |

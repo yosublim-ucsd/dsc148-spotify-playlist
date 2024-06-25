@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 
 > The best alternative songs of the decade\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,311 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,310 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 9 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
 | 10 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 |
 | 11 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
-| 12 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 |
-| 13 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
+| 12 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
+| 13 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 |
 | 14 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 |
 | 15 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 | 16 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 76 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 |
 | 77 | [Zombie](https://open.spotify.com/track/22eNdxGb4tEvBt0nBCp52o) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Carry On The Grudge](https://open.spotify.com/album/3iRWCjHbKKSICMbXarCTRC) | 4:06 |
 | 78 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
-| 79 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
-| 80 | [The Wolves](https://open.spotify.com/track/2zKoA5gp5Xaw3mrp45XIrR) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:09 |
+| 79 | [The Wolves](https://open.spotify.com/track/2zKoA5gp5Xaw3mrp45XIrR) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:09 |
+| 80 | [I Need A Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 4:17 |
 
 Snapshot ID: `ZltL0QAAAADG7cOQ7cx9l+Ml9hXuT00J`

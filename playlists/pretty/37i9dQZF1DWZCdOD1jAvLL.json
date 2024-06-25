@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: bbno$",
-  "num_followers": 241941,
+  "num_followers": 242010,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,46 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
+        "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        }
+      ],
+      "duration_ms": 251904,
+      "name": "Sweet Disposition - John Summit & Silver Panda Remix",
+      "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Push",
         "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
       },
@@ -783,46 +823,6 @@
       "duration_ms": 185244,
       "name": "Push",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Sweet Disposition (John Summit & Silver Panda Remix)",
-        "url": "https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Silver Panda",
-          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
-        }
-      ],
-      "duration_ms": 251904,
-      "name": "Sweet Disposition - John Summit & Silver Panda Remix",
-      "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Needle On The Record",
+        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "Needle On The Record",
+      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "FAME?",
         "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 142562,
       "name": "FAME?",
       "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Needle On The Record",
-        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "Needle On The Record",
-      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Antagonist",
-        "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 167001,
-      "name": "King",
-      "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Bandit (Club Mix)",
         "url": "https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 168000,
       "name": "Bandit - Club Mix",
       "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Antagonist",
+        "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 167001,
+      "name": "King",
+      "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2223,22 +2223,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
+        "name": "DRENCH",
+        "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
       },
       "artists": [
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
         },
         {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
         }
       ],
-      "duration_ms": 141897,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
+      "duration_ms": 197893,
+      "name": "DRENCH",
+      "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2259,22 +2259,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "DRENCH",
-        "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
       },
       "artists": [
         {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
         },
         {
-          "name": "Preme",
-          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
         }
       ],
-      "duration_ms": 197893,
-      "name": "DRENCH",
-      "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
+      "duration_ms": 141897,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Do My Thing",
+        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 182109,
+      "name": "Do My Thing",
+      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
       },
@@ -2375,22 +2391,6 @@
       "duration_ms": 248571,
       "name": "Push It",
       "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Do My Thing",
-        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
-      },
-      "artists": [
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 182109,
-      "name": "Do My Thing",
-      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2543,22 +2543,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "808",
-        "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
+        "name": "DELTA",
+        "url": "https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
         }
       ],
-      "duration_ms": 176692,
-      "name": "808",
-      "url": "https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0"
+      "duration_ms": 172067,
+      "name": "DELTA",
+      "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
     }
   ],
   "unique_name": "Bangers",

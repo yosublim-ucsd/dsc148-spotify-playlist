@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 ### [This Is Los Dareyes De La Sierra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO180nDR)
 
-> This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
+> This Is Los Dareyes De La Sierra\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,429 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,443 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 50 | [Arrincónamela](https://open.spotify.com/track/2ndTyIF8jtCcwFzRhdxvaw) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 3:54 |
 | 51 | [Sentimiento De Dolor](https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:42 |
 
-Snapshot ID: `ZnYUAAAAAAC0/9RQnY0uSvj7ZPgtFdeG`
+Snapshot ID: `ZndlgAAAAAClbfWPARNniFw+LpasH4j6`

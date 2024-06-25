@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAB/kkFcAuc4+F6EEGpKvcFZ",
+  "snapshot_id": "ZndlgAAAAACVfspEDE0a4RCa4AU2O5Wh",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 196186,
-      "name": "It Suits You",
-      "url": "https://open.spotify.com/track/5eNo6tuJLliem6yhaSxUa2"
+      "duration_ms": 220840,
+      "name": "Right There With You",
+      "url": "https://open.spotify.com/track/7fQr8pR6fIjlmnM5BNz62T"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 220840,
-      "name": "Right There With You",
-      "url": "https://open.spotify.com/track/7fQr8pR6fIjlmnM5BNz62T"
+      "duration_ms": 196186,
+      "name": "It Suits You",
+      "url": "https://open.spotify.com/track/5eNo6tuJLliem6yhaSxUa2"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 215960,
-      "name": "Replicate",
-      "url": "https://open.spotify.com/track/3VvWADtitcT75nZvKtfS7Q"
+      "duration_ms": 229573,
+      "name": "New Glasses",
+      "url": "https://open.spotify.com/track/3N8PrkWhSMtzQrlslY6EQg"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS"
+        "name": "Kill Your Own",
+        "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 272066,
-      "name": "Cerebra",
-      "url": "https://open.spotify.com/track/6dFkhKuX87DaF1W27RmIeD"
+      "duration_ms": 229266,
+      "name": "Feed The Fire",
+      "url": "https://open.spotify.com/track/1f2FDH06hxuItRz0yUnYKE"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 229573,
-      "name": "New Glasses",
-      "url": "https://open.spotify.com/track/3N8PrkWhSMtzQrlslY6EQg"
+      "duration_ms": 215960,
+      "name": "Replicate",
+      "url": "https://open.spotify.com/track/3VvWADtitcT75nZvKtfS7Q"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 272066,
+      "name": "Cerebra",
+      "url": "https://open.spotify.com/track/6dFkhKuX87DaF1W27RmIeD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kill Your Own",
         "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
       },
@@ -404,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 229266,
-      "name": "Feed The Fire",
-      "url": "https://open.spotify.com/track/1f2FDH06hxuItRz0yUnYKE"
+      "duration_ms": 152826,
+      "name": "Live Fast, Die Ugly",
+      "url": "https://open.spotify.com/track/6r7ReUGIIAW0F2KPI39ktr"
     },
     {
       "added_at": null,
@@ -443,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill Your Own",
-        "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
+        "name": "Quick The Word Sharp The Action",
+        "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
       },
       "artists": [
         {
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 152826,
-      "name": "Live Fast, Die Ugly",
-      "url": "https://open.spotify.com/track/6r7ReUGIIAW0F2KPI39ktr"
+      "duration_ms": 222493,
+      "name": "Sick Little Masquerade",
+      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
     },
     {
       "added_at": null,
@@ -471,22 +487,6 @@
       "duration_ms": 212546,
       "name": "Out Of Time",
       "url": "https://open.spotify.com/track/4Uz4uphfFwQqXVgnnYbXRR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quick The Word Sharp The Action",
-        "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 222493,
-      "name": "Sick Little Masquerade",
-      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
     },
     {
       "added_at": null,

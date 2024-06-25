@@ -1,12 +1,12 @@
 {
-  "description": "This is Lu\u00edsa Sonza. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 233218,
+  "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
+  "num_followers": 233496,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAD8TsmIKfRPFPp5JiTZr/BV",
+  "snapshot_id": "ZndlgAAAAAAxUxC3Tb+ytERsC9CVhtiO",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flores Pa Ti",
+        "url": "https://open.spotify.com/album/4mar8ItTck1xwVtpZvpK0F"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "duration_ms": 99692,
+      "name": "Flores Pa Ti",
+      "url": "https://open.spotify.com/track/3XPJVupqIdQjHoTb8YprXR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm"
       },
@@ -551,30 +575,6 @@
       "duration_ms": 149090,
       "name": "Posi\u00e7\u00e3o de Ataque",
       "url": "https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flores Pa Ti",
-        "url": "https://open.spotify.com/album/4mar8ItTck1xwVtpZvpK0F"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 99692,
-      "name": "Flores Pa Ti",
-      "url": "https://open.spotify.com/track/3XPJVupqIdQjHoTb8YprXR"
     },
     {
       "added_at": null,

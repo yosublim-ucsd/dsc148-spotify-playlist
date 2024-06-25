@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 ### [This Is MYA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s8a7v)
 
-> This is MYA\. The essential tracks, all in one playlist.
+> This Is MYA\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,477 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,502 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 5 | [MYA LIVE P2: Corazón Guerrero](https://open.spotify.com/track/4Rs4ijFlNvhJ2fuRFNCH9h) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [MYA LIVE P2: Corazón Guerrero](https://open.spotify.com/album/4abxB4hx5B9197BK6hAccz) | 2:59 |
 | 6 | [2:50 Remix](https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [2:50 Remix](https://open.spotify.com/album/0hbwAcjGBGP2gutKpQHA8d) | 3:51 |
 | 7 | [MYA LIVE P5: Si Tú La Ves](https://open.spotify.com/track/02EOwlpC4Oo8n9FYSYYkjH) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [MYA LIVE P5: Si Tú La Ves](https://open.spotify.com/album/6odcBxR8P9lK9NiV0h7MJF) | 3:10 |
-| 8 | [MYA LIVE P4: Prisionero](https://open.spotify.com/track/6QOrQAXGNn82dQd5tOCtTA) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [MYA LIVE P4: Prisionero](https://open.spotify.com/album/4TD3spO6LpCNJFl7usMCqG) | 2:57 |
-| 9 | [BB](https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:36 |
+| 8 | [BB](https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:36 |
+| 9 | [MYA LIVE P4: Prisionero](https://open.spotify.com/track/6QOrQAXGNn82dQd5tOCtTA) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [MYA LIVE P4: Prisionero](https://open.spotify.com/album/4TD3spO6LpCNJFl7usMCqG) | 2:57 |
 | 10 | [Corazón Guerrero \(En Vivo\)](https://open.spotify.com/track/5UHDpDK2zHJJFObMEfNk2b) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Corazón Guerrero \(En Vivo\)](https://open.spotify.com/album/1P3h9bf0TZNzLarS1G6CsX) | 3:06 |
 | 11 | [Yo No Te Pido la Luna](https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Yo No Te Pido la Luna](https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW) | 2:51 |
 | 12 | [Entre La Tierra y El Cielo](https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Entre La Tierra y El Cielo](https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T) | 4:13 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 22 | [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 2:59 |
 | 23 | [4 Meses](https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:17 |
 | 24 | [BIKINI](https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [BIKINI](https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E) | 3:02 |
-| 25 | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/track/4fHl3YBShR7QluRtNWwWpl) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/album/7hh43MlPFtFnHn64iWEExm) | 3:22 |
-| 26 | [Cobardes](https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:50 |
+| 25 | [Cobardes](https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:50 |
+| 26 | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/track/4fHl3YBShR7QluRtNWwWpl) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila REMIX](https://open.spotify.com/album/7hh43MlPFtFnHn64iWEExm) | 3:22 |
 | 27 | [Como + Nadie](https://open.spotify.com/track/3TSB6v3t9nmizD5PzyiiFv) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Como + Nadie](https://open.spotify.com/album/4XRO8YfOaX2SxrjiYnnS8C) | 3:03 |
 | 28 | [Una y Mil Veces](https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Una y Mil Veces](https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa) | 3:02 |
 | 29 | [25 NOCHES \(feat\. Abraham Mateo\)](https://open.spotify.com/track/71Z2uovM8qCIxpv5BTtc3A) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [25 NOCHES \(feat\. Abraham Mateo\)](https://open.spotify.com/album/5ue3Pfzf6Wy9c2EJjKROPI) | 3:03 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 51 | [Día y Noche](https://open.spotify.com/track/2NZ4Lg677xRbdrlFMOPTcF) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Día y Noche](https://open.spotify.com/album/4LNDD3N645KasfePnuqWbm) | 3:15 |
 | 52 | [Amor Prohibido](https://open.spotify.com/track/1oXcxpTLTHOsaW0XmzSxCc) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Amor Prohibido](https://open.spotify.com/album/2IX5QGaqanqswJATMe11Cq) | 3:31 |
 
-Snapshot ID: `ZnYUAAAAAACG/vcDEy2XC35zcAs0SZeG`
+Snapshot ID: `ZndlgAAAAAAXINTY5dX6CUnpC8WOyb34`

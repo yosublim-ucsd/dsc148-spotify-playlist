@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 
 ### [This Is J\. Cole](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3K21mU)
 
-> This is J\. Cole\. The essential tracks, all in one playlist.
+> This Is J\. Cole\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,696 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,873 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 49 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 |
 | 50 | [Forbidden Fruit \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/1mvDFqbbmgmMmU6U4dIq5m) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:28 |
 
-Snapshot ID: `ZnYUAAAAAADglz3NvxnOw8YfNGnnJrFn`
+Snapshot ID: `ZndlgAAAAADE3wsE6K2AINuKUUtiKJeb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 
 > make the whole place shimmer ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,073 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,125 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 19 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
 | 20 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 | 21 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
-| 22 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7cPPeSxJ1VNAzUFH3Ms4Tm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/0uDw0KPDEkrADYz4ouVSv3) | 3:53 |
-| 23 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |
+| 22 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |
+| 23 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7cPPeSxJ1VNAzUFH3Ms4Tm) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/0uDw0KPDEkrADYz4ouVSv3) | 3:53 |
 | 24 | [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 |
 | 25 | [Can't Fight The Moonlight](https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:35 |
 | 26 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [JoDee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:29 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 45 | [Why Not Me](https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:29 |
 | 46 | [High Horse](https://open.spotify.com/track/2U2Z1IXnmJIvlknWizFykZ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:33 |
 | 47 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 |
-| 48 | [Woman \(feat\. The Dap\-Kings Horns\)](https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [The Dap\-Kings Horns](https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:16 |
-| 49 | [Delta Dawn](https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 2:55 |
+| 48 | [Delta Dawn](https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 2:55 |
+| 49 | [Woman \(feat\. The Dap\-Kings Horns\)](https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [The Dap\-Kings Horns](https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:16 |
 | 50 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 2:47 |
 
 Snapshot ID: `ZmNejgAAAACxBVGNM/sb7WiE2J4U6fgG`

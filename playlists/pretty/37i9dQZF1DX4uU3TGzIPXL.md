@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 
 > The songs of the 1990s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,533 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,797 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 11 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
 | 12 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 13 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
-| 14 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
-| 15 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
+| 14 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 |
+| 15 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
 | 16 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 17 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
 | 18 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 23 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
 | 24 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 25 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
-| 26 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
-| 27 | [All That She Wants](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:31 |
+| 26 | [All That She Wants](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:31 |
+| 27 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
 | 28 | [Chattahoochee](https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' \(And A Little 'Bout Love\)](https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ) | 2:28 |
 | 29 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 |
 | 30 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 42 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 |
 | 43 | [I'll Be Missing You \(feat\. Faith Evans, 112\)](https://open.spotify.com/track/3QHONiXGMGU3z68mQInncF) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 5:01 |
 | 44 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
-| 45 | [Mr\. Vain \- Original Radio Edit](https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Mr\. Vain](https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj) | 4:17 |
-| 46 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
+| 45 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
+| 46 | [Mr\. Vain \- Original Radio Edit](https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Mr\. Vain](https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj) | 4:17 |
 | 47 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
 | 48 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 |
 | 49 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |

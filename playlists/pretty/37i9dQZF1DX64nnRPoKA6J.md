@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64nnRPoKA6J.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 90s
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,168 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,182 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64nnRPoKA6J.md) - [plain]
 | 28 | [As Long as You Love Me](https://open.spotify.com/track/3UpS7kBnkVQYG13pDDFTC4) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:41 |
 | 29 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 |
 | 30 | [What's Luv? \(feat\. Ja\-Rule & Ashanti\)](https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Jealous Ones Still Envy \(J.O.S.E\)](https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI) | 4:27 |
-| 31 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
-| 32 | [Fly Away](https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 3:41 |
+| 31 | [Fly Away](https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 3:41 |
+| 32 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
 | 33 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 |
 | 34 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
 | 35 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64nnRPoKA6J.md) - [plain]
 | 55 | [Stars](https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars \(Collector's Edition\)](https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC) | 4:08 |
 | 56 | [Only Wanna Be With You](https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 3:49 |
 | 57 | [Smooth \(feat\. Rob Thomas\)](https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:54 |
-| 58 | [Still Not a Player \(feat\. Joe\) \- Radio Version](https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:56 |
-| 59 | [Walkin' On The Sun](https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Fush Yu Mang \(20th Anniversary Edition\)](https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt) | 3:27 |
+| 58 | [Walkin' On The Sun](https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Fush Yu Mang \(20th Anniversary Edition\)](https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt) | 3:27 |
+| 59 | [Still Not a Player \(feat\. Joe\) \- Radio Version](https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:56 |
 | 60 | [Baby Got Back](https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Mack Daddy](https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP) | 4:22 |
 | 61 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
 | 62 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64nnRPoKA6J.md) - [plain]
 | 66 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
 | 67 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
 | 68 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
-| 69 | [Larger Than Life](https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:52 |
-| 70 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 |
+| 69 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 |
+| 70 | [Larger Than Life](https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:52 |
 
 Snapshot ID: `ZIxXDAAAAABt9d5D9G9B6wv03ubKBCkv`

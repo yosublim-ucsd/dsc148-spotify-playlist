@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1980s that will make you dance all summer long!",
-  "num_followers": 272887,
+  "num_followers": 273193,
   "original_name": "Summer Hits of the 80s",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-03-22 15:15:48",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
-    },
-    {
-      "added_at": "2024-03-22 15:15:48",
-      "album": {
         "name": "Working Class Dog",
         "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2024-03-22 15:15:48",
       "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
       "artists": [
         {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
         }
       ],
-      "duration_ms": 215773,
-      "name": "She Drives Me Crazy",
-      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2024-03-22 15:15:48",
@@ -591,6 +575,22 @@
       "duration_ms": 230640,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
+    },
+    {
+      "added_at": "2024-03-22 15:15:48",
+      "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "She Drives Me Crazy",
+      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
       "added_at": "2024-03-22 15:15:48",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-03-22 15:15:48",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 352906,
-      "name": "When Doves Cry",
-      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
-    },
-    {
-      "added_at": "2024-03-22 15:15:48",
-      "album": {
         "name": "No Jacket Required (2016 Remaster)",
         "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 263106,
       "name": "Sussudio - 2016 Remaster",
       "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
+    },
+    {
+      "added_at": "2024-03-22 15:15:48",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 352906,
+      "name": "When Doves Cry",
+      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
     },
     {
       "added_at": "2024-03-22 15:15:48",

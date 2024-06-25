@@ -1,6 +1,6 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 35180,
+  "num_followers": 35184,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-05-27 07:52:43",
       "album": {
-        "name": "V\u1ec1 L\u1ea1i \u0110\u1ed3i Sim",
-        "url": "https://open.spotify.com/album/0sy3wvCtsGgb6aUJg2Wghg"
-      },
-      "artists": [
-        {
-          "name": "T\u01b0\u1eddng Nguy\u00ean",
-          "url": "https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK"
-        },
-        {
-          "name": "T\u01b0\u1eddng Khu\u00ea",
-          "url": "https://open.spotify.com/artist/52HvRqozRACgI2cS7sMNW0"
-        }
-      ],
-      "duration_ms": 342770,
-      "name": "M\u01b0a \u0111\u00eam ngo\u1ea1i \u00f4",
-      "url": "https://open.spotify.com/track/0rwRg1eFoQhh0E8PIutMIC"
-    },
-    {
-      "added_at": "2024-05-27 07:52:43",
-      "album": {
         "name": "Bolero Edition",
         "url": "https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 262293,
       "name": "R\u1eebng L\u00e1 Thay Ch\u01b0a",
       "url": "https://open.spotify.com/track/7jt1FclI6lJPXhrBASn7eV"
+    },
+    {
+      "added_at": "2024-05-27 07:52:43",
+      "album": {
+        "name": "V\u1ec1 L\u1ea1i \u0110\u1ed3i Sim",
+        "url": "https://open.spotify.com/album/0sy3wvCtsGgb6aUJg2Wghg"
+      },
+      "artists": [
+        {
+          "name": "T\u01b0\u1eddng Nguy\u00ean",
+          "url": "https://open.spotify.com/artist/4Ai58ZXyAVZWgvyxSpiWhK"
+        },
+        {
+          "name": "T\u01b0\u1eddng Khu\u00ea",
+          "url": "https://open.spotify.com/artist/52HvRqozRACgI2cS7sMNW0"
+        }
+      ],
+      "duration_ms": 342770,
+      "name": "M\u01b0a \u0111\u00eam ngo\u1ea1i \u00f4",
+      "url": "https://open.spotify.com/track/0rwRg1eFoQhh0E8PIutMIC"
     },
     {
       "added_at": "2024-05-27 07:52:43",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21370,
+  "description": "This is Lourena. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 21369,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAC6mfpGM2G+STxTL3EG0t2V",
+  "snapshot_id": "ZndlgAAAAAD//5J2RAUeJICZQqVwIKhA",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Me Falou",
-        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Ele Me Falou",
-      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 167741,
       "name": "OLHAR HD",
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele Me Falou",
+        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Ele Me Falou",
+      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
     },
     {
       "added_at": null,
@@ -1159,6 +1159,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/1D9ujYdSlTdYgvndgCn8gx"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/6EQlEImXmyV3vtbUXjBlr6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tudo Vai Mudar",
         "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
@@ -1183,32 +1203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
-        "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
-      },
-      "artists": [
-        {
-          "name": "LOCOS",
-          "url": "https://open.spotify.com/artist/5hj8WfJMICGwPJlihxIpmE"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 113442,
-      "name": "Poesia Ac\u00fastica #9: Melhor Forma - LOCOS Remix",
-      "url": "https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fake",
-        "url": "https://open.spotify.com/album/1D9ujYdSlTdYgvndgCn8gx"
+        "name": "Flutua",
+        "url": "https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku"
       },
       "artists": [
         {
@@ -1216,13 +1212,13 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/6EQlEImXmyV3vtbUXjBlr6"
+      "duration_ms": 203980,
+      "name": "Flutua",
+      "url": "https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP"
     },
     {
       "added_at": null,
@@ -1251,22 +1247,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flutua",
-        "url": "https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku"
+        "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
+        "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
       },
       "artists": [
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+          "name": "LOCOS",
+          "url": "https://open.spotify.com/artist/5hj8WfJMICGwPJlihxIpmE"
         },
         {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         }
       ],
-      "duration_ms": 203980,
-      "name": "Flutua",
-      "url": "https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP"
+      "duration_ms": 113442,
+      "name": "Poesia Ac\u00fastica #9: Melhor Forma - LOCOS Remix",
+      "url": "https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ"
     },
     {
       "added_at": null,

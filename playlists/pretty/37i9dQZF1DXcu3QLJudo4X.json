@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 92385,
+  "num_followers": 92481,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Forty Four",
-      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "The Very Best Of Albert King",
         "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 154813,
       "name": "Crosscut Saw",
       "url": "https://open.spotify.com/track/1uu03dv8HEchMBXcR08uke"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Forty Four",
+      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
+        "name": "Double Trouble",
+        "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 157813,
+      "name": "All Your Love (I Miss Loving)",
+      "url": "https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
         "name": "The Best In Blues",
         "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 173160,
       "name": "Trouble In Mind",
       "url": "https://open.spotify.com/track/5PQAAHui3NDnxW1wm7blIz"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
-        "name": "Double Trouble",
-        "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 157813,
-      "name": "All Your Love (I Miss Loving)",
-      "url": "https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
-        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
+        "name": "Can't Quit You Baby / Sit Down Baby",
+        "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
       },
       "artists": [
         {
-          "name": "Smiley Lewis",
-          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 147840,
-      "name": "One Night - Remastered",
-      "url": "https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH"
+      "duration_ms": 187173,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -799,6 +799,22 @@
       "duration_ms": 170866,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/3XkEgjS6MmqGYd6XBh3aRl"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
+        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
+      },
+      "artists": [
+        {
+          "name": "Smiley Lewis",
+          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "One Night - Remastered",
+      "url": "https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -847,22 +863,6 @@
       "duration_ms": 179693,
       "name": "Somebody Loan Me A Dime",
       "url": "https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
-        "name": "Can't Quit You Baby / Sit Down Baby",
-        "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
     },
     {
       "added_at": "2024-06-02 16:42:51",

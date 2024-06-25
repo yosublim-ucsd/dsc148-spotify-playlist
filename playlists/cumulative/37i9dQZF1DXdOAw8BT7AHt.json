@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "B.I.Y.L.C",
+        "url": "https://open.spotify.com/album/3EJE4xPtidCgKjrJmVwIwO"
+      },
+      "artists": [
+        {
+          "name": "Punkband",
+          "url": "https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96674,
+      "name": "B.I.Y.L.C",
+      "url": "https://open.spotify.com/track/6xGIQ8VQfH0la3Y3Vq4IBM"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
       },
@@ -496,7 +514,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 144259,
       "name": "Be Better",
       "url": "https://open.spotify.com/track/5vSXV3dlts6javSJCZH2iT"

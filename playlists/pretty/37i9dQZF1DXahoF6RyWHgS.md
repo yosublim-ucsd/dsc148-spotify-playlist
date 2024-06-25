@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música tradicional y deliciosa! 🍅🌶️🍲🎵👩‍🍳
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,637 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,636 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 60 | [Maria Cristina \- Remastered](https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl) | [Ñico Saquito](https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi) | [María Cristina \(Remastered\)](https://open.spotify.com/album/0DoO50j6mZVJ3W7vf1YRW3) | 2:38 |
 | 61 | [Mambo Los Quantic](https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Quantic and His Combo Barbaro](https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN) | [The Power of the Latin Music](https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE) | 4:43 |
 | 62 | [El Pájaro Cú \- Live](https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Concierto en Vivo \(Vienna, Austria\)](https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll) | 5:05 |
-| 63 | [Limon En La Cabeza](https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [Guapapasea!](https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP) | 5:31 |
-| 64 | [Caramelos](https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH) | [Celia Cruz y La Sonora Matancera](https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g) | [Los Originales Vol\. 3](https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw) | 2:37 |
+| 63 | [Caramelos](https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH) | [Celia Cruz y La Sonora Matancera](https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g) | [Los Originales Vol\. 3](https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw) | 2:37 |
+| 64 | [Limon En La Cabeza](https://open.spotify.com/track/3NLbpJkkXWoThhEe4RB9t5) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [Guapapasea!](https://open.spotify.com/album/1YjFIHAJ5SGF1x724MoFYP) | 5:31 |
 | 65 | [Jacarandosa \- Remastered](https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Por siempre Los Panchos, Vol\. 1 \- Noche de ronda y otros éxitos \(Remastered\)](https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8) | 3:06 |
 | 66 | [Mangos](https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Dedicated To Nelson](https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C) | 2:45 |
 | 67 | [Bossa Cubana](https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [15 Éxitos de los Zafiros](https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj) | 2:32 |

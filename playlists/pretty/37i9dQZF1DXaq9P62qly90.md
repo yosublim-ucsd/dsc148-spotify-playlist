@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,808 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,813 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 17 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 | 18 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 |
 | 19 | [A Reminder \(Remix\)](https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [A Reminder \(Remix\)](https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA) | 4:45 |
-| 20 | [Don't Hold Your Breath](https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [You're It!](https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S) | 3:36 |
-| 21 | [You Ain't Going Nowhere](https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [You Ain't Going Nowhere](https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ) | 2:25 |
+| 20 | [You Ain't Going Nowhere](https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [You Ain't Going Nowhere](https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ) | 2:25 |
+| 21 | [Don't Hold Your Breath](https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [You're It!](https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S) | 3:36 |
 | 22 | [Change The World](https://open.spotify.com/track/318KlGWToczNB1mHZlH3SU) | [Leilani Wolfgramm](https://open.spotify.com/artist/1CJqIxlYOwcuIZAzfhfnZj), [Jacob Hemphill](https://open.spotify.com/artist/19eNU5TerePMfGRGoKxC3b), [Fortunate Youth](https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB) | [Sugarshack Sessions Selects, Vol\. 1](https://open.spotify.com/album/6uo1uYH6afoP84SUliIPkS) | 3:17 |
 | 23 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |
 | 24 | [You Can't Rush Your Healing](https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:51 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 26 | [Just to Say I Love You](https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Stay Human Vol\. II](https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH) | 2:49 |
 | 27 | [If You Want It](https://open.spotify.com/track/1uU3I51QM7KKqGkizLYU52) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Everyday Life, Everyday People](https://open.spotify.com/album/1dPGTztQgIPp0uEuq2773X) | 4:01 |
 | 28 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 |
-| 29 | [When Will I Learn](https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ) | [Rob Riccardo](https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa) | [The Fire in Me](https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet) | 4:21 |
-| 30 | [Pulse](https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Pulse](https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx) | 4:22 |
-| 31 | [Keep Running](https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Burn Right Through](https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em) | 4:11 |
+| 29 | [Keep Running](https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Burn Right Through](https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em) | 4:11 |
+| 30 | [When Will I Learn](https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ) | [Rob Riccardo](https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa) | [The Fire in Me](https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet) | 4:21 |
+| 31 | [Pulse](https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Pulse](https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx) | 4:22 |
 | 32 | [Breathe](https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Kulture](https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT) | 4:36 |
 | 33 | [Moon / Sun](https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [The Fruitful Darkness](https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG) | 3:59 |
 | 34 | [Vaporize](https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:51 |

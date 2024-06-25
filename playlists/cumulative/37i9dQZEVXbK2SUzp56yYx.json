@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/3Kh7jZ6QdVJJq63A3xRneN"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 87850,
       "name": "armor club",
       "url": "https://open.spotify.com/track/6srHQG1Fj6eL2MelBZxA3E"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 124238,
       "name": "Feet & Latex",
       "url": "https://open.spotify.com/track/25Lxa0mbnPx2UocVznljpH"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Narcotic",
       "url": "https://open.spotify.com/track/3kkA5knVG6LY5SsicXkNL1"
@@ -4254,7 +4254,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 166721,
       "name": "PRETTY PLEASE",
       "url": "https://open.spotify.com/track/6kOdk29M8h6ZfHz4byVG0t"
@@ -5092,7 +5092,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 170588,
       "name": "The Lost Soul Down Floki - Slowed",
       "url": "https://open.spotify.com/track/5MxqdwhenBa3vhk9AeSMIE"
@@ -5740,7 +5740,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 172381,
       "name": "WORK",
       "url": "https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR"
@@ -5788,6 +5788,24 @@
       "duration_ms": 127008,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"
+    },
+    {
+      "album": {
+        "name": "wutiwant",
+        "url": "https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx"
+      },
+      "artists": [
+        {
+          "name": "saraunh0ly",
+          "url": "https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193515,
+      "name": "wutiwant",
+      "url": "https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM"
     },
     {
       "album": {
@@ -6290,6 +6308,24 @@
       "duration_ms": 154434,
       "name": "\u0411\u0418\u0427\u0415\u0421 - Remix",
       "url": "https://open.spotify.com/track/0BY8rVPCwajij2g5Ps8Waa"
+    },
+    {
+      "album": {
+        "name": "\u0441\u0430\u0434 \u0442\u0432\u043e\u0435\u0433\u043e \u0438\u043c\u0435\u043d\u0438",
+        "url": "https://open.spotify.com/album/3qolgAIjVQoc2RDKAcobbN"
+      },
+      "artists": [
+        {
+          "name": "\u042d\u043b\u043b\u0438 \u043d\u0430 \u043c\u0430\u043a\u043e\u0432\u043e\u043c \u043f\u043e\u043b\u0435",
+          "url": "https://open.spotify.com/artist/6mlRoShVf1DHo0SsntzTkr"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204645,
+      "name": "\u0431\u043b\u0438\u0436\u0435",
+      "url": "https://open.spotify.com/track/0Kf4Yt41ItVzD4fZ3QhLtv"
     },
     {
       "album": {
@@ -8454,7 +8490,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 149565,
       "name": "\u043f\u0430\u0434\u0430\u044e",
       "url": "https://open.spotify.com/track/1wyAddDtDJiLoVF2K20DvZ"
@@ -8734,7 +8770,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 158000,
       "name": "\u041f\u0440\u043e \u043d\u0435\u0451",
       "url": "https://open.spotify.com/track/1bccaFYYkSmV9HU4DUVPo1"
@@ -9866,7 +9902,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 177447,
       "name": "\u044f \u043d\u0435 \u043c\u043e\u0433\u0443 \u0442\u0435\u0431\u044f \u043d\u0430\u0439\u0442\u0438 (OST \u201c\u041c\u0430\u0439\u043e\u0440 \u0413\u0440\u043e\u043c: \u0418\u0433\u0440\u0430\u201d)",
       "url": "https://open.spotify.com/track/2zZYKurx1onmCRZhTefGiR"

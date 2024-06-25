@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Los manantiales",
+        "url": "https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o"
+      },
+      "artists": [
+        {
+          "name": "Daga Voladora",
+          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188450,
+      "name": "Cristin\u00f3polis",
+      "url": "https://open.spotify.com/track/7JbLW703nG7Ukr1iHwLE8L"
+    },
+    {
+      "album": {
         "name": "Traicion / Cruz de Navajas",
         "url": "https://open.spotify.com/album/6X0R8jBws2cprXv3lIIgvr"
       },
@@ -420,6 +438,24 @@
       "duration_ms": 178146,
       "name": "Delicadeza",
       "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "album": {
+        "name": "Los manantiales",
+        "url": "https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o"
+      },
+      "artists": [
+        {
+          "name": "Daga Voladora",
+          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183900,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/7t12Ms2nC67lGND4UQTykH"
     },
     {
       "album": {
@@ -704,7 +740,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 510028,
       "name": "et\u00e9rea",
       "url": "https://open.spotify.com/track/37APulB1aRuJ6lYum46vDf"
@@ -1416,7 +1452,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 211109,
       "name": "para dormir",
       "url": "https://open.spotify.com/track/4NhiH1dK8eZBTGXRT3wRDQ"

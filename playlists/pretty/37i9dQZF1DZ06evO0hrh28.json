@@ -1,12 +1,12 @@
 {
   "description": "This Is Emilia. Los temas esenciales, todos en una lista.",
-  "num_followers": 150379,
+  "num_followers": 150710,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAABjaWjdsEJayHb1w4Kqycqg",
+  "snapshot_id": "ZndlgAAAAACZ3YMUtepqOOYXNGT6Squd",
   "tracks": [
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 166714,
-      "name": "mi otra mitad",
-      "url": "https://open.spotify.com/track/2Cna21irIvinVSJdGda8Om"
+      "duration_ms": 169566,
+      "name": "cielo en la mente",
+      "url": "https://open.spotify.com/track/0Q1NGtkEts8tjIC4eSWiya"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 169566,
-      "name": "cielo en la mente",
-      "url": "https://open.spotify.com/track/0Q1NGtkEts8tjIC4eSWiya"
+      "duration_ms": 166714,
+      "name": "mi otra mitad",
+      "url": "https://open.spotify.com/track/2Cna21irIvinVSJdGda8Om"
     },
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAGASAKI",
+        "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 206098,
+      "name": "NAGASAKI",
+      "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Recuerdo",
         "url": "https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 209203,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAGASAKI",
-        "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 206098,
-      "name": "NAGASAKI",
-      "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
     },
     {
       "added_at": null,

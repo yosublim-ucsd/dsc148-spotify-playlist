@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Nil\u00fcfer Yanya",
-  "num_followers": 114358,
+  "num_followers": 114354,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -251,8 +251,8 @@
     {
       "added_at": "2024-06-14 11:23:05",
       "album": {
-        "name": "Call Me What You Like",
-        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
         }
       ],
-      "duration_ms": 226960,
-      "name": "Call Me What You Like",
-      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
       "added_at": "2024-06-14 11:23:05",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-06-14 11:23:05",
       "album": {
-        "name": "Zombieland",
-        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 162932,
-      "name": "Zombieland",
-      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
-    },
-    {
-      "added_at": "2024-06-14 11:23:05",
-      "album": {
         "name": "misery",
         "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 139146,
       "name": "im so happy",
       "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
+    },
+    {
+      "added_at": "2024-06-14 11:23:05",
+      "album": {
+        "name": "Zombieland",
+        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 162932,
+      "name": "Zombieland",
+      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
     },
     {
       "added_at": "2024-06-14 11:23:05",
@@ -363,42 +363,6 @@
     {
       "added_at": "2024-06-14 11:23:05",
       "album": {
-        "name": "Didn't (feat. Cavetown)",
-        "url": "https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon"
-      },
-      "artists": [
-        {
-          "name": "illuminati hotties",
-          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
-        },
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 153372,
-      "name": "Didn't (feat. Cavetown)",
-      "url": "https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI"
-    },
-    {
-      "added_at": "2024-06-14 11:23:05",
-      "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Portrait of a Blank Slate",
-      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
-    },
-    {
-      "added_at": "2024-06-14 11:23:05",
-      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -415,6 +379,42 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
+    },
+    {
+      "added_at": "2024-06-14 11:23:05",
+      "album": {
+        "name": "Call Me What You Like",
+        "url": "https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Call Me What You Like",
+      "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "added_at": "2024-06-14 11:23:05",
+      "album": {
+        "name": "Didn't (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 153372,
+      "name": "Didn't (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI"
     },
     {
       "added_at": "2024-06-14 11:23:05",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-06-14 11:23:05",
       "album": {
-        "name": "Come Back To Me",
-        "url": "https://open.spotify.com/album/61ioqNXFsMG17cxa5MaQvo"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 153906,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/5hjhWO6rxO7EEl5YFtLzpa"
-    },
-    {
-      "added_at": "2024-06-14 11:23:05",
-      "album": {
         "name": "The Tw*ts",
         "url": "https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 198417,
       "name": "The only conscious being in the universe",
       "url": "https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam"
+    },
+    {
+      "added_at": "2024-06-14 11:23:05",
+      "album": {
+        "name": "Come Back To Me",
+        "url": "https://open.spotify.com/album/61ioqNXFsMG17cxa5MaQvo"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 153906,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/5hjhWO6rxO7EEl5YFtLzpa"
     },
     {
       "added_at": "2024-06-14 11:23:05",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-06-14 11:23:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "Daisy - Spotify Singles",
-      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
-    },
-    {
-      "added_at": "2024-06-14 11:23:05",
-      "album": {
         "name": "I Want You To Know Me",
         "url": "https://open.spotify.com/album/4ybZv7O8powGQPEhTK9cD0"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 217040,
       "name": "I Want You To Know Me",
       "url": "https://open.spotify.com/track/2lIl1LDlcnAoYnDOE6Xngi"
+    },
+    {
+      "added_at": "2024-06-14 11:23:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
     },
     {
       "added_at": "2024-06-14 11:23:05",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-06-14 11:23:05",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 180663,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b"
-    },
-    {
-      "added_at": "2024-06-14 11:23:05",
-      "album": {
         "name": "Pick-Up Full Of Pink Carnations",
         "url": "https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 229165,
       "name": "Discount De Kooning (Last One Standing)",
       "url": "https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB"
+    },
+    {
+      "added_at": "2024-06-14 11:23:05",
+      "album": {
+        "name": "Emotional Creature",
+        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Weeds",
+      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
     },
     {
       "added_at": "2024-06-14 11:23:05",
@@ -883,34 +883,18 @@
     {
       "added_at": "2024-06-14 11:23:05",
       "album": {
-        "name": "Emotional Creature",
-        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 202693,
-      "name": "Weeds",
-      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
-    },
-    {
-      "added_at": "2024-06-14 11:23:05",
-      "album": {
-        "name": "A Psychic Wound",
-        "url": "https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z"
-      },
-      "artists": [
-        {
-          "name": "Los Campesinos!",
-          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
-        }
-      ],
-      "duration_ms": 241694,
-      "name": "A Psychic Wound",
-      "url": "https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm"
+      "duration_ms": 180663,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b"
     },
     {
       "added_at": "2024-06-14 11:23:05",
@@ -963,6 +947,22 @@
     {
       "added_at": "2024-06-14 11:23:05",
       "album": {
+        "name": "A Psychic Wound",
+        "url": "https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "duration_ms": 241694,
+      "name": "A Psychic Wound",
+      "url": "https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm"
+    },
+    {
+      "added_at": "2024-06-14 11:23:05",
+      "album": {
         "name": "24 hours",
         "url": "https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-06-14 11:23:05",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
-    },
-    {
-      "added_at": "2024-06-14 11:23:05",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 136435,
       "name": "Follow You Down",
       "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
+    },
+    {
+      "added_at": "2024-06-14 11:23:05",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
     },
     {
       "added_at": "2024-06-14 11:23:05",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-06-14 11:23:05",
       "album": {
-        "name": "GO GO GO",
-        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 145893,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
-    },
-    {
-      "added_at": "2024-06-14 11:23:05",
-      "album": {
         "name": "Nothing Works",
         "url": "https://open.spotify.com/album/1sCqnv4MOA14uruTb88BFq"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 252797,
       "name": "Nothing Works",
       "url": "https://open.spotify.com/track/2xRJuPKg85jMzqPxjKlMgG"
+    },
+    {
+      "added_at": "2024-06-14 11:23:05",
+      "album": {
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
     },
     {
       "added_at": "2024-06-14 11:23:05",

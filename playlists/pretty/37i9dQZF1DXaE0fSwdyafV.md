@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,576 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,554 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 47 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
 | 48 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 |
 | 49 | [Right Down the Line](https://open.spotify.com/track/5wnIDrgujfOoHAHXVRpUMF) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/0ZD5b1lLNLZH8rMq1bOhkh) | 4:27 |
-| 50 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 |
-| 51 | [Savage Daughter](https://open.spotify.com/track/0dVnj3XPVTHfCvxpbIDOcx) | [Sarah Hester Ross](https://open.spotify.com/artist/3G5WkIXbDxdNoGWHZbXDjI) | [Savage Daughter](https://open.spotify.com/album/0Ts5Jzl0y8Nc13RVuEJFxi) | 2:58 |
+| 50 | [Savage Daughter](https://open.spotify.com/track/0dVnj3XPVTHfCvxpbIDOcx) | [Sarah Hester Ross](https://open.spotify.com/artist/3G5WkIXbDxdNoGWHZbXDjI) | [Savage Daughter](https://open.spotify.com/album/0Ts5Jzl0y8Nc13RVuEJFxi) | 2:58 |
+| 51 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 |
 | 52 | [to Perth, before the border closes](https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [to Perth, before the border closes](https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS) | 2:56 |
 | 53 | [Saw You in a Dream](https://open.spotify.com/track/7dujOm8FJcepmVBQjqdswN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You in a Dream](https://open.spotify.com/album/1K4hiGtecpTxNLajyHVX3h) | 3:28 |
 | 54 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 59 | [peppermint](https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/00xJmSdJgpfCZ3MFz4sZQQ) | 2:12 |
 | 60 | [Levitation](https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:54 |
 | 61 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 |
-| 62 | [Midnight](https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn) | [Toby Sebastian](https://open.spotify.com/artist/2E2qYypdcZVQTeZKesefNP), [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Midnight](https://open.spotify.com/album/3DerzT4an3hcrvlPLV3Bpd) | 4:45 |
-| 63 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 |
+| 62 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 |
+| 63 | [Midnight](https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn) | [Toby Sebastian](https://open.spotify.com/artist/2E2qYypdcZVQTeZKesefNP), [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Midnight](https://open.spotify.com/album/3DerzT4an3hcrvlPLV3Bpd) | 4:45 |
 | 64 | [Common Blue](https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Common Blue](https://open.spotify.com/album/2eA9i4PruYA1J16gpAFgra) | 3:51 |
 | 65 | [Wading In Waist\-High Water](https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 2:15 |
 | 66 | [love, or the lack thereof](https://open.spotify.com/track/2E1eJCNpEniIB1NsDqyGzR) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:07 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 73 | [Tonight](https://open.spotify.com/track/2JIVtls9Jf9nAosUbFzbyw) | [Sibylle Baier](https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC) | [Colour Green](https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB) | 2:26 |
 | 74 | [Happen To Me](https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 |
 | 75 | [So My Darling](https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling](https://open.spotify.com/album/1U269hAxxYxkknYfpeCVku) | 4:29 |
-| 76 | [Patricia](https://open.spotify.com/track/6nmr64Mo4RD3R1pLshvmoG) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 3:37 |
-| 77 | [If You Ever Did Believe](https://open.spotify.com/track/5CQmmcGVX9L0NOOkLR6uve) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Practical Magic \(Music From The Motion Picture\)](https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw) | 4:11 |
+| 76 | [If You Ever Did Believe](https://open.spotify.com/track/5CQmmcGVX9L0NOOkLR6uve) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Practical Magic \(Music From The Motion Picture\)](https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw) | 4:11 |
+| 77 | [Patricia](https://open.spotify.com/track/6nmr64Mo4RD3R1pLshvmoG) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 3:37 |
 | 78 | [Witch's Rune](https://open.spotify.com/track/05SBYEaOoRBtrAAveD4Lph) | [S\. J\. Tucker](https://open.spotify.com/artist/2kfFvaclobAe56G43yOAbS) | [Blessings](https://open.spotify.com/album/2DsCVzaFJ8N5VXZwkOsk5e) | 4:23 |
 | 79 | [Moon Dude](https://open.spotify.com/track/54u8a2GJiN2Via9l3xtP6S) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [On Your Own Love Again](https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7) | 3:40 |
 | 80 | [Salt Lake City](https://open.spotify.com/track/5XUmyG1dSbD4mxWd0iSVXZ) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg), [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Salt Lake City](https://open.spotify.com/album/6PWw4C7R39yfPcGPGStZNv) | 3:52 |

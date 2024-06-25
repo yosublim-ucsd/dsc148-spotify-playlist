@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This Is Emilia\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,379 likes - 46 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,710 likes - 46 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,17 +28,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 18 | [GTA.mp3](https://open.spotify.com/track/6hv8hai0yo19JF2c6pppj6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:31 |
 | 19 | [De Enero a Diciembre](https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Enero a Diciembre](https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl) | 2:44 |
 | 20 | [rápido lento](https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [rápido lento](https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn) | 3:33 |
-| 21 | [mi otra mitad](https://open.spotify.com/track/2Cna21irIvinVSJdGda8Om) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:46 |
+| 21 | [cielo en la mente](https://open.spotify.com/track/0Q1NGtkEts8tjIC4eSWiya) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:49 |
 | 22 | [IConic.mp3](https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 3:01 |
 | 23 | [BB](https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:36 |
 | 24 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 |
-| 25 | [cielo en la mente](https://open.spotify.com/track/0Q1NGtkEts8tjIC4eSWiya) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:49 |
+| 25 | [mi otra mitad](https://open.spotify.com/track/2Cna21irIvinVSJdGda8Om) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:46 |
 | 26 | [Jagger.mp3](https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:35 |
 | 27 | [Perreito Salvaje](https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Perreito Salvaje](https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK) | 2:51 |
 | 28 | [El Plan](https://open.spotify.com/track/7kwWynCThNe0IhUTxjRxtW) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [El Plan](https://open.spotify.com/album/5eqFHmdJbYwxVQ9xDMF7Ql) | 3:37 |
 | 29 | [la balada](https://open.spotify.com/track/5hgjF68xugLDOyLSjfe8QN) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:45 |
-| 30 | [Tu Recuerdo](https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Tu Recuerdo](https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy) | 3:29 |
-| 31 | [NAGASAKI](https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NAGASAKI](https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm) | 3:26 |
+| 30 | [NAGASAKI](https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NAGASAKI](https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm) | 3:26 |
+| 31 | [Tu Recuerdo](https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Tu Recuerdo](https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy) | 3:29 |
 | 32 | [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 |
 | 33 | [latin girl](https://open.spotify.com/track/42uno8Ku7ydFRwjD7OcXDI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:46 |
 | 34 | [HISTERIQUEO](https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [HISTERIQUEO](https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc) | 3:25 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 45 | [Te Doy Mi Vida \(Masters en Parranda\)](https://open.spotify.com/track/5qVqk68C5AmFL2faVr8iCg) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Lucas Arnau](https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo) | [Te Doy Mi Vida \(Masters en Parranda\)](https://open.spotify.com/album/4zRYBvcLwIaCeEBHqQQ5Di) | 3:04 |
 | 46 | [Policía](https://open.spotify.com/track/6qv6O0VQhXbhzEu4v5ASv5) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Policía](https://open.spotify.com/album/3zvNDd5D18bAtpul2jTyLY) | 2:53 |
 
-Snapshot ID: `ZnYUAAAAAABjaWjdsEJayHb1w4Kqycqg`
+Snapshot ID: `ZndlgAAAAACZ3YMUtepqOOYXNGT6Squd`

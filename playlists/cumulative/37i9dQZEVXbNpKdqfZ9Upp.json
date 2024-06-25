@@ -2714,7 +2714,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
@@ -6926,7 +6926,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 140874,
       "name": "Che Che",
       "url": "https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L"
@@ -15364,7 +15364,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -16002,7 +16002,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 219026,
       "name": "How Sweet",
       "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
@@ -21258,7 +21258,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 137933,
       "name": "MAMI 100PRE SABE (INTERLUDE)",
       "url": "https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ"
@@ -21518,7 +21518,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 286283,
       "name": "Maquillaje - Remix",
       "url": "https://open.spotify.com/track/1eMXh9WqMtnmeyZnig2NUA"
@@ -21690,7 +21690,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 164365,
       "name": "Martini",
       "url": "https://open.spotify.com/track/6opCVD6WJNDyBAxvrzKLnH"
@@ -22776,6 +22776,24 @@
       "duration_ms": 227586,
       "name": "Mi Buen Amor",
       "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
+    },
+    {
+      "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5e8zaDNGYEs72yRCuPrr4w"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164565,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7vjG5IXd5ApgPTEVjo8zJu"
     },
     {
       "album": {
@@ -25750,7 +25768,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -28470,6 +28488,24 @@
     {
       "album": {
         "name": "Pop like this Pt. 2 (Slowed)",
+        "url": "https://open.spotify.com/album/234kj0msMVe1QJN8D46ExH"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122187,
+      "name": "Pop like this Pt. 2 - Slowed",
+      "url": "https://open.spotify.com/track/2JH5P7TPQAlKDvBZAkMXDp"
+    },
+    {
+      "album": {
+        "name": "Pop like this Pt. 2 (Slowed)",
         "url": "https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x"
       },
       "artists": [
@@ -28480,7 +28516,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 122187,
       "name": "Pop like this Pt. 2 - Slowed",
       "url": "https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl"
@@ -40066,7 +40102,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

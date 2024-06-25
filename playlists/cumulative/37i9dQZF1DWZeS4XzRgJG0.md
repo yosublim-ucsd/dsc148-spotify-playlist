@@ -4,7 +4,7 @@
 
 > sorry ik kan niet..\. moet studeren
 
-313 songs - 18 hr 53 min
+314 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 | 2022-11-11 |  |
 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 | 2022-11-11 |  |
 | [If You Want Love](https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:19 | 2022-11-11 | 2024-03-19 |
-| [imagine](https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Imagine](https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP) | 2:44 | 2024-03-19 |  |
+| [imagine](https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Imagine](https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP) | 2:44 | 2024-03-19 | 2024-06-25 |
 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 | 2022-11-11 | 2023-08-16 |
 | [Impossible](https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 3:29 | 2022-11-11 | 2024-04-19 |
 | [Impossible](https://open.spotify.com/track/6skGMlljk0s5yeBKZ7sN5n) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 3:29 | 2024-03-25 |  |
@@ -235,7 +235,7 @@
 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 | 2022-11-11 |  |
 | [So Cold \(The Good Wife Trailer\)](https://open.spotify.com/track/6eLOyOwKUJvjN0f9equFf8) | [Ben Cocks](https://open.spotify.com/artist/7yNYyqPx2N4tCfE8omk9pZ), [Nikisha Reyes\-Pile](https://open.spotify.com/artist/3TyzFhjcE4DtMNc5edayQl) | [...As Heard In](https://open.spotify.com/album/0jtVQYmLnOjF6YsanisKct) | 3:46 | 2022-11-11 |  |
 | [Sober](https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Sober](https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA) | 3:17 | 2022-11-11 |  |
-| [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2024-03-18 |  |
+| [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2024-03-18 | 2024-06-25 |
 | [Someone Like You](https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:45 | 2024-03-25 |  |
 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2022-11-11 | 2024-04-19 |
 | [Someone You Loved](https://open.spotify.com/track/3dCC7aodARJimlvDnlh1mo) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [NOW That's What I Call Music, Vol\. 71](https://open.spotify.com/album/6Xo8vxClsqZvYUXCgPuEcB) | 2:59 | 2024-01-16 | 2024-01-29 |
@@ -278,7 +278,7 @@
 | [Too Good At Goodbyes](https://open.spotify.com/track/4opAt44ETgJBxu4EmbnwzA) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [HEARTBREAK](https://open.spotify.com/album/77B2EFOECywgfu96ws7NwZ) | 3:21 | 2022-11-11 | 2023-03-13 |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2022-11-11 |  |
 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 | 2024-03-25 |  |
-| [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 | 2024-03-19 |  |
+| [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 | 2024-03-19 | 2024-06-25 |
 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 | 2024-03-18 | 2024-03-30 |
 | [Unconditional \- Acoustic](https://open.spotify.com/track/0aj6nonctejtaipI1jctFL) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Unconditional \(Acoustic\)](https://open.spotify.com/album/3U3O0OFKyL9gY9bFPuDuz7) | 3:46 | 2024-01-16 |  |
 | [Universe](https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Universe](https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx) | 2:46 | 2024-03-14 |  |
@@ -294,6 +294,7 @@
 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/48wSJ6NhMFYYB6LjdnPNjM) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Ella Eyre](https://open.spotify.com/album/4zI5xpR9M6VLJsdb3zgzT5) | 3:50 | 2022-11-11 | 2024-04-19 |
 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Feline \(Deluxe\)](https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM) | 3:56 | 2024-03-25 |  |
 | [Weak \- Acoustic](https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ), [May Raya](https://open.spotify.com/artist/30I99Rrr7vPR38I9Wx8oQ9) | [Weak](https://open.spotify.com/album/4KeIxMxenWyNIfusGxKCb7) | 3:21 | 2022-11-11 | 2023-04-14 |
+| [What I Am](https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [What I Am](https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0) | 3:31 | 2024-06-24 |  |
 | [What If I Told You That I Love You](https://open.spotify.com/track/3cqPu20DGTGUoZtbJH2Dmi) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/5pxH5JnBRw3Dc7CCxESMWM) | 3:13 | 2024-03-25 |  |
 | [What If I Told You That I Love You](https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [The Idea Of Her](https://open.spotify.com/album/5SBdHir3OHo2WZN0F3Pnbr) | 3:13 | 2022-11-11 | 2024-04-19 |
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2022-11-11 |  |

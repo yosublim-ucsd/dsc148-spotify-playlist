@@ -4,7 +4,7 @@
 
 > Turn on the movement with the latest and greatest in K\-Pop! Cover: RIIZE
 
-494 songs - 1 day 2 hr 11 min
+495 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/track/0TtH1ocl5B20kKHiqPNELw) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Color Me \(Feat\. CHUNG HA\)](https://open.spotify.com/album/1SOyPMNJgR1RtmSJwJtT0b) | 3:36 | 2022-06-27 | 2022-09-09 |
 | [Come back to me](https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Come back to me](https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW) | 6:28 | 2024-05-10 |  |
 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 | 2023-07-21 | 2023-12-02 |
+| [Cosmic](https://open.spotify.com/track/3pDGJRDN3p6kCNZcD97FYY) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/4t62n365iuvkvkANFiOG3m) | 3:45 | 2024-06-24 |  |
 | [Cotton Candy](https://open.spotify.com/track/4DxEb2Pk4KAAFqqD241whz) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [Chapter 0: WITH](https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki) | 3:19 | 2023-01-27 | 2023-04-01 |
 | [Counting Stars](https://open.spotify.com/track/4MokmgyM83qhJ6IAaChom5) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Counting Stars](https://open.spotify.com/album/4OJ5SXGLH3wIvsUsFuV8g8) | 2:31 | 2021-12-15 | 2022-04-21 |
 | [Crazy Form](https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:18 | 2023-12-01 | 2024-06-04 |
@@ -222,7 +223,7 @@
 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 | 2022-07-05 | 2022-09-13 |
 | [I NEED U \- Spotify Singles](https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [I NEED U \- Spotify Singles](https://open.spotify.com/album/2eUqvZveGueUYsQBRd4NVi) | 3:01 | 2024-02-16 | 2024-05-25 |
 | [I Want That](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | 2:51 | 2023-10-06 | 2023-12-30 |
-| [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 | 2024-04-01 |  |
+| [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 | 2024-04-01 | 2024-06-25 |
 | [I\`m a B](https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Guilty Pleasure](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) | 2:47 | 2021-12-13 | 2022-02-17 |
 | [ICKY](https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 2:59 | 2023-06-02 | 2023-09-30 |
 | [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 | 2022-10-12 | 2023-03-25 |

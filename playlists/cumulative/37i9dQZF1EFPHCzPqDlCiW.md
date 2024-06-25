@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-133 songs - 7 hr 13 min
+134 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Friend Of Mine](https://open.spotify.com/track/0nUivJUv25vMAXg4BKxKPW) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [JESS](https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE) | 3:14 | 2024-04-28 |  |
 | [Friend Of Mine](https://open.spotify.com/track/6amr2Sdv9yw7Y917GZToj9) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Friend Of Mine](https://open.spotify.com/album/26EjAdOrdU9jo56sG11uy9) | 3:14 | 2024-01-29 | 2024-04-29 |
 | [Glow](https://open.spotify.com/track/3mwiwIozeFMcyayHReAXyE) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:50 | 2024-01-29 |  |
+| [Gravity \(feat\. Tyler Shaw\)](https://open.spotify.com/track/2cGoqq76QeKeL8H5MSXIlS) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [ORIGIN](https://open.spotify.com/album/3WNr0X7Ke2gbAALJe7OluG) | 3:03 | 2024-06-24 |  |
 | [Greatest Hits](https://open.spotify.com/track/05X87wvljNPBdU0Ix1L5QF) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:17 | 2024-01-29 |  |
 | [Halo](https://open.spotify.com/track/7p6WxyR20rMHGj4wLeeaRJ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Boxes EP](https://open.spotify.com/album/0aGzGgL9df7M8YQS9rcBjJ) | 3:02 | 2024-01-29 |  |
 | [Handful of Gold \- Hounded Remix](https://open.spotify.com/track/6z9RhyRdakj1A3UFrHMvaY) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Handful of Gold \(feat\. Jones\) \[Remixes II\]](https://open.spotify.com/album/22J3gaeefBAvE29SxCAljW) | 4:10 | 2024-01-29 |  |

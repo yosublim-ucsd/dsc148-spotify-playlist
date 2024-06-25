@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Diamante El\u00e9ctrico.",
-  "num_followers": 165970,
+  "num_followers": 165964,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -459,18 +459,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Superdeli",
-        "url": "https://open.spotify.com/album/10I29JjHVk7kRIDa85Bagx"
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
       },
       "artists": [
         {
           "name": "Caloncho",
           "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 168013,
-      "name": "Superdeli",
-      "url": "https://open.spotify.com/track/7oizn3u0M51APTosX3LQzL"
+      "duration_ms": 178026,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -599,22 +603,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
+        "name": "Superdeli",
+        "url": "https://open.spotify.com/album/10I29JjHVk7kRIDa85Bagx"
       },
       "artists": [
         {
           "name": "Caloncho",
           "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 178026,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
+      "duration_ms": 168013,
+      "name": "Superdeli",
+      "url": "https://open.spotify.com/track/7oizn3u0M51APTosX3LQzL"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "HORSES IN HEAVEN",
-        "url": "https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 177610,
-      "name": "HORSES IN HEAVEN",
-      "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "LUNA 18",
         "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 195928,
       "name": "no s\u00e9 de amor (feat. Leo Rizzi)",
       "url": "https://open.spotify.com/track/6noc267JUC9heNPuOCCjW0"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "HORSES IN HEAVEN",
+        "url": "https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 177610,
+      "name": "HORSES IN HEAVEN",
+      "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Y SI SE ABREN LOS CIELOS",
-        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Y SI SE ABREN LOS CIELOS",
-      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 222857,
       "name": "Verona",
       "url": "https://open.spotify.com/track/64tuMkafK35OSgXmLYi1Ph"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Y SI SE ABREN LOS CIELOS",
+        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Y SI SE ABREN LOS CIELOS",
+      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Naufragar",
+        "url": "https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Naufragar",
+      "url": "https://open.spotify.com/track/405Z4PIE6QNiiRkC3eyBBD"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "dejarse querer",
         "url": "https://open.spotify.com/album/5hB15RyXcpR3jPaJGNw6UV"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Naufragar",
-        "url": "https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Naufragar",
-      "url": "https://open.spotify.com/track/405Z4PIE6QNiiRkC3eyBBD"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Amor Artificial",
         "url": "https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42"
       },
@@ -935,26 +935,6 @@
       "duration_ms": 219986,
       "name": "Amor Artificial",
       "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "deja vu",
-        "url": "https://open.spotify.com/album/1AeWnVwD0xiMYTvfXh8EZj"
-      },
-      "artists": [
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        }
-      ],
-      "duration_ms": 142329,
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/38kgqntjgPizqgvhsjKwky"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -979,6 +959,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "deja vu",
+        "url": "https://open.spotify.com/album/1AeWnVwD0xiMYTvfXh8EZj"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "duration_ms": 142329,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/38kgqntjgPizqgvhsjKwky"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Dime pa saber",
         "url": "https://open.spotify.com/album/4UEhJl0egkIvQyRFMS6Egg"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 173680,
       "name": "Dime pa saber",
       "url": "https://open.spotify.com/track/1HF4LhWOji1ukadhdnC1Py"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Flores Robadas",
-        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Si T\u00fa No Vuelves",
-      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1027,6 +1011,22 @@
       "duration_ms": 221538,
       "name": "Feeling Low",
       "url": "https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Flores Robadas",
+        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Si T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Presente",
-        "url": "https://open.spotify.com/album/1KXUO7PewjHjEJfHyENj70"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 312652,
-      "name": "Presente",
-      "url": "https://open.spotify.com/track/1CEySvaIp9SkDg4Kni0tb9"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 250178,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Presente",
+        "url": "https://open.spotify.com/album/1KXUO7PewjHjEJfHyENj70"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 312652,
+      "name": "Presente",
+      "url": "https://open.spotify.com/track/1CEySvaIp9SkDg4Kni0tb9"
     },
     {
       "added_at": "2024-06-07 04:00:00",

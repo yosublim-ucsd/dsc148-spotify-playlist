@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc85 amo, troppo noi \ud83e\udec2",
-  "num_followers": 103550,
+  "num_followers": 103554,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,26 @@
     {
       "added_at": "2024-06-21 20:01:00",
       "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "us. (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
+      "added_at": "2024-06-21 20:01:00",
+      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
-    },
-    {
-      "added_at": "2024-06-21 20:01:00",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "us. (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
     },
     {
       "added_at": "2024-06-21 20:01:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-06-21 20:01:00",
       "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2024-06-21 20:01:00",
-      "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 157017,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2024-06-21 20:01:00",
+      "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2024-06-21 20:01:00",

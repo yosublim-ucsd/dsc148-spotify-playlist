@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Ebow
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,342 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,344 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7) | 2:45 |
 | 10 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 |
 | 11 | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/album/6hCpPMG7xE161VOeyWTC1r) | 2:09 |
-| 12 | [frühling](https://open.spotify.com/track/6ILdiLYlRv09o9ChZB8FT6) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [25/8](https://open.spotify.com/album/3WDlcgQsuzTCLkBY7WzTLn) | 1:59 |
-| 13 | [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 |
+| 12 | [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 |
+| 13 | [frühling](https://open.spotify.com/track/6ILdiLYlRv09o9ChZB8FT6) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [25/8](https://open.spotify.com/album/3WDlcgQsuzTCLkBY7WzTLn) | 1:59 |
 | 14 | [Immer Da](https://open.spotify.com/track/4UYaUWDq0JOfej3fZQdN8M) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Immer Da](https://open.spotify.com/album/05EoHoMlVjpVQ2YaDU5Nkr) | 2:34 |
 | 15 | [star potential](https://open.spotify.com/track/3KnYo5EXzptzGa43S5hsZf) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [star potential](https://open.spotify.com/album/6ousmXEO86E9hCkdK2rXUW) | 2:21 |
 | 16 | [Etage 4](https://open.spotify.com/track/1z60FNfTtizk2N7VGtS1c2) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Etage 4](https://open.spotify.com/album/0GmIU40mxwK8tE4BJ3bhAw) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 
 > for those who appreciate a curated mood 🪩 cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,735 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,007 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,17 +22,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 12 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
 | 13 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
 | 14 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
-| 15 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
+| 15 | [Some](https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Some](https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh) | 1:58 |
 | 16 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 |
 | 17 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 |
-| 18 | [Some](https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Some](https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh) | 1:58 |
+| 18 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
 | 19 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
 | 20 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 |
 | 21 | [For the First Time](https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:02 |
 | 22 | [high life](https://open.spotify.com/track/16ftnMF5RtjplE467kqhCk) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Casey Conroy](https://open.spotify.com/artist/7elB9Pjvsisg4hKILUjaUr) | [high life](https://open.spotify.com/album/6UG0eglYxGceLPXhLatZMO) | 2:53 |
-| 23 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
+| 23 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 |
 | 24 | [First Of The Year](https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [First Of The Year](https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86) | 2:50 |
-| 25 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 |
+| 25 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 |
 | 26 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 |
 | 27 | [Love Songs \- Bonus](https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Parked Car Convos](https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34) | 2:28 |
 | 28 | [Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:32 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 48 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 |
 | 49 | [This Is Home](https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [This Is Home](https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu) | 3:46 |
 | 50 | [She Likes Another Boy](https://open.spotify.com/track/5W6BA8Wa8JZGKdliH2gkwO) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [She Likes Another Boy + Talk 2 U](https://open.spotify.com/album/173xQWSgG3rzoNjJ7yskiA) | 3:27 |
-| 51 | [Just the Two of Us](https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Winelight](https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU) | 7:23 |
-| 52 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 |
+| 51 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 |
+| 52 | [Just the Two of Us](https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Winelight](https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU) | 7:23 |
 | 53 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 |
 | 54 | [Pretty Girl](https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Pretty Girl](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9) | 2:58 |
 | 55 | [EVERYTHING](https://open.spotify.com/track/19Hg1UCZaCdpHB37L7x63X) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 4:53 |

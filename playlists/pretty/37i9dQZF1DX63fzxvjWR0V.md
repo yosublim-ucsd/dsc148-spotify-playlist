@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 
 > ¡Dale play a tu antojo! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,279 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,282 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 | 26 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
 | 27 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 |
 | 28 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
-| 29 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
-| 30 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 |
+| 29 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 |
+| 30 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
 | 31 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 32 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 |
 | 33 | [Perfecta](https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:45 |

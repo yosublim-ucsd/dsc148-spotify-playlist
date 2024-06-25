@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Set the bars high with Malayalam Hip Hop!<br/>Cover : Neeraj Madhav
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,710 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,975 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

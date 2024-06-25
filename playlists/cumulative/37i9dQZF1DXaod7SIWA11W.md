@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:0sD8Amms4kSxs5tBV4CUmR">Smokie Norful</a>
 
-364 songs - 22 hr 5 min
+365 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [It Is Well \- Live](https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5), [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 7:06 | 2022-12-16 | 2023-12-16 |
 | [It's Alright](https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [It's Alright](https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V) | 3:25 | 2023-11-02 |  |
 | [It's Alright To Cry](https://open.spotify.com/track/5GqlpLE5mySda7HAnSGot4) | [Karima](https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE) | [It's Alright To Cry](https://open.spotify.com/album/1G6cSbgqSSqg8f6npfFh9h) | 4:15 | 2022-06-01 | 2022-09-03 |
-| [It's You](https://open.spotify.com/track/401iOVzoxC7ZhhrwP2zh9h) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [It's You](https://open.spotify.com/album/6aS85jgNXuGFYN190ytedS) | 2:15 | 2023-07-13 |  |
+| [It's You](https://open.spotify.com/track/401iOVzoxC7ZhhrwP2zh9h) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [It's You](https://open.spotify.com/album/6aS85jgNXuGFYN190ytedS) | 2:15 | 2023-07-13 | 2024-06-25 |
 | [Jersey](https://open.spotify.com/track/2my5Krx5X2FTrLsaYKBuJR) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Jersey](https://open.spotify.com/album/3pAaQGDsxRpoGlxhuVH7Yp) | 2:50 | 2023-02-02 | 2024-03-21 |
 | [Jesus \(feat\. Le'andria Johnson\)](https://open.spotify.com/track/3Fw9sLyTKHYpRISAWCgvY1) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l), [Faith City Music](https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Welcome to Faith City](https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3) | 4:45 | 2023-07-13 |  |
 | [Jesus Lover Of My Soul \- Live](https://open.spotify.com/track/5ndRS9n7ojy6IoAQZ9R5n7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Jesus Lover Of My Soul \(Live\)](https://open.spotify.com/album/2nIy4tVIY02SlqsmpjtVp0) | 8:59 | 2022-09-30 | 2022-12-17 |
@@ -354,6 +354,7 @@
 | [Winning](https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Winning](https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs) | 6:00 | 2022-09-30 | 2023-12-16 |
 | [Without You](https://open.spotify.com/track/1PZrnMxqoO1vxyQlX24ovM) | [Jevon Dewand](https://open.spotify.com/artist/29aLw1wHmH1tpXaG3bMnXF), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp), [Gasner the Artist](https://open.spotify.com/artist/1Ik7iTeQpqDquiNN80odM3), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9) | [Without You](https://open.spotify.com/album/6103XRods58M1Wd36Ke5Nb) | 4:27 | 2024-03-20 |  |
 | [Won't Be Long Now](https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Won't Be Long Now](https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc) | 3:15 | 2022-12-16 | 2023-12-05 |
+| [Working for Me](https://open.spotify.com/track/0dPUeGCcQuTHh3UfcOEd9w) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Working for Me](https://open.spotify.com/album/2fdWNV0F4IDfreIwgMIC7W) | 4:35 | 2024-06-07 |  |
 | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/track/5prMdiyfZQz4mpusWW8HNy) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ryan Avery](https://open.spotify.com/artist/4auBKSXLD4GLUiA9zh1vFS) | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/album/2xWbI2DYwO25IrmsJf7LDu) | 3:03 | 2022-07-17 | 2022-10-01 |
 | [Wrong About You \(Live\)](https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Wrong About You \(Live\)](https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT) | 6:33 | 2022-09-30 | 2023-08-25 |
 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 | 2022-07-17 | 2023-11-03 |

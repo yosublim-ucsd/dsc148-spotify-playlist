@@ -4,7 +4,7 @@
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-359 songs - 22 hr 16 min
+360 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 | 2023-09-12 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2022-04-08 |  |
 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 | 2023-09-12 |  |
+| [We Are One \(Ole Ola\) \[The Official 2014 FIFA World Cup Song\] \(feat\. Jennifer Lopez & Claudia Leitte\)](https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:42 | 2024-06-24 |  |
 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 4:10 | 2023-09-12 |  |
 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 | 2020-10-20\* |  |
 | [We Found Love](https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 3:35 | 2023-09-12 |  |

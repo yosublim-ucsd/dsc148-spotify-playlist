@@ -2,9 +2,9 @@
 
 ### [This Is Marco Polo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28CRGk)
 
-> This is Marco Polo。アーティストの代表曲をひとつのプレイリストに。
+> This is Marco Polo\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 16 min
+80 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Masta Polo](https://open.spotify.com/track/3QBjETcZARnmLngd0q2lun) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA) | [A Breukelen Story \(Deluxe Edition\)](https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw) | 2:56 | 2023-12-13 |  |
 | [Medellin](https://open.spotify.com/track/34d6c3rUZ9lHqRSDx7J94H) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [MP On The MP: The Beat Tape Vol\. 2](https://open.spotify.com/album/5Jk0SUV4BmxZJYrxAZOXmo) | 3:18 | 2023-12-13 | 2023-12-19 |
 | [Meglio che chiedi a qualcuno](https://open.spotify.com/track/1ozEUYcyidM6jfa8zB8PeC) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Per la mia gente / For my people](https://open.spotify.com/album/4rUKWAZwjlTKNlNzwKVWaD) | 3:28 | 2024-01-08 | 2024-01-28 |
+| [Memory Lane](https://open.spotify.com/track/4HTIudVlxiB2W5SSsVsFUH) | [Solo For Dolo](https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Professor Chaos](https://open.spotify.com/album/4NpqiG5Qkh1ndjLNLswxcs) | 3:02 | 2024-06-25 |  |
 | [More Danger](https://open.spotify.com/track/5UUbhrtXsYKo2KeFPj7K4b) | [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Midnight Run](https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK) | 2:09 | 2023-12-13 |  |
 | [Niente di buono](https://open.spotify.com/track/5qdxafq3es7K8meKwOxjD9) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [Per la mia gente / For my people](https://open.spotify.com/album/4rUKWAZwjlTKNlNzwKVWaD) | 3:53 | 2024-01-07 | 2024-01-09 |
 | [Nightmare on Fro Street](https://open.spotify.com/track/5PwQr0inF40AnQ9c3RnCuX) | [A\-F\-R\-O](https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [A\-F\-R\-O POLO](https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3) | 3:07 | 2023-12-13 | 2024-06-02 |

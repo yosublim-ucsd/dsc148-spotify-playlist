@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,145 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,206 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 44 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
 | 45 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 |
 | 46 | [Patience](https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:14 |
-| 47 | [Atlas](https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Atlas](https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb) | 5:52 |
-| 48 | [Friday Lake](https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Friday Lake](https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova) | 3:16 |
+| 47 | [Friday Lake](https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Friday Lake](https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova) | 3:16 |
+| 48 | [Atlas](https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Atlas](https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb) | 5:52 |
 | 49 | [Ghost](https://open.spotify.com/track/2x11PsxYwanGMVjfXtmoQa) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Ghost](https://open.spotify.com/album/20B86iJjjECtzJ77XlfHsn) | 3:15 |
 | 50 | [Roll Back \- Single Mix](https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Roll Back](https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2) | 3:04 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 
 > 유저별 맞춤으로 추천되는 힙한 노래들을 즐겨보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,609 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,838 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 | 35 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 |
 | 36 | [Boogieman](https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Boogieman](https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh) | 2:11 |
 | 37 | [Young Metro](https://open.spotify.com/track/3OxL6MuctgZp1e0zxoAZhH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:25 |
-| 38 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 |
-| 39 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
+| 38 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 |
+| 39 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 |
 | 40 | [overseas](https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [overseas](https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U) | 2:21 |
 | 41 | [Number 2](https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs) | 2:17 |
-| 42 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 |
-| 43 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 |
+| 42 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 |
+| 43 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 |
 | 44 | [Talk My Shit](https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 1:44 |
 | 45 | [all of me](https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:18 |
 | 46 | [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 |
 | 47 | [soak city \(do it\)](https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [lottery pick](https://open.spotify.com/album/6X56VpnIYr8WOiCpkXHdEw) | 1:54 |
-| 48 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 |
-| 49 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 |
-| 50 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
+| 48 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 |
+| 49 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
+| 50 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 
 Snapshot ID: `ZnVKXgAAAADPP9CmJQOm0mPeRLvw6I84`

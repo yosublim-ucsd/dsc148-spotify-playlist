@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309 likes - 132 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,311 likes - 132 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 109 | [A Voice That Carries](https://open.spotify.com/track/6poGVzrkdRMFmegbUmR08U) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:48 |
 | 110 | [Cold Heart](https://open.spotify.com/track/3l5lhKAXRyISZ1NOBEMRhO) | [Elliott Yamin](https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd) | [Fight for Love](https://open.spotify.com/album/5jjrd3mUF01Da1FITGf8fY) | 3:34 |
 | 111 | [January](https://open.spotify.com/track/4Vc6f3K8mXoMwZDICJPPAw) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:07 |
-| 112 | [Open Your Eyes](https://open.spotify.com/track/1AddvxH9HumxaQ8av44opX) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:59 |
-| 113 | [Forever 21](https://open.spotify.com/track/4DRDolAzMaVs5o9LRfAWlQ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:43 |
+| 112 | [Forever 21](https://open.spotify.com/track/4DRDolAzMaVs5o9LRfAWlQ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:43 |
+| 113 | [Open Your Eyes](https://open.spotify.com/track/1AddvxH9HumxaQ8av44opX) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:59 |
 | 114 | [I Hold Her](https://open.spotify.com/track/0pZp5Hz42oDNKztTbS0Ops) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 3:09 |
 | 115 | [Paranoid](https://open.spotify.com/track/1TYHs2GR0pmimgXyy9HYXY) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [The Return \(Deadly Deluxe\)](https://open.spotify.com/album/4pAQW3M2Fe7jNTBe64CtKX) | 3:19 |
 | 116 | [Green Grass](https://open.spotify.com/track/6ymEuVSzJHo2buCkyTyUgC) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:20 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 131 | [Bad Witches](https://open.spotify.com/track/5v1PfygiFLtzkzzDxRUgm0) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 2:49 |
 | 132 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `AbU2wgAAAABxOLqsXnf/0LrwVcWtEjE5`
+Snapshot ID: `AbU8ngAAAAAfm2Jza2mVuC8cdzwWlKLL`

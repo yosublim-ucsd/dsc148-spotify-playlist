@@ -3424,10 +3424,32 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 221898,
       "name": "There for You",
       "url": "https://open.spotify.com/track/1NifqGsH6YVq4iMLCFXqvX"
+    },
+    {
+      "album": {
+        "name": "There for You",
+        "url": "https://open.spotify.com/album/0OK35duHpTPnvqya2d4pnn"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221904,
+      "name": "There for You",
+      "url": "https://open.spotify.com/track/6jA8HL9i4QGzsj6fjoxp8Y"
     },
     {
       "album": {

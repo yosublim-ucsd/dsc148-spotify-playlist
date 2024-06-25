@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. NXNNI en portada.",
-  "num_followers": 105486,
+  "num_followers": 105517,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,18 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Se Dice Facil",
-        "url": "https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm"
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
       },
       "artists": [
         {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        },
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 155300,
-      "name": "Se Dice Facil",
-      "url": "https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U"
+      "duration_ms": 195466,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -871,18 +867,22 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Fue Tan Poco Tu Cari\u00f1o",
-        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
+        "name": "Se Dice Facil",
+        "url": "https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 195466,
-      "name": "Fue Tan Poco Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
+      "duration_ms": 155300,
+      "name": "Se Dice Facil",
+      "url": "https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+    },
+    {
+      "added_at": "2024-06-21 16:10:06",
+      "album": {
         "name": "Aprendiz",
         "url": "https://open.spotify.com/album/7JLeFKD3oZnZ6VHmEn854y"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 223426,
       "name": "Aprendiz",
       "url": "https://open.spotify.com/track/0KI94DLbKBVnTKt9lEKPOy"
-    },
-    {
-      "added_at": "2024-06-21 16:10:06",
-      "album": {
-        "name": "CONCIERTO HUMILDE - IVONNE GALAZ (En Vivo)",
-        "url": "https://open.spotify.com/album/5EIotKw7bqao4gFTiGaX8m"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Golpes De La Vida - En Vivo",
-      "url": "https://open.spotify.com/track/0uNH4uvqBHZi4g5aw2Dj6G"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+        "name": "CONCIERTO HUMILDE - IVONNE GALAZ (En Vivo)",
+        "url": "https://open.spotify.com/album/5EIotKw7bqao4gFTiGaX8m"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
         }
       ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+      "duration_ms": 218500,
+      "name": "Golpes De La Vida - En Vivo",
+      "url": "https://open.spotify.com/track/0uNH4uvqBHZi4g5aw2Dj6G"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -1207,22 +1207,18 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Lo Dijiste Todo (En Vivo)",
-        "url": "https://open.spotify.com/album/5jixjiAZPDfJx893OhWZyW"
+        "name": "Quer\u00eda Que Fueras T\u00fa",
+        "url": "https://open.spotify.com/album/0UjakKKW8s4caHqn1NA8wY"
       },
       "artists": [
         {
           "name": "Mari\u00e1n Oviedo",
           "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        },
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Lo Dijiste Todo - En Vivo",
-      "url": "https://open.spotify.com/track/6x431KgZOM8WOq4w37CpPe"
+      "duration_ms": 174874,
+      "name": "Quer\u00eda Que Fueras T\u00fa",
+      "url": "https://open.spotify.com/track/3krJcR6T8Q5hk58TlKYUH8"
     },
     {
       "added_at": "2024-06-21 16:10:06",
@@ -1355,18 +1351,22 @@
     {
       "added_at": "2024-06-21 16:10:06",
       "album": {
-        "name": "Quer\u00eda Que Fueras T\u00fa",
-        "url": "https://open.spotify.com/album/0UjakKKW8s4caHqn1NA8wY"
+        "name": "Lo Dijiste Todo (En Vivo)",
+        "url": "https://open.spotify.com/album/5jixjiAZPDfJx893OhWZyW"
       },
       "artists": [
         {
           "name": "Mari\u00e1n Oviedo",
           "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        },
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
         }
       ],
-      "duration_ms": 174874,
-      "name": "Quer\u00eda Que Fueras T\u00fa",
-      "url": "https://open.spotify.com/track/3krJcR6T8Q5hk58TlKYUH8"
+      "duration_ms": 154000,
+      "name": "Lo Dijiste Todo - En Vivo",
+      "url": "https://open.spotify.com/track/6x431KgZOM8WOq4w37CpPe"
     },
     {
       "added_at": "2024-06-21 16:10:06",

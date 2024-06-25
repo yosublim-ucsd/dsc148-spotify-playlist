@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women at full volume! Cover: <a href="spotify:artist:7iHfb5ODaqKyprp2DBEXvU">Archie X</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,261 likes - 45 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,262 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

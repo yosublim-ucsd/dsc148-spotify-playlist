@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,734 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,827 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 16 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 |
 | 17 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 18 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
-| 19 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
+| 19 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
 | 20 | [Caja de la Sala](https://open.spotify.com/track/5DBZcCoAThn4PTFJaTdYgC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 1:49 |
-| 21 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
+| 21 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
 | 22 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
 | 23 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 24 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |

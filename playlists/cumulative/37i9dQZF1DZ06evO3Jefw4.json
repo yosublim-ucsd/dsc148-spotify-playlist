@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "This is Katy Perry. The essential tracks, all in one playlist.",
+  "description": "This is Katy Perry. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Katy Perry",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 215042,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/2xLOMHjkOK8nzxJ4r6yOKR"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 173123,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 197840,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/60XMmxciP1qewvkcD16qKQ"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 203362,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/665T5MrQUl7sSwivPm7pEW"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 220226,
       "name": "Hot N Cold",
       "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 179640,
       "name": "I Kissed A Girl",
       "url": "https://open.spotify.com/track/14iN3o8ptQ8cFVZTEmyQRV"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 225039,
       "name": "Never Worn White",
       "url": "https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 231920,
       "name": "Peacock",
       "url": "https://open.spotify.com/track/0rXw5rWZpOdfeeCbMln8MU"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 223546,
       "name": "Roar",
       "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 198680,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/2rk4s5NBhtHhhJIfjoaWES"
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 166898,
       "name": "Smile",
       "url": "https://open.spotify.com/track/59s3aMqR9uOzLIXAcgBCEm"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 181604,
       "name": "Smile - Joel Corry Remix",
       "url": "https://open.spotify.com/track/4HpgUlwIh3JbSW4r8C2SmP"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 182595,
       "name": "Teary Eyes",
       "url": "https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 204285,
       "name": "This Is How We Do",
       "url": "https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 228878,
       "name": "Unconditionally",
       "url": "https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 220946,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt"

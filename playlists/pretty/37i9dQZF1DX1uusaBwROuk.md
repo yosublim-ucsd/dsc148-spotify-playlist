@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 
 > Roses are red, violet are blue, its been fun but i'm leaving you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,279 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,282 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uusaBwROuk.md) - [plain]
 | 38 | [Decode](https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Decode](https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF) | 4:21 |
 | 39 | [Part Of Me](https://open.spotify.com/track/6yARPLK0PV4heEyh7pVMGz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/4zLOhyT4XIzyyl7KoSHWcE) | 3:36 |
 | 40 | [Shout Out to My Ex](https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:06 |
-| 41 | [Ex's & Oh's](https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:22 |
-| 42 | [Better Than Revenge \(Taylor's Version\)](https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 3:40 |
+| 41 | [Better Than Revenge \(Taylor's Version\)](https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 3:40 |
+| 42 | [Ex's & Oh's](https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:22 |
 | 43 | [Back To Black](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:00 |
 | 44 | [Too Little Too Late](https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa) | 3:41 |
 | 45 | [Don't](https://open.spotify.com/track/1huvTbEYtgltjQRXzrNKGi) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 3:39 |

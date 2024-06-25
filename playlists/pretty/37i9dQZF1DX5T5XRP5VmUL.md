@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Dreaming of a white Christmas ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,522 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,508 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 56 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\) \- 1947 Version](https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [Rudolph The Red Nosed Reindeer And Other Christmas Classics](https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM) | 2:30 |
 | 57 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/46pF1zFimM582ss1PrMy68) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:46 |
 | 58 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 |
-| 59 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
+| 59 | [You Make It Feel Like Christmas \(feat\. Blake Shelton\)](https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:36 |
 | 60 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 |
-| 61 | [You Make It Feel Like Christmas \(feat\. Blake Shelton\)](https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:36 |
+| 61 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
 | 62 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 |
 | 63 | [River](https://open.spotify.com/track/6QjfeWvTkJTgMJcifKXoa5) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [River](https://open.spotify.com/album/6eFMdTriLrFtrE1xLXsVJs) | 3:17 |
 | 64 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2L9QLAhrvtP4EYg1lY0Tnw) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:15 |

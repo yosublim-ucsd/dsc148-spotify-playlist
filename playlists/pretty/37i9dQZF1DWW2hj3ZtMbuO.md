@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 
 > Sapphic songs that defined your music taste as "yearning."
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,493,353 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493,494 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 20 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
 | 21 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 22 | [Dionne \(feat\. Justin Vernon\)](https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 4:44 |
-| 23 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
+| 23 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
 | 24 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 |
-| 25 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
+| 25 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 26 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 |
 | 27 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
 | 28 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 49 | [A House In Nebraska](https://open.spotify.com/track/6UxAKocZd98MRn0u5obryV) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:46 |
 | 50 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 |
 | 51 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 |
-| 52 | [Come Down Soon](https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 |
-| 53 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
+| 52 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
+| 53 | [Come Down Soon](https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 |
 | 54 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 | 55 | [I Know](https://open.spotify.com/track/0uhYgQQ6WX9rCONnum7Fmw) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 4:55 |
 | 56 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |

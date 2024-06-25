@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. La Fiera de Ojinaga en portada.",
-  "num_followers": 480465,
+  "num_followers": 480500,
   "original_name": "Norte\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2024-06-21 10:06:50",
       "album": {
-        "name": "Te Ves Tan Bien",
-        "url": "https://open.spotify.com/album/16iG0rwdDy5fETPFjiDzth"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        },
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 173975,
-      "name": "Te Ves Tan Bien",
-      "url": "https://open.spotify.com/track/2jQSAAik7RO3EGv0YeJtXV"
-    },
-    {
-      "added_at": "2024-06-21 10:06:50",
-      "album": {
         "name": "Borracho Enamorado",
         "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 152776,
       "name": "Borracho Enamorado",
       "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
+    },
+    {
+      "added_at": "2024-06-21 10:06:50",
+      "album": {
+        "name": "Te Ves Tan Bien",
+        "url": "https://open.spotify.com/album/16iG0rwdDy5fETPFjiDzth"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 173975,
+      "name": "Te Ves Tan Bien",
+      "url": "https://open.spotify.com/track/2jQSAAik7RO3EGv0YeJtXV"
     },
     {
       "added_at": "2024-06-21 10:06:50",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-06-21 10:06:50",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
-    },
-    {
-      "added_at": "2024-06-21 10:06:50",
-      "album": {
         "name": "Aqu\u00ed Mando Yo",
         "url": "https://open.spotify.com/album/0UT6sSqUR1QMQ7a1vt9ROP"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 217333,
       "name": "Aqu\u00ed Mando Yo",
       "url": "https://open.spotify.com/track/3Kv0GCIjO52qkUj1K9PqZW"
+    },
+    {
+      "added_at": "2024-06-21 10:06:50",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
     },
     {
       "added_at": "2024-06-21 10:06:50",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-21 10:06:50",
       "album": {
-        "name": "900 Cigarros",
-        "url": "https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 123906,
-      "name": "900 Cigarros",
-      "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
-    },
-    {
-      "added_at": "2024-06-21 10:06:50",
-      "album": {
         "name": "Chorumbo",
         "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
@@ -1391,6 +1375,38 @@
       "duration_ms": 200141,
       "name": "Chorumbo",
       "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+    },
+    {
+      "added_at": "2024-06-21 10:06:50",
+      "album": {
+        "name": "900 Cigarros",
+        "url": "https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 123906,
+      "name": "900 Cigarros",
+      "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
+    },
+    {
+      "added_at": "2024-06-21 10:06:50",
+      "album": {
+        "name": "Y Te Vas (En Vivo)",
+        "url": "https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 235230,
+      "name": "Y Te Vas (En Vivo)",
+      "url": "https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa"
     },
     {
       "added_at": "2024-06-21 10:06:50",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2024-06-21 10:06:50",
       "album": {
-        "name": "Y Te Vas (En Vivo)",
-        "url": "https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 235230,
-      "name": "Y Te Vas (En Vivo)",
-      "url": "https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa"
-    },
-    {
-      "added_at": "2024-06-21 10:06:50",
-      "album": {
         "name": "El Traje Naranja",
         "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 192435,
       "name": "Siempre a Tu Lado",
       "url": "https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p"
-    },
-    {
-      "added_at": "2024-06-21 10:06:50",
-      "album": {
-        "name": "Neta Que No",
-        "url": "https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 164680,
-      "name": "Neta Que No",
-      "url": "https://open.spotify.com/track/19cazderNza33zgCCpxLxH"
     },
     {
       "added_at": "2024-06-21 10:06:50",
@@ -1479,6 +1463,22 @@
       "duration_ms": 183724,
       "name": "Mi Reca\u00edda en Los Excesos",
       "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
+    },
+    {
+      "added_at": "2024-06-21 10:06:50",
+      "album": {
+        "name": "Neta Que No",
+        "url": "https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 164680,
+      "name": "Neta Que No",
+      "url": "https://open.spotify.com/track/19cazderNza33zgCCpxLxH"
     },
     {
       "added_at": "2024-06-21 10:06:50",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-06-21 10:06:50",
       "album": {
-        "name": "La Loca (En Vivo)",
-        "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 246251,
-      "name": "La Loca (En Vivo)",
-      "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"
-    },
-    {
-      "added_at": "2024-06-21 10:06:50",
-      "album": {
         "name": "Las Ag\u00fcitas",
         "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 176333,
       "name": "El Colesterol",
       "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
+    },
+    {
+      "added_at": "2024-06-21 10:06:50",
+      "album": {
+        "name": "La Loca (En Vivo)",
+        "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 246251,
+      "name": "La Loca (En Vivo)",
+      "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"
     },
     {
       "added_at": "2024-06-21 10:06:50",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2024-06-21 10:06:50",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Monta\u00f1o",
+          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
+        }
+      ],
+      "duration_ms": 233404,
+      "name": "La Octava Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
+    },
+    {
+      "added_at": "2024-06-21 10:06:50",
+      "album": {
         "name": "Hablando Claro (En Vivo)",
         "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 190671,
       "name": "Hablando Claro (En Vivo)",
       "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
-    },
-    {
-      "added_at": "2024-06-21 10:06:50",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Monta\u00f1o",
-          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
-        }
-      ],
-      "duration_ms": 233404,
-      "name": "La Octava Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
     },
     {
       "added_at": "2024-06-21 10:06:50",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2024-06-21 10:06:50",
       "album": {
-        "name": "El Del Cupra",
-        "url": "https://open.spotify.com/album/0GYibidSWdWKIngKFDrr8a"
-      },
-      "artists": [
-        {
-          "name": "Grupo Rocket",
-          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "El Del Cupra",
-      "url": "https://open.spotify.com/track/5OctjYCtV3iBfQhyK94VeO"
-    },
-    {
-      "added_at": "2024-06-21 10:06:50",
-      "album": {
         "name": "Me Gustas \"Curiosa\"",
         "url": "https://open.spotify.com/album/2acDzIkcpUDz0EECtj8mKq"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 243463,
       "name": "Me Gustas \"Curiosa\"",
       "url": "https://open.spotify.com/track/3EOvNgTt2ZDM6CPHrnHyeo"
+    },
+    {
+      "added_at": "2024-06-21 10:06:50",
+      "album": {
+        "name": "El Del Cupra",
+        "url": "https://open.spotify.com/album/0GYibidSWdWKIngKFDrr8a"
+      },
+      "artists": [
+        {
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "El Del Cupra",
+      "url": "https://open.spotify.com/track/5OctjYCtV3iBfQhyK94VeO"
     },
     {
       "added_at": "2024-06-21 10:06:50",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2024-06-21 10:06:50",
       "album": {
-        "name": "El Mes de Mayo (En Vivo)",
-        "url": "https://open.spotify.com/album/2ljSb2GM16NRwiUGc2MKFj"
-      },
-      "artists": [
-        {
-          "name": "Jaime Y Fernando",
-          "url": "https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm"
-        }
-      ],
-      "duration_ms": 153689,
-      "name": "El 10 de Mayo (En Vivo)",
-      "url": "https://open.spotify.com/track/3WEHES0IGtpjcVnC60V24X"
-    },
-    {
-      "added_at": "2024-06-21 10:06:50",
-      "album": {
         "name": "En Mi Defensa",
         "url": "https://open.spotify.com/album/2oS87aZVLDkJOResbJgX9W"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 186500,
       "name": "En Mi Defensa",
       "url": "https://open.spotify.com/track/73Ssnz5NOJwYpKw2OWXv7p"
+    },
+    {
+      "added_at": "2024-06-21 10:06:50",
+      "album": {
+        "name": "El Mes de Mayo (En Vivo)",
+        "url": "https://open.spotify.com/album/2ljSb2GM16NRwiUGc2MKFj"
+      },
+      "artists": [
+        {
+          "name": "Jaime Y Fernando",
+          "url": "https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm"
+        }
+      ],
+      "duration_ms": 153689,
+      "name": "El 10 de Mayo (En Vivo)",
+      "url": "https://open.spotify.com/track/3WEHES0IGtpjcVnC60V24X"
     },
     {
       "added_at": "2024-06-21 10:06:50",

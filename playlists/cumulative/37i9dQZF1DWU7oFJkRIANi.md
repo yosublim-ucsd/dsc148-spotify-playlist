@@ -2,9 +2,9 @@
 
 ### [Every Number One](https://open.spotify.com/playlist/37i9dQZF1DWU7oFJkRIANi)
 
-> \#1 hits from the top of the Australian charts, featuring current \#1 Eminem
+> \#1 hits from the top of the Australian charts, featuring current \#1 Sabrina Carpenter
 
-84 songs - 4 hr 42 min
+85 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2024-03-18 |  |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-18 |  |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2023-06-05 |  |
+| [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-25 |  |
 | [positions](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:52 | 2023-06-05 | 2024-04-19 |
 | [positions](https://open.spotify.com/track/7igeByaBM0MgGsgXtNxDJ7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [positions](https://open.spotify.com/album/3jqEvfiu2ENgmgzZq27zbi) | 2:52 | 2024-03-18 |  |
 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2023-06-05 |  |

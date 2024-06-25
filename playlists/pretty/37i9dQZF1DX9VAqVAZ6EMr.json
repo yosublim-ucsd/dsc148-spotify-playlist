@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do pop dos \u00faltimos tempos est\u00e3o reunidos nesta playlist! Foto: Mariah Carey",
-  "num_followers": 355424,
+  "num_followers": 355534,
   "original_name": "Hinos Pop",
   "owner": {
     "name": "Spotify",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-05-30 21:24:17",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2024-05-30 21:24:17",
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2024-05-30 21:24:17",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
       "added_at": "2024-05-30 21:24:17",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-05-30 21:24:17",
       "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug"
+    },
+    {
+      "added_at": "2024-05-30 21:24:17",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2024-05-30 21:24:17",
-      "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Man Down",
-      "url": "https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug"
     },
     {
       "added_at": "2024-05-30 21:24:17",

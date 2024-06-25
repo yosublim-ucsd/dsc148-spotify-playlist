@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 473279,
+  "num_followers": 473346,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAACV+2dIPBtrdm2UmjSmMzRq",
+  "snapshot_id": "ZndlgAAAAAA4MJGVhLd7HY94MsmM4Hso",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Johannesburg",
-        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
       "artists": [
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
         }
       ],
-      "duration_ms": 267946,
-      "name": "There Will Be Time",
-      "url": "https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ"
+      "duration_ms": 221226,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
     },
     {
       "added_at": null,
@@ -267,18 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+        "name": "Johannesburg",
+        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
       },
       "artists": [
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
         }
       ],
-      "duration_ms": 221226,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/7xvcfEnaPXtiFt79Rzq1fm"
+      "duration_ms": 267946,
+      "name": "There Will Be Time",
+      "url": "https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAALUyNtQfC7g+vRq1AY+TVo",
+  "snapshot_id": "ZndlgAAAAAAICZiFTtaH7Nxry50FNpdN",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
-        "url": "https://open.spotify.com/album/1l8cso9L0nNR3GuiB5mKve"
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
       "artists": [
         {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 171888,
-      "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
-      "url": "https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os"
+      "duration_ms": 210489,
+      "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
+      "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
     },
     {
       "added_at": null,
@@ -167,30 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 210489,
-      "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
-      "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
         "url": "https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT"
       },
@@ -223,46 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "Ride With Shordie, Pt. 2",
-      "url": "https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 143960,
-      "name": "Stuck in Between",
-      "url": "https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Damn Shame",
         "url": "https://open.spotify.com/album/4YYXAVoKwJoezmIh7KgYjG"
       },
@@ -283,34 +219,6 @@
       "duration_ms": 137938,
       "name": "Damn Shame",
       "url": "https://open.spotify.com/track/7ETKvvR97gJ28mAiOJoFD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gangsta Grillz: Mvrda Gvng",
-        "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
-      },
-      "artists": [
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 231100,
-      "name": "Milano Town (with DJ Drama, Shiva & Murda Beatz)",
-      "url": "https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps"
     },
     {
       "added_at": null,
@@ -348,9 +256,37 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 61600,
-      "name": "Ride With Shordie",
-      "url": "https://open.spotify.com/track/1naMgvsd1NQQFXjY3UlrZz"
+      "duration_ms": 143960,
+      "name": "Stuck in Between",
+      "url": "https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gangsta Grillz: Mvrda Gvng",
+        "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 231100,
+      "name": "Milano Town (with DJ Drama, Shiva & Murda Beatz)",
+      "url": "https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps"
     },
     {
       "added_at": null,
@@ -379,6 +315,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "Ride With Shordie, Pt. 2",
+      "url": "https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 61600,
+      "name": "Ride With Shordie",
+      "url": "https://open.spotify.com/track/1naMgvsd1NQQFXjY3UlrZz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Calzone Tapes 3",
         "url": "https://open.spotify.com/album/5ka0HFmEwwvDjxOy0t9VnC"
       },
@@ -395,6 +371,30 @@
       "duration_ms": 236764,
       "name": "Bonde da Fuma\u00e7a (feat. Murda Beatz)",
       "url": "https://open.spotify.com/track/50LGMsmHSBYhB2qVkcdAI1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banana Split (with YNW Melly feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 192968,
+      "name": "Banana Split (with YNW Melly feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr"
     },
     {
       "added_at": null,
@@ -439,30 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banana Split (with YNW Melly feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 192968,
-      "name": "Banana Split (with YNW Melly feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "420 in London",
         "url": "https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 219088,
       "name": "420 in London",
       "url": "https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beef",
+        "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
+      },
+      "artists": [
+        {
+          "name": "9lokknine",
+          "url": "https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
     },
     {
       "added_at": null,
@@ -531,26 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beef",
-        "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
+        "name": "REA1 L3AN K!NG",
+        "url": "https://open.spotify.com/album/3ZZ0MsvYeIIZEQiLadXncI"
       },
       "artists": [
         {
-          "name": "9lokknine",
-          "url": "https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "D!SPO",
+          "url": "https://open.spotify.com/artist/5CIOMoMmByQ8C9AiEckAy4"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 181306,
-      "name": "Beef",
-      "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
+      "duration_ms": 235100,
+      "name": "REA1 L3AN K!NG",
+      "url": "https://open.spotify.com/track/69sHX420es4sn4MLzuGjev"
     },
     {
       "added_at": null,
@@ -571,26 +567,6 @@
       "duration_ms": 170000,
       "name": "123",
       "url": "https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REA1 L3AN K!NG",
-        "url": "https://open.spotify.com/album/3ZZ0MsvYeIIZEQiLadXncI"
-      },
-      "artists": [
-        {
-          "name": "D!SPO",
-          "url": "https://open.spotify.com/artist/5CIOMoMmByQ8C9AiEckAy4"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 235100,
-      "name": "REA1 L3AN K!NG",
-      "url": "https://open.spotify.com/track/69sHX420es4sn4MLzuGjev"
     },
     {
       "added_at": null,
@@ -687,6 +663,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Offline III",
+        "url": "https://open.spotify.com/album/2cEJL06Jf94WFiGKmVJoTy"
+      },
+      "artists": [
+        {
+          "name": "Chrystian Lehr",
+          "url": "https://open.spotify.com/artist/4kFWTKFddUzdFcWTDD2ikE"
+        },
+        {
+          "name": "O.T. Genasis",
+          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 145210,
+      "name": "Habit (feat. O.T. Genasis & Murda Beatz)",
+      "url": "https://open.spotify.com/track/26Ft7fvwTz6EG3TXIjUDEo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Raining",
         "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
       },
@@ -731,30 +731,6 @@
       "duration_ms": 170523,
       "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
       "url": "https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Offline III",
-        "url": "https://open.spotify.com/album/2cEJL06Jf94WFiGKmVJoTy"
-      },
-      "artists": [
-        {
-          "name": "Chrystian Lehr",
-          "url": "https://open.spotify.com/artist/4kFWTKFddUzdFcWTDD2ikE"
-        },
-        {
-          "name": "O.T. Genasis",
-          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 145210,
-      "name": "Habit (feat. O.T. Genasis & Murda Beatz)",
-      "url": "https://open.spotify.com/track/26Ft7fvwTz6EG3TXIjUDEo"
     },
     {
       "added_at": null,
@@ -807,6 +783,34 @@
       "duration_ms": 192888,
       "name": "Bad Habits (feat. Murda Beatz)",
       "url": "https://open.spotify.com/track/6J2zOiRkS7rEkmCRpuvZgP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1Night (feat. PARTYNEXTDOOR, 21 Savage & Murda Beatz)",
+        "url": "https://open.spotify.com/album/7dYqsPwOXNU2PXl00fkaAG"
+      },
+      "artists": [
+        {
+          "name": "Stargate",
+          "url": "https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 204804,
+      "name": "1Night (feat. PARTYNEXTDOOR, 21 Savage & Murda Beatz)",
+      "url": "https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt"
     }
   ],
   "unique_name": "This Is Murda Beatz",

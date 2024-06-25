@@ -1,6 +1,6 @@
 {
   "description": "Get your gaming session going with this epic rap mix.",
-  "num_followers": 2105111,
+  "num_followers": 2105086,
   "original_name": "Power Gaming",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 131240,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 195906,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 131240,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "Space Cadet (feat. Gunna)",
-      "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "When It's Dark Out",
         "url": "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 251466,
       "name": "Me, Myself & I",
       "url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "Space Cadet (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 98413,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "MUDBOY",
         "url": "https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 183906,
       "name": "Mo Bamba",
       "url": "https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 98413,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 117013,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI"
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+      "duration_ms": 117013,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "Life of a Dark Rose",
-        "url": "https://open.spotify.com/album/0CuYNS755Ow710G2E7aLDE"
-      },
-      "artists": [
-        {
-          "name": "Lil Skies",
-          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Lust",
-      "url": "https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "AI YoungBoy 2",
         "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 148629,
       "name": "Make No Sense",
       "url": "https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "Life of a Dark Rose",
+        "url": "https://open.spotify.com/album/0CuYNS755Ow710G2E7aLDE"
+      },
+      "artists": [
+        {
+          "name": "Lil Skies",
+          "url": "https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S"
     },
     {
       "added_at": "2024-05-02 15:06:27",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-05-02 15:06:27",
       "album": {
-        "name": "True 2 Myself",
-        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "F.N",
-      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
-    },
-    {
-      "added_at": "2024-05-02 15:06:27",
-      "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 167915,
       "name": "After Party",
       "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
+    },
+    {
+      "added_at": "2024-05-02 15:06:27",
+      "album": {
+        "name": "True 2 Myself",
+        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "F.N",
+      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
     },
     {
       "added_at": "2024-05-02 15:06:27",

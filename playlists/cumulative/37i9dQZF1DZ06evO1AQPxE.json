@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 142945,
       "name": "2STYLISH",
       "url": "https://open.spotify.com/track/0qoxr5PUFbDqGLHIpEnWAr"
@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172609,
+      "name": "Ambitious",
+      "url": "https://open.spotify.com/track/0pytLWYHCQdheIWB2Ay5Dk"
+    },
+    {
+      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/43AGBhHRrGgfREdD1yDzm6"
       },
@@ -162,7 +180,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 158431,
       "name": "Backstage Passes (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
@@ -242,7 +260,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 152380,
       "name": "CODY BANKS",
       "url": "https://open.spotify.com/track/0XcmRDeHawnaIYRIKW1vMo"
@@ -470,7 +488,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 147260,
       "name": "HEAVY HITTER",
       "url": "https://open.spotify.com/track/7zJld1LpGmLsPt8IGOc0KL"
@@ -572,7 +590,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 193765,
       "name": "I'd Do Anything To Make You Smile",
       "url": "https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH"
@@ -612,7 +630,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 118796,
       "name": "Is That Ight?",
       "url": "https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy"
@@ -630,7 +648,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 139416,
       "name": "It Can't Be",
       "url": "https://open.spotify.com/track/2lW1lJSLatkcHxwDdCiSTB"
@@ -732,7 +750,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 126217,
       "name": "Like A Blade Of Grass",
       "url": "https://open.spotify.com/track/22xea6Z2a8BbyVeCksSBX9"
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 113287,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/6SdQfCiVae1EXK1pQ6b92o"
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 255058,
       "name": "RIVER ROAD",
       "url": "https://open.spotify.com/track/5YsP03BXEcu4PoJygpZsnW"
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 253568,
       "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
       "url": "https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5"
@@ -1308,7 +1326,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 113292,
       "name": "They Don't Love It",
       "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 152727,
       "name": "Time",
       "url": "https://open.spotify.com/track/2u1reDAcQvETi2bder48nX"
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 187266,
       "name": "WARSAW (feat. 2forwOyNE)",
       "url": "https://open.spotify.com/track/2ihL1KGMA0geIqGT5pkZzo"
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 168906,
       "name": "Way Out (feat. Big Sean)",
       "url": "https://open.spotify.com/track/57VeLYXrvNxe8Vs18K2M9W"

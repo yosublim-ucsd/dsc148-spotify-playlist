@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 ### [This Is Fuerza Regida](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gg010)
 
-> This is Fuerza Regida\. The essential tracks, all in one playlist.
+> This Is Fuerza Regida\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,660 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,154 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 16 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 |
 | 17 | [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/2VhYFNgH2oNn4N92YGwLnu) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/4YT0dtOM9IDdAfFONKmazN) | 1:53 |
 | 18 | [OYE](https://open.spotify.com/track/5D0N7a6vursEiO2jAC7dAF) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:41 |
-| 19 | [EXCESOS](https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:07 |
+| 19 | [BARBIEZ](https://open.spotify.com/track/5YZgFW1hURKX02zTayrpGI) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:46 |
 | 20 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
 | 21 | [Mi Terre CLN](https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
 | 22 | [Me Tocó Morir](https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:24 |
-| 23 | [BARBIEZ](https://open.spotify.com/track/5YZgFW1hURKX02zTayrpGI) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:46 |
+| 23 | [EXCESOS](https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:07 |
 | 24 | [Los Mire Con Talento](https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Los Mire Con Talento](https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9) | 2:43 |
 | 25 | [Modo Maldito](https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:14 |
 | 26 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 28 | [El Jefe](https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Jefe](https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X) | 2:50 |
 | 29 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 |
 | 30 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 |
-| 31 | [PXTXS](https://open.spotify.com/track/4QF7oh4M4et8li0TCLQlMW) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 3:29 |
-| 32 | [El Dinero Los Cambio](https://open.spotify.com/track/4kgZoTVXtWLcDgs0M5Coiz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Dinero Los Cambio](https://open.spotify.com/album/5qVzF9aMHohPPTb2wO6gh4) | 3:04 |
+| 31 | [El Dinero Los Cambio](https://open.spotify.com/track/4kgZoTVXtWLcDgs0M5Coiz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Dinero Los Cambio](https://open.spotify.com/album/5qVzF9aMHohPPTb2wO6gh4) | 3:04 |
+| 32 | [PXTXS](https://open.spotify.com/track/4QF7oh4M4et8li0TCLQlMW) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 3:29 |
 | 33 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 |
 | 34 | [Se Logró](https://open.spotify.com/track/2Uw0BLEO96u70KQSWOc0XZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:27 |
 | 35 | [Chingas A Tu Madre](https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Chingas A Tu Madre](https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 49 | [El Deportivo](https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Deportivo](https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg) | 3:12 |
 | 50 | [¿Qué Se Te Quitó?](https://open.spotify.com/track/2VaHYCxdN3xpNAQdPzIqkG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [¿Qué Se Te Quitó?](https://open.spotify.com/album/0IHTlF1XZDLBtiGKiULBuW) | 1:27 |
 
-Snapshot ID: `ZnYUAAAAAADN8BThKiSqOiCN5+h/K2Hg`
+Snapshot ID: `ZndlgAAAAADH2SFFCALdi5V/9ujLWsm4`

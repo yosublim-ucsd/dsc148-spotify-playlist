@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "#1 hits from the top of the Australian charts, featuring current #1 Eminem",
+  "description": "#1 hits from the top of the Australian charts, featuring current #1 Sabrina Carpenter",
   "name": "Every Number One",
   "tracks": [
     {
@@ -1044,6 +1044,24 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "album": {

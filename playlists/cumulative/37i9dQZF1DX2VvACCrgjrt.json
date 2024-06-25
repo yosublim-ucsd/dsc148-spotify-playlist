@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/1SIP2J0K5Gd0yfJ1leFkGp"
+      },
+      "artists": [
+        {
+          "name": "Megisto",
+          "url": "https://open.spotify.com/artist/7I71G5L7KmvTcTcBFUcL1h"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/3G5bdVaVsCbQB9NELmOvJ5"
+    },
+    {
+      "album": {
         "name": "Acid On My Tongue",
         "url": "https://open.spotify.com/album/1WB54KrrOvWpJCmz9MnzaY"
       },
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 273779,
       "name": "Bass Down Low",
       "url": "https://open.spotify.com/track/2VNQtsFq7rG0JTf7pnAIeP"
@@ -2898,7 +2916,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 260000,
       "name": "Champion's Tune",
       "url": "https://open.spotify.com/track/6dkQh144XcNRyK1THk31Pr"
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 126720,
       "name": "Circus",
       "url": "https://open.spotify.com/track/5Ucm2UUTCrHXyRpD0qpEaj"
@@ -4796,6 +4814,28 @@
       "duration_ms": 125714,
       "name": "Feed Your Soul",
       "url": "https://open.spotify.com/track/2Sn3BwJnGrYyecaKauOmRB"
+    },
+    {
+      "album": {
+        "name": "Feeling Naughty",
+        "url": "https://open.spotify.com/album/1Eozvs60IkKnm4cRIHHtsw"
+      },
+      "artists": [
+        {
+          "name": "Jack Rush",
+          "url": "https://open.spotify.com/artist/6bjnZQLPrTOmZSQ6nJ7rkj"
+        },
+        {
+          "name": "Rose Motion",
+          "url": "https://open.spotify.com/artist/6uyugtkUnBNsMZNGmkj9oX"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140967,
+      "name": "Feeling Naughty",
+      "url": "https://open.spotify.com/track/3jqqjNNxbNNfCDdQGbqBGI"
     },
     {
       "album": {
@@ -7774,7 +7814,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 156960,
       "name": "Juice",
       "url": "https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86"
@@ -12110,7 +12150,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 163809,
       "name": "rubber bands",
       "url": "https://open.spotify.com/track/5x0yLQDsZDr1UNZKF97yI0"
@@ -13975,6 +14015,24 @@
     },
     {
       "album": {
+        "name": "That Beat!",
+        "url": "https://open.spotify.com/album/1cCKbMISPqZAZplijyhR3M"
+      },
+      "artists": [
+        {
+          "name": "Blue Man",
+          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173233,
+      "name": "That Beat!",
+      "url": "https://open.spotify.com/track/5bmWL4rWCPJjt6cloDe8Ye"
+    },
+    {
+      "album": {
         "name": "That Feeling",
         "url": "https://open.spotify.com/album/4WfhOeiQo8cHT4qnLovvQA"
       },
@@ -14286,6 +14344,28 @@
       "duration_ms": 197419,
       "name": "The Players Anthem",
       "url": "https://open.spotify.com/track/3i2r4pHerk6x5xZJZkZTUj"
+    },
+    {
+      "album": {
+        "name": "The Power",
+        "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197841,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
     },
     {
       "album": {
@@ -15940,6 +16020,24 @@
       "duration_ms": 182414,
       "name": "Ya Think",
       "url": "https://open.spotify.com/track/4rU33N7ZYi47dRyWVLzJod"
+    },
+    {
+      "album": {
+        "name": "You Don't Want This",
+        "url": "https://open.spotify.com/album/0Hyhfj8DbJ4nE8jK89fEe6"
+      },
+      "artists": [
+        {
+          "name": "OKAYVAL",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219375,
+      "name": "You Don't Want This",
+      "url": "https://open.spotify.com/track/3edzwG1cecnBkGXbGXdCYT"
     },
     {
       "album": {

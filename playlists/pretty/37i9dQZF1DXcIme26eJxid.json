@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 106213,
+  "num_followers": 106245,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo"
     },
     {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "Sibongile",
+        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        }
+      ],
+      "duration_ms": 351053,
+      "name": "Ndihamba Nawe",
+      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
+    },
+    {
       "added_at": "2019-06-28 16:54:51",
       "album": {
         "name": "Love & Death",
@@ -623,22 +639,6 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Horizon Unlimted",
-        "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
-      },
-      "artists": [
-        {
-          "name": "The Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
-        }
-      ],
-      "duration_ms": 256306,
-      "name": "Orere-Elejigbo",
-      "url": "https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
       },
@@ -659,18 +659,18 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Life Stories",
-        "url": "https://open.spotify.com/album/5vf9w7uDuKx6FbaC82TlYg"
+        "name": "Horizon Unlimted",
+        "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
       },
       "artists": [
         {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+          "name": "The Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
         }
       ],
-      "duration_ms": 365693,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6lx5aHjUesS2XEyLxXknLQ"
+      "duration_ms": 256306,
+      "name": "Orere-Elejigbo",
+      "url": "https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR"
     }
   ],
   "unique_name": "Classic Afropop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,578 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,629 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 19 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 |
 | 20 | [Body Party](https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ciara](https://open.spotify.com/album/1ZhBKlFwsI2ppVo8LivPyG) | 3:54 |
 | 21 | [Bed](https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM) | [J\. Holiday](https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk) | [Back Of My Lac'](https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI) | 4:35 |
-| 22 | [Focus](https://open.spotify.com/track/6KluBT5Zthyzk6sBwqAcso) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R\. Volume 1](https://open.spotify.com/album/6btE9k5ED8ydC8XY1K0kko) | 3:20 |
-| 23 | [Bad Intentions](https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 4:05 |
+| 22 | [Bad Intentions](https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 4:05 |
+| 23 | [Focus](https://open.spotify.com/track/6KluBT5Zthyzk6sBwqAcso) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R\. Volume 1](https://open.spotify.com/album/6btE9k5ED8ydC8XY1K0kko) | 3:20 |
 | 24 | [Feels](https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:01 |
 | 25 | [Calling On You](https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Pleasures U Like](https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F) | 4:40 |
 | 26 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 79 | [Devour](https://open.spotify.com/track/4wEDkySDxnlg9wBwcFsp6v) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL) | [Devour](https://open.spotify.com/album/4HPoxlB9tyhq1LJHswoVeT) | 2:28 |
 | 80 | [Sexpectations](https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG) | [JR Castro](https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7) | [Sexpectations](https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21) | 3:44 |
 
-Snapshot ID: `Zg6DdwAAAAAtluOXqL+a6aGkbzKT5Q5F`
+Snapshot ID: `ZnlTRwAAAABHHiQeswO24xHR1zP+neLj`

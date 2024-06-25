@@ -4,7 +4,7 @@
 
 > Home to current Pakistani Hits\. 🇵🇰 Cover: Shazia Manzoor, Hasan Raheem
 
-155 songs - 10 hr 4 min
+156 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Kamli](https://open.spotify.com/track/1bRD5thowBEHe6I4LAf61Z) | [Falak Shabbir](https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Kamli](https://open.spotify.com/album/0irYPh3IIAEZV9PcB34FAr) | 3:19 | 2024-01-12 | 2024-02-03 |
 | [Kana Yaari](https://open.spotify.com/track/7MTUN4bpk7Im3Sxz9oCULf) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO), [Wahab Bugti](https://open.spotify.com/artist/2IBpBrzMIaeeXJnzfJIVLA) | [Kana Yaari](https://open.spotify.com/album/6DRq94aOT9Ml8WhJ4PzNGT) | 3:46 | 2023-05-04 | 2023-12-22 |
 | [Karma](https://open.spotify.com/track/5mowfsyfcMHPljgxVMjtQL) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 4:00 | 2024-04-29 | 2024-06-15 |
+| [Kaun Talha](https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Kaun Talha](https://open.spotify.com/album/79kk4fBrppufcwHKZ6SspP) | 4:29 | 2024-06-24 |  |
 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 | 2023-05-24 | 2023-05-31 |
 | [Kyun](https://open.spotify.com/track/7vumrbuv4KD60oslANU2EC) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Sadaat Shafqat Amanat](https://open.spotify.com/artist/3oOno2g4btrjp7CsJKKcuv) | [Kyun](https://open.spotify.com/album/4bBelTNf0jNu1EW2UWGl18) | 3:42 | 2024-01-19 | 2024-01-26 |
 | [Kyun](https://open.spotify.com/track/4lDmFJg35YoU7GDDRMSHdA) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Kyun](https://open.spotify.com/album/4Tw4sujoJDZCu2gKKQS6Ak) | 3:25 | 2023-05-04 | 2023-12-22 |

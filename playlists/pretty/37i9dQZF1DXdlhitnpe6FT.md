@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,196 likes - 115 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,322 likes - 115 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 45 | [Guns of Navarone](https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs) | [Al Caiola](https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6) | [Bonanza \- 50 Fabulous Guitar Favourites](https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9) | 2:40 |
 | 46 | [Frenesí](https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Boleros Bonitos](https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg) | 2:49 |
 | 47 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
-| 48 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 |
-| 49 | [Lady Milady](https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41) | [Pop Concerto Orchestra](https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30) | [Best of Pop Concerto Orchestra](https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ) | 2:36 |
+| 48 | [Lady Milady](https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41) | [Pop Concerto Orchestra](https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30) | [Best of Pop Concerto Orchestra](https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ) | 2:36 |
+| 49 | [L'Incontro \- 1M1](https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo) | [Giovanni Marchetti](https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd) | [Instrumental History, The Best](https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq) | 2:50 |
 | 50 | [Billy Jack's Theme](https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 2:01 |
 | 51 | [Adam's Hotel](https://open.spotify.com/track/0GrK0zmk5ZEANi9HOl07y4) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:32 |
 | 52 | [Amapola](https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC) | [Mantovani y Su Gran Orquesta](https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb) | [40 Hits Latinos](https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC) | 2:52 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 55 | [The Sounds of Silence](https://open.spotify.com/track/7rLIJ4wsrtK02vcxwAidCl) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM) | [Greatest Hits](https://open.spotify.com/album/5csts79TUQi61HqPuDLSAa) | 3:14 |
 | 56 | [Piano](https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23) | [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [Grandes Exitos](https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS) | 6:23 |
 | 57 | [Recuerdos De La Alhambra \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL) | [Luis Cobos](https://open.spotify.com/artist/1H75EEjXwzO6v2K1d8QGPX), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [La Danza De Los Corcelos \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD) | 3:53 |
-| 58 | [Atlantis](https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C) | [The Shadows](https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC) | [20 Golden Greats](https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu) | 2:48 |
-| 59 | [Ravel's Bolero](https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x) | [Ferrante & Teicher](https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB) | [The Ferrante & Teicher Collection](https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV) | 6:43 |
+| 58 | [Ravel's Bolero](https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x) | [Ferrante & Teicher](https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB) | [The Ferrante & Teicher Collection](https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV) | 6:43 |
+| 59 | [Atlantis](https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C) | [The Shadows](https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC) | [20 Golden Greats](https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu) | 2:48 |
 | 60 | [Autumn Leaves \- Live At Town Hall, New York/1960](https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Roger Williams Greatest Hits](https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i) | 3:01 |
 | 61 | [Over the Rainbow](https://open.spotify.com/track/68EG7pZ1EvUjp6wbhcItTL) | [Caravelli](https://open.spotify.com/artist/4ZELYX7reIsNTmxOWCMcav) | [Caravelli & His Orchestra](https://open.spotify.com/album/6fg2yCwbKZ4aCSGAlovkyZ) | 3:28 |
 | 62 | [Wheels](https://open.spotify.com/track/7GKP7S8RolxzYC7qmvWn4k) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Smooth Jazz](https://open.spotify.com/album/3YsZrPFpoRt9Q58FEpFkxo) | 2:04 |

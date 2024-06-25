@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-527 songs - 1 day 12 hr 34 min
+528 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,7 +459,8 @@
 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 | 2023-12-30 |  |
 | [Twisted](https://open.spotify.com/track/6kHZH0mvuI6mgCI8l5ZnEf) | [Kane Roberts](https://open.spotify.com/artist/12FdDK5z7grZIamaG6xTUK) | [Saints and Sinners](https://open.spotify.com/album/5bP6uh6TmVYOI6kVmDc7cz) | 4:05 | 2023-12-30 |  |
 | [U Can't Touch Me](https://open.spotify.com/track/0P27OQSKL8qb9PYnLOlWoJ) | [C\-Stones](https://open.spotify.com/artist/1aeD6lrmV9YPN0o5vSPzX0) | [Makin' My Way](https://open.spotify.com/album/4I2owAJAzxjTlCSQe7R8DP) | 3:33 | 2023-12-30 |  |
-| [Un\-Break My Heart](https://open.spotify.com/track/35FrSEASDKsZnStrgnT4vp) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets \(Remix Package\)](https://open.spotify.com/album/0Uy6GD6CqvEkWAdzxy7S1x) | 4:30 | 2024-01-14 |  |
+| [Un\-Break My Heart](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:30 | 2024-06-24 |  |
+| [Un\-Break My Heart](https://open.spotify.com/track/35FrSEASDKsZnStrgnT4vp) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets \(Remix Package\)](https://open.spotify.com/album/0Uy6GD6CqvEkWAdzxy7S1x) | 4:30 | 2024-01-14 | 2024-06-25 |
 | [Un\-Break My Heart \- Classic Radio Mix](https://open.spotify.com/track/5lxWBU8FM7pqidZcDsgvb3) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Secrets \(Remix Package\)](https://open.spotify.com/album/0Uy6GD6CqvEkWAdzxy7S1x) | 4:27 | 2023-12-30 | 2024-01-14 |
 | [Unchained](https://open.spotify.com/track/0T4Ryrgc36gWWCrKQwaHaQ) | [Silent Rage](https://open.spotify.com/artist/3PC3r6mBJjbYD8MaMoloZs) | [Still Alive](https://open.spotify.com/album/58pkZZiIZsy4qQez8yKLY1) | 4:36 | 2023-12-30 |  |
 | [Unfair](https://open.spotify.com/track/6nWpan8wexQM0Z3ZNSif6H) | [Josh Kelley](https://open.spotify.com/artist/1yLlQimDTRrACa45u50LXW) | [Special Company \(Deluxe\)](https://open.spotify.com/album/5poTXma29vmUDnx0ddS1l3) | 3:23 | 2023-12-30 |  |

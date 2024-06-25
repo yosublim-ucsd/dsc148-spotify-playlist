@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,976 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,054 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 79 | [Found Love In A Graveyard](https://open.spotify.com/track/3m618q0h93ttQXlyCiyOm7) | [Veronica Falls](https://open.spotify.com/artist/0mgbAj6btHW215UxhLq1AV) | [Veronica Falls](https://open.spotify.com/album/2c6YLa2rbTEHgsVbRX7Rjx) | 4:00 |
 | 80 | [Trick or Treatz](https://open.spotify.com/track/6IvJzqlKRjOaJwe85k4PHK) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Pip Paine \[Pay The £5000 You Owe\]](https://open.spotify.com/album/0LBrYpF7s0wQSyLX4Nza7w) | 4:41 |
 
-Snapshot ID: `ZVot/AAAAAAyq9uTgJnIXy3sdeRG0djc`
+Snapshot ID: `ZnmFsQAAAAAnu9Q5heyK/+KtlArMCVmX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9YJxYnhkr3.md) - [plain]
 
 > The best tracks for Prom 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,395 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,387 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9YJxYnhkr3.md) - [plain]
 | 39 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
 | 40 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 |
 | 41 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 |
-| 42 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
-| 43 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 |
+| 42 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 |
+| 43 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 |
 | 44 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 |
 | 45 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 |
 | 46 | [S&M](https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:03 |

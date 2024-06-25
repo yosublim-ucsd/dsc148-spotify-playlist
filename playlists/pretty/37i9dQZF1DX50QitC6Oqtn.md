@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Because we all deserve great pop love songs in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,483,629 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,483,506 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 78 | [Don't Let Me Down](https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Covers](https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq) | 2:44 |
 | 79 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 |
 | 80 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
-| 81 | [Don't Leave Me Now](https://open.spotify.com/track/59VDjcpB2I8psQasslQpdK) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Cup Of Beats](https://open.spotify.com/album/3o96h0leYDLyIlGFpucPEF) | 3:15 |
+| 81 | [Better](https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Better](https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW) | 2:54 |
 | 82 | [I Want It All](https://open.spotify.com/track/18PlaQBPe3yJBW1MNKstn2) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [I Want It All](https://open.spotify.com/album/6JOfGsXXXSCFEppeRHWspi) | 3:07 |
 | 83 | [Easy](https://open.spotify.com/track/46D0hYb1B7qiU33VtXt21W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Easy](https://open.spotify.com/album/514p9UpvibpBhShFgpZaxS) | 3:14 |
-| 84 | [Better](https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Better](https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW) | 2:54 |
+| 84 | [Don't Leave Me Now](https://open.spotify.com/track/59VDjcpB2I8psQasslQpdK) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Cup Of Beats](https://open.spotify.com/album/3o96h0leYDLyIlGFpucPEF) | 3:15 |
 | 85 | [If You Ever Want To Be In Love](https://open.spotify.com/track/02fZLz9BmmOKb5wkueM9D4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 3:58 |
 | 86 | [I Knew I Loved You](https://open.spotify.com/track/68K0qD0VDqdm0eWXsGqnvM) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Truly Madly Completely \- The Best of Savage Garden](https://open.spotify.com/album/5S4ycMpNlcTpLaO7u6mkkb) | 4:11 |
 | 87 | [Can I Be Him \- Acoustic Live Version](https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Can I Be Him \(Acoustic Live Version\)](https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah) | 5:05 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 91 | [imagine](https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Imagine](https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP) | 2:44 |
 | 92 | [Renee's Song](https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Renee's Song](https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G) | 2:10 |
 | 93 | [No Judgement](https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [No Judgement](https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T) | 2:56 |
-| 94 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
-| 95 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
+| 94 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
+| 95 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 |
 | 96 | [My Heart](https://open.spotify.com/track/1zVfFnkHv8ubJRXT30d4T3) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Under the Surface](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) | 3:16 |
 | 97 | [Don't Let Me Down](https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Don't Let Me Down](https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp) | 3:00 |
-| 98 | [Like No One Does](https://open.spotify.com/track/2HnfqILzgKt1CepTlU4oqq) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Like No One Does](https://open.spotify.com/album/7dXSckW6VGuZlmCiK14Go2) | 2:38 |
-| 99 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
+| 98 | [Real Love \- From the John Lewis Christmas Advert 2014](https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Real Love](https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr) | 2:21 |
+| 99 | [Like No One Does](https://open.spotify.com/track/2HnfqILzgKt1CepTlU4oqq) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Like No One Does](https://open.spotify.com/album/7dXSckW6VGuZlmCiK14Go2) | 2:38 |
 | 100 | [It's Gotta Be You](https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [It's Gotta Be You](https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk) | 3:11 |
 
 Snapshot ID: `ZmrGYQAAAABMDG4bZkxAoeWrApqabdlY`

@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25723,
+  "num_followers": 25725,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABgB7QDNg7SFoKaIOsrAw5HQzV+3KsE",
+  "snapshot_id": "AABgCm5gOclxsUWHPKHH1QXAvzPT1LUw",
   "tracks": [
     {
       "added_at": "2024-06-20 16:18:17",
@@ -499,6 +499,54 @@
       "duration_ms": 238095,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/3cIYa1UZpgWQs1s8gRTvUJ"
+    },
+    {
+      "added_at": "2024-06-24 17:07:51",
+      "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/738ivXREwlzmzYvWAfynGj"
+      },
+      "artists": [
+        {
+          "name": "Raymond Revel",
+          "url": "https://open.spotify.com/artist/17gtjCjxCPFSXyva6MAYts"
+        }
+      ],
+      "duration_ms": 146043,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/4t25XOXcvDXecxERNjWigj"
+    },
+    {
+      "added_at": "2024-06-24 17:06:52",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/2Ia6ZhxbtXAFSzrqT5Hnjt"
+      },
+      "artists": [
+        {
+          "name": "Hlfmn",
+          "url": "https://open.spotify.com/artist/6j6MykhPLqpNvN2r8ybhps"
+        }
+      ],
+      "duration_ms": 391015,
+      "name": "Human Anthem (I Am Who I Am)",
+      "url": "https://open.spotify.com/track/4QBLixFrPR8yOv1DhaLKo5"
+    },
+    {
+      "added_at": "2024-06-24 17:06:51",
+      "album": {
+        "name": "Moksha",
+        "url": "https://open.spotify.com/album/5c6AvaDGrGqrdgVkBwNe0M"
+      },
+      "artists": [
+        {
+          "name": "Kniven",
+          "url": "https://open.spotify.com/artist/7pi7IVEKFo71OOuzSMRWvB"
+        }
+      ],
+      "duration_ms": 180218,
+      "name": "Moksha",
+      "url": "https://open.spotify.com/track/3gIiHZw97BRB75XbV3dhpi"
     },
     {
       "added_at": "2024-06-21 12:59:11",

@@ -2,7 +2,7 @@
 
 ### [This Is The Cure](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fzHck)
 
-> This is The Cure\. The essential tracks, all in one playlist.
+> This is The Cure\. Todos os maiores hits em uma só playlist.
 
 77 songs - 5 hr 45 min
 
@@ -13,9 +13,9 @@
 | [A Letter To Elise](https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 5:12 | 2022-11-04 |  |
 | [A Night Like This](https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 4:16 | 2022-11-04 |  |
 | [A Strange Day](https://open.spotify.com/track/6Gy6FSCOVFKhB8XcfgaF3D) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 5:04 | 2022-12-07 | 2022-12-15 |
-| [Accuracy](https://open.spotify.com/track/2hqRpEdHuGlnTpJyfHZEAF) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:17 | 2024-05-11 |  |
+| [Accuracy](https://open.spotify.com/track/2hqRpEdHuGlnTpJyfHZEAF) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:17 | 2024-05-11 | 2024-06-25 |
 | [Apart](https://open.spotify.com/track/6g5yxNUBisdqOqBLHeWQFc) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 6:33 | 2022-11-04 | 2024-06-23 |
-| [Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:35 | 2022-11-04 | 2024-06-24 |
+| [Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:35 | 2022-11-04 |  |
 | [Boys Don't Cry \(Bestival Live 2011\)](https://open.spotify.com/track/1YrhoxYtegw7IDv7JHJTHl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Bestival Live 2011](https://open.spotify.com/album/4BIu0GCMComOTwBzuS6PCI) | 3:05 | 2022-11-04 |  |
 | [Burn](https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 6:38 | 2022-11-04 |  |
 | [Catch](https://open.spotify.com/track/3sNALJvZznQrafpRvniDCw) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 2:43 | 2022-11-04 |  |
@@ -32,7 +32,7 @@
 | [End \- Live In Paris / 1992](https://open.spotify.com/track/7jG9gCKyeEEBB2HPJTv04D) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary\)](https://open.spotify.com/album/6I1Z88CCXoEJBtEDz3XrA5) | 8:40 | 2022-11-04 | 2022-12-30 |
 | [Fascination Street \- Remastered](https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:15 | 2022-11-04 |  |
 | [Fire In Cairo](https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:23 | 2022-11-04 |  |
-| [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 | 2022-11-04 |  |
+| [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 | 2022-11-04 | 2024-06-25 |
 | [From The Edge Of The Deep Green Sea](https://open.spotify.com/track/5Pmpq3bZzrjT9HuYbvMviP) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 7:40 | 2022-11-04 |  |
 | [Grinding Halt](https://open.spotify.com/track/4wJGF0EeEgwX8mBJcbwESi) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:49 | 2022-11-04 |  |
 | [High](https://open.spotify.com/track/1G5cCZhEI67suiGvSWAiZz) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:32 | 2022-11-04 |  |
@@ -52,7 +52,7 @@
 | [Maybe Someday](https://open.spotify.com/track/6x2f8jgLWU8IrBSuNdvoWj) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Bloodflowers](https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B) | 5:06 | 2022-11-04 |  |
 | [Mint Car](https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wild Mood Swings](https://open.spotify.com/album/4VArO919KzAphNk7Kei20g) | 3:32 | 2022-11-04 |  |
 | [Miss Van Gogh \- Instrumental Demo](https://open.spotify.com/track/1XLLp6Kmlffuqp13rQKUHQ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Edition\)](https://open.spotify.com/album/09bh5Tceq2zX28dCcgzEnF) | 2:50 | 2022-11-04 | 2022-11-24 |
-| [One Hundred Years](https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 6:39 | 2022-11-17 | 2024-06-24 |
+| [One Hundred Years](https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 6:39 | 2022-11-17 |  |
 | [One Hundred Years \- 2005 Remaster](https://open.spotify.com/track/6o8bpkuFMRS2b25Vui9aDC) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK) | 6:41 | 2023-06-02 | 2023-07-09 |
 | [One More Time](https://open.spotify.com/track/7kcScp6Wrtm39tsUB4AmRn) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/2ePzzwdioJqP6RsYMSMnlt) | 4:31 | 2023-11-10 | 2023-12-14 |
 | [Open](https://open.spotify.com/track/21BxZ4jL908jasBK4t1HqU) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 6:50 | 2022-11-04 | 2024-01-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,867 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,873 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 16 | [Let It Be](https://open.spotify.com/track/4nzuujPepvK9gaUyxulAPT) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 3:36 |
 | 17 | [Jesse](https://open.spotify.com/track/4jZ6cogfz7DCQNGzJhojp4) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:28 |
 | 18 | [Last Night I Had The Strangest Dream](https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:29 |
-| 19 | [It's All Over Now, Baby Blue](https://open.spotify.com/track/7kFN6oceID4DUi29EjIYmi) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 3:26 |
-| 20 | [If I Were A Carpenter](https://open.spotify.com/track/1GdVGSqGRybjqeHhHhQcPa) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 2:09 |
+| 19 | [If I Were A Carpenter](https://open.spotify.com/track/1GdVGSqGRybjqeHhHhQcPa) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 2:09 |
+| 20 | [It's All Over Now, Baby Blue](https://open.spotify.com/track/7kFN6oceID4DUi29EjIYmi) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 3:26 |
 | 21 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 3:01 |
 | 22 | [Joe Hill \- Live](https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 3:01 |
 | 23 | [Never Dreamed You'd Leave In Summer](https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 2:45 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 43 | [Guantanamera](https://open.spotify.com/track/6cef8uDKAs49T2SCwwxQ1t) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:54 |
 | 44 | [Blessed Are](https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:06 |
 | 45 | [No Woman No Cry \- Live](https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI) | 3:45 |
-| 46 | [Love Minus Zero / No Limit](https://open.spotify.com/track/4zU2gsfo50BU2MWpMUJtpO) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 2:44 |
+| 46 | [Let Your Love Flow](https://open.spotify.com/track/4JJl5T6nQlSiN7rbYPQIJ0) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Honest Lullaby](https://open.spotify.com/album/3o4lNwGYID49P7xTQoBcYd) | 2:55 |
 | 47 | [El Preso Numero Nueve](https://open.spotify.com/track/68GlMzT0rj2xpUzDetTbA4) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:24 |
-| 48 | [Gabriel And Me](https://open.spotify.com/track/0Ct4eTeTYKYsCHCaz8Whel) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:31 |
+| 48 | [Love Minus Zero / No Limit](https://open.spotify.com/track/4zU2gsfo50BU2MWpMUJtpO) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 2:44 |
 | 49 | [The Wild Mountain Thyme](https://open.spotify.com/track/6t5Z3MLqcNu471STaCpGPj) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 4:37 |
-| 50 | [Let Your Love Flow](https://open.spotify.com/track/4JJl5T6nQlSiN7rbYPQIJ0) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Honest Lullaby](https://open.spotify.com/album/3o4lNwGYID49P7xTQoBcYd) | 2:55 |
+| 50 | [In The Quiet Morning](https://open.spotify.com/track/4Kol6Ecm4yCgHvbLSP3XUG) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 2:55 |
 
-Snapshot ID: `ZnYUAAAAAAA3ebSkMgH4Dm/+yi9JsF/q`
+Snapshot ID: `ZndlgAAAAADZ0BC/fPIm1uEAVt6gRUMS`

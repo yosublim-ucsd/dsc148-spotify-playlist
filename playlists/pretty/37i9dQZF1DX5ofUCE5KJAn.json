@@ -1,6 +1,6 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
-  "num_followers": 186604,
+  "num_followers": 186632,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "De Los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Botella Tras Botella",
         "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "De Los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -335,18 +335,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 166200,
-      "name": "Y As\u00ed Fue",
-      "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
+      "duration_ms": 266015,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
     },
     {
       "added_at": "2023-09-14 01:59:37",
@@ -383,22 +387,18 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG"
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 266015,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
+      "duration_ms": 166200,
+      "name": "Y As\u00ed Fue",
+      "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
+        "name": "Sex Symbol",
+        "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
+      },
+      "artists": [
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        }
+      ],
+      "duration_ms": 343353,
+      "name": "La Noche Mas Linda",
+      "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
-        "name": "Sex Symbol",
-        "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
-      },
-      "artists": [
-        {
-          "name": "Adalberto Santiago",
-          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
-        }
-      ],
-      "duration_ms": 343353,
-      "name": "La Noche Mas Linda",
-      "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -819,22 +819,18 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Ya Me Entere (En Vivo)",
-        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
       "artists": [
         {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 222680,
-      "name": "Ya Me Entere - En Vivo",
-      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -855,18 +851,22 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+        "name": "Ya Me Entere (En Vivo)",
+        "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+      "duration_ms": 222680,
+      "name": "Ya Me Entere - En Vivo",
+      "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Por Siempre (Deluxe)",
-        "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        }
-      ],
-      "duration_ms": 249375,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Mi Reca\u00edda en Los Excesos",
         "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 183724,
       "name": "Mi Reca\u00edda en Los Excesos",
       "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Por Siempre (Deluxe)",
+        "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "duration_ms": 249375,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
     },
     {
       "added_at": "2023-08-08 22:27:59",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-08-08 22:27:59",
       "album": {
-        "name": "Un Nuevo Amor",
-        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 226776,
-      "name": "Un Nuevo Amor",
-      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
-    },
-    {
-      "added_at": "2023-08-08 22:27:59",
-      "album": {
         "name": "Y Es el Contacto \u00a1Raza!",
         "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 168045,
       "name": "El Agua Clara",
       "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
+    },
+    {
+      "added_at": "2023-08-08 22:27:59",
+      "album": {
+        "name": "Un Nuevo Amor",
+        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 226776,
+      "name": "Un Nuevo Amor",
+      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
     },
     {
       "added_at": "2023-08-08 22:27:59",

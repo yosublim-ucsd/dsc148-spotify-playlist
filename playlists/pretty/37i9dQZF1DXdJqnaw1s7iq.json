@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 42824,
+  "num_followers": 42879,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+        "name": "Seconds",
+        "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
       },
       "artists": [
         {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+          "name": "Ghost Loft",
+          "url": "https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR"
         }
       ],
-      "duration_ms": 316919,
-      "name": "A Walk",
-      "url": "https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA"
+      "duration_ms": 172496,
+      "name": "Seconds",
+      "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -563,38 +563,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Seconds",
-        "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
       },
       "artists": [
         {
-          "name": "Ghost Loft",
-          "url": "https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR"
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
         }
       ],
-      "duration_ms": 172496,
-      "name": "Seconds",
-      "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "1998",
-        "url": "https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        },
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "1998",
-      "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
+      "duration_ms": 316919,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -623,6 +603,26 @@
       "duration_ms": 485220,
       "name": "Howling - \u00c2me Remix",
       "url": "https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 224026,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Nine Types of Light",
-        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Will Do",
-      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Want You In My Soul",
         "url": "https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 497521,
       "name": "Want You In My Soul",
       "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Nine Types of Light",
+        "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Will Do",
+      "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 195293,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3naM0aExICteWgsNwcPBHh"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Love Songs: Part Two",
-        "url": "https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG"
-      },
-      "artists": [
-        {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
         "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 117967,
       "name": "Can't See What Is Burning There - Mixed",
       "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Love Songs: Part Two",
+        "url": "https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG"
+      },
+      "artists": [
+        {
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/7lyFqWFcHcQCk8YXJo6hiK"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Nothing - Original Mix",
-      "url": "https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Cupid Deluxe",
         "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 245654,
       "name": "It All Feels Right",
       "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/7lyFqWFcHcQCk8YXJo6hiK"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Nothing - Original Mix",
+      "url": "https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Get Free",
+        "url": "https://open.spotify.com/album/2tH6X8xxt0p7EVQ0fcScL2"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Amber Coffman",
+          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
+        }
+      ],
+      "duration_ms": 289694,
+      "name": "Get Free",
+      "url": "https://open.spotify.com/track/0pHYQzbf7xJiSCn79w8Efb"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Joli Mai",
         "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 247771,
       "name": "About You",
       "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Get Free",
-        "url": "https://open.spotify.com/album/2tH6X8xxt0p7EVQ0fcScL2"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Amber Coffman",
-          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
-        }
-      ],
-      "duration_ms": 289694,
-      "name": "Get Free",
-      "url": "https://open.spotify.com/track/0pHYQzbf7xJiSCn79w8Efb"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 300266,
+      "name": "Body Language - Interpretation",
+      "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 326439,
       "name": "Without You",
       "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 300266,
-      "name": "Body Language - Interpretation",
-      "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Lover Chanting (Jayda G Remix)",
-        "url": "https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 205464,
-      "name": "Lover Chanting - Edit",
-      "url": "https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 264626,
       "name": "Other People",
       "url": "https://open.spotify.com/track/6xaBHNTugbgWWzUwgye0vg"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Lover Chanting (Jayda G Remix)",
+        "url": "https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 205464,
+      "name": "Lover Chanting - Edit",
+      "url": "https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
       },
       "artists": [
         {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
         }
       ],
-      "duration_ms": 285565,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
+      "duration_ms": 344158,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
     }
   ],
   "unique_name": "voltage",

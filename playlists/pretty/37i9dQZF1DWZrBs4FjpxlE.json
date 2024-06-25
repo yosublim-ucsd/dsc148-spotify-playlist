@@ -1,6 +1,6 @@
 {
   "description": "we got you bro. Cover: Post Malone",
-  "num_followers": 95738,
+  "num_followers": 95940,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Nicotine",
-        "url": "https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z"
-      },
-      "artists": [
-        {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
-        }
-      ],
-      "duration_ms": 159381,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 211666,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Nicotine",
+        "url": "https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z"
+      },
+      "artists": [
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "duration_ms": 159381,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "The Perfect LUV Tape",
-        "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 199993,
-      "name": "Erase Your Social",
-      "url": "https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Death Race For Love (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 248431,
       "name": "Empty",
       "url": "https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "The Perfect LUV Tape",
+        "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 199993,
+      "name": "Erase Your Social",
+      "url": "https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN"
     },
     {
       "added_at": "2024-02-23 05:00:00",

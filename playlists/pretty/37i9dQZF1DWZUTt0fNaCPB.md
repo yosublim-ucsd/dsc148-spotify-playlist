@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,506 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,566 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 45 | [From Hell With Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 |
 | 46 | [Gunfight](https://open.spotify.com/track/0is4yL58CcQ4Gv4WgTGr9N) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Connect](https://open.spotify.com/album/6rL7tAqRqT4DL4I1bcADTi) | 2:55 |
 | 47 | [Rats](https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 4:21 |
-| 48 | [Black Lungs](https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:51 |
-| 49 | [The Pretender](https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:27 |
+| 48 | [The Pretender](https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:27 |
+| 49 | [Black Lungs](https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:51 |
 | 50 | [The Violence](https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:48 |
 | 51 | [Pirates](https://open.spotify.com/track/0L639McB94IkUvIgZKM1E5) | [Bullets And Octane](https://open.spotify.com/artist/6Ku6HNSfgFrk2c3KIlf2j9) | [The Revelry](https://open.spotify.com/album/3nmvg9pydv2QR8q1JV0fmp) | 2:19 |
 | 52 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |

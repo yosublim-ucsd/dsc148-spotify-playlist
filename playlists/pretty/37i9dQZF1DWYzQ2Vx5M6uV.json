@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists + the best afro beat from both worlds! Cover: Be\u00e9le, Maria Becerra, Joeboy & Humby ",
-  "num_followers": 116333,
+  "num_followers": 116330,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
+        "name": "Yoyo",
+        "url": "https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR"
+      },
+      "artists": [
+        {
+          "name": "El Gerard",
+          "url": "https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P"
+        }
+      ],
+      "duration_ms": 156850,
+      "name": "Yoyo",
+      "url": "https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ"
+    },
+    {
+      "added_at": "2024-06-07 09:14:55",
+      "album": {
         "name": "Boom Bam (with Afro B & Mariah Angeliq",
         "url": "https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 177000,
       "name": "Boom Bam (with Afro B & Mariah Angeliq",
       "url": "https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73"
-    },
-    {
-      "added_at": "2024-06-07 09:14:55",
-      "album": {
-        "name": "Yoyo",
-        "url": "https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR"
-      },
-      "artists": [
-        {
-          "name": "El Gerard",
-          "url": "https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P"
-        }
-      ],
-      "duration_ms": 156850,
-      "name": "Yoyo",
-      "url": "https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ"
     },
     {
       "added_at": "2024-06-07 09:14:55",

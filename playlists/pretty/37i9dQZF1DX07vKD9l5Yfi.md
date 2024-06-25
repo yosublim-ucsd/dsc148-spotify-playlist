@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07vKD9l5Yfi.md) - [plain]
 
 > The perfect noughties blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,825 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,855 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07vKD9l5Yfi.md) - [plain]
 | 14 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 15 | [Down](https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [All Or Nothing](https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk) | 3:32 |
 | 16 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
-| 17 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 |
-| 18 | [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA) | 3:47 |
+| 17 | [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA) | 3:47 |
+| 18 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 |
 | 19 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
 | 20 | [Grenade](https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:42 |
 | 21 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
 | 22 | [White Flag](https://open.spotify.com/track/6si71supnBUhddjR2FJc2L) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/7HlZFlk0jJq3Bb03AOyMTE) | 4:00 |
-| 23 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 |
-| 24 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 |
+| 23 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 |
+| 24 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 |
 | 25 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
 | 26 | [Halo](https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:21 |
 | 27 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |

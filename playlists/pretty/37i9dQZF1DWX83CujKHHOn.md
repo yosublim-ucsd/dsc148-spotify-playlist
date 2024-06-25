@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Songs to keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,330,948 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,330,887 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 30 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 31 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 |
 | 32 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
-| 33 | [Little Bit Better](https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Little Bit Better](https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV) | 3:47 |
-| 34 | [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 |
+| 33 | [All Out of Love](https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 4:03 |
+| 34 | [Little Bit Better](https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Little Bit Better](https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV) | 3:47 |
 | 35 | [Stay](https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:00 |
 | 36 | [Half A Man](https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 2:59 |
 | 37 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |

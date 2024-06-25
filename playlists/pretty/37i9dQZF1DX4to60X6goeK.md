@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Lens, LZee
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,025 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,049 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 20 | [looking 4 me](https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [looking 4 me](https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j) | 2:27 |
 | 21 | [Absolute](https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Absolute](https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9) | 3:04 |
 | 22 | [Light It Up](https://open.spotify.com/track/6eWgNJspumvHtUmx8pQlFM) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Light It Up](https://open.spotify.com/album/5VR6J9N4EqZHOnzs6lvGgU) | 3:41 |
-| 23 | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA), [Nathan Smoker](https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN) | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM) | 2:51 |
-| 24 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 |
+| 23 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 |
+| 24 | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA), [Nathan Smoker](https://open.spotify.com/artist/3nNXwfR504VYz5FoUdoYRN) | [No Warning \(feat\. Nathan Smoker\)](https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM) | 2:51 |
 | 25 | [Finesse Riddim](https://open.spotify.com/track/13Mgkz3Rk8t1XsMZ6JyIrG) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Devilman](https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK), [DJ ADZ](https://open.spotify.com/artist/0yWeK60Enkx19d6ONJibla), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Finesse Riddim](https://open.spotify.com/album/5tQmcRslhxZE5hAMZbKUT9) | 3:24 |
 | 26 | [Complicated](https://open.spotify.com/track/4waq3ATMeZmOaHxHf9vLpp) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Complicated](https://open.spotify.com/album/5zwbiBQP3sm4kqV1I1ThVM) | 4:26 |
 | 27 | [Warning](https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Cimone](https://open.spotify.com/artist/70Uu0DbDSR5uIKlaYmZIHU) | [Warning](https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs) | 4:06 |

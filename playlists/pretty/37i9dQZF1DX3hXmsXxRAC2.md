@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,946 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,008 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 50 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/3OlThkWM0wZzhnQYIh56p6) | [Yolanda Del Rio](https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 2:59 |
 | 51 | [Fue Un Placer Conocerte](https://open.spotify.com/track/3EcuE8L4CBYZUlDgb9GZXU) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Singles](https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL) | 3:08 |
 | 52 | [Déjame Vivir](https://open.spotify.com/track/7nXJV6GP8cW9oHwHgkM6GU) | [Ernesto Barajas](https://open.spotify.com/artist/2j7Zroo4Ig12ygSgDdISJP), [Natalia Aguilar](https://open.spotify.com/artist/1gxYKvMOU52wMnLqXXsglV) | [Déjame Vivir](https://open.spotify.com/album/7lhfkD3X3txQQdrLPAs5lh) | 4:10 |
-| 53 | [Caray](https://open.spotify.com/track/3SfJvKD71vxorr1phTNFAR) | [Agrupación Cariño](https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:43 |
-| 54 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5t3iFz8WwEKxTxcmzE2ac2) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 5:00 |
+| 53 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5t3iFz8WwEKxTxcmzE2ac2) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 5:00 |
+| 54 | [Caray](https://open.spotify.com/track/3SfJvKD71vxorr1phTNFAR) | [Agrupación Cariño](https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:43 |
 | 55 | [Frente a Frente](https://open.spotify.com/track/3yzuISFnUKiHF7hKWpdovR) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Frente a Frente](https://open.spotify.com/album/3cdugu4Mc43gx5wNiFvHyX) | 4:26 |
 | 56 | [Juan Ga: Se Me Olvidó Otra Vez / Costumbres / Me Gustas Mucho](https://open.spotify.com/track/0M2uDMzj1fL1qhPposUjYF) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Las Caras Lindas](https://open.spotify.com/album/5nvczVKzNf2cqvpL2BNNfr) | 4:59 |
 | 57 | [Siempre en Mi Mente](https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 4:04 |

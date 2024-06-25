@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Aruma
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,824 likes - 97 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,888 likes - 97 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

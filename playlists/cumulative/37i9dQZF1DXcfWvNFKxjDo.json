@@ -5262,6 +5262,32 @@
     {
       "album": {
         "name": "City Lights",
+        "url": "https://open.spotify.com/album/4UOFyqgpAxwkHhpM5Evg6L"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179568,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/01p4kZ0CMpG3uetamwG1uV"
+    },
+    {
+      "album": {
+        "name": "City Lights",
         "url": "https://open.spotify.com/album/2ZqSFm2JHmP0kaNWXU4nhw"
       },
       "artists": [
@@ -5280,7 +5306,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 179568,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/4xbWpxytVsi5CnjdskSALc"

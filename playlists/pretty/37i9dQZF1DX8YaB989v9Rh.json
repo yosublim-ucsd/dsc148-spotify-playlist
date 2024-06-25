@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 21123,
+  "num_followers": 21142,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Street Dreams (Bonus Track)",
-        "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
-      },
-      "artists": [
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        },
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 295773,
-      "name": "Into You (feat. Tamia)",
-      "url": "https://open.spotify.com/track/0yHConG49418wPs8UfAt44"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "What's Luv? (feat. Ashanti)",
         "url": "https://open.spotify.com/album/5gpXJRhfDU4rl7MIL1MyC0"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 230400,
       "name": "What's Luv? (feat. Ashanti)",
       "url": "https://open.spotify.com/track/2eSJflipjhSKLExuSwuFrO"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "Street Dreams (Bonus Track)",
+        "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 295773,
+      "name": "Into You (feat. Tamia)",
+      "url": "https://open.spotify.com/track/0yHConG49418wPs8UfAt44"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -671,26 +671,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Personal Conversation",
-        "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
-      },
-      "artists": [
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        },
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Faded Pictures",
-      "url": "https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
         "url": "https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 241133,
       "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
       "url": "https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "Personal Conversation",
+        "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
+      },
+      "artists": [
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        },
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Faded Pictures",
+      "url": "https://open.spotify.com/track/1CAw3ethNuSDPf3E7luSFF"
     },
     {
       "added_at": "2022-10-01 16:13:28",

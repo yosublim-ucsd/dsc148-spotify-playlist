@@ -1,12 +1,12 @@
 {
   "description": "Music for when you've got your Jesus on and your swag up . \nCover:   <a href=https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=L_-49UC4RDGEorulPSll_g>Naffymar</a> ",
-  "num_followers": 34388,
+  "num_followers": 34409,
   "original_name": "Youth Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnTCvAAAAADjRRwCYh7qDOwZtQXJgPKQ",
+  "snapshot_id": "ZnmnQAAAAAARaCbdjEykiul2R2u+6aJ0",
   "tracks": [
     {
       "added_at": "2024-05-24 00:01:00",
@@ -95,6 +95,30 @@
       "duration_ms": 405513,
       "name": "Million Little Miracles (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+    },
+    {
+      "added_at": "2024-06-24 17:05:04",
+      "album": {
+        "name": "This Is the Day (Halle)",
+        "url": "https://open.spotify.com/album/5zRg6TUFbAIpZrwHUNvZEU"
+      },
+      "artists": [
+        {
+          "name": "Julia McMillan",
+          "url": "https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ"
+        },
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "duration_ms": 411428,
+      "name": "This Is the Day (Halle)",
+      "url": "https://open.spotify.com/track/1FnbReDM3Ly7uxwarVJLp0"
     },
     {
       "added_at": "2024-06-14 00:01:00",

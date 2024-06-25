@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 101591,
+  "num_followers": 101627,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "King Of The Fall",
-        "url": "https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 301594,
-      "name": "King Of The Fall",
-      "url": "https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
         "name": "Care Package",
         "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 283816,
       "name": "Club Paradise",
       "url": "https://open.spotify.com/track/6MR5IBSNfDmiwnrlQpVw4w"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "King Of The Fall",
+        "url": "https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 301594,
+      "name": "King Of The Fall",
+      "url": "https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm"
     },
     {
       "added_at": "2022-10-03 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 247265,
-      "name": "Tonight (I Wish I Was Your Boy)",
-      "url": "https://open.spotify.com/track/7DmTaJoM7L020qm3egqNsM"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
         "name": "EVERYTHING IS LOVE (Clean)",
         "url": "https://open.spotify.com/album/1x7IPmap6ALHrqcyWGnFT2"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 285200,
       "name": "SUMMER",
       "url": "https://open.spotify.com/track/7zmleW3XZx0uUsL2CkFuDe"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 247265,
+      "name": "Tonight (I Wish I Was Your Boy)",
+      "url": "https://open.spotify.com/track/7DmTaJoM7L020qm3egqNsM"
     },
     {
       "added_at": "2022-10-03 04:00:00",

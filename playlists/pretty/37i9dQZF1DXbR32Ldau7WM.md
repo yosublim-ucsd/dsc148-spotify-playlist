@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now!  Cover: Crossfaith
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,120 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,151 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 48 | [Ｗ●ＲＫ](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [Ｗ●ＲＫ](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 |
 | 49 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
 | 50 | [すごい速さ](https://open.spotify.com/track/4zteBMm0wG20fdn4UkhVI5) | [andymori](https://open.spotify.com/artist/6bCInSZj1C1H8Mz7m4LqYA) | [andymori](https://open.spotify.com/album/0Yid4tl2WsTnDK0P9kRy9z) | 1:26 |
-| 51 | [心変わり](https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [心変わり](https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3) | 3:43 |
+| 51 | [Devil in Your Heart](https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES](https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3) | 3:06 |
 | 52 | [メタり！！ \(feat\. Tom Morello\)](https://open.spotify.com/track/213nQotWKjNWnD92F6NWVx) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [メタり！！ \(feat\. Tom Morello\)](https://open.spotify.com/album/5ZuHwoWf9rMyj5F1DsexIt) | 3:28 |
 | 53 | [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 |
 | 54 | [ミュージック](https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 5:22 |
-| 55 | [Devil in Your Heart](https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES](https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3) | 3:06 |
+| 55 | [心変わり](https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [心変わり](https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3) | 3:43 |
 | 56 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 |
 | 57 | [Zetsubou Billy](https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [Bu\-ikikaesu](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) | 3:44 |
 | 58 | [Eye's Sentry](https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp) | 4:11 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 72 | [LOVE ROCKETS](https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [LOVE ROCKETS](https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N) | 4:21 |
 | 73 | [贖罪](https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [贖罪](https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f) | 3:57 |
 | 74 | [平成ペイン](https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FOOLs](https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW) | 3:56 |
-| 75 | [アフタースクール](https://open.spotify.com/track/12yaUWXL3LaWZbps2MVzOy) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SINGLE 1](https://open.spotify.com/album/4KHq9rx1FHIx7YXefUjK0F) | 3:24 |
+| 75 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 |
 | 76 | [盆ギリ恋歌](https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [盆ギリ恋歌](https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH) | 4:19 |
 | 77 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 |
-| 78 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 |
+| 78 | [アフタースクール](https://open.spotify.com/track/12yaUWXL3LaWZbps2MVzOy) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SINGLE 1](https://open.spotify.com/album/4KHq9rx1FHIx7YXefUjK0F) | 3:24 |
 | 79 | [月の椀](https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:10 |
 | 80 | [BLACK MEMORY](https://open.spotify.com/track/7qyOH3EMf0seof9SaowaAc) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Kisses and Kills](https://open.spotify.com/album/6HXkTu5VbNMZIfGmvWccjA) | 4:12 |
 | 81 | [いけないfool logic](https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [いけないfool logic](https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4) | 4:15 |

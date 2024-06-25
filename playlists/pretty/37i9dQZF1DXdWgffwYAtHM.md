@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:10naLy8QHctu1ODM0BqxEt">Histórias pra adulto dormir</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,372 likes - 6 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,369 likes - 6 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

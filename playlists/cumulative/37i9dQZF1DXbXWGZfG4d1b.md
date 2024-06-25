@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-596 songs - 1 day 11 hr 14 min
+597 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [El Heladero](https://open.spotify.com/track/1y6MQ82qLW8AIXpXmLHtGh) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1), [Charlie Desidney](https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu) | [El Heladero](https://open.spotify.com/album/5u8PajcQdVpjFns2nUWzET) | 2:45 | 2022-07-01 | 2022-07-28 |
 | [El Hit](https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [El Hit](https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7) | 3:13 | 2024-06-14 |  |
 | [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 | 2022-10-28 | 2023-10-27 |
+| [El Invierno](https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp) | [Bifes con ensalada](https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y) | [El Invierno](https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO) | 3:20 | 2024-06-14 |  |
 | [El Juego de la Sed](https://open.spotify.com/track/0Gadp13jH5EsojTAXyhMwW) | [Julián Desbats](https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP) | [El Juego de la Sed](https://open.spotify.com/album/2BSgQC5v96a3oITrZ6ykRS) | 3:15 | 2023-07-24 | 2023-09-11 |
 | [El Lago \- Remix](https://open.spotify.com/track/2kOzsYkc2kBFViZLRrgpSY) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ), [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [El Lago \(Remix\)](https://open.spotify.com/album/11zavB3xrK6eHp2TZPgzA6) | 3:50 | 2022-07-15 | 2022-07-25 |
 | [El Límite](https://open.spotify.com/track/19UGBEYHwRc7UJQnesJViB) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [El Límite](https://open.spotify.com/album/6c5uQ4l7Dj2WeEthNTXFva) | 4:08 | 2022-07-01 | 2022-07-23 |
@@ -389,7 +390,7 @@
 | [No](https://open.spotify.com/track/14GNkRPgoi6EQlfr3CsuXu) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU), [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Amalgama](https://open.spotify.com/album/3Wm4UI67R1RrWGe8C8OrRr) | 3:24 | 2022-06-03 | 2023-07-08 |
 | [No Es Conveniente](https://open.spotify.com/track/7rZWAnx3FHYlJqicefewhM) | [Sué Mon Mont](https://open.spotify.com/artist/1D0ySGoUXYWdUNDZWs2vKl) | [Contratiempo](https://open.spotify.com/album/6ADCYLJRvLJPc1xxgaDNOv) | 3:17 | 2022-07-01 | 2023-10-27 |
 | [No Es Culpa del Frío](https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [No Es Culpa del Frío](https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b) | 3:45 | 2022-11-11 | 2023-08-17 |
-| [No Está Mal Volar](https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [No Está Mal Volar](https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ) | 3:16 | 2023-10-26 |  |
+| [No Está Mal Volar](https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [No Está Mal Volar](https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ) | 3:16 | 2023-10-26 | 2024-06-25 |
 | [No Importa](https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 2:03 | 2022-07-15 | 2022-07-29 |
 | [No Le Des Mas Vuelta](https://open.spotify.com/track/4OhELc8ny8Uel5nciZZ1Sq) | [Leandro Lopatin](https://open.spotify.com/artist/6MOOqOsT16VsoZOwZpttXX) | [No Le Des Mas Vuelta](https://open.spotify.com/album/6JwnT7GtY8En4h5n9xDMxD) | 3:45 | 2022-06-03 | 2023-10-18 |
 | [No Los Pueden Separar](https://open.spotify.com/track/7oJgGoOiDOYcwvGkQswzbO) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [No Los Pueden Separar](https://open.spotify.com/album/3UQL0qaEoWlzrDcK1W7Z6j) | 2:22 | 2024-05-10 |  |

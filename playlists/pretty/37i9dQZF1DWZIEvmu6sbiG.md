@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIEvmu6sbiG.md) - [plain]
 
 > Scopa, paletta e musica!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,611 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,614 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIEvmu6sbiG.md) - [plain]
 | 7 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
 | 8 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 |
 | 9 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
-| 10 | [Closer](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Closer](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) | 4:04 |
-| 11 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
+| 10 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 |
+| 11 | [Closer](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Closer](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) | 4:04 |
 | 12 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 |
 | 13 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 |
 | 14 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIEvmu6sbiG.md) - [plain]
 | 33 | [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
 | 34 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 |
 | 35 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
-| 36 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
-| 37 | [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 |
+| 36 | [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 |
+| 37 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 | 38 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 |
 | 39 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 |
 | 40 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIEvmu6sbiG.md) - [plain]
 | 78 | [Ironic \- 2015 Remaster](https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:50 |
 | 79 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 |
 | 80 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
-| 81 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
-| 82 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 |
+| 81 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 |
+| 82 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
 | 83 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
 | 84 | [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 |
 | 85 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 |

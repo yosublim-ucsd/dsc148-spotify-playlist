@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Jarfaiter, Dollar Selmouni
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,270 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,318 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Te Perdone Dios](https://open.spotify.com/track/3VegaRpqoQlo7ebKnI6Ako) | [Jarfaiter](https://open.spotify.com/artist/7hqwOMu222wUGHIzm49sJk), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb), [Kvinz](https://open.spotify.com/artist/19ALJ3xMGruS0w9Qc4Lvtp) | [Te Perdone Dios](https://open.spotify.com/album/3iRF2179lMI4Ae9WRUlNrN) | 2:58 |
-| 2 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 |
-| 3 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 |
-| 4 | [La Vida Sin Ti](https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [La Vida Sin Ti](https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP) | 2:44 |
-| 5 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |
+| 1 | [True Love](https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW) | [Carrion GodBle$$](https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [True Love](https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj) | 5:58 |
+| 2 | [Veneno](https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/0UYDVbpaX2fpXiGDsxPzsY) | 4:18 |
+| 3 | [Te Perdone Dios](https://open.spotify.com/track/3VegaRpqoQlo7ebKnI6Ako) | [Jarfaiter](https://open.spotify.com/artist/7hqwOMu222wUGHIzm49sJk), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb), [Kvinz](https://open.spotify.com/artist/19ALJ3xMGruS0w9Qc4Lvtp) | [Te Perdone Dios](https://open.spotify.com/album/3iRF2179lMI4Ae9WRUlNrN) | 2:58 |
+| 4 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |
+| 5 | [La Vida Sin Ti](https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [La Vida Sin Ti](https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP) | 2:44 |
 | 6 | [Prada](https://open.spotify.com/track/1AI5VwRYiI0g3Pll2l7o9d) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Dawiz](https://open.spotify.com/artist/16pbYWC2245gjzNQa3BlCs) | [Black Ops](https://open.spotify.com/album/1Z6yKANDH0Fhp562domIla) | 2:22 |
 | 7 | [Cicatrices](https://open.spotify.com/track/7cVPzL9iPXkMaHb8NvwvR3) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/2r7uyJrmDdQ3DwX0EzSfYm) | 3:00 |
 | 8 | [Selma y Patty](https://open.spotify.com/track/7t9kQbsiFPWdHILBnTcuCL) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Selma y Patty](https://open.spotify.com/album/7tqN6nZShPa2OzsLEJnoAC) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [Mariah Carey](https://open.spotify.com/track/69JEwBvoXZ8KhOfrgHOiZc) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [Mariah Carey](https://open.spotify.com/album/2iSBQgytqbQNlGEBIBagsQ) | 2:14 |
 | 50 | [Indomables](https://open.spotify.com/track/7dUFOjcebtySPPj7tJKUdn) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Mal de amores](https://open.spotify.com/album/7dmKwrTCa4kSIlIoI7Eoji) | 3:28 |
 
-Snapshot ID: `ZnSmYAAAAABHvyK/R4fPTz+BoW6pTHwh`
+Snapshot ID: `Znk1oAAAAAAZ7CwJ1P+vX5wE1ikjRF00`

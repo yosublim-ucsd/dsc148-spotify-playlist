@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 
 ### [This Is Natalia Lafourcade](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HaZQk)
 
-> This is Natalia Lafourcade\. The essential tracks, all in one playlist.
+> This Is Natalia Lafourcade\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,457 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,514 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 14 | [Amor, Amor de Mis Amores \(with Devendra Banhart\)](https://open.spotify.com/track/3dB42OEuVNiktvt3V5JRVI) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:57 |
 | 15 | [LA NIEBLA](https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:31 |
 | 16 | [Mamita \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [RawayanaLand](https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD) | 4:27 |
-| 17 | [Ya No Vivo por Vivir \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/1vGTXll8t4co7lsSXy80x4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [50 Años de Ser el Divo de Juárez](https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y) | 6:14 |
-| 18 | [María la Curandera](https://open.spotify.com/track/1xNi99xP8ioHUGXB5HrpNb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 6:13 |
+| 17 | [María la Curandera](https://open.spotify.com/track/1xNi99xP8ioHUGXB5HrpNb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 6:13 |
+| 18 | [Ya No Vivo por Vivir \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/1vGTXll8t4co7lsSXy80x4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [50 Años de Ser el Divo de Juárez](https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y) | 6:14 |
 | 19 | [Que Nadie Sepa Mi Sufrir \(with Natalia Lafourcade\)](https://open.spotify.com/track/5jy5rt0KuI9jfEps9K3wxz) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Grandes Éxitos de las Sonoras, Con la Más Grande, La Sonora Santanera](https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ) | 4:00 |
 | 20 | [Golpes en el Corazón](https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Golpes en el Corazón](https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ) | 3:31 |
 | 21 | [Diazepam](https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 3:37 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 44 | [Slowly](https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Giralunas, Un Homenaje a L.E.Aute](https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd) | 5:36 |
 | 45 | [Antes de Huir](https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:52 |
 | 46 | [Tú Ve](https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tú Ve](https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4) | 3:58 |
-| 47 | [Viviré para Ti \(feat\. Natalia Lafourcade\) \- Versión Acústica](https://open.spotify.com/track/7mPgkn14P7Ts2hB62XmgtT) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Amigos Invisibles, Acústico](https://open.spotify.com/album/0Q9wBe7VRzVzfZDw0oTZhG) | 3:56 |
-| 48 | [Una Mañana \(with Natalia Lafourcade\)](https://open.spotify.com/track/2ooHEUx2reFH7jzhgpGQ77) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 2:59 |
+| 47 | [Una Mañana \(with Natalia Lafourcade\)](https://open.spotify.com/track/2ooHEUx2reFH7jzhgpGQ77) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 2:59 |
+| 48 | [Viviré para Ti \(feat\. Natalia Lafourcade\) \- Versión Acústica](https://open.spotify.com/track/7mPgkn14P7Ts2hB62XmgtT) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Amigos Invisibles, Acústico](https://open.spotify.com/album/0Q9wBe7VRzVzfZDw0oTZhG) | 3:56 |
 | 49 | [Mi Lugar Favorito](https://open.spotify.com/track/7nnOZPlJODFqCPW6FyalYv) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:57 |
 | 50 | [Mujer Divina \(with Adrián Dárgelos\)](https://open.spotify.com/track/5Q2bP4QKyM7nOPju1QVZiZ) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Adrian Dargelos](https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:29 |
 
-Snapshot ID: `ZnYUAAAAAABLoDOG5VdLz+vqgThChjgu`
+Snapshot ID: `ZndlgAAAAAAIW3yX3up++3W9yd/Yl9ym`

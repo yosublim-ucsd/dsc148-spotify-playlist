@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 
 > La favorita de dios, and she knows 🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,047 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,082 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 2 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 3 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
 | 4 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 |
-| 5 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
-| 6 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 |
+| 5 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 |
+| 6 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 7 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 8 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 |
 | 9 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
 | 10 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
-| 11 | [Enchanted \(Taylor's Version\)](https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:53 |
-| 12 | [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 |
-| 13 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
-| 14 | [Play Date](https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 2:59 |
-| 15 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
+| 11 | [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 |
+| 12 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
+| 13 | [Play Date](https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 2:59 |
+| 14 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
+| 15 | [Enchanted \(Taylor's Version\)](https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:53 |
 | 16 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 |
 | 17 | [Diet Mountain Dew](https://open.spotify.com/track/2vtmY2mSccRzKGjtcHSzI3) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu) | 3:42 |
 | 18 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:59 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 
 > The BBMAs return with a fresh award show format and performances from the artists who dominated the year in music\. Watch the 2023 Billboard Music Awards on November 19! Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,795 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,802 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 2 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 |
 | 3 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 |
-| 4 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
-| 5 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
+| 4 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
+| 5 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 |
 | 6 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
 | 7 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 8 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 
 > Home of the best bands orbiting the universe right now\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,709 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,745 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 33 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 | 34 | [Your Girlfriend](https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Foolish Loving Spaces \(Deluxe Edition\)](https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru) | 2:41 |
 | 35 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 |
-| 36 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
-| 37 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
+| 36 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
+| 37 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
 | 38 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 |
-| 39 | [Wild Stare](https://open.spotify.com/track/11cjKlgVaUvbBjEAAGv9MZ) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/799I2k2TkWYZgot4HkSJXH) | 3:14 |
-| 40 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 |
-| 41 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 |
+| 39 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 |
+| 40 | [Wild Stare](https://open.spotify.com/track/11cjKlgVaUvbBjEAAGv9MZ) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/799I2k2TkWYZgot4HkSJXH) | 3:14 |
+| 41 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 |
 | 42 | [I Love You](https://open.spotify.com/track/5sWxjNIEShZQHxAOjhzA9n) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Love You](https://open.spotify.com/album/2xivxT3O20OUxWYJ0FDAFX) | 5:05 |
 | 43 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 |
 | 44 | [Grace](https://open.spotify.com/track/0UWLqOtqAd0JRUYgoJBb9w) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 3:53 |
@@ -63,15 +63,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 | 53 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 |
 | 54 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 |
 | 55 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
-| 56 | [Funky Galileo](https://open.spotify.com/track/7rNnqDOzc3Qoom2VhIyuxx) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 4:06 |
+| 56 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 |
 | 57 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 |
-| 58 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 |
-| 59 | [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 |
+| 58 | [Funky Galileo](https://open.spotify.com/track/7rNnqDOzc3Qoom2VhIyuxx) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Spirit Mission](https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0) | 4:06 |
+| 59 | [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 |
 | 60 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
-| 61 | [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 |
+| 61 | [alife](https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 4:33 |
 | 62 | [Enter the Mirror](https://open.spotify.com/track/0YsMRoZD1nJVwlbIZme23I) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Mountainhead](https://open.spotify.com/album/1s3ypfinSBGQl36cJSRjOv) | 3:42 |
-| 63 | [bloom](https://open.spotify.com/track/3u0eQFJsVwdvsNuXpN69LL) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [bloom](https://open.spotify.com/album/2IAfoNDtDi2F4cLoXfLx52) | 4:10 |
-| 64 | [Delicious Things](https://open.spotify.com/track/6pAfAhSBOeNi5Tw8AfB5RQ) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 5:04 |
+| 63 | [Delicious Things](https://open.spotify.com/track/6pAfAhSBOeNi5Tw8AfB5RQ) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 5:04 |
+| 64 | [bloom](https://open.spotify.com/track/3u0eQFJsVwdvsNuXpN69LL) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [bloom](https://open.spotify.com/album/2IAfoNDtDi2F4cLoXfLx52) | 4:10 |
 | 65 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
 | 66 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
 | 67 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 |

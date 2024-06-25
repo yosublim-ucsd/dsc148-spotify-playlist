@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,269 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,290 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 46 | [First Time](https://open.spotify.com/track/3ll3YZirSK5Sb3fJApuiCw) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [First Time](https://open.spotify.com/album/1hnGG0Wg9CmgGZeOpU7tCA) | 3:49 |
 | 47 | [Rainy Day Song](https://open.spotify.com/track/0Wn5iTOKfn86p7LKLMKeA4) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [All These Dreams](https://open.spotify.com/album/2GZyBo8c4yu7EmWb6zNaUa) | 3:21 |
 | 48 | [Slow Records](https://open.spotify.com/track/2dvzf690BYZyiVf8jWtB18) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [Push Ups](https://open.spotify.com/album/28nNe1OxZ3hicVX5t28M6S) | 4:35 |
-| 49 | [Damn It All](https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 6:26 |
-| 50 | [The Calla Lily Song](https://open.spotify.com/track/45aU2o0VJEyArBmMvnTYP2) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [The Calla Lily Song](https://open.spotify.com/album/7JSWIbBEW5EeWs5Ruooelz) | 3:59 |
+| 49 | [The Calla Lily Song](https://open.spotify.com/track/45aU2o0VJEyArBmMvnTYP2) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [The Calla Lily Song](https://open.spotify.com/album/7JSWIbBEW5EeWs5Ruooelz) | 3:59 |
+| 50 | [Damn It All](https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 6:26 |
 | 51 | [Strangers \(feat\. Aoife O'donovan\)](https://open.spotify.com/track/3OKUJgs3GpNp6MTLuv5PCh) | [Jesse Harper](https://open.spotify.com/artist/64vZp5Px5HDpn0UUMxIwX9), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [One True Thing](https://open.spotify.com/album/2uJMLYLdpbVvKjhCfsdvmQ) | 4:33 |
 | 52 | [Make You OK](https://open.spotify.com/track/2P5LrxFYiqTtZroqxGVYua) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [On My Own](https://open.spotify.com/album/13rYbd9GeZgppQkgWB4M0H) | 4:17 |
 | 53 | [Stars](https://open.spotify.com/track/4JUYaHt43h8SZQ4lYGsGJP) | [Sam Airey](https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw) | [In Darkened Rooms](https://open.spotify.com/album/6JfAojXzbUT88dpgIjANAG) | 5:22 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 57 | [Standing in the Rain](https://open.spotify.com/track/5CSsYgf57W2MIj98kL1Ufs) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/52nbX1xWBxOQrFSCqepCUz) | 3:41 |
 | 58 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 |
 | 59 | [The Dress Looks Nice on You](https://open.spotify.com/track/0oEyXbHhtUBqKdKHewG8Cn) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:32 |
-| 60 | [Killer + The Sound](https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q) | [Killer + The Sound](https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV) | 7:55 |
+| 60 | [Smother](https://open.spotify.com/track/3MH3oRNyFb5mNm663xcK7T) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG) | 4:01 |
 
 Snapshot ID: `ZPqcQAAAAAC/bNhgPDtrB7DCQDpvxoJN`

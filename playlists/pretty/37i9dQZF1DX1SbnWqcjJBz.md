@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > this should have been her espresso<br/><br/>See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,011 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,078 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,15 +82,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 72 | [It's the Way You Make Me Feel](https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Buzz](https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na) | 3:17 |
 | 73 | [Nothing in This World](https://open.spotify.com/track/4XRGwyAARL21fesc6BvliF) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Paris \(U.S\. Standard Version\)](https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs) | 3:09 |
 | 74 | [Sparks](https://open.spotify.com/track/2ipJSuGf1GtxSIt2KvOGxl) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Breathe In\. Breathe Out.](https://open.spotify.com/album/2hyPisCjBWeFQ90FLwhriT) | 3:05 |
-| 75 | [How to Be a Heartbreaker](https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 3:41 |
-| 76 | [I'm Gonna Show You Crazy](https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:27 |
-| 77 | [You’re Not The One](https://open.spotify.com/track/0Px73m5ACfeYHYsAo9YTfP) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 3:55 |
+| 75 | [Froot](https://open.spotify.com/track/6fk13PEdduHc2HG6JX6imT) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Froot](https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY) | 5:31 |
+| 76 | [You’re Not The One](https://open.spotify.com/track/0Px73m5ACfeYHYsAo9YTfP) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 3:55 |
+| 77 | [I'm Gonna Show You Crazy](https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:27 |
 | 78 | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:56 |
 | 79 | [Here Comes The Night](https://open.spotify.com/track/0o0xvvWmCtMdnJ3F8FBurv) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 3:32 |
 | 80 | [Radar](https://open.spotify.com/track/0awvRwer2ByXjyDSON60Q3) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:48 |
-| 81 | [Strangers](https://open.spotify.com/track/11EDhDAVDtGPoSar6ootYA) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:41 |
-| 82 | [I Want Your Love](https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi) | [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [It’s About Time](https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b) | 4:56 |
-| 83 | [Froot](https://open.spotify.com/track/6fk13PEdduHc2HG6JX6imT) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Froot](https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY) | 5:31 |
+| 81 | [I Want Your Love](https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi) | [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [It’s About Time](https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b) | 4:56 |
+| 82 | [Strangers](https://open.spotify.com/track/11EDhDAVDtGPoSar6ootYA) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:41 |
+| 83 | [How to Be a Heartbreaker](https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 3:41 |
 | 84 | [Girl Gone Wild](https://open.spotify.com/track/6SONqPbbSCVP5rgi0CdRxu) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA \(Deluxe Version\)](https://open.spotify.com/album/6xmfXi6p6SAxD4Rd7swccG) | 3:43 |
 | 85 | [Braveheart](https://open.spotify.com/track/0XUvhSzizkEtPgBr1BZ2an) | [Neon Jungle](https://open.spotify.com/artist/0JEvQJxxsnNUo6LQygr4AL) | [Welcome to the Jungle \(Deluxe\)](https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v) | 3:44 |
 | 86 | [American Girl](https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [American Girl](https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb) | 3:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 
 > Restorative piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,323 likes - 190 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,359 likes - 190 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

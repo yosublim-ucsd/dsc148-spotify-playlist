@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:   <a href=https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=L\_\-49UC4RDGEorulPSll\_g>Naffymar</a>
 
-722 songs - 1 day 17 hr 8 min
+723 songs - 1 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,6 +649,7 @@
 | [The Word](https://open.spotify.com/track/0rCaRP8FF3heR6qE3g8Q13) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [The Word](https://open.spotify.com/album/4yntsBzEnFsAgRU5mektA9) | 2:52 | 2024-02-02 | 2024-04-12 |
 | [There Is A Name](https://open.spotify.com/track/0a9ZwZKGiwBjh9xhBiKSnl) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [There Is A Name](https://open.spotify.com/album/1Ft8PpavYVchFSEmRbSZIH) | 4:32 | 2023-06-09 | 2023-07-07 |
 | [This is The Day](https://open.spotify.com/track/7JAz5nfI0jvnI0wwfIHgEJ) | [Day Three Music](https://open.spotify.com/artist/7iQCW7VpjTEPRFmCEKsLwD), [Femi Sax](https://open.spotify.com/artist/0j0xrYyXTbNsd9wfsLD5Ur) | [This is The Day](https://open.spotify.com/album/5eCpZ7uhC4cKPEqko2abyc) | 5:38 | 2023-06-09 | 2023-06-23 |
+| [This Is the Day \(Halle\)](https://open.spotify.com/track/1FnbReDM3Ly7uxwarVJLp0) | [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ), [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [This Is the Day \(Halle\)](https://open.spotify.com/album/5zRg6TUFbAIpZrwHUNvZEU) | 6:51 | 2024-06-24 |  |
 | [This Love](https://open.spotify.com/track/6XcvPcSl1DET6306WDfnMg) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [This Love](https://open.spotify.com/album/03A2CFWlbSOwA0Lwp0cypJ) | 3:06 | 2023-05-12 | 2023-05-26 |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-04-07 | 2023-10-27 |
 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 | 2023-10-14 | 2024-04-05 |

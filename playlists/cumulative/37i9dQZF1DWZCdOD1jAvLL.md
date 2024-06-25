@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: bbno$
 
-699 songs - 1 day 14 hr 18 min
+700 songs - 1 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [48 Hours \- Radio edit](https://open.spotify.com/track/71YW4ULePshglTMFK3xc29) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [48 Hours \(Radio edit\)](https://open.spotify.com/album/3WetDMZ9SA3D9FQ1ARq20c) | 3:48 | 2023-01-20 | 2023-04-02 |
 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-06-07 |  |
 | [6izarre RAVE \(with 6arelyhuman\)](https://open.spotify.com/track/5IyVZwbeisZ3TiCAFl2PAT) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [6izarre RAVE \(with 6arelyhuman\)](https://open.spotify.com/album/0eOJTyWjH6wM6jSkusqwNW) | 2:48 | 2023-09-01 | 2023-11-11 |
-| [808](https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [808](https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh) | 2:56 | 2024-04-26 |  |
+| [808](https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [808](https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh) | 2:56 | 2024-04-26 | 2024-06-25 |
 | [A Mere Blip In Your Timeline](https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [A Mere Blip In Your Timeline](https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb) | 3:26 | 2023-03-10 | 2023-08-05 |
 | [A Milli \- SIDEPIECE Remix](https://open.spotify.com/track/2jB8Y4OCA1azQrsIkva32z) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [A Milli \(SIDEPIECE Remix\)](https://open.spotify.com/album/7LZc53WdqALyOWeYYOw9nh) | 2:33 | 2023-01-20 |  |
 | [A Milli \- SIDEPIECE Remix](https://open.spotify.com/track/7nDxeN6NDc7v3v774IXiC5) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [A Milli \(SIDEPIECE Remix\)](https://open.spotify.com/album/2CElE4zRNvhLHuRSqdB1pS) | 2:33 | 2023-01-20 | 2024-04-19 |
@@ -146,6 +146,7 @@
 | [Dark & Danger](https://open.spotify.com/track/5sx06tqV0g8C8jZiyTCSJx) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [The Tech Thieves](https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW) | [Dark & Danger](https://open.spotify.com/album/52on97V2vFf9FfCGziCmox) | 2:43 | 2023-07-21 | 2024-01-13 |
 | [Deep Inside Of Me](https://open.spotify.com/track/7j5eg5Mb7n5iapdqY1T74A) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Deep Inside Of Me](https://open.spotify.com/album/5RVbXqlePWY6CrEIWnGpUX) | 3:01 | 2022-07-29 | 2022-08-27 |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-25 | 2022-07-16 |
+| [DELTA](https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [DELTA](https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH) | 2:52 | 2024-06-21 |  |
 | [Desire](https://open.spotify.com/track/4o9qh1t4OlY0CiuTNwhMiG) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC), [Blush](https://open.spotify.com/artist/0kM8578RqYDhRJMOHVMt06) | [Desire](https://open.spotify.com/album/5s21XVqI0I31porPGWJ97T) | 3:27 | 2023-06-23 | 2023-07-15 |
 | [Devil May Cry](https://open.spotify.com/track/3joIyLYfBu6NHnLBdqhXTK) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Devil May Cry](https://open.spotify.com/album/5mc22ijaguY9pYuln4eBdk) | 4:11 | 2023-09-08 | 2023-11-11 |
 | [Dhunga](https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Toxic Rob](https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc) | [Dhunga](https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY) | 2:29 | 2024-04-19 |  |

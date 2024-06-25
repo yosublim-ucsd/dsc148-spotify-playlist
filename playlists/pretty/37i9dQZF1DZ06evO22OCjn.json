@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 283485,
+  "num_followers": 283702,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAABiBgvvrJif4FDJ8aZkY6dO",
+  "snapshot_id": "ZndlgAAAAABKsIzO25N2x4U7XtV9jWsa",
   "tracks": [
     {
       "added_at": null,
@@ -79,26 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 241293,
-      "name": "Location (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -106,11 +86,15 @@
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+      "duration_ms": 159123,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
       "added_at": null,
@@ -131,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220394,
-      "name": "Tested, Approved & Trusted",
-      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Honest (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC"
       },
@@ -163,6 +131,22 @@
       "duration_ms": 207030,
       "name": "Be Honest (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
     },
     {
       "added_at": null,
@@ -203,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 179485,
-      "name": "Giza (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heavy Is The Head",
         "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
       },
@@ -243,6 +207,26 @@
       "duration_ms": 216706,
       "name": "Own It (feat. Ed Sheeran & Burna Boy)",
       "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 179485,
+      "name": "Giza (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
     },
     {
       "added_at": null,
@@ -343,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 187609,
+      "name": "Gbona",
+      "url": "https://open.spotify.com/track/7rpWDu9GPlLxbLorYKVys7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0iFm8vnIeZcrxqAHIBsj6H"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 200501,
-      "name": "Pree Me",
-      "url": "https://open.spotify.com/track/1h1oC8n5nh3IKxCmpUtw85"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -415,6 +399,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0iFm8vnIeZcrxqAHIBsj6H"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 200501,
+      "name": "Pree Me",
+      "url": "https://open.spotify.com/track/1h1oC8n5nh3IKxCmpUtw85"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Oasis (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 179916,
+      "name": "My Oasis (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Twice As Tall",
         "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
       },
@@ -427,6 +447,22 @@
       "duration_ms": 245920,
       "name": "23",
       "url": "https://open.spotify.com/track/0zgeYAouscRmTZ90HM1NA3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF"
     },
     {
       "added_at": null,
@@ -467,22 +503,6 @@
       "duration_ms": 204880,
       "name": "Masculine (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 143042,
-      "name": "Big 7",
-      "url": "https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF"
     },
     {
       "added_at": null,
@@ -579,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE AND COMPROMISE",
-        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
       "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 167186,
-      "name": "Simmer (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b"
+      "duration_ms": 188741,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
     },
     {
       "added_at": null,
@@ -619,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+        "name": "LOVE AND COMPROMISE",
+        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
       "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 188741,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
+      "duration_ms": 167186,
+      "name": "Simmer (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b"
     },
     {
       "added_at": null,
@@ -647,6 +667,22 @@
       "duration_ms": 210346,
       "name": "Common Person",
       "url": "https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 225407,
+      "name": "Dangote",
+      "url": "https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei"
     },
     {
       "added_at": null,
@@ -675,6 +711,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "B. D\u2019OR (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "B. D\u2019OR (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 152692,
+      "name": "Kilometre",
+      "url": "https://open.spotify.com/track/03YUNUpazIbzwqJq2YSBvB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 197558,
+      "name": "Collateral Damage",
+      "url": "https://open.spotify.com/track/5srIkb35ees5dhgjK3zdfz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jerusalema (Deluxe)",
         "url": "https://open.spotify.com/album/4Kf2NqytdWUKXgnvsRVlLR"
       },
@@ -699,54 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 225407,
-      "name": "Dangote",
-      "url": "https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 152692,
-      "name": "Kilometre",
-      "url": "https://open.spotify.com/track/03YUNUpazIbzwqJq2YSBvB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 92342,
-      "name": "More Life",
-      "url": "https://open.spotify.com/track/73e0LixjWj3e8prfptVeGD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afrikan Sauce",
         "url": "https://open.spotify.com/album/4J2sMmMUFcjCExurtDQZJU"
       },
@@ -763,26 +803,6 @@
       "duration_ms": 194526,
       "name": "Afrikan Star",
       "url": "https://open.spotify.com/track/57ZphidHkoCJY20u4QSIZA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195073,
-      "name": "Gum Body (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh"
     },
     {
       "added_at": null,
@@ -807,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 190108,
-      "name": "JA ARA E",
-      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twice As Tall",
         "url": "https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje"
       },
@@ -835,6 +839,38 @@
       "duration_ms": 276536,
       "name": "Bank On It",
       "url": "https://open.spotify.com/track/7862flGk6U3tiWs2m2aUzH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 92342,
+      "name": "More Life",
+      "url": "https://open.spotify.com/track/73e0LixjWj3e8prfptVeGD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "JA ARA E",
+      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
     },
     {
       "added_at": null,
@@ -947,22 +983,6 @@
       "duration_ms": 214408,
       "name": "Yaba Buluku (feat. Preck & Nelson Tivane) - Remix",
       "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 147143,
-      "name": "Omo",
-      "url": "https://open.spotify.com/track/4FtuDjqmTPP9mjxygLKzEm"
     }
   ],
   "unique_name": "This Is Burna Boy",

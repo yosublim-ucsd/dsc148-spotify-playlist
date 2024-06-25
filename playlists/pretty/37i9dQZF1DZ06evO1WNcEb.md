@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 ### [This Is Eyshila](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1WNcEb)
 
-> This is Eyshila\. The essential tracks, all in one playlist.
+> This is Eyshila\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,918 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,953 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 13 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
 | 14 | [Posso Clamar](https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Collection ao Vivo 10 Anos](https://open.spotify.com/album/5biEAG5fgF1JATyUAwcWe6) | 5:34 |
 | 15 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
-| 16 | [Existe Um Nome \- Ao Vivo](https://open.spotify.com/track/1s98FijqLTd89U6pXGS8SF) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Quero Aprender a Orar \(Ao Vivo\)](https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc) | 5:26 |
-| 17 | [A Alma Abatida \- Ao Vivo](https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Palavra Tocada](https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo) | [A Alma Abatida \(Ao Vivo\)](https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ) | 4:36 |
+| 16 | [A Alma Abatida \- Ao Vivo](https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Palavra Tocada](https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo) | [A Alma Abatida \(Ao Vivo\)](https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ) | 4:36 |
+| 17 | [Existe Um Nome \- Ao Vivo](https://open.spotify.com/track/1s98FijqLTd89U6pXGS8SF) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Quero Aprender a Orar \(Ao Vivo\)](https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc) | 5:26 |
 | 18 | [Fala Comigo](https://open.spotify.com/track/1IBWMbYSBLYX36tuMkqcKY) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 6:12 |
 | 19 | [Sopra Espírito \- Na Igreja \- In Memoriam Ludmila Ferber, Ao Vivo](https://open.spotify.com/track/6eFKpkeizLNEbipXtuL9AO) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Sopra Espírito \- Na Igreja \(In Memoriam Ludmila Ferber, Ao Vivo\)](https://open.spotify.com/album/66pj0nSZDWBLGr6htD3P6i) | 5:26 |
 | 20 | [Deus Proverá](https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Proverá](https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm) | 5:35 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 38 | [Na Casa de Deus](https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Na Casa de Deus](https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX) | 4:14 |
 | 39 | [Tu És Bom \(Em Todo o Tempo\)](https://open.spotify.com/track/6Aj8jLNU5ZY699OxF21e6S) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Tu És Bom \(Em Todo o Tempo\)](https://open.spotify.com/album/4hzusKWfCutuWPYLS118Lt) | 5:52 |
 | 40 | [Deus se Lembra](https://open.spotify.com/track/7qZKCnKz71JiDf51s4McIz) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 5:21 |
-| 41 | [Mulher Vitoriosa](https://open.spotify.com/track/3O7Wxr2aFGOXC0zhlORDkT) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:41 |
-| 42 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 |
-| 43 | [Basta um Olhar](https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Sonhos Não Têm Fim](https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5) | 5:28 |
+| 41 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 |
+| 42 | [Basta um Olhar](https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Sonhos Não Têm Fim](https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5) | 5:28 |
+| 43 | [Mulher Vitoriosa](https://open.spotify.com/track/3O7Wxr2aFGOXC0zhlORDkT) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:41 |
 | 44 | [Dependente](https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Tudo Volta ao Seu Lugar](https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5) | 6:31 |
 | 45 | [Com o Teu Fogo](https://open.spotify.com/track/4tZSrmVZ9Q72FJVEbNVjFG) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 5:13 |
 | 46 | [Deus no Controle \- Remix](https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Deus no Controle \- Remix](https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 49 | [Mais Que Uma Voz](https://open.spotify.com/track/25Hh17rnSPTIjoa4y9nBRN) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Gratidão](https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V) | 4:02 |
 | 50 | [Oleiro](https://open.spotify.com/track/6ADpJaVUozhAuh0OjbLd2w) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Oleiro](https://open.spotify.com/album/2HyIjpequVfbPh42JKtmjT) | 4:11 |
 
-Snapshot ID: `ZnYUAAAAAAA4Z4mW6+ASZCU5PdkzYLKV`
+Snapshot ID: `ZndlgAAAAAD+CfSXPp5Wvp3Zu5HCKQOS`

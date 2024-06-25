@@ -710,7 +710,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
@@ -1981,6 +1981,28 @@
     },
     {
       "album": {
+        "name": "Happier (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170358,
+      "name": "Happier (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
+    },
+    {
+      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ"
       },
@@ -2846,7 +2868,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 158822,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
@@ -2886,6 +2908,28 @@
       "duration_ms": 187703,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
+    },
+    {
+      "album": {
+        "name": "Lioness",
+        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172515,
+      "name": "Lioness",
+      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
     },
     {
       "album": {

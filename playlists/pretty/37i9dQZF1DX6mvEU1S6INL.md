@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us—and this awesome alt soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,403 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,400 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 18 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
 | 19 | [Something About Us](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:52 |
 | 20 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
-| 21 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 |
-| 22 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
+| 21 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
+| 22 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 |
 | 23 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 |
 | 24 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
 | 25 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 |
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 53 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
 | 54 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
 | 55 | [Loveless](https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:49 |
-| 56 | [Heart Beat Here](https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:27 |
-| 57 | [She's Casual](https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [100](https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3) | 3:03 |
+| 56 | [She's Casual](https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [100](https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3) | 3:03 |
+| 57 | [Heart Beat Here](https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Crooked Shadows](https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB) | 3:27 |
 | 58 | [Luna \- 2011 Remaster](https://open.spotify.com/track/20Y0ZANdyEI52MfQs6DddK) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/3YDm8Vu6IOjjVdLNHlJtj0) | 3:22 |
 | 59 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
 | 60 | [What's Love \(feat\. MUNA\)](https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [What's Love \(feat\. MUNA\)](https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z) | 3:09 |
-| 61 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
-| 62 | [Love's The Only Way](https://open.spotify.com/track/7eIODQbTgKeNawQtowZJEM) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 4:00 |
+| 61 | [Love's The Only Way](https://open.spotify.com/track/7eIODQbTgKeNawQtowZJEM) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 4:00 |
+| 62 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
 | 63 | [I Told You So](https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [I Told You So](https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j) | 4:14 |
 | 64 | [Weekends](https://open.spotify.com/track/7vEeYo34dX7geZhQVotCJi) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Weekends](https://open.spotify.com/album/72YMCWtcqKgOhAUsn6bEO4) | 3:10 |
 | 65 | [The Birthday Party](https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The Birthday Party](https://open.spotify.com/album/6sZzx2xabT42pyknjFG6zR) | 4:37 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 85 | [Flashed Junk Mind](https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 4:22 |
 | 86 | [Holocene](https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn) | 5:36 |
 | 87 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 |
-| 88 | [I Love You So](https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Songs for Dads](https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5) | 2:40 |
-| 89 | [Seasons \(Waiting On You\)](https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh) | 3:46 |
-| 90 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 |
+| 88 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 |
+| 89 | [I Love You So](https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Songs for Dads](https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5) | 2:40 |
+| 90 | [Seasons \(Waiting On You\)](https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh) | 3:46 |
 | 91 | [Youuu](https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Youuu](https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z) | 3:55 |
 | 92 | [Kiss City](https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 2:23 |
 | 93 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |

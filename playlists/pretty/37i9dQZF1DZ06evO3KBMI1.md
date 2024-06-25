@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,591 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,603 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 31 | [REVERSI](https://open.spotify.com/track/7HiAUL9h0px38LjWchaeR2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:49 |
 | 32 | [echoOZ](https://open.spotify.com/track/1BUBBIuLNVeaoTqRCYxzPx) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 3:38 |
 | 33 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 |
-| 34 | [浮世CROSSING](https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PROGLUTION](https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q) | 4:32 |
-| 35 | [DECIDED \(album ver.\)](https://open.spotify.com/track/27eQZYYlgZ2YRAeVCkX6So) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 4:41 |
+| 34 | [DECIDED \(album ver.\)](https://open.spotify.com/track/27eQZYYlgZ2YRAeVCkX6So) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 4:41 |
+| 35 | [浮世CROSSING](https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PROGLUTION](https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q) | 4:32 |
 | 36 | [美影意志](https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AwakEVE](https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS) | 5:54 |
 | 37 | [AS ONE](https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 3:49 |
-| 38 | [シャカビーチ〜Laka Laka La〜](https://open.spotify.com/track/3cJOvrRzZqaXP7TSzP0SSp) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Neo SOUND BEST](https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6) | 3:56 |
-| 39 | [AVALANCHE](https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AVALANCHE](https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR) | 4:13 |
+| 38 | [AVALANCHE](https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AVALANCHE](https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR) | 4:13 |
+| 39 | [シャカビーチ〜Laka Laka La〜](https://open.spotify.com/track/3cJOvrRzZqaXP7TSzP0SSp) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Neo SOUND BEST](https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6) | 3:56 |
 | 40 | [First Sight](https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:22 |
 | 41 | [MONDO PIECE](https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 5:28 |
 | 42 | [えくぼ](https://open.spotify.com/track/1SjtklLoo3b72GS939fLTf) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 49 | [RANGE](https://open.spotify.com/track/78ane668r0Oq96kSjgyUiB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [DECIDED](https://open.spotify.com/album/01tDdRKQdnikXlEFegVDzA) | 5:21 |
 | 50 | [ONE LIFE](https://open.spotify.com/track/0jZuZviZ9DjdgoOgGxDxKd) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [無双Collaborations \-The undefeated\-](https://open.spotify.com/album/43YpGTcUo1dDHgGyGftoBC) | 3:40 |
 
-Snapshot ID: `ZnYUAAAAAABp7uBIbb0Es6yVYo09Nzo8`
+Snapshot ID: `ZndlgAAAAABEuIN+IQFSnKGtvMJwMf8l`

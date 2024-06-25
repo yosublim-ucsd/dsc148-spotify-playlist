@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 
 > the mood is to scream into your dashboard/choke back tears in the parking lot
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,893 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,816 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 | 22 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 |
 | 23 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
 | 24 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 |
-| 25 | [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 |
-| 26 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
+| 25 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
+| 26 | [Call Out My Name](https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:48 |
 | 27 | [Story of My Life](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 4:05 |
 | 28 | [Shallow](https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:35 |
 | 29 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 | 54 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
 | 55 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
 | 56 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
-| 57 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
-| 58 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
+| 57 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
+| 58 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
 | 59 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 |
 | 60 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 |
 

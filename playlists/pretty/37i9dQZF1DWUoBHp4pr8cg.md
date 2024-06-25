@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Jay Jody \(pictured\), Gunna, Kendrick Lamar, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,787 likes - 66 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,813 likes - 66 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

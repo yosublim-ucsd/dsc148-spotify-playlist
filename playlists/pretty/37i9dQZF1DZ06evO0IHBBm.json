@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAAarqaMDemueI2xJxIuqtdS",
+  "snapshot_id": "ZndlgAAAAADEch+M+CLG7ZdWUvM5zaNI",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 323200,
-      "name": "Sou o Que Sou",
-      "url": "https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Damares 2011 (ao vivo)",
         "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
       },
@@ -739,26 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Ficar Bem",
-        "url": "https://open.spotify.com/album/4eyi0ltwprtwvtFB88Q8Fg"
+        "name": "Obra Prima",
+        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
       },
       "artists": [
-        {
-          "name": "Marias",
-          "url": "https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM"
-        },
-        {
-          "name": "Nai Lopes",
-          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
-        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 116640,
-      "name": "Vai Ficar Bem",
-      "url": "https://open.spotify.com/track/1UOs25N5hEnp4Ic6NeJAva"
+      "duration_ms": 323200,
+      "name": "Sou o Que Sou",
+      "url": "https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5"
     },
     {
       "added_at": null,
@@ -783,6 +759,30 @@
       "duration_ms": 391352,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vai Ficar Bem",
+        "url": "https://open.spotify.com/album/4eyi0ltwprtwvtFB88Q8Fg"
+      },
+      "artists": [
+        {
+          "name": "Marias",
+          "url": "https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM"
+        },
+        {
+          "name": "Nai Lopes",
+          "url": "https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 116640,
+      "name": "Vai Ficar Bem",
+      "url": "https://open.spotify.com/track/1UOs25N5hEnp4Ic6NeJAva"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 2024 yazına damga vuracak şarkılar\. Kapak: cakal
 
-81 songs - 3 hr 54 min
+82 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw) | 2:38 | 2023-09-04 | 2024-06-06 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-09-04 | 2024-04-19 |
 | [Makeba](https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka](https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb) | 4:09 | 2023-09-04 | 2024-06-06 |
-| [Manolya](https://open.spotify.com/track/6MUv30zouC8LeRCB2VCcK3) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Manolya](https://open.spotify.com/album/1bXqjBmgsbKO0I8lUdGCKb) | 3:05 | 2023-09-04 |  |
+| [Manolya](https://open.spotify.com/track/6MUv30zouC8LeRCB2VCcK3) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Manolya](https://open.spotify.com/album/1bXqjBmgsbKO0I8lUdGCKb) | 3:05 | 2023-09-04 | 2024-06-25 |
 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 | 2024-06-05 |  |
 | [N'aptığını bilmesem de](https://open.spotify.com/track/6uNSbvWZgNkBWw3MP7bpnf) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [N'aptığını bilmesem de](https://open.spotify.com/album/7qgd2TX9kzFYbvBl9cavsK) | 2:18 | 2023-09-04 |  |
 | [NERESİ?](https://open.spotify.com/track/69j3pb1B6timV7SEEcfsQ0) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [NERESİ?](https://open.spotify.com/album/3b9rPCIjMeLjOmz4zKuhV7) | 2:50 | 2024-06-05 |  |
@@ -89,5 +89,6 @@
 | [Yolun Sonu](https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Yolun Sonu](https://open.spotify.com/album/17lGO9VxKnbhWh9woALoSR) | 2:41 | 2024-06-05 |  |
 | [Çapkınca](https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [Çapkınca](https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo) | 3:38 | 2023-09-04 | 2024-06-06 |
 | [Çağır](https://open.spotify.com/track/5Q6cDjM0JuvGu2mxulXGwo) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 3:07 | 2023-09-04 | 2024-06-06 |
+| [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-06-24 |  |
 
 \*This playlist was first scraped on 2023-10-25. Prior content cannot be recovered.

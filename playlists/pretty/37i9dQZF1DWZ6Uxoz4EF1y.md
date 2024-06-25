@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,786 likes - 100 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,878 likes - 100 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 57 | [Encontré Mi Lugar](https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu) | [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [Encontré Mi Lugar](https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf) | 4:56 |
 | 58 | [Hasta el Final](https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 3:42 |
 | 59 | [Gracias Cristo](https://open.spotify.com/track/7ygwj3GsJoPm1CV8F5RkWk) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Spanish\)](https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi) | 5:47 |
-| 60 | [Inmenso Amor](https://open.spotify.com/track/4WlN1c3Paa7BeJWmjdcGgs) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:51 |
-| 61 | [Glorioso Eres Tú](https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 4:24 |
+| 60 | [Glorioso Eres Tú](https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 4:24 |
+| 61 | [Inmenso Amor](https://open.spotify.com/track/4WlN1c3Paa7BeJWmjdcGgs) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:51 |
 | 62 | [El Dios Que Cambia Nombre](https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b) | [Héctor Delgado](https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [El Dios Que Cambia Nombre](https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO) | 3:39 |
 | 63 | [Cristo Vive En Mi](https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD) | [Neil Velez](https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO) | [Dios Es Capaz](https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP) | 5:12 |
 | 64 | [Barra Libre](https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj), [Mariana Michelle](https://open.spotify.com/artist/5y6BlN7Upv1rDL15vDVadU) | [Barra Libre](https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ) | 3:26 |

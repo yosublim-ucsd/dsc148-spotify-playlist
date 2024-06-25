@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,748,318 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,748,288 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 40 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
 | 41 | [The Worst](https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:14 |
 | 42 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 |
-| 43 | [Just Might \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:25 |
-| 44 | [TMW](https://open.spotify.com/track/19Dhj2zNpcTX2mBYrxlkax) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [TMW](https://open.spotify.com/album/6lcg2uyc0h2IxH0zZqELyY) | 2:08 |
+| 43 | [TMW](https://open.spotify.com/track/19Dhj2zNpcTX2mBYrxlkax) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [TMW](https://open.spotify.com/album/6lcg2uyc0h2IxH0zZqELyY) | 2:08 |
+| 44 | [Just Might \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:25 |
 | 45 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 |
 | 46 | [Jungle](https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:20 |
 | 47 | [Coaster](https://open.spotify.com/track/39KG4kom3enSx4GTThuDGt) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:19 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 95 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
 | 96 | [The Makeup Song](https://open.spotify.com/track/6M3i2UuZwjK8WH6lZ6yj43) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [The Makeup Song](https://open.spotify.com/album/6y3ijUB7hZt3FMWaWk0vw0) | 2:40 |
 | 97 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 |
-| 98 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 |
-| 99 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 |
+| 98 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 |
+| 99 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 |
 | 100 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
 
 Snapshot ID: `ZnUNXQAAAABiWsyKYpi9LphPhiMH8OuH`

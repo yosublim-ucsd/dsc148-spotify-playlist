@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,843 likes - 150 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,933 likes - 150 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xGYzRKzf3A.md) - [plain]
 | 18 | [Broche de Oro](https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:36 |
 | 19 | [A Ella](https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [A Ellas](https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u) | 3:46 |
 | 20 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
-| 21 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 |
-| 22 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 |
+| 21 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 |
+| 22 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 |
 | 23 | [Loco](https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Todo tuyo](https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei) | 3:55 |
 | 24 | [Soñador Eterno](https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 2:57 |
 | 25 | [Fíjate Que Sí](https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Me Hiciste un Borracho](https://open.spotify.com/album/5TygJYGHWzNvVj8mWcSOGW) | 3:24 |
-| 26 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 |
-| 27 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 |
+| 26 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 |
+| 27 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 |
 | 28 | [Eslabón Por Eslabón](https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ni Dada La Quiero](https://open.spotify.com/album/1wJklr611fFhZoveD89y4F) | 3:02 |
 | 29 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 |
 | 30 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 |

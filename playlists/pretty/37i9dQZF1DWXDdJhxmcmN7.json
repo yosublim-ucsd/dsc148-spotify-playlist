@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 30468,
+  "num_followers": 30476,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -719,26 +719,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "van life",
-        "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
-      },
-      "artists": [
-        {
-          "name": "Jose Bautista",
-          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
-        },
-        {
-          "name": "Acrylic Sleep",
-          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
-        }
-      ],
-      "duration_ms": 135714,
-      "name": "van life",
-      "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 150500,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "van life",
+        "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
+      },
+      "artists": [
+        {
+          "name": "Jose Bautista",
+          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+        }
+      ],
+      "duration_ms": 135714,
+      "name": "van life",
+      "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1087,18 +1087,26 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Sayulita Vibes",
-        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
+        "name": "Timeless Era",
+        "url": "https://open.spotify.com/album/1povYT4DUpB41SrrLCCKQP"
       },
       "artists": [
         {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Raouf Beats",
+          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 118588,
-      "name": "Sayulita Vibes",
-      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
+      "duration_ms": 101250,
+      "name": "Timeless Era",
+      "url": "https://open.spotify.com/track/29QB4Q8n1EvBEeYTTpRAjo"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1139,46 +1147,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Timeless Era",
-        "url": "https://open.spotify.com/album/1povYT4DUpB41SrrLCCKQP"
+        "name": "Sayulita Vibes",
+        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
       },
       "artists": [
         {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Raouf Beats",
-          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
         }
       ],
-      "duration_ms": 101250,
-      "name": "Timeless Era",
-      "url": "https://open.spotify.com/track/29QB4Q8n1EvBEeYTTpRAjo"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Sleepy Suburbs",
-        "url": "https://open.spotify.com/album/7aRJBLnUsOAc7Gzaz9e3TV"
-      },
-      "artists": [
-        {
-          "name": "Dormilon",
-          "url": "https://open.spotify.com/artist/5h6fEVz6nTxEzv5JXJKa1P"
-        },
-        {
-          "name": "J. Lorenzo",
-          "url": "https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Sleepy Suburbs",
-      "url": "https://open.spotify.com/track/0UEqYDmve0snOYnJ0qOXP8"
+      "duration_ms": 118588,
+      "name": "Sayulita Vibes",
+      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1207,18 +1187,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Just A Cool Day",
-        "url": "https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI"
+        "name": "Sleepy Suburbs",
+        "url": "https://open.spotify.com/album/7aRJBLnUsOAc7Gzaz9e3TV"
       },
       "artists": [
         {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+          "name": "Dormilon",
+          "url": "https://open.spotify.com/artist/5h6fEVz6nTxEzv5JXJKa1P"
+        },
+        {
+          "name": "J. Lorenzo",
+          "url": "https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN"
         }
       ],
-      "duration_ms": 115500,
-      "name": "Just A Cool Day",
-      "url": "https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc"
+      "duration_ms": 147000,
+      "name": "Sleepy Suburbs",
+      "url": "https://open.spotify.com/track/0UEqYDmve0snOYnJ0qOXP8"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1239,6 +1223,26 @@
       "duration_ms": 128571,
       "name": "A Safe Place",
       "url": "https://open.spotify.com/track/21PTw4ZyO1tYiAmNZWQm6f"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "La Feria",
+      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1287,22 +1291,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+        "name": "Just A Cool Day",
+        "url": "https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI"
       },
       "artists": [
         {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
         }
       ],
-      "duration_ms": 104013,
-      "name": "La Feria",
-      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
+      "duration_ms": 115500,
+      "name": "Just A Cool Day",
+      "url": "https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "somewhere, nowhere.",
-        "url": "https://open.spotify.com/album/4raL3WCI3x7NqCh8dqcZKC"
-      },
-      "artists": [
-        {
-          "name": "AGM",
-          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
-        }
-      ],
-      "duration_ms": 112663,
-      "name": "i shouldn't have done that...",
-      "url": "https://open.spotify.com/track/4Fl52C3mzmr66yD022Sj4r"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "alone alone",
         "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
       },
@@ -1527,22 +1511,6 @@
       "duration_ms": 90933,
       "name": "alone alone",
       "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E"
-      },
-      "artists": [
-        {
-          "name": "Andros",
-          "url": "https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7"
-        }
-      ],
-      "duration_ms": 74347,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/6YnukfWzdA6GnBzWgY4Had"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1563,54 +1531,34 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Lofi En La Mamalona",
-        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
+        "name": "somewhere, nowhere.",
+        "url": "https://open.spotify.com/album/4raL3WCI3x7NqCh8dqcZKC"
       },
       "artists": [
         {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "AGM",
+          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
         }
       ],
-      "duration_ms": 116666,
-      "name": "Lofi En La Mamalona",
-      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
+      "duration_ms": 112663,
+      "name": "i shouldn't have done that...",
+      "url": "https://open.spotify.com/track/4Fl52C3mzmr66yD022Sj4r"
     },
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Hide n Seek",
-        "url": "https://open.spotify.com/album/74pTOHJtHYc0XRiCADv0q4"
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E"
       },
       "artists": [
         {
-          "name": "Outdream",
-          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
+          "name": "Andros",
+          "url": "https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7"
         }
       ],
-      "duration_ms": 130714,
-      "name": "Hide n Seek",
-      "url": "https://open.spotify.com/track/6NQ5urTIuViE6DUYB2mXCa"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "find me",
-        "url": "https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd"
-      },
-      "artists": [
-        {
-          "name": "Shy Guy",
-          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
-        }
-      ],
-      "duration_ms": 128118,
-      "name": "find me",
-      "url": "https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX"
+      "duration_ms": 74347,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/6YnukfWzdA6GnBzWgY4Had"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1631,6 +1579,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Hide n Seek",
+        "url": "https://open.spotify.com/album/74pTOHJtHYc0XRiCADv0q4"
+      },
+      "artists": [
+        {
+          "name": "Outdream",
+          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
+        }
+      ],
+      "duration_ms": 130714,
+      "name": "Hide n Seek",
+      "url": "https://open.spotify.com/track/6NQ5urTIuViE6DUYB2mXCa"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "un lugar tranquilo",
         "url": "https://open.spotify.com/album/1UhnAhjNCNlqNg7964Er1a"
       },
@@ -1647,6 +1611,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "find me",
+        "url": "https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd"
+      },
+      "artists": [
+        {
+          "name": "Shy Guy",
+          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
+        }
+      ],
+      "duration_ms": 128118,
+      "name": "find me",
+      "url": "https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Sundown Reflections",
         "url": "https://open.spotify.com/album/51g8wnW8XG4LcrsUYLuO9v"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 135652,
       "name": "Sundown Reflections",
       "url": "https://open.spotify.com/track/5ss1SSBpwUrhz1ibWzNiJm"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Lofi En La Mamalona",
+        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
+      },
+      "artists": [
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 116666,
+      "name": "Lofi En La Mamalona",
+      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
     },
     {
       "added_at": "2024-05-03 06:00:00",

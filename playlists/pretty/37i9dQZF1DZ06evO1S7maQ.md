@@ -2,39 +2,39 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 ### [This Is Bruce Springsteen](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1S7maQ)
 
-> This is Bruce Springsteen\. The essential tracks, all in one playlist.
+> This is Bruce Springsteen\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,599 likes - 51 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,784 likes - 51 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Downbound Train \- Live at LA Memorial Coliseum, Los Angeles, CA \- 9/27/1985](https://open.spotify.com/track/08xrGsq938BBXHX9yRwDyB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Born in the U.S.A\. Tour '84 \- '85](https://open.spotify.com/album/7I1AeiGL76IsHls98I6xEe) | 4:12 |
-| 2 | [Streets of Philadelphia \- Single Edit](https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 3:15 |
-| 3 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:35 |
+| 2 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 |
+| 3 | [Streets of Philadelphia \- Single Edit](https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 3:15 |
 | 4 | [Hungry Heart](https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 3:19 |
 | 5 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 |
-| 6 | [Secret Garden](https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 4:26 |
-| 7 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
+| 6 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:35 |
+| 7 | [Secret Garden](https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 4:26 |
 | 8 | [The River](https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 5:01 |
 | 9 | [Thunder Road](https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:48 |
-| 10 | [Tougher Than the Rest](https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:33 |
-| 11 | [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:38 |
+| 10 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
+| 11 | [Tougher Than the Rest](https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:33 |
 | 12 | [Waitin' On A Sunny Day](https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:16 |
 | 13 | [Sad Eyes \- Studio Outtake \- 1990](https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:47 |
-| 14 | [Brilliant Disguise](https://open.spotify.com/track/0nqbZ17t9v52SCemAm1QP0) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:14 |
-| 15 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 |
+| 14 | [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:38 |
+| 15 | [Brilliant Disguise](https://open.spotify.com/track/0nqbZ17t9v52SCemAm1QP0) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:14 |
 | 16 | [Tenth Avenue Freeze\-Out](https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:10 |
 | 17 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 |
-| 18 | [The Rising](https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:47 |
-| 19 | [I'm Goin' Down](https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 3:29 |
+| 18 | [My Hometown](https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:39 |
+| 19 | [The Rising](https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:47 |
 | 20 | [Human Touch](https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Human Touch](https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF) | 6:28 |
 | 21 | [The Promised Land](https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:28 |
-| 22 | [Letter To You](https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 4:55 |
-| 23 | [No Surrender](https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:00 |
+| 22 | [I'm Goin' Down](https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 3:29 |
+| 23 | [Letter To You](https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 4:55 |
 | 24 | [If I Should Fall Behind](https://open.spotify.com/track/2mOGLiSTUeki1l9t1BBNRQ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Lucky Town](https://open.spotify.com/album/1QhxV1m7N8SppKjXmj510h) | 2:57 |
 | 25 | [Prove It All Night](https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 3:57 |
-| 26 | [Ghosts](https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 5:54 |
-| 27 | [Atlantic City](https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:56 |
+| 26 | [Atlantic City](https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:56 |
+| 27 | [Ghosts](https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 5:54 |
 | 28 | [Because the Night](https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Promise](https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9) | 3:25 |
 | 29 | [Lonesome Day](https://open.spotify.com/track/0R9q3imnid244T1ty47MGs) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:05 |
 | 30 | [Radio Nowhere](https://open.spotify.com/track/7zrHnJ87htwgS20PzFmgTr) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Magic](https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z) | 3:19 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 50 | [Fire](https://open.spotify.com/track/0Tk2agqmwJajtoX6sCxngb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Promise](https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9) | 4:08 |
 | 51 | [Wrecking Ball](https://open.spotify.com/track/4LKlmGTWGY8SHfIw0c9jQu) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Wrecking Ball](https://open.spotify.com/album/75kN1qUWvE10QcnpE6nEsM) | 5:47 |
 
-Snapshot ID: `ZnYUAAAAAABkSGptvnytQ3Tl+INJiGQG`
+Snapshot ID: `ZndlgAAAAACj0vr1+UTGdgjYmqvUwkkF`

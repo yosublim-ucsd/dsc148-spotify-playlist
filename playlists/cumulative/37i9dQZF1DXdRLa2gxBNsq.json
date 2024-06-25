@@ -526,7 +526,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 159642,
       "name": "Criatura",
       "url": "https://open.spotify.com/track/1YGKtbd0E2PSTuwc2jOBxt"
@@ -1334,6 +1334,24 @@
       "duration_ms": 240117,
       "name": "Herida de Guerra",
       "url": "https://open.spotify.com/track/5KoHwSm2KNjjm1O26hIjby"
+    },
+    {
+      "album": {
+        "name": "Ahora que se ha ido el sol",
+        "url": "https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl"
+      },
+      "artists": [
+        {
+          "name": "Konsumo Respeto",
+          "url": "https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP"
+        }
+      ],
+      "date_added": "2024-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240986,
+      "name": "Herida de guerra",
+      "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
     },
     {
       "album": {

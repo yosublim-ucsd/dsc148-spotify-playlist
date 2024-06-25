@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-949 songs - 1 day 23 hr 16 min
+950 songs - 1 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Ben Bilmem](https://open.spotify.com/track/0V3ZiQzJE6q4jTfJjYw6Ib) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Gel De Sevme](https://open.spotify.com/album/6XflKqxcrRKzVzLQN0RNBZ) | 3:10 | 2021-05-10 | 2021-05-30 |
 | [Ben Gibi Bakmaz](https://open.spotify.com/track/3QWpTf2VIdELYUUiKJAXlI) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Ben Gibi Bakmaz](https://open.spotify.com/album/6IU59t2Ujxo6PfliB9y3kQ) | 3:31 | 2021-03-27\* | 2021-05-25 |
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-04-25 |  |
+| [Ben Sarhoş Oldum](https://open.spotify.com/track/4ObQ5sbaP5PDCSfv1y6RdT) | [Kamuran Akkor](https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR) | [Sev Yeter](https://open.spotify.com/album/5DjAnvhJUznmnHW55brdfO) | 3:30 | 2024-06-24 |  |
 | [Bence de Zor](https://open.spotify.com/track/4h4700vf4w6WDo1Bh9OBAg) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bence de Zor](https://open.spotify.com/album/3C9rw1MMew1lL55I9eJYrB) | 2:36 | 2021-04-11 | 2021-05-23 |
 | [Benden Bir Tane Daha Yok](https://open.spotify.com/track/5vbUKpzqUdNHi68OmxdmBC) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Afrodizyak](https://open.spotify.com/album/4TMsAIQX08fIY9pfSE2y7G) | 2:19 | 2023-06-24 | 2023-09-08 |
 | [Benden Bir Tane Daha Yok](https://open.spotify.com/track/38t5dhK8APbBXzqGpPgTJP) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Benden Bir Tane Daha Yok](https://open.spotify.com/album/1hFtzZ9LgsPTjKdiTAAil0) | 2:19 | 2023-05-03 | 2023-06-25 |
@@ -435,7 +436,7 @@
 | [Hotbox](https://open.spotify.com/track/5dXvWrwLhWdEeDdpYD4E08) | [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Hotbox](https://open.spotify.com/album/5HEe9U91C9uUsL9DwUxdmh) | 2:20 | 2022-03-12 | 2022-03-14 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 | 2023-10-28 | 2023-11-25 |
-| [Hüznü Hecem](https://open.spotify.com/track/6pZ31N4gd3Yk9277ptUHjb) | [Yener Çevik](https://open.spotify.com/artist/5rBUMBV7L6zPsEKnlgiOm9) | [Sokak Dili ve Edebiyatı](https://open.spotify.com/album/148veG8wJsbaT3RrrQljiG) | 2:38 | 2024-04-15 |  |
+| [Hüznü Hecem](https://open.spotify.com/track/6pZ31N4gd3Yk9277ptUHjb) | [Yener Çevik](https://open.spotify.com/artist/5rBUMBV7L6zPsEKnlgiOm9) | [Sokak Dili ve Edebiyatı](https://open.spotify.com/album/148veG8wJsbaT3RrrQljiG) | 2:38 | 2024-04-15 | 2024-06-25 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-01 | 2024-05-19 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-06-03 | 2021-09-24 |
 | [ICARDI / PREGA TILL I DIE](https://open.spotify.com/track/0zSRhN1sX2F9DbE9KxNcIS) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [ICARDI / PREGA TILL I DIE](https://open.spotify.com/album/0EYPzmfR0dtePkP6q3HE8O) | 1:59 | 2023-09-16 | 2023-09-18 |

@@ -3193,6 +3193,32 @@
     },
     {
       "album": {
+        "name": "Slime Language",
+        "url": "https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Dirty Shoes (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5yh7nX2VqXUWjBVAzEwtVn"
+    },
+    {
+      "album": {
         "name": "Dizzy",
         "url": "https://open.spotify.com/album/3dJOFNc7vaO7m4nxZ7HhYF"
       },
@@ -6110,7 +6136,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 207650,
       "name": "Juice WRLD DID (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/47IySiC5o08gz0z5VDiH93"
@@ -7260,6 +7286,24 @@
       "duration_ms": 130200,
       "name": "Mad bout that",
       "url": "https://open.spotify.com/track/7nZwBbH8F8FqArrVIe8Zl4"
+    },
+    {
+      "album": {
+        "name": "Valedictorian [Deluxe]",
+        "url": "https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137158,
+      "name": "Magic Johnson",
+      "url": "https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5"
     },
     {
       "album": {
@@ -10637,6 +10681,36 @@
     },
     {
       "album": {
+        "name": "Slime Language",
+        "url": "https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220986,
+      "name": "Scoliosis (feat. Gunna & Duke)",
+      "url": "https://open.spotify.com/track/2AKWKzRCuyuMJzMzsJKr8G"
+    },
+    {
+      "album": {
         "name": "Second Day Out",
         "url": "https://open.spotify.com/album/0P02ahe5RNTDXEKXIbQmMv"
       },
@@ -11682,6 +11756,28 @@
       "duration_ms": 238026,
       "name": "Sup Mate (feat. Future)",
       "url": "https://open.spotify.com/track/0zNHMc1cGKe4MO5rtGtKRh"
+    },
+    {
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184093,
+      "name": "Surf (feat. Gunna)",
+      "url": "https://open.spotify.com/track/6igOR5QCn09zAVF2ikZjsV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Luisa Almaguer
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,455 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,470 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 57 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
 | 58 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 |
 | 59 | [cartulinas de colores](https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [cartulinas de colores](https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC) | 2:39 |
-| 60 | [chicle y mora!](https://open.spotify.com/track/4F7pXGey6YeaSbfoGcA2ge) | [Aguadulce](https://open.spotify.com/artist/4auAGOJ6ThawwUY6AJ5ltz) | [chicle y mora!](https://open.spotify.com/album/3k3NKGAOwiWUvXviiLvrYd) | 3:28 |
-| 61 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
-| 62 | [Prendas Nuevas](https://open.spotify.com/track/39e0dif18KfsiW3XI7CLlN) | [k onda](https://open.spotify.com/artist/71W0pSc6iDkFYwoFL7fUJE), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Prendas Nuevas](https://open.spotify.com/album/0dRuyWtNthFiwfM054JJ10) | 2:37 |
+| 60 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
+| 61 | [Prendas Nuevas](https://open.spotify.com/track/39e0dif18KfsiW3XI7CLlN) | [k onda](https://open.spotify.com/artist/71W0pSc6iDkFYwoFL7fUJE), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Prendas Nuevas](https://open.spotify.com/album/0dRuyWtNthFiwfM054JJ10) | 2:37 |
+| 62 | [chicle y mora!](https://open.spotify.com/track/4F7pXGey6YeaSbfoGcA2ge) | [Aguadulce](https://open.spotify.com/artist/4auAGOJ6ThawwUY6AJ5ltz) | [chicle y mora!](https://open.spotify.com/album/3k3NKGAOwiWUvXviiLvrYd) | 3:28 |
 | 63 | [VCR](https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5) | [Atomic Rose](https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI) | [VCR](https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb) | 3:35 |
 | 64 | [me pongo un poco sad](https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe) | [tomásss](https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw) | [me pongo un poco sad](https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U) | 3:19 |
 | 65 | [los pies](https://open.spotify.com/track/3hZ20RZMCSjJfRdoyUVncW) | [Mina con N](https://open.spotify.com/artist/1hFYEvNr5V7JBuqxznqpm7), [Lorenzo Engell](https://open.spotify.com/artist/5w5VigociNIme6JiUUGkgN) | [Mina con N](https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl) | 3:06 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 70 | [¿Qué te falta?](https://open.spotify.com/track/6rJUYVdXXdlShGL0r9jOWg) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [¿Qué te falta?](https://open.spotify.com/album/2BgSxItWXrQllkGhbj5oan) | 3:19 |
 | 71 | [En Todas Partes](https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [En Todas Partes](https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof) | 3:37 |
 | 72 | [Noche Humana](https://open.spotify.com/track/4EV0dOT6mZUtEpT3JTULwI) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Fin De Los Tiempos](https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL) | 3:20 |
-| 73 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
-| 74 | [Burrito](https://open.spotify.com/track/7nrXB3YeDpUhgbvJBuxnVy) | [13deMarzo](https://open.spotify.com/artist/3OeRfHBe5dfguqSQn0cMpy), [Only](https://open.spotify.com/artist/0hTpzLejwiEa2ClxGbVvty) | [Burrito](https://open.spotify.com/album/7pdk7DN18zNmpDqOyeQZwo) | 1:46 |
+| 73 | [Burrito](https://open.spotify.com/track/7nrXB3YeDpUhgbvJBuxnVy) | [13deMarzo](https://open.spotify.com/artist/3OeRfHBe5dfguqSQn0cMpy), [Only](https://open.spotify.com/artist/0hTpzLejwiEa2ClxGbVvty) | [Burrito](https://open.spotify.com/album/7pdk7DN18zNmpDqOyeQZwo) | 1:46 |
+| 74 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
 | 75 | [Púrpura](https://open.spotify.com/track/6ywLikYlFCD37Lnxj8HJzT) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Púrpura](https://open.spotify.com/album/0aE88J0mVDgopOv7Qc6V1Z) | 3:44 |
 
 Snapshot ID: `ZnV5zAAAAABmuoWCn4oAm75aKWilI0yF`

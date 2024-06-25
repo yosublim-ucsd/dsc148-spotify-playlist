@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,107 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,173 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 18 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 |
 | 19 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
 | 20 | [Alles aus Liebe](https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Kauf mich! \(Deluxe\-Edition mit Bonus\-Tracks\)](https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc) | 4:32 |
-| 21 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
-| 22 | [Nur ein bisschen](https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Nur ein bisschen](https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA) | 2:41 |
+| 21 | [Nur ein bisschen](https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Nur ein bisschen](https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA) | 2:41 |
+| 22 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
 | 23 | [Morgen](https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Morgen](https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv) | 2:15 |
 | 24 | [Kein Liebeslied](https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Mit K](https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9) | 4:18 |
 | 25 | [Kleiner Finger Schwur](https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Kleiner Finger Schwur](https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn) | 2:48 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 33 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
 | 34 | [Wenn Du mich lässt](https://open.spotify.com/track/6Ey7KSTV0Zx0fnxOw6bdK8) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Wenn Du mich lässt](https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn) | 3:02 |
 | 35 | [Sag deinem Ex](https://open.spotify.com/track/2f00EC28b8bsBL0uAH61Gv) | [JONA](https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6) | [Sag deinem Ex](https://open.spotify.com/album/4JnsQzKHYZGcYF1v2YW4Jr) | 2:03 |
-| 36 | [Liege wieder wach](https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Liege wieder wach](https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb) | 2:56 |
-| 37 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
+| 36 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
+| 37 | [Liege wieder wach](https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Liege wieder wach](https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb) | 2:56 |
 | 38 | [mailbox](https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Mailbox](https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa) | 2:54 |
 | 39 | [Blaue Augen](https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Blaue Augen](https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc) | 2:47 |
 | 40 | [Kaum Erwarten](https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 3:13 |

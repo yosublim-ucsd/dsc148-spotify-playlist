@@ -1,12 +1,12 @@
 {
-  "description": "This is Humbe. The essential tracks, all in one playlist.",
-  "num_followers": 184676,
+  "description": "This Is Humbe. Los temas esenciales, todos en una lista.",
+  "num_followers": 184972,
   "original_name": "This Is Humbe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAABgqytl1HPwdf9jcb7yWD2j",
+  "snapshot_id": "ZndlgAAAAACQqByg7cdoKAWqWjVaDCsJ",
   "tracks": [
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "bien hecho",
-        "url": "https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU"
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 241038,
-      "name": "bien hecho",
-      "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
+      "duration_ms": 229709,
+      "name": "\u00faltimamente",
+      "url": "https://open.spotify.com/track/71g1VxcoHbNrCTSiO2WarV"
     },
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+        "name": "bien hecho",
+        "url": "https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 229709,
-      "name": "\u00faltimamente",
-      "url": "https://open.spotify.com/track/71g1VxcoHbNrCTSiO2WarV"
+      "duration_ms": 241038,
+      "name": "bien hecho",
+      "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
     },
     {
       "added_at": null,

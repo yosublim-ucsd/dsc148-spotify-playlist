@@ -1,12 +1,12 @@
 {
-  "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 241431,
+  "description": "This is Shania Twain. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 241494,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAADANlfi7SzXRNylQ1KjykxI",
+  "snapshot_id": "ZndlgAAAAAAchUuxpsRtIZ2vltGrSvSu",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 212224,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Woman In Me",
         "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
@@ -43,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over (Diamond Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+        "name": "Greatest Hits (Remastered 2023)",
+        "url": "https://open.spotify.com/album/7sGhX3TPiZuJRbYJRFBOsI"
       },
       "artists": [
         {
@@ -52,9 +68,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 233414,
-      "name": "Man! I Feel Like A Woman!",
-      "url": "https://open.spotify.com/track/2mqaYmF0XmV8egZB6jQOtN"
+      "duration_ms": 237939,
+      "name": "From This Moment On - Pop On-Tour Version / Remastered 2023",
+      "url": "https://open.spotify.com/track/6rsDkvbgiAkMWWudkR57IP"
     },
     {
       "added_at": null,
@@ -79,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
       },
       "artists": [
         {
@@ -88,9 +104,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 218866,
-      "name": "That Don't Impress Me Much",
-      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
+      "duration_ms": 239085,
+      "name": "That Don't Impress Me Much - International Mix",
+      "url": "https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq"
     },
     {
       "added_at": null,
@@ -111,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over (Diamond Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
@@ -120,9 +136,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 239085,
-      "name": "That Don't Impress Me Much - International Mix",
-      "url": "https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq"
+      "duration_ms": 218866,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
     },
     {
       "added_at": null,
@@ -143,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 214863,
+      "name": "Honey, I'm Home",
+      "url": "https://open.spotify.com/track/6wVQwC2P8K4e3poaJ6ieRh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits (Remastered 2023)",
         "url": "https://open.spotify.com/album/7sGhX3TPiZuJRbYJRFBOsI"
       },
@@ -155,38 +187,6 @@
       "duration_ms": 241693,
       "name": "Whose Bed Have Your Boots Been Under? - Radio Edit / Remastered 2023",
       "url": "https://open.spotify.com/track/5mf2zOGnK1fr54nezMPYnU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "You Win My Love",
-      "url": "https://open.spotify.com/track/2lKA9bNdd4kAoeHiufa0aK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come On Over (Diamond Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 211124,
-      "name": "You've Got A Way",
-      "url": "https://open.spotify.com/track/1OuEcnthR9ePQHtZqNcZSf"
     },
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 211124,
+      "name": "You've Got A Way",
+      "url": "https://open.spotify.com/track/1OuEcnthR9ePQHtZqNcZSf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up! (Green Version)",
         "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 172906,
       "name": "Up!",
       "url": "https://open.spotify.com/track/4dIrj82d70x7vGmUxTyOYC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come On Over (Diamond Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 214011,
-      "name": "Don't Be Stupid (You Know I Love You)",
-      "url": "https://open.spotify.com/track/6qHg6trMgxUz7TuAgc4gnC"
     },
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 214011,
+      "name": "Don't Be Stupid (You Know I Love You)",
+      "url": "https://open.spotify.com/track/6qHg6trMgxUz7TuAgc4gnC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Party For Two",
         "url": "https://open.spotify.com/album/6bkLKyiAoJZ9clOYQs5PSo"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 212640,
       "name": "Party For Two - Country Version With Intro",
       "url": "https://open.spotify.com/track/55kykeNfV69sx779NZrJ7s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come On Over (Diamond Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 213512,
-      "name": "Love Gets Me Every Time",
-      "url": "https://open.spotify.com/track/7fw27B5y14BRfY2BH65vq0"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 213512,
+      "name": "Love Gets Me Every Time",
+      "url": "https://open.spotify.com/track/7fw27B5y14BRfY2BH65vq0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shania Twain",
         "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 144466,
       "name": "Dance With The One That Brought You",
       "url": "https://open.spotify.com/track/0XIsMMHjiqpXi4BUV1695T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come On Over (Diamond Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 173761,
-      "name": "Come On Over",
-      "url": "https://open.spotify.com/track/2xjUJZaBY9oiUZ8OsobzzE"
     },
     {
       "added_at": null,
@@ -419,38 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waking Up Dreaming",
-        "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 198802,
-      "name": "Waking Up Dreaming",
-      "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shania Twain",
-        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "What Made You Say That - Single Version",
-      "url": "https://open.spotify.com/track/2ITLIytT1VERgqERFU9bG4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show Pony",
         "url": "https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT"
       },
@@ -467,6 +435,38 @@
       "duration_ms": 232773,
       "name": "Legends Never Die - with Shania Twain",
       "url": "https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now (Deluxe)",
+        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Life's About To Get Good",
+      "url": "https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shania Twain",
+        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "What Made You Say That - Single Version",
+      "url": "https://open.spotify.com/track/2ITLIytT1VERgqERFU9bG4"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 248866,
-      "name": "Nah! - Red Version",
-      "url": "https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6"
+      "duration_ms": 240533,
+      "name": "Thank You Baby! (For Makin' Someday Come So Soon) - Red Version",
+      "url": "https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW"
     },
     {
       "added_at": null,
@@ -632,9 +632,25 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 240533,
-      "name": "Thank You Baby! (For Makin' Someday Come So Soon) - Red Version",
-      "url": "https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW"
+      "duration_ms": 248866,
+      "name": "Nah! - Red Version",
+      "url": "https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up! (Red and Blue Versions)",
+        "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "It Only Hurts When I'm Breathing - Red Version",
+      "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
     },
     {
       "added_at": null,
@@ -671,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Red and Blue Versions)",
-        "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "It Only Hurts When I'm Breathing - Red Version",
-      "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up!",
         "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 253240,
-      "name": "Home Ain't Where His Heart Is (Anymore)",
-      "url": "https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen Of Me",
         "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 159256,
       "name": "Pretty Liar",
       "url": "https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 253240,
+      "name": "Home Ain't Where His Heart Is (Anymore)",
+      "url": "https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Of Me",
-        "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
       },
       "artists": [
         {
@@ -812,9 +812,25 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 178098,
-      "name": "Queen Of Me",
-      "url": "https://open.spotify.com/track/5HONmel0YqVDMLTtcyWLhX"
+      "duration_ms": 101600,
+      "name": "Amneris' Letter",
+      "url": "https://open.spotify.com/track/4YG6ExrhpM70470IyMZYYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 220040,
+      "name": "If It Don't Take Two",
+      "url": "https://open.spotify.com/track/55lqPo4yhu3RBUaxkS6hPz"
     },
     {
       "added_at": null,
@@ -831,22 +847,6 @@
       "duration_ms": 165466,
       "name": "God Ain't Gonna Getcha For That",
       "url": "https://open.spotify.com/track/6vUlju9dCuNHAxwK5P860J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aida",
-        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 101600,
-      "name": "Amneris' Letter",
-      "url": "https://open.spotify.com/track/4YG6ExrhpM70470IyMZYYz"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,213 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,392 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 4 | [Jungs](https://open.spotify.com/track/1jho4k3ZW3EcDEKDuoAaEs) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Jungs](https://open.spotify.com/album/6xck8Dqp9molj0ILkbwMbV) | 2:36 |
 | 5 | [Van Gogh](https://open.spotify.com/track/3MWBw4s7TTCp6g0GDxI3LO) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Yu & Me](https://open.spotify.com/album/02z0imGAclK26oxzu2mVr1) | 2:27 |
 | 6 | [PLANLOS](https://open.spotify.com/track/0F6IxFTC51t82jREszsQtb) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [PLANLOS](https://open.spotify.com/album/07cnvUEajLMKQLEv0qMWTr) | 2:40 |
-| 7 | [Es könnte kaum schöner sein](https://open.spotify.com/track/33MXR5r04svgngdnT1odIR) | [Paul Gerlinger](https://open.spotify.com/artist/3Jh90nIsxexWk4CfSv8EBV) | [Es könnte kaum schöner sein](https://open.spotify.com/album/4hMkHNxP1dsI9322YAKUnk) | 2:47 |
-| 8 | [nie vorbei](https://open.spotify.com/track/2Db1HUXWAonGtRG7Hf7xeI) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [nie vorbei](https://open.spotify.com/album/4rbLFikPvtb3QhoAmjE6no) | 2:36 |
-| 9 | [Angst & Euphorie](https://open.spotify.com/track/644qVDyKrO6ZPJC5B2gYXD) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Angst & Euphorie](https://open.spotify.com/album/5sgNchlS46BOQcjutSpLnp) | 3:46 |
-| 10 | [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 |
-| 11 | [LAVENDEL IM PARK](https://open.spotify.com/track/2PwfE3zcFtyqK7TYG24ypb) | [kei](https://open.spotify.com/artist/2ASO52lG12R04s6lsYOOht) | [LAVENDEL IM PARK](https://open.spotify.com/album/0p0kRZIX9YQOf0PtrJUg3b) | 2:16 |
+| 7 | [nie vorbei](https://open.spotify.com/track/2Db1HUXWAonGtRG7Hf7xeI) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [nie vorbei](https://open.spotify.com/album/4rbLFikPvtb3QhoAmjE6no) | 2:36 |
+| 8 | [LAVENDEL IM PARK](https://open.spotify.com/track/2PwfE3zcFtyqK7TYG24ypb) | [kei](https://open.spotify.com/artist/2ASO52lG12R04s6lsYOOht) | [LAVENDEL IM PARK](https://open.spotify.com/album/0p0kRZIX9YQOf0PtrJUg3b) | 2:16 |
+| 9 | [Es könnte kaum schöner sein](https://open.spotify.com/track/33MXR5r04svgngdnT1odIR) | [Paul Gerlinger](https://open.spotify.com/artist/3Jh90nIsxexWk4CfSv8EBV) | [Es könnte kaum schöner sein](https://open.spotify.com/album/4hMkHNxP1dsI9322YAKUnk) | 2:47 |
+| 10 | [Angst & Euphorie](https://open.spotify.com/track/644qVDyKrO6ZPJC5B2gYXD) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Angst & Euphorie](https://open.spotify.com/album/5sgNchlS46BOQcjutSpLnp) | 3:46 |
+| 11 | [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 |
 | 12 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 |
-| 13 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 |
-| 14 | [und du suchst noch überall, alles was mal von mir war](https://open.spotify.com/track/5wOPYSiXuK3kpcf3ZH1BkM) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [und du suchst noch überall, alles was mal von mir war](https://open.spotify.com/album/3tro2KxwswtcYlfkbkR9kZ) | 3:01 |
-| 15 | [carcassonne](https://open.spotify.com/track/3BXOQ4VvoQ5T5CuqLYHLoh) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [carcassonne](https://open.spotify.com/album/3SAHxqemMNdTGcMRkDxFku) | 2:11 |
-| 16 | [Lonely](https://open.spotify.com/track/2hjwHhRf1thQYAiGDlavYr) | [das blühende leben](https://open.spotify.com/artist/5j2wAhtgYolAMqJK8JzbLK) | [Lonely](https://open.spotify.com/album/6t8iSQ3yvF8HJgc4VKMn8Y) | 2:31 |
+| 13 | [und du suchst noch überall, alles was mal von mir war](https://open.spotify.com/track/5wOPYSiXuK3kpcf3ZH1BkM) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [und du suchst noch überall, alles was mal von mir war](https://open.spotify.com/album/3tro2KxwswtcYlfkbkR9kZ) | 3:01 |
+| 14 | [carcassonne](https://open.spotify.com/track/3BXOQ4VvoQ5T5CuqLYHLoh) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [carcassonne](https://open.spotify.com/album/3SAHxqemMNdTGcMRkDxFku) | 2:11 |
+| 15 | [Lonely](https://open.spotify.com/track/2hjwHhRf1thQYAiGDlavYr) | [das blühende leben](https://open.spotify.com/artist/5j2wAhtgYolAMqJK8JzbLK) | [Lonely](https://open.spotify.com/album/6t8iSQ3yvF8HJgc4VKMn8Y) | 2:31 |
+| 16 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 |
 | 17 | [glaubst du](https://open.spotify.com/track/1kFxAJ9jW1mbTTitWlVkH7) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [glaubst du](https://open.spotify.com/album/7g9O5qZvCMKJDAkFeycmrB) | 3:02 |
 | 18 | [autodach](https://open.spotify.com/track/77X6HRNZcjcmQS6AY6PS5r) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26) | [autodach](https://open.spotify.com/album/7vQvU5oZJJll9juHUISB48) | 2:44 |
 | 19 | [Der letzte Dinosaurier](https://open.spotify.com/track/6idLijwCv8gn4fAUTwOsSO) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Der letzte Dinosaurier](https://open.spotify.com/album/11o9d9xQ2JbXICrxe9yuKp) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [10 vor 10](https://open.spotify.com/track/37TJfrw9teASpsQeoWupq5) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [10 vor 10](https://open.spotify.com/album/5fEamjUSG4mSuaCXPbCBfe) | 2:38 |
 | 75 | [Dummheit](https://open.spotify.com/track/6JHa31wREv5KpbbjLjMcFI) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [Dummheit](https://open.spotify.com/album/1WgeVtnDGDMeAuZKUuPI1l) | 2:31 |
 
-Snapshot ID: `ZnSnjAAAAACTjQFRdOZJnSQozeD8CdDP`
+Snapshot ID: `ZnkeEAAAAADdLiZPqWKUvcbNJuiRDvXz`

@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 329055,
+  "num_followers": 329071,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Eu",
-        "url": "https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH"
-      },
-      "artists": [
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 301871,
-      "name": "Eu",
-      "url": "https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Elis Por Ela",
         "url": "https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 164266,
       "name": "Maria, Maria",
       "url": "https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Eu",
+        "url": "https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 301871,
+      "name": "Eu",
+      "url": "https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -603,26 +603,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "N\u00f3s VOZ Eles",
-        "url": "https://open.spotify.com/album/7BPwhaHjhjWTwIopJY6FTK"
-      },
-      "artists": [
-        {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 215116,
-      "name": "Pra Me Refazer",
-      "url": "https://open.spotify.com/track/1KIMRoLleFJCwABBrlAOPI"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/4Izu6KXDCXGOjSEFUjBvYq"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 174178,
       "name": "Para Pensa e Volta (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo",
       "url": "https://open.spotify.com/track/2rRA0VNb8RcaUMAmgWFoCL"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "N\u00f3s VOZ Eles",
+        "url": "https://open.spotify.com/album/7BPwhaHjhjWTwIopJY6FTK"
+      },
+      "artists": [
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 215116,
+      "name": "Pra Me Refazer",
+      "url": "https://open.spotify.com/track/1KIMRoLleFJCwABBrlAOPI"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Andarilho",
-        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Sempre a Cantar",
         "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 304866,
       "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
       "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Andarilho",
+        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -879,18 +879,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "LoveSong",
-        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
+        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
       },
       "artists": [
         {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
         }
       ],
-      "duration_ms": 142268,
-      "name": "LoveSong",
-      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
+      "duration_ms": 197480,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -911,22 +915,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
+        "name": "LoveSong",
+        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
       },
       "artists": [
         {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Novo Imp\u00e9rio",
-          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 197480,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
+      "duration_ms": 142268,
+      "name": "LoveSong",
+      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
-        "url": "https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r"
-      },
-      "artists": [
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        }
-      ],
-      "duration_ms": 137608,
-      "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
-      "url": "https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Dona de mim",
         "url": "https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 208941,
       "name": "Dona de mim",
       "url": "https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
+        "url": "https://open.spotify.com/album/4Lh4g0DvwP1yT2d0ThGj9r"
+      },
+      "artists": [
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        }
+      ],
+      "duration_ms": 137608,
+      "name": "Eu T\u00f4 Gostando de um Menino A\u00ed",
+      "url": "https://open.spotify.com/track/1vXMChJ2MGtI0vq9t6kjDB"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Letrux em Noite de Clim\u00e3o",
+        "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
+      },
+      "artists": [
+        {
+          "name": "Letrux",
+          "url": "https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke"
+        }
+      ],
+      "duration_ms": 321647,
+      "name": "Ningu\u00e9m Perguntou por Voc\u00ea",
+      "url": "https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Ambulante",
         "url": "https://open.spotify.com/album/6uZweI7OXLIS8WwYb0eVCV"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 151520,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3AzSGIT3SYFXl1o9c6zdQC"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Letrux em Noite de Clim\u00e3o",
-        "url": "https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT"
-      },
-      "artists": [
-        {
-          "name": "Letrux",
-          "url": "https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke"
-        }
-      ],
-      "duration_ms": 321647,
-      "name": "Ningu\u00e9m Perguntou por Voc\u00ea",
-      "url": "https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Vinte Palavras ao Redor do Sol",
+        "url": "https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1tia de Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "Quem Vai Quem Vem",
+      "url": "https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Poetisas no Topo",
         "url": "https://open.spotify.com/album/4g0c6MOErI6fhVaCWF4juA"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Vinte Palavras ao Redor do Sol",
-        "url": "https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1tia de Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Quem Vai Quem Vem",
-      "url": "https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ascens\u00e3o",
         "url": "https://open.spotify.com/album/15V1ZcZ3fsOEIQtVGlddXc"
       },
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Coisas Do Meu Pessoal",
+        "url": "https://open.spotify.com/album/45ezXhsXFqhqVYRLcxFlWB"
+      },
+      "artists": [
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Marias",
+      "url": "https://open.spotify.com/track/4jaiXJPx1kFVJLl2pz1b9k"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/57gugEndr41sLF4rRVcUte"
       },
@@ -1671,18 +1687,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Coisas Do Meu Pessoal",
-        "url": "https://open.spotify.com/album/45ezXhsXFqhqVYRLcxFlWB"
+        "name": "Del\u00edrio",
+        "url": "https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU"
       },
       "artists": [
         {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Marias",
-      "url": "https://open.spotify.com/track/4jaiXJPx1kFVJLl2pz1b9k"
+      "duration_ms": 174186,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1723,22 +1739,6 @@
       "duration_ms": 556662,
       "name": "Poetisas no Topo 2",
       "url": "https://open.spotify.com/track/1X0ZLlZeFQ6JJ70avGNTJI"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Del\u00edrio",
-        "url": "https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ"
     },
     {
       "added_at": "2022-10-07 03:01:33",

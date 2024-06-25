@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Emilia
 
-793 songs - 1 day 18 hr 24 min
+794 songs - 1 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [ojos\. labios\. cara.](https://open.spotify.com/track/0Ont2OoEaOYF9BYeSIhaFT) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [ojos\. labios\. cara.](https://open.spotify.com/album/1CTsEbkffQZulUwUZKzmCX) | 2:53 | 2023-10-26 |  |
 | [On My Way \(Marry Me\)](https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On My Way \(Marry Me\)](https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx) | 3:12 | 2022-02-02 | 2023-05-26 |
 | [Orgullo](https://open.spotify.com/track/102SKCq72cPNo26kwyi5sT) | [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH), [El Vega](https://open.spotify.com/artist/6HWumjoLO58NYInUHk9565) | [Orgullo](https://open.spotify.com/album/3A1Hq7J1FY2xvK3RWtZCn9) | 2:57 | 2023-12-01 |  |
+| [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-06-24 |  |
 | [Otra Noche](https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:31 | 2022-03-04 | 2023-05-26 |
 | [Otra Noche en L.A.](https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Otra Noche en L.A.](https://open.spotify.com/album/7aUBwzyc4bnGBDD3elUh3U) | 3:31 | 2022-02-02 | 2023-05-26 |
 | [Otra Noche en L.A.](https://open.spotify.com/track/2CqqG67J2dUvM6BmlZKWiD) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [PLAY](https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC) | 3:31 | 2022-07-13 | 2023-05-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 
 > A dose of high\-energy rock & alt songs for your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,455 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,440 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 33 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
 | 34 | [Paralyzed](https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Paralyzed](https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9) | 2:43 |
 | 35 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 |
-| 36 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
+| 36 | [My Body](https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:04 |
 | 37 | [Normal People Things](https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Normal People Things](https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC) | 2:44 |
 | 38 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 |
-| 39 | [My Body](https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:04 |
+| 39 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
 | 40 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |
 | 41 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
-| 42 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
-| 43 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |
+| 42 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |
+| 43 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
 | 44 | [EAT ME \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/0ByTfwoYWdom6GlQ9BIdv2) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 3:00 |
 | 45 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 |
 | 46 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 74 | [Sex Party](https://open.spotify.com/track/0kP4jYOuH9le6avYm2JnvZ) | [Ferdinand fka Left Boy](https://open.spotify.com/artist/2gIGkRqCo4NK2PUCI8u4aQ) | [Sex Party](https://open.spotify.com/album/4NgAfTr86rkILEFBkhHZky) | 2:47 |
 | 75 | [Running In Circles](https://open.spotify.com/track/3EjHI10QuKMoVBxcgpHrf3) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [Running In Circles / HURT](https://open.spotify.com/album/4TLVu9jrPLKpyPj1R3m2RW) | 3:53 |
 | 76 | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [John the Ghost](https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E) | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C) | 3:04 |
-| 77 | [6 Pack and Cigarettes](https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Gutter](https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe) | 2:54 |
-| 78 | [HandClap](https://open.spotify.com/track/0y3fi7fknIXOxnkbUgzT3n) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [HandClap](https://open.spotify.com/album/2nOO9dl8EVj6zhkis2QHr9) | 3:13 |
+| 77 | [HandClap](https://open.spotify.com/track/0y3fi7fknIXOxnkbUgzT3n) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [HandClap](https://open.spotify.com/album/2nOO9dl8EVj6zhkis2QHr9) | 3:13 |
+| 78 | [6 Pack and Cigarettes](https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Gutter](https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe) | 2:54 |
 | 79 | [Records](https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Summer](https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H) | 3:28 |
 | 80 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 |
 | 81 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 |

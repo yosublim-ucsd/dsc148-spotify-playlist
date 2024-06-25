@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 187500,
       "name": "21",
       "url": "https://open.spotify.com/track/1BIJuY5AGbv5522on92wmN"
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 180520,
       "name": "Andar-dr\u00e1tt",
       "url": "https://open.spotify.com/track/4iL6ls1RK8U8NbyDB2rtWE"
@@ -13201,6 +13201,24 @@
     },
     {
       "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -14362,7 +14380,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 131017,
       "name": "Hef Veri\u00f0 Verri",
       "url": "https://open.spotify.com/track/17ebLDWPOsruloZYxgEqm4"
@@ -20356,7 +20374,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 163531,
       "name": "Lo Que Perdiste",
       "url": "https://open.spotify.com/track/7Am85h9aNUfh98dBhALlRF"
@@ -24024,6 +24042,28 @@
       "duration_ms": 168000,
       "name": "No Painkiller - Original",
       "url": "https://open.spotify.com/track/2xkALkQMsEvzNjordWHDCs"
+    },
+    {
+      "album": {
+        "name": "NO POLICE (Remix)",
+        "url": "https://open.spotify.com/album/16BIsyfiqdpvHlFlMwBXtX"
+      },
+      "artists": [
+        {
+          "name": "CynMiah",
+          "url": "https://open.spotify.com/artist/3ZDEq9SfiUoAmaF0cYkfYS"
+        },
+        {
+          "name": "Magnito",
+          "url": "https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170031,
+      "name": "NO POLICE (Remix)",
+      "url": "https://open.spotify.com/track/0y2sUHVDAWQbfuIQGEfhFO"
     },
     {
       "album": {
@@ -32246,7 +32286,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -33306,7 +33346,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -34660,7 +34700,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 77505,
       "name": "Timeless Romance",
       "url": "https://open.spotify.com/track/7txIbMyLkx3Tzu5VMF6DnA"
@@ -40454,7 +40494,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

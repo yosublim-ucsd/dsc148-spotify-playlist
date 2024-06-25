@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 ### [This Is El Chapo De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31TGEC)
 
-> This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
+> This Is El Chapo De Sinaloa\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,539 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,548 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 38 | [Andamos Borrachos](https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Cristaleros Michoacanos](https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB) | 2:19 |
 | 39 | [Para Siempre](https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 3:20 |
 | 40 | [Hice De Todo](https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:50 |
-| 41 | [Le Dire Que Me Gusta](https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [Frank Velasquez](https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:11 |
-| 42 | [Dime Una Y Otra Vez \(Versión Remasterizada De 2021\)](https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Apasionado \(Remasterizado 2021\)](https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO) | 3:12 |
-| 43 | [Hola Mi Amor \(Version Banda\)](https://open.spotify.com/track/0W8A629FGbUBVrHaGB0vZZ) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Hola Mi Amor \(Version Banda\)](https://open.spotify.com/album/33CX3GLSZlALBIkTeVQWDR) | 3:01 |
-| 44 | [Ella \(Me Cansé De Rogarle\)](https://open.spotify.com/track/3pwWfa8pqHCoDJrFwwQCkk) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 3:22 |
+| 41 | [Dime Una Y Otra Vez \(Versión Remasterizada De 2021\)](https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Apasionado \(Remasterizado 2021\)](https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO) | 3:12 |
+| 42 | [Hola Mi Amor \(Version Banda\)](https://open.spotify.com/track/0W8A629FGbUBVrHaGB0vZZ) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Hola Mi Amor \(Version Banda\)](https://open.spotify.com/album/33CX3GLSZlALBIkTeVQWDR) | 3:01 |
+| 43 | [Ella \(Me Cansé De Rogarle\)](https://open.spotify.com/track/3pwWfa8pqHCoDJrFwwQCkk) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 3:22 |
+| 44 | [Le Dire Que Me Gusta](https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [Frank Velasquez](https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:11 |
 | 45 | [Enseñame a Olvidar](https://open.spotify.com/track/55xhJyoY3cbUzQIZOtea7i) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Camina Sin Mirar Atras](https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0) | 2:48 |
 | 46 | [De Cristal O De Papel](https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:10 |
 | 47 | [Cristaleros Michoacanos \- Banda](https://open.spotify.com/track/1dUNwv4VmEjtHVyHkEvewj) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corridos Ke Mandan](https://open.spotify.com/album/21XOUr8BC9Vq5CKcK4eylp) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 49 | [El Dolido](https://open.spotify.com/track/3QUVQh9YRliiLmBShel2DO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:09 |
 | 50 | [Para Que Regreses 2023](https://open.spotify.com/track/20GKwT2bRDp8usa7LwKy81) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Que Regreses 2023](https://open.spotify.com/album/4vew0AEsjSpq6Q6pS4Um36) | 3:25 |
 
-Snapshot ID: `ZnYUAAAAAAAdVOqUtPwIrMUARYon5qpR`
+Snapshot ID: `ZndlgAAAAACHmWlSApBn4q4iY3juIy49`

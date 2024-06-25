@@ -11413,6 +11413,24 @@
     },
     {
       "album": {
+        "name": "ROAR",
+        "url": "https://open.spotify.com/album/54QCfkIvD05tIOfbe6eeAR"
+      },
+      "artists": [
+        {
+          "name": "BORN FOR GREATNESS",
+          "url": "https://open.spotify.com/artist/3Bj3JIqxGSDu76tCEemTbT"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228390,
+      "name": "ROAR",
+      "url": "https://open.spotify.com/track/5JlWqUUOdPUPPCrcWe0NrV"
+    },
+    {
+      "album": {
         "name": "H.E.A.T II",
         "url": "https://open.spotify.com/album/15sPcYoNcEXrAEKCz2No3M"
       },
@@ -13258,7 +13276,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 320507,
       "name": "Teardrinker",
       "url": "https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt"

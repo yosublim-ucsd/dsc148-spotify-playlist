@@ -1,12 +1,12 @@
 {
-  "description": "This is Zudizilla. The essential tracks, all in one playlist.",
+  "description": "This is Zudizilla. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 789,
   "original_name": "This Is Zudizilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAACJu6HxuUTPjumxlAJOu0gN",
+  "snapshot_id": "ZndlgAAAAABVsJ78T+Cs+76fNDJWfKK8",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "TUDO CULPA DO RNB",
+        "url": "https://open.spotify.com/album/0bgR6sQPc0DVcL7f0f60CX"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 259170,
+      "name": "TUDO CULPA DO RNB",
+      "url": "https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a a Coisa Certa",
+        "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Ordem Natural",
+      "url": "https://open.spotify.com/track/0KcKSQqYDacO23ZGkxigK1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L\u00e1 Fora",
         "url": "https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe"
       },
@@ -355,42 +391,6 @@
       "duration_ms": 191961,
       "name": "L\u00e1 Fora",
       "url": "https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fa\u00e7a a Coisa Certa",
-        "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Ordem Natural",
-      "url": "https://open.spotify.com/track/0KcKSQqYDacO23ZGkxigK1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TUDO CULPA DO RNB",
-        "url": "https://open.spotify.com/album/0bgR6sQPc0DVcL7f0f60CX"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 259170,
-      "name": "TUDO CULPA DO RNB",
-      "url": "https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicodelic",
-        "url": "https://open.spotify.com/album/1JucoWh60Db48VQ8frRMiR"
-      },
-      "artists": [
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 250918,
-      "name": "Um Acorde",
-      "url": "https://open.spotify.com/track/6O9HevRJcSKZC8RHZUlLm9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
         "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 263360,
       "name": "Sem Distra\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicodelic",
+        "url": "https://open.spotify.com/album/1JucoWh60Db48VQ8frRMiR"
+      },
+      "artists": [
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 250918,
+      "name": "Um Acorde",
+      "url": "https://open.spotify.com/track/6O9HevRJcSKZC8RHZUlLm9"
     },
     {
       "added_at": null,
@@ -682,11 +682,31 @@
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Monique Brito",
+          "url": "https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO"
         }
       ],
-      "duration_ms": 248213,
-      "name": "SALVE",
-      "url": "https://open.spotify.com/track/4eFnrRaXfjiPLIIKvlmQE2"
+      "duration_ms": 319485,
+      "name": "TELA EM BRANCO",
+      "url": "https://open.spotify.com/track/15OoDsfsNOCIjkrft0LEHQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
+        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 179304,
+      "name": "Benedito",
+      "url": "https://open.spotify.com/track/0WFNGY9E8j64EPPiZj6F8y"
     },
     {
       "added_at": null,
@@ -707,22 +727,6 @@
       "duration_ms": 338773,
       "name": "DCAC - de C\u00e9sar a Cristo",
       "url": "https://open.spotify.com/track/3NErnj2YfiMqwUJz7uTcjs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
-        "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 179304,
-      "name": "Benedito",
-      "url": "https://open.spotify.com/track/0WFNGY9E8j64EPPiZj6F8y"
     },
     {
       "added_at": null,
@@ -762,51 +766,11 @@
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Monique Brito",
-          "url": "https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO"
         }
       ],
-      "duration_ms": 319485,
-      "name": "TELA EM BRANCO",
-      "url": "https://open.spotify.com/track/15OoDsfsNOCIjkrft0LEHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vibranium",
-        "url": "https://open.spotify.com/album/2sPVR5oMt2K57ELzLcvz7w"
-      },
-      "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Dow Raiz",
-          "url": "https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu"
-        },
-        {
-          "name": "Eloy Polemico",
-          "url": "https://open.spotify.com/artist/4YbBYNU6hsYbEMtApK0WPc"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Nabil",
-          "url": "https://open.spotify.com/artist/40ZFGpZSOnRBpiAyuzJcR6"
-        },
-        {
-          "name": "Nego Max",
-          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
-        }
-      ],
-      "duration_ms": 274565,
-      "name": "Vibranium",
-      "url": "https://open.spotify.com/track/273J7WTpMjavzzDKu8i5Lr"
+      "duration_ms": 248213,
+      "name": "SALVE",
+      "url": "https://open.spotify.com/track/4eFnrRaXfjiPLIIKvlmQE2"
     },
     {
       "added_at": null,
@@ -847,6 +811,42 @@
       "duration_ms": 193881,
       "name": "Se A Rua Fosse Minha",
       "url": "https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vibranium",
+        "url": "https://open.spotify.com/album/2sPVR5oMt2K57ELzLcvz7w"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Dow Raiz",
+          "url": "https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu"
+        },
+        {
+          "name": "Eloy Polemico",
+          "url": "https://open.spotify.com/artist/4YbBYNU6hsYbEMtApK0WPc"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Nabil",
+          "url": "https://open.spotify.com/artist/40ZFGpZSOnRBpiAyuzJcR6"
+        },
+        {
+          "name": "Nego Max",
+          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
+        }
+      ],
+      "duration_ms": 274565,
+      "name": "Vibranium",
+      "url": "https://open.spotify.com/track/273J7WTpMjavzzDKu8i5Lr"
     },
     {
       "added_at": null,

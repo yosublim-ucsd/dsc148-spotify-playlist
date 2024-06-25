@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,258 likes - 156 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,259 likes - 156 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 64 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 |
 | 65 | [enemy](https://open.spotify.com/track/51qNCY0lUymE88LPDUqFXd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:42 |
 | 66 | [Backseat \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/4HjtHraeKy5wA4DA9o92HZ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:58 |
-| 67 | [Warm \(feat\. HAIM\)](https://open.spotify.com/track/2xHEAdEalJ5YcP0ur8kF6L) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:45 |
-| 68 | [detonate](https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:39 |
+| 67 | [detonate](https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:39 |
+| 68 | [Warm \(feat\. HAIM\)](https://open.spotify.com/track/2xHEAdEalJ5YcP0ur8kF6L) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:45 |
 | 69 | [love gang \(feat\. Charli XCX\)](https://open.spotify.com/track/3jjUphDBlbPzWD3Ft3tya1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [love gang \(feat\. Charli XCX\)](https://open.spotify.com/album/78fh7LFI68DsHBe5Xt8XFE) | 2:58 |
 | 70 | [100 Bad \(feat\. Charli XCX\) \(Charli XCX Remix\)](https://open.spotify.com/track/0WRwozKgLAgpxayE0sUv1E) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 3:02 |
 | 71 | [Roll with Me](https://open.spotify.com/track/0D6VCA9ycrkk9kH9F0p0AB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:21 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 113 | [If It's Over \(feat\. Charli XCX\)](https://open.spotify.com/track/3rGdqpn43JMpALFlC01OCE) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:39 |
 | 114 | [Float On \(feat\. Charli XCX\)](https://open.spotify.com/track/7sVWaKkGHotMdumFe6Ecph) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Old](https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl) | 3:31 |
 | 115 | [Sorry if I Hurt You](https://open.spotify.com/track/2qbgcxEMIZgyHAySxxHywc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 2:41 |
-| 116 | [Blame It on U](https://open.spotify.com/track/053tQJvHupZLhjUWMmHlQ1) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:47 |
-| 117 | [How Can I Not Know What I Need Right Now](https://open.spotify.com/track/29KYqUjF9Oc9NCxvs7srlP) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 2:37 |
+| 116 | [How Can I Not Know What I Need Right Now](https://open.spotify.com/track/29KYqUjF9Oc9NCxvs7srlP) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH \(Deluxe\)](https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn) | 2:37 |
+| 117 | [Blame It on U](https://open.spotify.com/track/053tQJvHupZLhjUWMmHlQ1) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:47 |
 | 118 | [Me encanta \- I Love It](https://open.spotify.com/track/1kgBwPl0UUHz97Krp65zF4) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Me encanta \(I love it\)](https://open.spotify.com/album/5GmIVyf9Oqhvi5tFptXpbw) | 2:38 |
 | 119 | [Need Ur Luv](https://open.spotify.com/track/70TwpWVlBU1Mv6FRbp5FZ2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:45 |
 | 120 | [Paradise \(feat\. Hannah Diamond\)](https://open.spotify.com/track/3SoLRBDWUJ4xtFRDFI1Z6F) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:01 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 155 | [Lost in Space](https://open.spotify.com/track/6xEuFZLg0OK5b94n8ZJy25) | [Starkey](https://open.spotify.com/artist/1jSXmAYCaHoqt7C6t0VZdK), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Space Traitor, Vol\. 2](https://open.spotify.com/album/03sCimdfQYiG02SZDyAyGQ) | 4:46 |
 | 156 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `AbU2zAAAAABttbk38GnrfUmzhxzuonW4`
+Snapshot ID: `AbU8bAAAAAAUh7d4raUvEjTioVfwcXxq`

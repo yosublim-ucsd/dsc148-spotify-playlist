@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Armin van Buuren, VIZE, Leony
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,893 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,044 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [City Lights](https://open.spotify.com/track/4xbWpxytVsi5CnjdskSALc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [City Lights](https://open.spotify.com/album/2ZqSFm2JHmP0kaNWXU4nhw) | 2:59 |
+| 1 | [City Lights](https://open.spotify.com/track/01p4kZ0CMpG3uetamwG1uV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [City Lights](https://open.spotify.com/album/4UOFyqgpAxwkHhpM5Evg6L) | 2:59 |
 | 2 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 |
 | 3 | [Give Me Your Love](https://open.spotify.com/track/5xRJsZ6Mv4O3W37JKkzmg5) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Give Me Your Love](https://open.spotify.com/album/1V2KNfEY5AwuyUAiVB1Qmb) | 3:14 |
 | 4 | [Sun is Up \(feat\. Ima Sobé\)](https://open.spotify.com/track/1XfntmFyQe6nFEMsOYmesk) | [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166), [Ima Sobé](https://open.spotify.com/artist/3xZA1iqapR7QdWz6gpu0Zn) | [Sun is Up \(feat\. Ima Sobé\)](https://open.spotify.com/album/22eHZLl4F41g3FhSpGoJgJ) | 2:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 79 | [To Te Querendo \- Toki Toki](https://open.spotify.com/track/5jgb4PgXj2VEKmgZjDCSNm) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [To Te Querendo \(Toki Toki\)](https://open.spotify.com/album/3KX1P1NF3gGasRLDSzOja3) | 3:05 |
 | 80 | [Be Alright](https://open.spotify.com/track/2ezZt5y0mvIIm5ca7DVY2v) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS) | [Be Alright](https://open.spotify.com/album/17aGTPiN3LQHtjZuNDteyp) | 3:40 |
 
-Snapshot ID: `ZnVOeAAAAADHEa4obL5eymHe6K3AHkkV`
+Snapshot ID: `ZnmQxgAAAADK9FVUu5J5ovp+qL9RB776`

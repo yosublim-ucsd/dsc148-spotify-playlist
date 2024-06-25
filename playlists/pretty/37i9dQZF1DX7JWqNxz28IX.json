@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 45880,
+  "num_followers": 45893,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
-        "name": "Favole",
-        "url": "https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 102567,
-      "name": "Favole",
-      "url": "https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
         "name": "TheWitch&TheWizard",
         "url": "https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 108460,
       "name": "Situation",
       "url": "https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
+        "name": "Favole",
+        "url": "https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 102567,
+      "name": "Favole",
+      "url": "https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -779,38 +779,6 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
-        "name": "\u00c8 Andata Cos\u00ec",
-        "url": "https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B"
-      },
-      "artists": [
-        {
-          "name": "Aiden",
-          "url": "https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "\u00c8 Andata Cos\u00ec",
-      "url": "https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
-        "name": "Per starci in due",
-        "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Per starci in due",
-      "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
         "name": "Tu mi fai bene",
         "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
       },
@@ -823,6 +791,22 @@
       "duration_ms": 117190,
       "name": "Tu mi fai bene",
       "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
+        "name": "\u00c8 Andata Cos\u00ec",
+        "url": "https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B"
+      },
+      "artists": [
+        {
+          "name": "Aiden",
+          "url": "https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "\u00c8 Andata Cos\u00ec",
+      "url": "https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -855,6 +839,38 @@
       "duration_ms": 91006,
       "name": "SPECCHIO (interludio)",
       "url": "https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
+        "name": "Per starci in due",
+        "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Per starci in due",
+      "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
+        "name": "Scusa ma",
+        "url": "https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 101818,
+      "name": "Scusa ma",
+      "url": "https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -927,22 +943,6 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
-        "name": "Scusa ma",
-        "url": "https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 101818,
-      "name": "Scusa ma",
-      "url": "https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
         "name": "cloud love",
         "url": "https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 143157,
       "name": "Tutto o niente 2",
       "url": "https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
+        "name": "La stella pi\u00f9 bella di sempre",
+        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "La stella pi\u00f9 bella di sempre",
+      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
-        "name": "La stella pi\u00f9 bella di sempre",
-        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "La stella pi\u00f9 bella di sempre",
-      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
         "name": "CONFESSIONE",
         "url": "https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 177931,
       "name": "Campi Elisi",
       "url": "https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
-        "name": "Tatuaggi",
-        "url": "https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Tatuaggi",
-      "url": "https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
+        "name": "Tatuaggi",
+        "url": "https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Tatuaggi",
+      "url": "https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
         "name": "Dove sei??",
         "url": "https://open.spotify.com/album/647emruUfFnCax2xaYKh6N"
       },
@@ -1247,26 +1247,6 @@
       "duration_ms": 181281,
       "name": "Dove sei??",
       "url": "https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
-        "name": "Penso a te",
-        "url": "https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        },
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 123373,
-      "name": "Penso a te",
-      "url": "https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -1347,6 +1327,42 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
+        "name": "OSIRIDE",
+        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
+        "name": "Penso a te",
+        "url": "https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        },
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 123373,
+      "name": "Penso a te",
+      "url": "https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
         "name": "Shama \u00e8 buono",
         "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
       },
@@ -1363,38 +1379,6 @@
       "duration_ms": 144750,
       "name": "Shama \u00e8 buono",
       "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
-        "name": "Torner\u00f2",
-        "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "Torner\u00f2",
-      "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
-        "name": "OSIRIDE",
-        "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
-        "name": "L'effetto che mi fai",
-        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
         }
       ],
-      "duration_ms": 174250,
-      "name": "L'effetto che mi fai",
-      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+        "name": "L'effetto che mi fai",
+        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
       },
       "artists": [
         {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+      "duration_ms": 174250,
+      "name": "L'effetto che mi fai",
+      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -1515,6 +1499,22 @@
       "duration_ms": 205358,
       "name": "APNEA - MTV Unplugged",
       "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
+        "name": "Torner\u00f2",
+        "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "Torner\u00f2",
+      "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
-        "name": "giusti nei momenti sbagliati",
-        "url": "https://open.spotify.com/album/6JFpUqpSF1TP2xDJfovFXq"
+        "name": "poster",
+        "url": "https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge"
       },
       "artists": [
         {
-          "name": "venerd\u00ec",
-          "url": "https://open.spotify.com/artist/0v9674wp1zmIxhlfpjBXfo"
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
         }
       ],
-      "duration_ms": 119274,
-      "name": "giusti nei momenti sbagliati",
-      "url": "https://open.spotify.com/track/5JRfYMzHxPVikYYOWEBKUn"
+      "duration_ms": 169795,
+      "name": "poster",
+      "url": "https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz"
     },
     {
       "added_at": "2024-06-13 09:21:35",

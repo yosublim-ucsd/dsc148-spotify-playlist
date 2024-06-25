@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Victony, Rema, Asake, Black Sherif and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,574 likes - 58 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,653 likes - 58 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 5 | [Man Not God](https://open.spotify.com/track/3rGnjwEwcqb2iMfchx0ZpF) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Man Not God](https://open.spotify.com/album/7pqhzzJiTABC6QZJkrLfZf) | 2:45 |
 | 6 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 |
 | 7 | [Risk](https://open.spotify.com/track/3CbYtoJFEmPAMkKhEjPdOE) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Rage / Risk](https://open.spotify.com/album/4kABlRYtKlyLbpz82oGHcu) | 2:12 |
-| 8 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:50 |
+| 8 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:51 |
 | 9 | [Malaika x Bien](https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Malaika x Bien](https://open.spotify.com/album/1EjCiRMZrPaIms688xVeG3) | 3:55 |
 | 10 | [UNO \(feat\. BenjiFlow\)](https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [MONOCHROME RADIO](https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo) | 2:33 |
 | 11 | [Dis Kain Luv](https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Dis Kain Luv](https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1) | 2:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 
 > This Is Ángela Aguilar\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,465 likes - 53 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,495 likes - 53 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 37 | [Como la Flor](https://open.spotify.com/track/7Dmc4o8F7yGSWW60NroUfo) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 2:56 |
 | 38 | [La Chancla / el Chivo / Puño de Tierra \(En Vivo\)](https://open.spotify.com/track/4ykmzBnsAlWN06gSCraH3t) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [MTV Unplugged \(En Vivo\)](https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON) | 7:42 |
 | 39 | [Luna Lunera](https://open.spotify.com/track/47eHlqc7hMbHKGjvbbcqBy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF), [Amadito Valdés](https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 2:31 |
-| 40 | [Brillante Sobre el Mic \- EADDA9223](https://open.spotify.com/track/2usu9spbH4WZ43A9XiT0Tu) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:06 |
+| 40 | [Tu Sangre en Mi Cuerpo](https://open.spotify.com/track/20IsHVN45KlqVrXbm9Z3oO) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Desde la Azotea \- Fase II](https://open.spotify.com/album/5xX00Vp96LYOxBlBnzt4bz) | 4:02 |
 | 41 | [Si una Vez](https://open.spotify.com/track/6x62gRjlEeDlfIs1dKbGBN) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 2:48 |
-| 42 | [Tu Sangre en Mi Cuerpo](https://open.spotify.com/track/20IsHVN45KlqVrXbm9Z3oO) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Desde la Azotea \- Fase II](https://open.spotify.com/album/5xX00Vp96LYOxBlBnzt4bz) | 4:02 |
+| 42 | [Brillante Sobre el Mic \- EADDA9223](https://open.spotify.com/track/2usu9spbH4WZ43A9XiT0Tu) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:06 |
 | 43 | [Quizás Quizás Quizás](https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:13 |
 | 44 | [Cuando Dos Almas](https://open.spotify.com/track/4yZf7RNatduXrgyQsOlyCB) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Cuando Dos Almas](https://open.spotify.com/album/1HUZ55ryWd6JeGAl1kXvp8) | 3:06 |
 | 45 | [La Chancla](https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nueva Tradición](https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb) | 3:33 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 52 | [Bésame Mucho](https://open.spotify.com/track/3kwI7keOfbRg9dMRjWvxaV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bésame Mucho](https://open.spotify.com/album/1J0zWKRK6gkzBzZXC9sqvL) | 4:49 |
 | 53 | [México Lindo y Querido](https://open.spotify.com/track/6J0MUeAlG2LqL45PyyfASz) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w) | 3:14 |
 
-Snapshot ID: `ZnYUAAAAAADV6TnTv9GLfXaOMVWpiEUC`
+Snapshot ID: `ZndlgAAAAABnoa4PrayRmQIfdq0MYUxU`

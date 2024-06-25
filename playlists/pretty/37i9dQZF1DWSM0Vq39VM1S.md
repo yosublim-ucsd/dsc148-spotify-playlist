@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > Le rayon de soleil musical de votre matinée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,515 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,571 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 22 | [My Girl](https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 2:55 |
 | 23 | [1234](https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:03 |
 | 24 | [Familiar](https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 3:55 |
-| 25 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
-| 26 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 |
+| 25 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 |
+| 26 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
 | 27 | [Long Live the \(D\)Evil](https://open.spotify.com/track/7LSQYhyOhooiBpDva8AJaC) | [Moriarty](https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa) | [Epitaph](https://open.spotify.com/album/6Dx95qiRnig7JG4UoZtyFA) | 3:56 |
 | 28 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 |
 | 29 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 62 | [Break Apart](https://open.spotify.com/track/4UmuBF2XzW3EkO0rfrnYNO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Break Apart](https://open.spotify.com/album/0pUSzD35M8SzKHrNGPYlpR) | 4:34 |
 | 63 | [Traffic Lights](https://open.spotify.com/track/2Ic3Obe9brvYs5e65Bl2Nc) | [Victor Solf](https://open.spotify.com/artist/5Y8g8xQA1pNHnnfFznkcqZ) | [Traffic Lights](https://open.spotify.com/album/7ydJal4g5NFBKfJGjpLoam) | 4:00 |
 | 64 | [Stockholm Syndrome](https://open.spotify.com/track/3bRBhUPG11tw4FiSAeSRbL) | [Xavier Boyer](https://open.spotify.com/artist/6UxYOpNlzi6CGqEHhwbvWJ) | [Stockholm Syndrome](https://open.spotify.com/album/7EwDQOoi10XXX5p1FMgYoB) | 2:51 |
-| 65 | [Levitate](https://open.spotify.com/track/5xIXG98Trt1GvkVitYauo9) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Levitate](https://open.spotify.com/album/0hrRzDQJNqOVeBT6EcOcBs) | 3:19 |
-| 66 | [Se dire au revoir](https://open.spotify.com/track/5ifm6TYmhqQIOJ22aC7o2n) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Lourd et délicat](https://open.spotify.com/album/50Noq1sF7XhHPSqDJv80vQ) | 3:04 |
+| 65 | [Se dire au revoir](https://open.spotify.com/track/5ifm6TYmhqQIOJ22aC7o2n) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Lourd et délicat](https://open.spotify.com/album/50Noq1sF7XhHPSqDJv80vQ) | 3:04 |
+| 66 | [Levitate](https://open.spotify.com/track/5xIXG98Trt1GvkVitYauo9) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Levitate](https://open.spotify.com/album/0hrRzDQJNqOVeBT6EcOcBs) | 3:19 |
 | 67 | [1982 \- English Version](https://open.spotify.com/track/2Ie97IBGl60vzZLW9sGdEX) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Solide Mirage \(Deluxe Edition\)](https://open.spotify.com/album/6HaBOjiaLf9AGtLIWR5SGm) | 3:23 |
 | 68 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 |
 | 69 | [Gravity](https://open.spotify.com/track/1r7J1I74FgrxkmJ6kJBKs6) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Maratea](https://open.spotify.com/album/2OSdHB4RYfDZ0wFzbNoh7G) | 3:06 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 566974,
+  "description": "This Is George Michael. Los temas esenciales, todos en una lista.",
+  "num_followers": 567058,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAADA/69xfLHhA0lysKV75Z6g",
+  "snapshot_id": "ZndlgAAAAABqwWufRTnuMS+CSL1RI4PI",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/63rKiGqcfNsMU4kAqmm4uY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 330800,
       "name": "You Have Been Loved",
       "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 251173,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/63rKiGqcfNsMU4kAqmm4uY"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 285361,
-      "name": "Going To A Town - Live",
-      "url": "https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2"
+      "duration_ms": 195957,
+      "name": "Feeling Good - Live",
+      "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
       "duration_ms": 242493,
       "name": "Wild Is the Wind",
       "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 195957,
-      "name": "Feeling Good - Live",
-      "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 239174,
+      "name": "Mothers Pride - Remastered",
+      "url": "https://open.spotify.com/track/2q1lPD9JAnCo5TDDrbC9Tm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -832,25 +832,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 309821,
-      "name": "Through - Live",
-      "url": "https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 239174,
-      "name": "Mothers Pride - Remastered",
-      "url": "https://open.spotify.com/track/2q1lPD9JAnCo5TDDrbC9Tm"
+      "duration_ms": 269891,
+      "name": "Idol - Live",
+      "url": "https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 306551,
+      "name": "They Won't Go When I Go - Remastered",
+      "url": "https://open.spotify.com/track/1IiN25dDcmKq6ZHq2JxaQv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+        "name": "Twenty Five",
+        "url": "https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY"
       },
       "artists": [
         {
@@ -896,15 +896,15 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 269891,
-      "name": "Idol - Live",
-      "url": "https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh"
+      "duration_ms": 278573,
+      "name": "An Easier Affair - Remastered 2006",
+      "url": "https://open.spotify.com/track/0LNlKea7BFyja8oSeSs86o"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 306551,
-      "name": "They Won't Go When I Go - Remastered",
-      "url": "https://open.spotify.com/track/1IiN25dDcmKq6ZHq2JxaQv"
+      "duration_ms": 268466,
+      "name": "Freeek! '04",
+      "url": "https://open.spotify.com/track/6hoj2fpD27ELoVe2aK4fom"
     }
   ],
   "unique_name": "This Is George Michael",

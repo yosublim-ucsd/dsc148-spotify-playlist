@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف: علي صابر
 
-292 songs - 17 hr 3 min
+293 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Echtaket Elak](https://open.spotify.com/track/7byRqI4ooaE0DYS63LLxrd) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Echtaket Elak](https://open.spotify.com/album/6OGqf6Dl8cKLUiqyldp1In) | 4:14 | 2023-05-05 | 2024-02-05 |
 | [Edaaily Ansak](https://open.spotify.com/track/0DpLsWfTP35x7Qyoxm1zNx) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Edaaily Ansak](https://open.spotify.com/album/75T5jMz1R3llv8P8SVXC9q) | 3:18 | 2022-07-19 | 2023-05-03 |
 | [Eii Enta](https://open.spotify.com/track/2IUrw2RUKWwxP71q5GwmJL) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Eii Enta](https://open.spotify.com/album/1G3NhiDpVHLKvQZdwZeIiO) | 5:08 | 2022-02-11 | 2022-06-03 |
-| [Eish Hayatak](https://open.spotify.com/track/4hK51YeHEbVb5dsM27Gnqx) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Eish Hayatak](https://open.spotify.com/album/2f640PgnXmEFaTBzGOCk4Z) | 3:41 | 2023-06-26 |  |
+| [Eish Hayatak](https://open.spotify.com/track/4hK51YeHEbVb5dsM27Gnqx) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Eish Hayatak](https://open.spotify.com/album/2f640PgnXmEFaTBzGOCk4Z) | 3:41 | 2023-06-26 | 2024-06-25 |
 | [Ekhtalafna](https://open.spotify.com/track/1YIHmuC6XZRZuLIblrCv0F) | [Qusai Hatem](https://open.spotify.com/artist/0FXMhCXO21QJNYSU9ZJOLO) | [Ekhtalafna](https://open.spotify.com/album/5dymvl1IGkANKYZkAMTbJT) | 3:43 | 2021-12-23 | 2022-03-12 |
 | [El Barha](https://open.spotify.com/track/2vyRQqSjCIfODAyqntNjlG) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [El Barha](https://open.spotify.com/album/5N18SA94PoeUQTeNfZ8eeN) | 4:02 | 2022-05-31 | 2022-11-13 |
 | [El Basrah Deratkom](https://open.spotify.com/track/70oDODFvWgXmG0xkkMPAvh) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [El Basrah Deratkom](https://open.spotify.com/album/1dXkaX93cYXNKfk0NfoHpw) | 3:24 | 2023-01-18 | 2023-06-27 |
@@ -194,6 +194,7 @@
 | [Ma Yrham](https://open.spotify.com/track/08tZf9bbR9WDa6G7S04ttp) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Ma Yrham](https://open.spotify.com/album/2rOpwc0DnJMWPJjz8mZnlK) | 3:29 | 2021-12-23 | 2022-02-10 |
 | [Maali Habibi](https://open.spotify.com/track/69f4WjQ8eXRM2ESxlqeIWu) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Maali Habibi](https://open.spotify.com/album/0qzmx29rHHEGictWe1qHuD) | 2:48 | 2023-12-22 |  |
 | [Madim Aleak](https://open.spotify.com/track/7x3OeqioqJIZD5y0yFEeir) | [Mahmoud Al Gayath](https://open.spotify.com/artist/0vlrGHoVOpmG8ufhbgcJe9) | [Madim Aleak](https://open.spotify.com/album/7tGZPVKKgrV3aJ1fRQUjIj) | 3:25 | 2022-01-20 | 2022-06-07 |
+| [Maqsoda](https://open.spotify.com/track/4Na3asJ6ziDXspqUtZH22W) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Maqsoda](https://open.spotify.com/album/6S2F1BSq39W6AuQ7GA6hyF) | 3:47 | 2024-06-24 |  |
 | [Mashit Wayak](https://open.spotify.com/track/0Wq13UFsTy0ZGmwmPd7iaw) | [Osama Naji](https://open.spotify.com/artist/0Wsn2xJsy1aeAPfNviVDm4) | [Mashit Wayak](https://open.spotify.com/album/6ZoXSyv6O4ZMYQt8XVCPIg) | 3:02 | 2022-05-13 | 2022-10-14 |
 | [Mawal Alila](https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Mawal Alila](https://open.spotify.com/album/4KwlxCgjLklIgoWVZY0zoz) | 2:31 | 2022-07-04 | 2023-04-23 |
 | [Mawata](https://open.spotify.com/track/7kwKxJjlATFSqYKKEhVBGD) | [Mirna Tahan](https://open.spotify.com/artist/0GmjBO10yFgYsG67TcYJgg) | [Mawata](https://open.spotify.com/album/3DPn9TMsDGBiWiXljM4fMk) | 3:05 | 2021-12-23 | 2022-01-28 |

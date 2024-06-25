@@ -6647,6 +6647,32 @@
     },
     {
       "album": {
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+      },
+      "artists": [
+        {
+          "name": "Hunny",
+          "url": "https://open.spotify.com/artist/3VkiCR2nuvfucpvFXdSVtx"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283539,
+      "name": "Tu Hain Toh (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo"
+    },
+    {
+      "album": {
         "name": "Tu Mera Nahi",
         "url": "https://open.spotify.com/album/4hkiN9KzcNXXnzjO6TV4Uw"
       },

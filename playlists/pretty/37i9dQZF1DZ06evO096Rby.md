@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 ### [This Is Edgardo Nuñez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO096Rby)
 
-> This Is Edgardo Nuñez\. Los temas esenciales, todos en una lista.
+> This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,568 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,606 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 22 | [El Piyi](https://open.spotify.com/track/3h6yZoWyDVjWU7YGpWfY2f) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk) | 3:11 |
 | 23 | [El Michoacano](https://open.spotify.com/track/3V6d561vDtoJAm0UH4guEi) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Michoacano](https://open.spotify.com/album/4Qn5gGTw2D8fkIBx42GJqi) | 3:44 |
 | 24 | [Botecitos](https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Botecitos](https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk) | 3:08 |
-| 25 | [Demonio Dormido \- En Vivo](https://open.spotify.com/track/2SANdIdArza7A5wfat0eLM) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 2:57 |
-| 26 | [Le Compre Casa A Mi Ama](https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Compre Casa A Mi Ama](https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x) | 3:24 |
+| 25 | [Le Compre Casa A Mi Ama](https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Compre Casa A Mi Ama](https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x) | 3:24 |
+| 26 | [Demonio Dormido \- En Vivo](https://open.spotify.com/track/2SANdIdArza7A5wfat0eLM) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 2:57 |
 | 27 | [El De La 31](https://open.spotify.com/track/2NpJMRaVvvZia0uVDcZJMe) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk) | 3:11 |
 | 28 | [Soy el Pirata](https://open.spotify.com/track/4r6VsjYXzkgaxUtE0s22Cm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:54 |
 | 29 | [Los 5 Pesos](https://open.spotify.com/track/2rv7odMbWI4Hn9h3COlMUA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [No Ando Solo](https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0) | 4:05 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 40 | [Andamos Enclicados \- En Vivo](https://open.spotify.com/track/2W7tzc89J9aWW99jHj4UwE) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 2:06 |
 | 41 | [Golpe De Suerte](https://open.spotify.com/track/00fZZHPY9KBft8kB2nz8Xe) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:48 |
 | 42 | [Micaela / La María](https://open.spotify.com/track/4xqxRIgA4U71scvhAyvyig) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG) | 4:53 |
-| 43 | [Pensaron Que No Podia](https://open.spotify.com/track/0iGc4BWHQdN7iv1IN7Fx3X) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [No Ando Solo](https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0) | 2:36 |
-| 44 | [Ya No Llores BB](https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ya No Llores BB](https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W) | 2:38 |
+| 43 | [Ya No Llores BB](https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ya No Llores BB](https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W) | 2:38 |
+| 44 | [Pensaron Que No Podia](https://open.spotify.com/track/0iGc4BWHQdN7iv1IN7Fx3X) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [No Ando Solo](https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0) | 2:36 |
 | 45 | [En Los Puritos Huesos \- En Vivo](https://open.spotify.com/track/1d3J01sINV8BsC38QtWMjL) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 2:22 |
 | 46 | [Chavo Félix](https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:54 |
 | 47 | [Ya Se Fue El Parche](https://open.spotify.com/track/3kiKK2eUCG5uswn6YeE6LO) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ya Se Fue El Parche](https://open.spotify.com/album/0mMUkBK9GpE9MTTHJfrJnc) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 49 | [Perfecta Para MI](https://open.spotify.com/track/3zaS4P1REhfZBcaBVSuHLJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Perfecta Para Mi](https://open.spotify.com/album/4enQ6asfExjDZ0qFFJJ5CQ) | 2:59 |
 | 50 | [Aunque Te Duela](https://open.spotify.com/track/28dvr7pIJcX53oHnNgMVDa) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Aunque Te Duela](https://open.spotify.com/album/4qaO5TCNaNLC1co8lAWCkj) | 3:48 |
 
-Snapshot ID: `ZnYUAAAAAABXBVP+F0EGCiRJwmmuTgrH`
+Snapshot ID: `ZndlgAAAAAD62y9v4frOnrV3B5MYV6k2`

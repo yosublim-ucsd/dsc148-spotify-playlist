@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Jowell & Randy.
 
-957 songs - 2 day 2 hr 33 min
+958 songs - 2 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -651,6 +651,7 @@
 | [OJOS FERRARI](https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:00 | 2023-02-24 | 2023-06-24 |
 | [Ojos Rojos](https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ojos Rojos](https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY) | 2:32 | 2022-01-28 | 2022-09-02 |
 | [Olé Olé \(feat\. Ronaldinho Gaúcho\)](https://open.spotify.com/track/3eUsJCHaRFj7MUmYbycwHw) | [AriBeatz](https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe) | [Olé Olé \(feat\. Ronaldinho Gaúcho\)](https://open.spotify.com/album/12IaoWeaXTEte1MULtTvjm) | 3:00 | 2022-11-25 | 2023-03-25 |
+| [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-06-24 |  |
 | [Otra Nota](https://open.spotify.com/track/5MmtCMTozciY2odNvAEdJ3) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Otra Nota](https://open.spotify.com/album/1npA50vCSHpd5r7EDzbSwI) | 2:44 | 2024-03-29 | 2024-04-27 |
 | [Otra Vez Te Soñé](https://open.spotify.com/track/6X44vrKIdgwBP4I9hFT6US) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Otra Vez Te Soñé](https://open.spotify.com/album/4ZlHlbUReIOc1Cw6oudAgE) | 2:45 | 2022-05-27 | 2022-10-01 |
 | [Otro](https://open.spotify.com/track/2VZmXemWIKoKxJjbA2WHJE) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Otro](https://open.spotify.com/album/0eGqUAZJxkm2QJkZx9iXpp) | 3:28 | 2022-01-28 | 2022-06-17 |

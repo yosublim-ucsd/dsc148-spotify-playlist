@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Leon Leiden. The essential tracks, all in one playlist.",
+  "description": "This Is Leon Leiden. Los temas esenciales, todos en una lista.",
   "name": "This Is Leon Leiden",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 228040,
       "name": "Contigo Si",
       "url": "https://open.spotify.com/track/2oDR6BqgQ9iuQguQL30UEU"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 156168,
       "name": "Desamor Feliz Pt. 2",
       "url": "https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 182698,
       "name": "Estamos Aqu\u00ed",
       "url": "https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 166207,
       "name": "Modo Melanc\u00f3lico",
       "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 195726,
       "name": "Qu\u00e9 M\u00e1s Da",
       "url": "https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ"
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 167640,
       "name": "Una Chica Como T\u00fa",
       "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"

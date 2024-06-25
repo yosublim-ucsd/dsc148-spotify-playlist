@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Sosa. 50% techno, 50% house",
-  "num_followers": 626975,
+  "num_followers": 627046,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1481,6 +1481,22 @@
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
+    },
+    {
       "added_at": "2024-04-26 04:01:00",
       "album": {
         "name": "The Unexplained",
@@ -1503,22 +1519,6 @@
       "duration_ms": 220298,
       "name": "Okay Fine",
       "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1597,26 +1597,6 @@
       "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "She's In The Club (feat. Asal)",
-        "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Asal",
-          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
-        }
-      ],
-      "duration_ms": 188011,
-      "name": "She's In The Club (feat. Asal)",
-      "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Ready To Go (My Addiction)",
@@ -1635,6 +1615,26 @@
       "duration_ms": 144390,
       "name": "Ready To Go (My Addiction)",
       "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "She's In The Club (feat. Asal)",
+        "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+        }
+      ],
+      "duration_ms": 188011,
+      "name": "She's In The Club (feat. Asal)",
+      "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1753,26 +1753,6 @@
       "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Keep It Real",
-        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "ARIA",
-          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
-        }
-      ],
-      "duration_ms": 142322,
-      "name": "Keep It Real",
-      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
-    },
-    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Let's Go Dancing (Matroda Remix)",
@@ -1795,6 +1775,26 @@
       "duration_ms": 195473,
       "name": "Let's Go Dancing - Matroda Remix",
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Keep It Real",
+        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "ARIA",
+          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+        }
+      ],
+      "duration_ms": 142322,
+      "name": "Keep It Real",
+      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1837,26 +1837,6 @@
       "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Kite (Remixes)",
-        "url": "https://open.spotify.com/album/6bT5S54hgXZHwHa5NW96gl"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        }
-      ],
-      "duration_ms": 152371,
-      "name": "Kite - Majestic Remix",
-      "url": "https://open.spotify.com/track/7iXl6u3RSBMOJNBNCKcGfs"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Up N' Down (feat. JmNPR)",
@@ -1881,28 +1861,24 @@
       "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Mind Still (feat. blythe) [Tita Lau Remix]",
-        "url": "https://open.spotify.com/album/0Ag0eHjpSYHggENsZeurew"
+        "name": "Kite (Remixes)",
+        "url": "https://open.spotify.com/album/6bT5S54hgXZHwHa5NW96gl"
       },
       "artists": [
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
         },
         {
-          "name": "blythe",
-          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
-        },
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Mind Still (feat. blythe) - Tita Lau Remix",
-      "url": "https://open.spotify.com/track/0PTLOaQWvnRycfCL9i9d9p"
+      "duration_ms": 152371,
+      "name": "Kite - Majestic Remix",
+      "url": "https://open.spotify.com/track/7iXl6u3RSBMOJNBNCKcGfs"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1927,6 +1903,30 @@
       "duration_ms": 199472,
       "name": "Diamond Therapy",
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Mind Still (feat. blythe) [Tita Lau Remix]",
+        "url": "https://open.spotify.com/album/0Ag0eHjpSYHggENsZeurew"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Mind Still (feat. blythe) - Tita Lau Remix",
+      "url": "https://open.spotify.com/track/0PTLOaQWvnRycfCL9i9d9p"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -1969,28 +1969,20 @@
       "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Runny Nose",
-        "url": "https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34"
+        "name": "Something To Me",
+        "url": "https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        },
-        {
-          "name": "NKY",
-          "url": "https://open.spotify.com/artist/67usISVrpOi72VkrfmVTDC"
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
         }
       ],
-      "duration_ms": 161221,
-      "name": "Runny Nose",
-      "url": "https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc"
+      "duration_ms": 225466,
+      "name": "Something To Me",
+      "url": "https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2019,6 +2011,54 @@
       "duration_ms": 178124,
       "name": "Weak - Marco Lys Remix",
       "url": "https://open.spotify.com/track/08Iz2viTMqt57UbVwSQYmc"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Runny Nose",
+        "url": "https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        },
+        {
+          "name": "NKY",
+          "url": "https://open.spotify.com/artist/67usISVrpOi72VkrfmVTDC"
+        }
+      ],
+      "duration_ms": 161221,
+      "name": "Runny Nose",
+      "url": "https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Sharam",
+          "url": "https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2"
+        },
+        {
+          "name": "Pony",
+          "url": "https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q"
+        }
+      ],
+      "duration_ms": 206964,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2055,30 +2095,6 @@
       "duration_ms": 120930,
       "name": "Freddie's Warmup",
       "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Sharam",
-          "url": "https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2"
-        },
-        {
-          "name": "Pony",
-          "url": "https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q"
-        }
-      ],
-      "duration_ms": 206964,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -2161,6 +2177,22 @@
       "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
+    },
+    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "We Groovin (with Jazzy) [Shermanology Remix]",
@@ -2183,22 +2215,6 @@
       "duration_ms": 192000,
       "name": "We Groovin (with Jazzy) - Shermanology Remix",
       "url": "https://open.spotify.com/track/7erTn3eeUxPzlkiThXkevf"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Hypnotic",
-        "url": "https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2271,22 +2287,6 @@
       "duration_ms": 157784,
       "name": "I Can't Take No More",
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Something To Me",
-        "url": "https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        }
-      ],
-      "duration_ms": 225466,
-      "name": "Something To Me",
-      "url": "https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2385,26 +2385,6 @@
       "url": "https://open.spotify.com/track/6kjWT6uVoK8JsBuO2KUHW1"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Don't Wanna Fall",
-        "url": "https://open.spotify.com/album/5lvZDL4qUTZhOYL0iSxtIW"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "Framed Stories",
-          "url": "https://open.spotify.com/artist/0hxIhtwCpZU2Z9bDXc4dCk"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "Don't Wanna Fall",
-      "url": "https://open.spotify.com/track/2h9uC8vTvEdUHLNHJ06Eqb"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Better Recognize",
@@ -2423,6 +2403,26 @@
       "duration_ms": 211586,
       "name": "Better Recognize",
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Don't Wanna Fall",
+        "url": "https://open.spotify.com/album/5lvZDL4qUTZhOYL0iSxtIW"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Framed Stories",
+          "url": "https://open.spotify.com/artist/0hxIhtwCpZU2Z9bDXc4dCk"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "Don't Wanna Fall",
+      "url": "https://open.spotify.com/track/2h9uC8vTvEdUHLNHJ06Eqb"
     }
   ],
   "unique_name": "Tech House Operator",

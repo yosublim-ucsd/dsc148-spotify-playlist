@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a <a href="https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F?si=Su71zyobRx6CnGMxMCgR\_A"> تامر عاشور</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,625 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,868 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 40 | [Arooh Le Fein](https://open.spotify.com/track/6hoZwWCrJyhIDuoj7RYCFo) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [Galaleo](https://open.spotify.com/artist/60W1OtLk0gjWoE4kEP8tuY) | [Arooh Le Fein](https://open.spotify.com/album/6Ed5PYqq2rIc0u3eBXZz1E) | 2:46 |
 | 41 | [موضوع رجوعنا](https://open.spotify.com/track/3n3qHIdb2dpQwaBpPEYKI2) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [موضوع رجوعنا](https://open.spotify.com/album/15k72PP3lUVocnlPRNjVZQ) | 4:26 |
 | 42 | [Asmrani Eyounoh Samrah](https://open.spotify.com/track/6M8EcLbklscFeUPav8fIGu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Asmrani Eyounoh Samrah](https://open.spotify.com/album/7lB8Cor4rlvXJ9o8d0HshY) | 3:12 |
-| 43 | [Kol Elly Eshto](https://open.spotify.com/track/3PsPaxw4KgRJXAVWxnUu7q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kol Elly Eshto](https://open.spotify.com/album/36RN9n5MnY8qHLv9gwzfu0) | 3:09 |
+| 43 | [Kol Elly Eshto](https://open.spotify.com/track/3PsPaxw4KgRJXAVWxnUu7q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kol Elly Eshto](https://open.spotify.com/album/36RN9n5MnY8qHLv9gwzfu0) | 3:08 |
 | 44 | [Tenzl Feen](https://open.spotify.com/track/1uhzrj5NCOzhgJAyHtPas7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Tenzl Feen](https://open.spotify.com/album/46VnjHhdT1EzNzJZDFMoEx) | 2:47 |
 | 45 | [⁠Ana Sekketen](https://open.spotify.com/track/3tVO32Rh8Aurb2hml62NMp) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 4:57 |
 | 46 | [El Mabda2](https://open.spotify.com/track/6m8vcn1JPflk8xBoFsaPDP) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [آخر قطعة فنية](https://open.spotify.com/album/5YxBzNI1LIAI86UHm1kTrS) | 2:38 |

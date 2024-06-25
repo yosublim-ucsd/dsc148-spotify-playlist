@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 
 > The biggest songs in Latin America in 2000\. Cover: Joan Sebastian
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,379 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,408 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 | 20 | [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 |
 | 21 | [El Ultimo Adios](https://open.spotify.com/track/7lnun6viJADQCvZnE0w9q8) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:45 |
 | 22 | [Mayonesa](https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM) | [Chocolate](https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn) | [2000 Grandes Exitos](https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw) | 3:51 |
-| 23 | [Toco Y Me Voy](https://open.spotify.com/track/0NELwHhQu4EVcmGmu8D7vV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:09 |
-| 24 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
+| 23 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
+| 24 | [Toco Y Me Voy](https://open.spotify.com/track/0NELwHhQu4EVcmGmu8D7vV) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Hijos Del Culo](https://open.spotify.com/album/3e8flfLtloaUHUqv3PIR2o) | 4:09 |
 | 25 | [Amor I Love You / Citação: Trecho da Obra Intitulada "Primo Basilio" De Eça de Queiroz Declamado por Arnaldo Antunes](https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memórias, Crônicas e Declarações de Amor](https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL) | 3:11 |
 | 26 | [La danza del fuego](https://open.spotify.com/track/0dQPkfweyWDzZ20Auq3F14) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [Finisterra](https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT) | 5:13 |
 | 27 | [Que Vuelva](https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Corazón Duro](https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB) | 4:47 |

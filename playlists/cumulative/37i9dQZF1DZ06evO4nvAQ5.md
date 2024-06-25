@@ -2,7 +2,7 @@
 
 ### [This Is J Boog](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nvAQ5)
 
-> This is J Boog\. Todos os maiores hits em uma só playlist.
+> This is J Boog\. The essential tracks, all in one playlist.
 
 56 songs - 3 hr 24 min
 

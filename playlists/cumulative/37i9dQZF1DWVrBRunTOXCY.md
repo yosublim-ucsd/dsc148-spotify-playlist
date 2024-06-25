@@ -4,7 +4,7 @@
 
 > The sound of summer 2024! Cover: David Guetta, OneRepublic
 
-276 songs - 13 hr 54 min
+277 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 | 2024-03-29 |  |
 | [Groove Thang](https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Groove Thang](https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ) | 3:40 | 2023-08-11 | 2024-03-29 |
 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-03-29 |  |
+| [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-06-24 |  |
 | [HEATED](https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:20 | 2023-06-05 | 2024-03-29 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-05-15 | 2023-06-14 |
 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 | 2023-06-12 | 2023-06-20 |
@@ -234,7 +235,7 @@
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-05-15 | 2023-06-13 |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-07-24 | 2024-03-29 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-05 | 2024-03-29 |
-| [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-03-29 |  |
+| [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-03-29 | 2024-06-25 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2024-03-29 |  |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-03-29 |  |
 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 | 2023-05-15 | 2023-06-20 |

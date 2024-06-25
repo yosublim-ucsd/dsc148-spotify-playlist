@@ -4,7 +4,7 @@
 
 > a ti te quedé grande y por eso estás con una igualita que tú 🔥 🐺 👄
 
-53 songs - 2 hr 45 min
+54 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Mal de Amores](https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal de Amores](https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW) | 3:08 | 2023-08-11 |  |
 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 | 2023-08-11 |  |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2023-08-11 |  |
-| [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 | 2023-08-11 |  |
+| [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 | 2023-08-11 | 2024-06-25 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:34 | 2023-08-11 |  |
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2023-08-11 |  |
 | [Muñecas](https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Muñecas](https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR) | 2:36 | 2023-08-11 |  |
@@ -54,6 +54,7 @@
 | [Quiero Saber](https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 2:55 | 2023-08-11 |  |
 | [Quiero Saber](https://open.spotify.com/track/5urJPdx62YBXvdc1MXfi06) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva \(Platinum Edition\)](https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf) | 2:55 | 2023-08-11 | 2024-04-19 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-08-11 |  |
+| [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-24 |  |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2023-08-11 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2023-08-11 |  |
 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 | 2023-08-11 |  |

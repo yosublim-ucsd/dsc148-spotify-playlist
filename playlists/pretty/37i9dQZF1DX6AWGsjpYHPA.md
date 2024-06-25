@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,136 likes - 75 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,194 likes - 75 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 17 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 |
 | 18 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
 | 19 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
-| 20 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
-| 21 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
+| 20 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
+| 21 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
 | 22 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 |
 | 23 | [Intimate Friends](https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Slick](https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb) | 5:53 |
 | 24 | [Where Are We Going?](https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Gold](https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9) | 3:55 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 46 | [Maiysha \(So Long\) \(feat\. Erykah Badu\)](https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 7:29 |
 | 47 | [Sunshower](https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq) | 4:05 |
 | 48 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 |
-| 49 | [To The Floor](https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:09 |
-| 50 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
+| 49 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
+| 50 | [To The Floor](https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:09 |
 | 51 | [Desmond's Empire](https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Aletheia](https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b) | 4:36 |
 | 52 | [Asa Branca](https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR) | [Rosinha De Valença](https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B) | [Um Violão em Primeiro Plano](https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM) | 4:12 |
 | 53 | [The Sweetest Pain](https://open.spotify.com/track/0Qlbpljv5ZRlxRaYYnsvih) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 5:45 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 60 | [Gated Area](https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ) | 3:48 |
 | 61 | [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 |
 | 62 | [Too Soon You're Old](https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS) | [Penny Goodwin](https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX) | [Too Soon You're Old](https://open.spotify.com/album/0raY20Cy0vd6NEpgFOOanJ) | 4:47 |
-| 63 | [I Love You](https://open.spotify.com/track/4R3QtFO6c0bnDpmOcfI7yY) | [Karriem](https://open.spotify.com/artist/0NadnuC5kb7WZgpZcqqM2d) | [I Love You](https://open.spotify.com/album/5M7Ud3DDi9t5krP1OJczTN) | 6:55 |
-| 64 | [Jimtastic Blues](https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [MAN MADE](https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX) | 3:33 |
+| 63 | [Jimtastic Blues](https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [MAN MADE](https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX) | 3:33 |
+| 64 | [I Love You](https://open.spotify.com/track/4R3QtFO6c0bnDpmOcfI7yY) | [Karriem](https://open.spotify.com/artist/0NadnuC5kb7WZgpZcqqM2d) | [I Love You](https://open.spotify.com/album/5M7Ud3DDi9t5krP1OJczTN) | 6:55 |
 | 65 | [I Tcho Tchass](https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1) | [Akofa Akoussah](https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh) | [Akofa Akoussah](https://open.spotify.com/album/76MYmID5q42L381YAFUaEq) | 3:53 |
 | 66 | [pinky ring](https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [pinky ring / red velve7](https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ) | 4:39 |
 | 67 | [Diego](https://open.spotify.com/track/4rLKdsZ9RMZePn8mJ5fphn) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego](https://open.spotify.com/album/7KQ8oLOuSsHnpSq2yAdlQq) | 2:48 |

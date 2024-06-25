@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 261665,
       "name": "Fiel",
       "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
@@ -2863,6 +2863,32 @@
     },
     {
       "album": {
+        "name": "Santa",
+        "url": "https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193038,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
+    },
+    {
+      "album": {
         "name": "Se Le Ve",
         "url": "https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s"
       },
@@ -2960,6 +2986,24 @@
       "duration_ms": 208291,
       "name": "Sexo Virtual",
       "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
+    },
+    {
+      "album": {
+        "name": "SI NO ES CONTIGO",
+        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "SI NO ES CONTIGO",
+      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
     },
     {
       "album": {
@@ -3122,7 +3166,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 151000,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/0ztgfQJ8raYUjuuJC8Ik42"
@@ -3264,6 +3308,28 @@
       "duration_ms": 208000,
       "name": "TODO O NADA",
       "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
+    },
+    {
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209361,
+      "name": "TOMMY & PAMELA",
+      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
     },
     {
       "album": {

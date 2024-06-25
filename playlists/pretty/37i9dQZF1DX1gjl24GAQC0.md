@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your favorite oppa or dongsaeng? \(Cover:JxW\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,159 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,104 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 16 | [Smoothie](https://open.spotify.com/track/5qrFeNSIrwIc0B6Elp16Dl) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp) | 3:08 |
 | 17 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 |
 | 18 | [God of Music](https://open.spotify.com/track/4MTNimMDRyFZv37Thcktwa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 3:25 |
-| 19 | [Feel the POP](https://open.spotify.com/track/3JnaRKReO6TFGEdhggFWZG) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [You had me at HELLO](https://open.spotify.com/album/1f7EBZExZ8wFWgacxTLDdM) | 2:56 |
-| 20 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
+| 19 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
+| 20 | [Feel the POP](https://open.spotify.com/track/3JnaRKReO6TFGEdhggFWZG) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [You had me at HELLO](https://open.spotify.com/album/1f7EBZExZ8wFWgacxTLDdM) | 2:56 |
 | 21 | [Love Shot](https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:20 |
 | 22 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 |
 | 23 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 44 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz) | 2:55 |
 | 45 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 |
 | 46 | [BOOM](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:15 |
-| 47 | [Siren](https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Siren](https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO) | 2:27 |
+| 47 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 |
 | 48 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 |
 | 49 | [Monster](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:41 |
 | 50 | [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 |

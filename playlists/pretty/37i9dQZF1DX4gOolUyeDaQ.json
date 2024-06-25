@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al agua! Nosotros ponemos la m\u00fasica.",
-  "num_followers": 496040,
+  "num_followers": 496031,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-18 13:17:10",
       "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 199112,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
-    },
-    {
-      "added_at": "2024-06-18 13:17:10",
-      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2024-06-18 13:17:10",
+      "album": {
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 199112,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
     },
     {
       "added_at": "2024-06-18 13:17:10",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2024-06-18 13:17:10",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2024-06-18 13:17:10",
-      "album": {
         "name": "Goosebumps (Remix)",
         "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
       },
@@ -1247,22 +1227,22 @@
     {
       "added_at": "2024-06-18 13:17:10",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 172797,
-      "name": "QLONA",
-      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2024-06-18 13:17:10",
@@ -1283,22 +1263,22 @@
     {
       "added_at": "2024-06-18 13:17:10",
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
       "artists": [
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 216148,
-      "name": "Yandel 150",
-      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
     },
     {
       "added_at": "2024-06-18 13:17:10",
@@ -1315,6 +1295,26 @@
       "duration_ms": 173710,
       "name": "34+35",
       "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
+    },
+    {
+      "added_at": "2024-06-18 13:17:10",
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 216148,
+      "name": "Yandel 150",
+      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
     },
     {
       "added_at": "2024-06-18 13:17:10",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-06-18 13:17:10",
       "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "added_at": "2024-06-18 13:17:10",
+      "album": {
         "name": "Bam Bam (feat. Ed Sheeran)",
         "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2024-06-18 13:17:10",
-      "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2024-06-18 13:17:10",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-06-18 13:17:10",
       "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
-    },
-    {
-      "added_at": "2024-06-18 13:17:10",
-      "album": {
         "name": "Persia (Remix)",
         "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 250906,
       "name": "Persia - Remix",
       "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
+    },
+    {
+      "added_at": "2024-06-18 13:17:10",
+      "album": {
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
       "added_at": "2024-06-18 13:17:10",
@@ -2423,30 +2423,6 @@
     {
       "added_at": "2024-06-18 13:17:10",
       "album": {
-        "name": "Fine Day Anthem",
-        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Opus III",
-          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
-        }
-      ],
-      "duration_ms": 193690,
-      "name": "Fine Day Anthem",
-      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
-    },
-    {
-      "added_at": "2024-06-18 13:17:10",
-      "album": {
         "name": "La Jeepeta (Remix)",
         "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
@@ -2475,6 +2451,54 @@
       "duration_ms": 345240,
       "name": "La Jeepeta - Remix",
       "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
+    },
+    {
+      "added_at": "2024-06-18 13:17:10",
+      "album": {
+        "name": "Fine Day Anthem",
+        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
+        }
+      ],
+      "duration_ms": 193690,
+      "name": "Fine Day Anthem",
+      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+    },
+    {
+      "added_at": "2024-06-18 13:17:10",
+      "album": {
+        "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+        "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+      "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
     },
     {
       "added_at": "2024-06-18 13:17:10",
@@ -2511,30 +2535,6 @@
       "duration_ms": 167903,
       "name": "Paradise (feat. Dermot Kennedy)",
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
-    },
-    {
-      "added_at": "2024-06-18 13:17:10",
-      "album": {
-        "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
-        "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
-      "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
     },
     {
       "added_at": "2024-06-18 13:17:10",
@@ -2735,30 +2735,6 @@
     {
       "added_at": "2024-06-18 13:17:10",
       "album": {
-        "name": "Be Like That (feat. Swae Lee & Khalid)",
-        "url": "https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 191406,
-      "name": "Be Like That - feat. Swae Lee & Khalid",
-      "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
-    },
-    {
-      "added_at": "2024-06-18 13:17:10",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -2783,18 +2759,26 @@
     {
       "added_at": "2024-06-18 13:17:10",
       "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
+        "name": "Be Like That (feat. Swae Lee & Khalid)",
+        "url": "https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp"
       },
       "artists": [
         {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 198520,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
+      "duration_ms": 191406,
+      "name": "Be Like That - feat. Swae Lee & Khalid",
+      "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
     },
     {
       "added_at": "2024-06-18 13:17:10",
@@ -2827,6 +2811,46 @@
     {
       "added_at": "2024-06-18 13:17:10",
       "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2024-06-18 13:17:10",
+      "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
+    },
+    {
+      "added_at": "2024-06-18 13:17:10",
+      "album": {
         "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
         "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
       },
@@ -2855,30 +2879,6 @@
     {
       "added_at": "2024-06-18 13:17:10",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": "2024-06-18 13:17:10",
-      "album": {
         "name": "Levitating (feat. DaBaby)",
         "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
       },
@@ -2895,6 +2895,22 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
+    },
+    {
+      "added_at": "2024-06-18 13:17:10",
+      "album": {
+        "name": "EXPERIMENTO",
+        "url": "https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222728,
+      "name": "EXPERIMENTO",
+      "url": "https://open.spotify.com/track/6c32C8T3KlXrbvWSoD5aON"
     },
     {
       "added_at": "2024-06-18 13:17:10",
@@ -2923,18 +2939,18 @@
     {
       "added_at": "2024-06-18 13:17:10",
       "album": {
-        "name": "EXPERIMENTO",
-        "url": "https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv"
+        "name": "Mujeriego",
+        "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 222728,
-      "name": "EXPERIMENTO",
-      "url": "https://open.spotify.com/track/6c32C8T3KlXrbvWSoD5aON"
+      "duration_ms": 142500,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
     },
     {
       "added_at": "2024-06-18 13:17:10",
@@ -2955,22 +2971,6 @@
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
-    },
-    {
-      "added_at": "2024-06-18 13:17:10",
-      "album": {
-        "name": "Mujeriego",
-        "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Mujeriego",
-      "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
     }
   ],
   "unique_name": "Pool Party",

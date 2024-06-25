@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > feel it in your bones 📸: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,576,186 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,575,919 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [NVR RLLY](https://open.spotify.com/track/4rKY7tnvkK72142WJkVL0b) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [shed](https://open.spotify.com/album/3FUzGhGjR8rcmJIWmc67AQ) | 3:09 |
 | 75 | [Frog In Boiling Water](https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Frog In Boiling Water](https://open.spotify.com/album/27dLHGsqrDSWHCHvvS7m5p) | 3:57 |
 
-Snapshot ID: `ZnT6wAAAAABsGMZmIL5APo7YwG7ZrLG7`
+Snapshot ID: `ZnmqZwAAAADbowytwv6TuaYScStVackE`

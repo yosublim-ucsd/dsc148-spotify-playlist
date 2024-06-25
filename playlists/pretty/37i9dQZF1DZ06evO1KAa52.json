@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 627137,
+  "num_followers": 627236,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAAalaTo2tR4fWKNwJsc6u6r",
+  "snapshot_id": "ZndlgAAAAAB5KCVbH7dIlme6Z2KWqg+v",
   "tracks": [
     {
       "added_at": null,
@@ -171,30 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
-      "url": "https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XSCAPE",
         "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
       },
@@ -215,26 +191,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock Value",
-        "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
       "artists": [
         {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         }
       ],
-      "duration_ms": 234026,
-      "name": "Give It To Me",
-      "url": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx"
+      "duration_ms": 189693,
+      "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
+      "url": "https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ"
     },
     {
       "added_at": null,
@@ -327,54 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drown",
-        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 260120,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Eric Andre",
-          "url": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke"
-        },
-        {
-          "name": "Daveed Diggs",
-          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -427,8 +355,40 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Eric Andre",
+          "url": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 152160,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
       },
       "artists": [
         {
@@ -436,9 +396,9 @@
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 208026,
-      "name": "No Angels",
-      "url": "https://open.spotify.com/track/3Llg6UrxeStZxQJNjEQrlM"
+      "duration_ms": 260120,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
     },
     {
       "added_at": null,
@@ -459,6 +419,22 @@
       "duration_ms": 232466,
       "name": "Carry Out (Featuring Justin Timberlake)",
       "url": "https://open.spotify.com/track/2DHc2e5bBn4UzY0ENVFrUl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD"
     },
     {
       "added_at": null,
@@ -503,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
       },
       "artists": [
         {
@@ -512,9 +488,9 @@
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 294866,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD"
+      "duration_ms": 208026,
+      "name": "No Angels",
+      "url": "https://open.spotify.com/track/3Llg6UrxeStZxQJNjEQrlM"
     },
     {
       "added_at": null,
@@ -671,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 326280,
+      "name": "Suit & Tie (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -703,26 +699,6 @@
       "duration_ms": 219133,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/72o9sWkvAIJAtOs1WoVhNN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 326280,
-      "name": "Suit & Tie (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5"
     },
     {
       "added_at": null,
@@ -763,6 +739,22 @@
       "duration_ms": 322093,
       "name": "Until The End Of Time (with Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/2wZTnl0pPFr3HBcyXfOaVJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 283626,
+      "name": "Like I Love You",
+      "url": "https://open.spotify.com/track/6W2Ef5Ph6ILTUAedoQ3QIv"
     },
     {
       "added_at": null,
@@ -811,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 283626,
-      "name": "Like I Love You",
-      "url": "https://open.spotify.com/track/6W2Ef5Ph6ILTUAedoQ3QIv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything I Thought It Was",
         "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
       },
@@ -859,6 +835,26 @@
       "duration_ms": 234666,
       "name": "Sin Fin",
       "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magna Carta... Holy Grail",
+        "url": "https://open.spotify.com/album/4gbrbyveJFkuLH6B5w93JH"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 338413,
+      "name": "Holy Grail",
+      "url": "https://open.spotify.com/track/1q9bLSeIlGf2xBvbOkp2Wr"
     },
     {
       "added_at": null,
@@ -899,26 +895,6 @@
       "duration_ms": 217266,
       "name": "Family",
       "url": "https://open.spotify.com/track/3uAPRSXcJo3kgdFWAQjy1R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Magna Carta... Holy Grail",
-        "url": "https://open.spotify.com/album/4gbrbyveJFkuLH6B5w93JH"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 338413,
-      "name": "Holy Grail",
-      "url": "https://open.spotify.com/track/1q9bLSeIlGf2xBvbOkp2Wr"
     },
     {
       "added_at": null,
@@ -1019,30 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep Going Up",
-        "url": "https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c"
-      },
-      "artists": [
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 174222,
-      "name": "Keep Going Up (with Nelly Furtado & Justin Timberlake)",
-      "url": "https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
@@ -1067,6 +1019,26 @@
       "duration_ms": 244293,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/4ymByZAPRqTlyJASAoJ921"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turtleneck & Chain (Explicit Version)",
+        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
+      },
+      "artists": [
+        {
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "Motherlover",
+      "url": "https://open.spotify.com/track/2zpQ30BpR6teeCeivQoo5p"
     },
     {
       "added_at": null,

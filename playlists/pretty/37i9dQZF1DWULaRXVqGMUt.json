@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 50811,
+  "num_followers": 50830,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 150571,
-      "name": "Long Tall Sally",
-      "url": "https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "The Very Best Of Boogie Woogie",
         "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 162600,
       "name": "Boogie Woogie Man",
       "url": "https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 150571,
+      "name": "Long Tall Sally",
+      "url": "https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 238315,
-      "name": "Mac's Boogie",
-      "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "So Swell",
         "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 151261,
       "name": "Swanee River Boogie",
       "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 238315,
+      "name": "Mac's Boogie",
+      "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "The Lost Paramount Tapes",
-        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Junco Partner #2",
-      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Rock and Rollin' With Fats",
         "url": "https://open.spotify.com/album/02ygc0A5WNjd5HnDI1xzs0"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 171613,
       "name": "Swanee River Hop",
       "url": "https://open.spotify.com/track/0ijsopIPvMuvuk0pOeTtb2"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "The Lost Paramount Tapes",
+        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Junco Partner #2",
+      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Battin' The Boogie",
-        "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
-      },
-      "artists": [
-        {
-          "name": "Frank Muschalle",
-          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Killer Miller",
-      "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "No Hats",
         "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Boogie Woogie Kid",
-        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+        "name": "Battin' The Boogie",
+        "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
       "artists": [
         {
-          "name": "Boogie Woogie Kid",
-          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+          "name": "Frank Muschalle",
+          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Five Stacked High",
-      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
+      "duration_ms": 141666,
+      "name": "Killer Miller",
+      "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -655,6 +639,22 @@
       "duration_ms": 208067,
       "name": "501 Boogie",
       "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Boogie Woogie Kid",
+        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+      },
+      "artists": [
+        {
+          "name": "Boogie Woogie Kid",
+          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Five Stacked High",
+      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "New Orleans Piano (Mono)",
-        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 160795,
-      "name": "Boogie Woogie - Mono",
-      "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Yancey Special",
         "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 172460,
       "name": "Yancey Stomp",
       "url": "https://open.spotify.com/track/4I32Hx29orle6qZ6UI0fTf"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 160795,
+      "name": "Boogie Woogie - Mono",
+      "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
     },
     {
       "added_at": "2024-05-30 16:27:59",

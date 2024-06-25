@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,250 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,251 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 41 | [SWEATY](https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [CLAASSIC](https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP) | 3:37 |
 | 42 | [Honestly](https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Honestly](https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx) | 3:17 |
 | 43 | [White Snow \(feat\. prettyhappy\)](https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [White Snow](https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV) | 3:04 |
-| 44 | [Dive Into](https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [FRAME](https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere) | 3:04 |
-| 45 | [Kurkdjian](https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:30 |
+| 44 | [Kurkdjian](https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:30 |
+| 45 | [Dive Into](https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [FRAME](https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere) | 3:04 |
 | 46 | [Leave](https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 3:11 |
 | 47 | [LSD \(Feat\. JUNNY\)](https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:31 |
 | 48 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 57 | [MY RIDE](https://open.spotify.com/track/0cpDaRIGcQOIOORtwQzQ50) | [JASMINE](https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ) | [MY RIDE](https://open.spotify.com/album/2CeGbSrinsDbNzjsJU0fi2) | 3:06 |
 | 58 | [At Night \(feat\. Kuzi\)](https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 2:23 |
 | 59 | [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 |
-| 60 | [You’re mine, You!](https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [You're mine, You!](https://open.spotify.com/album/1bBFrkrEpLG0RhiglXbPLT) | 3:52 |
+| 60 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
 
 Snapshot ID: `ZeqjCAAAAAC1Iiyd/Uy5ZwjceD3vzP3B`

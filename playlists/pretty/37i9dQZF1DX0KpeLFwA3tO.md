@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: The Story So Far
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,023 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,099 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 23 | [Heart Pumps Blood](https://open.spotify.com/track/16J2iE7u869PV4QRa0fY9x) | [Bad Neighbour](https://open.spotify.com/artist/1Lg2j8CzYY32r5sDiuVW8B) | [Heart Pumps Blood](https://open.spotify.com/album/38tf14Nlk4xBpZhwax3wZ6) | 2:45 |
 | 24 | [Confrere](https://open.spotify.com/track/2zg4kgClRGME9rE5G2v3jO) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Night River](https://open.spotify.com/album/55gwZQECuAWZOgGxqiQq5A) | 4:39 |
 | 25 | [Curtains Up](https://open.spotify.com/track/1kqQuVxEhJKWqXhwLiu1s1) | [Alien Chicks](https://open.spotify.com/artist/1V2a5Mkw4VP93kP1vrB4T4) | [Curtains Up](https://open.spotify.com/album/4SLZaRVSIKG6AeetFJfUrm) | 3:32 |
-| 26 | [Sail Away](https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn), [Chunk! No](https://open.spotify.com/artist/2RJG77zJneqMFlxdK8U2FK), [Captain Chunk!](https://open.spotify.com/artist/7LebJKbIfOpFYYiAaAGEw1) | [Sail Away](https://open.spotify.com/album/7LHNEaG4vAGmD9vCO0gRrt) | 3:17 |
+| 26 | [Sail Away](https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn), [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Sail Away](https://open.spotify.com/album/7LHNEaG4vAGmD9vCO0gRrt) | 3:17 |
 | 27 | [Summer All Over Again](https://open.spotify.com/track/4mnRri1WAFlhzkwa5qyHOp) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [Summer All Over Again](https://open.spotify.com/album/4JIUqLL85WppFi3fCnc0No) | 2:56 |
 | 28 | [spin the bottle](https://open.spotify.com/track/7JXtmsHpGslWNlBloLG8WP) | [massie99](https://open.spotify.com/artist/26lkYo9suieohq7ZCsxSYY) | [spin the bottle](https://open.spotify.com/album/0gwhE24PH9EXwBJj6lxeJm) | 1:29 |
 | 29 | [Criminal](https://open.spotify.com/track/600USGCjWXYgmoFC8jhUxB) | [wakelee](https://open.spotify.com/artist/3AWGvay19E8Q9CIqy7zii6) | [Criminal](https://open.spotify.com/album/0OmC9mOIw7omzGjDyiuNcG) | 3:05 |

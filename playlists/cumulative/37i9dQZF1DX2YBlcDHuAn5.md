@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-139 songs - 8 hr 25 min
+140 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Love in the Dark](https://open.spotify.com/track/5rdvOjYb63B0DSEMmA6GLE) | [Abe Partridge](https://open.spotify.com/artist/1RQeZdPAK7c7QakzTfcA2q) | [Love in the Dark](https://open.spotify.com/album/1BQwxISegVx89NtVEb2Umm) | 4:07 | 2023-05-12 | 2023-06-01 |
 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 | 2023-09-07 | 2024-06-04 |
 | [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 | 2024-04-11 | 2024-04-19 |
-| [Love to See You Cry](https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD) | [Love to See You Cry](https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD) | 4:22 | 2023-10-05 |  |
+| [Love to See You Cry](https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD) | [Love to See You Cry](https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD) | 4:22 | 2023-10-05 | 2024-06-25 |
 | [Love You So](https://open.spotify.com/track/7oFbkIDSxQTZN2n4y7cULK) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Love You So](https://open.spotify.com/album/5NHEVyO1PSXb0F1n1gjH55) | 3:14 | 2023-03-16 | 2023-04-28 |
 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 | 2023-02-23 | 2023-10-06 |
 | [Maybe, Maybe Not](https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Maybe, Maybe Not](https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf) | 3:20 | 2023-02-23 | 2023-09-01 |
@@ -93,6 +93,7 @@
 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 | 2023-02-23 |  |
 | [Only Love](https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Big Thing](https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU) | 3:35 | 2023-02-23 |  |
 | [Our House](https://open.spotify.com/track/220vD8Jgn9wK5WfRSpiQkn) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Our House](https://open.spotify.com/album/2pj3bBwQIhqACfusXx6aHf) | 3:20 | 2023-06-22 | 2023-07-07 |
+| [Overpass Graffiti](https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Overpass Graffiti](https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9) | 3:54 | 2024-06-24 |  |
 | [Pagan Run](https://open.spotify.com/track/2mRkUkyWk10HDw9Oa9llio) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [King of a Land](https://open.spotify.com/album/7L985gR7I4PLpAO5aqNyxj) | 4:33 | 2023-06-15 | 2023-11-18 |
 | [Pagan Run](https://open.spotify.com/track/7LwPaJBg7ySXzY5fQO3WbR) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [King of a Land](https://open.spotify.com/album/1oTVSpkoMbY4CiQC1NAVFG) | 4:33 | 2023-11-09 | 2024-04-19 |
 | [Pink Shades](https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv) | 3:30 | 2023-08-31 |  |

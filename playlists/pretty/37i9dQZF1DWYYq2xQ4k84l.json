@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 36975,
+  "num_followers": 36989,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,22 @@
     {
       "added_at": "2024-04-06 00:38:25",
       "album": {
-        "name": "Aerosoul",
-        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
+        "name": "M.I.A.M.I.",
+        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
       },
       "artists": [
         {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
         }
       ],
-      "duration_ms": 246200,
-      "name": "Tocando Fondo",
-      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
+      "duration_ms": 219080,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
     },
     {
       "added_at": "2024-04-06 00:38:25",
@@ -395,22 +399,18 @@
     {
       "added_at": "2024-04-06 00:38:25",
       "album": {
-        "name": "M.I.A.M.I.",
-        "url": "https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32"
+        "name": "Aerosoul",
+        "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
+      "duration_ms": 246200,
+      "name": "Tocando Fondo",
+      "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
     },
     {
       "added_at": "2024-04-06 00:38:25",

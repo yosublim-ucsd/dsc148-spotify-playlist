@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Maria Centeno en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,657 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,662 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 43 | [Desconocernos](https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Desconocernos](https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K) | 2:57 |
 | 44 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 45 | [Escuchado](https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Escuchado](https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9) | 3:02 |
-| 46 | [Ahí Estaré](https://open.spotify.com/track/1HDSpp1hQxCuUloQCS7GcD) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Ahí Estaré](https://open.spotify.com/album/2XVv6MnogPJ1bOt298SqpX) | 4:00 |
-| 47 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 |
+| 46 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 |
+| 47 | [Ahí Estaré](https://open.spotify.com/track/1HDSpp1hQxCuUloQCS7GcD) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Ahí Estaré](https://open.spotify.com/album/2XVv6MnogPJ1bOt298SqpX) | 4:00 |
 | 48 | [de mi cabeza no te vas](https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [de mi cabeza no te vas](https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e) | 2:31 |
 | 49 | [rangerover](https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [rangerover](https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0) | 3:06 |
 | 50 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 |
-| 51 | [Aguilera](https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Aguilera](https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH) | 2:30 |
-| 52 | [AHORA](https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 3:03 |
+| 51 | [AHORA](https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 3:03 |
+| 52 | [Aguilera](https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Aguilera](https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH) | 2:30 |
 | 53 | [Te Perdono](https://open.spotify.com/track/7rQWY0VbmgKDVeQ1cqVlwp) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Te Perdono](https://open.spotify.com/album/1dxvzNdRqY9OMFCyh5bWIE) | 3:16 |
 | 54 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 |
 | 55 | [feliz año nuevo](https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Oscar Plaza](https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U) | [feliz año nuevo](https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG) | 2:43 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 70 | [QTVB](https://open.spotify.com/track/15h8VCcdvLeRy0Fb92Iqux) | [Mita](https://open.spotify.com/artist/3Vyw4TdOwnqclNlcvAeeSS), [MI$HA](https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ) | [QTVB](https://open.spotify.com/album/5vVyZ4MndgNMA6G3gTV78a) | 2:48 |
 | 71 | [la calle](https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la calle](https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq) | 4:03 |
 | 72 | [Yo Sé \(Aceptación\)](https://open.spotify.com/track/0P0WYN6UXKIKs3JRidiXEW) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Yo Sé \(Aceptación\)](https://open.spotify.com/album/0bIoDg1vbxAO6MqGKcbbmV) | 3:02 |
-| 73 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 |
+| 73 | [A TI](https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [A TI](https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza) | 2:18 |
 | 74 | [Palabras De Papel \(Veneno\)](https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Felicidad y Otros Mitos](https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI) | 3:21 |
 | 75 | [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 |
 

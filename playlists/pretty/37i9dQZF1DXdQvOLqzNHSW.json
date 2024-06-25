@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 984555,
+  "num_followers": 985031,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
+        "name": "If Not Now?",
+        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Theirs13",
+      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
         "name": "Art Collection",
         "url": "https://open.spotify.com/album/2hDRqm8t3u7E8O1t4zojqB"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 150839,
       "name": "Mr. Moon",
       "url": "https://open.spotify.com/track/46gce56bpmcADKw3i00Lju"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
-        "name": "If Not Now?",
-        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Theirs13",
-      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn"
     },
     {
-      "added_at": "2024-05-08 17:27:31",
-      "album": {
-        "name": "Sweetness",
-        "url": "https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 251894,
-      "name": "Sweetness",
-      "url": "https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy"
-    },
-    {
       "added_at": "2024-04-23 17:40:25",
       "album": {
         "name": "Views/Octopus EP",
@@ -487,6 +471,22 @@
       "duration_ms": 184000,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
+    },
+    {
+      "added_at": "2024-05-08 17:27:31",
+      "album": {
+        "name": "Sweetness",
+        "url": "https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 251894,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/5XIXaFKCqXs1TKs1BB5tw4"
     },
     {
-      "added_at": "2024-05-08 17:27:31",
-      "album": {
-        "name": "Lover\u2019s Rock",
-        "url": "https://open.spotify.com/album/7oeGRapHeKODWlsNGdOZ8Z"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Lover\u2019s Rock",
-      "url": "https://open.spotify.com/track/7eLIyJ632oXGozoLiGB1Ik"
-    },
-    {
       "added_at": "2024-04-23 17:40:25",
       "album": {
         "name": "Fever",
@@ -543,6 +527,22 @@
       "duration_ms": 178477,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
+    },
+    {
+      "added_at": "2024-05-08 17:27:31",
+      "album": {
+        "name": "Lover\u2019s Rock",
+        "url": "https://open.spotify.com/album/7oeGRapHeKODWlsNGdOZ8Z"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Lover\u2019s Rock",
+      "url": "https://open.spotify.com/track/7eLIyJ632oXGozoLiGB1Ik"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
-      },
-      "artists": [
-        {
-          "name": "Les Imprim\u00e9s",
-          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "I'll Never Leave",
-      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "Hether Who?",
         "url": "https://open.spotify.com/album/4U5EhQq161gJSUVFaEgrGA"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 176000,
       "name": "Falling in Loves too Mean",
       "url": "https://open.spotify.com/track/2ECYzy9Xr3Cr3cRgcWXnga"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
+      },
+      "artists": [
+        {
+          "name": "Les Imprim\u00e9s",
+          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "I'll Never Leave",
+      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Rabid Dog",
-        "url": "https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 239814,
-      "name": "Rabid Dog",
-      "url": "https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "That's What They Wanted",
         "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 116832,
       "name": "That's What They Wanted",
       "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Rabid Dog",
+        "url": "https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 239814,
+      "name": "Rabid Dog",
+      "url": "https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "hurt me enough",
-        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
-      },
-      "artists": [
-        {
-          "name": "Nathan Archie",
-          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
-        }
-      ],
-      "duration_ms": 186032,
-      "name": "hurt me enough",
-      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "Holy Waters",
         "url": "https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Dick Arkive: Issue 2",
-        "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
+        "name": "hurt me enough",
+        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
       },
       "artists": [
         {
-          "name": "r mccarthy",
-          "url": "https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7"
+          "name": "Nathan Archie",
+          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
         }
       ],
-      "duration_ms": 242345,
-      "name": "I Think I Lost That Love",
-      "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
+      "duration_ms": 186032,
+      "name": "hurt me enough",
+      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
+        "name": "Dick Arkive: Issue 2",
+        "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
+      },
+      "artists": [
+        {
+          "name": "r mccarthy",
+          "url": "https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7"
+        }
+      ],
+      "duration_ms": 242345,
+      "name": "I Think I Lost That Love",
+      "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
         "name": "Candy / How many miles",
         "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq"
-      },
-      "artists": [
-        {
-          "name": "Goofy Geese",
-          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
-        }
-      ],
-      "duration_ms": 210687,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "Dance on the Rain",
         "url": "https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 219472,
       "name": "Dance on the Rain",
       "url": "https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq"
+      },
+      "artists": [
+        {
+          "name": "Goofy Geese",
+          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
+        }
+      ],
+      "duration_ms": 210687,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1555,18 +1555,22 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Move San, L\u00e8t Gate",
-        "url": "https://open.spotify.com/album/6gVG0djijF2sU0KLYFObKE"
+        "name": "Go\u00fbter",
+        "url": "https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij"
       },
       "artists": [
         {
-          "name": "TWEAKS",
-          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        },
+        {
+          "name": "jjared",
+          "url": "https://open.spotify.com/artist/2lCi1gAqy8tw0g4zEZtUxp"
         }
       ],
-      "duration_ms": 175707,
-      "name": "Plastic Beach",
-      "url": "https://open.spotify.com/track/6tqBvXpnAqeHTzINQlhbKp"
+      "duration_ms": 272000,
+      "name": "swan hug (feat. jjared)",
+      "url": "https://open.spotify.com/track/1JTUU1q0ilxfcsqAQKh9Lm"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1591,22 +1595,18 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Go\u00fbter",
-        "url": "https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij"
+        "name": "Move San, L\u00e8t Gate",
+        "url": "https://open.spotify.com/album/6gVG0djijF2sU0KLYFObKE"
       },
       "artists": [
         {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        },
-        {
-          "name": "jjared",
-          "url": "https://open.spotify.com/artist/2lCi1gAqy8tw0g4zEZtUxp"
+          "name": "TWEAKS",
+          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
         }
       ],
-      "duration_ms": 272000,
-      "name": "swan hug (feat. jjared)",
-      "url": "https://open.spotify.com/track/1JTUU1q0ilxfcsqAQKh9Lm"
+      "duration_ms": 175707,
+      "name": "Plastic Beach",
+      "url": "https://open.spotify.com/track/6tqBvXpnAqeHTzINQlhbKp"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
+        "name": "Took One Look",
+        "url": "https://open.spotify.com/album/75I7QxTj9TMYpClUsBN21w"
+      },
+      "artists": [
+        {
+          "name": "Muunjuun",
+          "url": "https://open.spotify.com/artist/32y328GZcvGkG3Ch2p89Q7"
+        }
+      ],
+      "duration_ms": 140326,
+      "name": "Took One Look",
+      "url": "https://open.spotify.com/track/38c3RCyYlBv4bFQ1dn5nTJ"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
         "name": "Live at RBC Echo Beach",
         "url": "https://open.spotify.com/album/5r70krK838xAiHP8t0algB"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 213120,
       "name": "Show Me How - Live at RBC Echo Beach",
       "url": "https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
-        "name": "Air Con Eden",
-        "url": "https://open.spotify.com/album/486QPfqtxMumr35F75fkHU"
-      },
-      "artists": [
-        {
-          "name": "Jerkcurb",
-          "url": "https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA"
-        }
-      ],
-      "duration_ms": 342483,
-      "name": "Shadowshow",
-      "url": "https://open.spotify.com/track/5cuhNF549j5QMPhLOgMU6V"
     }
   ],
   "unique_name": "late night vibes",

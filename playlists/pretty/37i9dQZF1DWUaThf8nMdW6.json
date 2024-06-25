@@ -1,6 +1,6 @@
 {
   "description": "Relive Southeast Asia's most adored pop hits from the 2000s.",
-  "num_followers": 1476054,
+  "num_followers": 1476169,
   "original_name": "Best of '00s Pop",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2020-08-31 04:14:33",
       "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/698AdfGuOthKXXvvHla9bf"
+      },
+      "artists": [
+        {
+          "name": "Iyaz",
+          "url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/5vlEg2fT4cFWAqU5QptIpQ"
+    },
+    {
+      "added_at": "2020-08-31 04:14:33",
+      "album": {
         "name": "Jealous Ones Still Envy (J.O.S.E)",
         "url": "https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 267093,
       "name": "What's Luv? (feat. Ja-Rule & Ashanti)",
       "url": "https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r"
-    },
-    {
-      "added_at": "2020-08-31 04:14:33",
-      "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/698AdfGuOthKXXvvHla9bf"
-      },
-      "artists": [
-        {
-          "name": "Iyaz",
-          "url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/5vlEg2fT4cFWAqU5QptIpQ"
     },
     {
       "added_at": "2020-08-31 04:14:33",

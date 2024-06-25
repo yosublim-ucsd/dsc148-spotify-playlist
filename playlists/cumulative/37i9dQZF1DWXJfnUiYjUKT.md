@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Peso Pluma
 
-12,751 songs - 28 day 0 hr 27 min
+12,752 songs - 28 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4206,7 +4206,7 @@
 | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6) | 2:52 | 2023-01-13 | 2023-01-21 |
 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 | 2023-04-29 |
 | [Gimme A Second](https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Gimme A Second](https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ) | 2:53 | 2024-05-24 | 2024-06-01 |
-| [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:50 | 2024-06-21 |  |
+| [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:51 | 2024-06-21 |  |
 | [Gimme Back My Soul](https://open.spotify.com/track/0FuxavKPV5DXap0xk0TRIS) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Health](https://open.spotify.com/album/45Se7nUO9QHVJumwXIejpd) | 3:16 | 2023-01-27 | 2023-02-04 |
 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2023-12-08 | 2023-12-16 |
 | [Gimme Love](https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Gimme Love](https://open.spotify.com/album/2mzILBdUdQi0KIo61th1k4) | 2:51 | 2023-02-24 | 2023-03-04 |
@@ -8105,7 +8105,8 @@
 | [OK](https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [OK](https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V) | 4:23 | 2023-05-12 | 2023-05-20 |
 | [OK \(feat\. MAVI\)](https://open.spotify.com/track/2eA50w1CdYbNYBTc7MhDL2) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [OK \(feat\. MAVI\)](https://open.spotify.com/album/0rnWNeCP6TnZQkFBuPfCZr) | 2:14 | 2024-04-12 | 2024-04-19 |
 | [OK \(feat\. Young Thug\)](https://open.spotify.com/track/06P0OMevRLv6wWGdXHSGN2) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [OK \(feat\. Young Thug\)](https://open.spotify.com/album/76GwLI1nybtKiwJ1maeFIw) | 4:06 | 2023-11-10 | 2023-11-18 |
-| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-21 |  |
+| [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 | 2024-06-24 |  |
+| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-21 | 2024-06-25 |
 | [Ok Ok Ok](https://open.spotify.com/track/6z47OmpXQ1EBrTtQvLnu4v) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Ok Ok Ok](https://open.spotify.com/album/0Nvk4UP0jdf2sf7OL2WFVs) | 2:16 | 2023-01-13 | 2023-01-21 |
 | [Okay](https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Okay](https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc) | 3:12 | 2023-12-08 | 2023-12-16 |
 | [OKAY](https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [OKAY](https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL) | 2:44 | 2024-04-26 | 2024-05-04 |

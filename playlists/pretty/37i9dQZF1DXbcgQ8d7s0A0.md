@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 
 > Chill out to the sweetest soul songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,967 likes - 65 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,289,125 likes - 65 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 64 | [Bitter With The Sweet](https://open.spotify.com/track/6bMrfP9V5s5fgL3Z02tcES) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King: The Ode Collection](https://open.spotify.com/album/3kbEbYvWSub8LsGZpq6lcp) | 2:28 |
 | 65 | [If I Ain't Got You \(feat\. Usher\)](https://open.spotify.com/track/41osd5ueK4Z4KWldcluCWW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Love Songs](https://open.spotify.com/album/74RK3gsxjigff01cRt7pLL) | 3:50 |
 
-Snapshot ID: `ZgFpzQAAAACVlfBSzqtGxaV6Zk2Y7T4d`
+Snapshot ID: `ZnlXMQAAAAD2p1FsOijBF3ELr0plJywo`

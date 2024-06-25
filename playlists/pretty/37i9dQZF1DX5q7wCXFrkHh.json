@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 97760,
+  "num_followers": 97822,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "The Amazing Bud Powell, Vol. 2 (2001 RVG Edition)",
-        "url": "https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Polka Dots And Moonbeams - Remastered",
-      "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "Kenny Drew And His Progressive Piano",
         "url": "https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+        "name": "The Amazing Bud Powell, Vol. 2 (2001 RVG Edition)",
+        "url": "https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
         }
       ],
-      "duration_ms": 184293,
-      "name": "Excerpts From The Blues",
-      "url": "https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn"
+      "duration_ms": 244466,
+      "name": "Polka Dots And Moonbeams - Remastered",
+      "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -411,6 +395,22 @@
       "duration_ms": 894733,
       "name": "K\u00f6ln, January 24, 1975, Pt. II A - Live",
       "url": "https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Excerpts From The Blues",
+      "url": "https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -455,26 +455,18 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Master Trio",
-        "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
+        "name": "Seven Days of Falling",
+        "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
       },
       "artists": [
         {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
         }
       ],
-      "duration_ms": 349600,
-      "name": "Angel Eyes - Studio",
-      "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
+      "duration_ms": 291226,
+      "name": "Believe, Beleft, Below",
+      "url": "https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -495,18 +487,26 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Seven Days of Falling",
-        "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
+        "name": "Master Trio",
+        "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
       "artists": [
         {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
         }
       ],
-      "duration_ms": 291226,
-      "name": "Believe, Beleft, Below",
-      "url": "https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i"
+      "duration_ms": 349600,
+      "name": "Angel Eyes - Studio",
+      "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Ready Take One",
-        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 227323,
-      "name": "High Wire",
-      "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "Jazz Impressions Of New York",
         "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 147333,
       "name": "Theme From \"Mr. Broadway\"",
       "url": "https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "Ready Take One",
+        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 227323,
+      "name": "High Wire",
+      "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Treasure Island",
-        "url": "https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 566066,
-      "name": "The Rich (And The Poor)",
-      "url": "https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n"
-    },
-    {
-      "added_at": "2024-03-20 12:33:31",
-      "album": {
         "name": "Seven Days of Falling",
         "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2024-03-20 12:33:31",
       "album": {
-        "name": "Trio And Quintet",
-        "url": "https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe"
+        "name": "Treasure Island",
+        "url": "https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX"
       },
       "artists": [
         {
-          "name": "Elmo Hope Trio",
-          "url": "https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 233320,
-      "name": "Hot Sauce",
-      "url": "https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza"
+      "duration_ms": 566066,
+      "name": "The Rich (And The Poor)",
+      "url": "https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n"
     },
     {
       "added_at": "2024-03-20 12:33:31",
@@ -1203,6 +1187,22 @@
       "duration_ms": 323000,
       "name": "Memories Of Paris",
       "url": "https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ"
+    },
+    {
+      "added_at": "2024-03-20 12:33:31",
+      "album": {
+        "name": "Trio And Quintet",
+        "url": "https://open.spotify.com/album/2913MA0EdrVvj8wJkHYyEe"
+      },
+      "artists": [
+        {
+          "name": "Elmo Hope Trio",
+          "url": "https://open.spotify.com/artist/07zkqgFs90uCQrG5CkL3ft"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/7CEyuSyDGpF2tQveDpoYza"
     },
     {
       "added_at": "2024-03-20 12:33:31",

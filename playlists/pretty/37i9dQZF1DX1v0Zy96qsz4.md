@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/skylardigginssmith/">Skylar Diggins\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,397 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,406 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 | 14 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
 | 15 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 |
 | 16 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:06 |
-| 17 | [Break Ya Neck](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:51 |
-| 18 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 |
+| 17 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 |
+| 18 | [Break Ya Neck](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:51 |
 | 19 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 |
 | 20 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |
 | 21 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 | 33 | [What's My Name](https://open.spotify.com/track/6OQrmEIK8KOOVcSoSaEo40) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 3:52 |
 | 34 | [Ting\-A\-Ling](https://open.spotify.com/track/7hqAdo1Wig886zA2jPDupG) | [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG) | [X\-Tra Naked](https://open.spotify.com/album/0pgUsfoBDv2x37BvdyG6wq) | 3:52 |
 | 35 | [No Choice](https://open.spotify.com/track/3kI3vRDwTbYs9O8svalUWu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:41 |
-| 36 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 |
-| 37 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 |
+| 36 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 |
+| 37 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 |
 | 38 | [Ten Crack Commandments \- 2007 Remaster](https://open.spotify.com/track/4xtq6uY0ofikksLWN37pT4) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:23 |
 | 39 | [Demon High](https://open.spotify.com/track/5MAnH0CFbD13INQBsnKI9y) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demon High](https://open.spotify.com/album/5DGjYVxEuz3T1xqzqK9gTq) | 3:17 |
 | 40 | [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 |

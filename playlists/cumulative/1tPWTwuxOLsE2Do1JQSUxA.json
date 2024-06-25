@@ -6615,6 +6615,32 @@
     },
     {
       "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222520,
+      "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
+      "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"
+    },
+    {
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
       },

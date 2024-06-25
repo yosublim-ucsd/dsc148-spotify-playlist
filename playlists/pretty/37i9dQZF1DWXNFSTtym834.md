@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Bullet For My Valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,809 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,839 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,11 +84,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 74 | [Revolution Is My Name](https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 5:16 |
 | 75 | [The Pursuit Of Vikings](https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Fate of Norns](https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N) | 4:30 |
 | 76 | [mOBSCENE](https://open.spotify.com/track/1YVuJrfHHmD4ilULhAVqPW) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Golden Age Of Grotesque](https://open.spotify.com/album/3KExM8E3KgpsS2bHVSJzTc) | 3:25 |
-| 77 | [Inis Mona](https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Slania](https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ) | 4:09 |
-| 78 | [Hole in the Earth](https://open.spotify.com/track/5MLwqi4ybLiYq6dfCpECWT) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB) | 4:09 |
+| 77 | [Hole in the Earth](https://open.spotify.com/track/5MLwqi4ybLiYq6dfCpECWT) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB) | 4:09 |
+| 78 | [Inis Mona](https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Slania](https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ) | 4:09 |
 | 79 | [Bleed It Out](https://open.spotify.com/track/78gsvivelCP8Kh0tSRTy8D) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND) | 2:44 |
-| 80 | [Bloodline](https://open.spotify.com/track/27uDL5cAoMijxbDLfaz9Xv) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [God Hates Us All](https://open.spotify.com/album/3MuaoZgcAFuanhg04e75LK) | 3:36 |
-| 81 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
+| 80 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
+| 81 | [Bloodline](https://open.spotify.com/track/27uDL5cAoMijxbDLfaz9Xv) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [God Hates Us All](https://open.spotify.com/album/3MuaoZgcAFuanhg04e75LK) | 3:36 |
 | 82 | [Blood Brothers \- 2015 Remaster](https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Brave New World \(2015 Remaster\)](https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB) | 7:14 |
 | 83 | [Rasputin](https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [Rasputin](https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC) | 3:53 |
 | 84 | [Destroy Everything](https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 3:29 |

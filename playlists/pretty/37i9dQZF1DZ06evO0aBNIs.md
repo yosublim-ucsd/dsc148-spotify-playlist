@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 
 ### [This Is Avril Lavigne](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aBNIs)
 
-> This Is Avril Lavigne\. Los temas esenciales, todos en una lista.
+> This is Avril Lavigne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,702 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,922 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 2 | [Girlfriend](https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:36 |
 | 3 | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK) | 3:03 |
-| 4 | [My Happy Ending](https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 4:02 |
+| 4 | [What the Hell](https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:40 |
 | 5 | [Sk8er Boi](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:24 |
-| 6 | [When You're Gone](https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 4:00 |
-| 7 | [Wish You Were Here](https://open.spotify.com/track/5XHf9PBxxHmJFuiDkGNIOA) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:45 |
-| 8 | [Here's to Never Growing Up](https://open.spotify.com/track/0qwcGscxUHGZTgq0zcaqk1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 3:34 |
+| 6 | [My Happy Ending](https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 4:02 |
+| 7 | [When You're Gone](https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 4:00 |
+| 8 | [Wish You Were Here](https://open.spotify.com/track/5XHf9PBxxHmJFuiDkGNIOA) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:45 |
 | 9 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 |
-| 10 | [Nobody's Home](https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:32 |
-| 11 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
+| 10 | [Here's to Never Growing Up](https://open.spotify.com/track/0qwcGscxUHGZTgq0zcaqk1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 3:34 |
+| 11 | [Nobody's Home](https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:32 |
 | 12 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 |
 | 13 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 |
 | 14 | [Keep Holding On](https://open.spotify.com/track/4UPcXTh26ilb7owtuyHqNI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 49 | [Kiss Me Like The World Is Ending](https://open.spotify.com/track/7rYRIG2g3zW0ERcVTenxra) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:50 |
 | 50 | [Warrior](https://open.spotify.com/track/27wvjuKafcmKhoLcBcJ0uO) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:45 |
 
-Snapshot ID: `ZnYUAAAAAAB9wgBDTwbD6alQJUPo8FuR`
+Snapshot ID: `ZndlgAAAAAA7j957or8zFNBaxIevrMkD`

@@ -1,18 +1,18 @@
 {
   "description": "Your daily update of the most played tracks right now - Morocco.",
-  "num_followers": 54884,
+  "num_followers": 54924,
   "original_name": "Top 50 - Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LguImAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LgzaGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
-        "name": "Douwi Douwi",
-        "url": "https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K"
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/6C0uQkOm3MCXKLnoMv4flp"
       },
       "artists": [
         {
@@ -22,10 +22,10 @@
       ],
       "duration_ms": 182400,
       "name": "Douwi Douwi",
-      "url": "https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV"
+      "url": "https://open.spotify.com/track/3jCxuquFvSxPCQdCOb496K"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Obligaci\u00f3n",
         "url": "https://open.spotify.com/album/25WeAM9PSYPrpUjovpNYvz"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/2OkDSD6ZTzHGgYF4j10c0m"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "HWASI",
         "url": "https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "MAHBOULA",
         "url": "https://open.spotify.com/album/6xxm174FrG6Mni52k9UFWL"
@@ -81,7 +81,27 @@
       "url": "https://open.spotify.com/track/4AS0ncb4OzzAjwvsgWu9XV"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/6C0uQkOm3MCXKLnoMv4flp"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        },
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "duration_ms": 288979,
+      "name": "Kakashi",
+      "url": "https://open.spotify.com/track/7GmpVT1uBYTLAlHQfYXjbt"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
@@ -97,43 +117,7 @@
       "url": "https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "Kakashi",
-        "url": "https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP"
-      },
-      "artists": [
-        {
-          "name": "7liwa",
-          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
-        },
-        {
-          "name": "L'morphine",
-          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
-        }
-      ],
-      "duration_ms": 288979,
-      "name": "Kakashi",
-      "url": "https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "BLUE LOVE",
-      "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "DIARY OF A DEAD MAN",
         "url": "https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8"
@@ -149,7 +133,39 @@
       "url": "https://open.spotify.com/track/45wxMKFaDHRTLxYxXKl0rc"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "BLUE LOVE",
+      "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "Magdar",
+        "url": "https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC"
+      },
+      "artists": [
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Magdar",
+      "url": "https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "SPIDER",
         "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
@@ -169,39 +185,7 @@
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "Dawk Lya",
-        "url": "https://open.spotify.com/album/4lL3CmSYMLjPq3c2nF9sZL"
-      },
-      "artists": [
-        {
-          "name": "Snor",
-          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Dawk Lya",
-      "url": "https://open.spotify.com/track/4JaAz4mEXpAdO8CKjCDjVx"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "Magdar",
-        "url": "https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC"
-      },
-      "artists": [
-        {
-          "name": "Zouhair Bahaoui",
-          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Magdar",
-      "url": "https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Corazon",
         "url": "https://open.spotify.com/album/4fdpS6Q0wfscKoVy42UcND"
@@ -221,7 +205,7 @@
       "url": "https://open.spotify.com/track/4p7xoPQH7WpffmIEm5artb"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -241,7 +225,43 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "Dawk Lya",
+        "url": "https://open.spotify.com/album/4lL3CmSYMLjPq3c2nF9sZL"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Dawk Lya",
+      "url": "https://open.spotify.com/track/4JaAz4mEXpAdO8CKjCDjVx"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "Dawini",
+        "url": "https://open.spotify.com/album/3013V6wepDbBnb81uVU95j"
+      },
+      "artists": [
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        },
+        {
+          "name": "Ayoub Anbaoui",
+          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
+        }
+      ],
+      "duration_ms": 161959,
+      "name": "Dawini",
+      "url": "https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -273,7 +293,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "QU\u00c9 LO QUE",
         "url": "https://open.spotify.com/album/0KU4bZdJPmvXqwgdjORrtx"
@@ -293,27 +313,7 @@
       "url": "https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "Dawini",
-        "url": "https://open.spotify.com/album/3013V6wepDbBnb81uVU95j"
-      },
-      "artists": [
-        {
-          "name": "Tawsen",
-          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
-        },
-        {
-          "name": "Ayoub Anbaoui",
-          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
-        }
-      ],
-      "duration_ms": 161959,
-      "name": "Dawini",
-      "url": "https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "3DABI",
         "url": "https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Galbi",
         "url": "https://open.spotify.com/album/7s8QuvXwW32SxoX8X6aGpT"
@@ -361,39 +361,7 @@
       "url": "https://open.spotify.com/track/5AA6ny0PZ4dBw72q1JZcHV"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "MAGHRIBI",
-      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "\u0634\u0648\u0641\u0648 \u0644\u0627\u0645\u0648\u0631 \u0645\u0627\u062f\u0627\u0631 \u0641\u064a\u0627",
-        "url": "https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6"
-      },
-      "artists": [
-        {
-          "name": "Bilel Tacchini",
-          "url": "https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb"
-        }
-      ],
-      "duration_ms": 186036,
-      "name": "\u0634\u0648\u0641\u0648 \u0644\u0627\u0645\u0648\u0631 \u0645\u0627\u062f\u0627\u0631 \u0641\u064a\u0627",
-      "url": "https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "2x1",
         "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
@@ -409,7 +377,39 @@
       "url": "https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "\u0634\u0648\u0641\u0648 \u0644\u0627\u0645\u0648\u0631 \u0645\u0627\u062f\u0627\u0631 \u0641\u064a\u0627",
+        "url": "https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6"
+      },
+      "artists": [
+        {
+          "name": "Bilel Tacchini",
+          "url": "https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb"
+        }
+      ],
+      "duration_ms": 186036,
+      "name": "\u0634\u0648\u0641\u0648 \u0644\u0627\u0645\u0648\u0631 \u0645\u0627\u062f\u0627\u0631 \u0641\u064a\u0627",
+      "url": "https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "MAGHRIBI",
+      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
@@ -429,7 +429,23 @@
       "url": "https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "Bomba Internationale",
+        "url": "https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        }
+      ],
+      "duration_ms": 165402,
+      "name": "Bomba Internationale",
+      "url": "https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/3cORauk7yyxgzT1ekgAcdJ"
@@ -449,23 +465,23 @@
       "url": "https://open.spotify.com/track/3VoiH20aQU7IbbgVidWE5P"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
-        "name": "Bomba Internationale",
-        "url": "https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW"
+        "name": "Bla Bla",
+        "url": "https://open.spotify.com/album/1Bz9d2WJ4nYffksQJ7XTAs"
       },
       "artists": [
         {
-          "name": "Moha K",
-          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+          "name": "Nouamane Belaiachi",
+          "url": "https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8"
         }
       ],
-      "duration_ms": 165402,
-      "name": "Bomba Internationale",
-      "url": "https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z"
+      "duration_ms": 181714,
+      "name": "Bla Bla",
+      "url": "https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
@@ -485,39 +501,7 @@
       "url": "https://open.spotify.com/track/2oMCQhVDHhzKEHk5rN6T1E"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "VIRA - SLABA",
-        "url": "https://open.spotify.com/album/6jaow6TMiPpepI5hNq0OGb"
-      },
-      "artists": [
-        {
-          "name": "ViraCocha",
-          "url": "https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "VIRA - SLABA",
-      "url": "https://open.spotify.com/track/4G1hlwJvJJSClVL5LhROPi"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "Mimti",
-        "url": "https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv"
-      },
-      "artists": [
-        {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
-        }
-      ],
-      "duration_ms": 198595,
-      "name": "Mimti",
-      "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Hanya Lwe9te",
         "url": "https://open.spotify.com/album/17YgJ4bcxu6TFYeVbPoQls"
@@ -537,27 +521,39 @@
       "url": "https://open.spotify.com/track/0MxvfoyHnrhPqcRGH61fvn"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
-        "name": "ICEBERG",
-        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+        "name": "VIRA - SLABA",
+        "url": "https://open.spotify.com/album/6jaow6TMiPpepI5hNq0OGb"
       },
       "artists": [
         {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        },
-        {
-          "name": "Dizzy DROS",
-          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+          "name": "ViraCocha",
+          "url": "https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv"
         }
       ],
-      "duration_ms": 273454,
-      "name": "NIKEY",
-      "url": "https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf"
+      "duration_ms": 168000,
+      "name": "VIRA - SLABA",
+      "url": "https://open.spotify.com/track/4G1hlwJvJJSClVL5LhROPi"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "Mimti",
+        "url": "https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        }
+      ],
+      "duration_ms": 198595,
+      "name": "Mimti",
+      "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Still Alive",
         "url": "https://open.spotify.com/album/2cIgCkVC96J85POryxlhZc"
@@ -573,7 +569,7 @@
       "url": "https://open.spotify.com/track/0RNLOJuaBDGzg7oS4qS8OT"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Les derni\u00e8res volont\u00e9s de Mozart (Symphony)",
         "url": "https://open.spotify.com/album/4ljqGoLmGs8AxkyS2S1fvQ"
@@ -597,7 +593,27 @@
       "url": "https://open.spotify.com/track/0Fyqe4e5VjCaFjNSNYWa25"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        }
+      ],
+      "duration_ms": 273454,
+      "name": "NIKEY",
+      "url": "https://open.spotify.com/track/3pkKb7bj2eVQjNaHOGzYSf"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Si tu savais",
         "url": "https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC"
@@ -617,43 +633,7 @@
       "url": "https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "D\u00e9cennie",
-        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 220013,
-      "name": "Oh qu'elle est belle",
-      "url": "https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "Allo Oui",
-        "url": "https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR"
-      },
-      "artists": [
-        {
-          "name": "Cheb Hichem TGV",
-          "url": "https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Allo Oui",
-      "url": "https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Wsalni MSG",
         "url": "https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU"
@@ -673,7 +653,27 @@
       "url": "https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "D\u00e9cennie",
+        "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "Oh qu'elle est belle",
+      "url": "https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "M3a L3echrane",
         "url": "https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Zarzour",
         "url": "https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe"
@@ -705,7 +705,55 @@
       "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "Allo Oui",
+        "url": "https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR"
+      },
+      "artists": [
+        {
+          "name": "Cheb Hichem TGV",
+          "url": "https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Allo Oui",
+      "url": "https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "Fatou Liyam",
+        "url": "https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5"
+      },
+      "artists": [
+        {
+          "name": "Cheb Hichem TGV",
+          "url": "https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl"
+        }
+      ],
+      "duration_ms": 324048,
+      "name": "Fatou Liyam",
+      "url": "https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Taulier",
         "url": "https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ"
@@ -725,75 +773,23 @@
       "url": "https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
-        "name": "Fatou Liyam",
-        "url": "https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5"
+        "name": "KIF KIF",
+        "url": "https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF"
       },
       "artists": [
         {
-          "name": "Cheb Hichem TGV",
-          "url": "https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl"
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
         }
       ],
-      "duration_ms": 324048,
-      "name": "Fatou Liyam",
-      "url": "https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c"
+      "duration_ms": 227826,
+      "name": "KIF KIF",
+      "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "DIARY OF A DEAD MAN",
-        "url": "https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8"
-      },
-      "artists": [
-        {
-          "name": "Tchubi",
-          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
-        },
-        {
-          "name": "Figoshin",
-          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
-        }
-      ],
-      "duration_ms": 203091,
-      "name": "ALL THE MONSTERS COME OUT AT NIGHT",
-      "url": "https://open.spotify.com/track/0FAMmPD8qMBkTylNs3WJsH"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "DIARY OF A DEAD MAN",
         "url": "https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8"
@@ -813,7 +809,27 @@
       "url": "https://open.spotify.com/track/6rXhAD9DKxBMMnA7xHCL4M"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "DIARY OF A DEAD MAN",
+        "url": "https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8"
+      },
+      "artists": [
+        {
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
+        },
+        {
+          "name": "Figoshin",
+          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
+        }
+      ],
+      "duration_ms": 203091,
+      "name": "ALL THE MONSTERS COME OUT AT NIGHT",
+      "url": "https://open.spotify.com/track/0FAMmPD8qMBkTylNs3WJsH"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Hyati",
         "url": "https://open.spotify.com/album/6iFKqpX8QbNjzAvMoREpRu"
@@ -829,23 +845,7 @@
       "url": "https://open.spotify.com/track/1p6ewW5oS6NerlFRbQ3Mow"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "\u0648\u0627\u064a \u061f",
-        "url": "https://open.spotify.com/album/6Tncm17nNckzfoAUb9JQf0"
-      },
-      "artists": [
-        {
-          "name": "Kira7",
-          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
-        }
-      ],
-      "duration_ms": 293381,
-      "name": "\u0648\u0627\u064a \u061f",
-      "url": "https://open.spotify.com/track/3H2WlcVSS22NRTcBGpjtpj"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
@@ -861,23 +861,39 @@
       "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
       "album": {
-        "name": "KIF KIF",
-        "url": "https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF"
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/6C0uQkOm3MCXKLnoMv4flp"
       },
       "artists": [
         {
-          "name": "Lbenj",
-          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
         }
       ],
-      "duration_ms": 227826,
-      "name": "KIF KIF",
-      "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"
+      "duration_ms": 178560,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6rqKD9XrYhfVcdz8XBHM0C"
     },
     {
-      "added_at": "2024-06-23 09:49:56",
+      "added_at": "2024-06-24 08:56:21",
+      "album": {
+        "name": "\u0648\u0627\u064a \u061f",
+        "url": "https://open.spotify.com/album/6Tncm17nNckzfoAUb9JQf0"
+      },
+      "artists": [
+        {
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+        }
+      ],
+      "duration_ms": 293381,
+      "name": "\u0648\u0627\u064a \u061f",
+      "url": "https://open.spotify.com/track/3H2WlcVSS22NRTcBGpjtpj"
+    },
+    {
+      "added_at": "2024-06-24 08:56:21",
       "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
@@ -891,22 +907,6 @@
       "duration_ms": 197466,
       "name": "BGHAWNI",
       "url": "https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9"
-    },
-    {
-      "added_at": "2024-06-23 09:49:56",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM"
-      },
-      "artists": [
-        {
-          "name": "7liwa",
-          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz"
     }
   ],
   "unique_name": "Top 50 - Morocco",

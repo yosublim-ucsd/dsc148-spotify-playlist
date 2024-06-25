@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 
 > 100 canciones de la época nostálgica más reciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,757 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,783 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,15 +92,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 82 | [Pepe Lui](https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Vengo Del Placard De Otro](https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby) | 4:04 |
 | 83 | [Andrea](https://open.spotify.com/track/3FgtgesYFasosYF5cQmpzi) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros:Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 4:09 |
 | 84 | [Viviré por Siempre](https://open.spotify.com/track/5SDPJjP3G1U2ipKcDwvqv8) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:32 |
-| 85 | [Calavera](https://open.spotify.com/track/5QLbG1uIdSQyiKOY69SN4v) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 3:32 |
-| 86 | [Quieren bajarme](https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Operacion Damas Gratis](https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9) | 3:39 |
+| 85 | [Quieren bajarme](https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Operacion Damas Gratis](https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9) | 3:39 |
+| 86 | [Calavera](https://open.spotify.com/track/5QLbG1uIdSQyiKOY69SN4v) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 3:32 |
 | 87 | [Cuatro Personalidades](https://open.spotify.com/track/1kTLi5AdnjOWyJg7oJmi52) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:44 |
 | 88 | [Desearia](https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [¡Esta!](https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K) | 3:23 |
 | 89 | [Tu Vicio](https://open.spotify.com/track/3HaE5D0wBDeyf38f5w4CLa) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Influencia](https://open.spotify.com/album/5Rgudh1IKSXYyKDVZuyyQu) | 4:03 |
 | 90 | [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 |
 | 91 | [Será \- En Vivo en el Luna Park](https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 2:52 |
-| 92 | [Bello Abril](https://open.spotify.com/track/1lSxelMI6IzcuUNXZdMrK3) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Naturaleza Sangre](https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS) | 2:21 |
-| 93 | [Calaveras Y Diablitos \- Versión Remasterizada 2008](https://open.spotify.com/track/2lDcq6gFN9W5yXHk0NU7ve) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Calavera](https://open.spotify.com/album/7FKr6OHxY05uURhgQ86fm4) | 4:23 |
+| 92 | [Calaveras Y Diablitos \- Versión Remasterizada 2008](https://open.spotify.com/track/2lDcq6gFN9W5yXHk0NU7ve) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Calavera](https://open.spotify.com/album/7FKr6OHxY05uURhgQ86fm4) | 4:23 |
+| 93 | [Bello Abril](https://open.spotify.com/track/1lSxelMI6IzcuUNXZdMrK3) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Naturaleza Sangre](https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS) | 2:21 |
 | 94 | [Una Tregua](https://open.spotify.com/track/7bZ8erPLv4zulyDVL66dJQ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Hija del Rigor](https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO) | 3:30 |
 | 95 | [Asesíname](https://open.spotify.com/track/2NtS0rZ8MdnsJbLNRME6pg) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Rock And Roll Yo](https://open.spotify.com/album/3qPPzWHpuvFT0xHMyDrvS4) | 3:43 |
 | 96 | [El salmón](https://open.spotify.com/track/1mZXYaXINB9I76OPkOXsN0) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Andres](https://open.spotify.com/album/53pJPWmYDaV1gVfqmjVSvf) | 2:47 |

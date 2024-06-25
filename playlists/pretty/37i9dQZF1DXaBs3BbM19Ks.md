@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 
 > Bonitas, orgullosas y empoderadas, así somos las mamás 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,979 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,956 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 | 40 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:42 |
 | 41 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
 | 42 | [El Recuento de los Daños](https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:55 |
-| 43 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 |
-| 44 | [Lo Busqué](https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Loca De Amar](https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3) | 4:35 |
-| 45 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
+| 43 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
+| 44 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 |
+| 45 | [Lo Busqué](https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Loca De Amar](https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3) | 4:35 |
 | 46 | [Quiero Dormir Cansado](https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:01 |
 | 47 | [Tanto](https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:39 |
 | 48 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 | 62 | [Para Amarnos Más](https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [21 Black Jack](https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR) | 3:26 |
 | 63 | [Bella Señora](https://open.spotify.com/track/7vyfkPROxVBZQOJtufdIIJ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [20 Exitos Originales](https://open.spotify.com/album/7GJk5uyd0Fk8ekmz9v3ywI) | 4:41 |
 | 64 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
-| 65 | [Me equivoqué](https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [María José](https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M) | 3:59 |
-| 66 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
+| 65 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
+| 66 | [Me equivoqué](https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [María José](https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M) | 3:59 |
 | 67 | [La mujer que bota fuego \(feat\. Natalia Jiménez\)](https://open.spotify.com/track/6w6EINTodc8j0TWtrWHdm2) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [La mujer que bota fuego \(feat\. Natalia Jiménez\)](https://open.spotify.com/album/78LoJthaoIuMaRNZGduMdh) | 4:04 |
 | 68 | [Señora de las Cuatro Décadas](https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 5:04 |
 | 69 | [Si Me Tenías](https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Canto Por Ti](https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO) | 3:59 |

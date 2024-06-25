@@ -1,13 +1,29 @@
 {
   "description": "Atlantic Records Presents the hottest tracks in hip-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.",
-  "num_followers": 2095,
+  "num_followers": 2096,
   "original_name": "Atlantic Records: Presents",
   "owner": {
     "name": "Atlantic Records",
     "url": "https://open.spotify.com/user/atlanticrecords"
   },
-  "snapshot_id": "AAAY3oamuC73j0xFkjic/Wcr8USxWESm",
+  "snapshot_id": "AAAY66GlkVVSIzuR1JsOYET47qx0pXlD",
   "tracks": [
+    {
+      "added_at": "2024-06-24 19:08:17",
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
     {
       "added_at": "2024-03-19 14:17:04",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 158727,
       "name": "Enough (Miami)",
       "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
+    },
+    {
+      "added_at": "2024-05-10 14:40:58",
+      "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
     },
     {
       "added_at": "2024-04-04 21:35:06",
@@ -41,20 +73,52 @@
       "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
     },
     {
-      "added_at": "2024-05-10 14:40:58",
+      "added_at": "2024-06-24 19:09:13",
       "album": {
-        "name": "360",
-        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+        "name": "Attitude (feat. Charlie Wilson & Cash Cobain)",
+        "url": "https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
         }
       ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
+      "duration_ms": 161053,
+      "name": "ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)",
+      "url": "https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv"
+    },
+    {
+      "added_at": "2024-06-24 19:10:19",
+      "album": {
+        "name": "places to be",
+        "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "duration_ms": 226677,
+      "name": "places to be",
+      "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
     },
     {
       "added_at": "2023-11-13 20:25:50",
@@ -223,6 +287,42 @@
       "duration_ms": 137142,
       "name": "HEAT STICK",
       "url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4"
+    },
+    {
+      "added_at": "2024-06-24 19:08:46",
+      "album": {
+        "name": "Gas You Up (feat. Hunxho)",
+        "url": "https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "duration_ms": 171391,
+      "name": "Gas You Up (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy"
+    },
+    {
+      "added_at": "2024-06-24 19:10:28",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 150262,
+      "name": "8",
+      "url": "https://open.spotify.com/track/17fMdv2JY435A1naCGTtby"
     },
     {
       "added_at": "2024-03-05 19:26:19",

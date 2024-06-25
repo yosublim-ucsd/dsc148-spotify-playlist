@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Carol Biazin
 
-767 songs - 1 day 14 hr 28 min
+768 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [1+1 É Pouco](https://open.spotify.com/track/0vB8TwivSx9NBMRXaMLIZw) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [1+1 É Pouco](https://open.spotify.com/album/54dRucOxK6INlDp0AuVAcd) | 2:37 | 2023-02-17 | 2023-06-17 |
 | [10 Minutos](https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 3:36 | 2024-05-31 |  |
 | [10%](https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz) | [Camaleoa](https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk) | [10%](https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O) | 2:49 | 2023-02-14 | 2023-04-22 |
-| [10/10](https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [PRISCILLA](https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik) | 2:16 | 2024-05-10 |  |
+| [10/10](https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [PRISCILLA](https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik) | 2:16 | 2024-05-10 | 2024-06-25 |
 | [18 dias / 13 cm](https://open.spotify.com/track/1TZGE8ByEKYJUge6agf7T2) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [18 dias / 13 cm](https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps) | 2:23 | 2024-06-07 |  |
 | [21](https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9) | [21](https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO) | 3:35 | 2020-10-20 | 2022-07-29 |
 | [24 Horas](https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Baile do Papato](https://open.spotify.com/album/2xReweSuwmZbdogHMILeek) | 3:01 | 2023-07-21 |  |
@@ -702,6 +702,7 @@
 | [Toda Manhã](https://open.spotify.com/track/5tPrL24NVBC6crh1xl7uGw) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/4c2wwlgbTHER3fxe6TzDlZ) | 2:26 | 2023-04-14 | 2023-04-26 |
 | [Todo Mundo Que Amei Já Me Fez Chorar](https://open.spotify.com/track/1ba9HdaWfIYmIytRcI90eU) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx) | [Todo Mundo Que Amei Já Me Fez Chorar](https://open.spotify.com/album/78PwIdZ0l97RtXpcj1WMDw) | 2:58 | 2023-10-06 | 2023-11-11 |
 | [Tommy Lee \(feat\. Post Malone\)](https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Tommy Lee \(feat\. Post Malone\)](https://open.spotify.com/album/2PFiZ23ZyPTcgwmXk4X6o0) | 3:44 | 2020-10-20 | 2023-02-15 |
+| [Tontom Perigosa](https://open.spotify.com/track/38ifsBGpq5igWYZoxofixU) | [Tontom](https://open.spotify.com/artist/3skzQIG1feNhVQs2TnoFGV) | [Tontom Perigosa](https://open.spotify.com/album/2CXwdp669W9YO5g7WdGdYJ) | 3:36 | 2024-06-24 |  |
 | [Toosie Slide](https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Toosie Slide](https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J) | 4:07 | 2020-10-20 | 2023-02-15 |
 | [Top Gone \(with Lunay\)](https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Top Gone \(with Lunay\)](https://open.spotify.com/album/6pzt4VtRQPVattiSb1ZZAO) | 3:14 | 2020-10-20 | 2022-07-11 |
 | [Toque De Veludo](https://open.spotify.com/track/5sHK9llP0yBRwr4fW5DVSn) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Toque De Veludo](https://open.spotify.com/album/5TBvqgBLIVP0MZJpkLEIHh) | 2:37 | 2023-09-01 | 2023-10-14 |

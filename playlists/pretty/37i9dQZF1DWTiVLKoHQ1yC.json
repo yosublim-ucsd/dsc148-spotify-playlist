@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 183679,
+  "num_followers": 183761,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Famax",
-        "url": "https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI"
-      },
-      "artists": [
-        {
-          "name": "RAFFA GUIDO",
-          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
-        }
-      ],
-      "duration_ms": 335194,
-      "name": "Famax",
-      "url": "https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Enter",
         "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 395500,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Famax",
+        "url": "https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        }
+      ],
+      "duration_ms": 335194,
+      "name": "Famax",
+      "url": "https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1171,6 +1171,38 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Incomplete Dreaming",
+        "url": "https://open.spotify.com/album/6QsZfxJ3RL8oUV32vlJ2n7"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 252062,
+      "name": "Incomplete Dreaming",
+      "url": "https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1ZU8ySmsetup6DAWpGdOQ8"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/0QEt8M7MzkUDdBWIML1cqE"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "When Everything Was New",
         "url": "https://open.spotify.com/album/42OTAsIABBpoxlgibM6rye"
       },
@@ -1183,42 +1215,6 @@
       "duration_ms": 267481,
       "name": "When Everything Was New",
       "url": "https://open.spotify.com/track/3RvZSJe1YFaCR34mRnABDX"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Lost Gravity EP",
-        "url": "https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 305401,
-      "name": "Lost Gravity",
-      "url": "https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/5r6iKwNhaF0AlqX8YKMpk7"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        },
-        {
-          "name": "Gab Rhome",
-          "url": "https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/3JxvXfdWhKOzM2VGy1Gt1z"
     }
   ],
   "unique_name": "Melodic & Euphoric",

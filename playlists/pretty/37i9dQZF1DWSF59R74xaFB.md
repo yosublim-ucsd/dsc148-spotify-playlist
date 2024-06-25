@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 
 > El amor no se escucha, se siente...
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,819 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,833 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 31 | [Rayando el Sol](https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Falta Amor](https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY) | 4:10 |
 | 32 | [Mi Buen Amor](https://open.spotify.com/track/28UP90XhjCovLtieduYr9P) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:47 |
 | 33 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 |
-| 34 | [Ya Me Enteré](https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:24 |
-| 35 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
+| 34 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
+| 35 | [Ya Me Enteré](https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:24 |
 | 36 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 |
 | 37 | [Amárrame](https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:27 |
 | 38 | [No Hay Nadie Más](https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:19 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 61 | [Se fué](https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:40 |
 | 62 | [Amigos No por Favor \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:45 |
 | 63 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:07 |
-| 64 | [Usted](https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:43 |
-| 65 | [Te Lloré Un Río](https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:50 |
+| 64 | [Te Lloré Un Río](https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:50 |
+| 65 | [Usted](https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:43 |
 | 66 | [Insoportablemente Bella](https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:37 |
 | 67 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
 | 68 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSF59R74xaFB.md) - [plain]
 | 70 | [Una Lady Como Tú](https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Una Lady Como Tú](https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew) | 3:33 |
 | 71 | [Mi Persona Favorita](https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:10 |
 | 72 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
-| 73 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 |
-| 74 | [Si Me Dejas Ahora](https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 4:32 |
+| 73 | [Si Me Dejas Ahora](https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 4:32 |
+| 74 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 |
 | 75 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 | 76 | [Quiero Dormir Cansado](https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:01 |
 | 77 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,902 likes - 18 songs - 43 min 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,919 likes - 18 songs - 43 min 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 7 | [Trust Issues](https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk) | 2:20 |
 | 8 | [Ferris Bueller](https://open.spotify.com/track/14YzvOvrATzkS7f5sJOw2k) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4I0vC4wtvUmowO4rMM3eOV) | 1:57 |
 | 9 | [Cynical](https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:14 |
-| 10 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 |
-| 11 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 |
+| 10 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 |
+| 11 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 |
 | 12 | [RE\-IGNITION](https://open.spotify.com/track/3R1618eXJB4mMxIZzLv3Ac) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ARB4](https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RE\-IGNITION](https://open.spotify.com/album/0RaMpMa53l4NSA7QOlDlju) | 3:24 |
 | 13 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 |
 | 14 | [End of an Era](https://open.spotify.com/track/5esqIDtXmnl0EIoiuLFsjp) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4I0vC4wtvUmowO4rMM3eOV) | 2:13 |
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 17 | [Picky](https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:20 |
 | 18 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
 
-Snapshot ID: `ZnYUAAAAAAD3rm4e84BWMr78Cq5jsX/p`
+Snapshot ID: `ZndlgAAAAACXqRP/HqlQgPdGuTvo7F3b`

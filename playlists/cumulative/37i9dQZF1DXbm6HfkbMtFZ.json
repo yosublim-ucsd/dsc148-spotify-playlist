@@ -854,7 +854,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 189536,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
@@ -3181,6 +3181,24 @@
     },
     {
       "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
         "name": "Loving In Stereo",
         "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
@@ -3450,6 +3468,24 @@
       "duration_ms": 168893,
       "name": "Happy",
       "url": "https://open.spotify.com/track/3tN1ckGx1wd2VYUQaGmcmT"
+    },
+    {
+      "album": {
+        "name": "Happy World",
+        "url": "https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179993,
+      "name": "Happy World",
+      "url": "https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp"
     },
     {
       "album": {
@@ -5152,7 +5188,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 323263,
       "name": "Long Wave",
       "url": "https://open.spotify.com/track/5UnoxzcNj2Ym6ZOnIGdwGE"

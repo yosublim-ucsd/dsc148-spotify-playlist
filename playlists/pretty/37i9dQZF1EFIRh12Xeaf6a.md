@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,733 likes - 273 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,734 likes - 273 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 141 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 |
 | 142 | [Like Little Children \- Demo](https://open.spotify.com/track/6lnEZVZbgjIF2ZZ3bsSGak) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/2DitJu0CqkrvARSR02RmqX) | 3:12 |
 | 143 | [He's a Bad Boy](https://open.spotify.com/track/16rPqhuTKqG41N4tHUGzZN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:22 |
-| 144 | [To Love](https://open.spotify.com/track/15c2qpqoagc2GxNvCaYlte) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:36 |
-| 145 | [Blues For A Young Girl Gone](https://open.spotify.com/track/3Y0pyyBki4gOjIqO4u3eTU) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 2:30 |
+| 144 | [Blues For A Young Girl Gone](https://open.spotify.com/track/3Y0pyyBki4gOjIqO4u3eTU) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 2:30 |
+| 145 | [To Love](https://open.spotify.com/track/15c2qpqoagc2GxNvCaYlte) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:36 |
 | 146 | [Eventually \- Live](https://open.spotify.com/track/49PUEUPk6GqeTYHyslrRhx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Carole King The Carnegie Hall Concert June 18, 1971](https://open.spotify.com/album/1zpek5hOaIualxw0Gmev0z) | 4:38 |
 | 147 | [I've Known You All My Life](https://open.spotify.com/track/2x3CU4zpyGG5F8QFaUAKlR) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 1:58 |
 | 148 | [You've Been Around Too Long](https://open.spotify.com/track/600ONoBB8YasDriPyUhvcQ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 3:42 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbU2wgAAAACkZmyHgm6VTGTpQZkkHPD1`
+Snapshot ID: `AbU8ngAAAACcMsjaaqzEnlZQz7I9i2At`

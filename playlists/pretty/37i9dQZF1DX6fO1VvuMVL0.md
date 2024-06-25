@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,327 likes - 75 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,394 likes - 75 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 21 | [All the Things You Are](https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 5:51 |
 | 22 | [Sweet Rain](https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sweet Rain](https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip) | 7:09 |
 | 23 | [Bye Bye Blackbird \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 7:54 |
-| 24 | [Like Someone In Love](https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58) | [Stan Getz Quartet](https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r) | [The Steamer \(Expanded Edition\)](https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA) | 6:30 |
-| 25 | [Just In Time](https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Blowin' Country](https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM) | 3:45 |
+| 24 | [Just In Time](https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Blowin' Country](https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM) | 3:45 |
+| 25 | [Like Someone In Love](https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58) | [Stan Getz Quartet](https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r) | [The Steamer \(Expanded Edition\)](https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA) | 6:30 |
 | 26 | [Makin' Whoopee](https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY) | [George Shearing Trio](https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT) | [Jazz Moments](https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK) | 4:00 |
 | 27 | [Walkin' Shoes](https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:30 |
 | 28 | [Take Five](https://open.spotify.com/track/09hcbtRcZV5CeeygqQiM5f) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y) | 5:24 |

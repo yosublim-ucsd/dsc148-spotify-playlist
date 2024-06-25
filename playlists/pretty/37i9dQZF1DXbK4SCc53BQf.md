@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,551 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,571 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 11 | [Voy a Amarte](https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Voy a Amarte](https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71) | 3:27 |
 | 12 | [Una Nueva Canción \(feat\. Kike Pavón\)](https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Una Nueva Canción \(feat\. Kike Pavón\)](https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a) | 3:42 |
 | 13 | [Camino Al Cielo \(Versión Merengue\)](https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 3:24 |
-| 14 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
-| 15 | [Me Enamoré](https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Pensaba en Ti](https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU) | 3:39 |
-| 16 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 |
+| 14 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 |
+| 15 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
+| 16 | [Me Enamoré](https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Pensaba en Ti](https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU) | 3:39 |
 | 17 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
 | 18 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 |
-| 19 | [Eres Merecedor](https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR) | [Johnny González](https://open.spotify.com/artist/156azSG483Q5kBmIj8fzJL), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Eres Merecedor](https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp) | 3:41 |
-| 20 | [Renuevame](https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz) | [Puchi Colon](https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi) | [Lo Mejor De Mi, Para El](https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG) | 5:16 |
+| 19 | [Renuevame](https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz) | [Puchi Colon](https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi) | [Lo Mejor De Mi, Para El](https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG) | 5:16 |
+| 20 | [Eres Merecedor](https://open.spotify.com/track/1f2xoS6RAsYlHSFSsbyFDR) | [Johnny González](https://open.spotify.com/artist/156azSG483Q5kBmIj8fzJL), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Eres Merecedor](https://open.spotify.com/album/4zc7F9nicKZ6OWOedj0iGp) | 3:41 |
 | 21 | [Jovenes Valientes](https://open.spotify.com/track/5kjVhultwR25ejaYCJgbKV) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [24/7](https://open.spotify.com/album/57TWQ1wClUOJ8MFDKIVKAH) | 3:43 |
 | 22 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
 | 23 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 |

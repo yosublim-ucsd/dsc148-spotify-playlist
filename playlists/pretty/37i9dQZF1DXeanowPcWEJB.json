@@ -1,6 +1,6 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 128977,
+  "num_followers": 129011,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "No",
+      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 194931,
       "name": "Como Una Flor Bolero",
       "url": "https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "No",
-      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+        "name": "Grandes Exitos del Sol",
+        "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+          "name": "Guitarras de Luna",
+          "url": "https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh"
         }
       ],
-      "duration_ms": 175356,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
+      "duration_ms": 194360,
+      "name": "No Se T\u00fa",
+      "url": "https://open.spotify.com/track/6BFAhQJHsOqJCa9lIJZUE8"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -535,18 +531,22 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Grandes Exitos del Sol",
-        "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
       "artists": [
         {
-          "name": "Guitarras de Luna",
-          "url": "https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh"
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
         }
       ],
-      "duration_ms": 194360,
-      "name": "No Se T\u00fa",
-      "url": "https://open.spotify.com/track/6BFAhQJHsOqJCa9lIJZUE8"
+      "duration_ms": 175356,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Grandes Exitos del Sol",
-        "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
+        "name": "Noche Negra",
+        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
       },
       "artists": [
         {
-          "name": "Guitarras de Luna",
-          "url": "https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh"
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
         }
       ],
-      "duration_ms": 237773,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/7FFwJ6LJzc5kywubh45ZMU"
+      "duration_ms": 119739,
+      "name": "Noche Negra",
+      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Noche Negra",
-        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
+        "name": "Grandes Exitos del Sol",
+        "url": "https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D"
       },
       "artists": [
         {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+          "name": "Guitarras de Luna",
+          "url": "https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh"
         }
       ],
-      "duration_ms": 119739,
-      "name": "Noche Negra",
-      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
+      "duration_ms": 237773,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/7FFwJ6LJzc5kywubh45ZMU"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Amor Que Malo Eres",
-        "url": "https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Amor Que Malo Eres",
-      "url": "https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "Se Que No Vendras",
         "url": "https://open.spotify.com/album/1dFqAFCScCb2I5Ycee0z1G"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 137250,
       "name": "Se Que No Vendras",
       "url": "https://open.spotify.com/track/5OonKRrr7zPJ2giLp2onc4"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Amor Que Malo Eres",
+        "url": "https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Amor Que Malo Eres",
+      "url": "https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Tuyo Es Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1bwStQ80iX18XkjuG0fsL6"
-      },
-      "artists": [
-        {
-          "name": "Juan Veronico",
-          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "Mar\u00eda Elena",
-      "url": "https://open.spotify.com/track/6dF9JTzb2B1rArAlU5pdcx"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "Los Poetas de la Guitarra",
         "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 175426,
       "name": "Cielo Rojo - Cruz de Olvido",
       "url": "https://open.spotify.com/track/1yROJSRPzpxb40eketUs99"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Tuyo Es Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1bwStQ80iX18XkjuG0fsL6"
+      },
+      "artists": [
+        {
+          "name": "Juan Veronico",
+          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "Mar\u00eda Elena",
+      "url": "https://open.spotify.com/track/6dF9JTzb2B1rArAlU5pdcx"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "16 Fabulosas Interpretaciones Con Juan Ver\u00f3nico y Su Guitarra",
-        "url": "https://open.spotify.com/album/0aKe13vTjDCDDI5E4kXKJP"
+        "name": "Los Poetas de la Guitarra Popurris Inolvidables",
+        "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
       "artists": [
         {
-          "name": "Juan Veronico",
-          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
+          "name": "Los Poetas De La Guitarra",
+          "url": "https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU"
         }
       ],
-      "duration_ms": 138760,
-      "name": "En el \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/40rY5j5e4JNkG47sAdq0UB"
+      "duration_ms": 285066,
+      "name": "Popurri de la Revolucion: Cielito Lindo / La Valentina / La Adelita / La Rielera",
+      "url": "https://open.spotify.com/track/4nT54TLQMAjnpBwg1uDwfF"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Los Poetas de la Guitarra Popurris Inolvidables",
-        "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
+        "name": "16 Fabulosas Interpretaciones Con Juan Ver\u00f3nico y Su Guitarra",
+        "url": "https://open.spotify.com/album/0aKe13vTjDCDDI5E4kXKJP"
       },
       "artists": [
         {
-          "name": "Los Poetas De La Guitarra",
-          "url": "https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU"
+          "name": "Juan Veronico",
+          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
         }
       ],
-      "duration_ms": 285066,
-      "name": "Popurri de la Revolucion: Cielito Lindo / La Valentina / La Adelita / La Rielera",
-      "url": "https://open.spotify.com/track/4nT54TLQMAjnpBwg1uDwfF"
+      "duration_ms": 138760,
+      "name": "En el \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/40rY5j5e4JNkG47sAdq0UB"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
-        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
+        "name": "Los Poetas de la Guitarra Popurris Inolvidables",
+        "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
       "artists": [
         {
-          "name": "Juan Veronico",
-          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
+          "name": "Los Poetas De La Guitarra",
+          "url": "https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU"
         }
       ],
-      "duration_ms": 214746,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4pfymBSdH9ppHqTXUuxasn"
+      "duration_ms": 309933,
+      "name": "Popurri de Jose Alfredo Jimenez: Ella / La Enorme Distancia / Que Te Vaya Bonito / V\u00e1monos",
+      "url": "https://open.spotify.com/track/6ACOpwrtWV5oIsAZjVUrGw"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Los Poetas de la Guitarra Popurris Inolvidables",
-        "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
+        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
+        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
       },
       "artists": [
         {
-          "name": "Los Poetas De La Guitarra",
-          "url": "https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU"
+          "name": "Juan Veronico",
+          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
         }
       ],
-      "duration_ms": 309933,
-      "name": "Popurri de Jose Alfredo Jimenez: Ella / La Enorme Distancia / Que Te Vaya Bonito / V\u00e1monos",
-      "url": "https://open.spotify.com/track/6ACOpwrtWV5oIsAZjVUrGw"
+      "duration_ms": 214746,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4pfymBSdH9ppHqTXUuxasn"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "15 Melod\u00edas Inolvidables en la Guitarra de Juan Ver\u00f3nico",
-        "url": "https://open.spotify.com/album/48VLY9rCWIa5bfv4yebksG"
+        "name": "Los Poetas de la Guitarra Popurris Inolvidables",
+        "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
       "artists": [
         {
-          "name": "Juan Veronico",
-          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
+          "name": "Los Poetas De La Guitarra",
+          "url": "https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU"
         }
       ],
-      "duration_ms": 205013,
-      "name": "Nunca, Nunca, Nunca",
-      "url": "https://open.spotify.com/track/7u8deMbNEnfhVwZFQeWqDm"
+      "duration_ms": 326266,
+      "name": "Popurri a Vicente Fernandez: De Qu\u00e9 Manera Te Olvido? / Tu Camino y el M\u00edo / Si Acaso Vuelves / Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/2E1PZkiCEH6XDtqIP5TR2O"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Los Poetas de la Guitarra Popurris Inolvidables",
-        "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
+        "name": "15 Melod\u00edas Inolvidables en la Guitarra de Juan Ver\u00f3nico",
+        "url": "https://open.spotify.com/album/48VLY9rCWIa5bfv4yebksG"
       },
       "artists": [
         {
-          "name": "Los Poetas De La Guitarra",
-          "url": "https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU"
+          "name": "Juan Veronico",
+          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
         }
       ],
-      "duration_ms": 326266,
-      "name": "Popurri a Vicente Fernandez: De Qu\u00e9 Manera Te Olvido? / Tu Camino y el M\u00edo / Si Acaso Vuelves / Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/2E1PZkiCEH6XDtqIP5TR2O"
+      "duration_ms": 205013,
+      "name": "Nunca, Nunca, Nunca",
+      "url": "https://open.spotify.com/track/7u8deMbNEnfhVwZFQeWqDm"
     },
     {
       "added_at": "2023-01-23 22:55:31",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-01-23 22:55:31",
       "album": {
-        "name": "Guitarras Mexicanas - Joyas De La Musica \"30 Exitos\"",
-        "url": "https://open.spotify.com/album/7AKBSgTMVLwBesP3KjcKJM"
-      },
-      "artists": [
-        {
-          "name": "AJR All-Stars",
-          "url": "https://open.spotify.com/artist/2L1o8YuUT64yTV3Ma0DlcO"
-        }
-      ],
-      "duration_ms": 316080,
-      "name": "Nosotros",
-      "url": "https://open.spotify.com/track/1QdWTCj41nPUHp5KpfqRqL"
-    },
-    {
-      "added_at": "2023-01-23 22:55:31",
-      "album": {
         "name": "Los Poetas de la Guitarra Popurris Inolvidables",
         "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 244640,
       "name": "Popurri de Huapangos: La Malague\u00f1a / Serenata Huasteca / El Mil Amores / El Aguacero",
       "url": "https://open.spotify.com/track/3A9XcFJkVeQGYp7ImCJErG"
+    },
+    {
+      "added_at": "2023-01-23 22:55:31",
+      "album": {
+        "name": "Guitarras Mexicanas - Joyas De La Musica \"30 Exitos\"",
+        "url": "https://open.spotify.com/album/7AKBSgTMVLwBesP3KjcKJM"
+      },
+      "artists": [
+        {
+          "name": "AJR All-Stars",
+          "url": "https://open.spotify.com/artist/2L1o8YuUT64yTV3Ma0DlcO"
+        }
+      ],
+      "duration_ms": 316080,
+      "name": "Nosotros",
+      "url": "https://open.spotify.com/track/1QdWTCj41nPUHp5KpfqRqL"
     },
     {
       "added_at": "2023-01-23 22:55:31",

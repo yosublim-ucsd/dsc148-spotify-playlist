@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,054 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,060 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 42 | [Noble Game \(Feat\. ILLINIT\) \(Prod\. ILLUID HALLER\)](https://open.spotify.com/track/3pLgl8HxGWbypR0yG6KlPS) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Illinit](https://open.spotify.com/artist/5N9rfcaITVgayz1OzCqu4h) | [Do Not Go Gentle Into That Good Night II](https://open.spotify.com/album/4ZuL1a9a4MYpSl0meoOevD) | 3:27 |
 | 43 | [paris and tokyo](https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:52 |
 | 44 | [bother 2021 \(feat\. gamma\)](https://open.spotify.com/track/3rF1DVw8yyoNiwhx6qyM5g) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR), [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 3:50 |
-| 45 | [LIFE LOVE LAZY \(Feat\. CHOILB\)](https://open.spotify.com/track/6elDiM0qVAMqtYa7J4dWNh) | [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [roaming.](https://open.spotify.com/album/6eLVFuisUwXug4uhRcQosX) | 3:09 |
-| 46 | [Gwichanist](https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [Gwichanist](https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7) | 3:14 |
+| 45 | [Gwichanist](https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [Gwichanist](https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7) | 3:14 |
+| 46 | [LIFE LOVE LAZY \(Feat\. CHOILB\)](https://open.spotify.com/track/6elDiM0qVAMqtYa7J4dWNh) | [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [roaming.](https://open.spotify.com/album/6eLVFuisUwXug4uhRcQosX) | 3:09 |
 | 47 | [Human fever](https://open.spotify.com/track/7kLmCBlcTP2DR5lIiz22e3) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 1:33 |
 | 48 | [2009 \(Feat\. unofficialboyy\)](https://open.spotify.com/track/1LMzOs2hutvxG88BVh5lkD) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [2009 \(Feat\. unofficialboyy\)](https://open.spotify.com/album/2PtYH7kVPNWwJ9JmJ95KFl) | 3:50 |
 | 49 | [sip slow](https://open.spotify.com/track/1QP8PRugJUCVguelzD5v8a) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:48 |

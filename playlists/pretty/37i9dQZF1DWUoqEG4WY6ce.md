@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 
 > Hop in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,741 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082,923 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,18 +47,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 37 | [Daylight](https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Grand](https://open.spotify.com/album/4bQi4sDv5BugGpaQWJiEXa) | 2:51 |
 | 38 | [Changes](https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Spirit Moves](https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5) | 2:41 |
 | 39 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 |
-| 40 | [The Suburbs](https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs \(Deluxe\)](https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F) | 5:15 |
-| 41 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
+| 40 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
+| 41 | [The Suburbs](https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs \(Deluxe\)](https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F) | 5:15 |
 | 42 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
 | 43 | [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 |
 | 44 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 |
 | 45 | [No You Girls](https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight](https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS) | 3:43 |
-| 46 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
-| 47 | [The Sunshine](https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 1:57 |
-| 48 | [Sheep](https://open.spotify.com/track/2fEcMBdl3BUmPclvQKSBfV) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:43 |
-| 49 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 |
-| 50 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 |
-| 51 | [Supalonely \(feat\. Gus Dapperton\)](https://open.spotify.com/track/3GZoWLVbmxcBys6g0DLFLf) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:43 |
+| 46 | [The Sunshine](https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 1:57 |
+| 47 | [Sheep](https://open.spotify.com/track/2fEcMBdl3BUmPclvQKSBfV) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:43 |
+| 48 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 |
+| 49 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 |
+| 50 | [Supalonely \(feat\. Gus Dapperton\)](https://open.spotify.com/track/3GZoWLVbmxcBys6g0DLFLf) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:43 |
+| 51 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
 | 52 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 |
 | 53 | [California](https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ) | [The Lagoons](https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd) | [California](https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc) | 4:21 |
 | 54 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 92 | [Live And Die](https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Carpenter](https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD) | 4:31 |
 | 93 | [Golden](https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [It Still Moves](https://open.spotify.com/album/5vCqxfNSqatehjPustNq4s) | 4:39 |
 | 94 | [Elevate](https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night \(Deluxe\)](https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo) | 5:08 |
-| 95 | [Here In Spirit](https://open.spotify.com/track/5GE8FTL15kS123apRK7vD4) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL) | 4:16 |
-| 96 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 |
+| 95 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 |
+| 96 | [Here In Spirit](https://open.spotify.com/track/5GE8FTL15kS123apRK7vD4) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL) | 4:16 |
 | 97 | [Psycho Killer \- Acoustic](https://open.spotify.com/track/5cE2nMYDgYj9gqG4KLafKy) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:18 |
 | 98 | [Wild](https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
 | 99 | [The Magician](https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:51 |

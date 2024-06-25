@@ -2,7 +2,7 @@
 
 ### [This Is beabadoobee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1MEzV6)
 
-> This is beabadoobee\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is beabadoobee\. The essential tracks, all in one playlist.
 
 52 songs - 2 hr 49 min
 

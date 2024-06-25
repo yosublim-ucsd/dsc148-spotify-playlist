@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > Congratulations to the winner of Eurovision Song Contest 2024 \- Nemo 🩷
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,185 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,329 likes - 37 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 18 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 |
 | 19 | [No Rules!](https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq) | [Windows95Man](https://open.spotify.com/artist/4iIv1KxAdDsqfwq5XjcgQm) | [No Rules!](https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6) | 2:55 |
 | 20 | [\(nendest\) narkootikumidest ei tea me \(küll\) midagi](https://open.spotify.com/track/3wdfbb4qfNmPHJRn8ILMHk) | [5MIINUST](https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an), [Puuluup](https://open.spotify.com/artist/7ifYVN4V3DErjxbHDfI0Yx) | [\(nendest\) narkootikumidest ei tea me \(küll\) midagi](https://open.spotify.com/album/1Mc8irTlnfXUsSrpd2hpOj) | 2:47 |
-| 21 | [Pedestal \- Eurovision version](https://open.spotify.com/track/0XzSKAgVOdtMSfzYY0qtAb) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Pedestal \(Eurovision version\)](https://open.spotify.com/album/62eT7CL8D4jrgi1InUOPmn) | 2:57 |
-| 22 | [Firefighter](https://open.spotify.com/track/5Ekw4o2ecrOCBF5rGB7KXs) | [Nutsa](https://open.spotify.com/artist/28BY95cMOgoVJrJK9YLS7Z) | [Firefighter](https://open.spotify.com/album/1uZCKKz6GFG8RXXQhRZ9vv) | 3:03 |
-| 23 | [ZORRA](https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [ZORRA](https://open.spotify.com/album/5DyJyPd1uYQrE0iWTkhmRf) | 3:03 |
-| 24 | [Veronika](https://open.spotify.com/track/5M2L5RqF8zRvFwPUrQ1tX6) | [Raiven](https://open.spotify.com/artist/5RBzgTi4eJswbWLigxtNkI) | [Veronika](https://open.spotify.com/album/3Ep62W58uONUkDa6yphNDq) | 2:46 |
-| 25 | [We Will Rave](https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8) | [Kaleen](https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P) | [We Will Rave](https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl) | 3:05 |
-| 26 | [Ulveham](https://open.spotify.com/track/1We5Dzlzbqq0mLjBVOP7om) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Ulveham](https://open.spotify.com/album/55SbqoLhR1YAZ99wEKNLlB) | 3:02 |
-| 27 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 |
+| 21 | [Firefighter](https://open.spotify.com/track/5Ekw4o2ecrOCBF5rGB7KXs) | [Nutsa](https://open.spotify.com/artist/28BY95cMOgoVJrJK9YLS7Z) | [Firefighter](https://open.spotify.com/album/1uZCKKz6GFG8RXXQhRZ9vv) | 3:03 |
+| 22 | [ZORRA](https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [ZORRA](https://open.spotify.com/album/5DyJyPd1uYQrE0iWTkhmRf) | 3:03 |
+| 23 | [Veronika](https://open.spotify.com/track/5M2L5RqF8zRvFwPUrQ1tX6) | [Raiven](https://open.spotify.com/artist/5RBzgTi4eJswbWLigxtNkI) | [Veronika](https://open.spotify.com/album/3Ep62W58uONUkDa6yphNDq) | 2:46 |
+| 24 | [We Will Rave](https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8) | [Kaleen](https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P) | [We Will Rave](https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl) | 3:05 |
+| 25 | [Ulveham](https://open.spotify.com/track/1We5Dzlzbqq0mLjBVOP7om) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Ulveham](https://open.spotify.com/album/55SbqoLhR1YAZ99wEKNLlB) | 3:02 |
+| 26 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 |
+| 27 | [Pedestal \- Eurovision version](https://open.spotify.com/track/0XzSKAgVOdtMSfzYY0qtAb) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Pedestal \(Eurovision version\)](https://open.spotify.com/album/62eT7CL8D4jrgi1InUOPmn) | 2:57 |
 | 28 | [Before The Party's Over](https://open.spotify.com/track/1A4pbfIyAuyZkIrRr4tK2X) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [Before The Party's Over](https://open.spotify.com/album/04IXV3BmIQDVJA6LlI0BLq) | 2:59 |
 | 29 | [The Tower](https://open.spotify.com/track/4IUMSDTVvUellFQ7RxI3kZ) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [The Tower](https://open.spotify.com/album/1tLg7dKobGBkc9O6BhjMQl) | 3:00 |
 | 30 | [SAND](https://open.spotify.com/track/79feeOJI7Rk8xwDdrOFsDO) | [SABA](https://open.spotify.com/artist/2pyK1mU65l7VNGw2BZIjsW) | [SAND](https://open.spotify.com/album/4qvil8kYuHLOnW327paleO) | 3:00 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 36 | [In the Middle](https://open.spotify.com/track/5ViF3hsL0iwD7jhh5JB2Ip) | [Natalia Barbu](https://open.spotify.com/artist/6dICPcKkYBBS4lW6TdxUQr) | [In the Middle](https://open.spotify.com/album/560gPARoBrtx4oQhrVj6KH) | 2:58 |
 | 37 | [Scared of Heights](https://open.spotify.com/track/0Vsjlru86RuL55GX5LsnF3) | [Hera Björk](https://open.spotify.com/artist/1OjcrzJpR5p38qPTskMPU5) | [Scared of Heights](https://open.spotify.com/album/1xY1K8eiKsbZPUcSAr9epd) | 3:03 |
 
-Snapshot ID: `ZkHIxgAAAACz61n1HqlPQmQ7FM+M0RQ/`
+Snapshot ID: `ZnkmAwAAAACXISgP1vENaoTixsqZeOrj`

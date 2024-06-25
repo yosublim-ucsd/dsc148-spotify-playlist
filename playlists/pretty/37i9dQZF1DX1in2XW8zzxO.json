@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 70538,
+  "num_followers": 70591,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -803,18 +803,22 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "Skontiri",
-        "url": "https://open.spotify.com/album/5o4Kwy9FcyEqqdNHJX1Iml"
+        "name": "Masego",
+        "url": "https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u"
       },
       "artists": [
         {
-          "name": "Malumz on Decks",
-          "url": "https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS"
+          "name": "Dj Obza",
+          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
+        },
+        {
+          "name": "Leon Lee",
+          "url": "https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD"
         }
       ],
-      "duration_ms": 351000,
-      "name": "Skontiri",
-      "url": "https://open.spotify.com/track/4po57qphS5dHDitAV2JSML"
+      "duration_ms": 411952,
+      "name": "Mang' Dakiwe (feat. Leon Lee)",
+      "url": "https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -843,22 +847,18 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "Masego",
-        "url": "https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u"
+        "name": "Skontiri",
+        "url": "https://open.spotify.com/album/5o4Kwy9FcyEqqdNHJX1Iml"
       },
       "artists": [
         {
-          "name": "Dj Obza",
-          "url": "https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh"
-        },
-        {
-          "name": "Leon Lee",
-          "url": "https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD"
+          "name": "Malumz on Decks",
+          "url": "https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS"
         }
       ],
-      "duration_ms": 411952,
-      "name": "Mang' Dakiwe (feat. Leon Lee)",
-      "url": "https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle"
+      "duration_ms": 351000,
+      "name": "Skontiri",
+      "url": "https://open.spotify.com/track/4po57qphS5dHDitAV2JSML"
     },
     {
       "added_at": "2024-06-06 23:00:00",

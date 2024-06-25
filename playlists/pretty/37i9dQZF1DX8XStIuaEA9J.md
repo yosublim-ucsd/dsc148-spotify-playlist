@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 『ユイカ』
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,378 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,420 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: Control Freak
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,575 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,571 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 67 | [Angels Landing](https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Angels Landing](https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn) | 3:53 |
 | 68 | [Rainbow Funk](https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Rainbow Funk](https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1) | 2:40 |
 | 69 | [Stars Tonight](https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [We Are Deadbeats \(Vol\. 4\)](https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ) | 2:53 |
-| 70 | [Sober](https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Sober](https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt) | 3:44 |
-| 71 | [Forget It \(feat\. Oliver Tree\)](https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Radical Dude!](https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz) | 3:32 |
+| 70 | [Forget It \(feat\. Oliver Tree\)](https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Radical Dude!](https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz) | 3:32 |
+| 71 | [Sober](https://open.spotify.com/track/3XlHlWFhlI4OZiguOMcuuc) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Sober](https://open.spotify.com/album/5QAitMOxUFNdCzmbpkdGwt) | 3:44 |
 | 72 | [Zurna](https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Zurna](https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH) | 2:39 |
 | 73 | [Wobble](https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Wobble](https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb) | 3:08 |
 | 74 | [Braincase](https://open.spotify.com/track/3AawFHorBGEDdM9ngI8ofa) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Braincase](https://open.spotify.com/album/2yTltxoHOTg3reSa6Hll3r) | 3:12 |

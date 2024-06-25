@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,381 likes - 50 songs - 4 hr 0 min
+[](https://open.spotify.com/user/null) - 37,393 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 23 | [moon](https://open.spotify.com/track/6C555aOjhaqhPrJj0puPxZ) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [moon](https://open.spotify.com/album/71hm4gpysao0yUq2XKsvKf) | 6:22 |
 | 24 | [星の海に眠る宝石箱](https://open.spotify.com/track/6cEYcSgw0cNwF5uCOgNBLU) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [星の海に眠る宝石箱](https://open.spotify.com/album/6X09lzYJoQ9C2NFiNQ2JNQ) | 3:03 |
 | 25 | [Move On Up \- DJ JIN Re\-edit](https://open.spotify.com/track/1WHD4ExyejJcQXkZse7tSQ) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [カマタミズキ](https://open.spotify.com/artist/3B31bknspbYzHM9oUEYl0s), [DJ JIN](https://open.spotify.com/artist/1IikVxKVaAWT4hpLcuJFzF) | [Move On Up \(DJ JIN Re\-edit\) / Beyond The Redemption](https://open.spotify.com/album/3jBr5PKwVeartd2kxsQDX8) | 3:19 |
-| 26 | [Exotic Rose](https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Exotic Rose](https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf) | 4:50 |
+| 26 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
 | 27 | [Delight](https://open.spotify.com/track/5X0b33rwOYBzCf9GlumgqP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Delight](https://open.spotify.com/album/0HCLpvF3ydPqboT0ZOVDfX) | 5:10 |
 | 28 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
 | 29 | [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 |
-| 30 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
+| 30 | [Exotic Rose](https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Exotic Rose](https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf) | 4:50 |
 | 31 | [Praying Mantis](https://open.spotify.com/track/0GkRRk1lsoXOSfb3veSbNu) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj), [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [庸蔵](https://open.spotify.com/artist/55k1fTNHRJcW8oCDUTETjx) | [Praying Mantis](https://open.spotify.com/album/3Eej3clX6pUi5TvKfSvhWr) | 4:51 |
 | 32 | [Vivid](https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [Vivid](https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav) | 3:51 |
 | 33 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Rising Son](https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd) | 9:25 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 42 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
 | 43 | [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 |
 | 44 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 |
-| 45 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 |
+| 45 | [Akatsuki](https://open.spotify.com/track/5Kzvafvksy487apDu6f6Fw) | [PE'Z](https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 4:28 |
 | 46 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 |
-| 47 | [Akatsuki](https://open.spotify.com/track/5Kzvafvksy487apDu6f6Fw) | [PE'Z](https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 4:28 |
+| 47 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 |
 | 48 | [How Deep Is Your Love](https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [SEIKO JAZZ 3](https://open.spotify.com/album/5xohvyPtGGW1wks4Z4qzbR) | 5:37 |
 | 49 | [ボッサ・リーブラ](https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC) | [Yoshiko Kishino](https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0) | [ボッサ・ノスタルジア](https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg) | 4:47 |
-| 50 | [さくらんぼの実る頃（紅の豚）](https://open.spotify.com/track/5HaBg5dAjWykVsYAYEYKt9) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [GHIBLI meets JAZZ　～Beautiful Songs～](https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP) | 4:37 |
+| 50 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 |
 
 Snapshot ID: `ZmhmcAAAAABSmJlR4ApCEfhnlC/hSFgy`

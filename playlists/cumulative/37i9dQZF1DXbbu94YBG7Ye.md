@@ -4,7 +4,7 @@
 
 > Si la rompe está acá\. Foto: Trueno.
 
-419 songs - 21 hr 52 min
+420 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-21 |  |
 | [ESTA QUE QUEMA](https://open.spotify.com/track/38H5RjvcICmF10kJeZeyPM) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [ESTA QUE QUEMA](https://open.spotify.com/album/5gAqSJZ06DrpRjJGMVzc1o) | 3:11 | 2023-06-22 | 2023-07-14 |
 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 | 2022-02-17 | 2022-06-24 |
-| [Exclusive.mp3](https://open.spotify.com/track/5f4mOETLngamMDTJnbF9s7) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:00 | 2023-11-09 |  |
+| [Exclusive.mp3](https://open.spotify.com/track/5f4mOETLngamMDTJnbF9s7) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:00 | 2023-11-09 | 2024-06-25 |
 | [Fantasi](https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Fantasi](https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9) | 2:38 | 2022-02-17 | 2022-09-09 |
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2021-12-31 | 2022-02-18 |
 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 | 2022-02-24 | 2022-08-26 |
@@ -186,6 +186,7 @@
 | [La Trampa es Ley](https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Trampa es Ley](https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs) | 2:21 | 2022-02-14 | 2022-06-30 |
 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2022-05-05 | 2023-01-13 |
 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 | 2023-11-09 |  |
+| [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 | 2024-06-24 |  |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-06-29 | 2024-01-19 |
 | [Las Jordans](https://open.spotify.com/track/4eOGoAtYWRPQZ6mUwwgmuW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:24 | 2023-02-23 | 2023-04-21 |
 | [LATTE \(feat\. Maria Becerra\)](https://open.spotify.com/track/7irTyPzSyqSbeUXbYsTR5j) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [The Academy: Segunda Misión](https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu) | 4:20 | 2024-04-04 |  |

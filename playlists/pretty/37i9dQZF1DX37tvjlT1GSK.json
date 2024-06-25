@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Alta Consigna y Crecer Germ\u00e1n en portada. ",
-  "num_followers": 799832,
+  "num_followers": 799824,
   "original_name": "Sierre\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,26 @@
     {
       "added_at": "2024-06-07 16:18:36",
       "album": {
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 230795,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+    },
+    {
+      "added_at": "2024-06-07 16:18:36",
+      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 112087,
       "name": "El Gordo Trae El Mando",
       "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
-    },
-    {
-      "added_at": "2024-06-07 16:18:36",
-      "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 230795,
-      "name": "Porque Te Vas",
-      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
       "added_at": "2024-06-07 16:18:36",
@@ -431,26 +431,6 @@
     {
       "added_at": "2024-06-07 16:18:36",
       "album": {
-        "name": "Modo DND",
-        "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 220298,
-      "name": "Modo DND",
-      "url": "https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD"
-    },
-    {
-      "added_at": "2024-06-07 16:18:36",
-      "album": {
         "name": "Coraz\u00f3n Fr\u00edo",
         "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 263810,
       "name": "Coraz\u00f3n Fr\u00edo",
       "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
+    },
+    {
+      "added_at": "2024-06-07 16:18:36",
+      "album": {
+        "name": "Modo DND",
+        "url": "https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 220298,
+      "name": "Modo DND",
+      "url": "https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD"
     },
     {
       "added_at": "2024-06-07 16:18:36",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-06-07 16:18:36",
       "album": {
+        "name": "GXLE 3",
+        "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M"
+    },
+    {
+      "added_at": "2024-06-07 16:18:36",
+      "album": {
         "name": "Calidad",
         "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2024-06-07 16:18:36",
       "album": {
-        "name": "GXLE 3",
-        "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M"
-    },
-    {
-      "added_at": "2024-06-07 16:18:36",
-      "album": {
         "name": "Entre La Maleza",
         "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 215956,
       "name": "Entre La Maleza",
       "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
-    },
-    {
-      "added_at": "2024-06-07 16:18:36",
-      "album": {
-        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
-        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Hoy la Vi Con \u00c9l - En Vivo",
-      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
     },
     {
       "added_at": "2024-06-07 16:18:36",
@@ -1611,22 +1595,18 @@
     {
       "added_at": "2024-06-07 16:18:36",
       "album": {
-        "name": "Chico Problema",
-        "url": "https://open.spotify.com/album/4GL20Da5yyyYE5o2PxsWgm"
+        "name": "Hoy la Vi Con \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX"
       },
       "artists": [
         {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 185281,
-      "name": "Chico Problema",
-      "url": "https://open.spotify.com/track/4PGs1pZL9yBxYYnUiBJ3vj"
+      "duration_ms": 223200,
+      "name": "Hoy la Vi Con \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
     },
     {
       "added_at": "2024-06-07 16:18:36",
@@ -1643,6 +1623,26 @@
       "duration_ms": 145946,
       "name": "Peonia",
       "url": "https://open.spotify.com/track/7kabKZcIsgr5WS5HU94sif"
+    },
+    {
+      "added_at": "2024-06-07 16:18:36",
+      "album": {
+        "name": "Chico Problema",
+        "url": "https://open.spotify.com/album/4GL20Da5yyyYE5o2PxsWgm"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "duration_ms": 185281,
+      "name": "Chico Problema",
+      "url": "https://open.spotify.com/track/4PGs1pZL9yBxYYnUiBJ3vj"
     },
     {
       "added_at": "2024-06-07 16:18:36",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-06-07 16:18:36",
       "album": {
-        "name": "Sanar\u00e9",
-        "url": "https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 141310,
-      "name": "Sanar\u00e9",
-      "url": "https://open.spotify.com/track/2PsTpCnM7WaPLLqV8kNdVf"
-    },
-    {
-      "added_at": "2024-06-07 16:18:36",
-      "album": {
         "name": "Tan Solo Morro",
         "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 164115,
       "name": "Bulgari",
       "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
+    },
+    {
+      "added_at": "2024-06-07 16:18:36",
+      "album": {
+        "name": "Sanar\u00e9",
+        "url": "https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 141310,
+      "name": "Sanar\u00e9",
+      "url": "https://open.spotify.com/track/2PsTpCnM7WaPLLqV8kNdVf"
     },
     {
       "added_at": "2024-06-07 16:18:36",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2024-06-07 16:18:36",
       "album": {
+        "name": "CORONAMOS",
+        "url": "https://open.spotify.com/album/7BRjW94Ab2J3mtXuniXArD"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 159933,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/5Q8KBMgphMMhMdopR6gV4m"
+    },
+    {
+      "added_at": "2024-06-07 16:18:36",
+      "album": {
         "name": "Dijeron Que No La Iba Lograr",
         "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 113019,
       "name": "Dijeron Que No La Iba Lograr",
       "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
-    },
-    {
-      "added_at": "2024-06-07 16:18:36",
-      "album": {
-        "name": "CORONAMOS",
-        "url": "https://open.spotify.com/album/7BRjW94Ab2J3mtXuniXArD"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 159933,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/5Q8KBMgphMMhMdopR6gV4m"
     },
     {
       "added_at": "2024-06-07 16:18:36",

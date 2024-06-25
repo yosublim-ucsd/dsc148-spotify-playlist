@@ -1,29 +1,13 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 8078,
+  "num_followers": 8084,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAABmcTXPMG3cEdpE/zLvHgVi",
+  "snapshot_id": "ZndlgAAAAACPm9zhfTQXgcl8AkOAVKZX",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Unsung",
-      "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 173066,
       "name": "Biscuits For Smut",
       "url": "https://open.spotify.com/track/18hQBshq6PncOwt4LRCA05"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 233000,
       "name": "Milquetoast",
       "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "Iron Head",
+      "url": "https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Iron Head",
-      "url": "https://open.spotify.com/track/2FhUbI3O3YQ3N5eGSUDwbX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 178973,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/2GN8Femwt83EIwInIuQj33"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "FBLA II",
+      "url": "https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 202293,
-      "name": "FBLA II",
-      "url": "https://open.spotify.com/track/18HtfEFUEydTblkPTWTicw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 234533,
       "name": "Wilma's Rainbow",
       "url": "https://open.spotify.com/track/3QKloANAAhqsgRXAuBioYv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "Turned Out",
+      "url": "https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "Turned Out",
-      "url": "https://open.spotify.com/track/1hkMn2pxLovYof8uDgpiTq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 220666,
       "name": "I Know",
       "url": "https://open.spotify.com/track/5YZc9o1Uk69v7fuO2R3cLG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Give It",
+      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meantime",
-        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Give It",
-      "url": "https://open.spotify.com/track/6rVleAFgtmJ04Omk6Mmon5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 220266,
       "name": "Tic",
       "url": "https://open.spotify.com/track/4iyW4RQlmcGj1i1igx17RD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meantime",
+        "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4zifCcliaROnRc1r35F6KN"
     },
     {
       "added_at": null,

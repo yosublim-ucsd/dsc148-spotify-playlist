@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,202 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,214 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Congratulations](https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [Congratulations](https://open.spotify.com/album/4WM4SgukPTr9ZRXzkIzD36) | 3:06 |
-| 2 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
-| 3 | [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 |
+| 2 | [This Is the Day \(Halle\)](https://open.spotify.com/track/1FnbReDM3Ly7uxwarVJLp0) | [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ), [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [This Is the Day \(Halle\)](https://open.spotify.com/album/5zRg6TUFbAIpZrwHUNvZEU) | 6:51 |
+| 3 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
 | 4 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 |
 | 5 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
 | 6 | [You Do This One](https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [You Do This One](https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o) | 3:46 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 37 | [Over](https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Over](https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD) | 2:48 |
 | 38 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 |
 | 39 | [Testimony](https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Testimony](https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp) | 2:57 |
-| 40 | [Not Alone \- Live](https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Not Alone \(Live\)](https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF) | 4:30 |
+| 40 | [Mo](https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Mo](https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK) | 3:32 |
 | 41 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 |
-| 42 | [Mo](https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Mo](https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK) | 3:32 |
+| 42 | [Not Alone \- Live](https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Not Alone \(Live\)](https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF) | 4:30 |
 | 43 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
 | 44 | [En Toi](https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [En Toi](https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh) | 3:13 |
 | 45 | [Worry About Nothing](https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Worry About Nothing](https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s) | 3:24 |
 | 46 | [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 |
 | 47 | [COME AND SEE](https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Assignment](https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK) | 4:22 |
 | 48 | [Mon Dieu](https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Mon Dieu](https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd) | 2:46 |
-| 49 | [Yeshua \(Extended\)](https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP), [Sonny Green](https://open.spotify.com/artist/0JyaUTiOWDW0vjHUXfgrDx) | [Yeshua \(Extended\)](https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H) | 2:36 |
-| 50 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
+| 49 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
+| 50 | [Yeshua \(Extended\)](https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP), [Sonny Green](https://open.spotify.com/artist/0JyaUTiOWDW0vjHUXfgrDx) | [Yeshua \(Extended\)](https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H) | 2:36 |
 
-Snapshot ID: `ZnTCvAAAAABVsP4L0lHHifGUwYmArCWl`
+Snapshot ID: `ZnmnWgAAAAC84lQRPq5p83VWrn45Wzby`

@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1970s. Cover: ABBA",
-  "num_followers": 5607901,
+  "num_followers": 5608113,
   "original_name": "All Out 70s",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "Eagles (2013 Remaster)",
         "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 211577,
       "name": "Take It Easy - 2013 Remaster",
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Rock with You - Single Version",
-      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "Elvis (Fool)",
         "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+      "duration_ms": 220626,
+      "name": "Rock with You - Single Version",
+      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -771,6 +755,22 @@
       "duration_ms": 248173,
       "name": "Give A Little Bit",
       "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 365466,
-      "name": "Don't Stop 'Til You Get Enough",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
         "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 322548,
       "name": "Bennie And The Jets - Remastered 2014",
       "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 365466,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 211680,
       "name": "Ventura Highway",
       "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "Hotel California (2013 Remaster)",
         "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 207266,
       "name": "Long Train Runnin'",
       "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1895,18 +1895,18 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
       "artists": [
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 242240,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+      "duration_ms": 350266,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1931,18 +1931,18 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Every Picture Tells A Story",
-        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
         }
       ],
-      "duration_ms": 350266,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
+      "duration_ms": 242240,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Life on Mars? - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "Gets Next to You",
         "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 172320,
       "name": "Tired of Being Alone",
       "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Life on Mars? - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "You've Got a Friend - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "City to City",
         "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 365626,
       "name": "Baker Street",
       "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "You've Got a Friend - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Brown Sugar - Remastered 2009",
-      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "Peter Gabriel 1: Car (Remastered)",
         "url": "https://open.spotify.com/album/0kDFjyfGFtiIMXlxJ120Ok"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 261560,
       "name": "Solsbury Hill",
       "url": "https://open.spotify.com/track/6vZZtivPrtpggT5SSXsYTy"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Brown Sugar - Remastered 2009",
+      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
     },
     {
       "added_at": "2024-05-25 02:25:59",

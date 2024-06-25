@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee, Marc Anthony",
-  "num_followers": 2069996,
+  "num_followers": 2070030,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -735,18 +735,22 @@
     {
       "added_at": "2024-04-15 19:22:19",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+      "duration_ms": 238200,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
     },
     {
       "added_at": "2024-04-15 19:22:19",
@@ -771,22 +775,18 @@
     {
       "added_at": "2024-04-15 19:22:19",
       "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
       "artists": [
         {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 238200,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2024-04-15 19:22:19",
@@ -871,22 +871,6 @@
       "duration_ms": 230693,
       "name": "Una Locura",
       "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
-    },
-    {
-      "added_at": "2024-04-15 19:22:19",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2024-04-15 19:22:19",
@@ -991,6 +975,22 @@
     {
       "added_at": "2024-04-15 19:22:19",
       "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
+    },
+    {
+      "added_at": "2024-04-15 19:22:19",
+      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -1023,42 +1023,6 @@
     {
       "added_at": "2024-04-15 19:22:19",
       "album": {
-        "name": "RITMO (Bad Boys For Life)",
-        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "RITMO (Bad Boys For Life)",
-      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
-    },
-    {
-      "added_at": "2024-04-15 19:22:19",
-      "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Baila Baila Baila",
-      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
-    },
-    {
-      "added_at": "2024-04-15 19:22:19",
-      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -1083,6 +1047,42 @@
       "duration_ms": 205600,
       "name": "Safari",
       "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
+    },
+    {
+      "added_at": "2024-04-15 19:22:19",
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Baila Baila Baila",
+      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
+    },
+    {
+      "added_at": "2024-04-15 19:22:19",
+      "album": {
+        "name": "RITMO (Bad Boys For Life)",
+        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "RITMO (Bad Boys For Life)",
+      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
     },
     {
       "added_at": "2024-04-15 19:22:19",
@@ -1951,6 +1951,26 @@
     {
       "added_at": "2024-04-15 19:22:19",
       "album": {
+        "name": "32 Ca\u00f1onazos",
+        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 312480,
+      "name": "En Barranquilla Me Quedo",
+      "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
+    },
+    {
+      "added_at": "2024-04-15 19:22:19",
+      "album": {
         "name": "Sigues Con El (Remix)",
         "url": "https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM"
       },
@@ -1971,26 +1991,6 @@
       "duration_ms": 189566,
       "name": "Sigues Con El - Remix",
       "url": "https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI"
-    },
-    {
-      "added_at": "2024-04-15 19:22:19",
-      "album": {
-        "name": "32 Ca\u00f1onazos",
-        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 312480,
-      "name": "En Barranquilla Me Quedo",
-      "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
     },
     {
       "added_at": "2024-04-15 19:22:19",

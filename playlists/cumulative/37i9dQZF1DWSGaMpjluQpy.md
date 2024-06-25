@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-129 songs - 7 hr 27 min
+130 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Eternity](https://open.spotify.com/track/5EZQIWcPbstB9bGfZyMVP5) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Eternity Rain](https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr) | 3:40 | 2023-04-27 |  |
 | [Evening Rain](https://open.spotify.com/track/4tfNLlpSHpFvBsVufocJKn) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Evening Rain](https://open.spotify.com/album/6dWDQjgAC5tLFm19J2YgFU) | 4:02 | 2023-04-27 |  |
 | [Faber](https://open.spotify.com/track/482CNrlW4YFB0QiKySuxFq) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Faber](https://open.spotify.com/album/2at9fFe2ZxNu7MVCetxx4U) | 3:30 | 2024-02-23 |  |
+| [Far Away From Home](https://open.spotify.com/track/3vqwzMRKAi8Zr2JKuzYqhz) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Far Away From Home](https://open.spotify.com/album/09fyD6GBCml59WivM8dhow) | 3:38 | 2024-06-24 |  |
 | [Farmland](https://open.spotify.com/track/1l5zTu0n5D0D1488z9QKvL) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Farmland](https://open.spotify.com/album/1CknfwJF9oqXYKFwCNYo1C) | 3:36 | 2023-06-22 |  |
 | [Feathers](https://open.spotify.com/track/06NxUSlMIb6JsSC0cW4HhH) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Eternity Rain](https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr) | 3:23 | 2023-04-27 |  |
 | [Forests Sometimes](https://open.spotify.com/track/3rDVLfUb6s70EdNhrVOycF) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Forests Sometimes](https://open.spotify.com/album/4c5tCMY258trdUWxqJ4J5j) | 4:03 | 2023-04-27 |  |

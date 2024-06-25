@@ -4,7 +4,7 @@
 
 > 🌈 AMOR ES AMOR 🌈
 
-159 songs - 9 hr 41 min
+161 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 | 2023-01-20 |  |
 | [Aute Cuture](https://open.spotify.com/track/7dQFpbs34ufIEU745DVclf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Aute Cuture](https://open.spotify.com/album/23irnvaijPHVE7682D4G3f) | 2:27 | 2022-06-29 | 2023-01-21 |
 | [AYER](https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP) | 3:55 | 2023-01-20 | 2024-04-19 |
-| [AYER](https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ) | 3:55 | 2023-09-01 |  |
+| [AYER](https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ) | 3:55 | 2023-09-01 | 2024-06-25 |
 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 | 2023-01-20 | 2024-04-19 |
 | [Azúcar Amargo](https://open.spotify.com/track/2arXuCWrLfgcELqYogQDbt) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Exitos](https://open.spotify.com/album/2bTu4nn4DgRJqXAINqbrQd) | 4:41 | 2023-09-01 |  |
 | [Babylon](https://open.spotify.com/track/5DttNeiizFqWUON9hZBqTY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:41 | 2022-06-29 | 2023-01-21 |
@@ -111,10 +111,12 @@
 | [Milionària](https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 2:18 | 2022-06-29 | 2023-01-21 |
 | [Monoambiente en Capital](https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS), [Nico Cotton](https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc) | [Monoambiente en Capital](https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7) | 3:01 | 2023-01-20 |  |
 | [Motel](https://open.spotify.com/track/3DNTGxpUQR7A01H6EJkQM6) | [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq) | [2016](https://open.spotify.com/album/3UJCMFZa1DMsY96qXNomEV) | 3:00 | 2022-06-03 | 2022-06-30 |
+| [Multicolor](https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Multicolor](https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF) | 3:40 | 2024-06-24 |  |
+| [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 | 2024-06-24 |  |
 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 | 2023-09-01 |  |
 | [Nada Personal](https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Nada Personal](https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1) | 4:41 | 2023-01-20 | 2023-09-02 |
 | [Nadie Más](https://open.spotify.com/track/005876Sj0DDeqcV3Odv4Bx) | [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq) | [2016](https://open.spotify.com/album/3UJCMFZa1DMsY96qXNomEV) | 3:15 | 2022-06-03 | 2022-06-30 |
-| [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 | 2023-01-20 |  |
+| [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 | 2023-01-20 | 2024-06-25 |
 | [Ni Tú Ni Nadie](https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Stereo Hits](https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as) | 3:39 | 2023-01-20 |  |
 | [Ni Una Sola Palabra](https://open.spotify.com/track/1JLB67iNVIOs6NCiMAB1Fo) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/6Vxnagxqa9cuCqxPTxq1RC) | 3:44 | 2023-09-01 |  |
 | [Ni Una Sola Palabra](https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT) | 3:44 | 2023-01-20 | 2024-04-19 |

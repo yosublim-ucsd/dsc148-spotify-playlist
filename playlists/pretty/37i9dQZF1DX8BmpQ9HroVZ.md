@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan\. Cover: Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,083 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,136 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

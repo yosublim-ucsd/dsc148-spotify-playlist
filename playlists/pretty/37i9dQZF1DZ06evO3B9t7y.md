@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 
 ### [This Is Carin Leon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3B9t7y)
 
-> This is Carin Leon\. The essential tracks, all in one playlist.
+> This Is Carin Leon\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,521 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,223 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 21 | [Secuelas De Amor](https://open.spotify.com/track/3wavwOSbjbDahGOI16fpgG) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX) | 2:34 |
 | 22 | [Tú Me Gustas](https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Tú Me Gustas](https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC) | 3:26 |
 | 23 | [Lamentablemente](https://open.spotify.com/track/7GGESORWVDTZnQ8mUENimX) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:15 |
-| 24 | [Si Tu Amor No Vuelve \- En Vivo](https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1) | 3:20 |
-| 25 | [Indispensable](https://open.spotify.com/track/7aGd2n90JJZ5QliVEDcuPz) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:33 |
+| 24 | [Indispensable](https://open.spotify.com/track/7aGd2n90JJZ5QliVEDcuPz) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:33 |
+| 25 | [Si Tu Amor No Vuelve \- En Vivo](https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1) | 3:20 |
 | 26 | [Te Ví Con El](https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 3:00 |
 | 27 | [Por culpa de un tercero](https://open.spotify.com/track/3qjpDAoUAHs1jrIg1VwxxX) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:54 |
 | 28 | [Te quiero](https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te quiero](https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe) | 3:34 |
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3B9t7y.md) - [plain]
 | 44 | [Quisiera Saber](https://open.spotify.com/track/45qdQhZmSgLdrv3rHfyLre) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 3:52 |
 | 45 | [Existo](https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Existo](https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ) | 2:55 |
 | 46 | [La Farsante](https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 3:35 |
-| 47 | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/album/59P1FibnLGvDRl3jaMgimk) | 3:29 |
-| 48 | [Amorcito Mio \- En Vivo](https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 3:23 |
+| 47 | [Amorcito Mio \- En Vivo](https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 3:23 |
+| 48 | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [It Was Always You \(Siempre Fuiste Tú\)](https://open.spotify.com/album/59P1FibnLGvDRl3jaMgimk) | 3:29 |
 | 49 | [Buenos Tiempos](https://open.spotify.com/track/7pDRRilFOcD5JZUuKWkDzx) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Buenos Tiempos](https://open.spotify.com/album/0JZFAmJrauExEk4sR9YzzV) | 3:48 |
 | 50 | [Guaro \- Remix](https://open.spotify.com/track/3PmqejsYxlhII2zo7zXtQ8) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Guaro \(Remix\)](https://open.spotify.com/album/68DJWrVtz96h4wibetOKzS) | 3:42 |
 | 51 | [Amor Borrachito](https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Amor Borrachito](https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d) | 2:55 |
 | 52 | [Tu Amor Barato](https://open.spotify.com/track/42IJzinWG5ndGNcXXbbR4W) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 2:28 |
 
-Snapshot ID: `ZnYUAAAAAADpCulL4/ldrxrhScFkOboV`
+Snapshot ID: `ZndlgAAAAADIVkhs0N7rAZtgEhZwPrM6`

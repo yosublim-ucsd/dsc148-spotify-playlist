@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,087,692 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,087,864 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 41 | [We Are In Love](https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [We Are In Love](https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82) | 2:40 |
 | 42 | [Putting on the Ritz](https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:24 |
 | 43 | [Can't Take My Eyes Off You](https://open.spotify.com/track/00jlyC6x233qlS1vhLHdA3) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Very Best Of Andy Williams](https://open.spotify.com/album/3Og0hkf2QsluUfzUJ2PIru) | 3:12 |
-| 44 | [She](https://open.spotify.com/track/64TGtWC8WLzVt7PamUo9EO) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Notting Hill](https://open.spotify.com/album/6PcgVPzMx4kr63zEgPb505) | 3:06 |
+| 44 | [Blue Moon](https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Reprise Years](https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG) | 3:05 |
 | 45 | [I've Got You Under My Skin](https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Fly Me To The Moon...The Great American Songbook Volume V](https://open.spotify.com/album/1Qy7vORyImzsfU89puG4gV) | 3:50 |
-| 46 | [Blue Moon](https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Reprise Years](https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG) | 3:05 |
+| 46 | [She](https://open.spotify.com/track/64TGtWC8WLzVt7PamUo9EO) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Notting Hill](https://open.spotify.com/album/6PcgVPzMx4kr63zEgPb505) | 3:06 |
 | 47 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
 | 48 | [My Kind Of Girl](https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K) | [Buddy Greco](https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ) | [16 Most Requested Songs](https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb) | 2:40 |
 | 49 | [A Time For Love](https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:59 |

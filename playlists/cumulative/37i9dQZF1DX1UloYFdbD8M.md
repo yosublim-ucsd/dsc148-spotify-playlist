@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Benny Dayal
 
-198 songs - 13 hr 35 min
+199 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Anthinilavin](https://open.spotify.com/track/3F7J8kh9Eee6groFjPboaQ) | [Sharath Narayan](https://open.spotify.com/artist/4U29BtbckXtWM7m9goeIKb) | [Anthinilavin](https://open.spotify.com/album/3mN268bF3zWXvA2ZGm2jod) | 4:12 | 2023-01-18 | 2024-02-15 |
 | [Anuraaga Nadhiye](https://open.spotify.com/track/79nkULYN6ypZaEg1Qp1KJR) | [Bineetha Ranjith](https://open.spotify.com/artist/0hYeiOpfSvwJ6IvJPy9aHD), [Arun Das](https://open.spotify.com/artist/2kzTPxeqBkLaVHFzv8rkjq) | [Anuraaga Nadhiye](https://open.spotify.com/album/3WDmo4n1ghuTVvdrQ16hDY) | 5:32 | 2023-11-21 | 2024-02-19 |
 | [Appuram Ippuram](https://open.spotify.com/track/3RCJVvoxtAguznT1g0RCaQ) | [Ann Maria K Binu](https://open.spotify.com/artist/5aPRunDEVB9A37KbIXNI82), [Souparnika Anilkumar](https://open.spotify.com/artist/60QkggG5BAI1ShfhxSkuWR) | [Appuram Ippuram](https://open.spotify.com/album/6qi6RhnNILHlJjRzfFXmP2) | 3:37 | 2023-04-24 | 2023-07-28 |
+| [Arikil](https://open.spotify.com/track/4KxgXETBP15AxDNdk0AJNb) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [For Medusa](https://open.spotify.com/album/26ilEcdCsFgMEsje8ujku9) | 2:54 | 2024-06-24 |  |
 | [Arikilaay](https://open.spotify.com/track/1FUruQVUFNzr5wjae5yqMJ) | [Afzal Yusuff](https://open.spotify.com/artist/5aLx8IMz29yKNh4WFnogsm) | [Arikilaay](https://open.spotify.com/album/3L7rIf4rp0ncRmupn3qLBB) | 3:50 | 2023-06-26 | 2023-07-28 |
 | [Arutharuthu](https://open.spotify.com/track/1jopcodc8BmM3BsvM0NvEE) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/3KPax7QTCyyEFDeJWuvHXr) | 4:27 | 2023-10-06 | 2024-04-19 |
 | [Arutharuthu](https://open.spotify.com/track/2d40W8qyOzFRRlINyDZSwI) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/4RWpgYfWPwxuTlUnwpE18I) | 4:27 | 2024-01-15 |  |
@@ -200,7 +201,7 @@
 | [Varav](https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [$obin](https://open.spotify.com/artist/3GrYRWOQlcY1qs48diMppb) | [Varav](https://open.spotify.com/album/7upuJEyMJJzQAtvJGirH1r) | 3:07 | 2023-05-26 | 2023-07-28 |
 | [Vettam](https://open.spotify.com/track/11CrYElJH7l26yy5Tb5Ihy) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Vettam](https://open.spotify.com/album/3wfiH7VqV5yXoU6eZLWZEy) | 3:32 | 2023-10-10 |  |
 | [Vettam Reprised](https://open.spotify.com/track/1VKqe5jwgqdmFLkxxTdx4x) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Vettam Reprised](https://open.spotify.com/album/1YowHOWsfSiRVrgWFI05n4) | 3:11 | 2023-12-10 | 2024-06-19 |
-| [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 | 2023-08-03 |  |
+| [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 | 2023-08-03 | 2024-06-25 |
 | [When Nature Calls](https://open.spotify.com/track/4VI98l8ORvSMPjIrROndfc) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [When Nature Calls](https://open.spotify.com/album/1MraQsbPfSly4llApBNHae) | 5:12 | 2023-08-03 |  |
 | [Yaanam](https://open.spotify.com/track/2k0m3S5y6J3RPBEwrYAHrU) | [Sangeeth Vijayan](https://open.spotify.com/artist/2TPRb7Pr2jsn9U2QL9RQut) | [Yaanam](https://open.spotify.com/album/2MN3tPfDAg2PsBBb78uLCs) | 3:20 | 2023-11-06 | 2024-01-04 |
 | [Yathra](https://open.spotify.com/track/7nZxElNcOuVrsAjw7Um0IE) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/0AMVYu01sebX3Sba3AS9J9) | 3:05 | 2023-10-10 | 2024-02-19 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: بهاء سلطان
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,620 likes - 74 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,702 likes - 74 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tenzl Feen](https://open.spotify.com/track/1uhzrj5NCOzhgJAyHtPas7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Tenzl Feen](https://open.spotify.com/album/46VnjHhdT1EzNzJZDFMoEx) | 2:47 |
-| 2 | [Kol Elly Eshto](https://open.spotify.com/track/3PsPaxw4KgRJXAVWxnUu7q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kol Elly Eshto](https://open.spotify.com/album/36RN9n5MnY8qHLv9gwzfu0) | 3:09 |
+| 2 | [Kol Elly Eshto](https://open.spotify.com/track/3PsPaxw4KgRJXAVWxnUu7q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kol Elly Eshto](https://open.spotify.com/album/36RN9n5MnY8qHLv9gwzfu0) | 3:08 |
 | 3 | [خد بوسة \(من فيلم عصابة الماكس\)](https://open.spotify.com/track/4VBJjLh7pIvW7cTWmmW3DX) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [خد بوسة \(من فيلم عصابة الماكس\)](https://open.spotify.com/album/0Lz5buevocRlWNTzBMyIjG) | 2:57 |
 | 4 | [قال في حقي](https://open.spotify.com/track/19dsyTMSHs7MQTFwDGhuVv) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [قال في حقي](https://open.spotify.com/album/46v7vsj0UortqStmb0kEJg) | 3:20 |
 | 5 | [تيجي زي ما تيجي \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/2GbSrRs5VUoKTbnEiqoa4v) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [تيجي زي ما تيجي \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/2om5xx9EYHCw8NPFIP9tnD) | 3:55 |

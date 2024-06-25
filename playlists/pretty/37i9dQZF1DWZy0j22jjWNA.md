@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,023 likes - 65 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,034 likes - 65 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 13 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 14 | [The Mountain \(Live from 25in24\)](https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [The Mountain \(Live from 25in24\)](https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs) | 3:51 |
 | 15 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
-| 16 | [Morning Song](https://open.spotify.com/track/0TITOVVpWkNT5H3JKVdoXq) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Morning Song](https://open.spotify.com/album/2MB2SNajHrRGLcnEGFgns2) | 4:21 |
-| 17 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
+| 16 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
+| 17 | [Morning Song](https://open.spotify.com/track/0TITOVVpWkNT5H3JKVdoXq) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [Morning Song](https://open.spotify.com/album/2MB2SNajHrRGLcnEGFgns2) | 4:21 |
 | 18 | [Like Myself](https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Like Myself](https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv) | 2:28 |
 | 19 | [Giants](https://open.spotify.com/track/0Q7ike4sNrjLSZx8r26C9s) | [Silverberg](https://open.spotify.com/artist/3lpVtJYZ57FvUVDzECu4UY), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Giants](https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779) | 3:53 |
 | 20 | [Time's Always Leaving](https://open.spotify.com/track/7e5k4ucRMRHT9MEJh6PTxI) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk into a Storm](https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ) | 3:17 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 51 | [I Am One](https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [I Am One](https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF) | 4:10 |
 | 52 | [Holy Rain](https://open.spotify.com/track/6CFj3yJ1i8U91Cn7jN0fSI) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Pilot of My Own Life](https://open.spotify.com/album/6AsU7R0g9THoQ7f4NKK2AJ) | 4:04 |
 | 53 | [Bridges](https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5) | 3:36 |
-| 54 | [Perfect Sense](https://open.spotify.com/track/2DePPpTXAXq75jLDObF8Az) | [The Overstory](https://open.spotify.com/artist/3BRxXnd7h14dwrzHor2hoM) | [Perfect Sense](https://open.spotify.com/album/53qkJ4gSKYLN04MNbceDIL) | 2:44 |
-| 55 | [Beloved](https://open.spotify.com/track/5V0nHhlYIjUMfcSoJ5ziRD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/3thbkS5Ijz41mAbAOat7wc) | 4:25 |
+| 54 | [Beloved](https://open.spotify.com/track/5V0nHhlYIjUMfcSoJ5ziRD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/3thbkS5Ijz41mAbAOat7wc) | 4:25 |
+| 55 | [Perfect Sense](https://open.spotify.com/track/2DePPpTXAXq75jLDObF8Az) | [The Overstory](https://open.spotify.com/artist/3BRxXnd7h14dwrzHor2hoM) | [Perfect Sense](https://open.spotify.com/album/53qkJ4gSKYLN04MNbceDIL) | 2:44 |
 | 56 | [You](https://open.spotify.com/track/6OW9DM0XwDzdiIlKcTuPD3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [You](https://open.spotify.com/album/2mgnhYvHdQQzVOM2LDkuXU) | 3:46 |
 | 57 | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/track/299R8rSX3D67STCYfh6LZn) | [13 Crowns](https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Grateful](https://open.spotify.com/album/1RLsgKm0afhZsGZFujcXTq) | 4:06 |
 | 58 | [Stella](https://open.spotify.com/track/32yiDCLJUdqYoaDR46z9gD) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [Happier Than Me](https://open.spotify.com/album/6dX3vTD2qIIFVDGB5i8TlI) | 2:52 |

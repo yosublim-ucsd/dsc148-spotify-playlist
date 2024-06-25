@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 > Timeless Salsa from your favorite legends\. Cover: Willie Colón
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,313,262 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,313,478 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 37 | [Ese](https://open.spotify.com/track/23gGTtWSjeTx4HEnAfdCgW) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:31 |
 | 38 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 |
 | 39 | [Me Liberé](https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuevo Milenio \- El Mismo Sabor](https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn) | 4:23 |
-| 40 | [He Tratado](https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:03 |
-| 41 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
+| 40 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
+| 41 | [He Tratado](https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:03 |
 | 42 | [Nuestro Sueño](https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:59 |
 | 43 | [Lluvia](https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:56 |
 | 44 | [Qué Hay de Malo](https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 4:58 |

@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 172965,
+  "num_followers": 173014,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "Mar y Tierra",
-        "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 185870,
-      "name": "Mar y Tierra",
-      "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "Seguro Te Pierdo",
         "url": "https://open.spotify.com/album/7h3OzZVHw9pFcnmwuYVoKt"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 174000,
       "name": "Seguro Te Pierdo",
       "url": "https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "Mar y Tierra",
+        "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 185870,
+      "name": "Mar y Tierra",
+      "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
+        "name": "Tr\u00f3pico de C\u00e1ncer",
+        "url": "https://open.spotify.com/album/0qeSXx5Y3F5BBiG1NhX3aK"
+      },
+      "artists": [
+        {
+          "name": "Wk",
+          "url": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
+        },
+        {
+          "name": "Zaeg",
+          "url": "https://open.spotify.com/artist/5B2xy7HiCuwck4fIJbLKcQ"
+        }
+      ],
+      "duration_ms": 180166,
+      "name": "Aquellos Que Fui",
+      "url": "https://open.spotify.com/track/4BHEMWjGgQwL3pAAtog75S"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
         "name": "Ya Sabes Como Soy",
         "url": "https://open.spotify.com/album/524s7F2BKNuGcTVrUmSAe9"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 176559,
       "name": "PA QUE CONMIGO",
       "url": "https://open.spotify.com/track/6EQ2lpYqcWp0lpbgLmQGFS"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
-        "name": "Tr\u00f3pico de C\u00e1ncer",
-        "url": "https://open.spotify.com/album/0qeSXx5Y3F5BBiG1NhX3aK"
-      },
-      "artists": [
-        {
-          "name": "Wk",
-          "url": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
-        },
-        {
-          "name": "Zaeg",
-          "url": "https://open.spotify.com/artist/5B2xy7HiCuwck4fIJbLKcQ"
-        }
-      ],
-      "duration_ms": 180166,
-      "name": "Aquellos Que Fui",
-      "url": "https://open.spotify.com/track/4BHEMWjGgQwL3pAAtog75S"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 181765,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "BAD BEHAVIORS",
         "url": "https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV"
       },
@@ -1311,6 +1291,30 @@
       "duration_ms": 190589,
       "name": "BAD BEHAVIORS",
       "url": "https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "Rosas y Serpientes",
+        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 270769,
+      "name": "Rosas y Serpientes",
+      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1339,26 +1343,22 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "Rosas y Serpientes",
-        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
       },
       "artists": [
         {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         },
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 270769,
-      "name": "Rosas y Serpientes",
-      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
+      "duration_ms": 181765,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "Ni Te Pienso",
-        "url": "https://open.spotify.com/album/08wZzamnRwL31CwIGA1ssq"
-      },
-      "artists": [
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "duration_ms": 186350,
-      "name": "Ni Te Pienso",
-      "url": "https://open.spotify.com/track/1DZB8ftk4ZtXykrIhH3lkr"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "Ni Como Amigo",
         "url": "https://open.spotify.com/album/7BE1sMoSk5Fk3Vcu16CUpQ"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 220000,
       "name": "Ni Como Amigo",
       "url": "https://open.spotify.com/track/3IZ77jkPg0wUpZxJBWyRjW"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "Ni Te Pienso",
+        "url": "https://open.spotify.com/album/08wZzamnRwL31CwIGA1ssq"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "duration_ms": 186350,
+      "name": "Ni Te Pienso",
+      "url": "https://open.spotify.com/track/1DZB8ftk4ZtXykrIhH3lkr"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "Sigo Zo\u00f1ando",
-        "url": "https://open.spotify.com/album/5f8yNSQjmOMbR6WcbGqkoi"
-      },
-      "artists": [
-        {
-          "name": "Alak",
-          "url": "https://open.spotify.com/artist/0lnmuoifLjmlIHwd7H5AS1"
-        }
-      ],
-      "duration_ms": 149578,
-      "name": "Sigo Zo\u00f1ando",
-      "url": "https://open.spotify.com/track/1FrLqoMJqg8PhpCZzgvv9K"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "Almanueva",
         "url": "https://open.spotify.com/album/6UsJMFZbhzvWrTDX7vr3pr"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 320250,
       "name": "Somn\u00edfera",
       "url": "https://open.spotify.com/track/26xvDUjGqtWGkiqXQJH2Dy"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "Sigo Zo\u00f1ando",
+        "url": "https://open.spotify.com/album/5f8yNSQjmOMbR6WcbGqkoi"
+      },
+      "artists": [
+        {
+          "name": "Alak",
+          "url": "https://open.spotify.com/artist/0lnmuoifLjmlIHwd7H5AS1"
+        }
+      ],
+      "duration_ms": 149578,
+      "name": "Sigo Zo\u00f1ando",
+      "url": "https://open.spotify.com/track/1FrLqoMJqg8PhpCZzgvv9K"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
+        "name": "Ajena",
+        "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
+      },
+      "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ajena",
+      "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
         "name": "Bajo Sustancias",
         "url": "https://open.spotify.com/album/4IZ4KvcJiBt9M1OddPlG8d"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 210000,
       "name": "Mi Debilidad",
       "url": "https://open.spotify.com/track/3FLNLo5rf6vh20FoHDeLyg"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
-        "name": "Ajena",
-        "url": "https://open.spotify.com/album/3NDt4OnBp1HAdFy0jOEC5t"
-      },
-      "artists": [
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ajena",
-      "url": "https://open.spotify.com/track/5dpCjFHmVk4iuIDHGW7Cv7"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -2055,6 +2055,26 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
+        "name": "Bonita T\u00fa",
+        "url": "https://open.spotify.com/album/7aRFALeZMpcUgCFU90mx7n"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Bonita T\u00fa",
+      "url": "https://open.spotify.com/track/5fWJvFE8OWUDC0mijkUxN1"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
         "name": "Quieres",
         "url": "https://open.spotify.com/album/3u4CFQKwkrcGCCM1VCmXsw"
       },
@@ -2111,26 +2131,6 @@
       "duration_ms": 306000,
       "name": "La Vida Pasa",
       "url": "https://open.spotify.com/track/53BED28TRVZQ9uEGPQL88X"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
-        "name": "Bonita T\u00fa",
-        "url": "https://open.spotify.com/album/7aRFALeZMpcUgCFU90mx7n"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Bonita T\u00fa",
-      "url": "https://open.spotify.com/track/5fWJvFE8OWUDC0mijkUxN1"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "Diez Lunas",
-        "url": "https://open.spotify.com/album/7tXH1gZ0buTRLVCe1y75vC"
-      },
-      "artists": [
-        {
-          "name": "Gordo Fu",
-          "url": "https://open.spotify.com/artist/4gwOZvQmA7iPkCR9gApLFh"
-        }
-      ],
-      "duration_ms": 195115,
-      "name": "Ni de Ti Ni de Nadie",
-      "url": "https://open.spotify.com/track/6dhfCkmjThVA2HmjIg4pXX"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/5PQ6Wuj8cc5FLh9Lk7RZ4o"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 200741,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/5RBSfEU71gXJ7jxfqSbYiR"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "Diez Lunas",
+        "url": "https://open.spotify.com/album/7tXH1gZ0buTRLVCe1y75vC"
+      },
+      "artists": [
+        {
+          "name": "Gordo Fu",
+          "url": "https://open.spotify.com/artist/4gwOZvQmA7iPkCR9gApLFh"
+        }
+      ],
+      "duration_ms": 195115,
+      "name": "Ni de Ti Ni de Nadie",
+      "url": "https://open.spotify.com/track/6dhfCkmjThVA2HmjIg4pXX"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -2539,22 +2539,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "Entend\u00ed",
-        "url": "https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Entend\u00ed",
-      "url": "https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "Nuestro Amor Vol\u00e1til",
         "url": "https://open.spotify.com/album/37c0n3SwXNrs2KXX7qqGEu"
       },
@@ -2567,6 +2551,22 @@
       "duration_ms": 132732,
       "name": "Nuestro Amor Vol\u00e1til",
       "url": "https://open.spotify.com/track/59ycq0jxTFpWC65UWegROp"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "Entend\u00ed",
+        "url": "https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Entend\u00ed",
+      "url": "https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -2867,22 +2867,22 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "Secreto de Dos",
-        "url": "https://open.spotify.com/album/4CiGeQYuRbwlSn1uzNWWOu"
+        "name": "El Hijo de Norma",
+        "url": "https://open.spotify.com/album/5r6ouetFjAMFUOYZIEGAbf"
       },
       "artists": [
         {
-          "name": "Gayo Valdez",
-          "url": "https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo"
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
         },
         {
-          "name": "Abu Barrett",
-          "url": "https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj"
+          "name": "Danny Brasco",
+          "url": "https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Secreto de Dos",
-      "url": "https://open.spotify.com/track/01bwAVAAZqqMpPWmHvbuNC"
+      "duration_ms": 195800,
+      "name": "Monte de Venus",
+      "url": "https://open.spotify.com/track/4A2WGBGMZFZv2wcwmchlKI"
     },
     {
       "added_at": "2024-06-21 06:00:00",
@@ -2907,22 +2907,22 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "El Hijo de Norma",
-        "url": "https://open.spotify.com/album/5r6ouetFjAMFUOYZIEGAbf"
+        "name": "Secreto de Dos",
+        "url": "https://open.spotify.com/album/4CiGeQYuRbwlSn1uzNWWOu"
       },
       "artists": [
         {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+          "name": "Gayo Valdez",
+          "url": "https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo"
         },
         {
-          "name": "Danny Brasco",
-          "url": "https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY"
+          "name": "Abu Barrett",
+          "url": "https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj"
         }
       ],
-      "duration_ms": 195800,
-      "name": "Monte de Venus",
-      "url": "https://open.spotify.com/track/4A2WGBGMZFZv2wcwmchlKI"
+      "duration_ms": 149333,
+      "name": "Secreto de Dos",
+      "url": "https://open.spotify.com/track/01bwAVAAZqqMpPWmHvbuNC"
     },
     {
       "added_at": "2024-06-21 06:00:00",

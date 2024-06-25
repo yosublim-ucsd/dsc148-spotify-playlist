@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,397 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,400 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 28 | [Dreaming About You](https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Replay \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2) | 3:41 |
 | 29 | [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 |
 | 30 | [연 말](https://open.spotify.com/track/5wePQ8qFuBt436u2L8vNbF) | [Churry](https://open.spotify.com/artist/1yhl1Sb604sZDyGavCdPUM) | [연말\(年末\)](https://open.spotify.com/album/71SJFyx6h7UHgL68e5ZHPT) | 1:27 |
-| 31 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
-| 32 | [I say "I love you" again](https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Homecoming](https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d) | 4:47 |
+| 31 | [I say "I love you" again](https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Homecoming](https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d) | 4:47 |
+| 32 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
 | 33 | [Without U](https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [O](https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus) | 3:37 |
 | 34 | [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 |
 | 35 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |

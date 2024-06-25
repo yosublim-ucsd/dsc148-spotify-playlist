@@ -1,6 +1,6 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 2282371,
+  "num_followers": 2282767,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-12 08:35:54",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 196626,
-      "name": "If I Can't",
-      "url": "https://open.spotify.com/track/6mcu7D7QuABVwUGDwovOEh"
-    },
-    {
-      "added_at": "2024-06-12 08:35:54",
-      "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 198026,
       "name": "UK Rap",
       "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
+    },
+    {
+      "added_at": "2024-06-12 08:35:54",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 196626,
+      "name": "If I Can't",
+      "url": "https://open.spotify.com/track/6mcu7D7QuABVwUGDwovOEh"
     },
     {
       "added_at": "2024-06-12 08:35:54",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-06-12 08:35:54",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "Flip A Switch.",
-      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
-    },
-    {
-      "added_at": "2024-06-12 08:35:54",
-      "album": {
         "name": "SUVs (Black on Black)",
         "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+    },
+    {
+      "added_at": "2024-06-12 08:35:54",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "Flip A Switch.",
+      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
     },
     {
       "added_at": "2024-06-12 08:35:54",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-06-12 08:35:54",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
-    },
-    {
-      "added_at": "2024-06-12 08:35:54",
-      "album": {
         "name": "Sleazy Flow (Remix)",
         "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 161355,
       "name": "Sleazy Flow (with Lil Baby) - Remix",
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "added_at": "2024-06-12 08:35:54",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
     },
     {
       "added_at": "2024-06-12 08:35:54",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2024-06-12 08:35:54",
       "album": {
-        "name": "Lil Durk Presents: Loyal Bros 2",
-        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Mad Max",
-      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
-    },
-    {
-      "added_at": "2024-06-12 08:35:54",
-      "album": {
         "name": "JEALOUSY (feat. Cardi B)",
         "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 174466,
       "name": "JEALOUSY (feat. Cardi B)",
       "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
+    },
+    {
+      "added_at": "2024-06-12 08:35:54",
+      "album": {
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Mad Max",
+      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
     },
     {
       "added_at": "2024-06-12 08:35:54",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2024-06-12 08:35:54",
       "album": {
-        "name": "Almost Healed",
-        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 160202,
-      "name": "War Bout It (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD"
-    },
-    {
-      "added_at": "2024-06-12 08:35:54",
-      "album": {
         "name": "Clash (feat. Stormzy)",
         "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 196946,
       "name": "9 5 . s o u t h",
       "url": "https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6"
+    },
+    {
+      "added_at": "2024-06-12 08:35:54",
+      "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 160202,
+      "name": "War Bout It (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4muwDurKeVOB1WBjTVRWlD"
     },
     {
       "added_at": "2024-06-12 08:35:54",

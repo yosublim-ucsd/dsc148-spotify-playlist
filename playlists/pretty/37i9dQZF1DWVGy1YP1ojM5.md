@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,439,180 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,439,057 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 66 | [Ride It](https://open.spotify.com/track/2CFHcnCYe7AGWoxwRdMx70) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Ride It](https://open.spotify.com/album/4vGP301b5kqTeeaeYpsMaM) | 2:18 |
 | 67 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
 | 68 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
-| 69 | [IT'S YOURS](https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:30 |
-| 70 | [A Night Off \(feat\. Lloyd\)](https://open.spotify.com/track/3lkkkYc1wBj5l3FVlpqvP6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:13 |
+| 69 | [A Night Off \(feat\. Lloyd\)](https://open.spotify.com/track/3lkkkYc1wBj5l3FVlpqvP6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:13 |
+| 70 | [IT'S YOURS](https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:30 |
 | 71 | [BPW](https://open.spotify.com/track/6u0JBv5NxVGRrFtJqFLpa7) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:22 |
 | 72 | [Touch It \(Do It Well Pt\. 4\)](https://open.spotify.com/track/7mWB4XFFEKjysQaQzIg9QR) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 4:31 |
-| 73 | [Stingy](https://open.spotify.com/track/6De63WRULDaa1fxOyLilnv) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Senior](https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR) | 4:19 |
-| 74 | [AMBRÉ'S INTERLUDE](https://open.spotify.com/track/3WwvdFw13kO3JF26XCKsGz) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:41 |
-| 75 | [Push It](https://open.spotify.com/track/6p5zh0HCAeE5WkWAxSxjeg) | [TWENTY88](https://open.spotify.com/artist/6g8AmloI8egfrr3dm3SnUL) | [TWENTY88](https://open.spotify.com/album/4gqnsOwnA490OYq58VfJV3) | 2:34 |
+| 73 | [Push It](https://open.spotify.com/track/6p5zh0HCAeE5WkWAxSxjeg) | [TWENTY88](https://open.spotify.com/artist/6g8AmloI8egfrr3dm3SnUL) | [TWENTY88](https://open.spotify.com/album/4gqnsOwnA490OYq58VfJV3) | 2:34 |
+| 74 | [Stingy](https://open.spotify.com/track/6De63WRULDaa1fxOyLilnv) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Senior](https://open.spotify.com/album/3t4OgAvvOzvXw8D2NHUeDR) | 4:19 |
+| 75 | [Touch Me](https://open.spotify.com/track/4U9gm9Icd8rzJoVb8siDED) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:11 |
 
 Snapshot ID: `ZkcIYAAAAAAHci7KE7Ir4Vd5aYgWvtE9`

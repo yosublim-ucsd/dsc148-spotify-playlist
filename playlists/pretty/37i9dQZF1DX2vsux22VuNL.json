@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 289207,
+  "num_followers": 289194,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-06-21 12:18:46",
       "album": {
+        "name": "Acordo Cedo",
+        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
+      },
+      "artists": [
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        }
+      ],
+      "duration_ms": 125186,
+      "name": "Acordo Cedo",
+      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
+    },
+    {
+      "added_at": "2024-06-21 12:18:46",
+      "album": {
         "name": "Desliga",
         "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 167478,
       "name": "Desliga",
       "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
-    },
-    {
-      "added_at": "2024-06-21 12:18:46",
-      "album": {
-        "name": "Acordo Cedo",
-        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
-      },
-      "artists": [
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        }
-      ],
-      "duration_ms": 125186,
-      "name": "Acordo Cedo",
-      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
     },
     {
       "added_at": "2024-06-21 12:18:46",
@@ -1015,30 +1015,6 @@
     {
       "added_at": "2024-06-21 12:18:46",
       "album": {
-        "name": "Meus Olhos",
-        "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 188548,
-      "name": "Meus Olhos",
-      "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
-    },
-    {
-      "added_at": "2024-06-21 12:18:46",
-      "album": {
         "name": "Inverso Deluxe",
         "url": "https://open.spotify.com/album/3nFMC9ymV5tTd0AWBL5XJT"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 127631,
       "name": "Plano B",
       "url": "https://open.spotify.com/track/5HRh0H2ysMXXMwupxIYlzu"
+    },
+    {
+      "added_at": "2024-06-21 12:18:46",
+      "album": {
+        "name": "Meus Olhos",
+        "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 188548,
+      "name": "Meus Olhos",
+      "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
     },
     {
       "added_at": "2024-06-21 12:18:46",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2024-06-21 12:18:46",
       "album": {
+        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
+    },
+    {
+      "added_at": "2024-06-21 12:18:46",
+      "album": {
         "name": "ele diz que me ama s2",
         "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
       },
@@ -1483,6 +1503,42 @@
     {
       "added_at": "2024-06-21 12:18:46",
       "album": {
+        "name": "Sonho Brasil 2004",
+        "url": "https://open.spotify.com/album/14az9aDCQ6UXStkLVsoNg4"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "duration_ms": 179825,
+      "name": "Sonho Brasil 2004",
+      "url": "https://open.spotify.com/track/6SidWa3wQNI5SpaWdRM8vA"
+    },
+    {
+      "added_at": "2024-06-21 12:18:46",
+      "album": {
+        "name": "O Que Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "O Que Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
+    },
+    {
+      "added_at": "2024-06-21 12:18:46",
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz"
       },
@@ -1511,46 +1567,6 @@
     {
       "added_at": "2024-06-21 12:18:46",
       "album": {
-        "name": "Risco de se Apaixonar",
-        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
-      },
-      "artists": [
-        {
-          "name": "Marcello Melo Jr.",
-          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
-        },
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Risco de se Apaixonar",
-      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
-    },
-    {
-      "added_at": "2024-06-21 12:18:46",
-      "album": {
-        "name": "O Que Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "O Que Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
-    },
-    {
-      "added_at": "2024-06-21 12:18:46",
-      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1575,18 +1591,22 @@
     {
       "added_at": "2024-06-21 12:18:46",
       "album": {
-        "name": "Sonho Brasil 2004",
-        "url": "https://open.spotify.com/album/14az9aDCQ6UXStkLVsoNg4"
+        "name": "Risco de se Apaixonar",
+        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
       },
       "artists": [
         {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+          "name": "Marcello Melo Jr.",
+          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
+        },
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
         }
       ],
-      "duration_ms": 179825,
-      "name": "Sonho Brasil 2004",
-      "url": "https://open.spotify.com/track/6SidWa3wQNI5SpaWdRM8vA"
+      "duration_ms": 141130,
+      "name": "Risco de se Apaixonar",
+      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
     },
     {
       "added_at": "2024-06-21 12:18:46",
@@ -1607,26 +1627,6 @@
       "duration_ms": 225587,
       "name": "Aquariana",
       "url": "https://open.spotify.com/track/4WZ3yYuXMTNZZZ7UMQiDXF"
-    },
-    {
-      "added_at": "2024-06-21 12:18:46",
-      "album": {
-        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
-      },
-      "artists": [
-        {
-          "name": "Rafael Mike",
-          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
-        },
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
     },
     {
       "added_at": "2024-06-21 12:18:46",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-06-21 12:18:46",
       "album": {
-        "name": "O Que a Levada Pede",
-        "url": "https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg"
-      },
-      "artists": [
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
-        }
-      ],
-      "duration_ms": 127452,
-      "name": "O Que a Levada Pede",
-      "url": "https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym"
-    },
-    {
-      "added_at": "2024-06-21 12:18:46",
-      "album": {
         "name": "AINDA T\u00d4 NO PROCESSO",
         "url": "https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN"
       },
@@ -1707,6 +1691,42 @@
       "duration_ms": 211647,
       "name": "AINDA T\u00d4 NO PROCESSO",
       "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
+    },
+    {
+      "added_at": "2024-06-21 12:18:46",
+      "album": {
+        "name": "O Que a Levada Pede",
+        "url": "https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg"
+      },
+      "artists": [
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
+        }
+      ],
+      "duration_ms": 127452,
+      "name": "O Que a Levada Pede",
+      "url": "https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym"
+    },
+    {
+      "added_at": "2024-06-21 12:18:46",
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/3GvbxHizeLdikCDuDJ29LB"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Priscila Tossan",
+          "url": "https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/42A4y8cnvDMh18i22aXQH7"
     },
     {
       "added_at": "2024-06-21 12:18:46",
@@ -1759,26 +1779,6 @@
       "duration_ms": 170624,
       "name": "Esquinas",
       "url": "https://open.spotify.com/track/2vM7KedJNklwp8u2VF5myh"
-    },
-    {
-      "added_at": "2024-06-21 12:18:46",
-      "album": {
-        "name": "Boom",
-        "url": "https://open.spotify.com/album/3GvbxHizeLdikCDuDJ29LB"
-      },
-      "artists": [
-        {
-          "name": "Rafael Mike",
-          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
-        },
-        {
-          "name": "Priscila Tossan",
-          "url": "https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/42A4y8cnvDMh18i22aXQH7"
     },
     {
       "added_at": "2024-06-21 12:18:46",

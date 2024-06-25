@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,635 songs - 4 day 16 hr 23 min
+1,636 songs - 4 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,6 +979,7 @@
 | [My House \- Chill Mix](https://open.spotify.com/track/0TVMVtaGg7KUqWGlI9zwjs) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [My House \(Chill Mix\)](https://open.spotify.com/album/4qZo3KMdvmsQNbtCsu3OcK) | 2:58 | 2020-08-06 | 2020-10-09 |
 | [My Kick](https://open.spotify.com/track/2RDiFlBlx0Df7YRfSDsmm0) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [The Element](https://open.spotify.com/artist/4G1P9jyp1Qqj3NONg6zyuQ) | [My Kick](https://open.spotify.com/album/2ozuxSRKkk1v0nRo3nN40L) | 2:50 | 2020-05-18 | 2020-07-18 |
 | [My Life](https://open.spotify.com/track/2NDZ6i6UfOUSKgFiTQKbnv) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [My Life](https://open.spotify.com/album/7mjgGNr0d9YXywp7luOqHh) | 4:54 | 2020-05-18 | 2020-07-18 |
+| [My Reflection](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [My Reflection](https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT) | 4:17 | 2024-06-21 |  |
 | [MYNE \- Soft Glas Rework](https://open.spotify.com/track/2U35pJsZkXx1Y0dC5T8kXh) | [Treasure Fingers](https://open.spotify.com/artist/1VSDqOs1FRDB05PwZpjHHU), [BOSCO](https://open.spotify.com/artist/1A4fV156Nn6rWIE8jk5ZpT), [Soft Glas](https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0) | [MYNE Remixes](https://open.spotify.com/album/0D7JeQgirMhI2cSnnLksPk) | 4:13 | 2020-05-20 | 2020-07-03 |
 | [Mystery](https://open.spotify.com/track/0X852h1EwdywAiTkrpRZCa) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Mystery](https://open.spotify.com/album/7t9Y9ksPIiOF1as3ZqWTPf) | 4:45 | 2020-03-20 | 2020-07-18 |
 | [Mystery](https://open.spotify.com/track/69ZdNv7ophVx0sS7Lhmwqt) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Mystery](https://open.spotify.com/album/7j2TldeDQMgDf2Sul1pHIN) | 3:29 | 2020-05-18 | 2020-07-18 |
@@ -1240,7 +1241,7 @@
 | [Seasons](https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy) | [Seasons](https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO) | 2:33 | 2023-02-24 | 2024-03-02 |
 | [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 | 2024-05-31 |  |
 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 | 2023-02-17 | 2024-03-23 |
-| [See You In Dreams](https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [See You In Dreams](https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz) | 4:31 | 2024-06-21 |  |
+| [See You In Dreams](https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [See You In Dreams](https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz) | 4:31 | 2024-06-21 | 2024-06-25 |
 | [Seeker](https://open.spotify.com/track/6weYVdQPXtbS7CjdCdBgZs) | [Dual Manner](https://open.spotify.com/artist/5PwyPUA68oTVythcReHzXy) | [Seeker](https://open.spotify.com/album/4keAjNKZJURwQIgMIkzthP) | 4:57 | 2020-07-18 | 2020-10-09 |
 | [self\-love](https://open.spotify.com/track/20Qufms0u6e9mHprf81SzX) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/0OVyWmEdWlSrG2EcbkXjt4) | 2:23 | 2021-03-10 | 2021-06-19 |
 | [Sentir](https://open.spotify.com/track/5xb2vxUeGJ7Yeclvfaq1O8) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Temporary Love](https://open.spotify.com/album/3CqVFoJ77PdxzkiXxm8gjG) | 2:20 | 2021-11-12 | 2022-12-29 |

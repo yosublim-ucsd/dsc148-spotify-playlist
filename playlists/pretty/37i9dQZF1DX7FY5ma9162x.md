@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 
 > The tracks you can put on repeat all day\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,780 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,869 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 | 19 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
 | 20 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 |
 | 21 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
-| 22 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
-| 23 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 |
+| 22 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 |
+| 23 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
 | 24 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 |
 | 25 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 |
 | 26 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 | 38 | [Could've Been \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:12 |
 | 39 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 |
 | 40 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 |
-| 41 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
-| 42 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 |
+| 41 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 |
+| 42 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
 | 43 | [Navajo](https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Navajo](https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL) | 3:14 |
 | 44 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 |
 | 45 | [JACKIE BROWN](https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:49 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 301049,
+  "description": "This Is Luis R Conriquez. Los temas esenciales, todos en una lista.",
+  "num_followers": 301370,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAAr/EHCZgr81b3oKvi//kYT",
+  "snapshot_id": "ZndlgAAAAAAR5TYtZUAvICgKdAwU+aEt",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "SR. SMITH",
+      "url": "https://open.spotify.com/track/1qrhpxdnC4nUCyFefPVCDa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
         "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 153557,
       "name": "BELIKON",
       "url": "https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "SR. SMITH",
-      "url": "https://open.spotify.com/track/1qrhpxdnC4nUCyFefPVCDa"
     },
     {
       "added_at": null,

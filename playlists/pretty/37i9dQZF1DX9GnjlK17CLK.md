@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,360 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,467 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 24 | [I Can't Quit You, Baby](https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 6:40 |
 | 25 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 |
 | 26 | [No Good](https://open.spotify.com/track/1YAqMv5kabudsXnTrCj9KL) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:35 |
-| 27 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
+| 27 | [Shame, Shame, Shame](https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:49 |
 | 28 | [Red House](https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 3:43 |
-| 29 | [Shame, Shame, Shame](https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:49 |
+| 29 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
 | 30 | [Rollin' Stone](https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:07 |
 | 31 | [The Sky Is Crying](https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Moneymaker: The Best of the Fire Sessions](https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj) | 2:46 |
 | 32 | [Spoonful](https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 4:55 |

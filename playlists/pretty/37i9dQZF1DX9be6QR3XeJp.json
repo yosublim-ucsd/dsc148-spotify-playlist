@@ -1,13 +1,29 @@
 {
-  "description": "Discover your new favourite artists from UK&IE. Cover: oSHAMO",
-  "num_followers": 118448,
+  "description": "Discover your new favourite artists from UK&IE. Cover: Melle Brown",
+  "num_followers": 118445,
   "original_name": "RADAR UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmt58AAAAABf7TE3zAT5+wvcCRMAM0Mj",
+  "snapshot_id": "ZnmRPgAAAAAxXhiC+IWsqkCKTOIhIgCw",
   "tracks": [
+    {
+      "added_at": "2024-06-24 15:31:10",
+      "album": {
+        "name": "All The Mels",
+        "url": "https://open.spotify.com/album/3YGiEYfrVpzFeL8ea6GYc8"
+      },
+      "artists": [
+        {
+          "name": "Melle Brown",
+          "url": "https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e"
+        }
+      ],
+      "duration_ms": 271736,
+      "name": "All The Mels",
+      "url": "https://open.spotify.com/track/1d2NuaC27YWPW7gPcZxSJe"
+    },
     {
       "added_at": "2024-06-13 23:00:00",
       "album": {

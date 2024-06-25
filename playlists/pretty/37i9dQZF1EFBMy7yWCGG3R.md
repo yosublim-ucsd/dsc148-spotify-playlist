@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,296 likes - 242 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,295 likes - 242 songs - 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,11 +193,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 183 | [needy](https://open.spotify.com/track/1pF52VPPTgPeBzOjg3PyjH) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:11 |
 | 184 | [Work Too Much](https://open.spotify.com/track/508FoYYfy1YjC6ZVUMctZJ) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:17 |
 | 185 | [Give In To You](https://open.spotify.com/track/3JXB1YiJIwGkTeGdgYVFWR) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:23 |
-| 186 | [Area Code](https://open.spotify.com/track/32IiIVnt5emxQNPDm6ZsgO) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas X2](https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei) | 2:41 |
-| 187 | [Ego Talking](https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:23 |
+| 186 | [Ego Talking](https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:23 |
+| 187 | [Area Code](https://open.spotify.com/track/32IiIVnt5emxQNPDm6ZsgO) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas X2](https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei) | 2:41 |
 | 188 | [Irresponsible](https://open.spotify.com/track/6k4BQUICZhtVxhK0pHTfkf) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:43 |
-| 189 | [Gemini](https://open.spotify.com/track/4GuGKnfpF047w9l4rylspG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 4:09 |
-| 190 | [Pessimist](https://open.spotify.com/track/5YAkSJQDoAPx0zGgo8vHU2) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:17 |
+| 189 | [Pessimist](https://open.spotify.com/track/5YAkSJQDoAPx0zGgo8vHU2) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:17 |
+| 190 | [Gemini](https://open.spotify.com/track/4GuGKnfpF047w9l4rylspG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 4:09 |
 | 191 | [Walk My Way \- The Voice Performance](https://open.spotify.com/track/3PepA0VP8gOn10KJyXL7A9) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [The Complete Season 14 Collection \(The Voice Performance\)](https://open.spotify.com/album/2GzNWOKPQPQgWd3AibCZsk) | 3:39 |
 | 192 | [Words](https://open.spotify.com/track/49uVH18E8TveD5iSGyhZS5) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Wonderland](https://open.spotify.com/album/2vMjiqNP4eulgUhHaOA2Tc) | 3:38 |
 | 193 | [childhood bedroom](https://open.spotify.com/track/3GndP4EReJb9DdA4ByUZeF) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:17 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 241 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 242 | [It's Not You](https://open.spotify.com/track/4Bs02m3Wc1B3CAyNQPzTjQ) | [Michael Reiser](https://open.spotify.com/artist/1j8LcBs60GqvQuleshFkhw) | [Quiet Moon](https://open.spotify.com/album/2f1yMMxCo13pt6Ao1ZXyBJ) | 3:33 |
 
-Snapshot ID: `AbU2wgAAAAAUo2PiRIcsN0DdaLxPjFmX`
+Snapshot ID: `AbU8ngAAAAA2p+RoAdJYpmmHz73xiLQT`

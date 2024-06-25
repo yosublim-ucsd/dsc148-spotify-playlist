@@ -1,6 +1,6 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 732191,
+  "num_followers": 732206,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "It Aint me (Acoustic)",
         "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
       },
@@ -851,22 +835,6 @@
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Sinking Ship / Back & Forth",
-        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sinking Ship",
-      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -887,6 +855,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "Sinking Ship / Back & Forth",
+        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Alas I Cannot Swim",
         "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 179960,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Running Up That Hill - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
+        "name": "Between Two Shores",
+        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 236493,
-      "name": "Running Up That Hill - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo"
+      "duration_ms": 183293,
+      "name": "Why Woman",
+      "url": "https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1131,22 +1147,6 @@
       "duration_ms": 233488,
       "name": "I'm the One - Acoustic",
       "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Between Two Shores",
-        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Why Woman",
-      "url": "https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 309590,
-      "name": "Howling",
-      "url": "https://open.spotify.com/track/34hMOtKwf5nm8tjvkGV0Dk"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "The Best Of Leonard Cohen",
         "url": "https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 227200,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 309590,
+      "name": "Howling",
+      "url": "https://open.spotify.com/track/34hMOtKwf5nm8tjvkGV0Dk"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "There's Nothing Holdin Me Back",
-        "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
-      },
-      "artists": [
-        {
-          "name": "Q.Z.B",
-          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
-        }
-      ],
-      "duration_ms": 199419,
-      "name": "There's Nothing Holdin Me Back",
-      "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/1AwOiNVDcnyX4YAcvNecvd"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 327469,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/5dRy520QssuzpqsPOVrgJF"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "There's Nothing Holdin Me Back",
+        "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
+      },
+      "artists": [
+        {
+          "name": "Q.Z.B",
+          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
+        }
+      ],
+      "duration_ms": 199419,
+      "name": "There's Nothing Holdin Me Back",
+      "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "On the Train Ride Home",
-        "url": "https://open.spotify.com/album/6duA0UIIY1jSYqSPYgOHnX"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "On the Train Ride Home",
-      "url": "https://open.spotify.com/track/5Gg8XlEKwLlTbvYYdjseuT"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Here Comes the Sun",
         "url": "https://open.spotify.com/album/2u9dIQrLiknn6w9hekqAzZ"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 189912,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/4kfVBnKKIpKl2tHP7uzLTf"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "On the Train Ride Home",
+        "url": "https://open.spotify.com/album/6duA0UIIY1jSYqSPYgOHnX"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "On the Train Ride Home",
+      "url": "https://open.spotify.com/track/5Gg8XlEKwLlTbvYYdjseuT"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
-        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0mkUbYiN1ECBGabxm70DeM"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 314600,
       "name": "Bis ans Ende der Welt - Live from Spotify Berlin",
       "url": "https://open.spotify.com/track/0egwOcbUz6RfbTHKASdf2W"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
+        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/2j80e8guCnpYphNJW8hSaX"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 239080,
       "name": "No One's Gonna Love You - Live from Spotify Sweden",
       "url": "https://open.spotify.com/track/5MYfpFJYm8WNFGssR6H2Oz"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "Older Chests",
+      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
         }
       ],
-      "duration_ms": 286400,
-      "name": "Older Chests",
-      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2027,18 +2027,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Where We Belong - EP",
-        "url": "https://open.spotify.com/album/7bdk7rFPU8nwQ9mhhNMTfs"
+        "name": "Husky Voice",
+        "url": "https://open.spotify.com/album/7mDOkSTNjln0QDZGOUcBeO"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+          "name": "HuskyMe",
+          "url": "https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM"
         }
       ],
-      "duration_ms": 187291,
-      "name": "I'm a Man",
-      "url": "https://open.spotify.com/track/5HubAbRqLMYGp5vV7dPOy5"
+      "duration_ms": 215832,
+      "name": "Husky Voice",
+      "url": "https://open.spotify.com/track/6sMvtfKcvWB2e7QBRWJXcF"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Husky Voice",
-        "url": "https://open.spotify.com/album/7mDOkSTNjln0QDZGOUcBeO"
+        "name": "Where We Belong - EP",
+        "url": "https://open.spotify.com/album/7bdk7rFPU8nwQ9mhhNMTfs"
       },
       "artists": [
         {
-          "name": "HuskyMe",
-          "url": "https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM"
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
         }
       ],
-      "duration_ms": 215832,
-      "name": "Husky Voice",
-      "url": "https://open.spotify.com/track/6sMvtfKcvWB2e7QBRWJXcF"
+      "duration_ms": 187291,
+      "name": "I'm a Man",
+      "url": "https://open.spotify.com/track/5HubAbRqLMYGp5vV7dPOy5"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "White Picket Fence",
-        "url": "https://open.spotify.com/album/5jrqcyn10tqcY8ldTz1hWG"
-      },
-      "artists": [
-        {
-          "name": "Fiona Harte",
-          "url": "https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs"
-        }
-      ],
-      "duration_ms": 245342,
-      "name": "White Picket Fence",
-      "url": "https://open.spotify.com/track/3R55JILwSML3YrB1kC4WJb"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Smoke Signals",
         "url": "https://open.spotify.com/album/1w9WtNiTCjd5TNMPXebOSW"
       },
@@ -2135,6 +2119,38 @@
       "duration_ms": 201280,
       "name": "Smoke Signals",
       "url": "https://open.spotify.com/track/1j0ERvVFvw6Rj08mC1JzRC"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Camouflage",
+        "url": "https://open.spotify.com/album/2CEFo9dXL22keGYMp7r1i0"
+      },
+      "artists": [
+        {
+          "name": "HuskyMe",
+          "url": "https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM"
+        }
+      ],
+      "duration_ms": 192012,
+      "name": "Camouflage",
+      "url": "https://open.spotify.com/track/3UqQROifRGAOIMZ8Gbrau9"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "White Picket Fence",
+        "url": "https://open.spotify.com/album/5jrqcyn10tqcY8ldTz1hWG"
+      },
+      "artists": [
+        {
+          "name": "Fiona Harte",
+          "url": "https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs"
+        }
+      ],
+      "duration_ms": 245342,
+      "name": "White Picket Fence",
+      "url": "https://open.spotify.com/track/3R55JILwSML3YrB1kC4WJb"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2183,22 +2199,6 @@
       "duration_ms": 312293,
       "name": "Lady Divine",
       "url": "https://open.spotify.com/track/6ApwZihCRa4tSxasbH0fxH"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Camouflage",
-        "url": "https://open.spotify.com/album/2CEFo9dXL22keGYMp7r1i0"
-      },
-      "artists": [
-        {
-          "name": "HuskyMe",
-          "url": "https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM"
-        }
-      ],
-      "duration_ms": 192012,
-      "name": "Camouflage",
-      "url": "https://open.spotify.com/track/3UqQROifRGAOIMZ8Gbrau9"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2427,18 +2427,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+        "name": "Starbuck",
+        "url": "https://open.spotify.com/album/1g7udubqWRyGQpsd01TArC"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "Petula",
+          "url": "https://open.spotify.com/artist/1MrClFtBKno2QUEerDxm4J"
         }
       ],
-      "duration_ms": 189799,
-      "name": "The Partisan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
+      "duration_ms": 134795,
+      "name": "Starbuck",
+      "url": "https://open.spotify.com/track/5UKwcsu3N0XE4pYlbqywUc"
     }
   ],
   "unique_name": "Kaffeehausmusik",

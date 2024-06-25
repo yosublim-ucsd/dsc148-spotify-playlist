@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "This is Dominic Fike\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
   "name": "This Is Dominic Fike",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 76480,
       "name": "Dominic\u2019s Interlude",
       "url": "https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,893 likes - 189 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,948 likes - 189 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125935,
+  "num_followers": 125933,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASjyOGi6kNDkxy4arV9F4662EmDZ7Z",
+  "snapshot_id": "AAASkMuq7lkpyiBziSdq8nQ2pQGRgSxh",
   "tracks": [
+    {
+      "added_at": "2024-06-24 17:05:19",
+      "album": {
+        "name": "Gravitation",
+        "url": "https://open.spotify.com/album/4h9oOOppG73HKl0d9WX6hM"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        },
+        {
+          "name": "Asketa",
+          "url": "https://open.spotify.com/artist/2rJlTPC0ClcoQmNWci4C03"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "Gravitation",
+      "url": "https://open.spotify.com/track/596eZCTayPzpFxydrFRWvH"
+    },
     {
       "added_at": "2024-06-21 14:30:00",
       "album": {

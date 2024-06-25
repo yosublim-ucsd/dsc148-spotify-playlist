@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Killen. & Oaks",
-  "num_followers": 777717,
+  "num_followers": 777773,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "CHROMA 001",
-        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 287447,
-      "name": "CHROMA 001 HELIUM",
-      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Counting (Sammy Virji Remix)",
         "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
       },
@@ -1015,22 +999,34 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
+        "name": "CHROMA 001",
+        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
       },
       "artists": [
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 210937,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
+      "duration_ms": 287447,
+      "name": "CHROMA 001 HELIUM",
+      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/6i7asWf24BRupGASEkCDxQ"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/28KtJI5NRoDCAYTK6FdBsE"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1055,18 +1051,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/6i7asWf24BRupGASEkCDxQ"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
       },
       "artists": [
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 146865,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/28KtJI5NRoDCAYTK6FdBsE"
+      "duration_ms": 210937,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Thinkin About",
-        "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
-      },
-      "artists": [
-        {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
-        },
-        {
-          "name": "Lee Mvtthews",
-          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "Thinkin About",
-      "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Leave Me Like This",
         "url": "https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 188571,
       "name": "Leave Me Like This",
       "url": "https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Thinkin About",
+        "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
+      },
+      "artists": [
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "Thinkin About",
+      "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Livingston Crain",
-          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Talking Too Much",
         "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 234666,
       "name": "Talking Too Much",
       "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "LOST WITH U",
-        "url": "https://open.spotify.com/album/0aBNGuelsRj7vj2IPHpPln"
-      },
-      "artists": [
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        },
-        {
-          "name": "Brody Leigh",
-          "url": "https://open.spotify.com/artist/1zGoUA3v41GWPM64amPniZ"
-        }
-      ],
-      "duration_ms": 188372,
-      "name": "LOST WITH U",
-      "url": "https://open.spotify.com/track/760tQeMBJJozLOd5mMJSbC"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "GLOW (feat. Au/Ra)",
         "url": "https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 150225,
       "name": "GLOW (feat. Au/Ra)",
       "url": "https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "LOST WITH U",
+        "url": "https://open.spotify.com/album/0aBNGuelsRj7vj2IPHpPln"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        },
+        {
+          "name": "Brody Leigh",
+          "url": "https://open.spotify.com/artist/1zGoUA3v41GWPM64amPniZ"
+        }
+      ],
+      "duration_ms": 188372,
+      "name": "LOST WITH U",
+      "url": "https://open.spotify.com/track/760tQeMBJJozLOd5mMJSbC"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng"
-      },
-      "artists": [
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        },
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 164451,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Do You Want Me",
         "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
       },
@@ -1515,38 +1495,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2"
-      },
-      "artists": [
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 156004,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Before Me",
-        "url": "https://open.spotify.com/album/7oFKLQrShF4RIBYvrwMFlR"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 173946,
-      "name": "Before Me",
-      "url": "https://open.spotify.com/track/6DdAVeZFL7bsuL37B40nQR"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "BRING BACK THE COLOR (feat. AURORA)",
         "url": "https://open.spotify.com/album/5F3hrGQ5xXSg7ZxNvvDUxo"
       },
@@ -1563,6 +1511,42 @@
       "duration_ms": 168545,
       "name": "BRING BACK THE COLOR (feat. AURORA)",
       "url": "https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 164451,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 156004,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1595,6 +1579,22 @@
       "duration_ms": 201866,
       "name": "iwaly",
       "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Before Me",
+        "url": "https://open.spotify.com/album/7oFKLQrShF4RIBYvrwMFlR"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 173946,
+      "name": "Before Me",
+      "url": "https://open.spotify.com/track/6DdAVeZFL7bsuL37B40nQR"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Spaceman (ft. RIZ LA VIE)",
         "url": "https://open.spotify.com/album/2WYjahILyeTDaKKkSUh7I8"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 179104,
       "name": "Spaceman (ft. RIZ LA VIE)",
       "url": "https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Out Of Options (feat. midwxst)",
-        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Out Of Options (feat. midwxst)",
-      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
     },
     {
       "added_at": "2024-06-20 22:00:00",

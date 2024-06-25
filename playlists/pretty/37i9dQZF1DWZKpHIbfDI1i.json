@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Christian Nodal en portada.",
-  "num_followers": 677920,
+  "num_followers": 678060,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -575,26 +575,6 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
-        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
-        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 155888,
-      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
-      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
-    },
-    {
-      "added_at": "2024-05-31 16:45:08",
-      "album": {
         "name": "Perdonarte, \u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 193933,
       "name": "Perdonarte, \u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4"
+    },
+    {
+      "added_at": "2024-05-31 16:45:08",
+      "album": {
+        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 155888,
+      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
     },
     {
       "added_at": "2024-05-31 16:45:08",
@@ -935,6 +935,26 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
+        "name": "Mi Morenita",
+        "url": "https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "JPL",
+          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
+        }
+      ],
+      "duration_ms": 149450,
+      "name": "Mi Morenita",
+      "url": "https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt"
+    },
+    {
+      "added_at": "2024-05-31 16:45:08",
+      "album": {
         "name": "J\u00e1lale alv",
         "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
-    },
-    {
-      "added_at": "2024-05-31 16:45:08",
-      "album": {
-        "name": "Mi Morenita",
-        "url": "https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "JPL",
-          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
-        }
-      ],
-      "duration_ms": 149450,
-      "name": "Mi Morenita",
-      "url": "https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt"
     },
     {
       "added_at": "2024-05-31 16:45:08",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
+        "name": "No Mastico Culebras",
+        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 134975,
+      "name": "No Mastico Culebras",
+      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
+    },
+    {
+      "added_at": "2024-05-31 16:45:08",
+      "album": {
         "name": "G Low Kitty (Remix)",
         "url": "https://open.spotify.com/album/5HdE72l91YCqPtlMx7YPHD"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 279990,
       "name": "G Low Kitty - Remix",
       "url": "https://open.spotify.com/track/5J2pn2fzrIp7CT0IHLlgQ7"
-    },
-    {
-      "added_at": "2024-05-31 16:45:08",
-      "album": {
-        "name": "No Mastico Culebras",
-        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 134975,
-      "name": "No Mastico Culebras",
-      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
     },
     {
       "added_at": "2024-05-31 16:45:08",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
+        "name": "Si La Mami",
+        "url": "https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Brand Randall",
+          "url": "https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "Si La Mami",
+      "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
+    },
+    {
+      "added_at": "2024-05-31 16:45:08",
+      "album": {
         "name": "2 Pa 2",
         "url": "https://open.spotify.com/album/0LKAvwu5l8qjdnpOYJis1s"
       },
@@ -1467,22 +1487,6 @@
       "duration_ms": 177000,
       "name": "ALV - Remix",
       "url": "https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz"
-    },
-    {
-      "added_at": "2024-05-31 16:45:08",
-      "album": {
-        "name": "DELTAS",
-        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DELTAS",
-      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
     }
   ],
   "unique_name": "Top M\u00e9xico",

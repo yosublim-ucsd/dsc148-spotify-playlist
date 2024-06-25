@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,477 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,572 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 49 | [Knock Knock](https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Deppz](https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2) | [Knock Knock](https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2) | 3:18 |
 | 50 | [Dapper](https://open.spotify.com/track/3OzAvvApHy9PT6oHcYMRYG) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Cleva Thoughts](https://open.spotify.com/artist/4J6nDeOpnphiMzFMXjLNrs) | [Dapper](https://open.spotify.com/album/2DMFSPlw8u2uqDC3YuHFXj) | 2:52 |
 | 51 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
-| 52 | [STUCK ON U](https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [BABE?](https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi) | 3:30 |
-| 53 | [Misfit](https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Ikebana \- EP](https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK) | 3:46 |
+| 52 | [Misfit](https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Ikebana \- EP](https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK) | 3:46 |
+| 53 | [STUCK ON U](https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [BABE?](https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi) | 3:30 |
 | 54 | [Want \(ur body\)](https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Want \(ur body\)](https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts) | 4:34 |
 | 55 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
 | 56 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |

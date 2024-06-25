@@ -2,7 +2,7 @@
 
 ### [This Is The Black Keys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4m87u0)
 
-> This Is The Black Keys\. Los temas esenciales, todos en una lista.
+> This is The Black Keys\. The essential tracks, all in one playlist.
 
 106 songs - 6 hr 13 min
 
@@ -32,7 +32,7 @@
 | [Get Yourself Together](https://open.spotify.com/track/4AjBIRQNZDDVB0MrGlQHvB) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:56 | 2024-05-27 |  |
 | [Girl Is on My Mind](https://open.spotify.com/track/4KVYCdoWmDa4KS1OY6sgMa) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 3:28 | 2022-01-11 | 2023-04-19 |
 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 | 2022-01-11 |  |
-| [Going Down South](https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:48 | 2022-01-11 |  |
+| [Going Down South](https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:48 | 2022-01-11 | 2024-06-25 |
 | [Gold on the Ceiling](https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:44 | 2022-01-11 |  |
 | [Good Love \(feat\. Billy F Gibbons\)](https://open.spotify.com/track/49Mvj8Ohz1uu0AcZ7Ri70Z) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:37 | 2022-05-14 |  |
 | [Gotta Get Away](https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:00 | 2022-01-11 |  |
@@ -77,7 +77,7 @@
 | [On The Game](https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 4:02 | 2024-04-07 |  |
 | [Only Love Matters](https://open.spotify.com/track/1SA1S31wud6Qoq8rxkqbSt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:22 | 2024-04-07 |  |
 | [Please Me \(Till I’m Satisfied\)](https://open.spotify.com/track/6oY3tlZD6KcO05knDAsZYu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:44 | 2024-04-07 | 2024-05-03 |
-| [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 | 2022-01-11 | 2024-06-19 |
+| [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 | 2022-01-11 |  |
 | [Psychotic Girl](https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 4:10 | 2022-01-11 |  |
 | [Read Em And Weep](https://open.spotify.com/track/7k9ggvboitGpFmfBJtjeqG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:23 | 2024-04-07 | 2024-04-08 |
 | [Run Right Back](https://open.spotify.com/track/5HgAZuHFAU5qLLMYuIQkgq) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:17 | 2022-01-11 |  |

@@ -1,6 +1,6 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4247830,
+  "num_followers": 4247742,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-05-22 12:00:00",
       "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "One, Two Step (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
-    },
-    {
-      "added_at": "2024-05-22 12:00:00",
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 180434,
       "name": "Ballin' (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+    },
+    {
+      "added_at": "2024-05-22 12:00:00",
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 203786,
+      "name": "One, Two Step (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
     },
     {
       "added_at": "2024-05-22 12:00:00",

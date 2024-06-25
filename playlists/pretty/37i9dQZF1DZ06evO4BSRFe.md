@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,623 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,641 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 29 | [Motivos](https://open.spotify.com/track/65lfzguWycfHortBjpZAwr) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:08 |
 | 30 | [Besando borrachos](https://open.spotify.com/track/44kod3HVpNIvakBmRd0Lvb) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:40 |
 | 31 | [Usted](https://open.spotify.com/track/4jUwjtLbWMKG3vwUDiEADY) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 2:52 |
-| 32 | [La roncona](https://open.spotify.com/track/2Y5Um0Bzz2aZCOhzL50wr5) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Me llamo Raquel](https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu) | 3:07 |
-| 33 | [El bilingüe](https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:15 |
+| 32 | [El bilingüe](https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:15 |
+| 33 | [La roncona](https://open.spotify.com/track/2Y5Um0Bzz2aZCOhzL50wr5) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Me llamo Raquel](https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu) | 3:07 |
 | 34 | [El puchoncito](https://open.spotify.com/track/1kwKUM2BG2Myfj7FmImZEU) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:38 |
 | 35 | [Vivir sin ella](https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv) | 3:51 |
 | 36 | [Tu otro dios \- Tu dios de poder](https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 49 | [A Capa Y Espada](https://open.spotify.com/track/2270JBx0iahesyJZAGzAuN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [A Capa Y Espada](https://open.spotify.com/album/1TvAyYwsIzIn1SNaYB2tTy) | 4:31 |
 | 50 | [Te Lavaste la Cara y el Mono No \(El Mono de Marciana\)](https://open.spotify.com/track/6oJBFXFuovJM9bYyIWf9QH) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Estás Seleccionada](https://open.spotify.com/album/3ZVscmJ2sG4GsR7ymRSKO7) | 2:56 |
 
-Snapshot ID: `ZnYUAAAAAADGxWlFnOkn5NUIdiH3DNz3`
+Snapshot ID: `ZndlgAAAAAAoi+3japVWclK+jg0FwoOz`

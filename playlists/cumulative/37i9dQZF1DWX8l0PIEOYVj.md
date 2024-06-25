@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: CloZee and LSDREAM
 
-596 songs - 1 day 11 hr 46 min
+597 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Diamonds](https://open.spotify.com/track/5fysRiR2y8RkSSqj9SjAuL) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP), [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Diamonds](https://open.spotify.com/album/4HFJTH30eKuikl7GaQrIcq) | 4:24 | 2022-10-14 | 2022-12-08 |
 | [Did You Really?](https://open.spotify.com/track/75WtlfvvdmR1GWdaA6oZ6d) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Freja](https://open.spotify.com/artist/7rmUZLn14Yu6epkCEPGcVd) | [Did You Really?](https://open.spotify.com/album/4q7t6ig8158vrciDDJZUCk) | 3:20 | 2023-04-07 |  |
 | [die 4 u](https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU) | [die 4 u](https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8) | 2:54 | 2022-11-11 |  |
+| [Different Future](https://open.spotify.com/track/266xopBiawptt9tviXJLlg) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Liu Bei](https://open.spotify.com/artist/5g8huPwwthukeiOFPFfvJ8), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Different Future](https://open.spotify.com/album/2uBUb7Fs1UDBVAkuQItRxf) | 3:24 | 2024-06-21 |  |
 | [Disappearing Now](https://open.spotify.com/track/2g9vY91OCirbr91b0fEBfa) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/35UyrSOJxObE9RHEVZcQV3) | 4:51 | 2023-01-13 | 2023-04-09 |
 | [Disappearing Now](https://open.spotify.com/track/6OyAdrIqlulqr7hEpo7QSL) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Disappearing Now](https://open.spotify.com/album/5zdUWNPZwYmUn7M2aUu0Cz) | 4:51 | 2022-07-08 | 2023-02-16 |
 | [Discovery](https://open.spotify.com/track/3rtDFSbQvjmXmyoc5Ojab7) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Discovery](https://open.spotify.com/album/0SumNv7k4cSrdQHBx40I4f) | 3:11 | 2023-07-14 | 2024-03-10 |
@@ -501,7 +502,7 @@
 | [Stay](https://open.spotify.com/track/4cEWuDn97aI64yw6HrZvBc) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Stay](https://open.spotify.com/album/1LJxKzYjl4bOxgGpb0rei3) | 4:09 | 2022-07-08 | 2022-11-14 |
 | [Stay \- Afinity Remix](https://open.spotify.com/track/4ua1RUmrzlORhk0TDfrTK6) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Stay](https://open.spotify.com/album/06lxDpivRf6gtBBFLTlAUp) | 3:44 | 2024-03-01 |  |
 | [Stay The Night](https://open.spotify.com/track/45ZGq5V2xy1CV8uVkvxt8t) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [Stay The Night](https://open.spotify.com/album/1eMdAJDIE94nXFxI56HkFZ) | 3:50 | 2023-03-24 | 2023-08-09 |
-| [Stay With Me](https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Stay With Me](https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc) | 3:50 | 2023-10-13 |  |
+| [Stay With Me](https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Stay With Me](https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc) | 3:50 | 2023-10-13 | 2024-06-25 |
 | [Stepping Stone](https://open.spotify.com/track/1hiNxftJnpiiOgHEi1hMRu) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG) | [Stepping Stone](https://open.spotify.com/album/33X7rnQRpkNH21T1WLaNCr) | 3:52 | 2022-07-08 | 2022-09-03 |
 | [Stop Thinking \(feat\. Lights\)](https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Stop Thinking \(feat\. Lights\)](https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K) | 4:52 | 2022-09-30 |  |
 | [Straight Into The Ground](https://open.spotify.com/track/01HgVS08pxNO7CZGoeeBXa) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [The Nature of Hope](https://open.spotify.com/album/64ZcjP0jb06XnpDf3VxXwm) | 3:30 | 2023-11-10 |  |

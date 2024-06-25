@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Han Jimin, Paul Kim\(한지민, 폴킴\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,722 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,744 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 34 | [Freesia](https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:49 |
 | 35 | [Dinner](https://open.spotify.com/track/4I48kLVde5Rwvw8MyloC4A) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m), [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Dinner \- SM STATION](https://open.spotify.com/album/34DtbBknXHV8X3w4NLzAx1) | 3:24 |
 | 36 | [Airport Goodbyes \(Prod\. The Black Skirts\)](https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Airport Goodbyes](https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i) | 4:07 |
-| 37 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
-| 38 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
-| 39 | [Alley \(with SUNG SI KYUNG\)](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Alley](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) | 4:45 |
-| 40 | [Anemone](https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:52 |
+| 37 | [Anemone](https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:52 |
+| 38 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
+| 39 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
+| 40 | [Alley \(with SUNG SI KYUNG\)](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Alley](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) | 4:45 |
 | 41 | [You, Who?](https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i) | 3:39 |
 | 42 | [Be Your Enemy](https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:35 |
 | 43 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 |

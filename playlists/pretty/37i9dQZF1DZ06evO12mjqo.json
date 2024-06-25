@@ -1,12 +1,12 @@
 {
-  "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 407975,
+  "description": "This Is Ghost. Los temas esenciales, todos en una lista.",
+  "num_followers": 408404,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAA/MPfHQEMNKdOOXsLkTy3N",
+  "snapshot_id": "ZndlgAAAAACEcJfsIFQiWVZR2F8A0tNh",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 350186,
       "name": "Year Zero",
       "url": "https://open.spotify.com/track/1MdC1WDXrEzrpQwxb5mEXC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
       "added_at": null,
@@ -116,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 284266,
-      "name": "Call Me Little Sunshine",
-      "url": "https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70"
+      "duration_ms": 298573,
+      "name": "Darkness At The Heart Of My Love",
+      "url": "https://open.spotify.com/track/6vXceKic4ACImU0bC3oecd"
     },
     {
       "added_at": null,
@@ -180,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 298573,
-      "name": "Darkness At The Heart Of My Love",
-      "url": "https://open.spotify.com/track/6vXceKic4ACImU0bC3oecd"
+      "duration_ms": 196106,
+      "name": "Hunter\u2019s Moon",
+      "url": "https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2"
     },
     {
       "added_at": null,
@@ -244,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 196106,
-      "name": "Hunter\u2019s Moon",
-      "url": "https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2"
+      "duration_ms": 316040,
+      "name": "Griftwood",
+      "url": "https://open.spotify.com/track/74gUN3LUQhqzfTLAP09ejk"
     },
     {
       "added_at": null,
@@ -312,9 +328,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 316040,
-      "name": "Griftwood",
-      "url": "https://open.spotify.com/track/74gUN3LUQhqzfTLAP09ejk"
+      "duration_ms": 302040,
+      "name": "Kaisarion",
+      "url": "https://open.spotify.com/track/452WW3sHSkt9AxuKS4cLX0"
     },
     {
       "added_at": null,
@@ -376,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 302040,
-      "name": "Kaisarion",
-      "url": "https://open.spotify.com/track/452WW3sHSkt9AxuKS4cLX0"
+      "duration_ms": 402760,
+      "name": "Respite On The Spitalfields",
+      "url": "https://open.spotify.com/track/0e0VwnPz0jVqov6z5SVVqr"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phantomime",
-        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "We Don\u2019t Need Another Hero",
-      "url": "https://open.spotify.com/track/14nGuPAynE1VnHC1mBf1R6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 213573,
       "name": "Con Clavi Con Dio",
       "url": "https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phantomime",
+        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "We Don\u2019t Need Another Hero",
+      "url": "https://open.spotify.com/track/14nGuPAynE1VnHC1mBf1R6"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 278106,
-      "name": "Satan Prayer",
-      "url": "https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meliora (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 222840,
       "name": "Missionary Man",
       "url": "https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 278106,
+      "name": "Satan Prayer",
+      "url": "https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY"
     },
     {
       "added_at": null,

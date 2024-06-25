@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: <a href="spotify:artist:18RkLKfeoUgZflWv9os25W">Miriam Makeba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,213 likes - 40 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,245 likes - 40 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 31 | [Maajo](https://open.spotify.com/track/6S8BapmclM4NWh19SciQOj) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Synchro System](https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I) | 3:26 |
 | 32 | [In Your Eyes](https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Fatteliku \(Live in Athens 1987\)](https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv) | 10:43 |
 | 33 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 |
-| 34 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
-| 35 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 |
-| 36 | [Neria](https://open.spotify.com/track/2WvXv4HvAc3giCyj79UdSt) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Neria](https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2) | 5:57 |
-| 37 | [It's About Time](https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [Boom Shaka](https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8) | 5:39 |
-| 38 | [Orere\-Elejigbo](https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 4:16 |
+| 34 | [Ndihamba Nawe](https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY) | 5:51 |
+| 35 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
+| 36 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 |
+| 37 | [Neria](https://open.spotify.com/track/2WvXv4HvAc3giCyj79UdSt) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Neria](https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2) | 5:57 |
+| 38 | [It's About Time](https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [Boom Shaka](https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8) | 5:39 |
 | 39 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |
-| 40 | [Heaven](https://open.spotify.com/track/6lx5aHjUesS2XEyLxXknLQ) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Life Stories](https://open.spotify.com/album/5vf9w7uDuKx6FbaC82TlYg) | 6:05 |
+| 40 | [Orere\-Elejigbo](https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 4:16 |
 
 Snapshot ID: `ZIxUOgAAAADyOL1TgjDu3hw9n6PMJeu6`

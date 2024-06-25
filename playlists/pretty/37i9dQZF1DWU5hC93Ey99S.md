@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,837 likes - 275 songs - 14 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,990 likes - 275 songs - 14 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 7 | [Dark In This Room](https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Dark In This Room](https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z) | 4:12 |
 | 8 | [Now She Knows](https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:30 |
 | 9 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 |
-| 10 | [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 |
+| 10 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
 | 11 | [Hello \- Super Edit](https://open.spotify.com/track/5njyNzmpj3PmiQNllomp6C) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Hello \(Super Edit\)](https://open.spotify.com/album/6k9XWJIuzEdRogiwn31ruB) | 2:39 |
 | 12 | [All About U](https://open.spotify.com/track/6fb4twyNs3gQ0nDnkuRBwH) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [Marco Lollis](https://open.spotify.com/artist/1gjNDmsEJhBAftfWPXIBzI), [Martina Corona](https://open.spotify.com/artist/58tyddZEZ2XcaKSmTV19aA) | [All About U](https://open.spotify.com/album/3GOajZbHdHZdLYsmyPozvO) | 3:06 |
 | 13 | [Fresh Air](https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Fresh Air](https://open.spotify.com/album/40O7KABpAdLlrywin1e6pu) | 2:16 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 274 | [RUN INTO MY ARMS](https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [BLEACH \[Hi\-Fi\]](https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l) | 3:00 |
 | 275 | [Confused 133](https://open.spotify.com/track/2L5FCkyzwgpPMsgoTuB7qr) | [Ninezz](https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY) | [Confused 133](https://open.spotify.com/album/318k5epPI1tchtYBglX5kM) | 2:42 |
 
-Snapshot ID: `ZnSmYAAAAADD3ixmYR8X9RYLkj5WqgnH`
+Snapshot ID: `Znlv2QAAAACVqqGHcQEWtaBwbyqV7jqZ`

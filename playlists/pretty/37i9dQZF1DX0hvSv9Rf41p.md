@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Wooli and Cyclops
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,124 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,140 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 79 | [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting \(Sammy Virji Remix\)](https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n) | 3:34 |
 | 80 | [Trippy Land](https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Trippy Land](https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI) | 3:06 |
 | 81 | [MELLOFIRE](https://open.spotify.com/track/050CY7MuMkVwG6SQFGEeTQ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [MELLOFIRE](https://open.spotify.com/album/0EFGzNvzeRJEwYzxDiavHd) | 4:00 |
-| 82 | [Fire](https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Fire](https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e) | 3:30 |
-| 83 | [Say The Word \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Say The Word \(feat\. Clementine Douglas\)](https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B) | 3:57 |
+| 82 | [Say The Word \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Say The Word \(feat\. Clementine Douglas\)](https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B) | 3:57 |
+| 83 | [Fire](https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Fire](https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e) | 3:30 |
 | 84 | [You Were Right](https://open.spotify.com/track/0m3EsIfqAfo48vGr18KVpq) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:55 |
 | 85 | [MARAVILLOSA](https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [MARAVILLOSA](https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb) | 2:32 |
 | 86 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 |

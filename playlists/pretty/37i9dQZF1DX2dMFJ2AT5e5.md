@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 
 > una lloradita y a seguirle 🥲
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,013 likes - 85 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,186 likes - 85 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 33 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 34 | [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 |
 | 35 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
-| 36 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
-| 37 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
-| 38 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
+| 36 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
+| 37 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
+| 38 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
 | 39 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
 | 40 | [La Vida Sin Ti](https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 2:44 |
 | 41 | [LAGUNAS](https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:51 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 57 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 |
 | 58 | [Otra Noche en Miami](https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:53 |
 | 59 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 |
-| 60 | [Tengo Todo Excepto a Ti](https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:32 |
-| 61 | [Dias Nublados](https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 3:41 |
+| 60 | [Dias Nublados](https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 3:41 |
+| 61 | [Tengo Todo Excepto a Ti](https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:32 |
 | 62 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 |
 | 63 | [Amorfoda](https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Amorfoda](https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg) | 2:33 |
 | 64 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 72 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 | 73 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 |
 | 74 | [Ecos De Amor](https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:35 |
-| 75 | [Dos Soledades](https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm) | 3:10 |
-| 76 | [00:00](https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 3:35 |
+| 75 | [00:00](https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 3:35 |
+| 76 | [Dos Soledades](https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm) | 3:10 |
 | 77 | [¿Porqué te vas?](https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque Te Vas](https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy) | 3:21 |
 | 78 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 |
 | 79 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 |

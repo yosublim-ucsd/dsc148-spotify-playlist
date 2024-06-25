@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the great female artists from anime culture. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Cover: JELEE (\"Jellyfish Can't Swim in the Night\")",
-  "num_followers": 162648,
+  "num_followers": 162757,
   "original_name": "EQUAL Anime",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-05-28 15:00:04",
       "album": {
-        "name": "REALiZE",
-        "url": "https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 190481,
-      "name": "REALiZE",
-      "url": "https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8"
-    },
-    {
-      "added_at": "2024-05-28 15:00:04",
-      "album": {
         "name": "\u30af\u30e9\u30af\u30e9",
         "url": "https://open.spotify.com/album/55K68hk6VS7YBZj2sQkXhW"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 191105,
       "name": "\u30af\u30e9\u30af\u30e9",
       "url": "https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q"
+    },
+    {
+      "added_at": "2024-05-28 15:00:04",
+      "album": {
+        "name": "REALiZE",
+        "url": "https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 190481,
+      "name": "REALiZE",
+      "url": "https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8"
     },
     {
       "added_at": "2024-05-28 15:00:04",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-05-28 15:00:04",
       "album": {
-        "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2"
-      },
-      "artists": [
-        {
-          "name": "\u30b7\u30e6\u30a4",
-          "url": "https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7"
-    },
-    {
-      "added_at": "2024-05-28 15:00:04",
-      "album": {
         "name": "Red:birthmark",
         "url": "https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 216826,
       "name": "Red:birthmark",
       "url": "https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe"
+    },
+    {
+      "added_at": "2024-05-28 15:00:04",
+      "album": {
+        "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30e6\u30a4",
+          "url": "https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "\u30e9\u30d6\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7"
     },
     {
       "added_at": "2024-05-28 15:00:04",

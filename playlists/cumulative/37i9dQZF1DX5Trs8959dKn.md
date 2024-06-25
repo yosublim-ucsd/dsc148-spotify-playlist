@@ -4,10 +4,11 @@
 
 > Knees go down and the prayers go up
 
-98 songs - 11 hr 30 min
+99 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Accolades](https://open.spotify.com/track/5EX25veDDRIaA0szBnf4YP) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Accolades](https://open.spotify.com/album/2TST6huMqbrXt3N2GaCIIm) | 2:38 | 2024-06-14 |  |
 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 | 2024-03-21 |  |
 | [All I Have Is You](https://open.spotify.com/track/6SSydoQ1h6OPTJ4JxoSRAS) | [Mr Mekoyo](https://open.spotify.com/artist/5atQbVe5DeUlSlDCamrC3n) | [All I Have Is You](https://open.spotify.com/album/6Rhao26zetb6OYBlMM7hqf) | 5:40 | 2023-04-06 | 2023-04-30 |
 | [All the Glory](https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Nations Will Rise and Sing](https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV) | 5:17 | 2023-04-06 | 2024-06-15 |
@@ -80,7 +81,7 @@
 | [Onye \(Here by Your Grace\)](https://open.spotify.com/track/75POWlcXylJsi50mqHxRoY) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Onye \(Here by Your Grace\)](https://open.spotify.com/album/0qx0uFWGKK1OK9qlwGCRYq) | 8:16 | 2023-09-14 | 2024-02-24 |
 | [Out of My Belly \- Live](https://open.spotify.com/track/50nShU4u2162BawAOHjH03) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Out of My Belly \(Live\)](https://open.spotify.com/album/1nqWp6JtcCYJSAqczv8rsM) | 14:24 | 2023-04-06 |  |
 | [Prophetic Worship \- Live at The Liberty Church Global, London](https://open.spotify.com/track/3gtjbYJLficOBVt7K0jdwN) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Prophetic Worship \(Live at The Liberty Church Global, London\)](https://open.spotify.com/album/5HnqGoWF4SAV3tpiilHyie) | 28:16 | 2024-04-05 |  |
-| [Psalm 91](https://open.spotify.com/track/0hW0946E5rXXNbmABvEKco) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Psalm 91](https://open.spotify.com/album/2YHyz9WLok9J3TIczP37Tk) | 7:03 | 2023-07-28 |  |
+| [Psalm 91](https://open.spotify.com/track/0hW0946E5rXXNbmABvEKco) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Psalm 91](https://open.spotify.com/album/2YHyz9WLok9J3TIczP37Tk) | 7:03 | 2023-07-28 | 2024-06-25 |
 | [Rahama \(Acoustic\)](https://open.spotify.com/track/7dUAkl4b4XEZHJBZS7hy1Z) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Acoustic\)](https://open.spotify.com/album/3BWLD17HGnhKRKf6JMkuLt) | 2:06 | 2024-02-23 |  |
 | [Reason](https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Reason](https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o) | 3:07 | 2023-04-14 | 2023-06-16 |
 | [Ruach Hakodesh](https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Ruach Hakodesh](https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm) | 9:12 | 2023-09-14 |  |

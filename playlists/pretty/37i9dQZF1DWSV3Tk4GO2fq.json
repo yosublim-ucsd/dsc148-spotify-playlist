@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1784249,
+  "num_followers": 1784435,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Rock Around The Clock",
-        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 129893,
-      "name": "(We're Gonna) Rock Around The Clock",
-      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 144226,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
+        "name": "Rock Around The Clock",
+        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 129893,
+      "name": "(We're Gonna) Rock Around The Clock",
+      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Rockin' Robin",
-        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
-      },
-      "artists": [
-        {
-          "name": "Bobby Day",
-          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
-        }
-      ],
-      "duration_ms": 160080,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
         "name": "Songs For Young Lovers",
         "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
+        "name": "Rockin' Robin",
+        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
       },
       "artists": [
         {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+          "name": "Bobby Day",
+          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
+      "duration_ms": 160080,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -847,6 +831,22 @@
       "duration_ms": 134445,
       "name": "Blue Suede Shoes",
       "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
         }
       ],
-      "duration_ms": 117080,
-      "name": "All Shook Up",
-      "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
+      "duration_ms": 159693,
+      "name": "Calendar Girl",
+      "url": "https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
       "artists": [
         {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 159693,
-      "name": "Calendar Girl",
-      "url": "https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit"
+      "duration_ms": 117080,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Vaughan And Violins",
-        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
         "name": "Sings His Favorites",
         "url": "https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 140520,
       "name": "Diana",
       "url": "https://open.spotify.com/track/2k6qpHJsrKCCyvsHv2cPqR"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
+        "name": "Vaughan And Violins",
+        "url": "https://open.spotify.com/album/2AF2R3VOH6dSunwgKXdnHl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 182640,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/1f0Wfl3eLCLKv72SdkpviC"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Who Wrote The Book Of Love? [Digital Version]",
-        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
-      },
-      "artists": [
-        {
-          "name": "The Monotones",
-          "url": "https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
         "name": "The Magic Of Jo Stafford",
         "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 192560,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
+        "name": "Who Wrote The Book Of Love? [Digital Version]",
+        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
+      },
+      "artists": [
+        {
+          "name": "The Monotones",
+          "url": "https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
     },
     {
       "added_at": "2024-05-25 00:26:38",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-05-25 00:26:38",
       "album": {
-        "name": "Bill Haley's Greatest Hits",
-        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "See You Later, Alligator",
-      "url": "https://open.spotify.com/track/1s4hyUFWmLWiAamsclb4xA"
-    },
-    {
-      "added_at": "2024-05-25 00:26:38",
-      "album": {
         "name": "The Essential Johnny Mathis 3.0",
         "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 183226,
       "name": "It's Not for Me to Say - From the MGM Film \"Lizzie\"",
       "url": "https://open.spotify.com/track/4g9ZMsnY0xpeG3OR8GRJne"
+    },
+    {
+      "added_at": "2024-05-25 00:26:38",
+      "album": {
+        "name": "Bill Haley's Greatest Hits",
+        "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "See You Later, Alligator",
+      "url": "https://open.spotify.com/track/1s4hyUFWmLWiAamsclb4xA"
     },
     {
       "added_at": "2024-05-25 00:26:38",

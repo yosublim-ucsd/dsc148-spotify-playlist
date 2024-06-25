@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,933 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,924 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 90 | [Hurricane](https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Hurricane](https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW) | 4:26 |
 | 91 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 |
 | 92 | [A.M\. RADIO](https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [A.M\. RADIO](https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz) | 3:57 |
-| 93 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
-| 94 | [Last Man On Earth](https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Last Man On Earth](https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY) | 3:08 |
+| 93 | [Last Man On Earth](https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Last Man On Earth](https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY) | 3:08 |
+| 94 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
 | 95 | [Lavender Girl](https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Girl](https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz) | 3:23 |
 | 96 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
 | 97 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 |
@@ -117,15 +117,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 107 | [New Star](https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 3:05 |
 | 108 | [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 |
 | 109 | [Light of a Clear Blue Morning](https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 4:38 |
-| 110 | [Virtual Hug](https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Virtual Hug](https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT) | 3:09 |
-| 111 | [If You Call](https://open.spotify.com/track/4ImBNQHgRaXLKrGO8XGDWZ) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf), [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Piano Salt](https://open.spotify.com/album/7sUZiGol5Ihy11am0fSCip) | 5:49 |
+| 110 | [If You Call](https://open.spotify.com/track/4ImBNQHgRaXLKrGO8XGDWZ) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf), [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Piano Salt](https://open.spotify.com/album/7sUZiGol5Ihy11am0fSCip) | 5:49 |
+| 111 | [Virtual Hug](https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Virtual Hug](https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT) | 3:09 |
 | 112 | [Feel \- with Kyson](https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4) | [YUUL](https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Feel \(with Kyson\)](https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD) | 4:00 |
 | 113 | [Climbing Bear](https://open.spotify.com/track/36lEFwL7po0THo1sTAmAtO) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 3:18 |
 | 114 | [Snowplow](https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Snowplow](https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ) | 2:41 |
 | 115 | [Drivin \(feat\. Field Medic\)](https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Drivin \(feat\. Field Medic\)](https://open.spotify.com/album/6DGU0jhIhF8SmuATk0mQGc) | 3:27 |
 | 116 | [I'll Be Gone](https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 2:24 |
-| 117 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
-| 118 | [Weeds](https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Some Still Morning](https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o) | 4:13 |
+| 117 | [Weeds](https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Some Still Morning](https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o) | 4:13 |
+| 118 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
 | 119 | [tidal wave](https://open.spotify.com/track/1qJ4G36THbntJM8w1xyLL8) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [tidal wave](https://open.spotify.com/album/1gvPVsUNYltKKOuz2cXnu4) | 4:01 |
 | 120 | [Boris](https://open.spotify.com/track/5XAHYcSWSHmcdZxpQ6pIzS) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Boris](https://open.spotify.com/album/6o4fJMbggSAE836wK0xAz1) | 4:06 |
 | 121 | [Northsiders](https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beginners](https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY) | 3:43 |

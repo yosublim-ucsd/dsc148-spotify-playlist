@@ -1,12 +1,12 @@
 {
   "description": "This is ClariS. The essential tracks, all in one playlist.",
-  "num_followers": 19149,
+  "num_followers": 19151,
   "original_name": "This Is ClariS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAABBI6nY9IBNi0EK5l53E8Fa",
+  "snapshot_id": "ZndlgAAAAADFcTzK2lHrej5qTTpHQzDo",
   "tracks": [
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fight!!",
-        "url": "https://open.spotify.com/album/60l2pA1I8kZMLL74TxVyBV"
+        "name": "\u3075\u3049\u308a\u3089",
+        "url": "https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 228906,
-      "name": "\u604b\u5f85\u304b\u3050\u3084",
-      "url": "https://open.spotify.com/track/5ep05xtwwRBQWoFlkCBezI"
+      "duration_ms": 214706,
+      "name": "\u541b\u8272",
+      "url": "https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u3075\u3049\u308a\u3089",
-        "url": "https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi"
+        "name": "Fight!!",
+        "url": "https://open.spotify.com/album/60l2pA1I8kZMLL74TxVyBV"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 214706,
-      "name": "\u541b\u8272",
-      "url": "https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz"
+      "duration_ms": 228906,
+      "name": "\u604b\u5f85\u304b\u3050\u3084",
+      "url": "https://open.spotify.com/track/5ep05xtwwRBQWoFlkCBezI"
     },
     {
       "added_at": null,

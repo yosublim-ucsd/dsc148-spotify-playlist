@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,169 likes - 70 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,180 likes - 70 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 64 | [Raindrops](https://open.spotify.com/track/7KwhOs8qcEWcXJP0eKR4Bm) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Scars](https://open.spotify.com/album/1pDAZ6iRky6Vmv9xDJezoc) | 4:09 |
 | 65 | [Never Come Back](https://open.spotify.com/track/6u6gr3d6ZjBU79beyZcKOH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/2vd7zTZKzRYcpemh2tRCj4) | 5:05 |
 | 66 | [Sun Is Shining](https://open.spotify.com/track/7mUTI3eMg0issonjzaVGDw) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2) | [Sun Is Shining \(Remixes\)](https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs) | 4:10 |
-| 67 | [Drops](https://open.spotify.com/track/7gxoYIY8Wqgdg7tQs17paE) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Platoon / Drops](https://open.spotify.com/album/1sLXks5C3euL9giDEpvNVB) | 2:51 |
-| 68 | [Spellbound \(feat\. Veba\)](https://open.spotify.com/track/1qs0vlA9FdaV5NkPBR4Urg) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Veba](https://open.spotify.com/artist/6j2ae9lkLM3apxccKUu5dJ) | [Northern Sulphuric Soul](https://open.spotify.com/album/75yPpdG1AXCXQf2E2jFfj9) | 5:44 |
+| 67 | [Spellbound \(feat\. Veba\)](https://open.spotify.com/track/1qs0vlA9FdaV5NkPBR4Urg) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Veba](https://open.spotify.com/artist/6j2ae9lkLM3apxccKUu5dJ) | [Northern Sulphuric Soul](https://open.spotify.com/album/75yPpdG1AXCXQf2E2jFfj9) | 5:44 |
+| 68 | [Drops](https://open.spotify.com/track/7gxoYIY8Wqgdg7tQs17paE) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Platoon / Drops](https://open.spotify.com/album/1sLXks5C3euL9giDEpvNVB) | 2:51 |
 | 69 | [High](https://open.spotify.com/track/3D049Sbjbtn5PjKFSlcv2R) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Season High](https://open.spotify.com/album/5WQJ8sVhjbhhQ0ReiilyO2) | 4:16 |
 | 70 | [Home](https://open.spotify.com/track/2Q4RCXUENndsGZGyLfWikY) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/2vd7zTZKzRYcpemh2tRCj4) | 2:36 |
 

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: G\-Eazy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,580 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,585 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [One Day \(feat\. Leon Bridges\)](https://open.spotify.com/track/0mo6L5y8olr6HtK8kTGfBh) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Freak Show](https://open.spotify.com/album/3bBBR0YDmIcXnZlwfk9qSd) | 3:31 |
 | 2 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:55 |
 | 3 | [TiFFANY](https://open.spotify.com/track/5VKFxeCNXVoJbFUUlfmVx9) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [TiFFANY](https://open.spotify.com/album/02xePX5V2OJTHmGjzHlFMk) | 2:22 |
-| 4 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:50 |
+| 4 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:51 |
 | 5 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 |
 | 6 | [K\-DRAMA](https://open.spotify.com/track/2SF9B4bEq1X3P9T4RBB3J6) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [PUMP](https://open.spotify.com/album/3qj1t6G1svsRniSYxnergN) | 3:06 |
 | 7 | [WHISKEY WHISKEY \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:41 |

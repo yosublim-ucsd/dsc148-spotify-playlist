@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,289 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,315 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 59 | [Metimos Las Patas](https://open.spotify.com/track/0FYoLW8XOwDWinWcqcaDst) | [OG Black y Master Joe](https://open.spotify.com/artist/5vLaYom9qPjl6xV7Y6wt9z) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:01 |
 | 60 | [Al Escuchar Mi Coro](https://open.spotify.com/track/7LBR7Fk58BXpaxMpMPlE8O) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D) | 2:42 |
 | 61 | [Me Arrepiento](https://open.spotify.com/track/0yQRj5qCgtjdLHYLjSrDPv) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:26 |
-| 62 | [Bailando](https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 3:10 |
-| 63 | [Un Nnuevo Estilo](https://open.spotify.com/track/0ynbMmMhaJQhPlCA8gZZsu) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:29 |
+| 62 | [Un Nnuevo Estilo](https://open.spotify.com/track/0ynbMmMhaJQhPlCA8gZZsu) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:29 |
+| 63 | [Bailando](https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 3:10 |
 | 64 | [Baila El Mambo](https://open.spotify.com/track/31tEgzedhAb2zllml0m50n) | [Notty Play](https://open.spotify.com/artist/1m5LVKalSAbpqNSOLGwCkr) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:14 |
 | 65 | [Outro \- Vamos A Darle Slow](https://open.spotify.com/track/3DH9NJKG6QRWrdK251WQX3) | [El Hombre Tra](https://open.spotify.com/artist/6sidutZZmd0QwmVPRvaCQY) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:23 |
 | 66 | [Desnudate](https://open.spotify.com/track/7a5dK2QQPkWMMebGely7Zq) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:43 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 69 | [Callate](https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S) | [Dj Gian](https://open.spotify.com/artist/48cHGnpVsYp8ClqE3ItUQw) | [DJ Joe presenta: A Mover...](https://open.spotify.com/album/7aDgk10Avhs1oDFrcwz5u6) | 3:14 |
 | 70 | [Interlude \- Prende El](https://open.spotify.com/track/5FJ3GIgjMGjJrYFEwycIwE) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 0:58 |
 | 71 | [Unknown \(Hector & Tito / Gargolas 1\)](https://open.spotify.com/track/4oLaSA8zC6SYJTxhLodNSZ) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Gargolas 1](https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In) | 2:08 |
-| 72 | [Luna y Estrellas](https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 3:10 |
-| 73 | [Bailen](https://open.spotify.com/track/4tT8ryAtyKDAlSD0aJ97Pj) | [Jenay](https://open.spotify.com/artist/4kejafUkN53v2HsYzMhgaJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:30 |
+| 72 | [Bailen](https://open.spotify.com/track/4tT8ryAtyKDAlSD0aJ97Pj) | [Jenay](https://open.spotify.com/artist/4kejafUkN53v2HsYzMhgaJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:30 |
+| 73 | [Luna y Estrellas](https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 3:10 |
 | 74 | [Me No Like Rikers Island](https://open.spotify.com/track/71P4eSrTusKY3C2pnmQVSm) | [Cocoa\-Tea, Nardo Ranks](https://open.spotify.com/artist/722YGC8Lz3tBJaWiAnC1kP) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:01 |
 | 75 | [Me Pegué](https://open.spotify.com/track/7BezuGZ98n7SzGCP4zhVME) | [Chaka y Benny](https://open.spotify.com/artist/7rYAWZuHyYwjiDfg4HW9QH) | [Sandunguero II](https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET) | 2:27 |
 

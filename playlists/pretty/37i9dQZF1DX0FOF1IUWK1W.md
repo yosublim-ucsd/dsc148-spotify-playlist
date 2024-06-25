@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Mc IG e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,290,702 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,291,463 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

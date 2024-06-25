@@ -2,7 +2,7 @@
 
 ### [mint Canada](https://open.spotify.com/playlist/37i9dQZF1DXdIpacQDPDV5)
 
-> The best of today's dance hits\. Cover: KAYTRANADA
+> The best of today's dance hits\. Cover: Rêve
 
 1,319 songs - 3 day 2 hr 56 min
 

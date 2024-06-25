@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 
 > Musiquita sabrosa que te hace bailar el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,276 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,345 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 22 | [Tu Amor Me Hace Bien \- Salsa Version](https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:00 |
 | 23 | [Hoja En Blanco](https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 5:07 |
 | 24 | [Llévame Contigo](https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:46 |
-| 25 | [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 |
-| 26 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
+| 25 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
+| 26 | [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 |
 | 27 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
 | 28 | [Amores Como el Nuestro](https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 5:01 |
 | 29 | [Dos Locos](https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Confesiones](https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e) | 4:06 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 53 | [¡Ay! El Amor](https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Amor Andino](https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8) | 3:33 |
 | 54 | [Estrellita](https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Estrellita](https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW) | 2:37 |
 | 55 | [Tu Vida en la Mía](https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 6:14 |
-| 56 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
-| 57 | [La Mejor De Todas](https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Quiero Ser Tu Amor](https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16) | 3:39 |
+| 56 | [La Mejor De Todas](https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Quiero Ser Tu Amor](https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16) | 3:39 |
+| 57 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
 | 58 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 |
 | 59 | [Te Busco](https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:09 |
 | 60 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 |

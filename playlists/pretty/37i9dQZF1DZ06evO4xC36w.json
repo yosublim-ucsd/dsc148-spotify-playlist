@@ -1,12 +1,12 @@
 {
-  "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 856856,
+  "description": "This Is Joan Sebastian. Los temas esenciales, todos en una lista.",
+  "num_followers": 857122,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAADjMprB/MMryxc/SDRwpyWo",
+  "snapshot_id": "ZndlgAAAAADx5Bbwwc8Gs5rxhQ57LvXs",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes Duetos",
-        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
       },
       "artists": [
         {
           "name": "Joan Sebastian",
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 178932,
-      "name": "Bandido De Amores",
-      "url": "https://open.spotify.com/track/5gbThduFQLh53m500xE54t"
+      "duration_ms": 199482,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
     },
     {
       "added_at": null,
@@ -107,6 +103,26 @@
       "duration_ms": 159172,
       "name": "Eso Y M\u00e1s",
       "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandes Duetos",
+        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 178932,
+      "name": "Bandido De Amores",
+      "url": "https://open.spotify.com/track/5gbThduFQLh53m500xE54t"
     },
     {
       "added_at": null,
@@ -147,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 220616,
+      "name": "Amor Limosnero",
+      "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandes Duetos",
         "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
@@ -167,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 220616,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rumores",
         "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
       },
@@ -195,42 +211,6 @@
       "duration_ms": 180511,
       "name": "Veinticinco Rosas",
       "url": "https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 273008,
-      "name": "Secreto De Amor",
-      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grandes Duetos",
-        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Prisma",
-          "url": "https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3"
-        }
-      ],
-      "duration_ms": 209676,
-      "name": "Oiga",
-      "url": "https://open.spotify.com/track/2kPmtoTWr2vusy8qw1iFiB"
     },
     {
       "added_at": null,
@@ -267,6 +247,26 @@
       "duration_ms": 170506,
       "name": "Que Sea",
       "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandes Duetos",
+        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Prisma",
+          "url": "https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3"
+        }
+      ],
+      "duration_ms": 209676,
+      "name": "Oiga",
+      "url": "https://open.spotify.com/track/2kPmtoTWr2vusy8qw1iFiB"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Y Las Mariposas",
-      "url": "https://open.spotify.com/track/1uYRtqTqOw0KIihWtu8lUK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
       },
@@ -575,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian Con El Mariachi Vargas",
-        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Como T\u00fa Decidas",
-      "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afortunado",
         "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
       },
@@ -603,6 +571,22 @@
       "duration_ms": 198356,
       "name": "As\u00ed Te Quiero",
       "url": "https://open.spotify.com/track/4u6zS8iQZ7Y6LgW7WXwaLb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Sebastian Con El Mariachi Vargas",
+        "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187368,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
       "duration_ms": 201884,
       "name": "El Consentido",
       "url": "https://open.spotify.com/track/3PCAcQyEjs89Wr4VvxtNGH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Sebastian Con Tambora",
+        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 158241,
+      "name": "Aunque Ya Tengas Marido",
+      "url": "https://open.spotify.com/track/1modDYKBVY7mi6wo3vd6P4"
     }
   ],
   "unique_name": "This Is Joan Sebastian",

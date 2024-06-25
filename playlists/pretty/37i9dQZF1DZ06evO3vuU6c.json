@@ -1,12 +1,12 @@
 {
-  "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1391122,
+  "description": "This Is Sia. Los temas esenciales, todos en una lista.",
+  "num_followers": 1391362,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAADdrM6zU+B/ty+J/K3ggAho",
+  "snapshot_id": "ZndlgAAAAAAK0L59hzExr1RCxleQnCvx",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Wild Ones (feat. Sia)",
-      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Acting",
         "url": "https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 224813,
       "name": "Cheap Thrills (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Wild Ones (feat. Sia)",
+      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
     },
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -191,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
       },
       "artists": [
         {
@@ -200,9 +216,9 @@
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
+      "duration_ms": 257200,
+      "name": "Elastic Heart",
+      "url": "https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz"
     },
     {
       "added_at": null,
@@ -355,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 217906,
+      "name": "Move Your Body - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Incredible (feat. Labrinth)",
         "url": "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV"
       },
@@ -387,6 +423,26 @@
       "duration_ms": 221986,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flames",
+        "url": "https://open.spotify.com/album/3B8J3BMp7lMA5YR5bUXHGK"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV"
     },
     {
       "added_at": null,
@@ -491,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reasonable Woman",
-        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/4ZK786lHXz8nZ8NwODGc6L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That's Life (feat. Mac Miller & Sia)",
         "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
       },
@@ -531,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E"
+        "name": "Reasonable Woman",
+        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
       },
       "artists": [
         {
@@ -540,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 259902,
-      "name": "I Forgive You",
-      "url": "https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6"
+      "duration_ms": 198920,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/4ZK786lHXz8nZ8NwODGc6L"
     },
     {
       "added_at": null,
@@ -583,6 +623,22 @@
       "duration_ms": 338279,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 259902,
+      "name": "I Forgive You",
+      "url": "https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6"
     },
     {
       "added_at": null,
@@ -675,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 212668,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mon coeur avait raison",
         "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
       },
@@ -771,38 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reasonable Woman",
-        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 196408,
-      "name": "Nowhere To Be",
-      "url": "https://open.spotify.com/track/0MBw7KEU6wxhhRTD3j4qpv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 241493,
-      "name": "Fire Meet Gasoline",
-      "url": "https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Floating Through Space",
         "url": "https://open.spotify.com/album/0BE9HxEf6RRDyni3SSvM6t"
       },
@@ -823,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Still Here",
-        "url": "https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or"
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
       },
       "artists": [
         {
@@ -832,9 +836,9 @@
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 241910,
-      "name": "I'm Still Here",
-      "url": "https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP"
+      "duration_ms": 241493,
+      "name": "Fire Meet Gasoline",
+      "url": "https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv"
     },
     {
       "added_at": null,
@@ -848,9 +852,25 @@
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 167911,
-      "name": "Towards The Sun",
-      "url": "https://open.spotify.com/track/56Jm8UQS5PD86xfKjanI3r"
+      "duration_ms": 196408,
+      "name": "Nowhere To Be",
+      "url": "https://open.spotify.com/track/0MBw7KEU6wxhhRTD3j4qpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Still Here",
+        "url": "https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 241910,
+      "name": "I'm Still Here",
+      "url": "https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP"
     },
     {
       "added_at": null,
@@ -899,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reasonable Woman",
+        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 167911,
+      "name": "Towards The Sun",
+      "url": "https://open.spotify.com/track/56Jm8UQS5PD86xfKjanI3r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Courage to Change",
         "url": "https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh"
       },
@@ -915,62 +951,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reasonable Woman",
-        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
+        "name": "Listen Again",
+        "url": "https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 168513,
-      "name": "I Had A Heart",
-      "url": "https://open.spotify.com/track/2uJZ32A1LXktrJvREA21uf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
         },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 246816,
-      "name": "ON (Feat. Sia)",
-      "url": "https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1+1 (feat. Amir) [Banx & Ranx Remix]",
-        "url": "https://open.spotify.com/album/6FsQVRlDW4YyTRtGMQrST7"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        },
-        {
-          "name": "Banx & Ranx",
-          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
-        }
-      ],
-      "duration_ms": 196240,
-      "name": "1+1 (feat. Amir) - Banx & Ranx Remix",
-      "url": "https://open.spotify.com/track/1OWLQ4FQrO13w6ssWgP8tk"
+      "duration_ms": 193333,
+      "name": "Bang My Head (feat. Sia & Fetty Wap)",
+      "url": "https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy"
     }
   ],
   "unique_name": "This Is Sia",

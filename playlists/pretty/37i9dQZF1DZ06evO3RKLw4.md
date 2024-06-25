@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 27 | [Let's Go](https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 1:26 |
 | 28 | [Poison](https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:18 |
 | 29 | [Honor Is All We Know](https://open.spotify.com/track/5by6Zu7h7VZOAzLBEP7rv2) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 2:11 |
-| 30 | [Don't Make Me Do It](https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 0:58 |
+| 30 | [Live Forever](https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 1:21 |
 | 31 | [St\. Mary](https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:09 |
 | 32 | [Battering Ram](https://open.spotify.com/track/3PlJ7ukrQ36VkC5M8f1BHi) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt) | 2:56 |
 | 33 | [Evil's My Friend](https://open.spotify.com/track/2itW6yNVqzqtFM3G3qbhpx) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 2:09 |
-| 34 | [Live Forever](https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 1:21 |
+| 34 | [Don't Make Me Do It](https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 0:58 |
 | 35 | [Hyena](https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 2:54 |
 | 36 | [It's Quite Alright](https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:29 |
 | 37 | [Black Lung](https://open.spotify.com/track/5rS94wXNKkQbe2yqXNUoWP) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 1:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 49 | [Back Where I Belong](https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 2:12 |
 | 50 | [Mud, Blood, & Gold](https://open.spotify.com/track/3bHZv692gQiEzKiQ7iwdvr) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 1:12 |
 
-Snapshot ID: `ZnYUAAAAAAD3BI1U9MQSMMU+CAvOlfp9`
+Snapshot ID: `ZndlgAAAAABjfI+VelPrrSssYEdH7jLk`

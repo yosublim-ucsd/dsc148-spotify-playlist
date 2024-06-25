@@ -2,7 +2,7 @@
 
 ### [This Is Autechre](https://open.spotify.com/playlist/37i9dQZF1DZ06evO46FPXj)
 
-> This is Autechre\. The essential tracks, all in one playlist.
+> This is Autechre\. Todos os maiores hits em uma só playlist.
 
 221 songs - 1 day 1 hr 33 min
 
@@ -27,7 +27,7 @@
 | [Basscadet](https://open.spotify.com/track/6CWyYev3BrO0wcENVX1Asw) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf) | 5:23 | 2023-02-15 |  |
 | [Bike](https://open.spotify.com/track/3Om7xxNAn64xJOuU9WVKtp) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf) | 8:00 | 2023-02-15 |  |
 | [Bike](https://open.spotify.com/track/4v9rHzCDgQXbDdB7t4Nwcz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 8:00 | 2022-05-29 | 2023-02-16 |
-| [Bine](https://open.spotify.com/track/3PoWq2JUTFo5JNQbQkWhVU) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ) | 4:41 | 2023-03-04 |  |
+| [Bine](https://open.spotify.com/track/3PoWq2JUTFo5JNQbQkWhVU) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ) | 4:41 | 2023-03-04 | 2024-06-25 |
 | [Bine](https://open.spotify.com/track/6CXznHDAUgjHE4t8XCriDJ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 4:41 | 2022-05-29 | 2022-10-11 |
 | [BIPP \- Autechre Mx](https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [BIPP \(Autechre Mx\)](https://open.spotify.com/album/6gbZRfEsgrddPqFXXf0rqk) | 3:33 | 2022-09-10 |  |
 | [bladelores](https://open.spotify.com/track/0z5NOndJF0DHq6GizOZjUT) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/0vczEfoTXdjFAERCLMrc0Z) | 12:19 | 2022-06-02 | 2022-12-13 |
@@ -191,7 +191,7 @@
 | [Silverside](https://open.spotify.com/track/4BIIlGHtrRrmgDjvd7asDF) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 5:31 | 2023-02-16 |  |
 | [Silverside](https://open.spotify.com/track/5tFioPH3Hw6bbbewX3Aokj) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 5:31 | 2022-06-02 | 2023-02-10 |
 | [Sim Gishel](https://open.spotify.com/track/5iliZ1RSIVXvdg9xxMdvG4) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 7:14 | 2022-05-30 | 2022-10-12 |
-| [Sim Gishel](https://open.spotify.com/track/7MrOZhA1YBYXNdw5aLABSx) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ) | 7:14 | 2023-02-27 | 2024-06-23 |
+| [Sim Gishel](https://open.spotify.com/track/7MrOZhA1YBYXNdw5aLABSx) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ) | 7:14 | 2023-02-27 |  |
 | [Simmm](https://open.spotify.com/track/1DDTOzysMCyYArxftQIGsp) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y) | 5:00 | 2023-02-16 | 2023-02-18 |
 | [Simmm](https://open.spotify.com/track/6Hf0sfpzzlxDF61jwbWCLZ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK) | 5:00 | 2023-03-19 | 2023-08-09 |
 | [Slip](https://open.spotify.com/track/33zDGjUK3BiqgFxoIpUWLy) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:21 | 2023-02-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 
 > Celebrating the power of amazing female pop artists with Ariana Grande on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,546,070 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,546,489 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 71 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 72 | [Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 2:34 |
 | 73 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
-| 74 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
-| 75 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 74 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 75 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
 
 Snapshot ID: `Zk3QMAAAAADRJnIR1zOLqgY/hmpcWeLp`

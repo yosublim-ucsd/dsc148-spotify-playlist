@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating 20 years of <a href="https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW?si=Mz0GoCLoQ7\-LwD95Qaea4A">Zola's</a> acclaimed album, "Bambatha".
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,457 likes - 60 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,531 likes - 60 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 41 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
 | 42 | [Y U 4 Me](https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Y U 4 Me](https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7) | 7:31 |
 | 43 | [Khona](https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Evo Mix](https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc) | 4:55 |
-| 44 | [Doc Shebeleza](https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Tsholofelo \(Platinum Edition\)](https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc) | 3:51 |
-| 45 | [Magic](https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:35 |
+| 44 | [Magic](https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:35 |
+| 45 | [Doc Shebeleza](https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Tsholofelo \(Platinum Edition\)](https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc) | 3:51 |
 | 46 | [Zandisile](https://open.spotify.com/track/3RZevm4NTP6UFNpdR5JWzq) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Zandisile](https://open.spotify.com/album/1Zg3W11SiHfbzQVFiWgTBB) | 6:02 |
 | 47 | [Zabalaza](https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:42 |
 | 48 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 |

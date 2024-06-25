@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,373 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,406 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 48 | [Milonga gris](https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL) | [Carlos Aguirre](https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN) | [Caminos](https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI) | 3:58 |
 | 49 | [How Did You Get In My Dreams?](https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [How Did You Get In My Dreams?](https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7) | 3:37 |
 | 50 | [A Night In Tunisia](https://open.spotify.com/track/5wRMcNaW1pCQjBIAw7ZY5t) | [Poncho Sanchez](https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL) | [Keeper Of The Flame](https://open.spotify.com/album/3e4bAbCTZq7nvw62WuFgOH) | 4:07 |
-| 51 | [Yo Sí Quiero](https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21) | [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh) | [Acertijos](https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF) | 6:04 |
-| 52 | [Catin Latin](https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX) | [Dave Pike](https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl) | [The Very Best Of Dave Pike \(The Latin Jazz Legend\)](https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6) | 4:49 |
-| 53 | [Dig My Feeling](https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Dig My Feeling](https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne) | 3:40 |
-| 54 | [Desafinado](https://open.spotify.com/track/4RAeL4OABP3aI9cu8iCXrF) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [South American All Stars \(Guapachando\)](https://open.spotify.com/album/2e1EwQ14pZF7ompCZuaEMI) | 1:57 |
+| 51 | [Catin Latin](https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX) | [Dave Pike](https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl) | [The Very Best Of Dave Pike \(The Latin Jazz Legend\)](https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6) | 4:49 |
+| 52 | [Yo Sí Quiero](https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21) | [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh) | [Acertijos](https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF) | 6:04 |
+| 53 | [Desafinado](https://open.spotify.com/track/4RAeL4OABP3aI9cu8iCXrF) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [South American All Stars \(Guapachando\)](https://open.spotify.com/album/2e1EwQ14pZF7ompCZuaEMI) | 1:57 |
+| 54 | [Dig My Feeling](https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Dig My Feeling](https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne) | 3:40 |
 | 55 | [Piscis](https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Ascendentes](https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm) | 3:34 |
 | 56 | [Suave](https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z) | [Adrien Brandeis](https://open.spotify.com/artist/6xdQZ13VLgYk2BrgtVDME1), [Orlando Poleo](https://open.spotify.com/artist/0VNkHMk153dbnBF7MbzUOX) | [Meetings](https://open.spotify.com/album/7nC6eOInxBoOPru39yFmjS) | 6:09 |
 | 57 | [In Flight](https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Listen Here](https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi) | 5:41 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 93 | [Guarajazz](https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg) | [Carlos Henriquez](https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI) | [The Bronx Pyramid](https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw) | 5:44 |
 | 94 | [Papo Final](https://open.spotify.com/track/1uyZTB0xrmqxwbxxvstFZp) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [A Arte de Viver](https://open.spotify.com/album/5EUo3iiVNR2uCHIgeyHeay) | 2:33 |
 | 95 | [Merengue Today](https://open.spotify.com/track/0G1w6A1w7LVJXjyOZoxBgd) | [Cesar Orozco](https://open.spotify.com/artist/0eO6MjeuzzOF9gOUVdDRfx), [Jorge Glem](https://open.spotify.com/artist/4fFCGaz0oMwRLzJIu13ba5) | [Stringwise](https://open.spotify.com/album/2MG0iMoEPcF2qqgjqOndzA) | 4:00 |
-| 96 | [El Suelo Mio](https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t) | [Jorge Roeder](https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x) | [El Suelo Mio](https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4) | 3:29 |
-| 97 | [Una Vez Mas](https://open.spotify.com/track/4H7fdafXGufIs6PomE8boe) | [Dafnis Prieto Big Band](https://open.spotify.com/artist/5SkSOkuxQOf9s83aS6DkPb), [Brian Lynch](https://open.spotify.com/artist/2jOWJM2ILZD1NTyORxsduI) | [Back to the Sunset](https://open.spotify.com/album/4cVleu2VjKo3Ujz86nzDqB) | 7:27 |
-| 98 | [Tu, la Tierra](https://open.spotify.com/track/43K0InQ2V1Uvh1CZeHGS1u) | [Alvaro Rojas](https://open.spotify.com/artist/090N9hqT8Tn5nYcvkjVqkM), [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Tu, la Tierra](https://open.spotify.com/album/2llPRKkcoepMb9JpCZOiQJ) | 3:57 |
+| 96 | [Tu, la Tierra](https://open.spotify.com/track/43K0InQ2V1Uvh1CZeHGS1u) | [Alvaro Rojas](https://open.spotify.com/artist/090N9hqT8Tn5nYcvkjVqkM), [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Tu, la Tierra](https://open.spotify.com/album/2llPRKkcoepMb9JpCZOiQJ) | 3:57 |
+| 97 | [El Suelo Mio](https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t) | [Jorge Roeder](https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x) | [El Suelo Mio](https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4) | 3:29 |
+| 98 | [Una Vez Mas](https://open.spotify.com/track/4H7fdafXGufIs6PomE8boe) | [Dafnis Prieto Big Band](https://open.spotify.com/artist/5SkSOkuxQOf9s83aS6DkPb), [Brian Lynch](https://open.spotify.com/artist/2jOWJM2ILZD1NTyORxsduI) | [Back to the Sunset](https://open.spotify.com/album/4cVleu2VjKo3Ujz86nzDqB) | 7:27 |
 | 99 | [Martinez](https://open.spotify.com/track/44re98tanNL8atNuJtRCYC) | [Ray Mantilla](https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I) | [Rebirth](https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u) | 4:05 |
 | 100 | [Dali \- From Portrait in Seven Shades](https://open.spotify.com/track/5rTuSVB4hmbP7sfRGM9jaC) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Live in Cuba](https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy) | 7:09 |
 

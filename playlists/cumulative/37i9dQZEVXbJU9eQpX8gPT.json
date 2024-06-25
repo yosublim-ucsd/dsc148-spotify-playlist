@@ -3211,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "Bla Bla",
+        "url": "https://open.spotify.com/album/1Bz9d2WJ4nYffksQJ7XTAs"
+      },
+      "artists": [
+        {
+          "name": "Nouamane Belaiachi",
+          "url": "https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Bla Bla",
+      "url": "https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov"
+    },
+    {
+      "album": {
         "name": "MAP OF THE SOUL : 7",
         "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
       },
@@ -7185,6 +7203,24 @@
     },
     {
       "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/6C0uQkOm3MCXKLnoMv4flp"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Douwi Douwi",
+      "url": "https://open.spotify.com/track/3jCxuquFvSxPCQdCOb496K"
+    },
+    {
+      "album": {
         "name": "Douwi Douwi",
         "url": "https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K"
       },
@@ -7196,7 +7232,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 182400,
       "name": "Douwi Douwi",
       "url": "https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV"
@@ -10011,6 +10047,24 @@
     },
     {
       "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/6C0uQkOm3MCXKLnoMv4flp"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6rqKD9XrYhfVcdz8XBHM0C"
+    },
+    {
+      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM"
       },
@@ -10022,7 +10076,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 178560,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz"
@@ -12348,10 +12402,32 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 288979,
       "name": "Kakashi",
       "url": "https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D"
+    },
+    {
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/6C0uQkOm3MCXKLnoMv4flp"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        },
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288979,
+      "name": "Kakashi",
+      "url": "https://open.spotify.com/track/7GmpVT1uBYTLAlHQfYXjbt"
     },
     {
       "album": {
@@ -14744,7 +14820,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"

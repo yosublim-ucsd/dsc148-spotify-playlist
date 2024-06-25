@@ -5533,6 +5533,32 @@
     },
     {
       "album": {
+        "name": "Gravitation",
+        "url": "https://open.spotify.com/album/4h9oOOppG73HKl0d9WX6hM"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        },
+        {
+          "name": "Asketa",
+          "url": "https://open.spotify.com/artist/2rJlTPC0ClcoQmNWci4C03"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181090,
+      "name": "Gravitation",
+      "url": "https://open.spotify.com/track/596eZCTayPzpFxydrFRWvH"
+    },
+    {
+      "album": {
         "name": "Grimoire",
         "url": "https://open.spotify.com/album/5PnPerL51mnpKq9HOo7vS0"
       },

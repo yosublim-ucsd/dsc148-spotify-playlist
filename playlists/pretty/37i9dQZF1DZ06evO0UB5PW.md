@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,756 likes - 42 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,769 likes - 42 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 13 | [I Am Ahab](https://open.spotify.com/track/0gr97EET1vP85jcFESMYRK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 2:45 |
 | 14 | [Asleep in the Deep](https://open.spotify.com/track/6yiFbPkFbHzuzQsEatSc03) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 6:12 |
 | 15 | [Sultan's Curse](https://open.spotify.com/track/4X5g2t99BTuLQIRdjGw1Fn) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 4:09 |
-| 16 | [Pushing the Tides](https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 3:29 |
+| 16 | [The Crux](https://open.spotify.com/track/2GRRO02oEcmtantKU4VeZB) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 4:59 |
 | 17 | [Seabeast](https://open.spotify.com/track/4dlsUdGXRe5nkxMIauacJq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 4:15 |
 | 18 | [Tread Lightly](https://open.spotify.com/track/46PDxEshU0SPeKY36Pu3FY) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 5:14 |
 | 19 | [Precious Stones](https://open.spotify.com/track/4GPne3vf5okCDszbmeCUZz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 3:45 |
-| 20 | [The Crux](https://open.spotify.com/track/2GRRO02oEcmtantKU4VeZB) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 4:59 |
+| 20 | [Pushing the Tides](https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 3:29 |
 | 21 | [Megalodon](https://open.spotify.com/track/1rLDTmI8quVUsGy9mzrXBx) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 4:22 |
 | 22 | [Ember City](https://open.spotify.com/track/6rjuwrocj624fmnVvPTzAP) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:59 |
 | 23 | [Word to the Wise](https://open.spotify.com/track/2aYtAI8xvZLUTZPYZMC6ad) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 4:00 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 41 | [Ghost of Karelia](https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:24 |
 | 42 | [Circle of Cysquatch](https://open.spotify.com/track/02YSFQqaj2WClCrMmfIW4V) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 3:19 |
 
-Snapshot ID: `ZnYUAAAAAABEVSNMngBiGhHKJq+zKSn6`
+Snapshot ID: `ZndlgAAAAABPFmB2o9F7HVdNVLkqyzEF`

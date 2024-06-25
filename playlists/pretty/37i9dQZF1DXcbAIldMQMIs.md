@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > Indie pop when ur crushing
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,208 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,223 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 60 | [sorry haha i fell asleep](https://open.spotify.com/track/4EzVsSkEdO7JJRe80MxtQk) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [sorry haha i fell asleep](https://open.spotify.com/album/10BhgUIfF4zFcLwqHhioL6) | 2:37 |
 | 61 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 |
 | 62 | [One More Weekend](https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [One More Weekend](https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7) | 2:22 |
-| 63 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |
-| 64 | [fall at the same time](https://open.spotify.com/track/15sMBXkb4XHIKPxFLHvDAn) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [fall at the same time](https://open.spotify.com/album/7aNtdBuIYUy6vEg1KymPkp) | 2:22 |
+| 63 | [fall at the same time](https://open.spotify.com/track/15sMBXkb4XHIKPxFLHvDAn) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [fall at the same time](https://open.spotify.com/album/7aNtdBuIYUy6vEg1KymPkp) | 2:22 |
+| 64 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |
 | 65 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 |
 | 66 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 67 | [newbury park](https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [newbury park](https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1) | 2:54 |
 | 68 | [Falling For You with Justin Bieber](https://open.spotify.com/track/24MWSatP5sTylISvJONhnB) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [CTV3: Cool Tape Vol\. 3](https://open.spotify.com/album/2NuZ1TloomufyKf57ZLBQn) | 3:42 |
-| 69 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 |
-| 70 | [Talk 2 Me](https://open.spotify.com/track/0kqWdi9oHVO1KcjFjNCBL2) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/75SIA2hiu5OyZ85i7uVvR4) | 2:19 |
+| 69 | [Talk 2 Me](https://open.spotify.com/track/0kqWdi9oHVO1KcjFjNCBL2) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/75SIA2hiu5OyZ85i7uVvR4) | 2:19 |
+| 70 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
 
 Snapshot ID: `ZRcybAAAAACzJtvKtSFIwDnghpd8UyQb`

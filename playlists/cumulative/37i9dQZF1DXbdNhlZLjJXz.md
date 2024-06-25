@@ -4,7 +4,7 @@
 
 > this ones for all my mean girls
 
-256 songs - 14 hr 19 min
+257 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [7/11](https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:33 | 2022-01-12 | 2023-02-03 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-01-12 | 2023-02-03 |
 | [All The Way Up \(feat\. Infared\)](https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [InfaRed](https://open.spotify.com/artist/4R529xQ7WQfRpSEXaHFbRg) | [All The Way Up \(feat\. Infared\)](https://open.spotify.com/album/7vzvohRzBtrnr3miUJrpAk) | 3:11 | 2022-01-12 | 2023-02-03 |
+| [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 | 2024-06-21 |  |
 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 | 2024-03-29 |  |
 | [American Boy](https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/5y4Ikuc4sLtNOpanoKKqwo) | 4:44 | 2022-01-12 | 2022-12-01 |
 | [American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0) | 4:44 | 2022-01-12 | 2023-02-03 |
@@ -170,7 +171,7 @@
 | [My Type](https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:06 | 2022-01-12 | 2023-02-03 |
 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-17 |  |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-05-14 |  |
-| [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 | 2023-02-02 |  |
+| [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 | 2023-02-02 | 2024-06-25 |
 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 | 2022-01-12 | 2023-02-03 |
 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 | 2023-02-02 |  |
 | [No Hands \(feat\. Roscoe Dash & Wale\)](https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Roscoe Dash](https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Flockaveli](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) | 4:23 | 2022-01-12 | 2023-02-03 |

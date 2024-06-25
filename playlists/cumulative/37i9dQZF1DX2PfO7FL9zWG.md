@@ -4,7 +4,7 @@
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Mark Ambor
 
-355 songs - 22 hr 17 min
+356 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 | 2023-03-31 |  |
 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 | 2024-04-12 |  |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2022-04-15 |  |
+| [Aujourd'hui ma vie c'est d'la marde](https://open.spotify.com/track/0uuFgysRgYtTEaNEbB06pk) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Lisa LeBlanc](https://open.spotify.com/album/6qkkBPeN0eLTk9oDvvew2V) | 3:37 | 2024-06-14 |  |
 | [Aurora](https://open.spotify.com/track/453jiWc3IvEjdxFRT66MTA) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Run to Waters](https://open.spotify.com/album/1v7MBpK6kqQKiZTZ3vpIjZ) | 6:09 | 2022-04-15 | 2022-07-05 |
 | [B61](https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [B61](https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1) | 3:41 | 2022-04-15 | 2023-04-01 |
 | [Back to Love](https://open.spotify.com/track/1CsGyKtUsk0uEKIoaHIEuR) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Back to Love](https://open.spotify.com/album/64Ll0RVJLquQzXJCFTuDNx) | 3:51 | 2022-04-15 | 2022-07-29 |
@@ -88,7 +89,7 @@
 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 | 2022-07-27 | 2023-04-01 |
 | [Elegy](https://open.spotify.com/track/41wel0JyLABRedko4XZLG1) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Twin Solitude](https://open.spotify.com/album/64Yh7XkMmHan0qMmmYTcZj) | 5:24 | 2022-04-15 | 2024-05-20 |
 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-12-08 |  |
-| [Even the Darkness Has Arms](https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 3:50 | 2023-03-31 |  |
+| [Even the Darkness Has Arms](https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 3:50 | 2023-03-31 | 2024-06-25 |
 | [Everyone I've Never Met](https://open.spotify.com/track/01cuVZlQ0fjxgxy7MwHRru) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Motherwell](https://open.spotify.com/album/7orA0IU079PeGlKQY6iRO2) | 3:11 | 2022-07-27 | 2023-03-26 |
 | [Everything Under the Sun](https://open.spotify.com/track/4Z9h55joG9eoz87CC8BWuC) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Everything Under the Sun](https://open.spotify.com/album/3UmIv8okiSwMrSE2jiky06) | 3:57 | 2022-04-15 | 2022-07-09 |
 | [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 | 2022-04-15 | 2022-07-29 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 
 ### [This Is ATARASHII GAKKO!](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OZck1)
 
-> This is ATARASHII GAKKO!\. The essential tracks, all in one playlist.
+> This Is ATARASHII GAKKO!\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,083 likes - 43 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,126 likes - 43 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,18 +24,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 14 | [SEISHUN WO KIRISAKU HADO](https://open.spotify.com/track/1dsB6klI4iqwcDcWzaI8zI) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:33 |
 | 15 | [Drama \(feat\. MILLI\)](https://open.spotify.com/track/0sh3PY1clLciTdqxe5ZZge) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:39 |
 | 16 | [Pineapple Kryptonite](https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Pineapple Kryptonite](https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF) | 3:15 |
-| 17 | [Fantastico](https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:53 |
+| 17 | [Quesera sera](https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Quesera sera](https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd) | 3:33 |
 | 18 | [JANAINDAYO](https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 2:59 |
 | 19 | [Maji Yoroshiku](https://open.spotify.com/track/6Wymz2GOKcsAkLF9eBC6lE) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:13 |
-| 20 | [Quesera sera](https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Quesera sera](https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd) | 3:33 |
+| 20 | [Fantastico](https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:53 |
 | 21 | [koinosyadanki feat H ZETTRIO](https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:15 |
 | 22 | [HANAKO](https://open.spotify.com/track/4hlkSKWZBIv4f4sWmWCM56) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HANAKO](https://open.spotify.com/album/5d3BzQ6GQQqBa8y92I7hT5) | 3:41 |
 | 23 | [Superhuman](https://open.spotify.com/track/59zjj5ofMNFx9MkRFA9dWI) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 3:16 |
 | 24 | [OTOME NO BIGAKU](https://open.spotify.com/track/2EFaT09Ufx9xOKxt6nc5Q8) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 4:16 |
 | 25 | [MANINGEN](https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [MANINGEN](https://open.spotify.com/album/0bI0wQeVFccV7pigdEJ1gR) | 2:51 |
-| 26 | [The Edge](https://open.spotify.com/track/1YQ6997r5wOIYmYBkDer2i) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [The Edge](https://open.spotify.com/album/38tSiz1dWutOylg4K0b1WF) | 2:43 |
+| 26 | [KOIBUMI](https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [KOIBUMI](https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D) | 4:00 |
 | 27 | [Forever Sisters](https://open.spotify.com/track/1bETwsWZBOOZjsPlFTShhD) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 3:55 |
-| 28 | [KOIBUMI](https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [KOIBUMI](https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D) | 4:00 |
+| 28 | [The Edge](https://open.spotify.com/track/1YQ6997r5wOIYmYBkDer2i) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [The Edge](https://open.spotify.com/album/38tSiz1dWutOylg4K0b1WF) | 2:43 |
 | 29 | [Freaks](https://open.spotify.com/track/33uyQcKrKlGSOQSO3hrtpj) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Freaks](https://open.spotify.com/album/5Z2m5xN45b5OvINBkhaUBE) | 2:13 |
 | 30 | [amayo no seppun](https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [wakage ga itaru](https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi) | 4:11 |
 | 31 | [Free Your Mind](https://open.spotify.com/track/5RWkakv9Kg0MtYnXdQUHWm) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:57 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 42 | [toumei boy](https://open.spotify.com/track/53LYWoukChENAf3hkdZS2X) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [wakage ga itaru](https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi) | 4:24 |
 | 43 | [toumeigirl\(H ZETT M edit ver.\)](https://open.spotify.com/track/3sDxPtEjs8pIuAecinyCjN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:19 |
 
-Snapshot ID: `ZnYUAAAAAACVtJA6giR0c+8CGgIvB3Wh`
+Snapshot ID: `ZndlgAAAAADXaqfOsWTkD8G+ZGZELKEo`

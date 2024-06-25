@@ -4,7 +4,7 @@
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Juliito y Pressure 9X19 plantando cara.
 
-142 songs - 8 hr 59 min
+143 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [BURBERRY](https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [BURBERRY](https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx) | 4:41 | 2021-12-01 |  |
 | [Caso Bugatti](https://open.spotify.com/track/55hvx2D6b0xar5U66kl4MG) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Caso Bugatti](https://open.spotify.com/album/42TnzSeAzEeda2PPMs4U63) | 3:17 | 2021-12-01 | 2022-07-29 |
 | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2) | 2:26 | 2021-12-01 | 2024-05-11 |
+| [CEO](https://open.spotify.com/track/5ha7HmgsLaYNwCIA1TClnO) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [CEO](https://open.spotify.com/album/4Gd49c3h5KaOfCJ5pitwND) | 2:49 | 2024-06-24 |  |
 | [CLIMA \(with Foreign Teck\)](https://open.spotify.com/track/6HWm8rj8kX5AXUZAyciF14) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [CLIMA \(with Foreign Teck\)](https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP) | 2:44 | 2024-06-03 |  |
 | [Cloniao](https://open.spotify.com/track/4SThCZl3NDMjRiuS57P6EN) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Cloniao](https://open.spotify.com/album/3LJewxppDnhU0Iqm6EERR6) | 3:13 | 2023-10-27 |  |
 | [David](https://open.spotify.com/track/66wmpNZdHK6yenH3eMZjGt) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quién es Dei V?](https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5) | 2:42 | 2024-06-14 |  |
@@ -100,7 +101,7 @@
 | [Nos Matamos](https://open.spotify.com/track/0kekARy9zsWohICrBUjyIn) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:30 | 2022-07-28 | 2024-04-19 |
 | [Nos Matamos](https://open.spotify.com/track/1CzOTrHcKV9nJov0wQytlA) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Nos Matamos](https://open.spotify.com/album/38rKm1PY26o3u2Q7GXDJLV) | 4:30 | 2021-12-01 |  |
 | [NOVATO](https://open.spotify.com/track/2bcBQUFjbrsS8rq0u5PK6O) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:03 | 2023-11-24 |  |
-| [NUNCA VOY SOLO](https://open.spotify.com/track/70G5uhABbR6ECqCCBxrV83) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:50 | 2023-07-07 |  |
+| [NUNCA VOY SOLO](https://open.spotify.com/track/70G5uhABbR6ECqCCBxrV83) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:50 | 2023-07-07 | 2024-06-25 |
 | [On Fleek](https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [On Fleek](https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG) | 4:37 | 2023-02-11 |  |
 | [ORO MACIZO](https://open.spotify.com/track/5K6eZGErNTSVKFl7VoYn8i) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [ORO MACIZO](https://open.spotify.com/album/5fpnS5XOYQtBv0MMlTfVOr) | 2:41 | 2024-06-14 |  |
 | [PA' LA VUELTA](https://open.spotify.com/track/1C4xSER4CBBj45eV1gDx0F) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [PA' LA VUELTA](https://open.spotify.com/album/7qxd9lTnTTARbkPrfsVdHL) | 3:44 | 2023-08-04 |  |

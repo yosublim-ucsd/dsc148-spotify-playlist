@@ -2,7 +2,7 @@
 
 ### [This Is KISS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00jzcA)
 
-> This Is KISS\. Los temas esenciales, todos en una lista.
+> This is KISS\. Todos os maiores hits em uma só playlist.
 
 93 songs - 6 hr 7 min
 
@@ -22,7 +22,7 @@
 | [Charisma](https://open.spotify.com/track/6afDASlKWMARNxYSrCAAf8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:25 | 2022-01-11 |  |
 | [Christine Sixteen](https://open.spotify.com/track/3Ms6wIwW1f3DVk563ucHP3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:14 | 2024-01-17 |  |
 | [Cold Gin](https://open.spotify.com/track/23mkKrQmbtEARwmO846yj8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 4:22 | 2022-01-11 |  |
-| [Comin' Home \- Live From MTV Unplugged/1995](https://open.spotify.com/track/1qp9BUccsAqU9r9PdgJzk0) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:51 | 2022-04-29 | 2024-06-24 |
+| [Comin' Home \- Live From MTV Unplugged/1995](https://open.spotify.com/track/1qp9BUccsAqU9r9PdgJzk0) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:51 | 2022-04-29 |  |
 | [Crazy Crazy Nights](https://open.spotify.com/track/3YSfGJNDtF8KrHlwCAaVns) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:47 | 2022-01-11 |  |
 | [Creatures Of The Night](https://open.spotify.com/track/1ximfMNQcS4HLKK5sAdZDO) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Box Set](https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e) | 4:02 | 2022-12-31 | 2023-02-01 |
 | [Creatures Of The Night](https://open.spotify.com/track/5yeRPZioHaRp86lPMwPw4s) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 4:03 | 2022-01-11 | 2022-12-31 |
@@ -34,9 +34,9 @@
 | [Do You Love Me](https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 3:33 | 2022-10-19 |  |
 | [Do You Love Me \- Live In Donington / 1996](https://open.spotify.com/track/6FoBZjJc8McUHu78vyFwYL) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Do You Love Me \(Live In Donington / 1996\)](https://open.spotify.com/album/5G6VWYwhMPlz4e8p8ycVEF) | 4:08 | 2022-04-26 | 2022-06-08 |
 | [Domino](https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:00 | 2022-01-11 |  |
-| [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 | 2022-01-11 |  |
+| [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 | 2022-01-11 | 2024-06-25 |
 | [Forever](https://open.spotify.com/track/2o4u19nlQWOGg5mLanT7Pg) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 3:52 | 2022-01-11 |  |
-| [Forever \(Live\)](https://open.spotify.com/track/1fM0MXvqlJT2H7znb3LiUD) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [The Melbourne Symphony Ensemble](https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB) | [Symphony: Alive IV](https://open.spotify.com/album/2tu4fl2V9D3NHdocyV9J5T) | 3:50 | 2023-12-19 | 2024-06-23 |
+| [Forever \(Live\)](https://open.spotify.com/track/1fM0MXvqlJT2H7znb3LiUD) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [The Melbourne Symphony Ensemble](https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB) | [Symphony: Alive IV](https://open.spotify.com/album/2tu4fl2V9D3NHdocyV9J5T) | 3:50 | 2023-12-19 |  |
 | [Forever \- Live](https://open.spotify.com/track/0c3acWFtqZwvBjv5dO4Ts5) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [The Melbourne Symphony Ensemble](https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB) | [Symphony: Alive IV](https://open.spotify.com/album/1amAo0xUABmNBclEBCPmgQ) | 3:50 | 2022-02-24 | 2023-12-14 |
 | [God Gave Rock 'N' Roll To You II](https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 5:20 | 2022-01-11 |  |
 | [God Gave Rock N Roll To You \- Live In Virginia Beach / 2004](https://open.spotify.com/track/7yrZLisamI2TPFqeqxFi6C) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Virginia Beach](https://open.spotify.com/album/47LCEebhE6fZYzV1Qchy9x) | 6:37 | 2022-03-30 | 2022-07-19 |
@@ -49,7 +49,7 @@
 | [Hell Or Hallelujah](https://open.spotify.com/track/7q3pjonUyv6YdUv29vq1hJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Monster](https://open.spotify.com/album/4bEGlyQHzCfjrqryGwmXD5) | 4:07 | 2022-01-11 | 2022-10-13 |
 | [Hide Your Heart](https://open.spotify.com/track/47o525G86mLspoGnUCaMd9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 4:24 | 2022-01-15 |  |
 | [I Love It Loud](https://open.spotify.com/track/7yDrKl1J4VWNbR4aLU3qJ7) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 4:15 | 2022-01-11 | 2022-12-28 |
-| [I Love It Loud \- 2022 Remastered](https://open.spotify.com/track/600p5yFQWKHxqEvejm6GfN) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(40th Anniversary / Super Deluxe\)](https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS) | 4:14 | 2022-12-27 |  |
+| [I Love It Loud \- 2022 Remastered](https://open.spotify.com/track/600p5yFQWKHxqEvejm6GfN) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(40th Anniversary / Super Deluxe\)](https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS) | 4:14 | 2022-12-27 | 2024-06-25 |
 | [I Still Love You](https://open.spotify.com/track/3UGAFI6gHmz88xMQbHr1UT) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 6:06 | 2022-01-11 | 2022-12-25 |
 | [I Still Love You \- 2022 Remastered](https://open.spotify.com/track/5InrTlQeClBr55lHREONCp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(40th Anniversary / Super Deluxe\)](https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS) | 6:06 | 2022-12-24 |  |
 | [I Stole Your Love](https://open.spotify.com/track/7qj6lBOB1QTgBmKedXuIbs) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:04 | 2022-01-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,954 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,008 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 23 | [.30\-06](https://open.spotify.com/track/73GyOpmUluAOb2yUVbuTkp) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 2:20 |
 | 24 | [TRUCK](https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:38 |
 | 25 | [ALL SHE LEFT WAS ME](https://open.spotify.com/track/0XCHPIlrVWgev8mcly9s0r) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB) | 2:41 |
-| 26 | [Goin’ Nowhere \(feat\. HARDY, Morgan Wallen & Chris Shiflett\)](https://open.spotify.com/track/0p9RXscosrY9vbQv12ZcLh) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR) | 3:09 |
-| 27 | [QUIT!!](https://open.spotify.com/track/7zMxba1lNupXVlKTIx8b4O) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [PSYCHO](https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd) | 2:47 |
+| 26 | [QUIT!!](https://open.spotify.com/track/7zMxba1lNupXVlKTIx8b4O) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [PSYCHO](https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd) | 2:47 |
+| 27 | [Goin’ Nowhere \(feat\. HARDY, Morgan Wallen & Chris Shiflett\)](https://open.spotify.com/track/0p9RXscosrY9vbQv12ZcLh) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR) | 3:09 |
 | 28 | [AIN'T A BAD DAY](https://open.spotify.com/track/06HJeBN0j6ADkE5SJLrHKw) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:22 |
 | 29 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 |
 | 30 | [John Deere Green](https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [HIXTAPE: Vol 3: DIFFTAPE \(Small Batch\)](https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy) | 4:27 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 50 | [BLURRY](https://open.spotify.com/track/7xJAFrioJ68AEKveUMaZbJ) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [BLURRY](https://open.spotify.com/album/5NwepesG5RXiEbQlTiaJo1) | 5:00 |
 | 51 | [To Hank \(feat\. HARDY, Brantley Gilbert & Colt Ford\)](https://open.spotify.com/track/6F8QHX4aAyXKLOrJLICAWJ) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR) | 3:17 |
 
-Snapshot ID: `ZnYUAAAAAAAQ6s0Br1ZCSnJZgrItjj7p`
+Snapshot ID: `ZndlgAAAAAC4u51c9+iKlgEyJAP8RS6i`

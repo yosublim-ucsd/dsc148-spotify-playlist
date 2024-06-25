@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 262286,
       "name": "Love to See You Cry",
       "url": "https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY"
@@ -1600,6 +1600,28 @@
       "duration_ms": 200736,
       "name": "Our House",
       "url": "https://open.spotify.com/track/220vD8Jgn9wK5WfRSpiQkn"
+    },
+    {
+      "album": {
+        "name": "Overpass Graffiti",
+        "url": "https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9"
+      },
+      "artists": [
+        {
+          "name": "The Road",
+          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
+        },
+        {
+          "name": "Elske DeWall",
+          "url": "https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234237,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 119114,
+  "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
+  "num_followers": 119157,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAACm++xC+e9Sar6WBqKVAzup",
+  "snapshot_id": "ZndlgAAAAAC91czBOOOOMFT/uc5A6swU",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "M\u00e1s Fuerte",
+      "url": "https://open.spotify.com/track/6PLihys6LLwbCI9GRByWZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LAS BURBUJAS DEL JACUZZI",
         "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
       },
@@ -167,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Los Consejos",
+      "url": "https://open.spotify.com/track/54KqP2AoCRcEMTfooOI5nK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
@@ -183,22 +215,6 @@
       "duration_ms": 159187,
       "name": "22",
       "url": "https://open.spotify.com/track/0AsWM30PAtdxvAph5aYXAW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Carta",
-        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Los Consejos",
-      "url": "https://open.spotify.com/track/54KqP2AoCRcEMTfooOI5nK"
     },
     {
       "added_at": null,
@@ -239,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "Lejos Conmigo",
+      "url": "https://open.spotify.com/track/4c1gXSj2oEYywSfN6iOwGu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -255,26 +291,6 @@
       "duration_ms": 197076,
       "name": "Mi Pecadito",
       "url": "https://open.spotify.com/track/5MlE71RdbkyVTuC0lvzWst"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Carta",
-        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Att: Amor",
-      "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
     },
     {
       "added_at": null,
@@ -315,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Att: Amor",
+      "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00e9cimo Cuarto",
         "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
       },
@@ -331,26 +367,6 @@
       "duration_ms": 173796,
       "name": "Le Viene Bien",
       "url": "https://open.spotify.com/track/7r13JeH7jMKCrAJvtcfiL3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Carta",
-        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 242413,
-      "name": "Te Cre\u00ed",
-      "url": "https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP"
     },
     {
       "added_at": null,
@@ -395,6 +411,26 @@
       "duration_ms": 168750,
       "name": "La Magia de Tus Ojos - Versi\u00f3n Pop",
       "url": "https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 242413,
+      "name": "Te Cre\u00ed",
+      "url": "https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP"
     },
     {
       "added_at": null,
@@ -707,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De a poco",
-        "url": "https://open.spotify.com/album/0q7wEGw99hj9dbGe3LLCIQ"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "De a poco",
-      "url": "https://open.spotify.com/track/5n89KAstAaCpx1KLh8ioFL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baila",
         "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
       },
@@ -735,6 +755,22 @@
       "duration_ms": 216413,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/5Olgt8adke15M1zpzja0Ao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De a poco",
+        "url": "https://open.spotify.com/album/0q7wEGw99hj9dbGe3LLCIQ"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "De a poco",
+      "url": "https://open.spotify.com/track/5n89KAstAaCpx1KLh8ioFL"
     },
     {
       "added_at": null,
@@ -783,22 +819,6 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Carta",
-        "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 198413,
-      "name": "T\u00f3xico",
-      "url": "https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm"
     },
     {
       "added_at": null,
@@ -936,9 +956,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 139973,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/58LhEQTSIEG3nOTiucvNR3"
+      "duration_ms": 154786,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/7gB6PzoYADdSOfWx3KXae6"
     },
     {
       "added_at": null,
@@ -1003,22 +1023,6 @@
       "duration_ms": 135586,
       "name": "Te Est\u00e1s Enamorando de M\u00ed - Fiesta Remix",
       "url": "https://open.spotify.com/track/2DBrWAfbqHmyX8iYYm2HLD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Que me quiera",
-      "url": "https://open.spotify.com/track/7gB6PzoYADdSOfWx3KXae6"
     }
   ],
   "unique_name": "This Is Greeicy",

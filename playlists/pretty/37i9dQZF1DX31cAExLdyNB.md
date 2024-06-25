@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,259 likes - 69 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,274 likes - 69 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 26 | [Yesteryear](https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:39 |
 | 27 | [EME](https://open.spotify.com/track/5kksd5p7OOz8vF7NbDw7GE) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd), [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [EME](https://open.spotify.com/album/2iLF9iKotpW9QVlX2hJo2T) | 3:11 |
 | 28 | [Ciudades de Noche](https://open.spotify.com/track/01rgHbhlfioQ7Oy9ntemCa) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Ciudades de Noche](https://open.spotify.com/album/2XTsyhYLGwtCAfqqkfEUrd) | 3:32 |
-| 29 | [In Her Eyes](https://open.spotify.com/track/4JtbUXLuBb8C7q1x7B54ZY) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [In Her Eyes](https://open.spotify.com/album/3R5YCyAaqLEI3UOT38l5ik) | 2:54 |
-| 30 | [Drinkee \- Radio Edit](https://open.spotify.com/track/1hWN9FB6Lxnqt2ij8uPH8V) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Drinkee \(Radio Edit\)](https://open.spotify.com/album/1e2Fq1cdld2yJJC0aMPkOK) | 3:11 |
+| 29 | [Drinkee \- Radio Edit](https://open.spotify.com/track/1hWN9FB6Lxnqt2ij8uPH8V) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Drinkee \(Radio Edit\)](https://open.spotify.com/album/1e2Fq1cdld2yJJC0aMPkOK) | 3:11 |
+| 30 | [In Her Eyes](https://open.spotify.com/track/4JtbUXLuBb8C7q1x7B54ZY) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [In Her Eyes](https://open.spotify.com/album/3R5YCyAaqLEI3UOT38l5ik) | 2:54 |
 | 31 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 |
 | 32 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 |
 | 33 | [How Long Have You Been Away?](https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [How Long Have You Been Away?](https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij) | 3:28 |

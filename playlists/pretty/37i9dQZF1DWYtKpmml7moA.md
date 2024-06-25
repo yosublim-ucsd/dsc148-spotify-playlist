@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,212 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,365 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 47 | [To See](https://open.spotify.com/track/2sY6QwNrA9yWZRPW2WtHTq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
 | 48 | [New Blessings](https://open.spotify.com/track/63foYg1Lz1djaWQizq7qjX) | [¡MAYDAY!](https://open.spotify.com/artist/71WhWdsVNTLxsnfe8M3Peh) | [South Of 5th](https://open.spotify.com/album/5uuDX34CbxXIArcU4PW2c6) | 4:19 |
 | 49 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
-| 50 | [Workin](https://open.spotify.com/track/5KjHKmv3DK42nNQ0MN8FRO) | [Shakamon](https://open.spotify.com/artist/0VIAkdcv7B7EhNR2wHST8S), [Aspekt Mafia](https://open.spotify.com/artist/0i3Yxersa2cylLNbd3lGAg) | [The EP](https://open.spotify.com/album/7sBtxOMG4zRUQpjHeItMBD) | 3:16 |
+| 50 | [Grateful](https://open.spotify.com/track/2ys6cWKndwCetchUXyNE2M) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Jemere Morgan](https://open.spotify.com/artist/7t3wkXOe1VYGzhIbhSPEV3) | [Grateful](https://open.spotify.com/album/14qvzwfUMd2XYhmAZUwvbW) | 4:07 |
 
 Snapshot ID: `Zit0WgAAAAC/aulz+CCbkOpRyYsdgkyl`

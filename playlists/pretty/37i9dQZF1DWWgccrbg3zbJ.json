@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 284330,
+  "num_followers": 284789,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-03-19 13:50:16",
       "album": {
+        "name": "Pure Bossa Nova",
+        "url": "https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt"
+      },
+      "artists": [
+        {
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Este Seu Olhar",
+      "url": "https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm"
+    },
+    {
+      "added_at": "2024-03-19 13:50:16",
+      "album": {
         "name": "Legends Play Jobim",
         "url": "https://open.spotify.com/album/2EweqGzFf3aMoV8mrZpACj"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 110811,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/3fBxGMlrjOhQ2NOiKfrRtf"
-    },
-    {
-      "added_at": "2024-03-19 13:50:16",
-      "album": {
-        "name": "The Sound Of Love",
-        "url": "https://open.spotify.com/album/3KYK6KPU7EFjCsrt5cvsXC"
-      },
-      "artists": [
-        {
-          "name": "Maysa",
-          "url": "https://open.spotify.com/artist/6O67GI6ayhWHyFmOOJRLEq"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Meu Mundo Caiu",
-      "url": "https://open.spotify.com/track/4XWgUf9Hke6SekbfxEhdGG"
     },
     {
       "added_at": "2024-03-19 13:50:16",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-03-19 13:50:16",
       "album": {
+        "name": "The Sound Of Love",
+        "url": "https://open.spotify.com/album/3KYK6KPU7EFjCsrt5cvsXC"
+      },
+      "artists": [
+        {
+          "name": "Maysa",
+          "url": "https://open.spotify.com/artist/6O67GI6ayhWHyFmOOJRLEq"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Meu Mundo Caiu",
+      "url": "https://open.spotify.com/track/4XWgUf9Hke6SekbfxEhdGG"
+    },
+    {
+      "added_at": "2024-03-19 13:50:16",
+      "album": {
         "name": "Rio Revisited",
         "url": "https://open.spotify.com/album/5ODnlDDe8dxCN23lkc8RcI"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 181453,
       "name": "One Note Samba",
       "url": "https://open.spotify.com/track/00KsnoekYhjdUu9yAPvXVh"
-    },
-    {
-      "added_at": "2024-03-19 13:50:16",
-      "album": {
-        "name": "Pure Bossa Nova",
-        "url": "https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        }
-      ],
-      "duration_ms": 152333,
-      "name": "Este Seu Olhar",
-      "url": "https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm"
     },
     {
       "added_at": "2024-03-19 13:50:16",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2024-03-19 13:50:16",
       "album": {
+        "name": "Jobim, Vinicius, Baden, Menescal, Lyra... (54 Songs)",
+        "url": "https://open.spotify.com/album/16s66A7p1Z0L5H8u5Cr9Wt"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Mi\u00facha",
+          "url": "https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2"
+        }
+      ],
+      "duration_ms": 168226,
+      "name": "Pela luz dos olhos teus",
+      "url": "https://open.spotify.com/track/6tyYK7y3kboS7GQulNtwo5"
+    },
+    {
+      "added_at": "2024-03-19 13:50:16",
+      "album": {
         "name": "O Amor, o Sorriso e a Flor",
         "url": "https://open.spotify.com/album/5OaElNWVFpJLxvu0aBfVS2"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 174133,
       "name": "Wave",
       "url": "https://open.spotify.com/track/7i325B6qZFdkne07FRsWlk"
-    },
-    {
-      "added_at": "2024-03-19 13:50:16",
-      "album": {
-        "name": "Jobim, Vinicius, Baden, Menescal, Lyra... (54 Songs)",
-        "url": "https://open.spotify.com/album/16s66A7p1Z0L5H8u5Cr9Wt"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Mi\u00facha",
-          "url": "https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2"
-        }
-      ],
-      "duration_ms": 168226,
-      "name": "Pela luz dos olhos teus",
-      "url": "https://open.spotify.com/track/6tyYK7y3kboS7GQulNtwo5"
     },
     {
       "added_at": "2024-03-19 13:50:16",

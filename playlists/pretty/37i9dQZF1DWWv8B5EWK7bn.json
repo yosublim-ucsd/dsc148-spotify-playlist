@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 184437,
+  "num_followers": 184489,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo+SQAAAAA46td3C2MiyFMJBHm5ZK4S",
+  "snapshot_id": "ZnmEZAAAAAAEWS2CqYX0SldxxS5LuREz",
   "tracks": [
     {
       "added_at": "2024-04-15 18:24:59",
@@ -81,20 +81,20 @@
       "url": "https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y"
     },
     {
-      "added_at": "2024-04-15 18:24:59",
+      "added_at": "2024-06-24 14:36:20",
       "album": {
-        "name": "Vallahi Yok / Kirik Cam",
-        "url": "https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf"
+        "name": "Los manantiales",
+        "url": "https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o"
       },
       "artists": [
         {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+          "name": "Daga Voladora",
+          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
         }
       ],
-      "duration_ms": 277810,
-      "name": "Vallahi Yok",
-      "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
+      "duration_ms": 161132,
+      "name": "Catedral",
+      "url": "https://open.spotify.com/track/3sRMZ7WnXCpRZBAH8nMcSz"
     },
     {
       "added_at": "2024-03-20 19:29:48",
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
     },
     {
-      "added_at": "2024-03-05 06:00:54",
+      "added_at": "2024-04-15 18:24:59",
       "album": {
-        "name": "a.s.o.",
-        "url": "https://open.spotify.com/album/491ULACRrTCXK4ZTPwRCPa"
+        "name": "Vallahi Yok / Kirik Cam",
+        "url": "https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf"
       },
       "artists": [
         {
-          "name": "a.s.o.",
-          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
         }
       ],
-      "duration_ms": 174893,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/1mPbccRuO7FwxAWECKveTh"
+      "duration_ms": 277810,
+      "name": "Vallahi Yok",
+      "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
     },
     {
       "added_at": "2024-03-05 06:00:54",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh"
     },
     {
+      "added_at": "2024-03-05 06:00:54",
+      "album": {
+        "name": "a.s.o.",
+        "url": "https://open.spotify.com/album/491ULACRrTCXK4ZTPwRCPa"
+      },
+      "artists": [
+        {
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/1mPbccRuO7FwxAWECKveTh"
+    },
+    {
       "added_at": "2024-02-23 00:16:26",
       "album": {
         "name": "PHASOR",
@@ -495,22 +511,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "Hildegard",
         "url": "https://open.spotify.com/album/73YfC8h0xwIr2KFhW99iLk"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 186544,
       "name": "Jour 3",
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2023-01-04 00:57:30",
@@ -893,42 +909,6 @@
       "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/0jlrYQZy6lkuIN0mYgxLfS"
-      },
-      "artists": [
-        {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
-        }
-      ],
-      "duration_ms": 316413,
-      "name": "Big Appetite",
-      "url": "https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "High January",
-        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
-      },
-      "artists": [
-        {
-          "name": "Marker Starling",
-          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        }
-      ],
-      "duration_ms": 266287,
-      "name": "Starved for Glamour",
-      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "MERCY",
@@ -951,18 +931,18 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Rivers That You Cannot See",
-        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/0jlrYQZy6lkuIN0mYgxLfS"
       },
       "artists": [
         {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Rivers That You Cannot See",
-      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
+      "duration_ms": 316413,
+      "name": "Big Appetite",
+      "url": "https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR"
     },
     {
       "added_at": "2023-05-22 18:30:22",
@@ -979,6 +959,42 @@
       "duration_ms": 245520,
       "name": "Stranidei",
       "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "High January",
+        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
+      },
+      "artists": [
+        {
+          "name": "Marker Starling",
+          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "duration_ms": 266287,
+      "name": "Starved for Glamour",
+      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Rivers That You Cannot See",
+        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
+      },
+      "artists": [
+        {
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Rivers That You Cannot See",
+      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
       "added_at": "2022-09-29 00:57:24",
@@ -1117,6 +1133,22 @@
       "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
     },
     {
+      "added_at": "2023-06-05 20:56:02",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34)",
+      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
+    },
+    {
       "added_at": "2022-03-30 04:28:53",
       "album": {
         "name": "Sans oublier",
@@ -1147,22 +1179,6 @@
       "duration_ms": 318750,
       "name": "Windows Open",
       "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
-    },
-    {
-      "added_at": "2023-06-05 20:56:02",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34)",
-      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
     },
     {
       "added_at": "2022-08-19 01:53:48",
@@ -1341,22 +1357,6 @@
       "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
     },
     {
-      "added_at": "2023-12-22 16:06:56",
-      "album": {
-        "name": "Nodos",
-        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
-      },
-      "artists": [
-        {
-          "name": "Radiotr\u00f3nica",
-          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "Nodos",
-      "url": "https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "The Apple Drop",
@@ -1371,6 +1371,22 @@
       "duration_ms": 274626,
       "name": "Sekwar",
       "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
+    },
+    {
+      "added_at": "2023-12-22 16:06:56",
+      "album": {
+        "name": "Nodos",
+        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
+      },
+      "artists": [
+        {
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "Nodos",
+      "url": "https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf"
     },
     {
       "added_at": "2022-03-11 04:34:08",
@@ -1617,6 +1633,22 @@
       "url": "https://open.spotify.com/track/7rcxsiSZTU9VC0t6tGKFTl"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Heartlow",
+        "url": "https://open.spotify.com/album/7r0DsnValNvnPDASl9U80g"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 218925,
+      "name": "Heartlow - Edit",
+      "url": "https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF"
+    },
+    {
       "added_at": "2023-01-07 04:00:59",
       "album": {
         "name": "Painted The Room",
@@ -1685,22 +1717,6 @@
       "url": "https://open.spotify.com/track/3MQ8tI1RbEj7SL0FVG9sTt"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Heartlow",
-        "url": "https://open.spotify.com/album/7r0DsnValNvnPDASl9U80g"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 218925,
-      "name": "Heartlow - Edit",
-      "url": "https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF"
-    },
-    {
       "added_at": "2022-08-31 05:00:32",
       "album": {
         "name": "Dicen",
@@ -1731,22 +1747,6 @@
       "duration_ms": 225934,
       "name": "Silver Ladders",
       "url": "https://open.spotify.com/track/3Vduh36kT0NNKaxfpfo75B"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Life, and Another",
-        "url": "https://open.spotify.com/album/44iZWsGRW7Scy1rmydhYVM"
-      },
-      "artists": [
-        {
-          "name": "Mega Bog",
-          "url": "https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO"
-        }
-      ],
-      "duration_ms": 265815,
-      "name": "Station to Station",
-      "url": "https://open.spotify.com/track/6vJ66cRJ3KSQz6Bu3kP6z5"
     }
   ],
   "unique_name": "Oblique",

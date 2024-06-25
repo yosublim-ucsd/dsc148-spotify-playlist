@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-362 songs - 1 day 10 hr 2 min
+363 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 | 2023-12-15 |  |
 | [Hosanna](https://open.spotify.com/track/4w6r299QMnin39PgRFRYXk) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Hosanna](https://open.spotify.com/album/45cxp5JvmZffL4LH2lcDNV) | 3:17 | 2022-06-30 | 2023-12-15 |
 | [Hossana \(Live\)](https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna \(Live\)](https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8) | 5:44 | 2022-06-30 | 2023-09-03 |
-| [Human Like Me](https://open.spotify.com/track/0sHRLPcOLOY60qtJKu1Sna) | [Sarah Téibo](https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT) | [Human Like Me](https://open.spotify.com/album/1BiuLtFDlAGpjfAClQtTqp) | 3:00 | 2024-06-07 |  |
+| [Human Like Me](https://open.spotify.com/track/0sHRLPcOLOY60qtJKu1Sna) | [Sarah Téibo](https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT) | [Human Like Me](https://open.spotify.com/album/1BiuLtFDlAGpjfAClQtTqp) | 3:00 | 2024-06-07 | 2024-06-25 |
 | [I AM](https://open.spotify.com/track/6krahQOOJZosOiHKPZBbZS) | [Ogocity](https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4), [Dr Flourish Peters](https://open.spotify.com/artist/1gu1WkuCxG2deha26haepG) | [I AM](https://open.spotify.com/album/1TFzauoARG4LvbAjjvIB7B) | 4:31 | 2023-04-28 | 2023-07-03 |
 | [I Am Yours](https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08) | [Tobass Adolphus](https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf) | [I Am Yours](https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD) | 3:57 | 2023-11-24 | 2024-01-14 |
 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 | 2022-06-30 | 2023-10-29 |
@@ -319,6 +319,7 @@
 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 | 2024-02-09 |  |
 | [This can only be God](https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [This can only be God](https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q) | 3:38 | 2023-03-03 | 2023-10-08 |
 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 | 2023-06-02 | 2024-05-29 |
+| [This Is the Day \(Halle\)](https://open.spotify.com/track/1FnbReDM3Ly7uxwarVJLp0) | [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ), [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [This Is the Day \(Halle\)](https://open.spotify.com/album/5zRg6TUFbAIpZrwHUNvZEU) | 6:51 | 2024-06-24 |  |
 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 | 2022-06-30 | 2023-06-30 |
 | [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 9:49 | 2023-11-24 | 2023-11-30 |
 | [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/67NHjEvUTfqyKqNZF0tSMh) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 9:49 | 2023-11-24 | 2024-01-21 |

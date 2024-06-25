@@ -4,7 +4,7 @@
 
 > Get ready for good feels and fireworks!
 
-204 songs - 12 hr 17 min
+205 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 | 2023-07-03 |  |
 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2022-07-01 | 2023-02-26 |
 | [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:34 | 2021-07-02 | 2022-07-02 |
-| [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2023-06-14 |  |
+| [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2023-06-14 | 2024-06-25 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2020-07-03 | 2023-07-03 |
 | [Body Like A Back Road](https://open.spotify.com/track/7FpBQ067pHB67deawpbbcY) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 2:42 | 2023-06-14 |  |
 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2023-06-14 |  |
@@ -207,6 +207,7 @@
 | [We Are Tonight](https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 3:52 | 2021-07-02 | 2022-07-29 |
 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 | 2020-07-03 |  |
 | [What Makes You Beautiful](https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:19 | 2021-07-02 | 2023-06-15 |
+| [What’s Your Country Song](https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 2:51 | 2023-07-03 |  |
 | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 4:00 | 2022-07-01 |  |
 | [Wouldn't It Be Nice \- Remastered 2000 / Stereo Mix](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix Versions\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 | 2020-07-03 | 2022-07-27 |
 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 | 2021-07-02 | 2023-04-06 |

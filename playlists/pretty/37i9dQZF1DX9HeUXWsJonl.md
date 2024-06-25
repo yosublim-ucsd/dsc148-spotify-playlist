@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Les hits tunisiens du moment\. Cover: Balti
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,089 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,118 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: BOYNEXTDOOR
 
-1,076 songs - 2 day 10 hr 17 min
+1,078 songs - 2 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [CONNECT](https://open.spotify.com/track/6tyCsqp5qGXdagwG6rIoru) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [CONNECT](https://open.spotify.com/album/0aBKpiRYV5X7VDIFKr3MlR) | 3:11 | 2024-05-16 |  |
 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 | 2023-07-20 | 2023-11-08 |
 | [Copycat](https://open.spotify.com/track/3eRXnVROQcJxwzovKyLTnd) | [Apink CHOBOM](https://open.spotify.com/artist/1eDD6vNEyVQXGev7af156d) | [Copycat](https://open.spotify.com/album/0NYssBVyeMwUSRzsIKATIE) | 3:24 | 2022-07-12 | 2022-08-26 |
+| [Cosmic](https://open.spotify.com/track/3pDGJRDN3p6kCNZcD97FYY) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/4t62n365iuvkvkANFiOG3m) | 3:45 | 2024-06-24 |  |
 | [Cotton Candy](https://open.spotify.com/track/4DxEb2Pk4KAAFqqD241whz) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [Chapter 0: WITH](https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki) | 3:19 | 2023-01-17 | 2023-03-15 |
 | [CRAYON](https://open.spotify.com/track/5TkTyTt0b1oPqKb3xVEqGl) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Invisible Crayon](https://open.spotify.com/album/5FVJ4JGyFPq4h9PJWjghOG) | 3:25 | 2023-04-18 | 2023-05-10 |
 | [CRAZY](https://open.spotify.com/track/3K4FUnNmfNrIipQey9OxDM) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Facade](https://open.spotify.com/album/2xj3q7TVU0jrpyv6YVGzPc) | 3:28 | 2022-06-13 | 2022-08-04 |
@@ -864,6 +865,7 @@
 | [Super Lady](https://open.spotify.com/track/105qee9D4ARiRZPZDvGDoH) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0AxwDje2klNIOVKvMTtwdZ) | 2:32 | 2024-04-18 |  |
 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-01-29 | 2024-04-19 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 | 2024-02-07 |
+| [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-24 |  |
 | [Supernova](https://open.spotify.com/track/2nPYPc5Ww4Nunu0FNCccPF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/3T1PoeevcDKayJosKjNr6H) | 2:58 | 2024-05-13 |  |
 | [Supernova \- Japanese Version](https://open.spotify.com/track/04PSKcBV1ad3QEmmnZCn2N) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Supernova \(Japanese Version\)](https://open.spotify.com/album/1LGfVq98oez1sXNYAazZ2d) | 3:28 | 2023-08-08 | 2023-08-26 |
 | [SURRENDER](https://open.spotify.com/track/0CwQeOWyrm26zRfYxqhn7q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [SURRENDER](https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox) | 2:50 | 2022-09-06 | 2022-11-01 |

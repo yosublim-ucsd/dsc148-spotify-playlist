@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,448 likes - 126 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,695 likes - 126 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

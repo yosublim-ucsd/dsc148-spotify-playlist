@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,199 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,249 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,19 +38,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 28 | [Bad Timing](https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 4:32 |
 | 29 | [Killing The Game](https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Killing The Game](https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1) | 2:21 |
 | 30 | [Arabs Say KHOD](https://open.spotify.com/track/1olrdm18fB6b45WiYB6TFr) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [Arabs Say KHOD](https://open.spotify.com/album/0lMkfXfoeEbE3DUvIFB66s) | 3:12 |
-| 31 | [Nasheed al Alam al Falastini نشيد العلم الفلسطيني](https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc) | [JABiD](https://open.spotify.com/artist/2KQIn7Asb3rXpWoYFlbqM9) | [JABiD atini ala tawahini جبد أعطيني على طواحيني](https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD) | 3:43 |
-| 32 | [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 |
+| 31 | [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 |
+| 32 | [Nasheed al Alam al Falastini نشيد العلم الفلسطيني](https://open.spotify.com/track/2NJpqrTkLIPiERkyYeXLkc) | [JABiD](https://open.spotify.com/artist/2KQIn7Asb3rXpWoYFlbqM9) | [JABiD atini ala tawahini جبد أعطيني على طواحيني](https://open.spotify.com/album/6vMVS8IbBTG7lVTKAc7COD) | 3:43 |
 | 33 | [Everyland](https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:11 |
 | 34 | [Supply Me with an Excess of Love](https://open.spotify.com/track/1tM8DL9vdl7T8jbdmm83to) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 4:34 |
 | 35 | [Nijmet El\-Subeh](https://open.spotify.com/track/5ngzNl6skIrN3XZHrF5TXr) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Ishraq Reminiscence](https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs) | 4:45 |
 | 36 | [Mali Huriye \(I Don't Have Freedom\)](https://open.spotify.com/track/6Z3ttOetQvCgKMfrH13w9D) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:37 |
 | 37 | [Ma Mali Shi](https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [A Tareeq](https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2) | 3:58 |
 | 38 | [Mariam](https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd) | [ELCONTAINER](https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z) | [Mariam](https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI) | 3:55 |
-| 39 | [Carry the Earth](https://open.spotify.com/track/73XTg0Yt03seww60tQcBSL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 6:16 |
-| 40 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
+| 39 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
+| 40 | [Carry the Earth](https://open.spotify.com/track/73XTg0Yt03seww60tQcBSL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 6:16 |
 | 41 | [G'areeb Fi Bladi \(Stranger In My Own Country\)](https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:45 |
-| 42 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 |
-| 43 | [Palestine](https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW) | [Ministry Of Dubkey](https://open.spotify.com/artist/5myvv84iU2FTGFnGU38LIU) | [Palestine](https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl) | 1:21 |
+| 42 | [Palestine](https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW) | [Ministry Of Dubkey](https://open.spotify.com/artist/5myvv84iU2FTGFnGU38LIU) | [Palestine](https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl) | 1:21 |
+| 43 | [Dabke System](https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Dabke System](https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G) | 5:42 |
 | 44 | [Today is the day](https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Today Is the day](https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA) | 2:31 |
 | 45 | [Laween](https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Laween](https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs) | 3:28 |
 | 46 | [لا تغمزيني](https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [لا تغمزيني](https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh) | 2:58 |

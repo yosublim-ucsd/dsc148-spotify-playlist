@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 140666,
       "name": "En Que Estrella Estara",
       "url": "https://open.spotify.com/track/1msphInQ8bBBQGFZkll7FX"
@@ -3786,7 +3786,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -4324,7 +4324,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 181920,
       "name": "Mon amour",
       "url": "https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3"
@@ -6476,7 +6476,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 183976,
       "name": "T'he Trobat a Faltar",
       "url": "https://open.spotify.com/track/2BVUoPbKlwxwUWgC1SUpNJ"
@@ -6840,7 +6840,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 165527,
       "name": "Todo Contigo",
       "url": "https://open.spotify.com/track/0FLh1ZDsjnoACzBrAVjXT2"
@@ -7348,6 +7348,24 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "La Gran Vida",
+        "url": "https://open.spotify.com/album/3ozmgtvSKERx78wHfwFvSK"
+      },
+      "artists": [
+        {
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225840,
+      "name": "Volcans",
+      "url": "https://open.spotify.com/track/5AnPNGsEt7cOjSGmBDq8e2"
     },
     {
       "album": {

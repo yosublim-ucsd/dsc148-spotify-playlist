@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,340 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,454 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 37 | [A Hard Day's Night \- Remastered 2009](https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:34 |
 | 38 | [Born On The Bayou](https://open.spotify.com/track/587bVBCHYW5Q2VNRLig4AS) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Bayou Country \(Expanded Edition\)](https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq) | 5:15 |
 | 39 | [Summer in the City \- Remastered](https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Hums Of The Lovin' Spoonful](https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY) | 2:40 |
-| 40 | [Nights In White Satin \- Single Version / Mono](https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Days Of Future Passed \(Deluxe Version\)](https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM) | 4:29 |
-| 41 | [Girl, You'll Be A Woman Soon](https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [The Bang Years 1966\-1968 \(The 23 Original Mono Recordings\)](https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo) | 3:00 |
+| 40 | [Girl, You'll Be A Woman Soon](https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [The Bang Years 1966\-1968 \(The 23 Original Mono Recordings\)](https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo) | 3:00 |
+| 41 | [Nights In White Satin \- Single Version / Mono](https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Days Of Future Passed \(Deluxe Version\)](https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM) | 4:29 |
 | 42 | [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:12 |
 | 43 | [Touch Me](https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 3:10 |
 | 44 | [Ruby Tuesday](https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Between The Buttons](https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5) | 3:16 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 89 | [Waterloo Sunset](https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else \(Deluxe\)](https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR) | 3:14 |
 | 90 | [All Day and All of the Night \- 2014 Remastered Version](https://open.spotify.com/track/4rXSVEYOuJNicjAm3NiYK6) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Anthology 1964 \- 1971 \(2014 Remastered Version\)](https://open.spotify.com/album/1PuHheIgpNx5fye9dmhnmy) | 2:22 |
 | 91 | [I Saw Her Standing There \- Remastered 2009](https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:53 |
-| 92 | [Lucy In The Sky With Diamonds \- Remastered 2009](https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 3:28 |
-| 93 | [Can't Buy Me Love \- Remastered 2009](https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:11 |
+| 92 | [Can't Buy Me Love \- Remastered 2009](https://open.spotify.com/track/3SdingSsFcZDZAyvcJbgAw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:11 |
+| 93 | [Lucy In The Sky With Diamonds \- Remastered 2009](https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 3:28 |
 | 94 | [Ticket To Ride \- Remastered 2009](https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 3:09 |
 | 95 | [Revolution \- Remastered 2009](https://open.spotify.com/track/3UDmHZcBTQp8Iu8droNtUl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 3:25 |
 | 96 | [Paint It, Black \- Mono](https://open.spotify.com/track/1RJeiAIwR9pZBgJA8ndZLL) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones In Mono \(Remastered 2016\)](https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv) | 3:24 |

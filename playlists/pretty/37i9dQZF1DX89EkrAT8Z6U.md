@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,113 likes - 75 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,727 likes - 75 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 32 | [Riders](https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW) | [onimanxd](https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b) | [Riders](https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK) | 1:47 |
 | 33 | [Killin' On Demand](https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Killin' On Demand](https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD) | 2:09 |
 | 34 | [Death Lotto](https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch) | [ovg!](https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt) | [Death Lotto](https://open.spotify.com/album/64YJodXZbiqUpwg9lkaYoE) | 2:13 |
-| 35 | [The Fallen](https://open.spotify.com/track/6OntGp1fBnvvHsqKzd4ZwO) | [Caleb Bryant](https://open.spotify.com/artist/7p0HF87njbwrsLYQYFkwcn) | [The Fallen](https://open.spotify.com/album/62kdZ20ERi0krzdoKsV0k2) | 2:13 |
-| 36 | [Let’s Ride](https://open.spotify.com/track/2ZNGVeQUOXsKqRgMVmyr3r) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Let’s Ride](https://open.spotify.com/album/7AHgpws4jUS12JxsqorrJO) | 2:00 |
+| 35 | [Let’s Ride](https://open.spotify.com/track/2ZNGVeQUOXsKqRgMVmyr3r) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Let’s Ride](https://open.spotify.com/album/7AHgpws4jUS12JxsqorrJO) | 2:00 |
+| 36 | [The Fallen](https://open.spotify.com/track/6OntGp1fBnvvHsqKzd4ZwO) | [Caleb Bryant](https://open.spotify.com/artist/7p0HF87njbwrsLYQYFkwcn) | [The Fallen](https://open.spotify.com/album/62kdZ20ERi0krzdoKsV0k2) | 2:13 |
 | 37 | [chinatown!](https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7) | [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [chinatown!](https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N) | 2:25 |
 | 38 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 |
 | 39 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 47 | [Cult Classic](https://open.spotify.com/track/4Gyevf6hfKBzh69K79twjP) | [ta2cute](https://open.spotify.com/artist/4ffPkIlhB0oEmGr30n8tJj) | [Cult Classic](https://open.spotify.com/album/2NZN7qaSZeikj7HTXdnkfT) | 1:47 |
 | 48 | [WTH](https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 1:39 |
 | 49 | [PACKAPUNCH \(feat\. Danny Brown\)](https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [NO HANDS](https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA) | 3:00 |
-| 50 | [Righteous](https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous](https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS) | 2:43 |
-| 51 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
+| 50 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
+| 51 | [Righteous](https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous](https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS) | 2:43 |
 | 52 | [sunset dreams](https://open.spotify.com/track/6zg431pIV64icWpxl46rzk) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [sunset dreams](https://open.spotify.com/album/49zxPpemrGsPpWnVpQcLNh) | 1:50 |
 | 53 | [7AM](https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV) | [Adrian](https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA) | [7AM](https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1) | 2:25 |
 | 54 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 62 | [Dalai Lama](https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Dalai Lama](https://open.spotify.com/album/78gNxj2hj39is15hwP82IC) | 2:15 |
 | 63 | [Cyberfreak](https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Cyberfreak](https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT) | 1:58 |
 | 64 | [Break Shit](https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Break Shit](https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA) | 1:35 |
-| 65 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
-| 66 | [When You Sleep](https://open.spotify.com/track/1hbciWy4syeBJeWubluRoX) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [When You Sleep](https://open.spotify.com/album/1VPAKIvzR4qGR9fxnk0iHc) | 4:04 |
+| 65 | [When You Sleep](https://open.spotify.com/track/1hbciWy4syeBJeWubluRoX) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [When You Sleep](https://open.spotify.com/album/1VPAKIvzR4qGR9fxnk0iHc) | 4:04 |
+| 66 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
 | 67 | [March!](https://open.spotify.com/track/0G4uu3BzqOmgHW7sP5WHBN) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT), [AVGOTDRIP](https://open.spotify.com/artist/7igrDEryu1H8kwrg2jMP06) | [March!](https://open.spotify.com/album/2oKf1enSq9QsAoWqSWMtHa) | 2:14 |
 | 68 | [ghost in the shell \(feat\. SXMPRA\)](https://open.spotify.com/track/4g6MtQnxi6GjuZicJerym7) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [in my restless dreams, i see you](https://open.spotify.com/album/3lKy1Ddnt6Jov2ALre3Cao) | 2:37 |
 | 69 | [RUN UP!](https://open.spotify.com/track/7oDUCu36rMex65tc03C8er) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ), [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [RUN UP!](https://open.spotify.com/album/6MoWt5Hvt4tdkrer9dppB5) | 2:19 |

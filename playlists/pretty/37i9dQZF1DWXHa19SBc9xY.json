@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 94705,
+  "num_followers": 94728,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "raiz",
+        "url": "https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "cora\u00e7\u00e3o tambor",
+      "url": "https://open.spotify.com/track/1udnY2gnCBJQ3ZYOkRrPCi"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Ana",
         "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 232899,
       "name": "Vem C\u00e1",
       "url": "https://open.spotify.com/track/4nRM0WwUuXCCkQMKD4xWFF"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "raiz",
-        "url": "https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "cora\u00e7\u00e3o tambor",
-      "url": "https://open.spotify.com/track/1udnY2gnCBJQ3ZYOkRrPCi"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 209339,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0vJbHJ7RP01MIAmKhLCXg7"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "O amor te d\u00e1",
         "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "In\u00edcio",
-        "url": "https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr"
+        "name": "Fiz Esse Som Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 192371,
-      "name": "Conto as Horas",
-      "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
+      "duration_ms": 209339,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0vJbHJ7RP01MIAmKhLCXg7"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -635,6 +619,22 @@
       "duration_ms": 196546,
       "name": "Que Sorte",
       "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "In\u00edcio",
+        "url": "https://open.spotify.com/album/7ER1Dk5IUHB3KOrEgBBDVr"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 192371,
+      "name": "Conto as Horas",
+      "url": "https://open.spotify.com/track/6IHBJfVaRtSqmjIVwWLsJb"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Somos Instantes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 224687,
-      "name": "Somos Instantes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Juntin",
         "url": "https://open.spotify.com/album/4wN9p2830m4vGoUrlZCV9L"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 179841,
       "name": "Juntin",
       "url": "https://open.spotify.com/track/1sOoISLSEm5oyDkTfdxiph"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -735,38 +735,42 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Maior Que N\u00f3s",
-        "url": "https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51"
+        "name": "Somos Instantes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 172119,
-      "name": "Maior Que N\u00f3s",
-      "url": "https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe"
+      "duration_ms": 224687,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
     },
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
+        "name": "Balan\u00e7o de Amor",
+        "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        },
+        {
+          "name": "Curandeira",
+          "url": "https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp"
+        },
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
         }
       ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
+      "duration_ms": 199231,
+      "name": "Balan\u00e7o de Amor",
+      "url": "https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -811,26 +815,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Balan\u00e7o de Amor",
-        "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
+        "name": "Maior Que N\u00f3s",
+        "url": "https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51"
       },
       "artists": [
         {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         },
         {
-          "name": "Curandeira",
-          "url": "https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp"
-        },
-        {
-          "name": "B\u00e9esau",
-          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 199231,
-      "name": "Balan\u00e7o de Amor",
-      "url": "https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx"
+      "duration_ms": 172119,
+      "name": "Maior Que N\u00f3s",
+      "url": "https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Sorriso De Agog\u00f4",
+        "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Sorriso De Agog\u00f4",
+      "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "L\u00edrios S\u00e3o Deusas",
         "url": "https://open.spotify.com/album/4c8ud8o7JRoiKEgEHRctss"
       },
@@ -1039,18 +1055,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Sorriso De Agog\u00f4",
-        "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
+        "name": "Com Certeza",
+        "url": "https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        },
+        {
+          "name": "Zeider",
+          "url": "https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW"
         }
       ],
-      "duration_ms": 196146,
-      "name": "Sorriso De Agog\u00f4",
-      "url": "https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO"
+      "duration_ms": 212750,
+      "name": "Com Certeza",
+      "url": "https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1075,26 +1095,6 @@
       "duration_ms": 261901,
       "name": "PREAMAR",
       "url": "https://open.spotify.com/track/5vXucjlEods0fafmWCudxU"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Com Certeza",
-        "url": "https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7"
-      },
-      "artists": [
-        {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
-        },
-        {
-          "name": "Zeider",
-          "url": "https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "Com Certeza",
-      "url": "https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI"
     },
     {
       "added_at": "2023-11-24 08:42:40",

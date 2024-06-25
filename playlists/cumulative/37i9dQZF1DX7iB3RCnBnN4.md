@@ -2,9 +2,9 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> All the songs with more than 1 BILLION streams on Spotify\. Cover: Shakira & Maluma
+> All the songs with more than 1 BILLION streams on Spotify\. Cover: Drake
 
-719 songs - 1 day 19 hr 41 min
+723 songs - 1 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2024-04-15 |  |
 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 | 2022-11-27 |  |
 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 | 2022-02-28 |  |
+| [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 | 2024-06-24 |  |
 | [Feels \(feat\. Pharrell Williams, Katy Perry & Big Sean\)](https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:43 | 2023-04-08 |  |
 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 | 2023-05-30 |  |
 | [Firework](https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 | 2024-03-04 |  |
@@ -262,6 +263,7 @@
 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 | 2022-06-28 |  |
 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 | 2022-06-01 |  |
 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 | 2023-05-19 |  |
+| [Hold On, We're Going Home](https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Nothing Was The Same](https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t) | 3:47 | 2024-06-24 |  |
 | [Hope](https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 1:50 | 2022-11-21 |  |
 | [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:08 | 2022-04-25 |  |
 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 | 2022-02-28 |  |
@@ -291,6 +293,7 @@
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2023-03-27 |  |
 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 | 2023-07-11 |  |
 | [I Want It That Way](https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:33 | 2022-09-05 |  |
+| [I Was Never There](https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 4:01 | 2024-06-24 |  |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-06-05 |  |
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2021-07-21 |  |
 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2024-03-25 |  |
@@ -668,6 +671,7 @@
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2024-01-02 |  |
 | [Waiting For Love](https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:50 | 2022-08-08 |  |
 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 | 2021-07-21 |  |
+| [Wake Up in the Sky](https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Wake Up in the Sky](https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB) | 3:24 | 2024-06-24 |  |
 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 | 2024-01-02 |  |
 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 | 2024-01-22 |  |
 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 | 2022-03-14 |  |

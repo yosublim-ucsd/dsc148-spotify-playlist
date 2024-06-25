@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,204 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,200 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 13 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
 | 14 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
 | 15 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 |
-| 16 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
-| 17 | [Vamos Fugir](https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Radiola](https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe) | 4:00 |
+| 16 | [Vamos Fugir](https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Radiola](https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe) | 4:00 |
+| 17 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
 | 18 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 |
 | 19 | [Outra Vida](https://open.spotify.com/track/1tqNjCuAIoG1kyBfs8DfZE) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Semente](https://open.spotify.com/album/5ankef7uixssXhd76nE2Aw) | 3:14 |
 | 20 | [Interessante](https://open.spotify.com/track/2ZWxngKhr90tiStZ2LUWQ8) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Interessante](https://open.spotify.com/album/1cQQXRwZ1xetyRSVES0pC4) | 2:52 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 34 | [Mais Ninguém](https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg) | [Banda do Mar](https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD) | [Banda do Mar](https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4) | 2:48 |
 | 35 | [Você me faz tão bem](https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas Acústico](https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3) | 4:14 |
 | 36 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
-| 37 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
-| 38 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
+| 37 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
+| 38 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
 | 39 | [Oração](https://open.spotify.com/track/0YBq701BXkMaK6V5UyvOpT) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/album/7pJk45OMEobBhaAWVaF3sO) | 5:01 |
 | 40 | [Amei Te Ver](https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 4:17 |
 | 41 | [É Isso Aí \(The Blower'S Daughter\)](https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Ana E Jorge](https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm) | 5:18 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 46 | [Por Você \- Ao Vivo](https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Frejat Ao Vivo No Rock In Rio](https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T) | 3:35 |
 | 47 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
 | 48 | [Sorte \- Ao Vivo](https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Silva & Liniker \(Ao Vivo\)](https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG) | 3:50 |
-| 49 | [love leve](https://open.spotify.com/track/00Ke9O7f7kiGzz1fROAnZP) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [love leve](https://open.spotify.com/album/2yyeSZQC3SNGLWWeci8lbU) | 2:47 |
-| 50 | [Ainda Bem](https://open.spotify.com/track/5wG7UpUik9lpxUWjQFadPo) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Essa Boneca Tem Manual \(Com Faixa Bônus\)](https://open.spotify.com/album/6MuP4aOswy9Vc6NuIHtmY6) | 4:29 |
+| 49 | [Ainda Bem](https://open.spotify.com/track/5wG7UpUik9lpxUWjQFadPo) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Essa Boneca Tem Manual \(Com Faixa Bônus\)](https://open.spotify.com/album/6MuP4aOswy9Vc6NuIHtmY6) | 4:29 |
+| 50 | [love leve](https://open.spotify.com/track/00Ke9O7f7kiGzz1fROAnZP) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [love leve](https://open.spotify.com/album/2yyeSZQC3SNGLWWeci8lbU) | 2:47 |
 | 51 | [Malemolencia](https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 2:54 |
 | 52 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 |
 | 53 | [BOSSA \(feat\. Péricles\)](https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [PRISCILLA](https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik) | 3:25 |

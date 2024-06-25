@@ -4,7 +4,7 @@
 
 > Las canciones que marcaron una época.
 
-102 songs - 6 hr 33 min
+103 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,10 +21,11 @@
 | [Beautiful](https://open.spotify.com/track/0oH7QF9L9fzDy6EFWlivCC) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 3:36 | 2022-07-06 | 2024-04-19 |
 | [Bossa & People](https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Beatriz](https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR) | 5:02 | 2022-07-06 | 2024-06-17 |
 | [Cae el Sol](https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Voragine](https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb) | 4:41 | 2022-07-06 |  |
+| [Canción para un Amigo](https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Hasta el Final](https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ) | 5:06 | 2024-06-12 |  |
 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 | 2022-07-06 |  |
 | [Celofán](https://open.spotify.com/track/1sNz5k4POwNzx9AZUdyjNK) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Romantisísmico](https://open.spotify.com/album/1x93LZe2PKKrgePH2GZjCP) | 3:15 | 2024-03-25 |  |
 | [Chica Acuario](https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Chica Acuario](https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn) | 3:27 | 2024-03-25 |  |
-| [Circunvalación](https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:54 | 2022-07-06 |  |
+| [Circunvalación](https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:54 | 2022-07-06 | 2024-06-25 |
 | [Ciudad Mágica](https://open.spotify.com/track/29Bjl63rfik8188v8J08hQ) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Destinologia](https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C) | 3:29 | 2022-07-06 | 2024-04-19 |
 | [Comodín](https://open.spotify.com/track/5ujrjQsZYp7oark6k7SFVa) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [El Tiempo Otra Vez Avanza](https://open.spotify.com/album/314m9ZiGXnoaDtXp96LlHs) | 2:49 | 2022-07-06 |  |
 | [Consejo de Amor \(feat\. Morat\)](https://open.spotify.com/track/7GrffUxvaKz4wKmyutin0P) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Quiero Volver](https://open.spotify.com/album/3L2sHT4Y1hbYYTt78OT0me) | 3:19 | 2022-07-06 | 2024-04-19 |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Big2, Antoon & Bilal Wahib
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,764 likes - 69 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,765 likes - 69 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ça Va](https://open.spotify.com/track/4KIsxUAKHmbnrNqraNs6Yb) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Ça Va](https://open.spotify.com/album/0MmjwvLcZF5y7ocMVV69E3) | 2:10 |
-| 2 | [Contigo](https://open.spotify.com/track/5dDTrE9ePpX0nGY1naajL0) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Contigo](https://open.spotify.com/album/5K3M8cOMFr6ITmE4FgMdI8) | 2:54 |
-| 3 | [Wat Er Ook Gebeurt](https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Wat Er Ook Gebeurt](https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k) | 3:08 |
-| 4 | [Zolang ik geef](https://open.spotify.com/track/76eD9ClF3KI9nmpduI1eKm) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Zolang ik geef](https://open.spotify.com/album/44u0hYOhCE1wcjojTT8Fdg) | 2:24 |
-| 5 | [Het Is Voorbij](https://open.spotify.com/track/5EcWtCCPsmWOIJUakcjdiG) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 3:23 |
-| 6 | [Onder Invloed](https://open.spotify.com/track/7ABMV7gt2YIQGBjkQ3IqZz) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Onder Invloed](https://open.spotify.com/album/1wHyKHiPa0OIc2nCNr6Deq) | 2:44 |
+| 2 | [Onder Invloed](https://open.spotify.com/track/7ABMV7gt2YIQGBjkQ3IqZz) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Onder Invloed](https://open.spotify.com/album/1wHyKHiPa0OIc2nCNr6Deq) | 2:44 |
+| 3 | [Contigo](https://open.spotify.com/track/5dDTrE9ePpX0nGY1naajL0) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Contigo](https://open.spotify.com/album/5K3M8cOMFr6ITmE4FgMdI8) | 2:54 |
+| 4 | [Wat Er Ook Gebeurt](https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Wat Er Ook Gebeurt](https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k) | 3:08 |
+| 5 | [Zolang ik geef](https://open.spotify.com/track/76eD9ClF3KI9nmpduI1eKm) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Zolang ik geef](https://open.spotify.com/album/44u0hYOhCE1wcjojTT8Fdg) | 2:24 |
+| 6 | [Het Is Voorbij](https://open.spotify.com/track/5EcWtCCPsmWOIJUakcjdiG) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 3:23 |
 | 7 | [Ik Wil Dat Je Liegt](https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Ik Wil Dat Je Liegt](https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV) | 2:54 |
 | 8 | [HJB \(Stil\)](https://open.spotify.com/track/4iHggacNJlIn8m5qJzHqpE) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [HJB \(Stil\)](https://open.spotify.com/album/0cLq1RpxhkE8tuA2hi6H7U) | 2:34 |
 | 9 | [Hier](https://open.spotify.com/track/0ARfM8J2uVN3pFojPpQLQ1) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta), [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Hier](https://open.spotify.com/album/2uQth6Suifi8qSBIUdJIPJ) | 2:34 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 68 | [Hoe Zou Het Zijn](https://open.spotify.com/track/1Ozx074E5K8p5QNoIgKnrt) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Hoe Zou Het Zijn](https://open.spotify.com/album/2ALYBOS62AwjwUTxPuQZtN) | 2:20 |
 | 69 | [Eindeloos](https://open.spotify.com/track/1dwbLPTQKBtIQH2jpfurVv) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Sereen](https://open.spotify.com/album/3wITyTdZonDkClhqDpzx2s) | 2:26 |
 
-Snapshot ID: `ZnSmYAAAAAAaswE0+GVdpXTm3ElXeQW2`
+Snapshot ID: `ZnkigQAAAABJv2eZKWoAHHIqDTrWVlK7`

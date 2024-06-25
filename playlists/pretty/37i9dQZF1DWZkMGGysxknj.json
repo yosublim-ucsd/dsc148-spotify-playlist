@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 812514,
+  "num_followers": 812485,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "drivers license",
-        "url": "https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 246345,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 149062,
       "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "drivers license",
+        "url": "https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 246345,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Warping Youth",
+        "url": "https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN"
+      },
+      "artists": [
+        {
+          "name": "Feng Suave",
+          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
+        }
+      ],
+      "duration_ms": 311680,
+      "name": "People Wither",
+      "url": "https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "I Like Me Better",
         "url": "https://open.spotify.com/album/4iNcyb5KYzejr9t5OROcFw"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 218157,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/3JnT8BV7zW6uuOWVgec98v"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Warping Youth",
-        "url": "https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN"
-      },
-      "artists": [
-        {
-          "name": "Feng Suave",
-          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
-        }
-      ],
-      "duration_ms": 311680,
-      "name": "People Wither",
-      "url": "https://open.spotify.com/track/5giQdpVtrrX8L8mcBNHGIa"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Heather",
-        "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/5W7UsE6bg6hx9ygRaebphc"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "DORA",
+          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
         }
       ],
-      "duration_ms": 198007,
-      "name": "Heather - Acoustic",
-      "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
+      "duration_ms": 143896,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/7Kn7TYpJT0fjv5he98acyq"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1063,6 +1063,22 @@
       "duration_ms": 162297,
       "name": "Conc\u00e9ntrica Canci\u00f3n",
       "url": "https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Heather",
+        "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 198007,
+      "name": "Heather - Acoustic",
+      "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/5W7UsE6bg6hx9ygRaebphc"
-      },
-      "artists": [
-        {
-          "name": "DORA",
-          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
-        }
-      ],
-      "duration_ms": 143896,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/7Kn7TYpJT0fjv5he98acyq"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Voy A Apagar La Luz",
         "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 143848,
       "name": "Voy A Apagar La Luz",
       "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "#Acoustic #2",
-        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 180643,
-      "name": "We are Young",
-      "url": "https://open.spotify.com/track/3lmVxRzXSE6Ls94GwWZ5pu"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "#Acoustic #2",
+        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 180643,
+      "name": "We are Young",
+      "url": "https://open.spotify.com/track/3lmVxRzXSE6Ls94GwWZ5pu"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0uCNv4sLGPihQDMa0k4xa1"
       },
@@ -1207,22 +1207,6 @@
       "duration_ms": 214143,
       "name": "Feels - Acoustic",
       "url": "https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
-      },
-      "artists": [
-        {
-          "name": "LHITNEY",
-          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
-        }
-      ],
-      "duration_ms": 185446,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Graveyard",
-        "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
       },
       "artists": [
         {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+          "name": "LHITNEY",
+          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
         }
       ],
-      "duration_ms": 254296,
-      "name": "Graveyard - Acoustic",
-      "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
+      "duration_ms": 185446,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1287,6 +1271,22 @@
       "duration_ms": 274040,
       "name": "Shadow Captain",
       "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Graveyard",
+        "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
+      },
+      "artists": [
+        {
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+        }
+      ],
+      "duration_ms": 254296,
+      "name": "Graveyard - Acoustic",
+      "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1319,6 +1319,22 @@
       "duration_ms": 204452,
       "name": "Downtown - Acoustic Version",
       "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Terrace Rain/Grid Search",
         "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 227250,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "One Kiss",
+        "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 160678,
+      "name": "One Kiss",
+      "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1451,22 +1467,6 @@
       "duration_ms": 238431,
       "name": "No Tears Left To Cry",
       "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "One Kiss",
-        "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 160678,
-      "name": "One Kiss",
-      "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Physical (Acoustic)",
-        "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
-      },
-      "artists": [
-        {
-          "name": "Victoria Voss",
-          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
-        }
-      ],
-      "duration_ms": 198608,
-      "name": "Physical - Acoustic",
-      "url": "https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 198293,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Physical (Acoustic)",
+        "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
+      },
+      "artists": [
+        {
+          "name": "Victoria Voss",
+          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
+        }
+      ],
+      "duration_ms": 198608,
+      "name": "Physical - Acoustic",
+      "url": "https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Tren Al Sur",
-        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 235982,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Trampoline (Acoustic)",
         "url": "https://open.spotify.com/album/0EV5YXg5n2WlGUjOc2oAvT"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 213098,
       "name": "Trampoline - Acoustic",
       "url": "https://open.spotify.com/track/72xTsTouZ5nBmASX8k1XCW"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Tren Al Sur",
+        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 235982,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 125895,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Two Lives EP",
         "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
       },
@@ -1887,18 +1871,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik"
       },
       "artists": [
         {
-          "name": "Jean Cruiz",
-          "url": "https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD"
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
         }
       ],
-      "duration_ms": 182118,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
+      "duration_ms": 125895,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1935,18 +1919,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
       },
       "artists": [
         {
-          "name": "Islas",
-          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
+          "name": "Jean Cruiz",
+          "url": "https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Fin",
-      "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
+      "duration_ms": 182118,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1967,6 +1951,22 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
+      },
+      "artists": [
+        {
+          "name": "Islas",
+          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Fin",
+      "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Reyes",
-          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 224722,
       "name": "Rare",
       "url": "https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Reyes",
+          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV"
       },
@@ -2219,18 +2203,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Duo Estoril",
-        "url": "https://open.spotify.com/album/2PwCEWIQeZGai2Sad90MiU"
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
       },
       "artists": [
         {
-          "name": "Duo Estoril",
-          "url": "https://open.spotify.com/artist/5Tr9wCxgz3fPsIYQIm9hcG"
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
         }
       ],
-      "duration_ms": 164916,
-      "name": "Everybody's Got To Learn Sometime",
-      "url": "https://open.spotify.com/track/3sufVSY7Ox1CcT2nnnkIFI"
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2247,6 +2231,22 @@
       "duration_ms": 229850,
       "name": "The Day I Left Hanoi",
       "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Duo Estoril",
+        "url": "https://open.spotify.com/album/2PwCEWIQeZGai2Sad90MiU"
+      },
+      "artists": [
+        {
+          "name": "Duo Estoril",
+          "url": "https://open.spotify.com/artist/5Tr9wCxgz3fPsIYQIm9hcG"
+        }
+      ],
+      "duration_ms": 164916,
+      "name": "Everybody's Got To Learn Sometime",
+      "url": "https://open.spotify.com/track/3sufVSY7Ox1CcT2nnnkIFI"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Las Flores",
-        "url": "https://open.spotify.com/album/4jpS2bi5zJJaZ2J2vXyBNt"
-      },
-      "artists": [
-        {
-          "name": "Lea Aput",
-          "url": "https://open.spotify.com/artist/2LchpIHNCd70zS78KogG0Z"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/6ngcjbVUoTOD2Up8AYJC7Y"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Una Forma de Energi\u0301a Que Ilumina las Cosas",
         "url": "https://open.spotify.com/album/0CiWilvMV56ugYkjd8Ct1O"
       },
@@ -2431,18 +2415,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb"
+        "name": "Las Flores",
+        "url": "https://open.spotify.com/album/4jpS2bi5zJJaZ2J2vXyBNt"
       },
       "artists": [
         {
-          "name": "Jameson David",
-          "url": "https://open.spotify.com/artist/66pRpCCxdVALakZpifVDwq"
+          "name": "Lea Aput",
+          "url": "https://open.spotify.com/artist/2LchpIHNCd70zS78KogG0Z"
         }
       ],
-      "duration_ms": 178143,
-      "name": "Ocean Eyes",
-      "url": "https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N"
+      "duration_ms": 157826,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/6ngcjbVUoTOD2Up8AYJC7Y"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2463,34 +2447,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x"
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb"
       },
       "artists": [
         {
-          "name": "Zoe",
-          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
+          "name": "Jameson David",
+          "url": "https://open.spotify.com/artist/66pRpCCxdVALakZpifVDwq"
         }
       ],
-      "duration_ms": 249469,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI"
-      },
-      "artists": [
-        {
-          "name": "Scott & Young",
-          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
-        }
-      ],
-      "duration_ms": 187389,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm"
+      "duration_ms": 178143,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2511,6 +2479,38 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI"
+      },
+      "artists": [
+        {
+          "name": "Scott & Young",
+          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
+        }
+      ],
+      "duration_ms": 187389,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x"
+      },
+      "artists": [
+        {
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
+        }
+      ],
+      "duration_ms": 249469,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
       },
@@ -2527,22 +2527,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Call Out My Name",
-        "url": "https://open.spotify.com/album/0yTcV1IFb2qMCK0LvO2LvS"
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/3DB9bG9QjWLhIp3y9PDeTD"
       },
       "artists": [
         {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
-        },
-        {
-          "name": "Beck Pete",
-          "url": "https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj"
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
         }
       ],
-      "duration_ms": 213266,
-      "name": "Call Out My Name",
-      "url": "https://open.spotify.com/track/4XIaUpLlWb1y3YVByVSFla"
+      "duration_ms": 209070,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/3D22QSh1HLlvTrNJAHx42t"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

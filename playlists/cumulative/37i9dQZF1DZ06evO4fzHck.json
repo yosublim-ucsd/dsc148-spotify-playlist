@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-05",
-  "description": "This is The Cure. The essential tracks, all in one playlist.",
+  "description": "This is The Cure. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is The Cure",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 137066,
       "name": "Accuracy",
       "url": "https://open.spotify.com/track/2hqRpEdHuGlnTpJyfHZEAF"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 215160,
       "name": "Friday I'm In Love",
       "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 399866,
       "name": "One Hundred Years",
       "url": "https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl"

@@ -1,6 +1,6 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Pixies",
-  "num_followers": 467673,
+  "num_followers": 467800,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-05-31 16:18:44",
       "album": {
+        "name": "Speak and Spell (Deluxe)",
+        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
+    },
+    {
+      "added_at": "2024-05-31 16:18:44",
+      "album": {
         "name": "There Is Nothing Left To Lose",
         "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 270773,
       "name": "Gimme Shelter",
       "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
-    },
-    {
-      "added_at": "2024-05-31 16:18:44",
-      "album": {
-        "name": "Speak and Spell (Deluxe)",
-        "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
     },
     {
       "added_at": "2024-05-31 16:18:44",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-05-31 16:18:44",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 260026,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
-    },
-    {
-      "added_at": "2024-05-31 16:18:44",
-      "album": {
         "name": "Evil Empire",
         "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 393666,
       "name": "Shout",
       "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
+    },
+    {
+      "added_at": "2024-05-31 16:18:44",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 260026,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
     },
     {
       "added_at": "2024-05-31 16:18:44",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-05-31 16:18:44",
       "album": {
-        "name": "Everybody Wants",
-        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
-      },
-      "artists": [
-        {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Could Have Been Me",
-      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
-    },
-    {
-      "added_at": "2024-05-31 16:18:44",
-      "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
       },
@@ -559,18 +543,18 @@
     {
       "added_at": "2024-05-31 16:18:44",
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+        "name": "Everybody Wants",
+        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
         }
       ],
-      "duration_ms": 255626,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+      "duration_ms": 187653,
+      "name": "Could Have Been Me",
+      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
     },
     {
       "added_at": "2024-05-31 16:18:44",
@@ -623,24 +607,8 @@
     {
       "added_at": "2024-05-31 16:18:44",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2024-05-31 16:18:44",
-      "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
       },
       "artists": [
         {
@@ -648,25 +616,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 263440,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
-    },
-    {
-      "added_at": "2024-05-31 16:18:44",
-      "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
+      "duration_ms": 255626,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
     },
     {
       "added_at": "2024-05-31 16:18:44",
@@ -687,18 +639,34 @@
     {
       "added_at": "2024-05-31 16:18:44",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 199342,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
+    },
+    {
+      "added_at": "2024-05-31 16:18:44",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
     },
     {
       "added_at": "2024-05-31 16:18:44",
@@ -715,6 +683,22 @@
       "duration_ms": 275733,
       "name": "Heart Of Glass - Special Mix",
       "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
+    },
+    {
+      "added_at": "2024-05-31 16:18:44",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
       "added_at": "2024-05-31 16:18:44",
@@ -751,6 +735,38 @@
     {
       "added_at": "2024-05-31 16:18:44",
       "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+    },
+    {
+      "added_at": "2024-05-31 16:18:44",
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
+    },
+    {
+      "added_at": "2024-05-31 16:18:44",
+      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 204800,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
-    },
-    {
-      "added_at": "2024-05-31 16:18:44",
-      "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
       "added_at": "2024-05-31 16:18:44",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-05-31 16:18:44",
       "album": {
-        "name": "Protect The Land / Genocidal Humanoidz",
-        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 307644,
-      "name": "Protect The Land",
-      "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
-    },
-    {
-      "added_at": "2024-05-31 16:18:44",
-      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 219400,
       "name": "Under You",
       "url": "https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3"
+    },
+    {
+      "added_at": "2024-05-31 16:18:44",
+      "album": {
+        "name": "Protect The Land / Genocidal Humanoidz",
+        "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 307644,
+      "name": "Protect The Land",
+      "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
     },
     {
       "added_at": "2024-05-31 16:18:44",

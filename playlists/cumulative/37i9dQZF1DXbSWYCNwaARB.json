@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: TripleS",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: Red Velvet",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -482,7 +482,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 180066,
       "name": "Attention",
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
@@ -1438,6 +1438,24 @@
       "duration_ms": 209786,
       "name": "COOL",
       "url": "https://open.spotify.com/track/7Cz1Ny3XhRz6KBT0YHVHyf"
+    },
+    {
+      "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225864,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
     },
     {
       "album": {
@@ -3354,6 +3372,24 @@
       "duration_ms": 182956,
       "name": "How You Like That",
       "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
+    },
+    {
+      "album": {
+        "name": "HURRICANE",
+        "url": "https://open.spotify.com/album/7sRIyO45mBnqimcG7Sk4k4"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149960,
+      "name": "HURRICANE",
+      "url": "https://open.spotify.com/track/6oOQzwWhv7RW0QmuPupgQX"
     },
     {
       "album": {
@@ -6166,7 +6202,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 195613,
       "name": "SABOTAGE",
       "url": "https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe"

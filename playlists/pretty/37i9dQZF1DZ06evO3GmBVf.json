@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lefty Sm. Los temas esenciales, todos en una lista.",
-  "num_followers": 172658,
+  "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
+  "num_followers": 172785,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAC5QbIaXak8APZ6etQ5Hgkz",
+  "snapshot_id": "ZndlgAAAAADVw8amwLhbr1fgo5YwpuPX",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Ratito",
+        "url": "https://open.spotify.com/album/0NCt9a5gcYV8b0Yp3oJspf"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/5zxcDBDiyNTB5OEcDyCfbq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 144414,
       "name": "Barrio (with Lefty Sm)",
       "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Ratito",
-        "url": "https://open.spotify.com/album/0NCt9a5gcYV8b0Yp3oJspf"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Un Ratito",
-      "url": "https://open.spotify.com/track/5zxcDBDiyNTB5OEcDyCfbq"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qu\u00e9 Agusticidad",
+        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Qu\u00e9 Agusticidad",
+      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Jale Vale",
         "url": "https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 174708,
       "name": "Mi Jale Vale",
       "url": "https://open.spotify.com/track/1iDBvtahnuXFaLit47gZ3h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qu\u00e9 Agusticidad",
-        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "Qu\u00e9 Agusticidad",
-      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora Es Diferente",
-        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 279642,
-      "name": "Ahora Es Diferente",
-      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo x Nada",
         "url": "https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 374571,
       "name": "Todo x Nada",
       "url": "https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ahora Es Diferente",
+        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 279642,
+      "name": "Ahora Es Diferente",
+      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
     },
     {
       "added_at": null,

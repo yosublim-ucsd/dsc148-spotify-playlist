@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Coldplay, NewJeans, Ariana Grande & Brandy & Monica, Charli XCX and more! cover: Coldplay
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,193 likes - 94 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,212 likes - 94 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 30 | [Humankind](https://open.spotify.com/track/3LH03hNxNUceSZCUXdgfRm) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Humankind](https://open.spotify.com/album/6IHG8lHGYHGVWfrtBosCJd) | 3:03 |
 | 31 | [Tears](https://open.spotify.com/track/1r3g6STDMeHV7ga3MTZpXI) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Tears](https://open.spotify.com/album/2DECZqJgZddWX9TtPlzPIE) | 2:55 |
 | 32 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 |
-| 33 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:50 |
+| 33 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:51 |
 | 34 | [Crash](https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 2:36 |
 | 35 | [Contrato](https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Contrato](https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno) | 3:24 |
 | 36 | [VINO TINTO](https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:05 |

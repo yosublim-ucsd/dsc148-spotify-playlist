@@ -2,7 +2,7 @@
 
 ### [This Is Lenny Kravitz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO361paU)
 
-> This is Lenny Kravitz\. The essential tracks, all in one playlist.
+> This Is Lenny Kravitz\. Los temas esenciales, todos en una lista.
 
 78 songs - 5 hr 46 min
 
@@ -12,7 +12,7 @@
 | [5 More Days 'Til Summer](https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 4:02 | 2023-12-13 |  |
 | [Again](https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Again](https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs) | 3:51 | 2023-07-28 |  |
 | [Always On The Run](https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 3:53 | 2023-07-28 |  |
-| [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 | 2023-07-28 |  |
+| [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 | 2023-07-28 | 2024-06-25 |
 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 | 2023-07-28 |  |
 | [Believe](https://open.spotify.com/track/6x9t21Gl6bRhOrgigur7wK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 4:54 | 2023-07-28 |  |
 | [Believe In Me](https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Lenny](https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU) | 4:40 | 2023-07-28 |  |
@@ -36,7 +36,7 @@
 | [Honey](https://open.spotify.com/track/0o4Z9Am4OOwRVHml4RyqZW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 3:50 | 2024-05-26 |  |
 | [Human \- Single Version](https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Human](https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR) | 3:31 | 2024-03-23 |  |
 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 | 2023-11-10 |  |
-| [I Belong To You](https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI) | 4:17 | 2023-07-28 |  |
+| [I Belong To You](https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI) | 4:17 | 2023-07-28 | 2024-06-25 |
 | [I'll Be Waiting](https://open.spotify.com/track/2HPVtKMWRlP1r9ODenvePM) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [It Is Time For A Love Revolution](https://open.spotify.com/album/5n8PfxHoukvHzyRmzr1Eqb) | 4:19 | 2024-05-13 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/521r1faH9BQlyPVR5pMmXm) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [It Is Time For A Love Revolution](https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB) | 4:19 | 2023-07-28 | 2024-05-12 |
 | [If I Could Fall In Love](https://open.spotify.com/track/4dODXMAiOlCbLYyF4QvlVt) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Lenny](https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU) | 4:21 | 2024-05-10 | 2024-05-27 |
@@ -74,8 +74,8 @@
 | [Stop Draggin' Around](https://open.spotify.com/track/4UeM5va3UhQ5hRsiW8F2Di) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 2:39 | 2023-07-28 |  |
 | [Stuck in the Middle](https://open.spotify.com/track/3KOUSBKibyAQo5LbIJh8pS) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 5:10 | 2024-05-27 |  |
 | [Sugar](https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:58 | 2023-07-28 |  |
-| [Superlove](https://open.spotify.com/track/0kXJNqmYdjwb31QLWGkNb7) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Superlove](https://open.spotify.com/album/4e8lXCOdFHi6iYGq9gZh7s) | 5:22 | 2023-07-28 | 2024-06-24 |
-| [Superlove](https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Black and White America](https://open.spotify.com/album/0RJA6msM8USEqe50FRY6b0) | 3:28 | 2023-07-28 | 2024-06-24 |
+| [Superlove](https://open.spotify.com/track/0kXJNqmYdjwb31QLWGkNb7) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Superlove](https://open.spotify.com/album/4e8lXCOdFHi6iYGq9gZh7s) | 5:22 | 2023-07-28 |  |
+| [Superlove](https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Black and White America](https://open.spotify.com/album/0RJA6msM8USEqe50FRY6b0) | 3:28 | 2023-07-28 |  |
 | [The Chamber](https://open.spotify.com/track/3qvFtKlZ9MV0VYUeZ3EC2A) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 4:57 | 2023-07-28 |  |
 | [The Pleasure and the Pain](https://open.spotify.com/track/4Uv7n3pkpNhwhXqb9tnj3L) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH) | 5:08 | 2023-07-28 |  |
 | [Thinking Of You](https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 6:24 | 2023-07-28 |  |

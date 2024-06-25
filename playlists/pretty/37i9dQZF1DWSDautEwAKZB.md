@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,158 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,160 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 38 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
 | 39 | [Un Vuelo A La \(feat\. Jessie Reyez\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:24 |
 | 40 | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/30K54dQDikHIulypekVSZp) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly) | 3:01 |
-| 41 | [Fora de Si \- Spotify Singles](https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fora de Si \- Spotify Singles](https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN) | 2:16 |
-| 42 | [La tua canzone \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/7HfV7tXzzMlivoXWvjcNh3) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Spotify Singles](https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki) | 3:36 |
+| 41 | [La tua canzone \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/7HfV7tXzzMlivoXWvjcNh3) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Spotify Singles](https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki) | 3:36 |
+| 42 | [Fora de Si \- Spotify Singles](https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fora de Si \- Spotify Singles](https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN) | 2:16 |
 | 43 | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb) | 5:01 |
 | 44 | [Fuego](https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Spotify Singles](https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX) | 3:32 |
 | 45 | [Primera Cita \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 4:18 |

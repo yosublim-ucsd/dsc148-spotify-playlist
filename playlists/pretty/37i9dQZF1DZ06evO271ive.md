@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 ### [This Is Sexyy Red](https://open.spotify.com/playlist/37i9dQZF1DZ06evO271ive)
 
-> This is Sexyy Red\. The essential tracks, all in one playlist.
+> This is Sexyy Red\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,599 likes - 44 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,661 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 25 | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur) | 2:46 |
 | 26 | [Ova Bad](https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:11 |
 | 27 | [I’m The Shit](https://open.spotify.com/track/7MSTSSvkhDg315YP1OUag1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:31 |
-| 28 | [Face Down](https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Face Down](https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr) | 2:54 |
-| 29 | [Come Here \(feat\. Sexyy Red\)](https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Come Here \(feat\. Sexyy Red\)](https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF) | 3:14 |
+| 28 | [Come Here \(feat\. Sexyy Red\)](https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Come Here \(feat\. Sexyy Red\)](https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF) | 3:14 |
+| 29 | [Face Down](https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Face Down](https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr) | 2:54 |
 | 30 | [TTG \(Go\)](https://open.spotify.com/track/4hKmlJ6sSCvDgQm50pTW05) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:20 |
 | 31 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 |
 | 32 | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hellcats SRTs 2 \(with Lil Durk\)](https://open.spotify.com/album/4ygqsOtoimrPwwH33iaAq0) | 2:45 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 43 | [Sexyy & Conceited](https://open.spotify.com/track/4EYlx0Dzl7XWpCcdwgZo4h) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SEXT8PE](https://open.spotify.com/album/3uIEBssMK6MKzhVNEv7oVp) | 2:50 |
 | 44 | [Sticky Icky \(Roll Det\)](https://open.spotify.com/track/7iffUVxZHOBwl2zUjyqRP0) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/6lbPCqEJgVNcsxjwFZKwtc) | 3:00 |
 
-Snapshot ID: `ZnYUAAAAAAAVeS7UfkSOdICgAj6f39Rd`
+Snapshot ID: `ZndlgAAAAAAtvyetLqVyqvHnVb8MtR+2`

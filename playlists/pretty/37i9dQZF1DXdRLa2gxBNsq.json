@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Manolo Kabezabolo.",
-  "num_followers": 104556,
+  "num_followers": 104576,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Siglo XXI",
-        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
-      },
-      "artists": [
-        {
-          "name": "Gatillazo",
-          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "La \u00daltima Patada",
-      "url": "https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Porco Bravo",
         "url": "https://open.spotify.com/album/18fU6efhpawi8Egj1pNB9P"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 177866,
       "name": "Nunca Pasa Nada",
       "url": "https://open.spotify.com/track/2OxMzKMrwoaEJvK70oFLgj"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Siglo XXI",
+        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
+      },
+      "artists": [
+        {
+          "name": "Gatillazo",
+          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "La \u00daltima Patada",
+      "url": "https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Arder\u00e1n",
-        "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
-      },
-      "artists": [
-        {
-          "name": "\u00daltimo Rekurso",
-          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
-        }
-      ],
-      "duration_ms": 182335,
-      "name": "Arder\u00e1n",
-      "url": "https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "S\u00edganle compadres",
         "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 155533,
       "name": "Txus",
       "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Arder\u00e1n",
+        "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
+      },
+      "artists": [
+        {
+          "name": "\u00daltimo Rekurso",
+          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+        }
+      ],
+      "duration_ms": 182335,
+      "name": "Arder\u00e1n",
+      "url": "https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "\u00bfIA o estupidez humana?",
-        "url": "https://open.spotify.com/album/6uxs1rvRX7q0IsjBk3xIZE"
-      },
-      "artists": [
-        {
-          "name": "Def Con Dos",
-          "url": "https://open.spotify.com/artist/1O4hqQz2nV0jrlF9VEFBNK"
-        }
-      ],
-      "duration_ms": 118931,
-      "name": "\u00bfIA o estupidez humana?",
-      "url": "https://open.spotify.com/track/1j9lzxIksQYcNf9zajvo9M"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "El Infierno Es Demasiado Dulce",
         "url": "https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 170290,
       "name": "El Infierno Es Demasiado Dulce",
       "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "\u00bfIA o estupidez humana?",
+        "url": "https://open.spotify.com/album/6uxs1rvRX7q0IsjBk3xIZE"
+      },
+      "artists": [
+        {
+          "name": "Def Con Dos",
+          "url": "https://open.spotify.com/artist/1O4hqQz2nV0jrlF9VEFBNK"
+        }
+      ],
+      "duration_ms": 118931,
+      "name": "\u00bfIA o estupidez humana?",
+      "url": "https://open.spotify.com/track/1j9lzxIksQYcNf9zajvo9M"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Figurante",
         "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 165739,
       "name": "Su Acierto",
       "url": "https://open.spotify.com/track/2M3WZ5z8yjKpD59NtRMUCO"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Vieja Guardia",
+        "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
+      },
+      "artists": [
+        {
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
+        }
+      ],
+      "duration_ms": 170585,
+      "name": "Vieja Guardia",
+      "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Humanos",
         "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Vieja Guardia",
-        "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
+        "name": "A Quien Pueda Interesar (Remasterizado 2024)",
+        "url": "https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q"
       },
       "artists": [
         {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
+          "name": "Salvate Si Puedes",
+          "url": "https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac"
         }
       ],
-      "duration_ms": 170585,
-      "name": "Vieja Guardia",
-      "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
+      "duration_ms": 165786,
+      "name": "S\u00e1lvate Si Puedes - Remasterizado 2024",
+      "url": "https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1507,22 +1523,6 @@
       "duration_ms": 232307,
       "name": "Lev\u00e1ntate",
       "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "A Quien Pueda Interesar (Remasterizado 2024)",
-        "url": "https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q"
-      },
-      "artists": [
-        {
-          "name": "Salvate Si Puedes",
-          "url": "https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac"
-        }
-      ],
-      "duration_ms": 165786,
-      "name": "S\u00e1lvate Si Puedes - Remasterizado 2024",
-      "url": "https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Un, Dos, Tres, Fuego",
-        "url": "https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS"
+        "name": "Ahora que se ha ido el sol",
+        "url": "https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl"
       },
       "artists": [
         {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+          "name": "Konsumo Respeto",
+          "url": "https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP"
         }
       ],
-      "duration_ms": 142373,
-      "name": "Las Drogas",
-      "url": "https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf"
+      "duration_ms": 240986,
+      "name": "Herida de guerra",
+      "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1603,6 +1603,22 @@
       "duration_ms": 262566,
       "name": "El Futuro No Espera (Versi\u00f3n 2024)",
       "url": "https://open.spotify.com/track/5yUkQEHXeihHaEqwc5nkOY"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Un, Dos, Tres, Fuego",
+        "url": "https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 142373,
+      "name": "Las Drogas",
+      "url": "https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1651,22 +1667,6 @@
       "duration_ms": 91600,
       "name": "Mucha Polic\u00eda, Poca Diversi\u00f3n",
       "url": "https://open.spotify.com/track/7yu3tzlkrr17M2EL0ELF71"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Criatura",
-        "url": "https://open.spotify.com/album/3G4CgHJv566we7b2M16lSq"
-      },
-      "artists": [
-        {
-          "name": "Non Servium",
-          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "Criatura",
-      "url": "https://open.spotify.com/track/1YGKtbd0E2PSTuwc2jOBxt"
     },
     {
       "added_at": "2024-06-20 22:00:00",

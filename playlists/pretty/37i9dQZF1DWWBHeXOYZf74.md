@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: JPEGMAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,350 likes - 114 songs - 6 hr 18 min
+[](https://open.spotify.com/user/null) - 1,327,390 likes - 114 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 14 | [Black&Blue](https://open.spotify.com/track/6sKGGi2pVKXR69s1SNdhGv) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX) | 3:18 |
 | 15 | [The Go Down](https://open.spotify.com/track/4r1IIs9keKHVRO7KSlnxCh) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [The Go Down](https://open.spotify.com/album/439ekKZJmgH7sWLk6Ze4JH) | 2:10 |
 | 16 | [The Afterparty \- Disco Version](https://open.spotify.com/track/7zA31bgrzPaDXbmrKViL9b) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Afterparty \(Remixes\)](https://open.spotify.com/album/5nlQy7iPMXCp64V3EmZ4rc) | 3:34 |
-| 17 | [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 |
+| 17 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
 | 18 | [Grey Scale](https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Grey Scale](https://open.spotify.com/album/2PcTdFPrOWM28ffy1e8cY6) | 2:59 |
 | 19 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 |
 | 20 | [JUST LIKE THAT](https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [JUST LIKE THAT](https://open.spotify.com/album/17Wk4tqPJ8rMH1hFCW4eLf) | 2:18 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 113 | [Can't Let Go](https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Let Go](https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS) | 3:59 |
 | 114 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
 
-Snapshot ID: `ZnUF5QAAAADwPpoM+V+lbb9bZT4t0HVa`
+Snapshot ID: `ZnlvogAAAAC1kVzvflF4Ln4c3v7gFDyg`

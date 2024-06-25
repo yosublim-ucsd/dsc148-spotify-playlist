@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 388094,
+  "num_followers": 388194,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAAae7rlZ9rTJNpsIFtMa8W9",
+  "snapshot_id": "ZndlgAAAAADrbkL7dnSN5LOh8E47yFga",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 295400,
-      "name": "Little L",
-      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc"
+      "duration_ms": 224493,
+      "name": "Love Foolosophy - Radio Edit",
+      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
     },
     {
       "added_at": null,
@@ -155,6 +155,22 @@
       "duration_ms": 243913,
       "name": "Space Cowboy (Classic Radio)",
       "url": "https://open.spotify.com/track/4SauVG68Oqmznmm04IQ0rm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "White Knuckle Ride",
+      "url": "https://open.spotify.com/track/7LWXh2JPLzKt1dla81mWWt"
     },
     {
       "added_at": null,
@@ -191,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Love Foolosophy - Radio Edit",
-      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Synkronized",
         "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
       },
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Drifting Along - Remastered 2013",
-      "url": "https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Dust Light Star (Deluxe Version)",
         "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 215080,
       "name": "All Good In The Hood",
       "url": "https://open.spotify.com/track/6lYDFEsQRgCDj0cBKodzG0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Drifting Along - Remastered 2013",
+      "url": "https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emergency on Planet Earth (Remastered)",
-        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 383360,
-      "name": "Music of the Mind",
-      "url": "https://open.spotify.com/track/29uQW0hQQLU39lTYoB9YMo"
+      "duration_ms": 321426,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/4baXYEQbDjse4afjjToEB6"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Dust Light Star (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+        "name": "Emergency on Planet Earth (Remastered)",
+        "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 264880,
-      "name": "Two Completely Different Things",
-      "url": "https://open.spotify.com/track/1zw2pnfGDjRjnPOquYGwH6"
+      "duration_ms": 383360,
+      "name": "Music of the Mind",
+      "url": "https://open.spotify.com/track/29uQW0hQQLU39lTYoB9YMo"
     }
   ],
   "unique_name": "This Is Jamiroquai",

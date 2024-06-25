@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,181 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,213 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 16 | [Grandma's Hands](https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:01 |
 | 17 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 |
 | 18 | [When You're In Love With A Beautiful Woman](https://open.spotify.com/track/1UiKUFbCfgbVjwY8W657Pv) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Pleasure & Pain](https://open.spotify.com/album/35XG1sovYmuWPpYCJsEX6F) | 2:58 |
-| 19 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
-| 20 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 |
+| 19 | [I Feel the Earth Move](https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 2:58 |
+| 20 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
 | 21 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
 | 22 | [Blue Bayou](https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Simple Dreams](https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry) | 3:59 |
 | 23 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 53 | [Feel The Need In Me](https://open.spotify.com/track/2AhrNgJ3HqE2FhYJwdGUye) | [The Detroit Emeralds](https://open.spotify.com/artist/51hRQLOySCpDBsBL6C03IZ) | [The Best Of The Detroit Emeralds](https://open.spotify.com/album/42LyGoiUfeE5WfwjjuKriU) | 3:22 |
 | 54 | [Follow You Follow Me \- Remastered 2007](https://open.spotify.com/track/0HdcunWW5FsRqKr3lwJOIo) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [And Then There Were Three](https://open.spotify.com/album/0lTuVJuCbD3FHEjIeQqyXg) | 4:00 |
 | 55 | [How Long](https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD) | [Ace](https://open.spotify.com/artist/5zWjD9ZjC2Lo0BB1M9gSC4) | [Five\-A\-Side](https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F) | 3:24 |
-| 56 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
-| 57 | [Father And Son](https://open.spotify.com/track/19slC7k8bsPOAKDjHYLU2W) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea for the Tillerman](https://open.spotify.com/album/1FKScTiXaADVfAp6gTWHKj) | 3:41 |
+| 56 | [Father And Son](https://open.spotify.com/track/19slC7k8bsPOAKDjHYLU2W) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea for the Tillerman](https://open.spotify.com/album/1FKScTiXaADVfAp6gTWHKj) | 3:41 |
+| 57 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
 | 58 | [Rocket Man \(I Think It's Going To Be A Long Long Time\)](https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau \(Remastered\)](https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6) | 4:41 |
 | 59 | [Stumblin' In](https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ), [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc) | [The Very Best of Suzi Quatro](https://open.spotify.com/album/3NsZev3pxengJeEoTeuzGb) | 3:59 |
 | 60 | [Take Me Home, Country Roads \- Rerecorded](https://open.spotify.com/track/2xYlyywNgefLCRDG8hlxZq) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol\. 1: Take Me Home Country Roads](https://open.spotify.com/album/5erROp1lRW31aNxj9PbAUf) | 3:17 |

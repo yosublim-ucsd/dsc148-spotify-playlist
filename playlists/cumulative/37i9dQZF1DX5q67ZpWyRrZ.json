@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 140000,
       "name": "Dil Ki Ye Baatein - Solo",
       "url": "https://open.spotify.com/track/4Yy2lVtP7IRZNyTYHmKJ0y"
@@ -1854,6 +1854,28 @@
       "duration_ms": 260000,
       "name": "Jaadoogari",
       "url": "https://open.spotify.com/track/0HDm8hVrpUDAXLmvortmoy"
+    },
+    {
+      "album": {
+        "name": "Jaadugari",
+        "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153882,
+      "name": "Jaadugari",
+      "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
     },
     {
       "album": {

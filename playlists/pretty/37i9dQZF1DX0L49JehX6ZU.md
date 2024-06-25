@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,063 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,067 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 32 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 |
 | 33 | [Khoj \(Passing By\)](https://open.spotify.com/track/4QK1qv4mgsfdWmMzp1Z3fx) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Believe](https://open.spotify.com/album/4aSylUJ8AnwjQ6BO9dtgGk) | 3:32 |
 | 34 | [Baatein Karo](https://open.spotify.com/track/0defKES0cQIsig27CpfPWx) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Baatein Karo](https://open.spotify.com/album/66vdrbexbgZKs1NkNRmIET) | 3:15 |
-| 35 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 |
-| 36 | [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 |
+| 35 | [Main Bola Hey!](https://open.spotify.com/track/0PKEQjnGn0LmPjozJ3t4MF) | [Karthik Rao](https://open.spotify.com/artist/3aAy6jFZLqqDUlMGSZcyaZ) | [Kota Factory: Season 1 \(Music from Tvf Original Series\)](https://open.spotify.com/album/6mOfUlKhx0AROUKdxA7v6Z) | 2:33 |
+| 36 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 |
 | 37 | [Baaton Baaton Main](https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Baaton Baaton Main](https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY) | 3:54 |
 | 38 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 |
 | 39 | [Roshni](https://open.spotify.com/track/2HG7HYy6d5aVAPoBNdWjs6) | [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [NIKAMMA](https://open.spotify.com/album/0sco8sEz0VIAuAoJiHIAIp) | 3:51 |

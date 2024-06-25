@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 252688,
       "name": "Nillayo",
       "url": "https://open.spotify.com/track/6s6evoMsDwWqjTvqbvbs5F"
@@ -2631,6 +2631,32 @@
     },
     {
       "album": {
+        "name": "Soodaana (From \"Pushpa 2 The Rule\") [TAMIL]",
+        "url": "https://open.spotify.com/album/0VIsoxBf7IGKAYoQvKV5pq"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260134,
+      "name": "Soodaana (From \"Pushpa 2 The Rule\") [TAMIL]",
+      "url": "https://open.spotify.com/track/3mIyypFRBKUgcaFp70EfTW"
+    },
+    {
+      "album": {
         "name": "Pushpa - The Rise",
         "url": "https://open.spotify.com/album/5dGmwPrF05ihcsEgBHBDhw"
       },
@@ -2969,6 +2995,44 @@
     },
     {
       "album": {
+        "name": "Tum Tum (From \"Enemy - Tamil\")",
+        "url": "https://open.spotify.com/album/4a0qhJkN7l6L0AN33iTWur"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Srivardhani Kuchi",
+          "url": "https://open.spotify.com/artist/6bmhUYiasV6rSORgLmHYZ4"
+        },
+        {
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        },
+        {
+          "name": "Satya Yamini",
+          "url": "https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu"
+        },
+        {
+          "name": "Roshini JKV",
+          "url": "https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX"
+        },
+        {
+          "name": "Tejaswini",
+          "url": "https://open.spotify.com/artist/22KTsf5b5SeYNOypXpyYBr"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228567,
+      "name": "Tum Tum (From \"Enemy - Tamil\")",
+      "url": "https://open.spotify.com/track/03fzjLAmEIlVMHUfX9zIxo"
+    },
+    {
+      "album": {
         "name": "Tum Tum (From \"Enemy - Telugu\")",
         "url": "https://open.spotify.com/album/15YqxTG8R95x7Blr8IuurU"
       },
@@ -3026,7 +3090,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 228567,
       "name": "Tum Tum (From \"Enemy\")",
       "url": "https://open.spotify.com/track/3H3x4NhR3wJh6IvRHmPvkd"

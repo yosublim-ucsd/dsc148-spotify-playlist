@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,530 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,545 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 14 | [Get Back](https://open.spotify.com/track/2L4TksDkTcAfZXGNjpdQqG) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/3tEL6DBYyXvtDSmQBDNog5) | 3:27 |
 | 15 | [B.G.P](https://open.spotify.com/track/2MF3lWVhYZ7BH3E3fVqUXs) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Magna Scale](https://open.spotify.com/album/5lVZIHBiqpK53vc7s2RnCL) | 2:21 |
 | 16 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 |
-| 17 | [Kawasaki Drift](https://open.spotify.com/track/651z4p0RWGLrleAdBhd2os) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP HOUSE](https://open.spotify.com/album/7H4uMwNDrQRF4I3NjGtAiw) | 4:37 |
+| 17 | [27CLUB feat\. LEX](https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 2:41 |
 | 18 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 |
-| 19 | [27CLUB feat\. LEX](https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 2:41 |
+| 19 | [Kawasaki Drift](https://open.spotify.com/track/651z4p0RWGLrleAdBhd2os) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP HOUSE](https://open.spotify.com/album/7H4uMwNDrQRF4I3NjGtAiw) | 4:37 |
 | 20 | [Villains feat\. edhiii boi, Novel Core](https://open.spotify.com/track/3V6nT2ZCLxT5pvOsaFQxez) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [Villains feat\. edhiii boi, Novel Core](https://open.spotify.com/album/6pXnLmJflQeP30lfRI8l4m) | 3:17 |
 | 21 | [NEW REAL](https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL](https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt) | 3:15 |
 | 22 | [SLATT](https://open.spotify.com/track/4MsvEHbuedIb4W2xhOVF0L) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 2:04 |

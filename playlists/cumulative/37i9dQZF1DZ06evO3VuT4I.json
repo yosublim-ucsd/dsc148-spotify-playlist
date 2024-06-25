@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Suzanne Ciani. The essential tracks, all in one playlist.",
+  "description": "This is Suzanne Ciani. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Suzanne Ciani",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 228680,
       "name": "A Sonic Womb Pt. 2",
       "url": "https://open.spotify.com/track/5d33aVJpOrCLzfoIfSk8pp"

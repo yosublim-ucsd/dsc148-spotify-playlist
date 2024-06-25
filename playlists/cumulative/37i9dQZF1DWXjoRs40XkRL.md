@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-277 songs - 23 hr 42 min
+278 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Ooch Apaar](https://open.spotify.com/track/14jmLovqc2rOc2KDqwd8Yw) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/10QCudlJoZPHcoPBDTc1mA) | 7:00 | 2022-07-12 | 2023-05-24 |
 | [Ooch Apaar](https://open.spotify.com/track/0IAo2pRTsnIKeFqSBovtE6) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW) | 7:00 | 2022-07-12 | 2022-08-23 |
 | [Ooch Apaar](https://open.spotify.com/track/2WoPxsPKf6nnPSY1Gk5i6O) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/3pWzIncx5VZObkjD96UhMH) | 7:00 | 2022-05-17 | 2022-07-29 |
+| [Paayaliya](https://open.spotify.com/track/1PnLIY2hOt9lGfqpFvoAUt) | [Tanu Srivastava](https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8), [Outsky](https://open.spotify.com/artist/6RXWOzECN3KD4QSr4V7dmg) | [Paayaliya](https://open.spotify.com/album/3s5f1LXoiICTgZ8hMzmua7) | 2:48 | 2024-06-24 |  |
 | [Palkan](https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Palkan](https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd) | 6:01 | 2023-08-23 |  |
 | [Parcchain \(Counting Days\)](https://open.spotify.com/track/06VwLKV6JqJ0PxXdhKJb6g) | [Tarish Prakash](https://open.spotify.com/artist/7x2ombGZwIYN2Ye7sm3Lzi), [Tanu Srivastava](https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8), [Vastvik Roy](https://open.spotify.com/artist/2EZIUlymZWjLB8As3QBoET) | [Parcchain \(Counting Days\)](https://open.spotify.com/album/2grJHFAs9qGkg3ZDTOg9RD) | 2:46 | 2023-10-16 | 2023-12-02 |
 | [Payaliya](https://open.spotify.com/track/01PrstkiG8yl6Za84sYkmA) | [Vijay Ganesan](https://open.spotify.com/artist/5j0FEHM0QFwUTpLhFxFLbI), [Ramya MB](https://open.spotify.com/artist/6TxossJrr0qFTIhiPtaMcw) | [Payaliya](https://open.spotify.com/album/2pZbrfjNSECl6oTaYC8eZ3) | 4:10 | 2023-12-15 | 2024-04-06 |
@@ -252,7 +253,7 @@
 | [Savare Aai Jaiyo](https://open.spotify.com/track/1XsInKRQXqV1gY1n98iwuk) | [Riaan Tambat](https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs), [Damini waghmare](https://open.spotify.com/artist/2E6SHnCQkgtFMMxjKWN8GW) | [Savare Aai Jaiyo](https://open.spotify.com/album/3ACdaHL57xN3Raw94p20J0) | 3:22 | 2023-03-09 | 2024-01-03 |
 | [Savare Aai Jaiyo](https://open.spotify.com/track/3cOcnWHVHSsuWcnTI1TU1j) | [Riaan Tambat](https://open.spotify.com/artist/4tLuCIQP78tqCexwEMsgrs), [Damini waghmare](https://open.spotify.com/artist/2E6SHnCQkgtFMMxjKWN8GW) | [Savare Aai Jaiyo](https://open.spotify.com/album/2YCuEMNmv4wSIUHdLdYg9B) | 3:22 | 2023-12-15 | 2024-02-27 |
 | [Saware \(feat\. Srilakshmi Belmannu\)](https://open.spotify.com/track/5u7aZdRS6KBP8vdRhd8etB) | [Gagan Baderiya](https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq), [Srilakshmi Belmannu](https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya) | [Saware \(feat\. Srilakshmi Belmannu\)](https://open.spotify.com/album/0ZaSyTUqD655XTCvaU8Ejs) | 2:45 | 2023-01-10 | 2023-09-06 |
-| [Sawariya](https://open.spotify.com/track/4jUEqneWH2CaGNfhGzlSRN) | [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U) | [Sawariya](https://open.spotify.com/album/1Cl0mIBqObDo6Ebst2Mkds) | 3:02 | 2024-05-03 |  |
+| [Sawariya](https://open.spotify.com/track/4jUEqneWH2CaGNfhGzlSRN) | [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U) | [Sawariya](https://open.spotify.com/album/1Cl0mIBqObDo6Ebst2Mkds) | 3:02 | 2024-05-03 | 2024-06-25 |
 | [Seher](https://open.spotify.com/track/6WcBchq24S1Gl7VyHqWKJz) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Seher](https://open.spotify.com/album/7ea5hZN7sma70PcoQKXXQb) | 3:28 | 2022-05-17 |  |
 | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Shafqat Ali Khan](https://open.spotify.com/artist/5G8426kJYJIy8qoGo1b4sU) | [Shafqat with Shafqat \(Lakh Jatan / Khamaj\)](https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S) | 7:20 | 2022-05-17 |  |
 | [Shalimar](https://open.spotify.com/track/2MxUrEdHDefNiDaizaEXAI) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Shalimar](https://open.spotify.com/album/7fkrWwOqUqH31sXEKGEB3q) | 5:00 | 2023-07-05 |  |

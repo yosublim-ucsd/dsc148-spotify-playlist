@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,662,627 likes - 101 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,662,706 likes - 101 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 22 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/0Izt8MdEU7zDy2hDsm5YkH) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C) | 2:36 |
 | 23 | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI) | 2:45 |
 | 24 | [ATTITUDE \(FEAT\. CHARLIE WILSON & CASH COBAIN\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 |
-| 25 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:50 |
+| 25 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:51 |
 | 26 | [BOP \(feat\. GloRilla\)](https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [REDRUM Wizard \(Gangsta Grillz\)](https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB) | 3:22 |
 | 27 | [Mmhmm](https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mmhmm](https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn) | 1:59 |
 | 28 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 |

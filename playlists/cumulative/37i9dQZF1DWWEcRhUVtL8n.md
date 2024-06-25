@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: beabadoobee
 
-1,891 songs - 4 day 3 hr 46 min
+1,892 songs - 4 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [Disco Man](https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/6fnqjvzov5e9A0wpfhLblj) | 3:12 | 2023-04-21 |  |
 | [Disgustingly Perfect](https://open.spotify.com/track/3TyqbrNobEQI53qfkYiBTV) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Shades Of Indigo](https://open.spotify.com/album/2MZigZKrCrvDzLK2BQIYEF) | 2:55 | 2022-10-15 | 2022-12-10 |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-05-17 |  |
-| [distance](https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [distance](https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G) | 1:53 | 2024-02-27 |  |
+| [distance](https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [distance](https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G) | 1:53 | 2024-02-27 | 2024-06-25 |
 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25) | 3:35 | 2023-07-21 | 2023-10-23 |
 | [Diving \- feat\. Holly Humberstone](https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:35 | 2023-07-21 | 2024-01-13 |
 | [Dizzy](https://open.spotify.com/track/3Ub91jxLv1QKAa6hUVElf9) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl) | [Dizzy](https://open.spotify.com/album/3HEwXCIMXuF6c3ggpNlWOR) | 2:37 | 2022-06-14 | 2022-06-25 |
@@ -1015,6 +1015,7 @@
 | [Lonely Star](https://open.spotify.com/track/5v7R1oGmAtsUFHJg66awep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Lonely Star](https://open.spotify.com/album/1qmgvWOYMWHW5jLcV6rZzr) | 3:57 | 2020-10-20 | 2021-05-28 |
 | [Lonesome](https://open.spotify.com/track/0TNTtsXvVKRzF4A76D5RHu) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Lonesome](https://open.spotify.com/album/3sNkrh8cyDTH9Vavr9RXBt) | 3:08 | 2020-10-24 | 2020-11-15 |
 | [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 | 2023-08-14 | 2023-10-01 |
+| [Look At That Woman](https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Look At That Woman](https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij) | 2:43 | 2024-06-21 |  |
 | [Looking For Somebody \(To Love\)](https://open.spotify.com/track/0eNfURq0r0oNSwFyw1VuVT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:58 | 2022-11-07 | 2023-09-30 |
 | [Lorelei](https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:00 | 2024-03-22 | 2024-05-02 |
 | [Lose Your Head](https://open.spotify.com/track/1CA6nEpwJvpraGPVXV6kg0) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Lose Your Head](https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3) | 3:19 | 2021-02-25 | 2021-05-28 |

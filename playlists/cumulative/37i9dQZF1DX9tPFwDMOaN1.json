@@ -1687,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/4t62n365iuvkvkANFiOG3m"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225864,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/3pDGJRDN3p6kCNZcD97FYY"
+    },
+    {
+      "album": {
         "name": "Chapter 0: WITH",
         "url": "https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki"
       },
@@ -4008,7 +4026,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 163598,
       "name": "i wonder... (with Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX"

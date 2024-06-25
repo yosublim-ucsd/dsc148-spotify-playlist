@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 
 > 2016 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,987 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,028 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 51 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
 | 52 | [Suddenly](https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [The End Of Comedy](https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H) | 3:17 |
 | 53 | [Half The World Away](https://open.spotify.com/track/21HfUACOv1lgBiYocruoW8) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 3:18 |
-| 54 | [Ophelia](https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 2:40 |
-| 55 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 |
+| 54 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 |
+| 55 | [Ophelia](https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 2:40 |
 | 56 | [Die Trying](https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Die Trying](https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm) | 3:29 |
 | 57 | [Gemini Feed](https://open.spotify.com/track/5fdzPMOxUqVJYSzTP5cFP7) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [The Altar](https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR) | 3:06 |
 | 58 | [Doing It To Death](https://open.spotify.com/track/2hDtkP0ge2Gckcj7qi2NQ2) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Ash & Ice](https://open.spotify.com/album/7E6UpW4mlPavgOq1YuB2fd) | 4:07 |

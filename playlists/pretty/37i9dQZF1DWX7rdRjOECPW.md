@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer, Sonne, Lieblingshits  ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,510,233 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,510,364 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 25 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 |
 | 26 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 |
 | 27 | [Danza Kuduro](https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO) | 3:18 |
-| 28 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 |
-| 29 | [Fire \- Official UEFA EURO 2024 Song](https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Fire \(Official UEFA EURO 2024 Song\)](https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ) | 2:48 |
+| 28 | [Fire \- Official UEFA EURO 2024 Song](https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Fire \(Official UEFA EURO 2024 Song\)](https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ) | 2:48 |
+| 29 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 |
 | 30 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |
 | 31 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 |
 | 32 | [Tshwala Bam \(feat\. S.N.E\) \- Remix](https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E\) \[Remix\]](https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2) | 3:23 |

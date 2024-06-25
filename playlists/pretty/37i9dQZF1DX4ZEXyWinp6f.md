@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,071 likes - 75 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,142 likes - 75 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 29 | [Red Tide](https://open.spotify.com/track/2pu5g2H7FrseHcmYev97bR) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Monument Builders](https://open.spotify.com/album/1anZBWOeghB5twG4CyJdoc) | 5:25 |
 | 30 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 |
 | 31 | [The Girl with the Sun in Her Head](https://open.spotify.com/track/2lbQIq3wQTZvdWnqL2e3Zp) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 10:27 |
-| 32 | [Pluto's First Popstar \(Outro\)](https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L) | [Eli Raybon](https://open.spotify.com/artist/1P6Xty8gqi0gNcqwt2R8Vq) | [Supertoys](https://open.spotify.com/album/50DNnceylCFUrQv5pmjYxm) | 2:28 |
-| 33 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
+| 32 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
+| 33 | [Pluto's First Popstar \(Outro\)](https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L) | [Eli Raybon](https://open.spotify.com/artist/1P6Xty8gqi0gNcqwt2R8Vq) | [Supertoys](https://open.spotify.com/album/50DNnceylCFUrQv5pmjYxm) | 2:28 |
 | 34 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 35 | [Dead Skin Cells](https://open.spotify.com/track/27W7GHUgfezHQ8krRZUfeX) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Lifeforms](https://open.spotify.com/album/0UcHfoo7KMso767JwePBMh) | 6:50 |
 | 36 | [Vision](https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b) | [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Atmosphere](https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM) | 3:10 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 49 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 |
 | 50 | [Brazil](https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Holkham Drones](https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi) | 4:53 |
 | 51 | [The Belldog](https://open.spotify.com/track/0d2HX14emol25j4C8yL7SP) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Moebius](https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC), [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [After the Heat](https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR) | 6:19 |
-| 52 | [Helix Nebula](https://open.spotify.com/track/604PudOrpJqx6kGDqjR4Ek) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 2:25 |
-| 53 | [Illusion Of Time](https://open.spotify.com/track/3dQiW5N2mVmYSmpI2suOIA) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/0337WPtUhYFk11ykBc1j6Z) | 4:22 |
-| 54 | [Tomorrow](https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa) | [Twin Color](https://open.spotify.com/artist/42lWmiIKGZf7dPv14wkzG0) | [Extended Play No 1](https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3) | 6:29 |
+| 52 | [Illusion Of Time](https://open.spotify.com/track/3dQiW5N2mVmYSmpI2suOIA) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/0337WPtUhYFk11ykBc1j6Z) | 4:22 |
+| 53 | [Tomorrow](https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa) | [Twin Color](https://open.spotify.com/artist/42lWmiIKGZf7dPv14wkzG0) | [Extended Play No 1](https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3) | 6:29 |
+| 54 | [Helix Nebula](https://open.spotify.com/track/604PudOrpJqx6kGDqjR4Ek) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 2:25 |
 | 55 | [Ganzfeld Effect](https://open.spotify.com/track/1giXD5iDA1zx8RbEuX551p) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Stasis](https://open.spotify.com/album/4MEJL8b4fQQ908mzoTFT6P) | 5:05 |
 | 56 | [Crimes of the Future](https://open.spotify.com/track/4xumyW5ML8uOvZmDsc8rHL) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Crimes of the Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KKkhpn8G1lPj6bmb1qMhe) | 2:10 |
 | 57 | [Human By Mistake](https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF) | [Landhouse](https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt) | [Human By Mistake](https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF) | 6:55 |
-| 58 | [Debris](https://open.spotify.com/track/0Q7rAIKYY7wM0bxBuFJwGb) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:24 |
-| 59 | [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 |
+| 58 | [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 |
+| 59 | [Debris](https://open.spotify.com/track/0Q7rAIKYY7wM0bxBuFJwGb) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:24 |
 | 60 | [Sowiesoso](https://open.spotify.com/track/6h1dYEUDxd8lJ32MEGegh1) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Sowiesoso](https://open.spotify.com/album/4QAH6e1Mi25uNXvvJTCneV) | 8:11 |
 | 61 | [The Guide](https://open.spotify.com/track/1ygEMNaHlMwIXHfcOF53Sb) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Assertion](https://open.spotify.com/album/3tDxBz2Gn23X8lPHPMNIsz) | 3:21 |
 | 62 | [The Eighth Wave](https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 5:07 |

@@ -4,7 +4,7 @@
 
 > the soundtrack for your vitamin d fix.
 
-321 songs - 18 hr 8 min
+322 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Santeria](https://open.spotify.com/track/6cJqlSO19vsfCsH1FeFI35) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime \(Explicit Version\)](https://open.spotify.com/album/5dwkpREUiLdmPLy4POzFSa) | 3:03 | 2021-03-24 | 2022-07-29 |
 | [Saturday Sun](https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:34 | 2022-06-24 | 2024-04-19 |
 | [Saturday Sun](https://open.spotify.com/track/45FrYVS9BScbfO8lujdsW0) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Saturday Sun](https://open.spotify.com/album/0UubMFNGhBzivj1Qa4sey1) | 3:34 | 2021-03-24 | 2022-07-29 |
+| [Say It Ain't So \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/5yNwnJeSPgDGSdvuCf44g0) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 4:17 | 2024-06-24 |  |
 | [Says She Loves Me](https://open.spotify.com/track/2p4Yx2CRINRoK2rNdIq2RE) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [Aer](https://open.spotify.com/album/7Bxewgd1K3cNG8W4ofuIEp) | 3:39 | 2021-03-24 | 2022-07-29 |
 | [Says She Loves Me](https://open.spotify.com/track/4rTgrVh6ZnIUKRntXTKXdh) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [Aer](https://open.spotify.com/album/707Xq5tvaWIz85oEpnJUM1) | 3:39 | 2022-06-24 | 2022-08-12 |
 | [Says She Loves Me](https://open.spotify.com/track/6esi0H0bM3ORbJwgVVCoOt) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [Aer](https://open.spotify.com/album/1wK7QTctYTPfRkkJ9zyyYY) | 3:39 | 2022-07-29 | 2023-03-15 |
@@ -274,7 +275,7 @@
 | [Straight Jacket](https://open.spotify.com/track/6t6bOh1jmVcRke7rmzAegb) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Fountain Tropical EP](https://open.spotify.com/album/7ttLLyyHakisBEXzhedMYm) | 3:25 | 2022-06-24 | 2023-05-18 |
 | [Strawberry Jam](https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Strawberry Jam](https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9) | 3:32 | 2024-06-07 |  |
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-26 | 2023-03-15 |
-| [Summertime Voodoo \- Edit](https://open.spotify.com/track/3BMeKUAZ7K6arC5X77fB2a) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Summertime Voodoo](https://open.spotify.com/album/0ZnQYSd99bPzYRMCKd3B6P) | 3:41 | 2024-06-07 |  |
+| [Summertime Voodoo \- Edit](https://open.spotify.com/track/3BMeKUAZ7K6arC5X77fB2a) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Summertime Voodoo](https://open.spotify.com/album/0ZnQYSd99bPzYRMCKd3B6P) | 3:41 | 2024-06-07 | 2024-06-25 |
 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-06-03 |  |
 | [Sunburn](https://open.spotify.com/track/6Fn7on22IiSxsCzSps3eQo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Sunburn](https://open.spotify.com/album/6JsLFPRu7sFRRCJWZiKLaD) | 1:53 | 2022-04-26 | 2022-07-29 |
 | [Sunday Vibe](https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sunday Vibe](https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc) | 3:06 | 2021-03-24 | 2022-04-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Dh2wgiAwVX.md) - [plain]
 
 > ¡Tu dosis de energía para alegrarte el día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,687,319 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,687,261 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Dh2wgiAwVX.md) - [plain]
 | 59 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 |
 | 60 | [El Fin del Mundo](https://open.spotify.com/track/70JnnNNAxPjvZGPwjJfX47) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [La la Love You Bonus](https://open.spotify.com/album/5RpGs1cIVJHLtn88LEdXjb) | 3:08 |
 
-Snapshot ID: `Zk0ZYAAAAADrr18caKvsvZyVNE/dOJpC`
+Snapshot ID: `Znk24AAAAAAd6u5qLuyvm7J4WoIrJxG2`

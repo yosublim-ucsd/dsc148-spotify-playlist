@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 194030,
+  "num_followers": 194093,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Adicto al Rock N Roll",
-        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 121706,
-      "name": "Abuso de Autoridad",
-      "url": "https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Viva Italia",
         "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 292040,
       "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
       "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Adicto al Rock N Roll",
+        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 121706,
+      "name": "Abuso de Autoridad",
+      "url": "https://open.spotify.com/track/2YOz9ahfbrr93hvnBDTySd"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Mortal",
-        "url": "https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX"
-      },
-      "artists": [
-        {
-          "name": "Sa\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG"
-        }
-      ],
-      "duration_ms": 305893,
-      "name": "Fuerte",
-      "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Guayabo",
         "url": "https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 152052,
       "name": "Guayabo",
       "url": "https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Mortal",
+        "url": "https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG"
+        }
+      ],
+      "duration_ms": 305893,
+      "name": "Fuerte",
+      "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Somos Hermanas",
+        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 230877,
+      "name": "Somos Hermanas",
+      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Grita Tierra",
         "url": "https://open.spotify.com/album/16xnx1BIx96nDG1T20MF3z"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 275327,
       "name": "Grita Tierra",
       "url": "https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Somos Hermanas",
-        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 230877,
-      "name": "Somos Hermanas",
-      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Me Llamaron Asesina",
-        "url": "https://open.spotify.com/album/728sapsjppB98wPX2yckAC"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Me Llamaron Asesina",
-      "url": "https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "El Largo Camino al \u00c9xito",
         "url": "https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B"
       },
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Me Llamaron Asesina",
+        "url": "https://open.spotify.com/album/728sapsjppB98wPX2yckAC"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Me Llamaron Asesina",
+      "url": "https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "La Dieta del Lagarto",
         "url": "https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw"
       },
@@ -1731,6 +1731,22 @@
       "duration_ms": 194986,
       "name": "Empresaurio",
       "url": "https://open.spotify.com/track/2nnHeIo6kBeSWqj41EmC2x"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Nada en Contra del K-pop",
+        "url": "https://open.spotify.com/album/3xQEMzgMAQGsUZEihbkJcz"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 289506,
+      "name": "Nada en Contra del K-pop",
+      "url": "https://open.spotify.com/track/0wEJTKfSqdcQv9RNSWAJEJ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1763,22 +1779,6 @@
       "duration_ms": 284164,
       "name": "5 Malparidos",
       "url": "https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Nada en Contra del K-pop",
-        "url": "https://open.spotify.com/album/3xQEMzgMAQGsUZEihbkJcz"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 289506,
-      "name": "Nada en Contra del K-pop",
-      "url": "https://open.spotify.com/track/0wEJTKfSqdcQv9RNSWAJEJ"
     }
   ],
   "unique_name": "Himnos de Resistencia Latinoamericana",

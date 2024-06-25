@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Dollypran
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,748 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,820 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ghetto Symphony](https://open.spotify.com/track/0Qk2pgJxmfiAwH1jtjTTBc) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [RECTOVERSO](https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9) | 4:11 |
-| 2 | [Kakashi](https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Kakashi](https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP) | 4:48 |
+| 2 | [No Love](https://open.spotify.com/track/4CelQrVKHuc1cvg7dzAn0h) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Champion](https://open.spotify.com/album/0rl7Nbh1yssAwOHGzAijR5) | 3:02 |
 | 3 | [Hanya Lwe9te](https://open.spotify.com/track/0MxvfoyHnrhPqcRGH61fvn) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Hanya Lwe9te](https://open.spotify.com/album/17YgJ4bcxu6TFYeVbPoQls) | 3:21 |
-| 4 | [VIRA \- SLABA](https://open.spotify.com/track/4G1hlwJvJJSClVL5LhROPi) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [VIRA \- SLABA](https://open.spotify.com/album/6jaow6TMiPpepI5hNq0OGb) | 2:48 |
-| 5 | [No Love](https://open.spotify.com/track/4CelQrVKHuc1cvg7dzAn0h) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Champion](https://open.spotify.com/album/0rl7Nbh1yssAwOHGzAijR5) | 3:02 |
-| 6 | [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 |
+| 4 | [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 |
+| 5 | [Kakashi](https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Kakashi](https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP) | 4:48 |
+| 6 | [VIRA \- SLABA](https://open.spotify.com/track/4G1hlwJvJJSClVL5LhROPi) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [VIRA \- SLABA](https://open.spotify.com/album/6jaow6TMiPpepI5hNq0OGb) | 2:48 |
 | 7 | [واي ؟](https://open.spotify.com/track/3H2WlcVSS22NRTcBGpjtpj) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [واي ؟](https://open.spotify.com/album/6Tncm17nNckzfoAUb9JQf0) | 4:53 |
 | 8 | [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 |
 | 9 | [Drari](https://open.spotify.com/track/3E0tyueJ8RwaR9787Iucqc) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Drari](https://open.spotify.com/album/5H2BQ6JJTu07btoGKRiISX) | 3:12 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 39 | [M.I.M](https://open.spotify.com/track/1r2Fl6ZdRIAZpQDGR9X9ov) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [M.I.M](https://open.spotify.com/album/2gfPi1iEcCqRKuBxPprAxK) | 3:02 |
 | 40 | [ماما](https://open.spotify.com/track/02JOIeE385aLgrUrMvOjGh) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [ماما](https://open.spotify.com/album/3o1uJGm5FWz1nZThS1xB8o) | 3:46 |
 
-Snapshot ID: `ZndzkAAAAACuWqm/746RCsMbaqPZqckL`
+Snapshot ID: `ZnmIfwAAAAB30S6m3o9a81v0CRHo5Ktz`

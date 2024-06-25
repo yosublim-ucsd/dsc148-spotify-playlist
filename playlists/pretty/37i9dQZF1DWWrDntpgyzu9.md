@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 
 > Solte a voz no chuveiro e liberte o cantor dentro de você!
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,311 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,304 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 | 44 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 45 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 46 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 |
-| 47 | [Lonely](https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 |
-| 48 | [Castle on the Hill](https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:21 |
+| 47 | [Castle on the Hill](https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:21 |
+| 48 | [Lonely](https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 |
 | 49 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 |
 | 50 | [The Lazy Song](https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:09 |
 

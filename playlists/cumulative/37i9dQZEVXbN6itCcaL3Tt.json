@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 120902,
       "name": "4 RANO",
       "url": "https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS"
@@ -23007,6 +23007,28 @@
     },
     {
       "album": {
+        "name": "Nawiedzony dom",
+        "url": "https://open.spotify.com/album/1R7RAEaC6WflG7Yr32Jb7U"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Nawiedzony dom",
+      "url": "https://open.spotify.com/track/1ZBOgphzRPANN4IFOU9L3H"
+    },
+    {
+      "album": {
         "name": "NDA",
         "url": "https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29"
       },
@@ -25072,7 +25094,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 128000,
       "name": "On Me",
       "url": "https://open.spotify.com/track/6esBajH4pfY0i61Vr53QWR"
@@ -32778,7 +32800,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"

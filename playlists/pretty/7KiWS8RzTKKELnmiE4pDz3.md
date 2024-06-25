@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 134 songs - 7 hr 20 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 139 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,5 +142,10 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 132 | [No Tears](https://open.spotify.com/track/3DnP2eTPfvOVGZr9covIU0) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:11 |
 | 133 | [Japanese Soul Bar](https://open.spotify.com/track/4dVuUY2HbfS9dbVP55MWSw) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:01 |
 | 134 | [Scared Money \(feat\. J\. Cole and Moneybagg Yo\)](https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Scared Money](https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8) | 3:24 |
+| 135 | [Magic Johnson](https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian \[Deluxe\]](https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q) | 2:17 |
+| 136 | [Juice WRLD DID \(feat\. Juice WRLD\)](https://open.spotify.com/track/47IySiC5o08gz0z5VDiH93) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:27 |
+| 137 | [Dirty Shoes \(feat\. Gunna\)](https://open.spotify.com/track/5yh7nX2VqXUWjBVAzEwtVn) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language](https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf) | 3:18 |
+| 138 | [Scoliosis \(feat\. Gunna & Duke\)](https://open.spotify.com/track/2AKWKzRCuyuMJzMzsJKr8G) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Duke](https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language](https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf) | 3:40 |
+| 139 | [Surf \(feat\. Gunna\)](https://open.spotify.com/track/6igOR5QCn09zAVF2ikZjsV) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:04 |
 
-Snapshot ID: `AAActoi3BqEUJePi+rzxN4S0PhwZ4T5F`
+Snapshot ID: `AAAcu9nOIvPbMfzkdr6PsrnL//moV3EJ`

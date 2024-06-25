@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,616 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,648 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 25 | [Yo No Soy Rebelde](https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 1:20 |
 | 26 | [Atras de la Raya](https://open.spotify.com/track/0QvKb8DrkSzvSDxBRJxK7K) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Peerless 80 Aniversario \- 24 Exitos Vol\. 1](https://open.spotify.com/album/4OfBy9NPNwl1pYoIjNLBhU) | 2:44 |
 | 27 | [Un hombre respet](https://open.spotify.com/track/76NCs54B9hQLW3HZwUxppM) | [Los Hitters](https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:29 |
-| 28 | [Al Final](https://open.spotify.com/track/0KxTwdcV3cdi7KKpkHCPqp) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 3:07 |
+| 28 | [Agujetas de Color de Rosa \(Pink Shoe Laces\)](https://open.spotify.com/track/5kstxhvKTpuO3A8PYmYeKV) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:13 |
 | 29 | [Vuelve Primavera](https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27) | [Los Blue Caps](https://open.spotify.com/artist/6rC7ojIyJ2a1zVcZevThcv) | [Buen Rock Esta Noche](https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz) | 2:30 |
 | 30 | [Payasito \(Ponchinello\)](https://open.spotify.com/track/0bfNMCcujmZHi03rkpFmAL) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Serie De Coleccion 15 Autenticos Exitos \- Enrique Guzman](https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT) | 2:36 |
 | 31 | [Y Es Por Ti](https://open.spotify.com/track/26aQy7fgeQuhJm619Z8lgq) | [Los Reno](https://open.spotify.com/artist/2gmmO8dk7iXgNYuB24FKQo) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:11 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 35 | [Es Lupe \(Hang on Sloopy\)](https://open.spotify.com/track/5HPbGQ2Rz9EiH0dypMIFWX) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:18 |
 | 36 | [Colina azul \- Bluberry Hill](https://open.spotify.com/track/4UoVBuPJlaKNyspCITsiA8) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Los Originales](https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e) | 2:34 |
 | 37 | [Las Cerezas \(Le Celiege\)](https://open.spotify.com/track/2ZvT2qVY0aOtyCGKyLf6Co) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Disco de Oro](https://open.spotify.com/album/4bSCPHorq2wwgm05NYw63g) | 3:02 |
-| 38 | [Agujetas de Color de Rosa \(Pink Shoe Laces\)](https://open.spotify.com/track/5kstxhvKTpuO3A8PYmYeKV) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:13 |
+| 38 | [Al Final](https://open.spotify.com/track/0KxTwdcV3cdi7KKpkHCPqp) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 3:07 |
 | 39 | [Vida](https://open.spotify.com/track/13OJJfM6e3Y3agHJYGUhSZ) | [Los Soñadores](https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:17 |
 | 40 | [Chica Ye Ye](https://open.spotify.com/track/6v8pDrOktzNFTpyM2nMIG9) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:14 |
 | 41 | [Polvora](https://open.spotify.com/track/1Vy1yzb5ktmDwPO5TYiqPW) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Roots Of Rock En Español](https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr) | 1:56 |

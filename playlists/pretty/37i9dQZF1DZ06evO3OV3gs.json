@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 659459,
+  "num_followers": 659549,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAABttFsqfSBH4UB+xWnhKfRF",
+  "snapshot_id": "ZndlgAAAAADJK4AZY9nRHGgMQqKUXp1z",
   "tracks": [
     {
       "added_at": null,
@@ -71,30 +71,6 @@
       "duration_ms": 342680,
       "name": "Like a Prayer",
       "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Popular (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
-      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
       "added_at": null,
@@ -703,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back That Up To The Beat",
+        "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 211475,
+      "name": "Back That Up To The Beat - demo version",
+      "url": "https://open.spotify.com/track/5ZQ2slXNqImBi0SdomcjYN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebel Heart (Deluxe)",
         "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
       },
@@ -719,22 +711,6 @@
       "duration_ms": 227480,
       "name": "Bitch I'm Madonna",
       "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back That Up To The Beat",
-        "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 211475,
-      "name": "Back That Up To The Beat - demo version",
-      "url": "https://open.spotify.com/track/5ZQ2slXNqImBi0SdomcjYN"
     },
     {
       "added_at": null,
@@ -771,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MDNA",
-        "url": "https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0"
+        "name": "BREAK MY SOUL (THE QUEENS REMIX)",
+        "url": "https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J"
       },
       "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Girl Gone Wild",
-      "url": "https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb"
+      "duration_ms": 356000,
+      "name": "BREAK MY SOUL - THE QUEENS REMIX",
+      "url": "https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr"
     },
     {
       "added_at": null,
@@ -823,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BREAK MY SOUL (THE QUEENS REMIX)",
-        "url": "https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "BREAK MY SOUL - THE QUEENS REMIX",
-      "url": "https://open.spotify.com/track/4DukzQv7lF6DXe6Un7lghr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -871,6 +831,26 @@
       "duration_ms": 279480,
       "name": "Die Another Day",
       "url": "https://open.spotify.com/track/7DUpuAzGUyJaJB3p9BC3Ms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Madame X (Deluxe)",
+        "url": "https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 298164,
+      "name": "Medell\u00edn (with Maluma)",
+      "url": "https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d"
     },
     {
       "added_at": null,
@@ -907,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Erotica (PA Version)",
-        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 323333,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/2tySjBBWqam7oaBUZ26oNL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Life",
         "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
       },
@@ -935,6 +899,42 @@
       "duration_ms": 216026,
       "name": "Love Profusion",
       "url": "https://open.spotify.com/track/5NDS6qHwbOmVqZgTvtC66y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frozen On Fire",
+        "url": "https://open.spotify.com/album/1tigrws32UpX26xU9Y3Yac"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Frozen On Fire",
+      "url": "https://open.spotify.com/track/7MfRwjpGwlZpxOvKiMlf1m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Erotica (PA Version)",
+        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 323333,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/2tySjBBWqam7oaBUZ26oNL"
     }
   ],
   "unique_name": "This Is Madonna",

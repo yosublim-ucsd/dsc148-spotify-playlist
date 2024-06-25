@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: Rowjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,008 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,010 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

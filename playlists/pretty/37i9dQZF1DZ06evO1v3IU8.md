@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 
 > This is Banda MS de Sergio Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,316,072 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,316,241 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 12 | [Solo Con Verte](https://open.spotify.com/track/5z4O1H0vFY0Nh4ZMtfgapP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 3:12 |
 | 13 | [No Me Pidas Perdón](https://open.spotify.com/track/5GF1ljm1AWf6RQs9bQkZPR) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:43 |
 | 14 | [Nos Extraño \(En Vivo\)](https://open.spotify.com/track/0mCdGgntnPIE6RWueVSwyV) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [UVV Vol\. 8 \(En Vivo\)](https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K) | 3:00 |
-| 15 | [Por Mi No Te Detengas](https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:45 |
+| 15 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 |
 | 16 | [Que Fuimos](https://open.spotify.com/track/56OTBUIn4xlmDhtPowlA2d) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 3:37 |
-| 17 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 |
+| 17 | [Por Mi No Te Detengas](https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:45 |
 | 18 | [Tu Postura](https://open.spotify.com/track/4RNzKQEzmlvVHca4t6Txkj) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 4:41 |
 | 19 | [Mi Olvido](https://open.spotify.com/track/0sfs8U4743dBlUKKxN7pye) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amor Enfermo](https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo) | 3:38 |
 | 20 | [Tengo Que Colgar](https://open.spotify.com/track/2yGNkkwU2iT0doFxkxhcXH) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 49 | [Mamacita](https://open.spotify.com/track/1EgDuGy5UlKVLTWv0UqIYL) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mamacita](https://open.spotify.com/album/31bOSdDYTvdfgIAGXUeCHk) | 2:41 |
 | 50 | [El Mechón](https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Escuela De Rancho](https://open.spotify.com/album/3MAavJryyyldhnZGkgMr2T) | 2:19 |
 
-Snapshot ID: `ZnYUAAAAAAAsPi4jQ/VzYm6QCsP9EZ5c`
+Snapshot ID: `ZndlgAAAAAD3ZENewC1oYdk/nM6fHpg9`

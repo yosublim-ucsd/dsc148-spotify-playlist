@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,908 likes - 100 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,922 likes - 100 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,13 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 77 | [Neptune's Convoy](https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [In Search Of](https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL) | 5:06 |
 | 78 | [Call of the Void](https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Call of the Void](https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G) | 3:59 |
 | 79 | [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 |
-| 80 | [Gold](https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY) | [All The Saints](https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ) | [Gold](https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF) | 5:11 |
-| 81 | [Get What You Deserve](https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Get What You Deserve](https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f) | 9:10 |
+| 80 | [Get What You Deserve](https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Get What You Deserve](https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f) | 9:10 |
+| 81 | [Gold](https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY) | [All The Saints](https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ) | [Gold](https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF) | 5:11 |
 | 82 | [All My Friends Move Like The Night](https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR) | [Devil Electric](https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA) | [All My Friends Move Like The Night](https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK) | 2:53 |
 | 83 | [Riding Shotgun](https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm) | [Lowrider](https://open.spotify.com/artist/2ofc2suzjVzbu2EVToSKHW) | [Ode To IO](https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj) | 6:06 |
 | 84 | [Arise](https://open.spotify.com/track/6Sq8Tkk3piqcxTzkrWiZao) | [Hippie Death Cult](https://open.spotify.com/artist/4IZavjyt6nf7m5fq31pjXl) | [Arise](https://open.spotify.com/album/2aXbEHQTfNI4xQ4jLoMy4d) | 6:02 |
-| 85 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
-| 86 | [Heavy Feather](https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb) | [Acrimony](https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37) | [Tumuli Schroomaroom](https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz) | 9:59 |
+| 85 | [Heavy Feather](https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb) | [Acrimony](https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37) | [Tumuli Schroomaroom](https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz) | 9:59 |
+| 86 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
 | 87 | [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 |
 | 88 | [Kiss Away](https://open.spotify.com/track/35OoYjqJdg27FpA2zD9IYQ) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Saved by Magic](https://open.spotify.com/album/1ZMIcvk2Mxow7HI9VUKBWD) | 5:34 |
 | 89 | [Tested By Death](https://open.spotify.com/track/0m6wZIKsMjBfReiuCTkaYz) | [Wizard Master](https://open.spotify.com/artist/6X1zEmVicCUxyjqKVxOGNH) | [Tested By Death](https://open.spotify.com/album/0GZ3kOIZdziDYGg585OUBb) | 8:32 |

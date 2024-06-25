@@ -2,7 +2,7 @@
 
 ### [RAPública Inca](https://open.spotify.com/playlist/37i9dQZF1DX70Gho9vXY44)
 
-> Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Jaze
+> Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Gonzalo Genek, Daske Gaitán
 
 108 songs - 6 hr 24 min
 

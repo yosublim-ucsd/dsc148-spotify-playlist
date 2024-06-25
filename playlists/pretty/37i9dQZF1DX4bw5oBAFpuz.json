@@ -1,12 +1,12 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 81653,
+  "num_followers": 81661,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnSmYAAAAAAAcW8Q3ED0S0aMj09kQvRE",
+  "snapshot_id": "Znk8pgAAAAAp/+2uzm8yXnfMGdhWq2zC",
   "tracks": [
     {
       "added_at": "2024-06-20 22:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Mad Season",
-        "url": "https://open.spotify.com/album/2HqQR5SkxWX7uUWaxlLksn"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "If You're Gone",
-      "url": "https://open.spotify.com/track/2f5N826udWfjT9iomeaBJt"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Songs About Jane",
         "url": "https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 244866,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/1YI0uK36eupTmw9F8kHysr"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Mad Season",
+        "url": "https://open.spotify.com/album/2HqQR5SkxWX7uUWaxlLksn"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "If You're Gone",
+      "url": "https://open.spotify.com/track/2f5N826udWfjT9iomeaBJt"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Freya Ridings",
-        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
-      },
-      "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 211842,
-      "name": "Castles",
-      "url": "https://open.spotify.com/track/5tZWtGT65sMrDVPB5H444n"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "These Tears",
         "url": "https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 169656,
       "name": "These Tears",
       "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Freya Ridings",
+        "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "duration_ms": 211842,
+      "name": "Castles",
+      "url": "https://open.spotify.com/track/5tZWtGT65sMrDVPB5H444n"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 196346,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Space in My Heart",
         "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 178849,
       "name": "Space in My Heart",
       "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 196346,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "emotionally unavailable",
-        "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 182958,
-      "name": "we're not kids anymore",
-      "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Better in Blak",
         "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 231666,
       "name": "Homecoming Queen",
       "url": "https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "emotionally unavailable",
+        "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 182958,
+      "name": "we're not kids anymore",
+      "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "As It Was (Acoustic)",
-        "url": "https://open.spotify.com/album/5tozhcFvFMQl9vjheT5PCj"
-      },
-      "artists": [
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        }
-      ],
-      "duration_ms": 155823,
-      "name": "As It Was - Acoustic",
-      "url": "https://open.spotify.com/track/3Ui57V8wCESmGs615NTC2b"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Mitch James - Deluxe Edition",
         "url": "https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 182906,
       "name": "Bright Blue Skies",
       "url": "https://open.spotify.com/track/5zxwumO0laRosoeOvbVSvc"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "As It Was (Acoustic)",
+        "url": "https://open.spotify.com/album/5tozhcFvFMQl9vjheT5PCj"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        }
+      ],
+      "duration_ms": 155823,
+      "name": "As It Was - Acoustic",
+      "url": "https://open.spotify.com/track/3Ui57V8wCESmGs615NTC2b"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Jamie Lawson",
+        "url": "https://open.spotify.com/album/0xgnGJbAUWGc89cevj0NUh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 201295,
+      "name": "Wasn't Expecting That",
+      "url": "https://open.spotify.com/track/0DIcd7djiVGT4RYbTIlsoJ"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Gold-Diggers Sound",
         "url": "https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 205026,
       "name": "Best Fake Smile",
       "url": "https://open.spotify.com/track/3ZDqEhR3yfrcnOWi0g5YGD"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Jamie Lawson",
-        "url": "https://open.spotify.com/album/0xgnGJbAUWGc89cevj0NUh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
-        }
-      ],
-      "duration_ms": 201295,
-      "name": "Wasn't Expecting That",
-      "url": "https://open.spotify.com/track/0DIcd7djiVGT4RYbTIlsoJ"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Nightfalls",
+        "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 220892,
+      "name": "Nightfalls",
+      "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Burning Daylight",
         "url": "https://open.spotify.com/album/5FdecV9YIP62njz9sgfyWK"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 184000,
       "name": "Burning Daylight",
       "url": "https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Nightfalls",
-        "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 220892,
-      "name": "Nightfalls",
-      "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Baby It's You",
-        "url": "https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 242239,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "And So I Grow",
         "url": "https://open.spotify.com/album/47dKXU9d4G8QbfcfKS8aHy"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 218411,
       "name": "And So I Grow",
       "url": "https://open.spotify.com/track/6ODXo2jtBLbsVlnDFIVglV"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Baby It's You",
+        "url": "https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 242239,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Table Of Fools",
-        "url": "https://open.spotify.com/album/6DNHrREOywqBISE6MW7hCk"
-      },
-      "artists": [
-        {
-          "name": "IBE",
-          "url": "https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT"
-        }
-      ],
-      "duration_ms": 204885,
-      "name": "Table Of Fools",
-      "url": "https://open.spotify.com/track/0QSJddfRGIfStqy0DZ9pvw"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Something In The Water",
         "url": "https://open.spotify.com/album/1q1VBL1atF2cU73EECPj1N"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 183073,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/5ouXSHkPf6VnpeKqYuyBBU"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Table Of Fools",
+        "url": "https://open.spotify.com/album/6DNHrREOywqBISE6MW7hCk"
+      },
+      "artists": [
+        {
+          "name": "IBE",
+          "url": "https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT"
+        }
+      ],
+      "duration_ms": 204885,
+      "name": "Table Of Fools",
+      "url": "https://open.spotify.com/track/0QSJddfRGIfStqy0DZ9pvw"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Nothing To Lose (Piano Acoustic)",
+        "url": "https://open.spotify.com/album/63R87KNka7X83DKE0CSZqs"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "duration_ms": 176707,
+      "name": "Nothing To Lose (Piano Acoustic)",
+      "url": "https://open.spotify.com/track/40Yjmp491Hiw9opJbnpTWL"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Let\u2019s Go Home Together (Stripped)",
         "url": "https://open.spotify.com/album/6hcBHK0n7wQygb6UN3MvKf"
       },
@@ -2451,22 +2467,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Under Bridges That You Built for Me",
-        "url": "https://open.spotify.com/album/73EyE4D0ijagZHApIY7B2a"
-      },
-      "artists": [
-        {
-          "name": "Causes",
-          "url": "https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Walk on Water",
-      "url": "https://open.spotify.com/track/68obZMzQygdgIFOPyhTAcd"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28"
       },
@@ -2483,18 +2483,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Born In A Storm",
-        "url": "https://open.spotify.com/album/7i7i0cvJwTsw1ILF6Gy5Lt"
+        "name": "Under Bridges That You Built for Me",
+        "url": "https://open.spotify.com/album/73EyE4D0ijagZHApIY7B2a"
       },
       "artists": [
         {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+          "name": "Causes",
+          "url": "https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3"
         }
       ],
-      "duration_ms": 146426,
-      "name": "You Don't Have To Stay",
-      "url": "https://open.spotify.com/track/2Kt8OMRNO40i42Cxf2KO4H"
+      "duration_ms": 214500,
+      "name": "Walk on Water",
+      "url": "https://open.spotify.com/track/68obZMzQygdgIFOPyhTAcd"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -2515,38 +2515,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Lift You Up",
-        "url": "https://open.spotify.com/album/0VpQQARdV5LQijcfgFIoLX"
-      },
-      "artists": [
-        {
-          "name": "Jasper Steverlinck",
-          "url": "https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V"
-        }
-      ],
-      "duration_ms": 181649,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/7Gu7NjUmWPvX5I35WolbIQ"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd"
-      },
-      "artists": [
-        {
-          "name": "Tim Dawn",
-          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
-        }
-      ],
-      "duration_ms": 185254,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Valerius",
         "url": "https://open.spotify.com/album/07rWXaHNMHUgC4HpUihF5z"
       },
@@ -2563,6 +2531,38 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Born In A Storm",
+        "url": "https://open.spotify.com/album/7i7i0cvJwTsw1ILF6Gy5Lt"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "duration_ms": 146426,
+      "name": "You Don't Have To Stay",
+      "url": "https://open.spotify.com/track/2Kt8OMRNO40i42Cxf2KO4H"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Lift You Up",
+        "url": "https://open.spotify.com/album/0VpQQARdV5LQijcfgFIoLX"
+      },
+      "artists": [
+        {
+          "name": "Jasper Steverlinck",
+          "url": "https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V"
+        }
+      ],
+      "duration_ms": 181649,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/7Gu7NjUmWPvX5I35WolbIQ"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Borrow Your Time",
         "url": "https://open.spotify.com/album/7b9O11SYtiGD26f8sXIcAJ"
       },
@@ -2575,6 +2575,22 @@
       "duration_ms": 209670,
       "name": "Borrow Your Time",
       "url": "https://open.spotify.com/track/1LEy7NUZqXHuc9SE5Xgv5A"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "duration_ms": 185254,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -2607,22 +2623,6 @@
       "duration_ms": 207107,
       "name": "Blue",
       "url": "https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Nothing To Lose (Piano Acoustic)",
-        "url": "https://open.spotify.com/album/63R87KNka7X83DKE0CSZqs"
-      },
-      "artists": [
-        {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
-        }
-      ],
-      "duration_ms": 176707,
-      "name": "Nothing To Lose (Piano Acoustic)",
-      "url": "https://open.spotify.com/track/40Yjmp491Hiw9opJbnpTWL"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -2771,22 +2771,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Beauty Is A Mess",
-        "url": "https://open.spotify.com/album/56G0aPRr7G9paEbEGFlola"
-      },
-      "artists": [
-        {
-          "name": "Haris",
-          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/31iIDD0Np4zBqnk5xVXSgf"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Holy Ground",
         "url": "https://open.spotify.com/album/3QRCCcpdWHmAQ6YSq4nbQd"
       },
@@ -2815,6 +2799,22 @@
       "duration_ms": 233247,
       "name": "Tilted",
       "url": "https://open.spotify.com/track/5dwMQwZvaPo9QzPqRF3aaR"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Beauty Is A Mess",
+        "url": "https://open.spotify.com/album/56G0aPRr7G9paEbEGFlola"
+      },
+      "artists": [
+        {
+          "name": "Haris",
+          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/31iIDD0Np4zBqnk5xVXSgf"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -2935,22 +2935,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/4zEF7OsSjtoehhC67vmUFJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "Take Your Time",
-      "url": "https://open.spotify.com/track/54JIuEuTnL0Al2LHCU9pdL"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Bobbie's Song",
         "url": "https://open.spotify.com/album/6canaf9tWSYr7bhrCzQemP"
       },
@@ -2963,6 +2947,22 @@
       "duration_ms": 145017,
       "name": "Bobbie's Song",
       "url": "https://open.spotify.com/track/07DydynEAQfvBrOOIuHNcz"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/4zEF7OsSjtoehhC67vmUFJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/54JIuEuTnL0Al2LHCU9pdL"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -3023,26 +3023,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Now That We\u2019ve Found Love",
-        "url": "https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8"
-      },
-      "artists": [
-        {
-          "name": "Emil Landman",
-          "url": "https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB"
-        },
-        {
-          "name": "We Said",
-          "url": "https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY"
-        }
-      ],
-      "duration_ms": 154176,
-      "name": "Now That We\u2019ve Found Love",
-      "url": "https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Take A Chance (Acoustic)",
         "url": "https://open.spotify.com/album/6tNEMqxSwtcGDMcQX9wEIf"
       },
@@ -3075,6 +3055,26 @@
       "duration_ms": 284320,
       "name": "The Poetry Man",
       "url": "https://open.spotify.com/track/0BLMTt0ufk4vqgKUU6T3MP"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Now That We\u2019ve Found Love",
+        "url": "https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8"
+      },
+      "artists": [
+        {
+          "name": "Emil Landman",
+          "url": "https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB"
+        },
+        {
+          "name": "We Said",
+          "url": "https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY"
+        }
+      ],
+      "duration_ms": 154176,
+      "name": "Now That We\u2019ve Found Love",
+      "url": "https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -3127,22 +3127,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Meet You In The Middle",
-        "url": "https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV"
-      },
-      "artists": [
-        {
-          "name": "Orange Skyline",
-          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Meet You In The Middle",
-      "url": "https://open.spotify.com/track/7KNfqyUKqkIkhHV4Xo5g6K"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Middle Of The Night (Radio Mix)",
         "url": "https://open.spotify.com/album/7ucOHGF9Ud1nC3SY6KoSiU"
       },
@@ -3155,6 +3139,22 @@
       "duration_ms": 167626,
       "name": "Middle Of The Night - Radio Mix",
       "url": "https://open.spotify.com/track/6NljwIzPEd3saqUsp4s4kT"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Meet You In The Middle",
+        "url": "https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV"
+      },
+      "artists": [
+        {
+          "name": "Orange Skyline",
+          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Meet You In The Middle",
+      "url": "https://open.spotify.com/track/7KNfqyUKqkIkhHV4Xo5g6K"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -3275,6 +3275,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "= (Tour Edition)",
+        "url": "https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 231546,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Lay Your Weapons Down (Acoustic)",
         "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
       },
@@ -3307,22 +3323,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Golden Lovers",
-        "url": "https://open.spotify.com/album/4Jv2duaN6eNUpDs3sXbJct"
-      },
-      "artists": [
-        {
-          "name": "Marnix Emanuel",
-          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
-        }
-      ],
-      "duration_ms": 202135,
-      "name": "Golden Lovers",
-      "url": "https://open.spotify.com/track/5SgWKAMXnGT8yp4wMDjtik"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Who Gave You The Right",
         "url": "https://open.spotify.com/album/3IEWVzWYms4ivv3cQ2xX8f"
       },
@@ -3339,18 +3339,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "= (Tour Edition)",
-        "url": "https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3"
+        "name": "Golden Lovers",
+        "url": "https://open.spotify.com/album/4Jv2duaN6eNUpDs3sXbJct"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Marnix Emanuel",
+          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
         }
       ],
-      "duration_ms": 231546,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ"
+      "duration_ms": 202135,
+      "name": "Golden Lovers",
+      "url": "https://open.spotify.com/track/5SgWKAMXnGT8yp4wMDjtik"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -3375,22 +3375,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e"
-      },
-      "artists": [
-        {
-          "name": "Camo Columbo",
-          "url": "https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Happy in Hindsight",
         "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
       },
@@ -3407,6 +3391,38 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e"
+      },
+      "artists": [
+        {
+          "name": "Camo Columbo",
+          "url": "https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Dead End Of A Dream",
+        "url": "https://open.spotify.com/album/2D5G56419QjsWtt2pf8b7w"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "Dead End Of A Dream",
+      "url": "https://open.spotify.com/track/1vwu8X84wTVuVXgG7bbdtw"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "When Summer Ends",
         "url": "https://open.spotify.com/album/2zzEOdJdCLGPdtd6wsuzlk"
       },
@@ -3419,22 +3435,6 @@
       "duration_ms": 211385,
       "name": "When Summer Ends",
       "url": "https://open.spotify.com/track/3XvYvC2W5N9kKuiORxekSk"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "So Maybe",
-        "url": "https://open.spotify.com/album/7o2mbXQP1P3svFu8wkZf9F"
-      },
-      "artists": [
-        {
-          "name": "Marnix Emanuel",
-          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
-        }
-      ],
-      "duration_ms": 176212,
-      "name": "So Maybe",
-      "url": "https://open.spotify.com/track/5y7Z9hH4qMis2b0kVp6Ejm"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -3459,22 +3459,6 @@
       "duration_ms": 192724,
       "name": "This Is What It Feels Like - John Ewbank Classical Remix",
       "url": "https://open.spotify.com/track/1MTHcjq2LmrQDYDuLentyu"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Dead End Of A Dream",
-        "url": "https://open.spotify.com/album/2D5G56419QjsWtt2pf8b7w"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "Dead End Of A Dream",
-      "url": "https://open.spotify.com/track/1vwu8X84wTVuVXgG7bbdtw"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -3515,18 +3499,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
+        "name": "So Maybe",
+        "url": "https://open.spotify.com/album/7o2mbXQP1P3svFu8wkZf9F"
       },
       "artists": [
         {
-          "name": "Josh Island",
-          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
+          "name": "Marnix Emanuel",
+          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
+      "duration_ms": 176212,
+      "name": "So Maybe",
+      "url": "https://open.spotify.com/track/5y7Z9hH4qMis2b0kVp6Ejm"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -3563,6 +3547,22 @@
       "duration_ms": 178320,
       "name": "Blind",
       "url": "https://open.spotify.com/track/3anDmW1xckOuO95EgqpMkm"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
+      },
+      "artists": [
+        {
+          "name": "Josh Island",
+          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -3615,22 +3615,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/0nUk17FZxbfpK1AOQF4cHD"
-      },
-      "artists": [
-        {
-          "name": "Lea Rue",
-          "url": "https://open.spotify.com/artist/1RPZu5nxPrakSD5NumbgSn"
-        }
-      ],
-      "duration_ms": 182808,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/6lf2e8a0NOf8877D78GpaP"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Songs to Soothe",
         "url": "https://open.spotify.com/album/0MRyCWBOc0EyOiLmPYRg7K"
       },
@@ -3643,6 +3627,22 @@
       "duration_ms": 195453,
       "name": "Going Back Home",
       "url": "https://open.spotify.com/track/2CujSydnhdFygZpsjyytZU"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/0nUk17FZxbfpK1AOQF4cHD"
+      },
+      "artists": [
+        {
+          "name": "Lea Rue",
+          "url": "https://open.spotify.com/artist/1RPZu5nxPrakSD5NumbgSn"
+        }
+      ],
+      "duration_ms": 182808,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/6lf2e8a0NOf8877D78GpaP"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -3695,22 +3695,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Sun Goes Down (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5lJHfXBdOgmi6Sc5tqMFk4"
-      },
-      "artists": [
-        {
-          "name": "Kenn Colt",
-          "url": "https://open.spotify.com/artist/0vSNFAo2h20zd3HOBcM8BX"
-        }
-      ],
-      "duration_ms": 183940,
-      "name": "Sun Goes Down - Acoustic Version",
-      "url": "https://open.spotify.com/track/1Vt9LAUmkUM41DLCLlIMUc"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Even If It\u2019s Lonely",
         "url": "https://open.spotify.com/album/3ZDtwBVvtZnYPmUinHUrF3"
       },
@@ -3723,6 +3707,22 @@
       "duration_ms": 245439,
       "name": "Even If It\u2019s Lonely",
       "url": "https://open.spotify.com/track/0Uauh4xXNy0WnApqZN3jK6"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Sun Goes Down (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5lJHfXBdOgmi6Sc5tqMFk4"
+      },
+      "artists": [
+        {
+          "name": "Kenn Colt",
+          "url": "https://open.spotify.com/artist/0vSNFAo2h20zd3HOBcM8BX"
+        }
+      ],
+      "duration_ms": 183940,
+      "name": "Sun Goes Down - Acoustic Version",
+      "url": "https://open.spotify.com/track/1Vt9LAUmkUM41DLCLlIMUc"
     },
     {
       "added_at": "2024-06-20 22:00:00",

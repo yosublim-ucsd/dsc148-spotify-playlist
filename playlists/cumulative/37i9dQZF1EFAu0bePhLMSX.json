@@ -2818,10 +2818,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 211253,
       "name": "The Way Love Goes",
       "url": "https://open.spotify.com/track/2A5atyBnmtDPfRBDjOMtOp"
+    },
+    {
+      "album": {
+        "name": "The Way Love Goes",
+        "url": "https://open.spotify.com/album/3i2iYkfBEzTxKbhCLlF58Z"
+      },
+      "artists": [
+        {
+          "name": "Lemar",
+          "url": "https://open.spotify.com/artist/7uztWv5UVx4hwcJXCtRyDV"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212320,
+      "name": "The Way Love Goes",
+      "url": "https://open.spotify.com/track/5spG13988yvrpa8Alk5z1W"
     },
     {
       "album": {

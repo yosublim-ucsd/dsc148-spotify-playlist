@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 94890,
+  "num_followers": 94951,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-06-04 18:26:49",
       "album": {
-        "name": "Burst / Glimmer",
-        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
+        "name": "Weltenwandler",
+        "url": "https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb"
       },
       "artists": [
         {
-          "name": "Hannes Kretzer",
-          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+          "name": "Klartraum",
+          "url": "https://open.spotify.com/artist/1euztWfCX0SHe8U5XZT6dF"
         }
       ],
-      "duration_ms": 316293,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
+      "duration_ms": 316433,
+      "name": "Weltenwandler - Radio Edit",
+      "url": "https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl"
     },
     {
       "added_at": "2024-06-04 18:26:49",
@@ -679,34 +679,18 @@
     {
       "added_at": "2024-06-04 18:26:49",
       "album": {
-        "name": "Weltenwandler",
-        "url": "https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb"
+        "name": "Burst / Glimmer",
+        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
       },
       "artists": [
         {
-          "name": "Klartraum",
-          "url": "https://open.spotify.com/artist/1euztWfCX0SHe8U5XZT6dF"
+          "name": "Hannes Kretzer",
+          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
         }
       ],
-      "duration_ms": 316433,
-      "name": "Weltenwandler - Radio Edit",
-      "url": "https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl"
-    },
-    {
-      "added_at": "2024-06-04 18:26:49",
-      "album": {
-        "name": "Melting Hazard",
-        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 306676,
-      "name": "Melting Hazard",
-      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
+      "duration_ms": 316293,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
     },
     {
       "added_at": "2024-06-04 18:26:49",
@@ -727,6 +711,22 @@
       "duration_ms": 278174,
       "name": "Sine Waves",
       "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
+    },
+    {
+      "added_at": "2024-06-04 18:26:49",
+      "album": {
+        "name": "Melting Hazard",
+        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 306676,
+      "name": "Melting Hazard",
+      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
     },
     {
       "added_at": "2024-06-04 18:26:49",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-06-04 18:26:49",
       "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
-      },
-      "artists": [
-        {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
-        }
-      ],
-      "duration_ms": 283673,
-      "name": "White Carnations",
-      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
-    },
-    {
-      "added_at": "2024-06-04 18:26:49",
-      "album": {
         "name": "Amygdala",
         "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 319047,
       "name": "Amygdala",
       "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
+    },
+    {
+      "added_at": "2024-06-04 18:26:49",
+      "album": {
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+      },
+      "artists": [
+        {
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+        }
+      ],
+      "duration_ms": 283673,
+      "name": "White Carnations",
+      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
     },
     {
       "added_at": "2024-06-04 18:26:49",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-06-04 18:26:49",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        }
-      ],
-      "duration_ms": 238029,
-      "name": "Belt & Carpet",
-      "url": "https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje"
-    },
-    {
-      "added_at": "2024-06-04 18:26:49",
-      "album": {
         "name": "Bloodsport",
         "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 221775,
       "name": "An Absolute Living Hell, Pt. 1",
       "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
+    },
+    {
+      "added_at": "2024-06-04 18:26:49",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "duration_ms": 238029,
+      "name": "Belt & Carpet",
+      "url": "https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje"
     },
     {
       "added_at": "2024-06-04 18:26:49",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2024-06-04 18:26:49",
       "album": {
-        "name": "Lovotic",
-        "url": "https://open.spotify.com/album/6vvJSGqQBCtkNatM2nUyF0"
-      },
-      "artists": [
-        {
-          "name": "Soundwalk Collective",
-          "url": "https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC"
-        },
-        {
-          "name": "Charlotte Gainsbourg",
-          "url": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
-        }
-      ],
-      "duration_ms": 347784,
-      "name": "Blessed Are The Lovers",
-      "url": "https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA"
-    },
-    {
-      "added_at": "2024-06-04 18:26:49",
-      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/5d6P1j9WQSrkcT9DpwMk8x"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 190983,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy"
+    },
+    {
+      "added_at": "2024-06-04 18:26:49",
+      "album": {
+        "name": "Lovotic",
+        "url": "https://open.spotify.com/album/6vvJSGqQBCtkNatM2nUyF0"
+      },
+      "artists": [
+        {
+          "name": "Soundwalk Collective",
+          "url": "https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC"
+        },
+        {
+          "name": "Charlotte Gainsbourg",
+          "url": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+        }
+      ],
+      "duration_ms": 347784,
+      "name": "Blessed Are The Lovers",
+      "url": "https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA"
     },
     {
       "added_at": "2024-06-04 18:26:49",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-06-04 18:26:49",
       "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+        "name": "Kinder der Sonne (From \"Komplizen\")",
+        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
       },
       "artists": [
         {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
         }
       ],
-      "duration_ms": 251485,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
+      "duration_ms": 400476,
+      "name": "Ungewiss",
+      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
     },
     {
       "added_at": "2024-06-04 18:26:49",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-06-04 18:26:49",
       "album": {
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 251485,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
+    },
+    {
+      "added_at": "2024-06-04 18:26:49",
+      "album": {
         "name": "Amos",
         "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 483790,
       "name": "Amos",
       "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
-    },
-    {
-      "added_at": "2024-06-04 18:26:49",
-      "album": {
-        "name": "Kinder der Sonne (From \"Komplizen\")",
-        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 400476,
-      "name": "Ungewiss",
-      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
     },
     {
       "added_at": "2024-06-04 18:26:49",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-06-04 18:26:49",
       "album": {
+        "name": "Suikerplein EP",
+        "url": "https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ"
+      },
+      "artists": [
+        {
+          "name": "BSS (AMS)",
+          "url": "https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH"
+        }
+      ],
+      "duration_ms": 313701,
+      "name": "Westerpark",
+      "url": "https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC"
+    },
+    {
+      "added_at": "2024-06-04 18:26:49",
+      "album": {
         "name": "The Body Keeps Score / I Left My Juul in Monterey",
         "url": "https://open.spotify.com/album/0zC4RmPmdRzk3WyygOuFOt"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2024-06-04 18:26:49",
       "album": {
-        "name": "Suikerplein EP",
-        "url": "https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ"
+        "name": "Night Journeys III",
+        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
       },
       "artists": [
         {
-          "name": "BSS (AMS)",
-          "url": "https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH"
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
         }
       ],
-      "duration_ms": 313701,
-      "name": "Westerpark",
-      "url": "https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC"
+      "duration_ms": 388452,
+      "name": "Night Journeys III",
+      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
     },
     {
       "added_at": "2024-06-04 18:26:49",
@@ -1603,22 +1619,6 @@
       "duration_ms": 352000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/1tvrdTMUPrL5QAAUu2mBpL"
-    },
-    {
-      "added_at": "2024-06-04 18:26:49",
-      "album": {
-        "name": "Night Journeys III",
-        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 388452,
-      "name": "Night Journeys III",
-      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
     },
     {
       "added_at": "2024-06-04 18:26:49",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-06-04 18:26:49",
       "album": {
+        "name": "Nothing Will Last",
+        "url": "https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr"
+      },
+      "artists": [
+        {
+          "name": "Araceae",
+          "url": "https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6"
+        }
+      ],
+      "duration_ms": 557261,
+      "name": "Before the Sun",
+      "url": "https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N"
+    },
+    {
+      "added_at": "2024-06-04 18:26:49",
+      "album": {
         "name": "Fighting Modernism EP",
         "url": "https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ"
       },
@@ -1671,18 +1687,38 @@
     {
       "added_at": "2024-06-04 18:26:49",
       "album": {
-        "name": "Nothing Will Last",
-        "url": "https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr"
+        "name": "EA9633",
+        "url": "https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB"
       },
       "artists": [
         {
-          "name": "Araceae",
-          "url": "https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6"
+          "name": "Miyu Hosoi",
+          "url": "https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T"
         }
       ],
-      "duration_ms": 557261,
-      "name": "Before the Sun",
-      "url": "https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N"
+      "duration_ms": 192920,
+      "name": "EA9633",
+      "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
+    },
+    {
+      "added_at": "2024-06-04 18:26:49",
+      "album": {
+        "name": "Reimagined by Civilistj\u00e4vel!",
+        "url": "https://open.spotify.com/album/4hflrVmJW7qo5U9o97TonK"
+      },
+      "artists": [
+        {
+          "name": "Death and Vanilla",
+          "url": "https://open.spotify.com/artist/7GSTcEvn1BkC3eucAlvBwt"
+        },
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 495507,
+      "name": "Perpetuum Mobile - Civilistj\u00e4vel! Dub",
+      "url": "https://open.spotify.com/track/0TdghIglWF8RE2VDiQQo5A"
     },
     {
       "added_at": "2024-06-04 18:26:49",
@@ -1719,42 +1755,6 @@
       "duration_ms": 360765,
       "name": "Alap On Benares",
       "url": "https://open.spotify.com/track/3WpvOcNbqABE7vExODuITD"
-    },
-    {
-      "added_at": "2024-06-04 18:26:49",
-      "album": {
-        "name": "Reimagined by Civilistj\u00e4vel!",
-        "url": "https://open.spotify.com/album/4hflrVmJW7qo5U9o97TonK"
-      },
-      "artists": [
-        {
-          "name": "Death and Vanilla",
-          "url": "https://open.spotify.com/artist/7GSTcEvn1BkC3eucAlvBwt"
-        },
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 495507,
-      "name": "Perpetuum Mobile - Civilistj\u00e4vel! Dub",
-      "url": "https://open.spotify.com/track/0TdghIglWF8RE2VDiQQo5A"
-    },
-    {
-      "added_at": "2024-06-04 18:26:49",
-      "album": {
-        "name": "EA9633",
-        "url": "https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB"
-      },
-      "artists": [
-        {
-          "name": "Miyu Hosoi",
-          "url": "https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T"
-        }
-      ],
-      "duration_ms": 192920,
-      "name": "EA9633",
-      "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
     },
     {
       "added_at": "2024-06-04 18:26:49",

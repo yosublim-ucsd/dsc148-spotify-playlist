@@ -4,7 +4,7 @@
 
 > recent trending tracks in rock/alt/metal/punk \| Cover: Sleep Token
 
-99 songs - 5 hr 59 min
+101 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Basket Case](https://open.spotify.com/track/0zWuOowhDnhikrtBH5w9eT) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/1zPueS3g2amDmSW3X27Prs) | 3:02 | 2024-04-05 |  |
 | [Bathwater](https://open.spotify.com/track/3xbZU7KENdHZrX99VDNGwx) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Return Of Saturn](https://open.spotify.com/album/6O35YawqZFdtOhL9smKmh7) | 4:02 | 2024-04-18 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2022-11-30 | 2024-04-06 |
-| [BRAIN DEAD](https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BRAIN DEAD](https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t) | 2:01 | 2024-05-31 |  |
+| [BRAIN DEAD](https://open.spotify.com/track/2X7V0ZwyT6NDn3yBxNz54H) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BRAIN DEAD](https://open.spotify.com/album/6ucZ6HFBtixqCOcZyQE57t) | 2:01 | 2024-05-31 | 2024-06-25 |
 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 | 2024-04-05 |  |
 | [Californication](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 5:29 | 2024-04-15 |  |
 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-05-31 |  |
@@ -47,6 +47,7 @@
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-05-31 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2024-04-05 |  |
 | [I Was Made For Lovin’ You \- from The Fall Guy](https://open.spotify.com/track/55ikcenXPbQdzCnO1sOuYg) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I Was Made For Lovin' You \(from The Fall Guy\)](https://open.spotify.com/album/1d3yldnlofPfWQHVAybQrZ) | 4:21 | 2024-05-31 |  |
+| [icantbelieveiletyougetaway](https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM) | 2:15 | 2024-06-24 |  |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2022-11-30 |  |
 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 | 2024-04-15 |  |
 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2022-11-30 | 2024-04-06 |
@@ -75,6 +76,7 @@
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2024-04-05 |  |
 | [Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/42bSpkr89bdrwMMNuEZlDJ) | 3:43 | 2024-04-05 | 2024-04-19 |
 | [Race](https://open.spotify.com/track/78bcWFqyuhOrC8wnkpgcft) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 3:43 | 2024-04-05 |  |
+| [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 | 2024-06-24 |  |
 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 | 2022-11-30 | 2024-04-06 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-11-30 | 2024-04-06 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2022-11-30 | 2024-04-06 |
@@ -104,7 +106,7 @@
 | [World's Smallest Violin](https://open.spotify.com/track/1YZt9pXc1pypDVxHr5qtdV) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/3lBsrg94wkPM0aOcra5Gw6) | 3:00 | 2022-11-30 | 2023-11-22 |
 | [World's Smallest Violin](https://open.spotify.com/track/2GujK1FWxxOZ118PaWNgbZ) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE) | 3:00 | 2022-11-30 | 2024-04-06 |
 | [World's Smallest Violin](https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 3:00 | 2022-11-30 | 2023-11-04 |
-| [Would? \(2022 Remaster\)](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 | 2024-04-05 |  |
+| [Would? \(2022 Remaster\)](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 | 2024-04-05 | 2024-06-25 |
 | [Y'all Want a Single](https://open.spotify.com/track/2WSWm0zlL3CJRACHS5KXbB) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3487OYBtnRl82qA6tfyWco) | 3:17 | 2024-04-05 |  |
 | [You Get Me So High](https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 2:33 | 2024-04-05 |  |
 

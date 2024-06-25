@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "BAD IDEAS",
+        "url": "https://open.spotify.com/album/2C5KdHugMPtu4aBOgXmpzn"
+      },
+      "artists": [
+        {
+          "name": "Glowe",
+          "url": "https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157159,
+      "name": "BAD IDEAS",
+      "url": "https://open.spotify.com/track/1tbfvJC1XWHWCRy96kqSqD"
+    },
+    {
+      "album": {
         "name": "The Bright Side",
         "url": "https://open.spotify.com/album/0adiQILnwLMvX09Z6xHaqf"
       },
@@ -782,7 +800,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 237400,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/6p87eM03XdjSN916afHG0P"
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 172986,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/74KXRFi0qw3EdNyR9oLzRK"
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 184848,
       "name": "Dancing My Way",
       "url": "https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u"
@@ -2425,6 +2443,24 @@
     },
     {
       "album": {
+        "name": "Devil's Worst Nightmare",
+        "url": "https://open.spotify.com/album/14NjM4q37PuDJju2VaX3I7"
+      },
+      "artists": [
+        {
+          "name": "FJ\u00d8RA",
+          "url": "https://open.spotify.com/artist/0NnlfSS9TzEUlffzx7KwBk"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250998,
+      "name": "Devil's Worst Nightmare",
+      "url": "https://open.spotify.com/track/3d8k5cXwfK1Xp0fIIHr4k5"
+    },
+    {
+      "album": {
         "name": "Move Along",
         "url": "https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii"
       },
@@ -2494,6 +2530,24 @@
       "duration_ms": 171060,
       "name": "Don't Let Me Be Misunderstood",
       "url": "https://open.spotify.com/track/7iogzI63n0krNMjNDDvo48"
+    },
+    {
+      "album": {
+        "name": "Don't Mess Around Honey",
+        "url": "https://open.spotify.com/album/4dNkFv5jH92Yht0pUOCOjd"
+      },
+      "artists": [
+        {
+          "name": "Isla Rose",
+          "url": "https://open.spotify.com/artist/7id0KhxSicAZjV9e0aDTie"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162966,
+      "name": "Don't Mess Around Honey",
+      "url": "https://open.spotify.com/track/53odbpBmwVCcFTvubJz0rp"
     },
     {
       "album": {
@@ -2884,6 +2938,24 @@
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
+    },
+    {
+      "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195037,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/1uxW2hzpUKMkNAGnVVF3Xy"
     },
     {
       "album": {
@@ -4150,6 +4222,28 @@
       "duration_ms": 186043,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy"
+    },
+    {
+      "album": {
+        "name": "Heaven Ain't Calling",
+        "url": "https://open.spotify.com/album/2ljTtssMM05i6E3zg6jgw3"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        },
+        {
+          "name": "Sugar Jesus",
+          "url": "https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177338,
+      "name": "Heaven Ain't Calling",
+      "url": "https://open.spotify.com/track/7dQ8raH1V6AArFqJ419fZ7"
     },
     {
       "album": {
@@ -5604,7 +5698,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 232285,
       "name": "It's a Mad World",
       "url": "https://open.spotify.com/track/110XRYFu7ZevFq24IVXsOU"
@@ -5846,6 +5940,24 @@
       "duration_ms": 122074,
       "name": "just the two of us",
       "url": "https://open.spotify.com/track/505CNjW6Y9GwvW5sVgvdK9"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222650,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/4ROYC4vHfPZ28mqz0eLrzL"
     },
     {
       "album": {
@@ -6515,6 +6627,24 @@
     },
     {
       "album": {
+        "name": "i'm doing better, i made it to september",
+        "url": "https://open.spotify.com/album/6V6GoUROLjcP5EvnNZiqqR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/2N388woTuXizZdtvc3WYBV"
+    },
+    {
+      "album": {
         "name": "Californian Soil",
         "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
       },
@@ -7049,6 +7179,24 @@
     },
     {
       "album": {
+        "name": "Maybe Next Time",
+        "url": "https://open.spotify.com/album/6c06DjFMHRdIKd0r7VSiNT"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "Maybe Next Time",
+      "url": "https://open.spotify.com/track/0RPxi7CSnMlPeREcnfJptp"
+    },
+    {
+      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -7300,7 +7448,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm"
@@ -9317,6 +9465,28 @@
     },
     {
       "album": {
+        "name": "WET TENNIS",
+        "url": "https://open.spotify.com/album/1u54eF07irCSSssyDG67R2"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203680,
+      "name": "Sun Came Up",
+      "url": "https://open.spotify.com/track/4OssNR8i2CZHzIBJDxRh2e"
+    },
+    {
+      "album": {
         "name": "sun keeps on shining",
         "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
       },
@@ -9829,6 +9999,24 @@
     },
     {
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/1P1NwZkprQPUmVs65JQ1lJ"
+      },
+      "artists": [
+        {
+          "name": "Evie Borgia",
+          "url": "https://open.spotify.com/artist/0sKrDcettSyvQJ58oAygJi"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124691,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/7vcw3QViu7Gd7Z8FNgFoyf"
+    },
+    {
+      "album": {
         "name": "From the Ashes",
         "url": "https://open.spotify.com/album/2BjRhppivUlatw3fwvS5Co"
       },
@@ -9840,7 +10028,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 211909,
       "name": "The Games We Play",
       "url": "https://open.spotify.com/track/0fXfPW2o1jAjMUkVdilICD"
@@ -9880,6 +10068,24 @@
       "duration_ms": 211909,
       "name": "The Games We Play",
       "url": "https://open.spotify.com/track/2rBDSnfqUAZU7qT5jYnkK2"
+    },
+    {
+      "album": {
+        "name": "Hello Young Lovers",
+        "url": "https://open.spotify.com/album/2MxPqVPNpPGx4jYjSJr6Zg"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Durante",
+          "url": "https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "The Glory of Love",
+      "url": "https://open.spotify.com/track/4usvynbYaFqgm4olpzEp9u"
     },
     {
       "album": {
@@ -10264,7 +10470,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 237202,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/7sgvhY89MQ5ipWtgr9l3NQ"
@@ -10448,7 +10654,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 245978,
       "name": "True Romance",
       "url": "https://open.spotify.com/track/3DSIQ2SCR25VwYqkpImpmb"
@@ -10814,6 +11020,24 @@
       "duration_ms": 194488,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/59TSPcLvwVyaJWr2Udik56"
+    },
+    {
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/7JQtmE1W02E5wdmEgBJ243"
+      },
+      "artists": [
+        {
+          "name": "Unions",
+          "url": "https://open.spotify.com/artist/7MwboFnNvHagUzots37Pbm"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173406,
+      "name": "Way Down We Go",
+      "url": "https://open.spotify.com/track/2XhdmzDmnwCYauQg0IsG9r"
     },
     {
       "album": {
@@ -11508,7 +11732,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 172235,
       "name": "You're No Good - Epic Trailer Version",
       "url": "https://open.spotify.com/track/11kUnSxbQQvXoZxVussoSw"

@@ -1,6 +1,6 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 462085,
+  "num_followers": 462215,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 352906,
-      "name": "When Doves Cry",
-      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Brotherhood (Collector's Edition)",
         "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 263213,
       "name": "Bizarre Love Triangle",
       "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 352906,
+      "name": "When Doves Cry",
+      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Platinum & Gold Collection",
-        "url": "https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP"
-      },
-      "artists": [
-        {
-          "name": "Taylor Dayne",
-          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Tell It to My Heart",
-      "url": "https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Profilin': The Hits",
         "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 301893,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Platinum & Gold Collection",
+        "url": "https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP"
+      },
+      "artists": [
+        {
+          "name": "Taylor Dayne",
+          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Tell It to My Heart",
+      "url": "https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu"
     },
     {
       "added_at": "2024-03-19 14:45:18",

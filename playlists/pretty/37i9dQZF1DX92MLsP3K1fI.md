@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Fey en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,048 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,064 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 46 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
 | 47 | [MALVAS](https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [MALVAS](https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2) | 3:03 |
 | 48 | [Blanco Y Negro](https://open.spotify.com/track/3s96JLi4otLNGrVK6Eik7f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Blanco Y Negro](https://open.spotify.com/album/7csomMVHTbSZuqLPofYE8Y) | 3:32 |
-| 49 | [BETTER](https://open.spotify.com/track/12DNkdHu0C6yM7eQqLmS0l) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [BETTER](https://open.spotify.com/album/71QC7RzJGO0p0CdLfFO17T) | 3:20 |
-| 50 | [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 |
+| 49 | [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 |
+| 50 | [BETTER](https://open.spotify.com/track/12DNkdHu0C6yM7eQqLmS0l) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [BETTER](https://open.spotify.com/album/71QC7RzJGO0p0CdLfFO17T) | 3:20 |
 
 Snapshot ID: `ZnUW4AAAAABFU6nfJ7anBjAv/85t3LDN`

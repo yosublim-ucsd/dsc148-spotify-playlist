@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 
 > enciende la llama de la pasión con estas rolas seleccionadas por El Mali 😈🥂🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,148 likes - 90 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,185 likes - 90 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

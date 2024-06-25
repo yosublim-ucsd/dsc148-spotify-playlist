@@ -4,7 +4,7 @@
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Silver Rose en portada.
 
-109 songs - 7 hr 19 min
+111 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,10 +27,12 @@
 | [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-03-04 | 2023-07-07 |
 | [Como Rei Ayanami](https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Como Rei Ayanami](https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW) | 2:57 | 2021-10-19 |  |
 | [Cosas Invisibles](https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cosas Invisibles](https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf) | 4:00 | 2022-08-13 | 2023-03-30 |
+| [Cristinópolis](https://open.spotify.com/track/7JbLW703nG7Ukr1iHwLE8L) | [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Los manantiales](https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o) | 3:08 | 2024-06-24 |  |
 | [Cruz de navajas](https://open.spotify.com/track/3Iw2JGQOIx5LtmpPX5HTz6) | [Beyond Sadness](https://open.spotify.com/artist/4D6riy0MljyHs3LtsWMPxb) | [Traicion / Cruz de Navajas](https://open.spotify.com/album/6X0R8jBws2cprXv3lIIgvr) | 5:18 | 2023-03-13 | 2023-09-03 |
 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 | 2021-10-19 |  |
 | [De Viaje](https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 4:14 | 2021-10-19 |  |
 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 | 2021-10-19 | 2024-04-19 |
+| [Diamante](https://open.spotify.com/track/7t12Ms2nC67lGND4UQTykH) | [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Los manantiales](https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o) | 3:03 | 2024-06-24 |  |
 | [Dolor](https://open.spotify.com/track/22FpzpT8WmbasbUsw0FNiI) | [Aura Blum](https://open.spotify.com/artist/4eToagOiA1nEzs7s8PMjgq) | [Dolor](https://open.spotify.com/album/2hZiihQIxQYOEuQPKOnhbd) | 3:16 | 2023-05-05 | 2024-06-24 |
 | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8) | [Coma Pony](https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9) | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2) | 3:08 | 2021-10-19 |  |
 | [Dínamo](https://open.spotify.com/track/4ilX4HWxfVFE9VRzwuxsGq) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Dínamo](https://open.spotify.com/album/6IE6bOCP0rgHHAGMaEfDba) | 3:27 | 2023-04-28 | 2023-09-05 |
@@ -46,7 +48,7 @@
 | [Especial](https://open.spotify.com/track/1nkXSpEZCAHEI7yTxm5ZZp) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/5KeUNMEECvCWzmtJSmXprZ) | 4:02 | 2023-05-05 | 2024-04-19 |
 | [Estrella Fugaz](https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Estrella Fugaz](https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D) | 4:22 | 2021-10-19 |  |
 | [Estática](https://open.spotify.com/track/1tJy7CJuv33Tre4DmrZgx3) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estática](https://open.spotify.com/album/4epHlWTKUURK4kDlRcKASZ) | 3:53 | 2023-11-24 | 2024-02-24 |
-| [etérea](https://open.spotify.com/track/37APulB1aRuJ6lYum46vDf) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [sky of fading lights](https://open.spotify.com/album/4MsvXCBZ8QZ8VJMnw6B89N) | 8:30 | 2023-01-04 |  |
+| [etérea](https://open.spotify.com/track/37APulB1aRuJ6lYum46vDf) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [sky of fading lights](https://open.spotify.com/album/4MsvXCBZ8QZ8VJMnw6B89N) | 8:30 | 2023-01-04 | 2024-06-25 |
 | [Figura de Cristal](https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS) | [Estrella del Sol](https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0) | [Figura de Cristal](https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH) | 3:00 | 2023-09-03 |  |
 | [Fukushima](https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Triángulo de Amor Bizarro](https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m) | 6:01 | 2021-10-19 | 2024-04-19 |
 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 | 2021-10-19 |  |
@@ -84,7 +86,7 @@
 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 | 2022-03-18 |  |
 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 | 2022-06-20 |  |
 | [paisaje](https://open.spotify.com/track/5IQen1GR2hsjtpXkEnvOmX) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [OM53](https://open.spotify.com/artist/2n2zrJvvOxdEIdumy0FrwA) | [paisaje](https://open.spotify.com/album/6GTbegYCgONoryeg5056Xx) | 3:41 | 2023-11-24 | 2024-02-03 |
-| [para dormir](https://open.spotify.com/track/4NhiH1dK8eZBTGXRT3wRDQ) | [Santa Madero](https://open.spotify.com/artist/0CRFTlHrIHedPTQFqUYAXN) | [para dormir](https://open.spotify.com/album/5eUxrhwTazbxHrDCP3lsGJ) | 3:31 | 2024-06-07 |  |
+| [para dormir](https://open.spotify.com/track/4NhiH1dK8eZBTGXRT3wRDQ) | [Santa Madero](https://open.spotify.com/artist/0CRFTlHrIHedPTQFqUYAXN) | [para dormir](https://open.spotify.com/album/5eUxrhwTazbxHrDCP3lsGJ) | 3:31 | 2024-06-07 | 2024-06-25 |
 | [Placer Displacer](https://open.spotify.com/track/12vC5vhU42ZRY3LhAwOYVf) | [SEXES](https://open.spotify.com/artist/1Fq29HLbHUsplyoE5mMAFp) | [Placer Displacer](https://open.spotify.com/album/6Fs5XNxyodItJMJrqaI49a) | 3:26 | 2023-01-26 | 2023-03-25 |
 | [Poco a Poco](https://open.spotify.com/track/6PkkpizxjK7tcPU2uiZmiX) | [Entre Desiertos](https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL) | [Entre Desiertos EP](https://open.spotify.com/album/3Qx9fOPVUCHp3CT42Jbvlw) | 5:02 | 2021-10-19 |  |
 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 | 2023-05-05 |  |

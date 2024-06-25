@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 492813,
+  "num_followers": 492939,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2024-06-14 00:01:00",
       "album": {
+        "name": "DO 4 LOVE (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 224281,
+      "name": "DO 4 LOVE - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
+    },
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
         "name": "Out The Fire (At The Hotel)",
         "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
-    },
-    {
-      "added_at": "2024-06-14 00:01:00",
-      "album": {
-        "name": "DO 4 LOVE (Black Coffee Remix)",
-        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        }
-      ],
-      "duration_ms": 224281,
-      "name": "DO 4 LOVE - Black Coffee Remix",
-      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
     },
     {
       "added_at": "2024-06-14 00:01:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-06-14 00:01:00",
       "album": {
-        "name": "Quiver",
-        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
+        "name": "Not Giving You Up",
+        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
       },
       "artists": [
         {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
         }
       ],
-      "duration_ms": 181459,
-      "name": "Quiver",
-      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+      "duration_ms": 172939,
+      "name": "Not Giving You Up",
+      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
     },
     {
       "added_at": "2024-06-14 00:01:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-06-14 00:01:00",
       "album": {
-        "name": "Not Giving You Up",
-        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
       },
       "artists": [
         {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
         }
       ],
-      "duration_ms": 172939,
-      "name": "Not Giving You Up",
-      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
+      "duration_ms": 181459,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
     },
     {
       "added_at": "2024-06-14 00:01:00",

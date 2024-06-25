@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 268365,
       "name": "After All These Years",
       "url": "https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 714119,
       "name": "Do to Me What You Want",
       "url": "https://open.spotify.com/track/4DubS31RXrubsxE486uBPi"
@@ -2004,6 +2004,28 @@
       "duration_ms": 512899,
       "name": "Make A Way (feat. Chandler Moore & Brandon Lake)",
       "url": "https://open.spotify.com/track/6zWWw5C05h7blvMcdel3uW"
+    },
+    {
+      "album": {
+        "name": "Malaika x Bien",
+        "url": "https://open.spotify.com/album/1EjCiRMZrPaIms688xVeG3"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235747,
+      "name": "Malaika x Bien",
+      "url": "https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S"
     },
     {
       "album": {
@@ -3434,6 +3456,28 @@
       "duration_ms": 503240,
       "name": "Way Maker - Live",
       "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
+    },
+    {
+      "album": {
+        "name": "Victory Sounds (Live)",
+        "url": "https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396043,
+      "name": "We Bless - Live",
+      "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"
     },
     {
       "album": {

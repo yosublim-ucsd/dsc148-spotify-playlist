@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 77825,
+  "num_followers": 77952,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
         }
       ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
       },
       "artists": [
         {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 223248,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Poker Face",
         "url": "https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 157804,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 223248,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "FE!N",
-        "url": "https://open.spotify.com/album/55my3C0DNaGAIvARc07VWO"
-      },
-      "artists": [
-        {
-          "name": "Tavatli",
-          "url": "https://open.spotify.com/artist/1B8akzCypOte40Fscvj968"
-        }
-      ],
-      "duration_ms": 175448,
-      "name": "FE!N",
-      "url": "https://open.spotify.com/track/5RQyf6jnaZFt0PYoTzrVqZ"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Winter (The Four Seasons) [Techno Mix]",
         "url": "https://open.spotify.com/album/2yEIqIvFwLaz1WIthNjff3"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 115172,
       "name": "Winter (The Four Seasons) - Techno Mix",
       "url": "https://open.spotify.com/track/3UPltDNDxsC4rot0fJwBjv"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "FE!N",
+        "url": "https://open.spotify.com/album/55my3C0DNaGAIvARc07VWO"
+      },
+      "artists": [
+        {
+          "name": "Tavatli",
+          "url": "https://open.spotify.com/artist/1B8akzCypOte40Fscvj968"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "FE!N",
+      "url": "https://open.spotify.com/track/5RQyf6jnaZFt0PYoTzrVqZ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Techno Cobra",
-        "url": "https://open.spotify.com/album/3O6bgVnLyDXX318VWfCQIx"
-      },
-      "artists": [
-        {
-          "name": "Raaban",
-          "url": "https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc"
-        },
-        {
-          "name": "Jessica Chertock",
-          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "Techno Cobra",
-      "url": "https://open.spotify.com/track/4rcOr7rrdAN5Q2GnB9nsdQ"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 192755,
       "name": "365",
       "url": "https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Techno Cobra",
+        "url": "https://open.spotify.com/album/3O6bgVnLyDXX318VWfCQIx"
+      },
+      "artists": [
+        {
+          "name": "Raaban",
+          "url": "https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc"
+        },
+        {
+          "name": "Jessica Chertock",
+          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "Techno Cobra",
+      "url": "https://open.spotify.com/track/4rcOr7rrdAN5Q2GnB9nsdQ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2039,26 +2039,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Mirror Mirror",
-        "url": "https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw"
+        "name": "How You Move",
+        "url": "https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         }
       ],
-      "duration_ms": 247272,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
+      "duration_ms": 169614,
+      "name": "How You Move - Edit",
+      "url": "https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x"
     }
   ],
   "unique_name": "techno party",

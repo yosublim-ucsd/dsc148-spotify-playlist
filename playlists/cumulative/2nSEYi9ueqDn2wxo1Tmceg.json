@@ -2433,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "Caroline Goodbye",
+        "url": "https://open.spotify.com/album/0BXtBhfF0a4CZJ4kSkF23b"
+      },
+      "artists": [
+        {
+          "name": "Night Moves",
+          "url": "https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185213,
+      "name": "Caroline Goodbye",
+      "url": "https://open.spotify.com/track/0rIzjsOl4OYJzE0eSIQp0B"
+    },
+    {
+      "album": {
         "name": "Casino",
         "url": "https://open.spotify.com/album/7wCgrhVApyEX3uaskrdpLY"
       },
@@ -8478,6 +8496,24 @@
       "duration_ms": 233977,
       "name": "It's You - CAPYAC Remix",
       "url": "https://open.spotify.com/track/4Ck1cHb2gXGgzYbcH76nKp"
+    },
+    {
+      "album": {
+        "name": "Itch",
+        "url": "https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144599,
+      "name": "Itch",
+      "url": "https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH"
     },
     {
       "album": {

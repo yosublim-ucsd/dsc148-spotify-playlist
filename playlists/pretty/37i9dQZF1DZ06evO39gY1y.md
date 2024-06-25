@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 ### [This Is Charles Ans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39gY1y)
 
-> This Is Charles Ans\. Los temas esenciales, todos en una lista.
+> This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,737 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,811 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 49 | [Cada Vez](https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cada Vez](https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ) | 3:27 |
 | 50 | [Anticonceptivos](https://open.spotify.com/track/3L2JZWPU5PtlKP7QwTmNyt) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Anticonceptivos](https://open.spotify.com/album/2SUHmJQpAQBKhAIcl9DxOd) | 3:12 |
 
-Snapshot ID: `ZnYUAAAAAABs8X9i9GSzb95sCzv12VTy`
+Snapshot ID: `ZndlgAAAAABJYp7EtV65uWldGVM/AXIc`

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 
 > This is Vicente Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,605 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,810 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Un Millón de Primaveras](https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:53 |
 | 2 | [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 |
 | 3 | [La Diferencia](https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Es La Diferencia](https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u) | 2:50 |
-| 4 | [Mujeres Divinas](https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 3:13 |
-| 5 | [No Me Sé Rajar](https://open.spotify.com/track/7AwZAlZqOgYbmg9KoHFFi8) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Que Manera Te Olvido](https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz) | 2:24 |
+| 4 | [No Me Sé Rajar](https://open.spotify.com/track/7AwZAlZqOgYbmg9KoHFFi8) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Que Manera Te Olvido](https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz) | 2:24 |
+| 5 | [Mujeres Divinas](https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 3:13 |
 | 6 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 |
 | 7 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |
 | 8 | [Qué de Raro Tiene](https://open.spotify.com/track/3gA2qpAbnuKLQV8Q9ZtIcf) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:22 |
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 11 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
 | 12 | [El Hijo del Pueblo](https://open.spotify.com/track/6ElbF1uBCYlazCH6jAoF5s) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:40 |
 | 13 | [Las Botas de Charro](https://open.spotify.com/track/34kQHwL2DxM1fBmq1N1lQC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:00 |
-| 14 | [A Quién Vas a Amar Más Que a Mí](https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:47 |
-| 15 | [Las Llaves de Mi Alma](https://open.spotify.com/track/5M8JfFdmUtewLKcy0sZLtR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:56 |
+| 14 | [Las Llaves de Mi Alma](https://open.spotify.com/track/5M8JfFdmUtewLKcy0sZLtR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:56 |
+| 15 | [A Quién Vas a Amar Más Que a Mí](https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:47 |
 | 16 | [De Qué Manera Te Olvido](https://open.spotify.com/track/0mLSnzvqwlq9hhrgJucGJs) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Que Manera Te Olvido](https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz) | 2:51 |
 | 17 | [Por Tu Maldito Amor](https://open.spotify.com/track/4pFrn7MBtpwXlsyO5CbCj2) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7) | 3:58 |
 | 18 | [Señora de Tal](https://open.spotify.com/track/55pnB5yA9nhyM0IMw3k4tq) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 49 | [El Hombre Que Más Te Amó](https://open.spotify.com/track/3L1JzwKjjUr76VOdM9zwHk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/1mHnKPJaeo49qWrVILI3FO) | 3:16 |
 | 50 | [A Pesar de Todo](https://open.spotify.com/track/6r8rc6IlfHouZoLhmBjRyK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Pesar De Todo](https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso) | 3:06 |
 
-Snapshot ID: `ZnYUAAAAAAAnzoWNwzh9BP+rhiIskCnF`
+Snapshot ID: `ZndlgAAAAACiai83KtG1hJxPodFO+lVw`

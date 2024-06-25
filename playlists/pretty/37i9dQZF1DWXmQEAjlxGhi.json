@@ -1,6 +1,6 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1398918,
+  "num_followers": 1398858,
   "original_name": "Gym Latino",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,30 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
+        "name": "X'CLUSIVO (REMIX)",
+        "url": "https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "X'CLUSIVO - REMIX",
+      "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -359,30 +383,6 @@
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
-        "name": "X'CLUSIVO (REMIX)",
-        "url": "https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "X'CLUSIVO - REMIX",
-      "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
+        "name": "WHERE SHE GOES",
+        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 231704,
+      "name": "WHERE SHE GOES",
+      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
         "name": "LA NENA",
         "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 200040,
       "name": "LA NENA",
       "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
-        "name": "WHERE SHE GOES",
-        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 231704,
-      "name": "WHERE SHE GOES",
-      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -703,6 +703,26 @@
       "duration_ms": 185739,
       "name": "Espectacular",
       "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 227628,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -839,26 +859,6 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 227628,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
         "name": "FARDOS",
         "url": "https://open.spotify.com/album/060l6oOdSXc1SUJnQDDpI1"
       },
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210367,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
@@ -1007,34 +1027,6 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
-        "name": "EXCESO",
-        "url": "https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 142802,
-      "name": "EXCESO",
-      "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -1067,22 +1059,30 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+        "name": "EXCESO",
+        "url": "https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
         }
       ],
-      "duration_ms": 210367,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
+      "duration_ms": 142802,
+      "name": "EXCESO",
+      "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
-        "name": "BABY HELLO",
-        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 222461,
-      "name": "BABY HELLO",
-      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
         "name": "Callaita",
         "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
+        "name": "BABY HELLO",
+        "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 222461,
+      "name": "BABY HELLO",
+      "url": "https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
-        "name": "Marianela (Que Pasa)",
-        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        },
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 145766,
-      "name": "Marianela (Que Pasa)",
-      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 240413,
       "name": "Pantysito",
       "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
+        "name": "Marianela (Que Pasa)",
+        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 145766,
+      "name": "Marianela (Que Pasa)",
+      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
+        "name": "Funk Generation",
+        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 127292,
+      "name": "Fria",
+      "url": "https://open.spotify.com/track/4ijd1rkMYDh4D7rxi3O8Jf"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
         "name": "SAKURA",
         "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 190000,
       "name": "N\u00daMERO TELEF\u00d3NICO",
       "url": "https://open.spotify.com/track/6PbLnd6t5qAtn6saMvbCOE"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
-        "name": "Funk Generation",
-        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 127292,
-      "name": "Fria",
-      "url": "https://open.spotify.com/track/4ijd1rkMYDh4D7rxi3O8Jf"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -1603,26 +1603,6 @@
       "duration_ms": 134581,
       "name": "C\u00d3MO CHILLA ELLA",
       "url": "https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4"
-    },
-    {
-      "added_at": "2024-06-21 09:08:54",
-      "album": {
-        "name": "En Esta Boca",
-        "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 170742,
-      "name": "En Esta Boca",
-      "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -1663,18 +1643,22 @@
     {
       "added_at": "2024-06-21 09:08:54",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+        "name": "En Esta Boca",
+        "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
       },
       "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
         {
           "name": "Young Miko",
           "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 166406,
-      "name": "princess peach",
-      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+      "duration_ms": 170742,
+      "name": "En Esta Boca",
+      "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
     },
     {
       "added_at": "2024-06-21 09:08:54",
@@ -1699,6 +1683,22 @@
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
+    },
+    {
+      "added_at": "2024-06-21 09:08:54",
+      "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
     },
     {
       "added_at": "2024-06-21 09:08:54",

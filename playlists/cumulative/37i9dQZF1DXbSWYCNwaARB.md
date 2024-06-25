@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: TripleS
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: Red Velvet
 
-460 songs - 1 day 0 hr 18 min
+462 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Apple](https://open.spotify.com/track/3jg1u32Pn1c2M5r6SAQBCC) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Song of the Sirens](https://open.spotify.com/album/7nv3pBVVG6Zoc6DmaQ9fVG) | 3:27 | 2020-10-13\* | 2021-03-16 |
 | [ARIA](https://open.spotify.com/track/1T4GQxjwqrGGQ60N3q5Xpw) | [CRAXY](https://open.spotify.com/artist/3C13AlJZ4QWHSruAWe9VPI) | [My Universe](https://open.spotify.com/album/20K3dLngjcAJy2pCEFwQET) | 3:31 | 2021-01-17 | 2022-04-17 |
 | [Armageddon](https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:16 | 2024-05-27 |  |
-| [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-12 |  |
+| [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-12 | 2024-06-25 |
 | [AYA](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:31 | 2020-11-09 | 2021-03-01 |
 | [B\[OO\]M\-BOXX](https://open.spotify.com/track/7vf8wdpqIyBgbUd0We65hS) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:13 | 2021-09-25 | 2022-04-18 |
 | [Baby You're Mine](https://open.spotify.com/track/4Kib4w0Np0GtUEWrzn9z2T) | [High School](https://open.spotify.com/artist/37v9QTtJDchfWTji6Nlbk7) | [Baby You're Mine](https://open.spotify.com/album/6bLh16mgcrxxe3jNMwqEmu) | 3:43 | 2021-02-02 | 2022-04-15 |
@@ -86,6 +86,7 @@
 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 | 2021-11-14 | 2022-08-13 |
 | [Come See Me](https://open.spotify.com/track/5KrvZAR95aP5Otmsiwp9pC) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [NEW MOON](https://open.spotify.com/album/61mlBNUkU8QKvYOfTiwFR5) | 3:22 | 2021-01-19 | 2021-03-16 |
 | [COOL](https://open.spotify.com/track/7Cz1Ny3XhRz6KBT0YHVHyf) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 4th Mini Album \[NEW RULES\]](https://open.spotify.com/album/3VRhzwIZ6kfd7CSirU2E7x) | 3:29 | 2020-10-13\* | 2022-04-16 |
+| [Cosmic](https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:45 | 2024-06-24 |  |
 | [CRY FOR ME](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) | 3:24 | 2021-01-18 | 2023-08-26 |
 | [Curiosity](https://open.spotify.com/track/6Kke9MonigeJKLSmlmRnWD) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET) | 3:09 | 2021-02-27 | 2021-03-18 |
 | [DADADA](https://open.spotify.com/track/7M3uNP8R8pedoK11D2K1iI) | [LUNARSOLAR](https://open.spotify.com/artist/64XtE3KrOhSYaS3dX04kI1) | [SOLAR : rise](https://open.spotify.com/album/45gnAAEGm2lmq8DPhoZfum) | 3:01 | 2021-04-24 | 2022-05-31 |
@@ -190,6 +191,7 @@
 | [How To Twerk \(Prod\. Czaer\)](https://open.spotify.com/track/1ckjVyV85YJob7nFZlEHIo) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:56 | 2023-09-06 | 2023-10-13 |
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2020-10-13\* | 2022-05-21 |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2022-07-25 | 2024-04-19 |
+| [HURRICANE](https://open.spotify.com/track/6oOQzwWhv7RW0QmuPupgQX) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [HURRICANE](https://open.spotify.com/album/7sRIyO45mBnqimcG7Sk4k4) | 2:29 | 2024-06-24 |  |
 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 | 2021-01-18 | 2022-07-29 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-12 |  |
 | [I \(Feat\. DAWN\)](https://open.spotify.com/track/6md6ZAdNYB356gXFFW7GXV) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [I \(Feat\. DAWN\)](https://open.spotify.com/album/4yCLOlSNlSuwvzGVkYsLwU) | 3:53 | 2023-11-22 | 2024-01-09 |
@@ -343,7 +345,7 @@
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-28 | 2023-04-25 |
 | [RUNNIN’ BACK](https://open.spotify.com/track/7qYcGl3sNRkWwKQ2PbulZF) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [THE OCEAN](https://open.spotify.com/album/2FEQU7BTSsYncVAg244A55) | 3:01 | 2021-03-17 | 2021-03-18 |
 | [S.O.R.R.Y](https://open.spotify.com/track/0z0Bk5DaFqZBxShGcF1w8Z) | [GIRLKIND](https://open.spotify.com/artist/2TqCaaZ0Yh9MtRVYnoZg8K) | [S.O.R.R.Y](https://open.spotify.com/album/3bzBmdCUbfoY1hfKhtYwRC) | 3:06 | 2021-02-27 | 2022-04-21 |
-| [SABOTAGE](https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [SABOTAGE](https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL) | 3:15 | 2024-06-19 |  |
+| [SABOTAGE](https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [SABOTAGE](https://open.spotify.com/album/5xIQ5P9THWkpmrG2MxiuoL) | 3:15 | 2024-06-19 | 2024-06-25 |
 | [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 | 2023-07-19 | 2023-07-26 |
 | [Say Hi](https://open.spotify.com/track/4RQLg7cy1MHtYj2LSLsLI5) | [Kisum](https://open.spotify.com/artist/1CArfopvfCxakFJHup55FW), [Woody](https://open.spotify.com/artist/6nfVa2RFZrB5EilcKdrmBy) | [yeah!sool](https://open.spotify.com/album/7fl6CYaqz90LpDLyT7vyz4) | 2:50 | 2020-10-13\* | 2022-04-10 |
 | [Say My Name](https://open.spotify.com/track/7H1YffYl5eH6y5jqOpVeLT) | [ANS](https://open.spotify.com/artist/5LpAX68lituNSGh7aJfsyr) | [Say My Name](https://open.spotify.com/album/50MZo03tOilWNwgPbza7he) | 3:16 | 2021-03-18 | 2022-04-15 |

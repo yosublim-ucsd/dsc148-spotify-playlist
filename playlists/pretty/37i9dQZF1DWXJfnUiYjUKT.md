@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,091 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,100 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 18 | [Good Books](https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Good Books](https://open.spotify.com/album/29EyF9Puu6EeefvjUDZULV) | 4:14 |
 | 19 | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 |
 | 20 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
-| 21 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:50 |
+| 21 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:51 |
 | 22 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 |
 | 23 | [AND DID](https://open.spotify.com/track/4xmGq65jOFzNna5hfTqrJw) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Freshman Grad.](https://open.spotify.com/album/44TpQtfROIJvYF4bwYxoPn) | 2:19 |
 | 24 | [Uh Huh](https://open.spotify.com/track/4LyJyZpmfpDTAfF2E0gWHF) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Uh Huh](https://open.spotify.com/album/4JnlqGdsDfELZDv4Ksa4pJ) | 2:15 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 64 | ["Roses"](https://open.spotify.com/track/6ea2h0fftulhGhWEODoU2V) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | ["Roses"](https://open.spotify.com/album/3sFAerfTDCAol4ZZeteKzQ) | 3:24 |
 | 65 | [Last Time We Never Meet Again](https://open.spotify.com/track/4mKQ5jwuUvusHUVoLsOIHA) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Last Time We Never Meet Again](https://open.spotify.com/album/6obpscPPNZayw65IPFZSWE) | 3:10 |
 | 66 | [Forever](https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Forever](https://open.spotify.com/album/2b1e9L6f4wMPmSeTJLwaZ6) | 2:34 |
-| 67 | [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 |
+| 67 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
 | 68 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 |
 | 69 | [Stevie Nicks](https://open.spotify.com/track/15oZEfoDRFS7AzO2aeRpHk) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Stevie Nicks](https://open.spotify.com/album/6oVEbvZItYDzzlXN8cUDcp) | 2:47 |
 | 70 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Saltwater Cinderella](https://open.spotify.com/track/6ukdlzjSgvwpirC5HE9ZUW) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Saltwater Cinderella](https://open.spotify.com/album/1JHqBa0fAJjpBt6xOVg4sZ) | 3:05 |
 | 100 | [Hollywood Sextape](https://open.spotify.com/track/1qPfbQKFBTKMW1z7CjLA9v) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Jawbreaker](https://open.spotify.com/album/4op5G7mWdKWqsKcTpdFU8a) | 3:31 |
 
-Snapshot ID: `ZnT6wAAAAAAQoWr0pyE0Hfu/APSIX9sf`
+Snapshot ID: `ZnlwAQAAAADr2a8/+g1ueWoq09Q+wmyE`

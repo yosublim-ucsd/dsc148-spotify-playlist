@@ -1,6 +1,6 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 206978,
+  "num_followers": 207116,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
         "name": "BELLAKEO",
         "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
-        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
-        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 155888,
-      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
-      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 143327,
       "name": "HARLEY QUINN",
       "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
+        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 155888,
+      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -783,6 +783,30 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
+        "name": "X'CLUSIVO (REMIX)",
+        "url": "https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "X'CLUSIVO - REMIX",
+      "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -819,30 +843,6 @@
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "X'CLUSIVO (REMIX)",
-        "url": "https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "X'CLUSIVO - REMIX",
-      "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1335,6 +1335,30 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
+        "name": "DESATAAA",
+        "url": "https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2Og0ncAuCVTlSTzBfIZv0h"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "DESATAAA",
+      "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
         "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) [Remix]",
         "url": "https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb"
       },
@@ -1371,30 +1395,6 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
-        "name": "DESATAAA",
-        "url": "https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2Og0ncAuCVTlSTzBfIZv0h"
-        }
-      ],
-      "duration_ms": 197383,
-      "name": "DESATAAA",
-      "url": "https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
         "name": "BYAK",
         "url": "https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 216346,
       "name": "BYAK",
       "url": "https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "Quien Es Dei V?",
-        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 162244,
-      "name": "Quien Es Dei V?",
-      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
         "name": "Chulo pt.2",
         "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
       },
@@ -1471,6 +1471,46 @@
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 124374,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
+        "name": "Lollipop (Remix)",
+        "url": "https://open.spotify.com/album/7n9GeVtUUEc619yiyhT9AR"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 266616,
+      "name": "Lollipop - Remix",
+      "url": "https://open.spotify.com/track/1S2WWT5jW9J3MauQ7r7qN4"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1503,46 +1543,6 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
-        "name": "Lollipop (Remix)",
-        "url": "https://open.spotify.com/album/7n9GeVtUUEc619yiyhT9AR"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 266616,
-      "name": "Lollipop - Remix",
-      "url": "https://open.spotify.com/track/1S2WWT5jW9J3MauQ7r7qN4"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 124374,
-      "name": "Emociones",
-      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 211879,
       "name": "REINA",
       "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
+        "name": "VVS",
+        "url": "https://open.spotify.com/album/2elH16RB2XdMs5wpP6dedX"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 164822,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/1yNa5Sd2tijUuR3hJJ8uvk"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
-        "name": "VVS",
-        "url": "https://open.spotify.com/album/2elH16RB2XdMs5wpP6dedX"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 164822,
-      "name": "VVS",
-      "url": "https://open.spotify.com/track/1yNa5Sd2tijUuR3hJJ8uvk"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
         "name": "VVS Switch",
         "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
       },
@@ -1635,26 +1635,6 @@
       "duration_ms": 168178,
       "name": "VVS Switch",
       "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "SAKURA",
-        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 279893,
-      "name": "ESKELETO",
-      "url": "https://open.spotify.com/track/1jPff2HChF9ZahcdogUaCX"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1675,6 +1655,26 @@
       "duration_ms": 167418,
       "name": "Esc\u00e1pate Conmigo - Remix",
       "url": "https://open.spotify.com/track/4aEOz6ZpXh3wF4FOdJHOPV"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
+        "name": "SAKURA",
+        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 279893,
+      "name": "ESKELETO",
+      "url": "https://open.spotify.com/track/1jPff2HChF9ZahcdogUaCX"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
         "name": "Si La Mami",
         "url": "https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 176326,
       "name": "Si La Mami",
       "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
     },
     {
       "added_at": "2024-06-21 09:06:20",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-06-21 09:06:20",
       "album": {
-        "name": "Porque Puedo",
-        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "Heavyweight",
-      "url": "https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu"
-    },
-    {
-      "added_at": "2024-06-21 09:06:20",
-      "album": {
         "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
         "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 346000,
       "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
       "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
+    },
+    {
+      "added_at": "2024-06-21 09:06:20",
+      "album": {
+        "name": "Porque Puedo",
+        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "Heavyweight",
+      "url": "https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu"
     },
     {
       "added_at": "2024-06-21 09:06:20",

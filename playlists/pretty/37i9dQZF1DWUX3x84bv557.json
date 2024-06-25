@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse pop! Cover: Big2, Antoon & Bilal Wahib",
-  "num_followers": 162764,
+  "num_followers": 162765,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnSmYAAAAAAaswE0+GVdpXTm3ElXeQW2",
+  "snapshot_id": "ZnkigQAAAABJv2eZKWoAHHIqDTrWVlK7",
   "tracks": [
     {
       "added_at": "2024-06-20 22:00:00",
@@ -31,6 +31,22 @@
       "duration_ms": 130571,
       "name": "\u00c7a Va",
       "url": "https://open.spotify.com/track/4KIsxUAKHmbnrNqraNs6Yb"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Onder Invloed",
+        "url": "https://open.spotify.com/album/1wHyKHiPa0OIc2nCNr6Deq"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Onder Invloed",
+      "url": "https://open.spotify.com/track/7ABMV7gt2YIQGBjkQ3IqZz"
     },
     {
       "added_at": "2024-06-17 22:07:56",
@@ -99,22 +115,6 @@
       "duration_ms": 203439,
       "name": "Het Is Voorbij",
       "url": "https://open.spotify.com/track/5EcWtCCPsmWOIJUakcjdiG"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Onder Invloed",
-        "url": "https://open.spotify.com/album/1wHyKHiPa0OIc2nCNr6Deq"
-      },
-      "artists": [
-        {
-          "name": "Russo",
-          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Onder Invloed",
-      "url": "https://open.spotify.com/track/7ABMV7gt2YIQGBjkQ3IqZz"
     },
     {
       "added_at": "2024-06-17 22:07:56",

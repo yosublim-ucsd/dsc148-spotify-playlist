@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,612,817 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,612,994 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 68 | [Last Man Standing](https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Last Man Standing](https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP) | 3:03 |
 | 69 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 |
 | 70 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
-| 71 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 |
-| 72 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
+| 71 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
+| 72 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 |
 | 73 | [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 |
 | 74 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 |
 | 75 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 82 | [All I Want \(from the Netflix Series "Bridgerton"\)](https://open.spotify.com/track/4uuVa7YG5n5QxdVN2XM7hx) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [All I Want \(from the Netflix Series "Bridgerton"\)](https://open.spotify.com/album/4HJ1f1jfoIzcfHTdKfbgA8) | 3:04 |
 | 83 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:52 |
 | 84 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
-| 85 | [If I Ain’t Got You \- James Bay Spotify Session 2015 "Alicia Keys Cover"](https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 4:21 |
-| 86 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
+| 85 | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Chasing After You \(with Maren Morris\)](https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK) | 3:27 |
+| 86 | [If I Ain’t Got You \- James Bay Spotify Session 2015 "Alicia Keys Cover"](https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 4:21 |
 | 87 | [beat up car](https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [beat up car](https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu) | 3:34 |
 | 88 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 |
 | 89 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 |

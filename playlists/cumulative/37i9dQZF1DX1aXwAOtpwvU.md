@@ -2,7 +2,7 @@
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:7ruGjTmqO10lSqHWRIchnU">Daniel Godson</a>, <a href="spotify:artist:251W9nU4osxaBuBkU9HXT3">Jea Mira</a>, <a href="spotify:artist:0eWYWLizN5us1MOF1rdyh9">Livka</a>, <a href="spotify:artist:07EyVrrbqIAHNLw9FEnQUs">Lotta</a>, <a href="spotify:artist:7qAu2kYGjO28g0CJERiQhM">MAJA</a>, <a href="spotify:artist:3IQIVYEmRr7wZnEqpSjfV5">Zaleś</a>
+> Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:0eWYWLizN5us1MOF1rdyh9">Livka</a>
 
 170 songs - 8 hr 14 min
 

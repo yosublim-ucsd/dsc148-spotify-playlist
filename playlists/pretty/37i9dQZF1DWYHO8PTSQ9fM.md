@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits du moment sont ici\. Cover : Manal
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,002 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,205 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,535 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,542 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 28 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 |
 | 29 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 |
 | 30 | [Who Says](https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:15 |
-| 31 | [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 |
-| 32 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
+| 31 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
+| 32 | [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 |
 | 33 | [Shake It Off \(Taylor's Version\)](https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:39 |
 | 34 | [Better When I'm Dancin'](https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Better When I'm Dancin'](https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH) | 2:56 |
 | 35 | [We Don't Talk About Bruno](https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Adassa](https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh), [Rhenzy Feliz](https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr), [Diane Guerrero](https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Mark Ambor
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,510 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,524 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,17 +61,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 51 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
 | 52 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 |
 | 53 | [Portland, Maine](https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:23 |
-| 54 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
-| 55 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
+| 54 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
+| 55 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
 | 56 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
 | 57 | [Believe](https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 3:41 |
 | 58 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
 | 59 | [Salt And The Sea](https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 4:30 |
 | 60 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
 | 61 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 |
-| 62 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
-| 63 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
-| 64 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
+| 62 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
+| 63 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
+| 64 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
 | 65 | [Love Is A Wild Thing](https://open.spotify.com/track/5F5lmpwXkxAJtvZqEguTRo) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:16 |
 | 66 | [Just Like Leaving](https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Just Like Leaving](https://open.spotify.com/album/1YFu2Ce9NLQeSWFuhdztFe) | 3:26 |
 | 67 | [Birdcage](https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:22 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 70 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
 | 71 | [Lost In The Light](https://open.spotify.com/track/0boz2COxgC376hg1Drao5V) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/78JxIticjNz5ZB3iNYEP6g) | 3:56 |
 | 72 | [No Fun](https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 3:31 |
-| 73 | [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 |
-| 74 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 |
+| 73 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 |
+| 74 | [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 |
 | 75 | [Shrike](https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 5:00 |
 | 76 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
 | 77 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 96 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 |
 | 97 | [Sword from the Stone](https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted \(Deluxe\)](https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ) | 3:21 |
 | 98 | [Drugstore Houses](https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Drugstore Houses](https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6) | 3:02 |
-| 99 | [Even the Darkness Has Arms](https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 3:50 |
+| 99 | [Aujourd'hui ma vie c'est d'la marde](https://open.spotify.com/track/0uuFgysRgYtTEaNEbB06pk) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Lisa LeBlanc](https://open.spotify.com/album/6qkkBPeN0eLTk9oDvvew2V) | 3:37 |
 | 100 | [Freedom](https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Only Pieces of the Truth](https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG) | 4:21 |
 
 Snapshot ID: `ZmvAQAAAAABlt1Xx41C7sXqL7fsl8EUW`

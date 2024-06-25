@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-245 songs - 15 hr 34 min
+246 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Full Send](https://open.spotify.com/track/45qaAaQolmwfPj3mU7sOk8) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Full Send \[UKF10\]](https://open.spotify.com/album/0Mkumd9wFie18ZX6du7v1j) | 3:49 | 2022-07-05 | 2024-01-26 |
 | [Fumes](https://open.spotify.com/track/6FDR1CyaZbw79iAUThlK4k) | [Need For Mirrors](https://open.spotify.com/artist/0bR5osQX9Kn0wmtUPQQhze) | [Fumes EP](https://open.spotify.com/album/57rb97Vkbxq2qKz1C7Oweb) | 6:15 | 2021-12-21 | 2022-06-04 |
 | [Futurism](https://open.spotify.com/track/0TzjN3TEKHd5Ewb2OLHpzQ) | [GEST](https://open.spotify.com/artist/0MmQJrFB85cY6DCj3wjCtk) | [Futurism](https://open.spotify.com/album/4TFqV5gUh7qoMhKa2FZBlM) | 5:13 | 2021-12-21 | 2022-06-17 |
-| [Galvanize](https://open.spotify.com/track/1do4bX9hOYyP53We3hzC9g) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Galvanize](https://open.spotify.com/album/3u2AACBpssZuJtCYW3MvhE) | 3:25 | 2024-04-04 |  |
+| [Galvanize](https://open.spotify.com/track/1do4bX9hOYyP53We3hzC9g) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Galvanize](https://open.spotify.com/album/3u2AACBpssZuJtCYW3MvhE) | 3:25 | 2024-04-04 | 2024-06-25 |
 | [Get Serious](https://open.spotify.com/track/7y5TMfJqAvvAKfy6PYB5ma) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Beneath the Surface](https://open.spotify.com/album/05dtnn7yufEGZbfQ8loopK) | 4:13 | 2021-12-21 | 2022-07-29 |
 | [Ghost Notes](https://open.spotify.com/track/6i511YzpgGLgpMfIoAsmJ4) | [Dexcell](https://open.spotify.com/artist/30OaLZeQTMJHvuH3TIMUPz), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Ghost Notes](https://open.spotify.com/album/6h53ziQI8USy0s1YpsFCre) | 4:51 | 2021-12-21 | 2022-07-24 |
 | [Glitter](https://open.spotify.com/track/1AtifUJiEqzf1lHxxSKVEz) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Glitter](https://open.spotify.com/album/4xG9AXX6PJpzfVoqb5eqXh) | 2:59 | 2022-07-05 | 2022-11-21 |
@@ -142,6 +142,7 @@
 | [Lose Control \(feat\. Grace Barton\)](https://open.spotify.com/track/3PXTbB4RjSIPW8LiDrHHrd) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Grace Barton](https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx) | [Lose Control \(feat\. Grace Barton\)](https://open.spotify.com/album/11nJjItPfqK8eoJKo18QNY) | 3:11 | 2024-05-17 |  |
 | [Lost](https://open.spotify.com/track/5TtFAmdGW48ebOkoZ6YSxn) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Lost](https://open.spotify.com/album/0lAFSahunecxZja9uUOu4Z) | 4:01 | 2021-12-21 | 2022-07-29 |
 | [Lost & Proud](https://open.spotify.com/track/6JCuqRrPGc3DtjQKdDkx3W) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Lost & Proud](https://open.spotify.com/album/4ffOjbA1L97UtrSUTuSQus) | 5:42 | 2021-12-21 | 2022-01-17 |
+| [Lost My Mind](https://open.spotify.com/track/72yMLYilcX4C1EzrfR60fy) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Lost My Mind](https://open.spotify.com/album/4E6MZJ5d95yfND6K9DxhIk) | 3:23 | 2024-06-14 |  |
 | [Louder Than Words](https://open.spotify.com/track/3AXmSZIHOho1ylePzcTBto) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Elemental](https://open.spotify.com/album/0Ruhvi1Po4DrvhX6oxxGpE) | 3:55 | 2021-12-21 | 2022-11-26 |
 | [Love for the Fallen](https://open.spotify.com/track/3YoKba7r0d0qAZlyshSkqE) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2) | [Love for the Fallen](https://open.spotify.com/album/08NDRrqF43HdyWXEGIx0ys) | 5:39 | 2021-12-21 | 2022-07-29 |
 | [Love Is Not Enough \- Hybrid Minds Remix](https://open.spotify.com/track/6sp6sZ3agNkxCwdK7zsdFy) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Love Is Not Enough \(Hybrid Minds Remix\)](https://open.spotify.com/album/0HTLv8wPnoDIAOUVas0aA3) | 5:03 | 2021-12-21 | 2022-07-24 |

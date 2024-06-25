@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Relampagos Del Norte\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 7138,
+  "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
+  "num_followers": 7140,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAADv0XPL05yJFYyWvids+mgz",
+  "snapshot_id": "ZndlgAAAAAAMOp47DBt1Q2te4bV9WvY2",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Llorar por Amor",
-        "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 169240,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doble 2 En 1",
         "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 162160,
       "name": "Hay Ojitos",
       "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos Llorar por Amor",
+        "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 169240,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "21 Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 164906,
+      "name": "Que Bonita Chaparrita",
+      "url": "https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
         "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 125880,
       "name": "Veinte Novias",
       "url": "https://open.spotify.com/track/77nPWfw1XzVOSV1LQDM7yi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21 Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 164906,
-      "name": "Que Bonita Chaparrita",
-      "url": "https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s"
     },
     {
       "added_at": null,

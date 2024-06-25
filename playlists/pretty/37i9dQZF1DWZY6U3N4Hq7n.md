@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 
 > Grab your leg warmers and spandex: let's get physical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,085 likes - 80 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,215 likes - 80 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 29 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 |
 | 30 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
 | 31 | [Big in Japan \- 2019 Remaster](https://open.spotify.com/track/7wnagOAqma4Sg6JOGjWr5R) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 4:44 |
-| 32 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
-| 33 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
+| 32 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
+| 33 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
 | 34 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
 | 35 | [Girls Just Want to Have Fun](https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 3:58 |
 | 36 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 68 | [Conga!](https://open.spotify.com/track/0KxTWgl64TNOQXiGFJYc6t) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [The Very Best Of Gloria Estefan \(English Version\)](https://open.spotify.com/album/1Hx9JuA0e9dAm5z6f0oNE6) | 4:12 |
 | 69 | [I Want A New Drug](https://open.spotify.com/track/0mZNKyrUmsrlDRoYHWsyMu) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:31 |
 | 70 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
-| 71 | [Tell It to My Heart](https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Platinum & Gold Collection](https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP) | 3:40 |
-| 72 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 |
+| 71 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 |
+| 72 | [Tell It to My Heart](https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Platinum & Gold Collection](https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP) | 3:40 |
 | 73 | [Nasty](https://open.spotify.com/track/07OzC5JlcaDwEkzWmvqp6y) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:03 |
 | 74 | [Part\-Time Lover](https://open.spotify.com/track/7fjcn8o8kZuPBW2WvFxXVQ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:12 |
 | 75 | [Jungle Love](https://open.spotify.com/track/0QUpBXTOdB4JJyTGFN6dH1) | [The Time](https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv) | [Ice Cream Castle](https://open.spotify.com/album/6U9fEF6ZUIDM8M03JNB9I4) | 5:33 |

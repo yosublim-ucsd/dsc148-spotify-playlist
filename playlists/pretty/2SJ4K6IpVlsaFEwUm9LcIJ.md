@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 19,995 likes - 56 songs - 2 hr 46 min
+[margeaux](https://open.spotify.com/user/1220511975) - 19,997 likes - 59 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 54 | [Signs](https://open.spotify.com/track/1xxapFhumr4nQ72HwbzTjV) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp) | [Scenic Route \- Road Less Travelled, Vol​​​.​​​ 2](https://open.spotify.com/album/1qMuvJRu4Rc7RmZPdafYU8) | 3:53 |
 | 55 | [Time For Slurp](https://open.spotify.com/track/753EklH444D0oZj4ClafLc) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [SHHHHHHH!](https://open.spotify.com/album/4KyU3E5Xw6TVBz2yCuUfeW) | 1:57 |
 | 56 | [A Whole New Shape](https://open.spotify.com/track/0TTyYV1dQAcB5uDH9VJKbQ) | [Happyness](https://open.spotify.com/artist/4nddgNqdf0SFeeqhbDN6rN) | [Weird Little Birthday](https://open.spotify.com/album/64hZe9D1dLyyq0s3NLBfsB) | 3:25 |
+| 57 | [Take Refuge](https://open.spotify.com/track/16PM5R7DFzNFaCyIrTIVCq) | [Webster Harrod](https://open.spotify.com/artist/7yleLfgpIXZy8KptsfpbTr) | [Keep Breathing](https://open.spotify.com/album/6O3JyH7T2a51bIWAE3ZI4x) | 1:58 |
+| 58 | [SAME THING](https://open.spotify.com/track/5z3s5KcMf7rIItfjGJoWqF) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [SAME THING](https://open.spotify.com/album/11Fi8BwZJ7bb9U5a37VM6x) | 1:49 |
+| 59 | [The Only One](https://open.spotify.com/track/2XItbN0HfeLpDamJzeQLqQ) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:15 |
 
-Snapshot ID: `AAAKpqVtkYpsEXI1V/YYwNyKhNVyjucP`
+Snapshot ID: `AAAKqWMBR0mnzLPbrYZTYFnCbgvHKOQ2`

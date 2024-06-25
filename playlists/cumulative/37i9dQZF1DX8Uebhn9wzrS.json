@@ -768,7 +768,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 140571,
       "name": "Affirmation",
       "url": "https://open.spotify.com/track/3iK8fZSXJKZvkbYcSVVvYN"
@@ -2434,6 +2434,24 @@
       "duration_ms": 120000,
       "name": "avant garde",
       "url": "https://open.spotify.com/track/4AkXE5K2Zh9qUnTaHsbkPn"
+    },
+    {
+      "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/1BEIyMdOKIlmmXCyf9ORET"
+      },
+      "artists": [
+        {
+          "name": "Quinn Rain",
+          "url": "https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149504,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/0GEmUg3e8CGFtWjJU0cDux"
     },
     {
       "album": {
@@ -20175,6 +20193,24 @@
     },
     {
       "album": {
+        "name": "midnight escape",
+        "url": "https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G"
+      },
+      "artists": [
+        {
+          "name": "sellar",
+          "url": "https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180791,
+      "name": "midnight escape",
+      "url": "https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw"
+    },
+    {
+      "album": {
         "name": "Amapola",
         "url": "https://open.spotify.com/album/7z60Si2DbAvtYKL4jS0pej"
       },
@@ -35118,7 +35154,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 170109,
       "name": "waiting",
       "url": "https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU"

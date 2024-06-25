@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 
 > Inizia la giornata con la tua dose di caffè e buonumore!
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,886 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,872 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 55 | [Vai!](https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Vai!](https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL) | 2:36 |
 | 56 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
 | 57 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
-| 58 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 |
-| 59 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
+| 58 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
+| 59 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 |
 | 60 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 |
 | 61 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 | 62 | [This City](https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City](https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm) | 3:14 |

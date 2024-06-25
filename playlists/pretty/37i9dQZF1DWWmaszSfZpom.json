@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 960819,
+  "num_followers": 960759,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,30 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Malandramente",
+        "url": "https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Nandinho",
+          "url": "https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf"
+        },
+        {
+          "name": "Nego Bam",
+          "url": "https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Malandramente",
+      "url": "https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Privil\u00e9gio",
         "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 151384,
       "name": "Privil\u00e9gio",
       "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Malandramente",
-        "url": "https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Nandinho",
-          "url": "https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf"
-        },
-        {
-          "name": "Nego Bam",
-          "url": "https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Malandramente",
-      "url": "https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Resenha l\u00e1 em casa",
-        "url": "https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 236852,
-      "name": "Resenha l\u00e1 em casa",
-      "url": "https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Amor ou o Litr\u00e3o",
         "url": "https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 173913,
       "name": "Amor ou o Litr\u00e3o",
       "url": "https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Resenha l\u00e1 em casa",
+        "url": "https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 236852,
+      "name": "Resenha l\u00e1 em casa",
+      "url": "https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "FICA \u00c0 VONTADE",
-        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "FICA \u00c0 VONTADE",
-      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Envolvimento",
         "url": "https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 146602,
       "name": "Envolvimento",
       "url": "https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "FICA \u00c0 VONTADE",
+        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "FICA \u00c0 VONTADE",
+      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Finalidade Era Ficar em Casa",
-        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "Finalidade Era Ficar em Casa",
-      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
         "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 251216,
       "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
       "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Finalidade Era Ficar em Casa",
+        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "Finalidade Era Ficar em Casa",
+      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
     },
     {
       "added_at": "2023-06-26 14:06:50",

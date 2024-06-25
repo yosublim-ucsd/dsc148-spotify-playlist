@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-525 songs - 1 day 7 hr 21 min
+526 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,8 @@
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2024-01-29 |  |
 | [Starry Eyes](https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:28 | 2024-01-29 |  |
 | [Starry Eyes \- MIKE DEAN Remix](https://open.spotify.com/track/5T0ZsRG7hVgXeffepN8Kmk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/12INlMsFtBjyehNnawBv36) | 3:18 | 2024-01-29 |  |
-| [Stay My Baby](https://open.spotify.com/track/0YonII18xBlXaIEy2wd4mh) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [iCarly \- Music From and Inspired by the Hit TV Show](https://open.spotify.com/album/0xNAZJ9t4vyY9SNWoZ3rrx) | 3:05 | 2024-01-29 |  |
+| [Stay My Baby](https://open.spotify.com/track/0YonII18xBlXaIEy2wd4mh) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [iCarly \- Music From and Inspired by the Hit TV Show](https://open.spotify.com/album/0xNAZJ9t4vyY9SNWoZ3rrx) | 3:05 | 2024-01-29 | 2024-06-25 |
+| [Stay My Baby](https://open.spotify.com/track/2wDR9Ug6wJ9zESaR8JDiUZ) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [iCarly \- Music From and Inspired by the Hit TV Show](https://open.spotify.com/album/2tS4a5yrlCD880xlz7N1S9) | 3:05 | 2024-06-24 |  |
 | [Stick With You](https://open.spotify.com/track/431t5WpCcmzKG3wU1S2H94) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 2:59 | 2024-01-29 |  |
 | [Straight Up Funk](https://open.spotify.com/track/1H3zVQ9T5IGYViDqkKhbiK) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [5ive](https://open.spotify.com/album/1GJlrr97zfdxa3l4jpP47A) | 3:59 | 2024-01-29 |  |
 | [Stronger](https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:23 | 2024-01-31 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 
 ### [This Is Kenia OS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBgha)
 
-> This is Kenia OS\. The essential tracks, all in one playlist.
+> This Is Kenia OS\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,356 likes - 47 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,482 likes - 47 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 2 | [Kitty](https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:38 |
 | 3 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 |
 | 4 | [Mi Salida Contigo](https://open.spotify.com/track/5zMaWQoxNyNo8hJICxNyBK) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Haashtag](https://open.spotify.com/album/61F0A7l8tyXIWJV3y4UKXw) | 2:55 |
-| 5 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
+| 5 | [Un Bezito](https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Un Bezito](https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b) | 2:36 |
 | 6 | [Big Bang](https://open.spotify.com/track/7dxrSzsK1bouobJiY5fIcD) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:37 |
-| 7 | [Un Bezito](https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Un Bezito](https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b) | 2:36 |
+| 7 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
 | 8 | [La Invitación](https://open.spotify.com/track/5i2u1LN3LOhhKyd5nBKBK0) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:29 |
 | 9 | [TOMMY & PAMELA](https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:29 |
 | 10 | [Mamita Rica](https://open.spotify.com/track/7vWCNYFkxVmQM2PfegA9YE) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:58 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 37 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 |
 | 38 | [Diamantes](https://open.spotify.com/track/5tsaIE9YwWkgnSzKbAkcr5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Diamantes](https://open.spotify.com/album/3hECK15kYfJL0rrUVNxLOA) | 2:58 |
 | 39 | [Se Fue la Luz](https://open.spotify.com/track/2M4UXjgRjbQnS8s7lNR9g3) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:39 |
-| 40 | [Ella \- Remix De Ellas](https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Ella \(Remix De Ellas\)](https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe) | 3:10 |
-| 41 | [Tú Sí](https://open.spotify.com/track/3UYbYRx8LAEMSNiN9oaJuD) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tú Sí](https://open.spotify.com/album/3A9d6xjgv8Gzf5sBL5WUy2) | 2:53 |
+| 40 | [Tú Sí](https://open.spotify.com/track/3UYbYRx8LAEMSNiN9oaJuD) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tú Sí](https://open.spotify.com/album/3A9d6xjgv8Gzf5sBL5WUy2) | 2:53 |
+| 41 | [Ella \- Remix De Ellas](https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Ella \(Remix De Ellas\)](https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe) | 3:10 |
 | 42 | [Todo My Love](https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Todo My Love](https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt) | 3:20 |
 | 43 | [Desamor Feliz \- Remix](https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Desamor Feliz \(Remix\)](https://open.spotify.com/album/06IFSa0PSph2dZSLuZKmpA) | 2:56 |
 | 44 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 46 | [Me Dolió](https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN) | [Alan Jacques](https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Kid Gallo](https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c), [Amador](https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv) | [Me Dolió](https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2) | 2:43 |
 | 47 | [Para No Verte Más](https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Para No Verte Más](https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG) | 3:17 |
 
-Snapshot ID: `ZnYUAAAAAABhV6GiLywVhcr3s2+2fRZO`
+Snapshot ID: `ZndlgAAAAAAcdMwHIiObkQHYwkloIt17`

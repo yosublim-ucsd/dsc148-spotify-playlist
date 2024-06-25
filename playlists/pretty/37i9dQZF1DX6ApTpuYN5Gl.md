@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,146 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,142 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 
 > The songs of the 1980s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,887 likes - 75 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,193 likes - 75 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 | 30 | [Danger Zone \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:35 |
 | 31 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 |
 | 32 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
-| 33 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 |
-| 34 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
-| 35 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
-| 36 | [I'm So Excited](https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [So Excited! \(Expanded Edition\)](https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS) | 3:50 |
+| 33 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
+| 34 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 |
+| 35 | [I'm So Excited](https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [So Excited! \(Expanded Edition\)](https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS) | 3:50 |
+| 36 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
 | 37 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 |
 | 38 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
 | 39 | [Self Control](https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:06 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbU2HfvNSMTH.md) - [plain]
 | 63 | [Moonlight Shadow](https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [The Mike Oldfield Collection](https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY) | 3:38 |
 | 64 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
 | 65 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
-| 66 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
-| 67 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 |
+| 66 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 |
+| 67 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
 | 68 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
 | 69 | [Higher Love](https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Back In The High Life](https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d) | 5:51 |
 | 70 | [Addicted To Love](https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu), [Eric 'ET' Thorngren](https://open.spotify.com/artist/0tO3KaRy0ZACd8XJYT3IX2) | [Riptide](https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd) | 6:03 |

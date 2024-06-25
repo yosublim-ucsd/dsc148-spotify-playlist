@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,615 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,835 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 5 | [Si Tú Me Quisieras](https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 3:22 |
 | 6 | [Amárrame](https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:27 |
 | 7 | [Rue Vieille Du Temple \- Live](https://open.spotify.com/track/3a9KZagWgkTU2YSsCtlMRl) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Metrópolis \(Live\)](https://open.spotify.com/album/6tfg5rWLaauuz4b9009iQT) | 3:59 |
-| 8 | [Se Portaba Mal](https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:15 |
+| 8 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 |
 | 9 | [Amor Completo](https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:01 |
 | 10 | [Pa’ Dónde Se Fue](https://open.spotify.com/track/2TPZomzhdB7toV3cx0hj08) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:09 |
-| 11 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 |
+| 11 | [Se Portaba Mal](https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:15 |
 | 12 | [Invéntame](https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Invéntame](https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq) | 3:25 |
 | 13 | [Tormento](https://open.spotify.com/track/0pR6N68RkIGKxitlTqraZ3) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:36 |
 | 14 | [Primaveral](https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 49 | [Metamorfosis](https://open.spotify.com/track/3CsUXmvprDXpBLACoBBJrN) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:10 |
 | 50 | [Obra de Dios](https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Obra de Dios](https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a) | 3:37 |
 
-Snapshot ID: `ZnYUAAAAAACNsnReRNAEleiRlewz1yKR`
+Snapshot ID: `ZndlgAAAAAA8qZVmzBlnDwZKvJXfBUqd`

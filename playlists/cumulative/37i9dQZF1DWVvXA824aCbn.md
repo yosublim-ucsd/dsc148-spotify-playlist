@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-571 songs - 1 day 12 hr 12 min
+572 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [All Your Love](https://open.spotify.com/track/5yeAueY8i94ZgDhYrrtqAy) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [All Your Love](https://open.spotify.com/album/1ue4TwX3fJ4SoaD9BuXaID) | 2:44 | 2024-03-08 |  |
 | [Almost Home](https://open.spotify.com/track/6o2FVcJk7m0eY4AYIuf2hK) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Almost Home](https://open.spotify.com/album/3YxHVhhbU5dIUmkIiXwKQc) | 2:38 | 2024-03-22 |  |
 | [Almost Like Being in Love](https://open.spotify.com/track/4kJiHS82dfbCtJUbZjp0kL) | [110th Street Jazz Trio](https://open.spotify.com/artist/2iTyqgOU23gOA8FmtoqZhl) | [All Alone](https://open.spotify.com/album/5IULrSSu2oXE0tI1vQvDZY) | 4:53 | 2020-10-20\* | 2020-11-05 |
+| [Aloft](https://open.spotify.com/track/0CiU0z4zCOraHw7ilpFrkO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Aloft](https://open.spotify.com/album/4h8T76HMOJIOoJQQlWriJm) | 2:17 | 2024-06-17 |  |
 | [Alone Together](https://open.spotify.com/track/699oSU2O1DFNj7TLHXONll) | [Ollie Reiss Trio](https://open.spotify.com/artist/5wzTGmtiNrS8PsSpkPac9D) | [Alone Together](https://open.spotify.com/album/1MIIX2y8kcImWXeypeevlv) | 3:52 | 2020-10-20\* | 2020-12-09 |
 | [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-02-23 |  |
 | [And All Is Well Now](https://open.spotify.com/track/116Z8pydjYsREn2LWk7El7) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [And All Is Well Now](https://open.spotify.com/album/15D4tQlzbR4iCFPSF2DqTM) | 3:09 | 2020-10-20\* |  |
@@ -55,7 +56,7 @@
 | [As Time Goes By](https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [As Time Goes By](https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg) | 4:10 | 2022-09-29 | 2023-02-17 |
 | [As Times Goes By](https://open.spotify.com/track/3S7gPyRE9cjd5IXCh1WAWK) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Standard Collections Vol\. 1](https://open.spotify.com/album/0Z3WWNniSo85Zutv5lelLF) | 7:18 | 2021-02-14 | 2024-06-20 |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2021-01-21 |  |
-| [Ask Me Again](https://open.spotify.com/track/6e47Pg5J7YtKJwGyvoDQjd) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Ask Me Again](https://open.spotify.com/album/0FuL5flOIZiQjYWEyPh6r4) | 4:10 | 2020-10-20\* |  |
+| [Ask Me Again](https://open.spotify.com/track/6e47Pg5J7YtKJwGyvoDQjd) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Ask Me Again](https://open.spotify.com/album/0FuL5flOIZiQjYWEyPh6r4) | 4:10 | 2020-10-20\* | 2024-06-25 |
 | [Ask Me Now](https://open.spotify.com/track/04ICJKheRrWvKTXcQQN8FM) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Ask Me Now](https://open.spotify.com/album/2M7mD8tcjef75sXOfQg2Q4) | 4:41 | 2023-11-17 |  |
 | [Asleep/Awake](https://open.spotify.com/track/4BqS4zhSeORs7b3OnyVkxs) | [South On South Jazz Trio](https://open.spotify.com/artist/2S3UDGktnF1yMyPODluKqM) | [Asleep/Awake](https://open.spotify.com/album/15OGxyH4CRFWlLcALvCBGG) | 2:40 | 2021-02-11 | 2024-03-24 |
 | [Att angöra en brygga](https://open.spotify.com/track/09sDx67modID6sTeMZIJNt) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [Songs by the bay](https://open.spotify.com/album/1dhYnd1atGKlPshAx7n4Kg) | 3:36 | 2020-10-20\* | 2021-01-21 |

@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306419,
+      "name": "Canci\u00f3n para un Amigo",
+      "url": "https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS"
+    },
+    {
+      "album": {
         "name": "El Paso Gigante",
         "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
       },
@@ -320,7 +338,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 234306,
       "name": "Circunvalaci\u00f3n",
       "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"

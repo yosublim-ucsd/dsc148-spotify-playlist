@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,583 likes - 150 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,715 likes - 150 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 32 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 |
 | 33 | [Wide Open Spaces](https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:43 |
 | 34 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
-| 35 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
-| 36 | [Boys 'Round Here \(feat\. Pistol Annies & Friends\)](https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Based on a True Story..\. \(Deluxe Edition\)](https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0) | 4:48 |
+| 35 | [Boys 'Round Here \(feat\. Pistol Annies & Friends\)](https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Based on a True Story..\. \(Deluxe Edition\)](https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0) | 4:48 |
+| 36 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
 | 37 | [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 |
 | 38 | [Mama's Broken Heart](https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 2:57 |
 | 39 | [Look What God Gave Her](https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 2:48 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 76 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
 | 77 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 |
 | 78 | [Days Go By](https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 3:44 |
-| 79 | [Pickin' Wildflowers](https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj) | [Keith Anderson](https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz) | [Three Chord Country and American Rock & Roll](https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y) | 3:05 |
-| 80 | [I'm Gonna Getcha Good](https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 4:29 |
+| 79 | [I'm Gonna Getcha Good](https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 4:29 |
+| 80 | [Pickin' Wildflowers](https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj) | [Keith Anderson](https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz) | [Three Chord Country and American Rock & Roll](https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y) | 3:05 |
 | 81 | [Best Thing Since Backroads](https://open.spotify.com/track/0R1REdJZIDy7IS3DybdBce) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Best Thing Since Backroads](https://open.spotify.com/album/0V5GJsZdw3zXfrz2oKUhue) | 3:07 |
 | 82 | [80s Mercedes](https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:31 |
 | 83 | [We Are Tonight](https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 3:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Country hits that will have you singing every word\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,739 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,716 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 52 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
 | 53 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 |
 | 54 | [Take Her Home](https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Take Her Home](https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75) | 3:02 |
-| 55 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 |
-| 56 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 |
+| 55 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 |
+| 56 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 |
 | 57 | [Some Whiskey](https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg) | 3:03 |
 | 58 | [Can't Break Up Now](https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Can't Break Up Now](https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8) | 3:20 |
 | 59 | [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 |

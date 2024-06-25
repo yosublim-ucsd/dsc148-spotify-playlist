@@ -1,6 +1,6 @@
 {
   "description": "Just try not to move to this mix of recent dance hits. Cover: Rezz",
-  "num_followers": 88581,
+  "num_followers": 88593,
   "original_name": "Dance Favourites",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,30 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "You & Me (Rivo Remix)",
+        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "You & Me - Rivo Remix",
+      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -459,26 +483,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "You & Me (Rivo Remix)",
-        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Eliza Doolittle",
-          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
-        },
-        {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
         }
       ],
-      "duration_ms": 208524,
-      "name": "You & Me - Rivo Remix",
-      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -507,22 +523,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
       },
@@ -539,34 +539,6 @@
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Deep Down (feat. Never Dull)",
-        "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        },
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 165752,
-      "name": "Deep Down (feat. Never Dull)",
-      "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -603,6 +575,34 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Deep Down (feat. Never Dull)",
+        "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 165752,
+      "name": "Deep Down (feat. Never Dull)",
+      "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Derni\u00e8re danse (Techno Mix)",
-        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
-      },
-      "artists": [
-        {
-          "name": "Indila",
-          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
-        },
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Derni\u00e8re danse - Techno Mix",
-      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -907,6 +887,42 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Derni\u00e8re danse (Techno Mix)",
+        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        },
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Derni\u00e8re danse - Techno Mix",
+      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 175500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "She\u2019s Gone, Dance On",
-        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "She\u2019s Gone, Dance On",
-      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Goosebumps (Remix)",
         "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
       },
@@ -1167,26 +1183,6 @@
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Tell Me Why (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
-      },
-      "artists": [
-        {
-          "name": "Supermode",
-          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Tell Me Why - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1231,38 +1227,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+        "name": "Tell Me Why (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
         },
         {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
+      "duration_ms": 171428,
+      "name": "Tell Me Why - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1287,6 +1267,26 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
       },
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Rainfall (Praise You)",
-        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
       },
       "artists": [
         {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
         }
       ],
-      "duration_ms": 166569,
-      "name": "Rainfall (Praise You)",
-      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1343,22 +1347,18 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+        "name": "Rainfall (Praise You)",
+        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
       },
       "artists": [
         {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
         }
       ],
-      "duration_ms": 169534,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
+      "duration_ms": 166569,
+      "name": "Rainfall (Praise You)",
+      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Check Out",
         "url": "https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 174138,
       "name": "Check Out",
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "duration_ms": 200787,
+      "name": "RIZZ",
+      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Body Moving",
         "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "RIZZ",
-        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        }
-      ],
-      "duration_ms": 200787,
-      "name": "RIZZ",
-      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
     },
     {
       "added_at": "2024-06-14 04:00:00",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 
 ### [This Is Eminem](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gTUOY)
 
-> This is Eminem\. Tutti i brani in un'unica playlist.
+> This is Eminem\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,730,960 likes - 51 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,732,756 likes - 51 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 50 | [Homicide \(feat\. Eminem\)](https://open.spotify.com/track/7M2tXmeS15NAzEn7ABFeBg) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Confessions of a Dangerous Mind](https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz) | 4:05 |
 | 51 | [Like Toy Soldiers](https://open.spotify.com/track/6CN3e26iQSj1N5lomh0mfO) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:56 |
 
-Snapshot ID: `ZnYUAAAAAAAiMruvo5HzJnVb75G8Tqnf`
+Snapshot ID: `ZndlgAAAAADe6UpcNnan/nqAjFkA6dM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Forest Blakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,141 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,151 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,17 +63,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 53 | [Riding Around In The Dark](https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Riding Around In The Dark](https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj) | 3:26 |
 | 54 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 |
 | 55 | [Hawkmoon](https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy) | 3:42 |
-| 56 | [Treehouse \(feat\. Brandy Clark\)](https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Treehouse](https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0) | 3:34 |
-| 57 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 |
+| 56 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 |
+| 57 | [Treehouse \(feat\. Brandy Clark\)](https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Treehouse](https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0) | 3:34 |
 | 58 | [Malleable](https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:01 |
 | 59 | [Name of God](https://open.spotify.com/track/39Mbprj9K0OqHA6vxkREBy) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Name of God](https://open.spotify.com/album/1qk8EaixtL3TI4xc5dhyiq) | 3:28 |
 | 60 | [Questions, Chaos & Faith](https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Questions, Chaos & Faith](https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3) | 3:57 |
 | 61 | [Whiskey](https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Whiskey](https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8) | 5:07 |
 | 62 | [Forever](https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 3:28 |
 | 63 | [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 |
-| 64 | [Rare Disease](https://open.spotify.com/track/677s1ukItuq66rf0yiQ1Hw) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Rare Disease](https://open.spotify.com/album/4P2NQ1wYESDt51NGx9ZbW2) | 2:32 |
-| 65 | [Cape Forestier](https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/4jYX3Qzf8jzasDiGls6o7h) | 3:52 |
-| 66 | [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 |
+| 64 | [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 |
+| 65 | [Rare Disease](https://open.spotify.com/track/677s1ukItuq66rf0yiQ1Hw) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Rare Disease](https://open.spotify.com/album/4P2NQ1wYESDt51NGx9ZbW2) | 2:32 |
+| 66 | [Cape Forestier](https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/4jYX3Qzf8jzasDiGls6o7h) | 3:52 |
 | 67 | [Burial Ground](https://open.spotify.com/track/1DGBNjWsXgKZqFlYBa0gIw) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Oh No!](https://open.spotify.com/album/6hbXOmm6JkscrDJqj5rSNX) | 4:04 |
 | 68 | [Back For The Funeral](https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Back For The Funeral](https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX) | 3:12 |
 | 69 | [Don't Walk Away](https://open.spotify.com/track/0vvmNRlJzDAXnJggMRXXqo) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 4:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 
 > The most essential R&B songs from the '10s\. Cover: Solange
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,685,772 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,685,856 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 | 33 | [Hotline Bling](https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:27 |
 | 34 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
 | 35 | [Infrunami](https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 2:58 |
-| 36 | [What You Heard](https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [What You Heard](https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z) | 3:58 |
-| 37 | [Japanese Denim](https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:30 |
+| 36 | [Japanese Denim](https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:30 |
+| 37 | [What You Heard](https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [What You Heard](https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z) | 3:58 |
 | 38 | [Stay Ready \(What A Life\)](https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 6:22 |
 | 39 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 |
 | 40 | [Location](https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:39 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbttAJcbphz.md) - [plain]
 | 85 | [Blue Lights](https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:10 |
 | 86 | [Boo'd Up](https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 4:16 |
 | 87 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 |
-| 88 | [Hold Up](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:41 |
-| 89 | [Walk On By](https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:19 |
+| 88 | [Walk On By](https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:19 |
+| 89 | [Hold Up](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:41 |
 | 90 | [Motivation](https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Here I Am \(Deluxe Version\)](https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S) | 3:50 |
 | 91 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 |
 | 92 | [The Morning](https://open.spotify.com/track/6u0dQik0aif7FQlrhycG1L) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:12 |

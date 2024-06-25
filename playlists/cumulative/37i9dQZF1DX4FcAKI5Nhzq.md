@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: KWON EUNBI
+> Future K\-Pop hits! Cover: TWS
 
-1,093 songs - 2 day 11 hr 45 min
+1,094 songs - 2 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,7 @@
 | [I WANT](https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I WANT](https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe) | 3:00 | 2023-07-21 | 2023-12-08 |
 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 | 2023-09-27 | 2023-10-20 |
 | [I Want U Around \(Feat\. DeVita\)](https://open.spotify.com/track/5zI721DtTDWjLbDvZoWKGZ) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [I Want U Around](https://open.spotify.com/album/0NCuf8EjsH0z06AdgzmQxi) | 3:11 | 2021-06-12 | 2021-07-28 |
-| [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 | 2024-03-29 |  |
+| [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 | 2024-03-29 | 2024-06-25 |
 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-02-06 | 2023-06-09 |
 | [I&credible](https://open.spotify.com/track/3UrYzeFR2wVIk2SAInaiDJ) | [I\-LAND](https://open.spotify.com/artist/4VbAtGhXMJr2AGXa8fkcRu) | [I&credible](https://open.spotify.com/album/4jce6LUukJOpLie3J5NxkD) | 3:44 | 2020-10-13\* | 2021-01-18 |
 | [I'm Cold](https://open.spotify.com/track/1FYhB2gHR2VLnQm81RKpqx) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [3rd Mini Album \`INSIDE ME\`](https://open.spotify.com/album/5yuZu6XJEDSa32pxd3svgH) | 3:49 | 2020-12-14 | 2021-03-01 |
@@ -487,6 +487,7 @@
 | [ICKY](https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 6th Mini Album 'ICKY'](https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd) | 2:59 | 2023-05-25 |  |
 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-10-06 | 2021-11-19 |
 | [IDEA \(理想\)](https://open.spotify.com/track/1IYN3VqZzehgwh5NqnavIQ) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:13 | 2020-11-09 | 2021-04-22 |
+| [If I’m S, Can You Be My N?](https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 2nd Mini Album 'SUMMER BEAT!'](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 2:48 | 2024-06-25 |  |
 | [illa illa](https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:25 | 2021-06-03 | 2021-08-11 |
 | [Impossible](https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) | 3:02 | 2024-05-04 | 2024-05-08 |
 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 | 2023-07-10 | 2023-09-22 |

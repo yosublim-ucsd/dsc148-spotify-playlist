@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,089 likes - 70 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,123 likes - 70 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 35 | [Rock Of Ages](https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania \(Deluxe\)](https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu) | 4:07 |
 | 36 | [Angel](https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:08 |
 | 37 | [Whole Lotta Rosie](https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 5:33 |
-| 38 | [Head Over Heels / Broken](https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 5:02 |
-| 39 | [Dreams](https://open.spotify.com/track/2APxH5XbOLDTmW9X5yi6Hw) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [5150](https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq) | 4:54 |
+| 38 | [Dreams](https://open.spotify.com/track/2APxH5XbOLDTmW9X5yi6Hw) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [5150](https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq) | 4:54 |
+| 39 | [Head Over Heels / Broken](https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 5:02 |
 | 40 | [Urgent](https://open.spotify.com/track/08onVqQ8YicJ98Ycm1qoLf) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:31 |
 | 41 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 |
 | 42 | [With Or Without You](https://open.spotify.com/track/4N0fzRX3T7QkOecp3pkWpp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [U218 Singles](https://open.spotify.com/album/6QuTLkcFQz5fCNNpPGLRAA) | 4:56 |

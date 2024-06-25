@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,897 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,899 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 19 | [Shake It](https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 2:59 |
 | 20 | [Never Say Never](https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:16 |
 | 21 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
-| 22 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 |
-| 23 | [Only One](https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 4:17 |
+| 22 | [Only One](https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 4:17 |
+| 23 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 |
 | 24 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
 | 25 | [All I Wanted](https://open.spotify.com/track/4BbXg5wQqVNPbVEGpjsVnv) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r) | 3:45 |
 | 26 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 71 | [Arizona](https://open.spotify.com/track/54jGdUgkPfGNVPVj0wlS3v) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:36 |
 | 72 | [February Air](https://open.spotify.com/track/2qE8wtbuZInZ1mMHl8m3Vv) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [LIGHTS EP](https://open.spotify.com/album/5XFXJzxheXIL7bCMxM5axD) | 3:48 |
 | 73 | [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 |
-| 74 | [Death Of A Strawberry](https://open.spotify.com/track/0ZcQUwVyXgpUepJsvgOYgk) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Instant Gratification](https://open.spotify.com/album/75Z98z7kl42oWcT0UvtO6e) | 4:10 |
-| 75 | [Somebody Told Me](https://open.spotify.com/track/7HGTkn2aX7MNdKs7nV2xBt) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3:17 |
+| 74 | [Somebody Told Me](https://open.spotify.com/track/7HGTkn2aX7MNdKs7nV2xBt) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3:17 |
+| 75 | [Death Of A Strawberry](https://open.spotify.com/track/0ZcQUwVyXgpUepJsvgOYgk) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Instant Gratification](https://open.spotify.com/album/75Z98z7kl42oWcT0UvtO6e) | 4:10 |
 | 76 | [If It Means a Lot to You](https://open.spotify.com/track/6J7cSyvSCnPwv3vqHchEfL) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/34eR6ev1GGZHmxNTEfRobW) | 4:03 |
 | 77 | [Chelsea Smile](https://open.spotify.com/track/2C5jGbR23YLonV7Lton6fV) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/6bdSj3D5soQXZqlxSn5ZQr) | 5:02 |
 | 78 | [Cutthroat](https://open.spotify.com/track/4mcDGYrrPukWNhO44w4EUr) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Hard Feelings](https://open.spotify.com/album/4ynBCBfxMK2COzPTJ8kma9) | 3:18 |

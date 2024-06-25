@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,769 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,804 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 2 | [The Lion Sleeps Tonight \(Wimoweh\)](https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi) | [The Tokens](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) | [Wimoweh!!! \- The Best Of The Tokens](https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0) | 2:42 |
 | 3 | [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 |
 | 4 | [Stay](https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct) | [Maurice Williams](https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D), [The Zodiacs](https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 1:34 |
-| 5 | [Yakety Yak \- 2007 Remaster](https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 1:56 |
-| 6 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
+| 5 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
+| 6 | [Yakety Yak \- 2007 Remaster](https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 1:56 |
 | 7 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 |
 | 8 | [The Book of Love](https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1) | [The Monotones](https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a) | [Who Wrote The Book Of Love? \[Digital Version\]](https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV) | 2:18 |
 | 9 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Magic Touch: An Anthology](https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC) | 2:37 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 31 | [Heart and Soul](https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C) | [The Cleftones](https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 1:53 |
 | 32 | [Buzz, Buzz, Buzz](https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg) | [The Hollywood Flames](https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC) | [The Hollywood Flames](https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET) | 2:16 |
 | 33 | [Maybe](https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:50 |
-| 34 | [Heartaches](https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Best Of The Marcels](https://open.spotify.com/album/3rgajlw95Z2hWWggHCUkRa) | 2:32 |
-| 35 | [Shop Around](https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Greatest Hits: From The Beginning](https://open.spotify.com/album/5XmTHDRdxXFdrctu02TLMP) | 2:49 |
+| 34 | [Shop Around](https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Greatest Hits: From The Beginning](https://open.spotify.com/album/5XmTHDRdxXFdrctu02TLMP) | 2:49 |
+| 35 | [Heartaches](https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Best Of The Marcels](https://open.spotify.com/album/3rgajlw95Z2hWWggHCUkRa) | 2:32 |
 | 36 | [Zoom Zoom Zoom](https://open.spotify.com/track/6xLW0o4fWTYbslOIDaJBOw) | [The Collegians](https://open.spotify.com/artist/6l5YiEwurRr8zsnOyhJB4g) | [Zoom Zoom Zoom \- Single](https://open.spotify.com/album/1P3tvYyZ40LS5DhAJASjfn) | 2:29 |
 | 37 | [Devil or Angel \- 2007 Remaster](https://open.spotify.com/track/1YKj6Yx5bHj15lThWYkKCz) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Down In The Alley: The Best Of The Clovers](https://open.spotify.com/album/39FLNjOqur5u3WbvsoFg6S) | 2:26 |
 | 38 | [Could This Be Magic](https://open.spotify.com/track/4OkVQKZpYeuZaCJ7pjNGMc) | [The Dubs](https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ) | [Deep Purple \(Original Recordings\)](https://open.spotify.com/album/6jul8eX6ZcgkvwVSsfbki1) | 2:18 |

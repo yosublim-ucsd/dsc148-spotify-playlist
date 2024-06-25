@@ -1731,6 +1731,28 @@
     },
     {
       "album": {
+        "name": "Kaun Talha",
+        "url": "https://open.spotify.com/album/79kk4fBrppufcwHKZ6SspP"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269409,
+      "name": "Kaun Talha",
+      "url": "https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu"
+    },
+    {
+      "album": {
         "name": "Kehdena",
         "url": "https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1"
       },

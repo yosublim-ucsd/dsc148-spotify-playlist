@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Porque el romance nunca pasará de moda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,760 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,864 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

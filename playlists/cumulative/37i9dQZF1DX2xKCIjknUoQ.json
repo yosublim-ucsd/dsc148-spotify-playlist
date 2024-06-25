@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Skip The Use",
+  "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
   "name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 269106,
       "name": "A Tout Moment La Rue",
       "url": "https://open.spotify.com/track/2JRM4lfA094lLCfv2cYcPP"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 189520,
       "name": "Anomalie",
       "url": "https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs"
@@ -326,6 +326,24 @@
       "duration_ms": 188533,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/59p3L2BcqN4L2DBBeg0KlQ"
+    },
+    {
+      "album": {
+        "name": "The Geeks and the Jerkin' Socks",
+        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238133,
+      "name": "I'm Picky",
+      "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
     },
     {
       "album": {
@@ -574,10 +592,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 212773,
       "name": "L'oiseau",
       "url": "https://open.spotify.com/track/7wTE6zKPCgCZiByuAxSUNV"
+    },
+    {
+      "album": {
+        "name": "La cerise",
+        "url": "https://open.spotify.com/album/5sN0weTtwIRLDQmbvXG6XC"
+      },
+      "artists": [
+        {
+          "name": "Matmatah",
+          "url": "https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215760,
+      "name": "La cerise",
+      "url": "https://open.spotify.com/track/2quLcKfpSNzpnqSnR41MA5"
     },
     {
       "album": {
@@ -650,6 +686,24 @@
       "duration_ms": 327733,
       "name": "La vie est belle",
       "url": "https://open.spotify.com/track/42z3DqNB88hUKzbTQxklxR"
+    },
+    {
+      "album": {
+        "name": "Trafalgar",
+        "url": "https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T"
+      },
+      "artists": [
+        {
+          "name": "Archim\u00e8de",
+          "url": "https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155706,
+      "name": "Le bonheur",
+      "url": "https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo"
     },
     {
       "album": {
@@ -772,7 +826,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 242440,
       "name": "Let's Bang",
       "url": "https://open.spotify.com/track/3rN3NK7KO1NiI1j79L5Bi8"
@@ -934,7 +988,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 207132,
       "name": "My Name Is Stain",
       "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
@@ -970,7 +1024,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 136453,
       "name": "Parmi Eux",
       "url": "https://open.spotify.com/track/5lQeWWKmLNhDgBwpGwEt1B"
@@ -1222,7 +1276,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 159866,
       "name": "Ton invitation",
       "url": "https://open.spotify.com/track/0xHLq3Ko1jt86yrcf1M04E"
@@ -1283,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218288,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"
+    },
+    {
+      "album": {
         "name": "Vegas 76",
         "url": "https://open.spotify.com/album/6RMd6TThidQTzQVe2JicLG"
       },
@@ -1316,7 +1388,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 237853,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/5NWLroOOcY9s6sBMT4BbAI"

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX7FdKM0unn8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX7FdKM0unn8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX7FdKM0unn8)
 
-### [Korean Old Vinyls \(통기타와 LP판\)](https://open.spotify.com/playlist/37i9dQZF1DWX7FdKM0unn8)
+### [통기타와 LP판 \(Korean Old Vinyls\)](https://open.spotify.com/playlist/37i9dQZF1DWX7FdKM0unn8)
 
-> Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
+> 70\-80년대를 수 놓았던 노래들을 즐겨보세요! \(Listen Korea's classic & old songs from 70's to 80's.\)
 
 115 songs - 8 hr 20 min
 

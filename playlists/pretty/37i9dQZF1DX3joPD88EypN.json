@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 41777,
+  "num_followers": 41799,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 236520,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "Fifth Winter",
         "url": "https://open.spotify.com/album/1nE1ClsJHPJzUVwng0TOZw"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 298271,
       "name": "Fifth Winter",
       "url": "https://open.spotify.com/track/4y9btMgXjLwya82zluPg2U"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Opening",
-        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 236520,
-      "name": "The Circle",
-      "url": "https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
-      },
-      "artists": [
-        {
-          "name": "Mette Henriette",
-          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
-        }
-      ],
-      "duration_ms": 71160,
-      "name": "Divining",
-      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 253973,
       "name": "Remembrance IV",
       "url": "https://open.spotify.com/track/6jZqtVqT7TEEyCuU6ZAl2m"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
+      },
+      "artists": [
+        {
+          "name": "Mette Henriette",
+          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
+        }
+      ],
+      "duration_ms": 71160,
+      "name": "Divining",
+      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "A Year From Easter",
+        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
+      },
+      "artists": [
+        {
+          "name": "Christian Wallumr\u00f8d Ensemble",
+          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Eliasong",
+      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "\u00d8yne",
         "url": "https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "A Year From Easter",
-        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
       },
       "artists": [
         {
-          "name": "Christian Wallumr\u00f8d Ensemble",
-          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Eliasong",
-      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -763,22 +779,6 @@
       "duration_ms": 362680,
       "name": "Paa Hinside \u00d8rken",
       "url": "https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Helsinki Songs",
-        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
-      },
-      "artists": [
-        {
-          "name": "Trygve Seim",
-          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
-        }
-      ],
-      "duration_ms": 474106,
-      "name": "Helsinki Song",
-      "url": "https://open.spotify.com/track/3k9cTaO4ZxEre7obmq3faH"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "The Mariner's Cross",
         "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 194893,
       "name": "The Mariner's Cross",
       "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Helsinki Songs",
+        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
+      },
+      "artists": [
+        {
+          "name": "Trygve Seim",
+          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
+        }
+      ],
+      "duration_ms": 474106,
+      "name": "Helsinki Song",
+      "url": "https://open.spotify.com/track/3k9cTaO4ZxEre7obmq3faH"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Eclipse Cycles",
-        "url": "https://open.spotify.com/album/5vNfaZuBWbxsEOcX07Ugsf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 302133,
-      "name": "Eclipse Cycles",
-      "url": "https://open.spotify.com/track/190Twu1cnxdSZfn4xtvDYY"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "Touch of Time",
         "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 526520,
       "name": "Redream",
       "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Eclipse Cycles",
+        "url": "https://open.spotify.com/album/5vNfaZuBWbxsEOcX07Ugsf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 302133,
+      "name": "Eclipse Cycles",
+      "url": "https://open.spotify.com/track/190Twu1cnxdSZfn4xtvDYY"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Salmesykkel",
-        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
-      },
-      "artists": [
-        {
-          "name": "Moskus",
-          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
-        }
-      ],
-      "duration_ms": 169639,
-      "name": "Bibelbeltet",
-      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "The Soundtrack of My Home",
         "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
       },
@@ -1199,22 +1183,18 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/6G0tb5j8InjHabcmKZ71NB"
+        "name": "Salmesykkel",
+        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
       },
       "artists": [
         {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        },
-        {
-          "name": "S\u00f8ren Bebe",
-          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
+          "name": "Moskus",
+          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
         }
       ],
-      "duration_ms": 178801,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/6HNqq2rRioDYe0BNih5xm8"
+      "duration_ms": 169639,
+      "name": "Bibelbeltet",
+      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1295,6 +1275,26 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/6G0tb5j8InjHabcmKZ71NB"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        },
+        {
+          "name": "S\u00f8ren Bebe",
+          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
+        }
+      ],
+      "duration_ms": 178801,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6HNqq2rRioDYe0BNih5xm8"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "We Seem to Be Drifting Apart",
         "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
       },
@@ -1335,6 +1335,26 @@
       "duration_ms": 263137,
       "name": "Height of the Reeds in the Wetlands",
       "url": "https://open.spotify.com/track/5dHQT5wEWr0qMEqh998zGE"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Children's Day",
+        "url": "https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot"
+      },
+      "artists": [
+        {
+          "name": "Marius Neset",
+          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+        },
+        {
+          "name": "Anton Eger",
+          "url": "https://open.spotify.com/artist/3Tlbv3PR6Xxton3Yp5dSZF"
+        }
+      ],
+      "duration_ms": 415645,
+      "name": "Children's Day - Small Group Version",
+      "url": "https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1383,26 +1403,6 @@
       "duration_ms": 531252,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Children's Day",
-        "url": "https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot"
-      },
-      "artists": [
-        {
-          "name": "Marius Neset",
-          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
-        },
-        {
-          "name": "Anton Eger",
-          "url": "https://open.spotify.com/artist/3Tlbv3PR6Xxton3Yp5dSZF"
-        }
-      ],
-      "duration_ms": 415645,
-      "name": "Children's Day - Small Group Version",
-      "url": "https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1847,6 +1847,30 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "Trondheim Jazz Orchestra with Sofia Jernberg & Olav Lukseng\u00e5rd Mjelva",
+        "url": "https://open.spotify.com/album/0KXmbhHnUtgpaU0x9Xh3gL"
+      },
+      "artists": [
+        {
+          "name": "Trondheim Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
+        },
+        {
+          "name": "Sofia Jernberg",
+          "url": "https://open.spotify.com/artist/0KzOF8uIL7271V6GgkwI3F"
+        },
+        {
+          "name": "Olav Lukseng\u00e5rd Mjelva",
+          "url": "https://open.spotify.com/artist/202hJ5IG2CriMfxynnQcUs"
+        }
+      ],
+      "duration_ms": 416240,
+      "name": "Pols etter Marta-Johannes",
+      "url": "https://open.spotify.com/track/1ChqMXKvspLW7I0WZlG32b"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo"
       },
@@ -1871,30 +1895,6 @@
       "duration_ms": 314253,
       "name": "Melancholia",
       "url": "https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Trondheim Jazz Orchestra with Sofia Jernberg & Olav Lukseng\u00e5rd Mjelva",
-        "url": "https://open.spotify.com/album/0KXmbhHnUtgpaU0x9Xh3gL"
-      },
-      "artists": [
-        {
-          "name": "Trondheim Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
-        },
-        {
-          "name": "Sofia Jernberg",
-          "url": "https://open.spotify.com/artist/0KzOF8uIL7271V6GgkwI3F"
-        },
-        {
-          "name": "Olav Lukseng\u00e5rd Mjelva",
-          "url": "https://open.spotify.com/artist/202hJ5IG2CriMfxynnQcUs"
-        }
-      ],
-      "duration_ms": 416240,
-      "name": "Pols etter Marta-Johannes",
-      "url": "https://open.spotify.com/track/1ChqMXKvspLW7I0WZlG32b"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1947,22 +1947,30 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Innr\u00f8nt",
-        "url": "https://open.spotify.com/album/5XxapXEuQvu4X612Z2k9Ug"
+        "name": "Parish",
+        "url": "https://open.spotify.com/album/3qndY4buaSQpCck6szBaEA"
       },
       "artists": [
         {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+          "name": "Thomas Str\u00f8nen",
+          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
         },
         {
-          "name": "Erland Dahlen",
-          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
+          "name": "Bobo Stenson",
+          "url": "https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc"
+        },
+        {
+          "name": "Fredrik Ljungkvist",
+          "url": "https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w"
+        },
+        {
+          "name": "Mats Eilertsen",
+          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
         }
       ],
-      "duration_ms": 252986,
-      "name": "Innr\u00f8nt",
-      "url": "https://open.spotify.com/track/3snqukZaYsLcc1C9wJUftT"
+      "duration_ms": 352000,
+      "name": "C Moll Maj",
+      "url": "https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb"
     }
   ],
   "unique_name": "Nordic Jazz",

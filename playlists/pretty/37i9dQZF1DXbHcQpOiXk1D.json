@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: berlioz",
-  "num_followers": 313039,
+  "num_followers": 313069,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-20 23:00:00",
       "album": {
-        "name": "Connla's Well",
-        "url": "https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 358418,
-      "name": "Resisting Resistance",
-      "url": "https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs"
-    },
-    {
-      "added_at": "2024-06-20 23:00:00",
-      "album": {
         "name": "Undone",
         "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 200000,
       "name": "Undone",
       "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
+    },
+    {
+      "added_at": "2024-06-20 23:00:00",
+      "album": {
+        "name": "Connla's Well",
+        "url": "https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 358418,
+      "name": "Resisting Resistance",
+      "url": "https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs"
     },
     {
       "added_at": "2024-06-20 23:00:00",
@@ -483,6 +483,26 @@
     {
       "added_at": "2024-06-20 23:00:00",
       "album": {
+        "name": "Vita",
+        "url": "https://open.spotify.com/album/4xmzTrlhKyVx4kJDynClhQ"
+      },
+      "artists": [
+        {
+          "name": "Snazzback",
+          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
+        },
+        {
+          "name": "Nah Eeto",
+          "url": "https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV"
+        }
+      ],
+      "duration_ms": 172782,
+      "name": "Vita",
+      "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"
+    },
+    {
+      "added_at": "2024-06-20 23:00:00",
+      "album": {
         "name": "I\u2019ll Do Whatever You Want",
         "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
-    },
-    {
-      "added_at": "2024-06-20 23:00:00",
-      "album": {
-        "name": "Vita",
-        "url": "https://open.spotify.com/album/4xmzTrlhKyVx4kJDynClhQ"
-      },
-      "artists": [
-        {
-          "name": "Snazzback",
-          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
-        },
-        {
-          "name": "Nah Eeto",
-          "url": "https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV"
-        }
-      ],
-      "duration_ms": 172782,
-      "name": "Vita",
-      "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"
     },
     {
       "added_at": "2024-06-20 23:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-06-20 23:00:00",
       "album": {
+        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
+        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
+      },
+      "artists": [
+        {
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+        }
+      ],
+      "duration_ms": 279749,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
+    },
+    {
+      "added_at": "2024-06-20 23:00:00",
+      "album": {
         "name": "Infinite Reflections",
         "url": "https://open.spotify.com/album/0meFGx9eWzacSifnRoxwf0"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 306714,
       "name": "All Black Everything",
       "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
-    },
-    {
-      "added_at": "2024-06-20 23:00:00",
-      "album": {
-        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
-        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
-      },
-      "artists": [
-        {
-          "name": "Zara McFarlane",
-          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
-        }
-      ],
-      "duration_ms": 279749,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
     },
     {
       "added_at": "2024-06-20 23:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-06-20 23:00:00",
       "album": {
-        "name": "Unlikely",
-        "url": "https://open.spotify.com/album/7IvIOtYOfkdk0lWIUY2YSZ"
-      },
-      "artists": [
-        {
-          "name": "Bel Cobain",
-          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Unlikely",
-      "url": "https://open.spotify.com/track/1wFgK8jcX27P6YUkxbeMBP"
-    },
-    {
-      "added_at": "2024-06-20 23:00:00",
-      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/7yw4bZ9kbrQapS8V0Z32Ww"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 424960,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/1Rd9TkiuqfUXMYNgguXpKY"
+    },
+    {
+      "added_at": "2024-06-20 23:00:00",
+      "album": {
+        "name": "Unlikely",
+        "url": "https://open.spotify.com/album/7IvIOtYOfkdk0lWIUY2YSZ"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Unlikely",
+      "url": "https://open.spotify.com/track/1wFgK8jcX27P6YUkxbeMBP"
     },
     {
       "added_at": "2024-06-20 23:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-06-20 23:00:00",
       "album": {
-        "name": "Mississippi Goddam",
-        "url": "https://open.spotify.com/album/6RxEkkZCUtNwCvFsv2pm97"
-      },
-      "artists": [
-        {
-          "name": "Ashley Henry",
-          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
-        }
-      ],
-      "duration_ms": 211030,
-      "name": "Mississippi Goddam",
-      "url": "https://open.spotify.com/track/4Wt6CQv405BTx52dHQbxPn"
-    },
-    {
-      "added_at": "2024-06-20 23:00:00",
-      "album": {
         "name": "In The Fire",
         "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 237046,
       "name": "In The Fire",
       "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
+    },
+    {
+      "added_at": "2024-06-20 23:00:00",
+      "album": {
+        "name": "Mississippi Goddam",
+        "url": "https://open.spotify.com/album/6RxEkkZCUtNwCvFsv2pm97"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        }
+      ],
+      "duration_ms": 211030,
+      "name": "Mississippi Goddam",
+      "url": "https://open.spotify.com/track/4Wt6CQv405BTx52dHQbxPn"
     },
     {
       "added_at": "2024-06-20 23:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-06-20 23:00:00",
       "album": {
-        "name": "Sample The Earth",
-        "url": "https://open.spotify.com/album/39n09ITi1qfmqBZz39IRYz"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 281256,
-      "name": "Widening Circles - Regrown",
-      "url": "https://open.spotify.com/track/5naAaC0pdrvUzNzlnlvdnc"
-    },
-    {
-      "added_at": "2024-06-20 23:00:00",
-      "album": {
         "name": "Diversions",
         "url": "https://open.spotify.com/album/5kmKc6iKwwXrgfap01X3e7"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2024-06-20 23:00:00",
       "album": {
+        "name": "Sample The Earth",
+        "url": "https://open.spotify.com/album/39n09ITi1qfmqBZz39IRYz"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 281256,
+      "name": "Widening Circles - Regrown",
+      "url": "https://open.spotify.com/track/5naAaC0pdrvUzNzlnlvdnc"
+    },
+    {
+      "added_at": "2024-06-20 23:00:00",
+      "album": {
         "name": "End Of Innocence",
         "url": "https://open.spotify.com/album/0OLSVizhVj6rzh97PS6uYX"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-06-20 23:00:00",
       "album": {
-        "name": "Joy Machine",
-        "url": "https://open.spotify.com/album/21yZgiyW6174TObtXc1MoG"
-      },
-      "artists": [
-        {
-          "name": "Dizraeli",
-          "url": "https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Blessed Love",
-      "url": "https://open.spotify.com/track/6pSHeOzu96EdyVRaqfWkge"
-    },
-    {
-      "added_at": "2024-06-20 23:00:00",
-      "album": {
         "name": "Mardy",
         "url": "https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 163404,
       "name": "Mardy",
       "url": "https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI"
+    },
+    {
+      "added_at": "2024-06-20 23:00:00",
+      "album": {
+        "name": "Joy Machine",
+        "url": "https://open.spotify.com/album/21yZgiyW6174TObtXc1MoG"
+      },
+      "artists": [
+        {
+          "name": "Dizraeli",
+          "url": "https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Blessed Love",
+      "url": "https://open.spotify.com/track/6pSHeOzu96EdyVRaqfWkge"
     },
     {
       "added_at": "2024-06-20 23:00:00",

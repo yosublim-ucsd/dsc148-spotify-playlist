@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,497 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,516 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 67 | [Una Llamada Perdida](https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 3:21 |
 | 68 | [Me Tiré Al Alcohol](https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Me Tiré Al Alcohol](https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx) | 2:43 |
 | 69 | [En Este Amor](https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [En Este Amor](https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y) | 2:46 |
-| 70 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 |
-| 71 | [El Alumno](https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Alumno](https://open.spotify.com/album/4rHTyJISches0y7efQTJbW) | 3:08 |
-| 72 | [Ni Por Mil Puñados De Oro](https://open.spotify.com/track/4VEBNcqsygMc4VOJyR6MuN) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Por El Amor A Mi Madre](https://open.spotify.com/album/47TTo2l9XEU3fQu5W9pe9p) | 2:20 |
+| 70 | [El Alumno](https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Alumno](https://open.spotify.com/album/4rHTyJISches0y7efQTJbW) | 3:08 |
+| 71 | [Ni Por Mil Puñados De Oro](https://open.spotify.com/track/4VEBNcqsygMc4VOJyR6MuN) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Por El Amor A Mi Madre](https://open.spotify.com/album/47TTo2l9XEU3fQu5W9pe9p) | 2:20 |
+| 72 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 |
 | 73 | [Amor Verdadero](https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:07 |
 | 74 | [No Me Hace Bien](https://open.spotify.com/track/4BCplEwn32Y3nQeeBsbsj9) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Así de Enamorados](https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK) | 2:54 |
 | 75 | [De Pura Rabia](https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [De Pura Rabia](https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX) | 3:07 |

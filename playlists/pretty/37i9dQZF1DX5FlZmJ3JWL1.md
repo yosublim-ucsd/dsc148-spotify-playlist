@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,359 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,459 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 41 | [Sunglasses At Night](https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Sunglasses At Night](https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1) | 2:50 |
 | 42 | [Superlike](https://open.spotify.com/track/3D1gyyq9jqz3lYKrL7pxrS) | [Crunkz](https://open.spotify.com/artist/4OXIfQQfNxUxqVPwoklWcv) | [Superlike](https://open.spotify.com/album/4wdzJOjPxHG20G2sa47kfk) | 2:17 |
 | 43 | [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 |
-| 44 | [River Flows in You](https://open.spotify.com/track/6TcTpJT1dvSwrrUTJrJgOj) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Jasper Forks](https://open.spotify.com/artist/5QCZ46GMAwu0DXQUC7n7DH), [Alex Christensen](https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq) | [River Flows in You](https://open.spotify.com/album/2Jh2pGXG4o5yVr7YxpucGT) | 2:33 |
-| 45 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 |
+| 44 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 |
+| 45 | [River Flows in You](https://open.spotify.com/track/6TcTpJT1dvSwrrUTJrJgOj) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Jasper Forks](https://open.spotify.com/artist/5QCZ46GMAwu0DXQUC7n7DH), [Alex Christensen](https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq) | [River Flows in You](https://open.spotify.com/album/2Jh2pGXG4o5yVr7YxpucGT) | 2:33 |
 | 46 | [Run Free \(Countdown\)](https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Run Free \(Countdown\)](https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f) | 2:32 |
 | 47 | [Atmosphere](https://open.spotify.com/track/4Ew5aRQFXBc8Emillbxhw2) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/4Y2an4LNPEJzKn3nLlhfdX) | 3:02 |
 | 48 | [I Like To Move It](https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [I Like To Move It](https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV) | 2:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486 likes - 185 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 489 likes - 185 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 112 | [something worth working on](https://open.spotify.com/track/1nSbS97RaTSBF0ouJyoXM5) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [something worth working on](https://open.spotify.com/album/1J2zpeRhVvBCggMKbLIGIT) | 2:59 |
 | 113 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 |
 | 114 | [Ego](https://open.spotify.com/track/4buILkAUAqLxfl8ep4iVrI) | [Rich Edwards](https://open.spotify.com/artist/79v9Al6rSVH9SFk0QzzOl1), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Ego](https://open.spotify.com/album/71p1O9atppY1mj3GtTBJYN) | 3:13 |
-| 115 | [Heaven](https://open.spotify.com/track/0MskASIXSqjZQ1vGk2cmvO) | [Sj](https://open.spotify.com/artist/3kBTda7vNOOAA2Tu5uD13Y), [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Heaven](https://open.spotify.com/album/65a42yxBwwMqziOQg9YOkA) | 2:30 |
-| 116 | [There I Said It](https://open.spotify.com/track/2YU14wLn68Wgw2Xhl43G1N) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [There I Said It](https://open.spotify.com/album/3Xr1ZEZdtVCwkvEOHU8Ry6) | 3:47 |
+| 115 | [There I Said It](https://open.spotify.com/track/2YU14wLn68Wgw2Xhl43G1N) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [There I Said It](https://open.spotify.com/album/3Xr1ZEZdtVCwkvEOHU8Ry6) | 3:47 |
+| 116 | [Heaven](https://open.spotify.com/track/0MskASIXSqjZQ1vGk2cmvO) | [Sj](https://open.spotify.com/artist/3kBTda7vNOOAA2Tu5uD13Y), [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Heaven](https://open.spotify.com/album/65a42yxBwwMqziOQg9YOkA) | 2:30 |
 | 117 | [Say Love](https://open.spotify.com/track/03b6jFOFmLJ3TnuCgfhO1L) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Sj](https://open.spotify.com/artist/3kBTda7vNOOAA2Tu5uD13Y) | [Say Love](https://open.spotify.com/album/1IVeAtBK1ylGiK9Vn6qOzT) | 2:40 |
 | 118 | [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 |
 | 119 | [Circles](https://open.spotify.com/track/0aCYLOpEoSmdEBoKrNCuVd) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Girl Problems](https://open.spotify.com/album/4HUIhXljD7mEOJDEn9ytCC) | 3:41 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 184 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 185 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbU2/gAAAACKlmzwo2s3d9WRPXTcOTGv`
+Snapshot ID: `AbU8oAAAAAD74XOkApG1pRnIh+CLBDOY`

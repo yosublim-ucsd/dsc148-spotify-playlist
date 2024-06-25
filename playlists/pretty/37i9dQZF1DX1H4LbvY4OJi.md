@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 
 > Embrace those happy vibes with these feel\-good hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,908 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,898 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,12 +80,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 | 70 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 |
 | 71 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
 | 72 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
-| 73 | [Starving](https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving](https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I) | 3:01 |
-| 74 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 |
+| 73 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 |
+| 74 | [Starving](https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving](https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I) | 3:01 |
 | 75 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 |
-| 76 | [Bubbly](https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb) | 3:16 |
+| 76 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
 | 77 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 |
-| 78 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
+| 78 | [Bubbly](https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb) | 3:16 |
 | 79 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
 | 80 | [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:55 |
 

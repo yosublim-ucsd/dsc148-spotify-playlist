@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Maanu, Annural Khalid
 
-301 songs - 17 hr 5 min
+302 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Maybe?](https://open.spotify.com/track/6snNUMOI96RDQ54NsTInt7) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Maybe?](https://open.spotify.com/album/6xKqQRNxkMdUSU3UXixtUI) | 2:34 | 2022-05-20 | 2023-02-07 |
 | [Mazaak](https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU) | 3:32 | 2022-09-16 |  |
 | [Mazaak](https://open.spotify.com/track/0uBo93xl23O60oErtKvSAg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/2Uewap1o2Ic2XmN4wb9isV) | 3:32 | 2024-01-05 | 2024-04-19 |
+| [Mehrbaan](https://open.spotify.com/track/2iBaJVyzkRj1JipRiCqzUL) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Mehrbaan](https://open.spotify.com/album/41Icl2KLg9TmtJFGlzCtXg) | 2:32 | 2024-06-24 |  |
 | [Melancholic](https://open.spotify.com/track/2J6ehazUCGusP0YqK31fjL) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Melancholic](https://open.spotify.com/album/3v76zS849Cf1r2M1j9vuPX) | 3:42 | 2022-12-28 | 2023-10-20 |
 | [Mera Ishq](https://open.spotify.com/track/0mIpoTx5eetKSdr6YEbu3H) | [Sagar Bhatia](https://open.spotify.com/artist/6KmhY2pDjTTdRpSB59etA4), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Mera Ishq](https://open.spotify.com/album/0Q953EBSXukY8hQAP8DtHr) | 3:57 | 2024-01-05 |  |
 | [Moho](https://open.spotify.com/track/6Y2lrjXwW8YcCU5H4xMFBs) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Moho](https://open.spotify.com/album/39HxuHhewQJHpv2EOSYA8K) | 4:25 | 2022-05-20 | 2022-09-02 |

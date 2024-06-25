@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: LAYYI
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,579 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,594 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 33 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 |
 | 34 | [Kembali Pulang](https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Kembali Pulang](https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih) | 3:27 |
 | 35 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 |
-| 36 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
-| 37 | [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 |
+| 36 | [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 |
+| 37 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
 | 38 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 |
 | 39 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kata Mereka Ini Berlebihan](https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC) | 3:11 |
 | 40 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 46 | [Kita Bikin Romantis](https://open.spotify.com/track/7geh51STedQfizitdiNPCg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kita Bikin Romantis](https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo) | 3:56 |
 | 47 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 |
 | 48 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 |
-| 49 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 |
-| 50 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 |
+| 49 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 |
+| 50 | [Bersamamu](https://open.spotify.com/track/2GUp5FWzjfs422g45y16HQ) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Bersamamu](https://open.spotify.com/album/07VKSQaIDc1EoFGIO2YzrU) | 3:40 |
 
 Snapshot ID: `ZnUkZAAAAABxDSIZepWNSzUBC5+uGTnG`

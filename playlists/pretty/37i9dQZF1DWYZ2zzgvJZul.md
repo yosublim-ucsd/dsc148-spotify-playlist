@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,092 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,118 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

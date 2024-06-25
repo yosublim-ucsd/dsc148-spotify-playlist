@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Karan Aujla
 
-379 songs - 19 hr 33 min
+380 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Dhundle Dhundle](https://open.spotify.com/track/4JU4kP0LBnUJg4qMQjGF0H) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Dhundle Dhundle](https://open.spotify.com/album/1mazw25I3H3UlGaw8a7tiO) | 4:03 | 2023-10-13 | 2023-10-24 |
 | [Dil Nu](https://open.spotify.com/track/7AsG1F1eMWd17RYan8M3Wm) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Two Hearts Never Break The Same](https://open.spotify.com/album/0eZKTY3yDMqMTrVvtcEokh) | 3:53 | 2022-10-07 |  |
 | [Dilawara](https://open.spotify.com/track/1C6auFaK08OhOTJ8bfrAiG) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Dilawara](https://open.spotify.com/album/6Q9uRhFdTKxWGItb71JcQh) | 3:42 | 2023-05-03 |  |
+| [Dilemma \(Feat\. Sidhu Moose Wala\)](https://open.spotify.com/track/7oa8E2BlpOwlkaSrc8dMya) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Dilemma \(Feat\. Sidhu Moose Wala\)](https://open.spotify.com/album/0aPxUHdBgu0XIgsEz5EfSg) | 3:23 | 2024-06-24 |  |
 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 | 2023-05-19 |  |
 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2022-05-29 |  |
 | [Do You Know](https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do You Know](https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA) | 3:32 | 2023-04-19 | 2024-05-20 |
@@ -380,7 +381,7 @@
 | [White Brown Black](https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [White Brown Black](https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ) | 2:55 | 2022-12-17 |  |
 | [Who’s That Girl](https://open.spotify.com/track/1mbDRFQEnfgUHdHs3iBWMC) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Only Love Gets Reply](https://open.spotify.com/album/4AJ9rJiLuo4xWxUjvaXNdz) | 2:58 | 2024-06-05 |  |
 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 | 2024-05-16 |  |
-| [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 | 2023-08-10 |  |
+| [With You](https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [With You](https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j) | 2:34 | 2023-08-10 | 2024-06-25 |
 | [Wo Noor](https://open.spotify.com/track/32FVH23yFXr8Z0sfjRw4It) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Two Hearts Never Break The Same](https://open.spotify.com/album/0eZKTY3yDMqMTrVvtcEokh) | 3:19 | 2022-10-07 | 2023-09-01 |
 | [Wytb](https://open.spotify.com/track/0mitUgVDvaKFw4EuXZ8nLx) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Wytb](https://open.spotify.com/album/4yN52ilychdYFbugDvLrJK) | 3:20 | 2022-11-25 | 2023-09-21 |
 | [Yeah Naah](https://open.spotify.com/track/0uHpY2weZMUCUTqlf8OD74) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:02 | 2023-02-04 | 2024-03-29 |

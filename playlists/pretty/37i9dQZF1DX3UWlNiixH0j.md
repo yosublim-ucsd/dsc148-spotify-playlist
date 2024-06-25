@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Mega Shinnosuke
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,412 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,420 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 52 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 |
 | 53 | [gloom](https://open.spotify.com/track/1YfSPVzvMbVvnsL1Q2tUKR) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [about me](https://open.spotify.com/album/5AFqjtAnnkW0yAjMvg7hW2) | 3:19 |
 | 54 | [近頃](https://open.spotify.com/track/7FBNfAjU02PvZHjpNGEgPI) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [近頃](https://open.spotify.com/album/5u6n1FhTOnppyabXA4Vq5V) | 3:54 |
-| 55 | [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 |
-| 56 | [ブルーライト](https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [ブルーライト](https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu) | 3:55 |
+| 55 | [ブルーライト](https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [ブルーライト](https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu) | 3:55 |
+| 56 | [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 |
 | 57 | [スペル](https://open.spotify.com/track/1ne0pXfW1MlansRIqBT5Ln) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [スペル](https://open.spotify.com/album/1ixXMADF3UxGBzK3dNcOkZ) | 4:31 |
 | 58 | [Too Late](https://open.spotify.com/track/4VJFOkdwi8nYRYLcmBnW8W) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS) | [Too Late](https://open.spotify.com/album/2XwhGc3pk122VucoekKmxj) | 3:06 |
 | 59 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 65 | [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 |
 | 66 | [Pretense](https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Pretense](https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm) | 4:27 |
 | 67 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 |
-| 68 | [honestly](https://open.spotify.com/track/7ntRuy1lDZsIXNeSNsuCkz) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 2:59 |
-| 69 | [焦動](https://open.spotify.com/track/5jMhr5mbqgytUnPZBcHNmr) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [焦動](https://open.spotify.com/album/3yMtqQIh5pHTIobXvrWxCo) | 4:05 |
+| 68 | [焦動](https://open.spotify.com/track/5jMhr5mbqgytUnPZBcHNmr) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [焦動](https://open.spotify.com/album/3yMtqQIh5pHTIobXvrWxCo) | 4:05 |
+| 69 | [honestly](https://open.spotify.com/track/7ntRuy1lDZsIXNeSNsuCkz) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 2:59 |
 | 70 | [LAZY](https://open.spotify.com/track/4hOX56ThfbrHQyNfBisB92) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [LAZY](https://open.spotify.com/album/0OCm5RpB0BYQhrYpH3unft) | 3:45 |
 | 71 | [Boy’s Texture](https://open.spotify.com/track/0hyCibLEHjjSVz04VXj6XP) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Boy’s Texture](https://open.spotify.com/album/6Of3LsAZrj6cQSAKXrbhPz) | 4:04 |
-| 72 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
-| 73 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 |
+| 72 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 |
+| 73 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 |
 | 74 | [Phenomeno](https://open.spotify.com/track/18zFxPtXcMTISAHwMDDRte) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Phenomeno](https://open.spotify.com/album/4yk7K6h54kH24QaEzxINC4) | 2:45 |
 | 75 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
 | 76 | [Factor](https://open.spotify.com/track/2KIj2vjdFaPUGSbwBga6G4) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [DRIVE MY DREAMS](https://open.spotify.com/album/5FWp05PHX3UMevTppACZJ5) | 3:02 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 87 | [風の向きが変わって](https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [風の向きが変わって](https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E) | 5:02 |
 | 88 | [Spaceship](https://open.spotify.com/track/5uTctpcdaA0o91A5LGx5LR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Komorebi](https://open.spotify.com/album/18abfRUQQNVLHEA127jj6h) | 3:23 |
 | 89 | [生活](https://open.spotify.com/track/2GlvyUJN2SE6DEW2IMPg94) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活](https://open.spotify.com/album/2XktYRaoQiQ0z2V2AmTBlP) | 5:13 |
-| 90 | [Somebody Else](https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Somebody Else](https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS) | 4:36 |
-| 91 | [ダンス・デカダンス](https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ダンス・デカダンス](https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37) | 3:14 |
+| 90 | [ダンス・デカダンス](https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ダンス・デカダンス](https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37) | 3:14 |
+| 91 | [Somebody Else](https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Somebody Else](https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS) | 4:36 |
 | 92 | [Side Step](https://open.spotify.com/track/386pH7tdgWOUkvAEija9eK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Your Favorite Things](https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e) | 3:28 |
 | 93 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 |
 | 94 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 |
 | 95 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 |
 | 96 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 |
-| 97 | [Peach Perfect](https://open.spotify.com/track/1h9aSEFddvJ9bpQcnUZFSs) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Peach Perfect](https://open.spotify.com/album/1xVn2xmewfPWuDGzoUCVtj) | 3:12 |
-| 98 | [Branches](https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm) | 4:33 |
+| 97 | [Branches](https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm) | 4:33 |
+| 98 | [Peach Perfect](https://open.spotify.com/track/1h9aSEFddvJ9bpQcnUZFSs) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Peach Perfect](https://open.spotify.com/album/1xVn2xmewfPWuDGzoUCVtj) | 3:12 |
 | 99 | [survival dAnce](https://open.spotify.com/track/0pj4w3Vaj8CGI4yHwVo6QM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [survival dAnce](https://open.spotify.com/album/619D9YA3zlPSp8KV3KCuxi) | 2:19 |
-| 100 | [神様](https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [神様](https://open.spotify.com/album/2NuDontJsYWA564Lf7xixc) | 3:27 |
+| 100 | [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 |
 
 Snapshot ID: `ZnGg8AAAAADDCuu8NPxzRqEtsJh+TK1S`

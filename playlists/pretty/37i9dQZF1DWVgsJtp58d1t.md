@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Happy Black Music Month! Cover: <a href="spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg">Kendrick Lamar</a>, Shot by: Arturo Holmes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,558 likes - 170 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,685 likes - 170 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 14 | [Run Away \(feat\. Bryson Tiller\)](https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:27 |
 | 15 | [Wake Up](https://open.spotify.com/track/2wQhuufN2P1q0LL2byheM0) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Something/Someone New](https://open.spotify.com/album/0bLdHBQVNi8Cv9jQMMVmPq) | 2:26 |
 | 16 | [TGIF](https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF \(Alternate Versions\)](https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD) | 2:44 |
-| 17 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:50 |
+| 17 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:51 |
 | 18 | [TiFFANY](https://open.spotify.com/track/5VKFxeCNXVoJbFUUlfmVx9) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [TiFFANY](https://open.spotify.com/album/02xePX5V2OJTHmGjzHlFMk) | 2:22 |
 | 19 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |
 | 20 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 |

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: 2Fr\u00e8res",
-  "num_followers": 41101,
+  "num_followers": 41108,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Cannelloni",
-        "url": "https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO"
+        "name": "Mise \u00e0 jour",
+        "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
       },
       "artists": [
         {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 198146,
-      "name": "Cannelloni",
-      "url": "https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P"
+      "duration_ms": 200360,
+      "name": "Me prends pas la t\u00eate",
+      "url": "https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Mise \u00e0 jour",
-        "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
+        "name": "Cannelloni",
+        "url": "https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Me prends pas la t\u00eate",
-      "url": "https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4"
+      "duration_ms": 198146,
+      "name": "Cannelloni",
+      "url": "https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Galbi",
-        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Galbi",
-      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Facile \u00e0 danser",
         "url": "https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "HASTA LA VISTA",
         "url": "https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT"
       },
@@ -647,6 +647,30 @@
       "duration_ms": 199666,
       "name": "HASTA LA VISTA",
       "url": "https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Vrais salauds (feat. Gazo & Kore)",
+      "url": "https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -687,30 +711,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "VENI VIDI VICI",
-        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Kore",
-          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Vrais salauds (feat. Gazo & Kore)",
-      "url": "https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "DLPDA",
         "url": "https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 170946,
       "name": "YOMB",
       "url": "https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Imad",
-        "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
-      },
-      "artists": [
-        {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "Si \u00e7a va",
-      "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -767,6 +751,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Imad",
+        "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "Si \u00e7a va",
+      "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD"
       },
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Freestyle BMF #1",
+        "url": "https://open.spotify.com/album/7HFPAZo4QBzKQ7AbwxUxnn"
+      },
+      "artists": [
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "duration_ms": 176701,
+      "name": "Freestyle BMF #1",
+      "url": "https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Solide",
         "url": "https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8"
       },
@@ -803,18 +819,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Freestyle BMF #1",
-        "url": "https://open.spotify.com/album/7HFPAZo4QBzKQ7AbwxUxnn"
+        "name": "Mes Lov\u00e9s",
+        "url": "https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT"
       },
       "artists": [
         {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+          "name": "Ponko",
+          "url": "https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 176701,
-      "name": "Freestyle BMF #1",
-      "url": "https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji"
+      "duration_ms": 188717,
+      "name": "Mes Lov\u00e9s",
+      "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -871,38 +891,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Mes Lov\u00e9s",
-        "url": "https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT"
+        "name": "Miss France",
+        "url": "https://open.spotify.com/album/1buUBxn64TLTYXxTAZGhzy"
       },
       "artists": [
         {
-          "name": "Ponko",
-          "url": "https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
         }
       ],
-      "duration_ms": 188717,
-      "name": "Mes Lov\u00e9s",
-      "url": "https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "RECOMMENCE-MOI",
-        "url": "https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu"
-      },
-      "artists": [
-        {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
-        }
-      ],
-      "duration_ms": 272413,
-      "name": "La Diff\u00e9rence",
-      "url": "https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6"
+      "duration_ms": 166153,
+      "name": "Miss France",
+      "url": "https://open.spotify.com/track/015YmEj4dMrDwUga7QEN46"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

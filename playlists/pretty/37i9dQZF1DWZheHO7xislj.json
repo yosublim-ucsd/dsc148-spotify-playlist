@@ -1,6 +1,6 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 140743,
+  "num_followers": 140737,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-05-25 10:10:53",
       "album": {
+        "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
+        "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 316306,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5"
+    },
+    {
+      "added_at": "2024-05-25 10:10:53",
+      "album": {
         "name": "No Beginning No End",
         "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
       },
@@ -1143,34 +1159,18 @@
     {
       "added_at": "2024-05-25 10:10:53",
       "album": {
-        "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
-        "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
+        "name": "Soul Power",
+        "url": "https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6"
       },
       "artists": [
         {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
         }
       ],
-      "duration_ms": 316306,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5"
-    },
-    {
-      "added_at": "2024-05-25 10:10:53",
-      "album": {
-        "name": "Express Yourself (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
-      },
-      "artists": [
-        {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
-        }
-      ],
-      "duration_ms": 229653,
-      "name": "Express Yourself - Remastered Version",
-      "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
+      "duration_ms": 270306,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
     },
     {
       "added_at": "2024-05-25 10:10:53",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-05-25 10:10:53",
       "album": {
-        "name": "Soul Power",
-        "url": "https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6"
+        "name": "Express Yourself (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
       },
       "artists": [
         {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
         }
       ],
-      "duration_ms": 270306,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
+      "duration_ms": 229653,
+      "name": "Express Yourself - Remastered Version",
+      "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
     },
     {
       "added_at": "2024-05-25 10:10:53",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-05-25 10:10:53",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
-      },
-      "artists": [
-        {
-          "name": "Barbara Acklin",
-          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Am I The Same Girl",
-      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
-    },
-    {
-      "added_at": "2024-05-25 10:10:53",
-      "album": {
         "name": "Stand By Your Man",
         "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 213026,
       "name": "He Called Me Baby",
       "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
+    },
+    {
+      "added_at": "2024-05-25 10:10:53",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
+      },
+      "artists": [
+        {
+          "name": "Barbara Acklin",
+          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Am I The Same Girl",
+      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
     },
     {
       "added_at": "2024-05-25 10:10:53",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-05-25 10:10:53",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 148240,
-      "name": "Let's Take a Walk",
-      "url": "https://open.spotify.com/track/0VMOq5oltI4Mmld5fUaoTO"
-    },
-    {
-      "added_at": "2024-05-25 10:10:53",
-      "album": {
         "name": "The Art Of Tea",
         "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 215293,
       "name": "Monkey See-Monkey Do",
       "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
+    },
+    {
+      "added_at": "2024-05-25 10:10:53",
+      "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 148240,
+      "name": "Let's Take a Walk",
+      "url": "https://open.spotify.com/track/0VMOq5oltI4Mmld5fUaoTO"
     },
     {
       "added_at": "2024-05-25 10:10:53",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-05-25 10:10:53",
       "album": {
-        "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
-        "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
-      },
-      "artists": [
-        {
-          "name": "Sandra Wright",
-          "url": "https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "I'll Come Running Back (Mr Scruff Edit)",
-      "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
-    },
-    {
-      "added_at": "2024-05-25 10:10:53",
-      "album": {
         "name": "Baltimore",
         "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 298000,
       "name": "The Family",
       "url": "https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT"
+    },
+    {
+      "added_at": "2024-05-25 10:10:53",
+      "album": {
+        "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
+        "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
+      },
+      "artists": [
+        {
+          "name": "Sandra Wright",
+          "url": "https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "I'll Come Running Back (Mr Scruff Edit)",
+      "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
     },
     {
       "added_at": "2024-05-25 10:10:53",
@@ -2747,6 +2747,22 @@
     {
       "added_at": "2024-05-25 10:10:53",
       "album": {
+        "name": "Like a Ship (Without a Sail)",
+        "url": "https://open.spotify.com/album/7bsJSHsfKm5dXbLyY6zba4"
+      },
+      "artists": [
+        {
+          "name": "Pastor T.L. Barrett and the Youth for Christ Choir",
+          "url": "https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Like a Ship",
+      "url": "https://open.spotify.com/track/2RcZIrOCedVC6RYHTnlm7y"
+    },
+    {
+      "added_at": "2024-05-25 10:10:53",
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb"
       },
@@ -2827,22 +2843,6 @@
       "duration_ms": 354400,
       "name": "It's Love",
       "url": "https://open.spotify.com/track/7A8YLLXffwbChLJs1sW67Y"
-    },
-    {
-      "added_at": "2024-05-25 10:10:53",
-      "album": {
-        "name": "Like a Ship (Without a Sail)",
-        "url": "https://open.spotify.com/album/7bsJSHsfKm5dXbLyY6zba4"
-      },
-      "artists": [
-        {
-          "name": "Pastor T.L. Barrett and the Youth for Christ Choir",
-          "url": "https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/2RcZIrOCedVC6RYHTnlm7y"
     },
     {
       "added_at": "2024-05-25 10:10:53",

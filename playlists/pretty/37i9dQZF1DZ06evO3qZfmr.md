@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,756 likes - 22 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,807 likes - 22 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 | 16 | [I Love Me](https://open.spotify.com/track/7yL4l7X3nfMV6zYBgn1IfA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:10 |
 | 17 | [Reasons to Stay](https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 4:11 |
 | 18 | [Lucky](https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:41 |
-| 19 | [Keep the Flowers](https://open.spotify.com/track/6ax22G0NwhiX51oT3MRABN) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:57 |
+| 19 | [He Made Me Do It](https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:32 |
 | 20 | [Georgia Girl](https://open.spotify.com/track/7Hk5WvZzinaWXfJ1M6Knsf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:37 |
-| 21 | [He Made Me Do It](https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:32 |
+| 21 | [Keep the Flowers](https://open.spotify.com/track/6ax22G0NwhiX51oT3MRABN) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:57 |
 | 22 | ['Til It All Goes South](https://open.spotify.com/track/2Ks3jo0IfcK280NRyd4wfR) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:53 |
 
-Snapshot ID: `ZnYUAAAAAAB2D9V6h0uiShNCjBd7+qSj`
+Snapshot ID: `ZndlgAAAAADktUSZZZTBbv+bPOnOG/yb`

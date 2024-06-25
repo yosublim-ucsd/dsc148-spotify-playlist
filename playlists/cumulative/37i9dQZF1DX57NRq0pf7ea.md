@@ -4,7 +4,7 @@
 
 > ¡Estos son los hits que acompañan la fiesta!
 
-636 songs - 1 day 10 hr 40 min
+637 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [ojos\. labios\. cara.](https://open.spotify.com/track/0Ont2OoEaOYF9BYeSIhaFT) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [ojos\. labios\. cara.](https://open.spotify.com/album/1CTsEbkffQZulUwUZKzmCX) | 2:53 | 2023-10-27 | 2023-11-18 |
 | [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 | 2023-08-11 | 2024-06-22 |
 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-11-17 | 2023-12-02 |
+| [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-06-24 |  |
 | [Pa Casa](https://open.spotify.com/track/6GBIsXkI1ketoQpY7GBuj6) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Pa Casa](https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4) | 3:28 | 2023-09-15 | 2023-09-23 |
 | [Pa Que](https://open.spotify.com/track/1Xeocn50sUEglN2083ISju) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Pa Que](https://open.spotify.com/album/1P1yzzemBtMqCRT9qKON0f) | 3:15 | 2022-08-12 | 2022-08-20 |
 | [Pa' Terapia](https://open.spotify.com/track/06NiUeFCTNIZDlg2daoF8M) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pa' Terapia](https://open.spotify.com/album/0Xv4XKcJ18nioqXnNA0sbd) | 2:36 | 2023-07-28 | 2023-08-05 |
@@ -607,7 +608,7 @@
 | [UNA NOCHE EN MEDELLÍN \- REMIX](https://open.spotify.com/track/6ejks4eS7DOoYW8hrpRcDV) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:25 | 2023-08-11 | 2024-02-17 |
 | [Una Noche Sin Pensar](https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Una Noche Sin Pensar](https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD) | 2:41 | 2023-02-17 | 2023-03-11 |
 | [Una Nota](https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:50 | 2022-06-03 | 2023-03-11 |
-| [Una Vaina Loca](https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca](https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM) | 3:46 | 2022-06-03 |  |
+| [Una Vaina Loca](https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca](https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM) | 3:46 | 2022-06-03 | 2024-06-25 |
 | [Una Vida Pasada](https://open.spotify.com/track/4i2Uelkm3Fy2CSE63s4hSz) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [dos](https://open.spotify.com/album/7A8rw0lgipeVikEBtqNAgt) | 3:38 | 2024-05-31 | 2024-06-22 |
 | [Used To Be](https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:52 | 2023-08-18 | 2023-09-26 |
 | [Vacaciones](https://open.spotify.com/track/5a1uP3YHcvb4XkucSQGC1c) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Vacaciones](https://open.spotify.com/album/1HP0xerTMAjxal5A8B8luG) | 2:35 | 2022-06-03 | 2022-07-27 |

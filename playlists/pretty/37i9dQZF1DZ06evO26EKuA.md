@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This Is Valentín Elizalde\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,919 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,965 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 49 | [Así Que Te Vas](https://open.spotify.com/track/50ipI7duYwyQYw79guJRP8) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Vale Por Siempre](https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN) | 3:02 |
 | 50 | [Gracias Por Que Volviste](https://open.spotify.com/track/2FtixLUEMUI7eT5Zc02s7B) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 3:25 |
 
-Snapshot ID: `ZnYUAAAAAAAwnk45dmewbNmxa8BPlN7h`
+Snapshot ID: `ZndlgAAAAADrO2A0f80Ekmpi/goUfyI0`

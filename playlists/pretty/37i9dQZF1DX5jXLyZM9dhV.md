@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 
 > Revive la época de los pantalones acampanados en compañía de mamá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,640 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,649 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 50 | [Blue Bayou](https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Simple Dreams](https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry) | 3:59 |
 | 51 | [Silly Love Songs \- 2014 Remaster](https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wings At The Speed Of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:54 |
 | 52 | [Vive](https://open.spotify.com/track/4YTsQ1axezXF9S6DmX45LS) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Vive](https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN) | 3:04 |
-| 53 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
-| 54 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 |
-| 55 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [The Collection & Tracklisting](https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq) | 4:33 |
+| 53 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [The Collection & Tracklisting](https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq) | 4:33 |
+| 54 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
+| 55 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 |
 | 56 | [You've Got a Friend](https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 5:08 |
 | 57 | [Un Beso Y Una Flor](https://open.spotify.com/track/5IU4JO2cpa0wPK8oQWFfCr) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Super 20](https://open.spotify.com/album/6IXbg5QxJ4hGkrnTZo3n1B) | 4:32 |
 | 58 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 |

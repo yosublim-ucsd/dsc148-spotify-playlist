@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEZXXfFphen.md) - [plain]
 
 > Los sonidos más dulces del pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,552 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,578 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEZXXfFphen.md) - [plain]
 | 59 | [AQYNE](https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 |
 | 60 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 |
 
-Snapshot ID: `ZmKTlAAAAAC9J3touyfDFtDUxKzoCYWR`
+Snapshot ID: `ZnnXDAAAAABWyBoQKbv4iS2mLjXOjbub`

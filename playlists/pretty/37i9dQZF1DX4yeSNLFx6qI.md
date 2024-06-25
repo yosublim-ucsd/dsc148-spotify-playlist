@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Sad songs 4 sad days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,757,686 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758,012 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 27 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 |
 | 28 | [quiero estar contigo](https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [quiero estar contigo](https://open.spotify.com/album/7rnkMAuBAjIrYp9wPJJeVD) | 3:36 |
 | 29 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/14XWhFTOKNYtzQfVnXPcO1) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [La Gata Bajo la Lluvia](https://open.spotify.com/album/11nesNQ5Gd9bkt5iDXBidY) | 3:42 |
-| 30 | [Tuvimos Futuro](https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tuvimos Futuro](https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k) | 3:31 |
-| 31 | [Gracias por Nada](https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Gracias por Nada](https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra) | 2:03 |
+| 30 | [Gracias por Nada](https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Gracias por Nada](https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra) | 2:03 |
+| 31 | [Tuvimos Futuro](https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tuvimos Futuro](https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k) | 3:31 |
 | 32 | [mi momento](https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [mi momento](https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo) | 2:10 |
 | 33 | [Rabia](https://open.spotify.com/track/1GFGKmCrG2LjXZCah0i8mG) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [los mejores años \(notas de diario\)](https://open.spotify.com/album/3Wh0rvyFOKNY3WXeXgVYUp) | 3:36 |
 | 34 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |

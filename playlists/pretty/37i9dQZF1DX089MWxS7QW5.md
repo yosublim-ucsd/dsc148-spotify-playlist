@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: SAAY\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: MORE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,015 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,030 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 51 | [Same Season \(feat\. YOUHA\)](https://open.spotify.com/track/3xfgxcSuUK9RstPsn14r4d) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN), [YOUHA \(유하\)](https://open.spotify.com/artist/3urCi3Lu5NtFHohWiBXOki) | [Same Season](https://open.spotify.com/album/2UCvSHH5pMFSqIIcTM0AE3) | 3:10 |
 | 52 | [너와 함께라면 \(With You\) \(Feat\. Vahn, ilipp\)](https://open.spotify.com/track/3HsXb5j17myslAHsyLWylm) | [Wavycake](https://open.spotify.com/artist/2fwYaw5xb32ox263Uo7nPR), [Vahn](https://open.spotify.com/artist/5snxmL23WuzHdNccHE7qvN), [ilipp](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [너와 함께라면 \(With You\)](https://open.spotify.com/album/7MMnN3Ymj8GTC7qSSQw7pS) | 3:41 |
 
-Snapshot ID: `ZnePsAAAAADjFMC+27BIvIhmrBzANw9Z`
+Snapshot ID: `ZnjptgAAAACDr8HkcGi8GyAaQItvSrA9`

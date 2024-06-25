@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-662 songs - 1 day 19 hr 12 min
+663 songs - 1 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,7 +428,7 @@
 | [Objects in the Mirror](https://open.spotify.com/track/4O0xktTx6zrClJ7OPzMpDT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off](https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS) | 4:19 | 2024-01-29 |  |
 | [Obsession](https://open.spotify.com/track/46n0Eptf02RAR1xZbSKEal) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [21](https://open.spotify.com/album/2ksJHf3VXQ9GHI6Ng5bafL) | 4:13 | 2024-06-20 | 2024-06-22 |
 | [Oceans](https://open.spotify.com/track/3VeW0pO2pae144rAX2oXPP) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi) | 3:57 | 2024-01-29 |  |
-| [Oh No](https://open.spotify.com/track/36UY7RDSa2F5C4DtDrHV4s) | [Capone](https://open.spotify.com/artist/3MG5skX8kY7y3ddc9sCjzH) | [The Source Magazine \(Fr\) Mixtapes, Vol\. 7](https://open.spotify.com/album/744HwPbVb94Pn1coown2BC) | 2:41 | 2024-01-29 |  |
+| [Oh No](https://open.spotify.com/track/36UY7RDSa2F5C4DtDrHV4s) | [Capone](https://open.spotify.com/artist/3MG5skX8kY7y3ddc9sCjzH) | [The Source Magazine \(Fr\) Mixtapes, Vol\. 7](https://open.spotify.com/album/744HwPbVb94Pn1coown2BC) | 2:41 | 2024-01-29 | 2024-06-25 |
 | [Ola](https://open.spotify.com/track/2UCMGS0jcM7jOLzYNyCp9q) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:04 | 2024-06-20 | 2024-06-22 |
 | [Ola](https://open.spotify.com/track/5bnbv7JT16bFVaUEzWYg1Z) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [De Otra Manera](https://open.spotify.com/album/6Obg9RH7vSuRGxFRy8Ce8A) | 2:40 | 2024-01-29 |  |
 | [On & On](https://open.spotify.com/track/7aJouq94UPaX7yVXd2MQ4k) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 4:45 | 2024-01-29 |  |
@@ -444,6 +444,7 @@
 | [Peaches N Cream \(feat\. Charlie Wilson\)](https://open.spotify.com/track/4lcpWCMFXNhvqNIQhB6yDv) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [BUSH](https://open.spotify.com/album/3UesepjW7Scwi8DV62Qqyn) | 4:43 | 2024-01-29 |  |
 | [Pep Rally](https://open.spotify.com/track/3Of77FYMTeIucSWOnOvAkH) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Pep Rally](https://open.spotify.com/album/4uuMBCX3zkAt9MF7PaOjQi) | 4:22 | 2024-01-29 |  |
 | [Perfect](https://open.spotify.com/track/0tBK7YV0UMWiqc8UFd6eT4) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 5:50 | 2024-01-29 |  |
+| [Perfect Defect](https://open.spotify.com/track/6YVJJwg4BErTU7SdL7XdBR) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Nothing \(Deluxe Explicit Version\)](https://open.spotify.com/album/1yy1UWlWsmbOJzQmcHlMyx) | 3:42 | 2024-06-24 |  |
 | [Perpetual Nights](https://open.spotify.com/track/0pY8hAX9fQsssx20qX30n1) | [Maxine Ashley](https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0) | [Moodswings](https://open.spotify.com/album/04cbd1zXbQrOuXfsTPmUpt) | 3:32 | 2024-06-20 | 2024-06-22 |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2024-01-29 |  |
 | [Play It Off \- Album Version / Explicit](https://open.spotify.com/track/02ORKNJXIhiLVUDpC6PfoH) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Suit](https://open.spotify.com/album/7xt2MWlSFHNP2NcHWE4W3b) | 3:48 | 2024-06-20 | 2024-06-22 |

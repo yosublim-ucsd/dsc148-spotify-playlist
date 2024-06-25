@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 
 > These songs rocked the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,085,853 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,086,039 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 7 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 |
 | 8 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 |
 | 9 | [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Pat Garrett & Billy The Kid \(Soundtrack From The Motion Picture\)](https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL) | 2:29 |
-| 10 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
-| 11 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
+| 10 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
+| 11 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
 | 12 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:43 |
 | 13 | [Don't Bring Me Down](https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:03 |
 | 14 | [T.N.T.](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 3:34 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 43 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 |
 | 44 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 |
 | 45 | [Black Dog \- Remaster](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:55 |
-| 46 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
+| 46 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
 | 47 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 |
-| 48 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
-| 49 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
+| 48 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
+| 49 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
 | 50 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 |
 | 51 | [Get It On](https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:22 |
 | 52 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 64 | [Joy To The World](https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Naturally](https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM) | 3:40 |
 | 65 | [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 |
 | 66 | [Life's Been Good](https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [But Seriously, Folks...](https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva) | 8:56 |
-| 67 | [Wheel in the Sky](https://open.spotify.com/track/215wUTQQUo2PElJFEFoB0d) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Infinity](https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U) | 4:12 |
+| 67 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 |
 | 68 | [I Want You to Want Me](https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [In Color](https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR) | 3:11 |
-| 69 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 |
+| 69 | [Wheel in the Sky](https://open.spotify.com/track/215wUTQQUo2PElJFEFoB0d) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Infinity](https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U) | 4:12 |
 | 70 | [Black Betty](https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Very Best Of Ram Jam](https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr) | 3:57 |
 | 71 | [Changes \- 2015 Remaster](https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:37 |
 | 72 | [Blinded By The Light](https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE) | [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [The Roaring Silence](https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV) | 7:08 |

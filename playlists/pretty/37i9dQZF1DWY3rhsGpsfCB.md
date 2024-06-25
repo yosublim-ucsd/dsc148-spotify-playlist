@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,939 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,948 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 57 | [Simple Things](https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Blended](https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw) | 2:48 |
 | 58 | [Piano](https://open.spotify.com/track/2R6eV26pSgLz2yV5dfgzLL) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [Piano](https://open.spotify.com/album/6hM1d9cytmykFu0qpQ7JpV) | 2:36 |
 | 59 | [I Wish \(feat\. Libianca\)](https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Wish \(feat\. Libianca\)](https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o) | 2:43 |
-| 60 | [Honest](https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [+243](https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK) | 3:14 |
+| 60 | [Slow Down \(with Teezo Touchdown\)](https://open.spotify.com/track/4Gl5BCT19GpVKh7nNdleZf) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 2:50 |
 | 61 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 |
-| 62 | [Home](https://open.spotify.com/track/37DkD7AlTuPQIh97hO8hVI) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Home \- A COLORS SHOW](https://open.spotify.com/album/5ckAHp1ePv5NQvC6dN7hPo) | 2:24 |
-| 63 | [Slow Down \(with Teezo Touchdown\)](https://open.spotify.com/track/4Gl5BCT19GpVKh7nNdleZf) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 2:50 |
+| 62 | [Honest](https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [+243](https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK) | 3:14 |
+| 63 | [Home](https://open.spotify.com/track/37DkD7AlTuPQIh97hO8hVI) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Home \- A COLORS SHOW](https://open.spotify.com/album/5ckAHp1ePv5NQvC6dN7hPo) | 2:24 |
 | 64 | [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 |
 | 65 | [Feels Good \- A COLORS SHOW](https://open.spotify.com/track/5sufqLTHrxCbXhRDeYownS) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Feels Good \- A COLORS SHOW](https://open.spotify.com/album/1cwSgENMx2F7DOJgVANJ6o) | 2:27 |
 | 66 | [Tolo \(Faut m'oublier\)](https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Tolo \(Faut m'oublier\)](https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3) | 2:49 |

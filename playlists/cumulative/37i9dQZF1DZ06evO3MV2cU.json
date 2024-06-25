@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-05-24",
-  "description": "This is Chris Tomlin. De essenti\u00eble nummers, allemaal in \u00e9\u00e9n playlist.",
-  "name": "This is Chris Tomlin",
+  "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
+  "name": "This Is Chris Tomlin",
   "tracks": [
     {
       "album": {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 291410,
       "name": "10,000 Reasons (Bless The Lord)",
       "url": "https://open.spotify.com/track/7INIvrY07vZU5exGsYMo2U"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 267066,
       "name": "Amazing Grace (My Chains Are Gone)",
       "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 250626,
       "name": "At The Cross (Love Ran Red)",
       "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 208053,
       "name": "Chase Me Down (feat. RaeLynn)",
       "url": "https://open.spotify.com/track/4PVt0PcZyI61mCuwMdvtzy"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 278289,
       "name": "Even So Come",
       "url": "https://open.spotify.com/track/2Eugb2lWOMaZdKk9pcGjEF"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 215714,
       "name": "Famous One",
       "url": "https://open.spotify.com/track/1GjNW2039vBPD8MGWAsBqI"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 207720,
       "name": "Forever Home (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/0qcVosiukBmgBS0eUDrwk6"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 305920,
       "name": "God Of This City - Live",
       "url": "https://open.spotify.com/track/47qcfvLEpd0aq6doUZ5goj"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 264923,
       "name": "Good Good Father",
       "url": "https://open.spotify.com/track/1l6Ffi07jIzh5DquHPf7a3"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 434986,
       "name": "Good Good Father / Great Are You Lord - Live From Good Friday",
       "url": "https://open.spotify.com/track/6pgkQM6vH6qw1C3MbmxgJ7"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 349545,
       "name": "How Great Is Our God",
       "url": "https://open.spotify.com/track/0R34dLuWSMDYnOg50L5qqL"
@@ -772,10 +772,32 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 230673,
       "name": "I See You (with Brandon Lake)",
       "url": "https://open.spotify.com/track/5WJbUQV3FbzOxB4tA7yiXF"
+    },
+    {
+      "album": {
+        "name": "Holy Roar",
+        "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Nicole Serrano",
+          "url": "https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257240,
+      "name": "I Stand In Awe",
+      "url": "https://open.spotify.com/track/1tlyPIx6lL2g4Em8JbHDcR"
     },
     {
       "album": {
@@ -956,7 +978,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 266000,
       "name": "Nobody Loves Me Like You",
       "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
@@ -996,7 +1018,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 285160,
       "name": "Our God",
       "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
@@ -1022,7 +1044,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 193240,
       "name": "Power (feat. Bear Rinehart of NEEDTOBREATHE)",
       "url": "https://open.spotify.com/track/0AGM3L1E346dTkLcGMaEdv"
@@ -1080,7 +1102,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 250800,
       "name": "Resurrection Power",
       "url": "https://open.spotify.com/track/2MxWMPW8E1p8B0Wcc5ypfU"
@@ -1186,7 +1208,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 168693,
       "name": "Thank You Lord (feat. Thomas Rhett & Florida Georgia Line)",
       "url": "https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK"
@@ -1260,6 +1282,28 @@
       "duration_ms": 450461,
       "name": "This Is Our God / Obsession - Medley",
       "url": "https://open.spotify.com/track/21VV721AM5T1qoYbZyJf3i"
+    },
+    {
+      "album": {
+        "name": "Captivate Us (Live From Keeper's Branch)",
+        "url": "https://open.spotify.com/album/0zxzPQFa4Fx4gd4AZJVYZ6"
+      },
+      "artists": [
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544542,
+      "name": "Waiting Here For You / Holy Forever - Live",
+      "url": "https://open.spotify.com/track/3slxGS6r3Ou2ZAIF8kiiys"
     },
     {
       "album": {
@@ -1358,7 +1402,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 267906,
       "name": "Whom Shall I Fear (God Of Angel Armies)",
       "url": "https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz"

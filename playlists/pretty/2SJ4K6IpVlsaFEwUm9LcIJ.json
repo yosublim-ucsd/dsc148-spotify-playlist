@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2024 (previous playlists archived on my profile)",
-  "num_followers": 19995,
+  "num_followers": 19997,
   "original_name": "impressive\u2026 but true!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAKpqVtkYpsEXI1V/YYwNyKhNVyjucP",
+  "snapshot_id": "AAAKqWMBR0mnzLPbrYZTYFnCbgvHKOQ2",
   "tracks": [
     {
       "added_at": "2024-05-16 01:01:16",
@@ -927,6 +927,58 @@
       "duration_ms": 205752,
       "name": "A Whole New Shape",
       "url": "https://open.spotify.com/track/0TTyYV1dQAcB5uDH9VJKbQ"
+    },
+    {
+      "added_at": "2024-06-24 18:08:28",
+      "album": {
+        "name": "Keep Breathing",
+        "url": "https://open.spotify.com/album/6O3JyH7T2a51bIWAE3ZI4x"
+      },
+      "artists": [
+        {
+          "name": "Webster Harrod",
+          "url": "https://open.spotify.com/artist/7yleLfgpIXZy8KptsfpbTr"
+        }
+      ],
+      "duration_ms": 118866,
+      "name": "Take Refuge",
+      "url": "https://open.spotify.com/track/16PM5R7DFzNFaCyIrTIVCq"
+    },
+    {
+      "added_at": "2024-06-24 18:09:05",
+      "album": {
+        "name": "SAME THING",
+        "url": "https://open.spotify.com/album/11Fi8BwZJ7bb9U5a37VM6x"
+      },
+      "artists": [
+        {
+          "name": "LUCY (Cooper B. Handy)",
+          "url": "https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "duration_ms": 109966,
+      "name": "SAME THING",
+      "url": "https://open.spotify.com/track/5z3s5KcMf7rIItfjGJoWqF"
+    },
+    {
+      "added_at": "2024-06-24 20:43:56",
+      "album": {
+        "name": "Know By Heart",
+        "url": "https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG"
+      },
+      "artists": [
+        {
+          "name": "The American Analog Set",
+          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
+        }
+      ],
+      "duration_ms": 135920,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/2XItbN0HfeLpDamJzeQLqQ"
     }
   ],
   "unique_name": "impressive\u2026 but true!",

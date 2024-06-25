@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like this\. Cover: Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,066,988 likes - 150 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,066,907 likes - 150 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 107 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 |
 | 108 | [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 |
 | 109 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 |
-| 110 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 |
-| 111 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 |
+| 110 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 |
+| 111 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 |
 | 112 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 |
 | 113 | [girl in new york](https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [girl in new york](https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC) | 2:57 |
 | 114 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 |
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 125 | [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 |
 | 126 | [Klonopin](https://open.spotify.com/track/1jskjKnofsW0AexkhK1l5K) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Klonopin](https://open.spotify.com/album/1Dtuh9lt1CozWmuCS1iF5r) | 3:46 |
 | 127 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
-| 128 | [day i die](https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [day i die](https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO) | 2:55 |
-| 129 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
+| 128 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
+| 129 | [day i die](https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [day i die](https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO) | 2:55 |
 | 130 | [Wish I Didn't Care \(feat\. Lyn Lapid\)](https://open.spotify.com/track/3xRv1YmKy2yy0JPqcpaZrW) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [House on a Hill \(Deluxe\)](https://open.spotify.com/album/2nEiTXt1gKL9ejJaQRhwic) | 2:40 |
 | 131 | [i wish i hated you](https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 2:33 |
 | 132 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 136 | [Unlearn You](https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Phases](https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3) | 2:48 |
 | 137 | [forgive and forget](https://open.spotify.com/track/2KWOQiWBJDDedeDeHRsF87) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [forgive and forget](https://open.spotify.com/album/7iZcU7LHYUbgHleJKhlEkD) | 2:54 |
 | 138 | [all these years](https://open.spotify.com/track/0FtwNRIbtna2kdrOKUV5o2) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:34 |
-| 139 | [used to be pretty](https://open.spotify.com/track/7CcSmXQOev37UcoAeohMpn) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [used to be pretty](https://open.spotify.com/album/2mtJKmvi7iaUSUpdSAzhgk) | 2:48 |
-| 140 | [Me Again](https://open.spotify.com/track/1Ao1Q1gDv36N3nfa0ZlnXc) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Me Again](https://open.spotify.com/album/7FxtSVqKixyRA2jNje12ZP) | 2:29 |
+| 139 | [Me Again](https://open.spotify.com/track/1Ao1Q1gDv36N3nfa0ZlnXc) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Me Again](https://open.spotify.com/album/7FxtSVqKixyRA2jNje12ZP) | 2:29 |
+| 140 | [used to be pretty](https://open.spotify.com/track/7CcSmXQOev37UcoAeohMpn) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [used to be pretty](https://open.spotify.com/album/2mtJKmvi7iaUSUpdSAzhgk) | 2:48 |
 | 141 | [If It Wasn't for You](https://open.spotify.com/track/1BjneBkwJHVnX8245oXW2h) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [If It Wasn't for You](https://open.spotify.com/album/3Zr4Kd5sSV6nIlL8ywhc8t) | 3:10 |
 | 142 | [do all my friends hate me?](https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [do all my friends hate me?](https://open.spotify.com/album/4Y7rAETgLemPCqrOrlgoRa) | 3:24 |
 | 143 | [Call Me Yours](https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Call Me Yours](https://open.spotify.com/album/3BPC42nOK14EoviiHP71Wg) | 2:31 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 147 | [Killing Me Softly With His Song \- Spotify Singles](https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Ravyn Lenae \- Spotify Singles](https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT) | 3:46 |
 | 148 | [This Isn't Over](https://open.spotify.com/track/019G5CuO3xezSEL6XaVtu7) | [Abi Carter](https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m) | [This Isn't Over](https://open.spotify.com/album/6Pp7FsNjfsVdZfdo3ejSOk) | 2:34 |
 | 149 | [Men On The Moon](https://open.spotify.com/track/164LL9rTyEZ6DF0KMgXxsJ) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Men On The Moon](https://open.spotify.com/album/1mK3MLTmhxsrOTx7ceJwyr) | 3:40 |
-| 150 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 |
+| 150 | [In A Little](https://open.spotify.com/track/52llnd7pt9mu4l6WYU4p5S) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [12 Notes](https://open.spotify.com/album/56alTwsbtrn2veUwwDTdny) | 2:45 |
 
 Snapshot ID: `ZmPZDwAAAACGpnX9VoSMItgk+RBA73lC`

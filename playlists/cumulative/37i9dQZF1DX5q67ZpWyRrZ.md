@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Akshath
 
-249 songs - 14 hr 4 min
+250 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Dhundhala](https://open.spotify.com/track/5XseQZ9TGr06Rv1Ye6wCu0) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/0RS1ikVCpsD3UHxxpbvpSg) | 3:02 | 2023-10-19 | 2024-04-19 |
 | [Dhundhala](https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/1wQyuIiZpM5Qy4wQOU2i1J) | 3:02 | 2023-08-30 |  |
 | [Dil Beparvah \- The Dewarists, Season 5](https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Dhruv Bhola](https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x), [Nikhil Vasudevan](https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ) | [Dil Beparvah \(The Dewarists, Season 5\)](https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru) | 4:10 | 2022-01-05 | 2023-08-31 |
-| [Dil Ki Ye Baatein \- Solo](https://open.spotify.com/track/4Yy2lVtP7IRZNyTYHmKJ0y) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Dil Ki Ye Baatein \(Solo\)](https://open.spotify.com/album/0g7Lxz5vDlYCLG2hNzav11) | 2:20 | 2024-05-06 |  |
+| [Dil Ki Ye Baatein \- Solo](https://open.spotify.com/track/4Yy2lVtP7IRZNyTYHmKJ0y) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Dil Ki Ye Baatein \(Solo\)](https://open.spotify.com/album/0g7Lxz5vDlYCLG2hNzav11) | 2:20 | 2024-05-06 | 2024-06-25 |
 | [Dil Mere](https://open.spotify.com/track/0XF0D8HL9gk2sr9tlFOee3) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab) | 3:31 | 2023-12-05 | 2024-04-19 |
 | [Dil Mere](https://open.spotify.com/track/6ZmtxXUXRVjxOhugKkmerC) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:31 | 2021-12-06 |  |
 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 | 2023-02-28 | 2024-06-15 |
@@ -102,6 +102,7 @@
 | [Intezaar](https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Intezaar](https://open.spotify.com/album/6Z4DXqYqQJc6XLzvPaSynt) | 3:55 | 2022-04-06 | 2023-05-01 |
 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 | 2024-04-19 |  |
 | [Jaadoogari](https://open.spotify.com/track/0HDm8hVrpUDAXLmvortmoy) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Jaadoogari](https://open.spotify.com/album/7xH1diJuXLqpv10oc2skWV) | 4:20 | 2021-12-06 | 2023-02-03 |
+| [Jaadugari](https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Jaadugari](https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8) | 2:33 | 2024-06-24 |  |
 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 | 2023-02-24 | 2023-03-22 |
 | [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 | 2023-10-09 | 2024-01-04 |
 | [Jab Tum Miley](https://open.spotify.com/track/1JelKGBph8gon106Wqjwu2) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Jab Tum Miley](https://open.spotify.com/album/5cp5qCU35snnBanBl5khvN) | 4:06 | 2021-12-06 | 2023-03-09 |

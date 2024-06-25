@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 232888,
+  "num_followers": 232929,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Keeping Tabs",
+      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
+    },
+    {
+      "added_at": "2024-06-12 05:58:55",
+      "album": {
         "name": "The Ones We Once Loved",
         "url": "https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Keeping Tabs",
-      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
-    },
-    {
-      "added_at": "2024-06-12 05:58:55",
-      "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
@@ -1023,6 +1023,22 @@
       "duration_ms": 223339,
       "name": "I WANT YOU",
       "url": "https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f"
+    },
+    {
+      "added_at": "2024-06-12 05:58:55",
+      "album": {
+        "name": "High School in Jakarta",
+        "url": "https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 219036,
+      "name": "High School in Jakarta",
+      "url": "https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3"
     },
     {
       "added_at": "2024-06-12 05:58:55",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "High School in Jakarta",
-        "url": "https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 219036,
-      "name": "High School in Jakarta",
-      "url": "https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3"
-    },
-    {
-      "added_at": "2024-06-12 05:58:55",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
       },
@@ -1179,30 +1179,6 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "Good Care",
-        "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        },
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        },
-        {
-          "name": "asiatic.wav",
-          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
-        }
-      ],
-      "duration_ms": 194550,
-      "name": "Good Care",
-      "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
-    },
-    {
-      "added_at": "2024-06-12 05:58:55",
-      "album": {
         "name": "kiss me thru the phone",
         "url": "https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P"
       },
@@ -1239,6 +1215,30 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
+        "name": "Good Care",
+        "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        }
+      ],
+      "duration_ms": 194550,
+      "name": "Good Care",
+      "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
+    },
+    {
+      "added_at": "2024-06-12 05:58:55",
+      "album": {
         "name": "Why Don't You Stay (WorldTour Ver.)",
         "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
       },
@@ -1251,22 +1251,6 @@
       "duration_ms": 256336,
       "name": "Why Don't You Stay (WorldTour Ver.)",
       "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
-    },
-    {
-      "added_at": "2024-06-12 05:58:55",
-      "album": {
-        "name": "hair down",
-        "url": "https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 210027,
-      "name": "hair down",
-      "url": "https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn"
     },
     {
       "added_at": "2024-06-12 05:58:55",
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+        "name": "hair down",
+        "url": "https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+      "duration_ms": 210027,
+      "name": "hair down",
+      "url": "https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn"
     },
     {
       "added_at": "2024-06-12 05:58:55",
@@ -1323,22 +1307,6 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "confidence in me",
-        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 162151,
-      "name": "confidence in me",
-      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
-    },
-    {
-      "added_at": "2024-06-12 05:58:55",
-      "album": {
         "name": "everything sucks (feat. Eric Nam)",
         "url": "https://open.spotify.com/album/3mx2H1xWJmafdZAH06TEHI"
       },
@@ -1359,6 +1327,22 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
+        "name": "confidence in me",
+        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 162151,
+      "name": "confidence in me",
+      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
+    },
+    {
+      "added_at": "2024-06-12 05:58:55",
+      "album": {
         "name": "Get Over Him",
         "url": "https://open.spotify.com/album/5cTM5vH4eQP1gauYKJftsA"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "Hoping You'll Be Mine",
-        "url": "https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
       "artists": [
         {
-          "name": "Abeliano",
-          "url": "https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 202659,
-      "name": "Hoping You'll Be Mine",
-      "url": "https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt"
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2024-06-12 05:58:55",
@@ -1403,6 +1387,22 @@
       "duration_ms": 251571,
       "name": "The Way You Look At Me",
       "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
+    },
+    {
+      "added_at": "2024-06-12 05:58:55",
+      "album": {
+        "name": "Hoping You'll Be Mine",
+        "url": "https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8"
+      },
+      "artists": [
+        {
+          "name": "Abeliano",
+          "url": "https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE"
+        }
+      ],
+      "duration_ms": 202659,
+      "name": "Hoping You'll Be Mine",
+      "url": "https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt"
     },
     {
       "added_at": "2024-06-12 05:58:55",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "Tragedy",
-        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Tragedy",
-      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
-    },
-    {
-      "added_at": "2024-06-12 05:58:55",
-      "album": {
         "name": "MAKING MY WAY",
         "url": "https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2024-06-12 05:58:55",
       "album": {
-        "name": "undo",
-        "url": "https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U"
+        "name": "Tragedy",
+        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 208854,
-      "name": "undo",
-      "url": "https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV"
+      "duration_ms": 229133,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
     },
     {
       "added_at": "2024-06-12 05:58:55",
@@ -1639,6 +1623,22 @@
       "duration_ms": 179000,
       "name": "Better On My Own",
       "url": "https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O"
+    },
+    {
+      "added_at": "2024-06-12 05:58:55",
+      "album": {
+        "name": "undo",
+        "url": "https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 208854,
+      "name": "undo",
+      "url": "https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV"
     },
     {
       "added_at": "2024-06-12 05:58:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 
 > This Is Calibre 50\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 672,563 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,635 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 6 | [Ganó Holanda, Perdió China](https://open.spotify.com/track/4WmQUNTvYadj1SdxHYJtEZ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:59 |
 | 7 | [Javier El De Los Llanos](https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Corridos De Alto Calibre](https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri) | 3:21 |
 | 8 | [Amor Del Bueno](https://open.spotify.com/track/6CmFzaTvg7lRSAWwHmBDfj) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 3:13 |
-| 9 | [Cuidando El Territorio](https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb) | 3:06 |
-| 10 | [Escuela Del Virus Antrax](https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 2:41 |
+| 9 | [Escuela Del Virus Antrax](https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 2:41 |
+| 10 | [Cuidando El Territorio](https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb) | 3:06 |
 | 11 | [Culiacán Vs\. Mazatlán](https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:49 |
 | 12 | [Chalito](https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 2:20 |
 | 13 | [¿Quién Te Crees?](https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién Te Crees?](https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 49 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 |
 | 50 | [Una Mala Elección](https://open.spotify.com/track/5lEjdcCF84tGOx54LbZZKC) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 2:08 |
 
-Snapshot ID: `ZnYUAAAAAABBP0863aBlItT/Ps2Emcoo`
+Snapshot ID: `ZndlgAAAAAC+BJYYMUNzLSB08MCJaaup`

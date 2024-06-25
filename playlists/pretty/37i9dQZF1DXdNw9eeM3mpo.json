@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 461355,
+  "num_followers": 461418,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Baile Infinito",
-        "url": "https://open.spotify.com/album/1zpggciAeGOsTlKKaSJxMR"
-      },
-      "artists": [
-        {
-          "name": "Tomo Como Rey",
-          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 198188,
-      "name": "Es lo que hay",
-      "url": "https://open.spotify.com/track/4sYiGhu0HEL0ZlkbHesfYC"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Pachuco (feat. \"Sax\" Maldita Vecindad - en Vivo en el Foro Sol - 17.11.17)",
         "url": "https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 236930,
       "name": "Pachuco - En Vivo en el Foro Sol - 17.11.17",
       "url": "https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Baile Infinito",
+        "url": "https://open.spotify.com/album/1zpggciAeGOsTlKKaSJxMR"
+      },
+      "artists": [
+        {
+          "name": "Tomo Como Rey",
+          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 198188,
+      "name": "Es lo que hay",
+      "url": "https://open.spotify.com/track/4sYiGhu0HEL0ZlkbHesfYC"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "La Bacha",
+        "url": "https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw"
+      },
+      "artists": [
+        {
+          "name": "Adhesivo",
+          "url": "https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n"
+        }
+      ],
+      "duration_ms": 196018,
+      "name": "La Bacha",
+      "url": "https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "El Diablo",
         "url": "https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 142252,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "La Bacha",
-        "url": "https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw"
-      },
-      "artists": [
-        {
-          "name": "Adhesivo",
-          "url": "https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n"
-        }
-      ],
-      "duration_ms": 196018,
-      "name": "La Bacha",
-      "url": "https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
+        "name": "Fuera de Ritmo",
+        "url": "https://open.spotify.com/album/0KtQlIksmdmm5FvxwpH5Av"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Dread",
+          "url": "https://open.spotify.com/artist/4upmyJmsVYEetRhB4ko8iV"
+        },
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 264354,
+      "name": "Fuera de Ritmo",
+      "url": "https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
         "name": "Rebeld\u00eda",
         "url": "https://open.spotify.com/album/0L2eVylvt7VTyArK33f3Ze"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 190147,
       "name": "Somos amigos",
       "url": "https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "Fuera de Ritmo",
-        "url": "https://open.spotify.com/album/0KtQlIksmdmm5FvxwpH5Av"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Dread",
-          "url": "https://open.spotify.com/artist/4upmyJmsVYEetRhB4ko8iV"
-        },
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 264354,
-      "name": "Fuera de Ritmo",
-      "url": "https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7"
     },
     {
       "added_at": "2024-05-31 06:00:00",

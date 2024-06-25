@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-447 songs - 1 day 3 hr 52 min
+448 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Nagisa](https://open.spotify.com/track/5q7xQsNsw8ZR8Itt3H6sBS) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Best of imase: NIGHT DANCER & Viral Hits](https://open.spotify.com/album/5EBImlI8YR8tUV37iV0IFs) | 3:46 | 2023-08-20 | 2023-08-23 |
 | [napori](https://open.spotify.com/track/5Ym4egUmT9wHEvZM2anGG8) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6v1LcUpY4GNjQ1pQ4SJCDY) | 3:23 | 2021-03-27\* | 2021-12-11 |
 | [napori](https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy) | 3:23 | 2021-12-11 | 2021-12-22 |
-| [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-08 |  |
+| [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-08 | 2024-06-25 |
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-09-12 | 2023-10-04 |
 | [New Genesis](https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:46 | 2023-06-06 | 2024-01-16 |
 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2023-07-22 | 2023-08-30 |
@@ -209,6 +209,7 @@
 | [Subtitle](https://open.spotify.com/track/4zrKPIygugUDKGFEjVwpSB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/12sWDwrDnaBl0EagZU4sXV) | 5:05 | 2023-06-06 | 2024-04-19 |
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-04-26 | 2023-06-11 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-08 | 2023-12-20 |
+| [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-24 |  |
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-21 | 2024-06-01 |
 | [Supernova](https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:58 | 2024-05-31 |  |
 | [SWEET NONFICTION](https://open.spotify.com/track/0fXXfojTJEeJEF0p69qmo2) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [SWEET NONFICTION](https://open.spotify.com/album/37XW4vuhNFKGUliZ3qkTv3) | 3:19 | 2024-04-06 | 2024-05-16 |

@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=9PTEqsPxTgq3Vja7mAf6nA\">Ziggy4x</a> ",
-  "num_followers": 1640,
+  "num_followers": 1642,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -735,18 +735,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/3XFk6y7qOGBONEP0C7Vlme"
+        "name": "Sal Alright is",
+        "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
       },
       "artists": [
         {
-          "name": "Wboy",
-          "url": "https://open.spotify.com/artist/04JztP9AaI1fxKtfZ6eQVW"
+          "name": "Shameel Afrikaans Music",
+          "url": "https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl"
+        },
+        {
+          "name": "BIGDMUZIC",
+          "url": "https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur"
         }
       ],
-      "duration_ms": 121208,
-      "name": "Los Hom",
-      "url": "https://open.spotify.com/track/7Iec6TaiOl3rOaqW3cTCfk"
+      "duration_ms": 252395,
+      "name": "Sal Alright is",
+      "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -771,42 +775,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Sal Alright is",
-        "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
-      },
-      "artists": [
-        {
-          "name": "Shameel Afrikaans Music",
-          "url": "https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl"
-        },
-        {
-          "name": "BIGDMUZIC",
-          "url": "https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur"
-        }
-      ],
-      "duration_ms": 252395,
-      "name": "Sal Alright is",
-      "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Hopeless",
-        "url": "https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD"
-      },
-      "artists": [
-        {
-          "name": "Marky Futurekid",
-          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
-        }
-      ],
-      "duration_ms": 183550,
-      "name": "Hopeless",
-      "url": "https://open.spotify.com/track/4pmnGONjm31Llig19zwpde"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Hou Vas",
         "url": "https://open.spotify.com/album/5JUHiZaI261mwUGVEUibNU"
       },
@@ -827,22 +795,50 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Blokfluit",
-        "url": "https://open.spotify.com/album/0yRERnFdpwqCaUpMdxSOp4"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3XFk6y7qOGBONEP0C7Vlme"
       },
       "artists": [
         {
-          "name": "Giga",
-          "url": "https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz"
-        },
-        {
-          "name": "Die Twaalf",
-          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
+          "name": "Wboy",
+          "url": "https://open.spotify.com/artist/04JztP9AaI1fxKtfZ6eQVW"
         }
       ],
-      "duration_ms": 192783,
-      "name": "Blokfluit",
-      "url": "https://open.spotify.com/track/654MqjCBnx1yaRBVyVJipk"
+      "duration_ms": 121208,
+      "name": "Los Hom",
+      "url": "https://open.spotify.com/track/7Iec6TaiOl3rOaqW3cTCfk"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Hopeless",
+        "url": "https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD"
+      },
+      "artists": [
+        {
+          "name": "Marky Futurekid",
+          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
+        }
+      ],
+      "duration_ms": 183550,
+      "name": "Hopeless",
+      "url": "https://open.spotify.com/track/4pmnGONjm31Llig19zwpde"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Deh!",
+        "url": "https://open.spotify.com/album/38J1BiT27OyRsI60572LsP"
+      },
+      "artists": [
+        {
+          "name": "Epidemi",
+          "url": "https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K"
+        }
+      ],
+      "duration_ms": 159686,
+      "name": "Deh!",
+      "url": "https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -863,18 +859,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Deh!",
-        "url": "https://open.spotify.com/album/38J1BiT27OyRsI60572LsP"
+        "name": "Blokfluit",
+        "url": "https://open.spotify.com/album/0yRERnFdpwqCaUpMdxSOp4"
       },
       "artists": [
         {
-          "name": "Epidemi",
-          "url": "https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K"
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz"
+        },
+        {
+          "name": "Die Twaalf",
+          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
         }
       ],
-      "duration_ms": 159686,
-      "name": "Deh!",
-      "url": "https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ"
+      "duration_ms": 192783,
+      "name": "Blokfluit",
+      "url": "https://open.spotify.com/track/654MqjCBnx1yaRBVyVJipk"
     },
     {
       "added_at": "2024-02-15 22:00:00",

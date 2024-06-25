@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,691 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,751 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 44 | [People](https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [People](https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV) | 2:54 |
 | 45 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 |
 | 46 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 |
-| 47 | [Ma Jo Lo](https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Ma Jo Lo](https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk) | 2:27 |
-| 48 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 |
+| 47 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 |
+| 48 | [Ma Jo Lo](https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Ma Jo Lo](https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk) | 2:27 |
 | 49 | [Things You Didn't Know](https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Things You Didn't Know](https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh) | 2:51 |
 | 50 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
 | 51 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 64 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 |
 | 65 | [Alone](https://open.spotify.com/track/415KAWPy9kNLsx515sqxI1) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Alone](https://open.spotify.com/album/5YuVGS5KyFqhPSsHzsDRSb) | 2:18 |
 | 66 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 |
-| 67 | [Work It Out](https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [Work It Out](https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ) | 3:06 |
-| 68 | [SOLID \- Adam Swim Remix](https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [Adam Swim](https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35) | [SOLID \(Adam Swim Remix\)](https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu) | 5:11 |
+| 67 | [SOLID \- Adam Swim Remix](https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [Adam Swim](https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35) | [SOLID \(Adam Swim Remix\)](https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu) | 5:11 |
+| 68 | [Work It Out](https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [Work It Out](https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ) | 3:06 |
 | 69 | [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Say Yes \(feat\. Rona Ray\)](https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx) | 2:37 |
 | 70 | [Holier \- JD\. REID Remix feat\. Shygirl](https://open.spotify.com/track/3SAGwjKKitPBNpgdi80ScD) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Holier \(JD\. REID Remix feat\. Shygirl\)](https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh) | 3:35 |
 

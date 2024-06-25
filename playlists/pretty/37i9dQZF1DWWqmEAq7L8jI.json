@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 271379,
+  "num_followers": 271391,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2024-06-18 14:05:10",
       "album": {
-        "name": "ENCHASTRE",
-        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "AYER TE VI (feat. Zoe Gotusso)",
-      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
-    },
-    {
-      "added_at": "2024-06-18 14:05:10",
-      "album": {
         "name": "Abraz\u00e1ndonos",
         "url": "https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 195431,
       "name": "Abraz\u00e1ndonos",
       "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
+    },
+    {
+      "added_at": "2024-06-18 14:05:10",
+      "album": {
+        "name": "ENCHASTRE",
+        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "AYER TE VI (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
     },
     {
       "added_at": "2024-06-18 14:05:10",

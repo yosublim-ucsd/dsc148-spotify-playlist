@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1s5u8w.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1s5u8w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1s5u8w)
 
-### [This Is トーキング・ヘッズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1s5u8w)
+### [This Is Talking Heads](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1s5u8w)
 
-> This is トーキング・ヘッズ。アーティストの代表曲をひとつのプレイリストに。
+> This Is Talking Heads\. Los temas esenciales, todos en una lista.
 
 55 songs - 3 hr 55 min
 
@@ -36,12 +36,12 @@
 | [Memories Can't Wait \- 2005 Remaster](https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:30 | 2024-05-18 |  |
 | [Mind \- 2005 Remaster](https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 4:12 | 2024-05-18 |  |
 | [Moon Rocks \- 2005 Remaster](https://open.spotify.com/track/1jDit1o3MxkQxFDVNdYX9v) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:45 | 2024-05-18 |  |
-| [New Feeling \- 2005 Remaster](https://open.spotify.com/track/2pmytOddxLVaASHQqTH9LO) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 3:09 | 2024-06-19 | 2024-06-21 |
+| [New Feeling \- 2005 Remaster](https://open.spotify.com/track/2pmytOddxLVaASHQqTH9LO) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 3:09 | 2024-06-19 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light](https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq) | 4:19 | 2024-05-18 |  |
 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 | 2024-05-18 |  |
 | [Paper](https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 2:39 | 2024-05-19 |  |
 | [Perfect World \- 2005 Remaster](https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:27 | 2024-05-18 |  |
-| [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2024-05-18 |  |
+| [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2024-05-18 | 2024-06-25 |
 | [Psycho Killer \- Acoustic](https://open.spotify.com/track/5cE2nMYDgYj9gqG4KLafKy) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:18 | 2024-05-18 |  |
 | [Pull up the Roots \- 2005 Remaster](https://open.spotify.com/track/7tzxJBTk35iJREdh8LkWOm) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 5:09 | 2024-05-24 | 2024-06-21 |
 | [Road to Nowhere \- 2005 Remaster](https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:20 | 2024-05-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 
 > The essential pop rock songs from the 2000s\. Cover: Kelly Clarkson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,694 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,737 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 14 | [Snow \(Hey Oh\)](https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 5:34 |
 | 15 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
 | 16 | [Clocks](https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:07 |
-| 17 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
-| 18 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
+| 17 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
+| 18 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
 | 19 | [So What](https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 3:35 |
 | 20 | [Sk8er Boi](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:24 |
 | 21 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 45 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 |
 | 46 | [Far Away](https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 3:58 |
 | 47 | [Maybe Tomorrow](https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [You Gotta Go There To Come Back](https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8) | 4:32 |
-| 48 | [Gives You Hell](https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD) | 3:33 |
-| 49 | [Sing](https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Invisible Band](https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ) | 3:48 |
+| 48 | [Sing](https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Invisible Band](https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ) | 3:48 |
+| 49 | [Gives You Hell](https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD) | 3:33 |
 | 50 | [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 |
 | 51 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
 | 52 | [I'm A Believer](https://open.spotify.com/track/0C9jZPUv4SuaXkuEQw6L40) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Smash Mouth](https://open.spotify.com/album/7KZkFAtkse1rKL9HdFTCuh) | 3:05 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 58 | [Everywhere](https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:34 |
 | 59 | [Short Skirt / Long Jacket](https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Comfort Eagle](https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj) | 3:24 |
 | 60 | [Stuck In A Moment You Can't Get Out Of](https://open.spotify.com/track/1klDPm7SfsS32hl7KHV9iy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:33 |
-| 61 | [Nothing In My Way](https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Under The Iron Sea](https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa) | 4:00 |
-| 62 | [The Only Exception](https://open.spotify.com/track/3ZHfX6kbiY7JVsB63lLOLu) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r) | 4:27 |
+| 61 | [The Only Exception](https://open.spotify.com/track/3ZHfX6kbiY7JVsB63lLOLu) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r) | 4:27 |
+| 62 | [Nothing In My Way](https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Under The Iron Sea](https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa) | 4:00 |
 | 63 | [The Game of Love \(feat\. Michelle Branch\) \- Main / Radio Mix](https://open.spotify.com/track/41IShViF79gmulEkIHAjcb) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Shaman](https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4) | 4:14 |
 | 64 | [Have A Nice Day](https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 3:25 |
 | 65 | [Have A Nice Day](https://open.spotify.com/track/06Zz2l7cVTCTgCNDe1bnEF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Have A Nice Day](https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P) | 3:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 
 > los tenis bien limpios y la bocina retumbando
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,955 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,957 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41uhnJlpNx4.md) - [plain]
 | 56 | [La Mamoncita del Insta](https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn) | 3:13 |
 | 57 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 |
 | 58 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 |
-| 59 | [Rucón](https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:48 |
-| 60 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
+| 59 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 |
+| 60 | [Rucón](https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:48 |
 | 61 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 |
 | 62 | [Malas Rachas \- En Vivo](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 |
 | 63 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 |

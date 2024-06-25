@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 
 > This is Adrianne Lenker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,172 likes - 36 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,207 likes - 36 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 | 9 | [not a lot, just forever](https://open.spotify.com/track/11hEwcy9LMEvzAlOYAFhkK) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 4:10 |
 | 10 | [Kerina](https://open.spotify.com/track/57qpL2xmsydc04uBmiH2DC) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:51 |
 | 11 | [Sadness As A Gift](https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 4:19 |
-| 12 | [Row](https://open.spotify.com/track/4Op5aSB6JSVzp7Jhi5hQKp) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 1:51 |
+| 12 | [A Love of Some Kind](https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 2:53 |
 | 13 | [forwards beckon rebound](https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:09 |
-| 14 | [A Love of Some Kind](https://open.spotify.com/track/0Lix58xJgTxJyrHuSM7Jny) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 2:53 |
+| 14 | [Row](https://open.spotify.com/track/4Op5aSB6JSVzp7Jhi5hQKp) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 1:51 |
 | 15 | [No Machine](https://open.spotify.com/track/07LZPF6LzXu19GhVyqWF81) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 3:00 |
 | 16 | [symbol](https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:49 |
 | 17 | [ingydar](https://open.spotify.com/track/5CpH0bwau1sW8vtTBQ8Erc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 4:08 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 | 35 | [Butterfly](https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 2:43 |
 | 36 | [blue and red horses](https://open.spotify.com/track/4N2LdRzYxtWKTkHH3G9d1L) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:17 |
 
-Snapshot ID: `ZnYUAAAAAAAc2lldA5Ywggs7u8bSlzKK`
+Snapshot ID: `ZndlgAAAAAC05aVhFXqZPWV3j3klgKjm`

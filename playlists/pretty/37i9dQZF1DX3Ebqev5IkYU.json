@@ -1,6 +1,6 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1967161,
+  "num_followers": 1967302,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-06-17 15:16:53",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
-    },
-    {
-      "added_at": "2024-06-17 15:16:53",
-      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "added_at": "2024-06-17 15:16:53",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "added_at": "2024-06-17 15:16:53",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-17 15:16:53",
       "album": {
-        "name": "Heavy Metal Love",
-        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Heavy Metal Love",
-      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
-    },
-    {
-      "added_at": "2024-06-17 15:16:53",
-      "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 225789,
       "name": "Never Gonna Not Dance Again",
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "added_at": "2024-06-17 15:16:53",
+      "album": {
+        "name": "Heavy Metal Love",
+        "url": "https://open.spotify.com/album/2WTW41lq0cDQjdsXhRhyqH"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Heavy Metal Love",
+      "url": "https://open.spotify.com/track/07VcTAooOBP8hIluuUS5xr"
     },
     {
       "added_at": "2024-06-17 15:16:53",
@@ -1523,18 +1523,22 @@
     {
       "added_at": "2024-06-17 15:16:53",
       "album": {
-        "name": "Schloss aus Sand",
-        "url": "https://open.spotify.com/album/1suisGAGd9P0gjhffOqRQz"
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM"
       },
       "artists": [
         {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
         }
       ],
-      "duration_ms": 150882,
-      "name": "Schloss aus Sand",
-      "url": "https://open.spotify.com/track/4sbl4SNfBkfijDEiaijhcC"
+      "duration_ms": 195657,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB"
     },
     {
       "added_at": "2024-06-17 15:16:53",
@@ -1571,22 +1575,18 @@
     {
       "added_at": "2024-06-17 15:16:53",
       "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM"
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
         }
       ],
-      "duration_ms": 195657,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB"
+      "duration_ms": 175671,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
     },
     {
       "added_at": "2024-06-17 15:16:53",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-06-17 15:16:53",
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
+        "name": "Schloss aus Sand",
+        "url": "https://open.spotify.com/album/1suisGAGd9P0gjhffOqRQz"
       },
       "artists": [
         {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
         }
       ],
-      "duration_ms": 175671,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
+      "duration_ms": 150882,
+      "name": "Schloss aus Sand",
+      "url": "https://open.spotify.com/track/4sbl4SNfBkfijDEiaijhcC"
     },
     {
       "added_at": "2024-06-17 15:16:53",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2024-06-17 15:16:53",
       "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        }
+      ],
+      "duration_ms": 147818,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
+    },
+    {
+      "added_at": "2024-06-17 15:16:53",
+      "album": {
         "name": "I'll Be There",
         "url": "https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 166632,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6"
-    },
-    {
-      "added_at": "2024-06-17 15:16:53",
-      "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
-        }
-      ],
-      "duration_ms": 147818,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
     }
   ],
   "unique_name": "Stimmungsmacher",

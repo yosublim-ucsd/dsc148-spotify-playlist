@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Refused
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,856 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,858 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 19 | [Shoulder to the Wheel](https://open.spotify.com/track/4dKu1HkVL1xh96F1JfDTrn) | [Saves The Day](https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU) | [Through Being Cool](https://open.spotify.com/album/3yRpyOundyELlkOO6O4YSo) | 3:19 |
 | 20 | [Always Focused](https://open.spotify.com/track/20zs5ECJ4on1YqXHiDZkTN) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [Pleasant Living](https://open.spotify.com/album/6glHUYWR8paVp72N7xmBci) | 2:40 |
 | 21 | [Lucky Denver Mint](https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:49 |
-| 22 | [Standing On The Edge Of Summer](https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 3:42 |
+| 22 | [For The Workforce, Drowning](https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 3:16 |
 | 23 | [Oh Messy Life](https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE) | [Cap'n Jazz](https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4) | [Analphabetapolothology](https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D) | 2:02 |
 | 24 | [Accident Prone](https://open.spotify.com/track/2Dqgj2nE6RwZKocWsWqXcG) | [Jawbreaker](https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV) | [Dear You](https://open.spotify.com/album/7KyQp50wm9lprjaW6UMAkI) | 6:13 |
 | 25 | [Caboose](https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw) | [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Progression Through Unlearning](https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu) | 2:33 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 28 | [Chinatown](https://open.spotify.com/track/7iLR3XqK3d5WbHeurAB1d8) | [Jets To Brazil](https://open.spotify.com/artist/03xcT10aipgYbYqusG7GWY) | [Orange Rhyming Dictionary](https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD) | 5:35 |
 | 29 | [Heartbeat in the Brain](https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Whenever, If Ever](https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm) | 5:41 |
 | 30 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 |
-| 31 | [For The Workforce, Drowning](https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 3:16 |
+| 31 | [Standing On The Edge Of Summer](https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 3:42 |
 | 32 | [For Me This Is Heaven](https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 4:06 |
 | 33 | [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 |
 | 34 | [Undone](https://open.spotify.com/track/6k7TQSB0vW7EuSJs9vEvNl) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Magnified](https://open.spotify.com/album/5LTiLtGa8g0TWWcjL2ymnR) | 4:27 |

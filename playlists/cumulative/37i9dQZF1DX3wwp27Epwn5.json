@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 162000,
       "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Hindi)",
       "url": "https://open.spotify.com/track/73qEZ1uDm4V2jq9EeXWM8G"
@@ -1374,6 +1374,44 @@
       "duration_ms": 215075,
       "name": "Let's Nacho",
       "url": "https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8"
+    },
+    {
+      "album": {
+        "name": "Maar Udi (From \"Sarfira\")",
+        "url": "https://open.spotify.com/album/3NFerQqnCGlt9n5rf1nxQL"
+      },
+      "artists": [
+        {
+          "name": "Yadu Krishnan",
+          "url": "https://open.spotify.com/artist/3v7k5UidfVSfHvwO3szARq"
+        },
+        {
+          "name": "Sugandh Shekar",
+          "url": "https://open.spotify.com/artist/3BUoCiHsOhTTTkXLbdz0Vp"
+        },
+        {
+          "name": "Haston Rodrigues",
+          "url": "https://open.spotify.com/artist/069pd0XzR1dBt9JsBWEZ7W"
+        },
+        {
+          "name": "Abhijith Rao",
+          "url": "https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83368,
+      "name": "Maar Udi (From \"Sarfira\")",
+      "url": "https://open.spotify.com/track/1D8SDwQsRc324Uqx0ffLAr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 
 > Versos y barras de alto poder, con un takeover por Faruz Feet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,451 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,502 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 57 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
 | 58 | [Grandes Ligas](https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Grandes Ligas](https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT) | 4:00 |
 | 59 | [Lose Yourself](https://open.spotify.com/track/77Ft1RJngppZlq59B6uP0z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [SHADYXV](https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87) | 5:20 |
-| 60 | [Cypher](https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Toser One](https://open.spotify.com/artist/7rpKb1IlFFPINHXghluWTr) | [Cypher](https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f) | 8:02 |
+| 60 | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj) | 8:39 |
 
 Snapshot ID: `ZnUW4AAAAAAkPtiMoPguT8URvR3kpp/E`

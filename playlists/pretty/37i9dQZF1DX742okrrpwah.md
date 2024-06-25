@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Coldplay au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,541 likes - 98 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,542 likes - 98 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 45 | [Macaroni Moon](https://open.spotify.com/track/5hxbl4ZGUPlYZU0wa5v2B3) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Macaroni Moon](https://open.spotify.com/album/3Q6c9lHhxltpuoN65lP33w) | 3:14 |
 | 46 | [The Morning Sun](https://open.spotify.com/track/5j3c3iXhV0JVI6wz6iJXI8) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0) | [The Morning Sun](https://open.spotify.com/album/2tSKHQyNzJS8TCb0jZpq6h) | 2:34 |
 | 47 | [J'assume](https://open.spotify.com/track/3sEOZuQzFqsXGDY9Oh6AF3) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO) | [J'assume](https://open.spotify.com/album/0DcCpwaaGTwPhKZTdiZp7u) | 2:53 |
-| 48 | [Sail Away](https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn), [Chunk! No](https://open.spotify.com/artist/2RJG77zJneqMFlxdK8U2FK), [Captain Chunk!](https://open.spotify.com/artist/7LebJKbIfOpFYYiAaAGEw1) | [Sail Away](https://open.spotify.com/album/7LHNEaG4vAGmD9vCO0gRrt) | 3:17 |
+| 48 | [Sail Away](https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn), [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Sail Away](https://open.spotify.com/album/7LHNEaG4vAGmD9vCO0gRrt) | 3:17 |
 | 49 | [Phat Butt](https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Phat Butt](https://open.spotify.com/album/13lNTRScGj4CVAYszzxioi) | 2:09 |
 | 50 | [Remontada](https://open.spotify.com/track/1uLESz9GPo9f3kKyf9Us8M) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Art de rue](https://open.spotify.com/artist/1b27lFoOmpecfaxZGgprtA) | [Remontada](https://open.spotify.com/album/3G83RKl9LzD6JEfzBhzCU2) | 2:43 |
 | 51 | [Ba$tard, Don't Be Silly](https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 2:51 |

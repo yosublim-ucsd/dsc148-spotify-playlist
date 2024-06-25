@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
+  "description": "This is Edith M\u00e1rquez. Tutti i brani in un'unica playlist.",
   "name": "This Is Edith M\u00e1rquez",
   "tracks": [
     {
@@ -584,7 +584,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 226440,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/0seEvOIXjtwuhbfS0lImCQ"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 228786,
       "name": "Qu\u00e9 Iron\u00eda",
       "url": "https://open.spotify.com/track/3PlkHEhFeVPH3IM1OY9N3Y"

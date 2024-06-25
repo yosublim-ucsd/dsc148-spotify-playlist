@@ -1,6 +1,6 @@
 {
   "description": "blir det en hvit sommer?",
-  "num_followers": 109994,
+  "num_followers": 110007,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Hardanger",
+        "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
+      },
+      "artists": [
+        {
+          "name": "Gunslingers",
+          "url": "https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX"
+        }
+      ],
+      "duration_ms": 236387,
+      "name": "Hardanger",
+      "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "\u00d8l i kantina",
         "url": "https://open.spotify.com/album/3Ba89F7pVLtwkcxEqt5gMj"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 141044,
       "name": "\u00d8l i kantina",
       "url": "https://open.spotify.com/track/2pV3iEhPidxQrX9zmRY3W8"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Hardanger",
-        "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
-      },
-      "artists": [
-        {
-          "name": "Gunslingers",
-          "url": "https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX"
-        }
-      ],
-      "duration_ms": 236387,
-      "name": "Hardanger",
-      "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -783,18 +783,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
+        "name": "De g\u00e6rne har det godt",
+        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
       },
       "artists": [
         {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
         }
       ],
-      "duration_ms": 186453,
-      "name": "K\u00e6m Tok Ho Me S\u00e6",
-      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
+      "duration_ms": 128653,
+      "name": "De g\u00e6rne har det godt",
+      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -815,22 +819,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "De g\u00e6rne har det godt",
-        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
       },
       "artists": [
         {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
         }
       ],
-      "duration_ms": 128653,
-      "name": "De g\u00e6rne har det godt",
-      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
+      "duration_ms": 186453,
+      "name": "K\u00e6m Tok Ho Me S\u00e6",
+      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Jag \u00e4r taggad",
-        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 136814,
-      "name": "Jag \u00e4r taggad",
-      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Naboen har operert kona si",
-        "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
+        "name": "Jag \u00e4r taggad",
+        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
       },
       "artists": [
         {
-          "name": "B\u00f8rse",
-          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
         }
       ],
-      "duration_ms": 150624,
-      "name": "Naboen har operert kona si",
-      "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
+      "duration_ms": 136814,
+      "name": "Jag \u00e4r taggad",
+      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -943,6 +927,22 @@
       "duration_ms": 180826,
       "name": "Alt du vil ha",
       "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Naboen har operert kona si",
+        "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8rse",
+          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
+        }
+      ],
+      "duration_ms": 150624,
+      "name": "Naboen har operert kona si",
+      "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "S\u00e5nn e livet - Live 10 \u00e5r",
-        "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
-      },
-      "artists": [
-        {
-          "name": "Sie Gubba",
-          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
-        }
-      ],
-      "duration_ms": 266293,
-      "name": "Fjellrypa",
-      "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Hej sk\u00e5l!",
         "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "S\u00e5nn e livet - Live 10 \u00e5r",
+        "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
+      },
+      "artists": [
+        {
+          "name": "Sie Gubba",
+          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
+        }
+      ],
+      "duration_ms": 266293,
+      "name": "Fjellrypa",
+      "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Bygdas Rebell",
         "url": "https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 221833,
       "name": "Bygdas Rebell",
       "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Tro",
+        "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
+      },
+      "artists": [
+        {
+          "name": "Rune Rudberg",
+          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "N\u00e5 er det freda'n igjen",
+      "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Tro",
-        "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
-      },
-      "artists": [
-        {
-          "name": "Rune Rudberg",
-          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "N\u00e5 er det freda'n igjen",
-      "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "N\u00e5 er det helg",
         "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 183958,
       "name": "N\u00e5 er det helg",
       "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Ja vi elsker (Typisk Norsk 2019)",
+        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 164905,
+      "name": "Ja vi elsker (Typisk Norsk 2019)",
+      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Der Jeg H\u00f8rer Te (Bygda)",
-        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
-      },
-      "artists": [
-        {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
-        }
-      ],
-      "duration_ms": 137106,
-      "name": "Der Jeg H\u00f8rer Te (Bygda)",
-      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Bara vara med dig",
         "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
       },
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Der Jeg H\u00f8rer Te (Bygda)",
+        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
+      },
+      "artists": [
+        {
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+        }
+      ],
+      "duration_ms": 137106,
+      "name": "Der Jeg H\u00f8rer Te (Bygda)",
+      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Her er det liv",
         "url": "https://open.spotify.com/album/2YVX4cPRpeL4YhSY6KxElv"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 183104,
       "name": "Her er det liv",
       "url": "https://open.spotify.com/track/4ffdNW62Z6XaS8XQrrvQcp"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Ja vi elsker (Typisk Norsk 2019)",
-        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 164905,
-      "name": "Ja vi elsker (Typisk Norsk 2019)",
-      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

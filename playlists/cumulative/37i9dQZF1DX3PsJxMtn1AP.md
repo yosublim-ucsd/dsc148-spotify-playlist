@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-334 songs - 21 hr 20 min
+335 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Blame Me](https://open.spotify.com/track/2Y0ttkLBCCT1ID8a5TbxHf) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Blame Me](https://open.spotify.com/album/6bLKsmVmjEwJb1Gs5boxmN) | 2:49 | 2024-02-02 | 2024-03-23 |
 | [Blossom](https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Los Santos y Pecadores](https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu) | 3:18 | 2024-01-11 | 2024-03-23 |
 | [blu](https://open.spotify.com/track/5gNEUS6Ca9zxn5yYDiyTgK) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blu](https://open.spotify.com/album/757Mnb96yy0jT7po5qnvuU) | 2:16 | 2024-05-23 |  |
-| [Bola Oro](https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Bola Oro](https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2) | 4:05 | 2023-05-24 |  |
+| [Bola Oro](https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Bola Oro](https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2) | 4:05 | 2023-05-24 | 2024-06-25 |
 | [Bolero](https://open.spotify.com/track/1OVRnfZ5zSR0GwXcSYMGEg) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Esteman](https://open.spotify.com/artist/1Wa2BFXZT8sHOXEROLlAMK) | [Algo\-Ritmo : Mexican Institute of Sound Hits 2004\-2024](https://open.spotify.com/album/4SY8pI6k7ND7wWAPrWVQqE) | 3:37 | 2024-02-09 |  |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-09 | 2023-04-14 |
 | [Buen Fantasma](https://open.spotify.com/track/7dnVu3VTbBp37jsoQ1WbxE) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Buen Fantasma](https://open.spotify.com/album/2jlATWZpSabSiPbgKsl3Ps) | 3:49 | 2023-08-01 | 2023-09-25 |
@@ -85,6 +85,7 @@
 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 | 2023-02-03 | 2023-04-09 |
 | [De otro mundo](https://open.spotify.com/track/0AUv5cNkt2gwLkQ1jckx4I) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [De otro mundo](https://open.spotify.com/album/0nV1gsatLesTZc5HpC53pr) | 4:06 | 2024-01-23 | 2024-05-01 |
 | [Death in a Constellation](https://open.spotify.com/track/72x6VhwpNjHOvo5OM4iKbe) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu), [Levingtquatre](https://open.spotify.com/artist/1mksa9q8wjMTdaOzxtoOlA) | [Death in a Constellation](https://open.spotify.com/album/4noSmDY9LL8oRSCXaHti9A) | 4:29 | 2023-01-07 | 2023-03-25 |
+| [Diamante](https://open.spotify.com/track/7t12Ms2nC67lGND4UQTykH) | [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Los manantiales](https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o) | 3:03 | 2024-06-24 |  |
 | [Dibujos De Mi Alma](https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:12 | 2023-06-02 | 2024-02-03 |
 | [Dime Quién Te Crees](https://open.spotify.com/track/2X3ExwVJneq6ZBgQ5RYttn) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Dime Quién Te Crees](https://open.spotify.com/album/40ekzsY4RSZwUBflHazKMO) | 3:54 | 2023-05-12 | 2023-06-02 |
 | [Dimensión 3000](https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dimensión 3000](https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z) | 3:22 | 2024-05-29 |  |

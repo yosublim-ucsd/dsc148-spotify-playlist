@@ -1,6 +1,6 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: JxW(SEVENTEEN))",
-  "num_followers": 1006269,
+  "num_followers": 1006226,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -655,30 +655,18 @@
     {
       "added_at": "2024-06-20 08:49:13",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn"
+        "name": "Forever Only - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8"
       },
       "artists": [
         {
-          "name": "Raiden",
-          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
-        },
-        {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
         }
       ],
-      "duration_ms": 235413,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp"
+      "duration_ms": 196120,
+      "name": "Forever Only",
+      "url": "https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz"
     },
     {
       "added_at": "2024-06-20 08:49:13",
@@ -751,18 +739,30 @@
     {
       "added_at": "2024-06-20 08:49:13",
       "album": {
-        "name": "Forever Only - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8"
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn"
       },
       "artists": [
         {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+        },
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
         }
       ],
-      "duration_ms": 196120,
-      "name": "Forever Only",
-      "url": "https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz"
+      "duration_ms": 235413,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp"
     },
     {
       "added_at": "2024-06-20 08:49:13",

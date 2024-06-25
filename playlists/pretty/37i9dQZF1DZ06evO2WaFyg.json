@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 232625,
+  "num_followers": 232720,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAADpiWdGeaYxMSKC0mQXYf4A",
+  "snapshot_id": "ZndlgAAAAABVZ0e3PgdHgP8MHIX8SzSx",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "My wrist (with Young Thug)",
+        "url": "https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "My wrist (with Young Thug)",
+      "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rodeo",
         "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
       },
@@ -279,6 +299,26 @@
       "duration_ms": 349933,
       "name": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
       "url": "https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boy (with Young Thug)",
+        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 157355,
+      "name": "Bad Boy (with Young Thug)",
+      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
     },
     {
       "added_at": null,
@@ -339,6 +379,30 @@
       "duration_ms": 366592,
       "name": "SKITZO (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "pushin P (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
     },
     {
       "added_at": null,
@@ -435,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slime Season 3",
+        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Digits",
+      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l"
       },
@@ -523,34 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Language 2",
-        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
-      },
-      "artists": [
-        {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "Solid (feat. Drake)",
-      "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -567,30 +619,6 @@
       "duration_ms": 160776,
       "name": "Never Hating (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punk",
-        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "Bubbly (with Drake & Travis Scott)",
-      "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
     },
     {
       "added_at": null,
@@ -615,6 +643,30 @@
       "duration_ms": 199011,
       "name": "Oh Okay (feat. Young Thug & Lil Baby)",
       "url": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 165066,
+      "name": "Bubbly (with Drake & Travis Scott)",
+      "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
     },
     {
       "added_at": null,
@@ -655,6 +707,22 @@
       "duration_ms": 230253,
       "name": "City Girls",
       "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
     },
     {
       "added_at": null,
@@ -795,26 +863,6 @@
       "duration_ms": 236293,
       "name": "Wyclef Jean",
       "url": "https://open.spotify.com/track/55OdqrG8WLmsYyY1jijD9b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 250271,
-      "name": "ON GOD (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/5euYMGygjq2IAfpzOD08Qb"
     },
     {
       "added_at": null,
@@ -1003,6 +1051,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautiful Thugger Girls",
+        "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Daddy's Birthday",
+      "url": "https://open.spotify.com/track/347hgqCHnL4GfgVX5hZfNv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -1031,48 +1095,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Thugger Girls",
-        "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Daddy's Birthday",
-      "url": "https://open.spotify.com/track/347hgqCHnL4GfgVX5hZfNv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slime Language 2",
-        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
-      },
-      "artists": [
-        {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Rowdy Rebel",
-          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
-        }
-      ],
-      "duration_ms": 174413,
-      "name": "Came and Saw (feat. Rowdy Rebel)",
-      "url": "https://open.spotify.com/track/3GkEnNf2RWmdwkA2FfjQ3g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On the Run",
-        "url": "https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO"
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
       },
       "artists": [
         {
@@ -1080,53 +1104,13 @@
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/0wVlws1JGleYZSVRWjj9B7"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Climax (feat. 6lack)",
-      "url": "https://open.spotify.com/track/4N9QsmvQJcGwJHAmDmBttU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Payday (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/2HolBGR6tpiWI80MXoV1dJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Want Me Dead (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3GXjlz7evuodm50dfiDDWo"
+      "duration_ms": 202533,
+      "name": "With That (feat. Duke)",
+      "url": "https://open.spotify.com/track/6o4nVtywF4F75RkOcDxrtd"
     }
   ],
   "unique_name": "This Is Young Thug",

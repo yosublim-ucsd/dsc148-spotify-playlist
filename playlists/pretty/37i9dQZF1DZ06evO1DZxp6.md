@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 
 ### [This Is Julieta Venegas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DZxp6)
 
-> This is Julieta Venegas\. The essential tracks, all in one playlist.
+> This Is Julieta Venegas\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,068 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,106 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,18 +46,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DZxp6.md) - [plain]
 | 36 | [Canciones de Amor](https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 2:52 |
 | 37 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mar Dulce](https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa) | 3:38 |
 | 38 | [Tu Cárcel](https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:40 |
-| 39 | [Oleada](https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 |
-| 40 | [Te Vi](https://open.spotify.com/track/3JBFUsZatpE435Y8ejP7RZ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Los Momentos](https://open.spotify.com/album/7L5G2yWZKE08abmnCUvW49) | 3:29 |
+| 39 | [Te Vi](https://open.spotify.com/track/3JBFUsZatpE435Y8ejP7RZ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Los Momentos](https://open.spotify.com/album/7L5G2yWZKE08abmnCUvW49) | 3:29 |
+| 40 | [Oleada](https://open.spotify.com/track/2cIO8gKMYHKe7JjIoictxl) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 |
 | 41 | [Sería Feliz](https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Bueninvento](https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp) | 3:25 |
 | 42 | [Te Voy a Mostrar](https://open.spotify.com/track/6bxZEPqWc9oSqYBa1NgA7d) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:18 |
-| 43 | [Mala Memoria](https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:02 |
-| 44 | [De Ti](https://open.spotify.com/track/1G4blOR671oPTfalkEIabL) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [De Ti](https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj) | 3:44 |
+| 43 | [De Ti](https://open.spotify.com/track/1G4blOR671oPTfalkEIabL) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [De Ti](https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj) | 3:44 |
+| 44 | [Mala Memoria](https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:02 |
 | 45 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
-| 46 | [Tu Nombre \- Live](https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds) | 3:20 |
-| 47 | [Te Encontré](https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:32 |
-| 48 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 |
+| 46 | [Te Encontré](https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:32 |
+| 47 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 |
+| 48 | [Suavecito](https://open.spotify.com/track/369rWMvwPJ1qm5GQ0ilNp2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Suavecito](https://open.spotify.com/album/6zghbTfY5LTp8XiiqXDOGz) | 3:03 |
 | 49 | [Si ella me faltara alguna vez \(feat\. Julieta Venegas\)](https://open.spotify.com/track/3t6kEf5nJMOG2tYtUCgiwN) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 2:56 |
-| 50 | [Te solté la rienda](https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Te solté la rienda](https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp) | 3:27 |
-| 51 | [Saudade](https://open.spotify.com/track/23DnvfI41PNvTHEkGJXVBC) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Certa Manha Acordei De Sonhos Intranquilos](https://open.spotify.com/album/7wn5gtrPC8pOSoqBgc7EZK) | 3:23 |
+| 50 | [El Triste](https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Un Tributo](https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ) | 4:17 |
+| 51 | [Te solté la rienda](https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Te solté la rienda](https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp) | 3:27 |
 
-Snapshot ID: `ZnYUAAAAAAC7zGMAMPLNrUS1R0ttN1GT`
+Snapshot ID: `ZndlgAAAAAAIL05EPNFEKUGVtmQ98Hez`

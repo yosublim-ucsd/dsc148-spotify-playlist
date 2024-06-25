@@ -1,12 +1,12 @@
 {
-  "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 77958,
+  "description": "This is Trivium. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 77972,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAACkYuEM3DmKhdYauxk9YdS5",
+  "snapshot_id": "ZndlgAAAAACBM2x5epFlI2vczL89WUyM",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Wanna Be Me",
-        "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
+        "name": "Shogun (Special Edition)",
+        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 228712,
-      "name": "I Don't Wanna Be Me",
-      "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
+      "duration_ms": 334440,
+      "name": "Down from the Sky",
+      "url": "https://open.spotify.com/track/5LePaQIrJcIwrUzNEr3m86"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shogun (Special Edition)",
-        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
+        "name": "I Don't Wanna Be Me",
+        "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 334440,
-      "name": "Down from the Sky",
-      "url": "https://open.spotify.com/track/5LePaQIrJcIwrUzNEr3m86"
+      "duration_ms": 228712,
+      "name": "I Don't Wanna Be Me",
+      "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 204570,
-      "name": "Scattering The Ashes",
-      "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
+      "duration_ms": 340288,
+      "name": "Amongst The Shadows & The Stones",
+      "url": "https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 340288,
-      "name": "Amongst The Shadows & The Stones",
-      "url": "https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB"
+      "duration_ms": 204570,
+      "name": "Scattering The Ashes",
+      "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silence in the Snow (Special Edition)",
-        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 249653,
-      "name": "The Ghost That's Haunting You",
-      "url": "https://open.spotify.com/track/07lzBPTz5NnraM9qjp4JpO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Waves (Special Edition)",
         "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 293093,
       "name": "Watch the World Burn",
       "url": "https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 249653,
+      "name": "The Ghost That's Haunting You",
+      "url": "https://open.spotify.com/track/07lzBPTz5NnraM9qjp4JpO"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silence in the Snow (Special Edition)",
-        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 226426,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Waves (Special Edition)",
         "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 228040,
       "name": "Inception of the End",
       "url": "https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 226426,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
     },
     {
       "added_at": null,

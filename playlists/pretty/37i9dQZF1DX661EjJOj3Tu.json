@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 516373,
+  "num_followers": 516406,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        }
-      ],
-      "duration_ms": 364237,
-      "name": "Yo S\u00ed Quiero",
-      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
         "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Dig My Feeling",
-        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
       },
       "artists": [
         {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
         }
       ],
-      "duration_ms": 220198,
-      "name": "Dig My Feeling",
-      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
+      "duration_ms": 364237,
+      "name": "Yo S\u00ed Quiero",
+      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 117539,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/4RAeL4OABP3aI9cu8iCXrF"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Dig My Feeling",
+        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 220198,
+      "name": "Dig My Feeling",
+      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Tu, la Tierra",
+        "url": "https://open.spotify.com/album/2llPRKkcoepMb9JpCZOiQJ"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Rojas",
+          "url": "https://open.spotify.com/artist/090N9hqT8Tn5nYcvkjVqkM"
+        },
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 237186,
+      "name": "Tu, la Tierra",
+      "url": "https://open.spotify.com/track/43K0InQ2V1Uvh1CZeHGS1u"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "El Suelo Mio",
         "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
       },
@@ -1795,26 +1815,6 @@
       "duration_ms": 447863,
       "name": "Una Vez Mas",
       "url": "https://open.spotify.com/track/4H7fdafXGufIs6PomE8boe"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Tu, la Tierra",
-        "url": "https://open.spotify.com/album/2llPRKkcoepMb9JpCZOiQJ"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Rojas",
-          "url": "https://open.spotify.com/artist/090N9hqT8Tn5nYcvkjVqkM"
-        },
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        }
-      ],
-      "duration_ms": 237186,
-      "name": "Tu, la Tierra",
-      "url": "https://open.spotify.com/track/43K0InQ2V1Uvh1CZeHGS1u"
     },
     {
       "added_at": "2024-02-09 05:00:00",

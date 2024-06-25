@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable halftime shows\. Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,248 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,283 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 64 | [She Wolf](https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:08 |
 | 65 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 |
 | 66 | [Sir Duke](https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:52 |
-| 67 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
-| 68 | [It's Gonna Be Me](https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:12 |
+| 67 | [It's Gonna Be Me](https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:12 |
+| 68 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
 | 69 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
 | 70 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 |
 | 71 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 92 | [Stop! In The Name Of Love](https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes](https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A) | 2:52 |
 | 93 | [Bad Boy for Life](https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49), [Mark Curry](https://open.spotify.com/artist/20N6dS0vq9kMWXUqEkFrBA) | [The Saga Continues...](https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv) | 4:13 |
 | 94 | [Lose Control \(feat\. Ciara & Fat Man Scoop\)](https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 3:46 |
-| 95 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
-| 96 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/1CtKHwDqsH3ctcCCI18N0g) | [The Blues Brothers](https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g) | [The Blues Brothers Original Motion Picture Soundtrack](https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH) | 3:23 |
+| 95 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/1CtKHwDqsH3ctcCCI18N0g) | [The Blues Brothers](https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g) | [The Blues Brothers Original Motion Picture Soundtrack](https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH) | 3:23 |
+| 96 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 97 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 |
 | 98 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 |
 | 99 | [Motownphilly](https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 3:55 |

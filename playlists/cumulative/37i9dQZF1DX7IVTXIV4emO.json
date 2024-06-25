@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210989,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI"
+    },
+    {
+      "album": {
         "name": "EL SONERO MENOR",
         "url": "https://open.spotify.com/album/4j0K4tqaeHCZGlrH0XYYuC"
       },
@@ -451,6 +469,32 @@
     },
     {
       "album": {
+        "name": "BBY BOO (REMIX)",
+        "url": "https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275862,
+      "name": "BBY BOO - REMIX",
+      "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
+    },
+    {
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -716,7 +760,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 241297,
       "name": "Ceniza Fr\u00eda",
       "url": "https://open.spotify.com/track/2uITXbT51Yz4YPgmbeMQtD"
@@ -810,7 +854,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 297746,
       "name": "Como duele el frio",
       "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
@@ -1576,7 +1620,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 144986,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
@@ -2552,7 +2596,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 189333,
       "name": "Monastery",
       "url": "https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok"
@@ -2954,6 +2998,68 @@
       "duration_ms": 300408,
       "name": "Nunca Niegues Que Te Amo",
       "url": "https://open.spotify.com/track/0XWWn8bfpir8M3YHq1h7uJ"
+    },
+    {
+      "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201935,
+      "name": "offline",
+      "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
+    },
+    {
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240964,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
     },
     {
       "album": {
@@ -3487,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145342,
+      "name": "REAL GANGSTA LOVE",
+      "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
+    },
+    {
+      "album": {
         "name": "Let's Skip to the Wedding",
         "url": "https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf"
       },
@@ -3520,6 +3644,32 @@
       "duration_ms": 216510,
       "name": "Sal y Perrea",
       "url": "https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU"
+    },
+    {
+      "album": {
+        "name": "Santa",
+        "url": "https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193038,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
     },
     {
       "album": {
@@ -3794,7 +3944,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 180000,
       "name": "SIN MIRAR LAS SE\u00d1ALES",
       "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
@@ -4094,7 +4244,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 113120,
       "name": "TE MATA",
       "url": "https://open.spotify.com/track/3eFL5cxO22TpyjK3wNb27q"
@@ -4354,7 +4504,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 284666,
       "name": "Tu Amigo o Tu Amante",
       "url": "https://open.spotify.com/track/3XCqINkynQfUcB75MrihyK"
@@ -4586,7 +4736,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 186693,
       "name": "VACAXIONES",
       "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"
@@ -4724,6 +4874,40 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "album": {
+        "name": "WYA REMIX RED",
+        "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321741,
+      "name": "WYA REMIX RED",
+      "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best in modern punk rock music\. Cover: Speed
 
-329 songs - 16 hr 37 min
+330 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,9 @@
 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 | 2022-12-02 | 2023-11-18 |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-12-02 | 2023-04-03 |
 | [AUTO\-HARMONIC ASS FIXATION](https://open.spotify.com/track/4yqxgmvuMVRoKpwTpmcIKL) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | […Is Committed](https://open.spotify.com/album/18vdykeYJ7P2DTvRgKq64R) | 2:48 | 2024-05-31 |  |
+| [B.I.Y.L.C](https://open.spotify.com/track/6xGIQ8VQfH0la3Y3Vq4IBM) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [B.I.Y.L.C](https://open.spotify.com/album/3EJE4xPtidCgKjrJmVwIwO) | 1:36 | 2024-06-14 |  |
 | [Baby, I Had an Abortion](https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Baby](https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx) | 3:12 | 2023-03-03 | 2023-03-21 |
-| [Be Better](https://open.spotify.com/track/5vSXV3dlts6javSJCZH2iT) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Be Better](https://open.spotify.com/album/06DjLKHL3vU2hmwkgQavK2) | 2:24 | 2024-05-31 |  |
+| [Be Better](https://open.spotify.com/track/5vSXV3dlts6javSJCZH2iT) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Be Better](https://open.spotify.com/album/06DjLKHL3vU2hmwkgQavK2) | 2:24 | 2024-05-31 | 2024-06-25 |
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-23 | 2024-06-01 |
 | [BIG HIT SINGLE](https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [BIG HIT SINGLE](https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D) | 3:09 | 2023-08-23 | 2024-02-16 |
 | [Big Pharma](https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Big Pharma](https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp) | 2:46 | 2023-09-22 | 2024-06-01 |

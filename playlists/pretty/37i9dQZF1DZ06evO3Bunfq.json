@@ -1,12 +1,12 @@
 {
-  "description": "This Is Dharius. Los temas esenciales, todos en una lista.",
-  "num_followers": 106550,
+  "description": "This is Dharius. The essential tracks, all in one playlist.",
+  "num_followers": 106596,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAACJlsLwlrffyIDcTZAKSlou",
+  "snapshot_id": "ZndlgAAAAACuNKduCdeu1cUPey88K1OI",
   "tracks": [
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mision 3",
-        "url": "https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6"
+        "name": "#LQMQ",
+        "url": "https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP"
       },
       "artists": [
         {
@@ -844,17 +844,13 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         },
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Fermin IV",
-          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 282598,
-      "name": "La Mision 3",
-      "url": "https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh"
+      "duration_ms": 211440,
+      "name": "#LQMQ",
+      "url": "https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp"
     },
     {
       "added_at": null,
@@ -875,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "#LQMQ",
-        "url": "https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP"
+        "name": "La Mision 3",
+        "url": "https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6"
       },
       "artists": [
         {
@@ -884,13 +880,17 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         },
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
         }
       ],
-      "duration_ms": 211440,
-      "name": "#LQMQ",
-      "url": "https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp"
+      "duration_ms": 282598,
+      "name": "La Mision 3",
+      "url": "https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh"
     },
     {
       "added_at": null,

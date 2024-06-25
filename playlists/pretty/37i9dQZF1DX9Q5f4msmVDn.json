@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 21535,
+  "num_followers": 21545,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Nothing Can Come Between Us",
+      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Dinner Party",
         "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 179226,
       "name": "Sleepless Nights (feat. Phoelix)",
       "url": "https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Nothing Can Come Between Us",
-      "url": "https://open.spotify.com/track/2OtKvk9zsA9hbRJKMiyy3b"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -699,6 +699,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Plead The .45th",
+        "url": "https://open.spotify.com/album/1QB0b5cp5WiUxuMRqw7JeY"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 140470,
+      "name": "Plead The .45th",
+      "url": "https://open.spotify.com/track/6AwbQI2M4BYZXAE5RoxzTW"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "3.15.20",
         "url": "https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 392186,
       "name": "12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",
       "url": "https://open.spotify.com/track/011ZwIM48eD8ee2UBpG8nK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Plead The .45th",
-        "url": "https://open.spotify.com/album/1QB0b5cp5WiUxuMRqw7JeY"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 140470,
-      "name": "Plead The .45th",
-      "url": "https://open.spotify.com/track/6AwbQI2M4BYZXAE5RoxzTW"
     },
     {
       "added_at": "2022-10-01 16:00:00",

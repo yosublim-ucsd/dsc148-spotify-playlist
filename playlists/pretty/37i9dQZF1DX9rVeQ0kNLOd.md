@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,051 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,052 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 26 | [ユメのはじまり。 \- Jun Saito Remix](https://open.spotify.com/track/3iO7xENmCkZ7TTxCgGt8nJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk), [Jun Saito](https://open.spotify.com/artist/1bqPq6zml4iC1qENWKoSXr) | [ユメのはじまり。 \(Jun Saito Remix\)](https://open.spotify.com/album/2DGSE70OQLmkXcrtJFEKj3) | 4:49 |
 | 27 | [Pointless 5](https://open.spotify.com/track/2zn7qeTEsYFjVd9s9Uhrze) | [SCHA DARA PARR](https://open.spotify.com/artist/43hK0a9mmIS2ROhc0ukG7X), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Pointless 5](https://open.spotify.com/album/18AtpuxDZUVuwRk4M91IYX) | 4:18 |
 | 28 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 |
-| 29 | [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 |
+| 29 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 |
 | 30 | [うつつ](https://open.spotify.com/track/3vJCuyn9ASeiFGMR31b4Cv) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [うつつ](https://open.spotify.com/album/5u9iXFpNMg7S8mzHBlqGUi) | 3:40 |
-| 31 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 |
+| 31 | [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 |
 | 32 | [アイウタ](https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [アイウタ](https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52) | 4:52 |
 | 33 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 |
 | 34 | [Moon Dance](https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 2:47 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 37 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 |
 | 38 | [超Fresh](https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/0Ch7fs2VDUUfOUdy7PXBBS) | 2:52 |
 | 39 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 |
-| 40 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 |
-| 41 | [Sign](https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0) | [YRD Leo](https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3) | [Sign](https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP) | 2:55 |
+| 40 | [Sign](https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0) | [YRD Leo](https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3) | [Sign](https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP) | 2:55 |
+| 41 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 |
 | 42 | [Have a nice day](https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Have a nice day](https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l) | 2:55 |
 | 43 | [硝子窓](https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [硝子窓](https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG) | 3:37 |
 | 44 | [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 |

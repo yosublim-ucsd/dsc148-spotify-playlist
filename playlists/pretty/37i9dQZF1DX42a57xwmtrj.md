@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,625 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,675 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 67 | [Abuso de autoridad](https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:03 |
 | 68 | [Silvia](https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 5:36 |
 | 69 | [Alarmala De Tos](https://open.spotify.com/track/5w2jRK3JTtHT7IUxcZwn89) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:56 |
-| 70 | [Trenes Y Gatos](https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Trenes Y Gatos](https://open.spotify.com/album/1B7ZGa6Xvr4QBUs2FS5jQF) | 3:05 |
+| 70 | [Dolor de Madre](https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:15 |
 | 71 | [Tocando el Cielo](https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:35 |
-| 72 | [Dolor de Madre](https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:15 |
+| 72 | [Trenes Y Gatos](https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Trenes Y Gatos](https://open.spotify.com/album/1B7ZGa6Xvr4QBUs2FS5jQF) | 3:05 |
 | 73 | [Ha Vuelto Ya](https://open.spotify.com/track/3MTq6Gbw6pDp5NZJ0e2idG) | [Brebaje Extraño](https://open.spotify.com/artist/5dG11RSw7uCz9J4sZnCTlZ) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 4:40 |
 | 74 | [Srita Martinez Punk](https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Srita Martinez Punk](https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV) | 3:18 |
 | 75 | [Oye Cantinero](https://open.spotify.com/track/2P5ujdnvH3G4MNwWLUY129) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:42 |

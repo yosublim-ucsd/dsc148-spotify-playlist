@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,704 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,694 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 3 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 |
 | 4 | [What If I Never Get Over You](https://open.spotify.com/track/1kqVSbwdlNKsPGv0aehcAZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What If I Never Get Over You](https://open.spotify.com/album/29nEDtxAppakEN3LIDZD4a) | 3:26 |
 | 5 | [Whiskey Glasses](https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:54 |
-| 6 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 |
+| 6 | [Tequila](https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:16 |
 | 7 | [Colder Weather](https://open.spotify.com/track/1M2l9ReoabUnvl6Y8jLUe7) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [You Get What You Give \(Deluxe\)](https://open.spotify.com/album/0AXoQGOZDaYSaOo0qCTiCr) | 4:33 |
-| 8 | [Tequila](https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:16 |
+| 8 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 |
 | 9 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
 | 10 | [Every Little Thing](https://open.spotify.com/track/1Dm4iAvqwYrZjgSFJNW5TG) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing \(Big Machine Radio Release Special\)](https://open.spotify.com/album/39oSpHIfcM8sHBWh9340Aj) | 3:01 |
 | 11 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 46 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 |
 | 47 | [Blue Eyes Crying In the Rain](https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Red Headed Stranger](https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM) | 2:18 |
 | 48 | [Mercy](https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:37 |
-| 49 | [Think of You](https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:38 |
-| 50 | [Don't Close Your Eyes](https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Don't Close Your Eyes](https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ) | 4:12 |
+| 49 | [Don't Close Your Eyes](https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Don't Close Your Eyes](https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ) | 4:12 |
+| 50 | [Think of You](https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:38 |
 | 51 | [Pretty Heart](https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Pretty Heart](https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u) | 4:04 |
 | 52 | [Make You Miss Me](https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:45 |
 | 53 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |

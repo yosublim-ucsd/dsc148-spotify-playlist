@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-411 songs - 1 day 0 hr 34 min
+412 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Love at First Sight](https://open.spotify.com/track/6ua8mbyHXTHpAmGyGpFAS2) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:58 | 2022-12-28 | 2023-01-11 |
 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 | 2022-02-14 | 2022-12-28 |
 | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy \(feat\. Benny Sings\)](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 | 2022-02-14 | 2022-10-13 |
+| [Low and High](https://open.spotify.com/track/7FGtCmyeLSCGZeam6gHQl3) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Low and High](https://open.spotify.com/album/5vslcWdBXkBIQ4CLRlA74C) | 2:33 | 2024-06-21 |  |
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2023-01-10 | 2024-06-22 |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2022-02-14 | 2022-12-28 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-05-31 |  |
@@ -339,7 +340,7 @@
 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 | 2023-01-10 | 2023-03-18 |
 | [Take Me to the River](https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Al Green Explores Your Mind](https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q) | 3:45 | 2023-01-10 | 2024-03-23 |
 | [Take My Breath \- Single Version](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2022-02-14 | 2022-12-28 |
-| [Take My Heart](https://open.spotify.com/track/55Tas3fJN0ta5aVxTm2vST) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/28H39Qto0LOt4cQbc063gw) | 4:18 | 2024-04-11 |  |
+| [Take My Heart](https://open.spotify.com/track/55Tas3fJN0ta5aVxTm2vST) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/28H39Qto0LOt4cQbc063gw) | 4:18 | 2024-04-11 | 2024-06-25 |
 | [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-03-24 | 2023-06-20 |
 | [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 | 2023-06-16 | 2024-04-19 |
 | [Take Yo' Praise](https://open.spotify.com/track/2c4zwlPMc5dHS3Kg6oeUjk) | [Camille Yarbrough](https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9) | [The Iron Pot Cooker](https://open.spotify.com/album/6l2ADv76CuJhDg0gCsbSbo) | 4:13 | 2023-01-10 | 2024-05-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > The playlist version of a warm hug
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,904 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,891 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 18 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 |
 | 19 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
 | 20 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
-| 21 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
-| 22 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
+| 21 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
+| 22 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 23 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 |
 | 24 | [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:17 |
 | 25 | [505](https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 4:13 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 53 | [Real Estate](https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Real Estate](https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI) | 3:36 |
 | 54 | [I Should Go \- Solo Version](https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [I Should Go \(Solo Version\)](https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV) | 2:31 |
 | 55 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
-| 56 | [Ophelia](https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 2:40 |
-| 57 | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U) | 3:56 |
+| 56 | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U) | 3:56 |
+| 57 | [Ophelia](https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 2:40 |
 | 58 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 |
 | 59 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 |
 | 60 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 81 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 82 | [It’s Your Own Body And Mind](https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 2:27 |
 | 83 | [Rookery](https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 2:31 |
-| 84 | [Blood Wolf Moon](https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Blood Wolf Moon](https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK) | 3:00 |
+| 84 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 |
 | 85 | [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 |
-| 86 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 |
+| 86 | [Blood Wolf Moon](https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Blood Wolf Moon](https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK) | 3:00 |
 | 87 | [Last Time](https://open.spotify.com/track/63msGdgRl82cT88247E2kz) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:13 |
 | 88 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 |
 | 89 | [Last To Make It Home](https://open.spotify.com/track/3cV2LIqOuroxPnpAYsfoLq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 5:21 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 96 | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I) | 3:03 |
 | 97 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
 | 98 | [Winter Song](https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Snowfall](https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4) | 4:27 |
-| 99 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 |
-| 100 | [we’ll be fine \- acoustic](https://open.spotify.com/track/7FdvD8jMcvUW5xbxSsQTA8) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [we’ll be fine \(acoustic\)](https://open.spotify.com/album/2lzdWQWTB2ZJkfrXMiPDSC) | 4:56 |
+| 99 | [we’ll be fine \- acoustic](https://open.spotify.com/track/7FdvD8jMcvUW5xbxSsQTA8) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [we’ll be fine \(acoustic\)](https://open.spotify.com/album/2lzdWQWTB2ZJkfrXMiPDSC) | 4:56 |
+| 100 | [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 |
 
 Snapshot ID: `ZWoLtQAAAAA84oiNZIFAO6eVV4ejbXUW`

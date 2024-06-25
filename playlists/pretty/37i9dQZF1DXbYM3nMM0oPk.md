@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYM3nMM0oPk.md) - [plain]
 
 > A mega mix of 75 favorites from the last few years!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,894,896 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,896,183 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYM3nMM0oPk.md) - [plain]
 | 10 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
 | 11 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 12 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 |
-| 13 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
-| 14 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
+| 13 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
+| 14 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 | 15 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 |
 | 16 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
 | 17 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYM3nMM0oPk.md) - [plain]
 | 53 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 |
 | 54 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 |
 | 55 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
-| 56 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 |
-| 57 | [More Than You Know](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:23 |
+| 56 | [More Than You Know](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:23 |
+| 57 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 |
 | 58 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
 | 59 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 |
 | 60 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYM3nMM0oPk.md) - [plain]
 | 71 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 72 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
 | 73 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
-| 74 | [Con Calma](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) | 3:13 |
-| 75 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 |
+| 74 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 |
+| 75 | [Con Calma](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) | 3:13 |
 
 Snapshot ID: `Zk3QMAAAAAC8w+UCxKCrhNu8kYyN6I2n`

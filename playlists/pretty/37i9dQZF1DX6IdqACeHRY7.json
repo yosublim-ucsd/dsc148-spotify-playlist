@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152675,
+  "num_followers": 152668,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "In Between Minds",
-        "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 199537,
-      "name": "Things You Can't Change",
-      "url": "https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "ii",
         "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 178476,
       "name": "Thin",
       "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "In Between Minds",
+        "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 199537,
+      "name": "Things You Can't Change",
+      "url": "https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "hungover sunday",
+        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 180402,
+      "name": "hungover sunday",
+      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Still the Same (feat. Boy In Space)",
         "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 178139,
       "name": "Still the Same (feat. Boy In Space)",
       "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "hungover sunday",
-        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 180402,
-      "name": "hungover sunday",
-      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Lose You Too",
-        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 186463,
-      "name": "Lose You Too",
-      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Alice",
         "url": "https://open.spotify.com/album/1OdvrifjMehOnaJO6FgB5g"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 159680,
       "name": "Alice",
       "url": "https://open.spotify.com/track/2lXNibPcBjxEqtMfV15Mv2"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Lose You Too",
+        "url": "https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 186463,
+      "name": "Lose You Too",
+      "url": "https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/4KeIxMxenWyNIfusGxKCb7"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 201282,
       "name": "Weak - Acoustic",
       "url": "https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
-      },
-      "artists": [
-        {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "1975",
         "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 197839,
       "name": "Until The Hurting Is Gone",
       "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Hey Ya!",
-        "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
-      },
-      "artists": [
-        {
-          "name": "Maygen Lacey",
-          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
-        }
-      ],
-      "duration_ms": 214689,
-      "name": "Hey Ya! - Acoustic",
-      "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Eternal, Pt. I",
         "url": "https://open.spotify.com/album/6rRX4DYKPWgJgdo1uwDDQg"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 251800,
       "name": "Hardest Thing",
       "url": "https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Hey Ya!",
+        "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
+      },
+      "artists": [
+        {
+          "name": "Maygen Lacey",
+          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
+        }
+      ],
+      "duration_ms": 214689,
+      "name": "Hey Ya! - Acoustic",
+      "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Kuffert Fuld Af Mursten",
-        "url": "https://open.spotify.com/album/1xxuamywTKWttzz005tsPl"
-      },
-      "artists": [
-        {
-          "name": "Claus Hempler",
-          "url": "https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg"
-        }
-      ],
-      "duration_ms": 294506,
-      "name": "Op",
-      "url": "https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Mads Langer",
         "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 261586,
       "name": "Fact - Fiction",
       "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Kuffert Fuld Af Mursten",
+        "url": "https://open.spotify.com/album/1xxuamywTKWttzz005tsPl"
+      },
+      "artists": [
+        {
+          "name": "Claus Hempler",
+          "url": "https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg"
+        }
+      ],
+      "duration_ms": 294506,
+      "name": "Op",
+      "url": "https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Make Me Like You",
-        "url": "https://open.spotify.com/album/4cNiFGADyghV19D7joMGyi"
-      },
-      "artists": [
-        {
-          "name": "Tore",
-          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Make Me Like You",
-      "url": "https://open.spotify.com/track/1Mz4SyM8h4euPiyLMiJNjL"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Blame",
         "url": "https://open.spotify.com/album/6hlJSytMwlfpP4nWZrFwOX"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 176859,
       "name": "Blame",
       "url": "https://open.spotify.com/track/5JIcMwcnI4KQ3LYebICHbK"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Make Me Like You",
+        "url": "https://open.spotify.com/album/4cNiFGADyghV19D7joMGyi"
+      },
+      "artists": [
+        {
+          "name": "Tore",
+          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Make Me Like You",
+      "url": "https://open.spotify.com/track/1Mz4SyM8h4euPiyLMiJNjL"
     },
     {
       "added_at": "2024-01-12 09:52:44",

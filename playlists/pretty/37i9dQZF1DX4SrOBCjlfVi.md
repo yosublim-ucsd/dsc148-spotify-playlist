@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring GloRilla, Travis Scott, Ice Spice and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,469 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,527 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:55 |
-| 2 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:50 |
+| 2 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:51 |
 | 3 | [Phat Butt](https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Phat Butt](https://open.spotify.com/album/13lNTRScGj4CVAYszzxioi) | 2:09 |
 | 4 | [TGIF](https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF \(Alternate Versions\)](https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD) | 2:44 |
 | 5 | [Big Big Money](https://open.spotify.com/track/5OVxJ4th1sKz83BPspqMJ3) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Big Big Money](https://open.spotify.com/album/5IY4dOaBwHZB69gg0BlTDt) | 2:33 |

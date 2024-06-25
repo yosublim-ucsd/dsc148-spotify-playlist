@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Rapsody
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,648 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,619 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 43 | [Sticks & Stones](https://open.spotify.com/track/6YnVpGLg1ZWcFmWTRQkV5G) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Sticks & Stones](https://open.spotify.com/album/7mT3zLzfLOF6iIibM3a0xF) | 3:44 |
 | 44 | [DOIN GREAT](https://open.spotify.com/track/3uwTGCYleQp63OlweDUii0) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4) | [APT 6E](https://open.spotify.com/album/3HDR2DFS1a5QbC1ZnGYiZF) | 2:36 |
 | 45 | [Muggsy Bogues](https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Muggsy Bogues](https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W) | 3:20 |
-| 46 | [I Love This Feeling](https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:17 |
+| 46 | [MiNt cHoCoLaTe \(feat\. Conway the Machine\)](https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [MiNt cHoCoLaTe \(feat\. Conway The Machine\)](https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA) | 3:33 |
 | 47 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 |
-| 48 | [Oprah & Gayle \(feat\. Benny The Butcher\)](https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 5:13 |
-| 49 | [MiNt cHoCoLaTe \(feat\. Conway the Machine\)](https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [MiNt cHoCoLaTe \(feat\. Conway The Machine\)](https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA) | 3:33 |
+| 48 | [I Love This Feeling](https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:17 |
+| 49 | [Oprah & Gayle \(feat\. Benny The Butcher\)](https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 5:13 |
 | 50 | [Fight For Love](https://open.spotify.com/track/6Dq8TlPc2kJwZoh2q2zZeo) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Fight For Love](https://open.spotify.com/album/09rUxAJMutrAki1KQra5m1) | 2:56 |
 
 Snapshot ID: `ZnXFsQAAAACfBieefcG/HAK1O2X8Mbpe`

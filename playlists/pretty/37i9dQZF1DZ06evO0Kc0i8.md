@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 
 > This is Rauw Alejandro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,640 likes - 51 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,064 likes - 51 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 | 50 | [HOY AQUÍ](https://open.spotify.com/track/2jMt8GoQ4RGxAIMvWJyWeL) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:07 |
 | 51 | [Aloha](https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Aloha \(feat\. Darell, Mambo Kingz & Dj Luian\)](https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH) | 4:01 |
 
-Snapshot ID: `ZnYUAAAAAAAE3GlcljMJv01FUojch14A`
+Snapshot ID: `ZndlgAAAAABau45zn9tDrXtPjHskKWDo`

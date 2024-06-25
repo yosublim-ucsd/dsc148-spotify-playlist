@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 209680,
       "name": "A M\u00ed",
       "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
@@ -6693,6 +6693,24 @@
     },
     {
       "album": {
+        "name": "Hay Lupita",
+        "url": "https://open.spotify.com/album/7x1AOJoliyxZfhL7n6wdfQ"
+      },
+      "artists": [
+        {
+          "name": "Megan Koffe",
+          "url": "https://open.spotify.com/artist/0fNivAGcaZiBhOdNgsprar"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108855,
+      "name": "Hay Lupita",
+      "url": "https://open.spotify.com/track/5LHfb6tTLSBmM9oCnVWoPW"
+    },
+    {
+      "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
@@ -7700,7 +7718,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
@@ -10354,7 +10372,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 232131,
       "name": "MOJABI GHOST",
       "url": "https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e"
@@ -12618,7 +12636,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 185207,
       "name": "POR EL CONTRARIO (with Angela Aguilar & Leonardo Aguilar)",
       "url": "https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J"
@@ -17118,7 +17136,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 273763,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"

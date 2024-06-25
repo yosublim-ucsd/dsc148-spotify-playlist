@@ -12682,7 +12682,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 289738,
       "name": "ES EL AMOR",
       "url": "https://open.spotify.com/track/6OfZTJqKYJ4QM8WNJt0ky3"
@@ -14819,6 +14819,28 @@
     },
     {
       "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173067,
+      "name": "GIMME A SECOND",
+      "url": "https://open.spotify.com/track/0S0pOwYmfbzGgQBYnL9U1j"
+    },
+    {
+      "album": {
         "name": "Gimme A Second",
         "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
       },
@@ -15974,6 +15996,24 @@
       "duration_ms": 186000,
       "name": "Hopelessly Devoted To You",
       "url": "https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
       "album": {
@@ -17896,7 +17936,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 197186,
       "name": "La Distancia",
       "url": "https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC"
@@ -20634,7 +20674,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 333986,
       "name": "L\u2019AMOUR DE MA VIE",
       "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
@@ -22276,7 +22316,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 164565,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7vjG5IXd5ApgPTEVjo8zJu"
@@ -28164,6 +28204,24 @@
     {
       "album": {
         "name": "Pop like this Pt. 2 (Slowed)",
+        "url": "https://open.spotify.com/album/234kj0msMVe1QJN8D46ExH"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122187,
+      "name": "Pop like this Pt. 2 - Slowed",
+      "url": "https://open.spotify.com/track/2JH5P7TPQAlKDvBZAkMXDp"
+    },
+    {
+      "album": {
+        "name": "Pop like this Pt. 2 (Slowed)",
         "url": "https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x"
       },
       "artists": [
@@ -28174,7 +28232,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 122187,
       "name": "Pop like this Pt. 2 - Slowed",
       "url": "https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl"

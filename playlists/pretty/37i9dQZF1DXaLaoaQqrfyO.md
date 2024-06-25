@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 
 > Seminal indie pop tracks from the 2010s\. Cover: Blood Orange.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,932 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,941 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 53 | [Guru](https://open.spotify.com/track/1bHEcHv3lUkLFAebNnaPNE) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Coast Modern](https://open.spotify.com/album/7oU1JaPIxWfpCFyvIZyiZL) | 3:24 |
 | 54 | [The Sound](https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:08 |
 | 55 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 |
-| 56 | [Reflections](https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:06 |
-| 57 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 |
+| 56 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 |
+| 57 | [Reflections](https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:06 |
 | 58 | [Geronimo](https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) | 3:38 |
 | 59 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 60 | [Shuffle](https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:55 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 62 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 |
 | 63 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
 | 64 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
-| 65 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 |
-| 66 | [Everything Is Embarrassing](https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 4:09 |
+| 65 | [Everything Is Embarrassing](https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 4:09 |
+| 66 | [Pumpin Blood](https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [We Are Only What We Feel](https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ) | 3:29 |
 | 67 | [Inside Out](https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [They Want My Soul](https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma) | 5:01 |
-| 68 | [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 |
-| 69 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
+| 68 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
+| 69 | [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 |
 | 70 | [Trojans](https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:37 |
 | 71 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
 | 72 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 |

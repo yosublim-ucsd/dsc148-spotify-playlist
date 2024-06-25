@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Coldplay in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,629 likes - 97 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,656 likes - 97 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 4 | [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
 | 5 | [3SOME \(feat\. VillaBanks\)](https://open.spotify.com/track/4wxkiwrHy5KhV5Ob1T8RHB) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [3SOME \(feat\. VillaBanks\)](https://open.spotify.com/album/1YIIGgWV5CCDfAC7FaHy0u) | 2:02 |
 | 6 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
-| 7 | [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 |
+| 7 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
 | 8 | [100% \(feat\. Salmo\)](https://open.spotify.com/track/4Bsfr9fyqjgThu4In7RkE7) | [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [100% \(feat\. Salmo\)](https://open.spotify.com/album/3Uw4hrJI3XRv2HvChEZuTH) | 2:40 |
 | 9 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 |
 | 10 | [Heartbreaker](https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Heartbreaker](https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl) | 3:50 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 96 | [21:15](https://open.spotify.com/track/7fpxvlQ0jIKwxj2YjBLrHt) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Estate Lachea](https://open.spotify.com/album/34nhLELST3HQ6walACeSVA) | 3:05 |
 | 97 | [Little Love](https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Little Love](https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj) | 3:08 |
 
-Snapshot ID: `ZnS0rAAAAADZ9r27bIR1IJqLcc8pLwXO`
+Snapshot ID: `Znlu+AAAAACTZ641awOBb3gabd/d5spL`

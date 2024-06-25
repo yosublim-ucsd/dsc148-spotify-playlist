@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,340 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,366 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 26 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 |
 | 27 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
 | 28 | [Sorry \- Original Demo](https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:24 |
-| 29 | [Live or Die](https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [Live or Die](https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72) | 3:14 |
-| 30 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 |
+| 29 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 |
+| 30 | [Live or Die](https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [Live or Die](https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72) | 3:14 |
 | 31 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 |
 | 32 | [Aftermath](https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 7:38 |
 | 33 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 76 | [untitled \(what's it gonna be\)](https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4) | [thecolorfractal](https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ) | [untitled \(what's it gonna be\)](https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS) | 4:10 |
 | 77 | [Don’t Matter](https://open.spotify.com/track/1y2ffEt2MDA3ghGwlJYuyh) | [Lydia Lee](https://open.spotify.com/artist/3PBcsYf74HPwGgOvyUSm5F) | [The House That I Live In](https://open.spotify.com/album/0rNvPsTkfRZap56kUJwnML) | 3:02 |
 | 78 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 |
-| 79 | [Love Hope Change](https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [1995](https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l) | 4:41 |
-| 80 | [WINE](https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR) | [via.](https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5) | [WINE](https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy) | 2:56 |
+| 79 | [WINE](https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR) | [via.](https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5) | [WINE](https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy) | 2:56 |
+| 80 | [Love Hope Change](https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [1995](https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l) | 4:41 |
 | 81 | [Sweet Love](https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Basement Grooves](https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6) | 2:49 |
 | 82 | [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 |
 | 83 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 90 | [NOT TOO DEEP \(feat\. 6LACK\)](https://open.spotify.com/track/2u925ft5mxwxYLhMQ7Sr72) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [NOT TOO DEEP \(feat\. 6LACK\)](https://open.spotify.com/album/7vunoY8kfwitFWcNaPzqNj) | 4:48 |
 | 91 | [April Smile](https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX) | [FLORA](https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ) | [Ambivalence](https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd) | 3:45 |
 | 92 | [Toxic](https://open.spotify.com/track/6XVFBGAl2x343DCADmkbey) | [hohoman16](https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk), [Isla K](https://open.spotify.com/artist/0BtSuJKKjzsal6MQSwHN3A) | [Toxic](https://open.spotify.com/album/058XNBEpDC6ZGw518wt52d) | 3:52 |
-| 93 | [Cinema](https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cinema](https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9) | 2:59 |
-| 94 | [leave before u do](https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [leave before u do](https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh) | 3:02 |
+| 93 | [leave before u do](https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [leave before u do](https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh) | 3:02 |
+| 94 | [Cinema](https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cinema](https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9) | 2:59 |
 | 95 | [Drive](https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Drive](https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19) | 3:10 |
 | 96 | [Chill](https://open.spotify.com/track/6o0PuBbbFNdnkKVJEQ3G6Y) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Chill](https://open.spotify.com/album/6eDc1WXXQhsyvRgb3DduaR) | 4:03 |
 | 97 | [I.L.Y.M](https://open.spotify.com/track/6CadGoWxbIJLMBqQFgaQgL) | [YQ](https://open.spotify.com/artist/0YWzXzsfIPLUESrRyfXUyU) | [I.L.Y.M](https://open.spotify.com/album/1EHgOnmck78P8JwEOouH6G) | 3:18 |

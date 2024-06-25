@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica con Lomiiel.
 
-901 songs - 2 day 1 hr 46 min
+902 songs - 2 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,6 +614,7 @@
 | [Ojos Rojos](https://open.spotify.com/track/4VPy47N8wjUX322qIoXFn2) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ojos Rojos](https://open.spotify.com/album/3hn2WMNhyJA8mbdeTM40QD) | 2:32 | 2022-02-04 | 2022-04-16 |
 | [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 | 2023-11-10 |  |
 | [Onana](https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Onana](https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP) | 2:08 | 2023-08-18 | 2023-10-14 |
+| [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-06-24 |  |
 | [Otro](https://open.spotify.com/track/2VZmXemWIKoKxJjbA2WHJE) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Otro](https://open.spotify.com/album/0eGqUAZJxkm2QJkZx9iXpp) | 3:28 | 2022-02-04 | 2022-03-18 |
 | [Pa Casa](https://open.spotify.com/track/6GBIsXkI1ketoQpY7GBuj6) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Pa Casa](https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4) | 3:28 | 2023-09-21 | 2023-10-24 |
 | [Pa Co](https://open.spotify.com/track/4kiTIRY4o3o9on5oYV584L) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Pa Co](https://open.spotify.com/album/3ZQtUvAOU2mPqkIcYty9GI) | 3:40 | 2022-03-11 | 2022-09-03 |
@@ -901,7 +902,7 @@
 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 | 2023-01-10 | 2023-06-24 |
 | [Yankee 150](https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Yankee 150](https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F) | 4:02 | 2023-06-23 | 2023-12-08 |
 | [YO AK](https://open.spotify.com/track/5ktB9kTVHGFSMdJ2G0WdhN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:25 | 2024-01-19 | 2024-03-23 |
-| [YO LO SOÑÉ](https://open.spotify.com/track/1NTluDanyn4ET8RTYi0H1I) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [YO LO SOÑÉ](https://open.spotify.com/album/1Ou15E6Sw869LfoFGBZMBx) | 2:55 | 2024-05-22 |  |
+| [YO LO SOÑÉ](https://open.spotify.com/track/1NTluDanyn4ET8RTYi0H1I) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [YO LO SOÑÉ](https://open.spotify.com/album/1Ou15E6Sw869LfoFGBZMBx) | 2:55 | 2024-05-22 | 2024-06-25 |
 | [Yo Quiero](https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Yo Quiero](https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528) | 3:29 | 2022-05-13 | 2022-09-03 |
 | [YO TENGO UN NOVIO](https://open.spotify.com/track/3iUHatOlJklHFQhRQjk27h) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [YO TENGO UN NOVIO](https://open.spotify.com/album/4qX93EQMuPQBxXsWhKyB1k) | 2:24 | 2023-12-22 | 2024-01-20 |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-02-25 | 2022-12-01 |

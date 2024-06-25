@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,816 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,885 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 14 | [How to Save a Life \- Live in NYC \- 2009](https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Live From Soho](https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq) | 4:50 |
 | 15 | [Ghost \- Acoustic](https://open.spotify.com/track/23SVad8eDBAtoCFgF8vOFl) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Ghost](https://open.spotify.com/album/2fOrhbh7CVDA44Hld9WIfX) | 4:29 |
 | 16 | [Talihina Sky \- Acoustic Version](https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Talihina Sky](https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG) | 3:26 |
-| 17 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
-| 18 | [It's Been Awhile \- Acoustic](https://open.spotify.com/track/3QcDpzfdr3wSmap8SA14DJ) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 4:30 |
+| 17 | [It's Been Awhile \- Acoustic](https://open.spotify.com/track/3QcDpzfdr3wSmap8SA14DJ) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 4:30 |
+| 18 | [Sorry \- Acoustic](https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:34 |
 | 19 | [Control \- Acoustic Version](https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 4:07 |
 | 20 | [Boxes \- Acoustic](https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Boxes \(Acoustic\)](https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK) | 4:22 |
 | 21 | [Island in the Sun \- Live from Spotify NYC](https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Spotify Sessions](https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T) | 3:44 |

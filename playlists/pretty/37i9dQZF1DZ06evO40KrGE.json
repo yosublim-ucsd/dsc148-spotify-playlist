@@ -1,12 +1,12 @@
 {
-  "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 33992,
+  "description": "This is Cassiane. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 33997,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAABx0Vu3QsRKb+vnbwNJ/ni/",
+  "snapshot_id": "ZndlgAAAAADeCmAKyO0nN5XfzLdSqyjS",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peregrino (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 330220,
+      "name": "Peregrino - Ao vivo",
+      "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Segredo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 215063,
       "name": "Basta Uma Palavra",
       "url": "https://open.spotify.com/track/2ayGHwGSw6y3Nvcmvy5MG5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peregrino (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
-      },
-      "artists": [
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 330220,
-      "name": "Peregrino - Ao vivo",
-      "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
     },
     {
       "added_at": null,
@@ -655,6 +655,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 446937,
+      "name": "O Abra\u00e7o do Noivo",
+      "url": "https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Ele Tem Poder",
+      "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -679,38 +711,6 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Ele Tem Poder",
-      "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sementes da F\u00e9",
-        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 446937,
-      "name": "O Abra\u00e7o do Noivo",
-      "url": "https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Rashid\. Todos os maiores hits em uma só playlist.
 
-66 songs - 4 hr 40 min
+67 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Idas e Vindas](https://open.spotify.com/track/4Y6MdVgOnurwvWIDNjlNKh) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Idas e Vindas](https://open.spotify.com/album/3qEeYYqHLCt9zzu2qil1bZ) | 3:36 | 2024-03-17 | 2024-05-15 |
 | [Interior \(feat\. Rapadura\)](https://open.spotify.com/track/4CHH0nG7OthqoT6U07s1B8) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Rapadura](https://open.spotify.com/artist/4A1cX2TiUVTIaJMdWgpm4j) | [Interior \(feat\. Rapadura\)](https://open.spotify.com/album/6nklPfPkWzG6XZHfeMdIWM) | 4:39 | 2023-09-18 | 2024-05-20 |
 | [Jogo Sério](https://open.spotify.com/track/1FoH0gEY1wdAyF7I1f0TSE) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Marissol Mwaba](https://open.spotify.com/artist/3lQz5wScc7Njw8d2nLD88A) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:03 | 2023-09-18 |  |
-| [Laranja Mecânica \(feat\. Xênia França\)](https://open.spotify.com/track/5vE1nlg6T3641s1yGpWIXv) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 3:05 | 2023-09-18 |  |
+| [Laranja Mecânica \(feat\. Xênia França\)](https://open.spotify.com/track/5vE1nlg6T3641s1yGpWIXv) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [A Coragem da Luz](https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl) | 3:05 | 2023-09-18 | 2024-06-25 |
 | [Linha De Frente](https://open.spotify.com/track/4ASow1CEoS3GQ1zOiQCViB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Amiri](https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 5:03 | 2023-09-18 |  |
 | [Linhas Inimigas](https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Hora de Acordar](https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS) | 2:42 | 2023-09-18 |  |
 | [Língua dos Campeões](https://open.spotify.com/track/0Uq6l0gRWpsUzoDPklSPmp) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Sir Scratch](https://open.spotify.com/artist/5rvP5KtLM6n8xOUDqhmq4i) | [Língua dos Campeões](https://open.spotify.com/album/4gNx3oF9mLwt04CITND7ge) | 7:44 | 2023-09-18 |  |
@@ -73,6 +73,7 @@
 | [Ver Em Cores](https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:03 | 2023-09-18 |  |
 | [Virando a Mesa](https://open.spotify.com/track/2utZpgJA3ajxmGpJ8TOSUR) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Daniel Cohen](https://open.spotify.com/artist/0vEWuXIn1tvEEVNTL0pgSP) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 4:21 | 2023-09-18 |  |
 | [Vício](https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:55 | 2023-09-18 |  |
+| [¿Te Quedas Conmigo?](https://open.spotify.com/track/623XPwxBQuqKe7YPwYrQl0) | [Canal RCN](https://open.spotify.com/artist/1H4lcG48Xmqp5SmFwgwuYL), [Ailén](https://open.spotify.com/artist/6EBltB8KhOI3eluJ5pR8kM), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [ROJO CARMESÍ](https://open.spotify.com/album/5Vga0Q1mohQ81WLTaWTHQj) | 2:29 | 2024-06-25 |  |
 | [Éramos Iguais \(feat\. Daniela Araújo & Rashid\)](https://open.spotify.com/track/27YVyh5IDUSnjC23NlUfOw) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Boaz Novaz](https://open.spotify.com/album/1POssn3x8pJZztmDsUFXUM) | 4:27 | 2023-09-18 | 2023-11-11 |
 
 \*This playlist was first scraped on 2023-09-19. Prior content cannot be recovered.

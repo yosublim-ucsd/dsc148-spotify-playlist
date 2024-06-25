@@ -1,6 +1,6 @@
 {
   "description": "I can buy my own flowers ",
-  "num_followers": 3917647,
+  "num_followers": 3918334,
   "original_name": "Confidence Boost",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 236413,
       "name": "Don\u2019t Blame Me",
       "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -291,34 +291,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "The Man",
-      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
+      "duration_ms": 251240,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -339,18 +323,34 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 251240,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+      "duration_ms": 190360,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "PRISM (Deluxe)",
-        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 187107,
-      "name": "2 Be Loved (Am I Ready)",
-      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "I AM WOMAN",
-        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
       "artists": [
         {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 232813,
-      "name": "I AM WOMAN",
-      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
+      "duration_ms": 187107,
+      "name": "2 Be Loved (Am I Ready)",
+      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1119,6 +1103,22 @@
       "duration_ms": 175934,
       "name": "Victoria's Secret",
       "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "I AM WOMAN",
+        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "I AM WOMAN",
+      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Reasonable Woman",
         "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 199947,
       "name": "Immortal Queen (feat. Chaka Khan)",
       "url": "https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
       "added_at": "2024-06-21 04:00:00",

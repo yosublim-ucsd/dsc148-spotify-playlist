@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
-  "num_followers": 461056,
+  "num_followers": 461051,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "You Don't Know How It Feels",
+        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 222008,
+      "name": "You Don't Know How It Feels",
+      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "The Covers",
         "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 196537,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "You Don't Know How It Feels",
-        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 222008,
-      "name": "You Don't Know How It Feels",
-      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Unknown Legend",
         "url": "https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 248360,
       "name": "Unknown Legend",
       "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1155,6 +1155,22 @@
       "duration_ms": 167186,
       "name": "The Age Of Worry",
       "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Reason to Believe (feat. Courtney Barnett)",
         "url": "https://open.spotify.com/album/3XS1FYnvexIhkkkLEkaEMX"
       },
@@ -1559,42 +1559,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Jeff Tweedy",
-          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
-        }
-      ],
-      "duration_ms": 251057,
-      "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/351445Kofxc3BN2T27beOv"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "By Your Side / Landslide",
-        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "All The Good Times",
         "url": "https://open.spotify.com/album/0JgpOuuz9D8eH50iZomnvD"
       },
@@ -1611,6 +1575,42 @@
       "duration_ms": 212308,
       "name": "Jackson",
       "url": "https://open.spotify.com/track/3Vk2sEPrkjZeQWLTAhi6JM"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Alynda Segarra",
+          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
+        }
+      ],
+      "duration_ms": 239299,
+      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "By Your Side / Landslide",
+        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Alynda Segarra",
-          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Little Hands",
         "url": "https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 174773,
       "name": "i'm not okay",
       "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+        }
+      ],
+      "duration_ms": 251057,
+      "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/351445Kofxc3BN2T27beOv"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Isumagijunnaitaungituq (The Unforgiven)",
+        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "Isumagijunnaitaungituq (The Unforgiven)",
+      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Down in the Willow Garden (with Rufus Wainwright) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/5cHVlOYT8jKqo3VFIUkTRz"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 208532,
       "name": "Down in the Willow Garden (with Rufus Wainwright) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/7cEHxL9EDU14gpH8UhEM1k"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Isumagijunnaitaungituq (The Unforgiven)",
-        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 273997,
-      "name": "Isumagijunnaitaungituq (The Unforgiven)",
-      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
     },
     {
       "added_at": "2024-06-07 04:00:00",

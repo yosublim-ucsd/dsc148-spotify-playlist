@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-441 songs - 1 day 3 hr 12 min
+442 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Moonlite](https://open.spotify.com/track/5uzmg0ccdavfs2rtoHI6e2) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:53 | 2022-12-09 | 2023-03-23 |
 | [Moonlite](https://open.spotify.com/track/6exsN25IteWAKEIJPVvoZ8) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3) | 3:53 | 2022-02-17 | 2022-11-20 |
 | [Moved by Performance](https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Moved by Performance](https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn) | 2:38 | 2023-09-08 |  |
+| [Moving On](https://open.spotify.com/track/2wExC8c09iNVaoVPuu99Ah) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Moving on](https://open.spotify.com/album/6jUvo7NlpBWMVUyCPmBqto) | 2:34 | 2024-06-17 |  |
 | [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-03-20 |  |
 | [My Favorite Things](https://open.spotify.com/track/7BhHAftdMM9EtmxkOQflHO) | [Onyx Collective](https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf) | [Manhattan Special](https://open.spotify.com/album/5WAIQrdBswl6U8nFlAw6US) | 5:01 | 2022-02-17 | 2022-04-22 |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2023-03-20 |  |
@@ -432,7 +433,7 @@
 | [When Your Lover Has Gone](https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 2:11 | 2022-02-17 | 2023-02-02 |
 | [Where is Jack?](https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Where is Jack?](https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S) | 3:35 | 2023-05-04 | 2024-02-07 |
 | [Where or When](https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Where or when](https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA) | 3:28 | 2023-12-22 |  |
-| [Wichita Lineman](https://open.spotify.com/track/60R7wUAF8IQsVZkyCLN5Sf) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Wichita Lineman](https://open.spotify.com/album/7b9qEu6B0zrQUc8wexkYC0) | 5:07 | 2023-05-04 |  |
+| [Wichita Lineman](https://open.spotify.com/track/60R7wUAF8IQsVZkyCLN5Sf) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Wichita Lineman](https://open.spotify.com/album/7b9qEu6B0zrQUc8wexkYC0) | 5:07 | 2023-05-04 | 2024-06-25 |
 | [Widest Possible Aperture](https://open.spotify.com/track/7xRIniTEZ6rSosznsSrY7a) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [Where the Streets Lead](https://open.spotify.com/album/1AHYZ7pgGuiq1t7YFScrzL) | 5:55 | 2022-02-17 | 2023-02-16 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2023-03-20 | 2023-04-14 |
 | [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-27 |  |

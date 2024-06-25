@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKdpN2FAbcN.md) - [plain]
 
 > When you're thinking of the one who gives you the butterflies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,861 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,027 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKdpN2FAbcN.md) - [plain]
 | 15 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 |
 | 16 | [LOVE\. FEAT\. ZACARI.](https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:33 |
 | 17 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
-| 18 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
-| 19 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
+| 18 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
+| 19 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
 | 20 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 21 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 |
 | 22 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 |

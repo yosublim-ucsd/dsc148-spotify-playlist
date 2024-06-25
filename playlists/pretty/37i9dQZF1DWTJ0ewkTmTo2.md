@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 
 > Get ready to sing your hearts out with these family friendly road trip classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,866 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,043 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 | 47 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
 | 48 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 49 | [Help! \- Remastered 2009](https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:19 |
-| 50 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 |
-| 51 | [Thank God I'm a Country Boy](https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:13 |
+| 50 | [Thank God I'm a Country Boy](https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:13 |
+| 51 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 |
 | 52 | [I Want It That Way](https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The Hits\-\-Chapter One](https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r) | 3:33 |
 | 53 | [All For You](https://open.spotify.com/track/2skmOCFU64Bg7Ytkgwliwe) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [...Somewhere More Familiar](https://open.spotify.com/album/2lHGAzINLOdD0505xdjpyZ) | 3:38 |
 | 54 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
-| 55 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
-| 56 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 |
+| 55 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 |
+| 56 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
 | 57 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 |
 | 58 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
 | 59 | [Drive My Car \- Remastered 2009](https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:28 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 | 69 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
 | 70 | [Wouldn't It Be Nice \- Remastered 1999](https://open.spotify.com/track/0cx32rX0uZvcJUP92Wkj2y) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys Love Songs](https://open.spotify.com/album/4NnBDxnxiiXiMlssBi9Bsq) | 2:25 |
 | 71 | [On the Road Again](https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Forrest Gump \- The Soundtrack](https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk) | 2:28 |
-| 72 | [I Don't Want to Be](https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:37 |
-| 73 | [Send Me On My Way](https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [The Best Of / 20th Century Masters The Millennium Collection](https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR) | 4:21 |
+| 72 | [Send Me On My Way](https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [The Best Of / 20th Century Masters The Millennium Collection](https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR) | 4:21 |
+| 73 | [I Don't Want to Be](https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:37 |
 | 74 | [Everyday Is A Winding Road](https://open.spotify.com/track/0t6DAi9KEiaWOtgTTXGhD2) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb) | 4:16 |
 | 75 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/6yEAAIEHu4GcUFptg5W9kI) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [The Breakfast Club](https://open.spotify.com/album/2yrEJ5xNvTdEEFuTtcku9M) | 4:20 |
 | 76 | [One Way Or Another](https://open.spotify.com/track/3DiRdaZtPrVdb4U2RIuRWm) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 3:28 |
 | 77 | [Rainbow Connection](https://open.spotify.com/track/1SJ4ycWow4yz6z4oFz8NAG) | [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu) | [The Muppets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50) | 3:08 |
-| 78 | [Life is a Highway \- From "Cars"](https://open.spotify.com/track/5YbeJyTQkdSAWe1Ie4sLAl) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Disney/Pixar Greatest](https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv) | 4:36 |
-| 79 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/3vhJw6V39Gh1PpEMHjiMFO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 3:31 |
+| 78 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/3vhJw6V39Gh1PpEMHjiMFO) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 3:31 |
+| 79 | [Life is a Highway \- From "Cars"](https://open.spotify.com/track/5YbeJyTQkdSAWe1Ie4sLAl) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Disney/Pixar Greatest](https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv) | 4:36 |
 | 80 | [Tubthumping](https://open.spotify.com/track/2JLRcAkPB8JZIIohZarVTr) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [All\-Star Sports Jams](https://open.spotify.com/album/79sAKFjr7TWKw6A94kBKPL) | 3:32 |
 
 Snapshot ID: `Zld2ZAAAAABveM5yWniCP3yES2BeJeCf`

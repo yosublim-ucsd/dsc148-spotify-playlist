@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,288 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,286 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 67 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
 | 68 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |
 | 69 | [Where Do I Go](https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [Where Do I Go](https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg) | 3:10 |
-| 70 | [my forever](https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [my forever](https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U) | 3:22 |
-| 71 | [Moonlight](https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Moonlight](https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN) | 3:59 |
+| 70 | [Moonlight](https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Moonlight](https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN) | 3:59 |
+| 71 | [my forever](https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [my forever](https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U) | 3:22 |
 | 72 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 |
 | 73 | [i do luv u](https://open.spotify.com/track/6LCSYQNqqXMVNWPoc2q8UE) | [okayceci](https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P) | [i do luv u](https://open.spotify.com/album/0iKoqsa9BNBqIl1yNOTe9u) | 2:28 |
-| 74 | [Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Baby Baby](https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9) | 3:01 |
-| 75 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 |
+| 74 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 |
+| 75 | [Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Baby Baby](https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9) | 3:01 |
 | 76 | [July](https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [July](https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9) | 3:13 |
 | 77 | [Little One](https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Little One](https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t) | 3:37 |
 | 78 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 |
@@ -92,14 +92,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 82 | [Nothing 2 See](https://open.spotify.com/track/39LBUI8lG3pjn83ovYdjGv) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Nothing 2 See](https://open.spotify.com/album/6TgkkyqFf6xihTl96kmUN9) | 3:40 |
 | 83 | [distance](https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [distance](https://open.spotify.com/album/14zPJo0XCQPwifvjqjjHTL) | 3:04 |
 | 84 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
-| 85 | [Rendezvous](https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Rendezvous](https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl) | 3:12 |
-| 86 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
+| 85 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
+| 86 | [Rendezvous](https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Rendezvous](https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl) | 3:12 |
 | 87 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 |
 | 88 | [Nothing Lasts](https://open.spotify.com/track/2uwscEwG2u0rDYTGSvxrWu) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 2:36 |
 | 89 | [Every Little Thing](https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [Every Little Thing](https://open.spotify.com/album/34K60NEpcRkB52CnUhucGH) | 3:28 |
 | 90 | [Really good cry](https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [garage sale](https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP) | 1:54 |
-| 91 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 |
-| 92 | [another day](https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [another day](https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym) | 2:09 |
+| 91 | [another day](https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [another day](https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym) | 2:09 |
+| 92 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 |
 | 93 | [Off and On](https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Off and On](https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU) | 4:10 |
 | 94 | [NIGHTTIME](https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [NIGHTTIME](https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y) | 2:27 |
 | 95 | [What Should I Do?](https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [What Should I Do?](https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr) | 3:03 |

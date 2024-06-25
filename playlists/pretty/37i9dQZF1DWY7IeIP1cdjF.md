@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Cris MJ, Bad Bunny, Feid, Anitta and more.🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,791,775 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,792,092 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,173 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,141 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 54 | [You Will Be Found \(with Summer Walker\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [You Will Be Found \(with Summer Walker\) \[From The “Dear Evan Hansen” Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf) | 3:57 |
 | 55 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 |
 | 56 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 |
-| 57 | [Please Don't Fall In Love With Me \- Live](https://open.spotify.com/track/0yzVN5F03qzQ9zs8t60H7m) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/1UiyDtsYD5kOd8gPjEINbw) | 3:29 |
-| 58 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 |
+| 57 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 |
+| 58 | [Please Don't Fall In Love With Me \- Live](https://open.spotify.com/track/0yzVN5F03qzQ9zs8t60H7m) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/1UiyDtsYD5kOd8gPjEINbw) | 3:29 |
 | 59 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 |
 | 60 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 |
 | 61 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 71 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 |
 | 72 | [Somewhere Only We Know](https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Somewhere Only We Know](https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv) | 3:28 |
 | 73 | [Finally // beautiful stranger](https://open.spotify.com/track/5YvcUK2eXJ2OllqDuEg18S) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Finally // beautiful stranger](https://open.spotify.com/album/30MFzDqEWHe5v0XUsGGUJF) | 3:41 |
-| 74 | [A Gente Só Conhece Quando Termina](https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [A Gente Só Conhece Quando Termina](https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT) | 2:36 |
-| 75 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
+| 74 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
+| 75 | [A Gente Só Conhece Quando Termina](https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [A Gente Só Conhece Quando Termina](https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT) | 2:36 |
 | 76 | [I Follow](https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [I Follow](https://open.spotify.com/album/49Odx8cys3L27jGmwFMQT6) | 2:49 |
 | 77 | [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 |
 | 78 | [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 95 | [would you love me now?](https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [would you love me now?](https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw) | 3:25 |
 | 96 | [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 |
 | 97 | [With You](https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:43 |
-| 98 | [Outro Alguém \- Ao Vivo](https://open.spotify.com/track/64yBHtShxbb2ULPhakxsJv) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [LAGUM AO VIVO](https://open.spotify.com/album/5A0jHf8QLPjqBEut4WE4ch) | 2:38 |
-| 99 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
-| 100 | [Sobre Viver \(Ao Vivo\)](https://open.spotify.com/track/4EafTAo5ynqItcWzolwVZc) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Sobre Viver \(Ao Vivo\)](https://open.spotify.com/album/3sNC7VMIfilI4Ri1goQXug) | 3:06 |
+| 98 | [Sobre Viver \(Ao Vivo\)](https://open.spotify.com/track/4EafTAo5ynqItcWzolwVZc) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Sobre Viver \(Ao Vivo\)](https://open.spotify.com/album/3sNC7VMIfilI4Ri1goQXug) | 3:06 |
+| 99 | [Outro Alguém \- Ao Vivo](https://open.spotify.com/track/64yBHtShxbb2ULPhakxsJv) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [LAGUM AO VIVO](https://open.spotify.com/album/5A0jHf8QLPjqBEut4WE4ch) | 2:38 |
+| 100 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 
 Snapshot ID: `ZmuiswAAAAARPxqggRsJtosNuy6rytcc`

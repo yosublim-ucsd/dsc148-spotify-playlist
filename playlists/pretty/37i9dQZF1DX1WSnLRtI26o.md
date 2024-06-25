@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 
 > Let your favorite pop guide you through your daily commute! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,081 likes - 194 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,075 likes - 194 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 | 150 | [Counting Stars](https://open.spotify.com/track/0gWqlhTvn7XbkseUhKA3bl) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native \(Deluxe\)](https://open.spotify.com/album/7bWzSwx1PRiZjfjhaB8BjZ) | 4:17 |
 | 151 | [Honey In The Summer](https://open.spotify.com/track/69KERH8EU5P2VwxWlmOVcU) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Honey In The Summer](https://open.spotify.com/album/4vZYGQJhnkjfludP1dDZ1s) | 3:20 |
 | 152 | [Hard Times](https://open.spotify.com/track/5hHudNsfZXmdgefWxAX2LG) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Hard Times](https://open.spotify.com/album/7IefnE4Gu6Vwp6wayHxV40) | 3:02 |
-| 153 | [Hurt Somebody](https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 2:48 |
-| 154 | [If You Love Someone](https://open.spotify.com/track/6JvrOdeiEqWyCta29Xc4mR) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Veronicas](https://open.spotify.com/album/2zzBNay9x9XyCmk5SzesAD) | 3:00 |
+| 153 | [If You Love Someone](https://open.spotify.com/track/6JvrOdeiEqWyCta29Xc4mR) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Veronicas](https://open.spotify.com/album/2zzBNay9x9XyCmk5SzesAD) | 3:00 |
+| 154 | [Hurt Somebody](https://open.spotify.com/track/7apizLyhMRutg3ccXvr2qv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 2:48 |
 | 155 | [Nobody Love](https://open.spotify.com/track/7fpU0bRJt0SDC8jIgVpbT6) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:23 |
 | 156 | [Trust My Lonely](https://open.spotify.com/track/7eXT7U3FKrOM88xr1DsNwc) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:19 |
 | 157 | [When The Lights Go Out](https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:18 |

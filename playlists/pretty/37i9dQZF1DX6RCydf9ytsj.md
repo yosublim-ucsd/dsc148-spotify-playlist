@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,472 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,635 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,17 +143,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 133 | [If It Don't Come Easy](https://open.spotify.com/track/3YuCV1BpUaitv016B5Lpcu) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Greatest Hits](https://open.spotify.com/album/1YRCRPM4KO5aYfg8LWPw9Z) | 3:28 |
 | 134 | [C.C\. Waterback](https://open.spotify.com/track/1MQYA59Whe8zRBnGqgAvMP) | [George Jones](https://open.spotify.com/artist/4w3SbKx9G1XOV8TeMOEmTi), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [His Epic Hits](https://open.spotify.com/album/2PTryP6kpdTQ19gRluZcHB) | 3:35 |
 | 135 | [Do You Wanna Go to Heaven](https://open.spotify.com/track/27QrAETf4eB2J533ktttTw) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Super Hits](https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu) | 3:10 |
-| 136 | [Step That Step](https://open.spotify.com/track/4p0WEALPRSImOlp0glMiDM) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Best Of](https://open.spotify.com/album/0xo3FuNk8I8IUkJbXIrWam) | 2:49 |
-| 137 | [I Can Tell By the Way You Dance](https://open.spotify.com/track/6m7HjxgVcktBJIwOBG8r4F) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [The Voice Box, Vol\. 1](https://open.spotify.com/album/5lwZGEP2HPLUrByMANLyA7) | 2:41 |
+| 136 | [I Can Tell By the Way You Dance](https://open.spotify.com/track/6m7HjxgVcktBJIwOBG8r4F) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [The Voice Box, Vol\. 1](https://open.spotify.com/album/5lwZGEP2HPLUrByMANLyA7) | 2:41 |
+| 137 | [Step That Step](https://open.spotify.com/track/4p0WEALPRSImOlp0glMiDM) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Best Of](https://open.spotify.com/album/0xo3FuNk8I8IUkJbXIrWam) | 2:49 |
 | 138 | [Got No Reason Now For Goin' Home](https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Best Of Gene Watson](https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J) | 2:44 |
 | 139 | [We Believe In Happy Endings \(with Emmylou Harris\)](https://open.spotify.com/track/7sEmUltyPUy9v2Of7Whzpy) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [The Heart of It All](https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG) | 3:35 |
-| 140 | [I Know How He Feels](https://open.spotify.com/track/663cPxUHnCzvboxjGgvIoT) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Reba](https://open.spotify.com/album/5efZ49lsxMlKnJ5abphtMr) | 3:20 |
-| 141 | [Crackers \- Single Version](https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Love Is Fair](https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy) | 2:34 |
+| 140 | [Crackers \- Single Version](https://open.spotify.com/track/3VSkgyqT0jkV68t5QCX8iQ) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Love Is Fair](https://open.spotify.com/album/6sVMfY88I8a7xkmSaXCruy) | 2:34 |
+| 141 | [I Know How He Feels](https://open.spotify.com/track/663cPxUHnCzvboxjGgvIoT) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Reba](https://open.spotify.com/album/5efZ49lsxMlKnJ5abphtMr) | 3:20 |
 | 142 | [\(That's What You Do\) When You're in Love](https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 3:04 |
 | 143 | [I Loved 'Em Every One](https://open.spotify.com/track/4td6tN1J2QlESZyUhlD77m) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Super Hits](https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu) | 3:40 |
 | 144 | [My Baby's Got Good Timing](https://open.spotify.com/track/4F2JyLPNoCIUshjktmHxCN) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi) | [The Very Best Of Dan Seals](https://open.spotify.com/album/0a6aMfflvm0xFsaa2ZEqSC) | 3:29 |
-| 145 | [Give Me One More Chance](https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Kentucky Hearts](https://open.spotify.com/album/0lNKmPEUsnsrVc4vLSnd0x) | 2:48 |
-| 146 | [Dim Lights, Thick Smoke \(And Loud, Loud Music\)](https://open.spotify.com/track/06ziqwxm8aiNcxr3f5FBHl) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [The Truly Great Hits](https://open.spotify.com/album/4ygIRvkTyFylbFFzwfE47N) | 3:29 |
+| 145 | [Dim Lights, Thick Smoke \(And Loud, Loud Music\)](https://open.spotify.com/track/06ziqwxm8aiNcxr3f5FBHl) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [The Truly Great Hits](https://open.spotify.com/album/4ygIRvkTyFylbFFzwfE47N) | 3:29 |
+| 146 | [Give Me One More Chance](https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Kentucky Hearts](https://open.spotify.com/album/0lNKmPEUsnsrVc4vLSnd0x) | 2:48 |
 | 147 | [Takin' It Easy](https://open.spotify.com/track/11enveFO56ghu7Az89ekd3) | [Lacy J\. Dalton](https://open.spotify.com/artist/3JTFILRsbbqmkb740jjT0l) | [Takin' It Easy](https://open.spotify.com/album/2emdvvcPKBgIMCJkA4nzZa) | 3:28 |
 | 148 | [Only One You](https://open.spotify.com/track/36V6Cb9DjnxlVNqqgD5piw) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Super Hits](https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu) | 3:22 |
 | 149 | [Midnight Hauler](https://open.spotify.com/track/2DUQArE0TjVva28RDgdYI2) | [Razzy Bailey](https://open.spotify.com/artist/7j0u9yPUVMa70NyhpdHfP4) | [The Essential Razzy Bailey \- The RCA Years](https://open.spotify.com/album/5T392YQtk3fPok4VkPYgxd) | 3:08 |

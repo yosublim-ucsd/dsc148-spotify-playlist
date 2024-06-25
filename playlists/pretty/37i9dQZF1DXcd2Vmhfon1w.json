@@ -1,37 +1,13 @@
 {
   "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Jarfaiter, Dollar Selmouni",
-  "num_followers": 522270,
+  "num_followers": 522318,
   "original_name": "Rap Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnSmYAAAAABHvyK/R4fPTz+BoW6pTHwh",
+  "snapshot_id": "Znk1oAAAAAAZ7CwJ1P+vX5wE1ikjRF00",
   "tracks": [
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Te Perdone Dios",
-        "url": "https://open.spotify.com/album/3iRF2179lMI4Ae9WRUlNrN"
-      },
-      "artists": [
-        {
-          "name": "Jarfaiter",
-          "url": "https://open.spotify.com/artist/7hqwOMu222wUGHIzm49sJk"
-        },
-        {
-          "name": "Dollar Selmouni",
-          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
-        },
-        {
-          "name": "Kvinz",
-          "url": "https://open.spotify.com/artist/19ALJ3xMGruS0w9Qc4Lvtp"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Te Perdone Dios",
-      "url": "https://open.spotify.com/track/3VegaRpqoQlo7ebKnI6Ako"
-    },
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
@@ -79,22 +55,26 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "La Vida Sin Ti",
-        "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
+        "name": "Te Perdone Dios",
+        "url": "https://open.spotify.com/album/3iRF2179lMI4Ae9WRUlNrN"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Jarfaiter",
+          "url": "https://open.spotify.com/artist/7hqwOMu222wUGHIzm49sJk"
         },
         {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+          "name": "Dollar Selmouni",
+          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
+        },
+        {
+          "name": "Kvinz",
+          "url": "https://open.spotify.com/artist/19ALJ3xMGruS0w9Qc4Lvtp"
         }
       ],
-      "duration_ms": 164470,
-      "name": "La Vida Sin Ti",
-      "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
+      "duration_ms": 178775,
+      "name": "Te Perdone Dios",
+      "url": "https://open.spotify.com/track/3VegaRpqoQlo7ebKnI6Ako"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -119,6 +99,26 @@
       "duration_ms": 210600,
       "name": "Volver",
       "url": "https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "La Vida Sin Ti",
+        "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "duration_ms": 164470,
+      "name": "La Vida Sin Ti",
+      "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
     },
     {
       "added_at": "2024-06-20 22:00:00",

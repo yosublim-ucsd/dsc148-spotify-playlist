@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,532 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,523 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 44 | [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 |
 | 45 | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA) | 2:40 |
 | 46 | [One and Only](https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHO!](https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2) | 2:47 |
-| 47 | [SAINT](https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:59 |
-| 48 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 |
+| 47 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 |
+| 48 | [SAINT](https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:59 |
 | 49 | [Smoothie](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | 3:08 |
-| 50 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 |
+| 50 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
 
 Snapshot ID: `ZnUMRQAAAAAPJV5g4s78/z+uQq6X4FK0`

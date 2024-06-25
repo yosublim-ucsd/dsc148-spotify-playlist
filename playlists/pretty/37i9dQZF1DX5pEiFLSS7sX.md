@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,199 likes - 75 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,244 likes - 75 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 70 | [Oh The Wonder \(feat\. Mike Grayson\)](https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Mike Grayson](https://open.spotify.com/artist/3SyG488mo91muoIM24jHq1) | [Never Going Back](https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H) | 4:20 |
 | 71 | [Lift My Eyes](https://open.spotify.com/track/528yeDtBCd7bv0emBJIin6) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:39 |
 | 72 | [You're Making Something Beautiful \- Spontaneous/Live](https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV) | 6:23 |
-| 73 | [Abide](https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [Kingdom Culture Worship](https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk) | 7:55 |
-| 74 | [Real Thing \(feat\. Sean Curran\)](https://open.spotify.com/track/50ECBEWF5HIJ8HqJowrZir) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Real Thing \(feat\. Sean Curran\)](https://open.spotify.com/album/1NMUdbkJswMTsGVScqZcxj) | 5:56 |
+| 73 | [Real Thing \(feat\. Sean Curran\)](https://open.spotify.com/track/50ECBEWF5HIJ8HqJowrZir) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Real Thing \(feat\. Sean Curran\)](https://open.spotify.com/album/1NMUdbkJswMTsGVScqZcxj) | 5:56 |
+| 74 | [Abide](https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc) | [Kingdom Culture Worship](https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk) | 7:55 |
 | 75 | [Nothing Else / All I Need Is You \- Medley / Live](https://open.spotify.com/track/1FU3FhTkha9P7TtYqCDUdY) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [Live At Church: Mixtape Vol\. 1](https://open.spotify.com/album/5TTMY7j38aJ11kqrsZoXtC) | 11:59 |
 
 Snapshot ID: `ZnecZgAAAADk0otE5+qs8ZCMy9nLQiSK`

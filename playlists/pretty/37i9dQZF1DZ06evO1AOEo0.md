@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,078 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,087 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 25 | [Promises](https://open.spotify.com/track/4lCpzh6KbskACgEx1OAPHu) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Trenton Bell](https://open.spotify.com/artist/5erQxNPoPplRxZ7eS4c37M), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [The Worship Initiative, Vol\. 22](https://open.spotify.com/album/0CmnHXF54fEkpmW2qNwwSp) | 5:01 |
 | 26 | [Yet Not I but Through Christ in Me](https://open.spotify.com/track/1jGkQvxcRMqQf8VZhGpoNh) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bethany Barnard](https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk) | [The Worship Initiative, Vol\. 18](https://open.spotify.com/album/1cNnDUzgbdJG0i4GVrb609) | 5:52 |
 | 27 | [Great Is Thy Faithfulness](https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 6](https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw) | 4:31 |
-| 28 | [Sovereign Over Us](https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 11](https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3) | 5:48 |
-| 29 | [Before the Throne of God Above](https://open.spotify.com/track/3ELvknrrLz8QL36CeIb6Je) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 3](https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ) | 5:42 |
+| 28 | [Before the Throne of God Above](https://open.spotify.com/track/3ELvknrrLz8QL36CeIb6Je) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 3](https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ) | 5:42 |
+| 29 | [Sovereign Over Us](https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 11](https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3) | 5:48 |
 | 30 | [Breathe](https://open.spotify.com/track/3GrMFCWoIh0YHULGsAuHj0) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 5:38 |
 | 31 | [Psalm 91 \(On Eagles' Wings\)](https://open.spotify.com/track/572afBiucwePeZgB1BBRfC) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 4:04 |
 | 32 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/1zk44kfCF3DBdyrdtQg7wf) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 20](https://open.spotify.com/album/2cuCnA14duuyj2jhlIyG1p) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 49 | [Creed](https://open.spotify.com/track/4q8zQYnNqzYPaEZiBLBFgx) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Creed](https://open.spotify.com/album/6NLfzDJ2kwdpdcwldaBujR) | 5:07 |
 | 50 | [Though You Slay Me](https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Bring Your Nothing](https://open.spotify.com/album/2NsOkopEDusRSAYfXClwBa) | 4:38 |
 
-Snapshot ID: `ZnYUAAAAAAByLvuRXed+Vu2SvAx4SIG1`
+Snapshot ID: `ZndlgAAAAABifFUUwVUeB8qTmesjdEpU`

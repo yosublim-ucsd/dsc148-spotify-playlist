@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 
 > musica per quando non sai insomma come
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,957 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,954 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,19 +27,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 | 17 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
 | 18 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 |
 | 19 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 |
-| 20 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
-| 21 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 |
-| 22 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
+| 20 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 |
+| 21 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 |
+| 22 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
 | 23 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 |
 | 24 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 |
 | 25 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
-| 26 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 |
-| 27 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
-| 28 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 |
-| 29 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 |
+| 26 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 |
+| 27 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 |
+| 28 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
+| 29 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 |
 | 30 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
-| 31 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 |
-| 32 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 |
+| 31 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 |
+| 32 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 |
 | 33 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 |
 | 34 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
 | 35 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |

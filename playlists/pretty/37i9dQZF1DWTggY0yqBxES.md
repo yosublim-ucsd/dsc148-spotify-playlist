@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Ski Mask The Slump God
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,449 likes - 99 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,508 likes - 99 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Thorns](https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:10 |
+| 1 | [Misery in Waking Hours](https://open.spotify.com/track/2eZbaxXxKdzY8u3ZMZVFiP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 3:39 |
 | 2 | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI) | 2:45 |
 | 3 | [VILLIANS THEME.](https://open.spotify.com/track/3Hii0Ux1FVujty15HlWgyE) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [when angels cry](https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA) | 2:20 |
 | 4 | [COACH](https://open.spotify.com/track/0EPA0aXSo19r3Yem8QDqb7) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [COACH](https://open.spotify.com/album/1NdXOnEqqpz0bgCXkMcFhA) | 1:50 |
 | 5 | [PACKAPUNCH \(feat\. Danny Brown\)](https://open.spotify.com/track/3bZXzHX8CkbMytaM3VGY3e) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [PACKAPUNCH \(feat\. Danny Brown\)](https://open.spotify.com/album/1ETJcxo3S1uC4AmGI1aq1R) | 3:00 |
 | 6 | [Son Gohan](https://open.spotify.com/track/13RtnlcO9A13AX6oaoRZLk) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Son Gohan](https://open.spotify.com/album/39EdvibZaks6Vi4ujEXHGA) | 1:40 |
-| 7 | [Mental Clarity Is a Luxury I Can't Afford](https://open.spotify.com/track/0JcD5qI9SxWqdEWmRjUX9X) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:25 |
+| 7 | [Thorns](https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:10 |
 | 8 | [BLAME GAME](https://open.spotify.com/track/2kXZv8aJh8LVn1FxzSDPtp) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [BLAME GAME](https://open.spotify.com/album/0d7agnfE8Rh8gSTQVIso0U) | 3:54 |
 | 9 | [MESSY](https://open.spotify.com/track/2K6f0hncJdVzA9eK76JIxN) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:31 |
 | 10 | [LUV 4 YA](https://open.spotify.com/track/4gy2E8Wwz5hgwOLjv03cYS) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LUV 4 YA](https://open.spotify.com/album/0tTnvcy5uv8w6SXgWw7cOZ) | 3:32 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 45 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 |
 | 46 | [DND](https://open.spotify.com/track/2JcKs5oFiVAhui6XtVl0dj) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [DND](https://open.spotify.com/album/0AHPUdFrZqfdvnQhRukFhN) | 2:17 |
 | 47 | [Bobby Boucher](https://open.spotify.com/track/11o9dSwPFk66I8qUEvk8Aj) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Bobby Boucher](https://open.spotify.com/album/3TtnKqZZIMXNIGYV9RLii7) | 3:15 |
-| 48 | [Misery in Waking Hours](https://open.spotify.com/track/2eZbaxXxKdzY8u3ZMZVFiP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 3:39 |
+| 48 | [Mental Clarity Is a Luxury I Can't Afford](https://open.spotify.com/track/0JcD5qI9SxWqdEWmRjUX9X) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:25 |
 | 49 | [Don't Care Didn't Ask](https://open.spotify.com/track/5LAzEfoTOp7sIiRvEXpWlT) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Don't Care Didn't Ask](https://open.spotify.com/album/2bS25a2Bme6RkFAozL5ggK) | 2:49 |
 | 50 | [Pop \(feat\. Rico Nasty\)](https://open.spotify.com/track/1pqG8egYsdWZiHSMT1QTaL) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 3:16 |
 | 51 | [I Smoked Away My Brain \(I'm God x Demons Mashup\) \(feat\. Imogen Heap & Clams Casino\)](https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [I Smoked Away My Brain \(I'm God x Demons Mashup\) \(feat\. Imogen Heap & Clams Casino\)](https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo) | 3:10 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 98 | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/album/37APE1ZgCTM38NY4IgO73G) | 2:53 |
 | 99 | [Category 5](https://open.spotify.com/track/13ij6sUrpQuzaQHwP9QXQb) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH), [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8) | [Mnt\. Snug](https://open.spotify.com/album/1CxZ3qofoLQQ6OqohMZqSa) | 2:19 |
 
-Snapshot ID: `ZmvDUwAAAADaZt5juFgV/lk7pbuKWX6n`
+Snapshot ID: `Znmn8gAAAACvFk4Hfwfab4xJRdV5oAax`

@@ -2,7 +2,7 @@
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This is Suzanne Ciani\. The essential tracks, all in one playlist.
+> This is Suzanne Ciani\. Todos os maiores hits em uma só playlist.
 
 114 songs - 9 hr 29 min
 
@@ -14,7 +14,7 @@
 | [432 \- Suzanne Ciani Rework](https://open.spotify.com/track/1ApcdqaszE4EpOp50FinUy) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Conatus](https://open.spotify.com/album/3qPX9UNS4kdWpouc7c5FCa) | 4:29 | 2022-06-11 | 2024-04-19 |
 | [A Higher Place \- Live](https://open.spotify.com/track/2deGGE7ZjGD0Wd4T48bXJc) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Improvisation on Four Sequences Live at Festival Antigel](https://open.spotify.com/album/7JMjtT9wBDupShzuacvuMQ) | 3:55 | 2022-09-21 |  |
 | [A New Day](https://open.spotify.com/track/0FSw4ppnsTatvOcjKYlofZ) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [FRKWYS Vol\. 13: Sunergy](https://open.spotify.com/album/23lc2uS9fRiCApwcNhCvUT) | 23:08 | 2022-06-27 | 2022-09-21 |
-| [A Sonic Womb Pt\. 2](https://open.spotify.com/track/5d33aVJpOrCLzfoIfSk8pp) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 3:48 | 2022-06-09 | 2024-06-24 |
+| [A Sonic Womb Pt\. 2](https://open.spotify.com/track/5d33aVJpOrCLzfoIfSk8pp) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 3:48 | 2022-06-09 |  |
 | [A Sonic Womb Pt\. 3](https://open.spotify.com/track/5cuoT2PzaEPjfnPjoaIt2K) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 3:15 | 2022-06-07 |  |
 | [A Sonic Womb Pt\. 4](https://open.spotify.com/track/6PauezcrjQSTFsPPIgJmD7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 4:07 | 2023-03-25 | 2024-05-14 |
 | [A Sonic Womb Pt\. 5](https://open.spotify.com/track/775eFKdL4tIK5x53RJd1u4) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K) | 2:54 | 2022-10-27 |  |

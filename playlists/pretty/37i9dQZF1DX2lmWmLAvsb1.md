@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lmWmLAvsb1.md) - [plain]
 
 > The biggest songs in Latin America in 2019\. Cover: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,545 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,588 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lmWmLAvsb1.md) - [plain]
 | 40 | [Indeciso](https://open.spotify.com/track/59s0s39NFWScuHDbHytI14) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Indeciso](https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P) | 3:37 |
 | 41 | [Que Mas Pues \- Remix](https://open.spotify.com/track/7fODjB7BrQTGqh0hogW6XD) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 5:05 |
 | 42 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
-| 43 | [Cristina](https://open.spotify.com/track/703iVQrfbQsXt7Uzgy1h8k) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:21 |
+| 43 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ) | 3:47 |
 | 44 | [Por Eso Vine](https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:58 |
-| 45 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ) | 3:47 |
+| 45 | [Cristina](https://open.spotify.com/track/703iVQrfbQsXt7Uzgy1h8k) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:21 |
 | 46 | [La Playa](https://open.spotify.com/track/0jeS8PyyIRAG0A3t5DtL71) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Playa](https://open.spotify.com/album/5PCQtgStgFE0UMZXd9YuYz) | 3:27 |
 | 47 | [Goteo](https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Goteo](https://open.spotify.com/album/6lfI4LBcu46SL3TzSw3rWg) | 2:44 |
 | 48 | [Contra La Pared](https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Contra La Pared](https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ) | 3:44 |

@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 118151,
+  "num_followers": 118142,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
+        "name": "Angels from the Realms of Glory",
+        "url": "https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC"
+      },
+      "artists": [
+        {
+          "name": "Trois Amis",
+          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
+        }
+      ],
+      "duration_ms": 105235,
+      "name": "Angels from the Realms of Glory",
+      "url": "https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
         "name": "Selections From Irving Berlin's White Christmas",
         "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 163240,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
-        "name": "Angels from the Realms of Glory",
-        "url": "https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC"
-      },
-      "artists": [
-        {
-          "name": "Trois Amis",
-          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
-        }
-      ],
-      "duration_ms": 105235,
-      "name": "Angels from the Realms of Glory",
-      "url": "https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Ultimate Christmas",
-        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "It Came Upon A Midnight Clear",
-      "url": "https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Do you hear what I hear",
         "url": "https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 128886,
       "name": "Do you hear what I hear",
       "url": "https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "It Came Upon A Midnight Clear",
+      "url": "https://open.spotify.com/track/55YzKJipEDxzduTSrAWtMj"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
+        "name": "O Come, O Come Emmanuel",
+        "url": "https://open.spotify.com/album/3JnBzkJI52l6jJkAX84pVV"
+      },
+      "artists": [
+        {
+          "name": "N.B.H-Trio",
+          "url": "https://open.spotify.com/artist/5oooIIdGmAuNyfQiWehfmX"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
         "name": "The Merriest",
         "url": "https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 237613,
       "name": "That Holiday Feeling",
       "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
-        "name": "O Come, O Come Emmanuel",
-        "url": "https://open.spotify.com/album/3JnBzkJI52l6jJkAX84pVV"
-      },
-      "artists": [
-        {
-          "name": "N.B.H-Trio",
-          "url": "https://open.spotify.com/artist/5oooIIdGmAuNyfQiWehfmX"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "O Come, O Come Emmanuel",
-      "url": "https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
+        "name": "Reflections III Christmas",
+        "url": "https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6"
+      },
+      "artists": [
+        {
+          "name": "Sissel",
+          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
+        }
+      ],
+      "duration_ms": 213889,
+      "name": "Make Me a Present of You",
+      "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
         "name": "Christmas with My Friends VIII",
         "url": "https://open.spotify.com/album/3FozTn1Z7wjqbIz0TUa9aw"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 159000,
       "name": "That's How I Picture Christmas Eve",
       "url": "https://open.spotify.com/track/7z7a4p1MrrSlnOIIYyMINs"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
-        "name": "Reflections III Christmas",
-        "url": "https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6"
-      },
-      "artists": [
-        {
-          "name": "Sissel",
-          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
-        }
-      ],
-      "duration_ms": 213889,
-      "name": "Make Me a Present of You",
-      "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "That Holiday Feelin'",
-        "url": "https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 313066,
-      "name": "Christmas Rainbows",
-      "url": "https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
       },
@@ -1663,18 +1647,18 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
+        "name": "That Holiday Feelin'",
+        "url": "https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
         }
       ],
-      "duration_ms": 163173,
-      "name": "Christmas Bells",
-      "url": "https://open.spotify.com/track/0GxP8b87h0PhNnvVTMRCQ1"
+      "duration_ms": 313066,
+      "name": "Christmas Rainbows",
+      "url": "https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1695,6 +1679,22 @@
       "duration_ms": 291906,
       "name": "Christmas Cheer",
       "url": "https://open.spotify.com/track/3yQw5zU2b3MNH2h9ccYgyZ"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "Christmas Bells",
+      "url": "https://open.spotify.com/track/0GxP8b87h0PhNnvVTMRCQ1"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "More Sounds Of Christmas",
-        "url": "https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "When My Heart Finds Christmas",
         "url": "https://open.spotify.com/album/1puRIKtM4c4aDpUNJNtyn4"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 220760,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7Ez9zlZuyvEo2iiRvOSDnd"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "More Sounds Of Christmas",
+        "url": "https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W"
     },
     {
       "added_at": "2023-12-19 09:25:36",

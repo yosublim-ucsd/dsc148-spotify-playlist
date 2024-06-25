@@ -4,7 +4,7 @@
 
 > Ný tónlist!
 
-1,026 songs - 2 day 6 hr 12 min
+1,027 songs - 2 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,7 +667,8 @@
 | [Nýtt Ár](https://open.spotify.com/track/768WOYX8ZS9QB6BsjOQCXX) | [Patrekurros](https://open.spotify.com/artist/51ptCOip5vRQbYMetXapRt), [BIGJOE](https://open.spotify.com/artist/2g1JZf6kemAdNJo7lWljy2) | [Nýtt Ár](https://open.spotify.com/album/4kfXlvj2Pua6NYaSt7uA7e) | 2:27 | 2024-05-03 | 2024-05-05 |
 | [Og eg lyger så det renner som en foss gjennom rommet](https://open.spotify.com/track/3ij6Sb9PpaThDxIDdlVh3t) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Og eg lyger så det renner som en foss gjennom rommet](https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH) | 3:55 | 2024-05-31 | 2024-06-07 |
 | [Oh Eh Oh Ah](https://open.spotify.com/track/4WQM7rdagCPqruXobj7YTX) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Owe Almgren](https://open.spotify.com/artist/6ybRtRPKyhnq8gyqS8Ezxb), [Rasmus Kihlberg](https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR) | [Oh Eh Oh Ah](https://open.spotify.com/album/5cOtGLzsHxhKMss9Ljkchh) | 4:21 | 2024-04-26 | 2024-04-28 |
-| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-21 |  |
+| [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 | 2024-06-24 |  |
+| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-21 | 2024-06-25 |
 | [Okay Fine](https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 3:40 | 2024-04-26 | 2024-05-03 |
 | [Okej att dö](https://open.spotify.com/track/41ioFOtkaKOuvZbqzliDLT) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/4TeoJmi1z2YV3Xmlmx267Q) | 2:49 | 2024-04-26 | 2024-05-03 |
 | [Old Fashioned Feeling](https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Old Fashioned Feeling](https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9) | 3:22 | 2024-05-24 | 2024-06-01 |

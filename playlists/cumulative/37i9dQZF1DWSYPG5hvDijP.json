@@ -3478,7 +3478,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 120000,
       "name": "Kalamkaand",
       "url": "https://open.spotify.com/track/2uickBJkb6Q9p5OUijDyXA"
@@ -6695,6 +6695,24 @@
     },
     {
       "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/78cBLYZcpjnBISIwcQ19TH"
+      },
+      "artists": [
+        {
+          "name": "NISHAN 17",
+          "url": "https://open.spotify.com/artist/2Qir7kYwZ61T2Q3KHPyWCs"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/42vGPrrqp1iMNigqs1Aa9o"
+    },
+    {
+      "album": {
         "name": "WOH",
         "url": "https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW"
       },
@@ -6780,7 +6798,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 203389,
       "name": "Wonder Boy",
       "url": "https://open.spotify.com/track/1STXHYKdLdiP56YOQjT2i3"

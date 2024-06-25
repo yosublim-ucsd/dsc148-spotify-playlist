@@ -4,7 +4,7 @@
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-103 songs - 5 hr 17 min
+105 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bella Donna](https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Bella Donna](https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4) | 2:19 | 2023-12-15 |  |
 | [Bolero Mientras Tanto](https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Bolero Mientras Tanto](https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z) | 2:59 | 2023-12-15 |  |
 | [Bossa Bravado](https://open.spotify.com/track/6okyzUui51pNetfcXT40zu) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [A Brand New World](https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo) | 2:22 | 2023-12-15 |  |
-| [Bossa Incognito](https://open.spotify.com/track/5Hod2xD7H6NzPL6wLJXsjU) | [Sound Of Melancholy](https://open.spotify.com/artist/2HSEkc1P2xE5wKAP8GOb9H) | [Tales From The Forest](https://open.spotify.com/album/5USSfROSIe1sZ3iEqGfT8s) | 2:24 | 2023-12-15 |  |
+| [Bossa Incognito](https://open.spotify.com/track/5Hod2xD7H6NzPL6wLJXsjU) | [Sound Of Melancholy](https://open.spotify.com/artist/2HSEkc1P2xE5wKAP8GOb9H) | [Tales From The Forest](https://open.spotify.com/album/5USSfROSIe1sZ3iEqGfT8s) | 2:24 | 2023-12-15 | 2024-06-25 |
 | [Capricho Árabe](https://open.spotify.com/track/3sm2RIjdSwQo684TGkYbm7) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Sharon Isbin](https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu) | [Alma Española](https://open.spotify.com/album/11nbxi80GDTxHccaAxF50M) | 5:55 | 2023-12-15 |  |
 | [Carnival](https://open.spotify.com/track/1l6hNZj7MbV2CUqDuWblY3) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Carnival](https://open.spotify.com/album/25Kmydp2QIq58lXjCMO0xX) | 2:06 | 2023-12-15 |  |
 | [Cassandra](https://open.spotify.com/track/1bs29MvzrR0f4I2qVeuBX7) | [Tyler Lawlor](https://open.spotify.com/artist/1OS1QIANix292tO7E45jcQ) | [Cassandra](https://open.spotify.com/album/5q8DNFc1E527UDNmKZbHax) | 2:46 | 2023-12-15 |  |
@@ -49,6 +49,7 @@
 | [Guajira En F](https://open.spotify.com/track/4F6Nt1JNncQFuvUQfPX3a3) | [Los Hermanos Cabaiguan](https://open.spotify.com/artist/3lD25kA4bqSWreXLA4sT5g) | [Guajira En F](https://open.spotify.com/album/77PDkLl1ZBM7L6RmikwgQW) | 2:48 | 2023-12-15 |  |
 | [Guantanamera](https://open.spotify.com/track/5kuNPTnpZPDInDaGFpuao9) | [Berta Rojas](https://open.spotify.com/artist/0vt7Wge2J6WxluCQe58PuY), [Carlos Barbosa\-Lima](https://open.spotify.com/artist/6hznHFy1sAJBOO6pmOdxV5) | [Alma Y Corazon](https://open.spotify.com/album/1XrxVoDGaMXWF67dDJHJws) | 3:28 | 2023-12-15 | 2024-04-19 |
 | [Guantanamera](https://open.spotify.com/track/5xcJY6gg4ja8bVdXP612Kr) | [Joseito Fernandez](https://open.spotify.com/artist/3k5yvrU4CBsA1SRBBKxx0O), [Carlos Barbosa Lima & Berta Rojas](https://open.spotify.com/artist/6YCtYyfGIjpsNwT7hmRW15) | [Alma Y Corazon](https://open.spotify.com/album/2AUUHqjY7aWSrmTiGsznSi) | 3:28 | 2024-04-05 |  |
+| [Havana](https://open.spotify.com/track/2BtmYYxG65uYaq6W7Xi3lM) | [Mark Barnwell](https://open.spotify.com/artist/7KT3M5b1sDWSIkh1AKl2um) | [Exotica](https://open.spotify.com/album/6wmg8ig0RgWeIehKZjuJh5) | 4:00 | 2024-06-24 |  |
 | [Hello](https://open.spotify.com/track/5ItnxwkIQ2Hz6CNtDGfAmE) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Hello](https://open.spotify.com/album/0O7nnSoaclFgc9BFXW9eWc) | 2:41 | 2023-12-15 |  |
 | [Horizonte](https://open.spotify.com/track/2GnkchiEEX9BvQOrCD7Rh7) | [Ferdinand Eisner](https://open.spotify.com/artist/7Ag3zdwV2fqC7BKdXwjVsD) | [White Stone](https://open.spotify.com/album/1YoEhz6VaIj5IL7xFBuOmy) | 2:40 | 2023-12-15 |  |
 | [I'd Rather Sit In The Shadow](https://open.spotify.com/track/654XQa26b3ginvX2hDqcgK) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [I'd Rather Sit In The Shadow](https://open.spotify.com/album/6LnMDJkByww9cKemT7FUyq) | 3:23 | 2023-12-15 |  |
@@ -83,7 +84,7 @@
 | [Rancho](https://open.spotify.com/track/46BVf0OGrdgbuowxPpwviH) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Rancho](https://open.spotify.com/album/5NWhm7lJDMiKryYAWeW2U9) | 2:49 | 2023-12-15 |  |
 | [Rancho Abandonado](https://open.spotify.com/track/3NeUoyAmPF1IYZ6ISGTq69) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:09 | 2023-12-15 |  |
 | [Recuerdos de la Alhambra](https://open.spotify.com/track/0txa5FMG04o9M0dxnX4HcT) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Renata Tarragó](https://open.spotify.com/artist/3sjJiSSbYmyfArQYwNtMa4) | [Homenaje a Tárrega](https://open.spotify.com/album/5wpauqKN8pjYclujgFr7ng) | 3:41 | 2023-12-15 |  |
-| [Remember](https://open.spotify.com/track/4mPissvGQIf8590ldIJQu3) | [Adrian Muriel](https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T) | [White Nights](https://open.spotify.com/album/2OOVDZBJZmeyXxg2OzhlL7) | 3:07 | 2023-12-15 |  |
+| [Remember](https://open.spotify.com/track/4mPissvGQIf8590ldIJQu3) | [Adrian Muriel](https://open.spotify.com/artist/0JSV9pQZCkhOL2pLXOGO3T) | [White Nights](https://open.spotify.com/album/2OOVDZBJZmeyXxg2OzhlL7) | 3:07 | 2023-12-15 | 2024-06-25 |
 | [Roberto el Rebelde](https://open.spotify.com/track/6S7hOpmy4lzJmExEFSOnP6) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Tierra Nordica](https://open.spotify.com/album/3beGa7ny7BngU8gyFdwsty) | 3:27 | 2023-12-15 |  |
 | [Runaway](https://open.spotify.com/track/0VwA4OOrK4K0qrfaFBHCoi) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Runaway](https://open.spotify.com/album/2R6ToEr49KC9zrmE3zevdV) | 2:50 | 2023-12-15 |  |
 | [Salta La Linda](https://open.spotify.com/track/75KwjASkRESPwRAaYuBQmB) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Salta La Linda](https://open.spotify.com/album/1MNQjdKTRRKMHTedD3s7WB) | 3:21 | 2023-12-15 |  |
@@ -91,6 +92,7 @@
 | [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 | 2023-12-15 |  |
 | [Shorter days in Vermont](https://open.spotify.com/track/1XeFG3laFnydriKUlyBtOr) | [Sylvia Warren](https://open.spotify.com/artist/0Jvjt5h5TJPxU0hsoTljL7) | [Die Donau](https://open.spotify.com/album/1hcqmGoCbBo79hyTfMLnl9) | 3:16 | 2023-12-15 |  |
 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 | 2023-12-15 |  |
+| [Spanish Nights](https://open.spotify.com/track/65XPPR5GGETPXqwMIBRB1b) | [Young & Rollins](https://open.spotify.com/artist/2uYKLNEOZuLjpZXOGoAlKJ) | [Esperanza](https://open.spotify.com/album/4qrZ5gpHaFYhsqWeaLyFjZ) | 4:57 | 2024-06-24 |  |
 | [Suave](https://open.spotify.com/track/4MTpIFPmOhMuasTQLHoEtm) | [Roman Ticker](https://open.spotify.com/artist/2N3alU1QULBStjDC38TldG) | [Ipanema Dreams](https://open.spotify.com/album/5t9rpIS1nZA3QUu0WezT4X) | 2:08 | 2023-12-15 |  |
 | [Sueño Tropical](https://open.spotify.com/track/1uZaPYYWuG3zwWzbVGNHue) | [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Sueño Tropical](https://open.spotify.com/album/4zhn0fpRxeSeDHeMBfxkDL) | 2:52 | 2023-12-15 |  |
 | [Te Echo De Menos](https://open.spotify.com/track/1u2C4fLwsMerlZCqumCl6z) | [Gabriel Vilente](https://open.spotify.com/artist/5sXiB1kUrPOBBWf3SqrCYO) | [Te Echo De Menos](https://open.spotify.com/album/7FS6hAIyRA7VJ7ELMKH6gb) | 3:04 | 2023-12-15 |  |

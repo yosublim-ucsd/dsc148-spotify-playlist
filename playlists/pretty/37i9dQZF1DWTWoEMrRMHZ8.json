@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Samuel Rosa",
-  "num_followers": 344817,
+  "num_followers": 344828,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2024-06-21 03:00:00",
       "album": {
+        "name": "Disritmia / Ex-Amor",
+        "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "duration_ms": 299724,
+      "name": "Disritmia / Ex-Amor",
+      "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
+    },
+    {
+      "added_at": "2024-06-21 03:00:00",
+      "album": {
         "name": "Sangue Latino",
         "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 181169,
       "name": "Como Vai Voc\u00ea",
       "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
-    },
-    {
-      "added_at": "2024-06-21 03:00:00",
-      "album": {
-        "name": "Disritmia / Ex-Amor",
-        "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        }
-      ],
-      "duration_ms": 299724,
-      "name": "Disritmia / Ex-Amor",
-      "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
     },
     {
       "added_at": "2024-06-21 03:00:00",
@@ -787,6 +787,26 @@
     {
       "added_at": "2024-06-21 03:00:00",
       "album": {
+        "name": "Quem dir\u00e1?",
+        "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        },
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 172580,
+      "name": "Quem dir\u00e1?",
+      "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
+    },
+    {
+      "added_at": "2024-06-21 03:00:00",
+      "album": {
         "name": "Depois Da Meia Noite",
         "url": "https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId"
       },
@@ -831,22 +851,6 @@
     {
       "added_at": "2024-06-21 03:00:00",
       "album": {
-        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
-      },
-      "artists": [
-        {
-          "name": "Tuca Oliveira",
-          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
-        }
-      ],
-      "duration_ms": 196319,
-      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
-    },
-    {
-      "added_at": "2024-06-21 03:00:00",
-      "album": {
         "name": "Paisagem",
         "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
       },
@@ -867,22 +871,18 @@
     {
       "added_at": "2024-06-21 03:00:00",
       "album": {
-        "name": "Quem dir\u00e1?",
-        "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
+        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
       },
       "artists": [
         {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        },
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+          "name": "Tuca Oliveira",
+          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
         }
       ],
-      "duration_ms": 172580,
-      "name": "Quem dir\u00e1?",
-      "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
+      "duration_ms": 196319,
+      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
     },
     {
       "added_at": "2024-06-21 03:00:00",
@@ -899,6 +899,22 @@
       "duration_ms": 228933,
       "name": "O Meu Guri",
       "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
+    },
+    {
+      "added_at": "2024-06-21 03:00:00",
+      "album": {
+        "name": "Cuida de mim",
+        "url": "https://open.spotify.com/album/4Tg4kfHPx27Xbm4CegjX2U"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Castel",
+          "url": "https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX"
+        }
+      ],
+      "duration_ms": 208608,
+      "name": "Cuida de mim",
+      "url": "https://open.spotify.com/track/6iKMTz1fKTN50PQOkLXHIh"
     },
     {
       "added_at": "2024-06-21 03:00:00",
@@ -931,22 +947,6 @@
       "duration_ms": 177099,
       "name": "Um, Dois, Tr\u00eas",
       "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
-    },
-    {
-      "added_at": "2024-06-21 03:00:00",
-      "album": {
-        "name": "Cuida de mim",
-        "url": "https://open.spotify.com/album/4Tg4kfHPx27Xbm4CegjX2U"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Castel",
-          "url": "https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX"
-        }
-      ],
-      "duration_ms": 208608,
-      "name": "Cuida de mim",
-      "url": "https://open.spotify.com/track/6iKMTz1fKTN50PQOkLXHIh"
     },
     {
       "added_at": "2024-06-21 03:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-06-21 03:00:00",
       "album": {
-        "name": "Olho D'\u00c1gua",
-        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 188064,
-      "name": "Deleita",
-      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
-    },
-    {
-      "added_at": "2024-06-21 03:00:00",
-      "album": {
         "name": "De: Terra; Para: Humanidade",
         "url": "https://open.spotify.com/album/6wj0zn5LC2fPFlkofnKaN6"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2024-06-21 03:00:00",
       "album": {
-        "name": "Esporte Fino",
-        "url": "https://open.spotify.com/album/3H6f4PgTDEa5yj25b4FkqU"
+        "name": "Olho D'\u00c1gua",
+        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
       },
       "artists": [
         {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 148037,
-      "name": "Esporte Fino",
-      "url": "https://open.spotify.com/track/6PEIWY9GXsQCAEf0671GJR"
+      "duration_ms": 188064,
+      "name": "Deleita",
+      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
     },
     {
       "added_at": "2024-06-21 03:00:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 186000,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
+    },
+    {
+      "added_at": "2024-06-21 03:00:00",
+      "album": {
+        "name": "Esporte Fino",
+        "url": "https://open.spotify.com/album/3H6f4PgTDEa5yj25b4FkqU"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 148037,
+      "name": "Esporte Fino",
+      "url": "https://open.spotify.com/track/6PEIWY9GXsQCAEf0671GJR"
     },
     {
       "added_at": "2024-06-21 03:00:00",

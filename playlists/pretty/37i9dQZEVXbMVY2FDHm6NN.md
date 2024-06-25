@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,571 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,594 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 | 50 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
 
-Snapshot ID: `LguImAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LgzaGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

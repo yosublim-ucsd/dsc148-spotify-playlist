@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 101192,
+  "num_followers": 101215,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "25 de fevereiro",
+        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        }
+      ],
+      "duration_ms": 185448,
+      "name": "eu te convido",
+      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "Somos Iguais (Ao Vivo)",
         "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 209020,
       "name": "Presente de Deus",
       "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "25 de fevereiro",
-        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
-      },
-      "artists": [
-        {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        }
-      ],
-      "duration_ms": 185448,
-      "name": "eu te convido",
-      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
     },
     {
       "added_at": "2023-07-14 16:56:11",

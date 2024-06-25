@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,827 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,833 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 60 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
 | 61 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 |
 | 62 | [Wheat Kings](https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Yer Favourites](https://open.spotify.com/album/6tcv9H1TNubc9o0gy2eIAG) | 4:19 |
-| 63 | [Adult Swim](https://open.spotify.com/track/6ilMAkM2m0gVAqcHykqIxD) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Adult Swim](https://open.spotify.com/album/5DpXAgQPCAkbjoNUGICXTb) | 2:50 |
-| 64 | [time waits](https://open.spotify.com/track/4wkwlPgwsQPr1Gcl2IB1Zz) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/5jkLcQSR8L15cf53wi5bfY) | 3:19 |
-| 65 | [Who You Are](https://open.spotify.com/track/1aDt9pruckWVn6lllJtVgc) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Lighthouse](https://open.spotify.com/album/386OkomCq7KFjusVqI1E78) | 3:17 |
+| 63 | [time waits](https://open.spotify.com/track/4wkwlPgwsQPr1Gcl2IB1Zz) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/5jkLcQSR8L15cf53wi5bfY) | 3:19 |
+| 64 | [Adult Swim](https://open.spotify.com/track/6ilMAkM2m0gVAqcHykqIxD) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Adult Swim](https://open.spotify.com/album/5DpXAgQPCAkbjoNUGICXTb) | 2:50 |
+| 65 | [I Fall in Love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 |
 | 66 | [getting over you](https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [clean hands dirty water](https://open.spotify.com/album/2FUHjr1aci78MwzBTsLM91) | 3:07 |
-| 67 | [I Fall in Love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 |
-| 68 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
-| 69 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 |
+| 67 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 |
+| 68 | [Who You Are](https://open.spotify.com/track/1aDt9pruckWVn6lllJtVgc) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Lighthouse](https://open.spotify.com/album/386OkomCq7KFjusVqI1E78) | 3:17 |
+| 69 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
 | 70 | [Honey](https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Honey](https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9) | 4:36 |
 | 71 | [Bud Light The Way](https://open.spotify.com/track/2Hg4pSdvKX11F0qzrylTYE) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bud Light The Way](https://open.spotify.com/album/34TtHMONcD2b1p4HM2hPN0) | 3:10 |
 | 72 | [Cocaine Cowgirl](https://open.spotify.com/track/4MH1kOQnLpJtQghDYYHO81) | [Matt Mays](https://open.spotify.com/artist/0VlFTYaJsPHdN3Vb3EvBsn), [El Torpedo](https://open.spotify.com/artist/0O8GXKLSRLpgBrdiUKHZdF) | [Matt Mays & El Torpedo](https://open.spotify.com/album/3mFkPXzTljdfMWgeXiX8qP) | 4:26 |

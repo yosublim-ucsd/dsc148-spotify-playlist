@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 
 > La playlist idéale pour prendre la route.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,495 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,586 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 24 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 25 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 |
 | 26 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 |
-| 27 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
-| 28 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
+| 27 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 |
+| 28 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
 | 29 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
 | 30 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
 | 31 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 46 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 4:10 |
 | 47 | [Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:35 |
 | 48 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
-| 49 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
-| 50 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
+| 49 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
+| 50 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
 | 51 | [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 |
 | 52 | [Me And My Broken Heart](https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S) | [Rixton](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) | [Let The Road](https://open.spotify.com/album/02ae5i5UAoFrt2peVox9Xd) | 3:13 |
 | 53 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 74 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 |
 | 75 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
 | 76 | [Jerk It Out](https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Love For The Streets](https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal) | 3:15 |
-| 77 | [Busy Earnin'](https://open.spotify.com/track/7f7CxGj0kzfwT1SjciL3ft) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ) | 3:01 |
-| 78 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
+| 77 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
+| 78 | [Busy Earnin'](https://open.spotify.com/track/7f7CxGj0kzfwT1SjciL3ft) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ) | 3:01 |
 | 79 | [Eté 90](https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:12 |
 | 80 | [Power Over Me](https://open.spotify.com/track/4tViDtaHuSLnh7HVJTrKhs) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 3:26 |
 

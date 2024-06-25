@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,825,685 likes - 80 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,825,836 likes - 80 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 39 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
 | 40 | [Cemetry Gates \- 2011 Remaster](https://open.spotify.com/track/03yOjwHoOPDlTUg0NRxN6t) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 2:41 |
 | 41 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
-| 42 | [Electricity \- Remastered 2003](https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Orchestral Manoeuvres In The Dark \(Remastered 2003\)](https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF) | 3:39 |
-| 43 | [Why Can't I Be You?](https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:13 |
+| 42 | [Why Can't I Be You?](https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:13 |
+| 43 | [Electricity \- Remastered 2003](https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Orchestral Manoeuvres In The Dark \(Remastered 2003\)](https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF) | 3:39 |
 | 44 | [In A Big Country](https://open.spotify.com/track/1tAFvq63jO3n9WaDCZPJNh) | [Big Country](https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ) | [The Crossing](https://open.spotify.com/album/3ODt64EiOqXvwR5fEIWlWy) | 4:44 |
 | 45 | [99 Red Balloons](https://open.spotify.com/track/2bdcFXS61ey6x6Y1andx0F) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [99 Luftballons](https://open.spotify.com/album/37XWs0ueFzqSRLeNV9zZMC) | 3:50 |
 | 46 | [Damaged Goods](https://open.spotify.com/track/62uw0iWu8jLB4cYBQxjdcm) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Entertainment!](https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy) | 3:27 |

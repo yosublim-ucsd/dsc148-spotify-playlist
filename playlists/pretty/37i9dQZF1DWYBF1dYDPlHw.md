@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 
 > All killer, no filler, 100% hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,149 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,188 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 | 51 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
 | 52 | [Seventeen Going Under](https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 4:57 |
 | 53 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
-| 54 | [Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:11 |
-| 55 | [Chelsea Dagger](https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw) | 3:35 |
+| 54 | [Chelsea Dagger](https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw) | 3:35 |
+| 55 | [Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:11 |
 | 56 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
 | 57 | [Undercover Martyn](https://open.spotify.com/track/6GQLX6Z28fYwDNCrhaKzYF) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:46 |
 | 58 | [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 |
 | 59 | [Kathleen](https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:40 |
-| 60 | [Hate To Say I Told You So](https://open.spotify.com/track/20j7B6mL9gnNvG3ic6Vwh5) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/1C4UGzx5gD9b3X0UfAhY7z) | 3:20 |
-| 61 | [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 |
+| 60 | [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 |
+| 61 | [Hate To Say I Told You So](https://open.spotify.com/track/20j7B6mL9gnNvG3ic6Vwh5) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/1C4UGzx5gD9b3X0UfAhY7z) | 3:20 |
 | 62 | [Chocolate](https://open.spotify.com/track/4WiiRw2PHMNQE0ad6y6GdD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:44 |
 | 63 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 |
 | 64 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 | 76 | [Lightning Bolt](https://open.spotify.com/track/79DO6dBi8936P6EShLB209) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 2:24 |
 | 77 | [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 |
 | 78 | [If You Wanna](https://open.spotify.com/track/6Ca3uEAuun3HusTUiIXKs1) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 2:54 |
-| 79 | [America](https://open.spotify.com/track/6bS7DqTuzrpkluB7boWmw2) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorlight](https://open.spotify.com/album/1AXk7nf6pCqLRrfPVJbZEj) | 4:09 |
+| 79 | [Canter](https://open.spotify.com/track/4rrXxmaUQVCO0mqDpY5fZf) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [The Bonny](https://open.spotify.com/album/6Ed44ptXyYJQM20Xat64I0) | 4:26 |
 | 80 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
-| 81 | [Canter](https://open.spotify.com/track/4rrXxmaUQVCO0mqDpY5fZf) | [Gerry Cinnamon](https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1) | [The Bonny](https://open.spotify.com/album/6Ed44ptXyYJQM20Xat64I0) | 4:26 |
+| 81 | [America](https://open.spotify.com/track/6bS7DqTuzrpkluB7boWmw2) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorlight](https://open.spotify.com/album/1AXk7nf6pCqLRrfPVJbZEj) | 4:09 |
 | 82 | [She Bangs the Drums \- Remastered 2009](https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 3:52 |
 | 83 | [Jenny Was A Friend Of Mine](https://open.spotify.com/track/60eVCXFCuw1WYswBuNZc4H) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 4:03 |
 | 84 | [Let's Dance to Joy Division](https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation](https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj) | 3:11 |

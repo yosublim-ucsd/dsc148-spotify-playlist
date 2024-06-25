@@ -4,7 +4,7 @@
 
 > Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon\. Follow now!
 
-288 songs - 17 hr 31 min
+289 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Titliaan](https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Sargun Mehta](https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z) | [Titliaan](https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku) | 3:15 | 2021-07-13 | 2021-08-17 |
 | [Tu Aake Dekhle](https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM) | 4:30 | 2021-07-12 |  |
 | [Tu hai kahan](https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/5V2IsZkQDhgRrgNhyCOJHf) | 4:23 | 2023-10-17 |  |
+| [Tu Hain Toh \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo) | [Hunny](https://open.spotify.com/artist/3VkiCR2nuvfucpvFXdSVtx), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Mr\. And Mrs\. Mahi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA) | 4:43 | 2024-06-24 |  |
 | [Tu Mera Nahi](https://open.spotify.com/track/4FZLfvHSBzvzK0rdqpIa5Y) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Tu Mera Nahi](https://open.spotify.com/album/4hkiN9KzcNXXnzjO6TV4Uw) | 3:50 | 2021-01-25\* | 2021-09-17 |
 | [Tu Meri Hai](https://open.spotify.com/track/0oVSs2wz74lm9YPwHbcdZl) | [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Tu Meri Hai](https://open.spotify.com/album/4Xqjk0emJHJCWaX0g9NqqC) | 3:55 | 2024-01-22 | 2024-02-03 |
 | [Tujhe Yaad Na Meri Ayee \- 2](https://open.spotify.com/track/4rE9qwUZ0eVQn6ajzRYdcx) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ) | [Tujhe Yaad Na Meri Ayee \- 2](https://open.spotify.com/album/2OMgwR7ydKGiyZPhUdgp7T) | 4:54 | 2023-11-07 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Los pr\u00f3ceres de la historia del rock nacional. Lino Nava por siempre.",
+  "description": "Los pr\u00f3ceres de la historia del rock nacional. Javier B\u00e1tiz en portada.",
   "name": "Iconos del Rock Mexicano",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 123386,
       "name": "Abuso de autoridad",
       "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
+    },
+    {
+      "album": {
+        "name": "La Casa del Sol Naciente",
+        "url": "https://open.spotify.com/album/1qk6ORoMNgYkJiqxHn86VW"
+      },
+      "artists": [
+        {
+          "name": "Javier B\u00e1tiz",
+          "url": "https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211673,
+      "name": "Acapulco Nights",
+      "url": "https://open.spotify.com/track/0S6hWqn1mIGhx98dv8Ei14"
     },
     {
       "album": {
@@ -870,7 +888,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 212893,
       "name": "Contrabando y Traici\u00f3n - Resmasterizado",
       "url": "https://open.spotify.com/track/0ZZM4pHDubnhLsEiBVZtq4"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 230207,
       "name": "Deja Ya de Mentir",
       "url": "https://open.spotify.com/track/5BeW91S4Py7rqSAidSp0El"
@@ -1212,7 +1230,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 218426,
       "name": "Dormir So\u00f1ando - Versi\u00f3n Sinf\u00f3nico [En Vivo]",
       "url": "https://open.spotify.com/track/68BdNYZS8uj9l6fvm11jfZ"
@@ -2034,6 +2052,24 @@
       "duration_ms": 423360,
       "name": "La Carencia",
       "url": "https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb"
+    },
+    {
+      "album": {
+        "name": "La Casa del Sol Naciente",
+        "url": "https://open.spotify.com/album/1qk6ORoMNgYkJiqxHn86VW"
+      },
+      "artists": [
+        {
+          "name": "Javier B\u00e1tiz",
+          "url": "https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223886,
+      "name": "La Casa del Sol Naciente",
+      "url": "https://open.spotify.com/track/0ERFRaw7HSx8AOfT0Ud7Nl"
     },
     {
       "album": {
@@ -3469,6 +3505,28 @@
     },
     {
       "album": {
+        "name": "Se me hizo f\u00e1cil",
+        "url": "https://open.spotify.com/album/7nsOf8tM2JVAhUA0baZLcF"
+      },
+      "artists": [
+        {
+          "name": "Javier B\u00e1tiz",
+          "url": "https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "Se me hizo f\u00e1cil",
+      "url": "https://open.spotify.com/track/6I2S5JWF2uZSjKN4PGLrBX"
+    },
+    {
+      "album": {
         "name": "Bueninvento",
         "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
       },
@@ -3524,6 +3582,24 @@
       "duration_ms": 148360,
       "name": "Shooby Doo Wop",
       "url": "https://open.spotify.com/track/0hRphF5bOnJkQzKSKuJbmc"
+    },
+    {
+      "album": {
+        "name": "Tierra de Nadie",
+        "url": "https://open.spotify.com/album/6PiP9pWpslnqqzbC4njDfd"
+      },
+      "artists": [
+        {
+          "name": "Javier B\u00e1tiz",
+          "url": "https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192029,
+      "name": "Si Estuvieras Aqu\u00ed",
+      "url": "https://open.spotify.com/track/60iiiaHZ0RYPuEfROGdEG7"
     },
     {
       "album": {
@@ -3646,7 +3722,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 205200,
       "name": "Sobre Natural",
       "url": "https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf"

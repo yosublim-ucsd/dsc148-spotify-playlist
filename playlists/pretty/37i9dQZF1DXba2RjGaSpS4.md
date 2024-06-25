@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXba2RjGaSpS4.md) - [plain]
 
 > ¡Empieza un nuevo día con una sonrisa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,457 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,463 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXba2RjGaSpS4.md) - [plain]
 | 47 | [Odio Amarte](https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH](https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8) | 3:30 |
 | 48 | [Aún Hay Algo](https://open.spotify.com/track/6fqpsCQ7jF7OgQolXgYovX) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Nuestro Amor](https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF) | 3:34 |
 | 49 | [Daría](https://open.spotify.com/track/6zvh1pH7PwIib64b6uv7kT) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Flores De Alquiler](https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs) | 3:42 |
-| 50 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 |
+| 50 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 |
 | 51 | [Bailar Contigo](https://open.spotify.com/track/4hi9OTFKomNUlAIhp1fmap) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:38 |
 | 52 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 |
 | 53 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/6fNOLHy8VxBsKxy1D41EVz) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Grandes Exitos](https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C) | 3:14 |

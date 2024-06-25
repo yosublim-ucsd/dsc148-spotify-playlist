@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 
 > Masterpieces from the world of opera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,201 likes - 64 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,367 likes - 64 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

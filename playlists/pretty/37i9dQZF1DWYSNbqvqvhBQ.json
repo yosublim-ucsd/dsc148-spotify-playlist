@@ -1,12 +1,12 @@
 {
   "description": "Je blijft luisteren! Nieuwe songs en hits van dit moment! Cover: Coldplay",
-  "num_followers": 105367,
+  "num_followers": 105379,
   "original_name": "Stay Tuned!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnS2/wAAAADBBd+It0XD+GHp21IJUeX7",
+  "snapshot_id": "Znk2xAAAAAAxomVSCL1f8r+cHJWrr4tA",
   "tracks": [
     {
       "added_at": "2024-06-20 22:00:00",
@@ -39,6 +39,42 @@
       "duration_ms": 192278,
       "name": "Queen of my Castle",
       "url": "https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/18L4eOWRTuUuJnTcvIbz6q"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/72Fj6ojPQ2FQMhBunQzVQo"
+    },
+    {
+      "added_at": "2024-06-24 09:05:08",
+      "album": {
+        "name": "Overpass Graffiti",
+        "url": "https://open.spotify.com/album/0lz2zuY0L8gcJKGTWyw0q9"
+      },
+      "artists": [
+        {
+          "name": "The Road",
+          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
+        },
+        {
+          "name": "Elske DeWall",
+          "url": "https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M"
+        }
+      ],
+      "duration_ms": 234237,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/0HDQnAQQa0NrKt4q6SqF6a"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -77,20 +113,24 @@
       "url": "https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-06-24 09:05:08",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
         }
       ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+      "duration_ms": 230942,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -107,6 +147,22 @@
       "duration_ms": 164812,
       "name": "No Kissing on a Sunday",
       "url": "https://open.spotify.com/track/4M7BI4GsetqLGX69OCj1eK"
+    },
+    {
+      "added_at": "2024-06-24 09:05:08",
+      "album": {
+        "name": "Sunkissed",
+        "url": "https://open.spotify.com/album/5IxTreJqAgwytAjsGZDSNV"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "duration_ms": 216094,
+      "name": "Forever Ayayay",
+      "url": "https://open.spotify.com/track/5Z50CiMHjQ5bk013yfWeTU"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -219,22 +275,6 @@
       "duration_ms": 189966,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/18L4eOWRTuUuJnTcvIbz6q"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/72Fj6ojPQ2FQMhBunQzVQo"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -355,6 +395,26 @@
       "duration_ms": 161000,
       "name": "Attention",
       "url": "https://open.spotify.com/track/6Ys2gNN8gr3QE42kTR53ti"
+    },
+    {
+      "added_at": "2024-06-24 09:05:08",
+      "album": {
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 162051,
+      "name": "Healing (Shattered Heart)",
+      "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -823,22 +883,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Tainted",
-        "url": "https://open.spotify.com/album/2xacv88eGjNUhLTFj4C8w5"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 181370,
-      "name": "Tainted",
-      "url": "https://open.spotify.com/track/1KY71U9JNydW5ZxvUgemc2"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
       },
@@ -871,22 +915,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "My Blood",
-        "url": "https://open.spotify.com/album/07QS9kZSBXmEIDj7knle6G"
-      },
-      "artists": [
-        {
-          "name": "DI-RECT",
-          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
-        }
-      ],
-      "duration_ms": 221822,
-      "name": "My Blood",
-      "url": "https://open.spotify.com/track/2cZePrelIrMYPgwoWsuKIJ"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV"
       },
@@ -899,22 +927,6 @@
       "duration_ms": 184546,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
     },
     {
       "added_at": "2024-06-13 22:00:00",

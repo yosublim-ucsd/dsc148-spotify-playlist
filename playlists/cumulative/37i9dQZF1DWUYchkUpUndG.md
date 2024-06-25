@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe?si=T8tc\_gnoT8eALkVMHFMEWA>Sinach</a>
 
-2,888 songs - 8 day 16 hr 36 min
+2,889 songs - 8 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2490,6 +2490,7 @@
 | [Think Am](https://open.spotify.com/track/6AuBdPzW3KEFMK0HWLKKYI) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Think Am](https://open.spotify.com/album/3fEhFgxFdEu24Zhkcl1Osd) | 2:32 | 2023-08-18 | 2023-09-01 |
 | [This Is Our God](https://open.spotify.com/track/6StHK5sgz9rjxVZv7CApW2) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [This Is Our God](https://open.spotify.com/album/1AOGcBpy6CxShBK8Pu3wB5) | 4:25 | 2023-07-14 | 2023-07-28 |
 | [This is The Day](https://open.spotify.com/track/7JAz5nfI0jvnI0wwfIHgEJ) | [Day Three Music](https://open.spotify.com/artist/7iQCW7VpjTEPRFmCEKsLwD), [Femi Sax](https://open.spotify.com/artist/0j0xrYyXTbNsd9wfsLD5Ur) | [This is The Day](https://open.spotify.com/album/5eCpZ7uhC4cKPEqko2abyc) | 5:38 | 2023-06-02 | 2023-06-16 |
+| [This Is the Day \(Halle\)](https://open.spotify.com/track/1FnbReDM3Ly7uxwarVJLp0) | [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ), [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [This Is the Day \(Halle\)](https://open.spotify.com/album/5zRg6TUFbAIpZrwHUNvZEU) | 6:51 | 2024-06-24 |  |
 | [This Kind God](https://open.spotify.com/track/2QQLHDmSZSP1Z35IkRTOjY) | [Emec King](https://open.spotify.com/artist/22hhNlyJtjk82HXmlCBYRs) | [This Kind God](https://open.spotify.com/album/4Evk89gbQxJvbSWg2LBv4E) | 3:35 | 2023-12-15 | 2023-12-30 |
 | [This kind God \(praise medley\)](https://open.spotify.com/track/3htUYyPQux4k0KPrEf1Jba) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH), [Psalmos](https://open.spotify.com/artist/2G5QxlJm0UTmeALPvIlzk3) | [This kind God \(praise medley\)](https://open.spotify.com/album/65hQ6hCh4EAwiPI4IBPI3G) | 2:24 | 2024-01-05 | 2024-01-19 |
 | [This Kind God Alujo \- Live](https://open.spotify.com/track/02dKUrS82pTtmcPaASGngT) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [David Kida](https://open.spotify.com/artist/50cYD84szsuxLcCjTfTDZ7), [Ola Samuel](https://open.spotify.com/artist/0SrrbuWNAn0xj5SIk8TwTm) | [This Kind God Alujo \(Live\)](https://open.spotify.com/album/5Al2abdve5LM6NGstofKB1) | 4:04 | 2024-04-19 | 2024-05-03 |

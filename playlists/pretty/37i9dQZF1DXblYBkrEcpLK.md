@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: JELEE \("Jellyfish Can't Swim in the Night"\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,648 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,757 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 22 | [Party!!](https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ) | 4:18 |
 | 23 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 |
 | 24 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 |
-| 25 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 |
-| 26 | [クラクラ](https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [クラクラ](https://open.spotify.com/album/55K68hk6VS7YBZj2sQkXhW) | 3:11 |
+| 25 | [クラクラ](https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [クラクラ](https://open.spotify.com/album/55K68hk6VS7YBZj2sQkXhW) | 3:11 |
+| 26 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 |
 | 27 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
 | 28 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
 | 29 | [正解はいらない](https://open.spotify.com/track/7iMizwkSqNacghYKrAo8o7) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [正解はいらない](https://open.spotify.com/album/5GGDpAGTo3Y2c2Gboiv6OC) | 2:45 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 43 | [旅のゆくえ](https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [旅のゆくえ](https://open.spotify.com/album/79FxBaskvhHUSmrYJsNid1) | 3:34 |
 | 44 | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 |
 | 45 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 |
-| 46 | [ラブコール](https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ラブコール](https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2) | 3:00 |
-| 47 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 |
+| 46 | [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 |
+| 47 | [ラブコール](https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ラブコール](https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2) | 3:00 |
 | 48 | [Paradoxes](https://open.spotify.com/track/0j6QFgRZKMHEkvdoOUFG6d) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [Paradoxes](https://open.spotify.com/album/3T8XP1r8dAT0SqKQcizLy2) | 4:36 |
 | 49 | [雷櫻](https://open.spotify.com/track/321Act4cJD2NncZYONJlZ6) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [雷櫻](https://open.spotify.com/album/4PMYkY5UkCQuLSPWnyNIdP) | 3:38 |
 | 50 | [Scarlet](https://open.spotify.com/track/0vX1RAPKBJgkxLZnyL2OLS) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Scarlet](https://open.spotify.com/album/0ztVGhgz9NTdpZNIcblSWh) | 3:19 |

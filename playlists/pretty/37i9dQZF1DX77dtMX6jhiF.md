@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,464 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,469 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 35 | [Cold \(feat\. Kaash Paige\)](https://open.spotify.com/track/4KiGhqUwjvrJqVbiwsMwkV) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 4:37 |
 | 36 | [Green Eyes](https://open.spotify.com/track/56B0uGixLoAvJCBj25wBfG) | [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Love And Liberation](https://open.spotify.com/album/4DbWKlb4SOElI7DYEE5TIR) | 5:19 |
 | 37 | [Bare Wit Me](https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 2:08 |
-| 38 | [Stay](https://open.spotify.com/track/3xY4TcsCUR8q0J1NgL8QK3) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Life Is Good \(Deluxe\)](https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI) | 3:45 |
-| 39 | [Goat Level](https://open.spotify.com/track/7eNr4C0NWjNdA8K31s7QAc) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Revenge Is Sweet](https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe) | 4:28 |
+| 38 | [Goat Level](https://open.spotify.com/track/7eNr4C0NWjNdA8K31s7QAc) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Revenge Is Sweet](https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe) | 4:28 |
+| 39 | [Stay](https://open.spotify.com/track/3xY4TcsCUR8q0J1NgL8QK3) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Life Is Good \(Deluxe\)](https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI) | 3:45 |
 | 40 | [Love Me Nina / Semiautomatic](https://open.spotify.com/track/6kzkaR1UEKP0XjlK4jFgC7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 4:16 |
 | 41 | [California Dreaming](https://open.spotify.com/track/2F7dvdHfSM5cZxrkkptddA) | [Eddie Hazel](https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ) | [AT HOME](https://open.spotify.com/album/4v5hIeJhusFcKFXyRHRBoy) | 3:41 |
 | 42 | [You Raised Me](https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Walk in Da Park](https://open.spotify.com/album/2UAWSIueBxqi7bXSoKxQ7v) | 2:50 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 46 | [Ojuelegba](https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9) | 3:36 |
 | 47 | [Quarantine Wifey \(feat\. JID\)](https://open.spotify.com/track/6U2FHhnZNxZcgE1fTIgv3d) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 3:54 |
 | 48 | [Trouble Sleep Yanga Wake Am](https://open.spotify.com/track/4fSGItb7Y1uOGfSoZDadhn) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Roforofo Fight](https://open.spotify.com/album/6a3zPR8tCHNkDXUBwucoFq) | 12:06 |
-| 49 | [THE NEWS](https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [THE NEWS](https://open.spotify.com/album/5i6nptGVzZL6qY4YW0gTtN) | 4:27 |
-| 50 | [Messiah](https://open.spotify.com/track/4Wno0fG64h2dQwZf7dGYet) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Messiah](https://open.spotify.com/album/1dWwjV25uEwyCr2jVDntvP) | 2:59 |
+| 49 | [Messiah](https://open.spotify.com/track/4Wno0fG64h2dQwZf7dGYet) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Messiah](https://open.spotify.com/album/1dWwjV25uEwyCr2jVDntvP) | 2:59 |
+| 50 | [THE NEWS](https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [THE NEWS](https://open.spotify.com/album/5i6nptGVzZL6qY4YW0gTtN) | 4:27 |
 
 Snapshot ID: `ZIsTugAAAAB0TW+qql3Pj7QnoLPgwNR0`

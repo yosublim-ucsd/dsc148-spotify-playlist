@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Fast-paced tunes for Tamil party time!\nCover : Yuvan - Anirudh",
+  "description": "Fast-paced tunes for Tamil party time!\nCover : Leo",
   "name": "Tamil Party Time",
   "tracks": [
     {
@@ -244,6 +244,32 @@
       "duration_ms": 264666,
       "name": "Aathangara Orathil",
       "url": "https://open.spotify.com/track/1ZbfvUHBfdODgIL70sk6XR"
+    },
+    {
+      "album": {
+        "name": "Achacho (From \"Aranmanai 4\")",
+        "url": "https://open.spotify.com/album/38v7imWGztnKKx1SZuf5o3"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Kharesma Ravichandran",
+          "url": "https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193056,
+      "name": "Achacho - From \"Aranmanai 4\"",
+      "url": "https://open.spotify.com/track/5eSoySxUnx3xsm0FHFgHiv"
     },
     {
       "album": {
@@ -1649,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "Indian 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2odSkyvlROPRtPYsr2lE0l"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234023,
+      "name": "Kadharalz",
+      "url": "https://open.spotify.com/track/77OQsnAirm7Ke8EGgBeOxz"
+    },
+    {
+      "album": {
         "name": "Osthe (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2yfStC7OGYcfFJzGmsyLpy"
       },
@@ -1841,6 +1885,28 @@
     },
     {
       "album": {
+        "name": "Jigarthanda DoubleX (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Maamadura",
+      "url": "https://open.spotify.com/track/6EJ1ki4Dcf6in9eidtPSNZ"
+    },
+    {
+      "album": {
         "name": "Maari (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl"
       },
@@ -1990,7 +2056,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 323343,
       "name": "Mukkala Mukkabla",
       "url": "https://open.spotify.com/track/1qHQ6U2HSSddaH6LYs5M9t"
@@ -2502,6 +2568,32 @@
       "duration_ms": 266040,
       "name": "Rangola",
       "url": "https://open.spotify.com/track/6wVOOB9VyG0udgj4xhYWhq"
+    },
+    {
+      "album": {
+        "name": "Varisu",
+        "url": "https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Thalapathy Vijay",
+          "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
+        },
+        {
+          "name": "M.M.Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287080,
+      "name": "Ranjithame",
+      "url": "https://open.spotify.com/track/2fCstGYgGJgg62gD3UeHmX"
     },
     {
       "album": {

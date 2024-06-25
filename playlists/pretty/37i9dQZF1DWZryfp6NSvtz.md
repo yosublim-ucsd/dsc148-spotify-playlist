@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Kids In Glass Houses
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,850 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,838 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 25 | [Metamorphosis](https://open.spotify.com/track/1LfZui3XXZ92ZZDjAxYqhj) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Metamorphosis](https://open.spotify.com/album/7zdOkjjbeUNeouWdouwNxE) | 3:23 |
 | 26 | [Unfair \(Nanana\)](https://open.spotify.com/track/2CvZ8STz0JGIird8UR6Nqf) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Unfair \(Nanana\)](https://open.spotify.com/album/0vJp98EEVx6GxmXB7lVk7r) | 3:34 |
 | 27 | [Monte Cristo](https://open.spotify.com/track/3kBAg8xeRFawxF9vmoYoVh) | [Flowers For Emily](https://open.spotify.com/artist/0VhdOT93Owd0K2RhpaqJk5) | [EP](https://open.spotify.com/album/4D0THrjJeRNOVJEJtw2SF4) | 3:13 |
-| 28 | [Sail Away](https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn), [Chunk! No](https://open.spotify.com/artist/2RJG77zJneqMFlxdK8U2FK), [Captain Chunk!](https://open.spotify.com/artist/7LebJKbIfOpFYYiAaAGEw1) | [Sail Away](https://open.spotify.com/album/7LHNEaG4vAGmD9vCO0gRrt) | 3:17 |
+| 28 | [Sail Away](https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn), [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Sail Away](https://open.spotify.com/album/7LHNEaG4vAGmD9vCO0gRrt) | 3:17 |
 | 29 | [Bad Luck](https://open.spotify.com/track/1Ln6nNE0NKKCEmxSkBNGsT) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Bad Luck](https://open.spotify.com/album/1nX5ipB1JDiptJyxwt4gTO) | 3:22 |
 | 30 | [Up On You](https://open.spotify.com/track/26PsjfFm0WptxsN9pkRh13) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Up On You](https://open.spotify.com/album/0Gl9UYk3oZiDgw1z7eX9Kl) | 4:34 |
 | 31 | [flaws](https://open.spotify.com/track/0XJH726i0Y30ppIRqcDk4K) | [deer death](https://open.spotify.com/artist/17QFJD1kvdfFzwZPMd6uCg), [Nextime](https://open.spotify.com/artist/6Kwqn9ZUZvG9lz4InvATNj) | [flaws](https://open.spotify.com/album/4Th0NiehCmQ3zKNsXVupbz) | 3:01 |

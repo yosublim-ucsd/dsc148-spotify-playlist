@@ -10979,6 +10979,28 @@
     },
     {
       "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240964,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
+    {
+      "album": {
         "name": "En Letra de Otro",
         "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
       },

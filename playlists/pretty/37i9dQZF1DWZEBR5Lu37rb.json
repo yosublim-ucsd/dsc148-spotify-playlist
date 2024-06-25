@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 64950,
+  "num_followers": 65044,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Permanent Music 3",
         "url": "https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 410847,
       "name": "iPlan",
       "url": "https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Ngimtholile",
-        "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
-      },
-      "artists": [
-        {
-          "name": "Maverick Muji",
-          "url": "https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o"
-        },
-        {
-          "name": "Nonny",
-          "url": "https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G"
-        }
-      ],
-      "duration_ms": 244062,
-      "name": "Ngimtholile",
-      "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Once Upon a Time",
         "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 230253,
       "name": "Eminado (feat. Don Jazzy)",
       "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Ngimtholile",
+        "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
+      },
+      "artists": [
+        {
+          "name": "Maverick Muji",
+          "url": "https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o"
+        },
+        {
+          "name": "Nonny",
+          "url": "https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G"
+        }
+      ],
+      "duration_ms": 244062,
+      "name": "Ngimtholile",
+      "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "duration_ms": 265506,
+      "name": "Ndiyagodola",
+      "url": "https://open.spotify.com/track/5PIYT6wbHYd1z4wUOavkUH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
         "url": "https://open.spotify.com/album/7JpIFYw3A6DlTK8PsoZ8PA"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 246822,
       "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
       "url": "https://open.spotify.com/track/0Fts0ctd6WoZPjffe6VlCD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 265506,
-      "name": "Ndiyagodola",
-      "url": "https://open.spotify.com/track/5PIYT6wbHYd1z4wUOavkUH"
     },
     {
       "added_at": "2024-05-22 11:00:00",

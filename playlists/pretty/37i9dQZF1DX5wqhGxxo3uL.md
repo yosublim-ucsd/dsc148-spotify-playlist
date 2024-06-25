@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 
 > hairbrush as a microphone type songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,478 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,526 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wqhGxxo3uL.md) - [plain]
 | 36 | [Dear Future Husband](https://open.spotify.com/track/3cU2wBxuV6nFiuf6PJZNlC) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:04 |
 | 37 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 |
 | 38 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 |
-| 39 | [she's all i wanna be](https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:27 |
-| 40 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
+| 39 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
+| 40 | [she's all i wanna be](https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:27 |
 | 41 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 |
 | 42 | [Boyfriend](https://open.spotify.com/track/3UGIZ8qcrMTwzLbx6Kttqt) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 2:51 |
 | 43 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |

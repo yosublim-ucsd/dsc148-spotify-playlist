@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: Khalid",
+  "description": "The hottest songs you need to listen to right now. Cover: Coldplay",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "bad emotions",
+        "url": "https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185272,
+      "name": "bad emotions",
+      "url": "https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m"
+    },
+    {
+      "album": {
         "name": "bad idea right?",
         "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
       },
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 170066,
       "name": "Candy Paint",
       "url": "https://open.spotify.com/track/2hZQJequTwkaizRM0NZRa1"
@@ -1315,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "Chanel No.5",
+        "url": "https://open.spotify.com/album/4fSheJGSNnkHOR5psNKUWG"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160573,
+      "name": "Chanel No.5",
+      "url": "https://open.spotify.com/track/1NV3GyttwPTCgQ15BtBPpn"
+    },
+    {
+      "album": {
         "name": "Chase It (Mmm Da Da Da)",
         "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
       },
@@ -1326,7 +1362,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 154639,
       "name": "Chase It (Mmm Da Da Da)",
       "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
@@ -2192,7 +2228,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -2232,6 +2268,28 @@
       "duration_ms": 165175,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
+    },
+    {
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        },
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127452,
+      "name": "Escape (feat. Jessi)",
+      "url": "https://open.spotify.com/track/2Tp8vm7MZIb1nnx1qEGYv5"
     },
     {
       "album": {
@@ -2628,6 +2686,24 @@
       "duration_ms": 151040,
       "name": "Feeling Lucky",
       "url": "https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny"
+    },
+    {
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
       "album": {
@@ -3892,7 +3968,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
@@ -3990,7 +4066,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 143211,
       "name": "I Wanna Thank Me (feat. Niecy Nash)",
       "url": "https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr"
@@ -4988,7 +5064,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 233013,
       "name": "LOST!",
       "url": "https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7"
@@ -6491,6 +6567,28 @@
     },
     {
       "album": {
+        "name": "Pour Me A Drink",
+        "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195122,
+      "name": "Pour Me A Drink (Feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
+    },
+    {
+      "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
@@ -6600,7 +6698,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 269477,
       "name": "Rain In Manhattan",
       "url": "https://open.spotify.com/track/6RA4Lkqah33nNfNadjuPdW"
@@ -7803,6 +7901,24 @@
     },
     {
       "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+    },
+    {
+      "album": {
         "name": "eternal sunshine (slightly deluxe)",
         "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
       },
@@ -7938,6 +8054,32 @@
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
+    },
+    {
+      "album": {
+        "name": "the boy is mine (Remix)",
+        "url": "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213384,
+      "name": "the boy is mine (with Brandy, Monica) - Remix",
+      "url": "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF"
     },
     {
       "album": {
@@ -8510,6 +8652,28 @@
       "duration_ms": 194093,
       "name": "UNTOUCHABLE",
       "url": "https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "us. (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
     },
     {
       "album": {

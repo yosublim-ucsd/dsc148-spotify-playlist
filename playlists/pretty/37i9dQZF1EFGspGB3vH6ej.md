@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,963 likes - 250 songs - 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,964 likes - 250 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 62 | [Say Somethin'](https://open.spotify.com/track/4p0VPhnhFVvoVF1yWcWGNk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:44 |
 | 63 | [The Roof \(Back In Time\)](https://open.spotify.com/track/4gNeiiz86Y5wekGwfIybXW) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 5:14 |
 | 64 | [Make It Happen](https://open.spotify.com/track/5UVcgBRW78CCcKCopEGAST) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 5:07 |
-| 65 | [Where Are You Christmas](https://open.spotify.com/track/13JaJYVh5Mbm5CxUxo6pex) | [Ahron Kupner](https://open.spotify.com/artist/4tnxMzWhSfJZz0M37uFkIo) | [My Funny Valentine](https://open.spotify.com/album/0Z2kEBzpRVD7oxP4WazPrJ) | 4:19 |
-| 66 | [I'll Be Lovin' U Long Time](https://open.spotify.com/track/1PzVLh1uoq5pAUnqNQElQq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:01 |
+| 65 | [I'll Be Lovin' U Long Time](https://open.spotify.com/track/1PzVLh1uoq5pAUnqNQElQq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:01 |
+| 66 | [Where Are You Christmas](https://open.spotify.com/track/13JaJYVh5Mbm5CxUxo6pex) | [Ahron Kupner](https://open.spotify.com/artist/4tnxMzWhSfJZz0M37uFkIo) | [My Funny Valentine](https://open.spotify.com/album/0Z2kEBzpRVD7oxP4WazPrJ) | 4:19 |
 | 67 | [Fly Like A Bird](https://open.spotify.com/track/2iw2OfEI4ovonFecBV9RLF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:52 |
 | 68 | [Mine Again](https://open.spotify.com/track/4IeWaMzLFtBP5Dtb6krPc1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 4:01 |
 | 69 | [When I Saw You](https://open.spotify.com/track/3Iq58ceNpVxghuRWqMLGHy) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:23 |
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 149 | [Lil Snowman](https://open.spotify.com/track/3nUvSLBOIJQVLlHb4YOI0H) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/0cS9prZ8u3fdbc7lmtCaMV) | 3:18 |
 | 150 | [You Got Me](https://open.spotify.com/track/2FDPFqROcPjuUnHcsuTCWf) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 4:22 |
 | 151 | [Betcha Gon' Know \(the prologue\)](https://open.spotify.com/track/5ahXEzlHjXyFmpWfIIcJqH) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 4:00 |
-| 152 | [Fly Away \(Butterfly Reprise\)](https://open.spotify.com/track/4EmUMZZlRubBd1q97ik0m3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:49 |
-| 153 | [Always Be My Baby \(feat\. Da Brat & Xscape\) \- Mr\. Dupri Mix](https://open.spotify.com/track/4ItpMQkpwBPICtRQE3yUMb) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Always Be My Baby EP](https://open.spotify.com/album/4g1rP0VXfdQgbTp6j8GOB8) | 4:41 |
+| 152 | [Always Be My Baby \(feat\. Da Brat & Xscape\) \- Mr\. Dupri Mix](https://open.spotify.com/track/4ItpMQkpwBPICtRQE3yUMb) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [Always Be My Baby EP](https://open.spotify.com/album/4g1rP0VXfdQgbTp6j8GOB8) | 4:41 |
+| 153 | [Fly Away \(Butterfly Reprise\)](https://open.spotify.com/track/4EmUMZZlRubBd1q97ik0m3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:49 |
 | 154 | [So Lonely \(feat\. Mariah Carey\)](https://open.spotify.com/track/3fRsRTTfNk62CWMMUJqtG8) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Day After](https://open.spotify.com/album/6LKbX6fsiMtw6xP4TgsY9Q) | 3:51 |
 | 155 | [I Wish You Well](https://open.spotify.com/track/7wKt48omRtzEjaE6hCi6ol) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 4:35 |
 | 156 | [Meteorite](https://open.spotify.com/track/0hHVz2DfAVVMOubn5xiC5p) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 3:50 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 249 | [Herói](https://open.spotify.com/track/1kEV3SaWpYpYtGQPka4ilY) | [Márcio José](https://open.spotify.com/artist/4C3DIE332Fqn9pc3gjBEFg), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Uma Voz, Um Coração](https://open.spotify.com/album/26fyRBEH5saQYYnZQKzxaI) | 4:25 |
 | 250 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbU2wgAAAADgX2ZIIhIpJr+hEaJkaaRD`
+Snapshot ID: `AbU8oAAAAADU9AbDHQST8l0wOHcASz5I`

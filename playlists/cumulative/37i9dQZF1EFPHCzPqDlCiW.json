@@ -981,6 +981,28 @@
     },
     {
       "album": {
+        "name": "ORIGIN",
+        "url": "https://open.spotify.com/album/3WNr0X7Ke2gbAALJe7OluG"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183075,
+      "name": "Gravity (feat. Tyler Shaw)",
+      "url": "https://open.spotify.com/track/2cGoqq76QeKeL8H5MSXIlS"
+    },
+    {
+      "album": {
         "name": "The Sweetest Part",
         "url": "https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S"
       },

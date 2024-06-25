@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 
 ### [This Is Grupo Niche](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0S76rS)
 
-> This is Grupo Niche\. The essential tracks, all in one playlist.
+> This Is Grupo Niche\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,363 likes - 51 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,411 likes - 51 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 44 | [Lo Bonito Y Lo Feo](https://open.spotify.com/track/3RviPwWauFFD8FhcsTFGe7) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 4:56 |
 | 45 | [Mi Hijo y Yo](https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sutil y Contundente](https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za) | 5:35 |
 | 46 | [Digo Yo](https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Querer Es Poder](https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ) | 5:38 |
-| 47 | [Mi Valle del Cauca](https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tapando el Hueco](https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM) | 5:05 |
+| 47 | [Solo Tu Sabes](https://open.spotify.com/track/1O2N1rsU2Y1FR2nuYWjrYD) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 4:44 |
 | 48 | [Cielo de Tambores](https://open.spotify.com/track/4yEPR6IZcSBJQV1ITRLn4W) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:37 |
-| 49 | [Solo Tu Sabes](https://open.spotify.com/track/1O2N1rsU2Y1FR2nuYWjrYD) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 4:44 |
-| 50 | [No Tuve A Quien Decirle Amor](https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Llegando Al 100%](https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT) | 5:23 |
-| 51 | [Atrateño \- Versión Sinfónica](https://open.spotify.com/track/3xwt3eOUASkgdHapmAN0uO) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Orquesta Sinfónica Nacional de Colombia](https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W) | [Niche Sinfónico](https://open.spotify.com/album/7F3HcqByo2nroGMBTzdb7w) | 5:59 |
+| 49 | [No Tuve A Quien Decirle Amor](https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Llegando Al 100%](https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT) | 5:23 |
+| 50 | [Atrateño \- Versión Sinfónica](https://open.spotify.com/track/3xwt3eOUASkgdHapmAN0uO) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Orquesta Sinfónica Nacional de Colombia](https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W) | [Niche Sinfónico](https://open.spotify.com/album/7F3HcqByo2nroGMBTzdb7w) | 5:59 |
+| 51 | [El Coco](https://open.spotify.com/track/1GyiOg6NkOzpDlJQTtY0Fo) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 4:14 |
 
-Snapshot ID: `ZnYUAAAAAABUOUxEz+Q0Y09Z1P4DcL0p`
+Snapshot ID: `ZndlgAAAAADyizF3Suoui1phm38WlU4O`

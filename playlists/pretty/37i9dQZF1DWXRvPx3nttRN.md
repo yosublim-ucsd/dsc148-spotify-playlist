@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,918 likes - 121 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,976 likes - 121 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 27 | [Us \- Acoustic](https://open.spotify.com/track/0GTPn99cNZRVl2Kv0bcwNI) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Us \(Acoustic\)](https://open.spotify.com/album/6HLfpr2l9bN38FkeeQAoCo) | 3:01 |
 | 28 | [Twenty\-Four \(Tyler Joseph from Twenty One Pilots Version\)](https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 4:42 |
 | 29 | [Payphone](https://open.spotify.com/track/5h3Wapr8ZukuHRZ5XMMejV) | [Jayesslee](https://open.spotify.com/artist/1xqkT06p85DIZeqrlVGVWv) | [Payphone](https://open.spotify.com/album/50MkaMTSbHu9O2f4puTIiv) | 3:04 |
-| 30 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Deluxe Edition\)](https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b) | 3:18 |
-| 31 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill \(Acoustic\)](https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn) | 3:46 |
+| 30 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill \(Acoustic\)](https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn) | 3:46 |
+| 31 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Deluxe Edition\)](https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b) | 3:18 |
 | 32 | [Eastside \(with Halsey & Khalid\) \- Acoustic](https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\) \[Acoustic\]](https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk) | 2:53 |
 | 33 | [Don't You Worry Child \- Acoustic Version](https://open.spotify.com/track/4BpndTKEqpLgntffipC53q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 4:17 |
 | 34 | [In My Blood \- Acoustic](https://open.spotify.com/track/6Pce5yn5oOSDB6hZm8Ou2U) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [In My Blood \(Acoustic\)](https://open.spotify.com/album/7Hj0BDJ7shYnMRlzEpvVW7) | 3:32 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 86 | [Hey There Delilah](https://open.spotify.com/track/0xM88xobymkMgg46MStfnV) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/5UdU4dmcRw1TG3oVZf9ZvT) | 3:52 |
 | 87 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 |
 | 88 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
-| 89 | [Umbrella](https://open.spotify.com/track/0mPrdIq5BxRqwAa16Ya1c1) | [Marié Digby](https://open.spotify.com/artist/2XMxHczWkSzDDFhiC3zt8k) | [Your Love](https://open.spotify.com/album/63iUaS749MYijLWJi2c7uz) | 3:45 |
-| 90 | [Breakeven \(Acoustic\)](https://open.spotify.com/track/13KmiyueaRdBDC5SY4oxPI) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [Unreleased \(EP\)](https://open.spotify.com/album/3pplGqCt5EYp1Mc9yv56td) | 3:25 |
+| 89 | [Breakeven \(Acoustic\)](https://open.spotify.com/track/13KmiyueaRdBDC5SY4oxPI) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [Unreleased \(EP\)](https://open.spotify.com/album/3pplGqCt5EYp1Mc9yv56td) | 3:25 |
+| 90 | [Umbrella](https://open.spotify.com/track/0mPrdIq5BxRqwAa16Ya1c1) | [Marié Digby](https://open.spotify.com/artist/2XMxHczWkSzDDFhiC3zt8k) | [Your Love](https://open.spotify.com/album/63iUaS749MYijLWJi2c7uz) | 3:45 |
 | 91 | [leading me on \- acoustic](https://open.spotify.com/track/1ABFvT2I5TSJC0gjfyfpfx) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Sitting at the Kids Table \(Acoustic\)](https://open.spotify.com/album/1wwpBhbFjjxylQBB6rMfly) | 3:41 |
 | 92 | [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 |
 | 93 | [Rely On Me](https://open.spotify.com/track/2amrY1Qly3pMNfqVPsAbBo) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Rely On Me](https://open.spotify.com/album/1AD4aREnRdDu0hhUqzVRUu) | 3:39 |

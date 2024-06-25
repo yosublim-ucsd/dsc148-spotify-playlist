@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 46275,
+  "num_followers": 46273,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAADtih7+5qOttwXrMBGj6Tc+",
+  "snapshot_id": "ZndlgAAAAACWmvVgbi87MOc8BM7pkCRF",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sinais Sessions - Morro Da Urca (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 230553,
+      "name": "Bilhete 2.0 / Incidental: Uma Gota No Oceano - Ao Vivo",
+      "url": "https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Movimento R\u00e1pido dos Olhos",
         "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
       },
@@ -551,30 +571,6 @@
       "duration_ms": 187669,
       "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
       "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "G\u00eanesis",
-        "url": "https://open.spotify.com/album/1D3YpkkKuOpDaGmYsgrhdB"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Thiago Jamel\u00e3o",
-          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "G\u00eanesis",
-      "url": "https://open.spotify.com/track/4MDuV3NrviVuGv73ZjgPH4"
     },
     {
       "added_at": null,
@@ -599,22 +595,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinais Sessions - Morro Da Urca (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo"
+        "name": "G\u00eanesis",
+        "url": "https://open.spotify.com/album/1D3YpkkKuOpDaGmYsgrhdB"
       },
       "artists": [
         {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        },
-        {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Thiago Jamel\u00e3o",
+          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
         }
       ],
-      "duration_ms": 230553,
-      "name": "Bilhete 2.0 / Incidental: Uma Gota No Oceano - Ao Vivo",
-      "url": "https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv"
+      "duration_ms": 240000,
+      "name": "G\u00eanesis",
+      "url": "https://open.spotify.com/track/4MDuV3NrviVuGv73ZjgPH4"
     },
     {
       "added_at": null,
@@ -747,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Coragem da Luz",
+        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 197633,
+      "name": "Homem do Mundo (feat. Criolo)",
+      "url": "https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Movimento R\u00e1pido dos Olhos",
         "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
       },
@@ -779,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Coragem da Luz",
-        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
       },
       "artists": [
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
         }
       ],
-      "duration_ms": 197633,
-      "name": "Homem do Mundo (feat. Criolo)",
-      "url": "https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb"
+      "duration_ms": 255274,
+      "name": "T\u00e3o Real",
+      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 265896,
       "name": "Tudo Ou Nada",
       "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 255274,
-      "name": "T\u00e3o Real",
-      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 286570,
+      "name": "Estere\u00f3tipo",
+      "url": "https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 240176,
       "name": "Eu Te Avisei",
       "url": "https://open.spotify.com/track/3dPygQx0ohogo6TwFCiJR3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crise",
-        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 286570,
-      "name": "Estere\u00f3tipo",
-      "url": "https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E"
     },
     {
       "added_at": null,
@@ -1039,6 +1039,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "ROJO CARMES\u00cd",
+        "url": "https://open.spotify.com/album/5Vga0Q1mohQ81WLTaWTHQj"
+      },
+      "artists": [
+        {
+          "name": "Canal RCN",
+          "url": "https://open.spotify.com/artist/1H4lcG48Xmqp5SmFwgwuYL"
+        },
+        {
+          "name": "Ail\u00e9n",
+          "url": "https://open.spotify.com/artist/6EBltB8KhOI3eluJ5pR8kM"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "\u00bfTe Quedas Conmigo?",
+      "url": "https://open.spotify.com/track/623XPwxBQuqKe7YPwYrQl0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bem Longe do Fim",
         "url": "https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH"
       },
@@ -1055,26 +1079,6 @@
       "duration_ms": 165818,
       "name": "Mais que Refr\u00e3o",
       "url": "https://open.spotify.com/track/0sn1LzuoN2frfvwNMsKtAM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Coragem da Luz",
-        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
-        }
-      ],
-      "duration_ms": 185886,
-      "name": "Laranja Mec\u00e2nica (feat. X\u00eania Fran\u00e7a)",
-      "url": "https://open.spotify.com/track/5vE1nlg6T3641s1yGpWIXv"
     }
   ],
   "unique_name": "This Is Rashid",

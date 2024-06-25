@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,075 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,102 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 63 | [楽園](https://open.spotify.com/track/0XwEnnsW5Z46jIweSj2MzB) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [楽園](https://open.spotify.com/album/6JHfw2HoDjuWQiL5sRpavT) | 4:07 |
 | 64 | [Don't Be Someone Else](https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:43 |
 | 65 | [琥珀色の素肌](https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ) | 3:25 |
-| 66 | [PULSE](https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [MAGNET](https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr) | 3:41 |
-| 67 | [ファンデーションの前に](https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [ファンデーションの前に](https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS) | 2:49 |
-| 68 | [Climax Night](https://open.spotify.com/track/3O4SdpqF7RzZkA79cRBvwV) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [PARAISO](https://open.spotify.com/album/2nlSDINS6XaxOTGIvld3u0) | 4:04 |
+| 66 | [Climax Night](https://open.spotify.com/track/3O4SdpqF7RzZkA79cRBvwV) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [PARAISO](https://open.spotify.com/album/2nlSDINS6XaxOTGIvld3u0) | 4:04 |
+| 67 | [PULSE](https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [MAGNET](https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr) | 3:41 |
+| 68 | [ファンデーションの前に](https://open.spotify.com/track/490KCtGnjNDhOJw3Tmn8Sy) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [ファンデーションの前に](https://open.spotify.com/album/0vfStzXN4XJeTmvnITS5wS) | 2:49 |
 | 69 | [君とdrive](https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [君とdrive](https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK) | 4:19 |
 | 70 | [Watching Over You](https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE) | [Peach & Apricot](https://open.spotify.com/artist/54l7q4MlKoJbewWkohTJeX), [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N), [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Watching Over You](https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z) | 4:57 |
-| 71 | [Night Distance](https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls), [mahina](https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM) | [Smoky Valley](https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc) | 4:19 |
-| 72 | [HONDA](https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [HONDA](https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN) | 3:59 |
+| 71 | [HONDA](https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [HONDA](https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN) | 3:59 |
+| 72 | [Night Distance](https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls), [mahina](https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM) | [Smoky Valley](https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc) | 4:19 |
 | 73 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 |
 | 74 | [「あの娘は誰?」とか言わせたい](https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:39 |
 | 75 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 78 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 |
 | 79 | [Rainy Day](https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Rainy Day](https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu) | 3:01 |
 | 80 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 |
-| 81 | [Sweet Sweet \- feat\. 土岐麻子](https://open.spotify.com/track/0nwBOeANdTYkamtj8lHp0U) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Sweet Sweet \(feat\. 土岐麻子\)](https://open.spotify.com/album/1thBf4gOv73FiEe21Jro2y) | 4:10 |
+| 81 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 |
 | 82 | [Rainy Runway](https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [Rainy Runway](https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH) | 4:01 |
-| 83 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 |
+| 83 | [Sweet Sweet \- feat\. 土岐麻子](https://open.spotify.com/track/0nwBOeANdTYkamtj8lHp0U) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Sweet Sweet \(feat\. 土岐麻子\)](https://open.spotify.com/album/1thBf4gOv73FiEe21Jro2y) | 4:10 |
 | 84 | [Flower Garden](https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7) | 3:21 |
 | 85 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 |
 | 86 | [Call me back](https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [Call me back](https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi) | 3:45 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 95 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 |
 | 96 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 |
 | 97 | [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 |
-| 98 | [あなたゆずり](https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Living Room](https://open.spotify.com/album/17wsj6ok978OcBQhmNexce) | 4:11 |
-| 99 | [eden](https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [ちがう](https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO) | 3:50 |
+| 98 | [eden](https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [ちがう](https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO) | 3:50 |
+| 99 | [あなたゆずり](https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Living Room](https://open.spotify.com/album/17wsj6ok978OcBQhmNexce) | 4:11 |
 | 100 | [LOOP](https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [FEEL GOOD](https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn) | 5:05 |
 
 Snapshot ID: `ZmkkGwAAAACda/aKjue3bx1MdQlT/aPk`

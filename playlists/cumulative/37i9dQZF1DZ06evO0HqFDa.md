@@ -2,7 +2,7 @@
 
 ### [This Is Ramin Djawadi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HqFDa)
 
-> This is Ramin Djawadi\. The essential tracks, all in one playlist.
+> This Is Ramin Djawadi\. Los temas esenciales, todos en una lista.
 
 57 songs - 2 hr 58 min
 

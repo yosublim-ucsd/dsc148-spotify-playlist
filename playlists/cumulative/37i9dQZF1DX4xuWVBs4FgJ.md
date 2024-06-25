@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to those long nights over dinner
 
-428 songs - 1 day 1 hr 16 min
+429 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 | 2022-05-27 | 2023-04-29 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-27 |  |
 | [How Do You Sleep? \- Acoustic](https://open.spotify.com/track/2ZgUlizmH0VmOJzUwDchAf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep? \(Acoustic\)](https://open.spotify.com/album/0RR2uPlGQKAYXJIXgYNJKE) | 3:25 | 2022-10-28 | 2022-11-13 |
+| [How Far Is Your Love \(with Los Lonely Boys\)](https://open.spotify.com/track/2ZrioVBvBpKZXOd8tWcmzR) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Good Morning](https://open.spotify.com/album/5SP7T6m18OQCH0l68nxlON) | 2:43 | 2024-06-21 |  |
 | [How Would You Feel \(Paean\)](https://open.spotify.com/track/6PJ8FF6UR8FZXfEvpHkIVN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:40 | 2023-09-15 | 2023-12-03 |
 | [I Believe in Us](https://open.spotify.com/track/59JtQ8mThUAnRGValaExhc) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Surround Me \- EP](https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4) | 3:22 | 2022-10-28 | 2022-11-13 |
 | [I Believe in Us](https://open.spotify.com/track/5ZT5UB1SNVMkfYiTvnliz4) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [I Believe in Us](https://open.spotify.com/album/1ilm51Vj9GmHghmlYQANOf) | 3:22 | 2021-06-22 | 2022-07-29 |
@@ -245,7 +246,7 @@
 | [Lost Without You](https://open.spotify.com/track/26z6V1SijQq6J3gPIu1H7t) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/4wvckIYLIsYQQ5ES3H9Pzn) | 3:45 | 2021-06-22 | 2022-06-15 |
 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 | 2022-07-22 | 2024-04-19 |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-03 |  |
-| [Love Like This](https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:36 | 2023-05-26 |  |
+| [Love Like This](https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:36 | 2023-05-26 | 2024-06-25 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-06-21 |  |
 | [Loved by You](https://open.spotify.com/track/5bYOsPMgWyQc94vtLz92ZH) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Loved by You](https://open.spotify.com/album/3igoyhwEfFPEIqdvU3eXlU) | 4:16 | 2024-02-23 |  |
 | [Lovely](https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Lovely](https://open.spotify.com/album/61PhrZ1QgJCsQSYxlh87RZ) | 2:56 | 2021-06-22 | 2022-05-18 |

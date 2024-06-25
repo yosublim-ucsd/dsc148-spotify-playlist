@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 
 > \~ have a lovely time \~
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,647 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,697 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 25 | [selfish](https://open.spotify.com/track/74zDN5iEJGxRTtdJeySXqI) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [selfish](https://open.spotify.com/album/31KFg6ImtNUx1kEVuk56fH) | 2:22 |
 | 26 | [In My Life \- Remastered 2009](https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:26 |
 | 27 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:35 |
-| 28 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
-| 29 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 |
+| 28 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 |
+| 29 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
 | 30 | [I'm Getting Bored of This](https://open.spotify.com/track/5egFmtCexSoBQFGl4gMY7y) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [I'm Getting Bored of This](https://open.spotify.com/album/6NaLrfKHBiUFxI3NX24CgV) | 3:46 |
 | 31 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 |
 | 32 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 59 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 |
 | 60 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 |
 | 61 | [Bloom \(Online Bonus Track\)](https://open.spotify.com/track/44alNkXsYnTyPnkMdohBcx) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/4TBDgyNsiHYu9xTbasFCE9) | 3:29 |
-| 62 | [hospital beach](https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [you missed the best part](https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx) | 2:04 |
-| 63 | [Don't Worry Baby \- Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1) | 2:49 |
+| 62 | [Don't Worry Baby \- Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1) | 2:49 |
+| 63 | [hospital beach](https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [you missed the best part](https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx) | 2:04 |
 | 64 | [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 |
 | 65 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
 | 66 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
 | 67 | [I'll Be Seeing You](https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:31 |
-| 68 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
-| 69 | [Used to Be in Love](https://open.spotify.com/track/290xSzR8Ee9fm82poMg4od) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Quiet Ferocity](https://open.spotify.com/album/0RSKnjggldZx2NrKSOD913) | 3:42 |
-| 70 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 |
+| 68 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 |
+| 69 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
+| 70 | [Used to Be in Love](https://open.spotify.com/track/290xSzR8Ee9fm82poMg4od) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Quiet Ferocity](https://open.spotify.com/album/0RSKnjggldZx2NrKSOD913) | 3:42 |
 | 71 | [Cherry Wine \- Live](https://open.spotify.com/track/4Q66chx9WzqWcLItXoZ5r4) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 4:00 |
 | 72 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 |
 | 73 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 |

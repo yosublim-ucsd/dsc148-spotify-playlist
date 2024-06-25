@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > The African & West Indian diaspora united\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,183 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,244 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 7 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |
 | 8 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
 | 9 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
-| 10 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 |
-| 11 | [Lonely At The Top](https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:37 |
+| 10 | [Lonely At The Top](https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:37 |
+| 11 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 |
 | 12 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 |
 | 13 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
 | 14 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 36 | [IDK \(feat\. Zlatan\)](https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:00 |
 | 37 | [Rodo](https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Rodo](https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ) | 2:23 |
 | 38 | [System \(feat\. WizKid\)](https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:01 |
-| 39 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 |
-| 40 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
-| 41 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 |
+| 39 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 |
+| 40 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 |
+| 41 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
 | 42 | [Diana](https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:52 |
 | 43 | [Soundgasm](https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n) | 3:24 |
 | 44 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |

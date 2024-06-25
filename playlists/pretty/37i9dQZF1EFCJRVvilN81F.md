@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,639 likes - 136 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,640 likes - 136 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 26 | [DRIVE ME CRAZY](https://open.spotify.com/track/6PJL4Xh0T3HEHHItDo9wV7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:37 |
 | 27 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 |
 | 28 | [At All](https://open.spotify.com/track/35iNiYHSzx3sv6XuqYh8HJ) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [At All / Hilarity Duff EP](https://open.spotify.com/album/4oo1zyAMnLVjZmQoyNP3h5) | 4:47 |
-| 29 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
-| 30 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
+| 29 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
+| 30 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 31 | [Communicate](https://open.spotify.com/track/5PqVcm1TdqsjXkShVVV7UY) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [The Healing Component](https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX) | 3:57 |
 | 32 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:23 |
 | 33 | [LEAVE ME ALONE \(feat\. Shay Lia\)](https://open.spotify.com/track/44dOBMeJCASW2TfKraoGnl) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 4:37 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 135 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 136 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `AbU2+AAAAABGoyXsZ0K7nAPdCYRKfElU`
+Snapshot ID: `AbU8mAAAAAC7fyBPPweBmDl2/ui8E8HJ`

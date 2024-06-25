@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 
 > Turn anywhere into a sing\-along party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,097 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,236 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 | 5 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 6 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
 | 7 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 |
-| 8 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
-| 9 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
+| 8 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
+| 9 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 10 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
 | 11 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
 | 12 | [What Makes You Beautiful](https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:19 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 | 53 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
 | 54 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
 | 55 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 |
-| 56 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 |
-| 57 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
-| 58 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
+| 56 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
+| 57 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 |
+| 58 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 |
 | 59 | [How Deep Is Your Love](https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:05 |
 | 60 | [Poker Face](https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 3:57 |
 | 61 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 | 78 | [Pocketful of Sunshine](https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Pocketful Of Sunshine](https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw) | 3:22 |
 | 79 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 |
 | 80 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
-| 81 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 |
-| 82 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
+| 81 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
+| 82 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 |
 | 83 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 |
 | 84 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 |
 | 85 | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:27 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5I05jXm1F2M.md) - [plain]
 | 94 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 |
 | 95 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 |
 | 96 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 |
-| 97 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
-| 98 | [Umbrella](https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:35 |
+| 97 | [Umbrella](https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:35 |
+| 98 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
 | 99 | [Riders on the Storm](https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 7:14 |
 | 100 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
 

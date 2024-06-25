@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,614 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,661 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 18 | [Ooh Ahh \(My Life Be Like\) \(feat\. Toby Mac\)](https://open.spotify.com/track/2cGJxXXIBrxMhk2fWUJTLs) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Art of Translation](https://open.spotify.com/album/2DtNX7KFKsCf1CNJt5gvif) | 3:53 |
 | 19 | [In The Light \- Remastered 2013](https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 5:05 |
 | 20 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 |
-| 21 | [Dive](https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Speechless](https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg) | 3:57 |
-| 22 | [Stomp \(Remix\)](https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Essential Kirk Franklin](https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt) | 5:05 |
+| 21 | [Stomp \(Remix\)](https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Essential Kirk Franklin](https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt) | 5:05 |
+| 22 | [Dive](https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Speechless](https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg) | 3:57 |
 | 23 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
 | 24 | [Flood](https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 3:31 |
 | 25 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 57 | [Speechless](https://open.spotify.com/track/6GhzOYfrReyXf19U4YuGXm) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [\# 1's Vol\. 1](https://open.spotify.com/album/0bYtirzI9EXXCcu3gz8FRP) | 5:06 |
 | 58 | [Rain](https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7) | [dryve](https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4) | [Thrifty Mr\. Kickstar](https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ) | 6:46 |
 | 59 | [Lift My Eyes Up](https://open.spotify.com/track/08CSlrBEs0qAaNm4dxLPf6) | [Miss Angie](https://open.spotify.com/artist/5rnoA4GlPQE4s15Si3oi6m) | [100 Million Eyeballs](https://open.spotify.com/album/2RRtryPMMJCXllcbpms0k5) | 3:00 |
-| 60 | [Here With Me](https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [The Best Of Plumb](https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8) | 4:06 |
-| 61 | [Revolve](https://open.spotify.com/track/3wsYeIOXrGuSnG3kRGbrwm) | [Poor Old Lu](https://open.spotify.com/artist/4kKX2Dc7HBE6fozhXYzPw8) | [The Waiting Room](https://open.spotify.com/album/2CZhEQJRXhfOxWMYnYKpE5) | 3:47 |
+| 60 | [Revolve](https://open.spotify.com/track/3wsYeIOXrGuSnG3kRGbrwm) | [Poor Old Lu](https://open.spotify.com/artist/4kKX2Dc7HBE6fozhXYzPw8) | [The Waiting Room](https://open.spotify.com/album/2CZhEQJRXhfOxWMYnYKpE5) | 3:47 |
+| 61 | [Here With Me](https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [The Best Of Plumb](https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8) | 4:06 |
 | 62 | [Waiting Room](https://open.spotify.com/track/61NbXozQGixs8eC5ACTqc2) | [LaRue](https://open.spotify.com/artist/5MGUVsXrxgF9p3i3uko4MF) | [Larue](https://open.spotify.com/album/2lXKV7Rs6akfjT4bfugIly) | 3:20 |
 | 63 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |
 | 64 | [Why Do I Do](https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [The Ultimate Collection](https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX) | 3:22 |

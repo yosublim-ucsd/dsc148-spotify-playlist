@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 ### [This Is El Haragán y Compañía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C5R5V)
 
-> This Is El Haragán y Compañía\. Los temas esenciales, todos en una lista.
+> This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,696 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,716 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 49 | [Aguja en la Ciudad](https://open.spotify.com/track/3RtmmS2IxTLbmOalW5cIk3) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 4:26 |
 | 50 | [Yayo](https://open.spotify.com/track/554UiqN2TguT6PGTBAJGUo) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Yayo](https://open.spotify.com/album/7L3dnKcqyEBW1lNXf5p4wf) | 3:57 |
 
-Snapshot ID: `ZnYUAAAAAAAAzEVRvp+MxfeTcRaVKdxq`
+Snapshot ID: `ZndlgAAAAAD83RGRvLnHrpTkB+9L5b5P`

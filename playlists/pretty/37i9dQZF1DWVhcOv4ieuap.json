@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1023615,
+  "num_followers": 1023650,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -527,18 +527,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 180929,
-      "name": "Me Fui de Vacaciones",
-      "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
+      "duration_ms": 240964,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -559,22 +563,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Orion",
-        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 240964,
-      "name": "Orion",
-      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+      "duration_ms": 180929,
+      "name": "Me Fui de Vacaciones",
+      "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -755,38 +755,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "REFLEXA",
-        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 149255,
-      "name": "Si no no",
-      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Mi Amor (with JVKE & Anitta)",
         "url": "https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz"
       },
@@ -811,6 +779,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Te quiero",
         "url": "https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 214781,
       "name": "Te quiero",
       "url": "https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 149255,
+      "name": "Si no no",
+      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166406,
-      "name": "princess peach",
-      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "LOVEO",
         "url": "https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 173868,
       "name": "LOVEO",
       "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+        "name": "LLYLM",
+        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+      "duration_ms": 174044,
+      "name": "LLYLM",
+      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "LLYLM",
-        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 174044,
-      "name": "LLYLM",
-      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Pink Aura",
-        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 193355,
-      "name": "F* OFF",
-      "url": "https://open.spotify.com/track/4c46OwwVzZ2TpWCfvxCrUC"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Low Key (feat. Humby)",
         "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
       },
@@ -1127,18 +1107,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Las Mujeres Ya No Lloran",
-        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+        "name": "Pink Aura",
+        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Nassau",
-      "url": "https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3"
+      "duration_ms": 193355,
+      "name": "F* OFF",
+      "url": "https://open.spotify.com/track/4c46OwwVzZ2TpWCfvxCrUC"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 207333,
       "name": "Formentera",
       "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Nassau",
+      "url": "https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "GTA.mp3",
-        "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 151653,
-      "name": "GTA.mp3",
-      "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "alpha",
         "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 153506,
       "name": "LAS BABYS",
       "url": "https://open.spotify.com/track/7EJ2c1JMy4knv1wK6bazy0"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "GTA.mp3",
+        "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 151653,
+      "name": "GTA.mp3",
+      "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Baja California",
-        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 187315,
-      "name": "Baja California",
-      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 189080,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Baja California",
+        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 187315,
+      "name": "Baja California",
+      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "BOOM BOOM",
+        "url": "https://open.spotify.com/album/6PFrHHg1tLlLjS2VrOJ9GK"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 142962,
+      "name": "BOOM BOOM",
+      "url": "https://open.spotify.com/track/2I9eR0VGMWyqadUK3HD7KE"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Demasiado",
         "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
       },
@@ -1703,22 +1723,6 @@
       "duration_ms": 157974,
       "name": "After Party",
       "url": "https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Pasado Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 137693,
-      "name": "Pasado Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1739,6 +1743,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Pasado Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 137693,
+      "name": "Pasado Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Dame Un Break",
         "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
       },
@@ -1751,26 +1771,6 @@
       "duration_ms": 200598,
       "name": "Dame Un Break",
       "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "BOOM BOOM",
-        "url": "https://open.spotify.com/album/6PFrHHg1tLlLjS2VrOJ9GK"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 142962,
-      "name": "BOOM BOOM",
-      "url": "https://open.spotify.com/track/2I9eR0VGMWyqadUK3HD7KE"
     },
     {
       "added_at": "2024-06-21 04:00:00",

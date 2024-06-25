@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Watertank
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,720 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,717 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 7 | [Bright Soul](https://open.spotify.com/track/4xvLk9biHaiDH6sZQ6F8Lb) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Bright Soul](https://open.spotify.com/album/2nABJf5Qgz34ayXKpWuRAY) | 2:59 |
 | 8 | [Muse In Motion](https://open.spotify.com/track/3IbefBWqvAwDVkthNHkF2T) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Muse In Motion](https://open.spotify.com/album/0PZezRgzVR3ihVpCVEQos8) | 2:30 |
 | 9 | [Way Out \(Bonus Track, OMPS Version\)](https://open.spotify.com/track/3gCw4Cs3Try7p0WNmVkpe9) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Original Motion Picture Soundtrack](https://open.spotify.com/album/2CpTPFpP1BYhVJhAQnzCR0) | 4:19 |
-| 10 | [Sail Away](https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn), [Chunk! No](https://open.spotify.com/artist/2RJG77zJneqMFlxdK8U2FK), [Captain Chunk!](https://open.spotify.com/artist/7LebJKbIfOpFYYiAaAGEw1) | [Sail Away](https://open.spotify.com/album/7LHNEaG4vAGmD9vCO0gRrt) | 3:17 |
+| 10 | [Sail Away](https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn), [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Sail Away](https://open.spotify.com/album/7LHNEaG4vAGmD9vCO0gRrt) | 3:17 |
 | 11 | [Dance](https://open.spotify.com/track/5wzOg8ba8q6g167QNepcZX) | [MADAM](https://open.spotify.com/artist/6JbwGT0YARZ43pze31ST8h) | [Thanks for the Noise](https://open.spotify.com/album/5ypPwi6yhfMZ6wEhgX5aV3) | 3:28 |
 | 12 | [There's Nothing After](https://open.spotify.com/track/36OZre827rTdSFuDDY3eiI) | [Moloch/Monolyth](https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm) | [There's Nothing After](https://open.spotify.com/album/0Nf7La4ySI1rx0nbWhhdqb) | 3:38 |
 | 13 | [As a Brother](https://open.spotify.com/track/4StOaN23EXEUt2RaCK3xId) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [Deep In Denial](https://open.spotify.com/album/6cysZ8y35sWkZSDZ3oS249) | 3:16 |

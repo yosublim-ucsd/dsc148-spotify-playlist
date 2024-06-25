@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 173600,
       "name": "Casi Algo",
       "url": "https://open.spotify.com/track/13lP3lu5p0fD30L7aTsiEP"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 191855,
       "name": "Cuando Se Te Moja La Tare",
       "url": "https://open.spotify.com/track/00EVTGFVlGQ5ZNmiUvR2H8"
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 149187,
       "name": "ERROR 403",
       "url": "https://open.spotify.com/track/0LWwRQvunwufzUbWARrtX4"
@@ -3320,7 +3320,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 108855,
       "name": "Hay Lupita",
       "url": "https://open.spotify.com/track/5LHfb6tTLSBmM9oCnVWoPW"
@@ -4828,7 +4828,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 333986,
       "name": "L\u2019AMOUR DE MA VIE",
       "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
@@ -5156,7 +5156,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
@@ -5674,7 +5674,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 149538,
       "name": "Mtg Forr\u00f3 e Desmantelo",
       "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
@@ -6678,6 +6678,24 @@
     {
       "album": {
         "name": "Pop like this Pt. 2 (Slowed)",
+        "url": "https://open.spotify.com/album/234kj0msMVe1QJN8D46ExH"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122187,
+      "name": "Pop like this Pt. 2 - Slowed",
+      "url": "https://open.spotify.com/track/2JH5P7TPQAlKDvBZAkMXDp"
+    },
+    {
+      "album": {
+        "name": "Pop like this Pt. 2 (Slowed)",
         "url": "https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x"
       },
       "artists": [
@@ -6688,7 +6706,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 122187,
       "name": "Pop like this Pt. 2 - Slowed",
       "url": "https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl"
@@ -7346,7 +7364,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
@@ -8748,7 +8766,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 180543,
       "name": "Tumba",
       "url": "https://open.spotify.com/track/4DDmzgsqbZ2qwKbOnV9Bzp"
@@ -9170,6 +9188,28 @@
       "duration_ms": 177426,
       "name": "Voil\u00e0",
       "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
+    },
+    {
+      "album": {
+        "name": "Volver Al Futuro",
+        "url": "https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204102,
+      "name": "Volver Al Futuro",
+      "url": "https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL"
     },
     {
       "album": {

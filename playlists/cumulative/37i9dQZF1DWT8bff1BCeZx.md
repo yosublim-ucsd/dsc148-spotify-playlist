@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-145 songs - 11 hr 40 min
+146 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2023-08-04 |  |
 | [Joy Overflow \- Live](https://open.spotify.com/track/5FxeHgp09vEDEnd13YqBcP) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Praise Ovation \(Live Recording\)](https://open.spotify.com/album/7IOP1HGSwRMkIVcZjdcwgL) | 8:27 | 2023-04-06 | 2023-07-02 |
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2023-04-06 |  |
-| [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 | 2024-06-07 |  |
+| [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 | 2024-06-07 | 2024-06-25 |
 | [Malaika](https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Malaika](https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV) | 3:23 | 2023-11-03 | 2024-05-21 |
 | [Masterpiece](https://open.spotify.com/track/53g5J8D6m8UREgQg0pUXKv) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Masterpiece](https://open.spotify.com/album/5IMs5K3abzKDtYofk0jmoQ) | 3:07 | 2023-11-24 | 2024-05-26 |
 | [Miracle](https://open.spotify.com/track/3RWGw0Q3JA9gYtBcor4UQy) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle](https://open.spotify.com/album/0j428IWZNxi3fAJTahWjil) | 4:12 | 2023-04-06 |  |
@@ -129,6 +129,7 @@
 | [Testimony](https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Testimony](https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp) | 2:57 | 2024-03-15 |  |
 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 | 2024-02-09 |  |
 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 | 2023-04-06 | 2023-10-31 |
+| [This Is the Day \(Halle\)](https://open.spotify.com/track/1FnbReDM3Ly7uxwarVJLp0) | [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ), [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [This Is the Day \(Halle\)](https://open.spotify.com/album/5zRg6TUFbAIpZrwHUNvZEU) | 6:51 | 2024-06-24 |  |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-04-06 |  |
 | [Tobechukwu \- Live](https://open.spotify.com/track/79zFqU5mmz9wnuKfjaiPJp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:08 | 2023-04-06 | 2024-04-19 |
 | [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 |  |

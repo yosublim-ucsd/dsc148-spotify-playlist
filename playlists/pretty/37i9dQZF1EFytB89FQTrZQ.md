@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,482 likes - 308 songs - 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,483 likes - 308 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 65 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 |
 | 66 | [Good Luck \(with Jax Jones & Galantis\)](https://open.spotify.com/track/2BfJX65Te5q84Pku7osGRH) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:55 |
 | 67 | [Between Us](https://open.spotify.com/track/1UxRk7ySL6EpSA0fuByeg0) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 3:55 |
-| 68 | [Valentino](https://open.spotify.com/track/4ejTiGZJNOkc3RM6RUITJi) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:01 |
-| 69 | [I’ll See You There Tomorrow](https://open.spotify.com/track/0bMWoFtQIrnW5YyNMc4aKQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 3:16 |
+| 68 | [I’ll See You There Tomorrow](https://open.spotify.com/track/0bMWoFtQIrnW5YyNMc4aKQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 3:16 |
+| 69 | [Valentino](https://open.spotify.com/track/4ejTiGZJNOkc3RM6RUITJi) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:01 |
 | 70 | [She](https://open.spotify.com/track/1z1ztKUrDr09ZSMDnN3QIG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:52 |
 | 71 | [You Love Who You Love](https://open.spotify.com/track/5Uom0F46SsPyBQSWdZUCRB) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/6KkK5K7fLrkZ8VWeZo2pY4) | 3:05 |
 | 72 | [Love Is Religion \(The Blessed Madonna Remix\) \[Mixed\]](https://open.spotify.com/track/3q4cfRBOyj4WqQYV9HrsUh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Club Future Nostalgia \(DJ Mix\)](https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C) | 3:29 |
@@ -317,4 +317,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 307 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 308 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbU2/gAAAACpQYTvjFuPheGTPgudvERn`
+Snapshot ID: `AbU8ogAAAABxDz9fGBf+tt9bF0IC862w`

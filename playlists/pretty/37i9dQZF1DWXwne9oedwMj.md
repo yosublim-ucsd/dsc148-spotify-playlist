@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 
 > Suéltala que ella baila sola\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 801 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 825 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 | 44 | [Colocao](https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Colocao](https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm) | 2:59 |
 | 45 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 |
 | 46 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86) | 3:19 |
-| 47 | [ULALA \(OOH LA LA\)](https://open.spotify.com/track/2QKVCfIDdHf16FkDPFHBHX) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:08 |
-| 48 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 |
+| 47 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 |
+| 48 | [ULALA \(OOH LA LA\)](https://open.spotify.com/track/2QKVCfIDdHf16FkDPFHBHX) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:08 |
 | 49 | [CANDY \- Remix](https://open.spotify.com/track/3VjCEyc0bHfa4Ie34kbWyb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 3:24 |
 | 50 | [Brinca](https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Brinca](https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH) | 2:26 |
 

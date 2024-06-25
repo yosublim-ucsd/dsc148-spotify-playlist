@@ -452,7 +452,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 173781,
       "name": "Al Sodfa",
       "url": "https://open.spotify.com/track/2129hTPYFuxRwddEyZQQxq"
@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Ekhtisar",
+        "url": "https://open.spotify.com/album/4VsKu058hl6R9XH7ZsocV3"
+      },
+      "artists": [
+        {
+          "name": "Yara",
+          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313240,
+      "name": "Ekhtisar",
+      "url": "https://open.spotify.com/track/1Av47fzk2dSeJJGrcyodMN"
+    },
+    {
+      "album": {
         "name": "El Gheyab",
         "url": "https://open.spotify.com/album/5C9SWdz3S0bdXqpZHmHdg3"
       },
@@ -2025,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Habiba",
+        "url": "https://open.spotify.com/album/1yf8ufzFwMlECaZMydhmZu"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214362,
+      "name": "Habiba",
+      "url": "https://open.spotify.com/track/1meqGwp4PGEVXceQ8t1AaG"
+    },
+    {
+      "album": {
         "name": "Habni Gherak",
         "url": "https://open.spotify.com/album/7JvxrgSGDLhhdYxs0LWAcb"
       },
@@ -2090,7 +2126,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 269375,
       "name": "Hal Jarhi",
       "url": "https://open.spotify.com/track/6BB2PW7vUYR0I9Yz9xwSK8"
@@ -3676,7 +3712,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 270118,
       "name": "Rdy",
       "url": "https://open.spotify.com/track/1gVT9clRR3jRvgJYK2KsIp"

@@ -4,7 +4,7 @@
 
 > Happiness! This is Red Velvet!
 
-151 songs - 8 hr 48 min
+157 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Better Be](https://open.spotify.com/track/5NIjdxrVUW4GGyLIqXUw9K) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:00 | 2022-03-22 |  |
 | [Bing Bing](https://open.spotify.com/track/0tHkBl71ZHXaFdc0sNGQHz) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:22 | 2022-03-22 |  |
 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-11-28 |  |
+| [Bubble](https://open.spotify.com/track/296fRjaqLr7ObqVFWK6L8P) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:28 | 2024-06-24 |  |
 | [Bulldozer](https://open.spotify.com/track/4Pp6Ql9wV7A6VqHrmjMFv4) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Chill Kill \- The 3rd Album](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) | 2:40 | 2023-11-13 |  |
 | [Butterflies](https://open.spotify.com/track/0cZMA3EdKJKrKoGQEeMhFJ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [RBB \- The 5th Mini Album](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) | 3:29 | 2022-03-22 |  |
 | [BYE BYE](https://open.spotify.com/track/4OSVR8gq2l3ceJiXNR7iiM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:16 | 2022-11-28 |  |
@@ -43,6 +44,7 @@
 | [Cool Hot Sweet Love](https://open.spotify.com/track/6kR8TFJ4BowMMBW2tokFWr) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Velvet \- The 2nd Mini Album](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) | 3:53 | 2022-03-22 | 2024-04-19 |
 | [Cool World](https://open.spotify.com/track/1VfZX787b6l88hpvOXcSXp) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) | 4:05 | 2022-03-22 | 2024-04-19 |
 | [Cool World](https://open.spotify.com/track/51czeZC8l1rOAvpZS7f3QX) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/56L226pRT1sHo2vgoJy5IB) | 4:05 | 2022-03-22 |  |
+| [Cosmic](https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:45 | 2024-06-24 |  |
 | [Day 1](https://open.spotify.com/track/5aEfg8EqkoOnTuCBynU0s5) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/56L226pRT1sHo2vgoJy5IB) | 3:26 | 2022-03-22 |  |
 | [Day 1](https://open.spotify.com/track/74muMkVdMYoR65lhmdzy13) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) | 3:26 | 2022-03-22 | 2024-04-19 |
 | [Don't U Wait No More](https://open.spotify.com/track/0YZACD94IvyUwWUGgU99dU) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/56L226pRT1sHo2vgoJy5IB) | 2:51 | 2022-03-22 |  |
@@ -76,12 +78,14 @@
 | [Ladies Night](https://open.spotify.com/track/1wpAS4Jm9ElkOJjnyDX4Tm) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:56 | 2022-03-22 |  |
 | [Lady's Room](https://open.spotify.com/track/3CCFQtYkvN2cxj7HWuCqnJ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/56L226pRT1sHo2vgoJy5IB) | 3:15 | 2022-03-22 |  |
 | [Lady's Room](https://open.spotify.com/track/6f48SDPW5xu6gUsfLaHOZi) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) | 3:15 | 2022-03-22 | 2024-04-19 |
+| [Last Drop](https://open.spotify.com/track/5mSsvlMqeX21U9WovVAJA4) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:23 | 2024-06-24 |  |
 | [Light Me Up](https://open.spotify.com/track/708d6W6YrXgl60vUyp1Bb7) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Velvet \- The 2nd Mini Album](https://open.spotify.com/album/3ZkPccW7mkSC7BCulcPFJs) | 3:32 | 2022-03-22 |  |
 | [Light Me Up](https://open.spotify.com/track/7BzhMJxmNDtibkjZUBnNZo) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Velvet \- The 2nd Mini Album](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) | 3:32 | 2022-03-22 | 2024-04-19 |
 | [Like Water](https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:21 | 2022-03-22 |  |
 | [Little Little](https://open.spotify.com/track/1IAEhCKD6ZSjnDdeJgvXWA) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) | 3:59 | 2022-03-22 | 2024-04-19 |
 | [Little Little](https://open.spotify.com/track/38HpS7Kf5Fgc9VomkvahML) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/01n9lwCLSigXsuY0AdFS9O) | 3:59 | 2022-03-22 |  |
 | [Look](https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 4:05 | 2022-03-22 |  |
+| [Love Arcade](https://open.spotify.com/track/10BVwlzgtLNDE7mE8frtmd) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 2:56 | 2024-06-24 |  |
 | [Love Is The Way](https://open.spotify.com/track/12okmCNziVZkDIcEOx0SD9) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:31 | 2022-03-22 |  |
 | [LP](https://open.spotify.com/track/7gs7h249FMYC3U02BimoD6) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:27 | 2022-03-22 |  |
 | [Lucky Girl](https://open.spotify.com/track/22v5j98MRwc6p5KgwHvpBZ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:23 | 2022-03-22 | 2024-04-19 |
@@ -92,6 +96,7 @@
 | [Monster](https://open.spotify.com/track/6c1QaQHdDhtFMfUkhueuXK) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Monster \- The 1st Mini Album](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) | 2:58 | 2022-03-22 |  |
 | [My Second Date](https://open.spotify.com/track/6z8QDsRU25QbckFUajl553) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 3:14 | 2022-03-22 |  |
 | [Naughty](https://open.spotify.com/track/0P8lbWigAHXPKxUG60xh79) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Naughty](https://open.spotify.com/album/2lkUE2gkw5sX0fGzZZCs0N) | 3:18 | 2022-03-22 |  |
+| [Night Drive](https://open.spotify.com/track/5KvByHKWDLTKyT19qdfO9J) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:19 | 2024-06-24 |  |
 | [Nightmare](https://open.spotify.com/track/0jUDrSASok8h2xUIWe4KOG) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Chill Kill \- The 3rd Album](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) | 3:25 | 2023-11-13 |  |
 | [Oh Boy](https://open.spotify.com/track/3rRe3gQHri7GwRg4zvxhc5) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/56L226pRT1sHo2vgoJy5IB) | 3:08 | 2022-03-22 |  |
 | [Oh Boy](https://open.spotify.com/track/3ts0OSZgdjOP0Uu1DvQK4h) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) | 3:08 | 2022-03-22 | 2024-04-19 |
@@ -124,6 +129,7 @@
 | [Somethin Kinda Crazy](https://open.spotify.com/track/4lsf2jQG0KVWBpGBISKRZk) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Ice Cream Cake \- The 1st Mini Album](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) | 3:19 | 2022-03-22 | 2024-04-19 |
 | [Stupid Cupid](https://open.spotify.com/track/4iFbnPMRkgyDcVekYgFsnp) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Ice Cream Cake \- The 1st Mini Album](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) | 3:29 | 2022-03-22 | 2024-04-19 |
 | [Stupid Cupid](https://open.spotify.com/track/6OnKEdFzwJhLXGP3z3IiRs) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Mini Album ‘Ice Cream Cake’](https://open.spotify.com/album/6eS6pnhJWgYL0A74Mp3RPc) | 3:29 | 2022-03-22 |  |
+| [Sunflower](https://open.spotify.com/track/7y0jebgMdsAEofK2Ye0e6g) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:16 | 2024-06-24 |  |
 | [Sunny Afternoon](https://open.spotify.com/track/3G6iqKcRzEYwSu9zE2qAMW) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 4:00 | 2022-03-22 | 2024-04-19 |
 | [Sunny Afternoon](https://open.spotify.com/track/5j5GL0vsQnDBdiuLEyfnrv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/2pBrB5hW9CjLWWZGqrET2g) | 4:00 | 2022-03-22 |  |
 | [Sunny Side Up!](https://open.spotify.com/track/782QoB4jJ7hEVJmkYzVrRE) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:23 | 2022-03-22 |  |

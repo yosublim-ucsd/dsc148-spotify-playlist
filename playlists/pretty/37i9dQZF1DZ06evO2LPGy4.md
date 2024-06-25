@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This Is Gerardo Ortiz\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,394 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,498 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 20 | [El Trokero Lokochon](https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:34 |
 | 21 | [Arre Pues](https://open.spotify.com/track/79Nct1bkYzzraWpkMI9tpT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:17 |
 | 22 | [Regresa Hermosa](https://open.spotify.com/track/13owSDdId4auyDUXxS7H8i) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 1](https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91) | 2:57 |
-| 23 | [Andamos Recio](https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Andamos Recio](https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS) | 2:32 |
-| 24 | [Aquiles Afirmo](https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:18 |
+| 23 | [Aquiles Afirmo](https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:18 |
+| 24 | [Andamos Recio](https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Andamos Recio](https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS) | 2:32 |
 | 25 | [La Parca](https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Parca](https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG) | 3:13 |
 | 26 | [El Cholo](https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:13 |
 | 27 | [El Comando del Diablo](https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Al Frente y de Frente](https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 49 | [Soy Familia, Soy Michoacano \(En Vivo\)](https://open.spotify.com/track/5sK0dInvxvPGW389d8IS67) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:11 |
 | 50 | [3 de la Mañana](https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3 de la Mañana](https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm) | 3:02 |
 
-Snapshot ID: `ZnYUAAAAAABClRoboTEsKB7vYaNG8df4`
+Snapshot ID: `ZndlgAAAAADpDbbhSL+MCXt+bo5cfv1T`

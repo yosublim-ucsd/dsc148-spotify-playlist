@@ -3203,6 +3203,28 @@
     },
     {
       "album": {
+        "name": "Black & Tan",
+        "url": "https://open.spotify.com/album/1NKgDOTffsHRGfllRRLsis"
+      },
+      "artists": [
+        {
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Black & Tan",
+      "url": "https://open.spotify.com/track/0khdaccXqOnFQimOHmECK2"
+    },
+    {
+      "album": {
         "name": "Black Bape Jeans",
         "url": "https://open.spotify.com/album/02WUamAlimj8U44wgsl1s0"
       },
@@ -19854,7 +19876,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 165144,
       "name": "Somebody can love you",
       "url": "https://open.spotify.com/track/6uwZKOAeYxo0E1rNjuMowJ"

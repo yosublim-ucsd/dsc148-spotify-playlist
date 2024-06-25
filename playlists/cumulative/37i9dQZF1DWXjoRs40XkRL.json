@@ -4063,6 +4063,28 @@
     },
     {
       "album": {
+        "name": "Paayaliya",
+        "url": "https://open.spotify.com/album/3s5f1LXoiICTgZ8hMzmua7"
+      },
+      "artists": [
+        {
+          "name": "Tanu Srivastava",
+          "url": "https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8"
+        },
+        {
+          "name": "Outsky",
+          "url": "https://open.spotify.com/artist/6RXWOzECN3KD4QSr4V7dmg"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "Paayaliya",
+      "url": "https://open.spotify.com/track/1PnLIY2hOt9lGfqpFvoAUt"
+    },
+    {
+      "album": {
         "name": "Palkan",
         "url": "https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd"
       },
@@ -5328,7 +5350,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 182769,
       "name": "Sawariya",
       "url": "https://open.spotify.com/track/4jUEqneWH2CaGNfhGzlSRN"

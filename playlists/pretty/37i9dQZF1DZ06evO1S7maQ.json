@@ -1,12 +1,12 @@
 {
-  "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 617599,
+  "description": "This is Bruce Springsteen. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 617784,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAABkSGptvnytQ3Tl+INJiGQG",
+  "snapshot_id": "ZndlgAAAAACj0vr1+UTGdgjYmqvUwkkF",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
       },
@@ -39,22 +55,6 @@
       "duration_ms": 195080,
       "name": "Streets of Philadelphia - Single Edit",
       "url": "https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 155880,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
     },
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 155880,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 266613,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tunnel Of Love",
         "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 273866,
       "name": "Tougher Than the Rest",
       "url": "https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tunnel Of Love",
         "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 254840,
       "name": "Brilliant Disguise",
       "url": "https://open.spotify.com/track/0nqbZ17t9v52SCemAm1QP0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 279666,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 279666,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rising",
         "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 287040,
       "name": "The Rising",
       "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "I'm Goin' Down",
-      "url": "https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "I'm Goin' Down",
+      "url": "https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Letter To You",
         "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 295493,
       "name": "Letter To You",
       "url": "https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "No Surrender",
-      "url": "https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Letter To You",
-        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 354813,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nebraska",
         "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 236653,
       "name": "Atlantic City",
       "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 354813,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L"
     },
     {
       "added_at": null,

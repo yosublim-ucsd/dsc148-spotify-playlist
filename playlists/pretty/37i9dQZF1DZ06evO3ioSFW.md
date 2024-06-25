@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 
 ### [This Is Yuridia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ioSFW)
 
-> This is Yuridia\. The essential tracks, all in one playlist.
+> This is Yuridia\. De viktigaste låtarna samlade i en spellista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,551 likes - 49 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,779 likes - 49 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 48 | [Polos Opuestos / Noche de Copas \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/38YaOFMuwa5EBaaVB4Y2LO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 4:08 |
 | 49 | [Con Toda Libertad](https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:41 |
 
-Snapshot ID: `ZnYUAAAAAAAhEBZR60nayM6rsOp1IabC`
+Snapshot ID: `ZndlgAAAAADpSdFUaSWQw/CKbiBfu20s`

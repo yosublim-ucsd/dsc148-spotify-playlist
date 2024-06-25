@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: JPEGMAFIA
 
-2,574 songs - 6 day 0 hr 32 min
+2,575 songs - 6 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1640,7 +1640,8 @@
 | [oHio \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:51 | 2024-03-01 | 2024-06-08 |
 | [Oidar](https://open.spotify.com/track/6FfbKN3PDxHJMsdr7DX7wh) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Sticky Thumb](https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68) | 3:28 | 2021-01-15 | 2021-04-30 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-13 | 2022-06-03 |
-| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-21 |  |
+| [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 | 2024-06-24 |  |
+| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-21 | 2024-06-25 |
 | [ok :/](https://open.spotify.com/track/7ELz2ls9JCvT5DyVL8aWRh) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :/](https://open.spotify.com/album/6GHR4Qrtr4GXc7RfGVh8Qv) | 2:52 | 2024-03-22 | 2024-05-04 |
 | [OKAY \(feat\. Dreezy\)](https://open.spotify.com/track/3onl4NpPdnphYFF5a7ypkR) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [OKAY \(feat\. Dreezy\)](https://open.spotify.com/album/785jdsvDvwgyz3eZPOR72u) | 2:58 | 2020-11-11 | 2021-02-27 |
 | [okok](https://open.spotify.com/track/5cnzY2pz4gUFNGyhLJRvxh) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/23YHyxWe8nTsFFHvV2WFLZ) | 3:30 | 2023-12-15 | 2024-03-02 |

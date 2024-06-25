@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Incubus
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,413 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,391 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 13 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 |
 | 14 | [Parklife \- Live at Wembley Stadium](https://open.spotify.com/track/1iJXeKNHHAX9ZqoXW0NPsS) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Live at Wembley Stadium\)](https://open.spotify.com/album/3ZzDxJVNHIgXbeiSXwtDqY) | 3:50 |
 | 15 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 |
-| 16 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 |
+| 16 | [Glass Half Empty](https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 3:38 |
 | 17 | [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 |
-| 18 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
-| 19 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 |
-| 20 | [72 Seasons](https://open.spotify.com/track/45BbECVzn2iQ7iwZMiSnRF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/2X98AknWzyfvAD2xdf3bDq) | 7:39 |
-| 21 | [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 |
-| 22 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
-| 23 | [Haven](https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Haven](https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ) | 3:11 |
-| 24 | [Glass Half Empty](https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 3:38 |
+| 18 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 |
+| 19 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
+| 20 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 |
+| 21 | [72 Seasons](https://open.spotify.com/track/45BbECVzn2iQ7iwZMiSnRF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/2X98AknWzyfvAD2xdf3bDq) | 7:39 |
+| 22 | [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 |
+| 23 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
+| 24 | [Haven](https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Haven](https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ) | 3:11 |
 | 25 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 |
 | 26 | [Sacred The Thread](https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Sacred The Thread](https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN) | 5:21 |
 | 27 | [Blood In The Water](https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Blood In The Water](https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI) | 3:37 |

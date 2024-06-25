@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Dasha
 
-190 songs - 10 hr 26 min
+191 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2024-02-09 | 2024-04-19 |
 | [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2024-04-12 |  |
 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 | 2021-12-03 |  |
+| [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j) | 3:44 | 2024-06-24 |  |
 | [Your Man](https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:31 | 2022-07-25 | 2024-04-19 |
 | [Your Man](https://open.spotify.com/track/38puMH41SYytv1i38GWEM0) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5dwwsU4v2sFbnPn0UR835g) | 3:31 | 2021-12-03 |  |
 | [Your Man](https://open.spotify.com/track/6xjhdsYf2G6lzmMZ2M4A3J) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Game Day Country Hits 2022](https://open.spotify.com/album/2OFU1VDDxkjXaFTEQ90AUD) | 3:31 | 2022-10-11 | 2022-11-13 |

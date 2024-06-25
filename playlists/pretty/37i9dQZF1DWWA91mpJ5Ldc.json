@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 127002,
+  "num_followers": 127010,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "S\u00f3 Porque Eu Sou Mulher",
-        "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 163535,
-      "name": "S\u00f3 Porque Eu Sou Mulher",
-      "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Samba de Novela",
         "url": "https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 198018,
       "name": "Samba de Novela",
       "url": "https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "S\u00f3 Porque Eu Sou Mulher",
+        "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 163535,
+      "name": "S\u00f3 Porque Eu Sou Mulher",
+      "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Me Toca",
-        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 186042,
-      "name": "Me Toca",
-      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Bota Pra Tocar Tim Maia",
         "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 222577,
       "name": "Bota Pra Tocar Tim Maia",
       "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Me Toca",
+        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 186042,
+      "name": "Me Toca",
+      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
+        "name": "Mar\u00e9",
+        "url": "https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Seu Pensamento",
+      "url": "https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
         "name": "Trevo, Figuinha e Suor na Camisa",
         "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 186240,
       "name": "Rose",
       "url": "https://open.spotify.com/track/627NaoKHBApkkNQ5YcWsO0"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Mar\u00e9",
-        "url": "https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Seu Pensamento",
-      "url": "https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -951,34 +951,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Quem Tem Um Amigo (Tem Tudo)",
-        "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 246533,
-      "name": "Quem Tem Um Amigo (Tem Tudo) (Remix) (feat. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid)",
-      "url": "https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Parafuso",
         "url": "https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F"
       },
@@ -1027,6 +999,34 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
+        "name": "Quem Tem Um Amigo (Tem Tudo)",
+        "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Quem Tem Um Amigo (Tem Tudo) (Remix) (feat. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid)",
+      "url": "https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
         "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
         "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
       },
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Faz Uma Loucura Por Mim",
-        "url": "https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00eda",
-          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
-        },
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 215889,
-      "name": "Faz Uma Loucura Por Mim",
-      "url": "https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Estragar a Amizade",
         "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 201937,
       "name": "Estragar a Amizade",
       "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Faz Uma Loucura Por Mim",
+        "url": "https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
+        },
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 215889,
+      "name": "Faz Uma Loucura Por Mim",
+      "url": "https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL"
     }
   ],
   "unique_name": "Cozinhando em Casa",

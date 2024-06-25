@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262 likes - 229 songs - 13 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 263 likes - 229 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 97 | [Mama/Show Love \(feat\. YBN Cordae\)](https://open.spotify.com/track/760VYgBLbNyEJp4jLa0CZ6) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Confessions of a Dangerous Mind](https://open.spotify.com/album/0XLwImzaZEtqHE4NHAepDz) | 4:01 |
 | 98 | [4pm in Calabasas](https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:00 |
 | 99 | [Planet God Damn \(feat\. Njomza\)](https://open.spotify.com/track/7bd0BC9RNR6GxJsM3pRwBw) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 3:11 |
-| 100 | [Regret In Your Tears](https://open.spotify.com/track/0j8zLbIueSkVqB3Tl6PsjA) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Regret In Your Tears](https://open.spotify.com/album/4gjpZe62VZ4QgQH4dJYxKy) | 3:49 |
-| 101 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
+| 100 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
+| 101 | [Regret In Your Tears](https://open.spotify.com/track/0j8zLbIueSkVqB3Tl6PsjA) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Regret In Your Tears](https://open.spotify.com/album/4gjpZe62VZ4QgQH4dJYxKy) | 3:49 |
 | 102 | [Slave](https://open.spotify.com/track/3SrUV8pxnW1QhMbbwegpwG) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino](https://open.spotify.com/album/0WMr3ulx5Mzi1B3C8LsHVA) | 2:59 |
 | 103 | [IDWK](https://open.spotify.com/track/3awnZSyvKdi7rBLttHk36K) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [IDWK](https://open.spotify.com/album/6s7fnQZkQ6ZqmRxpJ22OjF) | 2:03 |
 | 104 | [Growing Pains III](https://open.spotify.com/track/4OMKQBq51PnjZz042AghkR) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Under Pressure \(Deluxe\)](https://open.spotify.com/album/1Mk7Lei0Ra3hawezqmad5V) | 4:06 |
@@ -170,8 +170,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 160 | [I Lie Awake Every Night](https://open.spotify.com/track/1a5jmqiiVfoNmAjy9Y0F6h) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Move](https://open.spotify.com/album/0ogfX6dIoYgTRhgnwrkaEn) | 3:19 |
 | 161 | [Bish Bounce](https://open.spotify.com/track/20HlDD6s3Twz0cslCXUxZJ) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 3:59 |
 | 162 | [Anyone Else](https://open.spotify.com/track/1eODKJsDYI8nIiRDYRP4IO) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [These Days](https://open.spotify.com/album/2kNenbLKTv6Ip65v6nWmF0) | 3:43 |
-| 163 | [The Hearse](https://open.spotify.com/track/0rcoSjQLh5QXhCmBYBdNDW) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 2:04 |
-| 164 | [Multifaceted](https://open.spotify.com/track/5j0Vc0Kw3lZ8yBDXDGvMzd) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 2:57 |
+| 163 | [Multifaceted](https://open.spotify.com/track/5j0Vc0Kw3lZ8yBDXDGvMzd) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 2:57 |
+| 164 | [The Hearse](https://open.spotify.com/track/0rcoSjQLh5QXhCmBYBdNDW) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 2:04 |
 | 165 | [GHETTO GODS](https://open.spotify.com/track/0EocJQHVyGDM5vrf0CNhS7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 2:46 |
 | 166 | [Cs60](https://open.spotify.com/track/397XzSTDSC6CjiybfmWKU0) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 6:52 |
 | 167 | [Differently, Still](https://open.spotify.com/track/1Vuv3CyAGS4ec6l4waa0q6) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 4:43 |
@@ -179,8 +179,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 169 | [Higher Calling \(feat\. Jill Scott\)](https://open.spotify.com/track/0XMtJELwYVRDtv8KhFLE6P) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [4eva Is A Mighty Long Time](https://open.spotify.com/album/4vPCCjXRWZsZaJXgwLoMBC) | 3:53 |
 | 170 | [Eyes Closed](https://open.spotify.com/track/3tdGiKfoiBa7fZzwvsvBLc) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 5:58 |
 | 171 | [Laptop](https://open.spotify.com/track/52SqJwQ2bveCI74WE7XPoA) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Installation I](https://open.spotify.com/album/1u4p9Aw53qYC4o3Cd907fp) | 3:18 |
-| 172 | [Like Them \(feat\. Tory Lanez, Rick Ross\)](https://open.spotify.com/track/6Xfb6qPfyxd74crexohl8p) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Pressure](https://open.spotify.com/album/4IJsz38bUJjUXkFBhU8icl) | 3:50 |
-| 173 | [Rich Boy](https://open.spotify.com/track/6TJcnosIlDjN5RBdkCphXJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:21 |
+| 172 | [Rich Boy](https://open.spotify.com/track/6TJcnosIlDjN5RBdkCphXJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:21 |
+| 173 | [Like Them \(feat\. Tory Lanez, Rick Ross\)](https://open.spotify.com/track/6Xfb6qPfyxd74crexohl8p) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Pressure](https://open.spotify.com/album/4IJsz38bUJjUXkFBhU8icl) | 3:50 |
 | 174 | [Make U A Believer](https://open.spotify.com/track/3d9qL4raQJ9NlV7aCUXhLb) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 4:06 |
 | 175 | [Jo Bros](https://open.spotify.com/track/6RMNFacCLVjpthfp62orGz) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [One Night Only](https://open.spotify.com/album/6GdJPhGu12KSZ7KdgBfye1) | 3:35 |
 | 176 | [Charge It To The Rap Game](https://open.spotify.com/track/4qQePxheRSXNd2lqlvgGYd) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Ludaversal \(Deluxe\)](https://open.spotify.com/album/2KlVwY7H9B9KvFXJglqzWq) | 3:50 |
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 228 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 229 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AbU2+gAAAACONgATdJxybUgHbuX9s5KM`
+Snapshot ID: `AbU8mwAAAACHP/WDH4rUvJoaGMLqQVjd`

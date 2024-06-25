@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: GUPE",
-  "num_followers": 433925,
+  "num_followers": 433921,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
+        "name": "Ela n\u00e3o \u00e9 pra qualquer um",
+        "url": "https://open.spotify.com/album/3agtWz9aoBrXHrbByXd3gS"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 193190,
+      "name": "Ela n\u00e3o \u00e9 pra qualquer um",
+      "url": "https://open.spotify.com/track/0lT3qWdrV0qwhjydlgs0uN"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 207110,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1kLIaT39bF27PX2xGEhjMx"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
-        "name": "Ela n\u00e3o \u00e9 pra qualquer um",
-        "url": "https://open.spotify.com/album/3agtWz9aoBrXHrbByXd3gS"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 193190,
-      "name": "Ela n\u00e3o \u00e9 pra qualquer um",
-      "url": "https://open.spotify.com/track/0lT3qWdrV0qwhjydlgs0uN"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -495,22 +495,18 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Vida Normal",
-        "url": "https://open.spotify.com/album/4xWV5JdllY9gbjcaipW84Q"
+        "name": "Segue o Jogo",
+        "url": "https://open.spotify.com/album/77KghYmKDbtCyEff33pZOM"
       },
       "artists": [
         {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        },
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
         }
       ],
-      "duration_ms": 173804,
-      "name": "Vida Normal",
-      "url": "https://open.spotify.com/track/1Gj9edVFZmbHzlydlL8mM6"
+      "duration_ms": 222714,
+      "name": "Segue o Jogo",
+      "url": "https://open.spotify.com/track/6nFnTql6A9bk4W4WMBS819"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -535,18 +531,22 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Segue o Jogo",
-        "url": "https://open.spotify.com/album/77KghYmKDbtCyEff33pZOM"
+        "name": "Vida Normal",
+        "url": "https://open.spotify.com/album/4xWV5JdllY9gbjcaipW84Q"
       },
       "artists": [
         {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        },
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
         }
       ],
-      "duration_ms": 222714,
-      "name": "Segue o Jogo",
-      "url": "https://open.spotify.com/track/6nFnTql6A9bk4W4WMBS819"
+      "duration_ms": 173804,
+      "name": "Vida Normal",
+      "url": "https://open.spotify.com/track/1Gj9edVFZmbHzlydlL8mM6"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
+        "name": "Vou Fugir",
+        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vou Fugir",
+      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
         "name": "Vida + leve",
         "url": "https://open.spotify.com/album/2yd1DMCQyulyfU8Z9Zehf1"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 178023,
       "name": "Vida + leve",
       "url": "https://open.spotify.com/track/4dK3vpH7f9q8PHLfSp1qhb"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
-        "name": "Vou Fugir",
-        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vou Fugir",
-      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
+        "name": "Beijos de artif\u00edcio",
+        "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 232331,
+      "name": "Beijos de artif\u00edcio",
+      "url": "https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
         "name": "N\u00e3o Me Defina (Hor\u00f3scopo)",
         "url": "https://open.spotify.com/album/7cETFnvsKKgZhN8PpXa3Mx"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 167500,
       "name": "N\u00e3o Me Defina (Hor\u00f3scopo)",
       "url": "https://open.spotify.com/track/3uoOQHwHhhvkh76PbbCIT7"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
-        "name": "Beijos de artif\u00edcio",
-        "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 232331,
-      "name": "Beijos de artif\u00edcio",
-      "url": "https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+        "name": "Quando a Gente Existe",
+        "url": "https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5"
       },
       "artists": [
         {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
         }
       ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+      "duration_ms": 204500,
+      "name": "Quando a Gente Existe",
+      "url": "https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Quando a Gente Existe",
-        "url": "https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5"
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
       },
       "artists": [
         {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
         }
       ],
-      "duration_ms": 204500,
-      "name": "Quando a Gente Existe",
-      "url": "https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86"
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Diante dos Olhos",
         "url": "https://open.spotify.com/album/4xQUvpsZBA4bAtyHRbYcUc"
       },
@@ -1063,22 +1047,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Me Deixa Ser S\u00f3 Teu",
-        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Me Deixa Ser S\u00f3 Teu",
-      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "V\u00e1rios Tipos de Amor",
         "url": "https://open.spotify.com/album/5HoZBDPdcsGtBFjjIvCy3J"
       },
@@ -1095,6 +1063,22 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
+        "name": "Me Deixa Ser S\u00f3 Teu",
+        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Me Deixa Ser S\u00f3 Teu",
+      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
         "name": "Espiral",
         "url": "https://open.spotify.com/album/31c2DFsGxwU9A4eGKQ98aH"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 205781,
       "name": "Telepatia",
       "url": "https://open.spotify.com/track/5qQakX292WkdKg4N4e9JHE"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Como \u00e9 que se faz",
-        "url": "https://open.spotify.com/album/59FTyUoEWJjgsLPvlTz4xh"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 244629,
-      "name": "Como \u00e9 que se faz",
-      "url": "https://open.spotify.com/track/5v6dcZq1rhA4m51X1x49c7"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 128904,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Como \u00e9 que se faz",
+        "url": "https://open.spotify.com/album/59FTyUoEWJjgsLPvlTz4xh"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 244629,
+      "name": "Como \u00e9 que se faz",
+      "url": "https://open.spotify.com/track/5v6dcZq1rhA4m51X1x49c7"
     },
     {
       "added_at": "2024-06-21 12:17:45",

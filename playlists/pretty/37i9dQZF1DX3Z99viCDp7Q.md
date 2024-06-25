@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 
 > Wondering what to pick for your first dance? We got you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,640 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,696 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 35 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
 | 36 | [The Power of Love](https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 5:42 |
 | 37 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
-| 38 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
-| 39 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
+| 38 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
+| 39 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 |
 | 40 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
 | 41 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 |
 | 42 | [Can't Take My Eyes Off of You \- \(I Love You Baby\)](https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 3:41 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Z99viCDp7Q.md) - [plain]
 | 53 | [Eternal Flame](https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:58 |
 | 54 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 |
 | 55 | [The Way You Look Tonight](https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:22 |
-| 56 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
-| 57 | [I Will \- Remastered 2009](https://open.spotify.com/track/09x9v1o51dbqi5H0u7UGfp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 1:45 |
+| 56 | [I Will \- Remastered 2009](https://open.spotify.com/track/09x9v1o51dbqi5H0u7UGfp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 1:45 |
+| 57 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
 | 58 | [Forever and a Day](https://open.spotify.com/track/7BXyTc2ycXzXjAaGRTqnad) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:45 |
 | 59 | [She](https://open.spotify.com/track/31Tp5iKrVUayn65qhg06nE) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [In Motion Pictures](https://open.spotify.com/album/2VNMoSXYKrjAAU4aqiTvtY) | 3:07 |
 | 60 | [A Million Dreams](https://open.spotify.com/track/0oagwWkGlBoACUuKvTmqZV) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [A Million Dreams](https://open.spotify.com/album/6MtlLy42YdFaJNOgDA0NZW) | 4:33 |

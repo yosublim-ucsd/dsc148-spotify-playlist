@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,906 likes - 150 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,926 likes - 150 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 64 | [Tilak](https://open.spotify.com/track/3snujKMl0rkHSdwOLxWrFv) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Tilak](https://open.spotify.com/album/2FKe9pZM0QQ2ynzPOHIwoj) | 5:59 |
 | 65 | [Sajni](https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Sajni](https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar) | 4:58 |
 | 66 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 |
-| 67 | [The Way I Love You](https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [The Way I Love You](https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH) | 2:42 |
-| 68 | [Primera Cita \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 4:18 |
+| 67 | [Primera Cita \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 4:18 |
+| 68 | [The Way I Love You](https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [The Way I Love You](https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH) | 2:42 |
 | 69 | [Bloom](https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [0](https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61) | 3:58 |
 | 70 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 |
 | 71 | [Ohebbou Yadayka](https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ohebbou Yadayka](https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly) | 3:46 |
@@ -101,15 +101,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 91 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
 | 92 | [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 |
 | 93 | [Something](https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Kyle](https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY) | 4:15 |
-| 94 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
-| 95 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
+| 94 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
+| 95 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
 | 96 | [白昼夢](https://open.spotify.com/track/2IYtrfX0s3Wgm3thc0jCYH) | [深根](https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt) | [白昼夢](https://open.spotify.com/album/3LNHJ3ZReYcdf187yIi3uE) | 3:45 |
 | 97 | [Amazing](https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Amazing](https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC) | 3:25 |
 | 98 | [17h](https://open.spotify.com/track/24SBLKhtIv7wEAlXct7mNu) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [17h](https://open.spotify.com/album/0groCpwC87L58ocN0SsLh9) | 3:38 |
 | 99 | [Mala](https://open.spotify.com/track/3iLFTlc0gJN5UbPwPEdK22) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Mala](https://open.spotify.com/album/3zjmCPVSGMbtL0iPKS4Vh7) | 2:54 |
 | 100 | [Forever And Ever](https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Forever And Ever](https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o) | 3:11 |
-| 101 | [Mghayarni](https://open.spotify.com/track/1PlVVqV0gOGCeIuaiMuptU) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Mghayarni](https://open.spotify.com/album/22ds05ymJ4OGeh9lupMtX2) | 3:57 |
-| 102 | [Maghihintay](https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn) | [Ruru Madrid](https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf) | [Maghihintay](https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK) | 4:35 |
+| 101 | [Maghihintay](https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn) | [Ruru Madrid](https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf) | [Maghihintay](https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK) | 4:35 |
+| 102 | [Mghayarni](https://open.spotify.com/track/1PlVVqV0gOGCeIuaiMuptU) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Mghayarni](https://open.spotify.com/album/22ds05ymJ4OGeh9lupMtX2) | 3:57 |
 | 103 | [Simula](https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS) | [Aicelle Santos](https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp), [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Simula](https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn) | 4:25 |
 | 104 | [The Hunting Field](https://open.spotify.com/track/06eKvEaJ79mZ5DjNxcpoLM) | [Jike Junyi](https://open.spotify.com/artist/2dIGGnfI63aDJNR6eL50AZ) | [Global Citizen Ⅲ](https://open.spotify.com/album/31Ix6KE9PSLzRnj9nqoW2t) | 2:57 |
 | 105 | [It Scares Me to Death](https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:32 |

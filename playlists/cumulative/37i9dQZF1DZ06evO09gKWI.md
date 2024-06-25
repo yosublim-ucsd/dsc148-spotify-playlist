@@ -2,7 +2,7 @@
 
 ### [This Is Bivolt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09gKWI)
 
-> This is Bivolt\. The essential tracks, all in one playlist.
+> This is Bivolt\. Todos os maiores hits em uma só playlist.
 
 58 songs - 3 hr 14 min
 
@@ -18,7 +18,7 @@
 | [Dandara](https://open.spotify.com/track/4hQ89MHMnig1FeXSCf2G1g) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [O Adotado](https://open.spotify.com/artist/1EsZEQYqVGP7k7AhYkTEBa), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Good Smell, Vol\. 2](https://open.spotify.com/album/26ouQTcNSfICijYqfsD7XV) | 5:15 | 2023-12-30 |  |
 | [De Copão Na Mão](https://open.spotify.com/track/5GMuN4AXlf2PdJyk8IUAoG) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 3:13 | 2023-12-30 |  |
 | [Doce \- Ao Vivo](https://open.spotify.com/track/67WT2GInnUkqrLif5yJo3u) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Bivolt no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/54Hy0G86AMIiRvEd9KsP65) | 2:12 | 2024-05-04 | 2024-06-01 |
-| [Dose Dupla](https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Dose Dupla](https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N) | 3:14 | 2023-12-30 | 2024-06-18 |
+| [Dose Dupla](https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Dose Dupla](https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N) | 3:14 | 2023-12-30 |  |
 | [Ela](https://open.spotify.com/track/1xFt2EA1GMkU4vJfac124M) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Ela](https://open.spotify.com/album/6hgMAiw5faQUZgStrv3EDg) | 2:40 | 2023-12-30 |  |
 | [Ela Joga](https://open.spotify.com/track/4jCo34kC8FqJrpmgpNAJIY) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nith](https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb) | [Ela Joga](https://open.spotify.com/album/5AvbEHe8F554m3drljPLrK) | 2:44 | 2023-12-30 |  |
 | [Entre Tu e Meu Som](https://open.spotify.com/track/7JNMwXX07GdA5hAK0IGrSA) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Entre Tu e Meu Som](https://open.spotify.com/album/2cjr3p101x8ba5EgQncL7q) | 2:47 | 2023-12-30 |  |

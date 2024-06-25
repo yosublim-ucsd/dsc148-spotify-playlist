@@ -1673,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Em Bras\u00edlia (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/0B0FhGwHWbamcfAuUo4nNt"
+      },
+      "artists": [
+        {
+          "name": "Clayton & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147860,
+      "name": "Aproveita - Ao Vivo",
+      "url": "https://open.spotify.com/track/368hYqtNCKCAeUduMoSHhh"
+    },
+    {
+      "album": {
         "name": "Ap\u00ea 1001",
         "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
       },
@@ -2974,7 +2992,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 177707,
       "name": "Bem Mais Que Eu (Voc\u00ea Quer Ca\u00e7ar Seu Rumo) - Ao Vivo",
       "url": "https://open.spotify.com/track/00Nh5jZl5ilpe6aCrhvZTb"
@@ -4828,7 +4846,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 145812,
       "name": "CONFISS\u00d5ES PT2",
       "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
@@ -6186,7 +6204,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 195748,
       "name": "Digitando",
       "url": "https://open.spotify.com/track/3QpDKVHmf9RDQkJbAUNWzI"

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: 2Frères
 
-2,631 songs - 5 day 20 hr 13 min
+2,632 songs - 5 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1225,7 +1225,7 @@
 | [La couleur du vent](https://open.spotify.com/track/6nfD0dsDhOePkShWpABOKh) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Au premier tour de l'évidence](https://open.spotify.com/album/5ZGmH9Byd2dddSLWZbHLL8) | 3:49 | 2022-02-11 | 2022-02-26 |
 | [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 | 2024-02-02 | 2024-04-13 |
 | [La course ou la vie](https://open.spotify.com/track/72lMVBBmE7duYmsF1SpHny) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi), [Polo](https://open.spotify.com/artist/2ms9ObpCtg7f0UyZJOikSW) | [La course ou la vie](https://open.spotify.com/album/2mysaFAd6HtnTEJkmndR2a) | 3:27 | 2022-10-07 | 2022-10-22 |
-| [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-05-31 |  |
+| [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-05-31 | 2024-06-25 |
 | [La faille](https://open.spotify.com/track/3K7NtnyDx90mw7tq6dFIRD) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3) | [La faille](https://open.spotify.com/album/60Mk9xTw6x9DfmJ8Mjlaxl) | 3:17 | 2023-10-13 | 2023-10-21 |
 | [La faute](https://open.spotify.com/track/6UKQBUkXOe2ifFhJgOVpto) | [Bronswick](https://open.spotify.com/artist/4mPApT3WY8A04ZnQOS30BL) | [Entre mes insomnies](https://open.spotify.com/album/1Uj24O9gW9E8Sm5qGlTiC4) | 3:29 | 2022-04-29 | 2022-05-14 |
 | [La fessée](https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [La fessée](https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet) | 3:57 | 2023-10-27 | 2023-11-11 |
@@ -1595,6 +1595,7 @@
 | [Mirage](https://open.spotify.com/track/3AmYQR8cv6hyKT0fXNW9FW) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Mirage](https://open.spotify.com/album/59vyoMjXigxYFyldmtgHzm) | 2:54 | 2022-04-29 | 2022-05-14 |
 | [Mirage](https://open.spotify.com/track/6XuNZQ1GCREA3B9Y0x1YjL) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Bedroom Sessions](https://open.spotify.com/album/54O8mypbYqoPUCPg5FVvAx) | 3:13 | 2024-05-10 | 2024-05-18 |
 | [Mise à jour](https://open.spotify.com/track/3eGFT7BKQA2aYb9Iso7tny) | [Lefa](https://open.spotify.com/artist/25yJrwrn5I0EUdQEiTtNSO) | [Mise à jour](https://open.spotify.com/album/35GPE8CCPdS3lF7gKqx6td) | 3:09 | 2022-02-11 | 2022-02-19 |
+| [Miss France](https://open.spotify.com/track/015YmEj4dMrDwUga7QEN46) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Miss France](https://open.spotify.com/album/1buUBxn64TLTYXxTAZGhzy) | 2:46 | 2024-06-21 |  |
 | [Misunderstood](https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW) | [DARY](https://open.spotify.com/artist/7vfo5uAqkgpHfgTW2LmSPG) | [HAINE MOI](https://open.spotify.com/album/74rD7TMXbDIRygW8MiWbjD) | 3:48 | 2022-01-21 | 2022-02-05 |
 | [Mode Avion](https://open.spotify.com/track/2OwCPUafRzulE8CyB0WQMY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Mode Avion](https://open.spotify.com/album/7oSVJPi9zgjRavK3z0xB4H) | 3:17 | 2023-06-02 | 2023-06-04 |
 | [MODE HARDCORE](https://open.spotify.com/track/4eZMdTv092lmLcM2WI0SDo) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6), [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [HOOD VOLUME.1](https://open.spotify.com/album/2rQCbziMJIbDjxDKS8ylFu) | 3:25 | 2024-01-05 | 2024-03-09 |

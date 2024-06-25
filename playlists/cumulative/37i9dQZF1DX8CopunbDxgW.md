@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Mura Masa
 
-1,364 songs - 3 day 13 hr 31 min
+1,365 songs - 3 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -886,7 +886,8 @@
 | [OFF+ON](https://open.spotify.com/track/3PNrKIzVnDDGAsnekImbOI) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [OFF+ON](https://open.spotify.com/album/2wg66fKfk9Hs30UwxJutM5) | 3:16 | 2023-07-21 | 2024-01-13 |
 | [Oh, Lover \- Edit](https://open.spotify.com/track/4WnASAjxOLAW4J4ZeAtKq3) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oh, Lover](https://open.spotify.com/album/3gk7WjSt7KKF6SNezrQc4I) | 3:33 | 2022-08-19 | 2022-10-18 |
 | [Oj & prosecco](https://open.spotify.com/track/10gQM8CRmJoGpID7nEa0yi) | [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW) | [Oj & prosecco](https://open.spotify.com/album/5rbOEMhXgje1L0VRvVSTgh) | 3:39 | 2023-10-02 | 2023-10-14 |
-| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-21 |  |
+| [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 | 2024-06-24 |  |
+| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-21 | 2024-06-25 |
 | [ok :/](https://open.spotify.com/track/7ELz2ls9JCvT5DyVL8aWRh) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :/](https://open.spotify.com/album/6GHR4Qrtr4GXc7RfGVh8Qv) | 2:52 | 2024-03-22 | 2024-06-22 |
 | [okok](https://open.spotify.com/track/5cnzY2pz4gUFNGyhLJRvxh) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/23YHyxWe8nTsFFHvV2WFLZ) | 3:30 | 2023-12-15 | 2024-04-06 |
 | [okokokokok](https://open.spotify.com/track/37YI4M2Js09a5XwI2KsMh9) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokokokok](https://open.spotify.com/album/225bRLDL6ZSHL8O5x2wp3k) | 2:53 | 2023-12-22 | 2024-01-13 |

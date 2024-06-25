@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Bnny
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,352 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,497 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 44 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
 | 45 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
 | 46 | [Safe House](https://open.spotify.com/track/24o2DVj6mtSBgMPuL33LsR) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Safe House](https://open.spotify.com/album/0C1zvZW8wBB37p4Bc5ioPL) | 3:37 |
-| 47 | [Around the Pomegranate](https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Mammalian Sighing Reflex](https://open.spotify.com/album/31KiskR7q89oowARNCmSMG) | 2:39 |
-| 48 | [Her Sinking Sun](https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG) | [Coma Cinema](https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu) | [Blue Suicide](https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB) | 2:33 |
+| 47 | [Her Sinking Sun](https://open.spotify.com/track/7IidonL2EoEdjzFJSbmhmG) | [Coma Cinema](https://open.spotify.com/artist/4Ebry32YXxGXbI8FqhhSFu) | [Blue Suicide](https://open.spotify.com/album/5z2CoCLOZfFwqbNzfYCCyB) | 2:33 |
+| 48 | [Around the Pomegranate](https://open.spotify.com/track/4fA9UQIKQAFlJKhMoThok3) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Mammalian Sighing Reflex](https://open.spotify.com/album/31KiskR7q89oowARNCmSMG) | 2:39 |
 | 49 | [Fade](https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh) | [Fade](https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT) | 3:23 |
 | 50 | [It's In My Head](https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [It's In My Head](https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO) | 3:01 |
 | 51 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 |
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 80 | [ALLTHETIME](https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [ALLTHETIME](https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T) | 7:05 |
 | 81 | [Dreams of Losing Teeth](https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Dreams of Losing Teeth](https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w) | 3:22 |
 | 82 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
-| 83 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 |
-| 84 | [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 |
+| 83 | [Warning Sign](https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign](https://open.spotify.com/album/7fTpIdQssHGQ1RfkCze3kq) | 2:52 |
+| 84 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 |
 | 85 | [at least, I tried](https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [at least, I tried](https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT) | 3:14 |
 | 86 | [KPR](https://open.spotify.com/track/0fcHWRLf2uRGk9GDamLkpA) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [KPR](https://open.spotify.com/album/4kAsnJ87kSwxe5KPJiydox) | 3:33 |
 | 87 | [Sun Outside My Window](https://open.spotify.com/track/2N1KZRaNtW6amPcBKb31MV) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3glwsPmD4tuQ1k5Qnh7O6i) | 3:21 |
-| 88 | [Solid Door](https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Lady Luck EP](https://open.spotify.com/album/5HeAzBZmmQl3hbfVCODU24) | 3:51 |
-| 89 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 |
+| 88 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 |
+| 89 | [Solid Door](https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Lady Luck EP](https://open.spotify.com/album/5HeAzBZmmQl3hbfVCODU24) | 3:51 |
 | 90 | [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 |
 | 91 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 |
 | 92 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 |
-| 93 | [girl](https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:37 |
-| 94 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 |
+| 93 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 |
+| 94 | [girl](https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:37 |
 | 95 | [heat waves \- lofi version](https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [heat waves \- lofi version](https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82) | 1:36 |
-| 96 | [upside down](https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i wish things were different](https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB) | 2:02 |
-| 97 | [mean creek.](https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [Elizabethtown.](https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid) | 2:16 |
-| 98 | [No Smoke](https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [No Smoke](https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa) | 4:12 |
-| 99 | [Surprise](https://open.spotify.com/track/7d4bEIDNRgTWUTOZqWzFfK) | [Royal Headache](https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1) | [Royal Headache](https://open.spotify.com/album/2g0N32g0cQXFDp4QnIa1RN) | 1:33 |
-| 100 | [Natty Wine](https://open.spotify.com/track/0FAhaygL5ZMx4YuhHxmsqa) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl) | [Natty Wine](https://open.spotify.com/album/71pS7RazfqZLRfpoID4Vqz) | 3:16 |
+| 96 | [No Smoke](https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [No Smoke](https://open.spotify.com/album/01JxwvDoVgfQjA9PBeLNMa) | 4:12 |
+| 97 | [upside down](https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i wish things were different](https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB) | 2:02 |
+| 98 | [mean creek.](https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [Elizabethtown.](https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid) | 2:16 |
+| 99 | [Natty Wine](https://open.spotify.com/track/0FAhaygL5ZMx4YuhHxmsqa) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl) | [Natty Wine](https://open.spotify.com/album/71pS7RazfqZLRfpoID4Vqz) | 3:16 |
+| 100 | [Surprise](https://open.spotify.com/track/7d4bEIDNRgTWUTOZqWzFfK) | [Royal Headache](https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1) | [Royal Headache](https://open.spotify.com/album/2g0N32g0cQXFDp4QnIa1RN) | 1:33 |
 
 Snapshot ID: `ZkOE8QAAAADHSKg8hRoHX6k5qCbMnPYu`

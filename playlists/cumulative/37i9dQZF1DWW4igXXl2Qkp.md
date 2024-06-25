@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:6UIpxj5ggLdOebFVCOxVax">Loe Shimmy</a>
 
-1,274 songs - 2 day 7 hr 13 min
+1,275 songs - 2 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Birds Out \(feat\. Luh Tyler\)](https://open.spotify.com/track/0chvFbX7yr5Jdb73NZcBLf) | [sswampbabyy](https://open.spotify.com/artist/6P7iqyhervTN0jH3ePUuoK), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Birds Out \(feat\. Luh Tyler\)](https://open.spotify.com/album/2BHFCxBC1rw2tPi98ytlBy) | 2:03 | 2023-01-11 | 2023-02-02 |
 | [Birthday \(feat\. Kalan.FrFr & Chris O'Bannon\)](https://open.spotify.com/track/6b4GDlcGgOMJz7by948ZQl) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Chris O'Bannon](https://open.spotify.com/artist/0x3uLrfIo751mWzFlyVEn9) | [All In](https://open.spotify.com/album/4lrFWRBcgg6shvFoO2NLY3) | 3:34 | 2021-12-01 | 2022-01-14 |
 | [Bite Size](https://open.spotify.com/track/12DYaQNNZCyDe6mmfMNA2e) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Bite Size](https://open.spotify.com/album/1a4OD0R6DKPBhIayWKArTT) | 2:03 | 2024-03-20 | 2024-03-28 |
+| [Black & Tan](https://open.spotify.com/track/0khdaccXqOnFQimOHmECK2) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Black & Tan](https://open.spotify.com/album/1NKgDOTffsHRGfllRRLsis) | 2:18 | 2024-06-24 |  |
 | [Black Bape Jeans](https://open.spotify.com/track/5bEplVzT5O5rVSqi64nSJn) | [Z1ON](https://open.spotify.com/artist/5PZk9yjQV61SRk7YYK6L5a) | [Black Bape Jeans](https://open.spotify.com/album/02WUamAlimj8U44wgsl1s0) | 2:03 | 2023-02-01 | 2024-01-25 |
 | [Black Bruce Wayne](https://open.spotify.com/track/4HwAJXq7oprrAvsyZI2XxT) | [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Black Bruce Wayne](https://open.spotify.com/album/2Fqu4mczvPi2uIonxk7YtA) | 3:07 | 2021-12-01 | 2022-01-14 |
 | [Black Gold](https://open.spotify.com/track/6DU6vAH7jQrT42SBODd21M) | [Ano Bank$](https://open.spotify.com/artist/7hp1VPTROr8y74LzWpkcw9) | [Low End Theory](https://open.spotify.com/album/7ujCzdIDJVU8KVJ3sffSrn) | 4:03 | 2021-12-01 | 2022-01-14 |
@@ -1029,7 +1030,7 @@
 | [Solar System](https://open.spotify.com/track/0QfHd0erwsF5oTFiWetfsr) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Solar System](https://open.spotify.com/album/3bwQ7dUluzGuivf2COLepc) | 2:34 | 2021-12-01 | 2022-01-14 |
 | [Somebody](https://open.spotify.com/track/5tCadSOz6WNCNr049GkZgK) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/7iZzkGTlrNacTH2KAcHL4N) | 2:50 | 2023-08-02 | 2023-09-14 |
 | [Somebody \(Explicit\)](https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv) | 2:50 | 2023-08-02 | 2023-08-04 |
-| [Somebody can love you](https://open.spotify.com/track/6uwZKOAeYxo0E1rNjuMowJ) | [Young Combo](https://open.spotify.com/artist/6JhZlrppsNN0yuham54sjL) | [Somebody can love you](https://open.spotify.com/album/7075Xtgl90Y0YOkDOJKjj8) | 2:45 | 2023-04-12 |  |
+| [Somebody can love you](https://open.spotify.com/track/6uwZKOAeYxo0E1rNjuMowJ) | [Young Combo](https://open.spotify.com/artist/6JhZlrppsNN0yuham54sjL) | [Somebody can love you](https://open.spotify.com/album/7075Xtgl90Y0YOkDOJKjj8) | 2:45 | 2023-04-12 | 2024-06-25 |
 | [SOMEGUYDEZ FREESTYLE](https://open.spotify.com/track/5cjUkDnlyimGgWDLIEv5C5) | [Radamiz](https://open.spotify.com/artist/56UwW3oPU8t6IPhyiS1dju) | [SOMEGUYDEZ FREESTYLE](https://open.spotify.com/album/5PMkQFaRfXaPXoFNR1Ryg8) | 2:25 | 2022-09-02 | 2022-09-09 |
 | [Soprano Ounces](https://open.spotify.com/track/5jzgASdaFST5PdmWWzrROT) | [Drai Thomas](https://open.spotify.com/artist/4aCR9XidWdGaumt06uA4It), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Soprano Ounces](https://open.spotify.com/album/4sheFqRup5PN0vIfDBOUp2) | 4:06 | 2024-02-07 | 2024-05-02 |
 | [Sorry Not Sorry](https://open.spotify.com/track/1MetT6jbSGkJqArcDltkW0) | [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [Sorry Not Sorry](https://open.spotify.com/album/0oABHFklKPZDDlUFAI05Wf) | 2:16 | 2022-02-23 | 2022-03-31 |

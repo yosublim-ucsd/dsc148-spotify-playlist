@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,994 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,009 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 70 | [Ijinkan Aku Menyayangimu](https://open.spotify.com/track/108AjsNJYPMrZWecK7xNkF) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [In Love](https://open.spotify.com/album/0jBvMGOZkpYyBQHz6y246o) | 4:42 |
 | 71 | [Pupus](https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Cerita Hanin Dhiya](https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH) | 3:54 |
 | 72 | [Tanpa Pamrih](https://open.spotify.com/track/2WKS8Tk8OwHnAY847eq1Xr) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tanpa Pamrih](https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe) | 3:32 |
-| 73 | [Pernah Muda](https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:23 |
+| 73 | [Tak Ingin Pisah Lagi](https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Tak Ingin Pisah Lagi](https://open.spotify.com/album/55EPRJFc0JAWKeLEFJogQ4) | 4:25 |
 | 74 | [Cahaya](https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:15 |
-| 75 | [Tak Ingin Pisah Lagi](https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Tak Ingin Pisah Lagi](https://open.spotify.com/album/55EPRJFc0JAWKeLEFJogQ4) | 4:25 |
+| 75 | [Pernah Muda](https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:23 |
 
 Snapshot ID: `ZmAaYgAAAAB17pMSDYGh1Oh+gH24vYDE`

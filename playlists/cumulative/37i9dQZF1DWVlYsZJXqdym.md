@@ -4,7 +4,7 @@
 
 > All your favourite mood boosting bangers...
 
-155 songs - 7 hr 46 min
+156 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2023-02-21 | 2023-08-02 |
 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 | 2023-07-25 | 2024-04-19 |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2023-02-21 | 2024-06-22 |
+| [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-21 |  |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-02-20 |  |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2024-04-11 |  |
 | [To The Moon](https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [To The Moon](https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r) | 2:28 | 2024-05-31 | 2024-06-11 |
@@ -158,7 +159,7 @@
 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 | 2023-02-21 | 2023-03-16 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-19 |  |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2023-02-21 | 2023-09-13 |
-| [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2023-03-10 |  |
+| [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2023-03-10 | 2024-06-25 |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2023-02-21 | 2023-07-01 |
 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 | 2023-02-21 | 2023-10-14 |
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2023-02-21 | 2023-03-11 |

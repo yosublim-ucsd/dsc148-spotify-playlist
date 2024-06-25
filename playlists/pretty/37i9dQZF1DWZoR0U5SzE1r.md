@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,992 likes - 75 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,090 likes - 75 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 70 | [I'm Listening \- Live](https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi) | 4:45 |
 | 71 | [A Million Saints \(Live\)](https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [A Million Saints \(Live\)](https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv) | 3:28 |
 | 72 | [Inhabit \- Live](https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 5:51 |
-| 73 | [Throne Room \- Live](https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [On My Side \(Live\)](https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe) | 5:01 |
-| 74 | [Nobody Like You \(Live\)](https://open.spotify.com/track/3g3OnglwSM3Rij5tIFA1LZ) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Nobody Like You \(Live\)](https://open.spotify.com/album/5SX9vQtcGlUpyJkB3kwry1) | 7:22 |
+| 73 | [Nobody Like You \(Live\)](https://open.spotify.com/track/3g3OnglwSM3Rij5tIFA1LZ) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Nobody Like You \(Live\)](https://open.spotify.com/album/5SX9vQtcGlUpyJkB3kwry1) | 7:22 |
+| 74 | [Throne Room \- Live](https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [On My Side \(Live\)](https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe) | 5:01 |
 | 75 | [Holy Desire \(From Worship Nights at the Barn\)](https://open.spotify.com/track/37o1DSQq5WzSFjYKKXDDIR) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 9:29 |
 
 Snapshot ID: `ZndbgAAAAAAprY4oKDpV9Y5pA065+uD+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest hip\-hop, refreshed weekly\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,893 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,901 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 5 | [SLUMSDALE.](https://open.spotify.com/track/2ijlZVYLZZyKRAfC1xcr2R) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [SLUMSDALE.](https://open.spotify.com/album/2DosWT0SoinQSKpVw7XWhs) | 3:19 |
 | 6 | [Seasons Change](https://open.spotify.com/track/0n1HZntJwa0YJIRsthWrB3) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Seasons Change](https://open.spotify.com/album/7weFr7PMqNzfFbvyp2od5o) | 2:00 |
 | 7 | [The Eternal Now](https://open.spotify.com/track/0CJL0DuxUtTzTOY3iUUJfK) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [The Eternal Now](https://open.spotify.com/album/6OQSrgM4iawSejtzafHEg7) | 3:25 |
-| 8 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:50 |
+| 8 | [Gimme A Second 2](https://open.spotify.com/track/5FYHVGP9TINgbfLvzMhnVl) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Gimme A Second 2](https://open.spotify.com/album/5bCb9gxJaafNto0orr3lIv) | 2:51 |
 | 9 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/093MlZS93ZKlHpGkmb3k3W) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:22 |
 | 10 | [Ego Slide](https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Ego Slide](https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk) | 3:38 |
 | 11 | [WHISKEY WHISKEY \(feat\. Morgan Wallen\)](https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:41 |

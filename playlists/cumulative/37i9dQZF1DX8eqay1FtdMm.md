@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Darae\(다래\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Ha Dong Qn\(하동균\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-545 songs - 1 day 11 hr 38 min
+546 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [I still can't believe it](https://open.spotify.com/track/74GRNRNGzmV6v9PC7nCCDR) | [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Bravo, My Life \(Original Soundtrack\), Pt.34](https://open.spotify.com/album/4C9xyKM41a9DLqCWqewSSJ) | 4:16 | 2022-08-18 | 2022-10-06 |
 | [I Still Love You](https://open.spotify.com/track/6RWADSjNxfNgzUrsfsD1H7) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Soul Pop City](https://open.spotify.com/album/56BCgGh2HwPJKKJmZ1dZKx) | 5:25 | 2023-01-13 | 2023-02-11 |
 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 | 2023-09-22 | 2024-01-04 |
+| [I Will](https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [I Will](https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt) | 3:53 | 2024-06-24 |  |
 | [I will bear my grief\. Thank you.](https://open.spotify.com/track/5QAynerkLzjgFNPFT0RTts) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [I will bear my grief\. Thank you.](https://open.spotify.com/album/3d5sQWZYfybvm2AF0ejVL2) | 4:30 | 2022-11-23 | 2022-12-14 |
 | [I Will Go To You Like the First Snow](https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Guardian \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS) | 3:49 | 2021-12-20 |  |
 | [I Will Shine On You](https://open.spotify.com/track/4VnZhQatrHFXySz467yURC) | [Odett](https://open.spotify.com/artist/1jYtDU2z8vLKUWGKe9UhHu) | [May I Help You? \(Original Television Soundtrack\) Part.5](https://open.spotify.com/album/1vOYGpf02GZzCfPyZVvWPf) | 3:57 | 2023-01-10 | 2023-01-25 |
@@ -349,7 +350,7 @@
 | [Only Longing Grows](https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.15](https://open.spotify.com/album/58uielBksTKu8wfbWBfJxC) | 3:53 | 2022-07-25 | 2022-08-04 |
 | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d) | [Lee Hong Ki \(FTISLAND\)](https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE) | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo) | 4:16 | 2023-07-17 | 2023-09-11 |
 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 | 2021-12-20 |  |
-| [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 | 2021-12-20 |  |
+| [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 | 2021-12-20 | 2024-06-25 |
 | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw) | 4:46 | 2021-12-27 | 2022-07-13 |
 | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/track/6Zvu8RwsRkogAb5AvBpF2x) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/album/5DqfLEt9syg644ToarPkZU) | 4:05 | 2021-12-20 | 2022-07-28 |
 | [Orpheus \(Feat\. Jo Gwangil\)](https://open.spotify.com/track/77pO7md3F2lmlXioPzNY0q) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj), [Jo Gwangil](https://open.spotify.com/artist/26a11HcBOVeX5KANeiuMjY) | [First of all](https://open.spotify.com/album/55BqAH8rp3OjiisTNm7de1) | 3:51 | 2022-11-23 | 2022-12-25 |

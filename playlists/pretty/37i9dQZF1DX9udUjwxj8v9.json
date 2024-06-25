@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 145472,
+  "num_followers": 145475,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -51,18 +51,26 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
-        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
+        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
       "artists": [
         {
           "name": "Alceu Valen\u00e7a",
           "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Tropicana (Morena Tropicana)",
-      "url": "https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2"
+      "duration_ms": 306853,
+      "name": "Frevo Mulher - Ao Vivo",
+      "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -179,26 +187,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
+        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
+        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
       },
       "artists": [
         {
           "name": "Alceu Valen\u00e7a",
           "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        },
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
         }
       ],
-      "duration_ms": 306853,
-      "name": "Frevo Mulher - Ao Vivo",
-      "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
+      "duration_ms": 231000,
+      "name": "Tropicana (Morena Tropicana)",
+      "url": "https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Nada Sem Ela",
-        "url": "https://open.spotify.com/album/15NX1MFPiauDujhbHQKk44"
+        "name": "L\u00e1 Vem O Guarda",
+        "url": "https://open.spotify.com/album/60IRlbKPEpYmIQCOQoaX4l"
       },
       "artists": [
         {
-          "name": "Academia da Berlinda",
-          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
+          "name": "Luiz Caldas",
+          "url": "https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh"
         }
       ],
-      "duration_ms": 306520,
-      "name": "Dorival",
-      "url": "https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr"
+      "duration_ms": 215065,
+      "name": "Haja Amor",
+      "url": "https://open.spotify.com/track/07aDFrAVLD02sKGzlZby46"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "L\u00e1 Vem O Guarda",
-        "url": "https://open.spotify.com/album/60IRlbKPEpYmIQCOQoaX4l"
+        "name": "Nada Sem Ela",
+        "url": "https://open.spotify.com/album/15NX1MFPiauDujhbHQKk44"
       },
       "artists": [
         {
-          "name": "Luiz Caldas",
-          "url": "https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh"
+          "name": "Academia da Berlinda",
+          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
         }
       ],
-      "duration_ms": 215065,
-      "name": "Haja Amor",
-      "url": "https://open.spotify.com/track/07aDFrAVLD02sKGzlZby46"
+      "duration_ms": 306520,
+      "name": "Dorival",
+      "url": "https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr"
     },
     {
       "added_at": "2023-03-06 22:48:04",

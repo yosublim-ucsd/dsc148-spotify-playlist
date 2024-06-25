@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,538 likes - 50 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,591 likes - 50 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 27 | [Funk 55](https://open.spotify.com/track/5CD3ImPPdCW8QFQkjo5TXt) | [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Funk 55](https://open.spotify.com/album/76EZEYn9nhqGh4mkc14KQb) | 6:13 |
 | 28 | [Down The Drain](https://open.spotify.com/track/62SaDdv956IYAt5nS1nWx7) | [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1), [Thabza Tee](https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn) | [Down The Drain](https://open.spotify.com/album/4RrEXzYVPDRdYUufiCw2W2) | 6:08 |
 | 29 | [Uyavala](https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab) | [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4) | [Uyavala](https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ) | 5:48 |
-| 30 | [Skontiri](https://open.spotify.com/track/4po57qphS5dHDitAV2JSML) | [Malumz on Decks](https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS) | [Skontiri](https://open.spotify.com/album/5o4Kwy9FcyEqqdNHJX1Iml) | 5:51 |
+| 30 | [Mang' Dakiwe \(feat\. Leon Lee\)](https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Leon Lee](https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD) | [Masego](https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u) | 6:51 |
 | 31 | [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 |
-| 32 | [Mang' Dakiwe \(feat\. Leon Lee\)](https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Leon Lee](https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD) | [Masego](https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u) | 6:51 |
+| 32 | [Skontiri](https://open.spotify.com/track/4po57qphS5dHDitAV2JSML) | [Malumz on Decks](https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS) | [Skontiri](https://open.spotify.com/album/5o4Kwy9FcyEqqdNHJX1Iml) | 5:51 |
 | 33 | [Monate Mogwanti](https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN) | [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Monate Mogwanti](https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF) | 5:27 |
 | 34 | [Moratata \(feat\. Leemckrazy & TitoM\)](https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k) | [DALI DALI](https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc) | 6:25 |
 | 35 | [Sanitizer](https://open.spotify.com/track/3dFpRuEIxuQfm2EHBf4ZVU) | [Dj Karri](https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1), [Lebzito](https://open.spotify.com/artist/3ZzgC7B3Ggr2jZGWclAY7Q), [BL Zero](https://open.spotify.com/artist/4bu6ZJj5ThDofeVJHPVlwl), [ELK](https://open.spotify.com/artist/2z839qWwCE38uqOqI2QnWa) | [Sanitizer](https://open.spotify.com/album/1dPG0MRY5u8J2e2cw1NPCN) | 6:56 |

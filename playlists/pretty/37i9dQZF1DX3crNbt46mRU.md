@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Coldplay
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,223 likes - 120 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,227 likes - 120 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 19 | [MONEY](https://open.spotify.com/track/0TfIUn5NqD0cJUVtynM2RP) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [MONEY](https://open.spotify.com/album/1B7p5jOJpHqdEBg0n7s8us) | 3:01 |
 | 20 | [Body](https://open.spotify.com/track/1ucysYifutlHvdhT3wPH09) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Body](https://open.spotify.com/album/2XFkhBjRO8elEtoZovNbjg) | 2:19 |
 | 21 | [Juste une minute](https://open.spotify.com/track/2yiIfIO1JYMiXebaBEodWD) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Juste une minute](https://open.spotify.com/album/5qAeplYmzvfI5RQ1Jv0pNf) | 2:57 |
-| 22 | [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 |
+| 22 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
 | 23 | [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
 | 24 | [Amazing](https://open.spotify.com/track/0HxBcYVceoxAuWCj0vCWTD) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [Nativ](https://open.spotify.com/artist/7ufLkxlHrq3NRaS1fCHOgq) | [Amazing](https://open.spotify.com/album/6PaanhGY1gnLBizTJ9gCzD) | 3:24 |
 | 25 | [One Day \(feat\. Leon Bridges\)](https://open.spotify.com/track/0mo6L5y8olr6HtK8kTGfBh) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Freak Show](https://open.spotify.com/album/3bBBR0YDmIcXnZlwfk9qSd) | 3:31 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 119 | [Mondscheinsee](https://open.spotify.com/track/5EmbM7YCVC9m2mAQzfdLkY) | [STANOVSKY](https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP) | [Mondscheinsee](https://open.spotify.com/album/5TL4NLliEcZC0m0lk3ycNr) | 2:13 |
 | 120 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 |
 
-Snapshot ID: `ZnS0cAAAAAC38TlSY/mvsZvDoE043kUG`
+Snapshot ID: `ZnlvwAAAAADk4aWDQs7IPYG4X8K0qFiA`

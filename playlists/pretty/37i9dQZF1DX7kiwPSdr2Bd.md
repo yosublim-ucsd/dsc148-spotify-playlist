@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,467 likes - 80 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,580 likes - 80 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 57 | [Sensibilidade \- Ao Vivo](https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sensibilidade \(Ao Vivo\)](https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT) | 6:31 |
 | 58 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 |
 | 59 | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz) | 3:43 |
-| 60 | [Oh Quão Lindo Esse Nome É \- Ao Vivo](https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Oh Quão Lindo Esse Nome É \(Ao Vivo\)](https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt) | 7:39 |
+| 60 | [Tão Bom Pra Mim \- Ao Vivo](https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8) | [Nathalia Valencia](https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK) | [Tão Bom Pra Mim \(Ao Vivo\)](https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV) | 8:16 |
 | 61 | [Um Milhão de Vezes \- Ao Vivo](https://open.spotify.com/track/3ozxp7Jde9AAbBycLmyetV) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Um Milhão de Vezes \(Ao Vivo\)](https://open.spotify.com/album/7IMuWFyccEHVI2qJocfD9I) | 4:18 |
 | 62 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
-| 63 | [Se Não Fosse o Senhor](https://open.spotify.com/track/4JOrNUbe0HwDakXaw4BGUW) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Se Não Fosse o Senhor](https://open.spotify.com/album/7ov8Vbos6ZgbEwYEGgR0AS) | 4:09 |
-| 64 | [Tão Bom Pra Mim \- Ao Vivo](https://open.spotify.com/track/2hleq4c5eQhYAZVicg6NT8) | [Nathalia Valencia](https://open.spotify.com/artist/09joQAVJ6oGbQdpTVjM2DK) | [Tão Bom Pra Mim \(Ao Vivo\)](https://open.spotify.com/album/4XbTXkGhSs2ojN7exXEAtV) | 8:16 |
+| 63 | [Oh Quão Lindo Esse Nome É \- Ao Vivo](https://open.spotify.com/track/3FvKZvKIvjicD6K9CUpawq) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Oh Quão Lindo Esse Nome É \(Ao Vivo\)](https://open.spotify.com/album/1Qc5BQBQYbmBNUDX8tWNgt) | 7:39 |
+| 64 | [Se Não Fosse o Senhor](https://open.spotify.com/track/4JOrNUbe0HwDakXaw4BGUW) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Se Não Fosse o Senhor](https://open.spotify.com/album/7ov8Vbos6ZgbEwYEGgR0AS) | 4:09 |
 | 65 | [Vem, Espírito de Deus \- Ao Vivo](https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Vem, Espírito de Deus \(Ao Vivo\)](https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV) | 4:24 |
 | 66 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 |
 | 67 | [Acalma](https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Acalma](https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts) | 4:56 |

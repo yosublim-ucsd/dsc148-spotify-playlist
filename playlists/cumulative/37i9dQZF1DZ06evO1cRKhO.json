@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Pauline Oliveros. The essential tracks, all in one playlist.",
+  "description": "This is Pauline Oliveros. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Pauline Oliveros",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 363520,
       "name": "Altamirage III",
       "url": "https://open.spotify.com/track/5ELBzwjfg5WfTWQ9zlZfQL"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 180040,
       "name": "Body Stories",
       "url": "https://open.spotify.com/track/7uICRy0IYUKeYQjZojQ2UA"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 174240,
       "name": "David's Sandbox",
       "url": "https://open.spotify.com/track/2OtzKgyyOyq0cqTTZz687I"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 165138,
       "name": "Deep-Sea Rendez-Vous",
       "url": "https://open.spotify.com/track/0ZsN5BFNEOO0dbOQVKh6Fz"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 199880,
       "name": "Duet",
       "url": "https://open.spotify.com/track/2DpRCugH6W4YelZWeprDNv"
@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 831146,
       "name": "Outline: for flute, percussion and string bass",
       "url": "https://open.spotify.com/track/50g6C4udSPKSaMoT9ZNwSe"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,495 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,504 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 20 | [Pravda](https://open.spotify.com/track/1vfG5VaQQzr7x7gCbVyQFF) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:11 |
 | 21 | [Sadagora Hot Dub \- Remixed by Shantel](https://open.spotify.com/track/3Wb0d7PcBdFKVnTJ75UQ1l) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Remixed](https://open.spotify.com/album/5LjkNrn1rnhAk0dimZGrk5) | 5:11 |
 | 22 | [No Te Desanimes](https://open.spotify.com/track/5UhdNEQw0SOtfdUYx3FhkU) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [No Te Desanimes](https://open.spotify.com/album/3ULGENdwrVsBlo4aCHhywh) | 4:28 |
-| 23 | [La Gran Alianza del Norte](https://open.spotify.com/track/3q8E4v1do4oENB7CYg9rkR) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Piloncillo y Bacanora](https://open.spotify.com/album/1uliriDJ6RM4F7xUq049Zd) | 2:47 |
-| 24 | [Opa Cupa](https://open.spotify.com/track/1ramTBkEuNstQWIP6hIgDv) | [Slavic Soul Party!](https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE) | [BalkanBeats](https://open.spotify.com/album/5MjkNUydPIUTg8EW4bXOsi) | 4:40 |
+| 23 | [Opa Cupa](https://open.spotify.com/track/1ramTBkEuNstQWIP6hIgDv) | [Slavic Soul Party!](https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE) | [BalkanBeats](https://open.spotify.com/album/5MjkNUydPIUTg8EW4bXOsi) | 4:40 |
+| 24 | [La Gran Alianza del Norte](https://open.spotify.com/track/3q8E4v1do4oENB7CYg9rkR) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Piloncillo y Bacanora](https://open.spotify.com/album/1uliriDJ6RM4F7xUq049Zd) | 2:47 |
 | 25 | [No Corro, No Grito, No Empujo](https://open.spotify.com/track/2zMauuBuWdlJxv3EFkEGLv) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 3:04 |
 | 26 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
 | 27 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 41 | [Pharoah's Dreams](https://open.spotify.com/track/3bfUusiINCCzv5YDfgtQEY) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:27 |
 | 42 | [Opa Tsupa](https://open.spotify.com/track/0un7jg786f0J1cp9wpmfq6) | [Bratsch](https://open.spotify.com/artist/6FZfkhy0yUI4DAkrN8wZrd) | [Sans Domicile Fixe](https://open.spotify.com/album/5spBXqMdI07H9f2yAqXETb) | 2:44 |
 | 43 | [The Revenge \- Juan Velázquez Dub Mix](https://open.spotify.com/track/1EQTAtzVmAtDyi2gCoUIuc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Juan Velázquez Dub Mix](https://open.spotify.com/artist/5M5lqIObIGdQfb3yQvC3db) | [The Revenge](https://open.spotify.com/album/0E2eMtNlLia0cb1jVF7yIt) | 4:59 |
-| 44 | [Cuervos Main Theme](https://open.spotify.com/track/6mYdLLjsJHVkvZnn5C3FZe) | [Benjamin Shwartz](https://open.spotify.com/artist/2GjgSEFTQRiOZDmqcmuKqC) | [Música Original Club de Cuervos](https://open.spotify.com/album/2GT8NnhshovgEod3XGOvE0) | 1:34 |
+| 44 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 |
 | 45 | [Cruzando el Campo](https://open.spotify.com/track/7IEMXZrmEJXgZSfKaZMOJK) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Cruzando el Campo](https://open.spotify.com/album/0j515BtyhDDr3KKqvWNDjx) | 2:22 |
 | 46 | [Cumbia Klezmer](https://open.spotify.com/track/2bsNIf7cT3PYRriUSNcnck) | [La Mano Ajena](https://open.spotify.com/artist/611eLbdAybrp9seo2dr6eJ) | [Radio Galena](https://open.spotify.com/album/1Ra9M1mo2LU1TQRSYJ7Vjg) | 2:49 |
-| 47 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 |
+| 47 | [Cuervos Main Theme](https://open.spotify.com/track/6mYdLLjsJHVkvZnn5C3FZe) | [Benjamin Shwartz](https://open.spotify.com/artist/2GjgSEFTQRiOZDmqcmuKqC) | [Música Original Club de Cuervos](https://open.spotify.com/album/2GT8NnhshovgEod3XGOvE0) | 1:34 |
 | 48 | [Marajà \- 2018 Remaster](https://open.spotify.com/track/70EXIyETxgloAlVkRbO2H9) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Canzoni a manovella \(2018 Remaster\)](https://open.spotify.com/album/7AYil3edcAVcb7nfyf0Tn7) | 3:25 |
 | 49 | [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 |
 | 50 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/701VW4sjPM6NNyvgQiAUDX) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Pa' Bailar](https://open.spotify.com/album/5s5UhYWKiVH8o5GLmCVKDF) | 3:38 |

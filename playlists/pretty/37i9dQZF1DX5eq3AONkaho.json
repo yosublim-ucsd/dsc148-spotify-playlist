@@ -1,6 +1,6 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 109781,
+  "num_followers": 109776,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
         "name": "SPOT!",
         "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
-        "name": "How Sweet",
-        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "How Sweet",
-      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -195,18 +195,18 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 162840,
-      "name": "ABCD",
-      "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/4ASxFYWyk2216OloHoaSh8"
       },
@@ -243,18 +259,18 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+        "name": "BATTER UP",
+        "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+      "duration_ms": 188179,
+      "name": "BATTER UP",
+      "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -271,22 +287,6 @@
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
-        "name": "BATTER UP",
-        "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 188179,
-      "name": "BATTER UP",
-      "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "Wife",
-        "url": "https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 121226,
-      "name": "Wife",
-      "url": "https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
         "name": "Way Back Home (feat. Conor Maynard) [Sam Feldt Edit]",
         "url": "https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "LILAC",
+      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
         "name": "minisode 2: Thursday's Child",
         "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
       },
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "Wife",
+        "url": "https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 214253,
-      "name": "LILAC",
-      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+      "duration_ms": 121226,
+      "name": "Wife",
+      "url": "https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 214136,
-      "name": "Way Back Home",
-      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
         "name": "Butter (Hotter, Sweeter, Cooler)",
         "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
       },
@@ -1395,22 +1379,6 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 175889,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
       },
@@ -1427,18 +1395,34 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR"
+        "name": "Take",
+        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
       },
       "artists": [
         {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
         }
       ],
-      "duration_ms": 182332,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk"
+      "duration_ms": 214136,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -1455,6 +1439,22 @@
       "duration_ms": 173640,
       "name": "Virtual Angel",
       "url": "https://open.spotify.com/track/1iGNZerzZHm2GLu7k1OS3J"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 182332,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "I-LAND2 : N/a Signal Song (Applicants Version)",
-        "url": "https://open.spotify.com/album/34esSejdtngmSozv4mZCUR"
-      },
-      "artists": [
-        {
-          "name": "I-LAND2 : N/a",
-          "url": "https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4"
-        }
-      ],
-      "duration_ms": 197962,
-      "name": "FINAL LOVE SONG",
-      "url": "https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
         "name": "ZOOM",
         "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 217053,
       "name": "Blueming",
       "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
+        "name": "I-LAND2 : N/a Signal Song (Applicants Version)",
+        "url": "https://open.spotify.com/album/34esSejdtngmSozv4mZCUR"
+      },
+      "artists": [
+        {
+          "name": "I-LAND2 : N/a",
+          "url": "https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4"
+        }
+      ],
+      "duration_ms": 197962,
+      "name": "FINAL LOVE SONG",
+      "url": "https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "YOUTH IN THE SHADE",
-        "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 180988,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
         "name": "Fact Check - The 5th Album",
         "url": "https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr"
       },
@@ -1807,6 +1791,38 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
+        "name": "BBIBBI",
+        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "BBIBBI",
+      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
+        "name": "YOUTH IN THE SHADE",
+        "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 180988,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
         "name": "THE WORLD EP.1 : MOVEMENT",
         "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 207921,
       "name": "Guerrilla",
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
-        "name": "GREAT!",
-        "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
-      },
-      "artists": [
-        {
-          "name": "MOMOLAND",
-          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
-        }
-      ],
-      "duration_ms": 208863,
-      "name": "BBoom BBoom",
-      "url": "https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "BBIBBI",
-        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
+        "name": "GREAT!",
+        "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
         }
       ],
-      "duration_ms": 194426,
-      "name": "BBIBBI",
-      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
+      "duration_ms": 208863,
+      "name": "BBoom BBoom",
+      "url": "https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 178013,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
         "name": "The 1st Mini Album 'WE UNIS'",
         "url": "https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 188133,
       "name": "SUPERWOMAN",
       "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 147961,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
         "name": "Sour Candy (with BLACKPINK)",
         "url": "https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 157706,
       "name": "Sour Candy (with BLACKPINK)",
       "url": "https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
+        "name": "STEREOTYPE",
+        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 191695,
+      "name": "STEREOTYPE",
+      "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -2163,18 +2163,18 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "STEREOTYPE",
-        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO"
       },
       "artists": [
         {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         }
       ],
-      "duration_ms": 191695,
-      "name": "STEREOTYPE",
-      "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
+      "duration_ms": 147961,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -2191,22 +2191,6 @@
       "duration_ms": 180000,
       "name": "Gashina",
       "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
-        "name": "Love 119",
-        "url": "https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 173489,
-      "name": "Love 119",
-      "url": "https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -2255,22 +2239,6 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "Hello Future - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Hello Future",
-      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
         "name": "The Planet",
         "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
       },
@@ -2283,6 +2251,22 @@
       "duration_ms": 178156,
       "name": "The Planet",
       "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Hello Future",
+      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -2307,6 +2291,22 @@
       "duration_ms": 196549,
       "name": "For You",
       "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
+        "name": "RIIZING - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 152889,
+      "name": "Boom Boom Bass",
+      "url": "https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -2475,6 +2475,22 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+      },
+      "artists": [
+        {
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+        }
+      ],
+      "duration_ms": 189355,
+      "name": "Energetic",
+      "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
         "name": "Positive",
         "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
       },
@@ -2491,18 +2507,18 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+        "name": "Sour & Sweet",
+        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
       },
       "artists": [
         {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
         }
       ],
-      "duration_ms": 189355,
-      "name": "Energetic",
-      "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
+      "duration_ms": 147680,
+      "name": "Sour & Sweet",
+      "url": "https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -2531,18 +2547,18 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "Sour & Sweet",
-        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
+        "name": "Balloon in Love",
+        "url": "https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9"
       },
       "artists": [
         {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
         }
       ],
-      "duration_ms": 147680,
-      "name": "Sour & Sweet",
-      "url": "https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2"
+      "duration_ms": 194093,
+      "name": "Balloon in Love",
+      "url": "https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -2579,22 +2595,6 @@
       "duration_ms": 173413,
       "name": "SMILEY(Feat. BIBI)",
       "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
-        "name": "Balloon in Love",
-        "url": "https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Balloon in Love",
-      "url": "https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
-        "name": "White Wind",
-        "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 195855,
-      "name": "gogobebe",
-      "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
         "name": "I - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
       },
@@ -3003,6 +2987,42 @@
       "duration_ms": 206038,
       "name": "I",
       "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
+        "name": "White Wind",
+        "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 195855,
+      "name": "gogobebe",
+      "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 6",
+        "url": "https://open.spotify.com/album/1BeWYcLEYlD2rOaa0EWdSr"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 248143,
+      "name": "Can You Hear My Heart (feat. LEE HI)",
+      "url": "https://open.spotify.com/track/7n5eQJYX7e6H5gkzgyEfQG"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -3031,26 +3051,6 @@
       "duration_ms": 164266,
       "name": "Like Magic",
       "url": "https://open.spotify.com/track/1bN4ejW5IMmL4CRVG6Fxfk"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
-        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 6",
-        "url": "https://open.spotify.com/album/1BeWYcLEYlD2rOaa0EWdSr"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 248143,
-      "name": "Can You Hear My Heart (feat. LEE HI)",
-      "url": "https://open.spotify.com/track/7n5eQJYX7e6H5gkzgyEfQG"
     },
     {
       "added_at": "2024-06-21 05:12:30",
@@ -3183,6 +3183,22 @@
     {
       "added_at": "2024-06-21 05:12:30",
       "album": {
+        "name": "The 3rd Album Part.1",
+        "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "Please don\u2019t\u2026",
+      "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
+    },
+    {
+      "added_at": "2024-06-21 05:12:30",
+      "album": {
         "name": "Don't Call Me - The 7th Album",
         "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
       },
@@ -3211,22 +3227,6 @@
       "duration_ms": 174173,
       "name": "I'm Not Cool",
       "url": "https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf"
-    },
-    {
-      "added_at": "2024-06-21 05:12:30",
-      "album": {
-        "name": "The 3rd Album Part.1",
-        "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "Please don\u2019t\u2026",
-      "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
     },
     {
       "added_at": "2024-06-21 05:12:30",

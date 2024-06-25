@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 246433,
+  "num_followers": 246507,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,18 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "I Believe In Love Again",
-        "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
         }
       ],
-      "duration_ms": 176524,
-      "name": "I Believe In Love Again",
-      "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
+      "duration_ms": 266826,
+      "name": "Thinking of You - 1995 Remaster",
+      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -523,34 +519,46 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+        "name": "I Believe In Love Again",
+        "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
       },
       "artists": [
         {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 266826,
-      "name": "Thinking of You - 1995 Remaster",
-      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
+      "duration_ms": 176524,
+      "name": "I Believe In Love Again",
+      "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
     },
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "Roches blanches",
-        "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
+        "name": "V\u00e1rias Queixas (Radio Edit)",
+        "url": "https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz"
       },
       "artists": [
         {
-          "name": "Mizmo",
-          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
         }
       ],
-      "duration_ms": 156298,
-      "name": "Roches blanches",
-      "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
+      "duration_ms": 155702,
+      "name": "V\u00e1rias Queixas - Radio Edit",
+      "url": "https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -579,26 +587,18 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "V\u00e1rias Queixas (Radio Edit)",
-        "url": "https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz"
+        "name": "Roches blanches",
+        "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "Mizmo",
+          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
         }
       ],
-      "duration_ms": 155702,
-      "name": "V\u00e1rias Queixas - Radio Edit",
-      "url": "https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2"
+      "duration_ms": 156298,
+      "name": "Roches blanches",
+      "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
+        "name": "Melody A.M.",
+        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 218320,
+      "name": "Eple",
+      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
+    },
+    {
+      "added_at": "2024-06-12 14:27:14",
+      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 345310,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
-    },
-    {
-      "added_at": "2024-06-12 14:27:14",
-      "album": {
-        "name": "Melody A.M.",
-        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 218320,
-      "name": "Eple",
-      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "IT MIGHT BE THE DRUGS",
-        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd"
       },
       "artists": [
         {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
         }
       ],
-      "duration_ms": 219892,
-      "name": "IT MIGHT BE THE DRUGS",
-      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd"
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
       },
       "artists": [
         {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
         }
       ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg"
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "Supply The Love",
-        "url": "https://open.spotify.com/album/7y3keAFTj2vYq3zIqQEBjf"
-      },
-      "artists": [
-        {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
-        }
-      ],
-      "duration_ms": 155821,
-      "name": "Supply The Love",
-      "url": "https://open.spotify.com/track/59kU1EApSoqDXqAqlGIvCy"
-    },
-    {
-      "added_at": "2024-06-12 14:27:14",
-      "album": {
         "name": "La Motocicletta",
         "url": "https://open.spotify.com/album/1z5KThCiuYwgnJODi6Lxfa"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 297354,
       "name": "La Motocicletta",
       "url": "https://open.spotify.com/track/6Fsikuruoag80X8KXj9odm"
+    },
+    {
+      "added_at": "2024-06-12 14:27:14",
+      "album": {
+        "name": "Supply The Love",
+        "url": "https://open.spotify.com/album/7y3keAFTj2vYq3zIqQEBjf"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "duration_ms": 155821,
+      "name": "Supply The Love",
+      "url": "https://open.spotify.com/track/59kU1EApSoqDXqAqlGIvCy"
     },
     {
       "added_at": "2024-06-12 14:27:14",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-06-12 14:27:14",
       "album": {
-        "name": "You Luv Me",
-        "url": "https://open.spotify.com/album/6qZTG4OV8ah48eqvZnWkNw"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "You Luv Me",
-      "url": "https://open.spotify.com/track/1MzJiroVd2f9CmwNZPxxAv"
-    },
-    {
-      "added_at": "2024-06-12 14:27:14",
-      "album": {
         "name": "Cinecitt\u00e0",
         "url": "https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 208358,
       "name": "Cinecitt\u00e0",
       "url": "https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5"
+    },
+    {
+      "added_at": "2024-06-12 14:27:14",
+      "album": {
+        "name": "You Luv Me",
+        "url": "https://open.spotify.com/album/6qZTG4OV8ah48eqvZnWkNw"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "You Luv Me",
+      "url": "https://open.spotify.com/track/1MzJiroVd2f9CmwNZPxxAv"
     },
     {
       "added_at": "2024-06-12 14:27:14",

@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-636 songs - 1 day 10 hr 59 min
+637 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [That's Us/Wild Combination](https://open.spotify.com/track/1vaGkEkv1VfEYnFAjRJ7EY) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Rahim C Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [That's Us/Wild Combination](https://open.spotify.com/album/3ifBjWe4ziDBImGZaapF4f) | 6:25 | 2024-06-06 | 2024-06-14 |
 | [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 | 2024-05-31 | 2024-06-12 |
 | [The Backwards Heart](https://open.spotify.com/track/3yXpfmDmEluup8pOyi0g25) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 4:06 | 2024-05-17 | 2024-05-25 |
+| [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/52anJ914oylWdT3CytSMYF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 3:33 | 2024-06-24 |  |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-24 | 2024-06-12 |
 | [The End](https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The End](https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI) | 3:17 | 2024-06-06 | 2024-06-15 |
 | [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-06-21 |  |

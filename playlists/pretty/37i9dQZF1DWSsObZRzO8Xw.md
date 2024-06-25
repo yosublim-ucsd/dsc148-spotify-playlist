@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: LITE
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,668 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,732 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 80 | [Andes](https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL) | [Montaña](https://open.spotify.com/artist/5oZKQvQiZPui8fMeeo5a2S) | [Coordenadas](https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0) | 3:29 |
 | 81 | [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 |
 | 82 | [Queso](https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz) | [Hungría](https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx) | [Magyarország vagy halál](https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M) | 5:37 |
-| 83 | [14.12](https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0) | [Pirámides](https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu) | [Caíste al Suelo](https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl) | 3:23 |
-| 84 | [x Maria Violenza](https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB) | [Scumma do Mar](https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH) | [Gamba Tesa](https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG) | 1:52 |
+| 83 | [x Maria Violenza](https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB) | [Scumma do Mar](https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH) | [Gamba Tesa](https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG) | 1:52 |
+| 84 | [14.12](https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0) | [Pirámides](https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu) | [Caíste al Suelo](https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl) | 3:23 |
 | 85 | [Ausente](https://open.spotify.com/track/5mZbQmUlpLaq5ZFSsGcVE6) | [FRDZ](https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t) | [Fernández](https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw) | 2:21 |
 | 86 | [Ten Billion People](https://open.spotify.com/track/04B0actK1X1Y4Buy2vXARb) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Ten Billion People](https://open.spotify.com/album/6KkbUhO6mLJSldvbSSK5h8) | 6:29 |
 | 87 | [Shiva](https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Fontana Bella](https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc) | 3:37 |

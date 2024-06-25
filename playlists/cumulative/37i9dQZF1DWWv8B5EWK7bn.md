@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-403 songs - 1 day 4 hr 44 min
+404 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bola Oro](https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Bola Oro](https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2) | 4:05 | 2023-05-24 | 2023-09-26 |
 | [Broken Melody](https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Broken Melody](https://open.spotify.com/album/4gzeLQvhfZ5vjnblYDMBqn) | 4:26 | 2022-04-20 | 2022-09-04 |
 | [Can I Call You](https://open.spotify.com/track/71RrgXAd9GrlQKvzvLjirz) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [Can I Call You](https://open.spotify.com/album/51IbpY4dtaQ0alpNOHhsgE) | 4:22 | 2022-09-12 | 2023-03-18 |
+| [Catedral](https://open.spotify.com/track/3sRMZ7WnXCpRZBAH8nMcSz) | [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Los manantiales](https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o) | 2:41 | 2024-06-24 |  |
 | [Cherokee](https://open.spotify.com/track/1qFudtsBIsNMBumicKCVYm) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Time Skiffs](https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv) | 7:50 | 2023-01-03 | 2023-10-28 |
 | [Cholericly Yours](https://open.spotify.com/track/5Ey7Xxphn3ecDo8eYgjouM) | [Mayuko](https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe) | [Cholericly Yours](https://open.spotify.com/album/62kE8wYDmoPC1crXWscfH7) | 4:10 | 2022-04-23 | 2022-09-01 |
 | [Cholericly Yours](https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI) | [Mayuko](https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe) | [Songs To Whistle When Strolling Along The Abyss](https://open.spotify.com/album/1gAHzOsqvW1jV7lJCCrkle) | 4:12 | 2024-02-02 |  |
@@ -324,7 +325,7 @@
 | [Starry Nights](https://open.spotify.com/track/1ijMJdADgg379aghDnIby7) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Starry Nights](https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH) | 3:25 | 2022-11-17 |  |
 | [Starved for Glamour](https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [High January](https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE) | 4:26 | 2021-10-06 |  |
 | [Station to Station](https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d) | 4:25 | 2021-10-06 | 2024-04-19 |
-| [Station to Station](https://open.spotify.com/track/6vJ66cRJ3KSQz6Bu3kP6z5) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/44iZWsGRW7Scy1rmydhYVM) | 4:25 | 2021-10-06 |  |
+| [Station to Station](https://open.spotify.com/track/6vJ66cRJ3KSQz6Bu3kP6z5) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/44iZWsGRW7Scy1rmydhYVM) | 4:25 | 2021-10-06 | 2024-06-25 |
 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 | 2023-08-24 | 2023-12-21 |
 | [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 | 2023-01-20 |  |
 | [Stranidei](https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Vandali / Stranidei](https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI) | 4:05 | 2023-05-22 |  |

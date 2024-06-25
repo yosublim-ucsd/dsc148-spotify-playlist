@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > El futuro está acá\. Conoce a la Generación 2024 de RADAR México\. CHOCA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,124 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,148 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 22 | [Don Ismael](https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Don Ismael](https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj) | 2:38 |
 | 23 | [Punto y Aparte](https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto y Aparte](https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0) | 2:38 |
 | 24 | [El Guty](https://open.spotify.com/track/2efRIKsDPxJ7OG4h5PlHEF) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [El Guty](https://open.spotify.com/album/5mWGWS3lPdkfMziyh29Hgb) | 2:43 |
-| 25 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 |
-| 26 | [Hasta la Raíz](https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Lo Que La Gente Estaba Esperando](https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm) | 2:46 |
+| 25 | [Hasta la Raíz](https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Lo Que La Gente Estaba Esperando](https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm) | 2:46 |
+| 26 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 |
 | 27 | [Borracho Enamorado](https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Borracho Enamorado](https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK) | 2:32 |
 | 28 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 |
 | 29 | [Sal De Mi Mente](https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Sal De Mi Mente](https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM) | 2:55 |

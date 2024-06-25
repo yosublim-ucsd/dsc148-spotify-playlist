@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,093 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,116 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 56 | [Sing To Me](https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [DEATH STRANDING: Timefall \(Original Music from the World of Death Stranding\)](https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3) | 3:09 |
 | 57 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |
 | 58 | [Pressure](https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH) | [Rosenfeld](https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg) | [Pressure](https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg) | 2:18 |
-| 59 | [IDFLU](https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [IDFLU](https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf) | 2:52 |
-| 60 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
+| 59 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
+| 60 | [IDFLU](https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [IDFLU](https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf) | 2:52 |
 | 61 | [Lightning Over Mexico](https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [The Catastrophists EP](https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr) | 4:11 |
-| 62 | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU) | 2:35 |
-| 63 | [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 |
+| 62 | [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 |
+| 63 | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU) | 2:35 |
 | 64 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 |
 | 65 | [Bones](https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bones](https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB) | 2:49 |
-| 66 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 |
-| 67 | [Knockoff](https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 3:04 |
+| 66 | [Knockoff](https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 3:04 |
+| 67 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 |
 | 68 | [Easy](https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Easy](https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp) | 3:26 |
 | 69 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 |
 | 70 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |

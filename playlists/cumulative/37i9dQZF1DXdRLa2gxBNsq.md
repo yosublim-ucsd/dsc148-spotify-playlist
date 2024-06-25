@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Manolo Kabezabolo.
 
-158 songs - 8 hr 21 min
+159 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Control de Masas](https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Control de Masas](https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm) | 3:41 | 2024-04-18 |  |
 | [Corazón ardiendo](https://open.spotify.com/track/60zBmfg2Hle1y4VaUfISOo) | [Bihotza](https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Corazón ardiendo](https://open.spotify.com/album/0cRzS0eYvsw7rIRN2cTs97) | 3:01 | 2024-06-20 |  |
 | [Corona de Espinas](https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL) | [Bihotza](https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Corona de Espinas](https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB) | 3:37 | 2024-04-05 |  |
-| [Criatura](https://open.spotify.com/track/1YGKtbd0E2PSTuwc2jOBxt) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3G4CgHJv566we7b2M16lSq) | 2:39 | 2024-04-18 |  |
+| [Criatura](https://open.spotify.com/track/1YGKtbd0E2PSTuwc2jOBxt) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3G4CgHJv566we7b2M16lSq) | 2:39 | 2024-04-18 | 2024-06-25 |
 | [Criatura](https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 2:39 | 2023-12-08 | 2024-04-19 |
 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 | 2023-12-08 |  |
 | [Cuidado! Las palomas son drones](https://open.spotify.com/track/6oxXnEoxq2jmxXNMqqPZfH) | [aitana gato muerto](https://open.spotify.com/artist/0u1PT5i2diugyPeT1P9OLa), [Megadeath](https://open.spotify.com/artist/0fwBnOt3uTjZeOLJybx7M8) | [Cuidado! Las palomas son drones](https://open.spotify.com/album/4j3mj26BB8U7PcLgAWl2RD) | 2:47 | 2024-06-20 |  |
@@ -78,6 +78,7 @@
 | [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 | 2023-12-08 |  |
 | [He Visto](https://open.spotify.com/track/7caiZ8Vj8ouLzgDNfx2xZ0) | [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [He Visto](https://open.spotify.com/album/6BU8iwhJ0JlRPXQUEwhHCZ) | 3:28 | 2024-05-09 | 2024-06-21 |
 | [Herida de Guerra](https://open.spotify.com/track/5KoHwSm2KNjjm1O26hIjby) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora Que Se Ha Ido el Sol](https://open.spotify.com/album/1oh9N9kZ3JeJXdyJ8iCVFb) | 4:00 | 2023-12-08 | 2024-04-19 |
+| [Herida de guerra](https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora que se ha ido el sol](https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl) | 4:00 | 2024-06-20 |  |
 | [Historia triste](https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Impuesto Revolucionario](https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm) | 3:07 | 2023-12-08 |  |
 | [Humanos](https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Humanos](https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy) | 2:31 | 2024-04-18 |  |
 | [Infiltrados](https://open.spotify.com/track/4me2CVIEdM66DXOAzcUQ3s) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Confrontación](https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp) | 3:01 | 2024-05-09 | 2024-06-21 |

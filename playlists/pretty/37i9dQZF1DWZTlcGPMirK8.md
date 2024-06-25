@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,496 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,493 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 38 | [Angels Brought Me Here](https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Just As I Am](https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km) | 3:59 |
 | 39 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
 | 40 | [Chameleon](https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha) | [Changa](https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe) | 3:18 |
-| 41 | [Call On Me \- Ryan Riback Remix](https://open.spotify.com/track/3GDTO4VnjlQbHfNJ87FNfn) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [One of One](https://open.spotify.com/album/2VjgAAF4WQCmVy2YBkM5uZ) | 3:42 |
-| 42 | [I Said Hi](https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 2:50 |
+| 41 | [I Said Hi](https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 2:50 |
+| 42 | [Call On Me \- Ryan Riback Remix](https://open.spotify.com/track/3GDTO4VnjlQbHfNJ87FNfn) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [One of One](https://open.spotify.com/album/2VjgAAF4WQCmVy2YBkM5uZ) | 3:42 |
 | 43 | [Calypso](https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Ivy & The Big Apples](https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC) | 1:51 |
 | 44 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
 | 45 | [Two Strong Hearts](https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Age Of Reason](https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v) | 3:33 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 48 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |
 | 49 | [Moments](https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Off The Grid](https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe) | 3:57 |
 | 50 | [Lost Without You](https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:08 |
-| 51 | [Is This How You Feel?](https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop) | [The Preatures](https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu) | [Blue Planet Eyes](https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l) | 3:34 |
-| 52 | [Down Under](https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Super Hits](https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB) | 3:43 |
+| 51 | [Down Under](https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Super Hits](https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB) | 3:43 |
+| 52 | [Is This How You Feel?](https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop) | [The Preatures](https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu) | [Blue Planet Eyes](https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l) | 3:34 |
 | 53 | [20 Good Reasons](https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [Slideshows](https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289) | 3:49 |
 | 54 | [Love at First Sight](https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv) | 3:58 |
 | 55 | [The Fighter](https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 3:04 |

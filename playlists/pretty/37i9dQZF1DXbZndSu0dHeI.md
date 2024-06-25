@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Have the loveliest little day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,977 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,025 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 45 | [I Should Go \- Solo Version](https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [I Should Go \(Solo Version\)](https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV) | 2:31 |
 | 46 | [Tired Boy](https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Tired Boy](https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW) | 4:30 |
 | 47 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 |
-| 48 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 |
-| 49 | [The Breeze](https://open.spotify.com/track/3EN4LzHTjEDHt4s5n3Fix5) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Fate](https://open.spotify.com/album/1DW0xzBKWQZnXv4Ypt25LZ) | 3:59 |
+| 48 | [The Breeze](https://open.spotify.com/track/3EN4LzHTjEDHt4s5n3Fix5) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Fate](https://open.spotify.com/album/1DW0xzBKWQZnXv4Ypt25LZ) | 3:59 |
+| 49 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 |
 | 50 | [Frame Of Reference](https://open.spotify.com/track/4BTet4QXPBOaoAS4Nw4PW4) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Frame Of Reference](https://open.spotify.com/album/7KQKz2ODLFkfwkCEZZU6AC) | 2:31 |
 | 51 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
 | 52 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 71 | [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 |
 | 72 | [Heart Is A Drum](https://open.spotify.com/track/573nT62vtbezncIwCfxIm7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:31 |
 | 73 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
-| 74 | [Headlands](https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Headlands](https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe) | 4:42 |
-| 75 | [Sink Into Me](https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Sink Into Me](https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W) | 2:38 |
+| 74 | [Sink Into Me](https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Sink Into Me](https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W) | 2:38 |
+| 75 | [Headlands](https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Headlands](https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe) | 4:42 |
 | 76 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
 | 77 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 |
 | 78 | [How Beautiful Life Can Be \- Single Version](https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [How Beautiful Life Can Be](https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z) | 2:30 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 86 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
 | 87 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
 | 88 | [Can You Feel My Love](https://open.spotify.com/track/3rnWd8tja5FuJaeIf4Y4Mz) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [I Want It All Right Now \(Deluxe\)](https://open.spotify.com/album/44tOn6B78BfVwmJo6SUNC0) | 3:57 |
-| 89 | [supposed to](https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [supposed to](https://open.spotify.com/album/2hoWsnm5E7jrSdq01RNoBU) | 2:54 |
-| 90 | [So Unimportant](https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [So Unimportant](https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq) | 4:23 |
+| 89 | [So Unimportant](https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [So Unimportant](https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq) | 4:23 |
+| 90 | [supposed to](https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [supposed to](https://open.spotify.com/album/2hoWsnm5E7jrSdq01RNoBU) | 2:54 |
 | 91 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 |
 | 92 | [Cadillac](https://open.spotify.com/track/16vuy4pwheYCxp2Pyv3YRy) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [You Do Not Have To Be Good](https://open.spotify.com/album/4eikHhG2WppVJiTkTuTtzN) | 2:51 |
 | 93 | [Naked Kids](https://open.spotify.com/track/3awm1x3kGmYIVrkNDBFP6U) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:30 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 97 | [Girls That Play](https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls That Play](https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx) | 3:22 |
 | 98 | [welcome to the sidelines](https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [is that all there is?](https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK) | 2:57 |
 | 99 | [Hot & Heavy](https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Hot & Heavy](https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu) | 4:10 |
-| 100 | [Hospital \(One Man Down\) \(feat\. Remi Wolf\)](https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Hospital \(One Man Down\)](https://open.spotify.com/album/25iq2f67q6Je815D44cXPu) | 3:27 |
+| 100 | [All My Life](https://open.spotify.com/track/3mh7FfDdLfOIbEFThIvvCG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [All My Life](https://open.spotify.com/album/2dQ2fB3gMPzY5abi0DwWxx) | 3:47 |
 
 Snapshot ID: `ZlosCAAAAAA36SpOUBzUYoNZhWlTAT99`

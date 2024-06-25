@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,136 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,171 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 10 | [Si Me Tomo Una Cerveza](https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF) | [Si Me Tomo una Cerveza](https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2) | 3:02 |
 | 11 | [Que Te Vaya Bien](https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Que Te Vaya Bien](https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB) | 2:55 |
 | 12 | [El Amor de Mi Vida](https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor de Mi Vida](https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG) | 3:04 |
-| 13 | [Me Enamore](https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:32 |
-| 14 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 |
+| 13 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 |
+| 14 | [Me Enamore](https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:32 |
 | 15 | [Torres Del Paine](https://open.spotify.com/track/6El1GAPRHcoP2rxERMz2Jj) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Torres Del Paine](https://open.spotify.com/album/3uFl4jYrz03lLruD5N1tkC) | 3:04 |
 | 16 | [Entre Beso y Beso](https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Entre Beso y Beso](https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a) | 2:33 |
 | 17 | [Mentirosa Remix](https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mentirosa Remix](https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl) | 2:59 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 70 | [Pero No Puedo](https://open.spotify.com/track/7kfnYfv7tO6KrCdOS7uWCd) | [La Gran Magia Tropical](https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP) | [Aquel Hotel](https://open.spotify.com/album/1p13W7kw4tvsqak4IDbbJr) | 3:10 |
 | 71 | [Después De Ti](https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Después De Ti](https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO) | 3:12 |
 | 72 | [Tomare Para Olvidar](https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se) | [Karicia](https://open.spotify.com/artist/4OeXcGvSUYN3eMgy73WBtd) | [20 Grandes Exitos](https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9) | 3:51 |
-| 73 | [Compañeros](https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Compañeros](https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T) | 4:05 |
+| 73 | [Cosecha de Mujeres](https://open.spotify.com/track/1lMxEHxFMSbwr6nVxlzQ1G) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 2:36 |
 | 74 | [Caprichito](https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:30 |
-| 75 | [Cosecha de Mujeres](https://open.spotify.com/track/1lMxEHxFMSbwr6nVxlzQ1G) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 2:36 |
+| 75 | [Compañeros](https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Compañeros](https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T) | 4:05 |
 | 76 | [Melosa](https://open.spotify.com/track/4Pss9knIWhZDWlGXmnDI0S) | [Sonora Malecón](https://open.spotify.com/artist/0VqdDDrHPFAdqzDR08FySM) | [Late Que Late](https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH) | 3:06 |
 | 77 | [La Temporera](https://open.spotify.com/track/24mXt0wbrcsVcDiaG4J2fH) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:46 |
 | 78 | [Bebe Dame / Pobre Corazón](https://open.spotify.com/track/3tggXkSVsQG4yEIfP3obT0) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Bebe Dame / Pobre Corazón](https://open.spotify.com/album/1SMWZi4LNX3jILzjA9jvmQ) | 4:28 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 80 | [Mil Amores](https://open.spotify.com/track/2gDs4twNCdoEQCWNMBpHqp) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Mil Amores](https://open.spotify.com/album/0Aq1GI87sb2SXnckACgMjy) | 3:01 |
 | 81 | [Borracho y Loco](https://open.spotify.com/track/48ZmRcUdWGJrzn1xfMEHup) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Amor y Caos](https://open.spotify.com/album/4dxLAaULsk0CzzHbkM5sqX) | 3:14 |
 | 82 | [Vamos a La Boti](https://open.spotify.com/track/1L3cNFIt6YEeVFFjQyI573) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Vamos a La Boti](https://open.spotify.com/album/4SGTUuoBZgFeXV3XSt5CVF) | 2:33 |
-| 83 | [Callejero](https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Afrorumba Chilenera](https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03) | 3:29 |
-| 84 | [Conductor](https://open.spotify.com/track/5DrsyiBfSuIHS015buu06S) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Chico de Oro](https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr) | 2:51 |
+| 83 | [Conductor](https://open.spotify.com/track/5DrsyiBfSuIHS015buu06S) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Chico de Oro](https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr) | 2:51 |
+| 84 | [Callejero](https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Afrorumba Chilenera](https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03) | 3:29 |
 | 85 | [Chiquilla Bonita](https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H) | [D'Latin Sound](https://open.spotify.com/artist/3yiRkpXCOrmggFKe5I8FDU) | [El Sonido Inconfundible](https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr) | 3:44 |
 | 86 | [Huellas de Amor](https://open.spotify.com/track/6ITmr6F8sjiR7OzdI6wpxC) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [De Fiesta Con Hechizo](https://open.spotify.com/album/1UCUQHysKjFuB9yz9k7otf) | 3:29 |
 | 87 | [Palomita / Olguita / Engañadora / Mi Gran Amor \(En Vivo\)](https://open.spotify.com/track/4MpbZNS58Pp3KbI56syULD) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [Teatro Monumental \(En Vivo\)](https://open.spotify.com/album/0FhTTwjWI3CoZh0cwNjJtk) | 8:36 |

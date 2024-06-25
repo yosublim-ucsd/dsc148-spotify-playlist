@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Stacy N.K.R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,050 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,046 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 24 | [2:30AM](https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [2:30AM](https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv) | 3:02 |
 | 25 | [Heart On Ice](https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 2:25 |
 | 26 | [DSLM?](https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [DSLM?](https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP) | 3:09 |
-| 27 | [Alone](https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [Alone](https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27) | 2:32 |
-| 28 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 |
+| 27 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 |
+| 28 | [Alone](https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [Alone](https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27) | 2:32 |
 | 29 | [Love Me](https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj) | [ArtistRD](https://open.spotify.com/artist/3cdy10Sdneled46d13A74S) | [Love Me](https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe) | 3:10 |
 | 30 | [Moston Vale \- Freestyle](https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Moston Vale \(Freestyle\)](https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb) | 1:40 |
 | 31 | [On My Mind](https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [On My Mind](https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k) | 1:20 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 40 | [Just You](https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:49 |
 | 41 | [Role Model](https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA) | [Teks Sinatra](https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57) | [Home For Winter](https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR) | 3:19 |
 | 42 | [Toxic Veins](https://open.spotify.com/track/0Z0KbIXUAsMW4pm3tTPjnj) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Love Never Dies](https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi) | 3:20 |
-| 43 | [Fly Away](https://open.spotify.com/track/7ClmDzu6Jm7gyJG4t5K2VZ) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Fly Away](https://open.spotify.com/album/7r27fHeDmcrGO6qKYb1Pq1) | 1:49 |
+| 43 | [Is it too much? \(Pray things change\)](https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm), [Alex1](https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4) | [Is it too much? \(Pray things change\)](https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX) | 2:51 |
 | 44 | [More](https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [More](https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S) | 2:49 |
 | 45 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
-| 46 | [Is it too much? \(Pray things change\)](https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm), [Alex1](https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4) | [Is it too much? \(Pray things change\)](https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX) | 2:51 |
+| 46 | [Fly Away](https://open.spotify.com/track/7ClmDzu6Jm7gyJG4t5K2VZ) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Fly Away](https://open.spotify.com/album/7r27fHeDmcrGO6qKYb1Pq1) | 1:49 |
 | 47 | [Voices](https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [Beri Mayah](https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx) | [Voices](https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR) | 2:15 |
 | 48 | [Different Man](https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Love Never Dies](https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi) | 2:41 |
 | 49 | [Hate That I Love You](https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:03 |

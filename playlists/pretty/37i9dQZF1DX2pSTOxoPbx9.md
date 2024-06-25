@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,541 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,596 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,17 +78,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 68 | [Through a Glass \(Quartet Version\)](https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds Quartets](https://open.spotify.com/album/3UAvR6CXIWN1rChkxlZ1OM) | 3:53 |
 | 69 | [Hands](https://open.spotify.com/track/7cVNpJG6phyW7jF8GOswiY) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:22 |
 | 70 | [I'm Tired, You're Lonely](https://open.spotify.com/track/3eOowx1zDomY1YC1UDKDKn) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [I'm Tired, You're Lonely](https://open.spotify.com/album/2AaWRj37SqGDYUpUrol8lm) | 3:25 |
-| 71 | [Sleeper](https://open.spotify.com/track/6AohzKCNCm2aVmqRFS6mIb) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up – EP](https://open.spotify.com/album/3ge4DCB8UbRKZpWmZXh0Ur) | 4:36 |
-| 72 | [White Flag](https://open.spotify.com/track/28U855g6cGv2O3s5KzUcdr) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 5:03 |
-| 73 | [Everything We Do Is Wrong](https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Everything We Do Is Wrong](https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy) | 4:07 |
-| 74 | [Come What May](https://open.spotify.com/track/3e9z2r0A75uBRuZG0czhvg) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:01 |
-| 75 | [O Love Is Teasin'](https://open.spotify.com/track/0cxkhoKLZ38gxql3fd37kw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Tomorrow Is My Turn](https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg) | 4:32 |
+| 71 | [Everything We Do Is Wrong](https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Everything We Do Is Wrong](https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy) | 4:07 |
+| 72 | [Sleeper](https://open.spotify.com/track/6AohzKCNCm2aVmqRFS6mIb) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up – EP](https://open.spotify.com/album/3ge4DCB8UbRKZpWmZXh0Ur) | 4:36 |
+| 73 | [White Flag](https://open.spotify.com/track/28U855g6cGv2O3s5KzUcdr) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 5:03 |
+| 74 | [O Love Is Teasin'](https://open.spotify.com/track/0cxkhoKLZ38gxql3fd37kw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Tomorrow Is My Turn](https://open.spotify.com/album/2dHKdmxoivYnUBg01aPGDg) | 4:32 |
+| 75 | [Come What May](https://open.spotify.com/track/3e9z2r0A75uBRuZG0czhvg) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:01 |
 | 76 | [Hush \- Theme From Turn](https://open.spotify.com/track/6gt6hUfAeCcdDJcmlsD06p) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Hush \(Theme From Turn\)](https://open.spotify.com/album/7Ktx3fXFQf0zvz3Hbd1DNl) | 3:17 |
-| 77 | [I'll Be Gone](https://open.spotify.com/track/7ejUNmLIkfpdVe3gySTdPN) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I'll Be Gone](https://open.spotify.com/album/206wJfi6TA85sHEFRy7UNv) | 2:24 |
-| 78 | [Speaking With Trees](https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Speaking With Trees](https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB) | 3:55 |
+| 77 | [Speaking With Trees](https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Speaking With Trees](https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB) | 3:55 |
+| 78 | [I'll Be Gone](https://open.spotify.com/track/7ejUNmLIkfpdVe3gySTdPN) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I'll Be Gone](https://open.spotify.com/album/206wJfi6TA85sHEFRy7UNv) | 2:24 |
 | 79 | [The Groundskeeper](https://open.spotify.com/track/36CxmmDpZdUJqIyo5NTyfw) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare](https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6) | 6:23 |
-| 80 | [Fire Line](https://open.spotify.com/track/53DleDiH6Vaj0Vx8Opp6Kc) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Fire Line](https://open.spotify.com/album/0BdclIcrznTE1jZPb8BbT4) | 4:34 |
-| 81 | [Sleep](https://open.spotify.com/track/6oLxKBr1xrrDAWoVYxVxx6) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:12 |
+| 80 | [Sleep](https://open.spotify.com/track/6oLxKBr1xrrDAWoVYxVxx6) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:12 |
+| 81 | [Fire Line](https://open.spotify.com/track/53DleDiH6Vaj0Vx8Opp6Kc) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Fire Line](https://open.spotify.com/album/0BdclIcrznTE1jZPb8BbT4) | 4:34 |
 | 82 | [Washed Away](https://open.spotify.com/track/00p6D4NaakmWGNR3EUtxtS) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [Washed Away](https://open.spotify.com/album/5W4I4AE67xrN2SlOxSkVWT) | 3:56 |
 | 83 | [Drive](https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Drive](https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ) | 2:48 |
 | 84 | [Strange World](https://open.spotify.com/track/4qFh1e9S1WjklXE1TKAPU7) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Strange World](https://open.spotify.com/album/1XbUCqvbc6RVvnk8as2U6H) | 3:58 |

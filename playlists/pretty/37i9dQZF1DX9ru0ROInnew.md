@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,456 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,488 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 74 | [No Le Bajé](https://open.spotify.com/track/2tBbqjDbpcoGUFG2ScdYha) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los 90 Piketes](https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx) | 3:45 |
 | 75 | [0 Sentimientos \(Remix\) \[feat\. Noriel, Darkiel, Lyan, Messiah & Baby Rasta\]](https://open.spotify.com/track/4COGASZEbAxmH6k5gYMo6G) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Lyan](https://open.spotify.com/artist/2GzKA5uPf3Nef6JjkUNk4H), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [0 Sentimientos \(Remix\) \[feat\. Noriel, Darkiel, Lyan, Messiah & Baby Rasta\]](https://open.spotify.com/album/4dd7tLtioKjtq7v9byyPV6) | 5:35 |
 | 76 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
-| 77 | [Kobe En LA](https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/31op15nAweoWywt7aBkY4z) | 3:45 |
-| 78 | [Flow Cabron](https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH) | [Tali](https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow Cabron](https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK) | 3:46 |
+| 77 | [Flow Cabron](https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH) | [Tali](https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow Cabron](https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK) | 3:46 |
+| 78 | [Kobe En LA](https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/31op15nAweoWywt7aBkY4z) | 3:45 |
 | 79 | [Ahora Dice](https://open.spotify.com/track/5LVoGJTyG6fLJgoGkY2QAZ) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Ahora Dice](https://open.spotify.com/album/7JiRyDVQealzbiLq8b1mOb) | 4:31 |
 | 80 | [Me Ama Me Odia](https://open.spotify.com/track/5TpmzdjifuwWQZKE421TTq) | [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Me Ama Me Odia](https://open.spotify.com/album/6pNZHxBouGsNlFYv3nxjgI) | 5:27 |
 | 81 | [Apreté el Botón](https://open.spotify.com/track/2uVEFmt1nLZyUSJXLdLGX2) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los 90 Piketes](https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx) | 3:29 |

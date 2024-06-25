@@ -1,6 +1,6 @@
 {
   "description": "o carro bicho passando, \u00e9 a tropa da mainstreet",
-  "num_followers": 1390512,
+  "num_followers": 1390499,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,46 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
+        "name": "Melhor Dia 13 - Era Uma Vez",
+        "url": "https://open.spotify.com/album/7pOA35nvimi9SPkyRpQMXL"
+      },
+      "artists": [
+        {
+          "name": "Marcos Baroni",
+          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Tuz\u00e3o",
+          "url": "https://open.spotify.com/artist/3BUXCSctz5IqInc1C8ZTfc"
+        }
+      ],
+      "duration_ms": 382222,
+      "name": "Melhor Dia 13 - Era Uma Vez",
+      "url": "https://open.spotify.com/track/0aXHnXG1twZEc7AUGTK4Fo"
+    },
+    {
+      "added_at": "2024-06-21 03:03:00",
+      "album": {
         "name": "Carta Aberta",
         "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
       },
@@ -1019,46 +1059,6 @@
       "duration_ms": 133333,
       "name": "Tropa Do Pisa",
       "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
-    },
-    {
-      "added_at": "2024-06-21 03:03:00",
-      "album": {
-        "name": "Melhor Dia 13 - Era Uma Vez",
-        "url": "https://open.spotify.com/album/7pOA35nvimi9SPkyRpQMXL"
-      },
-      "artists": [
-        {
-          "name": "Marcos Baroni",
-          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "Mc Kako",
-          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Tuz\u00e3o",
-          "url": "https://open.spotify.com/artist/3BUXCSctz5IqInc1C8ZTfc"
-        }
-      ],
-      "duration_ms": 382222,
-      "name": "Melhor Dia 13 - Era Uma Vez",
-      "url": "https://open.spotify.com/track/0aXHnXG1twZEc7AUGTK4Fo"
     },
     {
       "added_at": "2024-06-21 03:03:00",

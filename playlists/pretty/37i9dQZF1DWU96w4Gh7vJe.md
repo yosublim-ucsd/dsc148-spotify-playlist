@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,772 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,766 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 26 | [tila tala](https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [tila tala](https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP) | 4:41 |
 | 27 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |
 | 28 | [Aking Pahinga](https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa), [I\-Ghie](https://open.spotify.com/artist/0nR2iHBD1IJVJhRpzA5nFf) | [Aking Pahinga](https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb) | 4:34 |
-| 29 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
-| 30 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 |
+| 29 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 |
+| 30 | [Weak](https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [Weak](https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed) | 3:31 |
 | 31 | [Buko](https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 5:12 |
 | 32 | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc) | 2:47 |
 | 33 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 |

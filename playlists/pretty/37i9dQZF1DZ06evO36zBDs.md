@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36zBDs.md) - [plain]
 
 > This is ClariS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,149 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,151 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36zBDs.md) - [plain]
 | 43 | [アサガオ](https://open.spotify.com/track/4yHYiD5mBQ98LuAnHEO8sJ) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Iris](https://open.spotify.com/album/5EoIMhQciDeHOfHhGSNq4T) | 3:37 |
 | 44 | [Summer Delay](https://open.spotify.com/track/5fvAqSz4TvHyXyn4mqR11J) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 4:14 |
 | 45 | [カラフル \-2017\-](https://open.spotify.com/track/1yGtzIGEap6EE5jsRly23m) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition）](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:33 |
-| 46 | [恋待かぐや](https://open.spotify.com/track/5ep05xtwwRBQWoFlkCBezI) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fight!!](https://open.spotify.com/album/60l2pA1I8kZMLL74TxVyBV) | 3:48 |
+| 46 | [君色](https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ふぉりら](https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi) | 3:34 |
 | 47 | [シグナル](https://open.spotify.com/track/768HgRPmiEeeVKB5URxOJt) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 3:44 |
-| 48 | [君色](https://open.spotify.com/track/62AcHFZEOPip5hGuaKoRpz) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ふぉりら](https://open.spotify.com/album/3ah4RPsC1U9fGp3sSLdtsi) | 3:34 |
+| 48 | [恋待かぐや](https://open.spotify.com/track/5ep05xtwwRBQWoFlkCBezI) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fight!!](https://open.spotify.com/album/60l2pA1I8kZMLL74TxVyBV) | 3:48 |
 | 49 | [恋のバカンス](https://open.spotify.com/track/5AoEKI3ai8YPdhnBYqloud) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SUMMER TRACKS －夏のうた－](https://open.spotify.com/album/6RdqPyLLLJr8K96ppojbgC) | 2:39 |
 | 50 | [White Love](https://open.spotify.com/track/3B1EQrVkFiaHHTFbspLrwX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [White Love](https://open.spotify.com/album/4Mk7ZN64AnujZEE2lgZ2JA) | 5:36 |
 
-Snapshot ID: `ZnYUAAAAAABBI6nY9IBNi0EK5l53E8Fa`
+Snapshot ID: `ZndlgAAAAADFcTzK2lHrej5qTTpHQzDo`

@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,862 songs - 4 day 9 hr 33 min
+1,863 songs - 4 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1407,6 +1407,7 @@
 | [Shake What Yo Mama](https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Shake What Yo Mama](https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB) | 3:13 | 2024-02-07 | 2024-03-13 |
 | [Share My Love](https://open.spotify.com/track/5ty8HYH9f1xQuWoPuijYXf) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Share My Love](https://open.spotify.com/album/7F2T19MHij604pwdnvA9qc) | 3:39 | 2023-11-27 | 2024-01-06 |
 | [Share My Love \- ESSEL Remix](https://open.spotify.com/track/7mdcv9iHd4Gw6JXPMcvgZo) | [George Mensah](https://open.spotify.com/artist/3iSq7kYQOAjugsv9RjCFue), [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Share My Love \(ESSEL Remix\)](https://open.spotify.com/album/6n9P5DcuZ2Ny1zJePUfrLk) | 2:35 | 2023-05-19 | 2023-06-10 |
+| [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-06-24 |  |
 | [SHiNE](https://open.spotify.com/track/3eGTeMHX7bB8YhUuXs9IV3) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1) | [SHiNE](https://open.spotify.com/album/5todskDJAkfo8TYsGGtCEh) | 3:35 | 2022-10-07 | 2022-10-15 |
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-02-17 | 2024-03-16 |
 | [Shiver \- Cassian Remix](https://open.spotify.com/track/2F7SSzMbICn522yxy6JZt7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Shiver \(Cassian Remix\)](https://open.spotify.com/album/1CrX8LvopfetcSOwlLwhni) | 4:05 | 2024-05-24 | 2024-06-22 |

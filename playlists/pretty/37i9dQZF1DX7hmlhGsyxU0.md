@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,303 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,351 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 21 | [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 |
 | 22 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
 | 23 | [In a Field of Silence](https://open.spotify.com/track/0LNvUKT6sskN56036poQCY) | [Michael Kim\-Sheng](https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd) | [Heavy Moon](https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz) | 4:37 |
-| 24 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
-| 25 | [Flight of the Sea Birds](https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Sea Notes](https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl) | 2:08 |
+| 24 | [Flight of the Sea Birds](https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Sea Notes](https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl) | 2:08 |
+| 25 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
 | 26 | [Sunrise](https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8) | [Simon Antonio](https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3) | [Sunrise](https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy) | 3:22 |
 | 27 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 |
 | 28 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |

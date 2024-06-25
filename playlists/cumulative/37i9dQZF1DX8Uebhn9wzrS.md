@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,967 songs - 3 day 2 hr 54 min
+1,969 songs - 3 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Aerials](https://open.spotify.com/track/6lfEBcn3o1eJbocBmKbqXH) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Aerials](https://open.spotify.com/album/1xRpahDDqTRzftucA44L2N) | 2:24 | 2022-07-22 | 2022-08-12 |
 | [Aesthetic Sunset](https://open.spotify.com/track/30zPQ87C9Oiv9PlinJFlzh) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [Fedeflaviano](https://open.spotify.com/artist/5eTBRNl0TxiL7CJvwvNh3w), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Aesthetic Sunset](https://open.spotify.com/album/6jCiEbzoeV4cCVJafbbNRt) | 1:44 | 2023-07-13 |  |
 | [Affirm](https://open.spotify.com/track/4IVLOaJPEOu5ZbOzXj0szG) | [Deuces](https://open.spotify.com/artist/3DNIrvvFRz1cTJxXgo60y8), [Zane Massey](https://open.spotify.com/artist/7dZBF3sd847LS3Fx7iwEuZ), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Affirm](https://open.spotify.com/album/4mn8zZmnXOfas9ZXeLoyAs) | 2:33 | 2022-12-23 | 2023-09-14 |
-| [Affirmation](https://open.spotify.com/track/3iK8fZSXJKZvkbYcSVVvYN) | [BEATUS DOMINUM](https://open.spotify.com/artist/1r6JN42iv2MNzxwWn2FB8x) | [Affirmation](https://open.spotify.com/album/4L9pD56UEXilJXEa0cXidM) | 2:20 | 2022-10-28 |  |
+| [Affirmation](https://open.spotify.com/track/3iK8fZSXJKZvkbYcSVVvYN) | [BEATUS DOMINUM](https://open.spotify.com/artist/1r6JN42iv2MNzxwWn2FB8x) | [Affirmation](https://open.spotify.com/album/4L9pD56UEXilJXEa0cXidM) | 2:20 | 2022-10-28 | 2024-06-25 |
 | [after 8](https://open.spotify.com/track/2hBSZIMfpkSayib4FO684h) | [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [after 8](https://open.spotify.com/album/4UfOQR7q2GgbBH16kPyTuC) | 1:57 | 2022-04-15 | 2022-08-19 |
 | [After Dawn](https://open.spotify.com/track/73JQim3QLhAAtlx0FJTdBp) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF), [No\. 18](https://open.spotify.com/artist/1p6OSG0rFg8ISBQXjWsfgm) | [After Dawn](https://open.spotify.com/album/16AdTgxCsPsA9TSuGtXsGf) | 2:50 | 2022-04-15 | 2022-07-08 |
 | [After Dawn](https://open.spotify.com/track/6nsqP8L7fscN3mUHM6dATz) | [Sitza](https://open.spotify.com/artist/3KeghQlQsaQ4ANmN9v80CC) | [After Dawn](https://open.spotify.com/album/4QZ6EWECTo82WXegipi6T3) | 2:26 | 2022-04-15 | 2023-08-18 |
@@ -136,6 +136,7 @@
 | [Autumn Stroll](https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Autumn Stroll](https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM) | 1:58 | 2023-10-13 |  |
 | [Autumn View](https://open.spotify.com/track/2kXtNcenzTDK3blNt8Bkpu) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Autumn View](https://open.spotify.com/album/7qSc0qmOJB0hmC9qJq9KDo) | 2:43 | 2024-05-31 | 2024-06-21 |
 | [avant garde](https://open.spotify.com/track/4AkXE5K2Zh9qUnTaHsbkPn) | [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg), [abovus](https://open.spotify.com/artist/5DXweVRKKbzWHYb4jgIafb) | [avant garde](https://open.spotify.com/album/5oYB1uIVN78liVioenI2ro) | 2:00 | 2023-08-31 |  |
+| [Avenues](https://open.spotify.com/track/0GEmUg3e8CGFtWjJU0cDux) | [Quinn Rain](https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc) | [Avenues](https://open.spotify.com/album/1BEIyMdOKIlmmXCyf9ORET) | 2:29 | 2024-06-21 |  |
 | [Aviate](https://open.spotify.com/track/532CHPJ8XDomggcCqh9kyr) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Aviate](https://open.spotify.com/album/2aj5Rcvstgx3xt0CNviHE3) | 2:08 | 2022-04-22 | 2022-11-12 |
 | [Avocades](https://open.spotify.com/track/72VPz6obgR5JjPCv8uRotp) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Avocades](https://open.spotify.com/album/2gBKkx8mHrbY9pZxsjwjYJ) | 2:11 | 2024-01-19 |  |
 | [Awa](https://open.spotify.com/track/6pyx1rF7cfoEnjxR0dlVld) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Awa](https://open.spotify.com/album/7JkfKYlxoOGIQDDKjnEVbX) | 2:26 | 2022-04-15 | 2022-10-01 |
@@ -1073,6 +1074,7 @@
 | [Metsula](https://open.spotify.com/track/7vLsiOPrOeL9eVlXcr6SwB) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [Metsula](https://open.spotify.com/album/0FgqZX3m3kx1uKSo5DkqwD) | 2:29 | 2022-04-15 | 2023-03-02 |
 | [Mi Casa](https://open.spotify.com/track/3p5Hp89Fhgn9ytgLdcDZ45) | [Obié\_](https://open.spotify.com/artist/7fPTxhMVEW4JSvk5j2hu6m), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Mi Casa](https://open.spotify.com/album/1P3uAzSxo9JAvcGarOrgcG) | 1:32 | 2022-11-11 | 2023-01-20 |
 | [Mi Tactica](https://open.spotify.com/track/6a1YbnJggzkCmtmwuMGcF9) | [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Love and Lo\-Fi](https://open.spotify.com/album/47AegNngwhyeGgyTJ1sD0y) | 1:21 | 2022-10-28 | 2023-01-20 |
+| [midnight escape](https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [midnight escape](https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G) | 3:00 | 2024-06-21 |  |
 | [Midnight Nostalgia](https://open.spotify.com/track/7eQK8cBX44q4THm1Dfw7ZM) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG), [Joey Martinez G](https://open.spotify.com/artist/517y65DlFIKNgVVPSNJUHe) | [Amapola](https://open.spotify.com/album/7z60Si2DbAvtYKL4jS0pej) | 2:08 | 2022-04-15 | 2022-10-01 |
 | [Midnight Vibes](https://open.spotify.com/track/4tdzoOabbIog8LgFQEVZpv) | [RC Jay](https://open.spotify.com/artist/7a8SlbNNbqQW2kXkoGlkr2) | [Midnight Vibes](https://open.spotify.com/album/2ygtwvjYljWpHxtM5UdwNP) | 2:10 | 2022-11-25 | 2024-01-28 |
 | [Milk](https://open.spotify.com/track/21PuC8I13J6HBcVD1ueUmJ) | [Hicks](https://open.spotify.com/artist/7o25rnG6F8ccCGxmyGY5mV) | [Milk](https://open.spotify.com/album/4ZU0Xr2ha6fCyOVSECtp9G) | 1:46 | 2022-10-01 | 2023-01-07 |
@@ -1867,7 +1869,7 @@
 | [Vitalization](https://open.spotify.com/track/3pp6vpEactYNh8gVMTt5Bk) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Frodas](https://open.spotify.com/album/6YywwAQYRqLBMuQTchAeZc) | 1:59 | 2022-05-27 | 2024-05-14 |
 | [Voyager I](https://open.spotify.com/track/5jBUgazLXovmLGbaMaBXAz) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Voyager I](https://open.spotify.com/album/0xMT2wIw012AXByuwmumtx) | 2:08 | 2022-04-15 | 2022-08-12 |
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2023-10-06 |  |
-| [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2022-12-02 |  |
+| [waiting](https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [waiting](https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja) | 2:50 | 2022-12-02 | 2024-06-25 |
 | [Waiting Room](https://open.spotify.com/track/5MAwrPj271eyVtlgNRrveQ) | [Brian Ward](https://open.spotify.com/artist/50cS50JU7y7f697pwo1qsw), [Shane Savala](https://open.spotify.com/artist/478Gr4jHvTgsWEYNUu1jJx) | [Waiting Room](https://open.spotify.com/album/5mdBUhiWj4IbsRYQt0Fv2W) | 2:52 | 2022-06-24 | 2022-11-26 |
 | [Waitress service](https://open.spotify.com/track/5ALbklP1iYE6UaPzO0tVlS) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Waitress service](https://open.spotify.com/album/6EYqvlu2EjsRqQ9VmKuDSR) | 1:50 | 2023-07-13 |  |
 | [Walk in the Park](https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Walk in the Park](https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT) | 2:08 | 2023-09-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,674 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,686 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 27 | [Di Wo Hene](https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu) | [Comfort Annor](https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:28 |
 | 28 | [Hymm](https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE) | [Evangelist Diana Asamoah](https://open.spotify.com/artist/4Ww81OPkdNxP7jsBIn6sOJ) | [Pentecost Soree Nwom](https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285) | 5:54 |
 | 29 | [Wo Ntaban](https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo) | [Daughters of Glorious Jesus](https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy) | [Aseda](https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ) | 7:07 |
-| 30 | [Okura Yen Mu](https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Mahunu Awurade](https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS) | 5:59 |
-| 31 | [Hold On](https://open.spotify.com/track/0HEB4FVrCze9RKUCuivkFW) | [Bernice Offei](https://open.spotify.com/artist/1s3k29zZeWqgAuxLms45Ex) | [Hold On](https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn) | 7:38 |
+| 30 | [Hold On](https://open.spotify.com/track/0HEB4FVrCze9RKUCuivkFW) | [Bernice Offei](https://open.spotify.com/artist/1s3k29zZeWqgAuxLms45Ex) | [Hold On](https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn) | 7:38 |
+| 31 | [Okura Yen Mu](https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Mahunu Awurade](https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS) | 5:59 |
 | 32 | [Adehye Mogya](https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV) | [Anita Afriyie](https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5) | [My Testimony 2015 \- 2017](https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y) | 5:25 |
 | 33 | [Menyame Nhyiraba](https://open.spotify.com/track/68B3urp2uXgEDenOfqhdQi) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Ghana Gospel Mix](https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY) | 5:09 |
 | 34 | [Bue Kwan Ma Me](https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 6:17 |

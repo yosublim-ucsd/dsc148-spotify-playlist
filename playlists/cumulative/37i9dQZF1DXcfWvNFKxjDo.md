@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Armin van Buuren, VIZE, Leony
 
-1,711 songs - 3 day 7 hr 5 min
+1,712 songs - 3 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,8 @@
 | [Cheri Cheri Lady](https://open.spotify.com/track/33EjuNY2KZBU7xfqHvxJwT) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Eveek](https://open.spotify.com/artist/4Eei141tHJhmr3vvM8iHfw), [SARIAN](https://open.spotify.com/artist/0q3mpiybWOPy6s6U48OQxJ) | [Cheri, Cheri Lady](https://open.spotify.com/album/2rGlCWPKx5lvL419RsaZma) | 2:02 | 2023-10-12 | 2023-11-11 |
 | [Cheri Cheri Lady](https://open.spotify.com/track/5fiFfpaMThpPDBFkOO39iy) | [KARMA](https://open.spotify.com/artist/0E0D3kAD5sz1jf2HCTIfQT), [Flip Capella](https://open.spotify.com/artist/7ISVMXRseDXG6dgN78y6Dz) | [Cheri Cheri Lady](https://open.spotify.com/album/1J2ZhftJ3i4jE9kucljwmP) | 2:24 | 2023-11-09 | 2023-12-09 |
 | [Chocolate](https://open.spotify.com/track/5YGQ29f9zUVj1gSmUxRBTv) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Chocolate](https://open.spotify.com/album/6A7f059hlBK88EB6JV2O91) | 2:25 | 2024-05-31 | 2024-06-07 |
-| [City Lights](https://open.spotify.com/track/4xbWpxytVsi5CnjdskSALc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [City Lights](https://open.spotify.com/album/2ZqSFm2JHmP0kaNWXU4nhw) | 2:59 | 2024-06-20 |  |
+| [City Lights](https://open.spotify.com/track/01p4kZ0CMpG3uetamwG1uV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [City Lights](https://open.spotify.com/album/4UOFyqgpAxwkHhpM5Evg6L) | 2:59 | 2024-06-24 |  |
+| [City Lights](https://open.spotify.com/track/4xbWpxytVsi5CnjdskSALc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [City Lights](https://open.spotify.com/album/2ZqSFm2JHmP0kaNWXU4nhw) | 2:59 | 2024-06-20 | 2024-06-25 |
 | [Clap Your Feet \(feat\. Fuzzy Cufflinxxx\)](https://open.spotify.com/track/2yBh9Al1fob36QPCqRTpTy) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Fuzzy Cufflinxxx](https://open.spotify.com/artist/3KnbVIg4fT1t8hbNdAJt19) | [Clap Your Feet / 2 Da Face](https://open.spotify.com/album/4t12VZiOJ2deNcxoHSAkyX) | 3:04 | 2024-02-15 | 2024-02-23 |
 | [Classical Music](https://open.spotify.com/track/5ZsnPZX0aPg5xIxhlkkoOt) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Classical Music](https://open.spotify.com/album/4dxaPGViPXY0eAYiraYq57) | 2:37 | 2024-03-21 | 2024-04-05 |
 | [Click Click Click](https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Basslayerz](https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew) | [Click Click Click](https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl) | 2:47 | 2024-05-31 | 2024-06-14 |

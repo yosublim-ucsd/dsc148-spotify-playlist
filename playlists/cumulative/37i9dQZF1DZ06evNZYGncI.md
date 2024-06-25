@@ -2,9 +2,9 @@
 
 ### [This Is Slipknot](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZYGncI)
 
-> This is Slipknot\. The essential tracks, all in one playlist.
+> This Is Slipknot\. Los temas esenciales, todos en una lista.
 
-64 songs - 4 hr 48 min
+65 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,23 +26,23 @@
 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2022-05-30 |  |
 | [Everything Ends](https://open.spotify.com/track/11SQnfm9cxgIjRREQWgbsP) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 | 2022-05-30 |  |
 | [Eyeless](https://open.spotify.com/track/7MEHTWzEi3z7P2jEWAcdHZ) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 3:56 | 2022-05-30 |  |
-| [Gematria \(The Killing Name\)](https://open.spotify.com/track/5rAIqtGPZNiCojmpRjuZW5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 6:01 | 2024-06-03 | 2024-06-23 |
+| [Gematria \(The Killing Name\)](https://open.spotify.com/track/5rAIqtGPZNiCojmpRjuZW5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 6:01 | 2024-06-03 |  |
 | [Gently](https://open.spotify.com/track/00WbLoO3bSlUdAy8al106S) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:54 | 2024-01-06 | 2024-01-08 |
 | [H377](https://open.spotify.com/track/38YxfCfUuQJU4r4pe3jeYb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:23 | 2022-10-02 | 2022-10-22 |
-| [Heirloom](https://open.spotify.com/track/7d0XwaQbPLT8tPX81uRYMv) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:31 | 2022-10-12 | 2024-06-24 |
+| [Heirloom](https://open.spotify.com/track/7d0XwaQbPLT8tPX81uRYMv) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:31 | 2022-10-12 |  |
 | [Hive Mind](https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:15 | 2022-10-01 |  |
-| [I Am Hated](https://open.spotify.com/track/1hrDDgkVbbS5bySL8uHLh3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 2:37 | 2022-12-10 | 2024-06-15 |
+| [I Am Hated](https://open.spotify.com/track/1hrDDgkVbbS5bySL8uHLh3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 2:37 | 2022-12-10 |  |
 | [Killpop](https://open.spotify.com/track/6AAZigYqOch79lKcrSBOv0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 3:45 | 2022-05-30 |  |
 | [Left Behind](https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:01 | 2022-05-30 |  |
 | [Liberate](https://open.spotify.com/track/0SNybMfb3uFISmnYrIt7Gs) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 3:04 | 2024-05-19 | 2024-06-23 |
 | [Medicine for the Dead](https://open.spotify.com/track/0qFBuG34m8V4LMgYUMYPV7) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 6:16 | 2022-10-01 | 2024-06-04 |
 | [My Plague](https://open.spotify.com/track/74WIE2htPZwxx4HgGhpf8i) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:40 | 2022-05-30 |  |
-| [Nero Forte](https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 5:15 | 2022-05-30 | 2024-06-24 |
+| [Nero Forte](https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 5:15 | 2022-05-30 |  |
 | [Nomadic](https://open.spotify.com/track/4vCG26vd7hzGdLq84pl1tf) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:18 | 2024-05-10 | 2024-06-21 |
 | [Opium of the People](https://open.spotify.com/track/3wWBjqx2dJlJRVJdnPzXsr) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 3:12 | 2024-05-14 | 2024-05-15 |
-| [Orphan](https://open.spotify.com/track/0ipTpoDQ06S5iI4RRQFQjx) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 6:01 | 2024-05-11 |  |
-| [People = Shit](https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:35 | 2022-05-30 |  |
-| [Psychosocial](https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone \(10th Anniversary\)](https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk) | 4:44 | 2022-05-30 |  |
+| [Orphan](https://open.spotify.com/track/0ipTpoDQ06S5iI4RRQFQjx) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 6:01 | 2024-05-11 | 2024-06-25 |
+| [People = Shit](https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:35 | 2022-05-30 | 2024-06-25 |
+| [Psychosocial](https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone \(10th Anniversary\)](https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk) | 4:44 | 2022-05-30 | 2024-06-25 |
 | [Pulse of the Maggots](https://open.spotify.com/track/0at89DgpVeImkVrQ0htbVm) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:19 | 2022-05-30 |  |
 | [Purity](https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 4:25 | 2022-05-30 |  |
 | [Red Flag](https://open.spotify.com/track/4SsgF844NGbl7UFcymqWKy) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 4:11 | 2022-05-30 |  |
@@ -60,10 +60,11 @@
 | [The Chapeltown Rag](https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Chapeltown Rag](https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk) | 4:51 | 2022-05-30 | 2022-10-03 |
 | [The Devil in I](https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 5:42 | 2022-05-30 |  |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-21 | 2022-10-09 |
-| [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 | 2022-10-09 |  |
-| [The Heretic Anthem](https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 | 2022-05-30 |  |
+| [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 | 2022-10-09 | 2024-06-25 |
+| [The Heretic Anthem](https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 | 2022-05-30 | 2024-06-25 |
 | [The Nameless](https://open.spotify.com/track/6GCusUym0CAdFS2g1qG79Y) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:28 | 2024-05-14 | 2024-06-23 |
 | [The Negative One](https://open.spotify.com/track/2ugAOltSeiFqKHItLMKFK3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 5:25 | 2022-05-30 |  |
+| [The Shape](https://open.spotify.com/track/7oq2elG5ZmLVOkyoETo12d) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:37 | 2024-06-25 |  |
 | [Unsainted](https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 4:20 | 2022-05-30 |  |
 | [Vendetta](https://open.spotify.com/track/5frNnyWkKzKdiKPLhkdY9L) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 5:15 | 2022-05-30 |  |
 | [Vermilion](https://open.spotify.com/track/0fX9KPa0i9RGDI59gI90i9) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 5:16 | 2022-05-30 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 
 ### [This Is Nightwish](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C7dIs)
 
-> This Is Nightwish\. Los temas esenciales, todos en una lista.
+> This is Nightwish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,657 likes - 51 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,699 likes - 51 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 50 | [Moondance](https://open.spotify.com/track/1IzlSeZQE4PwIPSaUsv0AV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/5Ox45OAhKONmMKMrJSEsLp) | 3:31 |
 | 51 | [High Hopes \- Live](https://open.spotify.com/track/7LUYlbzPVix2varjKXAk6z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [End of an Era \(Live\)](https://open.spotify.com/album/0vAgv1fFn8zW2hbpWJfgPX) | 6:54 |
 
-Snapshot ID: `ZnYUAAAAAACceXLEpYsQKG0KvIlpi7gQ`
+Snapshot ID: `ZndlgAAAAABkqAED9IMLkKRsLiwa9MhX`

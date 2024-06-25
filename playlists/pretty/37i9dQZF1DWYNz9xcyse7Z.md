@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,860 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,968 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 55 | [Ni Dada La Quiero](https://open.spotify.com/track/6wld61I8oL6n5w1dO0DawE) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:48 |
 | 56 | [Por Que No Vienes](https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:29 |
 | 57 | [Aunque No Seas Para Mi](https://open.spotify.com/track/7Cbu9P0tnVcVxFfIShxUXI) | [Los Parientes](https://open.spotify.com/artist/5Uy1hajALzz3U5UpR8Wry1) | [Ni Te Imaginas](https://open.spotify.com/album/1Rd5hF7z0fcDqiX5qhFOPg) | 3:12 |
-| 58 | [El Venadito](https://open.spotify.com/track/5ZTb56u69iePiT3tzknR6k) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 4:49 |
+| 58 | [De Esta Sierra a la Otra Sierra](https://open.spotify.com/track/6Hsuzg08RM8Bz9ypVyJBce) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 2:36 |
 | 59 | [Chuy Y Mauricio](https://open.spotify.com/track/1FAfQVtINethXcopjgNWqq) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 4:57 |
 | 60 | [Esta Libertad](https://open.spotify.com/track/5EIsjOZwmokUey87tmr9sW) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Intentare Olvidarte](https://open.spotify.com/album/2Mi81BcVJsuS21dli3yqhN) | 2:41 |
 | 61 | [Esta Cobardia](https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:26 |
 | 62 | [El Buque de Mas Potencia](https://open.spotify.com/track/1PKLz0d2aaEYG2tEFnGXl5) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 2:39 |
 | 63 | [Fue Tu Culpa](https://open.spotify.com/track/1aCOsi8TtpL7Mo8Lx0qT0f) | [Los Grandes Del Pardito](https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb) | [De La Sierra A La Playa](https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc) | 3:35 |
-| 64 | [De Esta Sierra a la Otra Sierra](https://open.spotify.com/track/6Hsuzg08RM8Bz9ypVyJBce) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 2:36 |
+| 64 | [El Venadito](https://open.spotify.com/track/5ZTb56u69iePiT3tzknR6k) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 4:49 |
 | 65 | [Amores Fingidos](https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 2:48 |
 | 66 | [El Amor No Se Vende](https://open.spotify.com/track/0IvrsLn1zFZno6O5rpXKAP) | [Ramon Massiaca Y Los Dos Plebes](https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe) | [La Sombra Del Arbol](https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax) | 3:27 |
 | 67 | [Para Morir Naci](https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll) | [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Para Morir Nací](https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD) | 3:12 |

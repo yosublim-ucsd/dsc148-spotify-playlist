@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 19174,
+  "num_followers": 19175,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,34 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "God of the Ages (Live At The Manor)",
+        "url": "https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu"
+      },
+      "artists": [
+        {
+          "name": "Manor Collective",
+          "url": "https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh"
+        },
+        {
+          "name": "Sarah Bird",
+          "url": "https://open.spotify.com/artist/7Fpfpq8JzXJ0yXlsyy6q9X"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 256437,
+      "name": "God of the Ages - Single Version - Live",
+      "url": "https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Grace - Live Worship From New Wine 2001",
         "url": "https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG"
       },
@@ -779,34 +807,6 @@
       "duration_ms": 203986,
       "name": "Thank You (Famine Or Feast)",
       "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "God of the Ages (Live At The Manor)",
-        "url": "https://open.spotify.com/album/5giG6lnLqUdnrweJXvbbxu"
-      },
-      "artists": [
-        {
-          "name": "Manor Collective",
-          "url": "https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh"
-        },
-        {
-          "name": "Sarah Bird",
-          "url": "https://open.spotify.com/artist/7Fpfpq8JzXJ0yXlsyy6q9X"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 256437,
-      "name": "God of the Ages - Single Version - Live",
-      "url": "https://open.spotify.com/track/2FnKGHRKjeWyxOJstK0Ld0"
     },
     {
       "added_at": "2022-11-23 15:01:23",

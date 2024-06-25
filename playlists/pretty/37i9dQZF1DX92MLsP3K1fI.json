@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Fey en portada.",
-  "num_followers": 85048,
+  "num_followers": 85064,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -947,26 +947,6 @@
     {
       "added_at": "2024-06-21 06:00:00",
       "album": {
-        "name": "BETTER",
-        "url": "https://open.spotify.com/album/71QC7RzJGO0p0CdLfFO17T"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        },
-        {
-          "name": "Lucero Mijares",
-          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
-        }
-      ],
-      "duration_ms": 200918,
-      "name": "BETTER",
-      "url": "https://open.spotify.com/track/12DNkdHu0C6yM7eQqLmS0l"
-    },
-    {
-      "added_at": "2024-06-21 06:00:00",
-      "album": {
         "name": "Modo Melanc\u00f3lico",
         "url": "https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 166207,
       "name": "Modo Melanc\u00f3lico",
       "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
+    },
+    {
+      "added_at": "2024-06-21 06:00:00",
+      "album": {
+        "name": "BETTER",
+        "url": "https://open.spotify.com/album/71QC7RzJGO0p0CdLfFO17T"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        },
+        {
+          "name": "Lucero Mijares",
+          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
+        }
+      ],
+      "duration_ms": 200918,
+      "name": "BETTER",
+      "url": "https://open.spotify.com/track/12DNkdHu0C6yM7eQqLmS0l"
     }
   ],
   "unique_name": "Oye Pop",

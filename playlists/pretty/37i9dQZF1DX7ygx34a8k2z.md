@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,986 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,125 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 41 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 |
 | 42 | [Coffee & TV](https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 5:58 |
 | 43 | [Grace](https://open.spotify.com/track/64SIlhd3BaHCCMSfajXG7l) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 5:22 |
-| 44 | [The Hardest Button to Button](https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:32 |
-| 45 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
+| 44 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
+| 45 | [The Hardest Button to Button](https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:32 |
 | 46 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 |
 | 47 | [Low](https://open.spotify.com/track/6ctbCIikHbC6tSOL1rewQX) | [Cracker](https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6) | [Kerosene Hat](https://open.spotify.com/album/1pM1BsMVd8CuEpgCwbqmFO) | 4:36 |
 | 48 | [Heaven Beside You](https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Alice In Chains](https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe) | 5:27 |

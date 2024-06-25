@@ -1,12 +1,12 @@
 {
   "description": "This is Alaina Castillo. The essential tracks, all in one playlist.",
-  "num_followers": 4245,
+  "num_followers": 4246,
   "original_name": "This Is Alaina Castillo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAADLJBCc+EZ9XtVjtssMRDUa",
+  "snapshot_id": "ZndlgAAAAADivcBDAsWCgq3yPWbCwH5V",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ocean waves",
-        "url": "https://open.spotify.com/album/5LoZ3scFKYTRKeMB4gOBTT"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 220235,
-      "name": "ocean waves",
-      "url": "https://open.spotify.com/track/46IbTqaHrikVVcvgUBbLyJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "parallel universe pt. 1",
         "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 177613,
       "name": "down 4 u",
       "url": "https://open.spotify.com/track/4kT9Ie0YpCGlYTKrSE60iV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ocean waves",
+        "url": "https://open.spotify.com/album/5LoZ3scFKYTRKeMB4gOBTT"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "ocean waves",
+      "url": "https://open.spotify.com/track/46IbTqaHrikVVcvgUBbLyJ"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "luna de miel",
-        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 155017,
-      "name": "luna de miel",
-      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "parallel universe pt. 1",
         "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 205626,
       "name": "indica",
       "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "luna de miel",
+        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "luna de miel",
+      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wish you were here",
-        "url": "https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 202706,
-      "name": "wish you were here",
-      "url": "https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "parallel universe pt. 1",
         "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 181480,
       "name": "stfu (i got u)",
       "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wish you were here",
+        "url": "https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 202706,
+      "name": "wish you were here",
+      "url": "https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "mensajes de voz",
-        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 185681,
-      "name": "un ni\u00f1o",
-      "url": "https://open.spotify.com/track/7KvT052XdKMsVvHfqeYqP9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "parallel universe pt. 1",
         "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 197160,
       "name": "parallel universe",
       "url": "https://open.spotify.com/track/42nfa64d7w016YFDiZvn4y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "mensajes de voz",
+        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 185681,
+      "name": "un ni\u00f1o",
+      "url": "https://open.spotify.com/track/7KvT052XdKMsVvHfqeYqP9"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "hookah envenena",
-        "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 170682,
-      "name": "hookah envenena",
-      "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "parallel universe pt. 1",
         "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 159666,
       "name": "make it rain",
       "url": "https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "hookah envenena",
+        "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 170682,
+      "name": "hookah envenena",
+      "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "the voicenotes",
-        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
+        "name": "mensajes de voz",
+        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 203627,
-      "name": "voicenote",
-      "url": "https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3"
+      "duration_ms": 235480,
+      "name": "triste como yo",
+      "url": "https://open.spotify.com/track/51gGn8YO9k4HlWBuH1A7ZF"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "mensajes de voz",
-        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
+        "name": "the voicenotes",
+        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 235480,
-      "name": "triste como yo",
-      "url": "https://open.spotify.com/track/51gGn8YO9k4HlWBuH1A7ZF"
+      "duration_ms": 203627,
+      "name": "voicenote",
+      "url": "https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,845 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,859 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 30 | [Satanic Lust](https://open.spotify.com/track/3qRnT9wYaNkM30Dd29rmRl) | [Sarcófago](https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG) | [Inri](https://open.spotify.com/album/2nMT6EXsWDFCOZcdKk1liX) | 3:08 |
 | 31 | [El Vuelo Del Dragón](https://open.spotify.com/track/5Sv5Ot5oMZf9mrNwZ95bku) | [Patan](https://open.spotify.com/artist/4jyw0sF3Ji2vZ74ZZIWYBz) | [Acero](https://open.spotify.com/album/4HwQsHeVEPhMYyH49mMy2q) | 4:25 |
 | 32 | [Cantina Del Infierno](https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [No Money No Fiesta](https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq) | 2:49 |
-| 33 | [Castigador por Herencia](https://open.spotify.com/track/50YRa66db8G4ASXnqww06C) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Espíritu Combativo](https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz) | 3:38 |
-| 34 | [Pueblos erguidos](https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Mario Altamirano and A.N.I.M.A.L.](https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m) | [El Nuevo Camino del Hombre](https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f) | 3:18 |
+| 33 | [Pueblos erguidos](https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Mario Altamirano and A.N.I.M.A.L.](https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m) | [El Nuevo Camino del Hombre](https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f) | 3:18 |
+| 34 | [Castigador por Herencia](https://open.spotify.com/track/50YRa66db8G4ASXnqww06C) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Espíritu Combativo](https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz) | 3:38 |
 | 35 | [Infiel a Dos Mentiras "Vida"](https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa) | [Kilcrops](https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw) | [Javhe Karma](https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1) | 7:40 |
 | 36 | [Vida Eterna](https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv) | [Lörihen](https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx) | [Bajo la Cruz](https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj) | 4:55 |
 | 37 | [Cenizas‬](https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Basado en Hechos Reales](https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS) | 4:14 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 44 | [Relación Canina 2.0](https://open.spotify.com/track/6a3u4DQ3I26ICkcEN25EcX) | [Medical Negligence](https://open.spotify.com/artist/3jL94uFzu0H6r9vi5nXVAg) | [Evil](https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl) | 2:45 |
 | 45 | [La Caperuputa y el Lobo Culión](https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y) | [Cuentos de los Hermanos Grind](https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC) | [Los Cantipuercos](https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw) | 3:00 |
 | 46 | [Heavy Drinker](https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm) | [Witchtrap](https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW) | [No Anesthesia](https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6) | 4:35 |
-| 47 | [Toca Madera](https://open.spotify.com/track/6UhKwPu6inXi1dCSYjONfm) | [Panzer](https://open.spotify.com/artist/1tH9rZBW0zADWX6ZJP0v9N) | [Toca Madera](https://open.spotify.com/album/4PDGOiVAnuuOS9L1RSZHY1) | 3:31 |
-| 48 | [Deceitful Idols](https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Deceitful Idols](https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw) | 5:31 |
-| 49 | [Poseido Por Mezcal](https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp) | [Gore and Carnage](https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON) | [Carnage Drinking Party](https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR) | 2:50 |
+| 47 | [Poseido Por Mezcal](https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp) | [Gore and Carnage](https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON) | [Carnage Drinking Party](https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR) | 2:50 |
+| 48 | [Toca Madera](https://open.spotify.com/track/6UhKwPu6inXi1dCSYjONfm) | [Panzer](https://open.spotify.com/artist/1tH9rZBW0zADWX6ZJP0v9N) | [Toca Madera](https://open.spotify.com/album/4PDGOiVAnuuOS9L1RSZHY1) | 3:31 |
+| 49 | [Deceitful Idols](https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Deceitful Idols](https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw) | 5:31 |
 | 50 | [Strong as Hell](https://open.spotify.com/track/30QNaLNk7w1eOV8HeiATZr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [Death Based Illusions](https://open.spotify.com/album/3srYoLcpQ2m6oDMyvJQ5af) | 4:19 |
 
 Snapshot ID: `ZgG2dgAAAAB3TyrDwA/h+Im9n96uWz9+`

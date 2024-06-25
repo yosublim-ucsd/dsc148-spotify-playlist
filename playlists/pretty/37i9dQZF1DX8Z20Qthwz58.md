@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,520 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,544 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 45 | [Airplane Mode](https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 03](https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg) | 2:51 |
 | 46 | [midnight](https://open.spotify.com/track/6SuEgkFfiESo1pMLSyAbl3) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:34 |
 | 47 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/2foowdvesE4yiiuxH25D6q) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/50TaFniZBXGztHHvNEHeFR) | 3:00 |
-| 48 | [You’re mine, You!](https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [You're mine, You!](https://open.spotify.com/album/1bBFrkrEpLG0RhiglXbPLT) | 3:52 |
+| 48 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
 | 49 | [Girl Scout!](https://open.spotify.com/track/63rtBJ1S3Rf8OhID4BEoxq) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/48qQ8g6uVnNPM5vTn2xCHI) | 3:57 |
-| 50 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
+| 50 | [You’re mine, You!](https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [You're mine, You!](https://open.spotify.com/album/1bBFrkrEpLG0RhiglXbPLT) | 3:52 |
 
 Snapshot ID: `ZkNseAAAAADQii0c4wM5Derjoexrov0H`

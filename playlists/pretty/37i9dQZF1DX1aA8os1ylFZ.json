@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 242100,
+  "num_followers": 242116,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Murder In The Bed",
-        "url": "https://open.spotify.com/album/2QDJ3wDeaOtOB4nazB3I52"
-      },
-      "artists": [
-        {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
-        }
-      ],
-      "duration_ms": 146713,
-      "name": "Murder In The Bed",
-      "url": "https://open.spotify.com/track/7IP5bvMzmeXp7T1NG6gdBr"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Sincerely For You",
         "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
       },
@@ -523,22 +507,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Moment Of Your Life",
-        "url": "https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis"
+        "name": "Murder In The Bed",
+        "url": "https://open.spotify.com/album/2QDJ3wDeaOtOB4nazB3I52"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Moment Of Your Life",
-      "url": "https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh"
+      "duration_ms": 146713,
+      "name": "Murder In The Bed",
+      "url": "https://open.spotify.com/track/7IP5bvMzmeXp7T1NG6gdBr"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -555,6 +535,26 @@
       "duration_ms": 213333,
       "name": "calm & patient",
       "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Moment Of Your Life",
+        "url": "https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Moment Of Your Life",
+      "url": "https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Charged Up",
-        "url": "https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 179123,
-      "name": "Charged Up",
-      "url": "https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "I Choose U (feat. RINI)",
         "url": "https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 202706,
       "name": "I Choose U (feat. RINI)",
       "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Charged Up",
+        "url": "https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 179123,
+      "name": "Charged Up",
+      "url": "https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Next Chapter",
-        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 149966,
-      "name": "Hurts Me To Know",
-      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Wanna Come Thru",
         "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 131900,
       "name": "Wanna Come Thru",
       "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Next Chapter",
+        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 149966,
+      "name": "Hurts Me To Know",
+      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -927,22 +927,6 @@
       "duration_ms": 150799,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Your Love Is All I Need",
-        "url": "https://open.spotify.com/album/4vTUoDz2degpD1NHfCJ0vg"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 176843,
-      "name": "Your Love Is All I Need",
-      "url": "https://open.spotify.com/track/5K4XGPDbG9CR6hoAM0Htua"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Your Love Is All I Need",
+        "url": "https://open.spotify.com/album/4vTUoDz2degpD1NHfCJ0vg"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Your Love Is All I Need",
+      "url": "https://open.spotify.com/track/5K4XGPDbG9CR6hoAM0Htua"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "FIRST PLACE",
         "url": "https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 121211,
       "name": "FIRST PLACE",
       "url": "https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Spinn On You",
-        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 140663,
-      "name": "Spinn On You",
-      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Unfiltered",
-        "url": "https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT"
+        "name": "Spinn On You",
+        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
       },
       "artists": [
         {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 109270,
-      "name": "Solutions",
-      "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
+      "duration_ms": 140663,
+      "name": "Spinn On You",
+      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 215152,
       "name": "Slide",
       "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Unfiltered",
+        "url": "https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT"
+      },
+      "artists": [
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+        }
+      ],
+      "duration_ms": 109270,
+      "name": "Solutions",
+      "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr"
-      },
-      "artists": [
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        }
-      ],
-      "duration_ms": 233826,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "COMING HOME (Expanded Edition)",
         "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 211644,
       "name": "Believe",
       "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3"
     },
     {
       "added_at": "2024-06-06 22:00:00",

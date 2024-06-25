@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 16202,
+  "num_followers": 16214,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnTCvAAAAABVsP4L0lHHifGUwYmArCWl",
+  "snapshot_id": "ZnmnWgAAAAC84lQRPq5p83VWrn45Wzby",
   "tracks": [
     {
       "added_at": "2024-06-07 00:01:00",
@@ -33,6 +33,30 @@
       "url": "https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW"
     },
     {
+      "added_at": "2024-06-24 17:05:30",
+      "album": {
+        "name": "This Is the Day (Halle)",
+        "url": "https://open.spotify.com/album/5zRg6TUFbAIpZrwHUNvZEU"
+      },
+      "artists": [
+        {
+          "name": "Julia McMillan",
+          "url": "https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ"
+        },
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "duration_ms": 411428,
+      "name": "This Is the Day (Halle)",
+      "url": "https://open.spotify.com/track/1FnbReDM3Ly7uxwarVJLp0"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "THIS YEAR (Blessings)",
@@ -51,22 +75,6 @@
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Loved By You",
-        "url": "https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu"
-      },
-      "artists": [
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        }
-      ],
-      "duration_ms": 204328,
-      "name": "Loved By You",
-      "url": "https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -785,20 +793,20 @@
       "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
     },
     {
-      "added_at": "2024-05-24 09:39:29",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Not Alone (Live)",
-        "url": "https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF"
+        "name": "Mo",
+        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
       },
       "artists": [
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
         }
       ],
-      "duration_ms": 270810,
-      "name": "Not Alone - Live",
-      "url": "https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35"
+      "duration_ms": 212573,
+      "name": "Mo",
+      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -817,20 +825,20 @@
       "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-05-24 09:39:29",
       "album": {
-        "name": "Mo",
-        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
+        "name": "Not Alone (Live)",
+        "url": "https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF"
       },
       "artists": [
         {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
         }
       ],
-      "duration_ms": 212573,
-      "name": "Mo",
-      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
+      "duration_ms": 270810,
+      "name": "Not Alone - Live",
+      "url": "https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -947,6 +955,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "Carry me like Baby",
+      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Yeshua (Extended)",
         "url": "https://open.spotify.com/album/4FxYm4ZXW4qxhiDmADoU8H"
       },
@@ -967,22 +991,6 @@
       "duration_ms": 156196,
       "name": "Yeshua (Extended)",
       "url": "https://open.spotify.com/track/67LzBqIKu1rHsT98euxpa7"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "Carry me like Baby",
-      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
     }
   ],
   "unique_name": "Higher",

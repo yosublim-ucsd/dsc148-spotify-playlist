@@ -2,14 +2,14 @@
 
 ### [This Is Megadeth](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17aFuo)
 
-> This is Megadeth\. The essential tracks, all in one playlist.
+> This Is Megadeth\. Los temas esenciales, todos en una lista.
 
 102 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [99 Ways To Die](https://open.spotify.com/track/75t7W9LYbkgbkeT6B5EoHM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:58 | 2022-10-12 |  |
-| [A Tout Le Monde \- Remastered 2004](https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:22 | 2022-05-30 | 2024-06-24 |
+| [A Tout Le Monde \- Remastered 2004](https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:22 | 2022-05-30 |  |
 | [Addicted To Chaos \- Remastered 2004](https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 5:27 | 2022-05-30 |  |
 | [Almost Honest \- Remastered 2004 / Remixed](https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 4:08 | 2022-06-25 |  |
 | [Anarchy In The U.K\. \- Remastered 2004](https://open.spotify.com/track/74EF3QE9twDF2LRByd2ATx) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 3:01 | 2022-05-30 | 2023-03-23 |
@@ -64,7 +64,7 @@
 | [Lying In State](https://open.spotify.com/track/6gQ0syotEbHeDIYTC4EoSf) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 3:34 | 2022-06-22 | 2024-05-17 |
 | [Mechanix](https://open.spotify.com/track/2bfwYcc1FzkIym0XRkYb7F) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 4:25 | 2022-05-30 |  |
 | [Mission To Mars](https://open.spotify.com/track/3s4cVRvi1GL2Qi1XRvlJ4m) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 5:23 | 2022-09-08 | 2022-10-13 |
-| [My Last Words \- Remastered](https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 4:55 | 2022-05-30 |  |
+| [My Last Words \- Remastered](https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 4:55 | 2022-05-30 | 2024-06-25 |
 | [Night Stalkers](https://open.spotify.com/track/22GAndLWMAxtAIkWtomcZC) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 6:38 | 2022-08-29 | 2022-09-06 |
 | [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 | 2022-07-23 | 2022-08-30 |
 | [Night Stalkers](https://open.spotify.com/track/4WyO8RoNmV8n67eJixCGI6) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:38 | 2022-09-06 |  |
@@ -78,7 +78,7 @@
 | [Public Enemy No\. 1](https://open.spotify.com/track/0bpeXTCwvkZad3GRtFSIOT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Th1rt3en](https://open.spotify.com/album/7CnEVIOvZSfTF2srdqjxay) | 4:15 | 2022-05-30 | 2023-12-14 |
 | [Rattlehead](https://open.spotify.com/track/0a87tfuBhOFmYMgPjyR53R) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 3:43 | 2023-12-13 |  |
 | [Reckoning Day \- Remastered 2004](https://open.spotify.com/track/1Bw7kDeY4ZPfUo5UY18tOO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:34 | 2022-05-30 |  |
-| [Return to Hangar](https://open.spotify.com/track/3ZKHEhU9lhOhCYWXtKykBl) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9) | 3:59 | 2024-05-17 | 2024-06-23 |
+| [Return to Hangar](https://open.spotify.com/track/3ZKHEhU9lhOhCYWXtKykBl) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9) | 3:59 | 2024-05-17 |  |
 | [Return to Hangar](https://open.spotify.com/track/5ZpiBt0UnGmGT5sF0LjF7G) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 3:59 | 2022-05-31 | 2022-08-24 |
 | [Rust In Peace...Polaris \- 2004 Remix](https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:44 | 2022-05-30 |  |
 | [Sacrifice](https://open.spotify.com/track/12jZfky6LPbQf0oYUMhvhS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:08 | 2022-09-08 | 2022-10-12 |
@@ -109,6 +109,6 @@
 | [Wake Up Dead \- 2004 Remaster](https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying? \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 3:37 | 2022-05-30 |  |
 | [We’ll Be Back](https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:29 | 2022-10-22 |  |
 | [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-25 | 2022-10-23 |
-| [Youthanasia \- Remastered 2004](https://open.spotify.com/track/491FFHeud9a0KXZ66QunVn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:07 | 2022-07-22 |  |
+| [Youthanasia \- Remastered 2004](https://open.spotify.com/track/491FFHeud9a0KXZ66QunVn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:07 | 2022-07-22 | 2024-06-25 |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

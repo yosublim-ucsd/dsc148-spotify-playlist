@@ -1,6 +1,6 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 89873,
+  "num_followers": 89906,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Mature Themes",
-        "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
-      },
-      "artists": [
-        {
-          "name": "Ariel Pink",
-          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
-        },
-        {
-          "name": "D\u0101M-FunK",
-          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Mature Themes",
+        "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
+      },
+      "artists": [
+        {
+          "name": "Ariel Pink",
+          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ"
     },
     {
       "added_at": "2024-03-18 13:12:36",

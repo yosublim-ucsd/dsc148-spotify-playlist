@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-184 songs - 11 hr 50 min
+185 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 | 2023-12-13 |  |
 | [The One](https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:59 | 2021-12-27 |  |
 | [The Sea](https://open.spotify.com/track/7r0PLMmHLocjY4PiNaeKUx) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [The Sea](https://open.spotify.com/album/5XaJ2HgoLfKLdQ8SQ2uY1n) | 4:49 | 2021-12-27 |  |
-| [The Way Love Goes](https://open.spotify.com/track/2A5atyBnmtDPfRBDjOMtOp) | [Lemar](https://open.spotify.com/artist/7uztWv5UVx4hwcJXCtRyDV) | [The Hits](https://open.spotify.com/album/0sAb0OzmqQ7PowGSgO6JKP) | 3:31 | 2021-12-27 |  |
+| [The Way Love Goes](https://open.spotify.com/track/2A5atyBnmtDPfRBDjOMtOp) | [Lemar](https://open.spotify.com/artist/7uztWv5UVx4hwcJXCtRyDV) | [The Hits](https://open.spotify.com/album/0sAb0OzmqQ7PowGSgO6JKP) | 3:31 | 2021-12-27 | 2024-06-25 |
+| [The Way Love Goes](https://open.spotify.com/track/5spG13988yvrpa8Alk5z1W) | [Lemar](https://open.spotify.com/artist/7uztWv5UVx4hwcJXCtRyDV) | [The Way Love Goes](https://open.spotify.com/album/3i2iYkfBEzTxKbhCLlF58Z) | 3:32 | 2024-06-24 |  |
 | [These Four Walls](https://open.spotify.com/track/3pofJEjOp6m9e6kYNmGhxa) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(Expanded Edition\)](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) | 3:28 | 2021-12-27 |  |
 | [Things We Do For Love](https://open.spotify.com/track/4YF3dV7dXa2FQqf0OSwkE2) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/7olvKV7oJrtiih6YfB44im) | 3:09 | 2023-12-13 | 2023-12-19 |
 | [Things We Do For Love](https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:09 | 2023-12-18 |  |

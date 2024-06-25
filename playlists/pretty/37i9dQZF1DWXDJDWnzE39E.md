@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: Cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,522 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,699 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 42 | [Dynasty](https://open.spotify.com/track/154gL4Xb5AsreMkcDlVFYS) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:08 |
 | 43 | [Antagonist](https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 3:06 |
 | 44 | [weapon](https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [weapon](https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7) | 3:17 |
-| 45 | [Kamikaze](https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Will King](https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt) | [Bad Decisions](https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB) | 3:12 |
-| 46 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
+| 45 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
+| 46 | [Kamikaze](https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Will King](https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt) | [Bad Decisions](https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB) | 3:12 |
 | 47 | [WITCH](https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve), [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [WITCH](https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ) | 3:54 |
 | 48 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
-| 49 | [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 |
-| 50 | [Blood Pigs](https://open.spotify.com/track/5t4raLj2HuARdxKoDefT57) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:03 |
+| 49 | [Blood Pigs](https://open.spotify.com/track/5t4raLj2HuARdxKoDefT57) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:03 |
+| 50 | [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 |
 | 51 | [Charlie Big Potato](https://open.spotify.com/track/7Bf0RPsldDH7jVi9H3wODv) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Post Orgasmic Chill](https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq) | 5:30 |
 | 52 | [Brittle](https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Amorphous](https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB) | 3:28 |
 | 53 | [Orphan Soul](https://open.spotify.com/track/17yKsz2dbVEMuIt3M5OcxL) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [86](https://open.spotify.com/album/5TIa1cNM3wXt1eLNIGuS4w) | 4:48 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 58 | [I Hope You Choke](https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [I Hope You Choke](https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6) | 3:27 |
 | 59 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 |
 | 60 | [Life's a Bitch \(But I Like it So Much\)](https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 2:50 |
-| 61 | [Play The Greatest Hits](https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 2:27 |
-| 62 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 |
-| 63 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
+| 61 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
+| 62 | [Play The Greatest Hits](https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 2:27 |
+| 63 | [Cure 4 Psycho](https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Cure 4 Psycho](https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV) | 2:37 |
 | 64 | [Deceiver, Deceiver](https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceiver, Deceiver](https://open.spotify.com/album/66LMLbz48jA8tbc561zxOO) | 3:51 |
 | 65 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 |
 | 66 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 77 | [Rise, Rebel, Resist](https://open.spotify.com/track/3mMxXlSR8l73NOlPshFxLm) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Smash The Control Machine](https://open.spotify.com/album/4VeNh83UPws5QEfyfZSUZU) | 3:59 |
 | 78 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 |
 | 79 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 |
-| 80 | [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 |
+| 80 | [Do It So Good](https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Do It So Good](https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm) | 3:22 |
 
 Snapshot ID: `Zlth3QAAAADPZ102huGT+JUYwFOEY8Gl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,647 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,730 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 45 | [Eras Diferente](https://open.spotify.com/track/1xVud4kEVDa8mnZAcEUAsP) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W) | [Mis Nuevos Cantares](https://open.spotify.com/album/0XCGWbApuVV51sfZSmvWoz) | 3:53 |
 | 46 | [Directo al corazón](https://open.spotify.com/track/13RzmI1NWQyyOIGh02egTP) | [Jesús Manuel](https://open.spotify.com/artist/1XLwJzZGjXyXjIz9s11R4Z) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:00 |
 | 47 | [La Casa en el Aire](https://open.spotify.com/track/1nduLuAnEB9kWHUgH1sSL5) | [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj), [Ivo Díaz](https://open.spotify.com/artist/7lmDSLh8c0YzQZTL2OWqH5) | [100 Años de Vallenato \(Vol\. 2\)](https://open.spotify.com/album/3BmZGoE03b6LRqMRRWVy24) | 5:32 |
-| 48 | [Me Tiraste Al Mar](https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Versión Original](https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw) | 4:26 |
+| 48 | [Busca Un Confidente](https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:06 |
 | 49 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 |
 | 50 | [Muero por Verla](https://open.spotify.com/track/1FziCEBLETrUuDEQfIyID6) | [Luis Mateus, David Rendon Y La Nueva Generacion](https://open.spotify.com/artist/3fVKEL0h8IO21P05YrgaSN) | [Historia Musical de Luis Mateus y la Nueva Generación](https://open.spotify.com/album/75nLOjeMuoVdB375ClTVmP) | 4:38 |
 

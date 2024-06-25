@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 ### [This Is Ryan Adams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
 
-> This Is Ryan Adams\. Los temas esenciales, todos en una lista.
+> This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,219 likes - 54 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,224 likes - 54 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,18 +49,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 39 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 |
 | 40 | [I See Monsters](https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:54 |
 | 41 | [Nuclear](https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:24 |
-| 42 | [So Alive](https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 3:58 |
-| 43 | [Speeding Car](https://open.spotify.com/track/74wT3PlIHz8txEw5wHtzF1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:27 |
+| 42 | [Speeding Car](https://open.spotify.com/track/74wT3PlIHz8txEw5wHtzF1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:27 |
+| 43 | [So Alive](https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 3:58 |
 | 44 | [I Was Here](https://open.spotify.com/track/6N8syRCLSHedst5P0HS6Tu) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:46 |
 | 45 | [Doomsday](https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:01 |
-| 46 | [How Much Light](https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Do Not Feel Like Being Good](https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD) | 3:15 |
-| 47 | [Oh My God, Whatever, Etc.](https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:31 |
+| 46 | [Oh My God, Whatever, Etc.](https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:31 |
+| 47 | [Style](https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 2:44 |
 | 48 | [Never Run](https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:52 |
 | 49 | [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 |
-| 50 | [Style](https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 2:44 |
-| 51 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 |
+| 50 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 |
+| 51 | [How Much Light](https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Do Not Feel Like Being Good](https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD) | 3:15 |
 | 52 | [Nutshell \- Live from Federal Way, WA\. 2023.](https://open.spotify.com/track/4WVcNNymCyoa5eh5ly6FBN) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Down In A Hole \(Live\)](https://open.spotify.com/album/1uz5hEKIxeHhZbdyu9s1s2) | 3:51 |
-| 53 | [Sword and Stone](https://open.spotify.com/track/4qCho7COvxkDzUktMmLEBF) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:19 |
-| 54 | [Harvest Moon \- Live from Calgary, AL\. 2023](https://open.spotify.com/track/3cTOXcZi3I61oAGqwAtc2y) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [After the Gold Rush \(Live from Calgary, AL\. 2023\)](https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k) | 3:58 |
+| 53 | [Harvest Moon \- Live from Calgary, AL\. 2023](https://open.spotify.com/track/3cTOXcZi3I61oAGqwAtc2y) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [After the Gold Rush \(Live from Calgary, AL\. 2023\)](https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k) | 3:58 |
+| 54 | [English Girls Approximately](https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:40 |
 
-Snapshot ID: `ZnYUAAAAAAANEi3Hk0UwsDh2WHFEQpv1`
+Snapshot ID: `ZndlgAAAAACpMTCoTHtJmNkc7PKs749Q`

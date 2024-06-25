@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 258520,
+  "num_followers": 258582,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Slow Down / A Fool for Loving You",
+        "url": "https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx"
+      },
+      "artists": [
+        {
+          "name": "Jack Earls",
+          "url": "https://open.spotify.com/artist/5oqGu2tDspg5xRwVqqbMpY"
+        },
+        {
+          "name": "The Jimbos",
+          "url": "https://open.spotify.com/artist/2tZSmD1d3c1iYRRDOVhh8F"
+        }
+      ],
+      "duration_ms": 137799,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Sun Records - The Rhythm and The Blues",
         "url": "https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 153627,
       "name": "Little Fine Healthy Thing",
       "url": "https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Slow Down / A Fool for Loving You",
-        "url": "https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx"
-      },
-      "artists": [
-        {
-          "name": "Jack Earls",
-          "url": "https://open.spotify.com/artist/5oqGu2tDspg5xRwVqqbMpY"
-        },
-        {
-          "name": "The Jimbos",
-          "url": "https://open.spotify.com/artist/2tZSmD1d3c1iYRRDOVhh8F"
-        }
-      ],
-      "duration_ms": 137799,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "If You Love Me / Alone and Blue",
-        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
+        "name": "Sun Records Yearbook - 1958 part 2",
+        "url": "https://open.spotify.com/album/4o5IAd8PpTkQe825QG2Lhq"
       },
       "artists": [
         {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+          "name": "Gene Simmons",
+          "url": "https://open.spotify.com/artist/5hF9nqYkULfy3LZnoYaRPD"
         }
       ],
-      "duration_ms": 150307,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
+      "duration_ms": 141457,
+      "name": "I Done Told You",
+      "url": "https://open.spotify.com/track/5HpqVE9dPqR9D4XnCV5Wdm"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1659,34 +1659,34 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records Yearbook - 1958 part 2",
-        "url": "https://open.spotify.com/album/4o5IAd8PpTkQe825QG2Lhq"
+        "name": "If You Love Me / Alone and Blue",
+        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
       },
       "artists": [
         {
-          "name": "Gene Simmons",
-          "url": "https://open.spotify.com/artist/5hF9nqYkULfy3LZnoYaRPD"
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
         }
       ],
-      "duration_ms": 141457,
-      "name": "I Done Told You",
-      "url": "https://open.spotify.com/track/5HpqVE9dPqR9D4XnCV5Wdm"
+      "duration_ms": 150307,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
     },
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
-        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
+        "name": "Sun Records - Rockabilly Archive",
+        "url": "https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "Dean Beard",
+          "url": "https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Whole Lot of Shakin' Going On",
-      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
+      "duration_ms": 139181,
+      "name": "Rock Around The Town",
+      "url": "https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - Rockabilly Archive",
-        "url": "https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL"
+        "name": "Sun Records - 60 Years, 60 Singles Box Set",
+        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
       },
       "artists": [
         {
-          "name": "Dean Beard",
-          "url": "https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5"
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
         }
       ],
-      "duration_ms": 139181,
-      "name": "Rock Around The Town",
-      "url": "https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh"
+      "duration_ms": 141785,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records - 60 Years, 60 Singles Box Set",
-        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
+        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
+        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
       },
       "artists": [
         {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 141785,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP"
+      "duration_ms": 172400,
+      "name": "Whole Lot of Shakin' Going On",
+      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
     },
     {
       "added_at": "2022-06-07 05:25:13",

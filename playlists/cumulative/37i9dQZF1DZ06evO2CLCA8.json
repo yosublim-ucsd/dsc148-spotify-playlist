@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This Is Tom Petty and the Heartbreakers. Los temas esenciales, todos en una lista.",
+  "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
   "name": "This Is Tom Petty and the Heartbreakers",
   "tracks": [
     {
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 244440,
       "name": "Stop Draggin' My Heart Around (with Tom Petty and The Heartbreakers) - 2016 Remaster",
       "url": "https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 229000,
       "name": "Straight Into Darkness",
       "url": "https://open.spotify.com/track/7qqxZi3lnnNNdoeUOwzN6g"

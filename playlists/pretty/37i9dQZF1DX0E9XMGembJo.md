@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 
 > your daily dose of dopamine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,106 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,245 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 | 8 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 |
 | 9 | [go steady](https://open.spotify.com/track/29kTSgO3YHSArvtVZwiX2r) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [go steady](https://open.spotify.com/album/3zKPxCnOoNvoDKAElJAvI3) | 3:57 |
 | 10 | [Rainbow's End](https://open.spotify.com/track/7LwLIjJICFPNfeiRYFEFGV) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 3:40 |
-| 11 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
+| 11 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 12 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 |
-| 13 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
+| 13 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 14 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 15 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 16 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 | 30 | [life goes by](https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [life goes by](https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY) | 2:33 |
 | 31 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
 | 32 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
-| 33 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
-| 34 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
+| 33 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 |
+| 34 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
 | 35 | [BEST INTEREST](https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [BEST INTEREST](https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh) | 2:07 |
 | 36 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 37 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |

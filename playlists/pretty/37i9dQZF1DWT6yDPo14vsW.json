@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 328095,
+  "num_followers": 328122,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -243,18 +243,26 @@
     {
       "added_at": "2024-06-14 18:17:57",
       "album": {
-        "name": "3 A.M.",
-        "url": "https://open.spotify.com/album/6HS9TsSBYFKwALTeRPvcdI"
+        "name": "En La Intimidad | CROSSOVER #1",
+        "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
       },
       "artists": [
         {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         }
       ],
-      "duration_ms": 232253,
-      "name": "Yo Te Esperar\u00e9",
-      "url": "https://open.spotify.com/track/0mGvaKpwLYoybnIoboC3uS"
+      "duration_ms": 165854,
+      "name": "En La Intimidad | CROSSOVER #1",
+      "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
     },
     {
       "added_at": "2024-06-14 18:17:57",
@@ -323,26 +331,18 @@
     {
       "added_at": "2024-06-14 18:17:57",
       "album": {
-        "name": "En La Intimidad | CROSSOVER #1",
-        "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
+        "name": "3 A.M.",
+        "url": "https://open.spotify.com/album/6HS9TsSBYFKwALTeRPvcdI"
       },
       "artists": [
         {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
         }
       ],
-      "duration_ms": 165854,
-      "name": "En La Intimidad | CROSSOVER #1",
-      "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
+      "duration_ms": 232253,
+      "name": "Yo Te Esperar\u00e9",
+      "url": "https://open.spotify.com/track/0mGvaKpwLYoybnIoboC3uS"
     },
     {
       "added_at": "2024-06-14 18:17:57",
@@ -419,18 +419,22 @@
     {
       "added_at": "2024-06-14 18:17:57",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+        "name": "8",
+        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 182520,
-      "name": "S\u00f3lo para Ti",
-      "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
+      "duration_ms": 221946,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
     },
     {
       "added_at": "2024-06-14 18:17:57",
@@ -483,22 +487,18 @@
     {
       "added_at": "2024-06-14 18:17:57",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         }
       ],
-      "duration_ms": 221946,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
+      "duration_ms": 182520,
+      "name": "S\u00f3lo para Ti",
+      "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
     },
     {
       "added_at": "2024-06-14 18:17:57",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-06-14 18:17:57",
       "album": {
+        "name": "\u00c9 Por Amor",
+        "url": "https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+        }
+      ],
+      "duration_ms": 272693,
+      "name": "Usted Se Me Llevo la Vida",
+      "url": "https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw"
+    },
+    {
+      "added_at": "2024-06-14 18:17:57",
+      "album": {
         "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
         "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 227973,
       "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
       "url": "https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb"
-    },
-    {
-      "added_at": "2024-06-14 18:17:57",
-      "album": {
-        "name": "\u00c9 Por Amor",
-        "url": "https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Pires",
-          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
-        }
-      ],
-      "duration_ms": 272693,
-      "name": "Usted Se Me Llevo la Vida",
-      "url": "https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw"
     },
     {
       "added_at": "2024-06-14 18:17:57",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-06-14 18:17:57",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
-    },
-    {
-      "added_at": "2024-06-14 18:17:57",
-      "album": {
         "name": "Six Pack: Man\u00e1 - EP",
         "url": "https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 317626,
       "name": "Labios Compartidos",
       "url": "https://open.spotify.com/track/0vyEatwgB5xaBkmyXWqf3x"
+    },
+    {
+      "added_at": "2024-06-14 18:17:57",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
     },
     {
       "added_at": "2024-06-14 18:17:57",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-06-14 18:17:57",
       "album": {
-        "name": "Tarde O Temprano (Late Edition)",
-        "url": "https://open.spotify.com/album/4SpycWodCTi8Ct9SUAEOzu"
-      },
-      "artists": [
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Pegadito",
-      "url": "https://open.spotify.com/track/3NkWUspEJzcMcUJKoX1KJa"
-    },
-    {
-      "added_at": "2024-06-14 18:17:57",
-      "album": {
         "name": "CoverKM Recopilatorio",
         "url": "https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 240875,
       "name": "C\u00f3seme",
       "url": "https://open.spotify.com/track/3GZVmPWbACE4yvZbfEM70u"
+    },
+    {
+      "added_at": "2024-06-14 18:17:57",
+      "album": {
+        "name": "Tarde O Temprano (Late Edition)",
+        "url": "https://open.spotify.com/album/4SpycWodCTi8Ct9SUAEOzu"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Pegadito",
+      "url": "https://open.spotify.com/track/3NkWUspEJzcMcUJKoX1KJa"
     },
     {
       "added_at": "2024-06-14 18:17:57",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: Teddie J",
+  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: NGHI",
   "name": "RADAR Vietnam",
   "tracks": [
     {
@@ -334,6 +334,24 @@
       "duration_ms": 202461,
       "name": "Ch\u1edd Em \u0110\u1ebfn Bao Gi\u1edd?",
       "url": "https://open.spotify.com/track/0rGytGSktEAcsxOkELz9qZ"
+    },
+    {
+      "album": {
+        "name": "SOS/City",
+        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
+      },
+      "artists": [
+        {
+          "name": "NGHI",
+          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259202,
+      "name": "City",
+      "url": "https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY"
     },
     {
       "album": {
@@ -747,6 +765,32 @@
     },
     {
       "album": {
+        "name": "MEDICINE",
+        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
+      },
+      "artists": [
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        },
+        {
+          "name": "Minsicko",
+          "url": "https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260073,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
+    },
+    {
+      "album": {
         "name": "Get Me",
         "url": "https://open.spotify.com/album/7r7IWC6DNLJzbYDMNRn86k"
       },
@@ -820,7 +864,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 249697,
       "name": "Gi\u00e1ng Sinh Trong M\u01a1 (feat. Tyronee)",
       "url": "https://open.spotify.com/track/2I7JvYMAzHFksLzIy6FIfj"
@@ -1651,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "SOS/City",
+        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
+      },
+      "artists": [
+        {
+          "name": "NGHI",
+          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220023,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/39G4yRRwHxOHKp6t7fdiqG"
+    },
+    {
+      "album": {
         "name": "STAY FOR A WHILE",
         "url": "https://open.spotify.com/album/3kaF1ubPMNkq47EkGptClH"
       },
@@ -2026,7 +2088,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 144410,
       "name": "Words You Want (feat. SOI)",
       "url": "https://open.spotify.com/track/3VvsQQVICDghw26uFsrs8O"

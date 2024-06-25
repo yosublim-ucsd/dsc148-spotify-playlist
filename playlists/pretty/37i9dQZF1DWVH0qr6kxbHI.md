@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,916 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,973 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 34 | [Beso a beso..\. dulcemente](https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [En directo](https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ) | 4:12 |
 | 35 | [Se nos rompió el amor](https://open.spotify.com/track/5V8MiatwmSYw80Teq4d3li) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [Tan Solo Una Mujer](https://open.spotify.com/album/1rKjcPNljCVlg0gRHnENMd) | 4:31 |
 | 36 | [S.O.S.](https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt) | [Falete](https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD) | [Amar Duele](https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2) | 3:46 |
-| 37 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 |
-| 38 | [Fina Estampa \(with Miguel Poveda\) \- Con Miguel Poveda](https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:10 |
+| 37 | [Fina Estampa \(with Miguel Poveda\) \- Con Miguel Poveda](https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:10 |
+| 38 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 |
 | 39 | [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 |
 | 40 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 |
 | 41 | [La Paloma](https://open.spotify.com/track/33sMZ91EO8OIc2tiSu2gyK) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Mari Trini Con los Panchos](https://open.spotify.com/album/1ak1aKu5l4UwtM1zh7UiMC) | 3:24 |

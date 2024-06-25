@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-999 songs - 2 day 7 hr 47 min
+1,000 songs - 2 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 | 2021-11-17 | 2023-07-21 |
 | [Bonnie & Clyde](https://open.spotify.com/track/21aIsunB7PfZI0vlIoaJPh) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [A Page](https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8) | 2:54 | 2024-03-27 |  |
 | [BOOM](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:15 | 2021-11-17 | 2023-03-29 |
+| [Boom Boom Bass](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 2:32 | 2024-06-21 |  |
 | [BOOMBAYAH](https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) | 4:00 | 2022-07-08 | 2024-04-19 |
 | [BOOMBAYAH](https://open.spotify.com/track/0NeNAcCVtGqLAAmf4FhWWT) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0zlJOlDdsJ6Y14GnPoYGD8) | 4:00 | 2022-03-24 | 2022-04-17 |
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-02-16 | 2024-06-22 |
@@ -534,7 +535,7 @@
 | [Lost In Paradise](https://open.spotify.com/track/14bgyEWJENob8xPy740fLa) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Love Synonym \#1: Right for Me](https://open.spotify.com/album/4RJIJFoKSzNmYKAJWJ23R6) | 3:45 | 2021-11-17 | 2022-04-17 |
 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 | 2022-02-03 | 2023-08-25 |
 | [LOVE](https://open.spotify.com/track/6M0njKf2lLXtFwB6XhFUgc) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 3:35 | 2022-05-01 | 2022-07-15 |
-| [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 | 2024-02-23 |  |
+| [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 | 2024-02-23 | 2024-06-25 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-05-01 |  |
 | [Love Is The Answer](https://open.spotify.com/track/1UkM6U6lbhA8rMJjwqpXfU) | [Hailey](https://open.spotify.com/artist/20PanKbJuxWBaa547o9Qi7) | [Love Is The Answer](https://open.spotify.com/album/47KfofKRLYHhqtFnCvmECp) | 3:14 | 2021-11-17 | 2022-06-06 |
 | [Love Lee](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Love Lee](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) | 2:59 | 2023-08-24 |  |

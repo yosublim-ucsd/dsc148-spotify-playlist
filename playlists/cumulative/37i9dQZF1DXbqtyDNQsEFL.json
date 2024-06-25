@@ -3743,6 +3743,28 @@
     },
     {
       "album": {
+        "name": "Malaika x Bien",
+        "url": "https://open.spotify.com/album/1EjCiRMZrPaIms688xVeG3"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235747,
+      "name": "Malaika x Bien",
+      "url": "https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S"
+    },
+    {
+      "album": {
         "name": "The Birth of Revival",
         "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
@@ -6984,7 +7006,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 402782,
       "name": "Yes You Are the Lord",
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"

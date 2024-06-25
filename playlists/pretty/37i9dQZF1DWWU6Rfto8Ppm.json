@@ -1,6 +1,6 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 3512584,
+  "num_followers": 3513778,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
+        "name": "Me Prefieres A Mi",
+        "url": "https://open.spotify.com/album/1czm6WW5vuT5Cy1PrytBV9"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 195657,
+      "name": "Me Prefieres A Mi",
+      "url": "https://open.spotify.com/track/3GhmL9fuM8jwGcHCFbeo3v"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 295533,
       "name": "Mis Ojos Lloran Por Ti",
       "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
-        "name": "Me Prefieres A Mi",
-        "url": "https://open.spotify.com/album/1czm6WW5vuT5Cy1PrytBV9"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 195657,
-      "name": "Me Prefieres A Mi",
-      "url": "https://open.spotify.com/track/3GhmL9fuM8jwGcHCFbeo3v"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
+        "name": "The King Of Dance",
+        "url": "https://open.spotify.com/album/0ReZGnwwE1cwqgyIwOfluR"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Bailando por Ahi",
+      "url": "https://open.spotify.com/track/4QJznEbuwYc5CnPzI7xAZy"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 209946,
       "name": "Sin Tu Amor (feat. Alex Pro)",
       "url": "https://open.spotify.com/track/1IJ7aLnLkfzALz85c4tdgc"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
-        "name": "The King Of Dance",
-        "url": "https://open.spotify.com/album/0ReZGnwwE1cwqgyIwOfluR"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Bailando por Ahi",
-      "url": "https://open.spotify.com/track/4QJznEbuwYc5CnPzI7xAZy"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
-      },
-      "artists": [
-        {
-          "name": "Nigga",
-          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
-        },
-        {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
-        }
-      ],
-      "duration_ms": 196880,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3ChWPkH8mk8FIpQLIu4RT0"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 219080,
       "name": "Culo",
       "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
+      },
+      "artists": [
+        {
+          "name": "Nigga",
+          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
+        },
+        {
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        }
+      ],
+      "duration_ms": 196880,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3ChWPkH8mk8FIpQLIu4RT0"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
+        "name": "Chosen Few El Documental II",
+        "url": "https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
         "name": "Toby Love",
         "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 260293,
       "name": "Tengo Un Amor (feat. Rakim & Ken-Y) - Remix Version",
       "url": "https://open.spotify.com/track/4mDWapOAzoFsHu8TPcP2R0"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
-        "name": "Chosen Few El Documental II",
-        "url": "https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Frikitona",
-      "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
-        "name": "Drag\u00f3n & Caballero",
-        "url": "https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS"
-      },
-      "artists": [
-        {
-          "name": "Dragon & Caballero",
-          "url": "https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE"
-        }
-      ],
-      "duration_ms": 218928,
-      "name": "Fruta Prohibida",
-      "url": "https://open.spotify.com/track/4xTqyuvfoYoSoq3z7TAtnp"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 213653,
       "name": "Al Natural",
       "url": "https://open.spotify.com/track/3tCdDVn9yseorLuljdFugA"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
+        "name": "Drag\u00f3n & Caballero",
+        "url": "https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS"
+      },
+      "artists": [
+        {
+          "name": "Dragon & Caballero",
+          "url": "https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE"
+        }
+      ],
+      "duration_ms": 218928,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/4xTqyuvfoYoSoq3z7TAtnp"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -2051,6 +2051,26 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
+        "name": "Los Verdaderos",
+        "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
+        },
+        {
+          "name": "Lennox",
+          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "Amor Genuino",
+      "url": "https://open.spotify.com/track/0CyUWy7lIuWwYEeoRJlxND"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
         "name": "12 Discipulos",
         "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
       },
@@ -2095,26 +2115,6 @@
       "duration_ms": 269558,
       "name": "los Disicipulos",
       "url": "https://open.spotify.com/track/2vWWy37CDlDlfPipzb4iIX"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
-        "name": "Los Verdaderos",
-        "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
-        },
-        {
-          "name": "Lennox",
-          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "Amor Genuino",
-      "url": "https://open.spotify.com/track/0CyUWy7lIuWwYEeoRJlxND"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -3139,22 +3139,6 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
-        "name": "It's My Time",
-        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 157291,
-      "name": "El Tra",
-      "url": "https://open.spotify.com/track/14nnQDyyoTuRYfOgGQBjDD"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
         "name": "La Moda",
         "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
       },
@@ -3171,6 +3155,22 @@
       "duration_ms": 190186,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/2WkWjXV1lQtSFNZoFzu3r0"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
+        "name": "It's My Time",
+        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 157291,
+      "name": "El Tra",
+      "url": "https://open.spotify.com/track/14nnQDyyoTuRYfOgGQBjDD"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -3335,6 +3335,22 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
+        "name": "Los Compadres - La Perfecta Ocasi\u00f3n",
+        "url": "https://open.spotify.com/album/1xQAjttf7mpnsiinRkm7yj"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "duration_ms": 195093,
+      "name": "La Perfecta Ocasi\u00f3n",
+      "url": "https://open.spotify.com/track/6jkzF40g6U3S9dJlHed6nJ"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
         "name": "La Moda",
         "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
       },
@@ -3351,22 +3367,6 @@
       "duration_ms": 223013,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/4wXpSzmNqxhPX2YgUM5BCq"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
-        "name": "Los Compadres - La Perfecta Ocasi\u00f3n",
-        "url": "https://open.spotify.com/album/1xQAjttf7mpnsiinRkm7yj"
-      },
-      "artists": [
-        {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        }
-      ],
-      "duration_ms": 195093,
-      "name": "La Perfecta Ocasi\u00f3n",
-      "url": "https://open.spotify.com/track/6jkzF40g6U3S9dJlHed6nJ"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -3423,22 +3423,6 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
-        "name": "Motivando A La Yal (Special Edition)",
-        "url": "https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 219010,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/2bt0uIqZR6u67zunXNKDkn"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
         "name": "Echo Presenta: Invasion",
         "url": "https://open.spotify.com/album/1taytVoqyuA4TXurwx5M5v"
       },
@@ -3451,6 +3435,22 @@
       "duration_ms": 183706,
       "name": "Como Toda Una Se\u00f1ora",
       "url": "https://open.spotify.com/track/6nWCjOk9IPTRvHSSqgxUMF"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
+        "name": "Motivando A La Yal (Special Edition)",
+        "url": "https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 219010,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/2bt0uIqZR6u67zunXNKDkn"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -3675,6 +3675,22 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
+        "name": "Quiero Una Chica",
+        "url": "https://open.spotify.com/album/24onBhnqUpvHxa86tmKpNe"
+      },
+      "artists": [
+        {
+          "name": "Latin Dreams",
+          "url": "https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX"
+        }
+      ],
+      "duration_ms": 175673,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/1QYQaNlkmzIol3BdqFtGqb"
+    },
+    {
+      "added_at": "2024-06-18 19:46:58",
+      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2X0W94w0tW0yKzzO8pf3Qs"
       },
@@ -3695,38 +3711,18 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
-        "name": "Quiero Una Chica",
-        "url": "https://open.spotify.com/album/24onBhnqUpvHxa86tmKpNe"
+        "name": "The Hitmakers, Vol. 1",
+        "url": "https://open.spotify.com/album/7lOFMaGJP3waQdBRAFPAoz"
       },
       "artists": [
         {
-          "name": "Latin Dreams",
-          "url": "https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX"
+          "name": "Fainal & Shako",
+          "url": "https://open.spotify.com/artist/2aWyENWGXJIHKOY6BZ7DTD"
         }
       ],
-      "duration_ms": 175673,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/1QYQaNlkmzIol3BdqFtGqb"
-    },
-    {
-      "added_at": "2024-06-18 19:46:58",
-      "album": {
-        "name": "Los Verdaderos",
-        "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
-        },
-        {
-          "name": "Lennox",
-          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
-        }
-      ],
-      "duration_ms": 264840,
-      "name": "Momentos",
-      "url": "https://open.spotify.com/track/1CipZ1ENdu4dydW5ktCxWa"
+      "duration_ms": 233567,
+      "name": "En MI Piel",
+      "url": "https://open.spotify.com/track/6IBY9rP6OpEyibe3RxlqBq"
     },
     {
       "added_at": "2024-06-18 19:46:58",
@@ -3751,18 +3747,22 @@
     {
       "added_at": "2024-06-18 19:46:58",
       "album": {
-        "name": "The Hitmakers, Vol. 1",
-        "url": "https://open.spotify.com/album/7lOFMaGJP3waQdBRAFPAoz"
+        "name": "Los Verdaderos",
+        "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
       },
       "artists": [
         {
-          "name": "Fainal & Shako",
-          "url": "https://open.spotify.com/artist/2aWyENWGXJIHKOY6BZ7DTD"
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
+        },
+        {
+          "name": "Lennox",
+          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
         }
       ],
-      "duration_ms": 233567,
-      "name": "En MI Piel",
-      "url": "https://open.spotify.com/track/6IBY9rP6OpEyibe3RxlqBq"
+      "duration_ms": 264840,
+      "name": "Momentos",
+      "url": "https://open.spotify.com/track/1CipZ1ENdu4dydW5ktCxWa"
     }
   ],
   "unique_name": "Reggaet\u00f3n Viejito",

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain](/playlists/plain/37i9dQZF1DWX7FdKM0unn8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX7FdKM0unn8)
 
-### [Korean Old Vinyls \(통기타와 LP판\)](https://open.spotify.com/playlist/37i9dQZF1DWX7FdKM0unn8)
+### [통기타와 LP판 \(Korean Old Vinyls\)](https://open.spotify.com/playlist/37i9dQZF1DWX7FdKM0unn8)
 
-> Listen Korea's classic & old songs from 70's to 80's\. \(70\-80년대를 수 놓았던 노래들을 즐겨보세요!\)
+> 70\-80년대를 수 놓았던 노래들을 즐겨보세요! \(Listen Korea's classic & old songs from 70's to 80's.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,842 likes - 59 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,851 likes - 59 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 58 | [보고싶은 마음](https://open.spotify.com/track/5I69xkBlJoa7v8T3saqcLN) | [Yang Hee Eun](https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb) | [골든 베스트 18 \(Best\)](https://open.spotify.com/album/6jNFqYhHW83hDVcO9zDQ8I) | 4:06 |
 | 59 | [돌아와요 부산항에](https://open.spotify.com/track/4pr8oJG9Zq2DW1WNRflJxS) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [오리지날 가요 베스트 Vol.3](https://open.spotify.com/album/0f1NbeSXquER4WndPwiCQB) | 2:40 |
 
-Snapshot ID: `ZIsPXwAAAAAtilJNym2b7m7Sdg0csckV`
+Snapshot ID: `ZnkkrwAAAACm2W9ocUwEpqZUktvjf8PA`

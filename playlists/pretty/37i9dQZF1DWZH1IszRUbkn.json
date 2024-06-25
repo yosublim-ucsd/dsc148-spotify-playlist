@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 575,
+  "num_followers": 579,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -183,8 +183,8 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Las 100 Cl\u00e1sicas de Cri Cri, Vol. 2",
-        "url": "https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX"
+        "name": "Cri Cri Por El Mundo",
+        "url": "https://open.spotify.com/album/6yWbg1K1DRMmKqaMtKQA4g"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
         }
       ],
-      "duration_ms": 142226,
-      "name": "Caminito de la Escuela - Remasterizado",
-      "url": "https://open.spotify.com/track/4zE0vkNCDI5Gxpe0esVtbt"
+      "duration_ms": 183466,
+      "name": "Raton Vaquero",
+      "url": "https://open.spotify.com/track/6oUGuBl910hSHMaxdSTlSE"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -315,8 +315,8 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Cri Cri Por El Mundo",
-        "url": "https://open.spotify.com/album/6yWbg1K1DRMmKqaMtKQA4g"
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri, Vol. 2",
+        "url": "https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX"
       },
       "artists": [
         {
@@ -324,9 +324,25 @@
           "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
         }
       ],
-      "duration_ms": 183466,
-      "name": "Raton Vaquero",
-      "url": "https://open.spotify.com/track/6oUGuBl910hSHMaxdSTlSE"
+      "duration_ms": 142226,
+      "name": "Caminito de la Escuela - Remasterizado",
+      "url": "https://open.spotify.com/track/4zE0vkNCDI5Gxpe0esVtbt"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "El Patio de Mi Casa",
+        "url": "https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "duration_ms": 124640,
+      "name": "La Cucaracha",
+      "url": "https://open.spotify.com/track/7vUU63HyochOSQ8OBvf5uk"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -387,22 +403,6 @@
       "duration_ms": 208120,
       "name": "Ser Mejor",
       "url": "https://open.spotify.com/track/7qUv1mFQLXSkFHiybwdgk8"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "El Patio de Mi Casa",
-        "url": "https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN"
-      },
-      "artists": [
-        {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
-        }
-      ],
-      "duration_ms": 124640,
-      "name": "La Cucaracha",
-      "url": "https://open.spotify.com/track/7vUU63HyochOSQ8OBvf5uk"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -503,22 +503,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To"
-      },
-      "artists": [
-        {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
-        }
-      ],
-      "duration_ms": 69870,
-      "name": "\u00a1Qu\u00e9 empiece ya!",
-      "url": "https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Yo Soy Franky (M\u00fasica Original de la Serie)",
         "url": "https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 193109,
       "name": "Ritmo Rob\u00f3tico",
       "url": "https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "We Love Disney (Latino)",
+        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "Bajo El Mar",
+      "url": "https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -571,18 +571,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "We Love Disney (Latino)",
-        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
         }
       ],
-      "duration_ms": 250093,
-      "name": "Bajo El Mar",
-      "url": "https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t"
+      "duration_ms": 69870,
+      "name": "\u00a1Qu\u00e9 empiece ya!",
+      "url": "https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -671,18 +671,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Vacaciones \u00a1Tope guay!",
-        "url": "https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb"
+        "name": "Un Mundo De Canciones",
+        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
       },
       "artists": [
         {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Mi mam\u00e1",
-      "url": "https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW"
+      "duration_ms": 103613,
+      "name": "El Zapatero",
+      "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -719,18 +719,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Un Mundo De Canciones",
-        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
+        "name": "Vacaciones \u00a1Tope guay!",
+        "url": "https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb"
       },
       "artists": [
         {
-          "name": "CantaJuego",
-          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
         }
       ],
-      "duration_ms": 103613,
-      "name": "El Zapatero",
-      "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
+      "duration_ms": 235773,
+      "name": "Mi mam\u00e1",
+      "url": "https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW"
     },
     {
       "added_at": "2020-04-27 15:43:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 
 > La casa de los corazones rotos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,585,519 likes - 125 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,585,557 likes - 125 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 | 68 | [Lo Legal](https://open.spotify.com/track/2f42t2ofY9VdZo1rgWSGwO) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Ese Soy Yo](https://open.spotify.com/album/3iw6NgJAe0kHY52IaUkuS6) | 3:18 |
 | 69 | [Chingas A Tu Madre](https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Chingas A Tu Madre](https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257) | 3:25 |
 | 70 | [Te Felicito](https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Felicito](https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7) | 3:44 |
-| 71 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 |
+| 71 | [Un Desengaño](https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:34 |
 | 72 | [Esta Noche Se Me Olvida](https://open.spotify.com/track/6746mUlyXUbMeWzBqMTYEi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:22 |
-| 73 | [Un Desengaño](https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:34 |
+| 73 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 |
 | 74 | [A Través Del Vaso](https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 |
 | 75 | [Se Acabo \- En Vivo](https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Se Acabo \(En Vivo\)](https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR) | 3:50 |
 | 76 | [A Quién Vas a Amar Más Que a Mí](https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:47 |

@@ -5194,7 +5194,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
@@ -7343,6 +7343,32 @@
     },
     {
       "album": {
+        "name": "Esa Loca",
+        "url": "https://open.spotify.com/album/0PqGsufbI05UtfsDZgTadi"
+      },
+      "artists": [
+        {
+          "name": "WAO",
+          "url": "https://open.spotify.com/artist/7qcNmuNavrktdfbKwRGgBZ"
+        },
+        {
+          "name": "Dionis",
+          "url": "https://open.spotify.com/artist/3elH5UbzTmwgEPL24ElUWU"
+        },
+        {
+          "name": "HVB MUSIC GROUP",
+          "url": "https://open.spotify.com/artist/5NHFBx21Atfz3SyZU5vqbl"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192069,
+      "name": "Esa Loca",
+      "url": "https://open.spotify.com/track/3d2ckplhHE0l6GQekE4BHt"
+    },
+    {
+      "album": {
         "name": "Esa Ni\u00f1a",
         "url": "https://open.spotify.com/album/2T3WhoVaJ5cYjttjofYsZw"
       },
@@ -8608,7 +8634,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 154455,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/2FaHG5WIzpQAxM3M3Whw5W"
@@ -9342,6 +9368,24 @@
       "duration_ms": 199112,
       "name": "Haw\u00e1i",
       "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
+    },
+    {
+      "album": {
+        "name": "Hay Lupita",
+        "url": "https://open.spotify.com/album/7x1AOJoliyxZfhL7n6wdfQ"
+      },
+      "artists": [
+        {
+          "name": "Megan Koffe",
+          "url": "https://open.spotify.com/artist/0fNivAGcaZiBhOdNgsprar"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108855,
+      "name": "Hay Lupita",
+      "url": "https://open.spotify.com/track/5LHfb6tTLSBmM9oCnVWoPW"
     },
     {
       "album": {
@@ -10910,7 +10954,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
@@ -15830,7 +15874,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 171880,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
@@ -25572,7 +25616,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
@@ -25606,7 +25650,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 390545,
       "name": "WYA REMIX BLACK AND YELLOW (feat. iZaak & Pirlo)",
       "url": "https://open.spotify.com/track/0W2pF7zyj9dwZVK1RoUyjh"

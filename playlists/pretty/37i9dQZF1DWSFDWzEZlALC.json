@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JBS",
-  "num_followers": 427213,
+  "num_followers": 427392,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnSnjAAAAACTjQFRdOZJnSQozeD8CdDP",
+  "snapshot_id": "ZnkeEAAAAADdLiZPqWKUvcbNJuiRDvXz",
   "tracks": [
     {
       "added_at": "2024-06-20 22:05:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-06-20 22:05:00",
       "album": {
-        "name": "Es k\u00f6nnte kaum sch\u00f6ner sein",
-        "url": "https://open.spotify.com/album/4hMkHNxP1dsI9322YAKUnk"
-      },
-      "artists": [
-        {
-          "name": "Paul Gerlinger",
-          "url": "https://open.spotify.com/artist/3Jh90nIsxexWk4CfSv8EBV"
-        }
-      ],
-      "duration_ms": 167463,
-      "name": "Es k\u00f6nnte kaum sch\u00f6ner sein",
-      "url": "https://open.spotify.com/track/33MXR5r04svgngdnT1odIR"
-    },
-    {
-      "added_at": "2024-06-20 22:05:00",
-      "album": {
         "name": "nie vorbei",
         "url": "https://open.spotify.com/album/4rbLFikPvtb3QhoAmjE6no"
       },
@@ -143,6 +127,38 @@
       "duration_ms": 156798,
       "name": "nie vorbei",
       "url": "https://open.spotify.com/track/2Db1HUXWAonGtRG7Hf7xeI"
+    },
+    {
+      "added_at": "2024-06-20 22:05:00",
+      "album": {
+        "name": "LAVENDEL IM PARK",
+        "url": "https://open.spotify.com/album/0p0kRZIX9YQOf0PtrJUg3b"
+      },
+      "artists": [
+        {
+          "name": "kei",
+          "url": "https://open.spotify.com/artist/2ASO52lG12R04s6lsYOOht"
+        }
+      ],
+      "duration_ms": 136744,
+      "name": "LAVENDEL IM PARK",
+      "url": "https://open.spotify.com/track/2PwfE3zcFtyqK7TYG24ypb"
+    },
+    {
+      "added_at": "2024-06-20 22:05:00",
+      "album": {
+        "name": "Es k\u00f6nnte kaum sch\u00f6ner sein",
+        "url": "https://open.spotify.com/album/4hMkHNxP1dsI9322YAKUnk"
+      },
+      "artists": [
+        {
+          "name": "Paul Gerlinger",
+          "url": "https://open.spotify.com/artist/3Jh90nIsxexWk4CfSv8EBV"
+        }
+      ],
+      "duration_ms": 167463,
+      "name": "Es k\u00f6nnte kaum sch\u00f6ner sein",
+      "url": "https://open.spotify.com/track/33MXR5r04svgngdnT1odIR"
     },
     {
       "added_at": "2024-06-20 22:05:00",
@@ -183,22 +199,6 @@
     {
       "added_at": "2024-06-20 22:05:00",
       "album": {
-        "name": "LAVENDEL IM PARK",
-        "url": "https://open.spotify.com/album/0p0kRZIX9YQOf0PtrJUg3b"
-      },
-      "artists": [
-        {
-          "name": "kei",
-          "url": "https://open.spotify.com/artist/2ASO52lG12R04s6lsYOOht"
-        }
-      ],
-      "duration_ms": 136744,
-      "name": "LAVENDEL IM PARK",
-      "url": "https://open.spotify.com/track/2PwfE3zcFtyqK7TYG24ypb"
-    },
-    {
-      "added_at": "2024-06-20 22:05:00",
-      "album": {
         "name": "Liebesbriefe",
         "url": "https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a"
       },
@@ -211,22 +211,6 @@
       "duration_ms": 141600,
       "name": "Liebesbriefe",
       "url": "https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1"
-    },
-    {
-      "added_at": "2024-06-20 22:05:00",
-      "album": {
-        "name": "Tommy Coconut",
-        "url": "https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e"
-      },
-      "artists": [
-        {
-          "name": "Kobrakasino",
-          "url": "https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb"
-        }
-      ],
-      "duration_ms": 210004,
-      "name": "Tommy Coconut",
-      "url": "https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8"
     },
     {
       "added_at": "2024-06-20 22:05:00",
@@ -275,6 +259,22 @@
       "duration_ms": 151822,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2hjwHhRf1thQYAiGDlavYr"
+    },
+    {
+      "added_at": "2024-06-20 22:05:00",
+      "album": {
+        "name": "Tommy Coconut",
+        "url": "https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e"
+      },
+      "artists": [
+        {
+          "name": "Kobrakasino",
+          "url": "https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb"
+        }
+      ],
+      "duration_ms": 210004,
+      "name": "Tommy Coconut",
+      "url": "https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8"
     },
     {
       "added_at": "2024-06-20 22:05:00",

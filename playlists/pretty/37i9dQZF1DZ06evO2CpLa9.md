@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,239 likes - 52 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,299 likes - 52 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 34 | [Soy Mercenario](https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:09 |
 | 35 | [Luna](https://open.spotify.com/track/2afIpPSlmdEAl5MFGo7HdH) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna](https://open.spotify.com/album/2jfMeBUOiBDKONVJC8KQ3r) | 3:18 |
 | 36 | [Algo más](https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 3:12 |
-| 37 | [PLOMO](https://open.spotify.com/track/6OuYW44MKPScpqvoiiGDkN) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [PLOMO](https://open.spotify.com/album/18J9vWonbcXXBYFa9bF88S) | 2:58 |
-| 38 | [Hambre](https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:13 |
+| 37 | [Hambre](https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:13 |
+| 38 | [PLOMO](https://open.spotify.com/track/6OuYW44MKPScpqvoiiGDkN) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [PLOMO](https://open.spotify.com/album/18J9vWonbcXXBYFa9bF88S) | 2:58 |
 | 39 | [Vuelo](https://open.spotify.com/track/7qbuOorMhBfKWBp9ISG28e) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL) | [Vuelo](https://open.spotify.com/album/2WZ35ep2rDjfCh4Q6FNCDC) | 3:28 |
 | 40 | [Planta Medicinal](https://open.spotify.com/track/1UpJMfx6fGd6HvZxz9fFjt) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik) | [Planta Medicinal](https://open.spotify.com/album/34IUdftCspXWGfSQXIvu5E) | 3:47 |
 | 41 | [De Pies a Cabeza](https://open.spotify.com/track/7iBioaqKNozrqB88QQVoBD) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [De Pies a Cabeza](https://open.spotify.com/album/4eXjEM5eGaxmoRBOYti17F) | 3:18 |
-| 42 | [Nunca Imaginé](https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Nunca Imaginé](https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf) | 2:48 |
-| 43 | [Un Día Todo Se Termina \(Remix\)](https://open.spotify.com/track/5aXdE6AyjGce9lDyYmMQyj) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Cactus](https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ) | 4:11 |
+| 42 | [Un Día Todo Se Termina \(Remix\)](https://open.spotify.com/track/5aXdE6AyjGce9lDyYmMQyj) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Cactus](https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ) | 4:11 |
+| 43 | [Nunca Imaginé](https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Nunca Imaginé](https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf) | 2:48 |
 | 44 | [Kódigos](https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS) | 3:47 |
 | 45 | [Mi Religión](https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:20 |
 | 46 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 51 | [Maldita Tentación](https://open.spotify.com/track/3SC3Wfipjci9gEMFCZErgw) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [RAZZ](https://open.spotify.com/artist/5rRsKY7EykyWCpURh3a64G), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Maldita Tentación](https://open.spotify.com/album/0w9a7qRyEYARR98kwiv1wl) | 4:17 |
 | 52 | [Familia](https://open.spotify.com/track/7nlwjDDc7jNvb9sy8EcQCE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:20 |
 
-Snapshot ID: `ZnYUAAAAAABkJTxi3cWm/YXMS7IR1T5b`
+Snapshot ID: `ZndlgAAAAABUUbl2C8ESe7TcQTOSjalg`

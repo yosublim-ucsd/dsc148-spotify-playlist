@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaHC08WWUUD.md) - [plain]
 
 > me quiero mucho
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,274 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,315 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaHC08WWUUD.md) - [plain]
 | 48 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 49 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
 | 50 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
-| 51 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
-| 52 | [Solo de Mi](https://open.spotify.com/track/4uP3pUP18ennmz0tb3GphR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:17 |
+| 51 | [Solo de Mi](https://open.spotify.com/track/4uP3pUP18ennmz0tb3GphR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:17 |
+| 52 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
 | 53 | [Creo en Mi](https://open.spotify.com/track/4fSar1liXyxCK3lOcWHUE1) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Creo en Mi](https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1) | 3:49 |
 | 54 | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/album/3aZthZKHMbbleXcilISjha) | 2:51 |
 | 55 | [Hotter Than Hell](https://open.spotify.com/track/5eTNdkstwKaNahHf41fJ9u) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:07 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaHC08WWUUD.md) - [plain]
 | 62 | [Qué Bonito Es Querer](https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [La Cruz Del Mapa](https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa) | 4:30 |
 | 63 | [Brillo Mio](https://open.spotify.com/track/7eCDfoEl8UGeWqcpRO5lgz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bálsamo](https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ) | 3:16 |
 | 64 | [Soy Mia](https://open.spotify.com/track/5anRovfNkeo83bshruaWX9) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:41 |
-| 65 | [Llévatelo](https://open.spotify.com/track/53RLjHptrKflawOuGru1xM) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:23 |
-| 66 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
+| 65 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
+| 66 | [Llévatelo](https://open.spotify.com/track/53RLjHptrKflawOuGru1xM) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:23 |
 | 67 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 |
 | 68 | [Loba](https://open.spotify.com/track/30XvfCUPHSK2rzxmPlJGFf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Loba](https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9) | 3:08 |
 | 69 | [Oye Pablo](https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |

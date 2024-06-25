@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 
 > Musiquita, calorcito y pura buena vibra 🌞✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,594 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,617 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 23 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 |
 | 24 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 |
 | 25 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 |
-| 26 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
-| 27 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
-| 28 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 |
+| 26 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 |
+| 27 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
+| 28 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 29 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 |
 | 30 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
 | 31 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT1642xPu6H.md) - [plain]
 | 53 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
 | 54 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 55 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 |
-| 56 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 |
-| 57 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 |
+| 56 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 |
+| 57 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 |
 | 58 | [Makeba](https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka](https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb) | 4:09 |
 | 59 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 |
 | 60 | [Call Me](https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [1 OF 1](https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I) | 2:50 |

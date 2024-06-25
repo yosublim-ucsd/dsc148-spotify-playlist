@@ -1,12 +1,12 @@
 {
-  "description": "This is Bruno Mars. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 3847011,
+  "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
+  "num_followers": 3848171,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAACAf45HgWjsFNo5SDJc61AB",
+  "snapshot_id": "ZndlgAAAAACWjL2GLzojrOvRd5AdyJqn",
   "tracks": [
     {
       "added_at": null,
@@ -375,46 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 197442,
-      "name": "Smokin Out The Window",
-      "url": "https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 197469,
-      "name": "Count on Me",
-      "url": "https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Finesse (Remix) [feat. Cardi B]",
         "url": "https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p"
       },
@@ -431,6 +391,22 @@
       "duration_ms": 217288,
       "name": "Finesse - Remix; feat. Cardi B",
       "url": "https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 197469,
+      "name": "Count on Me",
+      "url": "https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU"
     },
     {
       "added_at": null,
@@ -470,19 +446,11 @@
         {
           "name": "Silk Sonic",
           "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
         }
       ],
-      "duration_ms": 249444,
-      "name": "After Last Night (with Thundercat & Bootsy Collins)",
-      "url": "https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU"
+      "duration_ms": 203122,
+      "name": "Skate",
+      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
     },
     {
       "added_at": null,
@@ -503,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 132640,
+      "name": "If I Knew",
+      "url": "https://open.spotify.com/track/7lXOqE38eCr979gp27O5wr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hell: The Sequel (Deluxe)",
         "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
       },
@@ -519,94 +503,6 @@
       "duration_ms": 303813,
       "name": "Lighters",
       "url": "https://open.spotify.com/track/5zpDHEU12zATwLGvozxPw2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 228720,
-      "name": "Young Girls",
-      "url": "https://open.spotify.com/track/3G5iN5QBqMeXx3uZPy8tgB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 203122,
-      "name": "Skate",
-      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Too Good to Say Goodbye",
-      "url": "https://open.spotify.com/track/0B0tYbVp7pDQAqKDhgMeaL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Grenade Sessions",
-        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 249535,
-      "name": "Grenade - Acoustic",
-      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 244493,
-      "name": "Gorilla",
-      "url": "https://open.spotify.com/track/2ih2U8ttFzCjnQ5njF3SrR"
     },
     {
       "added_at": null,
@@ -644,9 +540,97 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
+      "duration_ms": 281826,
+      "name": "Too Good to Say Goodbye",
+      "url": "https://open.spotify.com/track/0B0tYbVp7pDQAqKDhgMeaL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 228720,
+      "name": "Young Girls",
+      "url": "https://open.spotify.com/track/3G5iN5QBqMeXx3uZPy8tgB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Grenade Sessions",
+        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 249535,
+      "name": "Grenade - Acoustic",
+      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 63060,
+      "name": "Silk Sonic Intro",
+      "url": "https://open.spotify.com/track/4K09vJ27xCOreumtSuU6Ao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
       "duration_ms": 198186,
       "name": "Straight up & Down",
       "url": "https://open.spotify.com/track/2mrZYZGmPFV3QOyYPZ1zsn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "Gorilla",
+      "url": "https://open.spotify.com/track/2ih2U8ttFzCjnQ5njF3SrR"
     },
     {
       "added_at": null,
@@ -675,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/2tCPIp83mRXvVTytTAf1W4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -708,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
         }
       ],
-      "duration_ms": 63060,
-      "name": "Silk Sonic Intro",
-      "url": "https://open.spotify.com/track/4K09vJ27xCOreumtSuU6Ao"
+      "duration_ms": 165000,
+      "name": "777",
+      "url": "https://open.spotify.com/track/2K6vUau7bnZUamjbRSOOvJ"
     },
     {
       "added_at": null,
@@ -771,6 +739,30 @@
       "duration_ms": 210606,
       "name": "Catch a Grenade - The Hooligans Remix",
       "url": "https://open.spotify.com/track/1EOWf8bsePF6QtiDUAclrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 219389,
+      "name": "Fly As Me",
+      "url": "https://open.spotify.com/track/7suB6D6uKX5DfPukdGaz0W"
     },
     {
       "added_at": null,

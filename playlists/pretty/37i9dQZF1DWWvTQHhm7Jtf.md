@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,161 likes - 70 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,167 likes - 70 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 8 | [Clouds](https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 5:54 |
 | 9 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 |
 | 10 | [Goo \- Joseph Shabason Remix](https://open.spotify.com/track/5uLvP7lZsXe62sg03Ly2s1) | [Murmur](https://open.spotify.com/artist/2XtXQPXn2iPxMm1zyJNlYb), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Goo \(Joseph Shabason Remix\)](https://open.spotify.com/album/1IuHXILpwXzjM5sm9LDElB) | 4:14 |
-| 11 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 |
+| 11 | [Angle of List](https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Sea Island](https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led) | 6:45 |
 | 12 | [Gurek](https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Pasajes Sonoros, Instant Composition / Saxophone Solo](https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV) | 4:51 |
-| 13 | [Angle of List](https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Sea Island](https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led) | 6:45 |
+| 13 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 |
 | 14 | [Hell To The Liars \(feat\. NATURE\)](https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Hell To The Liars \(feat\. NATURE\)](https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc) | 9:31 |
 | 15 | [Porpita](https://open.spotify.com/track/753ILqOdh4VSmGahUIi4oM) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Les Jardins Mystiques Vol.1](https://open.spotify.com/album/4oIYiCrzOUVZvpxCopDB7e) | 3:26 |
 | 16 | [By the Wall](https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V) | [Tomáš Dvořák](https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX) | [Machinarium Soundtrack](https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1) | 5:04 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 64 | [Eyes of the Wind](https://open.spotify.com/track/7vnrZqseiH7uEAXEYYHwmm) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB) | [Draw Me a Silence \(Extended Version\)](https://open.spotify.com/album/3yEiqOlQUT7zB19SSYgGZu) | 6:26 |
 | 65 | [Mamba Negra](https://open.spotify.com/track/2u1zyhCb148EO2sE1rxrB1) | [Almanacs](https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa) | [Spirits of the River](https://open.spotify.com/album/1GkkDQSiVjWYfP3EICID4X) | 5:09 |
 | 66 | [Wanderer](https://open.spotify.com/track/36KtiVehi3BrwDIzneRhGq) | [Lotte Pen](https://open.spotify.com/artist/09klzeoydwwlN5eyyQNNss) | [Wanderer](https://open.spotify.com/album/52MSO7IZTjGJnawiQ0R8tl) | 6:04 |
-| 67 | [11](https://open.spotify.com/track/0oAzD4paJjiaqZM4s2fkJ6) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 4:16 |
-| 68 | [IX: Nature That's It That's All.](https://open.spotify.com/track/07SvpoJ9TFywCmSYmOeSfF) | [Bell Orchestre](https://open.spotify.com/artist/1eGeixtxaPiyKM6CPVANqr) | [House Music](https://open.spotify.com/album/2WJQfOY8wCM012nVHcfURF) | 4:36 |
+| 67 | [IX: Nature That's It That's All.](https://open.spotify.com/track/07SvpoJ9TFywCmSYmOeSfF) | [Bell Orchestre](https://open.spotify.com/artist/1eGeixtxaPiyKM6CPVANqr) | [House Music](https://open.spotify.com/album/2WJQfOY8wCM012nVHcfURF) | 4:36 |
+| 68 | [11](https://open.spotify.com/track/0oAzD4paJjiaqZM4s2fkJ6) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 4:16 |
 | 69 | [Dead Indeed \- Tunnel Mix by Mind Over Midi](https://open.spotify.com/track/7LRuezpAWx0uaIapbAB1Dc) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Recoloured \- The Remix Album](https://open.spotify.com/album/169WztoC1KJfXh9B2wEkWI) | 7:53 |
 | 70 | [\#3](https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:44 |
 

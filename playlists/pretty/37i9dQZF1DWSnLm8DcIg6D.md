@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 
 > the soundtrack to your girl dinner\. cover: Kim Petras
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,557 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,591 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 | 45 | [God is a woman](https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:17 |
 | 46 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 |
 | 47 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 |
-| 48 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
-| 49 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
+| 48 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
+| 49 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 |
 | 50 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 |
 | 51 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
 | 52 | [2 On \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3jVtllWS5CFFWLQng8sKsr) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Aquarius](https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) | 3:47 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 | 59 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 |
 | 60 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
 | 61 | [Power](https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:07 |
-| 62 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
-| 63 | [LEFT RIGHT](https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:28 |
+| 62 | [LEFT RIGHT](https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:28 |
+| 63 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
 | 64 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
 | 65 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 |
 | 66 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnLm8DcIg6D.md) - [plain]
 | 73 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 |
 | 74 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 |
 | 75 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
-| 76 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
+| 76 | [Victoria's Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:55 |
 | 77 | [HEATED](https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:20 |
-| 78 | [Victoria's Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:55 |
+| 78 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
 | 79 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
 | 80 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
 

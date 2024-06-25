@@ -4,7 +4,7 @@
 
 > ¡Empezó el verano!  El soundtrack del verano 2024 🏝️ Cover: KAROL G
 
-329 songs - 17 hr 55 min
+330 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Jangueo](https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [LOST](https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK) | 4:19 | 2022-07-25 | 2023-03-29 |
 | [Jangueo](https://open.spotify.com/track/5m3jpKkgkfoMcym1qjToFg) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [LOST](https://open.spotify.com/album/0owN7Uk2MRirowjo9PQv14) | 4:19 | 2021-11-10 | 2022-07-29 |
 | [K alegría](https://open.spotify.com/track/4FvJysAX0y4TfHE9CIprrx) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [K alegría](https://open.spotify.com/album/3Mi6EemjGymbATLNPisFee) | 2:39 | 2022-12-30 | 2023-03-29 |
-| [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 | 2024-04-11 |  |
+| [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 | 2024-04-11 | 2024-06-25 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-08-23 | 2024-04-06 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-11-10 | 2022-06-15 |
 | [LA BABY](https://open.spotify.com/track/0hDE81j4N2DPLbEY4tiCDs) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:02 | 2023-08-04 | 2024-06-01 |
@@ -225,6 +225,7 @@
 | [OJITOS ROJOS](https://open.spotify.com/track/2no3AeFeRxHhoY7lJ9X4bM) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:41 | 2023-08-16 | 2023-09-01 |
 | [OJOS FERRARI](https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:00 | 2023-03-28 | 2023-05-08 |
 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-04-26 |  |
+| [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-06-24 |  |
 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 | 2021-11-10 | 2023-06-09 |
 | [Otro Trago \- Remix](https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Otro Trago \(Remix\)](https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1) | 4:47 | 2021-11-10 | 2023-08-17 |
 | [pa quererte](https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [pa quererte](https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3) | 2:47 | 2023-03-28 | 2023-08-17 |

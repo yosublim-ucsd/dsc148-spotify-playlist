@@ -2,7 +2,7 @@
 
 ### [This Is Avenged Sevenfold](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09Ahq0)
 
-> This is Avenged Sevenfold\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
 70 songs - 6 hr 20 min
 
@@ -22,13 +22,13 @@
 | [Chapter Four](https://open.spotify.com/track/4ORgqa0GOafXbApy6S8FpJ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 5:42 | 2022-05-30 |  |
 | [Coming Home](https://open.spotify.com/track/3vYP5IgBfHv9nWbNhTq3IS) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 6:25 | 2022-05-30 |  |
 | [Cosmic](https://open.spotify.com/track/1xA87lWGnZlIjG8tw4327F) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 7:31 | 2023-06-03 |  |
-| [Crimson Day](https://open.spotify.com/track/28JSZ4KyzDXnnC2XnJX1db) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:57 | 2024-05-20 | 2024-05-29 |
+| [Crimson Day](https://open.spotify.com/track/28JSZ4KyzDXnnC2XnJX1db) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:57 | 2024-05-20 |  |
 | [Critical Acclaim](https://open.spotify.com/track/4VymMhILk4DSwghPkLUPVS) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:15 | 2022-05-30 |  |
 | [Crossroads](https://open.spotify.com/track/4Oq241mV2LEcQsfXQPOfZe) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:30 | 2022-05-30 |  |
 | [Dancing Dead](https://open.spotify.com/track/42oDn8qC9g7DAAwjR3MAQt) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 5:51 | 2022-05-30 |  |
 | [Danger Line](https://open.spotify.com/track/5mbXd14GteojYPpciTLYDk) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/1kZNgA27ewArSfE17yog8U) | 5:28 | 2023-10-04 |  |
 | [Danger Line](https://open.spotify.com/track/7pS3O75hJnthHr64tlpqPn) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 5:28 | 2022-05-30 | 2023-10-05 |
-| [Dear God](https://open.spotify.com/track/2FML7gk7ac6quGFIjvkDb3) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 6:33 | 2022-05-30 |  |
+| [Dear God](https://open.spotify.com/track/2FML7gk7ac6quGFIjvkDb3) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 6:33 | 2022-05-30 | 2024-06-25 |
 | [Desecrate Through Reverence](https://open.spotify.com/track/2CtlenYH17sZ8Mzg9tgT1K) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 5:38 | 2022-06-25 | 2023-06-07 |
 | [Doing Time](https://open.spotify.com/track/4OyfdJiHM6sbfkFmRLrygg) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 3:25 | 2022-05-30 |  |
 | [Easier](https://open.spotify.com/track/6qXVuEYcL6M4Yc1zyY5F8D) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:37 | 2023-06-03 | 2023-06-18 |
@@ -39,7 +39,7 @@
 | [God Damn](https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage](https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko) | 3:41 | 2022-08-27 |  |
 | [God Damn](https://open.spotify.com/track/5uZf5fcY88UMoJtCRbSDKg) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 3:41 | 2022-05-30 | 2022-08-28 |
 | [Gunslinger](https://open.spotify.com/track/7MOQrtXMNImAq5TrPZzC0w) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 4:11 | 2022-05-30 |  |
-| [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2022-05-30 |  |
+| [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2022-05-30 | 2024-06-25 |
 | [Heretic](https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:55 | 2022-05-30 |  |
 | [I Won't See You Tonight Part 1](https://open.spotify.com/track/67w1cb9ESAnCGJkC9hW2nO) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 8:58 | 2022-05-30 |  |
 | [Linewleum \(feat\. Avenged Sevenfold\)](https://open.spotify.com/track/0LIfpDM2OVNy2acS0aghJi) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ), [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Single Album](https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL) | 3:19 | 2022-10-12 | 2023-05-23 |
@@ -57,7 +57,7 @@
 | [Remenissions](https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 6:06 | 2022-05-30 |  |
 | [Roman Sky](https://open.spotify.com/track/5QAYgWH077T3F8kAcVtQs7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 5:00 | 2022-05-30 | 2023-06-04 |
 | [Save Me](https://open.spotify.com/track/53jogSv23P6DFcOHcZrDs9) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 10:56 | 2024-06-01 | 2024-06-23 |
-| [Scream](https://open.spotify.com/track/297d7PwfSFHQXCjqqDXQT2) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 4:48 | 2022-11-18 | 2024-06-22 |
+| [Scream](https://open.spotify.com/track/297d7PwfSFHQXCjqqDXQT2) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 4:48 | 2022-11-18 |  |
 | [Second Heartbeat](https://open.spotify.com/track/3hmX5dfwY9oRIpJKvt755u) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 7:00 | 2022-05-30 |  |
 | [Seize the Day](https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:34 | 2022-05-30 |  |
 | [Set Me Free](https://open.spotify.com/track/2IrdmiRatVE5s3l2YRcIXH) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Set Me Free](https://open.spotify.com/album/0QKfHcNAjUqQo6PyQrGPk9) | 6:21 | 2022-05-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: BUS
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,200 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,235 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

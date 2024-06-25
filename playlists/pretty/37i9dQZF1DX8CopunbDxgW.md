@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Mura Masa
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,181 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,193 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 3 | [Feel](https://open.spotify.com/track/2VhiDHhgFx6hKhgGB6sRLH) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 03 + 04](https://open.spotify.com/album/43YlByO8C1Fh1E9ziG1BbW) | 3:15 |
 | 4 | [What Love Is](https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS) | 3:40 |
 | 5 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
-| 6 | [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 |
+| 6 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
 | 7 | [Somethin Bout You \(feat\. Betsy\)](https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Betsy](https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp) | [Somethin Bout You \(feat\. Betsy\)](https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy) | 3:35 |
 | 8 | [treat me right \(with fuii\)](https://open.spotify.com/track/1OqQjAd8jXuqQsfdsiDzxD) | [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X), [fuii](https://open.spotify.com/artist/5ENnOdDG0bUbY4GCQP1pkj) | [treat me right \(with fuii\)](https://open.spotify.com/album/4bp2C0Dra6KZcn6FIbNWKT) | 2:01 |
 | 9 | [luv stuck](https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Sleepwalker](https://open.spotify.com/track/4yMlRQSTRQCzU8cUdQ8Bw1) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Sleepwalker](https://open.spotify.com/album/75iz2e1Ak9AEQUpOcIiaZ7) | 3:31 |
 | 100 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 |
 
-Snapshot ID: `ZnT6wAAAAADFJiUZgYwrqR2Kyku8FJRl`
+Snapshot ID: `ZnlvOgAAAACE+kO0EoquWASjjjLbVi5V`

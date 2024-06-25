@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15JKV0q7shD.md) - [plain]
 
 > Those quintessential sad songs that everyone knows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,574 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,646 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15JKV0q7shD.md) - [plain]
 | 64 | [I Know It's Over \- 2011 Remaster](https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 5:49 |
 | 65 | [Weak](https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:51 |
 | 66 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
-| 67 | [A Drop in the Ocean](https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [The Bedroom Demos](https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm) | 3:40 |
-| 68 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
+| 67 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 |
+| 68 | [A Drop in the Ocean](https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [The Bedroom Demos](https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm) | 3:40 |
 | 69 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
 | 70 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
 | 71 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 |

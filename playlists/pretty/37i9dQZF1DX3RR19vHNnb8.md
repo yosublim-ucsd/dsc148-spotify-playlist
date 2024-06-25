@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,383 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,401 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 38 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 |
 | 39 | [Egberi](https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Egberi](https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP) | 2:19 |
 | 40 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 |
-| 41 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 |
-| 42 | [Shame On You](https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shame On You](https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e) | 3:06 |
+| 41 | [Shame On You](https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shame On You](https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e) | 3:06 |
+| 42 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 |
 | 43 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 |
 | 44 | [Oppress](https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Oppress](https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4) | 3:42 |
 | 45 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uv9tZ47pWo.md) - [plain]
 
 > It's all about the girls tonight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,748,927 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,748,753 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uv9tZ47pWo.md) - [plain]
 | 53 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 54 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 55 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 |
-| 56 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
-| 57 | [Promises \(with Sam Smith\)](https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Promises \(with Sam Smith\)](https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1) | 3:33 |
+| 56 | [Promises \(with Sam Smith\)](https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Promises \(with Sam Smith\)](https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1) | 3:33 |
+| 57 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
 | 58 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 |
 | 59 | [All About That Bass](https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:07 |
 | 60 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 |

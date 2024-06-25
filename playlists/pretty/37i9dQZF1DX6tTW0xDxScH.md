@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,611 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,635 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 72 | [Tres Hermanos \[Feat\. Dan Auerbach\]](https://open.spotify.com/track/7CiBrNzJrRDCx0viAECy3e) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb) | 3:21 |
 | 73 | [I'm Loving Nothing](https://open.spotify.com/track/7bJ4yFd2JPJfxrpbJXPeRC) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [This Is My Country](https://open.spotify.com/album/1kKPH6oqlh9iPP3uAQhb68) | 2:31 |
 | 74 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
-| 75 | [Shit I'm Dreaming](https://open.spotify.com/track/1gNPP8TazAPuvq6R8oxxnU) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 6:22 |
-| 76 | [Misty](https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:54 |
+| 75 | [Misty](https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:54 |
+| 76 | [Shit I'm Dreaming](https://open.spotify.com/track/1gNPP8TazAPuvq6R8oxxnU) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 6:22 |
 | 77 | [Two Trees](https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Addicted To You](https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r) | 4:10 |
 | 78 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 |
 | 79 | [Baby Where You Are](https://open.spotify.com/track/7tZwFmarYtM2Yxy8IRW8wb) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Magic Ship](https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83) | 2:49 |
@@ -92,16 +92,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 82 | [How many miles](https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:21 |
 | 83 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 |
 | 84 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 |
-| 85 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
-| 86 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 |
+| 85 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 |
+| 86 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
 | 87 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 |
 | 88 | [It Is So Nice to Get Stoned](https://open.spotify.com/track/7xZOeV9Pa6SxH487LEoRxO) | [Ted Lucas](https://open.spotify.com/artist/6Ej6u8fvyHFFKn5GaQ5cPn) | [Ted Lucas](https://open.spotify.com/album/2CEQedK1AH7F8zcYM7o0Yd) | 4:21 |
 | 89 | [concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 |
 | 90 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 |
 | 91 | [love is a black hole !](https://open.spotify.com/track/28cQ6woa2DeOICa4Qefaje) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [love is a black hole !](https://open.spotify.com/album/16d3wulra6dX9bVyENqGPU) | 3:29 |
 | 92 | [Lightning Of July](https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Lightning Of July](https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG) | 2:56 |
-| 93 | [Drift Away](https://open.spotify.com/track/6PhqFutjkq3tzchjqS5nF7) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [Dream Nation](https://open.spotify.com/album/2bJ8k4Qe5vmC7uEBJ1sgOV) | 3:59 |
-| 94 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
+| 93 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
+| 94 | [Drift Away](https://open.spotify.com/track/6PhqFutjkq3tzchjqS5nF7) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [Dream Nation](https://open.spotify.com/album/2bJ8k4Qe5vmC7uEBJ1sgOV) | 3:59 |
 | 95 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 |
 | 96 | [Jaywalker](https://open.spotify.com/track/2o8dpWlhalYijwqFQloIQI) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wilds](https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG) | 3:12 |
 | 97 | [Timing](https://open.spotify.com/track/21i3EJ8BUOtxtGMuD3UH8Z) | [Alisa Amador](https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t) | [Timing](https://open.spotify.com/album/2ir7m3wyTiUiP0vksnZT0p) | 3:34 |

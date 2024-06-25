@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,982 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,197 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:38 |
-| 2 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
-| 3 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 |
+| 2 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 |
+| 3 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
 | 4 | [Bam Bam](https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e) | 3:16 |
 | 5 | [You Don't Love Me \(No, No, No\) \- Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [No, No, No](https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU) | 4:37 |
 | 6 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Joaquina en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,147 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,169 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 34 | [Alguien Me Espera en Madrid](https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 2:55 |
 | 35 | [quiero estar contigo](https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [quiero estar contigo](https://open.spotify.com/album/7rnkMAuBAjIrYp9wPJJeVD) | 3:36 |
 | 36 | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl) | 3:46 |
-| 37 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 |
-| 38 | [El Cielo Aún Espera](https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Cielo Aún Espera](https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV) | 3:53 |
+| 37 | [El Cielo Aún Espera](https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Cielo Aún Espera](https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV) | 3:53 |
+| 38 | [Subtítulos](https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:12 |
 | 39 | [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 |
 | 40 | [Wacha Checa](https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Wacha Checa](https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY) | 3:37 |
 | 41 | [Tuvimos Futuro](https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tuvimos Futuro](https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k) | 3:31 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 69 | [cómo acaba](https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G) | 3:44 |
 | 70 | [ojalá </3](https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [ojalá </3](https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes) | 2:51 |
 | 71 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 |
-| 72 | [Por Un Amor](https://open.spotify.com/track/60qAecYHQPoTj7NfpMoldU) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS) | 2:49 |
-| 73 | [Algo Mejor](https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT) | 2:33 |
+| 72 | [Algo Mejor](https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT) | 2:33 |
+| 73 | [Por Un Amor](https://open.spotify.com/track/60qAecYHQPoTj7NfpMoldU) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS) | 2:49 |
 | 74 | [El Mundo](https://open.spotify.com/track/5NGkOQpMzneM26Pr0a77uB) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [El Mundo](https://open.spotify.com/album/5AsvysZbjrV75p09twLnFC) | 3:30 |
 | 75 | [Bonita](https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Bonita](https://open.spotify.com/album/4ZDmqaDuuRIRKG8e05LzuT) | 2:54 |
 

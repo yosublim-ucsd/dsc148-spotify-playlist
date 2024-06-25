@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,934 likes - 60 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,951 likes - 60 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Umbrella](https://open.spotify.com/track/7jitSubqkCwYHDlKX5xHn0) | [The Baseballs](https://open.spotify.com/artist/3Ek1EdkcbRFvSDJj9j5JXQ) | [Strike!](https://open.spotify.com/album/78rZdymvhwKEaFdavjUnca) | 3:07 |
+| 1 | [Rip It Up](https://open.spotify.com/track/242E7zj2wWWegVlurGpaVz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis](https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ) | 1:52 |
 | 2 | [Great Balls Of Fire](https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Jerry Lee's Greatest](https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj) | 1:51 |
 | 3 | [Rock Boys Rock](https://open.spotify.com/track/1kmzGIQMww5hImFv2EIK3S) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [The Devil Always Collects](https://open.spotify.com/album/4J6COYcrjg1QSpRZpedmnZ) | 3:05 |
-| 4 | [Rip It Up](https://open.spotify.com/track/242E7zj2wWWegVlurGpaVz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis](https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ) | 1:52 |
+| 4 | [Umbrella](https://open.spotify.com/track/7jitSubqkCwYHDlKX5xHn0) | [The Baseballs](https://open.spotify.com/artist/3Ek1EdkcbRFvSDJj9j5JXQ) | [Strike!](https://open.spotify.com/album/78rZdymvhwKEaFdavjUnca) | 3:07 |
 | 5 | [Party Doll](https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW) | [Buddy Knox](https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb) | [Buddy Knox](https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc) | 2:15 |
 | 6 | [Matchbox](https://open.spotify.com/track/3qz0e03PIaalwcCGwaJHMs) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:07 |
 | 7 | [Rockabilly Rebel](https://open.spotify.com/track/47fBL9Hqjq2kFIrg8c1wQi) | [Matchbox](https://open.spotify.com/artist/1TZLeOYelnAiEkOJnofWrj) | [The Platinum Collection](https://open.spotify.com/album/2UG7OjoH8G3MILkrOYXyCN) | 2:47 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 24 | [Back In The USA](https://open.spotify.com/track/4Znz9jKTkZvCzW6CkBIhHK) | [Albert Lee & Hogan's Heroes](https://open.spotify.com/artist/2UnEg92EHEZyIfVYTkAl4H) | [Tear It Up](https://open.spotify.com/album/45gM7iiWC2Fd93IInjtCQK) | 3:23 |
 | 25 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
 | 26 | [Rockabilly Rebel](https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT) | [Hillbilly Hellcats](https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB) | [Our Brand](https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz) | 2:29 |
-| 27 | [Promised Land](https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Promised Land](https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo) | 3:08 |
-| 28 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
+| 27 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
+| 28 | [Promised Land](https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Promised Land](https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo) | 3:08 |
 | 29 | [Another Sunday Morning](https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0) | [Black Raven](https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784) | [Rock In Threes!](https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD) | 2:40 |
 | 30 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
 | 31 | [Hip Shakin' Baby](https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Rock & Roll Is Everywhere](https://open.spotify.com/album/74UQcWKIYIRoZHGjczEXvU) | 2:09 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 33 | [My Little Sister Gotta Motorbike](https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY) | [Crazy Cavan](https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv), [The Rhythm Rockers](https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat) | [Our Own Way Of Rockin'](https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO) | 2:45 |
 | 34 | [Wild One](https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Rockabilly Portrait](https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse) | 1:49 |
 | 35 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 |
-| 36 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 |
-| 37 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |
+| 36 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |
+| 37 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 |
 | 38 | [Drinking Wine Spo\-Dee\-O\-Dee \- Single Version](https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:12 |
 | 39 | [King Of Love](https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [The Best Of The EMI Years](https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90) | 3:09 |
 | 40 | [Jungle Rock](https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Windy City Bop \- Chicago Rockabilly 1945\-1958](https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N) | 2:46 |

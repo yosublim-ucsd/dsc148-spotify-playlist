@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: JEON SOMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,840 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,857 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 65 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 |
 | 66 | [Butterfly](https://open.spotify.com/track/3bjg5cbmuwDoS7e2dAWyRG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD) | 3:58 |
 | 67 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 |
-| 68 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 |
-| 69 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
+| 68 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
+| 69 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 |
 | 70 | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) | [WONWOO](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt), [MINGYU](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Bittersweet \(feat\. LeeHi\)](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) | 2:54 |
 
 Snapshot ID: `ZadJjgAAAAAPG1TKRfG9h5CLWtYo1UJa`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,552,788 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,552,893 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 68 | [Oblivion](https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Oblivion](https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza) | 3:14 |
 | 69 | [IT MIGHT BE THE DRUGS](https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [IT MIGHT BE THE DRUGS](https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V) | 3:39 |
 | 70 | [Dance Is The Answer \(feat\. Raja Ram\)](https://open.spotify.com/track/56rqKeuhAVv2E6RK5BifIS) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1), [Raja Ram](https://open.spotify.com/artist/5jBTxtjj3Y3cDgoqWbFJxy) | [Dance Is The Answer \(feat\. Raja Ram\)](https://open.spotify.com/album/0mdXH0pJA8KKW8abGrS3o8) | 5:29 |
-| 71 | [Heartbeat](https://open.spotify.com/track/6autWijbEdpktfTNI5fkx5) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Heartbeat](https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1) | 3:01 |
-| 72 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 |
+| 71 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 |
+| 72 | [Heartbeat](https://open.spotify.com/track/6autWijbEdpktfTNI5fkx5) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Heartbeat](https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1) | 3:01 |
 | 73 | [Age of Love \- ARTBAT Rave Mix](https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB) | [Age of Love \(ARTBAT Rave Mix\)](https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK) | 7:25 |
 | 74 | [Losing Control \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Losing Control \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF) | 3:29 |
 | 75 | [Falling in Love](https://open.spotify.com/track/4dmFo5VmijuePqQqgHvLHa) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Leyla Diamondi](https://open.spotify.com/artist/0Ic8NW2XnSVcTwkrM6eLyw) | [Falling in Love](https://open.spotify.com/album/2Is9HWB1MtmHQUFkDIOGFt) | 3:37 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 93 | [Rapture](https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Rapture \(with Robert Falcon\)](https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB) | 3:07 |
 | 94 | [Surrender](https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Surrender](https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT) | 2:27 |
 | 95 | [Desire](https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Desire](https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR) | 4:05 |
-| 96 | [Take Me Home](https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Take Me Home](https://open.spotify.com/album/591dja1K2VghhGHhGw8adX) | 3:08 |
-| 97 | [Freyja](https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Freyja](https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM) | 3:49 |
+| 96 | [Freyja](https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Freyja](https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM) | 3:49 |
+| 97 | [On My Way](https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [REDUX 006](https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE) | 4:15 |
 | 98 | [Rave](https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Rave](https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG) | 4:48 |
-| 99 | [On My Way](https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [REDUX 006](https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE) | 4:15 |
+| 99 | [Take Me Home](https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Take Me Home](https://open.spotify.com/album/591dja1K2VghhGHhGw8adX) | 3:08 |
 | 100 | [Little Darling \- Joris Voorn Remix](https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Little Darling \(Joris Voorn Remix\)](https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU) | 3:20 |
 
 Snapshot ID: `ZnT6wAAAAAAohkB51b2KYV+qb+2LG7Hp`

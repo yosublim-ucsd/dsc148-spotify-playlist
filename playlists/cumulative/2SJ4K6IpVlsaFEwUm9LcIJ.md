@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-201 songs - 10 hr 19 min
+204 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [R&B](https://open.spotify.com/track/3LtQtMTElsBhQQl1Oe2WVv) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [R&B](https://open.spotify.com/album/3GtGp6gTuR28nRXbJmkmPj) | 1:49 | 2024-03-13 | 2024-03-21 |
 | [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 | 2024-05-16 |  |
 | [Sad Eyes \- Studio Outtake \- 1990](https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:47 | 2024-05-16 |  |
+| [SAME THING](https://open.spotify.com/track/5z3s5KcMf7rIItfjGJoWqF) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [SAME THING](https://open.spotify.com/album/11Fi8BwZJ7bb9U5a37VM6x) | 1:49 | 2024-06-24 |  |
 | [Sandhills](https://open.spotify.com/track/6dBkJ5LGEm5oaR3CxAR7yg) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:15 | 2024-04-27 | 2024-05-16 |
 | [Secret Teardrops](https://open.spotify.com/track/03Mh2iAAdKKREZTe8rWbbT) | [Martin Rev](https://open.spotify.com/artist/4zDG2kkm3SmF383uO3Hgo8) | [See Me Ridin'](https://open.spotify.com/album/6i384rUguMYCULZXA3qsaV) | 2:42 | 2024-05-16 |  |
 | [She's the One](https://open.spotify.com/track/4inw6roamzcaRD8v15Y0bu) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 3:09 | 2024-05-30 |  |
@@ -180,6 +181,7 @@
 | [Sua Estupidez \- Live From Teatro Tereza Raquel, Brazil/1971](https://open.spotify.com/track/3iSu4JLVjeeCMr7AIxNksR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/2cA8Oru1aDKbFaY6hBIg7X) | 3:49 | 2024-02-20 | 2024-03-10 |
 | [Sunever](https://open.spotify.com/track/3LcrOjz8o01T5NXcek4GiO) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Sunever](https://open.spotify.com/album/3rxbrVySwORaBSgpeMMjQg) | 2:40 | 2024-06-03 |  |
 | [Sunny](https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 1:46 | 2024-05-16 |  |
+| [Take Refuge](https://open.spotify.com/track/16PM5R7DFzNFaCyIrTIVCq) | [Webster Harrod](https://open.spotify.com/artist/7yleLfgpIXZy8KptsfpbTr) | [Keep Breathing](https://open.spotify.com/album/6O3JyH7T2a51bIWAE3ZI4x) | 1:58 | 2024-06-24 |  |
 | [Tape 27 Track 5](https://open.spotify.com/track/4yDWhQvxgjHElaMgdELmZx) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH) | [The Electronic Tapes \(Habibi Funk 005\)](https://open.spotify.com/album/7x2uLqFMqaviXJ3sf4E01J) | 1:38 | 2024-01-08 | 2024-03-10 |
 | [Target](https://open.spotify.com/track/0pC0qIpSTvptjrCSg0p9Gq) | [Rui Gabriel](https://open.spotify.com/artist/1LhAwMWCGYmplvmnZmvoDz), [Kate Teague](https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T) | [Target](https://open.spotify.com/album/3ZbLs2qH6lDnDbEnNmsYYv) | 4:59 | 2024-02-23 | 2024-03-10 |
 | [Tbtf](https://open.spotify.com/track/7Dha5Jw4EVQbFHe58pJ5AU) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Spirit If...](https://open.spotify.com/album/0MtuWHjHXAEwWimsMuEtZf) | 3:51 | 2024-06-17 |  |
@@ -189,6 +191,7 @@
 | [The Farmer](https://open.spotify.com/track/540dXWvRAQjXmg4gvhjxET) | [The Good Ones](https://open.spotify.com/artist/7rIF4gQrWPRDL020SG2eKD) | [RWANDA, you should be loved](https://open.spotify.com/album/35TaKsgwSCeVEH7Zq8fsfG) | 2:43 | 2024-02-27 | 2024-03-10 |
 | [The Fashion Focus](https://open.spotify.com/track/26Aw0QpMFdxghsuyRsPwGA) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [The Fashion Focus](https://open.spotify.com/album/76Rz3IYqdw3QXTagF14gB6) | 3:16 | 2024-06-03 |  |
 | [The Kindness of Strangers](https://open.spotify.com/track/3oKX2xnyyWbkXFPWkL7ncF) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:26 | 2024-04-04 | 2024-05-16 |
+| [The Only One](https://open.spotify.com/track/2XItbN0HfeLpDamJzeQLqQ) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:15 | 2024-06-24 |  |
 | [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 | 2024-06-02 | 2024-06-03 |
 | [The Sweetest Gift](https://open.spotify.com/track/6r9jhN0mryXMDKIol3XhO8) | [Sulah Jordan](https://open.spotify.com/artist/2g57r5gsJqgHbLSJ21yy1o) | [The Sweetest Gift](https://open.spotify.com/album/3EaNsumSSiHJvXIN371vuA) | 3:33 | 2024-05-26 |  |
 | [Three\-Swept](https://open.spotify.com/track/5Q4epL7kp8e5Ynfw4746tn) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx), [Simon Raymonde](https://open.spotify.com/artist/31eiHDLnkVg1fEezZihdfQ) | [Lullabies To Violaine \- Volume 2](https://open.spotify.com/album/6yrVgxDtLcJT6fiLHz4rLh) | 3:37 | 2024-06-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=\-ew7kaC0Qb\-1Bg\-Jy81NUw">Spoegwolf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,659 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,671 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 19 | [Voel Jy Dit?](https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Voel Jy Dit?](https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7) | 2:51 |
 | 20 | [Like You Madly](https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9) | [Just Jinger](https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo) | [All Comes Round 20th Anniversary Edition](https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X) | 3:36 |
 | 21 | [Terapie Vir Nou](https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Terapie Vir Nou](https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN) | 3:38 |
-| 22 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
-| 23 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
+| 22 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
+| 23 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
 | 24 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
 | 25 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
 | 26 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 41 | [Sindikaat](https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs) | [éF\-éL](https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka) | [Net Om Die Geraas In Te Asem](https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65) | 2:21 |
 | 42 | [Wees Net Beter](https://open.spotify.com/track/3SMun4H8Fy86MLw2jgUZBu) | [Janis Kelber](https://open.spotify.com/artist/5r6vYX5N7yykrz95gWj3WS) | [Wees Net Beter](https://open.spotify.com/album/0eGLX2V8HCU77UB8sQRmuk) | 3:24 |
 | 43 | [Naïef](https://open.spotify.com/track/4d54vmCXTZZ65sOJz7lerr) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Naïef](https://open.spotify.com/album/4bzRnIR8DeBaML62OWNQNK) | 3:16 |
-| 44 | [Humbled](https://open.spotify.com/track/4AAz7vj9lUna9VaLtD1tPa) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Movin' On](https://open.spotify.com/album/6yBrUpkCyj8VTCM1qH87VQ) | 4:55 |
+| 44 | [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 |
 | 45 | [This Town](https://open.spotify.com/track/3I6RQjbPm767x1SfvTL1GY) | [Watershed](https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW) | [This Town](https://open.spotify.com/album/5XyLb6Wq8vR3v9fYQhI6ri) | 4:33 |
-| 46 | [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 |
+| 46 | [Humbled](https://open.spotify.com/track/4AAz7vj9lUna9VaLtD1tPa) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Movin' On](https://open.spotify.com/album/6yBrUpkCyj8VTCM1qH87VQ) | 4:55 |
 | 47 | [Die Lig](https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r) | [Die Eindste](https://open.spotify.com/artist/6gqvpFp2YBWmoPR5LURl3k), [Danie Reënwolf](https://open.spotify.com/artist/7vvYumgXzUPBNnwXtajb08) | [Die Lig](https://open.spotify.com/album/1pqLIYA4P2uh9oJWUe9tRk) | 5:17 |
-| 48 | [Jonk & Danig](https://open.spotify.com/track/1rsjh2em6b9KD4wgJV2sTw) | [Vivien Redelinghuys](https://open.spotify.com/artist/2rd9K2tLcdJwW0Ub1UEiES) | [Jonk & Danig](https://open.spotify.com/album/74SaMFCbSWIPm3Y5CIOUAp) | 3:17 |
-| 49 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 |
+| 48 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 |
+| 49 | [Jonk & Danig](https://open.spotify.com/track/1rsjh2em6b9KD4wgJV2sTw) | [Vivien Redelinghuys](https://open.spotify.com/artist/2rd9K2tLcdJwW0Ub1UEiES) | [Jonk & Danig](https://open.spotify.com/album/74SaMFCbSWIPm3Y5CIOUAp) | 3:17 |
 | 50 | [O, My Donner](https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hanu De Jong](https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs) | [O, My Donner](https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw) | 2:52 |
 
 Snapshot ID: `Zmv41wAAAACXRX5cMAZPlDjNp/+JXN6K`

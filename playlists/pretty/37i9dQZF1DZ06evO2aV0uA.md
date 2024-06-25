@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 ### [This Is Lamb of God](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aV0uA)
 
-> This is Lamb of God\. The essential tracks, all in one playlist.
+> This Is Lamb of God\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,013 likes - 51 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,041 likes - 51 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 25 | [Vanishing](https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 4:48 |
 | 26 | [Again We Rise](https://open.spotify.com/track/5wYpug3WCxliMt9WDa8WvU) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 4:30 |
 | 27 | [Gears](https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 3:55 |
-| 28 | [Evidence](https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Evidence](https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh) | 3:50 |
+| 28 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
 | 29 | [Grayscale](https://open.spotify.com/track/2Uyda5UuQnxkdYkECw3F8C) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:59 |
-| 30 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
+| 30 | [Pathetic](https://open.spotify.com/track/4MdcRxTOezZq9z292jCwjJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 4:31 |
 | 31 | [Checkmate](https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:30 |
-| 32 | [Pathetic](https://open.spotify.com/track/4MdcRxTOezZq9z292jCwjJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 4:31 |
+| 32 | [Evidence](https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Evidence](https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh) | 3:50 |
 | 33 | [To The Grave](https://open.spotify.com/track/6Q88Xw5D2syb9X5rZd3TLz) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:43 |
 | 34 | [Dead Seeds](https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:41 |
 | 35 | [Resurrection Man](https://open.spotify.com/track/53xXTqz8QfadLsXbs411si) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:59 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 50 | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/album/6BJrJlkffGEpipjY9OFq6t) | 3:43 |
 | 51 | [Straight For The Sun](https://open.spotify.com/track/7cqj8hfthKgGLy4cupPCGr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 2:26 |
 
-Snapshot ID: `ZnYUAAAAAABBOLpAg6k/DpTCv3Vmccwt`
+Snapshot ID: `ZndlgAAAAADksihjlFHGVEJepOIn/vp3`

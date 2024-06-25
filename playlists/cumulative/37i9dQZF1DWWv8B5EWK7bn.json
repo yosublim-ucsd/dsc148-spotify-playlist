@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Los manantiales",
+        "url": "https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o"
+      },
+      "artists": [
+        {
+          "name": "Daga Voladora",
+          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161132,
+      "name": "Catedral",
+      "url": "https://open.spotify.com/track/3sRMZ7WnXCpRZBAH8nMcSz"
+    },
+    {
+      "album": {
         "name": "Time Skiffs",
         "url": "https://open.spotify.com/album/6GfYRMD52msi3dHjnGpOWv"
       },
@@ -6052,7 +6070,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 265815,
       "name": "Station to Station",
       "url": "https://open.spotify.com/track/6vJ66cRJ3KSQz6Bu3kP6z5"

@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Rolling Quartz(\ub864\ub9c1\ucffc\uce20)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 238037,
+  "num_followers": 237997,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-06-19 06:17:18",
       "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 160001,
-      "name": "Good Bones",
-      "url": "https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC"
-    },
-    {
-      "added_at": "2024-06-19 06:17:18",
-      "album": {
         "name": "SEVENTEEN 9th Mini Album 'Attacca'",
         "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 190120,
       "name": "2 MINUS 1 (Bonus Track)",
       "url": "https://open.spotify.com/track/6o2Pu5qZcinw4mlDlQZFqu"
+    },
+    {
+      "added_at": "2024-06-19 06:17:18",
+      "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 160001,
+      "name": "Good Bones",
+      "url": "https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC"
     },
     {
       "added_at": "2024-06-19 06:17:18",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-06-19 06:17:18",
       "album": {
-        "name": "[Apocalypse : From us]",
-        "url": "https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 213506,
-      "name": "BONVOYAGE",
-      "url": "https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe"
-    },
-    {
-      "added_at": "2024-06-19 06:17:18",
-      "album": {
         "name": "Open \u266deta v6.1",
         "url": "https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 194784,
       "name": "Boy Comics",
       "url": "https://open.spotify.com/track/50yqgMpBLVqqKJsSxcFfbE"
+    },
+    {
+      "added_at": "2024-06-19 06:17:18",
+      "album": {
+        "name": "[Apocalypse : From us]",
+        "url": "https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 213506,
+      "name": "BONVOYAGE",
+      "url": "https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe"
     },
     {
       "added_at": "2024-06-19 06:17:18",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-06-19 06:17:18",
       "album": {
-        "name": "Golden Hour - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
-      },
-      "artists": [
-        {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        }
-      ],
-      "duration_ms": 199621,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY"
-    },
-    {
-      "added_at": "2024-06-19 06:17:18",
-      "album": {
         "name": "minisode1 : Blue Hour",
         "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2024-06-19 06:17:18",
       "album": {
-        "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
-        "url": "https://open.spotify.com/album/4FudYqKUtMfgsd8hUaaR3c"
+        "name": "Golden Hour - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
       },
       "artists": [
         {
-          "name": "PARK BYEONG HOON",
-          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
         }
       ],
-      "duration_ms": 193502,
-      "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
-      "url": "https://open.spotify.com/track/5RETcV4t3ryURJaRdRU3P6"
+      "duration_ms": 199621,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY"
     },
     {
       "added_at": "2024-06-19 06:17:18",
@@ -1303,6 +1287,22 @@
       "duration_ms": 201280,
       "name": "Gradation",
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "added_at": "2024-06-19 06:17:18",
+      "album": {
+        "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
+        "url": "https://open.spotify.com/album/4FudYqKUtMfgsd8hUaaR3c"
+      },
+      "artists": [
+        {
+          "name": "PARK BYEONG HOON",
+          "url": "https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2"
+        }
+      ],
+      "duration_ms": 193502,
+      "name": "Black Sorrow (Original Soundtrack from VIVINOS 'Alien Stage', Pt. 4)",
+      "url": "https://open.spotify.com/track/5RETcV4t3ryURJaRdRU3P6"
     },
     {
       "added_at": "2024-06-19 06:17:18",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-06-19 06:17:18",
       "album": {
-        "name": "Peanut Butter & Tears",
-        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Peanut Butter & Tears",
-      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
-    },
-    {
-      "added_at": "2024-06-19 06:17:18",
-      "album": {
         "name": "Once in a BLUE MOON",
         "url": "https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 215093,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv"
+    },
+    {
+      "added_at": "2024-06-19 06:17:18",
+      "album": {
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
     },
     {
       "added_at": "2024-06-19 06:17:18",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-06-19 06:17:18",
       "album": {
+        "name": "Pok\u00e9mon 2023 (Original TV Series Soundtrack, Korea)",
+        "url": "https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 188532,
+      "name": "We Go",
+      "url": "https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ"
+    },
+    {
+      "added_at": "2024-06-19 06:17:18",
+      "album": {
         "name": "COLOURS",
         "url": "https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 200920,
       "name": "PLUTO",
       "url": "https://open.spotify.com/track/261HjCXIPx0G5RAR7W660r"
-    },
-    {
-      "added_at": "2024-06-19 06:17:18",
-      "album": {
-        "name": "Pok\u00e9mon 2023 (Original TV Series Soundtrack, Korea)",
-        "url": "https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 188532,
-      "name": "We Go",
-      "url": "https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ"
     },
     {
       "added_at": "2024-06-19 06:17:18",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-06-19 06:17:18",
       "album": {
-        "name": "DEAR.",
-        "url": "https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Flowering",
-      "url": "https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x"
-    },
-    {
-      "added_at": "2024-06-19 06:17:18",
-      "album": {
         "name": "ROSE",
         "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 165700,
       "name": "Goodbye (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
+    },
+    {
+      "added_at": "2024-06-19 06:17:18",
+      "album": {
+        "name": "DEAR.",
+        "url": "https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Flowering",
+      "url": "https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x"
     },
     {
       "added_at": "2024-06-19 06:17:18",

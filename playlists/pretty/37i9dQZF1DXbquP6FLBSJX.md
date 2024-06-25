@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 
 > Unwind in time to these 70s classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,283 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,293 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbquP6FLBSJX.md) - [plain]
 | 15 | [Listen to the Music](https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Toulouse Street](https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm) | 3:47 |
 | 16 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
 | 17 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
-| 18 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 |
-| 19 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
+| 18 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
+| 19 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 |
 | 20 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
 | 21 | [American Pie](https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 8:36 |
 | 22 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
-| 23 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 |
-| 24 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 |
-| 25 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
-| 26 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
-| 27 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
+| 23 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 |
+| 24 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 |
+| 25 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
+| 26 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 27 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
 | 28 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 |
 | 29 | [Heroes \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 |
 | 30 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 |

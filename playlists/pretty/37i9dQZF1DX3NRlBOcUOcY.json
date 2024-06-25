@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 442186,
+  "num_followers": 442216,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-06-21 09:18:48",
       "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
+    },
+    {
+      "added_at": "2024-06-21 09:18:48",
+      "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 157838,
       "name": "Ahi",
       "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
-    },
-    {
-      "added_at": "2024-06-21 09:18:48",
-      "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2024-06-21 09:18:48",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-06-21 09:18:48",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166406,
-      "name": "princess peach",
-      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
-    },
-    {
-      "added_at": "2024-06-21 09:18:48",
-      "album": {
         "name": "LOVEO",
         "url": "https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 173868,
       "name": "LOVEO",
       "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
+    },
+    {
+      "added_at": "2024-06-21 09:18:48",
+      "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
     },
     {
       "added_at": "2024-06-21 09:18:48",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-06-21 09:18:48",
       "album": {
-        "name": "Me Arriesgo Contigo",
-        "url": "https://open.spotify.com/album/2XaPovSW5BcxOnwRq6wdET"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Me Arriesgo Contigo",
-      "url": "https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI"
-    },
-    {
-      "added_at": "2024-06-21 09:18:48",
-      "album": {
         "name": "La Esquina del Mall",
         "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 207387,
       "name": "La Esquina del Mall",
       "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
+    },
+    {
+      "added_at": "2024-06-21 09:18:48",
+      "album": {
+        "name": "Me Arriesgo Contigo",
+        "url": "https://open.spotify.com/album/2XaPovSW5BcxOnwRq6wdET"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Me Arriesgo Contigo",
+      "url": "https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI"
     },
     {
       "added_at": "2024-06-21 09:18:48",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-06-21 09:18:48",
       "album": {
-        "name": "Tortura",
-        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "Tortura",
-      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
-    },
-    {
-      "added_at": "2024-06-21 09:18:48",
-      "album": {
         "name": "Los Cachos",
         "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 212304,
       "name": "Los Cachos",
       "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
+    },
+    {
+      "added_at": "2024-06-21 09:18:48",
+      "album": {
+        "name": "Tortura",
+        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "Tortura",
+      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
     },
     {
       "added_at": "2024-06-21 09:18:48",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-06-21 09:18:48",
       "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
+    },
+    {
+      "added_at": "2024-06-21 09:18:48",
+      "album": {
         "name": "FINAL (Vol.2)",
         "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 186366,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
-    },
-    {
-      "added_at": "2024-06-21 09:18:48",
-      "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
     },
     {
       "added_at": "2024-06-21 09:18:48",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-06-21 09:18:48",
       "album": {
-        "name": "GALA Y DAL\u00cd",
-        "url": "https://open.spotify.com/album/6Pwm0aU0x9kKrt3doES2tc"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "GALA Y DAL\u00cd",
-      "url": "https://open.spotify.com/track/2PLAm4ZgIoHJeLTrWHmO7q"
-    },
-    {
-      "added_at": "2024-06-21 09:18:48",
-      "album": {
         "name": "Hermoso Momento (Remix)",
         "url": "https://open.spotify.com/album/1LVc5DwRkYRY8mdYDklTSK"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 260424,
       "name": "Hermoso Momento (Remix)",
       "url": "https://open.spotify.com/track/19LFHmBBqJa12qBQr8kuTV"
+    },
+    {
+      "added_at": "2024-06-21 09:18:48",
+      "album": {
+        "name": "GALA Y DAL\u00cd",
+        "url": "https://open.spotify.com/album/6Pwm0aU0x9kKrt3doES2tc"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "GALA Y DAL\u00cd",
+      "url": "https://open.spotify.com/track/2PLAm4ZgIoHJeLTrWHmO7q"
     },
     {
       "added_at": "2024-06-21 09:18:48",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2024-06-21 09:18:48",
       "album": {
+        "name": "El Que Espera",
+        "url": "https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 170396,
+      "name": "El Que Espera",
+      "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
+    },
+    {
+      "added_at": "2024-06-21 09:18:48",
+      "album": {
         "name": "EL CANTANTE DEL GHETTO",
         "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 199591,
       "name": "SINCERAMENTE",
       "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
-    },
-    {
-      "added_at": "2024-06-21 09:18:48",
-      "album": {
-        "name": "El Que Espera",
-        "url": "https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 170396,
-      "name": "El Que Espera",
-      "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
     },
     {
       "added_at": "2024-06-21 09:18:48",
@@ -2111,6 +2111,26 @@
     {
       "added_at": "2024-06-21 09:18:48",
       "album": {
+        "name": "EL VIBE",
+        "url": "https://open.spotify.com/album/5spqI36OyC3hvd4NmlrhO8"
+      },
+      "artists": [
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 171552,
+      "name": "EL VIBE",
+      "url": "https://open.spotify.com/track/2FB0B97YQMCYhIuCKbaSkb"
+    },
+    {
+      "added_at": "2024-06-21 09:18:48",
+      "album": {
         "name": "Dementes",
         "url": "https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR"
       },
@@ -2159,26 +2179,6 @@
       "duration_ms": 196000,
       "name": "Anoche",
       "url": "https://open.spotify.com/track/5cVzHV40StU3nmMBMKR4n6"
-    },
-    {
-      "added_at": "2024-06-21 09:18:48",
-      "album": {
-        "name": "EL VIBE",
-        "url": "https://open.spotify.com/album/5spqI36OyC3hvd4NmlrhO8"
-      },
-      "artists": [
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 171552,
-      "name": "EL VIBE",
-      "url": "https://open.spotify.com/track/2FB0B97YQMCYhIuCKbaSkb"
     },
     {
       "added_at": "2024-06-21 09:18:48",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-06-21 09:18:48",
       "album": {
-        "name": "Te Contaron Que Me Gustas",
-        "url": "https://open.spotify.com/album/2rbP1TYKeJHsxwwCAKCGAA"
-      },
-      "artists": [
-        {
-          "name": "Tres Dedos",
-          "url": "https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "No Eres T\u00fa",
-      "url": "https://open.spotify.com/track/6pzmv5QfwQMqKQ6419UWoJ"
-    },
-    {
-      "added_at": "2024-06-21 09:18:48",
-      "album": {
         "name": "Ll\u00f3rale a tu madre",
         "url": "https://open.spotify.com/album/3npXfJD4U0DnOWADS9l11f"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 207933,
       "name": "Ll\u00f3rale a tu madre",
       "url": "https://open.spotify.com/track/2EEu4bViqpDJnd161fKA5t"
+    },
+    {
+      "added_at": "2024-06-21 09:18:48",
+      "album": {
+        "name": "Te Contaron Que Me Gustas",
+        "url": "https://open.spotify.com/album/2rbP1TYKeJHsxwwCAKCGAA"
+      },
+      "artists": [
+        {
+          "name": "Tres Dedos",
+          "url": "https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "No Eres T\u00fa",
+      "url": "https://open.spotify.com/track/6pzmv5QfwQMqKQ6419UWoJ"
     },
     {
       "added_at": "2024-06-21 09:18:48",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-192 songs - 10 hr 38 min
+193 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Hold Me](https://open.spotify.com/track/1vUZJ35SGzEtmlgb0ts81v) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [Hold Me](https://open.spotify.com/album/6qhNsO8v6k0ZYyf1BkbCCj) | 2:48 | 2023-08-11 | 2023-08-19 |
 | [Home Alone \(with Marnik\)](https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Home Alone \(with Marnik\)](https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc) | 2:08 | 2023-12-08 |  |
 | [how do you like your tea?](https://open.spotify.com/track/3srbgx3cDhxpDFEQlsb3qk) | [✧BRAINDAAMAGE✧](https://open.spotify.com/artist/0Pn6XyvS2qCahtBOwcqsNf) | [how do you like your tea?](https://open.spotify.com/album/5dcBBwqX1IVf5poUqSCiqY) | 3:58 | 2024-05-17 | 2024-05-19 |
+| [How You Move \- Edit](https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [How You Move](https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn) | 2:49 | 2024-06-21 |  |
 | [Hyperreal](https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [It's All Fiction](https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7) | 4:16 | 2023-08-11 | 2023-08-23 |
 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 | 2023-08-11 | 2023-09-28 |
 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 | 2024-06-07 |  |
@@ -109,7 +110,7 @@
 | [Metro](https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC) | 3:59 | 2024-01-05 | 2024-04-19 |
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-08-11 | 2024-01-05 |
 | [Mind Awake, Body Asleep](https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Mind Awake, Body Asleep](https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x) | 2:30 | 2024-01-26 | 2024-02-24 |
-| [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-08-11 |  |
+| [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-08-11 | 2024-06-25 |
 | [Moar Ghosts 'n' Stuff \- Extended Mix](https://open.spotify.com/track/1iAzwiJpnYXCI3xRfoEuYk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [For Lack of A Better Name \(The Extended Mixes\)](https://open.spotify.com/album/2KAXIfaWLIK2WJFL9bBubR) | 4:57 | 2023-08-11 | 2023-08-19 |
 | [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 | 2024-05-24 |  |
 | [Monster \- Don Diablo VIP Mix](https://open.spotify.com/track/27vl3TEItJk29fllQ3LD9V) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster \(Don Diablo VIP Mix\)](https://open.spotify.com/album/4tOwtG1yNJspwp0tWvU1GG) | 3:03 | 2024-05-31 |  |

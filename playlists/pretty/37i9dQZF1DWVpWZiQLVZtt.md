@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 
 > Pop Latino de los 80 y 90\. Canciones que quedarán para siempre\. Foto: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,793 likes - 133 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,025 likes - 133 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 3 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
 | 4 | [Me Va A Extranar](https://open.spotify.com/track/5Ml0IYpDy6UEedeRjNrUKC) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Un Toque De Misterio](https://open.spotify.com/album/0PMcCZRXynocHn2Sw9fhXh) | 4:16 |
 | 5 | [Mujeres](https://open.spotify.com/track/4TR6e2sBy2PzTnfu6MnLFD) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 3:27 |
-| 6 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 |
+| 6 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 |
 | 7 | [Entrégate](https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:23 |
 | 8 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [10 De Colección](https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk) | 4:24 |
 | 9 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 83 | [Fuego Contra Fuego](https://open.spotify.com/track/6Sbzcag4QwyIRhMSpRmlLW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/2RUhYJK4Ho2uDNhyZSJsOg) | 4:14 |
 | 84 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
 | 85 | [Amor A La Mexicana](https://open.spotify.com/track/1LxoxVuG3T5Ji0eCua8N30) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Amor A La Mexicana](https://open.spotify.com/album/2tOjQfrdrnRNOwtDY1BLqD) | 4:25 |
-| 86 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 |
+| 86 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 |
 | 87 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 |
 | 88 | [Cosas De La Vida](https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:48 |
 | 89 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 |

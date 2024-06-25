@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。我愛你 對不起 說好的在一起 撲空的擁抱 握不住的你 有多少想念變成空氣。
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,556 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,551 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 |
 | 2 | [你，好不好？ \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛，教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 |
 | 3 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 |
-| 4 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
-| 5 | [泡沫](https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Xposed](https://open.spotify.com/album/5EUhTGmsSlrrt2w3IZd1IG) | 4:18 |
+| 4 | [泡沫](https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Xposed](https://open.spotify.com/album/5EUhTGmsSlrrt2w3IZd1IG) | 4:18 |
+| 5 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
 | 6 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 |
 | 7 | [演員](https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:21 |
 | 8 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 45 | [难堪](https://open.spotify.com/track/0QDHq2JoM54iTX016iPXIN) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [你我之间](https://open.spotify.com/album/3WBgii1mU51EaTUofSXVVB) | 3:10 |
 | 46 | [浪費](https://open.spotify.com/track/6rvSliUoMf9GU9vxAR7nPH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [大小說家](https://open.spotify.com/album/62r7dcrgRinOk2tTHYiOcl) | 5:07 |
 | 47 | [拋物線](https://open.spotify.com/track/2oZJWtQZ6CLPHHsnUhC3IY) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [若你碰到他](https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF) | 5:07 |
-| 48 | [不只是朋友](https://open.spotify.com/track/1c434f7py7OHmi7qPxly5R) | [黃小琥](https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz) | [不只是朋友](https://open.spotify.com/album/5YSeaPHcEESyJpm46PfGyZ) | 5:04 |
-| 49 | [領悟](https://open.spotify.com/track/0nRIRTq9pPN3lPc5kUoyFJ) | [Winnie Hsin](https://open.spotify.com/artist/75UZxcclb8ahAZl69xMKLJ) | [領悟](https://open.spotify.com/album/52A4RSFC5F2DKUb4LHAYtM) | 4:54 |
-| 50 | [像風一樣](https://open.spotify.com/track/2myX6RzEVRQw0NlhcCTYYc) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [像風一樣](https://open.spotify.com/album/3wdlvTn7CBwdG774ckbMBb) | 4:15 |
+| 48 | [領悟](https://open.spotify.com/track/0nRIRTq9pPN3lPc5kUoyFJ) | [Winnie Hsin](https://open.spotify.com/artist/75UZxcclb8ahAZl69xMKLJ) | [領悟](https://open.spotify.com/album/52A4RSFC5F2DKUb4LHAYtM) | 4:54 |
+| 49 | [不只是朋友](https://open.spotify.com/track/1c434f7py7OHmi7qPxly5R) | [黃小琥](https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz) | [不只是朋友](https://open.spotify.com/album/5YSeaPHcEESyJpm46PfGyZ) | 5:04 |
+| 50 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 |
 
 Snapshot ID: `ZnRSAAAAAACgtHinFNaX0EUy9rZEs6RJ`

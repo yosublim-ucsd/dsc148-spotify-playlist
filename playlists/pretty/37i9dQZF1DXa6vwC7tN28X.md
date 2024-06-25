@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,785 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,798 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 9 | [Tango en Segunda](https://open.spotify.com/track/34NGjr3W7K9E484f7C5xVf) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Pequenas Anécdotas Sobre Las Instituciones](https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1) | 3:32 |
 | 10 | [La Bestia Pop](https://open.spotify.com/track/0whYWhGNZ2YuTiiXF0AQXS) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:30 |
 | 11 | [Los Piratas \- MTV Unplugged](https://open.spotify.com/track/69ni0mzLxPJ1ipk7ENsXWi) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 2:56 |
-| 12 | [Gricel](https://open.spotify.com/track/5L32suuyXCkGrpaZNAXxEY) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [La La La](https://open.spotify.com/album/7e9eBk99v3kYbGO79ZKKVz) | 4:31 |
-| 13 | [Nostalgias](https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:03 |
+| 12 | [Nostalgias](https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:03 |
+| 13 | [Gricel](https://open.spotify.com/track/5L32suuyXCkGrpaZNAXxEY) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [La La La](https://open.spotify.com/album/7e9eBk99v3kYbGO79ZKKVz) | 4:31 |
 | 14 | [Desencuentro](https://open.spotify.com/track/2mQRs9iO7qI0F0r2FTXw74) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 2:21 |
 | 15 | [Irresponsables](https://open.spotify.com/track/4dOwGU2xdR8Yh5w4yJJLOU) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [Menesunda: Tangolencia Rockera](https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf) | 2:23 |
 | 16 | [Whisky Doble](https://open.spotify.com/track/4X5rdCoiPwvSabu9A44UVD) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Pecado Capital](https://open.spotify.com/album/3SBFhUZkLnK5cqbKg6bn79) | 5:03 |

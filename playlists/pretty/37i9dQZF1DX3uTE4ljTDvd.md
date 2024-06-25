@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Bea Rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,979 likes - 60 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,990 likes - 60 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 22 | [Primeiro Amor](https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K) | [Primeiro Amor](https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J) | 3:56 |
 | 23 | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2) | 5:30 |
 | 24 | [Ágape \- Ao Vivo](https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Ágape \(Ao Vivo\)](https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru) | 9:33 |
-| 25 | [Me Mostra Tua Face](https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2) | [RL Worship](https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU) | [Me Mostra Tua Face](https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx) | 6:24 |
-| 26 | [Mesmo Sem Entender](https://open.spotify.com/track/6ON8ubFyGwaiK4dPonIwp3) | [Milena Pina](https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt) | [Mesmo Sem Entender](https://open.spotify.com/album/1i98qmueiAcvmlpTWUvgQR) | 3:24 |
+| 25 | [Mesmo Sem Entender](https://open.spotify.com/track/6ON8ubFyGwaiK4dPonIwp3) | [Milena Pina](https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt) | [Mesmo Sem Entender](https://open.spotify.com/album/1i98qmueiAcvmlpTWUvgQR) | 3:24 |
+| 26 | [Me Mostra Tua Face](https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2) | [RL Worship](https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU) | [Me Mostra Tua Face](https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx) | 6:24 |
 | 27 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB) | 3:36 |
 | 28 | [Sinal de Amor](https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE) | [Yuri Costa](https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Sinal de Amor](https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt) | 3:35 |
 | 29 | [Deus Te Chama](https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS) | [Deus Te Chama](https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e) | 4:23 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 44 | [Acredito na Promessa](https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Acredito na Promessa](https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH) | 4:05 |
 | 45 | [Tu És Real](https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq) | [Tamires Sabotage](https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy) | [Tu És Real](https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj) | 5:02 |
 | 46 | [Descansa em Mim](https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8) | [Pablo Canalis](https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm), [Do Nosso Canto](https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk) | [Descansa em Mim](https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc) | 5:05 |
-| 47 | [Eu Vou Mergulhar](https://open.spotify.com/track/75H1JdNy5JIndenoockhB3) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2) | [Eu Vou Mergulhar](https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO) | 4:51 |
-| 48 | [Pedaços](https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Pedaços](https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg) | 4:19 |
+| 47 | [Pedaços](https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Pedaços](https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg) | 4:19 |
+| 48 | [Eu Vou Mergulhar](https://open.spotify.com/track/75H1JdNy5JIndenoockhB3) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2) | [Eu Vou Mergulhar](https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO) | 4:51 |
 | 49 | [Tu Me Fascinas \- Ao Vivo](https://open.spotify.com/track/41NibAItjNsql9NScvLcon) | [Mariana Vieira](https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2) | [Tu Me Fascinas \(Ao Vivo\)](https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7) | 4:43 |
 | 50 | [Quem Disse? \- Ao Vivo](https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI) | [Quem Disse? \(Ao Vivo\)](https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO) | 5:30 |
 | 51 | [Sua Vida Em Mim](https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF) | [Sua Vida Em Mim](https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p) | 5:30 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 54 | [Não Serei o Mesmo \- Ao Vivo](https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6) | [Renata Reis](https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS) | [Não Serei o Mesmo](https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN) | 6:37 |
 | 55 | [Não Adoro por Sinais](https://open.spotify.com/track/24UODoYUdKOl2EunyuJSee) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Não Adoro por Sinais](https://open.spotify.com/album/6ZFS81BoItJ2Dyp3vKLqyu) | 3:23 |
 | 56 | [Não Temo Ondas \- Ao Vivo](https://open.spotify.com/track/4HxPBJWXTan8LXzCevA7Nf) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN), [Salvaon](https://open.spotify.com/artist/7LYjCBa1qtaru5vHG0u9hD) | [Não Temo Ondas \(Ao Vivo\)](https://open.spotify.com/album/4Y8VJS0JADsGJCdINbfMaH) | 7:40 |
-| 57 | [Andar Sobre as Águas](https://open.spotify.com/track/2omEDUMJcG9Pb1GmWh4LK5) | [Bia Monteiro](https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6) | [Andar Sobre as Águas](https://open.spotify.com/album/6HQuxLO1rsxml6pIOfl3kA) | 4:23 |
-| 58 | [Coração Cansado de Partir](https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Coração Cansado de Partir](https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc) | 4:51 |
+| 57 | [Coração Cansado de Partir](https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Coração Cansado de Partir](https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc) | 4:51 |
+| 58 | [Andar Sobre as Águas](https://open.spotify.com/track/2omEDUMJcG9Pb1GmWh4LK5) | [Bia Monteiro](https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6) | [Andar Sobre as Águas](https://open.spotify.com/album/6HQuxLO1rsxml6pIOfl3kA) | 4:23 |
 | 59 | [anotando pensamentos](https://open.spotify.com/track/0h2SvOZaLFMz9zXqZWbsCV) | [Cefas Music](https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg), [Hellen Camargo](https://open.spotify.com/artist/2ZHTlAJiLrRBpTfkjUMiEA) | [anotando pensamentos](https://open.spotify.com/album/5VAXssXVjE5k669CQXrirE) | 4:31 |
 | 60 | [Em uma Só Voz](https://open.spotify.com/track/2vEgmzy4XwoQIvey9Gt39d) | [Kethelen Baittinger](https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA) | [Em uma Só Voz](https://open.spotify.com/album/7zxAOAWKhTRXq7ArWl61fc) | 6:06 |
 

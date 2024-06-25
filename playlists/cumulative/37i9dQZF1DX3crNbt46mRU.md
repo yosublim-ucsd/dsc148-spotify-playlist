@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Coldplay
 
-12,697 songs - 26 day 11 hr 1 min
+12,698 songs - 26 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8269,7 +8269,8 @@
 | [Ok](https://open.spotify.com/track/3PQo8ADZtGpKnUAN2BJ8F4) | [Freezy TFS](https://open.spotify.com/artist/6b3W7GLhtKVMRnari7S21m), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Ok](https://open.spotify.com/album/4K5FA12LoCKDaMQdP5GAp1) | 1:57 | 2022-07-29 | 2022-08-05 |
 | [OK](https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [OK](https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V) | 4:23 | 2023-05-11 | 2023-05-19 |
 | [OK \(feat\. Young Thug\)](https://open.spotify.com/track/06P0OMevRLv6wWGdXHSGN2) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [OK \(feat\. Young Thug\)](https://open.spotify.com/album/76GwLI1nybtKiwJ1maeFIw) | 4:06 | 2023-11-09 | 2023-11-17 |
-| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-20 |  |
+| [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 | 2024-06-24 |  |
+| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-20 | 2024-06-25 |
 | [Ok Ok \(feat\. Drini\)](https://open.spotify.com/track/7aLtW2CXO5Amuk5a7jI6Gw) | [Mc Hero](https://open.spotify.com/artist/2G7CDlBznNGyzKFpbngRMx), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Ok Ok \(feat\. Drini\)](https://open.spotify.com/album/2fmgGnCa1agfaapU2WVddY) | 2:24 | 2023-02-17 | 2023-02-24 |
 | [Ok\. \(feat\. ELIF\)](https://open.spotify.com/track/7jGdodmsPuRVOgljIcPMte) | [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ), [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [Ok\. \(feat\. ELIF\)](https://open.spotify.com/album/7LAvZEz6R6Vqkv6L4pm8Y5) | 2:54 | 2022-07-07 | 2022-07-15 |
 | [Ok\. Respira](https://open.spotify.com/track/6KhcA4elAfvxHzNaJwWp0T) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Ok\. Respira](https://open.spotify.com/album/3uHuxVfGYIxYgkOxqDq0DP) | 2:41 | 2022-12-08 | 2022-12-16 |

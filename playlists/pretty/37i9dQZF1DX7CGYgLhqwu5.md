@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,049 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,058 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 46 | [Branded Man \- Remastered](https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Prison](https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ) | 3:06 |
 | 47 | [Detroit City](https://open.spotify.com/track/7eNM9suHz80f4fbC8aobod) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 2:49 |
 | 48 | [Wolverton Mountain](https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey) | [Claude King](https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g) | [Columbia Country Classics Volume 3: Americana](https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA) | 2:57 |
-| 49 | [I'm So Lonesome I Could Cry](https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:37 |
-| 50 | [Don't Worry](https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 3:14 |
+| 49 | [Don't Worry](https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 3:14 |
+| 50 | [I'm So Lonesome I Could Cry](https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:37 |
 | 51 | [I Can't Stop \(My Lovin' You\)](https://open.spotify.com/track/1SBllLTtOG1MYBarv3F3Dw) | [Dick Curless](https://open.spotify.com/artist/0L977x5wFRhedcXSan71ma), [Kay Adams](https://open.spotify.com/artist/07AQaAGXoOsQCGIfMR5KFR) | [A Devil Like Me Needs An Angel Like You](https://open.spotify.com/album/53pohP78R0AeEiMEQuuIPb) | 2:16 |
 | 52 | [Sea of Heartbreak](https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:31 |
 | 53 | [Pop a Top](https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW) | [Jim Ed Brown](https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM) | [The Essential Jim Ed Brown And The Browns \(feat\. Jim Ed Brown\)](https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh) | 2:20 |

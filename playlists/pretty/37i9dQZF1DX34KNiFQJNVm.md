@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Dricka com Arca, Lauana Prado com Zé Neto & Cristiano e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,917,675 likes - 72 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,917,730 likes - 72 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Golpeame](https://open.spotify.com/track/5lZQrRhEHEiHEvF9xguzwi) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ S2k](https://open.spotify.com/artist/0UGMDsR5m7QIcz0GxKTHAn), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Caldeirão](https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK) | 2:27 |
+| 1 | [Golpeame](https://open.spotify.com/track/5lZQrRhEHEiHEvF9xguzwi) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ S2K](https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Caldeirão](https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK) | 2:27 |
 | 2 | [Sombra Desconhecida \- Ao Vivo](https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Sombra Desconhecida \(Ao Vivo\)](https://open.spotify.com/album/7j9FmFWjSSuqJe5XAtz0WG) | 2:40 |
 | 3 | [Bolha \- Ao Vivo](https://open.spotify.com/track/5lWPHgIUd8XxoBHQbLzgij) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Ferrugem 10 Anos \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/3f3uSPK8XHmSv0ArFjdRVg) | 3:00 |
 | 4 | [Saudade do Seu Love](https://open.spotify.com/track/7Kg1ukDe5T7olD4Jopvdvr) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Saudade do Seu Love](https://open.spotify.com/album/5IpkHnSNYt3qq63NHnK0hd) | 2:49 |

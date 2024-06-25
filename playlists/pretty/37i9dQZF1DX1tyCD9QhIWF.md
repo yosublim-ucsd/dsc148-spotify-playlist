@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,302,398 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,302,348 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 35 | [Longshot](https://open.spotify.com/track/1Yi8XPnCPoimWwqxwm3uz9) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Longshot](https://open.spotify.com/album/6RsjG9ykQSkY3YMDSAwYs8) | 3:52 |
 | 36 | [Cheer Up London](https://open.spotify.com/track/6YwYfxEFDUZZ1xX5vlBYmF) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Are You Satisfied?](https://open.spotify.com/album/5wzGjIYYUnx1jtosNeqTdR) | 2:33 |
 | 37 | [Sink Ya Teeth](https://open.spotify.com/track/6xfeVHIcavY2ZwwASl00j4) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Sink Ya Teeth](https://open.spotify.com/album/3tbrfc220mSrlEKd5uad1i) | 3:27 |
-| 38 | [Babylon](https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dark & Beautiful Secrets](https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30) | 4:05 |
-| 39 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 |
+| 38 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 |
+| 39 | [Babylon](https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dark & Beautiful Secrets](https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30) | 4:05 |
 | 40 | [Dad Vibes](https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Dad Vibes](https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR) | 2:12 |
 | 41 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
 | 42 | [Fight For The Right](https://open.spotify.com/track/7qfZLqQvOE35OeiT9v70kO) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Fight For The Right](https://open.spotify.com/album/7zAXZA0sjU0ldpgnl3Wlt0) | 2:03 |
@@ -70,15 +70,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 60 | [City Streets](https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [City Streets](https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk) | 3:26 |
 | 61 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 |
 | 62 | [I EXIST](https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [I EXIST](https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5) | 4:29 |
-| 63 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4XtIwasPM2qnU8FMg4E9Ak) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/02q0ISnitj4Q7flAbRppvo) | 2:57 |
-| 64 | [Slow](https://open.spotify.com/track/7llRb02z7gNG2cWKmtuKaq) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Slow](https://open.spotify.com/album/5lQGSDgLordQGd0Mq0LF4D) | 3:07 |
+| 63 | [Slow](https://open.spotify.com/track/7llRb02z7gNG2cWKmtuKaq) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Slow](https://open.spotify.com/album/5lQGSDgLordQGd0Mq0LF4D) | 3:07 |
+| 64 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4XtIwasPM2qnU8FMg4E9Ak) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/02q0ISnitj4Q7flAbRppvo) | 2:57 |
 | 65 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 |
 | 66 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 |
 | 67 | [All The Problems](https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [All The Problems](https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2) | 2:56 |
-| 68 | [Final Gørl](https://open.spotify.com/track/3fDOY2MCtgGunLeNKOJe2v) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Final Gørl](https://open.spotify.com/album/6LrLLNRDXgVZ00ClQLuDi9) | 2:08 |
-| 69 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
-| 70 | [What Went Down](https://open.spotify.com/track/0LJDalpISq604gw21RVwIV) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/3WCvpOcMme3VoJqeKYk9BY) | 5:00 |
-| 71 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
+| 68 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
+| 69 | [Final Gørl](https://open.spotify.com/track/3fDOY2MCtgGunLeNKOJe2v) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Final Gørl](https://open.spotify.com/album/6LrLLNRDXgVZ00ClQLuDi9) | 2:08 |
+| 70 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
+| 71 | [What Went Down](https://open.spotify.com/track/0LJDalpISq604gw21RVwIV) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/3WCvpOcMme3VoJqeKYk9BY) | 5:00 |
 | 72 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 |
 | 73 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
 | 74 | [Puzzles](https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Puzzles](https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ) | 2:41 |

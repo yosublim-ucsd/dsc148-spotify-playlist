@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 681401,
+  "num_followers": 681535,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 162411,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Origin of Symmetry",
         "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 198800,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 162411,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "By The People, For The People",
-        "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 276306,
-      "name": "King Of Pain",
-      "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 281373,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "By The People, For The People",
+        "url": "https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 276306,
+      "name": "King Of Pain",
+      "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "DJ Got Us Fallin in Love",
-        "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
-      },
-      "artists": [
-        {
-          "name": "Her Bright Skies",
-          "url": "https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI"
-        }
-      ],
-      "duration_ms": 215922,
-      "name": "DJ Got Us Fallin in Love",
-      "url": "https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "No One Sings Like You Anymore",
         "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 194359,
       "name": "Watching The Wheels",
       "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "DJ Got Us Fallin in Love",
+        "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
+      },
+      "artists": [
+        {
+          "name": "Her Bright Skies",
+          "url": "https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI"
+        }
+      ],
+      "duration_ms": 215922,
+      "name": "DJ Got Us Fallin in Love",
+      "url": "https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Eleanor Rigby",
-        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Eleanor Rigby",
+        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1843,22 +1843,6 @@
       "duration_ms": 302736,
       "name": "Creep - Spotify Singles",
       "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 255774,
-      "name": "Song to the Siren",
-      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1899,6 +1883,22 @@
       "duration_ms": 203520,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/2m7XMTj30tOUAr4YPFRQmV"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 255774,
+      "name": "Song to the Siren",
+      "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 330653,
+      "name": "No Ordinary Love - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "White Room (feat. Jacoby Shaddix)",
         "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 245757,
       "name": "White Room (feat. Jacoby Shaddix)",
       "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 330653,
-      "name": "No Ordinary Love - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Matter of Time",
+        "url": "https://open.spotify.com/album/55Owto4BUyYuTJOFXEE0AX"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Growin' Up - acoustic at home",
+      "url": "https://open.spotify.com/track/65KqSqOTL5DbFYU5d2kcaT"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 267859,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/59QGjZF7BhSoPZvPQeFnCX"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Matter of Time",
-        "url": "https://open.spotify.com/album/55Owto4BUyYuTJOFXEE0AX"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Growin' Up - acoustic at home",
-      "url": "https://open.spotify.com/track/65KqSqOTL5DbFYU5d2kcaT"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "We Are The Champions/We Will Rock You",
-        "url": "https://open.spotify.com/album/3KdcKmGcb0ICBH939ttbTX"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 231887,
-      "name": "We Are The Champions/We Will Rock You",
-      "url": "https://open.spotify.com/track/1OIa6nm7DoivdwKrb1ff5S"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 221481,
       "name": "Sugar We\u2019re Goin Down",
       "url": "https://open.spotify.com/track/1WoP8y5Koy4p51ZFGWEacX"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "We Are The Champions/We Will Rock You",
+        "url": "https://open.spotify.com/album/3KdcKmGcb0ICBH939ttbTX"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 231887,
+      "name": "We Are The Champions/We Will Rock You",
+      "url": "https://open.spotify.com/track/1OIa6nm7DoivdwKrb1ff5S"
     },
     {
       "added_at": "2024-06-14 04:00:00",

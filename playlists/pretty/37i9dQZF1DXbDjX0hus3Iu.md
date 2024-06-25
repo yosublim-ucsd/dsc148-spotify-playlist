@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,172 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,225 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Cold beer\. Hot wings\. Great rock.
 
-211 songs - 13 hr 17 min
+212 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-10-03 |  |
 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 | 2020-05-15 |  |
 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 | 2020-05-15 |  |
-| [Asleep at the Wheel](https://open.spotify.com/track/2VnkxWob7ooT5NrN9WtctI) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Himalayan](https://open.spotify.com/album/4XWbfiTYAP828RXQmkEkUd) | 4:06 | 2020-05-15 |  |
+| [Asleep at the Wheel](https://open.spotify.com/track/2VnkxWob7ooT5NrN9WtctI) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Himalayan](https://open.spotify.com/album/4XWbfiTYAP828RXQmkEkUd) | 4:06 | 2020-05-15 | 2024-06-25 |
 | [Asleep at the Wheel](https://open.spotify.com/track/5C0wlC8WJeiGbuI2THoG1U) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Himalayan](https://open.spotify.com/album/6ynw5YQyZBVK9UPoVJuEeQ) | 4:06 | 2022-08-19 | 2024-01-23 |
 | [bad for you](https://open.spotify.com/track/5ft1dov1gOCcf63ZiqlPnY) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [bad for you](https://open.spotify.com/album/5d9WiZVtA9jDQDHzMrOYhb) | 1:54 | 2020-05-15 |  |
 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2020-05-15 | 2022-02-05 |
@@ -165,6 +165,7 @@
 | [State of My Head](https://open.spotify.com/track/1fnULsZuORnAgCFFbM8nTZ) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:25 | 2020-05-15 |  |
 | [Step Aside](https://open.spotify.com/track/5SSX2AJTtYjpk0x2p0LnUA) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/5nkGvHymejZPp7gdB1JwG4) | 4:07 | 2021-12-09 | 2022-07-29 |
 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 | 2022-06-17 | 2024-04-19 |
+| [Surf Wax America \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/6HHVEg2gVXgqPpDaE5sLVr) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 3:05 | 2024-06-24 |  |
 | [Survivor](https://open.spotify.com/track/4xdUk9rp5wOd3ZLwwNfjwd) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Survivor](https://open.spotify.com/album/7zsfcfnaarayjDTB4KBRDV) | 4:02 | 2021-08-12 |  |
 | [Survivor](https://open.spotify.com/track/76FKM1IevJeZC5vqarglp9) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Versatile](https://open.spotify.com/album/6YttNp6wg0mDmb9Pg86xBo) | 4:02 | 2023-10-03 | 2024-04-19 |
 | [Sweet Emotion](https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:34 | 2022-11-07 | 2024-04-19 |

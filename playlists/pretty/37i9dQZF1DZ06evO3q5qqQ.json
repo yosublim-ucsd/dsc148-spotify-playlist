@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 108348,
+  "num_followers": 108358,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAADVVgX9vM/tOdpg9X6lDS6w",
+  "snapshot_id": "ZndlgAAAAAABoSX25IeCOyr5RQEexATq",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Amor No Es Para Todos",
-        "url": "https://open.spotify.com/album/3yDNbHOaUo0r9yafxBkAJl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 142341,
-      "name": "El Amor No Es Para Todos",
-      "url": "https://open.spotify.com/track/3oazxJTMSqk0KCupesUq7B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jalando La Bandona (En Vivo)",
         "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 129500,
       "name": "Levantando Polvadera (En vivo)",
       "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Amor No Es Para Todos",
+        "url": "https://open.spotify.com/album/3yDNbHOaUo0r9yafxBkAJl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 142341,
+      "name": "El Amor No Es Para Todos",
+      "url": "https://open.spotify.com/track/3oazxJTMSqk0KCupesUq7B"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Benjam\u00edn",
-        "url": "https://open.spotify.com/album/6H04g945EUqDXyNUOeRqHd"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 180990,
-      "name": "Soy Benjam\u00edn",
-      "url": "https://open.spotify.com/track/3Eww1aMYpf5WvMrJ0crEQO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gustoso Y Contento (En Vivo)",
         "url": "https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE"
       },
@@ -543,6 +527,38 @@
       "duration_ms": 153640,
       "name": "Gustoso Y Contento (En Vivo)",
       "url": "https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Benjam\u00edn",
+        "url": "https://open.spotify.com/album/6H04g945EUqDXyNUOeRqHd"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 180990,
+      "name": "Soy Benjam\u00edn",
+      "url": "https://open.spotify.com/track/3Eww1aMYpf5WvMrJ0crEQO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 171989,
+      "name": "El Bolas",
+      "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
     },
     {
       "added_at": null,
@@ -567,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 171989,
-      "name": "El Bolas",
-      "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rosas",
         "url": "https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 273920,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149695,
+      "name": "La Pasadita (En vivo)",
+      "url": "https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
       "duration_ms": 163750,
       "name": "Que Se Preparen",
       "url": "https://open.spotify.com/track/6AGjRofC1oygn6XgS8sRDc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/05uudYnuSJPNR6tFefx699"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149695,
-      "name": "La Pasadita (En vivo)",
-      "url": "https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV"
     },
     {
       "added_at": null,

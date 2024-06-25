@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-750 songs - 1 day 17 hr 4 min
+751 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [BOBBIN](https://open.spotify.com/track/14JS85dA20uiGU5XGAWtif) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [BOBBIN](https://open.spotify.com/album/3NqyPRfB9A7ZlU12gkY3fc) | 3:08 | 2022-03-24 | 2022-04-09 |
 | [BODY](https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Switch On](https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN) | 3:12 | 2024-04-17 | 2024-05-10 |
 | [BOOM](https://open.spotify.com/track/3jATBjBJAWLVkAB2gCjrqE) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [BOOM](https://open.spotify.com/album/6s4NdCPDBhDHL7i0P2OjBC) | 3:21 | 2022-08-12 | 2022-08-22 |
+| [Boom Boom Bass](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 2:32 | 2024-06-21 |  |
 | [Bother Me](https://open.spotify.com/track/3t4ozuyQ2OidVwuG08FHBn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:22 | 2022-03-24 | 2022-04-04 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 3:49 | 2022-10-07 | 2024-04-19 |
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 | 2022-03-24 | 2022-06-27 |
@@ -406,7 +407,7 @@
 | [LOSER](https://open.spotify.com/track/2VlB3VK7KUNvDDnjNzW0FE) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [LOSER](https://open.spotify.com/album/2hJSPWJOk0YI5FlXRqJDCo) | 3:09 | 2021-12-07 | 2022-07-25 |
 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 | 2022-02-03 | 2022-09-17 |
 | [LOVE](https://open.spotify.com/track/6M0njKf2lLXtFwB6XhFUgc) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 3:35 | 2022-05-11 | 2022-06-03 |
-| [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 | 2024-03-05 |  |
+| [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 | 2024-03-05 | 2024-06-25 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-21 |  |
 | [Love Maze](https://open.spotify.com/track/645YBsxhFPSOKxGep3uHLv) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 3:41 | 2021-12-29 | 2022-07-29 |
 | [LOVE me](https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [LOVE me](https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK) | 2:53 | 2022-04-21 | 2023-03-25 |

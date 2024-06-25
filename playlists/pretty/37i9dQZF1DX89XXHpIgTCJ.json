@@ -1,6 +1,6 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 306517,
+  "num_followers": 306574,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-05-27 20:22:06",
       "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 250213,
-      "name": "Unfuck The World",
-      "url": "https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp"
-    },
-    {
-      "added_at": "2024-05-27 20:22:06",
-      "album": {
         "name": "Lemonade (with Denzel Curry)",
         "url": "https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 165685,
       "name": "Lemonade (with Denzel Curry)",
       "url": "https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL"
+    },
+    {
+      "added_at": "2024-05-27 20:22:06",
+      "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 250213,
+      "name": "Unfuck The World",
+      "url": "https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp"
     },
     {
       "added_at": "2024-05-27 20:22:06",
@@ -983,22 +983,6 @@
       "duration_ms": 173326,
       "name": "Made An America",
       "url": "https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P"
-    },
-    {
-      "added_at": "2024-05-27 20:22:06",
-      "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
     },
     {
       "added_at": "2024-05-27 20:22:06",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2024-05-27 20:22:06",
       "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
+    },
+    {
+      "added_at": "2024-05-27 20:22:06",
+      "album": {
         "name": "Skull & Bones",
         "url": "https://open.spotify.com/album/31XG9UWJIXSXSsPUEsh3D2"
       },
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2024-05-27 20:22:06",
       "album": {
-        "name": "We Made It (feat. Linkin Park)",
-        "url": "https://open.spotify.com/album/1q1KOXjfdXaxbWaRf2r9Di"
+        "name": "Unsung: The Best Of Helmet 1991-1997",
+        "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         },
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
         }
       ],
-      "duration_ms": 238066,
-      "name": "We Made It (feat. Linkin Park)",
-      "url": "https://open.spotify.com/track/26jVcJqG66nj36jRqPBp2U"
+      "duration_ms": 262160,
+      "name": "Just Another Victim",
+      "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ"
     }
   ],
   "unique_name": "Rap 'n' Roll",

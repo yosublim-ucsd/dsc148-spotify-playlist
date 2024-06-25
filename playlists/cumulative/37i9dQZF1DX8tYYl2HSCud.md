@@ -4,7 +4,7 @@
 
 > Gentle ambient for a calm baby during bath time, playtime or baby massage.
 
-257 songs - 12 hr 24 min
+259 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,12 +20,13 @@
 | [Alpha Lupi](https://open.spotify.com/track/1cL02nUAGcbSZFE8rJuK4I) | [Lake Melville](https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG) | [Alpha Lupi](https://open.spotify.com/album/7JwcCMKHFkPslad9qn6yy1) | 3:16 | 2024-05-06 |  |
 | [Already Missing Summer](https://open.spotify.com/track/4ISntdSrLq20YiFzT96SkN) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Already Missing Summer](https://open.spotify.com/album/03yKIwxKmKaByMWsnN15Zq) | 2:46 | 2023-03-10 | 2023-12-19 |
 | [Altaria](https://open.spotify.com/track/6U0VDBci8VNH2vOl9ABfxe) | [Lisa de Permen](https://open.spotify.com/artist/1H0Dzd2Z3BdF0I53KpNx1R) | [Altaria](https://open.spotify.com/album/5u42VT6iwtReZsCN2ijWr6) | 3:28 | 2023-09-08 | 2023-10-05 |
-| [Altaria](https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS) | [Rhinestone Block](https://open.spotify.com/artist/2lbLHi4d121x4E173oiUIg) | [Altaria](https://open.spotify.com/album/4qWZ49m3NRmLEo5fQQpnsA) | 3:28 | 2023-08-11 |  |
+| [Altaria](https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS) | [Rhinestone Block](https://open.spotify.com/artist/2lbLHi4d121x4E173oiUIg) | [Altaria](https://open.spotify.com/album/4qWZ49m3NRmLEo5fQQpnsA) | 3:28 | 2023-08-11 | 2024-06-25 |
 | [Always Sleepy](https://open.spotify.com/track/7j6asqjTGFFpjg9TR0H5us) | [Warren Blues](https://open.spotify.com/artist/3YG7KJgAF3q7udoynLzWXU) | [The East Wind](https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW) | 3:22 | 2023-05-29 |  |
 | [Anachronic](https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Anachronic](https://open.spotify.com/album/4xvH0fR97sPN1K2NXajyLB) | 2:48 | 2023-03-10 | 2024-03-16 |
 | [Angular Distance](https://open.spotify.com/track/0BRYbPaW4BXyJ1KZQ0dtrc) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Angular Distance](https://open.spotify.com/album/0iDOTiVv2ZylCqS7Q8ckLX) | 3:20 | 2024-01-23 |  |
 | [Another Galaxy](https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Another Galaxy](https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl) | 2:26 | 2023-03-10 | 2024-02-15 |
 | [Apparent Wind](https://open.spotify.com/track/4aNQv3BLlAbQFRsye0kRbK) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Apparent Wind](https://open.spotify.com/album/26TVaYwCTHRK6fNcjrc04o) | 3:01 | 2024-03-15 |  |
+| [Appreciation](https://open.spotify.com/track/5rL3vtLmgC53w0QVF8Sn8W) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Appreciation](https://open.spotify.com/album/4Jqd5OiORj1ymZtpgtMFxN) | 2:46 | 2024-06-24 |  |
 | [Arcadia](https://open.spotify.com/track/57LIE4xGtrUqicdDiikdMp) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Arcadia](https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33) | 2:56 | 2023-03-10 |  |
 | [At Dawn](https://open.spotify.com/track/3sXpdvzLk3dsop4otSaeJV) | [Emelie Kindh](https://open.spotify.com/artist/0ETSxbDRiOKTTDyzlFMzmp) | [At Dawn](https://open.spotify.com/album/2cFSXGvptNABPXffNEm7yY) | 1:54 | 2023-03-10 | 2023-06-30 |
 | [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 | 2023-03-10 | 2024-05-07 |
@@ -55,7 +56,7 @@
 | [Conversant](https://open.spotify.com/track/0G04ehzIE3QEkmvVK1Lxl8) | [Doris Melwin](https://open.spotify.com/artist/6vlkP5Ni1u9YysGdVz16XX) | [Conversant](https://open.spotify.com/album/3fq3wucSSjzqUYDkSAPeEI) | 2:31 | 2023-03-10 | 2023-10-11 |
 | [Cosmo 432 Hz](https://open.spotify.com/track/2RqvDYMAafIs8WjvGBzBTu) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Cosmo](https://open.spotify.com/album/0MbUMipkVk30PJiCUKMBxU) | 2:41 | 2023-03-31 | 2024-02-15 |
 | [Cycle](https://open.spotify.com/track/2Xsap4owF8MQp0zZGfNoOy) | [Loe Vida](https://open.spotify.com/artist/4VP55atE7tT1o1C8xSPStS) | [Cycle](https://open.spotify.com/album/4lM2VsV5RDllffE1TIrPeE) | 2:33 | 2023-10-10 |  |
-| [Dancing Particles](https://open.spotify.com/track/1XdPZYPszsxsxtnz1D2KGa) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Emerge](https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6) | 2:56 | 2023-03-31 |  |
+| [Dancing Particles](https://open.spotify.com/track/1XdPZYPszsxsxtnz1D2KGa) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Emerge](https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6) | 2:56 | 2023-03-31 | 2024-06-25 |
 | [Deepest of Calm](https://open.spotify.com/track/5MXz6ZOqJlij1BhKaWxBHX) | [Fabin](https://open.spotify.com/artist/5EQs9AqQh02dx0JLrmVwWV) | [Deepest of Calm](https://open.spotify.com/album/3zJJGh7bwN0eYL5joP6vTo) | 3:47 | 2024-04-09 | 2024-05-07 |
 | [Define](https://open.spotify.com/track/4bnFzOLBVnK5WFYVfAhy5z) | [iavú](https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my) | [Arise](https://open.spotify.com/album/2H8MJCCGpvlwSwVY8YioxZ) | 2:53 | 2023-10-10 |  |
 | [Definite](https://open.spotify.com/track/5yCIRoiQ4DatjmySLxm20e) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Definite](https://open.spotify.com/album/4lkKRBJ6o0mrMgh1Wcn2AV) | 2:45 | 2024-06-10 |  |
@@ -94,7 +95,7 @@
 | [Feelings](https://open.spotify.com/track/0q4QzVVYRP2NGirmy1z9zK) | [Aëos](https://open.spotify.com/artist/7JJ61gTcUILWlF1uoRRZEV) | [A Process](https://open.spotify.com/album/4craptusdZEmwFbH3jpReC) | 2:39 | 2023-10-10 | 2024-03-16 |
 | [Ferona](https://open.spotify.com/track/6gTj9ziamEC4GY9EqfzFKD) | [Tikos](https://open.spotify.com/artist/2cFXG0m3aAeTHtfxT1p684) | [Where I Belong](https://open.spotify.com/album/1d8NwbMFmKF9jRnV4vDa81) | 2:35 | 2023-03-10 | 2024-03-16 |
 | [Fjord](https://open.spotify.com/track/5F820xSuKiMLpGOV04Xs3c) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Fjord](https://open.spotify.com/album/6uJxTkCL8G3hjXi7S3ejkJ) | 2:54 | 2023-03-10 |  |
-| [Flor Espina](https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Flor Espina](https://open.spotify.com/album/6BOeH3ak5BXocqzHkDq9fL) | 2:35 | 2023-03-10 |  |
+| [Flor Espina](https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Flor Espina](https://open.spotify.com/album/6BOeH3ak5BXocqzHkDq9fL) | 2:35 | 2023-03-10 | 2024-06-25 |
 | [For A While](https://open.spotify.com/track/5Tjrn34j1dJWe3LUpul75B) | [Astrid Whitlock](https://open.spotify.com/artist/2CJRRtlFgGB0RXblglfayQ) | [For A While](https://open.spotify.com/album/7b9wbQZHYq0R0LU7R7Q9NV) | 3:12 | 2023-05-29 |  |
 | [Forms](https://open.spotify.com/track/6MePLoqcI97WjWyx5Sq2JV) | [Zonara](https://open.spotify.com/artist/66vglaSm3akRPCCPcc86mm) | [Forms](https://open.spotify.com/album/3RxxsAszW6YwW9YdPvWn8z) | 2:40 | 2023-03-10 |  |
 | [Frame of Mind](https://open.spotify.com/track/2wto1zZvZOt0lKbgwLfhKX) | [Grant Murdoch](https://open.spotify.com/artist/69MHZfuz6RQx3JpGl1OXB0) | [Frame of Mind](https://open.spotify.com/album/4ZMdLcEr5bVrhemBAdn4ra) | 2:43 | 2023-03-31 | 2023-04-19 |
@@ -185,10 +186,10 @@
 | [Quietum](https://open.spotify.com/track/4AYT0x23DPNQJsKGDft1wP) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Quietum](https://open.spotify.com/album/2M4jO7NyO4LmMgjNIqXgNX) | 3:00 | 2023-11-24 | 2024-05-07 |
 | [Rainbow Days](https://open.spotify.com/track/6mY7TTC8qzOURWVNjdiB03) | [Janinan.](https://open.spotify.com/artist/7tj72nDddYtKjWHdQ7YadH) | [Pantrana Calm](https://open.spotify.com/album/2wc8UqKag2QJgjtENEcCMW) | 3:14 | 2023-03-31 | 2024-04-10 |
 | [Ramus](https://open.spotify.com/track/6I661pmM6IANKvfZgDnwbL) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Ramus](https://open.spotify.com/album/63784z6zoLHJk7d4kgv9Aq) | 3:00 | 2024-04-09 |  |
-| [Reaching For The Light](https://open.spotify.com/track/1Qs8bAVpciEuLUgyBr14XZ) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Reaching For The Light](https://open.spotify.com/album/3y2yngNLRiZakskpuAF99r) | 2:57 | 2023-11-24 |  |
+| [Reaching For The Light](https://open.spotify.com/track/1Qs8bAVpciEuLUgyBr14XZ) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Reaching For The Light](https://open.spotify.com/album/3y2yngNLRiZakskpuAF99r) | 2:57 | 2023-11-24 | 2024-06-25 |
 | [Recreation](https://open.spotify.com/track/55cPaHJERjMcBC2zgD9V8Q) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Recreation](https://open.spotify.com/album/4DLcccOtvXa91JR2gSmJyu) | 2:52 | 2024-04-09 |  |
-| [Reflecting Nature](https://open.spotify.com/track/65TcVUCHfROgHBrVDJknWH) | [Eustace Zachary](https://open.spotify.com/artist/02z2wzPVdsZWkKB0BRfhBM) | [Calming Sounds](https://open.spotify.com/album/3lep8BdhfX3rEnCauSUtLE) | 2:55 | 2023-03-10 |  |
-| [Relation](https://open.spotify.com/track/5iqBmtdacMA04rzUGrPAcS) | [Hatchlings Calm](https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw) | [Zooz Dream](https://open.spotify.com/album/2IXS0dHhY4EFQVUAG2SuLf) | 3:24 | 2023-06-29 |  |
+| [Reflecting Nature](https://open.spotify.com/track/65TcVUCHfROgHBrVDJknWH) | [Eustace Zachary](https://open.spotify.com/artist/02z2wzPVdsZWkKB0BRfhBM) | [Calming Sounds](https://open.spotify.com/album/3lep8BdhfX3rEnCauSUtLE) | 2:55 | 2023-03-10 | 2024-06-25 |
+| [Relation](https://open.spotify.com/track/5iqBmtdacMA04rzUGrPAcS) | [Hatchlings Calm](https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw) | [Zooz Dream](https://open.spotify.com/album/2IXS0dHhY4EFQVUAG2SuLf) | 3:24 | 2023-06-29 | 2024-06-25 |
 | [Relaxed Mind](https://open.spotify.com/track/20A3nwNDQ7cEiqJdQqXHdi) | [Malviti](https://open.spotify.com/artist/7vJXWasyMwsr0wU5akcu2x) | [Relaxed Mind](https://open.spotify.com/album/4hstfomwyvw149vheXWQZ5) | 3:02 | 2024-01-23 | 2024-03-16 |
 | [Requies](https://open.spotify.com/track/04Cu3spIaFCMhw6nGAd6Tt) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Requies](https://open.spotify.com/album/6c9Kmn2gHYceCQJ6w2Ry4u) | 2:45 | 2024-05-06 |  |
 | [Resolvation](https://open.spotify.com/track/6QsiRBMCsArD9PdKHGy2xJ) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Resolvation](https://open.spotify.com/album/78IWzcRF28DoxShxRrxrrT) | 2:56 | 2023-03-10 | 2024-04-10 |
@@ -256,6 +257,7 @@
 | [Unwind](https://open.spotify.com/track/3e1SIAaOU2ai7MGF77qxUi) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Unwind](https://open.spotify.com/album/7LX0QJNQOhEOEHGsHyUeie) | 2:15 | 2023-03-10 | 2024-05-07 |
 | [Ut Ameris, Amabilis Esto](https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Ut Ameris, Amabilis Esto](https://open.spotify.com/album/5u1SNTHUl1fN2TJLUNYDyV) | 3:04 | 2023-03-10 | 2024-05-07 |
 | [Venus Drive](https://open.spotify.com/track/2cz0d43ScM5MOE9JUxOvxQ) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Venus Drive](https://open.spotify.com/album/4xgMUWz6giZuBlozU6F6sy) | 2:12 | 2023-09-08 |  |
+| [Verdensrommet](https://open.spotify.com/track/3IVrwyHQPdZBchIDkPHfZf) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Verdensrommet](https://open.spotify.com/album/2VwVc76UbyMhPSiUfUnkR0) | 3:02 | 2024-06-24 |  |
 | [Vyer](https://open.spotify.com/track/13KZml3pNzGfrd0CA3z6YQ) | [Tuva Lindelöf](https://open.spotify.com/artist/38zR3xZGlQhocD5wizPqFy) | [Vyer](https://open.spotify.com/album/0lR0zTcwgRDACdTdwVIz4X) | 2:02 | 2023-03-10 | 2023-11-25 |
 | [We Belong Here](https://open.spotify.com/track/0F6iu3jm5bJpTsyDKSaE4a) | [Aaera Mio](https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att) | [We Belong Here](https://open.spotify.com/album/5X9ocpEU3hId5Xqi2sHAEa) | 3:02 | 2023-08-11 |  |
 | [When The Day Fades](https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [When The Day Fades](https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4) | 2:31 | 2024-02-14 |  |

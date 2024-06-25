@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,252 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,307 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 4 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 |
 | 5 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 |
 | 6 | [0 Sentimientos](https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [0 Sentimientos](https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi) | 3:15 |
-| 7 | [Sin Pagar Renta](https://open.spotify.com/track/2NQZVzSRRatbbPWD5IfadH) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Sin Pagar Renta](https://open.spotify.com/album/6THFGUOwWMPRb6x58aVpDZ) | 3:13 |
-| 8 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 |
+| 7 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 |
+| 8 | [Sin Pagar Renta](https://open.spotify.com/track/2NQZVzSRRatbbPWD5IfadH) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Sin Pagar Renta](https://open.spotify.com/album/6THFGUOwWMPRb6x58aVpDZ) | 3:13 |
 | 9 | [1004 KM](https://open.spotify.com/track/54udnumOCHpq4SRpbKleat) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:42 |
 | 10 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 |
 | 11 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 58 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
 | 59 | [Solo Tu Podras](https://open.spotify.com/track/4n8zQAFzSi3jH3JQGsbI86) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Solo Tu Podras](https://open.spotify.com/album/6xUOmWbItiEJrE2bAU3p9W) | 3:26 |
 | 60 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
-| 61 | [LHTL](https://open.spotify.com/track/5FPx8kngsZIbJVv7gDNhWm) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [LHTL](https://open.spotify.com/album/6tMPbSFgYJjgfNx2kGnGbg) | 3:54 |
-| 62 | [Una Mentirosa](https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Una Mentirosa](https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs) | 3:02 |
+| 61 | [Una Mentirosa](https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Una Mentirosa](https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs) | 3:02 |
+| 62 | [LHTL](https://open.spotify.com/track/5FPx8kngsZIbJVv7gDNhWm) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [LHTL](https://open.spotify.com/album/6tMPbSFgYJjgfNx2kGnGbg) | 3:54 |
 | 63 | [Vete Ya](https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vete Ya](https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY) | 2:37 |
 | 64 | [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 |
 | 65 | [RLUX](https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [RLUX](https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo) | 3:40 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 81 | [Aqui Nadie Va Llorar](https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Aqui Nadie Va Llorar](https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq) | 3:15 |
 | 82 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
 | 83 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 |
-| 84 | [Por las Noches](https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por las Noches](https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe) | 3:59 |
-| 85 | [Amor Con Detalle](https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Fases del Amor](https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5) | 3:36 |
+| 84 | [Amor Con Detalle](https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Fases del Amor](https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5) | 3:36 |
+| 85 | [Por las Noches](https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por las Noches](https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe) | 3:59 |
 | 86 | [Pensando En Ti](https://open.spotify.com/track/6XbfRfhfoAcwpArvTYKvpe) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Pensando En Ti](https://open.spotify.com/album/7fXMAtYUmRHuEK3vFQCMXN) | 3:59 |
 | 87 | [Desvelado](https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Desvelado](https://open.spotify.com/album/7zHS91GU59Tlwo4RDkf7qD) | 3:55 |
 | 88 | [Tiempo](https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Tiempo](https://open.spotify.com/album/0YK6koGYXva8aceQpman6H) | 2:21 |

@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Asake",
-  "num_followers": 50737,
+  "num_followers": 50797,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/5KfqTov6TpsIfY0wRrBNbC"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 179272,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "All My Life (Remixes) (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
       },
@@ -539,6 +519,26 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/5KfqTov6TpsIfY0wRrBNbC"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 179272,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "O.U.A.T",
         "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
       },
@@ -551,26 +551,6 @@
       "duration_ms": 141052,
       "name": "O.U.A.T",
       "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Showcase (feat. Blaqbonez)",
-      "url": "https://open.spotify.com/track/2OXu4ZL9eNoBQiVVPe9Wn3"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -591,6 +571,26 @@
       "duration_ms": 155500,
       "name": "NYEM EGO (feat. Jeriq)",
       "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Showcase (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/2OXu4ZL9eNoBQiVVPe9Wn3"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Do I",
-        "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 155044,
-      "name": "Do I",
-      "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Like Ice Spice / Bezos",
         "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 123434,
       "name": "LIKE ICE SPICE",
       "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Do I",
+        "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 155044,
+      "name": "Do I",
+      "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 174038,
-      "name": "DOLLERZ (feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
       },
@@ -943,22 +923,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "AREA BOYZ (DELUXE)",
-        "url": "https://open.spotify.com/album/3gYxC3PsBBi3MZR2678Djo"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 198560,
-      "name": "SPIN DA BLOCK",
-      "url": "https://open.spotify.com/track/2YT1PCNcxZJaYyQRKo67DM"
+      "duration_ms": 174038,
+      "name": "DOLLERZ (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -979,6 +959,26 @@
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "AREA BOYZ (DELUXE)",
+        "url": "https://open.spotify.com/album/3gYxC3PsBBi3MZR2678Djo"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 198560,
+      "name": "SPIN DA BLOCK",
+      "url": "https://open.spotify.com/track/2YT1PCNcxZJaYyQRKo67DM"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1039,30 +1039,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Steel Banglez",
-          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
-      "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Letter From Overseas (feat. Black Sherif)",
         "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
       },
@@ -1083,22 +1059,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "NSV",
-        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         }
       ],
-      "duration_ms": 188372,
-      "name": "NSV",
-      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1123,22 +1099,46 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+        "name": "NSV",
+        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         },
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
+      "duration_ms": 188372,
+      "name": "NSV",
+      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
+      "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Kpe Paso",
+        "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 177915,
+      "name": "Kpe Paso",
+      "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 222056,
       "name": "Family time",
       "url": "https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Kpe Paso",
-        "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 177915,
-      "name": "Kpe Paso",
-      "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Ije Nwoke",
-        "url": "https://open.spotify.com/album/7q8Vopxx2mj4DSe04qHP1X"
-      },
-      "artists": [
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 157808,
-      "name": "Ije Nwoke",
-      "url": "https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
@@ -1387,22 +1371,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "City Boy (Deluxe)",
-        "url": "https://open.spotify.com/album/1sUkvuJfnQk745ccpealtE"
+        "name": "Ije Nwoke",
+        "url": "https://open.spotify.com/album/7q8Vopxx2mj4DSe04qHP1X"
       },
       "artists": [
         {
-          "name": "PaBrymo",
-          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 137351,
-      "name": "Popular Demand",
-      "url": "https://open.spotify.com/track/4LxQTp3iD7SVRCPF7tenGk"
+      "duration_ms": 157808,
+      "name": "Ije Nwoke",
+      "url": "https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1427,6 +1407,22 @@
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "BOYAHNAH",
+        "url": "https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9"
+      },
+      "artists": [
+        {
+          "name": "Bahd Man Niko",
+          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
+        }
+      ],
+      "duration_ms": 124069,
+      "name": "P.P.P (Puff Puff Pass)",
+      "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
     }
   ],
   "unique_name": "Naija Bars ",

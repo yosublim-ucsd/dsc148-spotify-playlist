@@ -6950,7 +6950,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
@@ -16013,6 +16013,24 @@
     },
     {
       "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86983,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -17542,7 +17560,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
@@ -19568,7 +19586,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
@@ -22578,7 +22596,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 205938,
       "name": "The girl, so confusing version with lorde",
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
@@ -22878,7 +22896,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -24072,7 +24090,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
@@ -25756,7 +25774,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Fontaines D.C.
 
-1,324 songs - 3 day 4 hr 7 min
+1,325 songs - 3 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,7 +657,7 @@
 | [Let It Burn](https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let It Burn](https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ) | 3:26 | 2023-10-05 | 2024-05-03 |
 | [Let Me Let You Go](https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:00 | 2023-06-01 | 2023-06-16 |
 | [Let's Go](https://open.spotify.com/track/3DxV00iPKVUlqnbrzkN2gX) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [A Matter of Time](https://open.spotify.com/album/1MubHea0GIiXMyvcZZ3lel) | 2:21 | 2024-01-04 | 2024-01-12 |
-| [Letterman](https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Letterman](https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo) | 3:01 | 2024-05-02 |  |
+| [Letterman](https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Letterman](https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo) | 3:01 | 2024-05-02 | 2024-06-25 |
 | [Levee](https://open.spotify.com/track/3LjINbaBQeitJZD36pVdP4) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 4:11 | 2023-09-28 | 2023-10-13 |
 | [Liar](https://open.spotify.com/track/27xRhBTtH13Qwj5LqawMMN) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Liar](https://open.spotify.com/album/5J12lX3O7R7YOy1MyyTMEm) | 2:47 | 2024-01-04 | 2024-01-12 |
 | [Liar \(Re: Romy\)](https://open.spotify.com/track/6eiY2tu7EKFVGf2ZyCD1wy) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 4:36 | 2023-10-05 | 2023-10-20 |
@@ -1242,6 +1242,7 @@
 | [wasted.](https://open.spotify.com/track/6IaWNJ6qOWlGeHBiiTtsv7) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ) | [wasted.](https://open.spotify.com/album/30XsDPphme5KwIyvzx9jys) | 3:19 | 2023-03-23 | 2023-03-31 |
 | [Wasteland](https://open.spotify.com/track/7qiMle24h8ZpMlM1MJz6bE) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Wasteland](https://open.spotify.com/album/4JcEWdNgAifwRcjqLpTY5o) | 2:53 | 2023-09-21 | 2023-09-29 |
 | [Wasterpiece](https://open.spotify.com/track/0SxY0AzOnS96W8qAvD2dAc) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Wasterpiece](https://open.spotify.com/album/1OgkglNXgSMZsMzSlDjOAg) | 3:11 | 2023-10-26 | 2023-11-10 |
+| [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 | 2024-06-21 |  |
 | [Watching Over You](https://open.spotify.com/track/2Aa40bMIuz3gIrd35mtopM) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Watching Over You](https://open.spotify.com/album/75gQW331p6jeddVDLChQ7o) | 3:14 | 2023-08-03 | 2023-08-18 |
 | [Watching The Credits](https://open.spotify.com/track/71qgKwa2bSdb2gB6Qob5qT) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/4wcu9s9C12dBnYAvpeK9QY) | 3:15 | 2023-03-30 | 2023-04-07 |
 | [Waves](https://open.spotify.com/track/3sRHeVa57YCRYR6fjaZcB7) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [Waves](https://open.spotify.com/album/6kUu3vyRQBmVZHncZxML0w) | 2:54 | 2023-07-27 | 2023-08-11 |

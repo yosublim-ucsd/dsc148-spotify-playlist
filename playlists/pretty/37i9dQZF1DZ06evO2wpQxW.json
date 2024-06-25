@@ -1,12 +1,12 @@
 {
   "description": "This Is Calibre 50. Los temas esenciales, todos en una lista.",
-  "num_followers": 672563,
+  "num_followers": 672635,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAABBP0863aBlItT/Ps2Emcoo",
+  "snapshot_id": "ZndlgAAAAAC+BJYYMUNzLSB08MCJaaup",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Sinaloa Para El Mundo",
+        "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 161613,
+      "name": "Escuela Del Virus Antrax",
+      "url": "https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuidando El Territorio",
         "url": "https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 186833,
       "name": "Cuidando El Territorio",
       "url": "https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Sinaloa Para El Mundo",
-        "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 161613,
-      "name": "Escuela Del Virus Antrax",
-      "url": "https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe"
     },
     {
       "added_at": null,

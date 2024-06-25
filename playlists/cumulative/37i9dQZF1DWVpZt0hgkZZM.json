@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 339114,
       "name": "Alicia Adorada",
       "url": "https://open.spotify.com/track/7CRIeEj0hYofPyXDMZGCxY"
@@ -264,7 +264,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 283591,
       "name": "Amor Sin Fronteras",
       "url": "https://open.spotify.com/track/0K0oGuHLOEAAGcRJNK1Bhi"
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 268811,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5ZHyXVoIkQsZcBQERMvyiB"
@@ -1854,6 +1854,28 @@
       "duration_ms": 221440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
+    },
+    {
+      "album": {
+        "name": "Historia Musical de los Ocho de Colombia",
+        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+      },
+      "artists": [
+        {
+          "name": "Los Ocho De Colombia",
+          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+        },
+        {
+          "name": "\u00c9der Ortega",
+          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218055,
+      "name": "La Colombina",
+      "url": "https://open.spotify.com/track/4Ta7BfcQLJnSmZRzmLiDOw"
     },
     {
       "album": {

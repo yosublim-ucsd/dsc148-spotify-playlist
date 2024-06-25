@@ -1,12 +1,12 @@
 {
-  "description": "This is Akari Kito. The essential tracks, all in one playlist.",
-  "num_followers": 2193,
-  "original_name": "This Is Akari Kito",
+  "description": "This is \u9b3c\u982d\u660e\u91cc. The essential tracks, all in one playlist.",
+  "num_followers": 2196,
+  "original_name": "This Is \u9b3c\u982d\u660e\u91cc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAD1c1/MGoyszhyvkBezomR7",
+  "snapshot_id": "ZndlgAAAAADNW5mMtEwuHnWjQRLgcMD5",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 209693,
-      "name": "Swinging Heart",
-      "url": "https://open.spotify.com/track/0yAegrVbCDH2i3VVKzwpqu"
+      "duration_ms": 195080,
+      "name": "Drawing a Wish",
+      "url": "https://open.spotify.com/track/70dkA9hhBrGKVIY8pKBqDB"
     },
     {
       "added_at": null,
@@ -252,7 +252,7 @@
       "added_at": null,
       "album": {
         "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa"
+        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
       },
       "artists": [
         {
@@ -262,7 +262,7 @@
       ],
       "duration_ms": 308786,
       "name": "Esquisse",
-      "url": "https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3"
+      "url": "https://open.spotify.com/track/6KZ1wCYVxZEsxn45xCKc6P"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 195080,
-      "name": "Drawing a Wish",
-      "url": "https://open.spotify.com/track/70dkA9hhBrGKVIY8pKBqDB"
+      "duration_ms": 209693,
+      "name": "Swinging Heart",
+      "url": "https://open.spotify.com/track/0yAegrVbCDH2i3VVKzwpqu"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 184626,
-      "name": "BYERONY",
-      "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
+      "duration_ms": 253040,
+      "name": "illminate",
+      "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 253040,
-      "name": "illminate",
-      "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
+      "duration_ms": 184626,
+      "name": "BYERONY",
+      "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
     },
     {
       "added_at": null,
@@ -553,6 +553,6 @@
       "url": "https://open.spotify.com/track/7lGqrHJq4niQ5F2GLqNYlE"
     }
   ],
-  "unique_name": "This Is Akari Kito",
+  "unique_name": "This Is \u9b3c\u982d\u660e\u91cc",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y"
 }

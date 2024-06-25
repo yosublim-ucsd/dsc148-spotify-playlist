@@ -189,6 +189,42 @@
     },
     {
       "album": {
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/2rQcFn8S56rHGunFB5pog1"
+      },
+      "artists": [
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128009,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/1igt6mKqktOnfhLJGbhrMV"
+    },
+    {
+      "album": {
+        "name": "Baddest Teddy Bear",
+        "url": "https://open.spotify.com/album/2sw7ajwHsbyXlWxKFzMZTw"
+      },
+      "artists": [
+        {
+          "name": "Dee & Friends",
+          "url": "https://open.spotify.com/artist/2lGGE35VFwio8LutCGUIln"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150525,
+      "name": "Baddest Teddy Bear",
+      "url": "https://open.spotify.com/track/16yfHnOu2e4PDvMQNcUoq3"
+    },
+    {
+      "album": {
         "name": "True Tunes",
         "url": "https://open.spotify.com/album/1PNn0XkjppVpSmZSkbXfnQ"
       },
@@ -1867,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "Dee\u2019s Journey",
+        "url": "https://open.spotify.com/album/76idtdziC8Hh4gvVOrqmJU"
+      },
+      "artists": [
+        {
+          "name": "Dee & Friends",
+          "url": "https://open.spotify.com/artist/2lGGE35VFwio8LutCGUIln"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103115,
+      "name": "Proud to Be Loud",
+      "url": "https://open.spotify.com/track/4DdMZPTC3mgp4EgCxegPSX"
+    },
+    {
+      "album": {
         "name": "Motown Magic (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3okRYttyTWAO5i7rgkyeKL"
       },
@@ -2106,6 +2160,24 @@
       "duration_ms": 87626,
       "name": "Scientific Method",
       "url": "https://open.spotify.com/track/5SvRpPCx20jXnwIRhaqLtN"
+    },
+    {
+      "album": {
+        "name": "Silly Bad Guys",
+        "url": "https://open.spotify.com/album/3UBytlscm3YF53uF6mKUE8"
+      },
+      "artists": [
+        {
+          "name": "Gabby's Dollhouse",
+          "url": "https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119974,
+      "name": "Silly Bad Guys",
+      "url": "https://open.spotify.com/track/7bVqndIGfEdtExbGT2sgR5"
     },
     {
       "album": {

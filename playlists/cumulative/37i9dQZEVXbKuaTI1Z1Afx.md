@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-2,812 songs - 6 day 5 hr 59 min
+2,813 songs - 6 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 3:17 | 2023-09-04 | 2023-09-11 |
 | [Chateau \(Feel Alright\)](https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:32 | 2022-06-07 | 2022-08-09 |
 | [Cheeseburger In Paradise](https://open.spotify.com/track/6VeZ970uI0Yi6sjBgyFBrp) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Son Of A Son Of A Sailor](https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK) | 2:56 | 2023-09-03 | 2023-09-12 |
-| [CHEGOU 3](https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [CHEGOU 3](https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj) | 2:39 | 2024-06-12 | 2024-06-21 |
+| [CHEGOU 3](https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [CHEGOU 3](https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj) | 2:39 | 2024-06-12 |  |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-05-09 | 2023-05-17 |
 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 | 2022-01-06 | 2022-02-23 |
 | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/track/2gLp6u7J2vNHSIBIWHwmG4) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Killed The Cowboy](https://open.spotify.com/album/7uWz6n5E9FWKako5gGdpS0) | 3:04 | 2023-10-03 | 2023-10-08 |
@@ -1886,7 +1886,8 @@
 | [Pongámonos De Acuerdo](https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:41 | 2022-06-24 | 2022-07-14 |
 | [Poor Unfortunate Souls](https://open.spotify.com/track/2OOdeu2Q1yQmQabgp07FOe) | [Melissa McCarthy](https://open.spotify.com/artist/7Ctc7ZLdwiEF0BGzG4pOul) | [The Little Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) | 4:42 | 2023-06-13 | 2023-06-21 |
 | [Pop like this Pt\. 2](https://open.spotify.com/track/53dGCRXGyCUV5Ycoy6Md34) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2](https://open.spotify.com/album/2ZdF0MMUCaIN52rySZXIQZ) | 1:39 | 2024-05-16 | 2024-05-18 |
-| [Pop like this Pt\. 2 \- Slowed](https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2 \(Slowed\)](https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x) | 2:02 | 2024-06-22 |  |
+| [Pop like this Pt\. 2 \- Slowed](https://open.spotify.com/track/2JH5P7TPQAlKDvBZAkMXDp) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2 \(Slowed\)](https://open.spotify.com/album/234kj0msMVe1QJN8D46ExH) | 2:02 | 2024-06-24 |  |
+| [Pop like this Pt\. 2 \- Slowed](https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2 \(Slowed\)](https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x) | 2:02 | 2024-06-22 | 2024-06-25 |
 | [Pop Ya Shit \(Freestyle\)](https://open.spotify.com/track/26JsQSJmZPZb0XpNqaGUht) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Pop Ya Shit \(Freestyle\)](https://open.spotify.com/album/2Z8qn8JdWL7AWdwvwLIGhc) | 1:38 | 2023-03-01 | 2023-03-03 |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-07-19 | 2022-08-16 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-27 | 2022-01-06 |
@@ -2739,7 +2740,7 @@
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-05-09 | 2023-05-17 |
 | [Witch Doctor](https://open.spotify.com/track/4kovpzSYYoguJxUXQesQ13) | [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Ultimate Kids Halloween Party Album](https://open.spotify.com/album/5ui3iBWZ6bvMRfCpAJWAvy) | 2:25 | 2022-10-30 | 2023-11-04 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-17 | 2022-06-01 |
-| [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-06-04 |  |
+| [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-06-04 | 2024-06-25 |
 | [Wonderful Time](https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N) | [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Wonderful Time](https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL) | 2:41 | 2021-12-27 | 2021-12-29 |
 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2024-02-03 | 2024-02-28 |
 | [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2023-09-25 | 2024-02-04 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAD2+ib3tixDjsmceQpco407",
+  "snapshot_id": "ZndlgAAAAAB1I5E5UcJ4qat/vuBqjJK5",
   "tracks": [
     {
       "added_at": null,
@@ -486,19 +486,11 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "iaamSaam",
-          "url": "https://open.spotify.com/artist/7hiruGfUeM7Em4m8FaCsCx"
-        },
-        {
-          "name": "Matty Tavares",
-          "url": "https://open.spotify.com/artist/2xNQUZyvCA5heFKgWU55sW"
         }
       ],
-      "duration_ms": 204249,
-      "name": "Midnight Snack (feat. iaamSaam & Matty Tavares)",
-      "url": "https://open.spotify.com/track/0aNGZDDGLR9VvdFL4ACBOk"
+      "duration_ms": 224327,
+      "name": "Wavestation",
+      "url": "https://open.spotify.com/track/4esYwvnNUhEZ7OT6hkloM2"
     },
     {
       "added_at": null,
@@ -532,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 195431,
-      "name": "Right Hook",
-      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
+      "duration_ms": 164125,
+      "name": "Checkpoint Titanium",
+      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
     },
     {
       "added_at": null,
@@ -546,11 +538,15 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Maddee Ritter",
+          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
         }
       ],
-      "duration_ms": 123000,
-      "name": "Ashe Maree",
-      "url": "https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn"
+      "duration_ms": 282000,
+      "name": "She's Strong (feat. Maddee)",
+      "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"
     },
     {
       "added_at": null,
@@ -562,11 +558,19 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "iaamSaam",
+          "url": "https://open.spotify.com/artist/7hiruGfUeM7Em4m8FaCsCx"
+        },
+        {
+          "name": "Matty Tavares",
+          "url": "https://open.spotify.com/artist/2xNQUZyvCA5heFKgWU55sW"
         }
       ],
-      "duration_ms": 224327,
-      "name": "Wavestation",
-      "url": "https://open.spotify.com/track/4esYwvnNUhEZ7OT6hkloM2"
+      "duration_ms": 204249,
+      "name": "Midnight Snack (feat. iaamSaam & Matty Tavares)",
+      "url": "https://open.spotify.com/track/0aNGZDDGLR9VvdFL4ACBOk"
     },
     {
       "added_at": null,
@@ -604,9 +608,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 164125,
-      "name": "Checkpoint Titanium",
-      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
+      "duration_ms": 195431,
+      "name": "Right Hook",
+      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
     },
     {
       "added_at": null,
@@ -618,15 +622,11 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Maddee Ritter",
-          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
         }
       ],
-      "duration_ms": 282000,
-      "name": "She's Strong (feat. Maddee)",
-      "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"
+      "duration_ms": 123000,
+      "name": "Ashe Maree",
+      "url": "https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn"
     },
     {
       "added_at": null,

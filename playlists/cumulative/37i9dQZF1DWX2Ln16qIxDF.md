@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo más trendy, o sea la bichota.
 
-506 songs - 1 day 1 hr 58 min
+507 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [La Vida Sin Ti](https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [La Vida Sin Ti](https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP) | 2:44 | 2024-04-26 | 2024-05-04 |
 | [La\_Original.mp3](https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:20 | 2024-02-21 | 2024-05-11 |
 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 | 2023-11-03 | 2024-03-15 |
+| [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 | 2024-06-24 |  |
 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 | 2023-11-24 | 2023-12-16 |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-06-23 | 2023-11-11 |
 | [LATI2](https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [LATI2](https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am) | 3:24 | 2023-05-26 | 2023-08-19 |

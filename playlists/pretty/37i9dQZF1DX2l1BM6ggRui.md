@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,508 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,509 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 29 | [Anywhere](https://open.spotify.com/track/68A5OaBH9feTRySwoFpGSX) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:37 |
 | 30 | [Brave](https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Extraordinary Attorney Woo \(Original Television SoundTrack\) Pt\. 1](https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK) | 4:22 |
 | 31 | [Page 0](https://open.spotify.com/track/10X2ihhKwPyKzo89h4965O) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Page 0](https://open.spotify.com/album/1MX2MhEx1G8BCiYrlSomgg) | 3:07 |
-| 32 | [Miracle](https://open.spotify.com/track/2VxF5wUA8u0wOUD9hnN65W) | [KIM SEON HO](https://open.spotify.com/artist/5w5CmXkCojaeNaZeJ4Nt5t) | [Miracle](https://open.spotify.com/album/0ph7K6mRDo0bzD7KngJq3i) | 3:32 |
-| 33 | [wish you all to be happy](https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [wish you all to be happy](https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm) | 3:52 |
+| 32 | [wish you all to be happy](https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [wish you all to be happy](https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm) | 3:52 |
+| 33 | [Miracle](https://open.spotify.com/track/2VxF5wUA8u0wOUD9hnN65W) | [KIM SEON HO](https://open.spotify.com/artist/5w5CmXkCojaeNaZeJ4Nt5t) | [Miracle](https://open.spotify.com/album/0ph7K6mRDo0bzD7KngJq3i) | 3:32 |
 | 34 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 |
 | 35 | [System Error](https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [System Error](https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf) | 3:22 |
 | 36 | [At Night](https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Crash Course in Romance OST Part 4](https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn) | 2:52 |

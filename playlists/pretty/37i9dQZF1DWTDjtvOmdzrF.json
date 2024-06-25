@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 554994,
+  "num_followers": 555009,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "Tentang Kamu",
-        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
+        "name": "Tak Ingin Pisah Lagi",
+        "url": "https://open.spotify.com/album/55EPRJFc0JAWKeLEFJogQ4"
       },
       "artists": [
         {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        },
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
         }
       ],
-      "duration_ms": 203640,
-      "name": "Pernah Muda",
-      "url": "https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT"
+      "duration_ms": 265518,
+      "name": "Tak Ingin Pisah Lagi",
+      "url": "https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -1231,22 +1235,18 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "Tak Ingin Pisah Lagi",
-        "url": "https://open.spotify.com/album/55EPRJFc0JAWKeLEFJogQ4"
+        "name": "Tentang Kamu",
+        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
       },
       "artists": [
         {
-          "name": "Marion Jola",
-          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
-        },
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
         }
       ],
-      "duration_ms": 265518,
-      "name": "Tak Ingin Pisah Lagi",
-      "url": "https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg"
+      "duration_ms": 203640,
+      "name": "Pernah Muda",
+      "url": "https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT"
     }
   ],
   "unique_name": "Kopikustik",

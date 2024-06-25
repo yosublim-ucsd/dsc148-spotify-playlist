@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,621 likes - 47 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,623 likes - 47 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 4 | [Mixed Feelings](https://open.spotify.com/track/7pbIwRECTzRIQZTgujrOYn) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:23 |
 | 5 | [Simple Love Song](https://open.spotify.com/track/6fyj8DYAUlrjDcJBOVnYEB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:44 |
 | 6 | [Perfect Day](https://open.spotify.com/track/4fEYB07ZQlCS57QYD4puMy) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Butterflies: Live](https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4) | 4:34 |
-| 7 | [Island Inside Me](https://open.spotify.com/track/6OwueibIYT4JEQCm3U2EKX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:21 |
-| 8 | [True Colors \(Kou ʻano Kūʻiʻo\)](https://open.spotify.com/track/0YL2CC1DNKAovuhpuQIu2N) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Hawaiian Lullaby](https://open.spotify.com/album/2pINChaBkC0qnFcAIu3rtT) | 3:28 |
+| 7 | [True Colors \(Kou ʻano Kūʻiʻo\)](https://open.spotify.com/track/0YL2CC1DNKAovuhpuQIu2N) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Hawaiian Lullaby](https://open.spotify.com/album/2pINChaBkC0qnFcAIu3rtT) | 3:28 |
+| 8 | [Island Inside Me](https://open.spotify.com/track/6OwueibIYT4JEQCm3U2EKX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:21 |
 | 9 | [Come over Love](https://open.spotify.com/track/1SFJG4vZLzjHTmGVj7Hrm8) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 4:05 |
 | 10 | [Grandpa](https://open.spotify.com/track/2rdgK1EZ5BIDntkdEKZb2o) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Grandpa](https://open.spotify.com/album/44s2rwHBZoKlEnYtdfJgAr) | 3:24 |
 | 11 | [Like the Way It Feels](https://open.spotify.com/track/5znv0x7BUNjtsJcGf9Qjgf) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 2:54 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 40 | [Endlessly](https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:14 |
 | 41 | [Follow Me \(Remix\)](https://open.spotify.com/track/3nwzpuw4jmld9GYGyUGBUa) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Remix\)](https://open.spotify.com/album/1M8gp8ALcQwerYOrPPm8Sp) | 3:15 |
 | 42 | [Walk on Water \(Live\)](https://open.spotify.com/track/20Om9CwtsWPkWBghIxRU1k) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Live at the Belly Up](https://open.spotify.com/album/6UVg3eBRR5lOpg2t6Cx4pk) | 4:01 |
-| 43 | [Boy a or Boy B](https://open.spotify.com/track/6Fky7FGFvsWe45ACPRLEAd) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:43 |
+| 43 | [Red, Gold & Green](https://open.spotify.com/track/6CIxSkIqHnaN7ZiZQxMNwC) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Kimié Miner](https://open.spotify.com/artist/5Cp5wDJmbemEQsC3XA83Mg) | [Red, Gold & Green](https://open.spotify.com/album/6PGmIHc5avNNXPTh8l7ozo) | 3:49 |
 | 44 | [Right Love, Wrong Time](https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:44 |
-| 45 | [Red, Gold & Green](https://open.spotify.com/track/6CIxSkIqHnaN7ZiZQxMNwC) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Kimié Miner](https://open.spotify.com/artist/5Cp5wDJmbemEQsC3XA83Mg) | [Red, Gold & Green](https://open.spotify.com/album/6PGmIHc5avNNXPTh8l7ozo) | 3:49 |
+| 45 | [Boy a or Boy B](https://open.spotify.com/track/6Fky7FGFvsWe45ACPRLEAd) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:43 |
 | 46 | [Come over \(Live\)](https://open.spotify.com/track/0KeV45Mymsh8RcyX1yvXuR) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Live at the Belly Up](https://open.spotify.com/album/6UVg3eBRR5lOpg2t6Cx4pk) | 5:56 |
 | 47 | [Slow Down](https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:33 |
 
-Snapshot ID: `ZnYUAAAAAADGQjyie1olsMot1DC6IZiJ`
+Snapshot ID: `ZndlgAAAAAC+MR9gPECdfQSaMjgFizoa`

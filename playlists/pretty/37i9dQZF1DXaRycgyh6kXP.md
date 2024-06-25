@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,581 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,670 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 55 | [Walking Flames](https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:10 |
 | 56 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 57 | [the place](https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 3:41 |
-| 58 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
-| 59 | [The stars vs creatures](https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 |
+| 58 | [The stars vs creatures](https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 |
+| 59 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
 | 60 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
 | 61 | [Thru U \(feat\. Bklava\)](https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [I Feel You Feel](https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo) | 2:57 |
 | 62 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 74 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
 | 75 | [Emerald and Stone](https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 2:12 |
 | 76 | [Saw You for the First Time](https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 6:44 |
-| 77 | [Immunity](https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35) | 9:56 |
-| 78 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 |
+| 77 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 |
+| 78 | [Immunity](https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35) | 9:56 |
 | 79 | [Poison Tree](https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE) | 3:16 |
 | 80 | [Way Ur Touchin Me](https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Save Me](https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk) | 4:59 |
 | 81 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 |
 | 82 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
 | 83 | [Kilika](https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for a New Earth](https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV) | 4:44 |
-| 84 | [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 |
-| 85 | [So Many Details](https://open.spotify.com/track/5Z7cI9glyUTDTRtWSs8K9I) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything In Return](https://open.spotify.com/album/3xDRuOqakukb1SjHQG4WWc) | 4:45 |
-| 86 | [Tommib Help Buss](https://open.spotify.com/track/5RQjC6zC0Jj166iNydg654) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Ultravisitor](https://open.spotify.com/album/2DgDJIt55XlfyHpep3CFKs) | 2:10 |
+| 84 | [So Many Details](https://open.spotify.com/track/5Z7cI9glyUTDTRtWSs8K9I) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything In Return](https://open.spotify.com/album/3xDRuOqakukb1SjHQG4WWc) | 4:45 |
+| 85 | [Tommib Help Buss](https://open.spotify.com/track/5RQjC6zC0Jj166iNydg654) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Ultravisitor](https://open.spotify.com/album/2DgDJIt55XlfyHpep3CFKs) | 2:10 |
+| 86 | [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 |
 | 87 | [Marilyn](https://open.spotify.com/track/5jJPcImQkogKdwsVS36zH7) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit) | 4:06 |
 | 88 | [Time Moves Slow](https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Sam Herring](https://open.spotify.com/artist/4sfhX4TAhZ7KlbMnYAROQS) | [IV](https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB) | 4:33 |
 | 89 | [Four Horsemen](https://open.spotify.com/track/3SDNkBLjb5w8jaNGnojGCc) | [Jacober](https://open.spotify.com/artist/5qqAJRq2z4M9IOULr4JtQu) | [Sketch for Winter X: Immortal Word](https://open.spotify.com/album/0wQCNrQIkv6vD7sRfiDylv) | 3:12 |

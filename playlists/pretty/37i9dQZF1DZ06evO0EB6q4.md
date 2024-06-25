@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 ### [This Is Nanpa Básico](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EB6q4)
 
-> This Is Nanpa Básico\. Los temas esenciales, todos en una lista.
+> This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,447 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,559 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 31 | [Para los Dolidos](https://open.spotify.com/track/560WpN34irYyIL5jtfQpCY) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Para los Dolidos](https://open.spotify.com/album/5shMbjREiwRHZSHSCHkIKm) | 2:36 |
 | 32 | [Arreglándome y Dañándome](https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Arreglándome y Dañándome](https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF) | 4:04 |
 | 33 | [LQRA Session \#7](https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [LQRA Session \#7](https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW) | 2:49 |
-| 34 | [Contrato](https://open.spotify.com/track/1jqP6sxQDxabgEIeoOdT1Y) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 2:52 |
-| 35 | [Hace Tanto Tiempo](https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:39 |
+| 34 | [Hace Tanto Tiempo](https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:39 |
+| 35 | [Contrato](https://open.spotify.com/track/1jqP6sxQDxabgEIeoOdT1Y) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 2:52 |
 | 36 | [Tu Look](https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Tu Look](https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ) | 2:49 |
 | 37 | [Vuelve](https://open.spotify.com/track/7JLsVIpyj7hLi43uHs8BFZ) | [Teo LB](https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Vuelve](https://open.spotify.com/album/5lHHOwtZ9cV6A3fCo70MW9) | 3:49 |
 | 38 | [Como Bolero](https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Bolero](https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB) | 3:14 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 50 | [Más que reales](https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Más que reales](https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ) | 3:24 |
 | 51 | [Ya Me la Sé](https://open.spotify.com/track/34Uv22Dr62dDJlqWckF0N0) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:01 |
 
-Snapshot ID: `ZnYUAAAAAABKIQztKjorPv8neaKKtvPO`
+Snapshot ID: `ZndlgAAAAACfovFc2o+KXhbC3kM24viW`

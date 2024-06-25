@@ -2,7 +2,7 @@
 
 ### [This Is Eric Clapton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO42oITu)
 
-> This is Eric Clapton\. The essential tracks, all in one playlist.
+> This Is Eric Clapton\. Los temas esenciales, todos en una lista.
 
 145 songs - 10 hr 59 min
 
@@ -12,7 +12,7 @@
 | [After Midnight](https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 2:51 | 2022-08-05 |  |
 | [Alberta \- Acoustic Live](https://open.spotify.com/track/713D0u0XMewrhWIQwjrlrd) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 3:38 | 2022-11-04 |  |
 | [Alberta \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/2ahE4sVGcbb0gUfnSfbdtG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 3:38 | 2022-10-24 | 2022-11-01 |
-| [All Your Love \- Stereo](https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0) | [Sam Maghett](https://open.spotify.com/artist/1xSXnf7mFuxNF0CMyQmpX2), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:32 | 2022-08-05 | 2024-06-24 |
+| [All Your Love \- Stereo](https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0) | [Sam Maghett](https://open.spotify.com/artist/1xSXnf7mFuxNF0CMyQmpX2), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:32 | 2022-08-05 |  |
 | [Always On My Mind](https://open.spotify.com/track/5YSoTfjiCDMynt1cocGIsS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Bradley Walker](https://open.spotify.com/artist/3WDUptC9KS6ZFNwkZipSlQ) | [Always On My Mind](https://open.spotify.com/album/5tDR5P1fGfzgPhaY7lvBPd) | 3:38 | 2023-09-21 | 2023-11-11 |
 | [Autumn Leaves](https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton](https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe) | 5:40 | 2022-10-31 |  |
 | [Autumn Leaves](https://open.spotify.com/track/6bLy8YiVKRpUzwWZG6lVDq) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton](https://open.spotify.com/album/2kuvLiT8HjMGWzsOq4k1Uk) | 5:40 | 2022-08-05 | 2022-11-01 |
@@ -151,7 +151,7 @@
 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 | 2022-08-05 | 2023-06-02 |
 | [While My Guitar Gently Weeps \- Live](https://open.spotify.com/track/6ZHCQehGCpGWTi6wEzs8vf) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Concert For George \(Live\)](https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu) | 5:57 | 2022-08-06 |  |
 | [Who's Been Talking?](https://open.spotify.com/track/7jLsyfKgqfLkgKfXkhWOMF) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k), [Hubert Sumlin](https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 3:04 | 2022-10-27 | 2022-10-29 |
-| [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 | 2022-08-05 |  |
+| [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 | 2022-08-05 | 2024-06-25 |
 | [Worried Life Blues](https://open.spotify.com/track/2fdhU7kBO3WVYkWJnYAlO3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:25 | 2023-07-31 | 2024-05-26 |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

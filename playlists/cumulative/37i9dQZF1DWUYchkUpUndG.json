@@ -51081,6 +51081,32 @@
     },
     {
       "album": {
+        "name": "This Is the Day (Halle)",
+        "url": "https://open.spotify.com/album/5zRg6TUFbAIpZrwHUNvZEU"
+      },
+      "artists": [
+        {
+          "name": "Julia McMillan",
+          "url": "https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ"
+        },
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411428,
+      "name": "This Is the Day (Halle)",
+      "url": "https://open.spotify.com/track/1FnbReDM3Ly7uxwarVJLp0"
+    },
+    {
+      "album": {
         "name": "This Kind God",
         "url": "https://open.spotify.com/album/4Evk89gbQxJvbSWg2LBv4E"
       },

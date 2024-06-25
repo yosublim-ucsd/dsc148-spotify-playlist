@@ -1,6 +1,6 @@
 {
   "description": "Las superestrellas del agua y el jab\u00f3n.",
-  "num_followers": 146707,
+  "num_followers": 146781,
   "original_name": "Cantando en el Ba\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-06-12 20:45:41",
       "album": {
-        "name": "Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 192313,
-      "name": "M\u00f3naco",
-      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
-    },
-    {
-      "added_at": "2024-06-12 20:45:41",
-      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
+    },
+    {
+      "added_at": "2024-06-12 20:45:41",
+      "album": {
+        "name": "Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 192313,
+      "name": "M\u00f3naco",
+      "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
     },
     {
       "added_at": "2024-06-12 20:45:41",

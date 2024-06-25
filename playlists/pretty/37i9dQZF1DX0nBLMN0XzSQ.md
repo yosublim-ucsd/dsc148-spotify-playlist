@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 
 > Après Ski...you know what that means!
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,565 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,555 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 19 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
 | 20 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:38 |
 | 21 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 |
-| 22 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 |
-| 23 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
+| 22 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
+| 23 | [Levels \- Radio Edit](https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Levels](https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg) | 3:19 |
 | 24 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 |
 | 25 | [Feel This Moment \(feat\. Christina Aguilera\)](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:49 |
 | 26 | [On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 4:44 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 45 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 |
 | 46 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 |
 | 47 | [I'm So Excited](https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [So Excited! \(Expanded Edition\)](https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS) | 3:50 |
-| 48 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
-| 49 | [On The Floor \- Radio Edit](https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [On The Floor](https://open.spotify.com/album/543NK5YT3RjGmP7nFzWJPm) | 3:50 |
+| 48 | [On The Floor \- Radio Edit](https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [On The Floor](https://open.spotify.com/album/543NK5YT3RjGmP7nFzWJPm) | 3:50 |
+| 49 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |
 | 50 | [Hooked On A Feeling](https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd) | [Blue Swede](https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp), [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Hooked On A Feeling](https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze) | 2:52 |
 | 51 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
 | 52 | [All Around The World \(La La La\)](https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ) | 2:27 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 74 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 |
 | 75 | [Tubthumping](https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt) | 4:38 |
 | 76 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Finest](https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM) | 3:39 |
-| 77 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
-| 78 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
+| 77 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
+| 78 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 | 79 | [Saturday Night \- Radio Mix](https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Saturday Night Single](https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud) | 4:07 |
 | 80 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,357 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,566 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,14 +62,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 52 | [Chichera](https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Dubamerica](https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX) | 5:36 |
 | 53 | [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 |
 | 54 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Simón Mejía](https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
-| 55 | [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 |
-| 56 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
+| 55 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
+| 56 | [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 |
 | 57 | [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 |
 | 58 | [Blossom](https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Los Santos y Pecadores](https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu) | 3:18 |
 | 59 | [Pacifico Soy](https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK) | [Electropico](https://open.spotify.com/artist/0vBqXIopwkJEQZEssLZEBK), [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ) | [Fiera](https://open.spotify.com/album/1yjWcaPexYHc4DYKFfVfuc) | 2:50 |
 | 60 | [Aima](https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Hybridism](https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H) | 5:08 |
-| 61 | [Juanita](https://open.spotify.com/track/52iHuhD1Xw0KcMgE55MvcK) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Juanita](https://open.spotify.com/album/6s3Fpi741oftAVXvdqfhe9) | 3:46 |
-| 62 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
+| 61 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
+| 62 | [Juanita](https://open.spotify.com/track/52iHuhD1Xw0KcMgE55MvcK) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Juanita](https://open.spotify.com/album/6s3Fpi741oftAVXvdqfhe9) | 3:46 |
 | 63 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 |
 | 64 | [Vámonos \- Vazlá Remix](https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Vazlá](https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV) | [Dj friendly](https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o) | 3:54 |
 | 65 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |

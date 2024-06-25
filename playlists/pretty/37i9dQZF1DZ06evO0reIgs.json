@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81373,
+  "num_followers": 81376,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAACM9tW2O3B82g8c+iOf6IP7",
+  "snapshot_id": "ZndlgAAAAABFRZwWO6Qr6N2odJoFl0v9",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 193322,
+      "name": "Camisa P",
+      "url": "https://open.spotify.com/track/0DPjN6E1YtYIH42IPomCNM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica #8: Amor e Samba",
         "url": "https://open.spotify.com/album/4RywQdWtmYauBzjeUqLTZX"
       },
@@ -131,38 +163,6 @@
       "duration_ms": 614615,
       "name": "Poesia Ac\u00fastica #8: Amor e Samba",
       "url": "https://open.spotify.com/track/2RoWhAVtQrPU53BERYlmYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 193322,
-      "name": "Camisa P",
-      "url": "https://open.spotify.com/track/0DPjN6E1YtYIH42IPomCNM"
     },
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sexta-Feira",
-        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 239118,
-      "name": "Sexta-Feira",
-      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Col\u00edrio da C\u00f3lera",
         "url": "https://open.spotify.com/album/0N9FuUX9s8kpPuTOxtq0kt"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 202108,
       "name": "Jurei/Odin",
       "url": "https://open.spotify.com/track/1Zd1T3T45QW6Pv8U0l0uPT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sexta-Feira",
+        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 239118,
+      "name": "Sexta-Feira",
+      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Culpa \u00c9 Minha",
-        "url": "https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO"
-      },
-      "artists": [
-        {
-          "name": "Matheusinho",
-          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 197114,
-      "name": "A Culpa \u00c9 Minha",
-      "url": "https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o \u00e9 S\u00f3 Isso (Ao Vivo)",
         "url": "https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 279452,
       "name": "Sorria (Faixa B\u00f4nus) - Ao Vivo",
       "url": "https://open.spotify.com/track/7gf10dQJDlAwOcezGQkLMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Culpa \u00c9 Minha",
+        "url": "https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO"
+      },
+      "artists": [
+        {
+          "name": "Matheusinho",
+          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 197114,
+      "name": "A Culpa \u00c9 Minha",
+      "url": "https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR"
     },
     {
       "added_at": null,
@@ -967,6 +967,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Efeito Violeta",
+        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 239166,
+      "name": "Efeito Violeta",
+      "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Culpa \u00c9 das Igrejas / Sinais",
         "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 247975,
       "name": "A Culpa \u00c9 das Igrejas / Sinais",
       "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Efeito Violeta",
-        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 239166,
-      "name": "Efeito Violeta",
-      "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
     },
     {
       "added_at": null,

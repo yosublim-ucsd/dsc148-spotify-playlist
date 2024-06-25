@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,077 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,079 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 37 | [Serenou/Nosso Mundo \- Acoustic Sessions](https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn) | [Yeti Reggae Club](https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs) | [Serenou/Nosso Mundo \(Acoustic Sessions\)](https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ) | 3:41 |
 | 38 | [Versos Simples \- Ao Vivo](https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH), [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Ao Vivo em Buenos Aires](https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD) | 3:07 |
 | 39 | [De Tanto Sol \(Acústico\)](https://open.spotify.com/track/4zOn4Xw4QIXZkFME9IIr5R) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [De Tanto Sol \(Acústico\)](https://open.spotify.com/album/0G9XFPE6847h3nRRL7Ct8n) | 3:16 |
-| 40 | [Firmamento \(Wrong Girl to Play With\) \[Acústico\]](https://open.spotify.com/track/5ML1D7QsoupxcvUJgf7eD1) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:42 |
-| 41 | [Rasta no Topo \- Ao Vivo](https://open.spotify.com/track/6LRSZXqMl7VjYqDfJdyEB2) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque Vivo \(Ao Vivo\)](https://open.spotify.com/album/6bc00G612a4Ru1u6gs4cPx) | 4:01 |
+| 40 | [A Sombra da Maldade \(Acústico\)](https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:50 |
+| 41 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 |
 | 42 | [Filme de Romance](https://open.spotify.com/track/4iTahl8TU9hjSaGGVAsdTd) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Acústico Planta e Raiz 2022, Pt\. 1](https://open.spotify.com/album/4ZJQfw6hoCE1t2YcTijqTU) | 3:07 |
-| 43 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 |
+| 43 | [Rasta no Topo \- Ao Vivo](https://open.spotify.com/track/6LRSZXqMl7VjYqDfJdyEB2) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque Vivo \(Ao Vivo\)](https://open.spotify.com/album/6bc00G612a4Ru1u6gs4cPx) | 4:01 |
 | 44 | [Roots Dance](https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY) | 3:33 |
 | 45 | [Cravo e Canela \- Acústico \| Ao Vivo](https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Casa de Praia Acústico \(Ao Vivo\)](https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE) | 3:35 |
 | 46 | [Nesses Olhos \- Ao Vivo](https://open.spotify.com/track/5BeOmmGoxAvDus9Ozpc0MI) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:44 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 66 | [Andei Só \- Ao Vivo](https://open.spotify.com/track/754w4HeOR2R6Si4UmQB8tv) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 4:23 |
 | 67 | [Onda do Arraial \- Ao Vivo](https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:25 |
 | 68 | [Saudades Do Tempo \- Ao Vivo Em São Paulo](https://open.spotify.com/track/4CROpP2nRsHjCWUxJ7Ewpy) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 4:56 |
-| 69 | [A Sombra da Maldade \(Acústico\)](https://open.spotify.com/track/6oGsJnSlJdGQ6Rir5YHS8c) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:50 |
+| 69 | [Firmamento \(Wrong Girl to Play With\) \[Acústico\]](https://open.spotify.com/track/5ML1D7QsoupxcvUJgf7eD1) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:42 |
 | 70 | [O Erê \(Acústico\)](https://open.spotify.com/track/1Mfx88JU9ztFfsGc2k5pCQ) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:56 |
 | 71 | [Vá Viver \- Acústico / Ao Vivo](https://open.spotify.com/track/6TuiSfDGYyVZ7C5fxKOszw) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:25 |
 | 72 | [Amor Fora Da Lei \- Acústico / Ao Vivo](https://open.spotify.com/track/35ivG7tuA3VNjIR8AFT9jJ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:50 |

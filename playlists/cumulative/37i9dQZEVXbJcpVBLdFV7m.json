@@ -2276,7 +2276,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 113142,
       "name": "GANG",
       "url": "https://open.spotify.com/track/00Srvq2BtgG9afXY9kzB1V"
@@ -3252,7 +3252,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 153904,
       "name": "Jump",
       "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
@@ -4921,6 +4921,24 @@
     },
     {
       "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86983,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
+    },
+    {
+      "album": {
         "name": "Set The Tone (Guns & Roses)",
         "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
       },
@@ -5490,7 +5508,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 204507,
       "name": "Po-poleka",
       "url": "https://open.spotify.com/track/7E7Otd6olZ3xiwyORGy2ZB"
@@ -5704,7 +5722,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 314440,
       "name": "Read The Room",
       "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
@@ -6949,6 +6967,28 @@
     },
     {
       "album": {
+        "name": "Summer Days",
+        "url": "https://open.spotify.com/album/4n0HJeHp56vSflyok5awzi"
+      },
+      "artists": [
+        {
+          "name": "Sean Finn",
+          "url": "https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS"
+        },
+        {
+          "name": "Tinka",
+          "url": "https://open.spotify.com/artist/5626VmxFoupcr1tP391t4E"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209583,
+      "name": "Summer Days - Ben Delay Radio Mix",
+      "url": "https://open.spotify.com/track/05g5S0Gbl3XinIlQJd4wst"
+    },
+    {
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
       },
@@ -6996,7 +7036,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
@@ -8582,7 +8622,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 110471,
       "name": "Yo Bunny",
       "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"

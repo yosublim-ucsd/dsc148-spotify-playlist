@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,088 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,087 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 71 | [Stay With Me \(feat\. Brick\)](https://open.spotify.com/track/3hMhTQuyerdLRPATMY61CR) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq), [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [Stay With Me](https://open.spotify.com/album/7wHGPtZKJIvgTGW4RkQakm) | 3:04 |
 | 72 | [Whenever](https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Whenever](https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V) | 3:20 |
 | 73 | [Weird Boy](https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm) | [murmoom](https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3) | [Weird Boy](https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s) | 3:37 |
-| 74 | [I See You](https://open.spotify.com/track/3ykkBOfFlZrIqgxn6aoLya) | [ODD\-CAT](https://open.spotify.com/artist/61jqDpCSDJeuItEQIgBxBe), [Kim Je Hun](https://open.spotify.com/artist/2yBQzC1P5kNQBFqpgHUIg0) | [I See You](https://open.spotify.com/album/4FwZ6ZCeZVo7wQ3abMjvH4) | 3:12 |
-| 75 | [Night train](https://open.spotify.com/track/5J1AHgFZRVy4t9g7eDtmH7) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Spring](https://open.spotify.com/album/6IF62ngGe6loJjiRwgap8s) | 3:40 |
+| 74 | [Night train](https://open.spotify.com/track/5J1AHgFZRVy4t9g7eDtmH7) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Spring](https://open.spotify.com/album/6IF62ngGe6loJjiRwgap8s) | 3:40 |
+| 75 | [I See You](https://open.spotify.com/track/3ykkBOfFlZrIqgxn6aoLya) | [ODD\-CAT](https://open.spotify.com/artist/61jqDpCSDJeuItEQIgBxBe), [Kim Je Hun](https://open.spotify.com/artist/2yBQzC1P5kNQBFqpgHUIg0) | [I See You](https://open.spotify.com/album/4FwZ6ZCeZVo7wQ3abMjvH4) | 3:12 |
 
 Snapshot ID: `ZjzunQAAAAB+bKb4pRe546NH4H/Ye1ls`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Samara
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,023 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,052 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 30 | [PAGHIIIIIIIIIIZ](https://open.spotify.com/track/6I1Nu4OyIr7xnja8tAOBGf) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [PAGHIIIIIIIIIIZ](https://open.spotify.com/album/3MADWJj5uRlmXYzHpZMQ9X) | 2:22 |
 | 31 | [MTV CRIBS](https://open.spotify.com/track/2pMw5VOlOtM7q5j2vp3QbF) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [MTV CRIBS](https://open.spotify.com/album/1OXlhfKHKoXmHBVBhAlSFi) | 3:44 |
 | 32 | [EL Moled \- Red Bull Sada sot](https://open.spotify.com/track/2AwcETrfQJe4PgC8SyO1tZ) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [EL Moled \(Red Bull Sada sot\)](https://open.spotify.com/album/1DETVyDIOnE9AFtzI6LJqG) | 2:39 |
-| 33 | [OMG](https://open.spotify.com/track/1bCiTfGvySuWQiOVwghr5J) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [OMG](https://open.spotify.com/album/5ZkU2Bpyms27ABdDTnVfqR) | 3:39 |
-| 34 | [Rio](https://open.spotify.com/track/0Z3PUi6pnShr7HmhjYkhkV) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [HEPTA](https://open.spotify.com/album/3JQgobucm5cegRkCt202JN) | 2:30 |
+| 33 | [Rio](https://open.spotify.com/track/0Z3PUi6pnShr7HmhjYkhkV) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [HEPTA](https://open.spotify.com/album/3JQgobucm5cegRkCt202JN) | 2:30 |
+| 34 | [OMG](https://open.spotify.com/track/1bCiTfGvySuWQiOVwghr5J) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [OMG](https://open.spotify.com/album/5ZkU2Bpyms27ABdDTnVfqR) | 3:39 |
 | 35 | [Lang](https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Lang](https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm) | 2:26 |
 | 36 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
 | 37 | [Fein El Dawa](https://open.spotify.com/track/003TuuUc1rrAiuq6Nora4X) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [SULTAN](https://open.spotify.com/album/4clzoFbF4ygMmBSP5xKH3M) | 2:41 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 42 | [Storm](https://open.spotify.com/track/3eXWngGDvtPMFcBPfuWqW7) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [HEPTA](https://open.spotify.com/album/3JQgobucm5cegRkCt202JN) | 3:13 |
 | 43 | [Rajel](https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Rajel](https://open.spotify.com/album/5qIdMl371jLKWHDkj63uca) | 3:33 |
 | 44 | [هجمة مرتدة](https://open.spotify.com/track/1EvuN2Orgy4wmNw4I5YwVS) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [هجمة مرتدة](https://open.spotify.com/album/3jnX7VGsqap7ywQ7tGHCUr) | 2:49 |
-| 45 | [SHED F TARFO](https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [SHED F TARFO](https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf) | 2:36 |
+| 45 | [W Bashot](https://open.spotify.com/track/3bhQZfZf8NEiZDkwAafdpe) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:34 |
 | 46 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |
-| 47 | [W Bashot](https://open.spotify.com/track/3bhQZfZf8NEiZDkwAafdpe) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:34 |
+| 47 | [SHED F TARFO](https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [SHED F TARFO](https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf) | 2:36 |
 | 48 | [3al hady](https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [3al hady](https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F) | 2:48 |
 | 49 | [Toxic](https://open.spotify.com/track/621Vt78aQn1xFLJzLctbrT) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [Toxic](https://open.spotify.com/album/0D6SYdL7PWe78raNg3G48j) | 2:06 |
 | 50 | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/track/2WMGvPpnSOk3YW8AjwkWiv) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/album/1oOFKHuth7o9cNeAZp3ms0) | 4:16 |

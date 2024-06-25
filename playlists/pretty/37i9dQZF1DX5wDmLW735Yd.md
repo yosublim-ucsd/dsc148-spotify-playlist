@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wDmLW735Yd.md) - [plain]
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Rudimental, Karen Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,424,429 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,424,573 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

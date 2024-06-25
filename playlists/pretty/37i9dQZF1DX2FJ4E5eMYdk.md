@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,254 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,273 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 24 | [Opposite House](https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:14 |
 | 25 | [Century City](https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 4:33 |
 | 26 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
-| 27 | [The Sorry Sweater](https://open.spotify.com/track/06gBjl6WD3l4ExKfelGkW5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Sorry Sweater](https://open.spotify.com/album/63uqMPsXQz1BXFi2vHCpiC) | 3:26 |
-| 28 | [Baby Bluebird](https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:49 |
+| 27 | [Baby Bluebird](https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:49 |
+| 28 | [The Sorry Sweater](https://open.spotify.com/track/06gBjl6WD3l4ExKfelGkW5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Sorry Sweater](https://open.spotify.com/album/63uqMPsXQz1BXFi2vHCpiC) | 3:26 |
 | 29 | [Seaquest](https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Private Tales](https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6) | 4:26 |
 | 30 | [Automechanic](https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [Automechanic](https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA) | 3:48 |
 | 31 | [Where Do You Go When You Dream](https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain](https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI) | 5:51 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 37 | [Real You](https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:49 |
 | 38 | [Do What Feeds Your Soul](https://open.spotify.com/track/3vgVc48A4Zx2GvBblEMxce) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Shannon LaBrie](https://open.spotify.com/artist/2hbQ7GP1FxLy7D8lRX2Kq7) | [Do What Feeds Your Soul](https://open.spotify.com/album/1MCMIRmD3RAj9zbMLfdADw) | 2:35 |
 | 39 | [Saturday](https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL) | [Whiskerman](https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta) | [Champions](https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05) | 5:18 |
-| 40 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
-| 41 | [Golden Gate](https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp) | [Miranda Lee Richards](https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc) | [Existential Beast](https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd) | 6:07 |
+| 40 | [Golden Gate](https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp) | [Miranda Lee Richards](https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc) | [Existential Beast](https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd) | 6:07 |
+| 41 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
 | 42 | [Went for a Ride](https://open.spotify.com/track/4SmAxBuCEOJDx1mbPSq1Kg) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Went for a Ride](https://open.spotify.com/album/1qih4iADyuiyL7HzN38v1h) | 4:49 |
 | 43 | [Just Like Me](https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk) | [Duff Thompson](https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ) | [Just Like Me](https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui) | 3:04 |
 | 44 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 |

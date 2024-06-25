@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111,463 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,111,688 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 47 | [Tutur Batin](https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:35 |
 | 48 | [Menyesal](https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Menyesal](https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE) | 3:23 |
 | 49 | [Hilang Tanpa Bilang](https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hilang Tanpa Bilang](https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6) | 4:43 |
-| 50 | [Mengapa](https://open.spotify.com/track/1QgYZyDzY22JkXbAuoYZBe) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Mengapa](https://open.spotify.com/album/52r9TATqxdVDU43VOS8n82) | 4:23 |
+| 50 | [Menjaga Hati](https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:57 |
 
 Snapshot ID: `ZlPegQAAAAAJaHpSIztbBbcXHVS4Er6e`

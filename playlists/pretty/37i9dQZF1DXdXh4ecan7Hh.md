@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,424 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,432 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 20 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 |
 | 21 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
 | 22 | [Tougher Than The Rest \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/76v3BntynHQflWb5ptBgV4) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:52 |
-| 23 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 |
-| 24 | [Bad At Love \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 3:01 |
+| 23 | [Bad At Love \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 3:01 |
+| 24 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 |
 | 25 | [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 |
 | 26 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
 | 27 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 |

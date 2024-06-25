@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 169482,
+  "num_followers": 169517,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAABZ0j1qpLuMbW7rWtbeSNB2",
+  "snapshot_id": "ZndlgAAAAABz42IbtIfFqlMK1TNhaUA9",
   "tracks": [
     {
       "added_at": null,
@@ -619,30 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobe junto",
-        "url": "https://open.spotify.com/album/07yciL9GEXXT0kEzFEsKlt"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Sobe junto",
-      "url": "https://open.spotify.com/track/1EicRoOBP95i5CNcBMGXyA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Criolo E Emicida Ao Vivo (Live)",
         "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 127053,
       "name": "Cap\u00edtulo 4, Vers\u00edculo 3 - Live",
       "url": "https://open.spotify.com/track/0ITzKSRykU81569IrYUhVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobe junto",
+        "url": "https://open.spotify.com/album/07yciL9GEXXT0kEzFEsKlt"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Sobe junto",
+      "url": "https://open.spotify.com/track/1EicRoOBP95i5CNcBMGXyA"
     },
     {
       "added_at": null,
@@ -699,30 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Dona Jacira",
-          "url": "https://open.spotify.com/artist/5qiBrPROw2IWolMIjPf2ax"
-        },
-        {
-          "name": "Anna Tr\u00e9a",
-          "url": "https://open.spotify.com/artist/0nffPOYWCX8Kx9mrxBkyUS"
-        }
-      ],
-      "duration_ms": 298226,
-      "name": "M\u00e3e",
-      "url": "https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Criolo E Emicida Ao Vivo (Live)",
         "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 271840,
       "name": "Vida Loka I - Live",
       "url": "https://open.spotify.com/track/3KYbhVPCxYHIeZg8Zy07ay"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Dona Jacira",
+          "url": "https://open.spotify.com/artist/5qiBrPROw2IWolMIjPf2ax"
+        },
+        {
+          "name": "Anna Tr\u00e9a",
+          "url": "https://open.spotify.com/artist/0nffPOYWCX8Kx9mrxBkyUS"
+        }
+      ],
+      "duration_ms": 298226,
+      "name": "M\u00e3e",
+      "url": "https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv"
     },
     {
       "added_at": null,
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 193954,
-      "name": "Gueto - Ao Vivo",
-      "url": "https://open.spotify.com/track/4qFliZbsCTWYEpL75Vw3RO"
+      "duration_ms": 232573,
+      "name": "A Chapa \u00e9 Quente - Ao Vivo",
+      "url": "https://open.spotify.com/track/0wwuQ08af73yA7lgIFuKv8"
     },
     {
       "added_at": null,
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 232573,
-      "name": "A Chapa \u00e9 Quente - Ao Vivo",
-      "url": "https://open.spotify.com/track/0wwuQ08af73yA7lgIFuKv8"
+      "duration_ms": 193954,
+      "name": "Gueto - Ao Vivo",
+      "url": "https://open.spotify.com/track/4qFliZbsCTWYEpL75Vw3RO"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+        "name": "Rock In Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
         },
         {
-          "name": "J. Ghetto",
-          "url": "https://open.spotify.com/artist/6vcFsBBJc4qleLGg6JzT4z"
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 182880,
-      "name": "Boa Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/2v3FdNAsIe9rh62DOb4ZIz"
+      "duration_ms": 246320,
+      "name": "Oi Compadre - Ao Vivo",
+      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
     }
   ],
   "unique_name": "This Is Emicida",

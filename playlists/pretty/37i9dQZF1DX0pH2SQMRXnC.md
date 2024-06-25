@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pH2SQMRXnC.md) - [plain]
 
 > Defqon.1 takeover with a selection of the first 20 tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,302,272 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,302,495 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Aitana. The essential tracks, all in one playlist.",
+  "description": "This Is Aitana. Los temas esenciales, todos en una lista.",
   "name": "This Is Aitana",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 219354,
       "name": "+ (M\u00c1S)",
       "url": "https://open.spotify.com/track/1MXzojJav1N4cREWTFm1iZ"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 181026,
       "name": "2 Extra\u00f1os",
       "url": "https://open.spotify.com/track/1zIVr01FW9T3aWKmoBcmFd"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 146493,
       "name": "Berl\u00edn",
       "url": "https://open.spotify.com/track/5N5GaRpXYZl5ZKKU5a5LtH"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 183920,
       "name": "Coldplay",
       "url": "https://open.spotify.com/track/1aaACV8X5g9coHgXLlEfIX"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 202446,
       "name": "Con La Miel En Los Labios",
       "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 168493,
       "name": "Con Las Ganas",
       "url": "https://open.spotify.com/track/6wlThRyC93GEyCVE9AwONd"
@@ -282,7 +282,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 167192,
       "name": "CUANDO TE FUISTE",
       "url": "https://open.spotify.com/track/3vrslkAmBQ4mvqfOX1Xc6Q"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 162650,
       "name": "Dormir",
       "url": "https://open.spotify.com/track/7d5T9FpPZ7IZcbBepU4oN4"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 207333,
       "name": "Formentera",
       "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 216101,
       "name": "La \u00faltima",
       "url": "https://open.spotify.com/track/3QMbspb1zO1XaREaQrRUh2"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 160986,
       "name": "Las Dudas",
       "url": "https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 200126,
       "name": "Las Vegas",
       "url": "https://open.spotify.com/track/1cS8swS9AR9Oohcidcl8LT"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 154000,
       "name": "mariposas",
       "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 191560,
       "name": "Mejor Que T\u00fa",
       "url": "https://open.spotify.com/track/3Nq00rASEwBSTmG9o4rvn0"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 159360,
       "name": "miamor",
       "url": "https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 208065,
       "name": "M\u00e1ndame Un Audio - Remix",
       "url": "https://open.spotify.com/track/0EZBY4dTqK2YC2Idb0ivsI"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 173159,
       "name": "No Puedo Vivir Sin Ti - Operaci\u00f3n Triunfo 2017",
       "url": "https://open.spotify.com/track/4HlNDiuC5IPGLWmQ2CbWcr"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 177066,
       "name": "Perdimos La Raz\u00f3n",
       "url": "https://open.spotify.com/track/7KbisO1P7V0UGrtpsdp1PC"
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 197723,
       "name": "Procuro Olvidarte",
       "url": "https://open.spotify.com/track/2ZTYZ8toduZdCmuw2fvxpb"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 179653,
       "name": "Tu Foto Del DNI",
       "url": "https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV"
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 141335,
       "name": "X (POR)",
       "url": "https://open.spotify.com/track/365Tuoe67LpDMy7G1L0pKk"

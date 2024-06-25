@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 
 > Dale play y que la música te acompañe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,379 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,391 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 74 | [Inalcanzable](https://open.spotify.com/track/3VlS9yWZ9WkzaePi8oobTj) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Empezar Desde Cero](https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ) | 4:14 |
 | 75 | [Para Siempre](https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:32 |
 | 76 | [No Hay Más Que Hablar](https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [No Hay Más Que Hablar](https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe) | 3:31 |
-| 77 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
-| 78 | [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 |
+| 77 | [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 |
+| 78 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
 | 79 | [Golpes en el Corazón](https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Golpes en el Corazón](https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ) | 3:31 |
 | 80 | [ANTAGONISTA](https://open.spotify.com/track/25MXhQD6t6jkWhYcuGBcjt) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [ANTAGONISTA](https://open.spotify.com/album/7ofQ6GsdNL01Kki0GVaNrZ) | 2:12 |
 | 81 | [Un Poquito](https://open.spotify.com/track/5pH8g37XIkQej0AnlfQgNS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Un Poquito](https://open.spotify.com/album/4zeNVeRzsJVbr7grkRYuko) | 3:06 |

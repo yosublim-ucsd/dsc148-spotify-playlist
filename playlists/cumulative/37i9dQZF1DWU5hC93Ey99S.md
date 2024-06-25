@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-584 songs - 1 day 7 hr 15 min
+585 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,8 @@
 | [Now She Knows](https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:30 | 2024-06-20 |  |
 | [Numb](https://open.spotify.com/track/6zzJDk7dWyJNX4gyTLuMly) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY) | [Numb](https://open.spotify.com/album/0xERxpIUDnAJNQeBOvYxH2) | 2:34 | 2024-04-04 |  |
 | [OFTEN](https://open.spotify.com/track/6lx8boMh0kWEeXubQawkWS) | [ORZC](https://open.spotify.com/artist/37oTmLY6rQTgMe4v8afZqE) | [OFTEN](https://open.spotify.com/album/0lYNraGyhY09SzMS8LNOc0) | 3:04 | 2024-06-13 |  |
-| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-20 |  |
+| [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 | 2024-06-24 |  |
+| [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-20 | 2024-06-25 |
 | [ok :/](https://open.spotify.com/track/7ELz2ls9JCvT5DyVL8aWRh) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :/](https://open.spotify.com/album/6GHR4Qrtr4GXc7RfGVh8Qv) | 2:52 | 2024-03-21 |  |
 | [on my mind](https://open.spotify.com/track/4tTgwybKE9Ybwj1CD0w7rD) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [on my mind](https://open.spotify.com/album/0Pqj9pIUFOi2f25hJQZcHh) | 2:37 | 2024-02-29 | 2024-04-05 |
 | [On My Mind](https://open.spotify.com/track/0VxawdFFzxm7usnnOEKfpd) | [Jörgen](https://open.spotify.com/artist/73Wx53eXdgFpipAJJ5PJPo) | [On My Mind](https://open.spotify.com/album/1fxihx6FJNn3bnYdGmCTOi) | 3:13 | 2024-05-09 |  |

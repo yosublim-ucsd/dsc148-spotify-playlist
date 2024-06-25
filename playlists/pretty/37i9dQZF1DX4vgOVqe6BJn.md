@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,035 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,076 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 38 | [Run Run](https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Run Run](https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr) | 3:06 |
 | 39 | [Hello Alien](https://open.spotify.com/track/4apqIevNZl1POiQccrGWls) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hello Alien](https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5) | 3:25 |
 | 40 | [Smthng](https://open.spotify.com/track/6MOO3hJJFrNV9ST0hmKX8X) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Ultra Dramatic Kid](https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD) | 4:19 |
-| 41 | [White City](https://open.spotify.com/track/2FPVYeyKBKSNUUKrg4L0rk) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [White City](https://open.spotify.com/album/3xm5CfmCOizd2OT4BrQtqX) | 3:06 |
-| 42 | [All I Want](https://open.spotify.com/track/47cmM6ptQ3dH7iQlcWg9ac) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 4:00 |
+| 41 | [All I Want](https://open.spotify.com/track/47cmM6ptQ3dH7iQlcWg9ac) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 4:00 |
+| 42 | [White City](https://open.spotify.com/track/2FPVYeyKBKSNUUKrg4L0rk) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [White City](https://open.spotify.com/album/3xm5CfmCOizd2OT4BrQtqX) | 3:06 |
 | 43 | [DISCO CLOSURE](https://open.spotify.com/track/2tWHLAOwWIalkFEUIYP2fU) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [DISCO CLOSURE](https://open.spotify.com/album/1SHQB1Xh5XJmUWkqpoM2Z3) | 3:23 |
 | 44 | [Daydreaming](https://open.spotify.com/track/2wPc15A83OnyE9QarVRpqA) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Daydreaming](https://open.spotify.com/album/4RBAFTTsu4cWZYkc3HXvvJ) | 3:27 |
 | 45 | [Prettier Than You](https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Prettier Than You](https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg) | 3:22 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 74 | [MAN NENNT MICH](https://open.spotify.com/track/4pnGmHL2PXPGfmgP61eoei) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [MAN NENNT MICH](https://open.spotify.com/album/3OmyEcFktiJqy3JHybl01e) | 2:15 |
 | 75 | [The Reapers](https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ) | [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [The Reapers](https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f) | 4:05 |
 | 76 | [Green Light \(feat\. Kate Wild\) \- Moksi Remix](https://open.spotify.com/track/0CCbpCeGnyoYxzczLw19wQ) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\) \[Moksi Remix\]](https://open.spotify.com/album/4Mxc0za7jRSrvLRVV5ZsLD) | 3:10 |
-| 77 | [ALL THE HIGHS](https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [ALL THE HIGHS](https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI) | 3:26 |
-| 78 | [SHOWBIZ](https://open.spotify.com/track/1ZzE7bxApIhK9mnumXxUQy) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [SHOWBIZ](https://open.spotify.com/album/0iJFu1erjoKbUak1UdT5oi) | 2:44 |
+| 77 | [SHOWBIZ](https://open.spotify.com/track/1ZzE7bxApIhK9mnumXxUQy) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [SHOWBIZ](https://open.spotify.com/album/0iJFu1erjoKbUak1UdT5oi) | 2:44 |
+| 78 | [ALL THE HIGHS](https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [ALL THE HIGHS](https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI) | 3:26 |
 | 79 | [I'm Gon' Get You](https://open.spotify.com/track/3HcZq5T4OW6nSL0iUs4t9s) | [Tassia Zappia](https://open.spotify.com/artist/7bXqujdpOq3rBiEmUF6M5k) | [I'm Gon' Get You](https://open.spotify.com/album/4gGhnFi58lYP7rJyomWx1p) | 2:47 |
 | 80 | [Leader Of The Pack](https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op), [Ruckspin](https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg) | [Leader Of The Pack](https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4) | 3:39 |
 | 81 | [Give Thanks](https://open.spotify.com/track/1Et6hUJwEgMp4ibm9Bml23) | [Dapz on the Map](https://open.spotify.com/artist/46V9DXiq81DtN4dYvMgKtu) | [Give Thanks](https://open.spotify.com/album/6Lmkj9HXcuAXpP2hSCVAYC) | 2:44 |

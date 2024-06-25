@@ -4,13 +4,14 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-611 songs - 1 day 10 hr 17 min
+613 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10/10](https://open.spotify.com/track/61AvmHxUtaEOUK8GSb9cbK) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 4:06 | 2022-03-11 | 2022-04-19 |
 | [1000 \(feat\. CP\)](https://open.spotify.com/track/3CejJ593Dg54c4m8NlSpto) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [1000 \(feat\. CP\)](https://open.spotify.com/album/6svs8n6epi8U1u6xhENItF) | 2:50 | 2022-01-28 | 2022-02-16 |
 | [1x1](https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [1x1](https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv) | 3:24 | 2023-04-20 |  |
+| [2 Many Lies](https://open.spotify.com/track/5MtkeJ3mnxiQnkQGrGuIpm) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Centre Court](https://open.spotify.com/artist/5CyxC6fwavhoRAf1n9n7wh) | [2 Many Lies / Your Love](https://open.spotify.com/album/1ZdN5DsyEMxOmt7Vpy8IiL) | 3:40 | 2024-06-24 |  |
 | [222](https://open.spotify.com/track/2aFaDxU5b4aRxOKrTRuA0v) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [222](https://open.spotify.com/album/5v4pzv7O0Ye6dKobqXgMg5) | 3:28 | 2022-09-18 |  |
 | [222† ∂∆ §§§](https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [222† ∂∆ §§§](https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar) | 4:52 | 2023-06-09 |  |
 | [3AM IN CHELSEA](https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [DIAMOND TAPE](https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P) | 4:06 | 2022-02-28 | 2022-04-26 |
@@ -224,6 +225,7 @@
 | [Get To You](https://open.spotify.com/track/4jfySsGwhaA7TT4RsYzDvM) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Get To You](https://open.spotify.com/album/68Kb2V3PP0mmHrerQpspM5) | 3:46 | 2023-02-24 | 2023-06-23 |
 | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/track/2afb6GwatIa0DC1u9rd6Fu) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Get Your Money \(feat\. Theophilus London\)](https://open.spotify.com/album/7BIZ9jNR3XG7q6AsNs4z3e) | 2:42 | 2022-09-16 | 2023-07-20 |
 | [Glimmer](https://open.spotify.com/track/5viOqMYnOlMeuCQmhqxyzg) | [West End Cove](https://open.spotify.com/artist/64WV3o80jWUNafJmMYFLze) | [Glimmer](https://open.spotify.com/album/6oOnyCD8sfO4ysaycHGFdJ) | 3:42 | 2022-11-22 | 2023-01-30 |
+| [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 | 2024-06-24 |  |
 | [Going Home](https://open.spotify.com/track/5AH62IT62TEek7uigczBeR) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Going Home](https://open.spotify.com/album/03idXsvqv5OVZa8srntnH9) | 3:13 | 2022-03-09 | 2022-03-31 |
 | [Good Vibe](https://open.spotify.com/track/4AmHxLSkut2l0Fyv54fjuZ) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Good Vibe](https://open.spotify.com/album/3K15Io1pcbWvhDxaD5YNz1) | 3:49 | 2022-04-13 | 2023-01-30 |
 | [Gorgeous \(with Reo Cragun\)](https://open.spotify.com/track/4inDHMhS9nxqOygYurJH2Q) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Gorgeous \(with Reo Cragun\)](https://open.spotify.com/album/2kNtLpsLRH3s2b74ZinmNs) | 2:48 | 2022-09-02 | 2024-03-23 |

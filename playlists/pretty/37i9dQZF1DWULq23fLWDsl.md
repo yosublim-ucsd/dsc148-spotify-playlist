@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > 2010 highlights from the home of indie music\. Cover: Gorillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,187 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,468 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 52 | [Little Girl \(feat\. Julian Casablancas\)](https://open.spotify.com/track/0Ih55K62jZIbeTysGHJkW0) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Dark Night of The Soul](https://open.spotify.com/album/0DmKQGWmKXQ3zmjTIQQzK1) | 4:32 |
 | 53 | [Next Girl](https://open.spotify.com/track/4yWWuAW3bywNtneUa4L6YJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:17 |
 | 54 | [Lucidity](https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:31 |
-| 55 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 |
-| 56 | [White Sky](https://open.spotify.com/track/6K5waU14PdvY4fatne8kyq) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 2:58 |
+| 55 | [White Sky](https://open.spotify.com/track/6K5waU14PdvY4fatne8kyq) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 2:58 |
+| 56 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 |
 | 57 | [Desire Lines](https://open.spotify.com/track/34OYZJDVLJC0HS401190FN) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 6:44 |
 | 58 | [We Used to Wait](https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:01 |
-| 59 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
+| 59 | [Ivy & Gold](https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Flaws](https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S) | 2:56 |
 | 60 | [She's Long Gone](https://open.spotify.com/track/4AaPXm5NKGEwGdOJzuPnrL) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:06 |
-| 61 | [Ivy & Gold](https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Flaws](https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S) | 2:56 |
-| 62 | [At Home](https://open.spotify.com/track/3vpjiTrzJEt1zXer9ig6g0) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love](https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq) | 5:06 |
-| 63 | [Giving Up the Gun](https://open.spotify.com/track/3NXjRgj22vkWCp5yzjU4af) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 4:46 |
+| 61 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
+| 62 | [Giving Up the Gun](https://open.spotify.com/track/3NXjRgj22vkWCp5yzjU4af) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 4:46 |
+| 63 | [At Home](https://open.spotify.com/track/3vpjiTrzJEt1zXer9ig6g0) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love](https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq) | 5:06 |
 | 64 | [Brother Sparrow](https://open.spotify.com/track/6cWotAT4XRc5BO4aw6GjRt) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/6dhuUg8lHDWChpHit1OgRa) | 3:58 |
 | 65 | [He Would Have Laughed](https://open.spotify.com/track/1mQ9pMKMYlgLRKT71QBcfL) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 7:29 |
 | 66 | [Got Nuffin](https://open.spotify.com/track/0n2tnCMIlM8Z58NPdXzlQe) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Transference](https://open.spotify.com/album/5ypZiViPNDX7ahiPSWQYTW) | 3:58 |

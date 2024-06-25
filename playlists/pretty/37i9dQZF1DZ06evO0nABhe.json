@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 9594,
+  "num_followers": 9599,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnYUAAAAAAD+MoitrJfPiiReFnc7f982",
+  "snapshot_id": "ZndlgAAAAABTu5Vx2XhtM8yBATjXhrC7",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Wake of Determination",
-        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 247386,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 223808,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2T8MP8QR1qP6XhCFJj4wxa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Wake of Determination",
+        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 247386,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 195666,
-      "name": "Dive Right In",
-      "url": "https://open.spotify.com/track/2hRhyzaXcVwHQHNVt23KUG"
+      "duration_ms": 201666,
+      "name": "Razorblades",
+      "url": "https://open.spotify.com/track/0hpD9ZtCq7ukiaM3pK7RMG"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 209480,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/7lB6JUMr99cuU1EfSl8yC6"
+      "duration_ms": 247893,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/24Y8cCGAmSsTwdBaHAvGKH"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 247893,
-      "name": "Our Time Is Now",
-      "url": "https://open.spotify.com/track/24Y8cCGAmSsTwdBaHAvGKH"
+      "duration_ms": 252826,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/6ReT8BEEr3ytDn0LFEifuk"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 252826,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/6ReT8BEEr3ytDn0LFEifuk"
+      "duration_ms": 223668,
+      "name": "Taste the Poison",
+      "url": "https://open.spotify.com/track/6dVIydL35YwvTjDCT4738d"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 223668,
-      "name": "Taste the Poison",
-      "url": "https://open.spotify.com/track/6dVIydL35YwvTjDCT4738d"
+      "duration_ms": 192680,
+      "name": "Five Against the World",
+      "url": "https://open.spotify.com/track/1c6XA7JzctIQHsUmKwfRFi"
     },
     {
       "added_at": null,

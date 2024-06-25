@@ -2571,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Sev Yeter",
+        "url": "https://open.spotify.com/album/5DjAnvhJUznmnHW55brdfO"
+      },
+      "artists": [
+        {
+          "name": "Kamuran Akkor",
+          "url": "https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210744,
+      "name": "Ben Sarho\u015f Oldum",
+      "url": "https://open.spotify.com/track/4ObQ5sbaP5PDCSfv1y6RdT"
+    },
+    {
+      "album": {
         "name": "Bence de Zor",
         "url": "https://open.spotify.com/album/3C9rw1MMew1lL55I9eJYrB"
       },
@@ -8346,7 +8364,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-25",
       "duration_ms": 158257,
       "name": "H\u00fczn\u00fc Hecem",
       "url": "https://open.spotify.com/track/6pZ31N4gd3Yk9277ptUHjb"

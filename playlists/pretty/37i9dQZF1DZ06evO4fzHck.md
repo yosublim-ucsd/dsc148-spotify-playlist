@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 
 ### [This Is The Cure](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fzHck)
 
-> This is The Cure\. The essential tracks, all in one playlist.
+> This is The Cure\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,545 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,691 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 |
+| 1 | [Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:35 |
 | 2 | [Close To Me](https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door \(Remastered\)](https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG) | 3:23 |
 | 3 | [Just Like Heaven](https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:32 |
 | 4 | [Lovesong \- Remastered](https://open.spotify.com/track/2mIrfke7vosXAEWfz6ucyo) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 3:28 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 39 | [Maybe Someday](https://open.spotify.com/track/6x2f8jgLWU8IrBSuNdvoWj) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Bloodflowers](https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B) | 5:06 |
 | 40 | [To Wish Impossible Things](https://open.spotify.com/track/69MyxFlOm2ennzuE2FqeM1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:39 |
 | 41 | [Closedown \- Remastered 2010](https://open.spotify.com/track/0WVwKob5LPld3ywrxcHJnE) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 4:18 |
-| 42 | [Underneath The Stars](https://open.spotify.com/track/0PKVjYlKw7z3IvKAoxrYTR) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [4:13 Dream](https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV) | 6:16 |
+| 42 | [One Hundred Years](https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 6:39 |
 | 43 | [The Last Day Of Summer](https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Bloodflowers](https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B) | 5:35 |
-| 44 | [Doing The Unstuck](https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:21 |
+| 44 | [Underneath The Stars](https://open.spotify.com/track/0PKVjYlKw7z3IvKAoxrYTR) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [4:13 Dream](https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV) | 6:16 |
 | 45 | [Prayers For Rain \- Remastered](https://open.spotify.com/track/7mJ8LgmL8VX9jJGgqbbzFv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 6:07 |
-| 46 | [Perfect Girl](https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 2:33 |
-| 47 | [The Hanging Garden](https://open.spotify.com/track/4aiCy98MqryFBPOKN8e9GP) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 4:32 |
-| 48 | [Six Different Ways \- 2006 Remaster](https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 3:18 |
-| 49 | [Cut \- 1990 Demo](https://open.spotify.com/track/0DuagCkRRIggdD2K058KHf) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Edition\)](https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe) | 3:33 |
-| 50 | [Accuracy](https://open.spotify.com/track/2hqRpEdHuGlnTpJyfHZEAF) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:17 |
+| 46 | [Doing The Unstuck](https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:21 |
+| 47 | [Perfect Girl](https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 2:33 |
+| 48 | [The Hanging Garden](https://open.spotify.com/track/4aiCy98MqryFBPOKN8e9GP) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 4:32 |
+| 49 | [Six Different Ways \- 2006 Remaster](https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 3:18 |
+| 50 | [Cut \- 1990 Demo](https://open.spotify.com/track/0DuagCkRRIggdD2K058KHf) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Edition\)](https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe) | 3:33 |
 
-Snapshot ID: `ZnYUAAAAAAAp/+2PT747XT/yry0Kcj+B`
+Snapshot ID: `ZndlgAAAAAA9Ngaz7yW9biSRVI5XlOK/`

@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 100855,
+  "num_followers": 101013,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Wait For It",
-        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 239668,
-      "name": "Wait For It",
-      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Space Heavy",
         "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 245933,
       "name": "Seaforth",
       "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Wait For It",
+        "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "duration_ms": 239668,
+      "name": "Wait For It",
+      "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 121089,
-      "name": "poster boy",
-      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "1,2 & Mer",
         "url": "https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 157080,
       "name": "1,2 & Mer",
       "url": "https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 121089,
+      "name": "poster boy",
+      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "HOLD ON",
-        "url": "https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe"
-      },
-      "artists": [
-        {
-          "name": "ill peach",
-          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
-        }
-      ],
-      "duration_ms": 245454,
-      "name": "HOLD ON",
-      "url": "https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Universal Credit (Deluxe)",
         "url": "https://open.spotify.com/album/4p0i4iUDBybIceENugG7gl"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 188360,
       "name": "Protein v2",
       "url": "https://open.spotify.com/track/4BxywQGCn9qUTHPAarWGZZ"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "HOLD ON",
+        "url": "https://open.spotify.com/album/44IVa7WdCY2II6a9AVnwpe"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        }
+      ],
+      "duration_ms": 245454,
+      "name": "HOLD ON",
+      "url": "https://open.spotify.com/track/3PspK6baTu8laBFO32ArQL"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "no sleep in LA",
-        "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
-      },
-      "artists": [
-        {
-          "name": "blackwave.",
-          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
-        },
-        {
-          "name": "Lute",
-          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
-        }
-      ],
-      "duration_ms": 212282,
-      "name": "cracked screen",
-      "url": "https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Not Today",
         "url": "https://open.spotify.com/album/1mnkQmiqItiPZVAu4jrk14"
       },
@@ -1015,6 +995,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "no sleep in LA",
+        "url": "https://open.spotify.com/album/0mc08RF9UX2beSMEYxmNEe"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "Lute",
+          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+        }
+      ],
+      "duration_ms": 212282,
+      "name": "cracked screen",
+      "url": "https://open.spotify.com/track/5tw5H51GeMaSBcD0CHKsBq"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Streets, Love & Other Stuff",
         "url": "https://open.spotify.com/album/0IRmR8wXEPXWsqy84EbKIh"
       },
@@ -1031,6 +1031,34 @@
       "duration_ms": 201733,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/4FC7fcZ5RexxLbWNrOq6aq"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "O Que Se Leva (D\u00f3i)",
+        "url": "https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE"
+      },
+      "artists": [
+        {
+          "name": "Rod 3030",
+          "url": "https://open.spotify.com/artist/44C21oZdrybmbaepup96M2"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        },
+        {
+          "name": "Tom Z\u00e9",
+          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+        }
+      ],
+      "duration_ms": 170261,
+      "name": "O Que Se Leva (D\u00f3i)",
+      "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
     },
     {
       "added_at": "2024-01-08 18:27:55",
@@ -1071,50 +1099,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "O Que Se Leva (D\u00f3i)",
-        "url": "https://open.spotify.com/album/27uX1i9485ofNAO9EHIWBE"
-      },
-      "artists": [
-        {
-          "name": "Rod 3030",
-          "url": "https://open.spotify.com/artist/44C21oZdrybmbaepup96M2"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Helio Bentes",
-          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
-        },
-        {
-          "name": "Tom Z\u00e9",
-          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
-        }
-      ],
-      "duration_ms": 170261,
-      "name": "O Que Se Leva (D\u00f3i)",
-      "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Why You Waiting?",
         "url": "https://open.spotify.com/album/3czLQ2sjzql5WJQg7degVt"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 155071,
       "name": "Why You Waiting?",
       "url": "https://open.spotify.com/track/4NS6mjfccw3m9fPYLCKa53"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1169,6 +1169,22 @@
       "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
     },
     {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "We Can Be Anything",
+        "url": "https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 201047,
+      "name": "We Can Be Anything",
+      "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
+    },
+    {
       "added_at": "2024-05-03 21:11:33",
       "album": {
         "name": "Running Water",
@@ -1189,38 +1205,6 @@
       "url": "https://open.spotify.com/track/3JUDKFLxLlSQe7lBI1xkin"
     },
     {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "We Can Be Anything",
-        "url": "https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 201047,
-      "name": "We Can Be Anything",
-      "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 243354,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
-    },
-    {
       "added_at": "2023-12-01 18:29:06",
       "album": {
         "name": "Shut It Down",
@@ -1239,6 +1223,22 @@
       "duration_ms": 162352,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Who Let Him In",
-        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
+        "name": "i've got a bf (best friend)",
+        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
       },
       "artists": [
         {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        },
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Who Let Him In",
-      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
+      "duration_ms": 148852,
+      "name": "i've got a bf (best friend)",
+      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1459,22 +1463,18 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "i've got a bf (best friend)",
-        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
+        "name": "Who Let Him In",
+        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
       },
       "artists": [
         {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        },
-        {
-          "name": "niina",
-          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 148852,
-      "name": "i've got a bf (best friend)",
-      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
+      "duration_ms": 186000,
+      "name": "Who Let Him In",
+      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Tings My Way",
+        "url": "https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5"
+      },
+      "artists": [
+        {
+          "name": "Freq Motif",
+          "url": "https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK"
+        },
+        {
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+        }
+      ],
+      "duration_ms": 124878,
+      "name": "Tings My Way",
+      "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Haunt My Mind (Machinedrum Remix)",
         "url": "https://open.spotify.com/album/28qqCQqnNzVnAsfXOsuaDU"
       },
@@ -1611,54 +1631,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Tings My Way",
-        "url": "https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5"
-      },
-      "artists": [
-        {
-          "name": "Freq Motif",
-          "url": "https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK"
-        },
-        {
-          "name": "Magugu",
-          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
-        }
-      ],
-      "duration_ms": 124878,
-      "name": "Tings My Way",
-      "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Relentless",
-        "url": "https://open.spotify.com/album/0bHBnCqz1qeDuwRc6qSAIp"
-      },
-      "artists": [
-        {
-          "name": "Ternion Sound",
-          "url": "https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a"
-        },
-        {
-          "name": "PAV4N",
-          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
-        },
-        {
-          "name": "Strategy",
-          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
-        },
-        {
-          "name": "Hypho",
-          "url": "https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "Relentless",
-      "url": "https://open.spotify.com/track/4BTvXr4GKPvuHAWGr14ghc"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "We Are The Ones (FC24 Version)",
         "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
       },
@@ -1687,6 +1659,34 @@
       "duration_ms": 150474,
       "name": "EAZI",
       "url": "https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Relentless",
+        "url": "https://open.spotify.com/album/0bHBnCqz1qeDuwRc6qSAIp"
+      },
+      "artists": [
+        {
+          "name": "Ternion Sound",
+          "url": "https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a"
+        },
+        {
+          "name": "PAV4N",
+          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
+        },
+        {
+          "name": "Strategy",
+          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
+        },
+        {
+          "name": "Hypho",
+          "url": "https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/4BTvXr4GKPvuHAWGr14ghc"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Pemmican",
+        "url": "https://open.spotify.com/album/6gzWaO97UPIi51o0MkoBjV"
+      },
+      "artists": [
+        {
+          "name": "La Fine Equipe",
+          "url": "https://open.spotify.com/artist/2EMmqQQmszsCXfVfMRibOQ"
+        },
+        {
+          "name": "Ga\u00ebl Faye",
+          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
+        }
+      ],
+      "duration_ms": 212971,
+      "name": "Pemmican",
+      "url": "https://open.spotify.com/track/54DPC3DrwCJeyQwgBoO0wh"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Pinking Shears",
         "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 368386,
       "name": "Soul Capturer",
       "url": "https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Pemmican",
-        "url": "https://open.spotify.com/album/6gzWaO97UPIi51o0MkoBjV"
-      },
-      "artists": [
-        {
-          "name": "La Fine Equipe",
-          "url": "https://open.spotify.com/artist/2EMmqQQmszsCXfVfMRibOQ"
-        },
-        {
-          "name": "Ga\u00ebl Faye",
-          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
-        }
-      ],
-      "duration_ms": 212971,
-      "name": "Pemmican",
-      "url": "https://open.spotify.com/track/54DPC3DrwCJeyQwgBoO0wh"
     },
     {
       "added_at": "2023-11-20 15:00:00",

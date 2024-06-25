@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 
 > Las canciones que marcaron una época.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,646 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,652 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,19 +39,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 29 | [Tan Distintos](https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Carlos Tarque](https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR) | [Locales Calientes](https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC) | 4:07 |
 | 30 | [Oncemil](https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [11](https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h) | 3:41 |
 | 31 | [Prendido Fuego](https://open.spotify.com/track/0h8P7C86KyfkjnqC4TaDhC) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Suenan Las Alarmas](https://open.spotify.com/album/5j5VrewC19P5osNjNanIu6) | 4:17 |
-| 32 | [Que Corran](https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:59 |
-| 33 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 |
+| 32 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 |
+| 33 | [Que Corran](https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:59 |
 | 34 | [En Redondel](https://open.spotify.com/track/2bvP9MboEyUadosZOYC93K) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Polos](https://open.spotify.com/album/4zd88TW1Vxi35LLUOWjKZ4) | 4:27 |
-| 35 | [Ingrediente](https://open.spotify.com/track/6M6aCePRkHqmQsUGa6BegN) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Discutible](https://open.spotify.com/album/5c6b4NSsJHroOvLFUNBE3t) | 3:36 |
-| 36 | [Es el Amor](https://open.spotify.com/track/08MlcdHmD6lU6JcoSpob77) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Antenas](https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz) | 4:01 |
+| 35 | [Es el Amor](https://open.spotify.com/track/08MlcdHmD6lU6JcoSpob77) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Antenas](https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz) | 4:01 |
+| 36 | [Ingrediente](https://open.spotify.com/track/6M6aCePRkHqmQsUGa6BegN) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Discutible](https://open.spotify.com/album/5c6b4NSsJHroOvLFUNBE3t) | 3:36 |
 | 37 | [Policía](https://open.spotify.com/track/0pDooPTaMUaDQfnBdbPdYo) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Bandera](https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA) | 3:54 |
 | 38 | [No Me Olvides](https://open.spotify.com/track/2Pq3bGuvCa1beNMrBxgcKT) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Sueño Dorado](https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh) | 3:32 |
 | 39 | [Años Luz](https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Años Luz](https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO) | 3:13 |
 | 40 | [Corazón Fugitivo](https://open.spotify.com/track/08Az8ihw2PvIlj4cpLsZgT) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Pesados Vestigios](https://open.spotify.com/album/2jQGwS9ek4TmM8wbv8HUsF) | 3:56 |
 | 41 | [Víctimas del Cielo](https://open.spotify.com/track/2LPq1zhFHJsCgXXKDA4RFd) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Brindando por Nada](https://open.spotify.com/album/3rvzEf5YFWKyOn0NCSZ4xx) | 4:13 |
-| 42 | [Celofán](https://open.spotify.com/track/1sNz5k4POwNzx9AZUdyjNK) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Romantisísmico](https://open.spotify.com/album/1x93LZe2PKKrgePH2GZjCP) | 3:15 |
-| 43 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
-| 44 | [Ya Pasó](https://open.spotify.com/track/4VYM9hLG6qOy3X59llsSwQ) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 3:44 |
+| 42 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
+| 43 | [Ya Pasó](https://open.spotify.com/track/4VYM9hLG6qOy3X59llsSwQ) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 3:44 |
+| 44 | [Celofán](https://open.spotify.com/track/1sNz5k4POwNzx9AZUdyjNK) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Romantisísmico](https://open.spotify.com/album/1x93LZe2PKKrgePH2GZjCP) | 3:15 |
 | 45 | [Aventura \(feat\. Marcela Morelo\)](https://open.spotify.com/track/6qkS2ebQrNmSznA50ODfxs) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:29 |
 | 46 | [El Enemigo](https://open.spotify.com/track/2Rro0BoyMLdgrTVOFpINZU) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Bandera](https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA) | 3:05 |
 | 47 | [El Redentor Secreto](https://open.spotify.com/track/2Lg3x1cTqZPtigNbpY75z9) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [La Luna Hueca](https://open.spotify.com/album/3EcGvNWLVhGz2EeiiPCvwl) | 3:20 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 51 | [La Pregunta](https://open.spotify.com/track/4PxOR5geaJtZFe4Q3I115t) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Discutible](https://open.spotify.com/album/5c6b4NSsJHroOvLFUNBE3t) | 4:58 |
 | 52 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 |
 | 53 | [Parque Acuático](https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Parque Acuático](https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636) | 2:52 |
-| 54 | [No Fue](https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [No Fue](https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD) | 3:15 |
-| 55 | [Perdiendo la Cabeza](https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 2:46 |
+| 54 | [Perdiendo la Cabeza](https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Besos en la Espalda](https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3) | 2:46 |
+| 55 | [No Fue](https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [No Fue](https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD) | 3:15 |
 | 56 | [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 |
 | 57 | [El Sueño del Jinete](https://open.spotify.com/track/4q6ZHerrtO7gcF67KFX0BF) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [La Luna Hueca](https://open.spotify.com/album/3EcGvNWLVhGz2EeiiPCvwl) | 2:58 |
 | 58 | [La Magia Está en Tu Piel](https://open.spotify.com/track/1lr3CWBoYPYOmgktzn0gWo) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Modo Despegar](https://open.spotify.com/album/4nbt4s7V6jF5uIn8p5ZcPj) | 5:18 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 67 | [Ves](https://open.spotify.com/track/0KWQev3eatMHcrGU8MhTnn) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Érase](https://open.spotify.com/album/4Dq5ueH8qdZRDx5TvdTCpy) | 3:15 |
 | 68 | [El Ritmo de la Vida](https://open.spotify.com/track/0nWdzerefBQpTFg8gIbCjA) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL), [Julian Kartun](https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8) | [A Punto Caramelo](https://open.spotify.com/album/1BB2uPxFEBDdOwHcuDI2Jn) | 3:42 |
 | 69 | [Tanto amor](https://open.spotify.com/track/2Q0Aem12iTNPibzcokgiUz) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Ringo](https://open.spotify.com/album/2oA488dFvimoJ6PHIw2ytg) | 2:47 |
-| 70 | [Circunvalación](https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:54 |
+| 70 | [Canción para un Amigo](https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Hasta el Final](https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ) | 5:06 |
 
 Snapshot ID: `Zmof3QAAAAAVyCdnnO4+vewjgC3LXzSe`

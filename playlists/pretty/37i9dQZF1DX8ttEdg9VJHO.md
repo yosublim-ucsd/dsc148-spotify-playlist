@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,316 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,321 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 38 | [Faded Love](https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Faded Love](https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345) | 2:28 |
 | 39 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
 | 40 | [Flugmodus](https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Flugmodus](https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy) | 2:58 |
-| 41 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
-| 42 | [Steht Mir](https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Sie](https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1) | 2:45 |
+| 41 | [Steht Mir](https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Sie](https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1) | 2:45 |
+| 42 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
 | 43 | [Changes](https://open.spotify.com/track/0JmcyemnP0RT5C6QdOMjxA) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:49 |
 | 44 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
 | 45 | [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 |

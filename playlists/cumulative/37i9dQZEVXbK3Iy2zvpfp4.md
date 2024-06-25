@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-2,211 songs - 4 day 16 hr 27 min
+2,212 songs - 4 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,7 +662,7 @@
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-08 |
 | [Gangster](https://open.spotify.com/track/4jP0rMryObcZ58N2sTFEnG) | [Nico Benz](https://open.spotify.com/artist/3TLH7kooWQnVKX1rdeEH8W) | [Gangster](https://open.spotify.com/album/5VOHGLZ3T7qWxlIfuDpe8i) | 3:04 | 2024-02-29 | 2024-03-06 |
 | [Gangster](https://open.spotify.com/track/67WqF7aOqgsjjPdspYpn18) | [Nico Benz](https://open.spotify.com/artist/3TLH7kooWQnVKX1rdeEH8W) | [Gangster](https://open.spotify.com/album/0OExuZI0PvSakCNVCyujbE) | 3:04 | 2024-02-07 | 2024-03-01 |
-| [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-04 | 2024-06-20 |
+| [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-04 |  |
 | [Gata Only \(Mashup\)](https://open.spotify.com/track/5EWf240yQq0JhlkMBSPyBN) | [Dj Agus Lima](https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9) | [Mashup 2024](https://open.spotify.com/album/1zfWgLPvRz1j8PzkjiBDet) | 3:35 | 2024-05-08 | 2024-05-11 |
 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 | 2023-02-01 | 2023-02-03 |
 | [Gengetek ellen](https://open.spotify.com/track/3mfSO4e6l0mlsjcNpqrktC) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Gengetek ellen](https://open.spotify.com/album/1sNJvYsvXA0QAkfb1DfrHY) | 2:49 | 2024-01-23 | 2024-01-31 |
@@ -1500,7 +1500,8 @@
 | [Pondělí až neděle \- Sped Up](https://open.spotify.com/track/3lcCxnxPqh0Rp7vsrD7KD6) | [Totally Nothin](https://open.spotify.com/artist/4esOzxPLunJ597xOtRt0A1), [DJ Kadr](https://open.spotify.com/artist/1GFQTS0zSjX2tLhV37rFkU) | [Waves](https://open.spotify.com/album/7aGS901TtaEwj4PzRQxeGy) | 3:27 | 2024-01-24 | 2024-02-08 |
 | [POOR](https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2) | [gqtis](https://open.spotify.com/artist/5b62Fx0yQzdpnX9xkUjMnB) | [POOR](https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY) | 2:40 | 2023-03-26 | 2023-04-17 |
 | [Poor but Sexy](https://open.spotify.com/track/3eCHH9qqihkPV48dLK5UXc) | [Berlin Manson](https://open.spotify.com/artist/0hOM9D2SaLoqltAuEA5fje) | [Poor But Sexy](https://open.spotify.com/album/5a6sBodQlRvInBSBiQwhew) | 2:38 | 2024-01-09 | 2024-01-11 |
-| [Pop like this Pt\. 2 \- Slowed](https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2 \(Slowed\)](https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x) | 2:02 | 2024-06-20 |  |
+| [Pop like this Pt\. 2 \- Slowed](https://open.spotify.com/track/2JH5P7TPQAlKDvBZAkMXDp) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2 \(Slowed\)](https://open.spotify.com/album/234kj0msMVe1QJN8D46ExH) | 2:02 | 2024-06-24 |  |
+| [Pop like this Pt\. 2 \- Slowed](https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2 \(Slowed\)](https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x) | 2:02 | 2024-06-20 | 2024-06-25 |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-07-19 | 2022-08-06 |
 | [Popstar](https://open.spotify.com/track/0fC7eoQAIEkB72YBKjfn8N) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Popstar](https://open.spotify.com/album/4PKkLbTH1QQuzprff3zIos) | 3:38 | 2023-01-17 | 2023-02-05 |
 | [Popstar](https://open.spotify.com/track/0gW2MaJU6dWtgrrlFzwbE5) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 3:38 | 2023-02-04 | 2023-02-18 |
@@ -1689,7 +1690,7 @@
 | [Shootout](https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout](https://open.spotify.com/album/2lQQ5xfJwzELcecvu8gZN5) | 4:55 | 2022-07-26 | 2022-08-24 |
 | [Shootout \(Sped Up\)](https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout \(Sped Up\)](https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr) | 4:02 | 2022-08-02 | 2022-08-31 |
 | [Shotta Flow 7](https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow 7](https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d) | 2:45 | 2023-12-26 | 2023-12-30 |
-| [Shoulder Boulders](https://open.spotify.com/track/1pQwINgwPKQQd0VDw2k764) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Shoulder Boulders](https://open.spotify.com/album/6YmQ1Ku4UdxRawSOXmQ08i) | 4:29 | 2024-06-22 |  |
+| [Shoulder Boulders](https://open.spotify.com/track/1pQwINgwPKQQd0VDw2k764) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Shoulder Boulders](https://open.spotify.com/album/6YmQ1Ku4UdxRawSOXmQ08i) | 4:29 | 2024-06-22 | 2024-06-25 |
 | [Show Me Your Back](https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ) | [FindMyName](https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2) | [Show Me Your Back](https://open.spotify.com/album/2WfTYJXnEWlam3UpiFcngR) | 3:14 | 2022-07-31 | 2022-08-12 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-10-11 | 2022-10-19 |
 | [Shut Up and Listen](https://open.spotify.com/track/0yqAz6HBzwlJ2nGjK4UiX0) | [Nicholas Bonnin](https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Shut Up and Listen](https://open.spotify.com/album/3wAAwpD30OPym42xsioMmc) | 4:03 | 2022-07-19 | 2022-08-14 |
