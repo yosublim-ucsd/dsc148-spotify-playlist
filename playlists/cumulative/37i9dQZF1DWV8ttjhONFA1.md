@@ -4,7 +4,7 @@
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Mi Amigo Invencible.
 
-211 songs - 11 hr 37 min
+213 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,13 +62,14 @@
 | [Desaparecer](https://open.spotify.com/track/6PDPcB56TilUyxwSzi1qIi) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Desaparecer](https://open.spotify.com/album/0YPzpvzXBQJFLv4SOM3Lqk) | 3:16 | 2024-03-15 | 2024-05-03 |
 | [Desesperada](https://open.spotify.com/track/6T4R0YI4KNnZiIRKexvAdD) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Desesperada](https://open.spotify.com/album/1g6DyyHl9LsMBv6VT7gFQM) | 4:34 | 2024-03-22 |  |
 | [Desprogramado](https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Desprogramado](https://open.spotify.com/album/4NgiQKB70vqBCVe9TsWjWL) | 3:01 | 2024-05-10 |  |
+| [Detrás De Ti](https://open.spotify.com/track/0fddCXY4solO9sfLh0SlD3) | [Nacho Nacif](https://open.spotify.com/artist/3ZQ41cUBIlokZkViPuam4F) | [Detrás De Ti](https://open.spotify.com/album/5gNHwLvpVcO6mqROn86Za5) | 2:49 | 2024-06-25 |  |
 | [Diamante Roto](https://open.spotify.com/track/1rs0pVmsZTiPnUX6j3zkOO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:01 | 2024-04-05 | 2024-04-19 |
 | [Diamante Roto](https://open.spotify.com/track/2kKDMlOpLR5NsTuOdTyukm) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 3:01 | 2024-04-12 | 2024-06-15 |
 | [Dicen](https://open.spotify.com/track/7vXrkuRXeIT87UXQhjtznW) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Dicen](https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6) | 3:45 | 2023-12-15 | 2024-04-06 |
 | [Diganselo](https://open.spotify.com/track/5uSWHen9UxDjsMjDuGNBcf) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:59 | 2024-04-05 | 2024-05-03 |
 | [dionysian](https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [dionysian](https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz) | 3:10 | 2024-01-26 | 2024-06-15 |
 | [doctor tiempo](https://open.spotify.com/track/7FboiW5Lxsn1hyOdAnPm2L) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [doctor tiempo](https://open.spotify.com/album/44SKwDYgfXgiS6ghtMm34B) | 2:56 | 2024-06-07 |  |
-| [Dos Extraños](https://open.spotify.com/track/1A6WHBHrOBZTdGcQrc3HAV) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Extraños](https://open.spotify.com/album/1LtqPrw7WHFks31bbxZ3LM) | 3:01 | 2023-12-15 |  |
+| [Dos Extraños](https://open.spotify.com/track/1A6WHBHrOBZTdGcQrc3HAV) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Extraños](https://open.spotify.com/album/1LtqPrw7WHFks31bbxZ3LM) | 3:01 | 2023-12-15 | 2024-06-26 |
 | [droga del momento](https://open.spotify.com/track/1wTy0rpYciXNPl2ApruK3A) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [le tengo miedo a las alturas](https://open.spotify.com/album/7qH5iAghmKje6Y0oaUb5Kn) | 3:29 | 2024-04-26 |  |
 | [DUALIDAD](https://open.spotify.com/track/76WuaMpuaOakgK6yw6ZDRh) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E) | [LOGO](https://open.spotify.com/album/4PLtXjl2T5JqMUkGGdZ17K) | 3:41 | 2024-03-29 | 2024-04-27 |
 | [Duele](https://open.spotify.com/track/3QsmZtbdKo05hK6VVAjUXd) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 3:27 | 2024-04-05 |  |
@@ -78,6 +79,7 @@
 | [El fin](https://open.spotify.com/track/7uS5cwaPY5QqIf5U21oOew) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY) | [El fin](https://open.spotify.com/album/7fh5YlpCehNSXuEaSs1pMG) | 3:03 | 2023-12-15 | 2024-04-06 |
 | [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 | 2023-12-15 | 2024-03-23 |
 | [El Imán \- Remix](https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Santiago Martínez](https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu) | [El Imán \(Remix\)](https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe) | 3:48 | 2023-12-15 | 2024-04-06 |
+| [El Invierno](https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp) | [Bifes con ensalada](https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y) | [El Invierno](https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO) | 3:20 | 2024-06-25 |  |
 | [El Milagro](https://open.spotify.com/track/60E01nbyLNShvaeVPr7Tic) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Milagro](https://open.spotify.com/album/4lY54ab6G5Ex4TPFxadXlh) | 3:38 | 2023-12-15 | 2024-04-06 |
 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 | 2024-04-05 |  |
 | [El Riesgo](https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8) | 4:28 | 2024-04-05 |  |
@@ -159,7 +161,7 @@
 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:42 | 2023-12-15 | 2024-06-08 |
 | [Playita](https://open.spotify.com/track/3zUBGvGynrXKx1sKzTre98) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Sueño Cítrico \(El Día Después\)](https://open.spotify.com/album/1c92815dElLk9cEKctEvEv) | 2:51 | 2023-12-15 |  |
 | [Policía](https://open.spotify.com/track/0pDooPTaMUaDQfnBdbPdYo) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Bandera](https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA) | 3:54 | 2024-04-05 |  |
-| [Politoxic](https://open.spotify.com/track/3XQAOtYo8XqqRg6M7UlauT) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc) | [Politoxic](https://open.spotify.com/album/4zA2cKqs6GDQhvNVo6SgMY) | 3:17 | 2024-05-31 |  |
+| [Politoxic](https://open.spotify.com/track/3XQAOtYo8XqqRg6M7UlauT) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc) | [Politoxic](https://open.spotify.com/album/4zA2cKqs6GDQhvNVo6SgMY) | 3:17 | 2024-05-31 | 2024-06-26 |
 | [Político o Rolling Stone](https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO) | [Galean](https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Político o Rolling Stone](https://open.spotify.com/album/1tVa6RRL4alQsyRpw21gR1) | 4:06 | 2024-04-26 |  |
 | [Por qué te quiero tanto?](https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Por qué te quiero tanto?](https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih) | 3:51 | 2023-12-15 | 2024-02-17 |
 | [Porcelana](https://open.spotify.com/track/7xp6FaOnH8qUY2Jm83qKzs) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Porcelana](https://open.spotify.com/album/0N9YsGgRS8xRzgBH9GpNav) | 3:08 | 2024-03-15 | 2024-05-25 |

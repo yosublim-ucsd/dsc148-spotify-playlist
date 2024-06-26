@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-10",
-  "description": "This is Shania Twain. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Shania Twain. The essential tracks, all in one playlist.",
   "name": "This Is Shania Twain",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 173761,
       "name": "Come On Over",
       "url": "https://open.spotify.com/track/2xjUJZaBY9oiUZ8OsobzzE"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 165466,
       "name": "God Ain't Gonna Getcha For That",
       "url": "https://open.spotify.com/track/6vUlju9dCuNHAxwK5P860J"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 220040,
       "name": "If It Don't Take Two",
       "url": "https://open.spotify.com/track/55lqPo4yhu3RBUaxkS6hPz"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 243948,
       "name": "If You Wanna Touch Her, Ask!",
       "url": "https://open.spotify.com/track/7uQTbTiCf9p2v0ceOWkXli"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 178098,
       "name": "Queen Of Me",
       "url": "https://open.spotify.com/track/5HONmel0YqVDMLTtcyWLhX"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 239085,
       "name": "That Don't Impress Me Much - International Mix",
       "url": "https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 218686,
       "name": "When",
       "url": "https://open.spotify.com/track/0cKjfEMKuzJiMxvQtCpSNE"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 265600,
       "name": "You Win My Love",
       "url": "https://open.spotify.com/track/2lKA9bNdd4kAoeHiufa0aK"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 212224,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/3x2ksaXI6EZUWidE2BiLXy"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 197797,
       "name": "You're Still The One - Remastered 2023",
       "url": "https://open.spotify.com/track/4D2JmiX0P8WJygnpV80WTs"

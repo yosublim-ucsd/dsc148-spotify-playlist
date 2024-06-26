@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ramones. Los temas esenciales, todos en una lista.",
-  "num_followers": 234430,
-  "original_name": "This Is Ramones",
+  "description": "This is \u30e9\u30e2\u30fc\u30f3\u30ba\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 234461,
+  "original_name": "This Is \u30e9\u30e2\u30fc\u30f3\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZndlgAAAAACKDcUzZwF8WzUh9w5ibozR",
+  "snapshot_id": "Zni3AAAAAACTt1NalTL5E37ckxVR2C1q",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "I Just Want to Have Something to Do - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29F9vWkIUVQj2F4kX9EYre"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Leave Home (40th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId"
       },
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal Boy",
-        "url": "https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh"
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
       },
       "artists": [
         {
@@ -516,25 +500,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 199800,
-      "name": "Somebody Put Something in My Drink",
-      "url": "https://open.spotify.com/track/1dPkrVL0fXxNOhTmZk08rd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Acid Eaters",
-        "url": "https://open.spotify.com/album/784AdNOgrGhD6suxBrSd9P"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 142400,
-      "name": "Have You Ever Seen the Rain?",
-      "url": "https://open.spotify.com/track/4Ri7GhJiAHy9dCYnxxWuzM"
+      "duration_ms": 162133,
+      "name": "I Just Want to Have Something to Do - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29F9vWkIUVQj2F4kX9EYre"
     },
     {
       "added_at": null,
@@ -555,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Acid Eaters",
+        "url": "https://open.spotify.com/album/784AdNOgrGhD6suxBrSd9P"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Have You Ever Seen the Rain?",
+      "url": "https://open.spotify.com/track/4Ri7GhJiAHy9dCYnxxWuzM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leave Home (40th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 104733,
       "name": "Gimme Gimme Shock Treatment - 2017 Remaster",
       "url": "https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Animal Boy",
+        "url": "https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Somebody Put Something in My Drink",
+      "url": "https://open.spotify.com/track/1dPkrVL0fXxNOhTmZk08rd"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chrysalis Years Anthology",
-        "url": "https://open.spotify.com/album/3xfFyoMTRqvu2JmYQDlKlZ"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 116973,
-      "name": "Spiderman",
-      "url": "https://open.spotify.com/track/2JcUB7LyS4MDI5fvSWU6se"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Animal Boy",
         "url": "https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 247226,
       "name": "Something to Believe In",
       "url": "https://open.spotify.com/track/7a6aGoKfpywaIIwSXmZkW1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Chrysalis Years Anthology",
+        "url": "https://open.spotify.com/album/3xfFyoMTRqvu2JmYQDlKlZ"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 116973,
+      "name": "Spiderman",
+      "url": "https://open.spotify.com/track/2JcUB7LyS4MDI5fvSWU6se"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 147066,
-      "name": "The Crusher",
-      "url": "https://open.spotify.com/track/1yWz1AZo5g18ZQXYuAVOqr"
+      "duration_ms": 194040,
+      "name": "She Talks to Rainbows",
+      "url": "https://open.spotify.com/track/0GVcm9IeiuWWOQk3yXI7yx"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 194040,
-      "name": "She Talks to Rainbows",
-      "url": "https://open.spotify.com/track/0GVcm9IeiuWWOQk3yXI7yx"
+      "duration_ms": 147066,
+      "name": "The Crusher",
+      "url": "https://open.spotify.com/track/1yWz1AZo5g18ZQXYuAVOqr"
     },
     {
       "added_at": null,
@@ -809,6 +809,6 @@
       "url": "https://open.spotify.com/track/7hLzIknDV5aHHcEib9h5nY"
     }
   ],
-  "unique_name": "This Is Ramones",
+  "unique_name": "This Is \u30e9\u30e2\u30fc\u30f3\u30ba",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EhHXi"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: orbit
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,575 likes - 90 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,718 likes - 90 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 59 | [Everybody Get Down](https://open.spotify.com/track/3lIAMpmJTNYTUJcRnAxYHu) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Everybody Get Down](https://open.spotify.com/album/6T3CAhqI00dX92EBPNRPXq) | 5:50 |
 | 60 | [Heelix](https://open.spotify.com/track/3USHqp4xlkdyyT3qgkhv4F) | [Patrik Berg](https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l) | [Heelix](https://open.spotify.com/album/5DLL9cMn4zf7LztVUgZrf1) | 4:57 |
 | 61 | [Turning My Head \- Cassy Remix](https://open.spotify.com/track/0zPCI3gsMhuviyKhhM7J56) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV), [Cassy](https://open.spotify.com/artist/7JNP0OcJnBFXQWixpWmb5V) | [Turning My Head \(Cassy Remix\)](https://open.spotify.com/album/3pRd7GUeRAYCiWAPudLZCN) | 6:31 |
-| 62 | [Home Again \- Akzenth Remix](https://open.spotify.com/track/5gLb6x0CzTDX1u9aji3ZCJ) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU), [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Home Again \(Akzenth Remix\)](https://open.spotify.com/album/1dUAZQPJMbMwSEDGnmK5Eh) | 5:36 |
+| 62 | [Home Again \- AKZENTH Remix](https://open.spotify.com/track/5gLb6x0CzTDX1u9aji3ZCJ) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU), [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Home Again \(AKZENTH Remix\)](https://open.spotify.com/album/1dUAZQPJMbMwSEDGnmK5Eh) | 5:36 |
 | 63 | [Candyland](https://open.spotify.com/track/2rX3mk4MmWi75wy53hKqm6) | [Tchailyn](https://open.spotify.com/artist/4RgXfHPfT5Z5pIIqL1k7oF) | [Candyland](https://open.spotify.com/album/2YRcPMc8PS590HD3ybjcQs) | 4:11 |
 | 64 | [Balance](https://open.spotify.com/track/6MZoQDEOgquXOCyVMCR08r) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Innervision](https://open.spotify.com/album/7ukIx96VesTexT0vUFC0tv) | 4:43 |
 | 65 | [RISE](https://open.spotify.com/track/0kwKl8BgzprhTzlGuNJcZ5) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [RISE](https://open.spotify.com/album/0HOzSbwTx00tZTX1mxkExU) | 4:28 |

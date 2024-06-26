@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : GOAT
 
-1,340 songs - 3 day 9 hr 56 min
+1,341 songs - 3 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1127,6 +1127,7 @@
 | [Theevinai Aaraathaa](https://open.spotify.com/track/4T4qrhpNahHNVN1pBOPSo4) | [Rudhraavelu](https://open.spotify.com/artist/575du5IbinJ1jzRR3RAjQU), [Sam P\. Keerthan](https://open.spotify.com/artist/1Fv7udKq3x8NXfcdjb0Rcg) | [Theevinai Aaraathaa \(From "Iru Dhuruvam 2"\)](https://open.spotify.com/album/0ve9M4yMSLrTkb6xJDnBUU) | 2:24 | 2023-02-25 | 2023-03-01 |
 | [Theeyaai Ododi \(From "Repeat Shoe"\)](https://open.spotify.com/track/6Ki4woLYLM25t6jspMXAXK) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Theeyaai Ododi \(From "Repeat Shoe"\)](https://open.spotify.com/album/3Gijun4ZAEboHd3fPSEGUk) | 2:18 | 2022-09-28 | 2022-10-11 |
 | [Theeye Dhaagamo](https://open.spotify.com/track/4PpflB9CYa3q3wPRGXneMa) | [Poornachandra Tejaswi S.V.](https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Dhoomam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/31c02wjTmwIRftWa8LbDqt) | 4:19 | 2023-06-22 | 2023-07-01 |
+| [Theme Of Kalki \(From "Kalki 2898 AD"\) \(Tamil\)](https://open.spotify.com/track/1bbOBvCjuXSg5iLKLvvl6s) | [Ananthu](https://open.spotify.com/artist/2UbN2AxPOv8kc1x4J4SGjc), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Theme Of Kalki \(From "Kalki 2898 AD"\) \(Tamil\)](https://open.spotify.com/album/0e6ziZZqX5DLtCEt6PaI4d) | 3:09 | 2024-06-25 |  |
 | [Thendral](https://open.spotify.com/track/2gCFozVmrc71hzxal8QzCP) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Modern Love \(Chennai\) \[Original Series Soundtrack\]](https://open.spotify.com/album/3YdrTcu1YnQAcjJwnNeYgI) | 3:45 | 2023-05-13 | 2023-06-23 |
 | [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1Nr46gjiP50uPsz30gYhAd) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/209RZfNZtgSqyavgunoMvr) | 2:53 | 2022-07-30 | 2023-01-11 |
 | [Ther Thiruvizha](https://open.spotify.com/track/7F4fmPDqJBK7FT0APXDN2p) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [A\. R\. Reihana](https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl), [Yogi Sekar](https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs) | [Lal Salaam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4z1B53UzRe5QLEoKSfzqLZ) | 7:46 | 2024-01-27 | 2024-03-05 |

@@ -3491,6 +3491,32 @@
     },
     {
       "album": {
+        "name": "Souraa (From \"Bharateeyudu 2\")",
+        "url": "https://open.spotify.com/album/0bjug1LVXNf7WiAqNUHjLr"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ritesh G Rao",
+          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
+        },
+        {
+          "name": "Shruthika Samudhrala",
+          "url": "https://open.spotify.com/artist/6tV6eU1gwsruSzN4PyDJWe"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252435,
+      "name": "Souraa (From \"Bharateeyudu 2\")",
+      "url": "https://open.spotify.com/track/6EQVXaIi22Ilmkt1Coi9gZ"
+    },
+    {
+      "album": {
         "name": "Gangs Of Godavari",
         "url": "https://open.spotify.com/album/1Qr5Gq4WF1uaiIZkKIKgNN"
       },
@@ -3554,7 +3580,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 189966,
       "name": "Ticket Eh Konakunda",
       "url": "https://open.spotify.com/track/3NdQpAhK5s42vu3do3KSBT"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: mei ehara",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u9234\u6728\u771f\u6d77\u5b50 (Mamiko Suzuki)",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -10874,6 +10874,24 @@
       "duration_ms": 169401,
       "name": "IKUNE",
       "url": "https://open.spotify.com/track/6VMyyI0Ap0KKLIsiGeIvSh"
+    },
+    {
+      "album": {
+        "name": "mukuge",
+        "url": "https://open.spotify.com/album/4mpOI8TdpvQPsIo8cRevBi"
+      },
+      "artists": [
+        {
+          "name": "Mamiko Suzuki",
+          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260616,
+      "name": "in a bubble with u",
+      "url": "https://open.spotify.com/track/1kYIOxMeoE4zH8XRLXLttF"
     },
     {
       "album": {
@@ -34868,7 +34886,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 181633,
       "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8\u30fb\u30e8\u30b3\u30cf\u30de featuring \u5009\u6728\u9ebb\u8863",
       "url": "https://open.spotify.com/track/0EROKj2BsJVtXZluZ3J26r"

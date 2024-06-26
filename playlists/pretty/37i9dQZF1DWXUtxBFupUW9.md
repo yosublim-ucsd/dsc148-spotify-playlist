@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 
 > Exercise together with uplifting soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,798 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,847 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 39 | [I Heard It Through The Grapevine](https://open.spotify.com/track/1aRrJewQmqU3wMUf86VVc6) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Everybody Needs Love](https://open.spotify.com/album/5l5h2w976gvp8y2IGv2Tp4) | 2:45 |
 | 40 | [Tighten Up, Pt\. 1](https://open.spotify.com/track/6IIcvtmuGpWIasqOpyGlyY) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Tighten Up](https://open.spotify.com/album/5zsOpnZyZidaZo5KXL0xzr) | 3:16 |
 | 41 | [Lost in Music \- 1995 Remaster](https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [The Best of Sister Sledge \(1973\-1985\)](https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt) | 4:47 |
-| 42 | [We Can Work It Out](https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 3:19 |
-| 43 | [This Old Heart Of Mine \(Is Weak For You\) \- Single Version / Mono](https://open.spotify.com/track/0CPwNXw5qD9588d86nropo) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [20th Century Masters: The Millennium Collection: Best of The Isley Brothers\-The Motown Years](https://open.spotify.com/album/57CNwGt0hsLPUlMMNuxtRS) | 2:55 |
+| 42 | [This Old Heart Of Mine \(Is Weak For You\) \- Single Version / Mono](https://open.spotify.com/track/0CPwNXw5qD9588d86nropo) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [20th Century Masters: The Millennium Collection: Best of The Isley Brothers\-The Motown Years](https://open.spotify.com/album/57CNwGt0hsLPUlMMNuxtRS) | 2:55 |
+| 43 | [We Can Work It Out](https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 3:19 |
 | 44 | [I've Got My Mind Set On You](https://open.spotify.com/track/0qPeLt28yVM4wScp8qt8xY) | [James Ray](https://open.spotify.com/artist/5DG3ZUxWmaQySIbGHdq03J) | [Caprice! The Story Behind Gerry Granahan's Caprice Label 1960 \- 1963](https://open.spotify.com/album/0cM9qP6HmXg0JaAuAFdGeo) | 3:26 |
 | 45 | [Living in America](https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Living In America](https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec) | 4:08 |
 | 46 | [Soul Connection](https://open.spotify.com/track/0ZZbKNLGRNHs93FhNebPFH) | [Diplomats of Solid Sound](https://open.spotify.com/artist/2BNkflUlJ7uUr06ltR93mU), [The Diplomettes](https://open.spotify.com/artist/33sEjzZ7kpL9bnsrRy4D78) | [S/t](https://open.spotify.com/album/6N05syPvpoGsL5ZOnqQwQs) | 2:29 |
 | 47 | [Can You Feel It](https://open.spotify.com/track/4FP8dyBjGDBxcVRTTxOeog) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Best Of The 80's](https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr) | 3:48 |
-| 48 | [Reach Out I'll Be There \- Single Version / Mono](https://open.spotify.com/track/2VwRmAIjgmwNPDh4eMK1EH) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Ultimate Collection: Four Tops](https://open.spotify.com/album/7pSmOdR07xSmTJBcwKKF0v) | 2:59 |
-| 49 | [The Rubberband Man \- 2003 Remaster](https://open.spotify.com/track/1E3K9QkIWCEL2awcl8kfwN) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Essentials](https://open.spotify.com/album/69mwYIdGUeSEBVxLDIVCZC) | 3:34 |
-| 50 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight Everything's Alright](https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP) | 2:55 |
+| 48 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight Everything's Alright](https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP) | 2:55 |
+| 49 | [Reach Out I'll Be There \- Single Version / Mono](https://open.spotify.com/track/2VwRmAIjgmwNPDh4eMK1EH) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Ultimate Collection: Four Tops](https://open.spotify.com/album/7pSmOdR07xSmTJBcwKKF0v) | 2:59 |
+| 50 | [The Rubberband Man \- 2003 Remaster](https://open.spotify.com/track/1E3K9QkIWCEL2awcl8kfwN) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Essentials](https://open.spotify.com/album/69mwYIdGUeSEBVxLDIVCZC) | 3:34 |
 
 Snapshot ID: `Zl7wjAAAAABPGKuv2KRVvpDGvotIbISF`

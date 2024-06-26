@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-957 songs - 2 day 20 hr 44 min
+958 songs - 2 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Bleached Flamingo](https://open.spotify.com/track/7Auyn5OOY5uejUSqDGDc8e) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Bleached Flamingo](https://open.spotify.com/album/6m6QXT3XI9APvoDsdOuyJk) | 4:32 | 2020-10-28 | 2022-05-05 |
 | [Bleary\-Eyed](https://open.spotify.com/track/2yJGyMf1BurGMyR4cqKfCX) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn) | [Futurist](https://open.spotify.com/album/0N6wNVcGYMUcGpgomjMQj9) | 4:39 | 2019-05-26\* | 2022-04-06 |
 | [Bleed](https://open.spotify.com/track/5L5VSFuMw19b9AMXMfSn8l) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [while\(1<2\)](https://open.spotify.com/album/7iDqcnIHjisPl2Yf4hsf8f) | 4:00 | 2019-05-26\* | 2020-08-26 |
-| [Blissda](https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Blissda](https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9) | 5:43 | 2023-04-06 |  |
+| [Blissda](https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Blissda](https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9) | 5:43 | 2023-04-06 | 2024-06-26 |
 | [Blob on the Lawn](https://open.spotify.com/track/104LLrwbK0zPPtfvFKddp3) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [The Seed \(Original Score\)](https://open.spotify.com/album/64TzDB3gO5C0NVlvuSQQpB) | 2:52 | 2022-03-11 | 2022-05-31 |
 | [Bloom](https://open.spotify.com/track/1ajC1DxUxfRTyzhpOcrHd4) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Bloom](https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM) | 4:36 | 2021-07-27 |  |
 | [Blossom](https://open.spotify.com/track/5TgbftMqsjBnkKVWXJubAl) | [Nyte](https://open.spotify.com/artist/5FAjeD9eW52qvpik9OsnVp) | [Blossom](https://open.spotify.com/album/4fF4pWujxTlHNb4mOJBhpd) | 5:32 | 2021-01-25 | 2022-07-28 |
@@ -938,6 +938,7 @@
 | [When I Look Into Your Eyes](https://open.spotify.com/track/0uWA1iX0tEOOSfkZs7XYP5) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [When I Look Into Your Eyes](https://open.spotify.com/album/1JkaeIKoQe9IAJLVjOYH9Z) | 4:12 | 2021-01-17 |  |
 | [When Will I Learn](https://open.spotify.com/track/15iCIkRtJkYoJJavwSbA3n) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [When Will I Learn](https://open.spotify.com/album/5YXLWx2SHUt8AD1iOAFdaR) | 2:49 | 2021-06-10 | 2023-10-14 |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/4vgXDV9qcqnwMQkdyGLSpL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Where Angels Fear To Tread](https://open.spotify.com/album/0t37MK4qYK7lp7yZaMBYe0) | 3:45 | 2019-06-19\* | 2020-10-19 |
+| [wherever you end up](https://open.spotify.com/track/7LLL33wfg5jS9ApaUCK0YO) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [wherever you end up](https://open.spotify.com/album/1tfclMy22yk1IeCrwb5LIn) | 2:28 | 2024-06-14 |  |
 | [Whirl](https://open.spotify.com/track/1GzNJTAhYDIjN1WXJlXPBM) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA), [David Bergmüller](https://open.spotify.com/artist/3ft977utbcwtn9thhB5JGw) | [Wirbel](https://open.spotify.com/album/3aDnuXX0vkoXJZjYZvs69L) | 4:50 | 2023-12-21 |  |
 | [Whispering House](https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:52 | 2023-10-06 |  |
 | [Whispering Wind \(B\-Sides\)](https://open.spotify.com/track/21VSSsSwr0oTNJQtILJbdK) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: The B Sides](https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B) | 6:02 | 2019-07-25 | 2020-08-26 |

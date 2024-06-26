@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 499 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 | 500 | [Para de Me Tratar Bem](https://open.spotify.com/track/5BvJoOxUQooOkhJtAVD1sF) | [Icaro Moraes](https://open.spotify.com/artist/2kAlzxn6PmKm9KBfQspeih) | [Bar da Sofrência](https://open.spotify.com/album/5lBPPg8SHsgAFyDOVw9kDv) | 2:55 |
 
-Snapshot ID: `AbU8bAAAAADn1riosoyqHFO5BqHLNmyI`
+Snapshot ID: `AbVCDAAAAACdVz7Lra1JuXRTaQRADaw5`

@@ -1,12 +1,12 @@
 {
-  "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 39330,
+  "description": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. Los temas esenciales, todos en una lista.",
+  "num_followers": 39341,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZndlgAAAAAC2sY2FM80/atjbqr2Q/pQV",
+  "snapshot_id": "Zni3AAAAAACymV/Eu+wH25x+mMlb6VHS",
   "tracks": [
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Destino Es Ser Borracho",
-        "url": "https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt"
+        "name": "Merengue y Sentimiento",
+        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
       },
       "artists": [
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+        },
         {
           "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 199552,
-      "name": "Mi Destino Es Ser Borracho",
-      "url": "https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O"
+      "duration_ms": 234026,
+      "name": "Me Muero por Ella (Bachata) Feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga",
+      "url": "https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd"
     },
     {
       "added_at": null,
@@ -607,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Merengue y Sentimiento",
-        "url": "https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS"
+        "name": "Mi Destino Es Ser Borracho",
+        "url": "https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt"
       },
       "artists": [
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
-        },
         {
           "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 234026,
-      "name": "Me Muero por Ella (Bachata) Feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga",
-      "url": "https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd"
+      "duration_ms": 199552,
+      "name": "Mi Destino Es Ser Borracho",
+      "url": "https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Primer Lugar",
-        "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        },
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 278453,
-      "name": "El Destino",
-      "url": "https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Esta Doliendo el Alma",
         "url": "https://open.spotify.com/album/1K3TqiWrJRWN6QuB2uVg3I"
       },
@@ -727,6 +707,22 @@
       "duration_ms": 199950,
       "name": "Me Esta Doliendo el Alma",
       "url": "https://open.spotify.com/track/45OPKIF7clW1z8cMGi31jW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Derecho De Antig\u00fcedad",
+        "url": "https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z"
     },
     {
       "added_at": null,
@@ -767,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Derecho De Antig\u00fcedad",
-        "url": "https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/2TPOVXCnOQtJSY6GmHYA1z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Lo Contaron Ayer",
         "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
       },
@@ -815,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 125066,
-      "name": "Cien Mil Veces",
-      "url": "https://open.spotify.com/track/3rJ5CD3xHzHqrIllMIJj5S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s Original Que Nunca",
         "url": "https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ"
       },
@@ -851,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 125066,
+      "name": "Cien Mil Veces",
+      "url": "https://open.spotify.com/track/3rJ5CD3xHzHqrIllMIJj5S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nuestra Colecci\u00f3n de Oro",
         "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 174000,
       "name": "Vida Prestada",
       "url": "https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tributo a",
+        "url": "https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 152213,
+      "name": "Pero Yo No Lo Conozco (feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga)",
+      "url": "https://open.spotify.com/track/7DroPZbnPTJZSZtax3swP8"
     }
   ],
   "unique_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",

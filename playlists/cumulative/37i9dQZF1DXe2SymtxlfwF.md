@@ -4,7 +4,7 @@
 
 > Your essential Max Richter, all in one collection.
 
-150 songs - 9 hr 27 min
+151 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Miss Sloane Solo](https://open.spotify.com/track/08w5Hy6Lv5d6y3iZZyaM3K) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09zIgmRsrLm0bpTzxQCBO7) | 2:07 | 2023-03-03 | 2024-04-19 |
 | [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 | 2022-04-01 |  |
 | [Movement Study](https://open.spotify.com/track/5MKvfWEvkc50Vu07HRotqW) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 5:48 | 2022-04-01 |  |
+| [Movement, Before All Flowers \- Edit](https://open.spotify.com/track/0v9LuPahZH8PHN86gxRHTU) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Movement, Before All Flowers](https://open.spotify.com/album/1HrFsljwk4wUHrPPOGkSbN) | 3:39 | 2024-06-25 |  |
 | [Nonviolent Offender](https://open.spotify.com/track/3fc6z0RlVBu0ggtidwCpvw) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [White Boy Rick \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oEASogrKIZSBOa6ykScxq) | 3:31 | 2022-04-01 |  |
 | [November](https://open.spotify.com/track/4NtfmGeS6yNfDG7GXZu1n2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Memoryhouse](https://open.spotify.com/album/5CuuPArp8w5ckkJpcEcCyO) | 6:22 | 2022-04-01 |  |
 | [November](https://open.spotify.com/track/6tHPSEdxp6g2Ntur8nANYt) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [BBC Philharmonic](https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy) | [Memoryhouse](https://open.spotify.com/album/4fcZBukqygltK48rGGzylj) | 6:22 | 2022-04-01 | 2024-04-19 |

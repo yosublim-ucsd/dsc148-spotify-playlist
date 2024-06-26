@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Grupo Niche, Juliana
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,833 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,845 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 18 | [Se siente cabrón](https://open.spotify.com/track/0Q7yD4bsMWW0tJNlAqFFat) | [Carlos Vallarino](https://open.spotify.com/artist/5d9KoTojPUrURfVQDK6KL7) | [Se siente cabrón](https://open.spotify.com/album/5TR8D0WTgzDovGCkUvp2uJ) | 2:48 |
 | 19 | [Abrázame \- Tropical Bailable](https://open.spotify.com/track/5jgBr3kTibd2eAsuqrVIvh) | [Aymée Nuviola](https://open.spotify.com/artist/7caiLUNvOLW4Hs2Cb78JeY), [Álvaro Tadeo](https://open.spotify.com/artist/4lFL1u6Cu3OxFe5idzZjJg) | [Abrázame \(Tropical Bailable\)](https://open.spotify.com/album/1NQrdmgsA1dGzDOHqixW3D) | 3:42 |
 | 20 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/1sKWHnjZEFqsAgYb1EIoQe) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf), [Chesterzeta](https://open.spotify.com/artist/57LKawbl0pHpkrNfosEgFG) | [No Me Vuelvo A Enamorar](https://open.spotify.com/album/7dBbAeQaDIypXLMx8T3u35) | 2:39 |
-| 21 | [Tú Nombre y el Mío](https://open.spotify.com/track/6BctnnO1L33w5UEBJzg0Yv) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [Tú Nombre y el Mío](https://open.spotify.com/album/5ysG4Qx2U4xhdUUnCJh98Y) | 2:54 |
+| 21 | [Tu Nombre y el Mío](https://open.spotify.com/track/6BctnnO1L33w5UEBJzg0Yv) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [Tu Nombre y el Mío](https://open.spotify.com/album/5ysG4Qx2U4xhdUUnCJh98Y) | 2:54 |
 | 22 | [Nunca Fuimos](https://open.spotify.com/track/42YPWUISJkEv5KrYxPLZbi) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Nunca Fuimos](https://open.spotify.com/album/0cCLXMVsmKL9gNqotA7Rg7) | 3:33 |
 | 23 | [Quizás / Un Buen Perdedor / Tira Para Arriba](https://open.spotify.com/track/7LD7Y96k4WjKyGBFMW7fTj) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv), [Fernando Bladys](https://open.spotify.com/artist/0Ju8LutOzYuBpC3XtwcLZa) | [Quizás / Un Buen Perdedor / Tira Para Arriba](https://open.spotify.com/album/79DpjybizeEY8wLqSZ2ZZY) | 5:17 |
 | 24 | [Ni Lágrimas Tenía](https://open.spotify.com/track/0JGcnmk3DXRaAHTi6jRNlI) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Ni Lágrimas Tenía](https://open.spotify.com/album/7M7yupKqSG9jmyBqFE54J8) | 2:36 |

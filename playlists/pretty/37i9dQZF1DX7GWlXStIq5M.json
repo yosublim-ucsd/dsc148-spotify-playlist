@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Carol Biazin",
-  "num_followers": 371457,
+  "num_followers": 371458,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-06-24 15:12:36",
       "album": {
-        "name": "Somewhere Only We Know",
-        "url": "https://open.spotify.com/album/3SSjCIMccH0zOtznuS3hyU"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 149302,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/3O4HxUk3JbhY0nut3RFjaF"
-    },
-    {
-      "added_at": "2024-06-24 15:12:36",
-      "album": {
         "name": "CUBA Remix",
         "url": "https://open.spotify.com/album/6sJgvH0e4Y0BBQmSdixOtY"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 162700,
       "name": "CUBA Remix",
       "url": "https://open.spotify.com/track/0a3IsWmHYDYXCqIsCVx4TF"
+    },
+    {
+      "added_at": "2024-06-24 15:12:36",
+      "album": {
+        "name": "Somewhere Only We Know",
+        "url": "https://open.spotify.com/album/3SSjCIMccH0zOtznuS3hyU"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 149302,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/3O4HxUk3JbhY0nut3RFjaF"
     },
     {
       "added_at": "2024-06-24 15:12:36",
@@ -975,6 +975,26 @@
     {
       "added_at": "2024-06-24 15:12:36",
       "album": {
+        "name": "Vira E Mexe",
+        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Vira E Mexe",
+      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
+    },
+    {
+      "added_at": "2024-06-24 15:12:36",
+      "album": {
         "name": "Baile do Papato",
         "url": "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"
       },
@@ -1007,6 +1027,22 @@
     {
       "added_at": "2024-06-24 15:12:36",
       "album": {
+        "name": "Sintomas de Prazer - Live",
+        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 151103,
+      "name": "Sintomas de Prazer - Live",
+      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
+    },
+    {
+      "added_at": "2024-06-24 15:12:36",
+      "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
@@ -1035,22 +1071,6 @@
     {
       "added_at": "2024-06-24 15:12:36",
       "album": {
-        "name": "Sintomas de Prazer - Live",
-        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 151103,
-      "name": "Sintomas de Prazer - Live",
-      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
-    },
-    {
-      "added_at": "2024-06-24 15:12:36",
-      "album": {
         "name": "Desculpa por Eu N\u00e3o Te Amar",
         "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
       },
@@ -1067,22 +1087,18 @@
     {
       "added_at": "2024-06-24 15:12:36",
       "album": {
-        "name": "Vira E Mexe",
-        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
+        "name": "Se eu fosse homem",
+        "url": "https://open.spotify.com/album/4uVjwahqRIiMVcmOTxaP2k"
       },
       "artists": [
         {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+          "name": "Nina Baiocchi",
+          "url": "https://open.spotify.com/artist/3TSj5k8pivUKJwIlnwsnfi"
         }
       ],
-      "duration_ms": 190122,
-      "name": "Vira E Mexe",
-      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
+      "duration_ms": 127243,
+      "name": "Se eu fosse homem",
+      "url": "https://open.spotify.com/track/2NFvkzzCeLIvOW6cBJY08f"
     },
     {
       "added_at": "2024-06-24 15:12:36",
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2024-06-24 15:12:36",
       "album": {
-        "name": "Se eu fosse homem",
-        "url": "https://open.spotify.com/album/4uVjwahqRIiMVcmOTxaP2k"
+        "name": "Nem Sei Fingir",
+        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
       },
       "artists": [
         {
-          "name": "Nina Baiocchi",
-          "url": "https://open.spotify.com/artist/3TSj5k8pivUKJwIlnwsnfi"
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
         }
       ],
-      "duration_ms": 127243,
-      "name": "Se eu fosse homem",
-      "url": "https://open.spotify.com/track/2NFvkzzCeLIvOW6cBJY08f"
+      "duration_ms": 176640,
+      "name": "Nem Sei Fingir",
+      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
     },
     {
       "added_at": "2024-06-24 15:12:36",
@@ -1143,18 +1159,22 @@
     {
       "added_at": "2024-06-24 15:12:36",
       "album": {
-        "name": "Nem Sei Fingir",
-        "url": "https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh"
+        "name": "Cavalo de Troia",
+        "url": "https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J"
       },
       "artists": [
         {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+          "name": "Reddy Allor",
+          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
+        },
+        {
+          "name": "Gabeu",
+          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
         }
       ],
-      "duration_ms": 176640,
-      "name": "Nem Sei Fingir",
-      "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
+      "duration_ms": 165740,
+      "name": "Cavalo de Troia",
+      "url": "https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k"
     },
     {
       "added_at": "2024-06-24 15:12:36",
@@ -1175,26 +1195,6 @@
       "duration_ms": 196088,
       "name": "Culpa da minha (V\u00eanus)",
       "url": "https://open.spotify.com/track/1f7a8QwxfRT84f1YzqPR7i"
-    },
-    {
-      "added_at": "2024-06-24 15:12:36",
-      "album": {
-        "name": "Cavalo de Troia",
-        "url": "https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J"
-      },
-      "artists": [
-        {
-          "name": "Reddy Allor",
-          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
-        },
-        {
-          "name": "Gabeu",
-          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
-        }
-      ],
-      "duration_ms": 165740,
-      "name": "Cavalo de Troia",
-      "url": "https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k"
     },
     {
       "added_at": "2024-06-24 15:12:36",
@@ -1275,6 +1275,30 @@
     {
       "added_at": "2024-06-24 15:12:36",
       "album": {
+        "name": "Pode Chegar",
+        "url": "https://open.spotify.com/album/0IwMgTR66UQlWAOE5IcvkW"
+      },
+      "artists": [
+        {
+          "name": "Anna",
+          "url": "https://open.spotify.com/artist/3sLh7xqgu6RxVYokUj0nEx"
+        },
+        {
+          "name": "Isix",
+          "url": "https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug"
+        },
+        {
+          "name": "Sucre",
+          "url": "https://open.spotify.com/artist/6SdlX8i3HPpAGh7FMAh9KF"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "Pode Chegar",
+      "url": "https://open.spotify.com/track/0RHgZjiG0iANH5QjE5xSfF"
+    },
+    {
+      "added_at": "2024-06-24 15:12:36",
+      "album": {
         "name": "Veste a Camisa",
         "url": "https://open.spotify.com/album/1C9WFYgLHljkxsNd58byks"
       },
@@ -1311,30 +1335,6 @@
       "duration_ms": 124615,
       "name": "Meu Mel",
       "url": "https://open.spotify.com/track/56L6XbiBIcKg67Z6aFiina"
-    },
-    {
-      "added_at": "2024-06-24 15:12:36",
-      "album": {
-        "name": "Pode Chegar",
-        "url": "https://open.spotify.com/album/0IwMgTR66UQlWAOE5IcvkW"
-      },
-      "artists": [
-        {
-          "name": "Anna",
-          "url": "https://open.spotify.com/artist/3sLh7xqgu6RxVYokUj0nEx"
-        },
-        {
-          "name": "Isix",
-          "url": "https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug"
-        },
-        {
-          "name": "Sucre",
-          "url": "https://open.spotify.com/artist/6SdlX8i3HPpAGh7FMAh9KF"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "Pode Chegar",
-      "url": "https://open.spotify.com/track/0RHgZjiG0iANH5QjE5xSfF"
     },
     {
       "added_at": "2024-06-24 15:12:36",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-06-24 15:12:36",
       "album": {
+        "name": "Garoto Invis\u00edvel",
+        "url": "https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 156712,
+      "name": "Garoto Invis\u00edvel",
+      "url": "https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem"
+    },
+    {
+      "added_at": "2024-06-24 15:12:36",
+      "album": {
         "name": "Ins\u00f4nia",
         "url": "https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 139200,
       "name": "me chama de sua",
       "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
-    },
-    {
-      "added_at": "2024-06-24 15:12:36",
-      "album": {
-        "name": "Garoto Invis\u00edvel",
-        "url": "https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 156712,
-      "name": "Garoto Invis\u00edvel",
-      "url": "https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem"
     },
     {
       "added_at": "2024-06-24 15:12:36",

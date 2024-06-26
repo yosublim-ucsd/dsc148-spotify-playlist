@@ -2,7 +2,7 @@
 
 ### [This Is The Three Degrees](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1trEdl)
 
-> This is The Three Degrees\. The essential tracks, all in one playlist.
+> This is The Three Degrees\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 108 songs - 6 hr 42 min
 

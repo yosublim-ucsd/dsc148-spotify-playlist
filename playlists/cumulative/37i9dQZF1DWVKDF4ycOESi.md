@@ -4,7 +4,7 @@
 
 > Coldplay in cover + le migliori uscite di questa settimana!
 
-865 songs - 1 day 19 hr 12 min
+866 songs - 1 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [GOSSIP](https://open.spotify.com/track/3F94au8U5bLuNfKLSo8o5G) | [PLATA](https://open.spotify.com/artist/0HEXJrFImu9YGNMHZB4NEi) | [GOSSIP](https://open.spotify.com/album/229bqU3wMkhGuWvosW2Nu4) | 2:48 | 2024-04-26 | 2024-05-03 |
 | [GUARDA COME FL3XO](https://open.spotify.com/track/5TlndMPcKVEaTsBtbmMuBW) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [GUARDA COME FL3XO](https://open.spotify.com/album/3WoOhPK946IoZwevCoayvR) | 2:28 | 2024-05-16 | 2024-05-24 |
 | [GUARDAMI NEGLI OCCHI](https://open.spotify.com/track/4z0TQHbnMAuwqhcmeLHD9i) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb) | [SOTTOSOPRA ༝](https://open.spotify.com/album/7F14fLaQK6FeKH7OCKCOTD) | 2:21 | 2024-06-13 | 2024-06-21 |
-| [Hai mai](https://open.spotify.com/track/2gzUFGfRPJsWfgwe43AJYg) | [Brown](https://open.spotify.com/artist/0Q4V6DfjCMP0AYZvErnC2V), [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN), [Thelonious B.](https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A) | [Hai mai](https://open.spotify.com/album/1IA9i3CYiaDOJ7bIM7kIgX) | 2:52 | 2024-06-20 |  |
+| [Hai mai](https://open.spotify.com/track/2gzUFGfRPJsWfgwe43AJYg) | [Brown](https://open.spotify.com/artist/0Q4V6DfjCMP0AYZvErnC2V), [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN), [Kermit](https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK) | [Hai mai](https://open.spotify.com/album/1IA9i3CYiaDOJ7bIM7kIgX) | 2:52 | 2024-06-20 |  |
 | [HALLELUJA](https://open.spotify.com/track/1nCKE8Cs7KnTyBvuMtDQPp) | [ZPA22](https://open.spotify.com/artist/50AqzmsXLHMMa1QxztD7RF) | [HALLELUJA](https://open.spotify.com/album/7iWDxRiP5GiuZORofNUhUw) | 2:58 | 2024-05-09 | 2024-05-17 |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-04-26 | 2024-05-03 |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-05-09 | 2024-05-17 |
@@ -578,6 +578,7 @@
 | [OKAY OKAY \(S1 E2\)](https://open.spotify.com/track/1NZsIGqB8N4BgRtBcRP1WT) | [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [OKAY OKAY \(S1 E2\)](https://open.spotify.com/album/52Nws4hSiY3CoOvkKdBARm) | 2:55 | 2024-05-23 | 2024-06-01 |
 | [OKOK](https://open.spotify.com/track/3iKGHl5z71jocmVJSIQX0j) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [OKOK](https://open.spotify.com/album/4HELP1Hj8kPeU79lJJDUB6) | 1:54 | 2024-05-31 | 2024-06-07 |
 | [One Cry \(feat\. Rosa Linn\)](https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 3:06 | 2024-05-16 | 2024-05-24 |
+| [One Day \(feat\. Leon Bridges\)](https://open.spotify.com/track/2FIMN2jnLS7OBZRpPQN89L) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Freak Show](https://open.spotify.com/album/3MZrZaiEhwp96tdh4QCfIm) | 3:31 | 2024-06-24 |  |
 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 | 2024-05-10 | 2024-05-17 |
 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 | 2024-06-06 | 2024-06-14 |
 | [Opera \(feat\. Rosa Chemical\)](https://open.spotify.com/track/3Qtj3JgmPqykqclbYIGsYe) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [Opera \(feat\. Rosa Chemical\)](https://open.spotify.com/album/5YYqzDuldow1G4ZTT8XNYM) | 2:42 | 2024-05-23 | 2024-06-01 |

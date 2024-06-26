@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,228 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,320 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 76 | [Sur la piste de danse](https://open.spotify.com/track/6UQqaQsnu9w0xfvI8SjCHp) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [Sur la piste de danse](https://open.spotify.com/album/0at4gCqwXWf5lDktHsYilh) | 3:21 |
 | 77 | [Le Tuto](https://open.spotify.com/track/7CQWOTljGv2tc9leEARsTa) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [Le Tuto](https://open.spotify.com/album/6DMKItPu49cvlJmiKC0qdL) | 3:30 |
 | 78 | [Sleep, Sleep](https://open.spotify.com/track/06oFL8EgA3R8j4cjnbPwCh) | [Painted Pale](https://open.spotify.com/artist/5CZWcuWKHtlZReCeHeiaRP) | [Pale as the Night](https://open.spotify.com/album/3ZVKr6P3k74A2dg6uQe1Li) | 8:14 |
-| 79 | [Le nozze di Figaro, K.492 / Act 2: "Voi che sapete"](https://open.spotify.com/track/1sMNddNUQjzaTDbY9ZTpgG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Frederica von Stade](https://open.spotify.com/artist/5LUjwmTidlIffhKkvXZo8k), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Mozart: Le Nozze di Figaro \- Highlights](https://open.spotify.com/album/7o0knxz53RAf3QIbmhCO9k) | 2:55 |
+| 79 | [Le nozze di Figaro, K\. 492, Act II: No\. 12, Voi che sapete](https://open.spotify.com/track/1sMNddNUQjzaTDbY9ZTpgG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Frederica von Stade](https://open.spotify.com/artist/5LUjwmTidlIffhKkvXZo8k), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Mozart: Le Nozze di Figaro \- Highlights](https://open.spotify.com/album/7o0knxz53RAf3QIbmhCO9k) | 2:55 |
 | 80 | [Odyssey](https://open.spotify.com/track/3sSHcojhD6MdCwWa9ICXd2) | [Yndi](https://open.spotify.com/artist/31yVSehp4XZiCSlb1sOSpq), [Dream Koala](https://open.spotify.com/artist/0tWnElR8nnWIsopg1o3xmg) | [Odyssey](https://open.spotify.com/album/0DlxqAGkm7aRZlRwWLziFw) | 6:10 |
 | 81 | [Le coeur hypothéqué](https://open.spotify.com/track/2yDAjpGumznyHEl2Qq1upf) | [April March](https://open.spotify.com/artist/0bbvrSsm0Dh4erBbE1dhHD) | [Triggers](https://open.spotify.com/album/0O4Ye0zB4AUEyYZg2wO06n) | 3:45 |
 | 82 | [L'amour est dans l'air \- Remasterisé en 2019](https://open.spotify.com/track/04qJXFRmt06SOjqeecfNTu) | [Laurent Rossi](https://open.spotify.com/artist/3mr7jNmay7VJ7BTUBeYyeM) | [Les 45 Tours \(Remasterisé en 2019\)](https://open.spotify.com/album/33CrUTfdeq7hdcOhWLX2g7) | 3:39 |

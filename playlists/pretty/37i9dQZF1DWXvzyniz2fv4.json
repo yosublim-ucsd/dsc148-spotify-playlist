@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157904,
+  "num_followers": 157917,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
-        "name": "Sua Boca",
-        "url": "https://open.spotify.com/album/713CT4lO8XlIET42xTkGfd"
-      },
-      "artists": [
-        {
-          "name": "Fashion Piva",
-          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Sua Boca",
-      "url": "https://open.spotify.com/track/6uQBN4yMHx5RylUXXrEnfg"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
         "name": "Pra Voc\u00ea Ficar",
         "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 160819,
       "name": "Pra Voc\u00ea Ficar",
       "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
+        "name": "Sua Boca",
+        "url": "https://open.spotify.com/album/713CT4lO8XlIET42xTkGfd"
+      },
+      "artists": [
+        {
+          "name": "Fashion Piva",
+          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Sua Boca",
+      "url": "https://open.spotify.com/track/6uQBN4yMHx5RylUXXrEnfg"
     },
     {
       "added_at": "2024-06-21 16:06:09",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
+        "name": "Minha Mina \u00e9 Braba",
+        "url": "https://open.spotify.com/album/6mtPlDFW6xquEHzgIICgx6"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Minha Mina \u00e9 Braba",
+      "url": "https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
         "name": "N\u00e3o Quero Mais Nada",
         "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 213587,
       "name": "N\u00e3o Quero Mais Nada",
       "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
-        "name": "Minha Mina \u00e9 Braba",
-        "url": "https://open.spotify.com/album/6mtPlDFW6xquEHzgIICgx6"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Minha Mina \u00e9 Braba",
-      "url": "https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU"
     },
     {
       "added_at": "2024-06-21 16:06:09",
@@ -1231,6 +1231,26 @@
       "duration_ms": 169472,
       "name": "Fica",
       "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
+        "name": "Pode Confiar",
+        "url": "https://open.spotify.com/album/5357d20sHYU5ai9MUo6yiK"
+      },
+      "artists": [
+        {
+          "name": "Karen Francis",
+          "url": "https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU"
+        },
+        {
+          "name": "Anna Suav",
+          "url": "https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "Pode Confiar",
+      "url": "https://open.spotify.com/track/642FSZi6u1VTLaYNxoE6y8"
     },
     {
       "added_at": "2024-06-21 16:06:09",
@@ -1343,26 +1363,6 @@
       "duration_ms": 209770,
       "name": "Girl From Ipanema",
       "url": "https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
-        "name": "Pode Confiar",
-        "url": "https://open.spotify.com/album/5357d20sHYU5ai9MUo6yiK"
-      },
-      "artists": [
-        {
-          "name": "Karen Francis",
-          "url": "https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU"
-        },
-        {
-          "name": "Anna Suav",
-          "url": "https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX"
-        }
-      ],
-      "duration_ms": 136363,
-      "name": "Pode Confiar",
-      "url": "https://open.spotify.com/track/642FSZi6u1VTLaYNxoE6y8"
     },
     {
       "added_at": "2024-06-21 16:06:09",

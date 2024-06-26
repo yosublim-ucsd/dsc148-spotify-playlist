@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Celebrate Golden Melody Festival “ SHOWCASE” & “GMA Heat” with great tunes from brilliant local artists! Cover: JOYCE \(就以斯\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,070 likes - 63 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,096 likes - 63 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u6253\u9996\u7344\u9580\u540c\u597d\u4f1a",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Crossfaith",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -2777,6 +2777,24 @@
     },
     {
       "album": {
+        "name": "A\u042fK",
+        "url": "https://open.spotify.com/album/07WF2SJH4HTKCMCUElTVAW"
+      },
+      "artists": [
+        {
+          "name": "Crossfaith",
+          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200752,
+      "name": "My Own Salvation",
+      "url": "https://open.spotify.com/track/4LkzQ531jFA5ZHXxy5SxO2"
+    },
+    {
+      "album": {
         "name": "RARA",
         "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
       },
@@ -4900,7 +4918,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 169411,
       "name": "\u3080\u305a\u304b\u3057\u3044\u3066\u308c\u3071\u3057\u3044",
       "url": "https://open.spotify.com/track/3gK4FH3UWiitJgVzvgun0K"

@@ -1,6 +1,6 @@
 {
   "description": "Unforgettable love songs from the 2010s.",
-  "num_followers": 581335,
+  "num_followers": 581421,
   "original_name": "10s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-06-11 18:03:26",
       "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/3QLB5s0MY7ERTwh4GpNMkf"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "Slow Hands",
+      "url": "https://open.spotify.com/track/38yBBH2jacvDxrznF7h08J"
+    },
+    {
+      "added_at": "2024-06-11 18:03:26",
+      "album": {
         "name": "Please Keep Loving Me",
         "url": "https://open.spotify.com/album/57nyAsOzQc642JTGwioDli"
       },
@@ -831,26 +847,6 @@
       "duration_ms": 195920,
       "name": "Please Keep Loving Me",
       "url": "https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp"
-    },
-    {
-      "added_at": "2024-06-11 18:03:26",
-      "album": {
-        "name": "The Truth About Love",
-        "url": "https://open.spotify.com/album/0pqKb2y8h2BWS46HMfmEgD"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Nate Ruess",
-          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
-      "url": "https://open.spotify.com/track/4VC5nFbYO4avKksJ9jN4pY"
     }
   ],
   "unique_name": "10s Love Songs",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:6slyJwua5e5GuhuP82sTHR">Alex Campos</a> y <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,234 likes - 131 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,250 likes - 131 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 28 | [NADA QUE TEMER](https://open.spotify.com/track/1xhzIlWnh3lKkEfm0FNsbT) | [Roberto Rosso](https://open.spotify.com/artist/1j4W3yOBthwGj4wWrGPtfA), [Joe Gozo](https://open.spotify.com/artist/5WxYUvlCb3r2fUlJwEIGUn) | [NADA QUE TEMER](https://open.spotify.com/album/1QhzHrtufsIm7Wrkx7lzC1) | 3:21 |
 | 29 | [Sin Religión](https://open.spotify.com/track/2dP80UwWbdBdcM1Wk3zaTT) | [La Catedral](https://open.spotify.com/artist/028xpD94ojZ0WraOcCTkEe) | [Sin Religión](https://open.spotify.com/album/4RNEeaQCLbTx5ZYmXpNCQ4) | 3:16 |
 | 30 | [Quedarme Junto a Ti](https://open.spotify.com/track/4AY6RRQPPGul8rKOMGqO69) | [Pepe Lopez Band](https://open.spotify.com/artist/26jcTakzCqPX0KGJth8aiz) | [Quedarme Junto a Ti](https://open.spotify.com/album/45v55uSEHS1BEwtBavKzWD) | 3:49 |
-| 31 | [Al Que Tenga Oídos](https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j), [George De León Jr.](https://open.spotify.com/artist/0QbSM8Sv2J74SJde00kZKZ) | [Al Que Tenga Oídos](https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs) | 4:43 |
+| 31 | [Al Que Tenga Oídos](https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Al Que Tenga Oídos](https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs) | 4:43 |
 | 32 | [Caídas](https://open.spotify.com/track/33NhV621TZIlFhDLFLQJfe) | [Los Herederos](https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx) | [Caídas](https://open.spotify.com/album/3pn4mxU5IlOOP3dYWPDcEu) | 2:55 |
 | 33 | [FAYA](https://open.spotify.com/track/1RJvNfqqGBC2SMI4Ye6MyN) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [FAYA](https://open.spotify.com/album/07kRXxkEOn1mcu5DumPce1) | 2:33 |
 | 34 | [Del Agua Al Cielo](https://open.spotify.com/track/1eDMdg30D6ylaY3cFhKeva) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Eliezer Daniels](https://open.spotify.com/artist/0XSbTfozK3F8xeYpPneVO9), [Esteban Music](https://open.spotify.com/artist/0Xuf6wb2j6Ok0KTAZNJTmH) | [Del Agua Al Cielo](https://open.spotify.com/album/1OCvOFV7UCnBknPshXgXaC) | 3:29 |

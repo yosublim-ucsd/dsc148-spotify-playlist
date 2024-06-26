@@ -4,7 +4,7 @@
 
 > To the world, Here is NCT! Hi we are NCT!
 
-214 songs - 12 hr 29 min
+217 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Good Night](https://open.spotify.com/track/5DOrvstSvBz8Udn4jOntgq) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/3oc1LdV5V128z8fCtAX3Xs) | 3:58 | 2021-12-16 |  |
 | [Good Night](https://open.spotify.com/track/5nwpVRL7r1lHf09Nitm9d0) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:58 | 2021-12-16 | 2024-04-19 |
 | [Hair in the Air \(Trolls: The Beat Goes On Theme\)](https://open.spotify.com/track/4vrxk9BfdS2tDt1ZtYQ2Eb) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG) | [DreamWorks Trolls X SM STATION](https://open.spotify.com/album/0mcFxigjAiix4cDGVgr1wF) | 2:47 | 2023-05-02 |  |
+| [Hands Up](https://open.spotify.com/track/0Wp5yopFqgKyklOReg9S8a) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Hands Up](https://open.spotify.com/album/6J2BAxUAbaNojOQNAvXMiR) | 3:14 | 2024-06-25 |  |
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-12-16 | 2023-05-03 |
 | [Highway to Heaven](https://open.spotify.com/track/38dC0QJ7eBKb3F27O0i0LT) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/3Xv60ja2pLxH3Wk0x0JIWT) | 3:20 | 2021-12-16 | 2023-05-03 |
 | [Highway to Heaven \- English Version](https://open.spotify.com/track/3WNuXdBxk8tQ2VI020dqvE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Highway to Heaven \(English Version\)](https://open.spotify.com/album/4et1GgNRTOx3xpK81Z0iOn) | 3:20 | 2021-12-16 | 2023-05-03 |
@@ -187,6 +188,7 @@
 | [Sit Down!](https://open.spotify.com/track/0SJQTuNZ52VkxfGHJJItBs) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:20 | 2021-12-16 | 2022-07-29 |
 | [Sit Down!](https://open.spotify.com/track/3G7867O6gqh3UmpQeeMLDW) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:20 | 2021-12-16 | 2023-05-03 |
 | [So Am I \(feat\. NCT 127\)](https://open.spotify.com/track/6hIP8wBnZ74qA0xOXhXt3v) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [So Am I \(feat\. NCT 127\)](https://open.spotify.com/album/67sD3DQJRjLU72NULxjmHB) | 3:05 | 2021-12-16 | 2023-05-03 |
+| [Songbird \- Japanese Ver.](https://open.spotify.com/track/3SCRXReEFR5yhw5jnMA0zE) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Songbird](https://open.spotify.com/album/19BPGMIrtPZlPx4LMLQmb2) | 3:01 | 2024-06-25 |  |
 | [Sticker](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:47 | 2021-12-16 | 2023-05-03 |
 | [Strawberry Sunday](https://open.spotify.com/track/0Ki5UBToUGKXAQp1JxvRDb) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:58 | 2023-05-02 |  |
 | [STRONGER](https://open.spotify.com/track/6pHjX4thmIYqqmODsW1kIy) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:26 | 2021-12-16 | 2023-05-03 |
@@ -212,6 +214,7 @@
 | [We Young](https://open.spotify.com/track/2nChvM2Tyv1ib8AvfCJcOe) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Young \- The 1st Mini Album](https://open.spotify.com/album/2cEYyauffphZuDONGi6z9b) | 3:44 | 2021-12-16 | 2023-05-03 |
 | [Welcome To My Playground](https://open.spotify.com/track/56f5GO8ir5ucrcQ00k4a8t) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regulate \- The 1st Album Repackage](https://open.spotify.com/album/5iJsCigDROOTMgUpJ6ex2S) | 3:59 | 2021-12-16 | 2023-05-03 |
 | [Whiplash](https://open.spotify.com/track/2iPxDFeN27VrKgGdZ0AIKw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:21 | 2021-12-16 | 2023-05-03 |
+| [WISH \- Korean Ver.](https://open.spotify.com/track/7uRWaWF70gvKmLhpY3FuaJ) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISH](https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay) | 3:05 | 2024-06-25 |  |
 | [WITHOUT YOU](https://open.spotify.com/track/78DVHbAahuQF56gOC4GnuN) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:25 | 2021-12-16 |  |
 | [Work It](https://open.spotify.com/track/14BZoPmcsFyEn5GConmO3x) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s) | 2:55 | 2024-02-26 |  |
 | [Work It](https://open.spotify.com/track/59ROWrMYu3Aze3zc2kRnJH) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) | 2:55 | 2023-05-02 | 2024-04-19 |

@@ -2,9 +2,9 @@
 
 ### [Women's Voice](https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3)
 
-> 日本の女性アーティストの歌を特集。cover: mei ehara
+> 日本の女性アーティストの歌を特集。cover: 鈴木真海子 \(Mamiko Suzuki\)
 
-2,520 songs - 6 day 17 hr 44 min
+2,521 songs - 6 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,6 +578,7 @@
 | [Ikiteirudakede](https://open.spotify.com/track/5NbF3UFDuf4V7OsA7HKYps) | [やちる](https://open.spotify.com/artist/524BNP1Z5AcJUoSvVddD7S) | [Ikiteirudakede](https://open.spotify.com/album/6745y3MNsdPKPXeCjAA8HT) | 4:27 | 2024-03-19 | 2024-03-27 |
 | [Ikitemiruwa](https://open.spotify.com/track/1r1rgstZ6j5c9PIIvcVdaX) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [ECHO CHAMBER](https://open.spotify.com/album/23hqO5nN3rLdA2NWUnIP9O) | 3:32 | 2022-07-07 | 2022-07-20 |
 | [IKUNE](https://open.spotify.com/track/6VMyyI0Ap0KKLIsiGeIvSh) | [GIVE ME OW](https://open.spotify.com/artist/1gOZX2GKUGvwGkDQagW3dH) | [IKUNE](https://open.spotify.com/album/138bhJmESaN5UtECXd7Pb0) | 2:49 | 2023-04-25 | 2023-05-03 |
+| [in a bubble with u](https://open.spotify.com/track/1kYIOxMeoE4zH8XRLXLttF) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [mukuge](https://open.spotify.com/album/4mpOI8TdpvQPsIo8cRevBi) | 4:20 | 2024-06-25 |  |
 | [in my dream](https://open.spotify.com/track/78DxQxIdVzpj6oyrMEOShB) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [in my dream](https://open.spotify.com/album/3WK4C94BJD8ilHlr1D14Go) | 3:29 | 2022-06-23 | 2022-07-06 |
 | [In the Core of My Heart](https://open.spotify.com/track/0DLr3MyMwfW30PTlhnXbqj) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [「アリスとテレスのまぼろし工場」オリジナルサウンドトラック](https://open.spotify.com/album/2uz6oICkcSVEE0QQaboneg) | 5:28 | 2023-09-27 | 2023-10-04 |
 | [In the Dark](https://open.spotify.com/track/5ZknjcT8dO7W8LiKkH6c21) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [In the Dark](https://open.spotify.com/album/56AOtarjiBBqoqfMwSdWs5) | 4:00 | 2022-07-07 | 2022-08-18 |
@@ -1838,7 +1839,7 @@
 | [ブルーバード](https://open.spotify.com/track/11DLTQBqAjK86RX7T4cGl0) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いきものがかり meets](https://open.spotify.com/album/4gyAb8w1c5hUXDLFg4cVPv) | 3:37 | 2024-02-13 | 2024-02-21 |
 | [ブルーベリー](https://open.spotify.com/track/4CrI06Jog33o1qheoqoWVt) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [ブルーベリー](https://open.spotify.com/album/1m0QG8osYGXrT68QriaRr9) | 3:41 | 2022-07-28 | 2022-08-03 |
 | [ブルーライト](https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [ブルーライト](https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu) | 3:55 | 2023-04-05 | 2023-04-06 |
-| [ブルーライト・ヨコハマ featuring 倉木麻衣](https://open.spotify.com/track/0EROKj2BsJVtXZluZ3J26r) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr), [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [ブルーライト・ヨコハマ featuring 倉木麻衣](https://open.spotify.com/album/10oPTWh6c9og81c5ZUkFKx) | 3:01 | 2024-06-18 |  |
+| [ブルーライト・ヨコハマ featuring 倉木麻衣](https://open.spotify.com/track/0EROKj2BsJVtXZluZ3J26r) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr), [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [ブルーライト・ヨコハマ featuring 倉木麻衣](https://open.spotify.com/album/10oPTWh6c9og81c5ZUkFKx) | 3:01 | 2024-06-18 | 2024-06-26 |
 | [ブレス](https://open.spotify.com/track/478aouesr5rNFHs1wU4BGC) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ブレス](https://open.spotify.com/album/7HuXwSDz8oPRxu7qralaeq) | 4:24 | 2022-07-05 | 2023-01-06 |
 | [ブレーメン](https://open.spotify.com/track/007tbArpeenE3cbJU5I3PL) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [ブレーメン](https://open.spotify.com/album/5M3p1zATZMgkEE5CrHu4k0) | 4:34 | 2022-07-05 | 2022-09-07 |
 | [プラスティック・ラブ](https://open.spotify.com/track/3uwXWJcQd2jVz6h5DhbVGf) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [プラスティック・ラブ](https://open.spotify.com/album/1MYrZMqchzNcGNXMQxBIBc) | 4:52 | 2022-08-02 | 2022-08-10 |

@@ -4,12 +4,13 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K?si=w8bfuFXaS8up2\_BtCVV3zw">One True Pairing</a>
 
-955 songs - 2 day 17 hr 51 min
+956 songs - 2 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10,000 Hours](https://open.spotify.com/track/0HA4N3GEdJakO7GnAV6ChM) | [Spielmann](https://open.spotify.com/artist/5ePjezfKkodzA6aVlPUK80) | [10,000 Hours](https://open.spotify.com/album/3oJRcRPY8CYVyr4BelEzht) | 3:28 | 2024-03-20 | 2024-04-24 |
 | [103](https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [103](https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i) | 4:05 | 2023-08-30 | 2023-10-26 |
+| [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 | 2024-06-25 |  |
 | [145](https://open.spotify.com/track/0wUndaDeaWfAu8cciHiHeR) | [splint](https://open.spotify.com/artist/0Z6cnp9tSe5ow5X0UrNYnu) | [145](https://open.spotify.com/album/5OaUvGQjXWK4R5CMhsP1Wt) | 4:24 | 2022-11-02 | 2022-12-08 |
 | [1471](https://open.spotify.com/track/1BVo3CqGJO3YMNeoK5Ihye) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [1471](https://open.spotify.com/album/6aazGhy1unBHW4nPE6uHlN) | 1:44 | 2022-11-16 | 2023-01-12 |
 | [1995](https://open.spotify.com/track/2VClwPpZUCKuJEN9acH7nA) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD) | [Mercury](https://open.spotify.com/album/7LCvb7UtkTLBcQA45BwPIQ) | 3:55 | 2022-06-16 | 2022-08-04 |

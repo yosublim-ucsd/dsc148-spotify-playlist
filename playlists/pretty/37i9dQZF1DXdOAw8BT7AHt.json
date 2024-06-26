@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Speed",
-  "num_followers": 447554,
+  "num_followers": 447876,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Cheapskate",
-        "url": "https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG"
-      },
-      "artists": [
-        {
-          "name": "Dune Rats",
-          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
-        }
-      ],
-      "duration_ms": 191761,
-      "name": "Cheapskate",
-      "url": "https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
         "name": "Sour",
         "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "No Backbone",
-        "url": "https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL"
+        "name": "Cheapskate",
+        "url": "https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG"
       },
       "artists": [
         {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+          "name": "Dune Rats",
+          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
         }
       ],
-      "duration_ms": 137076,
-      "name": "No Backbone",
-      "url": "https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM"
+      "duration_ms": 191761,
+      "name": "Cheapskate",
+      "url": "https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -507,6 +491,22 @@
       "duration_ms": 149786,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
+        "name": "No Backbone",
+        "url": "https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 137076,
+      "name": "No Backbone",
+      "url": "https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
         "name": "Half Album",
         "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Swing and Sway",
-        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+        "name": "Still Nervous",
+        "url": "https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh"
       },
       "artists": [
         {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
         }
       ],
-      "duration_ms": 178253,
-      "name": "Swing and Sway",
-      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+      "duration_ms": 148106,
+      "name": "You've Got The Nerve",
+      "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -603,22 +619,6 @@
       "duration_ms": 168619,
       "name": "AUTO-HARMONIC ASS FIXATION",
       "url": "https://open.spotify.com/track/4yqxgmvuMVRoKpwTpmcIKL"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
-        "name": "Still Nervous",
-        "url": "https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh"
-      },
-      "artists": [
-        {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
-        }
-      ],
-      "duration_ms": 148106,
-      "name": "You've Got The Nerve",
-      "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Lower Feeling",
-        "url": "https://open.spotify.com/album/35QyWZYT93Nh3JXUjLXaF3"
-      },
-      "artists": [
-        {
-          "name": "Rarity",
-          "url": "https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "New Paint",
-      "url": "https://open.spotify.com/track/5Ex8Ze050rnPRmYhjEMZQT"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
         "name": "Claw",
         "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 195195,
       "name": "Claw",
       "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
+        "name": "Lower Feeling",
+        "url": "https://open.spotify.com/album/35QyWZYT93Nh3JXUjLXaF3"
+      },
+      "artists": [
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "New Paint",
+      "url": "https://open.spotify.com/track/5Ex8Ze050rnPRmYhjEMZQT"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Sanguivore Special Edition",
-        "url": "https://open.spotify.com/album/6Jqw7LKE3lEkc5GTEFrjNf"
-      },
-      "artists": [
-        {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
-        }
-      ],
-      "duration_ms": 253377,
-      "name": "Love And Pain",
-      "url": "https://open.spotify.com/track/7cqu8HAnerp6pOPRlRzLyG"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/0UzkkyZr2P80OnYgsDGUU5"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 268146,
       "name": "Mother",
       "url": "https://open.spotify.com/track/57g6SFW7Fc8bCyni1BCYTM"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
+        "name": "Sanguivore Special Edition",
+        "url": "https://open.spotify.com/album/6Jqw7LKE3lEkc5GTEFrjNf"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "duration_ms": 253377,
+      "name": "Love And Pain",
+      "url": "https://open.spotify.com/track/7cqu8HAnerp6pOPRlRzLyG"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Yo Homo",
-        "url": "https://open.spotify.com/album/6BFEkqiI3CAxHLMWxyR0W0"
-      },
-      "artists": [
-        {
-          "name": "The Irrepressibles",
-          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
-        }
-      ],
-      "duration_ms": 222172,
-      "name": "Yo Homo",
-      "url": "https://open.spotify.com/track/0VsjCGFUsf5EydQvlIg0k4"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
         "name": "Ruiner",
         "url": "https://open.spotify.com/album/091osy7G7DbCy5NuBjbAJg"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 202331,
       "name": "Ruiner",
       "url": "https://open.spotify.com/track/36WpXM0TQtY7PGCAbIvpb1"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
+        "name": "Yo Homo",
+        "url": "https://open.spotify.com/album/6BFEkqiI3CAxHLMWxyR0W0"
+      },
+      "artists": [
+        {
+          "name": "The Irrepressibles",
+          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
+        }
+      ],
+      "duration_ms": 222172,
+      "name": "Yo Homo",
+      "url": "https://open.spotify.com/track/0VsjCGFUsf5EydQvlIg0k4"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
+        "name": "Fascist Bob",
+        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "duration_ms": 116240,
+      "name": "Fascist Bob",
+      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+    },
+    {
+      "added_at": "2024-06-14 13:20:41",
+      "album": {
         "name": "Far Out, Bro (Feat. Daryl Taberski of Snapcase)",
         "url": "https://open.spotify.com/album/3DWnpS0PYuV1ELuWmH75pm"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 207154,
       "name": "Far Out, Bro (Feat. Daryl Taberski of Snapcase)",
       "url": "https://open.spotify.com/track/0qhzDJvawg5ePgaTeNulWb"
-    },
-    {
-      "added_at": "2024-06-14 13:20:41",
-      "album": {
-        "name": "Fascist Bob",
-        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
-      },
-      "artists": [
-        {
-          "name": "SOAPBOX",
-          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
-        }
-      ],
-      "duration_ms": 116240,
-      "name": "Fascist Bob",
-      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Hopefully Pitchfork Doesn't Hear This",
-        "url": "https://open.spotify.com/album/01GmOq8jksLHTkozUJ9Ixg"
+        "name": "Ultrasound",
+        "url": "https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui"
       },
       "artists": [
         {
-          "name": "Super American",
-          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
         }
       ],
-      "duration_ms": 146600,
-      "name": "Hopefully Pitchfork Doesn't Hear This",
-      "url": "https://open.spotify.com/track/3D6N0OuzZPTEDP9MfSIgA0"
+      "duration_ms": 156600,
+      "name": "Ultrasound",
+      "url": "https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Ultrasound",
-        "url": "https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui"
+        "name": "Hopefully Pitchfork Doesn't Hear This",
+        "url": "https://open.spotify.com/album/01GmOq8jksLHTkozUJ9Ixg"
       },
       "artists": [
         {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+          "name": "Super American",
+          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
         }
       ],
-      "duration_ms": 156600,
-      "name": "Ultrasound",
-      "url": "https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA"
+      "duration_ms": 146600,
+      "name": "Hopefully Pitchfork Doesn't Hear This",
+      "url": "https://open.spotify.com/track/3D6N0OuzZPTEDP9MfSIgA0"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "A Different Life",
-        "url": "https://open.spotify.com/album/4ngGXR7o8nJ6QqoVa12Bbg"
+        "name": "Sink Or Swim",
+        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
       },
       "artists": [
         {
-          "name": "Cold Years",
-          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
+          "name": "SNAYX",
+          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
         }
       ],
-      "duration_ms": 247426,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/3foGam4O1YsGX4vppR572g"
+      "duration_ms": 192080,
+      "name": "Sink Or Swim",
+      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
     },
     {
       "added_at": "2024-06-14 13:20:41",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-06-14 13:20:41",
       "album": {
-        "name": "Sink Or Swim",
-        "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
+        "name": "A Different Life",
+        "url": "https://open.spotify.com/album/4ngGXR7o8nJ6QqoVa12Bbg"
       },
       "artists": [
         {
-          "name": "SNAYX",
-          "url": "https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0"
+          "name": "Cold Years",
+          "url": "https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp"
         }
       ],
-      "duration_ms": 192080,
-      "name": "Sink Or Swim",
-      "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
+      "duration_ms": 247426,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/3foGam4O1YsGX4vppR572g"
     },
     {
       "added_at": "2024-06-14 13:20:41",

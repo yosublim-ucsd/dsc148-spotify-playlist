@@ -1,6 +1,6 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 151579,
+  "num_followers": 151620,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "The Covering",
-        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
       },
       "artists": [
         {
-          "name": "Random Hero",
-          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
         }
       ],
-      "duration_ms": 206288,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+        "name": "The Covering",
+        "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
       },
       "artists": [
         {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+          "name": "Random Hero",
+          "url": "https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA"
         }
       ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
+      "duration_ms": 206288,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
+      },
+      "artists": [
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "I'm Only Dreaming",
         "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 233686,
       "name": "Ashes to Ashes",
       "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Still Alive",
-        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
-      },
-      "artists": [
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
-      },
-      "artists": [
-        {
-          "name": "Living Scars",
-          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
-        }
-      ],
-      "duration_ms": 253740,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 237522,
       "name": "Fame",
       "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
+      },
+      "artists": [
+        {
+          "name": "Living Scars",
+          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
+        }
+      ],
+      "duration_ms": 253740,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7mjkYaoqV3XIh6q6TBGvUv"
-      },
-      "artists": [
-        {
-          "name": "Crusoe",
-          "url": "https://open.spotify.com/artist/6ON5hdOJnGooX4VqLtObIl"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Wild Ones",
-      "url": "https://open.spotify.com/track/5TDFpV2PIoU0leXEBq3zv2"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Lighting up the Darkness",
         "url": "https://open.spotify.com/album/78cPuJVdYTd5u1X5Z6XSit"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 207188,
       "name": "Lighting up the Darkness (feat. LKD)",
       "url": "https://open.spotify.com/track/5YPAJtV7lnCvw2gcKuX0ko"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7mjkYaoqV3XIh6q6TBGvUv"
+      },
+      "artists": [
+        {
+          "name": "Crusoe",
+          "url": "https://open.spotify.com/artist/6ON5hdOJnGooX4VqLtObIl"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Wild Ones",
+      "url": "https://open.spotify.com/track/5TDFpV2PIoU0leXEBq3zv2"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "We Never Die",
+        "url": "https://open.spotify.com/album/6iLplDNjwVvSEAo7meGzet"
+      },
+      "artists": [
+        {
+          "name": "Paradise Now",
+          "url": "https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "We Never Die",
+      "url": "https://open.spotify.com/track/1ijexAIjC5jtGueYwc0QGP"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "GODLESS",
         "url": "https://open.spotify.com/album/04lvWoFp95y8I89lNt3anU"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 294786,
       "name": "GODLESS",
       "url": "https://open.spotify.com/track/5hQYAOxNmbCtiA8Gt5hJAm"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "We Never Die",
-        "url": "https://open.spotify.com/album/6iLplDNjwVvSEAo7meGzet"
-      },
-      "artists": [
-        {
-          "name": "Paradise Now",
-          "url": "https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "We Never Die",
-      "url": "https://open.spotify.com/track/1ijexAIjC5jtGueYwc0QGP"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Three Nails",
-        "url": "https://open.spotify.com/album/0RE2vOB4UfAJspcAgOUM8w"
-      },
-      "artists": [
-        {
-          "name": "Set for the Fall",
-          "url": "https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr"
-        }
-      ],
-      "duration_ms": 210511,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/4jMnVm9mlXLPEfmQv7AiG2"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Deathgrip",
         "url": "https://open.spotify.com/album/1wuARmufRqgapPJIM888SU"
       },
@@ -1547,18 +1531,34 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Long Live the Rebels",
-        "url": "https://open.spotify.com/album/156WTxzjwwbhYeCVZkZq4W"
+        "name": "Three Nails",
+        "url": "https://open.spotify.com/album/0RE2vOB4UfAJspcAgOUM8w"
       },
       "artists": [
         {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+          "name": "Set for the Fall",
+          "url": "https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr"
         }
       ],
-      "duration_ms": 243699,
-      "name": "Erase",
-      "url": "https://open.spotify.com/track/2YqctNUthRfX4t1KvPXO00"
+      "duration_ms": 210511,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4jMnVm9mlXLPEfmQv7AiG2"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "When Angels & Serpents Dance (2022 Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 194721,
+      "name": "When Angels & Serpents Dance - 2022 Remixed & Remastered",
+      "url": "https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Long Live the Rebels",
+        "url": "https://open.spotify.com/album/156WTxzjwwbhYeCVZkZq4W"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 243699,
+      "name": "Erase",
+      "url": "https://open.spotify.com/track/2YqctNUthRfX4t1KvPXO00"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "No Altars",
         "url": "https://open.spotify.com/album/4wuEPH40N55PRNsTPO7Kb9"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 209128,
       "name": "No Altars",
       "url": "https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl"
-      },
-      "artists": [
-        {
-          "name": "Ashes Remain",
-          "url": "https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO"
-        }
-      ],
-      "duration_ms": 223011,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG"
     }
   ],
   "unique_name": "Top Christian Rock",

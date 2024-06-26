@@ -4653,6 +4653,24 @@
     },
     {
       "album": {
+        "name": "UNFRAMED",
+        "url": "https://open.spotify.com/album/09fRNZvZnqJqm7024Sa7uP"
+      },
+      "artists": [
+        {
+          "name": "WOOAH",
+          "url": "https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205546,
+      "name": "POM POM POM",
+      "url": "https://open.spotify.com/track/4KtNoHpc781qroUhOol1I1"
+    },
+    {
+      "album": {
         "name": "<Queendom2> Part.2-2",
         "url": "https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp"
       },
@@ -5374,7 +5392,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 161133,
       "name": "Secret Diary",
       "url": "https://open.spotify.com/track/495QLv4XTKlMgcfKXmyuwZ"

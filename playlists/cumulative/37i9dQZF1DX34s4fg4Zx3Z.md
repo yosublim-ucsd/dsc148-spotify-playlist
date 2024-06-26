@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Minh Huy
+> Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Kim Chi Sun
 
 1,681 songs - 4 day 2 hr 35 min
 

@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Miracle soup",
+        "url": "https://open.spotify.com/album/3RB2BMUkv12GW4lL2Zb8hc"
+      },
+      "artists": [
+        {
+          "name": "MindaRyn",
+          "url": "https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200154,
+      "name": "Miracle soup",
+      "url": "https://open.spotify.com/track/3dCLJGqrhClFxNQ68o7B7A"
+    },
+    {
+      "album": {
         "name": "MONOGRAM",
         "url": "https://open.spotify.com/album/1D7FJhAmoqrVERB7IRXZ0h"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Worship 2024 \| The latest and greatest of today's best Worship music\. Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,247 likes - 153 songs - 14 hr 30 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,250 likes - 153 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 12 | [NO ENEMY](https://open.spotify.com/track/0U6RK1znTwQ41QPeP5FEeZ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [NO ENEMY](https://open.spotify.com/album/51FJWUTHS7Wskdv2cmzYlV) | 3:50 |
 | 13 | [Take You At Your Word \- Live](https://open.spotify.com/track/72RlJgcgpJtCsKQaqkOkvy) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Take You At Your Word](https://open.spotify.com/album/0TG1Zk3TWOGZvVrbqx2lnT) | 5:16 |
 | 14 | [Depend on You \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/1nEaFRDW45XQSWAxWaVgOf) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Sunday, Vol\. 2 \(Live\)](https://open.spotify.com/album/7oR0beIXW7ywXvkFTf8Ncv) | 5:33 |
-| 15 | [WHAT YOU'RE WORTHY OF](https://open.spotify.com/track/1opOqU6Vph4HcZW1xiloe5) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [WHAT YOU'RE WORTHY OF](https://open.spotify.com/album/5lI5bQFhbTu0sY1Zl7EX3N) | 4:26 |
-| 16 | [What A Friend](https://open.spotify.com/track/0w6iogAZgWyfVcC4MpG4zs) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [What A Friend](https://open.spotify.com/album/4fORMR5R4m2ZMNUf4KTb6G) | 4:11 |
-| 17 | [Highest Praise \- Live](https://open.spotify.com/track/7i0VDcrLmc8M39MN2i77qz) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP), [Emma Munns](https://open.spotify.com/artist/7MTo3pAwxkYBoySu334Det) | [Highest Praise \(Live\)](https://open.spotify.com/album/6oe0qlvrWEBwfVZCIqqTEz) | 6:57 |
-| 18 | [Thunder In The Desert](https://open.spotify.com/track/0PF8skP2y14i17rJSMn2Um) | [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [TIME](https://open.spotify.com/album/5TxwC6fgOVmp5oce0KoUT5) | 5:10 |
+| 15 | [What A Friend](https://open.spotify.com/track/0w6iogAZgWyfVcC4MpG4zs) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [What A Friend](https://open.spotify.com/album/4fORMR5R4m2ZMNUf4KTb6G) | 4:11 |
+| 16 | [Highest Praise \- Live](https://open.spotify.com/track/7i0VDcrLmc8M39MN2i77qz) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP), [Emma Munns](https://open.spotify.com/artist/7MTo3pAwxkYBoySu334Det) | [Highest Praise \(Live\)](https://open.spotify.com/album/6oe0qlvrWEBwfVZCIqqTEz) | 6:57 |
+| 17 | [Thunder In The Desert](https://open.spotify.com/track/0PF8skP2y14i17rJSMn2Um) | [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [TIME](https://open.spotify.com/album/5TxwC6fgOVmp5oce0KoUT5) | 5:10 |
+| 18 | [WHAT YOU'RE WORTHY OF](https://open.spotify.com/track/1opOqU6Vph4HcZW1xiloe5) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [WHAT YOU'RE WORTHY OF](https://open.spotify.com/album/5lI5bQFhbTu0sY1Zl7EX3N) | 4:26 |
 | 19 | [House of God \- Live](https://open.spotify.com/track/5C6LXBvnV0S9gnnq4VCAC4) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Zach Johnson](https://open.spotify.com/artist/4pTMvrRvcRMeh3zMiqE39l) | [House of God \(Live\)](https://open.spotify.com/album/3c78hcVrVuOCq23GMQ0mcR) | 4:12 |
 | 20 | [Way Maker \- Spontaneous / Live](https://open.spotify.com/track/2tgyvXJA7aYThK1C9HcZXf) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1) | [Glory \(Live\)](https://open.spotify.com/album/7jcJbWlIlEWm1zRj564RDI) | 5:21 |
 | 21 | [No One Like The Lord \(We Crown You\) \- Live](https://open.spotify.com/track/2bc8dK2VSBuLHMkqDfT8k1) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y) | [No One Like The Lord \(We Crown You\) \[Live\]](https://open.spotify.com/album/4Kdfe6DKx6mIpvlSHAaVzQ) | 6:01 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 152 | [God So Loved](https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:25 |
 | 153 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/56SvYdddE1igvBFZn17hRx) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:26 |
 
-Snapshot ID: `AAAfGWgYg+KLC4zyOBlOJgI0etrhKDoh`
+Snapshot ID: `AAAfHP5MbxgydY8ipcgbGfg5bNNWisSL`

@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=wH1M\-7yZQCGXxYg6WLgI\-w"> عصام صاصا </a>
 
-252 songs - 15 hr 24 min
+253 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [العمر راح جمايل](https://open.spotify.com/track/2tDHfhOcCyIlT2cMc2MbLs) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Abdelsalam](https://open.spotify.com/artist/1RYiKhiu6grbHvPZIuO18y), [Shalsha](https://open.spotify.com/artist/7JvNUhrLYfqBSIPfa5N12E) | [العمر راح جمايل](https://open.spotify.com/album/4t5IE26L1Y0HcP0SMBoDti) | 2:53 | 2023-02-07 |  |
 | [العودة من بعد الغياب](https://open.spotify.com/track/4NRlZae2zcdVHGauLgJpHX) | [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5) | [العودة من بعد الغياب](https://open.spotify.com/album/1dDpWoqT9YSFfkXzeLzX5Y) | 3:55 | 2024-06-11 |  |
 | [العيون باصه عليا](https://open.spotify.com/track/1uVWKDtpuWljWjai86O3fh) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15) | [العيون باصه عليا](https://open.spotify.com/album/6nzxtk62DizT8gnOvNgn6g) | 3:33 | 2024-06-11 |  |
-| [الفلوس \- احنا جامدين اوي اوي اوي](https://open.spotify.com/track/5doKqxjbNAqwtSs0vRx7D5) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [Eslam El Malah](https://open.spotify.com/artist/4OPOlr1iwqlWI09q8IsCKv) | [الفلوس \(احنا جامدين اوي اوي اوي\)](https://open.spotify.com/album/3CeCK1MJ361CXE83m7s41E) | 3:14 | 2022-07-30 |  |
+| [الفلوس \- احنا جامدين اوي اوي اوي](https://open.spotify.com/track/5doKqxjbNAqwtSs0vRx7D5) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [Eslam El Malah](https://open.spotify.com/artist/4OPOlr1iwqlWI09q8IsCKv) | [الفلوس \(احنا جامدين اوي اوي اوي\)](https://open.spotify.com/album/3CeCK1MJ361CXE83m7s41E) | 3:14 | 2022-07-30 | 2024-06-26 |
 | [الفن فن \[من مسلسل كوبرا\]](https://open.spotify.com/track/5lces4EJVfofGSoyWBl1zp) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG) | [الفن فن \[من مسلسل كوبرا\]](https://open.spotify.com/album/5339xaz76KpI2OYilWscqp) | 3:19 | 2024-04-02 | 2024-06-12 |
 | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/track/1x77KcxyDUitE4trltji2r) | [Eslam Shendy](https://open.spotify.com/artist/2dYNk7MJlaOMlM9oXbrlfn) | [القاضية \(من فيلم ولاد رزق 3\)](https://open.spotify.com/album/6Cvk4ibByAaFlzNtAbNjZv) | 3:09 | 2024-06-20 |  |
 | [اللي باعو بالسلامة \- Back Catalog](https://open.spotify.com/track/4UMvvZ7769yVSV7U0t8idv) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [شارع 3 \- ST3](https://open.spotify.com/artist/6ho7BWPqO3FmLyfJw3rnbo) | [اللي باعو بالسلامة](https://open.spotify.com/album/5CSZhvBiT1PXnbp0xxV4V8) | 3:15 | 2021-12-16 | 2022-11-18 |
@@ -108,6 +108,7 @@
 | [بوم طخ طخ](https://open.spotify.com/track/5vIONI8kvsS4S6ogssrCNG) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [بوم طخ طخ](https://open.spotify.com/album/0vvArbnHsNg0TfVDzqNJyu) | 4:27 | 2021-12-16 | 2022-07-31 |
 | [تعالي شوف في ايه يا صديق](https://open.spotify.com/track/189eXZnM4jAIVST0ESW7UC) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hamo El Tikha](https://open.spotify.com/artist/4sdlH0LsKi46VZpApChqZM) | [تعالي شوف في ايه يا صديق](https://open.spotify.com/album/3CO40kFO1xDPRxnBq3416a) | 4:23 | 2022-02-01 | 2022-10-17 |
 | [تليفونى للسؤال](https://open.spotify.com/track/6gbjsT7U7b1I0iARVPUoy8) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [تليفونى للسؤال](https://open.spotify.com/album/3hzCVYGtdd3YzDcmFw53ll) | 3:38 | 2022-07-30 | 2022-11-24 |
+| [توينز الشظية \( الجزء الثالث \)](https://open.spotify.com/track/5Lo2x2ioZU4Zb3WNPyS5iF) | [El Dakhlowya](https://open.spotify.com/artist/2USLQtjScbiQCPSJ4ipYnP) | [توينز الشظية \( الجزء الثالث \)](https://open.spotify.com/album/0iroGarFwEa7AI0AnzxUjh) | 6:34 | 2024-06-25 |  |
 | [جامد](https://open.spotify.com/track/7dhkgivsendkxVgtB9zZo6) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f) | [جامد](https://open.spotify.com/album/50Bc0tbgEIIQ1imsPKeZkO) | 3:00 | 2021-12-16 | 2022-10-25 |
 | [جنب الحيط بس اسد لو اتحطيت](https://open.spotify.com/track/6YDzE2uS3lmoqxpmKKs7F2) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [جنب الحيط بس اسد لو اتحطيت](https://open.spotify.com/album/5F4lAWGZejo8HpVkBOipVE) | 5:13 | 2023-10-03 | 2024-06-21 |
 | [جوب](https://open.spotify.com/track/00iZxf2j4qUqsSa7HOngwZ) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [جوب](https://open.spotify.com/album/0sUROVLFIxptdj9P8Vssyn) | 4:10 | 2022-09-08 |  |

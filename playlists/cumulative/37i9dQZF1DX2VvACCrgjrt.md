@@ -4,7 +4,7 @@
 
 > Real nasty house with Julian Jordan
 
-790 songs - 1 day 16 hr 53 min
+791 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-13 | 2023-04-01 |
 | [Tell Me What](https://open.spotify.com/track/56AydkG6w9Mux2SGGUYGrF) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Tell Me What](https://open.spotify.com/album/4BjDdvhvjqcOljiVZ2U7KN) | 3:17 | 2022-02-04 | 2022-05-02 |
 | [Ten Outta Ten](https://open.spotify.com/track/1qXUDkT5NiiwkK4T0FLYPt) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Tyrone](https://open.spotify.com/artist/6aapEQN8zrKOf2NOKf0MPI), [Kid Kyote](https://open.spotify.com/artist/4eLOi1gjvvufSBOfQt5wRA) | [Ten Outta Ten](https://open.spotify.com/album/1fpzyikfWMFQZLwDQTD9Td) | 2:56 | 2023-10-27 | 2024-06-08 |
+| [Tequila](https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Tequila](https://open.spotify.com/album/4hRnKsXRJ2tjR64XAE8JbL) | 2:46 | 2024-06-24 |  |
 | [TEQUILA](https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:03 | 2023-10-13 | 2023-10-20 |
 | [TEQUILA](https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [TEQUILA](https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB) | 3:03 | 2023-10-20 | 2024-04-19 |
 | [That Beat!](https://open.spotify.com/track/5bmWL4rWCPJjt6cloDe8Ye) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [That Beat!](https://open.spotify.com/album/1cCKbMISPqZAZplijyhR3M) | 2:53 | 2024-06-24 |  |
@@ -788,7 +789,7 @@
 | [You Only Die Once \(feat\. Snoop Dogg\)](https://open.spotify.com/track/1zSROLwDPEvO58gt28VKfW) | [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [You Only Die Once \(feat\. Snoop Dogg\)](https://open.spotify.com/album/5gDO2SvkjN3WGEUtnisuYX) | 4:09 | 2023-04-21 | 2023-07-15 |
 | [You're All Drunk](https://open.spotify.com/track/53I9ct5lkkNHUDZqsOnlbb) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [You’re All Drunk](https://open.spotify.com/album/3DGJDMRduLi2qKHjt0CKZH) | 2:11 | 2024-01-26 | 2024-04-06 |
 | [You're Special](https://open.spotify.com/track/4SMzlLIihKtRPVt0SMhTex) | [VENGA](https://open.spotify.com/artist/4SHOU5SKwu9LVOwGPHUotS) | [You're Special](https://open.spotify.com/album/4qB09zZF7bVo2yiJwM8jus) | 2:40 | 2024-02-09 | 2024-04-27 |
-| [Young Money](https://open.spotify.com/track/0xlZeaB8bFiFKpTKIcTOIq) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Young Money](https://open.spotify.com/album/1hiQPT0R07NhqFghAC15xr) | 3:00 | 2023-12-15 |  |
+| [Young Money](https://open.spotify.com/track/0xlZeaB8bFiFKpTKIcTOIq) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Young Money](https://open.spotify.com/album/1hiQPT0R07NhqFghAC15xr) | 3:00 | 2023-12-15 | 2024-06-26 |
 | [Your Body](https://open.spotify.com/track/4A9kMqwijHsdsnkoluwkoJ) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Your Body](https://open.spotify.com/album/4nwu5zKNGEcHWzoZOezBJ3) | 2:37 | 2021-10-29 | 2022-08-13 |
 | [Yours \- Cat Dealers Remix](https://open.spotify.com/track/1nN1b5eEbqxKG2Uw5shq2s) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Yours \(Cat Dealers Remix\)](https://open.spotify.com/album/3zgHKTRZ7b55WBeSgQegl9) | 2:51 | 2024-01-12 | 2024-01-27 |
 | [Yup](https://open.spotify.com/track/0QDdJKjpf2vRQjihJeZvU1) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Yup](https://open.spotify.com/album/4TPTDC0qFhxS31IEfyJQ1K) | 3:48 | 2022-07-29 | 2022-09-26 |

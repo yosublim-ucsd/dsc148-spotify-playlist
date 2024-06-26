@@ -4,7 +4,7 @@
 
 > Coldplay au top des nouveautés de la semaine !
 
-748 songs - 1 day 14 hr 54 min
+749 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [4 anneaux](https://open.spotify.com/track/24nAhbOcKz2mM2dqf7ozFh) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV) | [Love 66 \(Deluxe Version\)](https://open.spotify.com/album/629CBeD42OzFbCjmesnZ3n) | 3:11 | 2024-05-30 | 2024-06-07 |
 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 | 2024-06-20 |  |
 | [4U](https://open.spotify.com/track/2T1s4mN3JybGmimFX8zDTD) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Mi Amigo Slow Joy](https://open.spotify.com/album/3GLPZqpHxiB1H2ayDNV1BS) | 3:32 | 2024-06-06 | 2024-06-14 |
-| [50G](https://open.spotify.com/track/0JaCXZzj9Rb6cwz8wKN0pk) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [SUR LE CHEMIN \(Phase finale\)](https://open.spotify.com/album/4iEr3dDioblHwjpXLXBpS0) | 3:59 | 2024-06-20 |  |
+| [50G](https://open.spotify.com/track/0JaCXZzj9Rb6cwz8wKN0pk) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [SUR LE CHEMIN \(Phase finale\)](https://open.spotify.com/album/4iEr3dDioblHwjpXLXBpS0) | 3:58 | 2024-06-20 |  |
 | [50¢](https://open.spotify.com/track/23Vfw3quYZrSLLVJMpARPr) | [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Dose héroïque](https://open.spotify.com/album/54aPS3jDEYjVOZo8KO9AIq) | 2:32 | 2024-06-13 | 2024-06-21 |
 | [9 Circles](https://open.spotify.com/track/0yo0S4H7hSS79S2C2vptGV) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 4:00 | 2024-05-23 | 2024-06-01 |
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-20 |  |
@@ -329,6 +329,7 @@
 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 | 2024-05-16 | 2024-05-24 |
 | [Immortal Queen \(feat\. Chaka Khan\)](https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:19 | 2024-05-02 | 2024-05-10 |
 | [In Front of Me Now](https://open.spotify.com/track/0rQazIPADhp6WirPHVD0xp) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [In Front of Me Now](https://open.spotify.com/album/3VWqWwC3XNhuhStTquKzgf) | 3:41 | 2024-05-16 | 2024-05-24 |
+| [In My Head](https://open.spotify.com/track/6rD91CDAdyLwZ9fLPmfWqR) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Freak Show](https://open.spotify.com/album/3MZrZaiEhwp96tdh4QCfIm) | 2:37 | 2024-06-20 |  |
 | [Insecure](https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Insecure](https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw) | 3:15 | 2024-05-02 | 2024-05-10 |
 | [Insolation](https://open.spotify.com/track/6nq8djOsXo8wr8vl1eKeIH) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Insolation](https://open.spotify.com/album/3rTQcvP4qgScLh3vDOJyIp) | 2:54 | 2024-05-30 | 2024-06-07 |
 | [Into Gold](https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Into Gold](https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW) | 5:42 | 2024-06-20 |  |

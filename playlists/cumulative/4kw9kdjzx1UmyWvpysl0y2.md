@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-757 songs - 1 day 19 hr 33 min
+758 songs - 1 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Drift Away](https://open.spotify.com/track/2L8at3lop2IDJyYeBMMUZa) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Drift Away](https://open.spotify.com/album/6syTBBVYJJ9Tlp4sBAW2k4) | 3:42 | 2022-08-08 | 2022-10-20 |
 | [DRIFTER](https://open.spotify.com/track/0X0YaxmMX1foUMubg0X6YR) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [DRIFTER](https://open.spotify.com/album/26Q9pfSZwbYEDgSKnuDRem) | 1:39 | 2023-10-16 | 2024-02-02 |
 | [Drive You Crazy](https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Drive You Crazy](https://open.spotify.com/album/1zetX8KIFc1L4WmDm23uxb) | 2:58 | 2022-07-08 | 2022-09-23 |
+| [Driving](https://open.spotify.com/track/4MWNzOV01xBWQ5bUNWbfUL) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Driving](https://open.spotify.com/album/4nqtyvb07LoYrEBFMWU51F) | 3:21 | 2024-06-25 |  |
 | [Droids](https://open.spotify.com/track/14jlkBcHSBOdGLeei57uEH) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Droids](https://open.spotify.com/album/0i7MvBfZ7poiVKpOIJWAQ0) | 3:40 | 2022-06-09 | 2022-08-23 |
 | [Drowning](https://open.spotify.com/track/6ay07MXOmggaJyMoLT1fqC) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Drowning](https://open.spotify.com/album/7lJSmMbApjYTvZaU72KZTo) | 3:49 | 2023-02-24 | 2023-05-18 |
 | [Duality](https://open.spotify.com/track/3SdDaIM1CjAEaFN9jmqfjf) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Duality](https://open.spotify.com/album/1y7jhXRTJG1kBi7ZftkjB8) | 3:30 | 2022-12-08 | 2023-03-09 |

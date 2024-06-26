@@ -4,7 +4,7 @@
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Takeover: AC/DC
 
-178 songs - 14 hr 16 min
+179 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Outside The Spiral](https://open.spotify.com/track/6Pv3NZoqEflCbPAy0tRURr) | [Till The Dirt](https://open.spotify.com/artist/3bJBvA9DFvhQGhCMlYrQnL) | [Outside The Spiral](https://open.spotify.com/album/1WjXvDm2pINSSOOkJxR2RI) | 3:58 | 2023-09-22 | 2024-01-26 |
 | [Panic Attack](https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Panic Attack](https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec) | 5:25 | 2023-10-23 | 2024-01-26 |
 | [Perfect Strangers](https://open.spotify.com/track/2JhJOPGvtqMpj5RQC8cIYf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 5:28 | 2024-01-25 |  |
+| [Perfume Of The Timeless](https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Perfume Of The Timeless](https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt) | 8:12 | 2024-06-25 |  |
 | [Pipe Dreams](https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Pipe Dreams](https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl) | 4:05 | 2023-09-22 | 2024-01-26 |
 | [Prestehammeren](https://open.spotify.com/track/14Kf2KHVTWkrlPtxEAZaq2) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Helvegr](https://open.spotify.com/album/6eH7gLDHor7ZPiz4VQtWDM) | 4:01 | 2023-09-22 | 2024-01-26 |
 | [Putrid Angels Ritual](https://open.spotify.com/track/6dJgBHIF22OQh1FvvCpGRC) | [Vulcano](https://open.spotify.com/artist/7qfrFvOUlXFc8Xzhn8I1p7) | [Stone Orange](https://open.spotify.com/album/3wPt30rdfVoejHwRKcjBfd) | 2:33 | 2023-09-22 | 2024-01-26 |
@@ -146,7 +147,7 @@
 | [Telegraph Road](https://open.spotify.com/track/071BtONQBIq4SkvO0okS4k) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Love Over Gold](https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5) | 14:18 | 2024-01-25 | 2024-04-19 |
 | [TERRYFIGHT \(Vs Loco Arreola\)](https://open.spotify.com/track/64TXCFTQEfHHWVVM3huuqp) | [Here Comes The Kraken](https://open.spotify.com/artist/52Zn2uHVzdUXzLWl8D0uZa), [Fightback](https://open.spotify.com/artist/2BHPRJSIJTiQwoKYX0liL7) | [TERRYFIGHT \(Vs Loco Arreola\)](https://open.spotify.com/album/32UKqKvc1Uszewk648nKte) | 3:44 | 2023-09-22 | 2024-01-26 |
 | [The Abyssal Plain](https://open.spotify.com/track/2wreuHeBm8CjE98ECUSfOv) | [Dryad](https://open.spotify.com/artist/4r1BVaylx6XoS1JAys2Qis) | [The Abyssal Plain](https://open.spotify.com/album/1sfw0FvVxQghLIiVARCuqg) | 3:46 | 2023-09-22 | 2024-01-26 |
-| [The Alchemist \- 2001 Remaster](https://open.spotify.com/track/4wtVgSUYJQCbcEMw2j5mSW) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Chemical Wedding](https://open.spotify.com/album/0ixzPRuTcEmvftZdRRG4t5) | 6:03 | 2024-01-25 |  |
+| [The Alchemist \- 2001 Remaster](https://open.spotify.com/track/4wtVgSUYJQCbcEMw2j5mSW) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Chemical Wedding](https://open.spotify.com/album/0ixzPRuTcEmvftZdRRG4t5) | 6:03 | 2024-01-25 | 2024-06-26 |
 | [The Final Shot](https://open.spotify.com/track/3J6J1yfjM98n79uZO8f8YY) | [Acrania](https://open.spotify.com/artist/2Lvo1Nds7kn1ecNwHqxQZa) | [Unbreakable Fury \(2020 Re\-Recording\)](https://open.spotify.com/album/0gSDQaSkGiyHZ4RjmXEb0H) | 4:27 | 2023-09-22 | 2024-01-26 |
 | [The Green Manalishi \(With the Two Pronged Crown\)](https://open.spotify.com/track/6U63nKrxHvM76KOa6kpyfq) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 3:22 | 2024-01-25 |  |
 | [The Hellion / Electric Eye](https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Living After Midnight](https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5) | 4:20 | 2024-01-25 |  |

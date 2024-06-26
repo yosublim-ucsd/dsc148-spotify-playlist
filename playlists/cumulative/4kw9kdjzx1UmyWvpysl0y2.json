@@ -3555,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/4nqtyvb07LoYrEBFMWU51F"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201656,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/4MWNzOV01xBWQ5bUNWbfUL"
+    },
+    {
+      "album": {
         "name": "Droids",
         "url": "https://open.spotify.com/album/0i7MvBfZ7poiVKpOIJWAQ0"
       },

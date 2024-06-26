@@ -1,6 +1,6 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 65,
+  "num_followers": 98,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
-      },
-      "artists": [
-        {
-          "name": "DAHEE",
-          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
-        }
-      ],
-      "duration_ms": 174856,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
-    },
-    {
-      "added_at": "2024-06-21 07:55:54",
-      "album": {
         "name": "gr8",
         "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 158468,
       "name": "gr8",
       "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+    },
+    {
+      "added_at": "2024-06-21 07:55:54",
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
+      },
+      "artists": [
+        {
+          "name": "DAHEE",
+          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+        }
+      ],
+      "duration_ms": 174856,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
     },
     {
       "added_at": "2024-06-21 07:55:54",
@@ -631,26 +631,6 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
-        "name": "Tailor",
-        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
-      },
-      "artists": [
-        {
-          "name": "The BLANK Shop",
-          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 267051,
-      "name": "We are all Muse (Feat. Yerin Baek)",
-      "url": "https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn"
-    },
-    {
-      "added_at": "2024-06-21 07:55:54",
-      "album": {
         "name": "Rainy Apgujeong",
         "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 274030,
       "name": "Rainy Apgujeong",
       "url": "https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J"
+    },
+    {
+      "added_at": "2024-06-21 07:55:54",
+      "album": {
+        "name": "Tailor",
+        "url": "https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z"
+      },
+      "artists": [
+        {
+          "name": "The BLANK Shop",
+          "url": "https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 267051,
+      "name": "We are all Muse (Feat. Yerin Baek)",
+      "url": "https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn"
     },
     {
       "added_at": "2024-06-21 07:55:54",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
-        "name": "Good Day (My love X LEESEOKHOON)",
-        "url": "https://open.spotify.com/album/3bRoxwAudIAm6HI13JyBAl"
-      },
-      "artists": [
-        {
-          "name": "Lee Seok Hoon",
-          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
-        }
-      ],
-      "duration_ms": 245026,
-      "name": "Good Day (My love X LEESEOKHOON)",
-      "url": "https://open.spotify.com/track/7tWjUGBX3NT5gBkXqdOCrO"
-    },
-    {
-      "added_at": "2024-06-21 07:55:54",
-      "album": {
         "name": "Forever yours",
         "url": "https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
+        "name": "Good Day (My love X LEESEOKHOON)",
+        "url": "https://open.spotify.com/album/3bRoxwAudIAm6HI13JyBAl"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        }
+      ],
+      "duration_ms": 245026,
+      "name": "Good Day (My love X LEESEOKHOON)",
+      "url": "https://open.spotify.com/track/7tWjUGBX3NT5gBkXqdOCrO"
+    },
+    {
+      "added_at": "2024-06-21 07:55:54",
+      "album": {
         "name": "Cliche",
         "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 186697,
       "name": "Cliche",
       "url": "https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM"
-    },
-    {
-      "added_at": "2024-06-21 07:55:54",
-      "album": {
-        "name": "I Really Didn't Know You",
-        "url": "https://open.spotify.com/album/1qg7swV1Cs2SIgUvX7bmkq"
-      },
-      "artists": [
-        {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
-        }
-      ],
-      "duration_ms": 223220,
-      "name": "I Really Didn't Know You",
-      "url": "https://open.spotify.com/track/11yW0e3Pth5l2rTIShyDsj"
     },
     {
       "added_at": "2024-06-21 07:55:54",
@@ -983,6 +967,22 @@
       "duration_ms": 205002,
       "name": "Leave like this",
       "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
+    },
+    {
+      "added_at": "2024-06-21 07:55:54",
+      "album": {
+        "name": "I Really Didn't Know You",
+        "url": "https://open.spotify.com/album/1qg7swV1Cs2SIgUvX7bmkq"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 223220,
+      "name": "I Really Didn't Know You",
+      "url": "https://open.spotify.com/track/11yW0e3Pth5l2rTIShyDsj"
     },
     {
       "added_at": "2024-06-21 07:55:54",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-06-21 07:55:54",
       "album": {
+        "name": "ALL NIGHT",
+        "url": "https://open.spotify.com/album/0XZS1yym1vkZJE3z1KUIP7"
+      },
+      "artists": [
+        {
+          "name": "D2ear",
+          "url": "https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "\uace0\uc591\uc774\uc758 \uc0b0\ucc45",
+      "url": "https://open.spotify.com/track/3omQ4YiFuiHpP7WVJy5LZK"
+    },
+    {
+      "added_at": "2024-06-21 07:55:54",
+      "album": {
         "name": "December's Spring",
         "url": "https://open.spotify.com/album/4knx3cIPVE7wb6yNJhhS1A"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 194573,
       "name": "We don\u2019t talk (Feat. CHEEZE)",
       "url": "https://open.spotify.com/track/3bjwxY6u1MFQheamA1rkcP"
-    },
-    {
-      "added_at": "2024-06-21 07:55:54",
-      "album": {
-        "name": "ALL NIGHT",
-        "url": "https://open.spotify.com/album/0XZS1yym1vkZJE3z1KUIP7"
-      },
-      "artists": [
-        {
-          "name": "D2ear",
-          "url": "https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "\uace0\uc591\uc774\uc758 \uc0b0\ucc45",
-      "url": "https://open.spotify.com/track/3omQ4YiFuiHpP7WVJy5LZK"
     },
     {
       "added_at": "2024-06-21 07:55:54",

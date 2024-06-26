@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAADE0otoW0fudVPd2sBZaFxI5VzUWCb",
+  "snapshot_id": "AAADGjBa/KwLY+81mDbfx9gC9pbuY0Mv",
   "tracks": [
+    {
+      "added_at": "2024-06-25 03:59:51",
+      "album": {
+        "name": "\u30a2\u30d5\u30bf\u30fc\u30fb\u30b6\u30fb\u30c4\u30a1\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/6sehkyCjkWbV9eLdA1QOsm"
+      },
+      "artists": [
+        {
+          "name": "ikomai",
+          "url": "https://open.spotify.com/artist/5UnaSfwWSCNVzIKsNnbKLO"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "\u30a2\u30d5\u30bf\u30fc\u30fb\u30b6\u30fb\u30c4\u30a1\u30a4\u30b9 (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/7urN2V1SxQkNSTGBtS4BTL"
+    },
+    {
+      "added_at": "2024-06-25 04:00:25",
+      "album": {
+        "name": "\u30e0\u30b8\u30ce\u30e0\u30b8\u30ab",
+        "url": "https://open.spotify.com/album/0SQoB6R2kwzQ6cVcZFqPWs"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30ed\u30af\u30de\u6d88\u3057\u30b4\u30e0",
+          "url": "https://open.spotify.com/artist/7CWRzDWFh2yZajpEwvJxPk"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 162150,
+      "name": "\u30c4\u30ae\u30cf\u30ae\u30ca\u30e0\u30b8\u30ab (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1m0G8vtPj0SB2vaohgbjdj"
+    },
+    {
+      "added_at": "2024-06-25 04:00:51",
+      "album": {
+        "name": "\u30ec\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/4gQ7VGu72CJm3i1nLIs7Cb"
+      },
+      "artists": [
+        {
+          "name": "\u306d\u3058\u5f0f",
+          "url": "https://open.spotify.com/artist/2WMWyRVZHCzEv713ZSdjAT"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "\u30ec\u30b9\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0G6w5xoxRt1kygWF0KAoUi"
+    },
+    {
+      "added_at": "2024-06-25 04:02:50",
+      "album": {
+        "name": "Miracle Child",
+        "url": "https://open.spotify.com/album/2wBis6cw8lPWhEDYTdgegQ"
+      },
+      "artists": [
+        {
+          "name": "takamatt",
+          "url": "https://open.spotify.com/artist/2R42xVG4zUh3UdPegxw2dE"
+        }
+      ],
+      "duration_ms": 458000,
+      "name": "Jewel Box",
+      "url": "https://open.spotify.com/track/5OoiWKJi45rv6vwnH2dnr9"
+    },
+    {
+      "added_at": "2024-06-25 04:03:49",
+      "album": {
+        "name": "Genshijin VR",
+        "url": "https://open.spotify.com/album/2EreU3uBgPvoTG6vlXymZU"
+      },
+      "artists": [
+        {
+          "name": "yanagamiyuki",
+          "url": "https://open.spotify.com/artist/2zBuOtCX7vYYxgfIPbfZBD"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Genshijin VR (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/67ZMR5fo3p2abfbiOPMHtv"
+    },
     {
       "added_at": "2024-06-11 06:19:07",
       "album": {
@@ -647,98 +743,6 @@
       "duration_ms": 371052,
       "name": "\u5927\u5207\u306a\u541b\u3078\u8d08\u308b\u6b4c",
       "url": "https://open.spotify.com/track/5oSg0Mq586O7yyGrJjwHRc"
-    },
-    {
-      "added_at": "2024-03-26 02:59:03",
-      "album": {
-        "name": "\u304d\u3063\u3077\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/69saKw7br0QL4MD9LYdxJQ"
-      },
-      "artists": [
-        {
-          "name": "\u6797\u7530\u5320",
-          "url": "https://open.spotify.com/artist/3FxzoRlmUKSHHfZGd9JoVE"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 297440,
-      "name": "Bonam Noctem (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/07wE2wRp0NaBGIGE2kVdIA"
-    },
-    {
-      "added_at": "2024-03-26 02:59:19",
-      "album": {
-        "name": "\u304f\u3044\u304d\u308b",
-        "url": "https://open.spotify.com/album/758zh6hCLBKitUbsiV74Cy"
-      },
-      "artists": [
-        {
-          "name": "ikomai",
-          "url": "https://open.spotify.com/artist/5UnaSfwWSCNVzIKsNnbKLO"
-        },
-        {
-          "name": "\u53ef\u4e0d",
-          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "\u304f\u3044\u304d\u308b (feat. \u53ef\u4e0d)",
-      "url": "https://open.spotify.com/track/3hBma17dyOxsjx2cjM1jRg"
-    },
-    {
-      "added_at": "2024-03-26 03:00:26",
-      "album": {
-        "name": "\u97f3\u306e\u306a\u3044\u30ec\u30d7\u30ea\u30ab",
-        "url": "https://open.spotify.com/album/6ojiZ5FVUlQXEudSKWuwX8"
-      },
-      "artists": [
-        {
-          "name": "\u30b7\u30ed\u30af\u30de\u6d88\u3057\u30b4\u30e0",
-          "url": "https://open.spotify.com/artist/7CWRzDWFh2yZajpEwvJxPk"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 126400,
-      "name": "\u97f3\u306e\u306a\u3044\u30ec\u30d7\u30ea\u30ab (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/7lY8R5YepCHG6h3OBlZm3d"
-    },
-    {
-      "added_at": "2024-03-26 03:01:23",
-      "album": {
-        "name": "\u30ec\u30be\u30ca\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/2lQAyLo5n2XLVmVngGlXg2"
-      },
-      "artists": [
-        {
-          "name": "\u78e8\u702c",
-          "url": "https://open.spotify.com/artist/4rG5vr6YW3rWm4aAO4VZd8"
-        }
-      ],
-      "duration_ms": 252121,
-      "name": "\u30d6\u30eb\u30fc\u30e0\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/33Q6DACi8fG2dzQwOxvGkO"
-    },
-    {
-      "added_at": "2024-03-26 03:09:43",
-      "album": {
-        "name": "Golden period",
-        "url": "https://open.spotify.com/album/58Ew477WFxZmigoeMrZpAh"
-      },
-      "artists": [
-        {
-          "name": "\u30b9\u30da\u30af\u30bf\u30af\u30ebP",
-          "url": "https://open.spotify.com/artist/1iZYO91hc3iBQYPDM8cb0G"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "\u30a2\u30f3\u30c0\u30f3\u30c6 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/7gjm3XA9CxnFpdmwB3fUvX"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

@@ -1,12 +1,12 @@
 {
   "description": "100 Suomi \ud83d\udcaf ",
-  "num_followers": 85463,
+  "num_followers": 85464,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnSYUAAAAAB6ILgh2C+1X2/B24GLVSbt",
+  "snapshot_id": "ZnqgCgAAAAAf8+n/kAuto4pDP1ZZDviR",
   "tracks": [
     {
       "added_at": "2024-06-20 21:00:00",
@@ -47,26 +47,6 @@
       "duration_ms": 174634,
       "name": "Mama We Made It (feat. MELO)",
       "url": "https://open.spotify.com/track/4lENOvjyCPNfU2WIRjaFbb"
-    },
-    {
-      "added_at": "2024-06-20 21:00:00",
-      "album": {
-        "name": "Scifi",
-        "url": "https://open.spotify.com/album/4LxtFlfi4OT261eyRuJrC9"
-      },
-      "artists": [
-        {
-          "name": "M\u00e4kki",
-          "url": "https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch"
-        },
-        {
-          "name": "Jedidi",
-          "url": "https://open.spotify.com/artist/4KEXmcIZn2zW6e1szGrn5y"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Scifi",
-      "url": "https://open.spotify.com/track/6SZY31ETyZ4qT8NnKG42BO"
     },
     {
       "added_at": "2024-06-20 21:00:00",
@@ -151,6 +131,26 @@
     {
       "added_at": "2024-06-20 21:00:00",
       "album": {
+        "name": "Scifi",
+        "url": "https://open.spotify.com/album/4LxtFlfi4OT261eyRuJrC9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4kki",
+          "url": "https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch"
+        },
+        {
+          "name": "Jedidi",
+          "url": "https://open.spotify.com/artist/4KEXmcIZn2zW6e1szGrn5y"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Scifi",
+      "url": "https://open.spotify.com/track/6SZY31ETyZ4qT8NnKG42BO"
+    },
+    {
+      "added_at": "2024-06-20 21:00:00",
+      "album": {
         "name": "Italia",
         "url": "https://open.spotify.com/album/7FmnNsINdI92aApGrd4vcT"
       },
@@ -191,6 +191,26 @@
       "duration_ms": 145105,
       "name": "Vaisto (feat. Juuna Chill)",
       "url": "https://open.spotify.com/track/31lZDgdGLl7bzGcVqtuWdr"
+    },
+    {
+      "added_at": "2024-06-20 21:00:00",
+      "album": {
+        "name": "WHITEBOY",
+        "url": "https://open.spotify.com/album/1dyWwshwRjt9ihNKl1yHsX"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "duration_ms": 171487,
+      "name": "WHITEBOY",
+      "url": "https://open.spotify.com/track/1Pr2Fzp0UO1h7NrgCbCHGx"
     },
     {
       "added_at": "2024-06-20 21:00:00",
@@ -591,26 +611,6 @@
       "duration_ms": 152967,
       "name": "Se kes\u00e4",
       "url": "https://open.spotify.com/track/3tRSvQB3E7sxHIgJBcUqIm"
-    },
-    {
-      "added_at": "2024-06-20 21:00:00",
-      "album": {
-        "name": "WHITEBOY",
-        "url": "https://open.spotify.com/album/1dyWwshwRjt9ihNKl1yHsX"
-      },
-      "artists": [
-        {
-          "name": "Korelon",
-          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
-        },
-        {
-          "name": "Sliki",
-          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
-        }
-      ],
-      "duration_ms": 171487,
-      "name": "WHITEBOY",
-      "url": "https://open.spotify.com/track/1Pr2Fzp0UO1h7NrgCbCHGx"
     },
     {
       "added_at": "2024-06-20 21:00:00",

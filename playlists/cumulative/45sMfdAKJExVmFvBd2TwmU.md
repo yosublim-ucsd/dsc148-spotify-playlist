@@ -4,7 +4,7 @@
 
 > Monsoon, Monsoon songs, Monsoon Hits, LOVE and SAD SONGS HINDI...🥺all time best hits ❤️‍🩹\(Hindi\), POV : you're in love, Emotional Songs, Love songs, 2023, 2022, Top Hits, Bollywood hits, Arijit Singh Hits, Hindi Songs, Lofi, Soothing songs, Night songs, Broken, Romance, All Time best Bollywood son
 
-163 songs - 12 hr 23 min
+164 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Teri Deewani](https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 5:23 | 2022-10-11 |  |
 | [Teri Jhuki Nazar](https://open.spotify.com/track/3beYHVCFKzbdNjJqjKeYpM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Murder 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/59mJQyT1wOf5irSqfJNI43) | 4:39 | 2022-02-04 |  |
 | [The Ultimate Love Mashup \- DJ Kiran Kamath](https://open.spotify.com/track/2AglckVVNKTyWoCreZWLMh) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Dj Kiran Kamath](https://open.spotify.com/artist/76DiXwbDvK690KWyvU5JoP) | [The Ultimate Love Mashup \(DJ Kiran Kamath\)](https://open.spotify.com/album/75siQbLudltYZm4aYvHdnN) | 5:07 | 2022-02-10 |  |
+| [Tu Hain Toh \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo) | [Hunny](https://open.spotify.com/artist/3VkiCR2nuvfucpvFXdSVtx), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Mr\. And Mrs\. Mahi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA) | 4:43 | 2024-06-25 |  |
 | [Tu Hi Hai](https://open.spotify.com/track/5b9x5sRIzAgXQw0dhGORO1) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 3:19 | 2022-03-24 |  |
 | [Tu Hi Haqeeqat](https://open.spotify.com/track/3OLFqbd9ZeVjaUKTiaLsD6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Irshan Ashraf](https://open.spotify.com/artist/5OG0IXzIqYPB67VMlEJOo0), [Shadab](https://open.spotify.com/artist/0NeoPmJb4LMYLHhX8OVaNA) | [Tum Mile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ip9JCpT1IF9GvhAxzufTH) | 5:02 | 2022-05-10 |  |
 | [Tu Hi Mera](https://open.spotify.com/track/1CVqr5LImdmJ1Upt4z08Pm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Jannat 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6CtqkIRtoYPHgFc1ft1DPi) | 4:32 | 2022-03-17 |  |

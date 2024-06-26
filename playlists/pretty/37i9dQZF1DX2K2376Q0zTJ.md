@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: 新しい学校のリーダーズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,384 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,394 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Bouquet de cigarettes](https://open.spotify.com/track/54cAcBWgn2vjFi0ymo5bA9) | [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [Bouquet de cigarettes](https://open.spotify.com/album/5B0nVVlbMJWbPINTujUJiY) | 4:20 |
 | 50 | [THIS IS JAPANESE GIRL](https://open.spotify.com/track/5psoHRZLny713ndQc6X9up) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [THIS IS JAPANESE GIRL](https://open.spotify.com/album/2f3N06aYmjaeAZAppZfsgJ) | 3:20 |
 
-Snapshot ID: `ZnRD8AAAAACVXGMc+aiQRDxLf+fu/t68`
+Snapshot ID: `ZnqV/wAAAACiXQjUXUZuHVncYe9lella`

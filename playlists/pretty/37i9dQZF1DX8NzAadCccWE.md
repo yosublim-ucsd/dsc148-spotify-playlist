@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,648 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,664 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 33 | [Pep Talk](https://open.spotify.com/track/1CSmHN7b9SgM4tcOpAEWdE) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [BB Queen](https://open.spotify.com/album/6fEmV0y9haaM0878R4FxLD) | 4:56 |
 | 34 | [Pull Up \- Tim Reaper Remix](https://open.spotify.com/track/6GE30aCTN2fAInCxcfLvf9) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:09 |
 | 35 | [Dreamin'](https://open.spotify.com/track/5s9uXGr7uyNVmy3HWzfMYJ) | [Double O](https://open.spotify.com/artist/4D7y5m4HiGQsvas7pey4DV) | [Ako Beatz Present: Double O – Dreamin'](https://open.spotify.com/album/2DQRDHEh28SOAQ4ezPYNi7) | 5:55 |
-| 36 | [Blissful Ignorance \- Remix](https://open.spotify.com/track/5KIDmCi1sKjLCLUaL23R7Z) | [Cloud 9](https://open.spotify.com/artist/02AM03mK2DQTiDr33b87f6) | [Blissful Ignorance \(Tango Remix\) / Blissful Ignorance \(Remix\)](https://open.spotify.com/album/2GIglFvd4ley5MIhF8PJsQ) | 6:01 |
+| 36 | [Blissful Ignorance \- Remix](https://open.spotify.com/track/5KIDmCi1sKjLCLUaL23R7Z) | [Cloud 9](https://open.spotify.com/artist/02AM03mK2DQTiDr33b87f6) | [Blissful Ignorance \(Tango Remix\) / Blissful Ignorance \(Remix\)](https://open.spotify.com/album/2GIglFvd4ley5MIhF8PJsQ) | 6:02 |
 | 37 | [TURNSTILE FUNK](https://open.spotify.com/track/5irDGFGid17pSaJ3e9oUjo) | [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [HEADLOCK](https://open.spotify.com/album/0qKg6vDxrUW1Bx7JEMfda5) | 5:49 |
 | 38 | [Gal No Worry](https://open.spotify.com/track/5MDtF1KGMhkNBcbIsdudA0) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Passion](https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0) | 3:18 |
 | 39 | [Man Ah Rush Me](https://open.spotify.com/track/67dpYjIJjiC6remC8Vf4YH) | [Shelly Thunder](https://open.spotify.com/artist/1h8SAZAxUTp2MZuIfqsNqE) | [The Best of Shelly Thunder](https://open.spotify.com/album/2mHC9EtCu5Ve2KCkeHcRPI) | 3:55 |

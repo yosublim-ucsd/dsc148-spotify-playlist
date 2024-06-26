@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain]
 
 > Rock your workday lyric free with classic rock favorites, meditative heavy metal, and art rock wonders.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,733 likes - 42 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,728 likes - 42 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain]
 | 35 | [Elegia \- Full Version](https://open.spotify.com/track/37sUiWJt6FFiD7qPTiC37J) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Low\-Life \[Collector's Edition\]](https://open.spotify.com/album/12GZCcXTyNtTllTeU90HTb) | 17:28 |
 | 36 | [Soul Sacrifice](https://open.spotify.com/track/4e0GkgtMPZFt41Ua8PlHQL) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 6:37 |
 | 37 | [Do The Murray](https://open.spotify.com/track/5wr5QsosaNH3Fj4vqsj1cm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Tin Can Trust](https://open.spotify.com/album/7BNL2FYE6LgNuf1iT141Jv) | 3:35 |
-| 38 | [Pretty Little Ditty \- Remastered](https://open.spotify.com/track/0VNgwKioO0om8n9R3oBoIj) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:07 |
+| 38 | [Pretty Little Ditty \- Remastered 2003](https://open.spotify.com/track/0VNgwKioO0om8n9R3oBoIj) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:07 |
 | 39 | [Peaches En Regalia](https://open.spotify.com/track/6pgg1PiWcNaBPQt1iiEVrQ) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0HAdB95fMVAojYTtQ74JDc) | 3:38 |
 | 40 | [Star Spangled Banner \- Live at The Woodstock Music & Art Fair, August 18, 1969](https://open.spotify.com/track/5nJ9WqiiVz9Rz6a2xLhHlZ) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 3:46 |
 | 41 | [Cecilia Ann](https://open.spotify.com/track/0mjB1LNY9TS6lOXbyoARls) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Bossanova](https://open.spotify.com/album/60cRh5MCFNOrFeQykKnDej) | 2:06 |

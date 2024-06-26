@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4kTD46HZNyiq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4kTD46HZNyiq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4kTD46HZNyiq)
 
-### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
+### [Rádio de NIGHT TRAVELER](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With By The Coast, LAVE, VICTORS and more
+> Com By The Coast, LAVE, VICTORS e mais
 
 1,363 songs - 3 day 15 hr 21 min
 
@@ -876,7 +876,7 @@
 | [Notice](https://open.spotify.com/track/2l4RX5GHXaoJdKbRZkFji8) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Second Wind](https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb) | 3:26 | 2023-04-30 |  |
 | [Notions](https://open.spotify.com/track/3gU2je4blllYeSsBJcMkGO) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96) | 6:00 | 2022-10-18 | 2022-10-19 |
 | [November Sun](https://open.spotify.com/track/07LvspEoQIcodiuS1NM0yh) | [Nesu](https://open.spotify.com/artist/4wNe1ri64Peaownqgir55J), [Tunes with T](https://open.spotify.com/artist/2Wb7ewfoFaLaWeoQ3bIhRt) | [November Sun](https://open.spotify.com/album/05WmIUvPXdTvJoaoRVrPPp) | 3:33 | 2022-04-02 | 2022-04-06 |
-| [Now We Know](https://open.spotify.com/track/2SOoNKGnmru1UOGYb5rlrQ) | [Jenny Kern](https://open.spotify.com/artist/4SuBL2GsDPfdX1oeOUDvA0) | [Now We Know](https://open.spotify.com/album/7MuLU4yq4ohmzB0UzRqlf8) | 3:18 | 2023-11-11 | 2024-06-20 |
+| [Now We Know](https://open.spotify.com/track/2SOoNKGnmru1UOGYb5rlrQ) | [Jenny Kern](https://open.spotify.com/artist/4SuBL2GsDPfdX1oeOUDvA0) | [Now We Know](https://open.spotify.com/album/7MuLU4yq4ohmzB0UzRqlf8) | 3:18 | 2023-11-11 |  |
 | [Now We Know](https://open.spotify.com/track/3Rd5n7jgmCKKtjZ7dYquP0) | [Jenny Kern](https://open.spotify.com/artist/4SuBL2GsDPfdX1oeOUDvA0) | [Now We Know](https://open.spotify.com/album/5XSPUq2RryFGwWAsedzkR1) | 3:18 | 2022-03-13 | 2023-09-26 |
 | [Nowhere](https://open.spotify.com/track/1QO8yePNAtbfh5nLDcRnKL) | [Black Match](https://open.spotify.com/artist/2iNdvdsH9TvCNlPmUQEE0x) | [Nowhere](https://open.spotify.com/album/2puosJakXYHLFlFNThbaS0) | 4:46 | 2022-10-09 | 2022-10-14 |
 | [Numbers](https://open.spotify.com/track/2W1MnubGwsVNgFMZPhM16h) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Nightshade](https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL) | 4:08 | 2024-04-16 | 2024-04-19 |
@@ -1094,7 +1094,7 @@
 | [state of mind](https://open.spotify.com/track/5eTF0lnEnvoNAFtJG3CXd1) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [state of mind](https://open.spotify.com/album/1eIj6yerF2hy73PcZhzaIT) | 3:18 | 2021-12-11 | 2024-04-02 |
 | [State of the Heart](https://open.spotify.com/track/3JwC0Eh9ymxubVdWbU2628) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:50 | 2022-10-15 | 2022-10-16 |
 | [Stay](https://open.spotify.com/track/5Dr5M31BX8DYg6V4Qgk9Bw) | [Davis John Patton](https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl) | [Stay](https://open.spotify.com/album/4rskZnacEztn3vcQkkosOv) | 3:30 | 2022-05-26 | 2024-04-19 |
-| [Stay](https://open.spotify.com/track/1mSeH8fuRPe0eKLCfsbdet) | [Hotel Apache](https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y) | [I'll Explain Later](https://open.spotify.com/album/4cWNuV3nsNGtOpBnX8LvFH) | 3:27 | 2021-12-09 |  |
+| [Stay](https://open.spotify.com/track/1mSeH8fuRPe0eKLCfsbdet) | [Hotel Apache](https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y) | [I'll Explain Later](https://open.spotify.com/album/4cWNuV3nsNGtOpBnX8LvFH) | 3:27 | 2021-12-09 | 2024-06-26 |
 | [Stay](https://open.spotify.com/track/2k6rMpHgfof234fMJwMMCJ) | [The True Blue](https://open.spotify.com/artist/1mVhWJe3qmfTXM7ByuoryV) | [If That's How You Feel](https://open.spotify.com/album/03fstIQNQryWN5VeW1Vz7X) | 3:35 | 2022-04-07 | 2024-03-06 |
 | [Stay Low](https://open.spotify.com/track/2zMa3j2F2h4UJbhpXivD3S) | [In Memoirs](https://open.spotify.com/artist/1LZevuTucGb3IEb84enBNt) | [Hope, Fear & Fashion](https://open.spotify.com/album/6nTvklCSNP03q78ix8Dh58) | 4:07 | 2024-01-20 | 2024-04-16 |
 | [Steal My Heart Away](https://open.spotify.com/track/4KGEGS9xEzY6YtTBNkN9NJ) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 5:48 | 2022-06-01 | 2023-02-04 |
@@ -1145,7 +1145,7 @@
 | [Take Care](https://open.spotify.com/track/5YjaaaE4MWVQavZZRDLy0t) | [Gold Drive](https://open.spotify.com/artist/4AHEUymjkgS8mSEtquSA7p) | [Take Care](https://open.spotify.com/album/0sIX8eD7GGOTHuxdMHnD8Z) | 2:32 | 2022-06-02 | 2022-06-03 |
 | [Take It Back \(feat\. Noah Gundersen\)](https://open.spotify.com/track/65jxe5W7IhXvhVfMVZxJZ6) | [Scott Ruth](https://open.spotify.com/artist/4pOiomYw0DRSNFPMLmKESa), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Take It Back \(feat\. Noah Gundersen\)](https://open.spotify.com/album/4XA4UeZxsM5Bkqs4XKiy2N) | 4:02 | 2022-03-09 | 2022-09-01 |
 | [Take Me As I Am](https://open.spotify.com/track/0saZXvLz6e0g5rm0rWanRC) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Take Me As I Am](https://open.spotify.com/album/1UVIoj4Ghqpoobl9O53qAl) | 3:43 | 2022-03-19 | 2022-07-17 |
-| [Take Me as I Am](https://open.spotify.com/track/7nvJWc7z8lvdlAjiHTNoSF) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 3:43 | 2022-10-24 | 2024-06-24 |
+| [Take Me as I Am](https://open.spotify.com/track/7nvJWc7z8lvdlAjiHTNoSF) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 3:43 | 2022-10-24 |  |
 | [take me on \(chilled\)](https://open.spotify.com/track/1ysTWlmxZstbTqiRXlRTvD) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [portra](https://open.spotify.com/album/1vYK6K7KnpkvG2ifULBW0W) | 3:23 | 2022-10-10 | 2022-10-14 |
 | [Take Time](https://open.spotify.com/track/5qQuXaaGxXNAwHa6eSxdGa) | [Honest Men](https://open.spotify.com/artist/7ed5eSusVIBEIvmkASgzKj) | [I'm Okay](https://open.spotify.com/album/4vpZiKNXO0eTWDWwJai3Iw) | 4:44 | 2022-10-07 | 2022-10-08 |
 | [Take Your Time](https://open.spotify.com/track/7dFbQKn5asQsxpiyRojTgO) | [LOS LEO](https://open.spotify.com/artist/66JYtwqQMdDFgBgMP1NENW) | [The End](https://open.spotify.com/album/1l7FK1ciBg8I4uxjewhWdY) | 3:46 | 2021-12-06 | 2022-06-19 |
@@ -1339,7 +1339,7 @@
 | [You Changed Everything](https://open.spotify.com/track/5RauXbK8QodhGuFr6O13PY) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI), [Marie Hines](https://open.spotify.com/artist/60lN4NCcmjNkw5of3roHxk) | [You Changed Everything](https://open.spotify.com/album/4aDVUL8OBES40tBz1oSEDq) | 4:54 | 2022-05-14 | 2023-08-28 |
 | [You Don't Love Me \(Like You Used To\)](https://open.spotify.com/track/3TMYiMbkJUlnxW6FmzA1HE) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Waking Up Is Hard To Do, 2019\-2020](https://open.spotify.com/album/6nQPUzhaTn7IgHKJvOUdLm) | 4:26 | 2022-10-06 | 2022-11-03 |
 | [You Don't Love Me \(Like You Used To\)](https://open.spotify.com/track/3w27xGIY21QPVEpylTBCSk) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Waking Up Is Hard To Do, 2019\-2020](https://open.spotify.com/album/4LY1bHpq7A7V6neuH0Vh1f) | 4:26 | 2022-06-04 | 2023-01-27 |
-| [You Don't Love Me \(Like You Used To\)](https://open.spotify.com/track/5K9yCr0OY5Yf68EbVvkQWs) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Waking Up Is Hard To Do, 2019\-2020](https://open.spotify.com/album/7yCXhDI7C0On6urA2dARpH) | 4:26 | 2023-01-27 |  |
+| [You Don't Love Me \(Like You Used To\)](https://open.spotify.com/track/5K9yCr0OY5Yf68EbVvkQWs) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Waking Up Is Hard To Do, 2019\-2020](https://open.spotify.com/album/7yCXhDI7C0On6urA2dARpH) | 4:26 | 2023-01-27 | 2024-06-26 |
 | [You Don’t Look at Me the Same](https://open.spotify.com/track/2rggoRqUqZcsznpwSRYSqx) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Great Good Five Ok](https://open.spotify.com/album/7wSrwRAZqvDKESkUFwqdFG) | 2:56 | 2023-04-17 | 2024-04-12 |
 | [You In My Life](https://open.spotify.com/track/0xVQa1rlcbYtemV7TezzZJ) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [You In My Life](https://open.spotify.com/album/4VAyFHlTN3wS2I04RGcKj5) | 3:37 | 2022-06-24 | 2024-02-22 |
 | [You Love Me](https://open.spotify.com/track/0YV5ZUQb2e1oFC03dnErDR) | [Sampson Reade](https://open.spotify.com/artist/106lXprNHIB2vYNBpaPKSo) | [Tell Me](https://open.spotify.com/album/0sxJ0AJW2XJ2mKeXMUCegO) | 2:06 | 2022-06-21 | 2022-07-11 |

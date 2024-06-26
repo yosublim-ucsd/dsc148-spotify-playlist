@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Kaitlin Butts",
-  "num_followers": 411450,
+  "num_followers": 411438,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -671,18 +671,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Made In Texas",
-        "url": "https://open.spotify.com/album/29ZuaXy94yR0uWdsLsHxbJ"
+        "name": "Come Rest Your Head (On My Pillow)",
+        "url": "https://open.spotify.com/album/3Sh65R9MY2FdyKdhiyW9Uo"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 144573,
-      "name": "Made In Texas",
-      "url": "https://open.spotify.com/track/0ba2g72aL4NG7gxuvbp0my"
+      "duration_ms": 277600,
+      "name": "Come Rest Your Head (On My Pillow)",
+      "url": "https://open.spotify.com/track/4wNsAbCvwN5syfU06Yd7ec"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -719,22 +723,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Come Rest Your Head (On My Pillow)",
-        "url": "https://open.spotify.com/album/3Sh65R9MY2FdyKdhiyW9Uo"
+        "name": "Made In Texas",
+        "url": "https://open.spotify.com/album/29ZuaXy94yR0uWdsLsHxbJ"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 277600,
-      "name": "Come Rest Your Head (On My Pillow)",
-      "url": "https://open.spotify.com/track/4wNsAbCvwN5syfU06Yd7ec"
+      "duration_ms": 144573,
+      "name": "Made In Texas",
+      "url": "https://open.spotify.com/track/0ba2g72aL4NG7gxuvbp0my"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "State You Left Me In",
-        "url": "https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd"
+        "name": "Keep Lookin' Down The Road",
+        "url": "https://open.spotify.com/album/3UZyPuO9Kl8dVBLw4ruJDU"
       },
       "artists": [
         {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+          "name": "Reckless Kelly",
+          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
         }
       ],
-      "duration_ms": 325299,
-      "name": "State You Left Me In",
-      "url": "https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W"
+      "duration_ms": 184867,
+      "name": "Keep Lookin' Down The Road",
+      "url": "https://open.spotify.com/track/2I6GzticU6dxwZOAN8bG9d"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Till You",
-        "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
+        "name": "State You Left Me In",
+        "url": "https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd"
       },
       "artists": [
         {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
         }
       ],
-      "duration_ms": 206016,
-      "name": "Till You",
-      "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
+      "duration_ms": 325299,
+      "name": "State You Left Me In",
+      "url": "https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+        "name": "Till You",
+        "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
       },
       "artists": [
         {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
         }
       ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+      "duration_ms": 206016,
+      "name": "Till You",
+      "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1475,6 +1475,22 @@
       "duration_ms": 207893,
       "name": "Don\u2019t Mess With Exes",
       "url": "https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1507,22 +1523,6 @@
       "duration_ms": 255159,
       "name": "The Greys Between",
       "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Keep Lookin' Down The Road",
-        "url": "https://open.spotify.com/album/3UZyPuO9Kl8dVBLw4ruJDU"
-      },
-      "artists": [
-        {
-          "name": "Reckless Kelly",
-          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
-        }
-      ],
-      "duration_ms": 184867,
-      "name": "Keep Lookin' Down The Road",
-      "url": "https://open.spotify.com/track/2I6GzticU6dxwZOAN8bG9d"
     },
     {
       "added_at": "2024-06-21 04:00:00",

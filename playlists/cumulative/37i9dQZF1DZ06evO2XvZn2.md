@@ -2,7 +2,7 @@
 
 ### [This Is Evaluna Montaner](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XvZn2)
 
-> This Is Evaluna Montaner\. Los temas esenciales, todos en una lista.
+> This is Evaluna Montaner\. The essential tracks, all in one playlist.
 
 42 songs - 2 hr 24 min
 
@@ -19,7 +19,7 @@
 | [Cupido \(feat\. Sebastián Silva & Angela Rincón\)](https://open.spotify.com/track/58zDpy00YXfsLxKPOyrNIn) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Sebastián Silva](https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu), [Angela Rincón](https://open.spotify.com/artist/5qDiR6RleDUdHI2MQnHWBD) | [Cupido \(feat\. Sebastián Silva & Angela Rincón\)](https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY) | 2:46 | 2023-09-25 |  |
 | [El Tiempo Corre al Revés](https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 2:17 | 2023-10-10 |  |
 | [Eva \(feat\. Riccardo Frascari\)](https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Riccardo Frascari](https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76) | [Eva \(feat\. Riccardo Frascari\)](https://open.spotify.com/album/5etNIcaFHbH0LbcTFoeCMB) | 2:34 | 2023-09-25 |  |
-| [Gracia Incomparable \- Versión Acústica](https://open.spotify.com/track/1pyA01cXyIK49MGbjVMMYZ) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Sesión Orgánica: Parte 2](https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu) | 3:56 | 2023-09-25 | 2024-06-25 |
+| [Gracia Incomparable \- Versión Acústica](https://open.spotify.com/track/1pyA01cXyIK49MGbjVMMYZ) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Sesión Orgánica: Parte 2](https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu) | 3:56 | 2023-09-25 |  |
 | [Hallelujah](https://open.spotify.com/track/1QKYuBO7MDcmV9ruzCJTlv) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Piano y Mujer](https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1) | 3:42 | 2023-09-25 |  |
 | [If The World Was Ending \- Spanglish Version](https://open.spotify.com/track/5Lp9GcZAY7H2M2NjIS3Cdn) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [If The World Was Ending \(Spanglish Version\)](https://open.spotify.com/album/2GszvoZ2OFlv8iRSDHw5Ek) | 3:31 | 2023-09-25 |  |
 | [Interludio: La Gloria de Dios](https://open.spotify.com/track/4I85x8j08iqV0fVAqB5Lnx) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Fe](https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw) | 3:26 | 2023-09-25 |  |

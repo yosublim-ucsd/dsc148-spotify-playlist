@@ -1,12 +1,12 @@
 {
   "description": "This Is Calibre 50. Los temas esenciales, todos en una lista.",
-  "num_followers": 672635,
+  "num_followers": 672762,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZndlgAAAAAC+BJYYMUNzLSB08MCJaaup",
+  "snapshot_id": "Zni3AAAAAAB3KadGr4LjkI1iXaKU1fSu",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guerra De Poder",
-        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "La Tatema",
-      "url": "https://open.spotify.com/track/3ovi8ac2bNxvKe3EnZjOiW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Culebras",
         "url": "https://open.spotify.com/album/2Vvf4lURmmpC9QLeP28Kte"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 152853,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/3XUfJVTcGDt846jDjnBs3W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "La Tatema",
+      "url": "https://open.spotify.com/track/3ovi8ac2bNxvKe3EnZjOiW"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guerra De Poder",
-        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "El Ingeniero",
-      "url": "https://open.spotify.com/track/1CSdO0YWuENf6lMjmPk62G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Historias de la Calle",
         "url": "https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 240000,
       "name": "Amor Limosnero",
       "url": "https://open.spotify.com/track/4QaBFS1O4AvlWrqzaYdz4S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "El Ingeniero",
+      "url": "https://open.spotify.com/track/1CSdO0YWuENf6lMjmPk62G"
     },
     {
       "added_at": null,

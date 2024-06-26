@@ -2,7 +2,7 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: Oxlade
+> Afro sounds crossing borders\. Cover: Rema
 
 537 songs - 1 day 4 hr 27 min
 

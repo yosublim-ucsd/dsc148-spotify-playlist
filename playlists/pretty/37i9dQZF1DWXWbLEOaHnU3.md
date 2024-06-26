@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,884 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,947 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 37 | [We are Psychedelic \- GMS Remix](https://open.spotify.com/track/3qehmGY1DnlBI5W9iFlUhR) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Tristan](https://open.spotify.com/artist/4dksllH87LsrZgin0ee2uc), [Killerwatts](https://open.spotify.com/artist/2TWfxrplORQwuUCsF9husH), [GMS](https://open.spotify.com/artist/1jLsr1sNO2WshuzmSibSIt) | [Rise The Remixes](https://open.spotify.com/album/7aJEOvh6tSmx81Sz7OVQg3) | 7:07 |
 | 38 | [Be Right \- Asgard Remix](https://open.spotify.com/track/3w4iGiKW0BM8B6M8MNMvxa) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Ritmo](https://open.spotify.com/artist/0wMIF9I7QQ57UFojC0KQRT), [Asgard](https://open.spotify.com/artist/5jDnYezjdwwpupSK8De19e) | [Be Right](https://open.spotify.com/album/2QNCS4JDIBqgNdj7m8P99x) | 8:20 |
 | 39 | [Boss La Rosh](https://open.spotify.com/track/2c7y5n1q4rwHNTUPzi4HOe) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bliss](https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk) | [IM25](https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp) | 6:41 |
-| 40 | [Shiva Style, Pt\. 2](https://open.spotify.com/track/0WLTMOUNg6zHjSlFR4Hv3m) | [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY), [Shanti People](https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt), [Dudiish](https://open.spotify.com/artist/4w1x0xqhvGO85K7JrW30Cd) | [Shiva Style, Pt\. 2](https://open.spotify.com/album/6CZaPBFfSRM0uDuTSAUCKa) | 5:49 |
-| 41 | [Mind Is God \- Original Mix](https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n) | [Space Tribe](https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9), [Mad Maxx](https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv) | [Mind Is God \- Single](https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep) | 9:00 |
+| 40 | [Mind Is God \- Original Mix](https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n) | [Space Tribe](https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9), [Mad Maxx](https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv) | [Mind Is God \- Single](https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep) | 9:00 |
+| 41 | [Shiva Style, Pt\. 2](https://open.spotify.com/track/0WLTMOUNg6zHjSlFR4Hv3m) | [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY), [Shanti People](https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt), [Dudiish](https://open.spotify.com/artist/4w1x0xqhvGO85K7JrW30Cd) | [Shiva Style, Pt\. 2](https://open.spotify.com/album/6CZaPBFfSRM0uDuTSAUCKa) | 5:49 |
 | 42 | [Opera Haus](https://open.spotify.com/track/2iHwXdybvL8uEcN2nVM9HW) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Opera Haus](https://open.spotify.com/album/49r6EIJbCwPlYabzvdU2Ts) | 3:47 |
 | 43 | [STAY \- HEDEGAARD Remix](https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [STAY \(HEDEGAARD Remix\)](https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9) | 2:27 |
 | 44 | [Silence](https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0) | [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Silence](https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub) | 7:32 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 72 | [Sapana \- Avalon Remix](https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:11 |
 | 73 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
 | 74 | [Gracias a la Vida](https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [Gracias a la Vida](https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV) | 5:48 |
-| 75 | [Shambava \- Original Mix](https://open.spotify.com/track/4WoJNl3FOrDq0czljYXoCG) | [DoubKore](https://open.spotify.com/artist/2ygqIHv0ztubzTw7LfUQ15), [Mahaya](https://open.spotify.com/artist/70q2wrXSh8AKi84ubtyCMA) | [Shambava](https://open.spotify.com/album/0doCNYUiQlH2qe1OXqiYWp) | 6:37 |
+| 75 | [The Call](https://open.spotify.com/track/5OxmiELPa75lgDBN5Kuj09) | [Mr\. Nobody](https://open.spotify.com/artist/4J6qnj4HFAbciwpszkh8mm) | [The Call](https://open.spotify.com/album/3LHeVMaE1w7GtJFh4bQWm8) | 5:05 |
 
 Snapshot ID: `ZWI9KAAAAABJcMSWRahvGsvUP9TEBMhj`

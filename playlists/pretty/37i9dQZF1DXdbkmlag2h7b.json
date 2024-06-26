@@ -1,6 +1,6 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 632521,
+  "num_followers": 632570,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
+        "name": "Niveous",
+        "url": "https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF"
+      },
+      "artists": [
+        {
+          "name": "Hers Lake",
+          "url": "https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "Niveous",
+      "url": "https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
         "name": "Silk Under Rain",
         "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
       },
@@ -203,18 +219,34 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Niveous",
-        "url": "https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF"
+        "name": "Definite",
+        "url": "https://open.spotify.com/album/4lkKRBJ6o0mrMgh1Wcn2AV"
       },
       "artists": [
         {
-          "name": "Hers Lake",
-          "url": "https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA"
+          "name": "Arietis",
+          "url": "https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH"
         }
       ],
-      "duration_ms": 168200,
-      "name": "Niveous",
-      "url": "https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j"
+      "duration_ms": 165392,
+      "name": "Definite",
+      "url": "https://open.spotify.com/track/5yCIRoiQ4DatjmySLxm20e"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
+        "name": "Ideal",
+        "url": "https://open.spotify.com/album/3PtMb8ahqkZiyBxCHzSCXw"
+      },
+      "artists": [
+        {
+          "name": "Avieone",
+          "url": "https://open.spotify.com/artist/1xCASyEEWKBXSyHdRq9JOJ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Ideal",
+      "url": "https://open.spotify.com/track/4u8gHl3MrLMeQN0JDhDJvr"
     },
     {
       "added_at": "2024-06-10 23:16:59",
@@ -299,22 +331,6 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Definite",
-        "url": "https://open.spotify.com/album/4lkKRBJ6o0mrMgh1Wcn2AV"
-      },
-      "artists": [
-        {
-          "name": "Arietis",
-          "url": "https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH"
-        }
-      ],
-      "duration_ms": 165392,
-      "name": "Definite",
-      "url": "https://open.spotify.com/track/5yCIRoiQ4DatjmySLxm20e"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
         "name": "Prana",
         "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 157724,
       "name": "Ocean Breath",
       "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
-        "name": "Ideal",
-        "url": "https://open.spotify.com/album/3PtMb8ahqkZiyBxCHzSCXw"
-      },
-      "artists": [
-        {
-          "name": "Avieone",
-          "url": "https://open.spotify.com/artist/1xCASyEEWKBXSyHdRq9JOJ"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Ideal",
-      "url": "https://open.spotify.com/track/4u8gHl3MrLMeQN0JDhDJvr"
     },
     {
       "added_at": "2024-06-10 23:16:59",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "A brand new day",
-        "url": "https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Rise",
-          "url": "https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd"
-        }
-      ],
-      "duration_ms": 175713,
-      "name": "A brand new day",
-      "url": "https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 226833,
       "name": "Gleam",
       "url": "https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
+        "name": "A brand new day",
+        "url": "https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Rise",
+          "url": "https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd"
+        }
+      ],
+      "duration_ms": 175713,
+      "name": "A brand new day",
+      "url": "https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0"
     },
     {
       "added_at": "2024-06-10 23:16:59",
@@ -891,6 +891,26 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
+        "name": "Drifting Together",
+        "url": "https://open.spotify.com/album/4Fm2uRfIEx9fIjdVjsUOzu"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Siegel",
+          "url": "https://open.spotify.com/artist/2t7xGHSArMZLWeCq2p6phE"
+        },
+        {
+          "name": "Cosmazul",
+          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
+        }
+      ],
+      "duration_ms": 193269,
+      "name": "Drifting Together",
+      "url": "https://open.spotify.com/track/1nhmqBkGh4FDraowHKxRNA"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
         "name": "Myriads",
         "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 145768,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
-        "name": "Drifting Together",
-        "url": "https://open.spotify.com/album/4Fm2uRfIEx9fIjdVjsUOzu"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Siegel",
-          "url": "https://open.spotify.com/artist/2t7xGHSArMZLWeCq2p6phE"
-        },
-        {
-          "name": "Cosmazul",
-          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
-        }
-      ],
-      "duration_ms": 193269,
-      "name": "Drifting Together",
-      "url": "https://open.spotify.com/track/1nhmqBkGh4FDraowHKxRNA"
     },
     {
       "added_at": "2024-06-10 23:16:59",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
         "name": "Hvis du bare vidste",
         "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 162500,
       "name": "Hvis du bare vidste",
       "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh"
     },
     {
       "added_at": "2024-06-10 23:16:59",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Yoga Meditation",
-        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
-      },
-      "artists": [
-        {
-          "name": "Zen Wuan",
-          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
-        }
-      ],
-      "duration_ms": 163730,
-      "name": "Chapters",
-      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
         "name": "Aurora Line",
         "url": "https://open.spotify.com/album/4ZJXs5rAbVlDCbpECFFEq6"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 152000,
       "name": "Aurora Line",
       "url": "https://open.spotify.com/track/1zuGL74HX3yHU0UNFoW1pX"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
+        "name": "Yoga Meditation",
+        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
+      },
+      "artists": [
+        {
+          "name": "Zen Wuan",
+          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
+        }
+      ],
+      "duration_ms": 163730,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
     },
     {
       "added_at": "2024-06-10 23:16:59",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Behind Your Eyes",
-        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Behind Your Eyes",
-      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
         "name": "Dreams of Mercury",
         "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 175661,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
+        "name": "Behind Your Eyes",
+        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Behind Your Eyes",
+      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
     },
     {
       "added_at": "2024-06-10 23:16:59",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Arrivals",
-        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
-      },
-      "artists": [
-        {
-          "name": "Fahda Mohamed",
-          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Takamatsu",
-      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
-    },
-    {
-      "added_at": "2024-06-10 23:16:59",
-      "album": {
         "name": "The Seasons",
         "url": "https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF"
       },
@@ -1459,18 +1443,34 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
+        "name": "Arrivals",
+        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
       },
       "artists": [
         {
-          "name": "Gabby Laurent",
-          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
+          "name": "Fahda Mohamed",
+          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
         }
       ],
-      "duration_ms": 192309,
-      "name": "Entirely",
-      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
+      "duration_ms": 188000,
+      "name": "Takamatsu",
+      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
+    },
+    {
+      "added_at": "2024-06-10 23:16:59",
+      "album": {
+        "name": "Eupheme",
+        "url": "https://open.spotify.com/album/3sQdlZdewv3gCI3PFTT1zi"
+      },
+      "artists": [
+        {
+          "name": "Marc Veil",
+          "url": "https://open.spotify.com/artist/5YHPMNDsxSX4O6XVgnCukg"
+        }
+      ],
+      "duration_ms": 176584,
+      "name": "Eupheme",
+      "url": "https://open.spotify.com/track/6JHqScV6hvbjKlk1vunb1q"
     },
     {
       "added_at": "2024-06-10 23:16:59",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-06-10 23:16:59",
       "album": {
-        "name": "Eupheme",
-        "url": "https://open.spotify.com/album/3sQdlZdewv3gCI3PFTT1zi"
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj"
       },
       "artists": [
         {
-          "name": "Marc Veil",
-          "url": "https://open.spotify.com/artist/5YHPMNDsxSX4O6XVgnCukg"
+          "name": "Gabby Laurent",
+          "url": "https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk"
         }
       ],
-      "duration_ms": 176584,
-      "name": "Eupheme",
-      "url": "https://open.spotify.com/track/6JHqScV6hvbjKlk1vunb1q"
+      "duration_ms": 192309,
+      "name": "Entirely",
+      "url": "https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha"
     },
     {
       "added_at": "2024-06-10 23:16:59",

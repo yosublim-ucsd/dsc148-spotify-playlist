@@ -6266,8 +6266,8 @@
           "url": "https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN"
         },
         {
-          "name": "Thelonious B.",
-          "url": "https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A"
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK"
         }
       ],
       "date_added": "2024-06-20",
@@ -11294,6 +11294,28 @@
       "duration_ms": 186790,
       "name": "One Cry (feat. Rosa Linn)",
       "url": "https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE"
+    },
+    {
+      "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/3MZrZaiEhwp96tdh4QCfIm"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211185,
+      "name": "One Day (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/2FIMN2jnLS7OBZRpPQN89L"
     },
     {
       "album": {

@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "21",
       "url": "https://open.spotify.com/track/1BIJuY5AGbv5522on92wmN"
@@ -5720,7 +5720,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -9128,7 +9128,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 134090,
       "name": "Ekkert vandam\u00e1l",
       "url": "https://open.spotify.com/track/4ZivirIVf9fYOLWO2VnmzQ"
@@ -12036,7 +12036,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 144760,
       "name": "Fyrsti dagur endans",
       "url": "https://open.spotify.com/track/1UUMTyxvapFrvGySldQGSq"
@@ -14380,7 +14380,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 131017,
       "name": "Hef Veri\u00f0 Verri",
       "url": "https://open.spotify.com/track/17ebLDWPOsruloZYxgEqm4"
@@ -18798,7 +18798,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 195464,
       "name": "Krumla",
       "url": "https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh"
@@ -20136,7 +20136,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -24060,7 +24060,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 170031,
       "name": "NO POLICE (Remix)",
       "url": "https://open.spotify.com/track/0y2sUHVDAWQbfuIQGEfhFO"
@@ -27135,6 +27135,24 @@
     },
     {
       "album": {
+        "name": "Plant\u00e3o do Vitim",
+        "url": "https://open.spotify.com/album/1sAPTpCnB9HI7AqtGMd39x"
+      },
+      "artists": [
+        {
+          "name": "Vitor Amaral",
+          "url": "https://open.spotify.com/artist/5BR3g7k0JOUJFIwnJsYpuT"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Pre\u00e7o",
+      "url": "https://open.spotify.com/track/3Jd0331pmcco0poQoB4gmB"
+    },
+    {
+      "album": {
         "name": "PRIDE",
         "url": "https://open.spotify.com/album/17jArB9t2g9x1ZOehs0beL"
       },
@@ -29020,7 +29038,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 134013,
       "name": "Sama um",
       "url": "https://open.spotify.com/track/2O0yZsQR5qtHAsAjFYinea"
@@ -32286,7 +32304,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -40494,7 +40512,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

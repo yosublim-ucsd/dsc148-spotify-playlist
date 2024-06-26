@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,537 likes - 20 songs - 1 hr 3 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,539 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Raw Type](https://open.spotify.com/track/6k3rLy1lFd2zqok0UX8TPc) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79), [Freenzy](https://open.spotify.com/artist/2dzjnkdHNhP5QLApKxNJXV), [Mood Child](https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm) | [Raw Type](https://open.spotify.com/album/0sfa0ZZ4DoIPcqmt9emJlo) | 3:39 |
+| 1 | [Raw Type](https://open.spotify.com/track/6k3rLy1lFd2zqok0UX8TPc) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79), [Freenzy Music](https://open.spotify.com/artist/70BgO4a6LVEzYiAgxubE3q), [Mood Child](https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm) | [Raw Type](https://open.spotify.com/album/0sfa0ZZ4DoIPcqmt9emJlo) | 3:39 |
 | 2 | [It's That Time \- FISHER Remix](https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [It's That Time \(FISHER Remix\)](https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2) | 2:51 |
 | 3 | [Del Mundo](https://open.spotify.com/track/4tPXROldB4VNYaVT4BkTEY) | [Milan](https://open.spotify.com/artist/6AGhCcuaYOQ7mGBdBk6a8A) | [Fantasias EP](https://open.spotify.com/album/7D3IyPdRbm2BvX23TePU43) | 3:56 |
 | 4 | [Pick Ya Poison](https://open.spotify.com/track/6DPj3D45fLNadYxjaN3vML) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Pick Ya Poison](https://open.spotify.com/album/4dXz3wFvLjhJkZI5sNnTtZ) | 3:22 |

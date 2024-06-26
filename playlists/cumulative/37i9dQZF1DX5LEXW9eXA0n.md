@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: K.Will\(케이윌\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,246 songs - 3 day 8 hr 44 min
+1,250 songs - 3 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Decision to leave](https://open.spotify.com/track/0qP6zleSUcWWlS3Q5Ikoj6) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Decision to leave](https://open.spotify.com/album/5omlHbU5tSowwzqJ1QCFem) | 3:08 | 2023-06-13 | 2023-10-20 |
 | [Deeply](https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 1](https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ) | 3:38 | 2022-06-20 | 2022-06-28 |
 | [Delete](https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Delete](https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9) | 4:09 | 2022-07-13 | 2022-11-23 |
+| [Delete my Instagram](https://open.spotify.com/track/1KXe7hvrMtKZUDUqk7ybO6) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Delete my Instagram](https://open.spotify.com/album/62lnPPSUA9QychTPkVvDkq) | 3:42 | 2024-06-25 |  |
 | [Delusion](https://open.spotify.com/track/4wPkbwbfLXp5bxcXIChEwZ) | [Bubble Sisters](https://open.spotify.com/artist/1jZ9R8RNpwVBJTf8Qg96a7) | [Delusion](https://open.spotify.com/album/3Gwv2xWkC0H7EXBTDVwVNE) | 3:24 | 2022-11-09 | 2023-01-12 |
 | [Departure from a Country](https://open.spotify.com/track/3FC6OK2Nvs35Y34fcRb1Ro) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/41rnXi6HnsKF5ueUEqr7uz) | 4:17 | 2022-07-07 | 2022-08-02 |
 | [Desire to fly](https://open.spotify.com/track/3G81cFKifTjjBeLYUoG5bK) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Desire to fly](https://open.spotify.com/album/5L4p78XkHQI4q5rE7kt9Yo) | 4:45 | 2024-03-05 |  |
@@ -411,6 +412,7 @@
 | [I Can't Help It \(Prod\. Jungkey\)](https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can't Help It](https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd) | 3:44 | 2022-09-01 | 2023-01-11 |
 | [I Can’t](https://open.spotify.com/track/5o5yvRKiygg9Nh4Uvo0VTH) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [I Can’t \(Re:WIND 4MEN Vol.02\)](https://open.spotify.com/album/4ZUX84xu3LpbFHtgyJdoF6) | 4:10 | 2022-10-07 | 2023-01-21 |
 | [I couldn't catch you](https://open.spotify.com/track/0Kj4ozMvl7YS9mYScwqxWU) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [I couldn't catch you](https://open.spotify.com/album/7g0fxncF6v6eVEu9EZSlTd) | 4:00 | 2023-05-16 | 2023-09-19 |
+| [I couldn't say goodbye like a drama](https://open.spotify.com/track/7kWJZKPyGuu3VPQ9ZpPvzi) | [2BIC](https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax) | [I couldn't say goodbye like a drama](https://open.spotify.com/album/2vrA5c4tfZ7GC11d9r713y) | 3:58 | 2024-06-25 |  |
 | [I Count Three](https://open.spotify.com/track/5U9MJFoTMxxkUNeC7DGI4f) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [I Count Three](https://open.spotify.com/album/73SciIcxj2Y5Rv6wUjBdfE) | 5:40 | 2022-03-31 | 2022-04-13 |
 | [I didn't know back then](https://open.spotify.com/track/4bmeg9Q5PtrEfSjUPtN1xo) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [I didn't know back then](https://open.spotify.com/album/0AzjowvsTD4IoQMoXRyVa1) | 3:24 | 2022-08-01 | 2022-12-27 |
 | [I Don't Deserve to Be Loved](https://open.spotify.com/track/2eI8WM0a0KLjQnWiyPMIic) | [Baek Grim](https://open.spotify.com/artist/6mVsxcJyevC8Aqe722CfFB) | [I Don't Deserve to Be Loved](https://open.spotify.com/album/7xUxFxbvpseFMhAQGSwmjE) | 3:45 | 2022-07-04 | 2022-09-30 |
@@ -457,6 +459,7 @@
 | [I want to be happy](https://open.spotify.com/track/7228vjb4e06cqzLv8Fqffi) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [thing song of my life vol.2](https://open.spotify.com/album/5s2Muss9JgOD92T1g6C8MM) | 3:58 | 2021-12-20 | 2022-06-02 |
 | [I want you to be happy](https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [I want you to be happy](https://open.spotify.com/album/3G6X4oBhIf8Xqgg8vxirjv) | 3:47 | 2022-04-19 | 2022-05-02 |
 | [I wanted to be loved](https://open.spotify.com/track/1XNPWW1QfFNp4dHyXPYZE3) | [JOO SEOL OK](https://open.spotify.com/artist/4fZ1YSVoYTlqbZcJEOl80M) | [I wanted to be loved](https://open.spotify.com/album/7gEkfgHPDQwfBvHhwVTTKc) | 3:46 | 2022-09-29 | 2023-01-11 |
+| [I Will](https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [I Will](https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt) | 3:53 | 2024-06-25 |  |
 | [I will](https://open.spotify.com/track/1cwCsOMKxYrVmvTFT4Q7mY) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [The Project](https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn) | 3:39 | 2021-12-20 | 2022-07-05 |
 | [I will be alright](https://open.spotify.com/track/1iURdIbRZv2t643LDwLbl2) | [Lee Eun Mi](https://open.spotify.com/artist/57Rbh9mF8Peu1jOPRawGHW) | [I will be alright](https://open.spotify.com/album/7MPJaPGqkTXM3ej4PXklwV) | 5:35 | 2023-11-02 | 2024-02-02 |
 | [I will bear my grief\. Thank you.](https://open.spotify.com/track/5QAynerkLzjgFNPFT0RTts) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [I will bear my grief\. Thank you.](https://open.spotify.com/album/3d5sQWZYfybvm2AF0ejVL2) | 4:30 | 2022-11-16 | 2023-01-21 |
@@ -1042,6 +1045,7 @@
 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 | 2021-12-20 | 2022-07-08 |
 | [Time Spent Walking Through Memories \(Feat\. 10CM\)](https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Memories](https://open.spotify.com/album/38BploYaSSuEFrk7974uX1) | 3:34 | 2023-09-11 | 2023-11-03 |
 | [Time To Break Up](https://open.spotify.com/track/7r4V6nIAovtbrXOoXIDM9W) | [Hansol](https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek) | [Time To Break Up](https://open.spotify.com/album/41YjMufLJv2wg2C8wZaBRx) | 3:25 | 2022-10-27 | 2023-01-21 |
+| [Time We Loved](https://open.spotify.com/track/1CvQkgLf3j72uevtt1uhHw) | [Park Je Up](https://open.spotify.com/artist/0eAiU3cVCE1QcQyjPuCHSq) | [Time We Loved](https://open.spotify.com/album/4EDKxgRxBmP0MXjzi69MS1) | 3:39 | 2024-06-25 |  |
 | [Timeless Love](https://open.spotify.com/track/4sNSygvDQZ6DBiEylNd1tI) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:21 | 2023-09-13 | 2023-11-03 |
 | [Timing](https://open.spotify.com/track/6XqsQdaD86eKPnk6ZrAg8n) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Timing \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 2\)](https://open.spotify.com/album/51AO2oaMFDOuZ4jRlQXGzn) | 2:53 | 2023-11-15 | 2024-05-01 |
 | [To Me](https://open.spotify.com/track/6eLNBIUwf81FxFHekvd8Gu) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [To Me](https://open.spotify.com/album/4W5GjsG10XacO0WE6ckZaH) | 3:51 | 2022-08-01 | 2022-12-27 |

@@ -2,7 +2,7 @@
 
 ### [This Is Terry Riley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wmvjq)
 
-> This is Terry Riley\. The essential tracks, all in one playlist.
+> This Is Terry Riley\. Los temas esenciales, todos en una lista.
 
 174 songs - 1 day 0 hr 15 min
 
@@ -74,7 +74,7 @@
 | [Ides of March](https://open.spotify.com/track/27X9O6v1wej9EIRmHgwVwB) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 11:03 | 2022-05-29 |  |
 | [In C \- 2009 Remastered](https://open.spotify.com/track/4IIt36M11AQ5bHdzFQLEny) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: In C](https://open.spotify.com/album/1IqXMVlNM4NBTA4otUziOr) | 41:56 | 2022-05-29 |  |
 | [In The Summer](https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 6:40 | 2022-06-21 |  |
-| [Innocencia \- Se Aparace La Muerte Inocentmente Por La Tarde](https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 7:28 | 2022-05-31 | 2024-06-24 |
+| [Innocencia \- Se Aparace La Muerte Inocentmente Por La Tarde](https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 7:28 | 2022-05-31 |  |
 | [Island Of Never Anger](https://open.spotify.com/track/0l6GmdBZ9gZbMAKF979KvU) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 8:33 | 2024-03-19 | 2024-03-21 |
 | [Jaipur Local](https://open.spotify.com/track/4UuyvMHJ1NIPahfXgZqKV9) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Krishna Bhatt](https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl) | [No Man's Land](https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0) | 7:13 | 2022-10-09 | 2022-10-11 |
 | [Jewel Movement](https://open.spotify.com/track/7guINxNSlx0litDHH5FqBc) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Krishna Bhatt](https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl) | [No Man's Land](https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0) | 6:30 | 2023-02-22 | 2023-07-17 |
@@ -153,7 +153,7 @@
 | [The Harp of New Albion: I\. The New Abion Chorale / The Discovery](https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 21:33 | 2022-05-29 |  |
 | [The Harp of New Albion: II\. The Orchestra of Tao](https://open.spotify.com/track/1gAbvmBVt6teejZiTiOtxM) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 15:30 | 2022-05-29 |  |
 | [The Harp of New Albion: III\. Riding the Westerleys](https://open.spotify.com/track/5Wk6E15Rgb1MDIeLneuwK4) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 16:40 | 2022-06-04 |  |
-| [The Harp of New Albion: IV\. Cadence on the Wind](https://open.spotify.com/track/4qshB18VkXecfCmAR8bjAJ) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 5:05 | 2022-11-14 |  |
+| [The Harp of New Albion: IV\. Cadence on the Wind](https://open.spotify.com/track/4qshB18VkXecfCmAR8bjAJ) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 5:05 | 2022-11-14 | 2024-06-26 |
 | [The Harp of New Albion: IX\. Circle of Wolves](https://open.spotify.com/track/0TckD7ISMjg0kZ9flglQcs) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 9:45 | 2023-03-09 | 2024-05-24 |
 | [The Harp of New Albion: V\. Premonition Rag](https://open.spotify.com/track/58Y3YZZvx40tu9FHI1kVoa) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 6:36 | 2022-10-30 |  |
 | [The Harp of New Albion: VI\. Return of the Ancestors](https://open.spotify.com/track/1BfjSZH8MBJKHa34FfGoKL) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 10:04 | 2022-11-15 |  |

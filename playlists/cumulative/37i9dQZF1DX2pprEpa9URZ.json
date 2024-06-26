@@ -288,7 +288,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 470243,
       "name": "Alkebulan - David Mayer Remix",
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
@@ -1556,6 +1556,28 @@
       "duration_ms": 393115,
       "name": "Carouselland",
       "url": "https://open.spotify.com/track/7lj7f1RcUInYsx8E7jLn9Q"
+    },
+    {
+      "album": {
+        "name": "Cemal\u0131m",
+        "url": "https://open.spotify.com/album/7aCBkw9nDEr3gadb0yjzjc"
+      },
+      "artists": [
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        },
+        {
+          "name": "Anatolian Sessions",
+          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227419,
+      "name": "Cemal\u0131m",
+      "url": "https://open.spotify.com/track/7FN0P5LONPlHjTksSOI5K5"
     },
     {
       "album": {
@@ -4120,7 +4142,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 360000,
       "name": "Lit",
       "url": "https://open.spotify.com/track/057dSG3J2yUkg6qvCpLEWJ"
@@ -6924,6 +6946,24 @@
       "duration_ms": 398454,
       "name": "They Were Here Before Us",
       "url": "https://open.spotify.com/track/5GHFSXR38ZqLMEZ3aCmhPc"
+    },
+    {
+      "album": {
+        "name": "Thierry",
+        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375652,
+      "name": "Thierry",
+      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
     },
     {
       "album": {

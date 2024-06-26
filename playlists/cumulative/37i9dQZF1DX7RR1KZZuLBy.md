@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-277 songs - 1 day 1 hr 5 min
+278 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/track/2IvSE2xIirukcfM3pIOdlV) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/album/2jQWjxTc0RNj8BeCDck1E6) | 5:48 | 2023-07-21 | 2023-11-03 |
 | [Nkosi Yethu Simakade](https://open.spotify.com/track/3uT8mhU2exkks3TGbWo614) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nkosi Yethu Simakade](https://open.spotify.com/album/67ME23vgWOBTs4FU8MLaXE) | 7:51 | 2023-06-23 | 2023-08-04 |
 | [No Longer Slaves \- 2023 Short Edit / Live](https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 6:58 | 2023-06-02 | 2023-11-03 |
+| [No Survivors](https://open.spotify.com/track/14OspenVFI42NxSwtLFWyF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo) | 2:20 | 2024-05-31 |  |
 | [Not Alone](https://open.spotify.com/track/4TVf5D7GwfLhB8OSNbKI35) | [J'Something](https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG) | [Not Alone](https://open.spotify.com/album/3QqE9qb69rQLA69j5Y4HlU) | 3:44 | 2023-07-28 | 2023-11-03 |
 | [Nothing Else \- Live](https://open.spotify.com/track/74uc1GXUF00V6jLTGS2iNF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Nothing Else \(Live\)](https://open.spotify.com/album/4xwb0ucs1i5ywq5UNoNAOP) | 8:46 | 2023-12-15 | 2024-03-19 |
 | [Nothing Without You \- Live At The Barnyard Theatre](https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv) | 7:50 | 2019-10-28 | 2023-11-03 |
@@ -181,7 +182,7 @@
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/6ax2Ggo7GekdiKS8rnaQFP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Essential Christian Mix](https://open.spotify.com/album/3u318s3bi0JWwEH3p5zmaJ) | 8:55 | 2020-04-21 | 2022-11-13 |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion](https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S) | 8:56 | 2024-02-23 | 2024-05-24 |
 | [Oceans \(Where Feet May Fail\) \- Redux](https://open.spotify.com/track/4oxHDhN1my6y0Isk2k7GsV) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(X\)](https://open.spotify.com/album/2XKmrW38QMmkXJqn9SgBLR) | 8:11 | 2023-09-15 | 2023-11-10 |
-| [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 | 2024-05-31 |  |
+| [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 | 2024-05-31 | 2024-06-26 |
 | [Only Jesus](https://open.spotify.com/track/2txzErQliWk9JMlVNeolNh) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO), [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO), [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Sing Country](https://open.spotify.com/album/0AN0Rl9KP73tWdwJmAA2zv) | 3:48 | 2022-03-17 | 2023-04-28 |
 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-03-01 | 2024-05-22 |
 | [Our Nation](https://open.spotify.com/track/1Z4sDTyCOdZbvbwD0SBzrn) | [Heinz Winckler](https://open.spotify.com/artist/5Q1ldmPI95BBLkF8RyPIHF), [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD) | [Our Nation](https://open.spotify.com/album/3SC4tuvjDTwnIsKDCx9jOQ) | 4:15 | 2020-10-09 | 2023-05-12 |

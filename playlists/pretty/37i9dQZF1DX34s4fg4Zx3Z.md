@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Minh Huy
+> Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Kim Chi Sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,934 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,949 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ơ Thế Là](https://open.spotify.com/track/6lKKe2DNtxx2F13220bVYo) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh) | [Ơ Thế Là](https://open.spotify.com/album/2uIByO5wJ5NEgHZWOVTpgf) | 3:54 |
-| 2 | [Thấu Hiểu](https://open.spotify.com/track/3cFOA7zgCHW7cGFgnqwjiD) | [An Vũ](https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34) | [Thấu Hiểu](https://open.spotify.com/album/4TZmVTx43b3NbIOSxDotba) | 4:56 |
-| 3 | [Thế giới màu lam hồng](https://open.spotify.com/track/7omHUqaxjk8T5trj5xszwi) | [Dr\. ND](https://open.spotify.com/artist/13893x4VfbHoXXNfEpN6Zw) | [Thế giới màu lam hồng](https://open.spotify.com/album/2FY8FJ0MopS0p2L9rzvPQ9) | 2:45 |
-| 4 | [Reasons](https://open.spotify.com/track/2BDJENfgJLEuGwnK8lW5j5) | [Raven x Rabbit](https://open.spotify.com/artist/3EbhwySdn2EFUhSF55GM2v) | [Reasons](https://open.spotify.com/album/1dhf7ngVLdEG3kDRcTYG2Q) | 4:08 |
+| 1 | [Thấu Hiểu](https://open.spotify.com/track/3cFOA7zgCHW7cGFgnqwjiD) | [An Vũ](https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34) | [Thấu Hiểu](https://open.spotify.com/album/4TZmVTx43b3NbIOSxDotba) | 4:56 |
+| 2 | [Thế giới màu lam hồng](https://open.spotify.com/track/7omHUqaxjk8T5trj5xszwi) | [Dr\. ND](https://open.spotify.com/artist/13893x4VfbHoXXNfEpN6Zw) | [Thế giới màu lam hồng](https://open.spotify.com/album/2FY8FJ0MopS0p2L9rzvPQ9) | 2:45 |
+| 3 | [Reasons](https://open.spotify.com/track/2BDJENfgJLEuGwnK8lW5j5) | [Raven x Rabbit](https://open.spotify.com/artist/3EbhwySdn2EFUhSF55GM2v) | [Reasons](https://open.spotify.com/album/1dhf7ngVLdEG3kDRcTYG2Q) | 4:08 |
+| 4 | [Ơ Thế Là](https://open.spotify.com/track/6lKKe2DNtxx2F13220bVYo) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh) | [Ơ Thế Là](https://open.spotify.com/album/2uIByO5wJ5NEgHZWOVTpgf) | 3:54 |
 | 5 | [em bé mầm](https://open.spotify.com/track/6o1hMXvoBOMdwpSgav24c3) | [Minstu](https://open.spotify.com/artist/56oxFM7GQ14Z02IwpAx1lw) | [em bé mầm](https://open.spotify.com/album/6N4kSUoF7K7moyWFGZuG9n) | 3:09 |
 | 6 | [Trốn Những Đau Thương](https://open.spotify.com/track/1nvvZwvWm2KsJeqajdo6NM) | [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Trốn Những Đau Thương](https://open.spotify.com/album/7EOthaTy5NqgSxl05nPTA4) | 3:39 |
 | 7 | [Dreamboat](https://open.spotify.com/track/6wkUagrscMyyHQTY3kGlwk) | [Grassic](https://open.spotify.com/artist/4mCkqAH51xAWHQjrngxPsg) | [Dreamboat](https://open.spotify.com/album/3VrLOHmBp3PtywjTEIaa18) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Buổi Diễn Hôm Nay \(Cô Ấy Không Đến\)](https://open.spotify.com/track/4QBjWVUt1Jp1rORRGDResS) | [Rica](https://open.spotify.com/artist/6poJ3pxHNBeLLVnXcX0rmC), [Minh Cà Ri](https://open.spotify.com/artist/29xtwCxmznSC9QPikI0GtZ), [Hồng Dương M4U](https://open.spotify.com/artist/1SG8ulyFlEWDuCi5OPRqfj) | [Nhuộm Màu Hoàng Hôn Lên Tóc Em](https://open.spotify.com/album/3VO4Sw8lDC7c9oVuFgi1MI) | 5:57 |
 | 100 | [Easy Pretty Luv](https://open.spotify.com/track/6d9cplBoSCSNvwRA51gJMv) | [prettyXIX](https://open.spotify.com/artist/28XrDF0G35BpyybcGaQTzU), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om) | [Easy Pretty Luv](https://open.spotify.com/album/7iEwa14guJYpKkUSAP3bLt) | 3:45 |
 
-Snapshot ID: `ZnkuQAAAAAA+Y7eZr6muPCR5pRv3ityy`
+Snapshot ID: `ZnpMFgAAAACzc2S7mWSWf26QS5Bj+vTC`

@@ -1,6 +1,6 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 171328,
+  "num_followers": 171361,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "The Acoustic Sessions: Volume One",
-        "url": "https://open.spotify.com/album/6yjFFbPxfTZvWTe2d3WXVz"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 323853,
-      "name": "Praise You In This Storm - acoustic",
-      "url": "https://open.spotify.com/track/4n42iES93DDuPvWpTyJVSO"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/0Ehx7UnsUgHAeY7ncN4osu"
       },
@@ -1131,18 +1115,34 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Fear No More EP",
-        "url": "https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE"
+        "name": "The Acoustic Sessions: Volume One",
+        "url": "https://open.spotify.com/album/6yjFFbPxfTZvWTe2d3WXVz"
       },
       "artists": [
         {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 192926,
-      "name": "Fear No More",
-      "url": "https://open.spotify.com/track/5VTWQeTAZGa6c5ZWRDN3oo"
+      "duration_ms": 323853,
+      "name": "Praise You In This Storm - acoustic",
+      "url": "https://open.spotify.com/track/4n42iES93DDuPvWpTyJVSO"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "City Harbor",
+        "url": "https://open.spotify.com/album/6S3Wrv59QHkdTNzogKZhqp"
+      },
+      "artists": [
+        {
+          "name": "City Harbor",
+          "url": "https://open.spotify.com/artist/7jqWsqKNg8yjslyglmaf5w"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "Come However You Are",
+      "url": "https://open.spotify.com/track/1Q4ObGuQALsUj1JKsWDTvW"
     }
   ],
   "unique_name": "Hold Hope",

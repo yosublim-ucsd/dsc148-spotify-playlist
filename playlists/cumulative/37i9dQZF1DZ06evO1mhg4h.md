@@ -2,7 +2,7 @@
 
 ### [This Is 結束バンド](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1mhg4h)
 
-> This Is 結束バンド\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is 結束バンド。アーティストの代表曲をひとつのプレイリストに。
 
 33 songs - 2 hr 9 min
 

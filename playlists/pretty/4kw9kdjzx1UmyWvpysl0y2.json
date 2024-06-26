@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125933,
+  "num_followers": 125929,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASkMuq7lkpyiBziSdq8nQ2pQGRgSxh",
+  "snapshot_id": "AAASkayPZTNOtQqcW5VAwC/CF12VsHWS",
   "tracks": [
+    {
+      "added_at": "2024-06-25 14:27:09",
+      "album": {
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/4nqtyvb07LoYrEBFMWU51F"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "duration_ms": 201656,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/4MWNzOV01xBWQ5bUNWbfUL"
+    },
     {
       "added_at": "2024-06-24 17:05:19",
       "album": {

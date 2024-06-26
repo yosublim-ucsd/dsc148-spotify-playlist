@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: 2Frères
 
-2,632 songs - 5 day 20 hr 16 min
+2,633 songs - 5 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1400,7 +1400,7 @@
 | [Les jours abandonnés](https://open.spotify.com/track/4T3YB2GfvSFygsoAnkdT9n) | [Olivier Couture](https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq) | [Les jours abandonnés](https://open.spotify.com/album/3wLtRuSJAjzoWOuULhCcrk) | 3:19 | 2022-01-21 | 2022-01-29 |
 | [Les larmes du monde](https://open.spotify.com/track/4ZcAxmJrHxwqhDSfettsDE) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Les larmes du monde](https://open.spotify.com/album/1DwiPLa0WgudTenDVeMDdK) | 3:45 | 2023-01-13 | 2023-01-21 |
 | [Les lumières dans le ciel](https://open.spotify.com/track/28Jedg7kYNAgpN10eEjvJV) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Les lumières dans le ciel](https://open.spotify.com/album/5UslcyDEB1UOUFawWBTi01) | 3:52 | 2022-05-27 | 2022-06-11 |
-| [Les Montgolfières](https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:21 | 2024-05-17 |  |
+| [Les Montgolfières](https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:21 | 2024-05-17 | 2024-06-26 |
 | [Les mots manquent d'espace](https://open.spotify.com/track/70W8nr4ZLp4yVgHnXpiHx9) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Les mots manquent d'espace](https://open.spotify.com/album/4mbN1Ty85gQiv5y7L79HKy) | 2:46 | 2022-09-30 | 2022-10-15 |
 | [Les mots qui nous manquent](https://open.spotify.com/track/4MsRf1Ka0nVjJzk1HhUcaY) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Les mots qui nous manquent](https://open.spotify.com/album/1eyswuwRnpxBj4nPBItxdg) | 4:14 | 2024-05-03 | 2024-05-11 |
 | [Les murmures sabotés](https://open.spotify.com/track/1VHNuqivOe1mYzCAY5v0QZ) | [Bronswick](https://open.spotify.com/artist/4mPApT3WY8A04ZnQOS30BL) | [Les murmures sabotés](https://open.spotify.com/album/1II1iEI0s8IK9NfjzxweXi) | 3:33 | 2022-02-18 | 2022-02-26 |
@@ -2470,6 +2470,7 @@
 | [un éclair](https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [un éclair](https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D) | 3:30 | 2023-05-05 | 2023-06-13 |
 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-05 | 2023-06-04 |
 | [Une bonne santé et grave des lards](https://open.spotify.com/track/7Fwchv4I4XW5n57awYvOaj) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Une bonne santé et grave des lards](https://open.spotify.com/album/53VqpYsft2TQFjWg1eqo9f) | 2:57 | 2024-01-05 | 2024-03-09 |
+| [Une histoire](https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Nazaland](https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc) | 2:53 | 2024-06-21 |  |
 | [Une jument pour toi ma chérie \- From "C'est comme ça que je t'aime"](https://open.spotify.com/track/5UyxUq4mgFQMLyHBYaWcMd) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Une jument pour toi ma chérie \(From "C'est comme ça que je t'aime"\)](https://open.spotify.com/album/5DblDY3o3ZZRCB2rekL5MB) | 3:33 | 2022-04-22 | 2022-05-07 |
 | [Une nuit à Paris](https://open.spotify.com/track/5g5Teg7FeCD0coLI9hHDow) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Claire Morrison](https://open.spotify.com/artist/5gEPev2nkwI0VZMMQ5i7fg) | [Une nuit à Paris](https://open.spotify.com/album/7DCWNYVc3UlDYRQf9PJoym) | 3:04 | 2024-05-17 | 2024-05-25 |
 | [Une équipe](https://open.spotify.com/track/7e4hmTXOKlmZSBbUhPPF2Z) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Une équipe](https://open.spotify.com/album/1ct2biHjYjcx7A7dMcFhTB) | 3:17 | 2022-04-22 | 2022-05-07 |

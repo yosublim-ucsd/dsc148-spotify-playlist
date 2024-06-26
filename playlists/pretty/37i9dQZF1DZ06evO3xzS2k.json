@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2264,
+  "num_followers": 2267,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZndlgAAAAAATAZ8oFvvnrdVnw3t6fKfa",
+  "snapshot_id": "Zni3AAAAAAA3QnN9hZ9Dns4YTVDZMBYA",
   "tracks": [
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 348493,
-      "name": "When No Birds Sang",
-      "url": "https://open.spotify.com/track/2y6SnKCdLqMycrUq0gJZ7f"
+      "duration_ms": 272840,
+      "name": "Wild Blue",
+      "url": "https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Plastic Migraine",
-      "url": "https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44"
+      "duration_ms": 239920,
+      "name": "You Wind Me Up",
+      "url": "https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 272840,
-      "name": "Wild Blue",
-      "url": "https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4"
+      "duration_ms": 348493,
+      "name": "When No Birds Sang",
+      "url": "https://open.spotify.com/track/2y6SnKCdLqMycrUq0gJZ7f"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 239920,
-      "name": "You Wind Me Up",
-      "url": "https://open.spotify.com/track/6yUAD5PO15m2Vc4OZBloQw"
+      "duration_ms": 284000,
+      "name": "Plastic Migraine",
+      "url": "https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Luisa Almaguer",
-  "num_followers": 49470,
+  "num_followers": 49477,
   "original_name": "dreamy \u2728",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-06-21 13:02:04",
       "album": {
+        "name": "no quiero estar aqu\u00ed",
+        "url": "https://open.spotify.com/album/6LlvSFzQGRX49aSR2nA0PG"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 185685,
+      "name": "no quiero estar aqu\u00ed",
+      "url": "https://open.spotify.com/track/2KW4OWqMU780CgocKsMOZ4"
+    },
+    {
+      "added_at": "2024-06-21 13:02:04",
+      "album": {
         "name": "Abismo",
         "url": "https://open.spotify.com/album/31PeflXHidvrIDfVW0ivR1"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 219166,
       "name": "Abismo",
       "url": "https://open.spotify.com/track/0FEayppbKROCxKGyQ78PD8"
-    },
-    {
-      "added_at": "2024-06-21 13:02:04",
-      "album": {
-        "name": "no quiero estar aqu\u00ed",
-        "url": "https://open.spotify.com/album/6LlvSFzQGRX49aSR2nA0PG"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 185685,
-      "name": "no quiero estar aqu\u00ed",
-      "url": "https://open.spotify.com/track/2KW4OWqMU780CgocKsMOZ4"
     },
     {
       "added_at": "2024-06-21 13:02:04",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-06-21 13:02:04",
       "album": {
-        "name": "chicle y mora!",
-        "url": "https://open.spotify.com/album/3k3NKGAOwiWUvXviiLvrYd"
-      },
-      "artists": [
-        {
-          "name": "Aguadulce",
-          "url": "https://open.spotify.com/artist/4auAGOJ6ThawwUY6AJ5ltz"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "chicle y mora!",
-      "url": "https://open.spotify.com/track/4F7pXGey6YeaSbfoGcA2ge"
-    },
-    {
-      "added_at": "2024-06-21 13:02:04",
-      "album": {
         "name": "VCR",
         "url": "https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 215974,
       "name": "VCR",
       "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"
+    },
+    {
+      "added_at": "2024-06-21 13:02:04",
+      "album": {
+        "name": "chicle y mora!",
+        "url": "https://open.spotify.com/album/3k3NKGAOwiWUvXviiLvrYd"
+      },
+      "artists": [
+        {
+          "name": "Aguadulce",
+          "url": "https://open.spotify.com/artist/4auAGOJ6ThawwUY6AJ5ltz"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "chicle y mora!",
+      "url": "https://open.spotify.com/track/4F7pXGey6YeaSbfoGcA2ge"
     },
     {
       "added_at": "2024-06-21 13:02:04",
@@ -1143,7 +1143,7 @@
     {
       "added_at": "2024-06-21 13:02:04",
       "album": {
-        "name": "Mina con N",
+        "name": "los pies",
         "url": "https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl"
       },
       "artists": [
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-06-21 13:02:04",
       "album": {
-        "name": "Burrito",
-        "url": "https://open.spotify.com/album/7pdk7DN18zNmpDqOyeQZwo"
-      },
-      "artists": [
-        {
-          "name": "13deMarzo",
-          "url": "https://open.spotify.com/artist/3OeRfHBe5dfguqSQn0cMpy"
-        },
-        {
-          "name": "Only",
-          "url": "https://open.spotify.com/artist/0hTpzLejwiEa2ClxGbVvty"
-        }
-      ],
-      "duration_ms": 106940,
-      "name": "Burrito",
-      "url": "https://open.spotify.com/track/7nrXB3YeDpUhgbvJBuxnVy"
-    },
-    {
-      "added_at": "2024-06-21 13:02:04",
-      "album": {
         "name": "lalalala",
         "url": "https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex"
       },
@@ -1323,22 +1303,38 @@
     {
       "added_at": "2024-06-21 13:02:04",
       "album": {
-        "name": "P\u00farpura",
-        "url": "https://open.spotify.com/album/0aE88J0mVDgopOv7Qc6V1Z"
+        "name": "Burrito",
+        "url": "https://open.spotify.com/album/7pdk7DN18zNmpDqOyeQZwo"
       },
       "artists": [
         {
-          "name": "Leo X",
-          "url": "https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A"
+          "name": "13deMarzo",
+          "url": "https://open.spotify.com/artist/3OeRfHBe5dfguqSQn0cMpy"
         },
         {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+          "name": "Only",
+          "url": "https://open.spotify.com/artist/0hTpzLejwiEa2ClxGbVvty"
         }
       ],
-      "duration_ms": 224417,
-      "name": "P\u00farpura",
-      "url": "https://open.spotify.com/track/6ywLikYlFCD37Lnxj8HJzT"
+      "duration_ms": 106940,
+      "name": "Burrito",
+      "url": "https://open.spotify.com/track/7nrXB3YeDpUhgbvJBuxnVy"
+    },
+    {
+      "added_at": "2024-06-21 13:02:04",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/1Foa824MwXtyHNov2zbPHK"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        }
+      ],
+      "duration_ms": 174116,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/4QoZMxwAGm4yDYlNoHNyHN"
     }
   ],
   "unique_name": "dreamy \u2728",

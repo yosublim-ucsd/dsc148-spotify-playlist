@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: total tommy\nArtwork: Isu Kim",
+  "description": "The best new music by independent artists and labels. \nCover: Len Blake Artwork: Isu Kim",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 170964,
       "name": "2010",
       "url": "https://open.spotify.com/track/7xmCHaJqmZe9uhd3YeM987"
@@ -522,6 +522,50 @@
       "duration_ms": 230443,
       "name": "2am Diner (Radio Edit)",
       "url": "https://open.spotify.com/track/49G2KtOBmu5B8i6oo4yAKv"
+    },
+    {
+      "album": {
+        "name": "2CLOSE",
+        "url": "https://open.spotify.com/album/46q9Ug9fmNBYywzIU7aE3Y"
+      },
+      "artists": [
+        {
+          "name": "jnr.",
+          "url": "https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175275,
+      "name": "2CLOSE",
+      "url": "https://open.spotify.com/track/20eG1ZJHGE0q4nLCJq2Y58"
+    },
+    {
+      "album": {
+        "name": "2pac",
+        "url": "https://open.spotify.com/album/1yzjJhyztbd3b7NiQkwIKg"
+      },
+      "artists": [
+        {
+          "name": "Lavez",
+          "url": "https://open.spotify.com/artist/34XFmmLOHraER0bnb7APK2"
+        },
+        {
+          "name": "Burd Brain",
+          "url": "https://open.spotify.com/artist/26rs1ihEXjjLggHE9abqBG"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/7fmYjYhnT8J7ThoEd7sNgG"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "2pac",
+      "url": "https://open.spotify.com/track/52441KGFUdzLHTPjugzNw4"
     },
     {
       "album": {
@@ -7189,6 +7233,24 @@
     },
     {
       "album": {
+        "name": "brand new day",
+        "url": "https://open.spotify.com/album/1ZQlHdpZED3UpNNuSEDtrw"
+      },
+      "artists": [
+        {
+          "name": "Lucian Rice",
+          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "brand new day",
+      "url": "https://open.spotify.com/track/1fHy4iyO37QfMVhbatfJzh"
+    },
+    {
+      "album": {
         "name": "BRAND NEW YOU",
         "url": "https://open.spotify.com/album/0x3pq7YeJk3pz3yytBVGfD"
       },
@@ -7438,7 +7500,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 271000,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4O5UrhsAv2PnDMOKvU8cJw"
@@ -10939,6 +11001,24 @@
     },
     {
       "album": {
+        "name": "COME HOME",
+        "url": "https://open.spotify.com/album/4FmsZ5H9D6i5I55pQACLaf"
+      },
+      "artists": [
+        {
+          "name": "Newport",
+          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207037,
+      "name": "COME HOME",
+      "url": "https://open.spotify.com/track/1uDpkvivdpZrRP9wyRAvww"
+    },
+    {
+      "album": {
         "name": "COME MY WAY",
         "url": "https://open.spotify.com/album/2ED2ij7vz6muQHUCjeB92m"
       },
@@ -11062,6 +11142,24 @@
       "duration_ms": 182855,
       "name": "COMING HOME",
       "url": "https://open.spotify.com/track/7jDMqWWdgkLZrRyh9lcoub"
+    },
+    {
+      "album": {
+        "name": "Coming Up For Air",
+        "url": "https://open.spotify.com/album/6f1tFCmsJeRcIRLOSlGY0e"
+      },
+      "artists": [
+        {
+          "name": "Salmon Brothers",
+          "url": "https://open.spotify.com/artist/6zeqwDJhQASIUrDhmBWVN0"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292769,
+      "name": "Coming Up For Air",
+      "url": "https://open.spotify.com/track/0rcwjSYRomxqNlZDaBSbh7"
     },
     {
       "album": {
@@ -11626,7 +11724,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 173133,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/3w1qSxXU1XQcx6uo0aYxjT"
@@ -13048,7 +13146,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 194181,
       "name": "days months years",
       "url": "https://open.spotify.com/track/4BxLHGsWsfadV7FO0qIbgU"
@@ -17304,7 +17402,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 157105,
       "name": "Everyone",
       "url": "https://open.spotify.com/track/6VSTXvovE1EejMEahljTKv"
@@ -17358,7 +17456,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 167360,
       "name": "Everything",
       "url": "https://open.spotify.com/track/12AORt5BnsSXoRACGqTGK2"
@@ -20388,7 +20486,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 155816,
       "name": "fresh figure",
       "url": "https://open.spotify.com/track/4M7eIalDccTknOndeDRfOq"
@@ -22798,7 +22896,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 244371,
       "name": "Grab The Bull",
       "url": "https://open.spotify.com/track/3rBSV9htfoWC8Cc8qte3Oz"
@@ -23460,7 +23558,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 281496,
       "name": "Hanging Out The Window",
       "url": "https://open.spotify.com/track/3Q4x6AF5XFeBzzsiDRr2o2"
@@ -24051,6 +24149,24 @@
     },
     {
       "album": {
+        "name": "Heart Pumps Blood",
+        "url": "https://open.spotify.com/album/38tf14Nlk4xBpZhwax3wZ6"
+      },
+      "artists": [
+        {
+          "name": "Bad Neighbour",
+          "url": "https://open.spotify.com/artist/1Lg2j8CzYY32r5sDiuVW8B"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165816,
+      "name": "Heart Pumps Blood",
+      "url": "https://open.spotify.com/track/16J2iE7u869PV4QRa0fY9x"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/3JA4Gn3uJMxTQUhxJOX5w1"
       },
@@ -24348,6 +24464,24 @@
       "duration_ms": 218093,
       "name": "Hello Hello Hello",
       "url": "https://open.spotify.com/track/7lc8ek8j7O4DKexFwT4NZQ"
+    },
+    {
+      "album": {
+        "name": "Hello My Dear",
+        "url": "https://open.spotify.com/album/7eWsdr5ObJjUlFmWPL7y5P"
+      },
+      "artists": [
+        {
+          "name": "Marlin's Dreaming",
+          "url": "https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215004,
+      "name": "Hello My Dear",
+      "url": "https://open.spotify.com/track/0shqbqBT1gTpt8qS4C6Ody"
     },
     {
       "album": {
@@ -25428,7 +25562,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 180776,
       "name": "HONEYCOMB",
       "url": "https://open.spotify.com/track/61JuHiWVzceBAkziPAhPGa"
@@ -26782,6 +26916,28 @@
       "duration_ms": 186000,
       "name": "i promise i love you",
       "url": "https://open.spotify.com/track/4thJoOa21Qt3vqIn6PSFop"
+    },
+    {
+      "album": {
+        "name": "I See Red",
+        "url": "https://open.spotify.com/album/2Jf2s8RWtjJzsoCJwQHSKv"
+      },
+      "artists": [
+        {
+          "name": "Meghna",
+          "url": "https://open.spotify.com/artist/7vPjycBHSxeFrw8Xn8qeo5"
+        },
+        {
+          "name": "Adyn Young",
+          "url": "https://open.spotify.com/artist/3Is4nohjrh6kZwpcKu4mIk"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204050,
+      "name": "I See Red",
+      "url": "https://open.spotify.com/track/79GxjlX2jDtwuElfDj6nEi"
     },
     {
       "album": {
@@ -31398,7 +31554,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 147119,
       "name": "Lemon Tea",
       "url": "https://open.spotify.com/track/6Zk2jK6GsGrH0lhNy1ukRz"
@@ -32544,7 +32700,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 123901,
       "name": "Limosina",
       "url": "https://open.spotify.com/track/4BfE914TITP5y8lcfdm9HD"
@@ -33237,6 +33393,24 @@
     },
     {
       "album": {
+        "name": "Lost in Comfort",
+        "url": "https://open.spotify.com/album/2qpytSIoL3FavJU2ej1MQT"
+      },
+      "artists": [
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166509,
+      "name": "Lost in Comfort",
+      "url": "https://open.spotify.com/track/021WMFejA8Rnw4iqCnkIrA"
+    },
+    {
+      "album": {
         "name": "Lost In Decisions",
         "url": "https://open.spotify.com/album/6bPDPBHYJNcBIxJf28nn8W"
       },
@@ -33793,6 +33967,24 @@
     },
     {
       "album": {
+        "name": "Low and High",
+        "url": "https://open.spotify.com/album/5vslcWdBXkBIQ4CLRlA74C"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153513,
+      "name": "Low and High",
+      "url": "https://open.spotify.com/track/7FGtCmyeLSCGZeam6gHQl3"
+    },
+    {
+      "album": {
         "name": "Low Key",
         "url": "https://open.spotify.com/album/5JKVsH6p4ngld08m3HO5FZ"
       },
@@ -34118,6 +34310,24 @@
       "duration_ms": 197195,
       "name": "Madeline",
       "url": "https://open.spotify.com/track/1oD2ubPg1ZMSM38g07bspa"
+    },
+    {
+      "album": {
+        "name": "Madeline",
+        "url": "https://open.spotify.com/album/0GSV4bhUShntYdtI7AflFU"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223071,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/6yLHf0uepl3TKVmOWYR4h9"
     },
     {
       "album": {
@@ -34552,7 +34762,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 161854,
       "name": "Marlborough's Gold",
       "url": "https://open.spotify.com/track/6ce2CI55jsFuw0NJW0mJTJ"
@@ -35304,6 +35514,24 @@
       "duration_ms": 198857,
       "name": "METAL FLAKE",
       "url": "https://open.spotify.com/track/7moz6doT305AL9ZDxGJCq7"
+    },
+    {
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/7zdOkjjbeUNeouWdouwNxE"
+      },
+      "artists": [
+        {
+          "name": "LATE 90s",
+          "url": "https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/1LfZui3XXZ92ZZDjAxYqhj"
     },
     {
       "album": {
@@ -40007,6 +40235,24 @@
     },
     {
       "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/7phCoyXxNUA3pMSbFcd90Q"
+      },
+      "artists": [
+        {
+          "name": "Able Joseph",
+          "url": "https://open.spotify.com/artist/0djvjweduXm6AxFgwcznq8"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201849,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/4T4yWHE3OGV69j8JPRKY1a"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6Mtt1We5m3PF5FIECBks3N"
       },
@@ -41620,6 +41866,24 @@
       "duration_ms": 207618,
       "name": "Panic at the Party",
       "url": "https://open.spotify.com/track/5lYYjW5NzOnDcBjnyIv8lv"
+    },
+    {
+      "album": {
+        "name": "Panic Growth",
+        "url": "https://open.spotify.com/album/2tzJvf8oe5L6VcVQ2aU6Y7"
+      },
+      "artists": [
+        {
+          "name": "The Nagging Doubts",
+          "url": "https://open.spotify.com/artist/2sSlFb9ZRolDd3qcBrMDCr"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229290,
+      "name": "Panic Growth",
+      "url": "https://open.spotify.com/track/7H6KN6M4pTG98RBGfgVFWg"
     },
     {
       "album": {
@@ -43964,7 +44228,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 230133,
       "name": "Pulling Me Back",
       "url": "https://open.spotify.com/track/4LkCl44IMopebuT0uBayQF"
@@ -45072,6 +45336,24 @@
       "duration_ms": 443291,
       "name": "Relief",
       "url": "https://open.spotify.com/track/43kIZBCdjPYy2OdoJ8GPPY"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/7B17yq2tj1zK6nnovJv8k5"
+      },
+      "artists": [
+        {
+          "name": "TILE",
+          "url": "https://open.spotify.com/artist/2vdwOGSZIjnvIgXm22BcPB"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189688,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/7zaZKLmMiZrmNb8TslHSU5"
     },
     {
       "album": {
@@ -49552,7 +49834,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 186168,
       "name": "SMILE",
       "url": "https://open.spotify.com/track/5HE2WW4xWWMMFLRNvlPqYI"

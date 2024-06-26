@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Ebow",
-  "num_followers": 34344,
+  "num_followers": 34349,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-06-07 10:21:54",
       "album": {
+        "name": "Can\u00ea",
+        "url": "https://open.spotify.com/album/7r2fbBWV3lpd3yihlciH74"
+      },
+      "artists": [
+        {
+          "name": "Ebow",
+          "url": "https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "Dersim62",
+      "url": "https://open.spotify.com/track/5lADsfiwgNJrBKp3sJn0id"
+    },
+    {
+      "added_at": "2024-06-07 10:21:54",
+      "album": {
         "name": "Bigger Picture",
         "url": "https://open.spotify.com/album/12QYAmIZvrAPB9Njyem32A"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 168773,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/4qXG6u2HbqRpEtA9apQLDi"
-    },
-    {
-      "added_at": "2024-06-07 10:21:54",
-      "album": {
-        "name": "Can\u00ea",
-        "url": "https://open.spotify.com/album/7r2fbBWV3lpd3yihlciH74"
-      },
-      "artists": [
-        {
-          "name": "Ebow",
-          "url": "https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "Dersim62",
-      "url": "https://open.spotify.com/track/5lADsfiwgNJrBKp3sJn0id"
     },
     {
       "added_at": "2024-06-07 10:21:54",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-06-07 10:21:54",
       "album": {
-        "name": "STEREO NOIR",
-        "url": "https://open.spotify.com/album/0KxrASBz3X7wAOgBrQKb1N"
-      },
-      "artists": [
-        {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo"
-        }
-      ],
-      "duration_ms": 211123,
-      "name": "PLANET",
-      "url": "https://open.spotify.com/track/58nwezUNuGYgWsR2DaTty5"
-    },
-    {
-      "added_at": "2024-06-07 10:21:54",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/1RIJr50PbFAXFiEZui7FoW"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 177630,
       "name": "Friends",
       "url": "https://open.spotify.com/track/1JzUIZNVLSqo8LiHtl9yCC"
+    },
+    {
+      "added_at": "2024-06-07 10:21:54",
+      "album": {
+        "name": "STEREO NOIR",
+        "url": "https://open.spotify.com/album/0KxrASBz3X7wAOgBrQKb1N"
+      },
+      "artists": [
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo"
+        }
+      ],
+      "duration_ms": 211123,
+      "name": "PLANET",
+      "url": "https://open.spotify.com/track/58nwezUNuGYgWsR2DaTty5"
     },
     {
       "added_at": "2024-06-07 10:21:54",

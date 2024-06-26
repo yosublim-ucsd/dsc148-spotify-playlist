@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > The finest set of Malayalam music from the past 10 years.<br/>Cover : Aadujeevitham
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,718 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,773 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mazhavillile \- From "Falimy"](https://open.spotify.com/track/0vvlXqo7vNXmMDwSqXldLy) | [Vishnu Vijay](https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p), [Mu.Ri](https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm) | [Mazhavillile \(From "Falimy"\)](https://open.spotify.com/album/2CPlfbyLCopFkWebKyBgeo) | 3:16 |
-| 2 | [Tharam](https://open.spotify.com/track/1KVjiCSWmJnvxUCWL3hp2S) | [Deepak Blue](https://open.spotify.com/artist/6n7qbMaXMDg5volEeeB9Ao), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Shikkari Shambhu](https://open.spotify.com/album/0VaJjqiL2fkajtCHcSbcFt) | 3:44 |
+| 2 | [Tharam](https://open.spotify.com/track/1KVjiCSWmJnvxUCWL3hp2S) | [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Shikkari Shambhu](https://open.spotify.com/album/0VaJjqiL2fkajtCHcSbcFt) | 3:44 |
 | 3 | [Neeyilla Neram](https://open.spotify.com/track/150QIbzsnzGQLLcXVbJaXQ) | [Sooraj S\. Kurup](https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p), [B.K\. Harinarayanan](https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV) | [LUCA](https://open.spotify.com/album/4xfJ7sRBl9WgJuTB5oASJ8) | 3:36 |
 | 4 | [Vaanam](https://open.spotify.com/track/7J1r94cV8CUtdiGPDe8APL) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Anarkali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ydZdHTy3PtBypfu7YsUGw) | 4:42 |
 | 5 | [Periyone](https://open.spotify.com/track/6eSMc314qnbsO4sYxDGoqb) | [Jithin Raj](https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua) | [The Goat Life \- Aadujeevitham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xh8b46TsysD9SK9QtD29k) | 5:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Happy Black Music Month! Cover: <a href="spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg">Kendrick Lamar</a>, Shot by: Arturo Holmes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,685 likes - 170 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,784 likes - 170 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 43 | [drunk prayer](https://open.spotify.com/track/7B8wSAsYjZODXJ3GXJlTWW) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [drunk prayer](https://open.spotify.com/album/2KKsYTS2o9Dc2ewKa6cBve) | 3:10 |
 | 44 | [can't stand it](https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [can't stand it](https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD) | 3:05 |
 | 45 | [Robbery 7](https://open.spotify.com/track/2sqc7KkHcxy53gXbhA9PFa) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Robbery 7](https://open.spotify.com/album/4ozI7JpZCF7GU2p7QvFVmH) | 3:44 |
-| 46 | [Offwhite Lumberjack](https://open.spotify.com/track/4v4k5AH10JSyT6eU1zXHPk) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [Offwhite Lumberjack](https://open.spotify.com/album/1CUOlrRYZkzhNyRRHq2Yd4) | 2:33 |
+| 46 | [Off\-White Lumberjack](https://open.spotify.com/track/4v4k5AH10JSyT6eU1zXHPk) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [Off\-White Lumberjack](https://open.spotify.com/album/1CUOlrRYZkzhNyRRHq2Yd4) | 2:33 |
 | 47 | [Risk Taker](https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Risk Taker](https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E) | 3:43 |
 | 48 | [Étouffée](https://open.spotify.com/track/592A3x9nMXoL3Ay5rKgSwW) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX) | 4:28 |
 | 49 | [OUTSIDE](https://open.spotify.com/track/3Ibz41D18EEpiYv07FYea6) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [OUTSIDE](https://open.spotify.com/album/7ikYsPo0JfYjHwnSPESIvr) | 1:58 |

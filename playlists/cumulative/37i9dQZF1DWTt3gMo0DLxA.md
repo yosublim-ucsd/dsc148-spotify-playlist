@@ -4,7 +4,7 @@
 
 > Trending songs from Tollywood! <br/>Cover: Kalki 2898 Ad
 
-167 songs - 10 hr 43 min
+168 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,9 +161,10 @@
 | [Sehari Sehari](https://open.spotify.com/track/2SIQgKcQP0ztLtV6APZ9y8) | [Thoshi](https://open.spotify.com/artist/6JTjs71TL7qvv1KjObqOLC), [Priya Hemesh](https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:45 | 2024-02-26 | 2024-03-22 |
 | [Sooreede \(From "Salaar Cease Fire \- Telugu"\)](https://open.spotify.com/track/78TQJ6QyHZNRXUNFBpNuhP) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Sooreede \(From "Salaar Cease Fire \- Telugu"\)](https://open.spotify.com/album/5FW8Ypbbg0hASh6jLtNZ3Z) | 3:18 | 2023-12-19 | 2024-06-05 |
 | [Sooseki \(From "Pushpa 2 The Rule"\) \[TELUGU\]](https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Sooseki \(From "Pushpa 2 The Rule"\) \[TELUGU\]](https://open.spotify.com/album/7gzl2DEz4LGnwM1qr5UIP5) | 4:20 | 2024-06-05 |  |
+| [Souraa \(From "Bharateeyudu 2"\)](https://open.spotify.com/track/6EQVXaIi22Ilmkt1Coi9gZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ritesh G Rao](https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz), [Shruthika Samudhrala](https://open.spotify.com/artist/6tV6eU1gwsruSzN4PyDJWe) | [Souraa \(From "Bharateeyudu 2"\)](https://open.spotify.com/album/0bjug1LVXNf7WiAqNUHjLr) | 4:12 | 2024-06-25 |  |
 | [Suttamla Soosi](https://open.spotify.com/track/2NbecghCUO21ZzWXk24JnO) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sri Harsha Emani](https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit) | [Gangs Of Godavari](https://open.spotify.com/album/1Qr5Gq4WF1uaiIZkKIKgNN) | 3:22 | 2023-08-30 | 2024-02-20 |
 | [Thattukolede](https://open.spotify.com/track/5idQ5WN2CK5FeUhRQ4ZvKY) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm) | [Thattukolede](https://open.spotify.com/album/2Ch8BRdcnGnATmjIPcxSQc) | 4:44 | 2023-08-30 |  |
-| [Ticket Eh Konakunda](https://open.spotify.com/track/3NdQpAhK5s42vu3do3KSBT) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Tillu Square](https://open.spotify.com/album/5oNL1ay25NKeMieYCFwhci) | 3:09 | 2023-08-30 |  |
+| [Ticket Eh Konakunda](https://open.spotify.com/track/3NdQpAhK5s42vu3do3KSBT) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Tillu Square](https://open.spotify.com/album/5oNL1ay25NKeMieYCFwhci) | 3:09 | 2023-08-30 | 2024-06-26 |
 | [Tillu Anna DJ Pedithe](https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [DJ Tillu](https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0) | 3:03 | 2023-08-30 | 2023-12-14 |
 | [Top Lesi Poddi](https://open.spotify.com/track/0FSrCEox8bEpO3RD6ZfEr5) | [Sagar, Geetha Madhuri](https://open.spotify.com/artist/4cjneCieMET25rMaFXwudS) | [Idharammayilatho](https://open.spotify.com/album/6o9ysd0MFQXd6g4eWtcvNq) | 4:17 | 2021-09-24 | 2023-08-31 |
 | [Tring Tring](https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Jai Lava Kusa](https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL) | 4:20 | 2021-09-24 | 2023-08-31 |

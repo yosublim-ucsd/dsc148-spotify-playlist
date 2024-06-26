@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-637 songs - 2 day 15 hr 7 min
+638 songs - 2 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,8 +642,9 @@
 | [You](https://open.spotify.com/track/6hFgrBH45e3SljvIHNLRq8) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Unity](https://open.spotify.com/album/6oHRy3qEVtV2ihezwKZRjR) | 6:58 | 2020-03-21 | 2020-03-22 |
 | [You Are the Light \- Edit](https://open.spotify.com/track/5sfXJ86Ltiw0IGoNIkiEZa) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [You Are the Light](https://open.spotify.com/album/3RlqBAFQVNw7ixfLkaXTPB) | 4:09 | 2019-08-06\* | 2020-02-03 |
 | [You Shine \- Original mix](https://open.spotify.com/track/2UcVfsMkqwmOWewsRBPVvX) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [You Shine EP](https://open.spotify.com/album/55HDc5bpxKGUlyW6yvnYpj) | 6:43 | 2019-11-10 | 2020-04-12 |
-| [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2021-12-17 |  |
+| [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2021-12-17 | 2024-06-26 |
 | [You’re So High \(10 Years On\)](https://open.spotify.com/track/59wygKiI3oZ1dQNlClWzeP) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [You’re So High \(10 Years On\)](https://open.spotify.com/album/08iIEsoNGBA4Q8oI3SDiDC) | 4:32 | 2023-11-11 |  |
 | [Zeit](https://open.spotify.com/track/6ChwoTAhVHGyxyA3tyv5XI) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Zeit](https://open.spotify.com/album/7oa0a2bi6yztJOPJmIdHlA) | 7:42 | 2021-12-17 | 2022-02-09 |
+| [​so far away](https://open.spotify.com/track/25LH9N0JmgSYsV6eqJPy97) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [current collection of demos on my drive](https://open.spotify.com/album/7KOEj1tjY9zeL70zHJoYGt) | 4:04 | 2024-06-21 |  |
 
 \*This playlist was first scraped on 2019-08-06. Prior content cannot be recovered.

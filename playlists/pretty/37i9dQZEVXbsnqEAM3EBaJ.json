@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACb8CIMde1KWJrn5kikblj2",
+  "snapshot_id": "AAAAAAAAAAAsdS5nU91h5hEkFkDBFxKx",
   "tracks": [
     {
       "added_at": "2024-06-21 04:00:00",
@@ -23,6 +23,38 @@
       "duration_ms": 243421,
       "name": "Der Sturm",
       "url": "https://open.spotify.com/track/7A6Rq2vg6I9CN8fsFEBToR"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "La Dieta del Murci\u00e9lago (Instrumentales)",
+        "url": "https://open.spotify.com/album/2ZGVSITaf9Jmne4WH1lhOC"
+      },
+      "artists": [
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "Bufalo Dit",
+          "url": "https://open.spotify.com/artist/7eC2HRtBhiXNWTAVdflUtK"
+        },
+        {
+          "name": "Terrible",
+          "url": "https://open.spotify.com/artist/1b8mm6QmyRah9dIxduf1Z9"
+        },
+        {
+          "name": "DerRalle",
+          "url": "https://open.spotify.com/artist/0GG87fZi7iaF8278pfP0Ad"
+        },
+        {
+          "name": "Jota Valderrama",
+          "url": "https://open.spotify.com/artist/39TmzYqfweYjjBRFvEE4EI"
+        }
+      ],
+      "duration_ms": 196507,
+      "name": "Hace Mal",
+      "url": "https://open.spotify.com/track/0Q4TCNDF4kDZrZWqQixBnN"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -555,26 +587,6 @@
       "duration_ms": 236933,
       "name": "Soily - One Hand Clapping Sessions",
       "url": "https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Sobras de Arte",
-        "url": "https://open.spotify.com/album/7dNiMRVlejE0ScgbNWDRLX"
-      },
-      "artists": [
-        {
-          "name": "Frainstrumentos",
-          "url": "https://open.spotify.com/artist/1XIFZexGu17xwWAjdFBLwI"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        }
-      ],
-      "duration_ms": 215221,
-      "name": "Me La Traje Igual",
-      "url": "https://open.spotify.com/track/7J0ovYPmon3DN0pLkJQall"
     },
     {
       "added_at": "2024-06-21 04:00:00",

@@ -2,7 +2,7 @@
 
 ### [This Is N.I.N.A](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1L7I2Y)
 
-> This is N.I.N.A\. Todos os maiores hits em uma só playlist.
+> This is N.I.N.A\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 49 songs - 2 hr 51 min
 

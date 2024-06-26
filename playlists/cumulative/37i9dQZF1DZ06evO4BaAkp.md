@@ -2,7 +2,7 @@
 
 ### [This Is Arctic Monkeys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4BaAkp)
 
-> This Is Arctic Monkeys\. Los temas esenciales, todos en una lista.
+> This is Arctic Monkeys\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 61 songs - 3 hr 39 min
 

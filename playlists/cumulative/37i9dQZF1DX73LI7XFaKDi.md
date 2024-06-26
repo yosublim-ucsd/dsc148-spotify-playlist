@@ -2,7 +2,7 @@
 
 ### [Descendants Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX73LI7XFaKDi)
 
-> Listen to your favorite songs from the Descendants soundtracks.
+> There's a new way to be wicked\. Listen to all the music from Descendants, including Descendants: The Rise of Red.
 
 66 songs - 3 hr 13 min
 

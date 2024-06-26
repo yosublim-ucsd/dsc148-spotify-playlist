@@ -1,6 +1,6 @@
 {
   "description": "Coldplay in cover + le migliori uscite di questa settimana!",
-  "num_followers": 312656,
+  "num_followers": 312674,
   "original_name": "New Music Friday Italia",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-06-24 13:04:56",
       "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/3MZrZaiEhwp96tdh4QCfIm"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 211185,
+      "name": "One Day (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/2FIMN2jnLS7OBZRpPQN89L"
+    },
+    {
+      "added_at": "2024-06-24 13:04:56",
+      "album": {
         "name": "tape 1: That's Love (feat. Alt Bloom & DOUBLECAMP)",
         "url": "https://open.spotify.com/album/3YYaPrmDcnzVkTx9BVt6VF"
       },
@@ -1592,8 +1612,8 @@
           "url": "https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN"
         },
         {
-          "name": "Thelonious B.",
-          "url": "https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A"
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK"
         }
       ],
       "duration_ms": 172191,

@@ -1,13 +1,29 @@
 {
-  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All Ok",
-  "num_followers": 23173,
+  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sanjith Hegde",
+  "num_followers": 23178,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Znj5EgAAAADMpBcCW70lWbrH4KVzF7Ua",
+  "snapshot_id": "Znq0KwAAAAC7ZUGuphUzRodhGbdC++zJ",
   "tracks": [
+    {
+      "added_at": "2024-06-25 12:06:05",
+      "album": {
+        "name": "Nange Allava",
+        "url": "https://open.spotify.com/album/7Df20vW0rqUdevLUmLykjJ"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "duration_ms": 223953,
+      "name": "Nange Allava",
+      "url": "https://open.spotify.com/track/0nqm1P0AJBaQn1mhhloB9j"
+    },
     {
       "added_at": "2024-06-13 11:43:26",
       "album": {
@@ -1297,22 +1313,6 @@
       "url": "https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL"
     },
     {
-      "added_at": "2024-02-01 10:50:07",
-      "album": {
-        "name": "Vivekalaya",
-        "url": "https://open.spotify.com/album/2ldFEqS0GEIQd89LTbiCcj"
-      },
-      "artists": [
-        {
-          "name": "Achal Ubaradka",
-          "url": "https://open.spotify.com/artist/1XWwYrtVLePDjckQP7lzgS"
-        }
-      ],
-      "duration_ms": 180372,
-      "name": "Vivekalaya",
-      "url": "https://open.spotify.com/track/6zRJheIz77q5J6EaaZkRez"
-    },
-    {
       "added_at": "2023-12-08 09:08:13",
       "album": {
         "name": "Howdappa Howdu - The Secret of Life",
@@ -1343,26 +1343,6 @@
       "duration_ms": 138947,
       "name": "Rocky Bhai 2.0",
       "url": "https://open.spotify.com/track/2HHM1OusTbVkYoN3Zu8x8T"
-    },
-    {
-      "added_at": "2023-10-25 08:03:09",
-      "album": {
-        "name": "Never Love Again",
-        "url": "https://open.spotify.com/album/2rNtWzYqaHhzUiNpngNEz6"
-      },
-      "artists": [
-        {
-          "name": "Aryamanu Baloji",
-          "url": "https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp"
-        },
-        {
-          "name": "Shubhangini",
-          "url": "https://open.spotify.com/artist/08XZ4vBBklbpgX2tvDbN9Q"
-        }
-      ],
-      "duration_ms": 221761,
-      "name": "Never Love Again",
-      "url": "https://open.spotify.com/track/1B8McCxEmyLM7Xv64zx0Qc"
     },
     {
       "added_at": "2024-01-30 06:52:52",

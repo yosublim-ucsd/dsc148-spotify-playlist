@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-442 songs - 1 day 3 hr 15 min
+443 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 | 2022-02-17 | 2023-05-05 |
 | [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 | 2023-08-17 |  |
 | [CORNELIUS](https://open.spotify.com/track/4KIcWUwuKa0QZPiGmDFFis) | [Steven Griggs](https://open.spotify.com/artist/1Po1uSZCiS3b5G3emOltxv) | [Frontier of Loss](https://open.spotify.com/album/2yb3cuIJhDxN8lsxTBXBJ5) | 3:03 | 2022-03-24 | 2022-04-21 |
+| [Count Me In](https://open.spotify.com/track/76rD8liEuU0louCpIXDSKv) | [Taylor Owen Trio](https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca) | [Count Me In](https://open.spotify.com/album/4J7FQxTSNaZTGx9oppZbk4) | 3:37 | 2024-06-17 |  |
 | [Croydon Koma](https://open.spotify.com/track/3ETSl39IjoLVTSzrOFj68M) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Sofia Jernberg](https://open.spotify.com/artist/0KzOF8uIL7271V6GgkwI3F) | [Croydon Koma](https://open.spotify.com/album/3fsLGV6WtkAQXvsEiTIoyL) | 2:31 | 2022-02-17 | 2022-06-01 |
 | [Cruize](https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr) | 2:40 | 2022-05-30 | 2023-04-18 |
 | [curly](https://open.spotify.com/track/3IqwiPbdJ53pT6es1utnqK) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 4:38 | 2022-04-22 | 2022-06-03 |
@@ -270,7 +271,7 @@
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2023-03-20 |  |
 | [Não Tem Nada Não](https://open.spotify.com/track/7A4AFocOKiNSKijFSZssbk) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [NK\-OK](https://open.spotify.com/artist/0X4mN9O6iEpMyA0O1WrQLn), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Mafalda Raposo](https://open.spotify.com/artist/2zQzDkSwiGnhwd6dBMgIRf) | [Não Tem Nada Não](https://open.spotify.com/album/4Znu5EqOfRBFurjsyhc8Vj) | 3:47 | 2022-02-17 | 2022-04-29 |
 | [O Fogo](https://open.spotify.com/track/6oJPC4vEqke3ViUuMhz49u) | [Black Flower](https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz) | [O Fogo](https://open.spotify.com/album/0z5MO6rLjBmgjFMqFe21EQ) | 4:46 | 2022-02-17 | 2022-03-18 |
-| [Odd Duck](https://open.spotify.com/track/4ag4ypxQnkSVuZHvfwyzo1) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Odd Duck](https://open.spotify.com/album/506EOu4vBoIkR1D8Kw7rSG) | 3:23 | 2023-05-05 |  |
+| [Odd Duck](https://open.spotify.com/track/4ag4ypxQnkSVuZHvfwyzo1) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Odd Duck](https://open.spotify.com/album/506EOu4vBoIkR1D8Kw7rSG) | 3:23 | 2023-05-05 | 2024-06-26 |
 | [Odyssey](https://open.spotify.com/track/7rzaogj4Be9bXCV7rGgRgT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [Welcome to the Hills](https://open.spotify.com/album/2o2tNVIRBR0BH4RlLm4qLO) | 3:44 | 2022-02-17 | 2022-04-23 |
 | [Olivia Benson](https://open.spotify.com/track/4uOjcnam6f6tq4c6mlvC8W) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Somewhere Different](https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6) | 4:01 | 2022-02-17 | 2023-03-21 |
 | [On 14th Street](https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 2:56 | 2023-03-20 |  |

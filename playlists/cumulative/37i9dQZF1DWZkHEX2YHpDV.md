@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt & more\. Cover: The Story So Far
 
-1,227 songs - 2 day 16 hr 55 min
+1,228 songs - 2 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [BETTER OFF DEAD](https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:35 | 2022-07-08 | 2022-08-06 |
 | [better than this](https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [better than this](https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK) | 2:58 | 2024-03-22 |  |
 | [Biddy](https://open.spotify.com/track/5AbNazhwuq3Iu73BX5nbct) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [Biddy](https://open.spotify.com/album/5M0VzkHfipN9Gh2AKIQyE0) | 3:03 | 2022-02-04 | 2022-04-20 |
+| [Big Al Dente](https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY) | [Action/Adventure](https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF) | [Big Al Dente](https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K) | 2:50 | 2024-06-24 |  |
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-09-15 | 2024-03-23 |
 | [Big Cat Judgement Day](https://open.spotify.com/track/48EL0gIc4MkhTLCgE3w8x3) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Big Cat Judgement Day](https://open.spotify.com/album/3tGvWqFRuhJKJfgqMA2atx) | 2:31 | 2021-12-10 | 2022-05-20 |
 | [Big Sad](https://open.spotify.com/track/0r2gvhn9QfmqN8SwhpP5Xy) | [Balancing the Different](https://open.spotify.com/artist/27XX1Tx4IV5vdAk7Hjo1h2) | [Big Sad](https://open.spotify.com/album/3QUalfcM7N4uh0x5iVnqw1) | 3:32 | 2021-12-10 | 2022-07-29 |
@@ -1093,7 +1094,7 @@
 | [Tokyo](https://open.spotify.com/track/4d2LLQznXiskpF16zXJOgZ) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Christo Bowman](https://open.spotify.com/artist/6KSZuZigeTureDNedWHZxz) | [Tokyo](https://open.spotify.com/album/1n5OwfuisLP0M0OZItxsvv) | 3:20 | 2022-04-15 | 2022-05-20 |
 | [Tokyo](https://open.spotify.com/track/49DxDMEH8w7PZkHgiRiySs) | [Prey Drive](https://open.spotify.com/artist/4uzpqg3EzVZBYRybcBLanD) | [Once More with Feeling](https://open.spotify.com/album/41QrjV2C1jmXESAmxOKmwc) | 4:07 | 2021-12-10 | 2022-05-20 |
 | [Tone](https://open.spotify.com/track/56jon54HeRd8lsvWME7XsJ) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [Tone](https://open.spotify.com/album/1WEIzM6htv1TJKroViJgxG) | 2:56 | 2021-12-10 | 2022-07-29 |
-| [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 | 2024-01-19 |  |
+| [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 | 2024-01-19 | 2024-06-26 |
 | [Tonight \(feat\. iann dior\)](https://open.spotify.com/track/6Tsro9u5bnTJxFjuzuNA7R) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Tonight \(feat\. iann dior\)](https://open.spotify.com/album/53jX1nt0x4HeHwOGRbQWQR) | 2:15 | 2021-12-10 | 2022-06-03 |
 | [Too Far Gone](https://open.spotify.com/track/565Q8A8Gl8n4EhgVhpEBBx) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Too Far Gone](https://open.spotify.com/album/6V7FXy0ikYJQqziP4JLLaB) | 2:56 | 2022-01-14 | 2022-04-11 |
 | [TOO MUCH](https://open.spotify.com/track/4K9CC7VFiolZH2F1f4Pz3s) | [Eli Hurts](https://open.spotify.com/artist/2SPTuVsyrbhH0kvnxQgwDa) | [TOO MUCH](https://open.spotify.com/album/5T8HPGHikCk9RFeDNK3CKN) | 2:29 | 2021-12-10 | 2022-07-28 |

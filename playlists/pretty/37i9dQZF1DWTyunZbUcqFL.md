@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 
 > The perfect soundtrack for a trip to one of the most breath\-taking and iconic cities in the world: Kyoto / 様々な魅力に溢れる京都への旅のお供に、このサウンドトラックを是非お楽しみ下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,571 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,579 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 | 32 | [Yin And Yang](https://open.spotify.com/track/78S3pvsrBrsafmGorQsLdi) | [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd) | [freeform jazz](https://open.spotify.com/album/0sIEaMrJwu12F9o1S5qKNV) | 3:11 |
 | 33 | [Spartacus Love Theme](https://open.spotify.com/track/1DezS9kjU3DfhRsSzpz8hh) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [Brothers & Sisters](https://open.spotify.com/album/6MRiATex5j9GzXAgPzpvzC) | 7:02 |
 | 34 | [Spiritual State \(feat\. Uyama Hiroto\)](https://open.spotify.com/track/0jkaVZIYepDPnB140eR1Uc) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 6:31 |
-| 35 | [TIME](https://open.spotify.com/track/1hQZiYDGr6bbLc3ZxsT1CM) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi) | [何度でも新しく生まれる](https://open.spotify.com/album/3IhDlS0GsKJHNCcJA7xocM) | 4:44 |
+| 35 | [TIME \- Vocal:bird](https://open.spotify.com/track/1hQZiYDGr6bbLc3ZxsT1CM) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi) | [何度でも新しく生まれる](https://open.spotify.com/album/3IhDlS0GsKJHNCcJA7xocM) | 4:44 |
 | 36 | [Still In Love \- feat\. Navasha Daya](https://open.spotify.com/track/7FB7ZIcZhLX3gsN7q55Z3X) | [Shuya Okino](https://open.spotify.com/artist/1yF5iR2cIChyJUEQZoZ6ma), [Navasha Daya](https://open.spotify.com/artist/2VlzaSFag5euKYyhmke1QZ) | [Still In Love \(feat\. Navasha Daya\)](https://open.spotify.com/album/7zIqXKpg6ya5B4L0XMpDPn) | 8:08 |
 | 37 | [Full Train](https://open.spotify.com/track/0JrjEboVdJxWkVjjqLqrlX) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4KpOSMuRPaLusaL0wWTNgi) | 5:53 |
 | 38 | [Will](https://open.spotify.com/track/5altcHTL2RsY4HpUZZKiZ3) | [Kazusa](https://open.spotify.com/artist/2wWiqYc0aBOeBtNu3mfkxN) | [Will](https://open.spotify.com/album/6jZwUaBLAtRjVlyEEs03T9) | 4:40 |

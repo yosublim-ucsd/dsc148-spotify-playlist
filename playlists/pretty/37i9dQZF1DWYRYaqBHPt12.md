@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRYaqBHPt12.md) - [plain]
 
 > Check out the playlist celebrating the 5th anniversary of PUBG: BATTLEGROUNDS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,163 likes - 22 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,200 likes - 22 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

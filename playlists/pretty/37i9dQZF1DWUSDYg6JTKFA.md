@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,328 likes - 65 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,361 likes - 65 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 60 | [Gold \- Live](https://open.spotify.com/track/6Uq3aMPuxk07NAie8SrS8G) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:19 |
 | 61 | [Glory and Majesty](https://open.spotify.com/track/6ebunLa0rqIRA3w1Q8m4M9) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Glory and Majesty](https://open.spotify.com/album/1QGbytHCK2zrtErq1tt4PF) | 4:44 |
 | 62 | [Need You Now \(How Many Times\)](https://open.spotify.com/track/3oCy1o9lrIvgFC1T7kfTNv) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Need You Now](https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so) | 4:12 |
-| 63 | [Praise You In This Storm \- acoustic](https://open.spotify.com/track/4n42iES93DDuPvWpTyJVSO) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Acoustic Sessions: Volume One](https://open.spotify.com/album/6yjFFbPxfTZvWTe2d3WXVz) | 5:23 |
-| 64 | [Hurricane](https://open.spotify.com/track/5bfefdE1Y2hobZqQ39qWwY) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Hurricane](https://open.spotify.com/album/0Ehx7UnsUgHAeY7ncN4osu) | 3:29 |
-| 65 | [Fear No More](https://open.spotify.com/track/5VTWQeTAZGa6c5ZWRDN3oo) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More EP](https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE) | 3:12 |
+| 63 | [Hurricane](https://open.spotify.com/track/5bfefdE1Y2hobZqQ39qWwY) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Hurricane](https://open.spotify.com/album/0Ehx7UnsUgHAeY7ncN4osu) | 3:29 |
+| 64 | [Praise You In This Storm \- acoustic](https://open.spotify.com/track/4n42iES93DDuPvWpTyJVSO) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Acoustic Sessions: Volume One](https://open.spotify.com/album/6yjFFbPxfTZvWTe2d3WXVz) | 5:23 |
+| 65 | [Come However You Are](https://open.spotify.com/track/1Q4ObGuQALsUj1JKsWDTvW) | [City Harbor](https://open.spotify.com/artist/7jqWsqKNg8yjslyglmaf5w) | [City Harbor](https://open.spotify.com/album/6S3Wrv59QHkdTNzogKZhqp) | 3:40 |
 
 Snapshot ID: `ZIxUQwAAAAB2NF9wYOgFZf6X7OjWUEzp`

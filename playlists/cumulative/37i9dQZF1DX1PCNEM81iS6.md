@@ -4,7 +4,7 @@
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-86 songs - 4 hr 9 min
+87 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Like Flames](https://open.spotify.com/track/33w3r7av1feaIpEoIdCFyv) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Like Flames](https://open.spotify.com/album/34N3v0VmoLjtXqed3gDDmt) | 4:10 | 2024-04-16 |  |
 | [Like Flames](https://open.spotify.com/track/4xBBNJ8spMyuJynOQxJf7e) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Like Flames](https://open.spotify.com/album/1si6jnjPfRrzezrxnKGxtd) | 4:10 | 2022-11-25 | 2022-12-24 |
 | [Make Me Feel Better](https://open.spotify.com/track/48Hxgmy2rW0jT6YZUo18R8) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Make Me Feel Better](https://open.spotify.com/album/0VymrjRtKPZUvHkcJLaqby) | 4:29 | 2022-11-25 |  |
+| [Miracle soup](https://open.spotify.com/track/3dCLJGqrhClFxNQ68o7B7A) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Miracle soup](https://open.spotify.com/album/3RB2BMUkv12GW4lL2Zb8hc) | 3:20 | 2024-06-25 |  |
 | [MONOGRAM](https://open.spotify.com/track/135nKXuCgD9wcByXRWjB4o) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [MONOGRAM](https://open.spotify.com/album/1D7FJhAmoqrVERB7IRXZ0h) | 3:39 | 2023-11-22 |  |
 | [Nameless Story](https://open.spotify.com/track/0DR2YxEHLwmb3ZLcqHbjN2) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [Nameless Story \(アーティスト盤\)](https://open.spotify.com/album/5ALYVB2B7UAkaeYrukIXGt) | 4:02 | 2022-11-25 |  |
 | [PEACEKEEPER](https://open.spotify.com/track/6eWvLMxektDc1Yh0namRGc) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [PEACEKEEPER](https://open.spotify.com/album/5an5M8Vi6zKCqwCoxba0X7) | 3:28 | 2024-04-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 566 likes - 202 songs - 14 hr 2 min
+[codym2011](https://open.spotify.com/user/codym2011) - 565 likes - 203 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,5 +210,6 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 200 | [Distance \- Volac Remix](https://open.spotify.com/track/42BdPV3FB2HVsvdokaIDJt) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Distance \(Volac Remix\)](https://open.spotify.com/album/4DV2LgtYZbumkW6ifBZkzh) | 3:35 |
 | 201 | [Taped Up Heart \(feat\. Clara Mae\) \- VIP Mix](https://open.spotify.com/track/4fp5ICMxsl5kq9qWWpYBjN) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Taped Up Heart \(feat\. Clara Mae\) \[VIP Mix\]](https://open.spotify.com/album/1ntKoYAM9D8evm4zKZSMbq) | 3:29 |
 | 202 | [Broken Love](https://open.spotify.com/track/300yMbSPjCi6fo9EpCVwyC) | [Quarantino](https://open.spotify.com/artist/5y4NgF9HhK3EgWbfjLRX7e) | [Broken Love](https://open.spotify.com/album/6KamujvpdIeso5B5G7urpx) | 2:36 |
+| 203 | [DAYLIGHT](https://open.spotify.com/track/4Yofykr3pfx4t10HAI7Pj9) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [DAYLIGHT](https://open.spotify.com/album/49xb9I1JHOXL6AQOkHyTpC) | 2:34 |
 
-Snapshot ID: `AAAA3KUM584LgxgVuLjmchlw3FKT+uXx`
+Snapshot ID: `AAAA3Q6tBToXf6gHoZ0s7q9xSWXJEedK`

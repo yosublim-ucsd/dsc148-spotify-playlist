@@ -1,6 +1,6 @@
 {
   "description": "Coldplay au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 348542,
+  "num_followers": 348556,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
@@ -764,7 +764,7 @@
           "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
         }
       ],
-      "duration_ms": 239020,
+      "duration_ms": 238957,
       "name": "50G",
       "url": "https://open.spotify.com/track/0JaCXZzj9Rb6cwz8wKN0pk"
     },
@@ -1103,6 +1103,22 @@
       "duration_ms": 191000,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+    },
+    {
+      "added_at": "2024-06-20 23:00:00",
+      "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/3MZrZaiEhwp96tdh4QCfIm"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "duration_ms": 157021,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/6rD91CDAdyLwZ9fLPmfWqR"
     },
     {
       "added_at": "2024-06-20 23:00:00",

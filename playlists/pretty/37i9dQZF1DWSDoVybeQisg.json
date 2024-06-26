@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1160800,
+  "num_followers": 1160990,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "The First Edition",
-        "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
       },
       "artists": [
         {
-          "name": "The First Edition",
-          "url": "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
         }
       ],
-      "duration_ms": 201213,
-      "name": "Just Dropped In (To See What Condition My Condition Was In)",
-      "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
+      "duration_ms": 293933,
+      "name": "Season of the Witch",
+      "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -159,18 +159,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+        "name": "The First Edition",
+        "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
       },
       "artists": [
         {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+          "name": "The First Edition",
+          "url": "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
         }
       ],
-      "duration_ms": 293933,
-      "name": "Season of the Witch",
-      "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
+      "duration_ms": 201213,
+      "name": "Just Dropped In (To See What Condition My Condition Was In)",
+      "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sunshine Superman",
+      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Light and Heavy/The Best of...",
         "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 188240,
       "name": "My Back Pages",
       "url": "https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
-      },
-      "artists": [
-        {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sunshine Superman",
-      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
-        }
-      ],
-      "duration_ms": 86693,
-      "name": "The Good Mr. Square",
-      "url": "https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Happy Trails",
         "url": "https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 212733,
       "name": "Who Do You Love - Pt. 1",
       "url": "https://open.spotify.com/track/14hykKy6TC9y6chiptCtje"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "duration_ms": 86693,
+      "name": "The Good Mr. Square",
+      "url": "https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "The Future Starts Here: The Essential Doors Hits",
-        "url": "https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 390293,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/2jzjhQa7nLIaDMhMjSzedd"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Electric Music For The Mind And Body",
         "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 161000,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "The Future Starts Here: The Essential Doors Hits",
+        "url": "https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 390293,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/2jzjhQa7nLIaDMhMjSzedd"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "Bass Strings",
+      "url": "https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Cactology \"The Cactus Collection\"",
         "url": "https://open.spotify.com/album/17c5c9QwjWsNg0N7zX7EBQ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 196800,
       "name": "Evil - Single Version",
       "url": "https://open.spotify.com/track/1MlsQwhm6MU3PYMHNIc2YS"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Electric Music For The Mind And Body",
-        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
-      },
-      "artists": [
-        {
-          "name": "Country Joe & The Fish",
-          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "Bass Strings",
-      "url": "https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1131,6 +1131,38 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/387wE7UNIyqL4w8UnX2n4N"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/4gxtH5mCSqVPTsqGcWKVOC"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Born To Be Wild (Best Of....)",
         "url": "https://open.spotify.com/album/14Gu72n79AHDrcFWJ86mdc"
       },
@@ -1175,38 +1207,6 @@
       "duration_ms": 214640,
       "name": "Eight Miles High",
       "url": "https://open.spotify.com/track/5v3utF8InHZKd8JZJK5rCx"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/4gxtH5mCSqVPTsqGcWKVOC"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/387wE7UNIyqL4w8UnX2n4N"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4yrloqLBKS7Pi3z7g2HDga"
     },
     {
       "added_at": "2023-01-18 16:20:47",

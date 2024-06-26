@@ -2857,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Organica",
+        "url": "https://open.spotify.com/album/2EvzFQ2SIe2gvNGtb71MwT"
+      },
+      "artists": [
+        {
+          "name": "Pouring Voices",
+          "url": "https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Organica",
+      "url": "https://open.spotify.com/track/4Xuh7a0a5z0WbI6SZ0v5Co"
+    },
+    {
+      "album": {
         "name": "Panacea",
         "url": "https://open.spotify.com/album/2bLZwZtd96totLeWRYrq2f"
       },
@@ -3336,7 +3354,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 171547,
       "name": "Restituere",
       "url": "https://open.spotify.com/track/7lavIExZm0TRGe8Cco9d4h"

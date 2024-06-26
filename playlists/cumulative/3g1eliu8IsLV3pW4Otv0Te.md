@@ -4,7 +4,7 @@
 
 > 
 
-202 songs - 14 hr 2 min
+203 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Cross the Line](https://open.spotify.com/track/3IKSCoHEblCE60IKr4SVNd) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [Cross the Line](https://open.spotify.com/album/0lFtf1PiBAVr5w8LmhSK48) | 4:34 | 2018-02-02 |  |
 | [Cute](https://open.spotify.com/track/4RrzKxWX7g9pxR1tQDLcIv) | [Prod by Rose](https://open.spotify.com/artist/6rjf0fjRwaZK37QiKl9uBP) | [Cute](https://open.spotify.com/album/6iqAWn9pfLsPei6DvuQgJO) | 2:58 | 2019-06-19 |  |
 | [Cynical](https://open.spotify.com/track/5gxm6cYFfyo1Sl7qP679lV) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Monstercat 012 \- Aftermath](https://open.spotify.com/album/6BVBm72Q7gLZUEm1fyoBB7) | 6:29 | 2016-10-05 |  |
+| [DAYLIGHT](https://open.spotify.com/track/4Yofykr3pfx4t10HAI7Pj9) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [DAYLIGHT](https://open.spotify.com/album/49xb9I1JHOXL6AQOkHyTpC) | 2:34 | 2024-06-25 |  |
 | [Days](https://open.spotify.com/track/6113aOfHIC0vbZVDZ6PpRV) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/13F3zUhKQsEe4IG6DaMJCh) | 4:29 | 2018-12-08 |  |
 | [Days to Come](https://open.spotify.com/track/0v945WRZhamHsBBqbpW4LH) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [Seven Lions \- EP](https://open.spotify.com/album/5DVVbcKkcVnjn4L8I4FHtu) | 4:44 | 2016-10-04 |  |
 | [Diamond Sky \(feat\. Laura Brehm\)](https://open.spotify.com/track/3KF2pNwiGYWHX0ce17mnHA) | [Elliot Berger](https://open.spotify.com/artist/3DVo02zCQ7iZKujFgRLMXL), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Spotlight Compilation Vol\. 1](https://open.spotify.com/album/11YK1ROKWGlJUg1YkaLhXM) | 3:47 | 2016-10-05 |  |

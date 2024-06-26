@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > puros morrxs haciendo música chida\. Sofish e Hispana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,659 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,653 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 20 | [Pensarás que ya olvidé](https://open.spotify.com/track/5nCV6kV0PkWnWQaL5vnIZi) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Pensarás que ya olvidé](https://open.spotify.com/album/604MQBpWTzMpGZ7WfquxlI) | 3:33 |
 | 21 | [Un día nos vamos a morir](https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Un día nos vamos a morir](https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy) | 4:02 |
 | 22 | [Dolor y Gloria](https://open.spotify.com/track/0W4cwhgJDCut9cpn69YpN0) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Dolor y Gloria](https://open.spotify.com/album/2B6xK3eOTChH5BXWL1Qjy1) | 3:24 |
-| 23 | [los pies](https://open.spotify.com/track/3hZ20RZMCSjJfRdoyUVncW) | [Mina con N](https://open.spotify.com/artist/1hFYEvNr5V7JBuqxznqpm7), [Lorenzo Engell](https://open.spotify.com/artist/5w5VigociNIme6JiUUGkgN) | [Mina con N](https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl) | 3:06 |
+| 23 | [los pies](https://open.spotify.com/track/3hZ20RZMCSjJfRdoyUVncW) | [Mina con N](https://open.spotify.com/artist/1hFYEvNr5V7JBuqxznqpm7), [Lorenzo Engell](https://open.spotify.com/artist/5w5VigociNIme6JiUUGkgN) | [los pies](https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl) | 3:06 |
 | 24 | [Morra](https://open.spotify.com/track/3TdmhbiEYuTsrMXi8v6pgF) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Morra](https://open.spotify.com/album/5QjEgcxVI1AW3xz3cmrGGg) | 3:37 |
 | 25 | [Perdidos en Tokio](https://open.spotify.com/track/0KQ1KdvUxKULdV8fQxBy32) | [Tinu x Emi](https://open.spotify.com/artist/4jj6yiPO9GV5q1ciyBSBew) | [Perdidos en Tokio](https://open.spotify.com/album/1GlyxXVQjkGgr7GuqGkGVE) | 3:51 |
 | 26 | [QTVB](https://open.spotify.com/track/15h8VCcdvLeRy0Fb92Iqux) | [Mita](https://open.spotify.com/artist/3Vyw4TdOwnqclNlcvAeeSS), [MI$HA](https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ) | [QTVB](https://open.spotify.com/album/5vVyZ4MndgNMA6G3gTV78a) | 2:48 |

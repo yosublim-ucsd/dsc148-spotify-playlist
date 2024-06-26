@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby?si=95H5o8uiTZelwEK1nm\_e3Q">The Joy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,026 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,103 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mama ka Nomthandazo](https://open.spotify.com/track/5tNkjjs9xAOH1rDzkc8L9K) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [The Joy](https://open.spotify.com/album/3jVdY0oNzOo0QkWT2aMdDc) | 1:47 |
-| 2 | [Bad Romance](https://open.spotify.com/track/5Scl2X5AJSC95Pfsh2FWGY) | [Thuto The Human](https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj), [KMAT](https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d), [Tango Supreme](https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD) | [Bad Romance](https://open.spotify.com/album/4oUJtJuGve2Nze6tVGvxjV) | 6:49 |
+| 2 | [Bad Romance \(feat\. KMAT & Tango Supreme\)](https://open.spotify.com/track/5Scl2X5AJSC95Pfsh2FWGY) | [Thuto The Human](https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj), [KMAT](https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d), [Tango Supreme](https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD) | [Bad Romance \(feat\. KMAT & Tango Supreme\)](https://open.spotify.com/album/4oUJtJuGve2Nze6tVGvxjV) | 6:49 |
 | 3 | [Save Your Time](https://open.spotify.com/track/20d7aydafXWX7mx87xQgnK) | [Zuma](https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K), [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq) | [Save Your Time](https://open.spotify.com/album/5j0CR3k9x0xnD6tOtxe7jA) | 6:15 |
 | 4 | [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/52anJ914oylWdT3CytSMYF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 3:33 |
 | 5 | [Parking Lot](https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Parking Lot](https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi) | 2:55 |

@@ -1,79 +1,15 @@
 {
   "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: INI",
-  "num_followers": 47962,
+  "num_followers": 47963,
   "original_name": "Boys Group Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnGg8AAAAADyK8va3JqFoRsSQoXGbYke",
+  "snapshot_id": "ZnrbcAAAAABEoywxw5H3rppp4DOxpAeD",
   "tracks": [
     {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "Sweetest Tune",
-        "url": "https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc"
-      },
-      "artists": [
-        {
-          "name": "Travis Japan",
-          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
-        }
-      ],
-      "duration_ms": 205757,
-      "name": "Sweetest Tune",
-      "url": "https://open.spotify.com/track/6uY7MpqSGdXwmMiQlEw6h1"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "Love seeker",
-        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "Love seeker",
-      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "I wonder",
-        "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
-      },
-      "artists": [
-        {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
-        }
-      ],
-      "duration_ms": 157746,
-      "name": "I wonder",
-      "url": "https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "No.O -ring-",
-        "url": "https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK"
-      },
-      "artists": [
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 203029,
-      "name": "BON",
-      "url": "https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "LOUD",
         "url": "https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA"
@@ -89,7 +25,71 @@
       "url": "https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Love seeker",
+        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "duration_ms": 174226,
+      "name": "Love seeker",
+      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "I wonder",
+        "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "duration_ms": 157746,
+      "name": "I wonder",
+      "url": "https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "THE FRAME",
+        "url": "https://open.spotify.com/album/31T8IEaTjhKw9ziMXisaPe"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Walkie Talkie",
+      "url": "https://open.spotify.com/track/20mxgOiIMVXhwnDSwfCplt"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "No.O -ring-",
+        "url": "https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 203029,
+      "name": "BON",
+      "url": "https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Masterplan",
         "url": "https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Earth, Wind & Fire (Japanese Ver.)",
         "url": "https://open.spotify.com/album/6DvZZhY6bGqDuPbCSyZHcx"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/51jvR5cPRh3Yfiwo5qdNXw"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Counterattack",
         "url": "https://open.spotify.com/album/2mPY33iJ5So2RSJnYR9YfG"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/39Jr3uGUyooQvBEOF1vyo4"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "moooove!!",
         "url": "https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "\u4e94\u6708\u96e8 (Samidare)",
         "url": "https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE"
@@ -169,94 +169,26 @@
       "url": "https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "Don't Stay",
-        "url": "https://open.spotify.com/album/1NZlE04MB8dA8ufiAg3aiW"
+        "name": "Sweetest Tune",
+        "url": "https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc"
       },
       "artists": [
         {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE"
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
         }
       ],
-      "duration_ms": 234146,
-      "name": "Don't Stay",
-      "url": "https://open.spotify.com/track/0Pd3YHxIEoXN5qUQKHoLJ7"
+      "duration_ms": 205757,
+      "name": "Sweetest Tune",
+      "url": "https://open.spotify.com/track/6uY7MpqSGdXwmMiQlEw6h1"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "HIGHER EX",
-        "url": "https://open.spotify.com/album/43FcOYz8efEsLFhm5suAiZ"
-      },
-      "artists": [
-        {
-          "name": "BALLISTIK BOYZ from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "HIGHER EX",
-      "url": "https://open.spotify.com/track/5HQkEVozABejYyWUdMfeFF"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "DRAW+ing",
-        "url": "https://open.spotify.com/album/54O5v1GtPDAeGMTw3lCG82"
-      },
-      "artists": [
-        {
-          "name": "DXTEEN",
-          "url": "https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "DRAW+ing",
-      "url": "https://open.spotify.com/track/4gcGVSVzZPnCeBt3Be1bmQ"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "DEPARTURE",
-        "url": "https://open.spotify.com/album/2IcaFXt9KAgLFdcNAktqlU"
-      },
-      "artists": [
-        {
-          "name": "IMP.",
-          "url": "https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1"
-        }
-      ],
-      "duration_ms": 156326,
-      "name": "NINNIN JACK",
-      "url": "https://open.spotify.com/track/6fG4sExielzxmQlhX7pEr7"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "Pump It Up! feat. TAKUMA THE GREAT",
-        "url": "https://open.spotify.com/album/1M2kGI112t0hnGpUpqzw2y"
-      },
-      "artists": [
-        {
-          "name": "DA PUMP",
-          "url": "https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX"
-        },
-        {
-          "name": "Takuma the Great",
-          "url": "https://open.spotify.com/artist/2VwCj19Ruz3bW7tF0KRJws"
-        }
-      ],
-      "duration_ms": 209300,
-      "name": "Pump It Up! feat. TAKUMA THE GREAT",
-      "url": "https://open.spotify.com/track/36tQVvEnWA4CfgJAQRNDDP"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/6wmaWic8SNvOknibUnCN6b"
+        "name": "MINNA BLING BLING",
+        "url": "https://open.spotify.com/album/1Bb0nQ5Alx2cJaroN4l1Kw"
       },
       "artists": [
         {
@@ -284,16 +216,84 @@
           "url": "https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96"
         },
         {
-          "name": "Chaki Zulu",
-          "url": "https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup"
+          "name": "MONJOE",
+          "url": "https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P"
         }
       ],
-      "duration_ms": 225960,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/7GfzepybK1its9ZO9H9Bqz"
+      "duration_ms": 150960,
+      "name": "MINNA BLING BLING",
+      "url": "https://open.spotify.com/track/6Xa5ifCXnEEENCYL7xUGxz"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "DRAW+ing",
+        "url": "https://open.spotify.com/album/54O5v1GtPDAeGMTw3lCG82"
+      },
+      "artists": [
+        {
+          "name": "DXTEEN",
+          "url": "https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "DRAW+ing",
+      "url": "https://open.spotify.com/track/4gcGVSVzZPnCeBt3Be1bmQ"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "DEPARTURE",
+        "url": "https://open.spotify.com/album/2IcaFXt9KAgLFdcNAktqlU"
+      },
+      "artists": [
+        {
+          "name": "IMP.",
+          "url": "https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1"
+        }
+      ],
+      "duration_ms": 156326,
+      "name": "NINNIN JACK",
+      "url": "https://open.spotify.com/track/6fG4sExielzxmQlhX7pEr7"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Pump It Up! feat. TAKUMA THE GREAT",
+        "url": "https://open.spotify.com/album/1M2kGI112t0hnGpUpqzw2y"
+      },
+      "artists": [
+        {
+          "name": "DA PUMP",
+          "url": "https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX"
+        },
+        {
+          "name": "Takuma the Great",
+          "url": "https://open.spotify.com/artist/2VwCj19Ruz3bW7tF0KRJws"
+        }
+      ],
+      "duration_ms": 209300,
+      "name": "Pump It Up! feat. TAKUMA THE GREAT",
+      "url": "https://open.spotify.com/track/36tQVvEnWA4CfgJAQRNDDP"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Boom Boom Back",
+        "url": "https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Boom Boom Back",
+      "url": "https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "PSYCHIC FILE \u2161",
         "url": "https://open.spotify.com/album/7GBguLTdlkJhzecV5KMvzO"
@@ -309,23 +309,23 @@
       "url": "https://open.spotify.com/track/3PSj0h7rMUW4m754rOgZPJ"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "\u541b\u3058\u3083\u306a\u304d\u3083\u3060\u3081\u306a\u3093\u3060",
-        "url": "https://open.spotify.com/album/0B0pNgGM1b0SmQp8pPCC7v"
+        "name": "SiX",
+        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
       },
       "artists": [
         {
-          "name": "A.B.C-Z",
-          "url": "https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i"
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
         }
       ],
-      "duration_ms": 244237,
-      "name": "\u541b\u3058\u3083\u306a\u304d\u3083\u3060\u3081\u306a\u3093\u3060",
-      "url": "https://open.spotify.com/track/0Q7MGW8sEfNqwOkmHx7mXB"
+      "duration_ms": 248653,
+      "name": "CITRUS",
+      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Ride the Vibe",
         "url": "https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "halfmoon",
         "url": "https://open.spotify.com/album/76xz9bp3cZxNEgJfV1u4zF"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/35a21TsJpAibvzwzTUHCi5"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Put Your Hearts Up, Everybody Jump Up",
         "url": "https://open.spotify.com/album/7oaukHyBhCaMkGeUaSYfDj"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/1yJp6r67jyZx3cD7tYquUy"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "BOYS -TJBB Anthem-",
         "url": "https://open.spotify.com/album/0a1oriXnVZ3OTy1tCtQEfV"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/49IR4E7Weu8bRsTCKtfshW"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30fb\u30b8\u30e3\u30fc\u30cb\u30fc",
         "url": "https://open.spotify.com/album/3aWeQ8wTjjsmeCsXP6stmR"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/2xPPsSmJmU2ZmiWpVL1C08"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "24karats GOLD GENESIS",
         "url": "https://open.spotify.com/album/2um16q15odwpmhiAjf8pqi"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/3DOBALd9w4fDZ122HzF7CC"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Parade",
         "url": "https://open.spotify.com/album/43PcyZMcbxwUWOYzE9bg1P"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/6zac62mblxAmbgVkqBQKCB"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Love Triangle",
         "url": "https://open.spotify.com/album/5Qm1VnWx4KqoeJGrcd2eoW"
@@ -457,23 +457,23 @@
       "url": "https://open.spotify.com/track/09NZJcGT23meog6z9O7R0B"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "\u7121\u8cac\u4efb\u3067\u3048\u3048\u3058\u3083\u306a\u3044\u304bLOVE",
-        "url": "https://open.spotify.com/album/7uhQhoDa2Q9uQxEeESSXIw"
+        "name": "HIGHER EX",
+        "url": "https://open.spotify.com/album/43FcOYz8efEsLFhm5suAiZ"
       },
       "artists": [
         {
-          "name": "KAMIGATA BOYZ",
-          "url": "https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF"
+          "name": "BALLISTIK BOYZ from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o"
         }
       ],
-      "duration_ms": 233726,
-      "name": "\u7121\u8cac\u4efb\u3067\u3048\u3048\u3058\u3083\u306a\u3044\u304bLOVE",
-      "url": "https://open.spotify.com/track/3HVa5vaMiHGib4ztB7sCLR"
+      "duration_ms": 202800,
+      "name": "HIGHER EX",
+      "url": "https://open.spotify.com/track/5HQkEVozABejYyWUdMfeFF"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Perfect Storm (feat. TAEHYUN of TOMORROW X TOGETHER)",
         "url": "https://open.spotify.com/album/75LigNRTuWd1Mp7dNt9hQ4"
@@ -493,23 +493,27 @@
       "url": "https://open.spotify.com/track/2gZnCAEMmZ5kgZqNVuanWm"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "GET STUPID",
-        "url": "https://open.spotify.com/album/1wwvdUYewkU9xAqn9DhZa7"
+        "name": "Purple Pill feat. SKY-HI",
+        "url": "https://open.spotify.com/album/1MSsDwGXCiErZzUn85TUOG"
       },
       "artists": [
         {
-          "name": "XY",
-          "url": "https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC"
+          "name": "\u00d8MI",
+          "url": "https://open.spotify.com/artist/6hgAxdLyAScworv2mZucqK"
+        },
+        {
+          "name": "SKY-HI",
+          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
         }
       ],
-      "duration_ms": 160359,
-      "name": "GET STUPID",
-      "url": "https://open.spotify.com/track/5UHHgSPZkVMM6RBOmhfB5f"
+      "duration_ms": 188022,
+      "name": "Purple Pill feat. SKY-HI",
+      "url": "https://open.spotify.com/track/1PbnZDxhi5DqUxtT3PXMfD"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "\u30d6\u30ec\u30a4\u30af\u30e9\u30a4\u30f3",
         "url": "https://open.spotify.com/album/0mlnvdLh3Ew8ifBg6ybayZ"
@@ -525,7 +529,7 @@
       "url": "https://open.spotify.com/track/3GGkjydRMWrCXeQmvwmIeP"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Inception",
         "url": "https://open.spotify.com/album/5qb6vswL32wO47scCrZ7EL"
@@ -541,10 +545,74 @@
       "url": "https://open.spotify.com/track/4KwBjOcDve0jQrvD9eQljz"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "Boom Boom Back",
-        "url": "https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd"
+        "name": "\u541b\u3058\u3083\u306a\u304d\u3083\u3060\u3081\u306a\u3093\u3060",
+        "url": "https://open.spotify.com/album/0B0pNgGM1b0SmQp8pPCC7v"
+      },
+      "artists": [
+        {
+          "name": "A.B.C-Z",
+          "url": "https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i"
+        }
+      ],
+      "duration_ms": 244237,
+      "name": "\u541b\u3058\u3083\u306a\u304d\u3083\u3060\u3081\u306a\u3093\u3060",
+      "url": "https://open.spotify.com/track/0Q7MGW8sEfNqwOkmHx7mXB"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/75QefD9UMZNVTj90r0RXW5"
+      },
+      "artists": [
+        {
+          "name": "Ryuji Imaichi",
+          "url": "https://open.spotify.com/artist/70OLJdY31J0j1JgNcLsvSc"
+        }
+      ],
+      "duration_ms": 127066,
+      "name": "REALLY LOVE",
+      "url": "https://open.spotify.com/track/4VWa5wRCtiHRwmN4nTppp7"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "1st SONG",
+        "url": "https://open.spotify.com/album/2xVMZnRPnNuczI88IgVtnA"
+      },
+      "artists": [
+        {
+          "name": "DOBERMAN INFINITY",
+          "url": "https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5"
+        }
+      ],
+      "duration_ms": 304032,
+      "name": "1st SONG",
+      "url": "https://open.spotify.com/track/1CEhK1YwRkkDNmDD90mJld"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/19BPGMIrtPZlPx4LMLQmb2"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "duration_ms": 181760,
+      "name": "Songbird - Japanese Ver.",
+      "url": "https://open.spotify.com/track/3SCRXReEFR5yhw5jnMA0zE"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4"
       },
       "artists": [
         {
@@ -552,28 +620,28 @@
           "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Boom Boom Back",
-      "url": "https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB"
+      "duration_ms": 193120,
+      "name": "Set Sail",
+      "url": "https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "SiX",
-        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
+        "name": "\u30a2\u30f3\u30b9\u30ed\u30dd\u30b9",
+        "url": "https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d"
       },
       "artists": [
         {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+          "name": "SUPER EIGHT",
+          "url": "https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ"
         }
       ],
-      "duration_ms": 248653,
-      "name": "CITRUS",
-      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
+      "duration_ms": 219100,
+      "name": "\u30a2\u30f3\u30b9\u30ed\u30dd\u30b9",
+      "url": "https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
@@ -589,7 +657,7 @@
       "url": "https://open.spotify.com/track/3ElzGGiQ4ehegbG7dLIka7"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Masterplan",
         "url": "https://open.spotify.com/album/58yBNtbNsOEaps6kZW8XhR"
@@ -605,7 +673,7 @@
       "url": "https://open.spotify.com/track/3BA92nG2AdECdOBsWAfVPo"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "99.9 Psychic Radio",
         "url": "https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB"
@@ -625,71 +693,7 @@
       "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "\u30a2\u30f3\u30b9\u30ed\u30dd\u30b9",
-        "url": "https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d"
-      },
-      "artists": [
-        {
-          "name": "SUPER EIGHT",
-          "url": "https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ"
-        }
-      ],
-      "duration_ms": 219100,
-      "name": "\u30a2\u30f3\u30b9\u30ed\u30dd\u30b9",
-      "url": "https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "T.G.I. Friday Night",
-        "url": "https://open.spotify.com/album/6r5guvSqZvKWNlSNtyJqRT"
-      },
-      "artists": [
-        {
-          "name": "Travis Japan",
-          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
-        }
-      ],
-      "duration_ms": 215233,
-      "name": "T.G.I. Friday Night",
-      "url": "https://open.spotify.com/track/6ZDtOm65oJeSWTigzZjMdI"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Set Sail",
-      "url": "https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
-      },
-      "artists": [
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 158795,
-      "name": "GOAT",
-      "url": "https://open.spotify.com/track/074s54XQPsBttINKj02W9T"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "P.U!",
         "url": "https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU"
@@ -705,7 +709,7 @@
       "url": "https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Be on Your side",
         "url": "https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF"
@@ -721,107 +725,55 @@
       "url": "https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "Pink Flash Lights",
-        "url": "https://open.spotify.com/album/0c2jiUm4CEpbCMpwZHbGVn"
+        "name": "Move!",
+        "url": "https://open.spotify.com/album/4yNywLr8yi2JrjiTi7Wdqd"
       },
       "artists": [
         {
-          "name": "WOLF HOWL HARMONY from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn"
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/6iCVcgkf5Jv4rlcSAswaz6"
         }
       ],
-      "duration_ms": 151466,
-      "name": "Pink Flash Lights",
-      "url": "https://open.spotify.com/track/2cIDJumjrAhqOW7pTM2MvK"
+      "duration_ms": 210861,
+      "name": "Move!",
+      "url": "https://open.spotify.com/track/1kVdZkrESvjq6mvVP9bWVa"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "\u30a4\u30de",
-        "url": "https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP"
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
       },
       "artists": [
         {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
         }
       ],
-      "duration_ms": 227662,
-      "name": "\u30b9\u30bf\u30fc\u30de\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy"
+      "duration_ms": 158795,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/074s54XQPsBttINKj02W9T"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "366\u65e5",
-        "url": "https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT"
+        "name": "MAKE A FANTASY",
+        "url": "https://open.spotify.com/album/5prBWkcBTTD6cRukF1xZsB"
       },
       "artists": [
         {
-          "name": "HY",
-          "url": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
-        },
-        {
-          "name": "\u8207\u90a3\u57ce\u5968",
-          "url": "https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly"
+          "name": "FANTASY BOYS",
+          "url": "https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU"
         }
       ],
-      "duration_ms": 350700,
-      "name": "366\u65e5",
-      "url": "https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA"
+      "duration_ms": 231973,
+      "name": "New Tomorrow - JAPANESE ver.",
+      "url": "https://open.spotify.com/track/6fyZPL9KBMCoaediH5Vbuf"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "\u541b\u306b\u30ab\u30a8\u30eb (Maybe)",
-        "url": "https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr"
-      },
-      "artists": [
-        {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
-        }
-      ],
-      "duration_ms": 190453,
-      "name": "\u541b\u306b\u30ab\u30a8\u30eb (Maybe)",
-      "url": "https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "Test Drive",
-        "url": "https://open.spotify.com/album/5sZ3aPaqUMKyC9ssgHquE9"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Test Drive",
-      "url": "https://open.spotify.com/track/5ARYBmzAgJcxs4wlQJNAuS"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
-      "album": {
-        "name": "\u5bb5\u3005\u796d",
-        "url": "https://open.spotify.com/album/5UCin9zq9mkLqFwGAXnDf5"
-      },
-      "artists": [
-        {
-          "name": "\u624b\u5cf6\u7ae0\u6597",
-          "url": "https://open.spotify.com/artist/7mCzkv3ev49sg1PRtegoH9"
-        }
-      ],
-      "duration_ms": 204445,
-      "name": "\u5bb5\u3005\u796d",
-      "url": "https://open.spotify.com/track/3GAp2jMYYULw04YMRVFxKF"
-    },
-    {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Mainstream",
         "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
@@ -837,20 +789,68 @@
       "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
     },
     {
-      "added_at": "2024-06-18 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/0GUY29JTqpAq7U0q1LZvRT"
+        "name": "T.G.I. Friday Night",
+        "url": "https://open.spotify.com/album/6r5guvSqZvKWNlSNtyJqRT"
       },
       "artists": [
         {
-          "name": "LUN8",
-          "url": "https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn"
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
         }
       ],
-      "duration_ms": 216040,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/1FwpLolu29OCFHU1Yqyz17"
+      "duration_ms": 215233,
+      "name": "T.G.I. Friday Night",
+      "url": "https://open.spotify.com/track/6ZDtOm65oJeSWTigzZjMdI"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "\u5bb5\u3005\u796d",
+        "url": "https://open.spotify.com/album/5UCin9zq9mkLqFwGAXnDf5"
+      },
+      "artists": [
+        {
+          "name": "\u624b\u5cf6\u7ae0\u6597",
+          "url": "https://open.spotify.com/artist/7mCzkv3ev49sg1PRtegoH9"
+        }
+      ],
+      "duration_ms": 204445,
+      "name": "\u5bb5\u3005\u796d",
+      "url": "https://open.spotify.com/track/3GAp2jMYYULw04YMRVFxKF"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Build Up",
+        "url": "https://open.spotify.com/album/0bRqVMEsARl7nM252J7Rha"
+      },
+      "artists": [
+        {
+          "name": "Maison B",
+          "url": "https://open.spotify.com/artist/1Qy0G8x4jcOS1XjupM5jse"
+        }
+      ],
+      "duration_ms": 177644,
+      "name": "Rock Right Now",
+      "url": "https://open.spotify.com/track/4hNwQROKmc6lmjUQAjufFY"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Timeline",
+        "url": "https://open.spotify.com/album/1RCM4Sazwov9GdcO3Bbxw1"
+      },
+      "artists": [
+        {
+          "name": "2xFE",
+          "url": "https://open.spotify.com/artist/5fNaCr4gxZY2nlgxMVYoMg"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Timeline",
+      "url": "https://open.spotify.com/track/4Ob3UA1QYw49MrY7DSDkbo"
     }
   ],
   "unique_name": "Boys Group Japan",

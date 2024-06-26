@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29846,
+  "num_followers": 29847,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAO5LGFA4UvHoIkVFnczDopMu3gruBt",
+  "snapshot_id": "AAAO6uyQYjJulBfaCQxG96mQawqn+JIZ",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,38 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-06-25 17:24:49",
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/4RkLjqwlS19WIvOPZWAp4a"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 281106,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/3SOwkDDyiegwk2QesTLWxV"
+    },
+    {
+      "added_at": "2024-06-25 09:40:27",
+      "album": {
+        "name": "CHROMA 004",
+        "url": "https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 289054,
+      "name": "CHROMA 004 ROLA",
+      "url": "https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ"
     },
     {
       "added_at": "2024-06-20 17:13:04",
@@ -719,42 +751,6 @@
       "duration_ms": 274857,
       "name": "Things Will Fall Apart",
       "url": "https://open.spotify.com/track/6sMOWWJsTouTGwRO6QJ4KJ"
-    },
-    {
-      "added_at": "2024-04-12 10:55:57",
-      "album": {
-        "name": "Torch / Pearl of Hail",
-        "url": "https://open.spotify.com/album/3HXjzaIgjZrDG7iJ35WpBL"
-      },
-      "artists": [
-        {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
-        }
-      ],
-      "duration_ms": 110166,
-      "name": "Pearl of Hail",
-      "url": "https://open.spotify.com/track/3t2I3dV5AF2qhmbMbdeMt1"
-    },
-    {
-      "added_at": "2024-03-28 17:35:14",
-      "album": {
-        "name": "ILIKEU",
-        "url": "https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "ILIKEU",
-      "url": "https://open.spotify.com/track/5bp8cOT9xug35hnhZgW9d7"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

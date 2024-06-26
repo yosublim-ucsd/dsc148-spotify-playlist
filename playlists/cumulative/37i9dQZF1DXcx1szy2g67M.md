@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcx1szy2g67M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcx1szy2g67M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcx1szy2g67M)
 
-### [Summer '24](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
+### [Summer 2024](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
 > De zomer van 2024 beleef je hier!
 

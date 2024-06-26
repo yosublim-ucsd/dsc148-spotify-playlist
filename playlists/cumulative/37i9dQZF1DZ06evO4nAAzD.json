@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is Hyperanhas. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
   "name": "This Is Hyperanhas",
   "tracks": [
     {
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 354545,
       "name": "SET DJ BR DA TIJUCA 5",
       "url": "https://open.spotify.com/track/4bwlglmM45i6wO0hWKQ9N4"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 174000,
       "name": "Ta Bom",
       "url": "https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq"

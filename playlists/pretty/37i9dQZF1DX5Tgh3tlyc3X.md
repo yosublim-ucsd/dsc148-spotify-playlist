@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,588 likes - 186 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,605 likes - 186 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 185 | [Theta Sinus 150 Hz \- 156 Hz](https://open.spotify.com/track/7KuuvaRj6z8WJq81Ffb0L0) | [Phascoi﻿](https://open.spotify.com/artist/4rP4SiSzg5lzgHn9qw4g7A) | [Phascoi](https://open.spotify.com/album/7qQX2d62XCLYX4QUQYvnAp) | 3:36 |
 | 186 | [Binaural Theta Sinus 150 Hz \- 156 Hz](https://open.spotify.com/track/3c5u6dSAbnqfYK12vtTpFI) | [Sort of Speak](https://open.spotify.com/artist/5l9xTwNi7RjxvJnDRdid38) | [Binaural Theta Sinus 150 Hz \- 156 Hz](https://open.spotify.com/album/76HG7VMcJbs8PP3gugRSNv) | 2:33 |
 
-Snapshot ID: `ZmiBOwAAAADPeqBuLfsLoKwECP//KYM0`
+Snapshot ID: `ZnsOhgAAAAA/XY9SkSTqWw1zegBHYMhZ`

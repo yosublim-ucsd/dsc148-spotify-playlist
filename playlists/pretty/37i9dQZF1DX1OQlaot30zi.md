@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Rosa Chemical, Villabanks, Capo Plaza, Salmo e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,111 likes - 99 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,112 likes - 99 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 17 | [CAPITAN PRESENTE](https://open.spotify.com/track/1HUfGuLTRF56qn8EZHQ6j0) | [Mezzosangue](https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB) | [CAPITAN PRESENTE](https://open.spotify.com/album/0c8OB9DN5l6b7uw6eNMtMd) | 2:00 |
 | 18 | [Nati per questo](https://open.spotify.com/track/71Um2ad6jBsi1V9Sff5dVi) | [Drimer](https://open.spotify.com/artist/3Qz694qtRw2d9yKFr8zK8u), [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS) | [Scrivo Ancora 3](https://open.spotify.com/album/167xJZRSEzQp9MLsWDDrU2) | 3:59 |
 | 19 | [INVINCIBILI](https://open.spotify.com/track/4P1tZlBWJO7rtbNR3BKv2a) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [INVINCIBILI](https://open.spotify.com/album/2elPiPC9cUiyAIaCKHYFil) | 2:37 |
-| 20 | [Hai mai](https://open.spotify.com/track/2gzUFGfRPJsWfgwe43AJYg) | [Brown](https://open.spotify.com/artist/0Q4V6DfjCMP0AYZvErnC2V), [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN), [Thelonious B.](https://open.spotify.com/artist/7rccKwEbDm4PjYBEZFEm3A) | [Hai mai](https://open.spotify.com/album/1IA9i3CYiaDOJ7bIM7kIgX) | 2:52 |
+| 20 | [Hai mai](https://open.spotify.com/track/2gzUFGfRPJsWfgwe43AJYg) | [Brown](https://open.spotify.com/artist/0Q4V6DfjCMP0AYZvErnC2V), [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN), [Kermit](https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK) | [Hai mai](https://open.spotify.com/album/1IA9i3CYiaDOJ7bIM7kIgX) | 2:52 |
 | 21 | [Odiami](https://open.spotify.com/track/59hMuCMWPM194Wtcz3UPmu) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [G\-Lex](https://open.spotify.com/artist/34aOrKPSv2YwgiR6pLVK2Y) | [Odiami](https://open.spotify.com/album/69L2YZ4iMGZX8Y7xppJ0JC) | 3:20 |
 | 22 | [Giri](https://open.spotify.com/track/7yshi7G9LwbvIVSJmzphZO) | [500 Tony](https://open.spotify.com/artist/63d4RGe7dFRblTjwL7b1Ae), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp) | [Giri](https://open.spotify.com/album/00zb5egJb34VDaQuQ97pGF) | 2:19 |
 | 23 | [Giro Del Mondo](https://open.spotify.com/track/6fsZWoB75nZY2chCMO0FNF) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [Ago](https://open.spotify.com/artist/6glXq3t35awYBHo1b96imY) | [Giro Del Mondo](https://open.spotify.com/album/0FtsMlL5mfn9MyjY1fUP2w) | 2:36 |

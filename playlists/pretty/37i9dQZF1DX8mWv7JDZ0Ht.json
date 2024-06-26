@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: GUPE",
-  "num_followers": 433921,
+  "num_followers": 433929,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -203,26 +203,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Vento",
-        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 172329,
-      "name": "Vento",
-      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Vento",
+        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 172329,
+      "name": "Vento",
+      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
+        "name": "Guaec\u00e1",
+        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
+      },
+      "artists": [
+        {
+          "name": "LUAU",
+          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Guaec\u00e1",
+      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
         "name": "Diante dos Olhos",
         "url": "https://open.spotify.com/album/4xQUvpsZBA4bAtyHRbYcUc"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Guaec\u00e1",
-        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
-      },
-      "artists": [
-        {
-          "name": "LUAU",
-          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Guaec\u00e1",
-      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "V\u00e1rios Tipos de Amor",
         "url": "https://open.spotify.com/album/5HoZBDPdcsGtBFjjIvCy3J"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 164594,
       "name": "Tento Decifrar",
       "url": "https://open.spotify.com/track/4IBvBQeK7s304u8nvlLOmV"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
-        "name": "Me Deixa Ser S\u00f3 Teu",
-        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Me Deixa Ser S\u00f3 Teu",
-      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
+        "name": "Cad\u00ea Voc\u00ea",
+        "url": "https://open.spotify.com/album/5ftuOK9rWkiFsNaILVtMzj"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Napoli",
+          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+        }
+      ],
+      "duration_ms": 160008,
+      "name": "Cad\u00ea Voc\u00ea",
+      "url": "https://open.spotify.com/track/5gJ2NB8gUcdCcTgJELxGL0"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
         "name": "Duas da Manh\u00e3",
         "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
       },
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Cad\u00ea Voc\u00ea",
-        "url": "https://open.spotify.com/album/5ftuOK9rWkiFsNaILVtMzj"
+        "name": "Me Deixa Ser S\u00f3 Teu",
+        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Napoli",
-          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 160008,
-      "name": "Cad\u00ea Voc\u00ea",
-      "url": "https://open.spotify.com/track/5gJ2NB8gUcdCcTgJELxGL0"
+      "duration_ms": 160000,
+      "name": "Me Deixa Ser S\u00f3 Teu",
+      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+        "name": "Sem Saber Seu Nome",
+        "url": "https://open.spotify.com/album/3a63XpQ1GsZ55I6KRNY0vh"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
         }
       ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+      "duration_ms": 228631,
+      "name": "Sem Saber Seu Nome",
+      "url": "https://open.spotify.com/track/7DmmaG43Jq3rZUDR3bITqD"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Sem Saber Seu Nome",
-        "url": "https://open.spotify.com/album/3a63XpQ1GsZ55I6KRNY0vh"
-      },
-      "artists": [
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "Sem Saber Seu Nome",
-      "url": "https://open.spotify.com/track/7DmmaG43Jq3rZUDR3bITqD"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "nada do que voc\u00ea falou",
         "url": "https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 153875,
       "name": "nada do que voc\u00ea falou",
       "url": "https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
     },
     {
       "added_at": "2024-06-21 12:17:45",

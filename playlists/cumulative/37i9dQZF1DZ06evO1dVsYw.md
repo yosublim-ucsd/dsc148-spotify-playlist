@@ -2,7 +2,7 @@
 
 ### [This Is Racionais MC's](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dVsYw)
 
-> This is Racionais MC's\. Todos os maiores hits em uma só playlist.
+> This is Racionais MC's。アーティストの代表曲をひとつのプレイリストに。
 
 41 songs - 3 hr 50 min
 

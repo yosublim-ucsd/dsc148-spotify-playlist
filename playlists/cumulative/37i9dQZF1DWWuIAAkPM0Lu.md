@@ -4,7 +4,7 @@
 
 > <a href="spotify:album:0vYywoBHcZgwW08A2rA9fU">KENNY</a> dør aldrig❤️‍🔥 <a href="spotify:artist:2KbikmQKGiUPR2ARs1h0sq">@gilliangilo</a>🪡 <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">@bennyjamzlive</a>
 
-942 songs - 2 day 0 hr 12 min
+944 songs - 2 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Boys Boys Boys](https://open.spotify.com/track/7AilUnKnuWF7UUU9yBC9E7) | [Iris Gold](https://open.spotify.com/artist/6DyxyAiluuZ008t0ITLwOI) | [Boys Boys Boys](https://open.spotify.com/album/4kL9H4BV7SFstvk3VczFFz) | 2:41 | 2024-05-09 | 2024-05-17 |
 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 | 2024-05-09 | 2024-05-17 |
 | [Branded Dinosaur](https://open.spotify.com/track/7iILPvb4orsRyjeLAQzmAQ) | [The Tremolo Beer Gut](https://open.spotify.com/artist/1eQXpCboliMWa6VxBtCx1W) | [Branded Dinosaur](https://open.spotify.com/album/56AuX3ac83u64K0JRZ8VlY) | 2:05 | 2024-05-09 | 2024-05-17 |
-| [breakdown.](https://open.spotify.com/track/7m6BobzAU4vfjdkwblbiri) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown.](https://open.spotify.com/album/2GTzgQwH8mcjeQxVX58N7i) | 2:44 | 2024-06-20 |  |
+| [breakdown.](https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown.](https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd) | 2:43 | 2024-06-25 |  |
+| [breakdown.](https://open.spotify.com/track/7m6BobzAU4vfjdkwblbiri) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown.](https://open.spotify.com/album/2GTzgQwH8mcjeQxVX58N7i) | 2:44 | 2024-06-20 | 2024-06-26 |
 | [Breakfast Club](https://open.spotify.com/track/7xuNajhwayadNJw83UxO9x) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Breakfast Club](https://open.spotify.com/album/34kfloNyFjcUZiD9Z6EXfu) | 3:09 | 2024-05-30 | 2024-06-07 |
 | [Bring Back The Summer](https://open.spotify.com/track/65onuJpCDWFkvSGljQ3LWw) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [JIM](https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr) | [Bring Back The Summer](https://open.spotify.com/album/12XqSpOFoZ0xHr97I7zaCH) | 2:54 | 2024-06-20 |  |
 | [Broke Someone](https://open.spotify.com/track/5NNlroTj7IqcPjTAArldwi) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Broke Someone](https://open.spotify.com/album/3vaBxsZ0n0BsaioBee4Sr5) | 1:59 | 2024-06-13 | 2024-06-21 |
@@ -659,6 +660,7 @@
 | [On Top](https://open.spotify.com/track/3NNcodKRMIgyzKusdni4bS) | [Viktor Borges](https://open.spotify.com/artist/1PXoIxJE1PjbTkiCctfaWW) | [On Top](https://open.spotify.com/album/5WGGnSgyAJPDeEj6SzVAnV) | 2:35 | 2024-06-13 | 2024-06-21 |
 | [ONE](https://open.spotify.com/track/7Dsa5qbNja1h8VOW7DzpYm) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [ONE](https://open.spotify.com/album/64HOiqlY0CKTZpEGL0YXL1) | 2:59 | 2024-04-26 | 2024-05-03 |
 | [One Cry \(feat\. Rosa Linn\)](https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 3:06 | 2024-05-16 | 2024-05-24 |
+| [One Day \(feat\. Leon Bridges\)](https://open.spotify.com/track/2FIMN2jnLS7OBZRpPQN89L) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Freak Show](https://open.spotify.com/album/3MZrZaiEhwp96tdh4QCfIm) | 3:31 | 2024-06-25 |  |
 | [One More Try](https://open.spotify.com/track/5vNS2QBOliRmAkRFpINdok) | [Lei Lowe](https://open.spotify.com/artist/7lBjnV5k0Bm7B3NnUBci1q) | [Break Me Down](https://open.spotify.com/album/4XiYbmvzMqZipOjMnrTfcN) | 3:12 | 2024-05-23 | 2024-06-01 |
 | [Only Love](https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Only Love](https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud) | 3:35 | 2024-06-13 | 2024-06-21 |
 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 | 2024-06-06 | 2024-06-14 |

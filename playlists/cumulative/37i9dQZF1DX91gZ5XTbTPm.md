@@ -2,7 +2,7 @@
 
 ### [CST](https://open.spotify.com/playlist/37i9dQZF1DX91gZ5XTbTPm)
 
-> The Midwest is always on time\. Cover: Sexyy Red
+> The Midwest is always on time\. Cover: Chief Keef
 
 793 songs - 1 day 12 hr 51 min
 

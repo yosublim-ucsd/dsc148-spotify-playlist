@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Silver Rose en portada.",
-  "num_followers": 31179,
+  "num_followers": 31195,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-06-07 18:56:52",
       "album": {
-        "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
-        "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
-      },
-      "artists": [
-        {
-          "name": "Coma Pony",
-          "url": "https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9"
-        }
-      ],
-      "duration_ms": 188728,
-      "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
-      "url": "https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8"
-    },
-    {
-      "added_at": "2024-06-07 18:56:52",
-      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
+    },
+    {
+      "added_at": "2024-06-07 18:56:52",
+      "album": {
+        "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
+        "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
+      },
+      "artists": [
+        {
+          "name": "Coma Pony",
+          "url": "https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9"
+        }
+      ],
+      "duration_ms": 188728,
+      "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
+      "url": "https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8"
     },
     {
       "added_at": "2024-06-07 18:56:52",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-06-07 18:56:52",
       "album": {
-        "name": "Como Rei Ayanami",
-        "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
-      },
-      "artists": [
-        {
-          "name": "Dan Dan Dero",
-          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
-        }
-      ],
-      "duration_ms": 177354,
-      "name": "Como Rei Ayanami",
-      "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
-    },
-    {
-      "added_at": "2024-06-07 18:56:52",
-      "album": {
         "name": "Ausencia",
         "url": "https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 100036,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
+    },
+    {
+      "added_at": "2024-06-07 18:56:52",
+      "album": {
+        "name": "Como Rei Ayanami",
+        "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
+      },
+      "artists": [
+        {
+          "name": "Dan Dan Dero",
+          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
+        }
+      ],
+      "duration_ms": 177354,
+      "name": "Como Rei Ayanami",
+      "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
     },
     {
       "added_at": "2024-06-07 18:56:52",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-06-07 18:56:52",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 310093,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
-    },
-    {
-      "added_at": "2024-06-07 18:56:52",
-      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 267019,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
+    },
+    {
+      "added_at": "2024-06-07 18:56:52",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 310093,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

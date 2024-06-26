@@ -1901,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Perfume Of The Timeless",
+        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492106,
+      "name": "Perfume Of The Timeless",
+      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
+    },
+    {
+      "album": {
         "name": "Pipe Dreams",
         "url": "https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl"
       },
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 363013,
       "name": "The Alchemist - 2001 Remaster",
       "url": "https://open.spotify.com/track/4wtVgSUYJQCbcEMw2j5mSW"

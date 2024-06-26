@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(Your Love Keeps Lifting Me) Higher & Higher [Acoustic]",
+        "url": "https://open.spotify.com/album/5xxYqq9qp6qmTbusizp692"
+      },
+      "artists": [
+        {
+          "name": "Franklyn Jay",
+          "url": "https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168361,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher - Acoustic",
+      "url": "https://open.spotify.com/track/4oa1DiVw9hVhXeoD0c9pKK"
+    },
+    {
+      "album": {
         "name": "All the Lost Souls",
         "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
       },

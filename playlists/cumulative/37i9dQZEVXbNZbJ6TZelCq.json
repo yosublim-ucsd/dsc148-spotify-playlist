@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 158095,
       "name": "Amore",
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
@@ -6422,7 +6422,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 201230,
       "name": "Combin Rom",
       "url": "https://open.spotify.com/track/2w1L0bFNsy6fDEX7KiQ62S"
@@ -11256,7 +11256,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 168219,
       "name": "F\u0103r\u0103 ru\u0219ine",
       "url": "https://open.spotify.com/track/6IkuWdoDQtSpMYG8GOuu2m"
@@ -14882,7 +14882,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 149647,
       "name": "Iubire in Rate",
       "url": "https://open.spotify.com/track/2C2G5bh0reFJh7FgBz9dIP"
@@ -21972,6 +21972,28 @@
       "duration_ms": 157714,
       "name": "PACHETE",
       "url": "https://open.spotify.com/track/2GH3qovtX07peehotrxoxA"
+    },
+    {
+      "album": {
+        "name": "Paharul sus",
+        "url": "https://open.spotify.com/album/7bzdS7NDvKKveYuARtUx2Z"
+      },
+      "artists": [
+        {
+          "name": "Nicole Cherry",
+          "url": "https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7"
+        },
+        {
+          "name": "Puya",
+          "url": "https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169361,
+      "name": "Paharul sus",
+      "url": "https://open.spotify.com/track/5QWOtb0L5IYT8w4rMtmVZh"
     },
     {
       "album": {
@@ -29274,7 +29296,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 128181,
       "name": "Tati, vreau",
       "url": "https://open.spotify.com/track/7hoILhEoePHXh6qTw5H0Fe"

@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Don Toliver
 
-1,345 songs - 2 day 15 hr 49 min
+1,346 songs - 2 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Black](https://open.spotify.com/track/6lyhMxltOaZrzRxRmmc3lU) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Black](https://open.spotify.com/album/3Qtj7PJlxPZsdWLqIW1I8d) | 2:08 | 2023-01-06 | 2023-02-04 |
 | [Black Truck](https://open.spotify.com/track/3aOubX8YTVByNPQrqw6ZzK) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Black Truck](https://open.spotify.com/album/4ZawUvODH9E2hA6UOLlUQy) | 2:35 | 2023-09-01 | 2023-10-07 |
 | [Black Visa](https://open.spotify.com/track/3UKJ6X8H1hQDWr22HuKdj4) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Black Visa](https://open.spotify.com/album/558YuTRXhHZk8RAq8wMm1i) | 3:06 | 2022-09-16 | 2022-11-12 |
-| [Bless \(feat\. Young Thug\)](https://open.spotify.com/track/2FI2cZGlZ1nmRt2IkjnoMi) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Wheezy](https://open.spotify.com/artist/4Ufo9whpMn1BwjnB3MJSYL), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bless](https://open.spotify.com/album/5J380O739v6VvloJG1Vg5n) | 2:42 | 2024-04-05 |  |
+| [Bless \(feat\. Young Thug\)](https://open.spotify.com/track/2FI2cZGlZ1nmRt2IkjnoMi) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Wheezy](https://open.spotify.com/artist/4Ufo9whpMn1BwjnB3MJSYL), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bless](https://open.spotify.com/album/5J380O739v6VvloJG1Vg5n) | 2:42 | 2024-04-05 | 2024-06-26 |
 | [Blessed](https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Blessed](https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v) | 3:36 | 2022-09-09 | 2022-10-01 |
 | [Blind \(feat\. Lil Yachty\)](https://open.spotify.com/track/3V5sdHDIMBRjhRq6MyIua6) | [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Blind \(feat\. Lil Yachty\)](https://open.spotify.com/album/4ld5J2ldDN0e7klEtmsXuR) | 2:18 | 2022-02-25 | 2022-03-12 |
 | [Bling \(Never Broke Again feat\. YoungBoy Never Broke Again & Lil Dump\)](https://open.spotify.com/track/3yziqj3fYjXWwzXxGNoa6F) | [Never Broke Again](https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Lil Dump](https://open.spotify.com/artist/5OirL1WOvVjqHL87U4rCgT) | [Compliments of Grave Digger Mountain](https://open.spotify.com/album/3qwTr7e8qui32fbVgtWpMA) | 3:04 | 2024-03-08 | 2024-03-16 |
@@ -441,6 +441,7 @@
 | [Gang Nem \(feat\. EST Gee\)](https://open.spotify.com/track/6t4OP550372zgiAof928AR) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Survivor Of The Trenches](https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13) | 2:23 | 2022-12-02 | 2023-03-04 |
 | [Gangsta Bitch](https://open.spotify.com/track/5k0YsgaGNPzGcFqKwl13mS) | [Foolio](https://open.spotify.com/artist/79mgHJytm385Muv7GfaneD) | [Resurrection](https://open.spotify.com/album/2d0Xr48jlUFn19m68gb4Er) | 2:46 | 2024-04-05 | 2024-04-13 |
 | [Gangsta Lean](https://open.spotify.com/track/0EFY0o5DqcD8n7JKDtfgf9) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Gangsta Lean](https://open.spotify.com/album/0dy9A6nscVVldqXuWDgREB) | 2:09 | 2023-09-01 | 2023-11-04 |
+| [GEEKED UP \(FEAT\. YEAT\)](https://open.spotify.com/track/16vvJmnrondzmZjEBThA0T) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 2:37 | 2024-06-26 |  |
 | [Get Away](https://open.spotify.com/track/65nmqAEqW7CJIkXOIkxyg8) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Get Away](https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY) | 3:00 | 2022-11-18 | 2023-01-28 |
 | [Get Back](https://open.spotify.com/track/7hN02og1TARl5EER4wURPb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Get Back](https://open.spotify.com/album/3gNuY9GJCmvKpTx6v3ZPaa) | 1:49 | 2021-12-03 | 2022-01-15 |
 | [Get Back](https://open.spotify.com/track/7jwRq3gjpzHFuPNwSPLhBi) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Get Back](https://open.spotify.com/album/2QFWsFsh9RMFDyaGY5qQN5) | 2:35 | 2023-08-07 | 2023-10-21 |

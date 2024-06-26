@@ -4,7 +4,7 @@
 
 > Más música, menos etiquetas\.  <br/>📷 Gauchito Club
 
-259 songs - 13 hr 46 min
+260 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [LA COCHERÍA](https://open.spotify.com/track/6BqAyOg9mraM91wByUaWp9) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:13 | 2024-03-22 |  |
 | [LA FORMA DE TUS HUESOS](https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [LA FORMA DE TUS HUESOS](https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3) | 3:32 | 2024-03-29 |  |
 | [La Herencia](https://open.spotify.com/track/6mS0cjqTQwo6Uc4SysXY7E) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [La Herencia](https://open.spotify.com/album/59G7P0Q82nplbSoazFBZG8) | 3:04 | 2024-05-03 | 2024-05-25 |
-| [LA MIRADA](https://open.spotify.com/track/1EqOhjjpK191x3QOaynUKK) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [CINEMA](https://open.spotify.com/album/0Hwtk1l10n5fHJZZNwoRtL) | 3:36 | 2024-03-29 |  |
+| [LA MIRADA](https://open.spotify.com/track/1EqOhjjpK191x3QOaynUKK) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [CINEMA](https://open.spotify.com/album/0Hwtk1l10n5fHJZZNwoRtL) | 3:36 | 2024-03-29 | 2024-06-26 |
 | [LA QUE PUEDE, PUEDE](https://open.spotify.com/track/3vqd0xW1QefjkRPuKSPtib) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [LA QUE PUEDE, PUEDE](https://open.spotify.com/album/4DAzoHpj0GPwj05SWNGWgY) | 2:34 | 2024-03-27 | 2024-05-07 |
 | [LA WEÁ](https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [LA WEÁ](https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv) | 2:50 | 2023-11-10 | 2023-12-09 |
 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 | 2024-01-19 | 2024-03-09 |
@@ -127,6 +127,7 @@
 | [Lento Remix \(feat\. Shoda Monkas\)](https://open.spotify.com/track/5N003YTjBFjf6hOmObVIMZ) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe) | [Lento Remix \(feat\. Shoda Monkas\)](https://open.spotify.com/album/4pwegNA3NTZZnTAl043d28) | 3:50 | 2024-03-22 |  |
 | [Llamame](https://open.spotify.com/track/3oqI8s2Aj0MUOop1j2vqoN) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:28 | 2024-03-01 |  |
 | [Lo Azul de Mi](https://open.spotify.com/track/6Ojtbe9JYEmQB8e0bnnbFZ) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Azul de Mi](https://open.spotify.com/album/6MR5564jgXNBKIHjpS8odI) | 2:34 | 2023-10-13 | 2023-12-09 |
+| [Lo Mismo](https://open.spotify.com/track/4RUOJOtd2X7R8X8UA10Uzf) | [Luna Suarez](https://open.spotify.com/artist/6cP3LTMb8GOiIRREzXLXjH) | [Lo Mismo](https://open.spotify.com/album/2aSSP9qWS9iSb20w96Lb0c) | 2:25 | 2024-06-25 |  |
 | [LO TENGO](https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Lo Tengo](https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU) | 2:47 | 2023-10-13 | 2024-03-09 |
 | [Los Tontos](https://open.spotify.com/track/4DoEHKWh8k6vYDleECQkJx) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:12 | 2024-01-26 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-17 |  |

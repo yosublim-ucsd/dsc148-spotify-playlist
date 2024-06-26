@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Melle Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,445 likes - 192 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,439 likes - 192 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

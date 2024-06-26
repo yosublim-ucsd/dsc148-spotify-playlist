@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Melly",
-  "num_followers": 168832,
+  "num_followers": 168886,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
+        "name": "DE REPENTE",
+        "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
+      },
+      "artists": [
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "DE REPENTE",
+      "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
+    },
+    {
+      "added_at": "2024-06-21 16:58:46",
+      "album": {
         "name": "SEM BARULHO",
         "url": "https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 180705,
       "name": "Tira minha paz",
       "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
-    },
-    {
-      "added_at": "2024-06-21 16:58:46",
-      "album": {
-        "name": "DE REPENTE",
-        "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
-      },
-      "artists": [
-        {
-          "name": "Tupi",
-          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "DE REPENTE",
-      "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
     },
     {
       "added_at": "2024-06-21 16:58:46",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
-        "name": "SALVE-SE!",
-        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        },
-        {
-          "name": "Dinho Almeida",
-          "url": "https://open.spotify.com/artist/0dxVV6z6fbd8ZQ7PEhasKc"
-        }
-      ],
-      "duration_ms": 193457,
-      "name": "Recado dado",
-      "url": "https://open.spotify.com/track/3SwlhDteZ3q2VhNBmgoqtl"
-    },
-    {
-      "added_at": "2024-06-21 16:58:46",
-      "album": {
         "name": "Sozinho",
         "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 151475,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
+    },
+    {
+      "added_at": "2024-06-21 16:58:46",
+      "album": {
+        "name": "SALVE-SE!",
+        "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        },
+        {
+          "name": "Dinho Almeida",
+          "url": "https://open.spotify.com/artist/0dxVV6z6fbd8ZQ7PEhasKc"
+        }
+      ],
+      "duration_ms": 193457,
+      "name": "Recado dado",
+      "url": "https://open.spotify.com/track/3SwlhDteZ3q2VhNBmgoqtl"
     },
     {
       "added_at": "2024-06-21 16:58:46",
@@ -1095,21 +1095,13 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
-        "name": "Tudo Que Restou",
-        "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
+        "name": "O Que Eu Soul (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
       },
       "artists": [
         {
           "name": "Camila Zasoul",
           "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Natalh\u00e3o",
-          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
         },
         {
           "name": "YOYOTRACKS",
@@ -1120,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
         }
       ],
-      "duration_ms": 198712,
-      "name": "Tudo Que Restou",
-      "url": "https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd"
+      "duration_ms": 199625,
+      "name": "O Que Eu Soul - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
     },
     {
       "added_at": "2024-06-21 16:58:46",
@@ -1183,26 +1175,30 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
-        "name": "Seu Bem",
-        "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
+        "name": "Proposta",
+        "url": "https://open.spotify.com/album/1J4ITzL4iz9SLRwKGlEpaJ"
       },
       "artists": [
         {
-          "name": "LEXY",
-          "url": "https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd"
+          "name": "Matheus Caettano",
+          "url": "https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1"
         },
         {
-          "name": "Batista",
-          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
         },
         {
-          "name": "RZ",
-          "url": "https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf"
+          "name": "DJ Cash",
+          "url": "https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Seu Bem",
-      "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
+      "duration_ms": 171792,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/6GDEzb8YsJRBFGRt8Uu1ua"
     },
     {
       "added_at": "2024-06-21 16:58:46",
@@ -1231,13 +1227,21 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
-        "name": "O Que Eu Soul (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
+        "name": "Tudo Que Restou",
+        "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
       },
       "artists": [
         {
           "name": "Camila Zasoul",
           "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Natalh\u00e3o",
+          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
         },
         {
           "name": "YOYOTRACKS",
@@ -1248,37 +1252,33 @@
           "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
         }
       ],
-      "duration_ms": 199625,
-      "name": "O Que Eu Soul - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
+      "duration_ms": 198712,
+      "name": "Tudo Que Restou",
+      "url": "https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd"
     },
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
-        "name": "Proposta",
-        "url": "https://open.spotify.com/album/1J4ITzL4iz9SLRwKGlEpaJ"
+        "name": "Seu Bem",
+        "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
       },
       "artists": [
         {
-          "name": "Matheus Caettano",
-          "url": "https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1"
+          "name": "LEXY",
+          "url": "https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd"
         },
         {
-          "name": "Pedro Stone",
-          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
         },
         {
-          "name": "DJ Cash",
-          "url": "https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+          "name": "RZ",
+          "url": "https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf"
         }
       ],
-      "duration_ms": 171792,
-      "name": "Proposta",
-      "url": "https://open.spotify.com/track/6GDEzb8YsJRBFGRt8Uu1ua"
+      "duration_ms": 207000,
+      "name": "Seu Bem",
+      "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
     },
     {
       "added_at": "2024-06-21 16:58:46",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
-        "name": "A\u00e7a\u00ed e Amendo\u00edm",
-        "url": "https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ"
-      },
-      "artists": [
-        {
-          "name": "Nevess",
-          "url": "https://open.spotify.com/artist/3Cmd7iDVwnt0rgVdveqNVy"
-        },
-        {
-          "name": "Caslu",
-          "url": "https://open.spotify.com/artist/0j5Ei0F504PNqn0DSzIodP"
-        }
-      ],
-      "duration_ms": 193414,
-      "name": "A\u00e7a\u00ed e Amendo\u00edm",
-      "url": "https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw"
-    },
-    {
-      "added_at": "2024-06-21 16:58:46",
-      "album": {
         "name": "O BGLH \u00c9 BLACK",
         "url": "https://open.spotify.com/album/0eqg2BczmxS6TivLVbCeXt"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 177533,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/5qAfTkA6FxXxi6FnTcqYRH"
+    },
+    {
+      "added_at": "2024-06-21 16:58:46",
+      "album": {
+        "name": "A\u00e7a\u00ed e Amendo\u00edm",
+        "url": "https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ"
+      },
+      "artists": [
+        {
+          "name": "Nevess",
+          "url": "https://open.spotify.com/artist/3Cmd7iDVwnt0rgVdveqNVy"
+        },
+        {
+          "name": "Caslu",
+          "url": "https://open.spotify.com/artist/0j5Ei0F504PNqn0DSzIodP"
+        }
+      ],
+      "duration_ms": 193414,
+      "name": "A\u00e7a\u00ed e Amendo\u00edm",
+      "url": "https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw"
     },
     {
       "added_at": "2024-06-21 16:58:46",

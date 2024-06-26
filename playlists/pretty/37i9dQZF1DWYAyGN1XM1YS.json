@@ -1,6 +1,6 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Refused",
-  "num_followers": 126858,
+  "num_followers": 126864,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-28 15:58:25",
       "album": {
-        "name": "Crimes (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5wTuKjG1mxNJORaGY4Qw5F"
-      },
-      "artists": [
-        {
-          "name": "The Blood Brothers",
-          "url": "https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "Love Rhymes With Hideous Car Wreck",
-      "url": "https://open.spotify.com/track/4ZDgRXaafbD7MTx1iep94S"
-    },
-    {
-      "added_at": "2023-03-28 15:58:25",
-      "album": {
         "name": "The Shape Of Punk To Come (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 250520,
       "name": "Liberation Frequency",
       "url": "https://open.spotify.com/track/6aM4iOuWyRQShk8uRaLNqN"
+    },
+    {
+      "added_at": "2023-03-28 15:58:25",
+      "album": {
+        "name": "Crimes (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5wTuKjG1mxNJORaGY4Qw5F"
+      },
+      "artists": [
+        {
+          "name": "The Blood Brothers",
+          "url": "https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "Love Rhymes With Hideous Car Wreck",
+      "url": "https://open.spotify.com/track/4ZDgRXaafbD7MTx1iep94S"
     },
     {
       "added_at": "2023-03-28 15:58:25",

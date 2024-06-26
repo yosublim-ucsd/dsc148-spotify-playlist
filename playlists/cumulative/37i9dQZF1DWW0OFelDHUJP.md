@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-90 songs - 5 hr 57 min
+91 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Barkha Bahaar](https://open.spotify.com/track/3RasEms9BsZBgdY25u5MVo) | [Krishnakali Saha](https://open.spotify.com/artist/2L4PimBfxoTMZRp2SfVP5g) | [Barkha Bahaar](https://open.spotify.com/album/3LA406x4e2QmWlasFedCAp) | 4:04 | 2023-08-22 |  |
 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 | 2023-05-09 |  |
 | [Beh Bhi Le](https://open.spotify.com/track/4WBbMC0lSXQ8uu1I3iG8NP) | [Priyansh Paliwal](https://open.spotify.com/artist/3wzlbHYttOCz2NLyovlfXX) | [Sunday](https://open.spotify.com/album/1FUMdT2QZWjOuM4r1Gp5FN) | 4:14 | 2023-05-09 |  |
+| [Bemausam Baarish](https://open.spotify.com/track/28m7rFpkY7bLmDjVWYRzh1) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Bemausam Baarish](https://open.spotify.com/album/0xBbItufW99JKgkNiFG937) | 3:34 | 2024-06-25 |  |
 | [Boonda Baandi](https://open.spotify.com/track/1CwU0cJqshRIJ14YFAFytm) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Boonda Baandi](https://open.spotify.com/album/7Kxpe3psy5jJQZwBL0JA3S) | 4:22 | 2023-05-09 |  |
 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 | 2023-05-09 |  |
 | [Boondein](https://open.spotify.com/track/2l4w5ctthghnZXpekYyBn4) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 4:50 | 2023-05-09 |  |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "name": "This Is Dropkick Murphys",
+  "description": "This is \u30c9\u30ed\u30c3\u30d7\u30ad\u30c3\u30af\u30fb\u30de\u30fc\u30d5\u30a3\u30fc\u30ba\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "name": "This Is \u30c9\u30ed\u30c3\u30d7\u30ad\u30c3\u30af\u30fb\u30de\u30fc\u30d5\u30a3\u30fc\u30ba",
   "tracks": [
     {
       "album": {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 264473,
       "name": "Fields of Athenry",
       "url": "https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 217866,
       "name": "The Dirty Glass",
       "url": "https://open.spotify.com/track/2jggiA0przPmYj0Z96W7Q0"

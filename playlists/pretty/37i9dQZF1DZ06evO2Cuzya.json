@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 79707,
+  "num_followers": 79964,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZndlgAAAAADPdyjvqh2zSOfIXmo/UueG",
+  "snapshot_id": "Zni3AAAAAAB6wbAnhaRssYFs9WpuYG/F",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 243599,
-      "name": "Where do we go now?",
-      "url": "https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa"
+      "duration_ms": 233499,
+      "name": "Best",
+      "url": "https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 233499,
-      "name": "Best",
-      "url": "https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M"
+      "duration_ms": 258948,
+      "name": "I should hate you",
+      "url": "https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 258948,
-      "name": "I should hate you",
-      "url": "https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7"
+      "duration_ms": 245610,
+      "name": "This is what the drugs are for",
+      "url": "https://open.spotify.com/track/6oPDWUwxTIsGejcHd9tLdc"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 245610,
-      "name": "This is what the drugs are for",
-      "url": "https://open.spotify.com/track/6oPDWUwxTIsGejcHd9tLdc"
+      "duration_ms": 230131,
+      "name": "Will you cry?",
+      "url": "https://open.spotify.com/track/3UaaBFWIxrwDRc6pSisyuH"
     },
     {
       "added_at": null,
@@ -483,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brush Fire",
-        "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
+        "name": "Unlearn (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy"
       },
       "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
         {
           "name": "Gracie Abrams",
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 190426,
-      "name": "Brush Fire",
-      "url": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
+      "duration_ms": 155361,
+      "name": "Unlearn (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD"
     },
     {
       "added_at": null,
@@ -508,9 +512,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 230131,
-      "name": "Will you cry?",
-      "url": "https://open.spotify.com/track/3UaaBFWIxrwDRc6pSisyuH"
+      "duration_ms": 255697,
+      "name": "Full machine",
+      "url": "https://open.spotify.com/track/6aLjt7QpLlVhqiMQulZcd1"
     },
     {
       "added_at": null,
@@ -547,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brush Fire",
+        "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Brush Fire",
+      "url": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -556,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 144485,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1wXqbn4OVaYBOhgj7Z4did"
+      "duration_ms": 255007,
+      "name": "Hard to Sleep",
+      "url": "https://open.spotify.com/track/3ofi5ZcJjLuRgS3FX4U6yG"
     }
   ],
   "unique_name": "This Is Gracie Abrams",

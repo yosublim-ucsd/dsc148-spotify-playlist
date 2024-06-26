@@ -1997,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/0Wa49PwMchDyJEvgZPr717"
+      },
+      "artists": [
+        {
+          "name": "Sack Baby",
+          "url": "https://open.spotify.com/artist/0hXIvlbouda8hdgcczoB3s"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225231,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/2IdUAUcoL8cFx1NQ2HjOzx"
+    },
+    {
+      "album": {
         "name": "RELATOSS DEE AAYER YY HOYY DDE: UNN JJOVEN MMORENOO",
         "url": "https://open.spotify.com/album/6jsVqd1uJebc2dgB7oGvD0"
       },
@@ -2656,7 +2674,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 208714,
       "name": "Honda Civik",
       "url": "https://open.spotify.com/track/44Q3DZanQtcznTidObbxho"
@@ -3628,7 +3646,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 211500,
       "name": "Mi Don",
       "url": "https://open.spotify.com/track/38uh4OLnMhp99FluHPDPzs"
@@ -4036,7 +4054,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 221538,
       "name": "No Kiero Correr",
       "url": "https://open.spotify.com/track/3nUHS4e9azCRN7CKcrQjoM"

@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
@@ -5958,7 +5958,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 116692,
       "name": "Beat do Beto",
       "url": "https://open.spotify.com/track/1CcfQytaeb9XE4QalKHJG4"
@@ -6645,6 +6645,24 @@
     },
     {
       "album": {
+        "name": "Bloquinho da Putaria 1.0",
+        "url": "https://open.spotify.com/album/6sc5tfIJey5qTv3xOSt9w4"
+      },
+      "artists": [
+        {
+          "name": "Cirilo Teclas",
+          "url": "https://open.spotify.com/artist/4QmyJDYdGHqWkoqIjOufOy"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314515,
+      "name": "Bloquinho da Putaria 1.0",
+      "url": "https://open.spotify.com/track/67vSuD3K3Np2H5qKo4TkjJ"
+    },
+    {
+      "album": {
         "name": "Bloquinho P5",
         "url": "https://open.spotify.com/album/5qbDFvGiABxXGLBPcDU6sL"
       },
@@ -6656,7 +6674,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 290117,
       "name": "Bloquinho P5",
       "url": "https://open.spotify.com/track/4zJNs4JLa4UIhkmBUlkfgx"
@@ -6946,7 +6964,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 134769,
       "name": "Bonde das Oncinhas",
       "url": "https://open.spotify.com/track/3UceMFR2MPAC4sCGfmCspe"
@@ -7772,6 +7790,32 @@
       "duration_ms": 131210,
       "name": "Cabelin Te Phonka Hoje",
       "url": "https://open.spotify.com/track/0r7aIZaaC0xI3ALGTlLW3J"
+    },
+    {
+      "album": {
+        "name": "Cabel\u00e3o Dourado",
+        "url": "https://open.spotify.com/album/483hdPHrCdKZbxAgVuP2hT"
+      },
+      "artists": [
+        {
+          "name": "Duda Bertelli",
+          "url": "https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        },
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "Cabel\u00e3o Dourado",
+      "url": "https://open.spotify.com/track/6WRszI2G804ySY8Shzx9pS"
     },
     {
       "album": {
@@ -9690,6 +9734,24 @@
       "duration_ms": 232195,
       "name": "Close Friends",
       "url": "https://open.spotify.com/track/4v6TGGmgoJC3P2gqToqJLr"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
     },
     {
       "album": {
@@ -11758,6 +11820,32 @@
       "duration_ms": 130285,
       "name": "Deixa Eu Sarrar",
       "url": "https://open.spotify.com/track/05m1SD5y6Og9gnjIUU8Ho7"
+    },
+    {
+      "album": {
+        "name": "Deixa Eu Ser Seu Romeu",
+        "url": "https://open.spotify.com/album/3LuexrCV0bHQQMW56Ju6I8"
+      },
+      "artists": [
+        {
+          "name": "DJ CVB 011",
+          "url": "https://open.spotify.com/artist/0av3xCloXoeMDNlOghdF5g"
+        },
+        {
+          "name": "MC FURI SP",
+          "url": "https://open.spotify.com/artist/08zGM1dFzkWuPJ0rpz5Tq4"
+        },
+        {
+          "name": "G7 MUSIC BR",
+          "url": "https://open.spotify.com/artist/4fPR5Tro0vdgsaMZanGjZ4"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190224,
+      "name": "Deixa Eu Ser Seu Romeu",
+      "url": "https://open.spotify.com/track/08FbjJaapnrQ0zk36j1R9p"
     },
     {
       "album": {
@@ -14369,6 +14457,28 @@
     },
     {
       "album": {
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
+      },
+      "artists": [
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
+    },
+    {
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -15072,7 +15182,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 187826,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/1QD3t3zkwFUdEbMBTApeiZ"
@@ -16394,6 +16504,28 @@
       "duration_ms": 156969,
       "name": "Eu Sou Muito Humilde: Disputa Pra Bbotar Na Pipokinha",
       "url": "https://open.spotify.com/track/3NtNSNJNfoq6jzZjHN4CuO"
+    },
+    {
+      "album": {
+        "name": "EU SOU SENTIMENTO",
+        "url": "https://open.spotify.com/album/0ed41BFE41DcIFvnFkjK5V"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186107,
+      "name": "EU SOU SENTIMENTO",
+      "url": "https://open.spotify.com/track/0HDMisLsuGNml98Xq7atpm"
     },
     {
       "album": {
@@ -24679,6 +24811,24 @@
     },
     {
       "album": {
+        "name": "Lobster",
+        "url": "https://open.spotify.com/album/5OkXmwhtsqoqrWaFKGUSOV"
+      },
+      "artists": [
+        {
+          "name": "RJ Pasin",
+          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116869,
+      "name": "Lobster",
+      "url": "https://open.spotify.com/track/02RJmcMqkQqbU1WamaJNid"
+    },
+    {
+      "album": {
         "name": "Londres Freestyle",
         "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
       },
@@ -25654,7 +25804,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 187384,
       "name": "Machuquei",
       "url": "https://open.spotify.com/track/6GS4LfVknh458V4z6llLRa"
@@ -27006,6 +27156,28 @@
       "duration_ms": 197027,
       "name": "Me Bloqueia (Ao Vivo)",
       "url": "https://open.spotify.com/track/07BRm4ATW5VXnpUagfVJhs"
+    },
+    {
+      "album": {
+        "name": "Fortaleza, Vol.3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0gCOaKfrBuEMpjvKDZnfak"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156146,
+      "name": "Me Caiu T\u00e3o Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/6mTpK40yIRk1xGGNvRMHGg"
     },
     {
       "album": {
@@ -28663,6 +28835,28 @@
     },
     {
       "album": {
+        "name": "Meu Bigodin Tralha, Minha Roupa Nova",
+        "url": "https://open.spotify.com/album/7sGa4qIBhGMBkgEHh6hiXl"
+      },
+      "artists": [
+        {
+          "name": "PLAYBOY22",
+          "url": "https://open.spotify.com/artist/45AZO4CDkzmH2y2fc0enSQ"
+        },
+        {
+          "name": "RITMO CARIOCA",
+          "url": "https://open.spotify.com/artist/09ALVvXfw7m44JTMLx7SqR"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69428,
+      "name": "Meu Bigodin Tralha, Minha Roupa Nova",
+      "url": "https://open.spotify.com/track/7M9AFryrEBrYGJiMg5055A"
+    },
+    {
+      "album": {
         "name": "Meu Melhor Amigo (Live Session)",
         "url": "https://open.spotify.com/album/3Xb6CC7V3CzFSJb234cbgN"
       },
@@ -28762,7 +28956,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 157741,
       "name": "Meu Sonho",
       "url": "https://open.spotify.com/track/1dGxOpMQknNgkD5d9BCObF"
@@ -28932,7 +29126,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -30173,6 +30367,40 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Orso",
+          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
+        },
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "album": {
         "name": "Samba Pro Meu Povo: Bloco Rua Mariana (Ao Vivo)",
         "url": "https://open.spotify.com/album/0Jw7pcAoIG4Yy7RX1dGe0m"
       },
@@ -30224,7 +30452,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 135230,
       "name": "MTG (WHAT IS LOVE)",
       "url": "https://open.spotify.com/track/7bt3kG6ivWSt7CQEWE0bsf"
@@ -30487,6 +30715,42 @@
     },
     {
       "album": {
+        "name": "Mtg Chihiro",
+        "url": "https://open.spotify.com/album/3fs0TVchsL0M6HUnlGc2ut"
+      },
+      "artists": [
+        {
+          "name": "The Young Luiz",
+          "url": "https://open.spotify.com/artist/3b0OA7G4szSJDQBajnEaGy"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126200,
+      "name": "Mtg Chihiro",
+      "url": "https://open.spotify.com/track/3Ga5nIWdNjl11QGgXznveX"
+    },
+    {
+      "album": {
+        "name": "MTG Chihiro (Funk)",
+        "url": "https://open.spotify.com/album/55swBuajPfmq6xylar68PO"
+      },
+      "artists": [
+        {
+          "name": "Lewis Hanton",
+          "url": "https://open.spotify.com/artist/7C2uVXwFKLlwHteHGnMLhZ"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151431,
+      "name": "MTG Chihiro (Funk)",
+      "url": "https://open.spotify.com/track/1B11qpMBKc6AG1aJMwGpu3"
+    },
+    {
+      "album": {
         "name": "MTG COLO DE MENINA",
         "url": "https://open.spotify.com/album/3WsFvoTqAulSRYEWRvc4Kb"
       },
@@ -30498,7 +30762,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 118730,
       "name": "MTG COLO DE MENINA",
       "url": "https://open.spotify.com/track/54c72by24h4vakvgTrb3va"
@@ -30568,7 +30832,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 126461,
       "name": "MTG EU ESTAVA AQUI O TEMPO TODO, vers\u00e3o BH, Skin.Prod",
       "url": "https://open.spotify.com/track/3Ex1jhE7KifqXxThEEdbK8"
@@ -30780,7 +31044,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 123692,
       "name": "MTG QUEM N\u00c3O QUER SOU EU",
       "url": "https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL"
@@ -30890,6 +31154,24 @@
       "duration_ms": 123794,
       "name": "Mtg Toca Aquela 24 por 48 (Pique Das Antiga)",
       "url": "https://open.spotify.com/track/5iEA6ZdJkENzankJhWkRaE"
+    },
+    {
+      "album": {
+        "name": "MTG WHAT IS LOVE",
+        "url": "https://open.spotify.com/album/5Ytz5cnqr3B0XUwAmTqsfT"
+      },
+      "artists": [
+        {
+          "name": "DJ ROLANDIN",
+          "url": "https://open.spotify.com/artist/3dEyQ0CC1B3TyW4lJAmLiu"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135230,
+      "name": "MTG WHAT IS LOVE",
+      "url": "https://open.spotify.com/track/6hCbiWLUTqfzNo0vqAEJRy"
     },
     {
       "album": {
@@ -32320,7 +32602,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 288113,
       "name": "Noite Carioca Previa",
       "url": "https://open.spotify.com/track/2hhMzHMxg0juu2wFu81e5A"
@@ -33378,6 +33660,24 @@
       "duration_ms": 162461,
       "name": "N\u00e3o Vou Namorar",
       "url": "https://open.spotify.com/track/027ielmg4mNR1p1Ds3Mvgh"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Vou Namorar Vs Funk Rj",
+        "url": "https://open.spotify.com/album/16gznlO9WxK1nzEd2Het6s"
+      },
+      "artists": [
+        {
+          "name": "DJ RD DO MARTINS",
+          "url": "https://open.spotify.com/artist/2DlccegR9GHEOulkM0FCFv"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95999,
+      "name": "N\u00e3o Vou Namorar Vs Funk Rj",
+      "url": "https://open.spotify.com/track/7uC85V5kVRNxAM0H8a0KXe"
     },
     {
       "album": {
@@ -34869,6 +35169,24 @@
     },
     {
       "album": {
+        "name": "Ovelhinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276453,
+      "name": "Ovelhinha (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
+    },
+    {
+      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -35256,6 +35574,24 @@
       "duration_ms": 143283,
       "name": "Paladar Infantil",
       "url": "https://open.spotify.com/track/2CzIoSG4eDkstyTiXzjryy"
+    },
+    {
+      "album": {
+        "name": "Maturidade - EP 03 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2b7k6A9xKfBrJ16UnXVXbP"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Tavares",
+          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186069,
+      "name": "Palavras de Perd\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1b4OldCIxTO7DcqYdvdlOM"
     },
     {
       "album": {
@@ -36995,6 +37331,24 @@
     },
     {
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "album": {
         "name": "Ploc Ploc",
         "url": "https://open.spotify.com/album/0CSOnStusPuQ545MDC96Km"
       },
@@ -38300,7 +38654,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 170454,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/4N8bnqG6Y8bNibjaYppqos"
@@ -43808,7 +44162,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 148000,
       "name": "Sorriso no Rosto",
       "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
@@ -44767,6 +45121,24 @@
     },
     {
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151125,
+      "name": "Sympathy is a knife",
+      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
+    },
+    {
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -45306,7 +45678,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 137576,
       "name": "Tava na Paropeba Curtindo no Sapatinho - Tropa de Cuiab\u00e1",
       "url": "https://open.spotify.com/track/1N2n59kOBsk1tWFbIYKJwI"
@@ -46452,7 +46824,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 266666,
       "name": "THE BOX MEDLEY FUNK 2",
       "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
@@ -47823,6 +48195,28 @@
     },
     {
       "album": {
+        "name": "Triplex (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178170,
+      "name": "Triplex - Ao Vivo",
+      "url": "https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD"
+    },
+    {
+      "album": {
         "name": "TROPA DA LUD",
         "url": "https://open.spotify.com/album/0gky8VJyro9je4ENbpSwE9"
       },
@@ -48186,7 +48580,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 476736,
       "name": "Tu \u00e9s + \u00c1guas Purificadoras - Ao vivo",
       "url": "https://open.spotify.com/track/2xVe3wMbesHcOhqW8OoyS8"

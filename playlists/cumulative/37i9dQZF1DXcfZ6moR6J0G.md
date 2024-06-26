@@ -2,9 +2,9 @@
 
 ### [Nu Metal Era](https://open.spotify.com/playlist/37i9dQZF1DXcfZ6moR6J0G)
 
-> It's just one of those days...
+> RIP Shifty 🦋
 
-172 songs - 10 hr 27 min
+173 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Apossibly](https://open.spotify.com/track/6dWScesDDNfP3SgJycMxnu) | [The Apex Theory](https://open.spotify.com/artist/23GI7DP5IX2V0BABhOMXgw) | [Topsy\-Turvy](https://open.spotify.com/album/54v36g1GXO8qt6sMYDshH2) | 4:14 | 2022-04-17 | 2022-07-22 |
 | [Around the Fur](https://open.spotify.com/track/3Fwe3XoPOiyWUPYdBKMTqV) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:31 | 2022-09-26 | 2022-11-04 |
 | [Back to School \(Mini Maggit\)](https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 3:57 | 2021-09-06 |  |
-| [Bartender](https://open.spotify.com/track/5yrGsJoG4FsTg6luHlNGK2) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [The Best Of \(Hed\) Planet Earth](https://open.spotify.com/album/5V71iMTF4jNj6cBJkAqNjI) | 4:00 | 2021-09-06 |  |
+| [Bartender](https://open.spotify.com/track/5yrGsJoG4FsTg6luHlNGK2) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [The Best Of \(Hed\) Planet Earth](https://open.spotify.com/album/5V71iMTF4jNj6cBJkAqNjI) | 4:00 | 2021-09-06 | 2024-06-26 |
 | [Basic Breakdown](https://open.spotify.com/track/51nZUjX3aSS8TdehyzOQFU) | [Apartment 26](https://open.spotify.com/artist/2IrsNu3Xt4kwhTikS8xLdn) | [Hallucinating](https://open.spotify.com/album/70JEQ1puy5GGtOucfPpflE) | 3:31 | 2022-04-17 | 2022-04-20 |
 | [Bawitdaba](https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Devil Without a Cause](https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm) | 4:25 | 2021-09-06 |  |
 | [Bawitdaba \- 2018 Remaster](https://open.spotify.com/track/0T3odPQ4qqKOqvQEtMcPWM) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Greatest Hits: You Never Saw Coming](https://open.spotify.com/album/4ni1I8eIqUlfokkN2FE0hv) | 4:27 | 2023-05-16 | 2024-03-04 |
@@ -32,7 +32,7 @@
 | [Boom](https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:10 | 2022-11-01 |  |
 | [Brackish](https://open.spotify.com/track/5znZ4aN1j49w2Oel8tdmgG) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:09 | 2023-05-16 | 2024-04-19 |
 | [Brackish](https://open.spotify.com/track/6lqwRfIHYRiJ7M9xfLqcRx) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu) | 3:09 | 2022-11-03 | 2023-12-24 |
-| [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 | 2021-09-06 |  |
+| [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 | 2021-09-06 | 2024-06-26 |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2022-06-18 | 2024-04-19 |
 | [Bring Me To Life](https://open.spotify.com/track/646J2jOtUe4Jflrmh6JFjN) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/20mh1X1FQQidKMu2XypyMI) | 3:55 | 2022-04-17 | 2022-04-21 |
 | [Build Your Cages](https://open.spotify.com/track/1qVxslK1epoLJCfZFhu24L) | [Pulse Ultra](https://open.spotify.com/artist/0mfFGjshEFbLqZEkPBkblG) | [Headspace](https://open.spotify.com/album/0sXelo7ZacAWnxYs41vixi) | 3:54 | 2022-04-17 | 2022-07-26 |
@@ -47,7 +47,7 @@
 | [Click Click Boom](https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Every Six Seconds](https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe) | 4:12 | 2022-06-18 | 2024-04-19 |
 | [Click Click Boom](https://open.spotify.com/track/55SUneDPq3ZOrJi8sVG78G) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Moving Forward In Reverse: Greatest Hits](https://open.spotify.com/album/2DUQWxuRC0J8Nn3ejQHROx) | 4:12 | 2021-09-06 | 2022-07-29 |
 | [Coma America \- Single Version](https://open.spotify.com/track/5DFZHiqVGD4fVVJGEnSmMX) | [Amen](https://open.spotify.com/artist/63hRFbpgDsgmLcsFIMy8bY) | [Amen](https://open.spotify.com/album/7K9tkpYESmxTBoUZpgWJeq) | 2:18 | 2022-04-17 | 2022-04-21 |
-| [Counterfeit](https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 5:08 | 2024-05-23 | 2024-06-14 |
+| [Counterfeit](https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 5:08 | 2024-05-23 |  |
 | [Crawling In The Dark](https://open.spotify.com/track/1eK4KsyjAzr2xJ86Tj5SWa) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank](https://open.spotify.com/album/31WICFGGJBKetL5NZG5nbg) | 2:55 | 2021-09-06 | 2022-07-29 |
 | [Crawling In The Dark](https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank \(20th Anniversary Edition\)](https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR) | 2:55 | 2022-06-18 | 2024-04-19 |
 | [Crawling In The Dark](https://open.spotify.com/track/5C0pnRftHVScglm5Yq2aCV) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Break Stuff](https://open.spotify.com/album/5jEBpbz4KEOTTJy90tsuNC) | 2:58 | 2022-11-03 | 2022-11-13 |
@@ -60,7 +60,7 @@
 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 | 2021-09-06 |  |
 | [Downfall](https://open.spotify.com/track/55a9zQ8GXMw3gApQosXMHC) | [TRUSTcompany](https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA) | [The Lonely Position Of Neutral](https://open.spotify.com/album/5f9GZ6P4GWFodpEezBtSEm) | 3:11 | 2021-09-06 | 2022-07-29 |
 | [Downfall](https://open.spotify.com/track/76xddM2irVQCbuBoVbaElZ) | [TRUSTcompany](https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA) | [The Lonely Position Of Neutral](https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh) | 3:11 | 2022-06-18 | 2024-04-19 |
-| [Drowning](https://open.spotify.com/track/6UI5070fXjclDkp1obCmFm) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Drowning](https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ) | 3:18 | 2022-04-17 | 2024-06-14 |
+| [Drowning](https://open.spotify.com/track/6UI5070fXjclDkp1obCmFm) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Drowning](https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ) | 3:18 | 2022-04-17 |  |
 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2021-09-06 |  |
 | [Faith](https://open.spotify.com/track/3R9B4XUKlqZ1Thh7OFD6ck) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/6qcmaQ29rD2o6Aab1Jnvjv) | 2:26 | 2021-09-06 | 2022-07-29 |
 | [Faith](https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 2:26 | 2022-06-18 | 2024-03-18 |
@@ -134,7 +134,7 @@
 | [Pitiful](https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW) | [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Silence](https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl) | 3:12 | 2021-09-06 |  |
 | [Poem](https://open.spotify.com/track/7mQwxVogsnpR3h6AJLQLlR) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Welcome](https://open.spotify.com/album/713d2aig86cskmj4zdL9nR) | 3:09 | 2021-09-06 |  |
 | [Praise](https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Animosity](https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1) | 3:38 | 2022-11-03 | 2024-04-16 |
-| [Price to Play](https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [14 Shades of Grey](https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR) | 3:35 | 2024-03-26 |  |
+| [Price to Play](https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [14 Shades of Grey](https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR) | 3:35 | 2024-03-26 | 2024-06-26 |
 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 | 2021-09-06 |  |
 | [Pushing Me](https://open.spotify.com/track/6F4Rj6sllNG7kmF1g56E7S) | [Slaves on Dope](https://open.spotify.com/artist/2DLFxNQLAhejsOlcJLS0Ws) | [Klepto](https://open.spotify.com/album/48pvQsFrUy8aqMNzvZUyBK) | 3:12 | 2022-04-17 | 2022-04-21 |
 | [Requiem](https://open.spotify.com/track/4fhPqBNq6ogTEdCHcdg6Ao) | [Snot](https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8), [Corey](https://open.spotify.com/artist/3aoLcQxcreN6n2d1yctZYE) | [Strait Up](https://open.spotify.com/album/1goFw0cbXvSmDWKlGoBWVo) | 3:38 | 2022-04-17 | 2022-04-20 |
@@ -168,6 +168,7 @@
 | [The Only](https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:51 | 2021-09-06 |  |
 | [The Way You Like It](https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 3:39 | 2022-11-03 |  |
 | [Thumper](https://open.spotify.com/track/5UxmJ9bBeGRFhZsItTkoTL) | [Raging Speedhorn](https://open.spotify.com/artist/3D3G4JAVp6JQVEKjUaaSxA) | [Raging Speedhorn](https://open.spotify.com/album/5oDEwZgZZaeFXAQvN5L4ID) | 2:36 | 2022-04-17 | 2022-04-20 |
+| [Toxic](https://open.spotify.com/track/170Sk6g2w1uVsg1d24Oard) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 2:48 | 2024-06-25 |  |
 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 | 2021-09-06 |  |
 | [Ty Jonathan Down](https://open.spotify.com/track/5O9OjIL1D7akvZ91VT7VPH) | [Videodrone](https://open.spotify.com/artist/7hl6MPeP2VSGIbJY6lpml0), [David Kahne](https://open.spotify.com/artist/6G0eM0JfYIbNAdp9YPykhr) | [Videodrone](https://open.spotify.com/album/6RBKITC2WoADf4ZtGV3TSO) | 4:21 | 2022-04-17 | 2022-04-21 |
 | [Vitamin](https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:13 | 2023-02-27 |  |

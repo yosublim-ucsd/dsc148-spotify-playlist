@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 38465,
+  "num_followers": 38501,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,26 @@
     {
       "added_at": "2024-04-26 14:42:17",
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H"
+      },
+      "artists": [
+        {
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg"
+    },
+    {
+      "added_at": "2024-04-26 14:42:17",
+      "album": {
         "name": "Sho Nuff",
         "url": "https://open.spotify.com/album/3ctHqP7nJeRqoBstrgGhcR"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 209019,
       "name": "Day Day",
       "url": "https://open.spotify.com/track/4RVnBOCRhSg9acr4LjrSe5"
-    },
-    {
-      "added_at": "2024-04-26 14:42:17",
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H"
-      },
-      "artists": [
-        {
-          "name": "Wolftyla",
-          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg"
     },
     {
       "added_at": "2024-04-26 14:42:17",

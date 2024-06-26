@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Killen\. & Oaks
 
-760 songs - 1 day 17 hr 57 min
+761 songs - 1 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [Sylph Fossil](https://open.spotify.com/track/7mjqpvqJx68FS35V33fzoy) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Sylph Fossil](https://open.spotify.com/album/5YMnVaqdzECERamDHuI8JQ) | 5:30 | 2021-08-06 | 2022-04-21 |
 | [Synth Grass](https://open.spotify.com/track/2Gt94qSL9EImDLGm6Jlu3S) | [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [Synth Grass](https://open.spotify.com/album/40C56PM2hPldlAxI8zSsSS) | 3:04 | 2021-08-06 | 2023-02-04 |
 | [T0NITE](https://open.spotify.com/track/4B5J06BQR5OCy8NwvqgRBN) | [HELLHEIM](https://open.spotify.com/artist/4y0E0pMRFCgOkesrCPtUmU) | [T0NITE](https://open.spotify.com/album/7CDwsplCHROyARa7H91RS1) | 2:03 | 2021-08-06 | 2023-05-06 |
+| [TAKA \- Caribou Remix](https://open.spotify.com/track/5vo0Cu8muNor0U1UM3AHVS) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [TAKA \(Caribou Remix\)](https://open.spotify.com/album/7Ez3fr9wboQAP5XDFKrDC5) | 3:57 | 2024-06-20 |  |
 | [TAKA \- Taiki Nulight Remix](https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [TAKA \(Taiki Nulight Remix\)](https://open.spotify.com/album/13DYWnl7vnV6gMGMGiDai8) | 3:29 | 2024-06-06 |  |
 | [Take Over The World](https://open.spotify.com/track/2bIugowXHHEs3kYDlP4wNM) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [DUSK](https://open.spotify.com/album/0redwBOaK57PJoSLEl2OMD) | 2:35 | 2024-02-16 | 2024-03-22 |
 | [Take You There](https://open.spotify.com/track/0RktjKyHm5GjiwQFQf6kOg) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Take You There](https://open.spotify.com/album/6o8D6vk6tTWJZCR5zNpn7b) | 3:03 | 2024-04-18 |  |

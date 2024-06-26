@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,362 likes - 105 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,369 likes - 105 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 8 | [淋着眼光的雨](https://open.spotify.com/track/0Sb9Jt5jTFLEjodQ8bTGNi) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [淋着阳光的雨](https://open.spotify.com/album/0ZobfzAXlqzdxYJ9bgrTFG) | 2:12 |
 | 9 | [美好的可能](https://open.spotify.com/track/2IrIHhR2I0djNzAXVKWTHm) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [美好的可能](https://open.spotify.com/album/6Sm2Kmg8Rby9rSqXB27KTY) | 4:35 |
 | 10 | [贝壳](https://open.spotify.com/track/1lu1eZgQCVSQTXvSLAcrAa) | [謝春花](https://open.spotify.com/artist/0gYt4XG9A0hyZW7rt745ZY) | [贝壳](https://open.spotify.com/album/30GE7zjiN79Os0lnuVgyAU) | 3:42 |
-| 11 | [期待著你的出現｜黃莑茗、須弘道](https://open.spotify.com/track/5TmRtmA8bJtPZF5ynGKpAM) | [AcQUA 源少年](https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn), [林言奕](https://open.spotify.com/artist/4amttJ5Bgvth23ShmHNxaH) | [期待著你的出現｜黃莑茗、須弘道](https://open.spotify.com/album/4wKhBdIM1SM5747ok3aPAD) | 3:07 |
+| 11 | [期待著你的出現｜黃莑茗、須弘道](https://open.spotify.com/track/5TmRtmA8bJtPZF5ynGKpAM) | [AcQUA 源少年](https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn) | [期待著你的出現｜黃莑茗、須弘道](https://open.spotify.com/album/4wKhBdIM1SM5747ok3aPAD) | 3:07 |
 | 12 | [要怎麼證明我不愛ㄋ](https://open.spotify.com/track/18BhP6qWfBZsGqi06uKxQq) | [郭欣瑜](https://open.spotify.com/artist/6iNNIxt6euZuN7h9fjcOZ8) | [要怎麼證明我不愛ㄋ](https://open.spotify.com/album/4SGZwToyAl5p89D8HjD7Ps) | 3:08 |
 | 13 | [是時候當個大人](https://open.spotify.com/track/73c4gLfZqoZztHe6s9zDfk) | [賴慈泓](https://open.spotify.com/artist/3t0zjFDl69EzHp3SGQya9l) | [是時候當個大人](https://open.spotify.com/album/49CDxFx1g9iRJQz3PZcvYI) | 3:17 |
 | 14 | [飞鸟的眼睛](https://open.spotify.com/track/0osnYEkcLLJqQSEnhZpOAh) | [洪一诺](https://open.spotify.com/artist/3NHSezYp3mVfJLOgaLhra8) | [飞鸟的眼睛](https://open.spotify.com/album/7etrwW86RANnVMkpfLNC8D) | 4:05 |

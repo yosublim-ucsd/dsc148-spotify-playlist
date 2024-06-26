@@ -1,12 +1,12 @@
 {
   "description": "ft. charli",
-  "num_followers": 457402,
+  "num_followers": 457465,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnCGAAAAAAANpy/EkCLQZzhsumRP4Y4B",
+  "snapshot_id": "Znsc5gAAAADPHzLFUyz6sdg0zzWzXViz",
   "tracks": [
     {
       "added_at": "2024-06-14 05:37:00",
@@ -23,6 +23,30 @@
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
+    },
+    {
+      "added_at": "2024-06-25 19:39:18",
+      "album": {
+        "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
+        "url": "https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "BC Kingdom",
+          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
+        }
+      ],
+      "duration_ms": 232374,
+      "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
+      "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
     },
     {
       "added_at": "2024-06-14 05:37:00",
@@ -43,6 +67,22 @@
       "duration_ms": 129776,
       "name": "Upgrade (CROOK's System Update)",
       "url": "https://open.spotify.com/track/6pINwW2mGSK0LCDv6cYHMJ"
+    },
+    {
+      "added_at": "2024-05-14 16:01:28",
+      "album": {
+        "name": "2009",
+        "url": "https://open.spotify.com/album/0PL1V8KaNzAMtjKtDEFYPk"
+      },
+      "artists": [
+        {
+          "name": "biblemami",
+          "url": "https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV"
+        }
+      ],
+      "duration_ms": 142973,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H"
     },
     {
       "added_at": "2024-05-30 21:41:29",
@@ -97,6 +137,22 @@
       "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
     },
     {
+      "added_at": "2024-06-25 19:39:18",
+      "album": {
+        "name": "HOUSE PARTY",
+        "url": "https://open.spotify.com/album/3ss4oRlgOMDgYoJ6uDmoLg"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "HOUSE PARTY",
+      "url": "https://open.spotify.com/track/63BMFfN0SjDw7mPzp8S2kn"
+    },
+    {
       "added_at": "2024-06-14 05:37:00",
       "album": {
         "name": "flip phone",
@@ -133,20 +189,20 @@
       "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
     },
     {
-      "added_at": "2024-04-26 05:00:00",
+      "added_at": "2024-06-25 19:39:18",
       "album": {
-        "name": "Knock Yourself Out XD",
-        "url": "https://open.spotify.com/album/6a6vazlfojF2pu0VXhmn4r"
+        "name": "number one lover",
+        "url": "https://open.spotify.com/album/0rUAqxN1cw4cmkbqZXTd4m"
       },
       "artists": [
         {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+          "name": "sim0ne",
+          "url": "https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV"
         }
       ],
-      "duration_ms": 168275,
-      "name": "Knock Yourself Out XD",
-      "url": "https://open.spotify.com/track/7sVPmzAf2TagX4anSxasuo"
+      "duration_ms": 143079,
+      "name": "number one lover",
+      "url": "https://open.spotify.com/track/4tbNJjyuDVltnO1HbQntoi"
     },
     {
       "added_at": "2024-06-14 05:37:00",
@@ -181,20 +237,20 @@
       "url": "https://open.spotify.com/track/5EiDSnRLeLu7jOAaBTTMdW"
     },
     {
-      "added_at": "2024-05-14 16:01:28",
+      "added_at": "2024-06-25 19:39:18",
       "album": {
-        "name": "2009",
-        "url": "https://open.spotify.com/album/0PL1V8KaNzAMtjKtDEFYPk"
+        "name": "If I Give You My Heart, Can I Trust You With It?",
+        "url": "https://open.spotify.com/album/3pgE5O0WxA7w2ZG9ZuUQme"
       },
       "artists": [
         {
-          "name": "biblemami",
-          "url": "https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV"
+          "name": "Blythe Star",
+          "url": "https://open.spotify.com/artist/4iNkH6gh0eYi0FiLfpVqf4"
         }
       ],
-      "duration_ms": 142973,
-      "name": "2009",
-      "url": "https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H"
+      "duration_ms": 318967,
+      "name": "If I Give You My Heart, Can I Trust You With It?",
+      "url": "https://open.spotify.com/track/40Hd6KbH0s6myWuY0z897M"
     },
     {
       "added_at": "2024-05-03 05:00:00",
@@ -347,6 +403,38 @@
     {
       "added_at": "2024-06-07 05:00:00",
       "album": {
+        "name": "PINK LIKE SUKI",
+        "url": "https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB"
+      },
+      "artists": [
+        {
+          "name": "Pebbles&TamTam",
+          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
+        }
+      ],
+      "duration_ms": 150169,
+      "name": "PINK LIKE SUKI",
+      "url": "https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3"
+    },
+    {
+      "added_at": "2024-04-26 05:00:00",
+      "album": {
+        "name": "Knock Yourself Out XD",
+        "url": "https://open.spotify.com/album/6a6vazlfojF2pu0VXhmn4r"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "Knock Yourself Out XD",
+      "url": "https://open.spotify.com/track/7sVPmzAf2TagX4anSxasuo"
+    },
+    {
+      "added_at": "2024-06-07 05:00:00",
+      "album": {
         "name": "Lesbians <3",
         "url": "https://open.spotify.com/album/4Q0AyfIv7BZjnGt2unFeY9"
       },
@@ -413,20 +501,36 @@
       "url": "https://open.spotify.com/track/3VfDRpoNoJia2Gmu7BnqjY"
     },
     {
-      "added_at": "2024-06-07 05:00:00",
+      "added_at": "2024-06-25 19:39:18",
       "album": {
-        "name": "PINK LIKE SUKI",
-        "url": "https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB"
+        "name": "Lavender Town",
+        "url": "https://open.spotify.com/album/4brjWTy34iHnVEmiDk8bUc"
       },
       "artists": [
         {
-          "name": "Pebbles&TamTam",
-          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
         }
       ],
-      "duration_ms": 150169,
-      "name": "PINK LIKE SUKI",
-      "url": "https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3"
+      "duration_ms": 180157,
+      "name": "Lavender Town",
+      "url": "https://open.spotify.com/track/3Fn2y02qGuYdftsSkPGhJ2"
+    },
+    {
+      "added_at": "2024-06-25 19:39:18",
+      "album": {
+        "name": "spit",
+        "url": "https://open.spotify.com/album/7hjfEMayKwXCohSb8rVV1C"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "spit",
+      "url": "https://open.spotify.com/track/1ft9HRORvo0uMAoBwqkxgY"
     },
     {
       "added_at": "2024-06-07 05:00:00",
@@ -459,6 +563,46 @@
       "duration_ms": 124553,
       "name": "GLI77ER",
       "url": "https://open.spotify.com/track/6c3pMOp2pJRhjTQJ6prBPt"
+    },
+    {
+      "added_at": "2024-06-25 19:39:18",
+      "album": {
+        "name": "Ice u out (dj something remix)",
+        "url": "https://open.spotify.com/album/0Uv4AnT8TS8a68ZvO1QC6i"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Kota Banks",
+          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
+        },
+        {
+          "name": "dj something",
+          "url": "https://open.spotify.com/artist/0ihar3B8MEtG2DrMTJKuph"
+        }
+      ],
+      "duration_ms": 193198,
+      "name": "Ice u out - dj something Remix",
+      "url": "https://open.spotify.com/track/3SfsT8LL7ue5ETRwOSAg2C"
+    },
+    {
+      "added_at": "2024-06-25 19:39:18",
+      "album": {
+        "name": "apollo",
+        "url": "https://open.spotify.com/album/3piWNDcYfXIPKcF4JFVr8d"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "apollo",
+      "url": "https://open.spotify.com/track/0DoKEamrm3P13HItt9PTwM"
     },
     {
       "added_at": "2024-04-30 17:34:29",
@@ -565,22 +709,6 @@
       "url": "https://open.spotify.com/track/7jVNSRCBRFzrsNSExaWomq"
     },
     {
-      "added_at": "2024-05-03 05:00:00",
-      "album": {
-        "name": "Thot Daughter",
-        "url": "https://open.spotify.com/album/2ugvWzSHbN8pKzINRvyiZ2"
-      },
-      "artists": [
-        {
-          "name": "Harmony",
-          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
-        }
-      ],
-      "duration_ms": 115933,
-      "name": "Thot Daughter",
-      "url": "https://open.spotify.com/track/3UzSr6kNHWbhHkxq7OqaYD"
-    },
-    {
       "added_at": "2024-05-30 21:41:29",
       "album": {
         "name": "think big",
@@ -679,22 +807,6 @@
       "duration_ms": 169208,
       "name": "pixie dust",
       "url": "https://open.spotify.com/track/1l6skfQdQcDhtgC1aid8oc"
-    },
-    {
-      "added_at": "2024-04-24 18:33:24",
-      "album": {
-        "name": "Cold Visions",
-        "url": "https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL"
-      },
-      "artists": [
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        }
-      ],
-      "duration_ms": 70549,
-      "name": "PARANOIA INTRO",
-      "url": "https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW"
     },
     {
       "added_at": "2024-04-12 05:32:15",
@@ -815,30 +927,6 @@
       "duration_ms": 144004,
       "name": "skin",
       "url": "https://open.spotify.com/track/32Zt7Jj8Qe7HSaQHNk98RY"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/4IANKIjp9R6mmGrsVtlt70"
-      },
-      "artists": [
-        {
-          "name": "GLOWSTONE",
-          "url": "https://open.spotify.com/artist/40ZUoJmPAI5eVg88y2l8Cj"
-        },
-        {
-          "name": "MADI",
-          "url": "https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0"
-        },
-        {
-          "name": "sober rob",
-          "url": "https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "POISON",
-      "url": "https://open.spotify.com/track/2C8E4hexV8wHs60UjJzlEi"
     },
     {
       "added_at": "2024-03-22 15:24:50",
@@ -1101,6 +1189,30 @@
       "url": "https://open.spotify.com/track/7izUG1EE2B2XqMDWANyIFG"
     },
     {
+      "added_at": "2024-04-26 05:00:00",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/4IANKIjp9R6mmGrsVtlt70"
+      },
+      "artists": [
+        {
+          "name": "GLOWSTONE",
+          "url": "https://open.spotify.com/artist/40ZUoJmPAI5eVg88y2l8Cj"
+        },
+        {
+          "name": "MADI",
+          "url": "https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0"
+        },
+        {
+          "name": "sober rob",
+          "url": "https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "POISON",
+      "url": "https://open.spotify.com/track/2C8E4hexV8wHs60UjJzlEi"
+    },
+    {
       "added_at": "2024-03-22 15:24:50",
       "album": {
         "name": "No Fun",
@@ -1285,22 +1397,6 @@
       "url": "https://open.spotify.com/track/22aEH1qwd2bAAKucLLpZEL"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Baby My Phone",
-        "url": "https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq"
-      },
-      "artists": [
-        {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
-        }
-      ],
-      "duration_ms": 215771,
-      "name": "Baby My Phone",
-      "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
-    },
-    {
       "added_at": "2024-04-12 05:32:15",
       "album": {
         "name": "Holoban",
@@ -1359,22 +1455,6 @@
       "duration_ms": 152000,
       "name": "higher",
       "url": "https://open.spotify.com/track/7diyCFL8chcY1REunXR18F"
-    },
-    {
-      "added_at": "2024-03-22 15:24:50",
-      "album": {
-        "name": "BLOODMOON",
-        "url": "https://open.spotify.com/album/570Dv2BkqT7E8ZStfpNi1Y"
-      },
-      "artists": [
-        {
-          "name": "KROY",
-          "url": "https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX"
-        }
-      ],
-      "duration_ms": 256023,
-      "name": "JOLIGENTIL",
-      "url": "https://open.spotify.com/track/622aeJLMWkE4lkkmoWNUFC"
     },
     {
       "added_at": "2024-03-29 14:41:36",

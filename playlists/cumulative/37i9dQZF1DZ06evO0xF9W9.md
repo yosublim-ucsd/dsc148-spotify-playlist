@@ -2,7 +2,7 @@
 
 ### [This Is Engel Montaz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xF9W9)
 
-> This is Engel Montaz\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is Engel Montaz\. Los temas esenciales, todos en una lista.
 
 28 songs - 1 hr 31 min
 

@@ -1388,10 +1388,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 160266,
       "name": "Palo Bonito",
       "url": "https://open.spotify.com/track/7yldON0oRBFYzW4H1cz7au"
+    },
+    {
+      "album": {
+        "name": "Te Ves Bien Buena...",
+        "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162693,
+      "name": "Palo Bonito",
+      "url": "https://open.spotify.com/track/3p4dd79mwiFMQDExCzbCFO"
     },
     {
       "album": {

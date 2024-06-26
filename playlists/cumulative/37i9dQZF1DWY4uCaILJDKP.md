@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-152 songs - 10 hr 22 min
+153 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [It's all Love!](https://open.spotify.com/track/2rpEG49FJiRMww5p4sKUWd) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC), [misono](https://open.spotify.com/artist/6kvN5e0vPFKf6Ra4BrINU4) | [It's all Love!](https://open.spotify.com/album/3FD5Xa17HLn8w680UWzNwj) | 4:51 | 2022-03-08 |  |
 | [It's Show Time!!](https://open.spotify.com/track/4n7Mb9iYt9SupLc4Wai39M) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc), [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [It's Show Time!!](https://open.spotify.com/album/5WjWjow9jIxIQR3XGNgOrJ) | 4:36 | 2022-03-08 |  |
 | [JOY](https://open.spotify.com/track/5XpeOzPh8mzTnh0SHiYdLi) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Joyful Monster](https://open.spotify.com/album/7q7PwTvocTRkcCrEk6RG8y) | 4:29 | 2022-03-08 |  |
+| [KAWAII FESTIVAL](https://open.spotify.com/track/4Dq9L5QomYmF21xmFSMw9z) | [みんななかよく](https://open.spotify.com/artist/1wja3Lglpre9hO4WEfIBRM) | [Hello Kitty 50th Anniversary Presents My Bestie Voice Collection with Sanrio characters](https://open.spotify.com/album/4p4vfBpuBaSS7BjjqtX4fy) | 3:08 | 2024-06-25 |  |
 | [L.O.K.F](https://open.spotify.com/track/3VkrkT7l5fOCtZzS4Nhg0j) | [きつね](https://open.spotify.com/artist/0FZILnNXcTtqbz9nWPwLh5), [EXIT](https://open.spotify.com/artist/2Xd13ljEIqUxHvVcvfWytd) | [L.O.K.F](https://open.spotify.com/album/0oeKhSzgjslbdczbkASG63) | 3:48 | 2022-03-08 |  |
 | [Life is Hard DAME DINERO](https://open.spotify.com/track/0HT5Fk82g9f8nUAVKwyzAt) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [生活こんきゅーダメディネロ](https://open.spotify.com/album/5XJ87OMDc5amKH9rUbkGI5) | 4:06 | 2022-07-12 | 2022-10-19 |
 | [Life is Hard DAME DINERO](https://open.spotify.com/track/5RjnIa5tjhpUDT2Q0brHv5) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Life is Hard DAME DINERO](https://open.spotify.com/album/5rYgHLNiJFyp1GWzvV9ORe) | 4:06 | 2022-08-04 | 2022-11-13 |

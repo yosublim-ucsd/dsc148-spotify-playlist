@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Coldplay, NewJeans, Ariana Grande & Brandy & Monica, Charli XCX and more! cover: Coldplay
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,212 likes - 94 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,213 likes - 94 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

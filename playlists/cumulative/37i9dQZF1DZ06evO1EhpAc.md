@@ -2,7 +2,7 @@
 
 ### [This Is Yaeji](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1EhpAc)
 
-> This is Yaeji\. The essential tracks, all in one playlist.
+> This Is Yaeji\. Les titres incontournables, réunis dans une seule et même playlist.
 
 37 songs - 2 hr 6 min
 

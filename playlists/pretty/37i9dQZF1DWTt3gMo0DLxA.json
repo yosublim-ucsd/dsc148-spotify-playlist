@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Kalki 2898 Ad",
-  "num_followers": 113066,
+  "num_followers": 113479,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm7dJQAAAAB1LTFQbbzrbnBmFgsyjHkY",
+  "snapshot_id": "ZnqJ6gAAAACVLXflF+qBkPm1S8u4gymT",
   "tracks": [
     {
       "added_at": "2024-06-16 12:40:05",
@@ -109,26 +109,6 @@
       "url": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI"
     },
     {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Tillu Square",
-        "url": "https://open.spotify.com/album/5oNL1ay25NKeMieYCFwhci"
-      },
-      "artists": [
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 189966,
-      "name": "Ticket Eh Konakunda",
-      "url": "https://open.spotify.com/track/3NdQpAhK5s42vu3do3KSBT"
-    },
-    {
       "added_at": "2024-02-19 04:32:52",
       "album": {
         "name": "Gumma (From \"Ambajipeta Marriage Band\")",
@@ -143,6 +123,30 @@
       "duration_ms": 230866,
       "name": "Gumma (From \"Ambajipeta Marriage Band\")",
       "url": "https://open.spotify.com/track/30CBQmKZ0fugbhs7ExGT1e"
+    },
+    {
+      "added_at": "2024-06-25 09:12:10",
+      "album": {
+        "name": "Souraa (From \"Bharateeyudu 2\")",
+        "url": "https://open.spotify.com/album/0bjug1LVXNf7WiAqNUHjLr"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ritesh G Rao",
+          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
+        },
+        {
+          "name": "Shruthika Samudhrala",
+          "url": "https://open.spotify.com/artist/6tV6eU1gwsruSzN4PyDJWe"
+        }
+      ],
+      "duration_ms": 252435,
+      "name": "Souraa (From \"Bharateeyudu 2\")",
+      "url": "https://open.spotify.com/track/6EQVXaIi22Ilmkt1Coi9gZ"
     },
     {
       "added_at": "2024-04-18 09:25:53",

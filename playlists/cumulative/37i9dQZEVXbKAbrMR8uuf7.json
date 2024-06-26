@@ -1631,6 +1631,28 @@
     },
     {
       "album": {
+        "name": "Ana (A M\u00ed)",
+        "url": "https://open.spotify.com/album/5ZCaCm5uBXWYBuHb88X2OJ"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        },
+        {
+          "name": "Deny K",
+          "url": "https://open.spotify.com/artist/14l5S8E3j7RgPY5Q6Nlnbw"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Ana (A M\u00ed)",
+      "url": "https://open.spotify.com/track/2j4lOCH0hUt8U3SFlBNzCW"
+    },
+    {
+      "album": {
         "name": "Ande Con Quien Ande",
         "url": "https://open.spotify.com/album/1HUkl1Q80b9VhGWBfY37RW"
       },
@@ -4891,6 +4913,32 @@
     },
     {
       "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/3IFsq2ZOFYmZ3y90vtJ7Zy"
+      },
+      "artists": [
+        {
+          "name": "Eusebio",
+          "url": "https://open.spotify.com/artist/18sjZZAtp5ck2udYnRvugH"
+        },
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        },
+        {
+          "name": "The Melodico",
+          "url": "https://open.spotify.com/artist/4vKdAdCbGteLVf1kP409kJ"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160113,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/2tFcqyXXBUdtPIrGk19juw"
+    },
+    {
+      "album": {
         "name": "7 Exitos",
         "url": "https://open.spotify.com/album/3nAHfbvJaB8yp2ediRiAGm"
       },
@@ -8148,7 +8196,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 215213,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
@@ -8850,7 +8898,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 192069,
       "name": "Esa Loca",
       "url": "https://open.spotify.com/track/3d2ckplhHE0l6GQekE4BHt"
@@ -14072,6 +14120,24 @@
       "duration_ms": 221044,
       "name": "Las Lagrimas de Mi Ex",
       "url": "https://open.spotify.com/track/488TWqPr8nDI5dpv8N3UgK"
+    },
+    {
+      "album": {
+        "name": "LASER",
+        "url": "https://open.spotify.com/album/0O0hmYBxGrHnz44UNuOp4R"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188885,
+      "name": "LASER",
+      "url": "https://open.spotify.com/track/6DjCL0BcCrOWGh2538hhVg"
     },
     {
       "album": {
@@ -21684,7 +21750,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 147853,
       "name": "Prometiste",
       "url": "https://open.spotify.com/track/0YsvYq2PU7A6FIyq63HcfC"
@@ -22692,7 +22758,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
@@ -25848,7 +25914,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 207746,
       "name": "SORRY 4 THAT MUCH",
       "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
@@ -26118,7 +26184,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 174474,
       "name": "Sue\u00f1os Con Alas",
       "url": "https://open.spotify.com/track/3mMV5jnKRM00fnAR8TBeJ0"
@@ -27040,7 +27106,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 196022,
       "name": "Tenerte",
       "url": "https://open.spotify.com/track/79U2fS41tzUFSdnAb9MhAk"

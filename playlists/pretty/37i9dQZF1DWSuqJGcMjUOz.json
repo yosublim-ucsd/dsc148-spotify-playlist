@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6061,
+  "num_followers": 6080,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "J'ai Bu",
-        "url": "https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK"
+        "name": "Grafignes",
+        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
       },
       "artists": [
         {
-          "name": "Qu\u00e9bec Redneck Bluegrass Project",
-          "url": "https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz"
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
         }
       ],
-      "duration_ms": 347855,
-      "name": "Me d'mandait ma blonde",
-      "url": "https://open.spotify.com/track/617uIR54eouaAaLMj2Zef9"
+      "duration_ms": 190906,
+      "name": "D\u00e9potoir",
+      "url": "https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "\u00c7A VA ALLER",
-        "url": "https://open.spotify.com/album/3lS3KwXeNATyc9d76zbGwF"
+        "name": "J'ai Bu",
+        "url": "https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK"
       },
       "artists": [
         {
-          "name": "NeS",
-          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
+          "name": "Qu\u00e9bec Redneck Bluegrass Project",
+          "url": "https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz"
         }
       ],
-      "duration_ms": 173000,
-      "name": "LE SOURIRE D'UNE TOMBE",
-      "url": "https://open.spotify.com/track/4yIlzOPjaaEPsF3RyivxQD"
+      "duration_ms": 347855,
+      "name": "Me d'mandait ma blonde",
+      "url": "https://open.spotify.com/track/617uIR54eouaAaLMj2Zef9"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Grafignes",
-        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
+        "name": "\u00c7A VA ALLER",
+        "url": "https://open.spotify.com/album/3lS3KwXeNATyc9d76zbGwF"
       },
       "artists": [
         {
-          "name": "Gab Bouchard",
-          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+          "name": "NeS",
+          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
         }
       ],
-      "duration_ms": 190906,
-      "name": "D\u00e9potoir",
-      "url": "https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl"
+      "duration_ms": 173000,
+      "name": "LE SOURIRE D'UNE TOMBE",
+      "url": "https://open.spotify.com/track/4yIlzOPjaaEPsF3RyivxQD"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "medium plaisir",
-        "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
-      },
-      "artists": [
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 292960,
-      "name": "Ce n'est pas de la chance",
-      "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Dix mille matins",
         "url": "https://open.spotify.com/album/4A6XlPUNis093jnOYZsTKh"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "medium plaisir",
+        "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "duration_ms": 292960,
+      "name": "Ce n'est pas de la chance",
+      "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 200360,
       "name": "Avant Elle",
       "url": "https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Parce qu'on vient de loin.",
+        "url": "https://open.spotify.com/album/4PuU7cyGf140vvhpQ14zUO"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "Parce qu'on vient de loin",
+      "url": "https://open.spotify.com/track/5t03AORuoEz8a4S8aRpsD1"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -763,18 +779,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Parce qu'on vient de loin.",
-        "url": "https://open.spotify.com/album/4PuU7cyGf140vvhpQ14zUO"
+        "name": "Le Volume Du Vent",
+        "url": "https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF"
       },
       "artists": [
         {
-          "name": "Corneille",
-          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+          "name": "Karkwa",
+          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
         }
       ],
-      "duration_ms": 232733,
-      "name": "Parce qu'on vient de loin",
-      "url": "https://open.spotify.com/track/5t03AORuoEz8a4S8aRpsD1"
+      "duration_ms": 186373,
+      "name": "Oublie Pas",
+      "url": "https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -791,6 +807,22 @@
       "duration_ms": 232800,
       "name": "Giscard d'Estaing",
       "url": "https://open.spotify.com/track/2alxvMSDA2U6qEmrEEINfe"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "monde autour",
+        "url": "https://open.spotify.com/album/77Isp6SAhHX3vRplCtfKQv"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 264891,
+      "name": "blood pareil",
+      "url": "https://open.spotify.com/track/5gZY6ZOPf2C70N7DBAH91O"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -815,38 +847,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Le Volume Du Vent",
-        "url": "https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF"
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
       "artists": [
         {
-          "name": "Karkwa",
-          "url": "https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ"
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
         }
       ],
-      "duration_ms": 186373,
-      "name": "Oublie Pas",
-      "url": "https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "BO Y Z Vol.2",
-        "url": "https://open.spotify.com/album/4tXyRGC1FcO6FXdpFUGfRW"
-      },
-      "artists": [
-        {
-          "name": "Prince Waly",
-          "url": "https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy"
-        },
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Belly (feat. Dinos)",
-      "url": "https://open.spotify.com/track/35uC41Ry5HFEQtel6BKHbj"
+      "duration_ms": 229560,
+      "name": "Les amants de Pomp\u00e9i",
+      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -883,18 +895,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+        "name": "BO Y Z Vol.2",
+        "url": "https://open.spotify.com/album/4tXyRGC1FcO6FXdpFUGfRW"
       },
       "artists": [
         {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+          "name": "Prince Waly",
+          "url": "https://open.spotify.com/artist/4Lc100wJvtsyzNuPICliGy"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
         }
       ],
-      "duration_ms": 229560,
-      "name": "Les amants de Pomp\u00e9i",
-      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
+      "duration_ms": 154506,
+      "name": "Belly (feat. Dinos)",
+      "url": "https://open.spotify.com/track/35uC41Ry5HFEQtel6BKHbj"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -919,18 +935,38 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "monde autour",
-        "url": "https://open.spotify.com/album/77Isp6SAhHX3vRplCtfKQv"
+        "name": "J'aime quand on danse (tes mains sur mes hanches)",
+        "url": "https://open.spotify.com/album/5CN5KW3obIjkuigvnQ8SfV"
       },
       "artists": [
         {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+        },
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
         }
       ],
-      "duration_ms": 264891,
-      "name": "blood pareil",
-      "url": "https://open.spotify.com/track/5gZY6ZOPf2C70N7DBAH91O"
+      "duration_ms": 214647,
+      "name": "J'aime quand on danse (tes mains sur mes hanches)",
+      "url": "https://open.spotify.com/track/2j1yHPxBBPfz8jgr4eSnp9"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
+        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 108066,
+      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
+      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -975,42 +1011,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "J'aime quand on danse (tes mains sur mes hanches)",
-        "url": "https://open.spotify.com/album/5CN5KW3obIjkuigvnQ8SfV"
-      },
-      "artists": [
-        {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
-        },
-        {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
-        }
-      ],
-      "duration_ms": 214647,
-      "name": "J'aime quand on danse (tes mains sur mes hanches)",
-      "url": "https://open.spotify.com/track/2j1yHPxBBPfz8jgr4eSnp9"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
-        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
-      },
-      "artists": [
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 108066,
-      "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
-      "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Etienne Dufresne fait des efforts",
         "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
       },
@@ -1027,6 +1027,38 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "La nuit s'ach\u00e8ve",
+        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "Onze",
+      "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Osoyoos",
+        "url": "https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9drik St-Onge",
+          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
+        }
+      ],
+      "duration_ms": 235959,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Portraits de famine",
         "url": "https://open.spotify.com/album/6INsKgWoaYYDHCbHOR4BZz"
       },
@@ -1039,6 +1071,22 @@
       "duration_ms": 178426,
       "name": "Alice",
       "url": "https://open.spotify.com/track/6ybS1WcfNXf1hmx8bE3lgi"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Baloney suicide",
+        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
+      },
+      "artists": [
+        {
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Celui qui attend",
+      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1087,22 +1135,6 @@
       "duration_ms": 146752,
       "name": "Comme Avant",
       "url": "https://open.spotify.com/track/2kGflndOtz5UCBflZIT4eQ"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "La nuit s'ach\u00e8ve",
-        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Onze",
-      "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1171,26 +1203,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Amours d'\u00c9t\u00e9 - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/41oaIEobQQ0fodC8e0DK1q"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        },
-        {
-          "name": "Branko",
-          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Amours d'\u00c9t\u00e9 - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/71VXltT0nT6itsGMNNwpKv"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "P\u00eale-m\u00eale",
         "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
       },
@@ -1207,34 +1219,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Osoyoos",
-        "url": "https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj"
+        "name": "Amours d'\u00c9t\u00e9 - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/41oaIEobQQ0fodC8e0DK1q"
       },
       "artists": [
         {
-          "name": "C\u00e9drik St-Onge",
-          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
-        }
-      ],
-      "duration_ms": 235959,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Baloney suicide",
-        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
-      },
-      "artists": [
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
         {
-          "name": "VioleTT Pi",
-          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
         }
       ],
-      "duration_ms": 122253,
-      "name": "Celui qui attend",
-      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
+      "duration_ms": 171750,
+      "name": "Amours d'\u00c9t\u00e9 - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/71VXltT0nT6itsGMNNwpKv"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Jour",
-        "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
-      },
-      "artists": [
-        {
-          "name": "Walter Astral",
-          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
-        }
-      ],
-      "duration_ms": 205855,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c9chapper \u00e0 la nuit",
         "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 191360,
       "name": "Je vais te faire danser",
       "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Jour",
+        "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
+      },
+      "artists": [
+        {
+          "name": "Walter Astral",
+          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
+        }
+      ],
+      "duration_ms": 205855,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Emmanuelle",
+        "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
+      },
+      "artists": [
+        {
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Non merci",
+      "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Le monde est fou",
         "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Emmanuelle",
-        "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
+        "name": "\u00c0 demain peut-\u00eatre",
+        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
       },
       "artists": [
         {
-          "name": "Rosie Valland",
-          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
         }
       ],
-      "duration_ms": 146853,
-      "name": "Non merci",
-      "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
+      "duration_ms": 179706,
+      "name": "Anomie",
+      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1419,22 +1435,6 @@
       "duration_ms": 195600,
       "name": "Sac de sport",
       "url": "https://open.spotify.com/track/3H05HuJHXjXyaMa7WgnaAJ"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "\u00c0 demain peut-\u00eatre",
-        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
-      },
-      "artists": [
-        {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Anomie",
-      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "La fess\u00e9e",
-        "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
-      },
-      "artists": [
-        {
-          "name": "Raccoon",
-          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
-        }
-      ],
-      "duration_ms": 237691,
-      "name": "La fess\u00e9e",
-      "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Oniromancie",
         "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 216146,
       "name": "Polymorphe",
       "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "La fess\u00e9e",
+        "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "duration_ms": 237691,
+      "name": "La fess\u00e9e",
+      "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Mort de rire",
-        "url": "https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7"
-      },
-      "artists": [
-        {
-          "name": "Radiant Baby",
-          "url": "https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM"
-        }
-      ],
-      "duration_ms": 246818,
-      "name": "Mort de rire",
-      "url": "https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "J'en raffole",
         "url": "https://open.spotify.com/album/0v7UTiuZ76VyAJaAuCiYJa"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 225230,
       "name": "J'en raffole",
       "url": "https://open.spotify.com/track/3Gs8MG6EVQTfqTs1fw4A8d"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Mort de rire",
+        "url": "https://open.spotify.com/album/4kZKcEYXarLLoVZIyEhGY7"
+      },
+      "artists": [
+        {
+          "name": "Radiant Baby",
+          "url": "https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM"
+        }
+      ],
+      "duration_ms": 246818,
+      "name": "Mort de rire",
+      "url": "https://open.spotify.com/track/1YMyJOWvg161nP3yP2ViAn"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Tralala",
+        "url": "https://open.spotify.com/album/4XXJC6DVgxRnbdcTfJTQXV"
+      },
+      "artists": [
+        {
+          "name": "La Bottine Souriante",
+          "url": "https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "Tralala",
+      "url": "https://open.spotify.com/track/0iLVqqB6eQGyvQnQ1QcLGx"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "On frap la route?",
         "url": "https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 156904,
       "name": "OnO Song",
       "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Tralala",
-        "url": "https://open.spotify.com/album/4XXJC6DVgxRnbdcTfJTQXV"
-      },
-      "artists": [
-        {
-          "name": "La Bottine Souriante",
-          "url": "https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Tralala",
-      "url": "https://open.spotify.com/track/0iLVqqB6eQGyvQnQ1QcLGx"
     },
     {
       "added_at": "2024-06-19 20:38:05",

@@ -557,6 +557,28 @@
     },
     {
       "album": {
+        "name": "DAYLIGHT",
+        "url": "https://open.spotify.com/album/49xb9I1JHOXL6AQOkHyTpC"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "DAYLIGHT",
+      "url": "https://open.spotify.com/track/4Yofykr3pfx4t10HAI7Pj9"
+    },
+    {
+      "album": {
         "name": "Portamento",
         "url": "https://open.spotify.com/album/13F3zUhKQsEe4IG6DaMJCh"
       },

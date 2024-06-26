@@ -1,6 +1,6 @@
 {
   "description": "No need for a gadget, just play these rock songs to set your pace!",
-  "num_followers": 1055566,
+  "num_followers": 1055628,
   "original_name": "Running to Rock 170-190 BPM",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-10-25 12:55:24",
       "album": {
-        "name": "All Hope Is Gone",
-        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "Psychosocial",
-      "url": "https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3"
-    },
-    {
-      "added_at": "2023-10-25 12:55:24",
-      "album": {
         "name": "Amaryllis",
         "url": "https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 188093,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/1SDl9wY1MqbpJQW0yKEWxL"
+    },
+    {
+      "added_at": "2023-10-25 12:55:24",
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "Psychosocial",
+      "url": "https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3"
     },
     {
       "added_at": "2023-10-25 12:55:24",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-10-25 12:55:24",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI"
-    },
-    {
-      "added_at": "2023-10-25 12:55:24",
-      "album": {
         "name": "For Those That Wish To Exist",
         "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 231161,
       "name": "Black Lungs",
       "url": "https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK"
+    },
+    {
+      "added_at": "2023-10-25 12:55:24",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI"
     },
     {
       "added_at": "2023-10-25 12:55:24",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-25 12:55:24",
       "album": {
-        "name": "The Sound of Madness",
-        "url": "https://open.spotify.com/album/661dSFpYtPulSNDZZLkokq"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 233986,
-      "name": "Sound of Madness",
-      "url": "https://open.spotify.com/track/1TRr8Pp2uOqL24fMHpJyV3"
-    },
-    {
-      "added_at": "2023-10-25 12:55:24",
-      "album": {
         "name": "Last of a Dyin' Breed (Special Edition)",
         "url": "https://open.spotify.com/album/4rRCrcBlh0Io9edrPT0oxd"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 194493,
       "name": "Low Down Dirty",
       "url": "https://open.spotify.com/track/7Gutanf1Mf2r8ASTlrR5ku"
+    },
+    {
+      "added_at": "2023-10-25 12:55:24",
+      "album": {
+        "name": "The Sound of Madness",
+        "url": "https://open.spotify.com/album/661dSFpYtPulSNDZZLkokq"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 233986,
+      "name": "Sound of Madness",
+      "url": "https://open.spotify.com/track/1TRr8Pp2uOqL24fMHpJyV3"
     },
     {
       "added_at": "2023-10-25 12:55:24",

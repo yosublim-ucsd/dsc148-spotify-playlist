@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3mhuR7.md) - [plain]
 
 ### [This Is The Orb](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3mhuR7)
 
-> This is The Orb\. The essential tracks, all in one playlist.
+> This is The Orb\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,214 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,218 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3mhuR7.md) - [plain]
 | 17 | [Ripples](https://open.spotify.com/track/65lvKJ480u9XNFACkKsPII) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Okie Dokie It´s The Orb On Kompakt](https://open.spotify.com/album/3m3V6T3l7IczkqgMKy5QVI) | 5:51 |
 | 18 | [Ace](https://open.spotify.com/track/1beaf5lwVWnWwozz1HoNjQ) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:44 |
 | 19 | [Orban Tumbleweed](https://open.spotify.com/track/0lB2DD7k0Jb3UdNQeEEHbd) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Baghdad Batteries \(Orbsessions Volume 3\)](https://open.spotify.com/album/6pTjkBOxkrhJ4WPD37gMG0) | 3:32 |
-| 20 | [7 Oaks](https://open.spotify.com/track/2dJz8zc30GvBOVV1rXhaaE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 2:19 |
+| 20 | [9 elms over river eno \(channel 9\)](https://open.spotify.com/track/36BI2fXvlLxVoJKF9csjE9) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 4:05 |
 | 21 | [Super Nova At The End Of The Universe](https://open.spotify.com/track/1QOIvqLUacNvxOBAoA1cDJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 11:56 |
 | 22 | [Leaving Plymouth](https://open.spotify.com/track/3cfMWvdlP9BkOrenbJnnD8) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:06 |
 | 23 | [A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld : Loving You \- Aubrey Mix Mk 11 By Jimmy Cauty & Dr\. Alex Paterson](https://open.spotify.com/track/5JN6YQJWXMrwaDt43DNKXw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Jimmy Cauty](https://open.spotify.com/artist/325AAuwgKwl8CKKm6w33yR), [Alex Paterson](https://open.spotify.com/artist/0Xz8JZqrvS1ArSRlyBSMIT) | [The Orb \- History Of The Future \(Deluxe Edition\)](https://open.spotify.com/album/7cUZK5ii1GJqR4rYoVflfi) | 7:22 |
-| 24 | [9 elms over river eno \(channel 9\)](https://open.spotify.com/track/36BI2fXvlLxVoJKF9csjE9) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 4:05 |
+| 24 | [7 Oaks](https://open.spotify.com/track/2dJz8zc30GvBOVV1rXhaaE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 2:19 |
 | 25 | [Perpetual Dawn](https://open.spotify.com/track/34Oyuo4A14MRdn8auc0cix) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 9:32 |
 | 26 | [Flat Side: Seamlessly Martian Spheres of Reflection Mix: Movement 4](https://open.spotify.com/track/3iy7QnGu7UFU9tInjNnjPp) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres In Colour](https://open.spotify.com/album/4Rfyk5GBsfwxVjctVoJHgs) | 9:07 |
 | 27 | [Compass I Fell in Love](https://open.spotify.com/track/6LTwNUukpNh8cDJQ26QnGZ) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:11 |
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3mhuR7.md) - [plain]
 | 30 | [First \- Consider The Lillies](https://open.spotify.com/track/291MUOtJm8oBoohFCJGJyg) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 7:00 |
 | 31 | [Afterlife Aftershave \- Edit](https://open.spotify.com/track/3ySjD4n8uzCOeToDXyvZdp) | [Sedibus](https://open.spotify.com/artist/1lUshJ8UbLawZ3bH85qgA4), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Heavens](https://open.spotify.com/album/2bTeiXCBjfsKnGnezvw7DB) | 2:58 |
 | 32 | [Pebbles](https://open.spotify.com/track/7cMs3QlXI82fsFtXiM439v) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Baghdad Batteries \(Orbsessions Volume 3\)](https://open.spotify.com/album/6pTjkBOxkrhJ4WPD37gMG0) | 1:08 |
-| 33 | [Back Side Of The Moon](https://open.spotify.com/track/26txolfsixS8C767jpTREx) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 14:14 |
-| 34 | [Saragossa Wells](https://open.spotify.com/track/5fwL8bx0RRneEbkNuQmPrQ) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:38 |
+| 33 | [Saragossa Wells](https://open.spotify.com/track/5fwL8bx0RRneEbkNuQmPrQ) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:38 |
+| 34 | [Back Side Of The Moon](https://open.spotify.com/track/26txolfsixS8C767jpTREx) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 14:14 |
 | 35 | [Ubiquity](https://open.spotify.com/track/2S4up10cmuusAjbyuzuoAQ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 6:13 |
 | 36 | [Doughnuts Forever](https://open.spotify.com/track/7hZ86JXDN4N2QO3XkhVEwR) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 3:30 |
 | 37 | [Fussball](https://open.spotify.com/track/5cZ90X5hD4SEGFtaunUg45) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [More Tales from the Orbservatory](https://open.spotify.com/album/2NOoRjZZ03QCUZjZZkfRBS) | 4:30 |
 | 38 | [Star 6 & 7 8 9](https://open.spotify.com/track/2rptpw6hQQ8YewzB2hKOrj) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 8:10 |
-| 39 | [Just Because I Really Really Luv Ya](https://open.spotify.com/track/197qEq8OyjaWcHQvGkiwNJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 4:21 |
+| 39 | [U.F.Orb](https://open.spotify.com/track/7M7UsilKcShcDMcuuU4ylD) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 6:09 |
 | 40 | [Drift](https://open.spotify.com/track/0yxjWgKXPMt9xls7P3e63e) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 1:41 |
-| 41 | [U.F.Orb](https://open.spotify.com/track/7M7UsilKcShcDMcuuU4ylD) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 6:09 |
+| 41 | [Just Because I Really Really Luv Ya](https://open.spotify.com/track/197qEq8OyjaWcHQvGkiwNJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 4:21 |
 | 42 | [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 |
 | 43 | [Plateau](https://open.spotify.com/track/3B4lp8GZOzyvpNePkbL7ga) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orbvs Terrarvm](https://open.spotify.com/album/2cLITANiTl4sj0lTBR8Afg) | 12:49 |
 | 44 | [Asylum](https://open.spotify.com/track/07QwYSsx6bKV5Ye5OgHUJJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 5:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3mhuR7.md) - [plain]
 | 49 | [picking tea leaves & chasing butterflies](https://open.spotify.com/track/1vvdzwz3JlpVQO4MvFYOUv) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/4CK8suk0SpQLATGK5qLodk) | 6:13 |
 | 50 | [Bedouin](https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 4:31 |
 
-Snapshot ID: `ZndlgAAAAAAUUZO+qr5s2pdeF0ZTDKsW`
+Snapshot ID: `Zni3AAAAAACl/kjrj2AOPZZoQ3xQa1G1`

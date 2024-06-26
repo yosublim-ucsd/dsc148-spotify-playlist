@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,995 likes - 124 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,999 likes - 124 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 69 | [Cold Winter Nights](https://open.spotify.com/track/04PHVpKVVx7W0Pd48SB9si) | [Pesukone](https://open.spotify.com/artist/68mk8GNhUjTLMw72RCBIvV), [Leon Kavanagh](https://open.spotify.com/artist/3HMoBf2AzmJTCSj76vv6i3) | [Cold Winter Nights](https://open.spotify.com/album/0SGnLBkfAOdGeMivN3WaqT) | 2:48 |
 | 70 | [Bring Me Joy](https://open.spotify.com/track/7f8EzmXuroHbrt9K8sLSEz) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Bring Me Joy](https://open.spotify.com/album/3RPePHCPxwFxltpXQLZhOU) | 2:25 |
 | 71 | [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 |
-| 72 | [Launch It \- Intro](https://open.spotify.com/track/6OQzLsZ11CzQ0VEJu6I08g) | [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [AZTYS](https://open.spotify.com/album/5aWoli83M9zdYw2OUanwnB) | 2:53 |
+| 72 | [Launch It](https://open.spotify.com/track/6OQzLsZ11CzQ0VEJu6I08g) | [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [AZTYS](https://open.spotify.com/album/5aWoli83M9zdYw2OUanwnB) | 2:53 |
 | 73 | [The Coldest Heart](https://open.spotify.com/track/2wvjMzCitURSwDDn3baTGO) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [The Coldest Heart](https://open.spotify.com/album/14KkawRSUL12No6Z1vTrx4) | 4:29 |
 | 74 | [Superhuman \(feat\. Niniola\)](https://open.spotify.com/track/3EbIIbw461alJvQBFEneTH) | [Kronan](https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Superhuman \(feat\. Niniola\)](https://open.spotify.com/album/7EyDhzlp5kwe72Si8U5dqn) | 3:38 |
 | 75 | [STEALTH BOMBER \(feat\. Flowdan\)](https://open.spotify.com/track/5ufcSQog3pRDAHl2FEwYoH) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [STEALTH BOMBER \(feat\. Flowdan\)](https://open.spotify.com/album/5Zcig8EL8Fk0ND5riw8EU1) | 2:17 |

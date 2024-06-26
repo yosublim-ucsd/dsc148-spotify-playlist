@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Bea Rodrigues",
-  "num_followers": 120990,
+  "num_followers": 121010,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
+        "name": "\u00c1gape (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru"
+      },
+      "artists": [
+        {
+          "name": "\u00c1quila",
+          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
+        }
+      ],
+      "duration_ms": 573739,
+      "name": "\u00c1gape - Ao Vivo",
+      "url": "https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
         "name": "Vai Adorando (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 330409,
       "name": "Vai Adorando (Ao Vivo)",
       "url": "https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "\u00c1gape (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru"
-      },
-      "artists": [
-        {
-          "name": "\u00c1quila",
-          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
-        }
-      ],
-      "duration_ms": 573739,
-      "name": "\u00c1gape - Ao Vivo",
-      "url": "https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -483,8 +483,8 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
+        "name": "A Igreja Te Adora",
+        "url": "https://open.spotify.com/album/1x4xaiUFRa6T8ZvIKu4l68"
       },
       "artists": [
         {
@@ -492,13 +492,13 @@
           "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
         },
         {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+          "name": "Elizeu Alves",
+          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
         }
       ],
-      "duration_ms": 216131,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
+      "duration_ms": 269165,
+      "name": "A Igreja Te Adora",
+      "url": "https://open.spotify.com/track/7AeBgQQQKVIvxD6jBEdF2c"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -607,6 +607,42 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
+        "name": "Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "D\u00ea Mais uma Chance para o Mundo",
+      "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 216131,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
         "name": "Destemida",
         "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
       },
@@ -623,42 +659,6 @@
       "duration_ms": 298285,
       "name": "Destemida",
       "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "A Igreja Te Adora",
-        "url": "https://open.spotify.com/album/1x4xaiUFRa6T8ZvIKu4l68"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Elizeu Alves",
-          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
-        }
-      ],
-      "duration_ms": 269165,
-      "name": "A Igreja Te Adora",
-      "url": "https://open.spotify.com/track/7AeBgQQQKVIvxD6jBEdF2c"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "D\u00ea Mais uma Chance para o Mundo",
-      "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Tu \u00c9s Real",
-        "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
-      },
-      "artists": [
-        {
-          "name": "Tamires Sabotage",
-          "url": "https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy"
-        }
-      ],
-      "duration_ms": 302769,
-      "name": "Tu \u00c9s Real",
-      "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Descansa em Mim",
         "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 305000,
       "name": "Descansa em Mim",
       "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Tu \u00c9s Real",
+        "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
+      },
+      "artists": [
+        {
+          "name": "Tamires Sabotage",
+          "url": "https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy"
+        }
+      ],
+      "duration_ms": 302769,
+      "name": "Tu \u00c9s Real",
+      "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Quem Disse? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO"
-      },
-      "artists": [
-        {
-          "name": "Julliana Silva",
-          "url": "https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI"
-        }
-      ],
-      "duration_ms": 330005,
-      "name": "Quem Disse? - Ao Vivo",
-      "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Sua Vida Em Mim",
         "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 330000,
       "name": "Sua Vida Em Mim",
       "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "Quem Disse? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO"
+      },
+      "artists": [
+        {
+          "name": "Julliana Silva",
+          "url": "https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI"
+        }
+      ],
+      "duration_ms": 330005,
+      "name": "Quem Disse? - Ao Vivo",
+      "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
     },
     {
       "added_at": "2023-12-21 22:17:17",

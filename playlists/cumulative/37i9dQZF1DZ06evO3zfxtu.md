@@ -2,13 +2,13 @@
 
 ### [This Is Eva Shaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3zfxtu)
 
-> This is Eva Shaw\. The essential tracks, all in one playlist.
+> This is Eva Shaw\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 76 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100%](https://open.spotify.com/track/2KrLo6tZVmS9vWGa4rejK5) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [100%](https://open.spotify.com/album/7KxXdsAwi1yz5mUkyG5l2J) | 2:49 | 2023-12-13 | 2024-06-21 |
+| [100%](https://open.spotify.com/track/2KrLo6tZVmS9vWGa4rejK5) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [100%](https://open.spotify.com/album/7KxXdsAwi1yz5mUkyG5l2J) | 2:49 | 2023-12-13 |  |
 | [100GANG](https://open.spotify.com/track/0nQMfKCZUHSYA2Qp98Q4m1) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Hitmakerchinx](https://open.spotify.com/artist/6GhBUUXBi2x3DVad9izEQD) | [100GANG](https://open.spotify.com/album/7HuzSng8agTguNBreZvmC3) | 2:27 | 2023-12-13 |  |
 | [24 HRS](https://open.spotify.com/track/1Ngi1J3I5AmKkUMbhF9Vgz) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Db Bantino](https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 3:09 | 2023-12-13 | 2024-06-03 |
 | [40 Bands](https://open.spotify.com/track/6doqLkPsmb0bHjsH9DnKsH) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 3:02 | 2023-12-13 |  |
@@ -73,7 +73,7 @@
 | [STRIP](https://open.spotify.com/track/4NmQFYQkKQFFUn3v81vtbT) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr), [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [STRIP](https://open.spotify.com/album/2Y9kOV2VCBxTuVfMcwEliK) | 2:57 | 2023-12-13 |  |
 | [THE CURE](https://open.spotify.com/track/5ZzXvXkeuw6vUksPfnWePI) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [THE CURE](https://open.spotify.com/album/6qDp02pofjvyNpUY8qnHaC) | 3:23 | 2024-02-06 | 2024-03-16 |
 | [THE CURE](https://open.spotify.com/track/6o4FqKiOKB7c7W0SJbk9ZM) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [HYPE HOP 003](https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj) | 3:23 | 2023-12-13 |  |
-| [The Weekend \(feat\. Eva Shaw\)](https://open.spotify.com/track/68OH3MoN4j2HuJsuco6oZ9) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Spree Wilson](https://open.spotify.com/artist/266duGfkKTRERSBoGDOgDy), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [The Weekend \(feat\. Eva Shaw\)](https://open.spotify.com/album/7K2rpxdi4tp8AL6kOBsjJC) | 2:43 | 2023-12-13 |  |
+| [The Weekend \(feat\. Eva Shaw\)](https://open.spotify.com/track/68OH3MoN4j2HuJsuco6oZ9) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Spree Wilson](https://open.spotify.com/artist/266duGfkKTRERSBoGDOgDy), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [The Weekend \(feat\. Eva Shaw\)](https://open.spotify.com/album/7K2rpxdi4tp8AL6kOBsjJC) | 2:43 | 2023-12-13 | 2024-06-26 |
 | [TOWNHOUSES \- Interlude](https://open.spotify.com/track/5F8kMR7DfbnoYcr63PmWKp) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 1:00 | 2023-12-13 |  |
 | [U \(feat\. Mally Mall & Sonny Wilson\)](https://open.spotify.com/track/0DCBpDmAyJRRKupCAJzjRj) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Mally Mall](https://open.spotify.com/artist/2F4vlQrJakgfJhEW93DFcZ), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [U \(feat\. Mally Mall & Sonny Wilson\)](https://open.spotify.com/album/1Vp2y5edO73InFx4jeXGRV) | 2:59 | 2023-12-13 |  |
 | [UNTZ \[NYC Rage Fest\]](https://open.spotify.com/track/3kQWSyGNJCa5JuL4YgFWgE) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [UNTZ \[NYC Rage Fest\]](https://open.spotify.com/album/15LmWLZ12uPI0QsWYYYJAa) | 3:56 | 2024-01-13 |  |

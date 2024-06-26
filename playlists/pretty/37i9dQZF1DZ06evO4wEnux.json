@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZndlgAAAAABNK6MutVHIQWC0lYEmMObO",
+  "snapshot_id": "Zni3AAAAAAD3aPK2nYPZ3vFwZ9YNWALz",
   "tracks": [
     {
       "added_at": null,
@@ -418,11 +418,15 @@
         {
           "name": "Fatherson",
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        },
+        {
+          "name": "Bryde",
+          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
         }
       ],
-      "duration_ms": 319506,
-      "name": "Oh Yes",
-      "url": "https://open.spotify.com/track/6zK1NS9Mgik6BKycYDFRFs"
+      "duration_ms": 284973,
+      "name": "Nothing to No One",
+      "url": "https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W"
     },
     {
       "added_at": null,

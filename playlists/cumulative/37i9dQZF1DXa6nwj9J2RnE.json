@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Narcopop",
+        "url": "https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98"
+      },
+      "artists": [
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149235,
+      "name": "Blokke Gepikt",
+      "url": "https://open.spotify.com/track/59B2swrX8DdCl0zDXrHXu9"
+    },
+    {
+      "album": {
         "name": "Under Wishing Stars",
         "url": "https://open.spotify.com/album/2TbvOuz2VmxIw4B5Td6MK1"
       },
@@ -968,7 +986,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 167294,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/1JDWUdfpi7lEm39hTuEuh0"
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 157755,
       "name": "IN THE HILLS//IN DE WEIDE",
       "url": "https://open.spotify.com/track/3JjcRAnlWFHCXR0zrV7gE5"
@@ -1210,7 +1228,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 132500,
       "name": "Kop In The Sand",
       "url": "https://open.spotify.com/track/4XCw1TmwEKcU2rbUQAvSNk"
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 168648,
       "name": "KROKODILLENTRANEN",
       "url": "https://open.spotify.com/track/1MfB3nj3mpBs0kIknCa5Jq"
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 219916,
       "name": "Nog Steeds Dezelfde",
       "url": "https://open.spotify.com/track/0F4hPNXDZHw79Vxxxklcl6"
@@ -1848,7 +1866,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 207109,
       "name": "Sepia",
       "url": "https://open.spotify.com/track/4OnJJB3lwl1fnPGrDQlbzy"
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 283800,
       "name": "The Observer",
       "url": "https://open.spotify.com/track/6f6qL5EOxhStjbxy4mSbfQ"
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 221935,
       "name": "Time for Love",
       "url": "https://open.spotify.com/track/4wCYpfVP2qRSYB4OO5q8FC"
@@ -2340,7 +2358,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 193926,
       "name": "UPROOT",
       "url": "https://open.spotify.com/track/757h2XNOmakab55xqMFDRc"
@@ -2394,7 +2412,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 150991,
       "name": "VERFBOMMENVERF",
       "url": "https://open.spotify.com/track/5a8XU0IawHs3qtkET6LiK0"
@@ -2514,6 +2532,24 @@
       "duration_ms": 199453,
       "name": "Waarom /2",
       "url": "https://open.spotify.com/track/1BjpwQcgj54IukIeD9eMEs"
+    },
+    {
+      "album": {
+        "name": "Heilig",
+        "url": "https://open.spotify.com/album/6zGVciLVEfYWzPK24jgerH"
+      },
+      "artists": [
+        {
+          "name": "Bob uit Zuid",
+          "url": "https://open.spotify.com/artist/4L0tWcECUNXMKnUWNQ1bNv"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207106,
+      "name": "Waarom Groot",
+      "url": "https://open.spotify.com/track/51HKork5xatPaqGjyxQ2Bt"
     },
     {
       "album": {
@@ -2658,7 +2694,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 179395,
       "name": "youandme",
       "url": "https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE"
@@ -2730,7 +2766,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 183000,
       "name": "Zorgeloos",
       "url": "https://open.spotify.com/track/2M4ullZOgWZWSovqHslHG4"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: MIKADO",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: sheidA",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -330,6 +330,28 @@
       "duration_ms": 141333,
       "name": "4L",
       "url": "https://open.spotify.com/track/4FAylYQGb2PV9y7LiPrlcn"
+    },
+    {
+      "album": {
+        "name": "505",
+        "url": "https://open.spotify.com/album/7J4lTRNBsfXRABZ4LCvRdr"
+      },
+      "artists": [
+        {
+          "name": "DJ Yen",
+          "url": "https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60"
+        },
+        {
+          "name": "15MUS",
+          "url": "https://open.spotify.com/artist/6RzdMi00bcAPKf4Y5isj9j"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123843,
+      "name": "505",
+      "url": "https://open.spotify.com/track/7pyTw6TbtMHcKZK9v8R9tM"
     },
     {
       "album": {
@@ -1018,6 +1040,24 @@
       "duration_ms": 186849,
       "name": "BIG HEAD",
       "url": "https://open.spotify.com/track/4JHUL3yLXRAHr9V8JWcfdP"
+    },
+    {
+      "album": {
+        "name": "BIG STEP",
+        "url": "https://open.spotify.com/album/00b8thjTl2zC6xx8bcwWty"
+      },
+      "artists": [
+        {
+          "name": "Nyture",
+          "url": "https://open.spotify.com/artist/21WTkPiS6pwSvpdwhzXyUJ"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199862,
+      "name": "BIG STEP",
+      "url": "https://open.spotify.com/track/6CGuYQfsgfjjr6OV6C43cR"
     },
     {
       "album": {
@@ -6364,7 +6404,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 167271,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0ubPRDaIbWJzz5BaepbXJY"
@@ -6678,7 +6718,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 242499,
       "name": "P.M. Sunset",
       "url": "https://open.spotify.com/track/76brxOZ261tmgK6VzMfnYb"
@@ -7152,6 +7192,24 @@
       "duration_ms": 141282,
       "name": "Repeater",
       "url": "https://open.spotify.com/track/6deBxFnn51FKLmAAbyZrF7"
+    },
+    {
+      "album": {
+        "name": "RESTART",
+        "url": "https://open.spotify.com/album/5MJYnY5zIZ3ScFz8exR6iE"
+      },
+      "artists": [
+        {
+          "name": "sheidA",
+          "url": "https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "RESTART",
+      "url": "https://open.spotify.com/track/0WkjXtIf3pz0otHWNLeMls"
     },
     {
       "album": {
@@ -7984,7 +8042,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 118588,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3zxVf4Dfuoxo2a3TZXdHTO"
@@ -8226,7 +8284,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 88640,
       "name": "sunrise",
       "url": "https://open.spotify.com/track/6Yq82Z17j5LrQGjfV0Rz3G"
@@ -10010,6 +10068,28 @@
       "duration_ms": 223359,
       "name": "\u6771\u4eac\u7121\u5bbf",
       "url": "https://open.spotify.com/track/1jYypP5U3UPsDDNdOdDvrM"
+    },
+    {
+      "album": {
+        "name": "\u6b63\u5922",
+        "url": "https://open.spotify.com/album/5KM1cPxjzMu9WRP4skATa7"
+      },
+      "artists": [
+        {
+          "name": "ShowyVICTOR",
+          "url": "https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA"
+        },
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165916,
+      "name": "\u6b63\u5922",
+      "url": "https://open.spotify.com/track/75oFQY95GilHqIMQYAWItl"
     },
     {
       "album": {

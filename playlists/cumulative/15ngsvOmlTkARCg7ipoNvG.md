@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,764 songs - 1 day 12 hr 29 min
+1,768 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,6 +669,7 @@
 | [Gentle Flight](https://open.spotify.com/track/4q7FJ0Xiftijp3gmwau2n1) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:31 | 2022-01-12 |  |
 | [Gentle Flow](https://open.spotify.com/track/3yMd7RKJgrQn7o2BXjHjLy) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:43 | 2022-01-12 |  |
 | [Gentle Footsteps \- Cello Version](https://open.spotify.com/track/4yVqHxsgyldWLeAIzCha4O) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Gentle Footsteps](https://open.spotify.com/album/35feb6mazViXNITgLKlxfL) | 1:01 | 2024-02-09 | 2024-02-13 |
+| [Gentle Heart](https://open.spotify.com/track/6SthC6BVnGZW5L967HAZUz) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Gentle Heart](https://open.spotify.com/album/4eqGNQ7SxLCRPaBSGTr6jh) | 1:00 | 2024-06-25 |  |
 | [Gentle Landing](https://open.spotify.com/track/4BtmWlFdkec2lVNW1BH28s) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Soaring](https://open.spotify.com/album/0M1455WqEoRjvehxgXmICI) | 1:04 | 2022-03-03 |  |
 | [Gentle Skies](https://open.spotify.com/track/2a4Q4Kp1teV3anzRCibIFm) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wonderment](https://open.spotify.com/album/5xvoEnKYHlb2kBfkcE6i0k) | 1:02 | 2022-03-02 |  |
 | [Gentle Skies \- Cello Version](https://open.spotify.com/track/2Jka4oJTJBU3dBul2qsz1r) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wonderment](https://open.spotify.com/album/5xvoEnKYHlb2kBfkcE6i0k) | 1:03 | 2022-03-02 |  |
@@ -942,6 +943,7 @@
 | [Meadow \- Cello Version](https://open.spotify.com/track/2kWPYv0BqtWySFMH8mvGEF) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Dreaming Of Spring Revisited \(Cello Version\)](https://open.spotify.com/album/7fv92xtC8fBziyWGy6U92Z) | 1:00 | 2024-02-16 |  |
 | [Meadows](https://open.spotify.com/track/053iOzuMkMvARAHcuF6nJx) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Blue](https://open.spotify.com/album/66uTGKCnvVcGTqMDHy439T) | 1:53 | 2022-01-12 | 2024-01-30 |
 | [Melancholic Moment \- Strings Version](https://open.spotify.com/track/3tApqv72ZIdIItTnXT5woL) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Two Trios \(Strings Version\)](https://open.spotify.com/album/0ATNTO1K6lvvxRmj3MzHG9) | 1:14 | 2024-02-09 | 2024-02-13 |
+| [Mellow](https://open.spotify.com/track/1NNjQtOKYyRQA5uVTIb3D0) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Mellow](https://open.spotify.com/album/43NDNmPSM9w6Fpukb3LS0L) | 1:00 | 2024-06-25 |  |
 | [Mellow Days \- Cello Version](https://open.spotify.com/track/5YmHoOQvEZ5ne4MRptqQpv) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Mellow Days](https://open.spotify.com/album/2VT3hLh8i11KBPQ4yjr98o) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Mellow Morning](https://open.spotify.com/track/7p6tnzVKQK4FnnQdGpjMiD) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Mellow Morning](https://open.spotify.com/album/2aHxWEzECDsdpxlF1DNDX0) | 1:01 | 2023-06-02 |  |
 | [Mellow Morning Arr\. For Cello And Felt Piano](https://open.spotify.com/track/0Mj110E5uzi2nCiPGQjEYU) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Mellow Morning Arr\. For Cello And Felt Piano](https://open.spotify.com/album/2YYF8aXh7KIcaFjXnFf8Kw) | 1:01 | 2024-02-09 | 2024-02-13 |
@@ -1378,6 +1380,7 @@
 | [Smiling From Afar](https://open.spotify.com/track/23z8pasmq2XiiBlpxsiWJo) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space](https://open.spotify.com/album/5Syb7X9pjYZHqNPxbXO9yM) | 1:05 | 2022-02-03 |  |
 | [So Delightful](https://open.spotify.com/track/0sM3aHTn3r15u0hYEurSxX) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Soul Path](https://open.spotify.com/album/0PUgfkmtxNZ4KFNYkVfksT) | 1:04 | 2024-02-09 | 2024-02-13 |
 | [Soaring Doves](https://open.spotify.com/track/3IqTo58Op0fZbgkfU6Kn7e) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Beautiful Dreams](https://open.spotify.com/album/6Q8Qv4dPI9s1Fe5uKIbz3T) | 1:35 | 2022-02-14 |  |
+| [Soft](https://open.spotify.com/track/0Ko20AikARVLDZ54Fa7SuF) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Soft](https://open.spotify.com/album/1ynkHh470SKf8ZIyt8x0bs) | 1:00 | 2024-06-25 |  |
 | [Soft Breath](https://open.spotify.com/track/2bdo9Blz7EV7SFSjNpawPo) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:04 | 2022-01-27 |  |
 | [Soft Landing](https://open.spotify.com/track/2FyRIqDO3AGXwSLsZlGbDh) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Nightfall](https://open.spotify.com/album/2ZqMA0BErQjA4p7pjJsCYJ) | 1:20 | 2022-01-12 |  |
 | [Soft Moon \- Piano Version](https://open.spotify.com/track/12YtTb9gCKuSWoEen5TKUF) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Harp and Piano Lullabies](https://open.spotify.com/album/67Snvekmj1dkwpIU4CJUi7) | 1:03 | 2023-05-14 | 2024-01-30 |
@@ -1473,6 +1476,7 @@
 | [Summer Sunsets](https://open.spotify.com/track/0ZoOiMcokDVcnRPk6PMY7y) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Summer Sunsets](https://open.spotify.com/album/3VuBT48I5RFPkzYcudagXD) | 1:04 | 2024-02-09 | 2024-02-13 |
 | [Summit](https://open.spotify.com/track/3oN5IefFWCo7SN3WorWX4w) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Cello Ambience](https://open.spotify.com/album/3d4A1XQAVvCZhzFnBGV4Kt) | 1:23 | 2022-01-12 |  |
 | [Summit Sunrise](https://open.spotify.com/track/7pFJrDDybElyPcgN3ySXK1) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Spring Beauty](https://open.spotify.com/album/35D2cTFatHekDeHjEKMcaF) | 1:03 | 2022-03-17 |  |
+| [Sun](https://open.spotify.com/track/1cSnWrFpr8SpTbjRYnZN2M) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Sun](https://open.spotify.com/album/1e5d910B5XUATnxLHUZfjt) | 1:00 | 2024-06-25 |  |
 | [Sunday Evening Glow](https://open.spotify.com/track/6de53fFayanjjfXgIIN4Be) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Inner Beauty](https://open.spotify.com/album/6weKQrpQ7Pi4wLKdvQEuD8) | 1:00 | 2022-06-05 |  |
 | [Sunday Evening Lullaby Arr\. For Cello](https://open.spotify.com/track/2It9FaoahyTbjGZ7QpG9M1) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Sunday Evening Lullaby Arr\. For Cello](https://open.spotify.com/album/0VTAfZhkBkLVk4hmKmW8sd) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Sunday Evening Lullaby Arr\. For Piano](https://open.spotify.com/track/77hSDP9cLsu45qYRDl1IKQ) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Sunday Evening Lullaby Arr\. For Piano](https://open.spotify.com/album/5khB6erbDksVm5rqscH2nb) | 1:01 | 2023-04-19 | 2024-01-30 |

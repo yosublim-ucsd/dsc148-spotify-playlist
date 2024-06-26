@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Kalki 2898 Ad
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,066 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,479 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 3 | [Ika Na Maate](https://open.spotify.com/track/6OvAHfLLdqmNTmqOKMBsx3) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Manamey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aj78D2jBeddhoWMm73HFZ) | 3:04 |
 | 4 | [Fear Song \(From "Devara Part 1"\) \[Telugu\]](https://open.spotify.com/track/6b2WJDzGt5X8dYfpkWtvXW) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Fear Song \(From "Devara Part 1"\) \[Telugu\]](https://open.spotify.com/album/1OO05SXoc1JTyvGbxi75Pm) | 3:15 |
 | 5 | [Hungry Cheetah \(From "They Call Him OG"\)](https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Hungry Cheetah \(From "They Call Him OG"\)](https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg) | 1:59 |
-| 6 | [Ticket Eh Konakunda](https://open.spotify.com/track/3NdQpAhK5s42vu3do3KSBT) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Tillu Square](https://open.spotify.com/album/5oNL1ay25NKeMieYCFwhci) | 3:09 |
-| 7 | [Gumma \(From "Ambajipeta Marriage Band"\)](https://open.spotify.com/track/30CBQmKZ0fugbhs7ExGT1e) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA) | [Gumma \(From "Ambajipeta Marriage Band"\)](https://open.spotify.com/album/3UtsdAsNLgSakD8UYYXf4o) | 3:50 |
+| 6 | [Gumma \(From "Ambajipeta Marriage Band"\)](https://open.spotify.com/track/30CBQmKZ0fugbhs7ExGT1e) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA) | [Gumma \(From "Ambajipeta Marriage Band"\)](https://open.spotify.com/album/3UtsdAsNLgSakD8UYYXf4o) | 3:50 |
+| 7 | [Souraa \(From "Bharateeyudu 2"\)](https://open.spotify.com/track/6EQVXaIi22Ilmkt1Coi9gZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ritesh G Rao](https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz), [Shruthika Samudhrala](https://open.spotify.com/artist/6tV6eU1gwsruSzN4PyDJWe) | [Souraa \(From "Bharateeyudu 2"\)](https://open.spotify.com/album/0bjug1LVXNf7WiAqNUHjLr) | 4:12 |
 | 8 | [Anuvanuvuu](https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb) | [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Om Bheem Bush](https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr) | 3:31 |
 | 9 | [Kurchi Madathapetti](https://open.spotify.com/track/0hY9eA74QrMCJuWEx7fo9y) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM), [Mahesh Babu](https://open.spotify.com/artist/3fHBN4cBo24hLf8jnCUTYK), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Guntur Kaaram](https://open.spotify.com/album/43yBwxxfwX5mpyHxFLkqdn) | 3:36 |
 | 10 | [Pushpa Pushpa \(From "Pushpa 2 The Rule"\) \[TELUGU\]](https://open.spotify.com/track/5bnxMZqd9Kpn9ByHj3Dc9C) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Pushpa Pushpa \(From "Pushpa 2 The Rule"\) \[TELUGU\]](https://open.spotify.com/album/18hhin8Y0j4EeOn3G2PYXX) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Neeve](https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Darling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd) | 4:41 |
 | 50 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 
-Snapshot ID: `Zm7dJQAAAAB1LTFQbbzrbnBmFgsyjHkY`
+Snapshot ID: `ZnqJ6gAAAACVLXflF+qBkPm1S8u4gymT`

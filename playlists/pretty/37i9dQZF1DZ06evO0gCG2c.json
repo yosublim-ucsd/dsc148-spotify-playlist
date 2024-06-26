@@ -1,12 +1,12 @@
 {
-  "description": "This is Akon. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 297724,
+  "description": "This is Akon. The essential tracks, all in one playlist.",
+  "num_followers": 297792,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZndlgAAAAADs9shKxWcnlcY4jP6VOYHo",
+  "snapshot_id": "Zni3AAAAAABUevbvZWBgLWeUtBh7J9DP",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 293053,
+      "name": "Don't Matter",
+      "url": "https://open.spotify.com/track/7I6DceMT3utDOHjcYCbrr4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
       },
@@ -167,6 +183,26 @@
       "duration_ms": 227091,
       "name": "Chammak Challo",
       "url": "https://open.spotify.com/track/0EH7sgeiFqDa3eS7ieW2zs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "I Wanna Love You",
+      "url": "https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc"
     },
     {
       "added_at": null,
@@ -259,26 +295,6 @@
       "duration_ms": 200720,
       "name": "Body On Me",
       "url": "https://open.spotify.com/track/2IyL2CyHoenwQLds5jSuqK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Blue Carpet Treatment",
-        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "I Wanna Fuck You",
-      "url": "https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq"
     },
     {
       "added_at": null,
@@ -423,46 +439,6 @@
       "duration_ms": 223506,
       "name": "I'll Still Kill",
       "url": "https://open.spotify.com/track/6joiQ57IEXiC0yWtpZ71e5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strength & Loyalty",
-        "url": "https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 287480,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/2elA6JLRaQ6iB7hxiuTKN4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Super Saucy",
-        "url": "https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x"
-      },
-      "artists": [
-        {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 219186,
-      "name": "Baby, I'm Back",
-      "url": "https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be"
     },
     {
       "added_at": null,
@@ -663,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turtleneck & Chain (Explicit Version)",
-        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
-      },
-      "artists": [
-        {
-          "name": "The Lonely Island",
-          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "I Just Had Sex",
-      "url": "https://open.spotify.com/track/5PEleSkK4p4E1sx3x7cOLt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
       },
@@ -699,6 +655,26 @@
       "duration_ms": 244453,
       "name": "Against The Grain",
       "url": "https://open.spotify.com/track/7drg9omSv2o04xPG60R8tb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turtleneck & Chain (Explicit Version)",
+        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
+      },
+      "artists": [
+        {
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "I Just Had Sex",
+      "url": "https://open.spotify.com/track/5PEleSkK4p4E1sx3x7cOLt"
     },
     {
       "added_at": null,
@@ -871,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Locked Up (ft. Akon)",
         "url": "https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu"
       },
@@ -907,6 +867,22 @@
       "duration_ms": 147170,
       "name": "Locked Up (ft. Akon)",
       "url": "https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5"
     },
     {
       "added_at": null,
@@ -1023,6 +999,30 @@
       "duration_ms": 183206,
       "name": "Enjoy That",
       "url": "https://open.spotify.com/track/0vzRLVEArgzEl2FUHj9xYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chop My Money",
+        "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        }
+      ],
+      "duration_ms": 272297,
+      "name": "Chop My Money - Remix",
+      "url": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
     }
   ],
   "unique_name": "This Is Akon",

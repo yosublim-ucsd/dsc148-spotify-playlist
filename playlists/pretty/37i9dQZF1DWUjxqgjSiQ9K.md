@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:2ayNSoKPCRAfjp6hQ76hRu">Nacho</a>, <a href="spotify:artist:0WI8OfWCRvK4nGHmKfFQmd">Alex Zurdo</a> , y <a href="spotify:artist:0WZOmdnCln6FK6GM9e2tGm">Redimi2</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,703 likes - 98 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,799 likes - 98 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 16 | [León](https://open.spotify.com/track/3pt0tMzHZQOY473maaT5sW) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [León](https://open.spotify.com/album/0pOrbTQTON7qWYZZbdyt1q) | 6:12 |
 | 17 | [¿Por qué?](https://open.spotify.com/track/6qupOPVn8IldSRBz2SbuZJ) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Samu Robles](https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl) | [¿Por qué?](https://open.spotify.com/album/1ng7i0E8PZa5PtOaIVUboh) | 2:42 |
 | 18 | [Ruido!](https://open.spotify.com/track/134153YPVKNep495TmCqRm) | [Anthem Worship Español](https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A), [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Ruido!](https://open.spotify.com/album/4q9D2wxN1NgSaqhXfigCeg) | 3:09 |
-| 19 | [Al Que Tenga Oídos](https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j), [George De León Jr.](https://open.spotify.com/artist/0QbSM8Sv2J74SJde00kZKZ) | [Al Que Tenga Oídos](https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs) | 4:43 |
+| 19 | [Al Que Tenga Oídos](https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Al Que Tenga Oídos](https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs) | 4:43 |
 | 20 | [LOVEO](https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LOVEO](https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr) | 2:53 |
 | 21 | [Chuvas](https://open.spotify.com/track/6tyn38PlOFo0ga9SyivTnB) | [MIMY](https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK), [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Chuvas](https://open.spotify.com/album/7qo5mcEMgXfEno6fve5svr) | 5:12 |
 | 22 | [Gracias A La Cruz](https://open.spotify.com/track/1z8O7c6SeYQymSen7xbTsF) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Gracias A La Cruz](https://open.spotify.com/album/2qr3B7UPelc7paIgaj55Nk) | 5:08 |

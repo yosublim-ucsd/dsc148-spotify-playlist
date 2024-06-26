@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. <br/>Cover: Diffrent
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,240 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,249 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 4 | [Drift](https://open.spotify.com/track/75psyfokDgEGACe1wurFPa) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI), [Sunnysoposted](https://open.spotify.com/artist/0U3uMh2JMp81V2hup0bJdt) | [Drift / Long Story Short](https://open.spotify.com/album/2Xd17DTj75hnMPUFEkHBGx) | 4:06 |
 | 5 | [Lost Grove](https://open.spotify.com/track/3Snx1ggBSnrfS0d3EWTuy4) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Lost Grove](https://open.spotify.com/album/7dUCv8Lt8dVPFniWpAfAA3) | 5:26 |
 | 6 | [Double SP](https://open.spotify.com/track/1SnSNcmxXQbhXHxSdNm6Kd) | [WOLTERS](https://open.spotify.com/artist/3gWrhUgsZptXzw4SHZUgOl) | [Double SP](https://open.spotify.com/album/6o3XqJvsUHPtkMOAN0DwI9) | 3:25 |
-| 7 | [You Luv Me](https://open.spotify.com/track/1MzJiroVd2f9CmwNZPxxAv) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [You Luv Me](https://open.spotify.com/album/6qZTG4OV8ah48eqvZnWkNw) | 4:08 |
+| 7 | [You Luv Me \(DJ\-Kicks\)](https://open.spotify.com/track/1MzJiroVd2f9CmwNZPxxAv) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [You Luv Me \(DJ\-Kicks\)](https://open.spotify.com/album/6qZTG4OV8ah48eqvZnWkNw) | 4:08 |
 | 8 | [The City Never Felt So Good](https://open.spotify.com/track/5EPLkWx3SqtK5fS9hbiHWL) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [The City Never Felt So Good](https://open.spotify.com/album/6vZMJqI9s1DFf6tMCLPvKi) | 2:56 |
 | 9 | [My Trust, My Love](https://open.spotify.com/track/5vSwVmL7UD0LthckRNA4WL) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Get Back To Me](https://open.spotify.com/album/4uCDB3qXsx19vTqsULijVW) | 3:50 |
 | 10 | [sorryimlate](https://open.spotify.com/track/4Ri0FsZdmSmnMUQKmwBrXO) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [sorryimlate](https://open.spotify.com/album/4gvLG8xFUqsVL6HjE8BuMC) | 2:35 |

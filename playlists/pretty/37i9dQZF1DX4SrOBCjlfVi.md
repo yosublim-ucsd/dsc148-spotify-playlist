@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring GloRilla, Travis Scott, Ice Spice and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,527 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,586 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 16 | [Aiight](https://open.spotify.com/track/2ybDLQGw9lMxgBtC79fbDJ) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Aiight](https://open.spotify.com/album/4ySXC2NWcjJisL5fpRvhLx) | 2:42 |
 | 17 | [Freak Show \(feat\. French Montana\)](https://open.spotify.com/track/42pAkccOVS3rmW8frHmpp1) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Freak Show](https://open.spotify.com/album/3bBBR0YDmIcXnZlwfk9qSd) | 3:08 |
 | 18 | [WYA](https://open.spotify.com/track/0pWe6arB3oGxI8msYHObbA) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [WYA](https://open.spotify.com/album/7I5lABeFEjFJcdgrVltGr7) | 2:16 |
-| 19 | [Offwhite Lumberjack](https://open.spotify.com/track/4v4k5AH10JSyT6eU1zXHPk) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [Offwhite Lumberjack](https://open.spotify.com/album/1CUOlrRYZkzhNyRRHq2Yd4) | 2:33 |
+| 19 | [Off\-White Lumberjack](https://open.spotify.com/track/4v4k5AH10JSyT6eU1zXHPk) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [Off\-White Lumberjack](https://open.spotify.com/album/1CUOlrRYZkzhNyRRHq2Yd4) | 2:33 |
 | 20 | [SPILL](https://open.spotify.com/track/1IyMhF5MmEzKDfRSt4qpot) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Don Cannon](https://open.spotify.com/artist/0jE9L2jmYpWwthSocLCILD) | [SPILL](https://open.spotify.com/album/4SheGFYgqo3qMSMaqLV2MR) | 4:22 |
 | 21 | [Seasons Change](https://open.spotify.com/track/0n1HZntJwa0YJIRsthWrB3) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Seasons Change](https://open.spotify.com/album/7weFr7PMqNzfFbvyp2od5o) | 2:00 |
 | 22 | [drunk prayer](https://open.spotify.com/track/7B8wSAsYjZODXJ3GXJlTWW) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [drunk prayer](https://open.spotify.com/album/2KKsYTS2o9Dc2ewKa6cBve) | 3:10 |

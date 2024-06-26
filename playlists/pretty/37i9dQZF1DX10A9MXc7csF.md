@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: El Padrinito Toys and Octavio Cuadras
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,405 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,476 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 20 | [Plan B](https://open.spotify.com/track/6prLB64chLph5L7FSiYsiV) | [ENANO](https://open.spotify.com/artist/42KS12jXMMjUHxYdQswCuz) | [Plan B](https://open.spotify.com/album/3pljduvYLW3gKVATmAGx3i) | 2:51 |
 | 21 | [Modo Sad](https://open.spotify.com/track/15Ccodimg1p4jFMRkYHVHQ) | [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K) | [Modo Sad](https://open.spotify.com/album/0OHrVeqmSmhvlHIDuhsusz) | 3:38 |
 | 22 | [Energía Oscura](https://open.spotify.com/track/4PGDLRQNah43T9HMR2eFac) | [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [Energía Oscura](https://open.spotify.com/album/3CPufq8qJv3coPhQVdrcck) | 2:48 |
-| 23 | [Pura Calidad](https://open.spotify.com/track/1PYnwflk3YzGnc6tYKXulS) | [Clave 77](https://open.spotify.com/artist/4wm5p9Ett9OPXZwG1WpqgP), [Porte Blindado](https://open.spotify.com/artist/5cZT2KvkWM3z9GC4hMYPlX), [Manuel LM](https://open.spotify.com/artist/7gmkJVlgDI6TZDk6VnhIl6) | [Pura Calidad](https://open.spotify.com/album/70i8cxgsfosUAWdHmVqbS5) | 2:28 |
+| 23 | [Pura Calidad](https://open.spotify.com/track/1PYnwflk3YzGnc6tYKXulS) | [Clave 77](https://open.spotify.com/artist/4wm5p9Ett9OPXZwG1WpqgP), [Porte Blindado](https://open.spotify.com/artist/5cZT2KvkWM3z9GC4hMYPlX) | [Pura Calidad](https://open.spotify.com/album/70i8cxgsfosUAWdHmVqbS5) | 2:28 |
 | 24 | [No Hay Solución](https://open.spotify.com/track/6bNBT3bdlv8lxrk8mAkrAG) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Hay Solución](https://open.spotify.com/album/4XAO6xBCAuwIH1pqrGlCqu) | 2:24 |
 | 25 | [QPTP](https://open.spotify.com/track/4QwuMUb4t18E83ZbDAEdQV) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [QPTP](https://open.spotify.com/album/18dwo21fkS7TglV0L9lF6r) | 2:29 |
 | 26 | [Bien Servida \- En Vivo](https://open.spotify.com/track/482EWLNHmzps9Xyy2bv4JV) | [Neto Becerra](https://open.spotify.com/artist/0gQDVYLEkyyyhmy06LCxdQ) | [Bien Servida \(En Vivo\)](https://open.spotify.com/album/2pVR6aKIr7cCK0XWeSLMJ4) | 2:49 |

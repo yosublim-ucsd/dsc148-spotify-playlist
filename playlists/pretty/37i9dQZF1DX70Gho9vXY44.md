@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Gonzalo Genek, Daske Gaitán
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,070 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,080 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70Gho9vXY44.md) - [plain]
 | 5 | [No Puedo](https://open.spotify.com/track/6tR7jCnOKTWzhIMbDdXgSu) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Licor Amor & Jazz](https://open.spotify.com/album/2GhMbToGx7NXxMr5YADy7a) | 3:01 |
 | 6 | [sektor inesperado de Marfield](https://open.spotify.com/track/5B7iP6UkS3Sw2h7RDDygqP) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [TOY LOKAZO](https://open.spotify.com/album/5Dqi0yKIDsT7Bds9F3VHIn) | 5:59 |
 | 7 | [Llovía](https://open.spotify.com/track/3gHnMo8cVviPnEgeFgckuF) | [Primobeatz](https://open.spotify.com/artist/72LTyD9Rh8nqOCvb3uyLxG), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [PrimoBeatz en las Bases](https://open.spotify.com/album/3nhdeNfHDKpEaBkMMUXV1L) | 4:52 |
-| 8 | [Prohibido](https://open.spotify.com/track/0t1aa9a3LsT9dsRZIJEL8J) | [No Deal](https://open.spotify.com/artist/35dFa02f8Yg6eZJz5N3wMF), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Valeria](https://open.spotify.com/artist/7LESHpe5ufdnpZG6IM0xwE) | [No Deal, No Drama](https://open.spotify.com/album/3Lwj2wWSBHJeHDbfzweBSz) | 3:09 |
+| 8 | [Prohibido](https://open.spotify.com/track/0t1aa9a3LsT9dsRZIJEL8J) | [No Deal](https://open.spotify.com/artist/35dFa02f8Yg6eZJz5N3wMF), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Valeria](https://open.spotify.com/artist/2UjOBQK3HTHySKoYn12YKj) | [No Deal, No Drama](https://open.spotify.com/album/3Lwj2wWSBHJeHDbfzweBSz) | 3:09 |
 | 9 | [No quiero un final](https://open.spotify.com/track/64CPCpkhdmhb63M6ycEUaN) | [Pleito](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD), [Susanojuicio](https://open.spotify.com/artist/32cwAgp6jfKF6fM2myJPp8) | [No quiero un final](https://open.spotify.com/album/7MyOIHGBrF8QRiYwgZUdos) | 3:57 |
 | 10 | [Boyz In Da House](https://open.spotify.com/track/2CEYNYeK5uiVvPensolF6n) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8) | [Boyz In Da House](https://open.spotify.com/album/5YiSBGrupAnOHU8KTqRVAh) | 3:49 |
 | 11 | [Tu Traición](https://open.spotify.com/track/2GxUyF5r1pvjVihKfFoNSH) | [Zona Infame](https://open.spotify.com/artist/32FmPGPkEM3IifxSPWEstr) | [Llegamos](https://open.spotify.com/album/7Abvxuj7EQVesUvTXbv6P4) | 4:38 |

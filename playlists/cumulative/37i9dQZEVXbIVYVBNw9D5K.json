@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 210744,
       "name": "Ben Sarho\u015f Oldum",
       "url": "https://open.spotify.com/track/4ObQ5sbaP5PDCSfv1y6RdT"
@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 170943,
       "name": "Cehennemin Dibi",
       "url": "https://open.spotify.com/track/408CB6C3xSUJJJpMopjJ1y"
@@ -10247,6 +10247,24 @@
     },
     {
       "album": {
+        "name": "Kufi",
+        "url": "https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc"
+      },
+      "artists": [
+        {
+          "name": "Duman",
+          "url": "https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Kufi",
+      "url": "https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh"
+    },
+    {
+      "album": {
         "name": "KUM SAAT\u0130",
         "url": "https://open.spotify.com/album/28ExGabncl1Aa7nC4mrBJ8"
       },
@@ -12286,6 +12304,24 @@
       "duration_ms": 168010,
       "name": "NEGATIF",
       "url": "https://open.spotify.com/track/1j6eyZEaIOPOqKer0hsAyF"
+    },
+    {
+      "album": {
+        "name": "Kufi",
+        "url": "https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc"
+      },
+      "artists": [
+        {
+          "name": "Duman",
+          "url": "https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Nerde Benim Kafam",
+      "url": "https://open.spotify.com/track/3b83Fi9nZOQkmLJqy10ONJ"
     },
     {
       "album": {

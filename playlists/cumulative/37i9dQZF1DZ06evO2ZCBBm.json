@@ -212,7 +212,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 170074,
       "name": "body bag (feat. YUNGBLUD & Bert McCracken of The Used)",
       "url": "https://open.spotify.com/track/0NZrY7Lc9g6V03hxRpfToV"
@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172146,
+      "name": "People Are Vomit",
+      "url": "https://open.spotify.com/track/2FYcaOeXzUuCVrhbn4amXB"
+    },
+    {
+      "album": {
         "name": "People Are Vomit",
         "url": "https://open.spotify.com/album/0qijHJkDRqedEy7Lpezs2o"
       },
@@ -1250,7 +1268,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Poetic Tragedy",
       "url": "https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi"
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 175272,
       "name": "Take Yourself Out",
       "url": "https://open.spotify.com/track/3CFEFbsuorRivnf8G6ioDQ"
@@ -1622,7 +1640,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 208693,
       "name": "The Taste of Ink",
       "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"

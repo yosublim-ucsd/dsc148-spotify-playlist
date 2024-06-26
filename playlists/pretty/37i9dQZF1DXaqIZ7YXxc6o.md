@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Empire Of The Sun
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,446 likes - 98 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,470 likes - 98 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 97 | [Night Dance](https://open.spotify.com/track/3OS4TFD46uxv5lUJpfJL3g) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD), [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [Night Dance](https://open.spotify.com/album/47jEILICKwW8TcYNXmbCKl) | 2:16 |
 | 98 | [Honey \- Mura Masa Euphoria Remix](https://open.spotify.com/track/1P4aSBwGVurnQetDoRtv4l) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Honey](https://open.spotify.com/album/7cKr77fqgXdZ3ZWgQxwuAi) | 3:53 |
 
-Snapshot ID: `ZnQ2HAAAAAAy8y8RnVk2ePoagyBUgCPw`
+Snapshot ID: `ZnpZPgAAAABoLp+v40QbFuQNitKGnrML`

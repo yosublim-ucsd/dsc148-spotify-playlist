@@ -1,31 +1,31 @@
 {
-  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: H ZETTRIO",
-  "num_followers": 37393,
+  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: John Nakayama Trio",
+  "num_followers": 37401,
   "original_name": "Modern Jazz Japan",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmhmcAAAAABSmJlR4ApCEfhnlC/hSFgy",
+  "snapshot_id": "ZnrbcAAAAABvI+wSEmFI5eRdmtQbGVBr",
   "tracks": [
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "Dynamics",
-        "url": "https://open.spotify.com/album/5Rrca8XULMLFX69dhgL0eX"
+        "name": "Journey We Did",
+        "url": "https://open.spotify.com/album/677yvDEFo4OH08S8duKHPt"
       },
       "artists": [
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "John Nakayama Trio",
+          "url": "https://open.spotify.com/artist/43wM3prVdVeBJc4qD3gVdz"
         }
       ],
-      "duration_ms": 168146,
-      "name": "Dynamics (Piano Play-Along)",
-      "url": "https://open.spotify.com/track/081owSLclSGfb3ehGeqGiJ"
+      "duration_ms": 299060,
+      "name": "Arpen",
+      "url": "https://open.spotify.com/track/0OdTNdxDcZQoDjksOwDKH1"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "A Walk in Life",
         "url": "https://open.spotify.com/album/66a5UKnW2qZdFmItUgReg3"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/55kHKJPafkM9HynXY0oozI"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Will II",
         "url": "https://open.spotify.com/album/5ESRlLUl54WKrTjdUJJdWg"
@@ -73,7 +73,43 @@
       "url": "https://open.spotify.com/track/5jhNKwaF4LKm6467Hje4ma"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Dynamics",
+        "url": "https://open.spotify.com/album/5Rrca8XULMLFX69dhgL0eX"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Dynamics (Piano Play-Along)",
+      "url": "https://open.spotify.com/track/081owSLclSGfb3ehGeqGiJ"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Into My System",
+        "url": "https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        },
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        }
+      ],
+      "duration_ms": 337173,
+      "name": "IDEA",
+      "url": "https://open.spotify.com/track/5MZ9qKKkXY4yekcGDyCuyh"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
@@ -97,43 +133,7 @@
       "url": "https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
-      "album": {
-        "name": "Into My System",
-        "url": "https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt"
-      },
-      "artists": [
-        {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
-        },
-        {
-          "name": "ermhoi",
-          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
-        }
-      ],
-      "duration_ms": 337173,
-      "name": "IDEA",
-      "url": "https://open.spotify.com/track/5MZ9qKKkXY4yekcGDyCuyh"
-    },
-    {
-      "added_at": "2024-06-11 15:00:00",
-      "album": {
-        "name": "ROUTE 20 HIT THE ROAD",
-        "url": "https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT"
-      },
-      "artists": [
-        {
-          "name": "EGO-WRAPPIN\u2019",
-          "url": "https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "\u304f\u3061\u3070\u3057\u306b\u30c1\u30a7\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef"
-    },
-    {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "TAPES of ACES - Side A",
         "url": "https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "\u706b\u306e\u9ce5",
         "url": "https://open.spotify.com/album/41Acz4rMDVdV66JzauDeCm"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/5UpFQOMokngL1zroOYEHBj"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/6om4lQLFf1Thy5TXspNM86"
@@ -181,27 +181,23 @@
       "url": "https://open.spotify.com/track/78w7jU2Nn89QqLnXtDRj7o"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "\u4e09\u6587\u30b4\u30b7\u30c3\u30d7",
-        "url": "https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm"
+        "name": "ROUTE 20 HIT THE ROAD",
+        "url": "https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT"
       },
       "artists": [
         {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        },
-        {
-          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
-          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+          "name": "EGO-WRAPPIN\u2019",
+          "url": "https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX"
         }
       ],
-      "duration_ms": 149266,
-      "name": "\u30ab\u30ea\u30bd\u30e1\u4e59\u5973 - DEATH JAZZ ver.",
-      "url": "https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx"
+      "duration_ms": 258680,
+      "name": "\u304f\u3061\u3070\u3057\u306b\u30c1\u30a7\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Twenty minutes, let me rest",
         "url": "https://open.spotify.com/album/4Mz5ZEGY9zNcxqdLv13xsI"
@@ -229,7 +225,43 @@
       "url": "https://open.spotify.com/track/3inM5fTMN7QjWFnRFffqXz"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "\u4e09\u6587\u30b4\u30b7\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/4ryRMlHeVAEoNbN4XTquIm"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        },
+        {
+          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
+          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+        }
+      ],
+      "duration_ms": 149266,
+      "name": "\u30ab\u30ea\u30bd\u30e1\u4e59\u5973 - DEATH JAZZ ver.",
+      "url": "https://open.spotify.com/track/2M6Do3ldCBgbChvpxXhHfx"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "1-0",
+        "url": "https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 281914,
+      "name": "1-0",
+      "url": "https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Dear Family",
         "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
@@ -249,47 +281,7 @@
       "url": "https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
-      "album": {
-        "name": "1-0",
-        "url": "https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 281914,
-      "name": "1-0",
-      "url": "https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI"
-    },
-    {
-      "added_at": "2024-06-11 15:00:00",
-      "album": {
-        "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
-        "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
-      },
-      "artists": [
-        {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        },
-        {
-          "name": "\u99ac\u5834\u667a\u7ae0",
-          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
-        },
-        {
-          "name": "Shun Ishiwaka",
-          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
-        }
-      ],
-      "duration_ms": 311693,
-      "name": "WE WILL",
-      "url": "https://open.spotify.com/track/01qqs2S9rb01JaXSYiaBk0"
-    },
-    {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "KJM EOANDO - Kyoto Jazz Massive 30th Anniversary Edition",
         "url": "https://open.spotify.com/album/1VCZd9NNz9IAmi0fTHiKQS"
@@ -313,7 +305,7 @@
       "url": "https://open.spotify.com/track/7x4HFmjNjvh4NNyEKealJz"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "ROUTE 20 HIT THE ROAD",
         "url": "https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT"
@@ -329,7 +321,7 @@
       "url": "https://open.spotify.com/track/49qV0r81Wz0vwuVvQZS6je"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Morning Bread",
         "url": "https://open.spotify.com/album/6N2j5KkTBIEtq8IrdJa0BA"
@@ -349,23 +341,31 @@
       "url": "https://open.spotify.com/track/6hvdH8mYINFsY9YtbhD1DU"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
+        "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
+        "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
       },
       "artists": [
         {
-          "name": "ADAM at",
-          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
         }
       ],
-      "duration_ms": 247893,
-      "name": "Moonlight Syndrome",
-      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
+      "duration_ms": 311693,
+      "name": "WE WILL",
+      "url": "https://open.spotify.com/track/01qqs2S9rb01JaXSYiaBk0"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Oh My God",
         "url": "https://open.spotify.com/album/2CqlzqET3jM9r5y7nUgIdn"
@@ -385,23 +385,23 @@
       "url": "https://open.spotify.com/track/2tchGr5VPrWR8qwQA5VVyw"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH"
+        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
       },
       "artists": [
         {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
         }
       ],
-      "duration_ms": 321346,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
+      "duration_ms": 247893,
+      "name": "Moonlight Syndrome",
+      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Cheer Up",
         "url": "https://open.spotify.com/album/3HkAhdGGiBk2PuCG6JzfyL"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/4Vd9YScZr7WWVLzhBz35oI"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0 \u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8\u300d",
         "url": "https://open.spotify.com/album/6kSwAMTPlRZNw29XCwK0pu"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/2kNRdLNryDeX4xBYiKCm02"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "moon",
         "url": "https://open.spotify.com/album/71hm4gpysao0yUq2XKsvKf"
@@ -453,23 +453,23 @@
       "url": "https://open.spotify.com/track/6C555aOjhaqhPrJj0puPxZ"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "\u661f\u306e\u6d77\u306b\u7720\u308b\u5b9d\u77f3\u7bb1",
-        "url": "https://open.spotify.com/album/6X09lzYJoQ9C2NFiNQ2JNQ"
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH"
       },
       "artists": [
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
         }
       ],
-      "duration_ms": 183000,
-      "name": "\u661f\u306e\u6d77\u306b\u7720\u308b\u5b9d\u77f3\u7bb1",
-      "url": "https://open.spotify.com/track/6cEYcSgw0cNwF5uCOgNBLU"
+      "duration_ms": 321346,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Move On Up (DJ JIN Re-edit) / Beyond The Redemption",
         "url": "https://open.spotify.com/album/3jBr5PKwVeartd2kxsQDX8"
@@ -493,23 +493,35 @@
       "url": "https://open.spotify.com/track/1WHD4ExyejJcQXkZse7tSQ"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
+        "name": "Take the S Line",
+        "url": "https://open.spotify.com/album/0l2y0Zoqz46rhbtBiPIlWS"
       },
       "artists": [
         {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "\u6cb3\u91ce\u7950\u4eae",
+          "url": "https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD"
+        },
+        {
+          "name": "\u6749\u6d66\u7766",
+          "url": "https://open.spotify.com/artist/7AUgYo9pZu8ijMfRbnlo5G"
+        },
+        {
+          "name": "\u5927\u6d25\u60c7",
+          "url": "https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ"
         }
       ],
-      "duration_ms": 256360,
-      "name": "\u4e59\u5973\u306e\u7948\u308a",
-      "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
+      "duration_ms": 391261,
+      "name": "Take the S Line",
+      "url": "https://open.spotify.com/track/3h311N1RksKhDEphs0aa2B"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Delight",
         "url": "https://open.spotify.com/album/0HCLpvF3ydPqboT0ZOVDfX"
@@ -525,31 +537,23 @@
       "url": "https://open.spotify.com/track/5X0b33rwOYBzCf9GlumgqP"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
-        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
       },
       "artists": [
         {
-          "name": "BimBomBam Orchestra",
-          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
-        },
-        {
-          "name": "\u5143\u6674",
-          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
-        },
-        {
-          "name": "\u67f4\u7530\u4eae",
-          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
         }
       ],
-      "duration_ms": 427000,
-      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
-      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
+      "duration_ms": 256360,
+      "name": "\u4e59\u5973\u306e\u7948\u308a",
+      "url": "https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "soraya",
         "url": "https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e"
@@ -565,7 +569,7 @@
       "url": "https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Exotic Rose",
         "url": "https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf"
@@ -585,7 +589,7 @@
       "url": "https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Praying Mantis",
         "url": "https://open.spotify.com/album/3Eej3clX6pUi5TvKfSvhWr"
@@ -609,23 +613,23 @@
       "url": "https://open.spotify.com/track/0GkRRk1lsoXOSfb3veSbNu"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
+        "name": "\u661f\u306e\u6d77\u306b\u7720\u308b\u5b9d\u77f3\u7bb1",
+        "url": "https://open.spotify.com/album/6X09lzYJoQ9C2NFiNQ2JNQ"
       },
       "artists": [
         {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 231722,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
+      "duration_ms": 183000,
+      "name": "\u661f\u306e\u6d77\u306b\u7720\u308b\u5b9d\u77f3\u7bb1",
+      "url": "https://open.spotify.com/track/6cEYcSgw0cNwF5uCOgNBLU"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Rising Son",
         "url": "https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd"
@@ -645,23 +649,31 @@
       "url": "https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3000OUTSIDE",
-        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
+        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
+        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
       },
       "artists": [
         {
-          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
-          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+          "name": "BimBomBam Orchestra",
+          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
+        },
+        {
+          "name": "\u5143\u6674",
+          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
+        },
+        {
+          "name": "\u67f4\u7530\u4eae",
+          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Blue Eyed Monster",
-      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
+      "duration_ms": 427000,
+      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
+      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
@@ -685,23 +697,23 @@
       "url": "https://open.spotify.com/track/03IckTW2qNaWUvrOHtuYhL"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "qualia",
-        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
       },
       "artists": [
         {
-          "name": "PRIMITIVE ART ORCHESTRA",
-          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
         }
       ],
-      "duration_ms": 204306,
-      "name": "qualia",
-      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
+      "duration_ms": 231722,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Left Eye",
         "url": "https://open.spotify.com/album/5rJ7aRujo2w9txa1m7Fy8t"
@@ -717,7 +729,39 @@
       "url": "https://open.spotify.com/track/4SK4LWklb4hZn58MB3uXKq"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3000OUTSIDE",
+        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
+      },
+      "artists": [
+        {
+          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
+          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Blue Eyed Monster",
+      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "qualia",
+        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
+      },
+      "artists": [
+        {
+          "name": "PRIMITIVE ART ORCHESTRA",
+          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "qualia",
+      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Dear Family",
         "url": "https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz"
@@ -737,7 +781,7 @@
       "url": "https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "CROSSING",
         "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
@@ -753,7 +797,23 @@
       "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Synapse Confusion",
+        "url": "https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p"
+      },
+      "artists": [
+        {
+          "name": "igloo",
+          "url": "https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM"
+        }
+      ],
+      "duration_ms": 339132,
+      "name": "Hello,,Dawn,Unknown",
+      "url": "https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "The Bottle",
         "url": "https://open.spotify.com/album/39mP7pQ593OuwN3HVgBnyy"
@@ -773,23 +833,7 @@
       "url": "https://open.spotify.com/track/6ms7rbe97tSqYvdCE7stIQ"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
-      "album": {
-        "name": "Synapse Confusion",
-        "url": "https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p"
-      },
-      "artists": [
-        {
-          "name": "igloo",
-          "url": "https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM"
-        }
-      ],
-      "duration_ms": 339132,
-      "name": "Hello,,Dawn,Unknown",
-      "url": "https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt"
-    },
-    {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
@@ -805,7 +849,7 @@
       "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "M-P-C \"Mentality, Physicality, Computer\"",
         "url": "https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD"
@@ -825,23 +869,7 @@
       "url": "https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
-      "album": {
-        "name": "MOMENTS",
-        "url": "https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "\u77f3\u306e\u6559\u4f1a",
-      "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
-    },
-    {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "\u4e5d\u6708\u306e\u7a7a -KUGATSU NO SOLA-",
         "url": "https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC"
@@ -857,7 +885,7 @@
       "url": "https://open.spotify.com/track/5Kzvafvksy487apDu6f6Fw"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
         "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
@@ -881,7 +909,7 @@
       "url": "https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "tradition",
         "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
@@ -897,7 +925,7 @@
       "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
         "name": "SEIKO JAZZ 3",
         "url": "https://open.spotify.com/album/5xohvyPtGGW1wks4Z4qzbR"
@@ -913,40 +941,20 @@
       "url": "https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD"
     },
     {
-      "added_at": "2024-06-11 15:00:00",
+      "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "\u30dc\u30c3\u30b5\u30fb\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
-        "url": "https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg"
+        "name": "MOMENTS",
+        "url": "https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD"
       },
       "artists": [
         {
-          "name": "Yoshiko Kishino",
-          "url": "https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0"
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
         }
       ],
-      "duration_ms": 287880,
-      "name": "\u30dc\u30c3\u30b5\u30fb\u30ea\u30fc\u30d6\u30e9",
-      "url": "https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC"
-    },
-    {
-      "added_at": "2024-06-11 15:00:00",
-      "album": {
-        "name": "City Creatures",
-        "url": "https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559"
-      },
-      "artists": [
-        {
-          "name": "U-zhaan",
-          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
-        },
-        {
-          "name": "BIGYUKI",
-          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
-        }
-      ],
-      "duration_ms": 184670,
-      "name": "City Creatures",
-      "url": "https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH"
+      "duration_ms": 277840,
+      "name": "\u77f3\u306e\u6559\u4f1a",
+      "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
     }
   ],
   "unique_name": "Modern Jazz Japan",

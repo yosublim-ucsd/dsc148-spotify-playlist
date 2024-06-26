@@ -2,7 +2,7 @@
 
 ### [This Is Steven Price](https://open.spotify.com/playlist/37i9dQZF1DZ06evO20BxpA)
 
-> This is Steven Price\. Todos os maiores hits em uma só playlist.
+> This is Steven Price\. The essential tracks, all in one playlist.
 
 96 songs - 4 hr 25 min
 
@@ -51,7 +51,7 @@
 | [Mayflies \- From "Our Planet"](https://open.spotify.com/track/2dDUOibqp9olH44axVCIux) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 3:08 | 2023-08-04 |  |
 | [Moon Phases](https://open.spotify.com/track/0a5P31i4G47JQOVYiTnC8j) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 2:12 | 2023-08-04 |  |
 | [My Beloved Spake](https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:10 | 2023-08-04 |  |
-| [My Policeman \- From the Amazon Original Motion Picture Soundtrack "My Policeman"](https://open.spotify.com/track/2xTOwdq3ZUNX1WZiMW2VYC) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(From the Amazon Original Motion Picture Soundtrack "My Policeman"\)](https://open.spotify.com/album/6YXkJcrqYmStToq7sa95M2) | 5:09 | 2023-08-04 | 2024-05-21 |
+| [My Policeman \- From the Amazon Original Motion Picture Soundtrack "My Policeman"](https://open.spotify.com/track/2xTOwdq3ZUNX1WZiMW2VYC) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(From the Amazon Original Motion Picture Soundtrack "My Policeman"\)](https://open.spotify.com/album/6YXkJcrqYmStToq7sa95M2) | 5:09 | 2023-08-04 |  |
 | [Mythical Creatures Follow \- From "Our Planet"](https://open.spotify.com/track/2QRgLk0yjfdxguI59pUyVk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 3:31 | 2023-12-29 |  |
 | [Nighttime Conversation](https://open.spotify.com/track/0kespT2GP46VLQ9DmEDQxy) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:39 | 2023-08-04 |  |
 | [Norman](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 2:50 | 2023-08-04 |  |
@@ -75,7 +75,7 @@
 | [The Blue Whale](https://open.spotify.com/track/0llny9ylQqeIK0MCQ5XQ45) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 5:12 | 2023-08-04 |  |
 | [The Clam Shell Challenge](https://open.spotify.com/track/5QUUxWpWBDOK1yTcDXB3Bp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 1:37 | 2023-08-19 | 2024-06-09 |
 | [The Importance Of This River \- From "Our Planet"](https://open.spotify.com/track/3ANHtbWlWe0Nqzv1rTmHfq) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 2:40 | 2023-08-30 |  |
-| [The Museum](https://open.spotify.com/track/4W0HdKllYYBqaHsPWDHQH3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 1:35 | 2023-08-04 |  |
+| [The Museum](https://open.spotify.com/track/4W0HdKllYYBqaHsPWDHQH3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 1:35 | 2023-08-04 | 2024-06-26 |
 | [The Next Twenty Years \- From "Our Planet"](https://open.spotify.com/track/2GWv7nrW3EYNclXKi5jOhA) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 1:41 | 2023-10-04 | 2024-04-16 |
 | [The Ocean Returns The Favour \- From "Our Planet"](https://open.spotify.com/track/30m0iV0x6N2XydxSE3kurk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 2:20 | 2023-08-04 |  |
 | [The Process of Extinctions](https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:55 | 2023-09-25 |  |

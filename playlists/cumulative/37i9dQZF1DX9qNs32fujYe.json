@@ -7816,7 +7816,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 234280,
       "name": "Legends Never Die",
       "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
@@ -11792,7 +11792,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 322253,
       "name": "Seeking Vengeance",
       "url": "https://open.spotify.com/track/1ptwp6FZif8vg2J6nf3rGQ"
@@ -12128,6 +12128,24 @@
       "duration_ms": 180930,
       "name": "Sinners of the Seven Seas",
       "url": "https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14"
+    },
+    {
+      "album": {
+        "name": "Sk8 or Die",
+        "url": "https://open.spotify.com/album/1UO3gKPqtHDXMahNnm4SIf"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131523,
+      "name": "Sk8 or Die",
+      "url": "https://open.spotify.com/track/2ajQofPpJ5EiOzGDP3NFmw"
     },
     {
       "album": {
@@ -14378,6 +14396,24 @@
       "duration_ms": 372626,
       "name": "The Shellback",
       "url": "https://open.spotify.com/track/5bh6QfHWuR1YdnKOdj8kYA"
+    },
+    {
+      "album": {
+        "name": "The Head & The Habit",
+        "url": "https://open.spotify.com/album/1gsJpMVqM372TjZwQ19dYq"
+      },
+      "artists": [
+        {
+          "name": "Greenleaf",
+          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272626,
+      "name": "The Sirens Sound",
+      "url": "https://open.spotify.com/track/13ke0vDc5JPVf9Hzcik9V8"
     },
     {
       "album": {

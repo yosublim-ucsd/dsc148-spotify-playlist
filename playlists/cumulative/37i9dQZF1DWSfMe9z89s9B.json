@@ -6854,7 +6854,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 152590,
       "name": "Figures",
       "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
@@ -21194,6 +21194,24 @@
       "duration_ms": 215730,
       "name": "U A Star (feat. Mereba)",
       "url": "https://open.spotify.com/track/1KRvtRhh9m6XfWOUCUQscH"
+    },
+    {
+      "album": {
+        "name": "LAST NAME: POPE",
+        "url": "https://open.spotify.com/album/6J51eeYBvF9cVtPsb7NppV"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pope",
+          "url": "https://open.spotify.com/artist/524EFpZzvA7B9cdU27Fmm9"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246224,
+      "name": "U, Lost (Prom Edition)",
+      "url": "https://open.spotify.com/track/2tBgQT6FJDcih3rjyYRBgV"
     },
     {
       "album": {

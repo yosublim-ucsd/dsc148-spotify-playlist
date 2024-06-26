@@ -408,7 +408,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "BUSINESS MODE",
       "url": "https://open.spotify.com/track/1nLkB5tZaxAIbJ7Mg5Wmfg"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 185142,
       "name": "B\u1ea3o T\u00e0ng",
       "url": "https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 206400,
       "name": "Cho M\u00ecnh Em",
       "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
@@ -816,6 +816,32 @@
       "duration_ms": 181558,
       "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
       "url": "https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq"
+    },
+    {
+      "album": {
+        "name": "MEDICINE",
+        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
+      },
+      "artists": [
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        },
+        {
+          "name": "Minsicko",
+          "url": "https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6"
+        },
+        {
+          "name": "Ho\u00e0ng D\u0169ng",
+          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188507,
+      "name": "COLD L\u1ea0C B\u1ed8",
+      "url": "https://open.spotify.com/track/476OvQTK7vTVIS3yDz9ShR"
     },
     {
       "album": {
@@ -1286,7 +1312,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 201589,
       "name": "Exit Sign",
       "url": "https://open.spotify.com/track/3UX7FjJDl6RodnWekzFwEB"
@@ -1466,7 +1492,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 298254,
       "name": "GOODBYE ROCKY",
       "url": "https://open.spotify.com/track/2HtNUL0fTKiEUj0toUiucq"
@@ -1606,7 +1632,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 222000,
       "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
       "url": "https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n"
@@ -2002,7 +2028,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 247843,
       "name": "L\u1ef1a Ch\u1ecdn C\u1ee7a Em",
       "url": "https://open.spotify.com/track/5S1qhBgTprx5CFkLmmU95i"
@@ -2079,6 +2105,32 @@
     },
     {
       "album": {
+        "name": "Mi\u1ec7ng H\u01b0",
+        "url": "https://open.spotify.com/album/2EWXGKVV9f1t94MbECadJf"
+      },
+      "artists": [
+        {
+          "name": "Tr.D",
+          "url": "https://open.spotify.com/artist/6jiITlNS4hrm3dq90ZDftJ"
+        },
+        {
+          "name": "Icy Wavez",
+          "url": "https://open.spotify.com/artist/7EjjDGQPaeuDTtfXDqQacX"
+        },
+        {
+          "name": "C.Mad",
+          "url": "https://open.spotify.com/artist/0LQa4lz7Hz7dTogONe61ts"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193902,
+      "name": "Mi\u1ec7ng H\u01b0",
+      "url": "https://open.spotify.com/track/3sF8tfjW6cI9tl33U1eKy6"
+    },
+    {
+      "album": {
         "name": "TO LOVE AND BE LOVED",
         "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
@@ -2094,7 +2146,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 340724,
       "name": "Mu\u1ed1n anh \u0111au",
       "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
@@ -2292,7 +2344,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 179043,
       "name": "NGTANOISE",
       "url": "https://open.spotify.com/track/57FeZINjlat9NLEhYUejmd"
@@ -2406,7 +2458,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 213523,
       "name": "Nh\u1ea1c Trap C\u0103ng Nh\u1ea5t 2023",
       "url": "https://open.spotify.com/track/2aRg0cOGQ5k0rs3AK5nJPD"
@@ -2446,6 +2498,28 @@
       "duration_ms": 180000,
       "name": "Nicolai",
       "url": "https://open.spotify.com/track/79ewVZYhYmjYDJNndUDQEd"
+    },
+    {
+      "album": {
+        "name": "An",
+        "url": "https://open.spotify.com/album/0J9ZJ2vnTHm4NpzKVE779w"
+      },
+      "artists": [
+        {
+          "name": "Lil Wuyn",
+          "url": "https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz"
+        },
+        {
+          "name": "B-Wine",
+          "url": "https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209141,
+      "name": "No Way Back",
+      "url": "https://open.spotify.com/track/119ovwmwcP4SHmTs3wcYhi"
     },
     {
       "album": {
@@ -2782,7 +2856,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/0byB89KKO0W9FNX0AHynon"
@@ -2991,6 +3065,28 @@
     },
     {
       "album": {
+        "name": "S\u00e0i G\u00f2n T\u00f4i M\u01b0a (feat. MC Goku)",
+        "url": "https://open.spotify.com/album/3iG4luFGo5MhRFcW7KoZ7e"
+      },
+      "artists": [
+        {
+          "name": "Tuy\u00ean",
+          "url": "https://open.spotify.com/artist/4joNWs26XgMPKcV4hJ03hr"
+        },
+        {
+          "name": "MC Goku",
+          "url": "https://open.spotify.com/artist/2bKNcCAdRX7YNvvQ2eiCl9"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329806,
+      "name": "S\u00e0i G\u00f2n T\u00f4i M\u01b0a (feat. MC Goku)",
+      "url": "https://open.spotify.com/track/2X5LuMWLKierQu3O9H1Bxc"
+    },
+    {
+      "album": {
         "name": "\u0110\u00e1nh \u0110\u1ed5i",
         "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
       },
@@ -3006,7 +3102,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 188256,
       "name": "S\u00e0i G\u00f2n \u01a1i",
       "url": "https://open.spotify.com/track/5BE96iX1TLgVHFDJPcKpkp"
@@ -3190,7 +3286,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 198788,
       "name": "Thi\u00eau Th\u00e2n",
       "url": "https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r"
@@ -3494,7 +3590,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 133784,
       "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
       "url": "https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT"
@@ -3714,7 +3810,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 232445,
       "name": "Xin Anh \u0110\u1eebng",
       "url": "https://open.spotify.com/track/7yTgIc73QykZ77WnKiLgLV"
@@ -3777,6 +3873,28 @@
     },
     {
       "album": {
+        "name": "\u0110\u00e1nh \u0110\u1ed5i",
+        "url": "https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI"
+      },
+      "artists": [
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        },
+        {
+          "name": "Shiki",
+          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189111,
+      "name": "Xu\u1ea5t Ph\u00e1t \u0110i\u1ec3m",
+      "url": "https://open.spotify.com/track/6TOI8hhlfebwsTYRCVpRMn"
+    },
+    {
+      "album": {
         "name": "Y\u00eau 5",
         "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
       },
@@ -3788,7 +3906,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 240000,
       "name": "Y\u00eau 5",
       "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
@@ -3806,7 +3924,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-26",
       "duration_ms": 252892,
       "name": "y\u00eau anh \u0111i m\u1eb9 anh b\u00e1n b\u00e1nh m\u00ec",
       "url": "https://open.spotify.com/track/70hEVaGwwat644nPWkhKNW"
@@ -4011,6 +4129,32 @@
     },
     {
       "album": {
+        "name": "\u0110\u1eebng Lo \u0110\u1ebfn Anh",
+        "url": "https://open.spotify.com/album/06YGo5YeQz2Y8MsWR3PNbE"
+      },
+      "artists": [
+        {
+          "name": "Willdawind",
+          "url": "https://open.spotify.com/artist/3bGdiA40gWJwHy3IsAT8Gf"
+        },
+        {
+          "name": "Xesi",
+          "url": "https://open.spotify.com/artist/44ZNcW1ZSGB9oqX1ALnriH"
+        },
+        {
+          "name": "Pawn",
+          "url": "https://open.spotify.com/artist/790XL0vTFvAtECmDMwTDUO"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "\u0110\u1eebng Lo \u0110\u1ebfn Anh",
+      "url": "https://open.spotify.com/track/3ZD55yfWGzxewMPrQo1Mov"
+    },
+    {
+      "album": {
         "name": "\u0110\u1eebng Tin Her",
         "url": "https://open.spotify.com/album/6xdjBMXzT5Eb2QCgD2P30f"
       },
@@ -4104,7 +4248,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 192195,
       "name": "\u1ede S\u00e2u Trong Tim N\u00e0y",
       "url": "https://open.spotify.com/track/3dYB4zyko7GBOgWaP19y5I"
