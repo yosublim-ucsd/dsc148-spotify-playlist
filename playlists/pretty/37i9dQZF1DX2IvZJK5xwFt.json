@@ -1,6 +1,6 @@
 {
   "description": "Only the best rock in the world. Cover: M\u00e5neskin",
-  "num_followers": 179601,
+  "num_followers": 179649,
   "original_name": "Just Rock!",
   "owner": {
     "name": "Spotify",
@@ -214,6 +214,10 @@
         {
           "name": "Def Leppard",
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
         }
       ],
       "duration_ms": 223133,

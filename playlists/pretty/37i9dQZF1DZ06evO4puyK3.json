@@ -1,12 +1,12 @@
 {
-  "description": "This is Gloria Groove. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 158239,
+  "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
+  "num_followers": 158294,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAADxz0r5izz607G94loOf9iH",
+  "snapshot_id": "ZnoIgAAAAADpEKCCstRquFG3vWWPe5CP",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,26 @@
       "duration_ms": 401025,
       "name": "Me Olha Nos Olhos / Futuro Prometido / N\u00e3o Tem Perd\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano (Ao vivo)",
+        "url": "https://open.spotify.com/album/2HKlCAIctOxLg9KCvtX4Yu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 529585,
+      "name": "Numanice Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano - Ao vivo",
+      "url": "https://open.spotify.com/track/3hXCANK2ys6D2HZE3kuDfz"
     },
     {
       "added_at": null,
@@ -599,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinal",
-        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "Sinal",
-      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LEIL\u00c3O",
         "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
       },
@@ -631,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "YoYo",
-        "url": "https://open.spotify.com/album/0D816QjniOM4ZXAHzIT5jJ"
+        "name": "Sinal",
+        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
       },
       "artists": [
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/6uW3jO0Wi5gBP0d5mrD40p"
         }
       ],
-      "duration_ms": 156521,
-      "name": "YoYo",
-      "url": "https://open.spotify.com/track/2ZPOMV3L3rhoT54wZjB6GO"
+      "duration_ms": 173023,
+      "name": "Sinal",
+      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
     },
     {
       "added_at": null,
@@ -667,6 +667,26 @@
       "duration_ms": 230907,
       "name": "TUA INDECIS\u00c3O",
       "url": "https://open.spotify.com/track/00Ofee5Bbfstz49RfSL0oM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YoYo",
+        "url": "https://open.spotify.com/album/0D816QjniOM4ZXAHzIT5jJ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/6uW3jO0Wi5gBP0d5mrD40p"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "YoYo",
+      "url": "https://open.spotify.com/track/2ZPOMV3L3rhoT54wZjB6GO"
     },
     {
       "added_at": null,
@@ -1007,30 +1027,6 @@
       "duration_ms": 174065,
       "name": "Rebola (Participa\u00e7\u00e3o especial de Carlinhos Brown e Gloria Groove)",
       "url": "https://open.spotify.com/track/7yHyGrwWRUdDVcZIC4HBdA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vem com tudo",
-        "url": "https://open.spotify.com/album/53ycsc2CcgfoTgYtBWtEY8"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Vem com tudo",
-      "url": "https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ"
     }
   ],
   "unique_name": "This Is Gloria Groove",

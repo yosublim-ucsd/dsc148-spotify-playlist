@@ -2,12 +2,13 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Car, the garden\(카더가든\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Volunteers\(더 발룬티어스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-733 songs - 1 day 20 hr 50 min
+735 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 | 2024-06-26 |  |
 | [\#000000](https://open.spotify.com/track/0u3kHLmxNdplGvVKcQLghr) | [Siera](https://open.spotify.com/artist/1YiIr2WxBXFVOy9oMq7kCS) | [SR : BLACK](https://open.spotify.com/album/4iS6oODcmwfUvT7StkFwKB) | 3:39 | 2023-01-10 | 2023-01-26 |
 | [\#with\_you](https://open.spotify.com/track/1D1laQvjRLunEs8XDO9sag) | [D'avant](https://open.spotify.com/artist/4KIzyH8RDYbO94Qs7tfGRg) | [\#with\_you](https://open.spotify.com/album/764n0TwmT7M4xW9BaOy1cZ) | 2:58 | 2021-12-21 | 2022-07-12 |
 | [\(The Cherry Trees\)](https://open.spotify.com/track/2e5HDpsJrpt0GwWME1tR9p) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [\(1\)](https://open.spotify.com/album/2cg7v6OUCXU4gkOt1b4rKI) | 2:49 | 2023-07-07 | 2023-07-18 |
@@ -467,7 +468,7 @@
 | [Parallel Lines \(Parallel\)](https://open.spotify.com/track/5vowZu66SSMjdN3oGbYCJ3) | [BOY.D](https://open.spotify.com/artist/2pX5CBngRO41WQHHimZ7sf) | [Parallel Lines \(Parallel\)](https://open.spotify.com/album/3VvrRLoPYLGtZIRReUsKhT) | 4:09 | 2022-03-31 | 2022-04-19 |
 | [Parents \(Feat\. Kid Milli\)](https://open.spotify.com/track/5Os2F2MbUv9eJcb7jxHmFD) | [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Parents \(Feat\. Kid Milli\)](https://open.spotify.com/album/01HcaVOVBDK2gCXqPr4hGj) | 4:04 | 2022-03-31 | 2022-04-16 |
 | [Pasadena](https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Pasadena](https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG) | 2:43 | 2024-04-23 |  |
-| [Peanut butter Sandwich](https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [pool vol\. 2 \- Peanut Butter Sandwich](https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV) | 3:51 | 2024-05-09 |  |
+| [Peanut butter Sandwich](https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [pool vol\. 2 \- Peanut Butter Sandwich](https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV) | 3:51 | 2024-05-09 | 2024-06-27 |
 | [People sometimes want me to fail](https://open.spotify.com/track/5jHcrQa9lC3CMot6CjQghX) | [2apartment](https://open.spotify.com/artist/3eAafmKFLEYAq6y9ZrWXtS) | [People sometimes want me to fail](https://open.spotify.com/album/5dx9WZvhhxNQzCJohO2os3) | 3:19 | 2022-03-31 | 2022-04-02 |
 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 | 2022-03-31 |  |
 | [Pet 펫](https://open.spotify.com/track/1ttJj42WLsNEol2TTPvpUQ) | [Jaejoo Boys](https://open.spotify.com/artist/6Z41VjRzi0cKNZAVp5u7VZ) | [Pet 펫](https://open.spotify.com/album/0SUf4GLpQIegjQI8aXV40F) | 3:57 | 2022-03-31 | 2022-04-11 |
@@ -536,7 +537,7 @@
 | [Silk](https://open.spotify.com/track/0bBz0h34GjbI3qHepq3V8b) | [Shin Yujin](https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6) | [흥](https://open.spotify.com/album/6Lhs9JUf9s36ln1m4pq9gp) | 4:08 | 2024-04-30 | 2024-05-10 |
 | [Silk Shirts](https://open.spotify.com/track/3bl93mbQhNgi1IIeqGoGtT) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [Silk Shirts](https://open.spotify.com/album/7noNduIlKshv6sSpWiB9st) | 4:54 | 2023-07-27 | 2023-08-25 |
 | [Silly Boy](https://open.spotify.com/track/5iz6tXxLi3KegCSXfnQLmq) | [IPSAEM](https://open.spotify.com/artist/7dSJnTru8DnLrTlj58ExxQ) | [Silly Boy](https://open.spotify.com/album/61Xu0EnlQY6j9iotMwR2e7) | 3:42 | 2022-07-04 | 2022-07-13 |
-| [Silver008](https://open.spotify.com/track/1XXzmCR7kWi6axK6tr1yrc) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Silver008](https://open.spotify.com/album/2fMXCvOncxTnpTOPqNM7R1) | 4:34 | 2024-06-19 |  |
+| [Silver008](https://open.spotify.com/track/1XXzmCR7kWi6axK6tr1yrc) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Silver008](https://open.spotify.com/album/2fMXCvOncxTnpTOPqNM7R1) | 4:34 | 2024-06-19 | 2024-06-27 |
 | [Simulation](https://open.spotify.com/track/0Wg7v2z7wFx3CDi1DHYoqI) | [THE ODOR](https://open.spotify.com/artist/2LwCsA1owJzBVwnLd5EuqC) | [Prototype](https://open.spotify.com/album/6Kj3DFhAmP20oPaXTFC0S4) | 4:06 | 2022-03-31 | 2022-04-10 |
 | [Sink or Swim](https://open.spotify.com/track/7nbRp7GOxP6Y0tDCx6UU9j) | [Kang Soomin](https://open.spotify.com/artist/57TtAxK5tYOHcbcMFBxLHH) | [Sink or Swim](https://open.spotify.com/album/4ERUsXJCiE3H3ug4uwataj) | 3:07 | 2022-04-12 | 2022-04-20 |
 | [Sins](https://open.spotify.com/track/5nStARhedIpOobuno0xhGW) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:26 | 2022-03-03 | 2023-06-16 |
@@ -573,6 +574,7 @@
 | [Stain](https://open.spotify.com/track/2G1BW0nYmGv6NasnpVl2Hp) | [Gogang](https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU) | [Home Alone](https://open.spotify.com/album/3omf0gHwXSqEIIO6XXfi3z) | 3:54 | 2023-01-10 | 2023-01-26 |
 | [Stairs](https://open.spotify.com/track/7pVU6ihIDWfIfpCTQvQMvZ) | [Ouf Of Campus](https://open.spotify.com/artist/7tcw7xCLN8uPjOjYE1RWhn) | [Stairs](https://open.spotify.com/album/1mFphJwg3VCCwriB5XAggx) | 3:03 | 2022-12-22 | 2022-12-30 |
 | [Star's Name \(narr.Mommyson\)](https://open.spotify.com/track/54ZuYIYglWSGEVfSNefoPy) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [\#seoulcitypopfreestyle](https://open.spotify.com/album/16OgkcIjk1w52yxO1EJtUP) | 2:58 | 2022-03-31 | 2022-04-18 |
+| [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-06-26 |  |
 | [starlight](https://open.spotify.com/track/6PAitd0U0mvJCVJ11xIx4y) | [HERD](https://open.spotify.com/artist/6aQtLvZBb5B8fy6KfWRvTQ) | [hivill](https://open.spotify.com/album/5Di4zjlL4NuRIDKcPZ3OdC) | 4:52 | 2021-12-21 | 2022-06-25 |
 | [STARS](https://open.spotify.com/track/0Wes8mildhpOo1pguWGG9d) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [SPACE STATION](https://open.spotify.com/album/5HtxTb1Y4w2DlZ0NUisnJJ) | 3:32 | 2024-03-15 | 2024-04-07 |
 | [Stars](https://open.spotify.com/track/2n7Nx1FGB3kMnN9C3OYQbB) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [STARS](https://open.spotify.com/album/6VAof7sDeEJlWNpL6uc7ze) | 3:32 | 2024-04-30 | 2024-05-10 |

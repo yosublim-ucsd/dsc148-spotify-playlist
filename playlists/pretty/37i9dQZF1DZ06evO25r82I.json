@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 43574,
+  "num_followers": 43579,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAACsxTyiI85d6pAdxrXEGmyc",
+  "snapshot_id": "ZnoIgAAAAAAXKb5K+F62BhrltUyaPbfL",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 220026,
-      "name": "Sweetness",
-      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 181493,
-      "name": "Bleed American",
-      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
+      "duration_ms": 220026,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 284373,
-      "name": "Hear You Me",
-      "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
+      "duration_ms": 181493,
+      "name": "Bleed American",
+      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
     },
     {
       "added_at": null,
@@ -210,15 +210,11 @@
         {
           "name": "Jimmy Eat World",
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        },
-        {
-          "name": "Davey Vonbohlen",
-          "url": "https://open.spotify.com/artist/2EYidR98SsS1xtRwavAmW1"
         }
       ],
-      "duration_ms": 243506,
-      "name": "A Praise Chorus",
-      "url": "https://open.spotify.com/track/0n7d3no0cHnsnkgfFzDuj4"
+      "duration_ms": 284373,
+      "name": "Hear You Me",
+      "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
     },
     {
       "added_at": null,
@@ -278,11 +274,15 @@
         {
           "name": "Jimmy Eat World",
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        },
+        {
+          "name": "Davey Vonbohlen",
+          "url": "https://open.spotify.com/artist/2EYidR98SsS1xtRwavAmW1"
         }
       ],
-      "duration_ms": 217213,
-      "name": "The Authority Song",
-      "url": "https://open.spotify.com/track/7gAw3OKcrfeRWOFxWs7wgK"
+      "duration_ms": 243506,
+      "name": "A Praise Chorus",
+      "url": "https://open.spotify.com/track/0n7d3no0cHnsnkgfFzDuj4"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 273200,
-      "name": "If You Don't, Don't",
-      "url": "https://open.spotify.com/track/5prYdqVZFzoOBj33WFTdJu"
+      "duration_ms": 217213,
+      "name": "The Authority Song",
+      "url": "https://open.spotify.com/track/7gAw3OKcrfeRWOFxWs7wgK"
     },
     {
       "added_at": null,

@@ -781,6 +781,28 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/6yghy3AKVDzvziDF5I3Sfv"
+      },
+      "artists": [
+        {
+          "name": "Max Lean",
+          "url": "https://open.spotify.com/artist/4sOc3KgWiki8GMnvxYH8sh"
+        },
+        {
+          "name": "BELLA X",
+          "url": "https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170955,
+      "name": "My Way (feat. BELLA X)",
+      "url": "https://open.spotify.com/track/68DQvI7N9wwRqXmGJz0eaU"
+    },
+    {
+      "album": {
         "name": "New Shoes",
         "url": "https://open.spotify.com/album/3d8P3qADed9rwyP1wrRY9Y"
       },

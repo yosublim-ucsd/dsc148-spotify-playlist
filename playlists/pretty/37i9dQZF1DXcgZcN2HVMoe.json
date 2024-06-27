@@ -1,6 +1,6 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 330871,
+  "num_followers": 330923,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 309359,
+      "name": "re: Stacks - Spotify Singles",
+      "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Turning Onto You (HNNY Remix)",
         "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 309359,
-      "name": "re: Stacks - Spotify Singles",
-      "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Gypsy Tapes",
         "url": "https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 212585,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 190500,
       "name": "The Weather (Acoustic)",
       "url": "https://open.spotify.com/track/7nECboGB4x2fYyf7lPyg7C"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "You In My Life",
         "url": "https://open.spotify.com/album/4VAyFHlTN3wS2I04RGcKj5"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 217293,
       "name": "You In My Life",
       "url": "https://open.spotify.com/track/0xVQa1rlcbYtemV7TezzZJ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Black And White (Stripped)",
-        "url": "https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232528,
-      "name": "Black And White - Stripped",
-      "url": "https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Whirlwind",
         "url": "https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 208088,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Black And White (Stripped)",
+        "url": "https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232528,
+      "name": "Black And White - Stripped",
+      "url": "https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "If I Didn\u2019t Love You",
         "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 246350,
       "name": "If I Didn\u2019t Love You",
       "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/3MIjWNHQ3UcbwtJorLNeJU"
-      },
-      "artists": [
-        {
-          "name": "George Taylor",
-          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
-        }
-      ],
-      "duration_ms": 262853,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/1qRjGm49sjk0NntgZMdDzn"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 200305,
       "name": "21 Days",
       "url": "https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/3MIjWNHQ3UcbwtJorLNeJU"
+      },
+      "artists": [
+        {
+          "name": "George Taylor",
+          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
+        }
+      ],
+      "duration_ms": 262853,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/1qRjGm49sjk0NntgZMdDzn"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
-        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "TFDI",
         "url": "https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh"
       },
@@ -2335,22 +2319,6 @@
       "duration_ms": 306466,
       "name": "Pretty Things",
       "url": "https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "October Sky",
-        "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 195065,
-      "name": "October Sky",
-      "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2375,6 +2343,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "October Sky",
+        "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 195065,
+      "name": "October Sky",
+      "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Sleepless in Seattle",
         "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
       },
@@ -2391,50 +2375,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/2MvEZPyhKqA5SdVAmsu2nC"
+        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
+        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 201883,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/0EP3yjbjHdbUL1miyNlgys"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Longwave",
-        "url": "https://open.spotify.com/album/7uo0oJVjhuw0fIGltmSPcs"
-      },
-      "artists": [
-        {
-          "name": "Bonny Doon",
-          "url": "https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn"
-        }
-      ],
-      "duration_ms": 323263,
-      "name": "Long Wave",
-      "url": "https://open.spotify.com/track/5UnoxzcNj2Ym6ZOnIGdwGE"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Hello Ramona",
-        "url": "https://open.spotify.com/album/54hcOJOTswayrQFhDwhbUY"
-      },
-      "artists": [
-        {
-          "name": "Chase McBride",
-          "url": "https://open.spotify.com/artist/6RlaScSXjYLYi4RAq4FgCX"
-        }
-      ],
-      "duration_ms": 226349,
-      "name": "Hello Ramona",
-      "url": "https://open.spotify.com/track/4N4HzoD9Dp7b8eGqDfBreY"
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2471,6 +2423,54 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Hello Ramona",
+        "url": "https://open.spotify.com/album/54hcOJOTswayrQFhDwhbUY"
+      },
+      "artists": [
+        {
+          "name": "Chase McBride",
+          "url": "https://open.spotify.com/artist/6RlaScSXjYLYi4RAq4FgCX"
+        }
+      ],
+      "duration_ms": 226349,
+      "name": "Hello Ramona",
+      "url": "https://open.spotify.com/track/4N4HzoD9Dp7b8eGqDfBreY"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Longwave",
+        "url": "https://open.spotify.com/album/7uo0oJVjhuw0fIGltmSPcs"
+      },
+      "artists": [
+        {
+          "name": "Bonny Doon",
+          "url": "https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn"
+        }
+      ],
+      "duration_ms": 323263,
+      "name": "Long Wave",
+      "url": "https://open.spotify.com/track/5UnoxzcNj2Ym6ZOnIGdwGE"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/2MvEZPyhKqA5SdVAmsu2nC"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "duration_ms": 201883,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/0EP3yjbjHdbUL1miyNlgys"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Queen of Silver Linings",
         "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
       },
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "would you call me up?",
-        "url": "https://open.spotify.com/album/6sq8d7ejYstY6hhWByEIXs"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 251504,
-      "name": "would you call me up?",
-      "url": "https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Somewhere in Chicago",
         "url": "https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 185901,
       "name": "Somewhere in Chicago",
       "url": "https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "would you call me up?",
+        "url": "https://open.spotify.com/album/6sq8d7ejYstY6hhWByEIXs"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 251504,
+      "name": "would you call me up?",
+      "url": "https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2711,22 +2711,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 240958,
-      "name": "Just for Now",
-      "url": "https://open.spotify.com/track/0B0Kv1dO7clBuDwZMO0dxP"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Mid Sentence",
         "url": "https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX"
       },
@@ -2743,6 +2727,22 @@
       "duration_ms": 184342,
       "name": "Mid Sentence",
       "url": "https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 240958,
+      "name": "Just for Now",
+      "url": "https://open.spotify.com/track/0B0Kv1dO7clBuDwZMO0dxP"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2811,22 +2811,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "LEMONS",
-        "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
-      },
-      "artists": [
-        {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "Walking Home to You",
-      "url": "https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/1woKCA8dTokL647kKXySq6"
       },
@@ -2839,6 +2823,22 @@
       "duration_ms": 200127,
       "name": "The Open Road",
       "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "LEMONS",
+        "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "Walking Home to You",
+      "url": "https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2955,18 +2955,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Blank Page",
-        "url": "https://open.spotify.com/album/4gYrYFOyGDWQWw7payBfjX"
+        "name": "Wanted (Acoustic)",
+        "url": "https://open.spotify.com/album/48VjpRGLXZxgmmTTMTFowz"
       },
       "artists": [
         {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+          "name": "Landon Austin",
+          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
+        },
+        {
+          "name": "Carmen Justice",
+          "url": "https://open.spotify.com/artist/2JrDkW63FG9GotlYtmuwTs"
         }
       ],
-      "duration_ms": 335160,
-      "name": "Blank Page",
-      "url": "https://open.spotify.com/track/4JsWbDG96EO5ddZLERXoj5"
+      "duration_ms": 138620,
+      "name": "Wanted (Acoustic)",
+      "url": "https://open.spotify.com/track/1KZaVU9QspHnzNT3NgH9Tg"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2991,22 +2995,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Wanted (Acoustic)",
-        "url": "https://open.spotify.com/album/48VjpRGLXZxgmmTTMTFowz"
+        "name": "Blank Page",
+        "url": "https://open.spotify.com/album/4gYrYFOyGDWQWw7payBfjX"
       },
       "artists": [
         {
-          "name": "Landon Austin",
-          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
-        },
-        {
-          "name": "Carmen Justice",
-          "url": "https://open.spotify.com/artist/2JrDkW63FG9GotlYtmuwTs"
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 138620,
-      "name": "Wanted (Acoustic)",
-      "url": "https://open.spotify.com/track/1KZaVU9QspHnzNT3NgH9Tg"
+      "duration_ms": 335160,
+      "name": "Blank Page",
+      "url": "https://open.spotify.com/track/4JsWbDG96EO5ddZLERXoj5"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -3271,22 +3271,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "a lighter shade of blue",
-        "url": "https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 213766,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "12 Views Of Beatenberg",
         "url": "https://open.spotify.com/album/5qcY0XOZ3hk9iLOvACULpi"
       },
@@ -3299,6 +3283,22 @@
       "duration_ms": 192569,
       "name": "She's Not Like That",
       "url": "https://open.spotify.com/track/3wsddzf4BEH997R6eX7YhD"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "a lighter shade of blue",
+        "url": "https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 213766,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/1b7g70Su9yEnnfIetjAYWL"
     },
     {
       "added_at": "2023-10-06 04:00:00",

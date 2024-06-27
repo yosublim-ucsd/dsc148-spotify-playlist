@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 187652,
+  "num_followers": 187670,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "MILENA",
-        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
-      },
-      "artists": [
-        {
-          "name": "Milena Salamanca",
-          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
-        }
-      ],
-      "duration_ms": 198234,
-      "name": "Florcita Del Monte",
-      "url": "https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
         "name": "Viajes Por El Mundo",
         "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 172800,
       "name": "Los Ejes de Mi Carreta",
       "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
+        "name": "MILENA",
+        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
+      },
+      "artists": [
+        {
+          "name": "Milena Salamanca",
+          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
+        }
+      ],
+      "duration_ms": 198234,
+      "name": "Florcita Del Monte",
+      "url": "https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
+        "name": "Guitarra, D\u00edmelo Tu",
+        "url": "https://open.spotify.com/album/3H30zV8WQtf4I2hKhOpEwx"
       },
       "artists": [
         {
-          "name": "D\u00fao Salte\u00f1o",
-          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
         }
       ],
-      "duration_ms": 233314,
-      "name": "La Pome\u00f1a",
-      "url": "https://open.spotify.com/track/3iSkp3Yk2Eiw34ev6v38JY"
+      "duration_ms": 254960,
+      "name": "Milonga Del Solitario",
+      "url": "https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Guitarra, D\u00edmelo Tu",
-        "url": "https://open.spotify.com/album/3H30zV8WQtf4I2hKhOpEwx"
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
       },
       "artists": [
         {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+          "name": "D\u00fao Salte\u00f1o",
+          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
         }
       ],
-      "duration_ms": 254960,
-      "name": "Milonga Del Solitario",
-      "url": "https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz"
+      "duration_ms": 233314,
+      "name": "La Pome\u00f1a",
+      "url": "https://open.spotify.com/track/3iSkp3Yk2Eiw34ev6v38JY"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Salte\u00f1o",
-          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Balderrama",
-      "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
         "name": "Principio y Destino",
         "url": "https://open.spotify.com/album/7HS2KYPywBrmG6FXupQm36"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 163906,
       "name": "El tesoro de mi alma",
       "url": "https://open.spotify.com/track/6LweRJCnlnrAB21WQjUupg"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Salte\u00f1o",
+          "url": "https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna"
+        }
+      ],
+      "duration_ms": 255680,
+      "name": "Balderrama",
+      "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Luna Tucumana",
-        "url": "https://open.spotify.com/album/4kGesDHHRwrGSNTbVpnFqm"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 261055,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/3LYoTVikNcpLp5HRiz4jsV"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
         "name": "El Canto De La Tierra",
         "url": "https://open.spotify.com/album/5K60VXc8jWyqiMK7QM1GBb"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 211533,
       "name": "La Pastorcita Perdida",
       "url": "https://open.spotify.com/track/36wpfInAPheD9NuswqTR3f"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
+        "name": "Luna Tucumana",
+        "url": "https://open.spotify.com/album/4kGesDHHRwrGSNTbVpnFqm"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 261055,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/3LYoTVikNcpLp5HRiz4jsV"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Conviccion",
-        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
-      },
-      "artists": [
-        {
-          "name": "Rocio Araujo",
-          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "Cuando Me Abandone el Alma",
-      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
-    },
-    {
-      "added_at": "2024-06-12 22:52:11",
-      "album": {
         "name": "Nuestras Mejores 30 Canciones",
         "url": "https://open.spotify.com/album/1PLHsC4X3wdJr6xFEfzcjJ"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 161773,
       "name": "Recuerdo Salte\u00f1o",
       "url": "https://open.spotify.com/track/3esSMzPYxYBnW6ARIgr4Oo"
+    },
+    {
+      "added_at": "2024-06-12 22:52:11",
+      "album": {
+        "name": "Conviccion",
+        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
+      },
+      "artists": [
+        {
+          "name": "Rocio Araujo",
+          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Cuando Me Abandone el Alma",
+      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
     },
     {
       "added_at": "2024-06-12 22:52:11",
@@ -1815,7 +1815,7 @@
     {
       "added_at": "2024-06-12 22:52:11",
       "album": {
-        "name": "Serie De Oro",
+        "name": "Grandes Exitos (Serie De Oro)",
         "url": "https://open.spotify.com/album/3rEBrFbu2Gf4jeg6Rjzo0T"
       },
       "artists": [

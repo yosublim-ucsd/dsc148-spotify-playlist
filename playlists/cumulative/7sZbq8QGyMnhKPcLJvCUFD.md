@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-556 songs - 1 day 4 hr 23 min
+557 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Spirit](https://open.spotify.com/track/7w72YAANcgERnbpqcW4C5B) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Spirit](https://open.spotify.com/album/2egaLUBXUvyDbUBgi5iLzh) | 2:55 | 2022-07-12 | 2023-04-28 |
 | [Stars In The Sky](https://open.spotify.com/track/1PRtgc9OQr4wlJjjBz4LKy) | [BEKSY.](https://open.spotify.com/artist/3c6PB0rp6XOiA2JywVvnKV) | [Stars In The Sky](https://open.spotify.com/album/3Qz0orOMHZRAhTe00UUOmV) | 2:30 | 2024-04-09 |  |
 | [Stay](https://open.spotify.com/track/6Ms5LyTh0BZQkcQb8RIHel) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Stay](https://open.spotify.com/album/4YiGHpqVOiy6ItV3X8Qust) | 3:28 | 2024-04-02 |  |
+| [Stay Focused](https://open.spotify.com/track/5UFKNIydTbKVNr6tDTzGFf) | [Jessee](https://open.spotify.com/artist/2lHCL6yjrnkU87mpTKgLuZ), [Artino](https://open.spotify.com/artist/6W0lKsGxmXkou02Srd3eC9) | [Stay Focused](https://open.spotify.com/album/4ufvmGyISkx48EKc1UdDSZ) | 2:36 | 2024-06-26 |  |
 | [Stay With Me](https://open.spotify.com/track/37SZi6cnrAJY0K7Xc8lwqe) | [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc), [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [Tom The Gaffer](https://open.spotify.com/artist/10RN2BJRsFdGpySIC39RRN) | [Stay With Me](https://open.spotify.com/album/3QksXN9OBPOxeyrBTIZnFt) | 2:45 | 2022-10-20 | 2023-08-10 |
 | [Stick Around You](https://open.spotify.com/track/62DSnDAEydxbgbU3OI2eMF) | [Jinxspr0](https://open.spotify.com/artist/6dGnKpumgA8WOmhmoMsGhK) | [Stick Around You](https://open.spotify.com/album/7axrnFv4TrV9USJVlllNtn) | 2:13 | 2024-03-12 |  |
 | [Stronger](https://open.spotify.com/track/6L49pJuPwkiSjYFcwK19SA) | [Prismo](https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y) | [Stronger](https://open.spotify.com/album/7aHMPHIbu3sQb6IF5pAt9E) | 3:32 | 2023-08-08 | 2024-01-04 |

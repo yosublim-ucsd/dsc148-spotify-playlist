@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-923 songs - 2 day 7 hr 52 min
+924 songs - 2 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Inner Strength \- Original Progressive Mix](https://open.spotify.com/track/4rfwxsfsqN8de5BrJxJK5k) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Inner Strength \(Progressive Mix\)](https://open.spotify.com/album/3fRb4Yr6TcX2dCOXhdeuPh) | 2:59 | 2023-03-03 | 2023-06-10 |
 | [Innocence](https://open.spotify.com/track/72g5MSt0ctPo7Sv3Ccctdf) | [Sam Laxton](https://open.spotify.com/artist/53Nb2hmEBQV4dbkKbTpSnU) | [Innocence](https://open.spotify.com/album/5ZB36wLX4P7aozcWcmjKc4) | 3:37 | 2022-10-14 | 2024-02-17 |
 | [INTO MY ARMS](https://open.spotify.com/track/7MKJv10BVcfkZSJZzOmtvI) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [INTO MY ARMS](https://open.spotify.com/album/6ZYPZJdWbJrCrCD0wTzM6t) | 3:54 | 2022-07-29 | 2023-07-08 |
+| [Into the Night](https://open.spotify.com/track/2ucRE68wy12o3kV3y1cCKF) | [Audorn](https://open.spotify.com/artist/3vpObPX3081idCIxwXiXq1), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Into the Night](https://open.spotify.com/album/3wfgKnNiPc0cWt5JWiDdx8) | 4:00 | 2024-06-21 |  |
 | [Invaders](https://open.spotify.com/track/4ZBDlALixvnxtg8I22pZHF) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [FAWZY](https://open.spotify.com/artist/3aTYYBTJCGSfPEPR9JJ4mj) | [Invaders](https://open.spotify.com/album/4njR9gO1pouK6VsZoe1GNy) | 3:11 | 2021-12-17 | 2022-07-24 |
 | [Invincible](https://open.spotify.com/track/3c6M5w7F9CrlCINaUZ4aOm) | [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP), [Airscape](https://open.spotify.com/artist/2tTZL2CE2Z190UPlHsjzym), [Sarah Anglionin](https://open.spotify.com/artist/2rgyrW6ADyl42MjTUymTL5) | [Invincible](https://open.spotify.com/album/4NXuaixHAJ2uJ868gsS5nr) | 2:39 | 2023-07-07 |  |
 | [Invisible](https://open.spotify.com/track/50fWnqvVS2SwMOnzRVXV62) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Dom Youdan](https://open.spotify.com/artist/7mFtdq1kVeZHdWjponFfWx) | [Reconnection EP](https://open.spotify.com/album/5N2BIKomahKMAAirp8tiBN) | 4:05 | 2021-12-17 | 2022-03-12 |
@@ -535,7 +536,7 @@
 | [Moonlight Shadow](https://open.spotify.com/track/4dEDU82H7VFaflZnCYEUiY) | [SCHALA](https://open.spotify.com/artist/0jk7HHrwqq0Y3Djioelf3m) | [Moonlight Shadow](https://open.spotify.com/album/0cTvAnxPfKcxe6dwxWYdKe) | 3:38 | 2023-04-07 | 2023-07-22 |
 | [Moonshade](https://open.spotify.com/track/5K1qQiwzz0k7Dc64wiZpFS) | [Ronski Speed](https://open.spotify.com/artist/3cOY6XMFQ12Q0D6Xif7BZh) | [Moonshade](https://open.spotify.com/album/0AB7gk8gDvtXH5i43s4k6G) | 3:17 | 2022-03-04 | 2022-07-07 |
 | [Morning Light](https://open.spotify.com/track/7I4tDDBhhjGZ0sv9NoK3Eb) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf) | [Morning Light](https://open.spotify.com/album/4j7RLLIETE8YFIJWXgFhfG) | 2:50 | 2022-05-20 | 2023-05-20 |
-| [Muchie](https://open.spotify.com/track/2tR8Y2fuzjLYmWWjKAgS6W) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY) | [Muchie](https://open.spotify.com/album/7hLXA66dogEQjDk8vh2HbH) | 3:21 | 2024-05-31 |  |
+| [Muchie](https://open.spotify.com/track/2tR8Y2fuzjLYmWWjKAgS6W) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY) | [Muchie](https://open.spotify.com/album/7hLXA66dogEQjDk8vh2HbH) | 3:21 | 2024-05-31 | 2024-06-27 |
 | [My Armour](https://open.spotify.com/track/0dcF0b9gjuGV3aCzjq5h6h) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I), [Nathan Red](https://open.spotify.com/artist/3BOwXt7PXPQ0RekeGEDgP2) | [Indigo](https://open.spotify.com/album/4wqRMgQqHrEOJ5dFN5oxvr) | 3:48 | 2022-06-17 | 2023-06-10 |
 | [My Enemy \- gardenstate Remix](https://open.spotify.com/track/73WnYDswTVHxJH4N9Th3vq) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Julie Thompson](https://open.spotify.com/artist/07rc8cAXzRZkFwA8ig6JGG), [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Empire 10 \(Part 3\)](https://open.spotify.com/album/3Y7B7K9ZAjLwdlD7ZAcyTF) | 4:33 | 2021-12-17 | 2022-05-14 |
 | [My Favourite Mistake](https://open.spotify.com/track/1sPQ7UdfZSeyDWiLCNpzmP) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Susanne Teutenberg](https://open.spotify.com/artist/1Xx7LP7rI1PIQeCtr6mN7K) | [My Favourite Mistake](https://open.spotify.com/album/3wx7Cl43qUKymyCUcHij79) | 3:23 | 2021-12-17 | 2022-03-12 |

@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 137599,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/519Th4DzEIwqRFFM7Ipmfv"
@@ -9314,7 +9314,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 113760,
       "name": "Early Mornings",
       "url": "https://open.spotify.com/track/3mZQX7fqgtcMIHJuAH3UEA"
@@ -11118,7 +11118,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 120008,
       "name": "Flattery",
       "url": "https://open.spotify.com/track/0EZzvnbBEDGBjaQRseSrbf"
@@ -12760,7 +12760,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 135416,
       "name": "Glamping",
       "url": "https://open.spotify.com/track/3rO1WUrPm16U5GvAD61S0T"
@@ -14256,6 +14256,24 @@
       "duration_ms": 130769,
       "name": "hibernation mode",
       "url": "https://open.spotify.com/track/4Kii20h2MsA5HEt7K6mCPy"
+    },
+    {
+      "album": {
+        "name": "Hidden Cateract",
+        "url": "https://open.spotify.com/album/2u3wf3qD72dxSL6eHyGsvr"
+      },
+      "artists": [
+        {
+          "name": "Carl Borg",
+          "url": "https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Hidden Cateract",
+      "url": "https://open.spotify.com/track/7kvIF3LgW4rUbwUhk1auws"
     },
     {
       "album": {
@@ -18306,7 +18324,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 151754,
       "name": "Lonely Astronaut",
       "url": "https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP"
@@ -30480,7 +30498,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 169691,
       "name": "Stoplight",
       "url": "https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG"
@@ -35288,7 +35306,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 113339,
       "name": "Walk Through the Sky",
       "url": "https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f"

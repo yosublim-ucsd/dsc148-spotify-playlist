@@ -2021,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "If I don't make it, I love u",
+        "url": "https://open.spotify.com/album/1DG8mBYMlAQNC9pA21zWAH"
+      },
+      "artists": [
+        {
+          "name": "Still House Plants",
+          "url": "https://open.spotify.com/artist/1zvVxcYQEbn9D1tMG7960a"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346481,
+      "name": "M M M",
+      "url": "https://open.spotify.com/track/3OEnErw6z4DGjfiWefhg75"
+    },
+    {
+      "album": {
         "name": "Songbook",
         "url": "https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Ton Carfi
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,887 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,982 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 53 | [Descansa](https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY), [Jay Santana](https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do) | [Minha Essência](https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG) | 4:29 |
 | 54 | [Intimidade \- Ao Vivo](https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Intimidade \(Ao Vivo\)](https://open.spotify.com/album/3fWhF5KsfOZxRUvYEVIw3T) | 3:39 |
 | 55 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 |
-| 56 | [O Lugar \(Ao Vivo\)](https://open.spotify.com/track/21KjObq0eAFQD3Dahk5O2m) | [Gabi Oliveira](https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [O Lugar \(Ao Vivo\)](https://open.spotify.com/album/3b5JIWeAc983PvpFjscVjb) | 3:31 |
-| 57 | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6) | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo) | 4:56 |
+| 56 | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6) | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo) | 4:56 |
+| 57 | [O Lugar \(Ao Vivo\)](https://open.spotify.com/track/21KjObq0eAFQD3Dahk5O2m) | [Gabi Oliveira](https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [O Lugar \(Ao Vivo\)](https://open.spotify.com/album/3b5JIWeAc983PvpFjscVjb) | 3:31 |
 | 58 | [Ele é Exaltado](https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4) | [Marcelo Cacilias](https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV) | [Instrumental Acoustic Worship II](https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q) | 5:31 |
 | 59 | [Valeu a Pena](https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw), [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Valeu a Pena](https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48) | 3:57 |
 | 60 | [Tuas Águas \- Acústico](https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Tuas Águas \(Acústico\)](https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t) | 4:59 |

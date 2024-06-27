@@ -13347,6 +13347,24 @@
     },
     {
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251034,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc"
+    },
+    {
+      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/60XUyh545wo0P4HHuVQPsI"
       },

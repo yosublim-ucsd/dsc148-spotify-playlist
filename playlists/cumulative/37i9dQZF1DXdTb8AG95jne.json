@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Car, the garden(\uce74\ub354\uac00\ub4e0)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: The Volunteers(\ub354 \ubc1c\ub8ec\ud2f0\uc5b4\uc2a4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
+    {
+      "album": {
+        "name": "\"L\"",
+        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260682,
+      "name": "\"L\"",
+      "url": "https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM"
+    },
     {
       "album": {
         "name": "SR : BLACK",
@@ -8622,7 +8640,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 231386,
       "name": "Peanut butter Sandwich",
       "url": "https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21"
@@ -9924,7 +9942,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 274808,
       "name": "Silver008",
       "url": "https://open.spotify.com/track/1XXzmCR7kWi6axK6tr1yrc"
@@ -10620,6 +10638,24 @@
       "duration_ms": 178163,
       "name": "Star's Name (narr.Mommyson)",
       "url": "https://open.spotify.com/track/54ZuYIYglWSGEVfSNefoPy"
+    },
+    {
+      "album": {
+        "name": "\"L\"",
+        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192514,
+      "name": "Starfish on your head",
+      "url": "https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh"
     },
     {
       "album": {

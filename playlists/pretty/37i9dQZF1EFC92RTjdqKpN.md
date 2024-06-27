@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003 likes - 179 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004 likes - 179 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,8 +172,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 162 | [don't](https://open.spotify.com/track/71XClVLszoY244g78yHPvL) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [in case you miss me](https://open.spotify.com/album/4f4zlRTu5sG8VM6xdIMw1m) | 2:52 |
 | 163 | [Gazillionaire](https://open.spotify.com/track/0OxyOZVZjmra7k5gJ3Q3IT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/2RkBBR9ARKnTM4BDptb3tT) | 2:26 |
 | 164 | [Girl Like You](https://open.spotify.com/track/27bgC58pQo7mHtxgA1Njew) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 3:30 |
-| 165 | [The National Manthem](https://open.spotify.com/track/7tl4f3AQwC1ZfHSEhMOWdu) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 0:29 |
-| 166 | [WET DREAM](https://open.spotify.com/track/2pTid5WZTf6PajZUaWlwyJ) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [LUBE // WET DREAM](https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy) | 2:59 |
+| 165 | [WET DREAM](https://open.spotify.com/track/2pTid5WZTf6PajZUaWlwyJ) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [LUBE // WET DREAM](https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy) | 2:59 |
+| 166 | [The National Manthem](https://open.spotify.com/track/7tl4f3AQwC1ZfHSEhMOWdu) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 0:29 |
 | 167 | [Die This Way](https://open.spotify.com/track/2oSWHeAr3ooGgHtA7ZpjjY) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Redefined](https://open.spotify.com/album/4Z9YEjzusTC1M1Nn8NuSVK) | 3:47 |
 | 168 | [Shake It](https://open.spotify.com/track/2N4H9UltvUUDpLmXuD8E1F) | [Dam'Edge](https://open.spotify.com/artist/6hMsRQVUBmM4FfRw0thDad), [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Shake It](https://open.spotify.com/album/2amUj6bzIUyOhDBJXiKR2U) | 3:26 |
 | 169 | [Surrender \(feat\. J Hart\) \- Protoculture Radio Edit](https://open.spotify.com/track/1mlNZa1rAwSt8fG9jUDwoj) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [J Hart](https://open.spotify.com/artist/0CwAIKaq06Ep8gtTJ6zy0d) | [25 Years Of Perfecto Records \(Mixed by Paul Oakenfold\)](https://open.spotify.com/album/6AWPUXVvcxoh2aR3GMrXFL) | 3:32 |
@@ -182,10 +182,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 172 | [2much2think](https://open.spotify.com/track/6Pu3WeA34o1JKRTU8eFKUD) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:49 |
 | 173 | [Always You](https://open.spotify.com/track/2GUSKl55bHEw5VAEBuFy06) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [The Wishing, The Wanting, The Longing](https://open.spotify.com/album/4Fks75uJTwftRTJRFlBRkl) | 2:50 |
 | 174 | [Bread and Butter](https://open.spotify.com/track/0LqUfE92cErfQ5pzGvpYa2) | [Jordan McGraw](https://open.spotify.com/artist/29wdR87Jh14i39ruPMMXYx) | [Jordan McGraw](https://open.spotify.com/album/5qhVf2cU941gVM5unOUPLj) | 2:45 |
-| 175 | [Crash My Car](https://open.spotify.com/track/2JfyKiGIPCsVe7CtVFqQRI) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Crash My Car](https://open.spotify.com/album/7BtWmsNzP5qOq1uvVLLBCC) | 2:44 |
-| 176 | [How It Ends](https://open.spotify.com/track/6drkUJ2S9fK3pdgvyGvlN8) | [Justice Carradine](https://open.spotify.com/artist/4lmyGbhv14PwBGEZmjVyzU) | [What A Weird Dream](https://open.spotify.com/album/0m8a1UOHdrUD1Ns10bclhc) | 2:28 |
-| 177 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
-| 178 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 |
+| 175 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 |
+| 176 | [Crash My Car](https://open.spotify.com/track/2JfyKiGIPCsVe7CtVFqQRI) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Crash My Car](https://open.spotify.com/album/7BtWmsNzP5qOq1uvVLLBCC) | 2:44 |
+| 177 | [How It Ends](https://open.spotify.com/track/6drkUJ2S9fK3pdgvyGvlN8) | [Justice Carradine](https://open.spotify.com/artist/4lmyGbhv14PwBGEZmjVyzU) | [What A Weird Dream](https://open.spotify.com/album/0m8a1UOHdrUD1Ns10bclhc) | 2:28 |
+| 178 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 179 | [Tonight](https://open.spotify.com/track/16LDHU7Ir8BAEQs9j61qDE) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/02x1wspowX3eX0DBV63jjF) | 3:53 |
 
-Snapshot ID: `AbVCFgAAAACCCC9C1NS8K+oULzb6BYw2`
+Snapshot ID: `AbVHtgAAAAAmSwgPlm6HO36F72j4P7+K`

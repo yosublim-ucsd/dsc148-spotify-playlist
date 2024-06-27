@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-420 songs - 18 hr 20 min
+421 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [I'm Good](https://open.spotify.com/track/1H27IgTftbtLwK4HrdGV3x) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [I'm Good](https://open.spotify.com/album/7FptgpHqLvYf6sgYhiey41) | 2:32 | 2024-06-07 | 2024-06-23 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/5Yo5PpwKlekpbOd8JucLAP) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [I'm Good \(Blue\)](https://open.spotify.com/album/4Glni7CfaUZ2NV3ZmPQJV7) | 2:17 | 2023-09-22 | 2024-04-02 |
 | [i'm so tired...](https://open.spotify.com/track/7FamXhIzUQfZksaeBVLyxg) | [Daniel Santoro](https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz) | [i'm so tired...](https://open.spotify.com/album/7ticB10Ylch3lT5iTUTVc6) | 2:41 | 2023-09-22 |  |
-| [If I Only Knew](https://open.spotify.com/track/0VN4l7R6O7UcPKJhwaZfNN) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [If I Only Knew](https://open.spotify.com/album/1ejZy43GaJpxtdIOVP4k3L) | 2:27 | 2024-05-17 |  |
+| [If I Only Knew](https://open.spotify.com/track/0VN4l7R6O7UcPKJhwaZfNN) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [If I Only Knew](https://open.spotify.com/album/1ejZy43GaJpxtdIOVP4k3L) | 2:27 | 2024-05-17 | 2024-06-27 |
 | [If You Had My Love](https://open.spotify.com/track/0JWSMYurMhPmlD5H8VRoTn) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL) | [If You Had My Love](https://open.spotify.com/album/4QLYrQJNjyLWOZmXtmGxUO) | 2:54 | 2023-09-22 |  |
 | [Imagine](https://open.spotify.com/track/1C5hCTVjM0GyeM7D3OwS1F) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR) | [Imagine](https://open.spotify.com/album/2YJ4ScRr6kKLX50spuN1QQ) | 2:19 | 2023-09-22 |  |
 | [In My Dreams](https://open.spotify.com/track/5fcsXkwywOqIpQBDOlaLH2) | [ItsLee](https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [In My Dreams](https://open.spotify.com/album/0CBgHoqep6A9LpledmXVAx) | 2:25 | 2024-04-05 |  |
@@ -299,6 +299,7 @@
 | [Pleasure & Pain](https://open.spotify.com/track/3aQbews2UsaZk2wEbsCvrE) | [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL) | [Pleasure & Pain](https://open.spotify.com/album/0UZ4WyDGLVaJC97q8W9oA8) | 3:34 | 2023-09-22 |  |
 | [Rain](https://open.spotify.com/track/7tD0sQp4WMnHTvB5PMy4cc) | [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs), [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ) | [Rain](https://open.spotify.com/album/4bD1k0opGzr6ewPvocAs71) | 2:51 | 2024-04-13 |  |
 | [Reason \- Tim Hughes & Panuma Sunset Edit](https://open.spotify.com/track/0txmcPVaXJ3o7avdhn2u1S) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb), [Tim Hughes](https://open.spotify.com/artist/4WEMphmXl2F6iDiskozVez) | [Reason \(Tim Hughes & Panuma Sunset Edit\)](https://open.spotify.com/album/1kFOArg1PSzq3FdXl8D2C5) | 2:41 | 2023-11-02 | 2024-05-13 |
+| [remedy](https://open.spotify.com/track/4wgw9tILtt2wV5pSJMlPCC) | [elsaaa](https://open.spotify.com/artist/0l9ymNLUakebec39MWLAuE) | [remedy](https://open.spotify.com/album/7qR3PpvBpSUR9Ah8UzGTs1) | 2:12 | 2024-06-26 |  |
 | [Remember This](https://open.spotify.com/track/5NcM2opc4PrK3q9V8EDa6c) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Remember This](https://open.spotify.com/album/2DHMzh5EcdK7rvttd3wBRB) | 2:15 | 2024-06-09 |  |
 | [Reminds Me Of Us](https://open.spotify.com/track/3GLQvY5d9zmLVXvrlfZQA4) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [Amphitryon](https://open.spotify.com/artist/1RZXk7ou8ZRXyFx8x40vlA), [Chloé Hétier](https://open.spotify.com/artist/0H6slz0xCeit42HAFGZdwa) | [Reminds Me Of Us](https://open.spotify.com/album/6EhFlEsbKvzkMgp11MFe4F) | 2:38 | 2023-12-04 | 2024-02-12 |
 | [Rest Of Our Lives](https://open.spotify.com/track/5WnWsehcWT9dKx6SGenpW3) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7), [Sirena](https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw) | [Rest Of Our Lives](https://open.spotify.com/album/7bncsLo6B0U6YmsNzPuRRp) | 2:00 | 2023-11-22 | 2023-12-18 |

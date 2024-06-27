@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,159 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,203 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 15 | [Houdini \- Adam Port Mix](https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Houdini \(Adam Port Mix\)](https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG) | 3:22 |
 | 16 | [Shivers \- Ofenbach Remix](https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Shivers \(Ofenbach Remix\)](https://open.spotify.com/album/3Dru9IyxnZXhmrNbSv56yl) | 3:07 |
 | 17 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |
-| 18 | [exes \- Regard Remix](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [exes \(Regard Remix\)](https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9) | 3:02 |
-| 19 | [Ride It \- Jonas Blue Remix](https://open.spotify.com/track/2ONRkpOJ6X91GMXMthtT0M) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Ride It \(Jonas Blue Remix\)](https://open.spotify.com/album/6DPGJNJf9crOOe2pyRjF6S) | 3:02 |
+| 18 | [Ride It \- Jonas Blue Remix](https://open.spotify.com/track/2ONRkpOJ6X91GMXMthtT0M) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Ride It \(Jonas Blue Remix\)](https://open.spotify.com/album/6DPGJNJf9crOOe2pyRjF6S) | 3:02 |
+| 19 | [exes \- Regard Remix](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [exes \(Regard Remix\)](https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9) | 3:02 |
 | 20 | [Post Malone \(feat\. RANI\) \- VIZE Remix](https://open.spotify.com/track/3mruwwpKfG5NYmnEr6O5Dw) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Post Malone \(feat\. RANI\) \[VIZE Remix\]](https://open.spotify.com/album/2idnYaYkAG2xDus7xk1yNZ) | 2:34 |
 | 21 | [REACT \- D.O.D Remix](https://open.spotify.com/track/1nduTOCUhGhkMGRH6NBmit) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [REACT \(D.O.D Remix\)](https://open.spotify.com/album/3z1xjXM8LPuABJSw64mmzH) | 2:15 |
 | 22 | [Padam Padam \- Jax Jones Remix](https://open.spotify.com/track/5HSbqwNpsP7XeQyrGIO8M2) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/album/56MZdg3g5dvDMwC5GsxbQQ) | 3:24 |

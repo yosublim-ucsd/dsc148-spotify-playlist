@@ -1,12 +1,12 @@
 {
-  "description": "This Is Kasey Chambers. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 10359,
+  "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
+  "num_followers": 10362,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAAAVMi9v/F/rU+0mmpGN1wMk",
+  "snapshot_id": "ZnoIgAAAAADX88nl959465X6vX2nZHAw",
   "tracks": [
     {
       "added_at": null,
@@ -558,15 +558,11 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 220258,
-      "name": "If We Had a Child (with Keith Urban)",
-      "url": "https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0"
+      "duration_ms": 257021,
+      "name": "Ain't No Little Girl",
+      "url": "https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt"
     },
     {
       "added_at": null,
@@ -603,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/7yFK6PyTCAEdb0FY16TwXS"
       },
       "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        },
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 194186,
-      "name": "Beautiful Mess",
-      "url": "https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV"
+      "duration_ms": 175832,
+      "name": "Whispering Voice",
+      "url": "https://open.spotify.com/track/6KrH808OiGT7HiwofPkOEo"
     },
     {
       "added_at": null,
@@ -626,11 +626,15 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 257021,
-      "name": "Ain't No Little Girl",
-      "url": "https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt"
+      "duration_ms": 220258,
+      "name": "If We Had a Child (with Keith Urban)",
+      "url": "https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0"
     },
     {
       "added_at": null,
@@ -651,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/7yFK6PyTCAEdb0FY16TwXS"
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
       },
       "artists": [
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        },
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 175832,
-      "name": "Whispering Voice",
-      "url": "https://open.spotify.com/track/6KrH808OiGT7HiwofPkOEo"
+      "duration_ms": 194186,
+      "name": "Beautiful Mess",
+      "url": "https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 105293,
-      "name": "Georgia Brown",
-      "url": "https://open.spotify.com/track/3Jwm0yvkmn8IoRVXIOsc3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wayward Angel",
         "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 209293,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/7KlvXLOb3z0UFX0uBHG0x6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 105293,
+      "name": "Georgia Brown",
+      "url": "https://open.spotify.com/track/3Jwm0yvkmn8IoRVXIOsc3p"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "Someone Like Me",
-      "url": "https://open.spotify.com/track/3xwhLeG9Nuz8qAha6v91m8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleeping With The Blues",
         "url": "https://open.spotify.com/album/4iA1rj6uq5L0YJ5aiQiUzY"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 149092,
       "name": "Stories We Could Tell",
       "url": "https://open.spotify.com/track/7Ct9D7hVGIY5tEnQ2CBXp4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 249266,
+      "name": "Someone Like Me",
+      "url": "https://open.spotify.com/track/3xwhLeG9Nuz8qAha6v91m8"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "Love Like A Hurricane",
-      "url": "https://open.spotify.com/track/4CrJxr4egNEYhniSDNITy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 221247,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3TSW0LDIUXbUa3NT5ynZKP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 189746,
+      "name": "Love Like A Hurricane",
+      "url": "https://open.spotify.com/track/4CrJxr4egNEYhniSDNITy4"
     },
     {
       "added_at": null,

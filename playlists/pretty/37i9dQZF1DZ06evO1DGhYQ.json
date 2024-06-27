@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 7375,
+  "num_followers": 7382,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAABsZ8sCJyPUCTXwdVC9EHA7",
+  "snapshot_id": "ZnoIgAAAAACsBoS7VNsosT/gjL75gAKw",
   "tracks": [
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8e0a\u6551\u6025\u7bb1",
-        "url": "https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr"
-      },
-      "artists": [
-        {
-          "name": "s**t kingz",
-          "url": "https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx"
-        },
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 166850,
-      "name": "KID feat. LEO (ALI)",
-      "url": "https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INGLOURIOUS EASTERN COWBOY",
         "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 289306,
       "name": "FOUND BLUE",
       "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u8e0a\u6551\u6025\u7bb1",
+        "url": "https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr"
+      },
+      "artists": [
+        {
+          "name": "s**t kingz",
+          "url": "https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx"
+        },
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 166850,
+      "name": "KID feat. LEO (ALI)",
+      "url": "https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb"
     },
     {
       "added_at": null,

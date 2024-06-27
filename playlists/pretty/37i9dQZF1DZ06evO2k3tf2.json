@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1352445,
+  "num_followers": 1352610,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAACpt7zANmqcrfI9POxFWDIU",
+  "snapshot_id": "ZnoIgAAAAABhkZXtI3XMqrBaAx0zIGXc",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Tear in My Heart",
-      "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
+      "duration_ms": 191493,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/57yL3161hUMuw06zzzUCHi"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 216758,
-      "name": "The Outside",
-      "url": "https://open.spotify.com/track/0yzj6eBs5a6X6d3P5qaQ5J"
+      "duration_ms": 163880,
+      "name": "House of Gold",
+      "url": "https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp"
     },
     {
       "added_at": null,
@@ -244,25 +244,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 191493,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/57yL3161hUMuw06zzzUCHi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "House of Gold",
-      "url": "https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp"
+      "duration_ms": 234813,
+      "name": "Heavydirtysoul",
+      "url": "https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy"
     },
     {
       "added_at": null,
@@ -279,6 +263,22 @@
       "duration_ms": 238560,
       "name": "Jumpsuit",
       "url": "https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 267720,
+      "name": "Car Radio",
+      "url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P"
     },
     {
       "added_at": null,
@@ -308,25 +308,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 234813,
-      "name": "Heavydirtysoul",
-      "url": "https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 267720,
-      "name": "Car Radio",
-      "url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P"
+      "duration_ms": 234946,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP"
     },
     {
       "added_at": null,
@@ -343,6 +327,22 @@
       "duration_ms": 258853,
       "name": "Morph",
       "url": "https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 224398,
+      "name": "Mulberry Street",
+      "url": "https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj"
     },
     {
       "added_at": null,
@@ -372,25 +372,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 234946,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 224398,
-      "name": "Mulberry Street",
-      "url": "https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj"
+      "duration_ms": 177200,
+      "name": "We Don't Believe What's on TV",
+      "url": "https://open.spotify.com/track/22OqansuvEMQu9W0EfiGTI"
     },
     {
       "added_at": null,
@@ -407,6 +391,22 @@
       "duration_ms": 225040,
       "name": "Nico and the Niners",
       "url": "https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 172232,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 172232,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trench",
         "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 145946,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/2uBhGx3m5iJrtsql8Qk00j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 245842,
+      "name": "Redecorate",
+      "url": "https://open.spotify.com/track/2XPmTamsj7d9i3gzLCL4JI"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 245842,
-      "name": "Redecorate",
-      "url": "https://open.spotify.com/track/2XPmTamsj7d9i3gzLCL4JI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cancer",
         "url": "https://open.spotify.com/album/22uQ3YSLjQJPNPkZQzdX2y"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 236826,
       "name": "Cancer",
       "url": "https://open.spotify.com/track/19W5OTEcQI3ZoRW1HERMyy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 223065,
+      "name": "Choker",
+      "url": "https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx"
     },
     {
       "added_at": null,
@@ -571,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Twenty-Four (Tyler Joseph from Twenty One Pilots Version)",
+      "url": "https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scaled And Icy",
         "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
@@ -580,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 223065,
-      "name": "Choker",
-      "url": "https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx"
+      "duration_ms": 176324,
+      "name": "Formidable",
+      "url": "https://open.spotify.com/track/2jfyY5GIc7wsYVIrCnjblC"
     },
     {
       "added_at": null,

@@ -3005,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "Slow Morning",
+        "url": "https://open.spotify.com/album/0ydqrgxnkRE9OlSMSrYDG3"
+      },
+      "artists": [
+        {
+          "name": "Morning Coffee",
+          "url": "https://open.spotify.com/artist/62fnZMi7JwI8kp2DPqdlv1"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Slow Morning",
+      "url": "https://open.spotify.com/track/52aIVkfycicioVn13LVkXG"
+    },
+    {
+      "album": {
         "name": "Softly Spoken",
         "url": "https://open.spotify.com/album/1osp8EiJsqAv3rhXsKPnt4"
       },

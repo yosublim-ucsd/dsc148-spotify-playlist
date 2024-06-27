@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-443 songs - 1 day 3 hr 19 min
+444 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 | 2022-02-17 | 2023-03-21 |
 | [Distorting Time](https://open.spotify.com/track/1HQkR5RjeReEW57NpCwQf3) | [Nils Wülker](https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o) | [Go](https://open.spotify.com/album/0wfJlgrbgafX1cWRgAYIHO) | 4:50 | 2022-02-17 | 2022-04-23 |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2023-03-20 |  |
-| [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 | 2023-05-11 |  |
+| [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 | 2023-05-11 | 2024-06-27 |
 | [Dreams](https://open.spotify.com/track/5AjqLBpXtIzR1xE2DWljnC) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Morgan Burrs](https://open.spotify.com/artist/6VnotTNnq01QuFIPjL81gW) | [Reflections](https://open.spotify.com/album/63vYZUCuZYZhXQrxaztR0M) | 2:55 | 2022-06-02 | 2023-03-21 |
 | [Dreams About Change](https://open.spotify.com/track/1TPGqUM9ZzAfAv9FP4PtQN) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [Dreams About Change](https://open.spotify.com/album/7fIIBv08dA6Nm8DSeu5whf) | 3:17 | 2023-05-25 |  |
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2022-02-17 | 2022-06-03 |
@@ -303,6 +303,7 @@
 | [Prelude](https://open.spotify.com/track/39g0c8gVtrjk88LkwTvaek) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Prelude](https://open.spotify.com/album/5wa0g0eCwlUbSWclZtTp4E) | 2:51 | 2024-03-08 |  |
 | [Press Start](https://open.spotify.com/track/59OPrWGtvJHCa6BOj8pVuN) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2) | [Press Start](https://open.spotify.com/album/5zbognXVIVPduH2tHKw40s) | 1:47 | 2022-06-02 | 2023-03-31 |
 | [prisner](https://open.spotify.com/track/1f5w6SKCFnvTf68De7JgMR) | [Julius Rodriguez](https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF) | [butterfly](https://open.spotify.com/album/0heal5aAbfR3Y81QhAijRW) | 4:38 | 2022-02-17 | 2022-04-23 |
+| [Promenade With You](https://open.spotify.com/track/3Dz2EW0ND8Mfc41DxtoWQH) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Promenade With You](https://open.spotify.com/album/5JQlQVIftPyM62yCSXYDVY) | 3:40 | 2024-06-17 |  |
 | [Psalmboksmusik](https://open.spotify.com/track/6Z05waDrF7G1h9IWvtrqI8) | [The World](https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs) | [Kosmos](https://open.spotify.com/album/4OKVsBryYDcqXPEy2nCkxd) | 5:06 | 2022-02-17 | 2023-03-21 |
 | [Quiet Sunset](https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:27 | 2023-03-20 |  |
 | [Refractions](https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Refractions](https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe) | 3:37 | 2022-02-17 | 2022-04-28 |

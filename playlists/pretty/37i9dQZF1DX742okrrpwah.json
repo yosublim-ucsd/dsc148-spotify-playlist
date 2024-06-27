@@ -1,6 +1,6 @@
 {
   "description": "Coldplay au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 348556,
+  "num_followers": 348560,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
@@ -1114,10 +1114,14 @@
         {
           "name": "G-Eazy",
           "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Annika Rose",
+          "url": "https://open.spotify.com/artist/3E6TQHXjqR21vX9H0c5mOv"
         }
       ],
       "duration_ms": 157021,
-      "name": "In My Head",
+      "name": "In My Head (feat. Annika Rose)",
       "url": "https://open.spotify.com/track/6rD91CDAdyLwZ9fLPmfWqR"
     },
     {

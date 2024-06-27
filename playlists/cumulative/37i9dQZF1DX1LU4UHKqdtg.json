@@ -14007,6 +14007,24 @@
     },
     {
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/12crE710s5Iy0ebsr3qDfc"
+      },
+      "artists": [
+        {
+          "name": "Gyubin",
+          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5nEuBeII9tTOpEs4zCQJrY"
+    },
+    {
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF"
       },
@@ -16080,6 +16098,28 @@
       "duration_ms": 268853,
       "name": "Summer Night",
       "url": "https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI"
+    },
+    {
+      "album": {
+        "name": "Sunkissed",
+        "url": "https://open.spotify.com/album/0DLOQV3bGLeLTrEYk1bR81"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159013,
+      "name": "Sunkissed (Feat. MARK of NCT)",
+      "url": "https://open.spotify.com/track/5fgjRRJwE86CpvnZvR3bM6"
     },
     {
       "album": {

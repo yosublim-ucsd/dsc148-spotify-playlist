@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: VIZE, Armin van Buuren, Leony",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: NIIKO &amp; SWAE",
   "name": "Armada Today",
   "tracks": [
     {
@@ -1332,6 +1332,24 @@
       "duration_ms": 154838,
       "name": "Bananza",
       "url": "https://open.spotify.com/track/7h9Z1OOpEcKdwbobsGC0bG"
+    },
+    {
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/0B1UBqTkSMFmcmAvXxdYYL"
+      },
+      "artists": [
+        {
+          "name": "Iman Hanzo",
+          "url": "https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350693,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/6uX9Drm4DFWdD6iOgTZvXj"
     },
     {
       "album": {

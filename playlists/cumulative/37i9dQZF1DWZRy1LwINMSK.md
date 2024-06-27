@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de Cris Mj.
 
-230 songs - 12 hr 1 min
+230 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Beach with My Bix](https://open.spotify.com/track/3HgTImJQaKLT4jCOsWjrJB) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Xtaciss](https://open.spotify.com/album/7i85NxfIZcsAXR8zF9xCcA) | 2:16 | 2022-01-20 | 2022-04-29 |
 | [Bendecido](https://open.spotify.com/track/5w3hon9Yeb3qehSDpkY8Y0) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Bendecido](https://open.spotify.com/album/4sG7xEv5GJZlX1YOy5VYj9) | 3:03 | 2023-08-11 |  |
 | [Benz](https://open.spotify.com/track/33YnBNWLESnvq3XQbTGwrF) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Marlon Breeze](https://open.spotify.com/artist/6WI2aStGYkbt0vslpKmDkV) | [Benz](https://open.spotify.com/album/4YyytAJdO0uurg7QLNWPb0) | 2:49 | 2022-01-20 | 2023-07-22 |
-| [Big Glocks](https://open.spotify.com/track/7i8NO4HHq8bWEYXrU6tmYM) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [Big Glocks](https://open.spotify.com/album/6U9wHzw31rbF5DJF4P0kiT) | 3:29 | 2024-06-21 |  |
+| [Big Glocks](https://open.spotify.com/track/7i8NO4HHq8bWEYXrU6tmYM) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [Big Glocks](https://open.spotify.com/album/6U9wHzw31rbF5DJF4P0kiT) | 3:17 | 2024-06-21 |  |
 | [Blue V2](https://open.spotify.com/track/3AOhQ6KDL6CY19qw2D0aOR) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Blue V2](https://open.spotify.com/album/3VNVRVg1cYW4U7wIB03o7P) | 2:24 | 2023-03-10 | 2023-07-01 |
 | [Blue V2](https://open.spotify.com/track/0EbqWgge7ZFah2OWg7zMcT) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Blue V2](https://open.spotify.com/album/5At4juaXQVGzBMhRwMQ2Co) | 2:24 | 2022-04-01 | 2023-03-18 |
 | [Break](https://open.spotify.com/track/5w2vDEM6rRpIyOOYFuyNnm) | [Foreign](https://open.spotify.com/artist/5ZBw0dy3ESMOfqhMinLkqa), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Break](https://open.spotify.com/album/2q5ojFbm8BdMTQicV0VsQw) | 3:36 | 2022-03-18 | 2022-05-28 |

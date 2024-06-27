@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 276476,
+  "num_followers": 276482,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
@@ -39,26 +39,6 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
-    },
-    {
-      "added_at": "2024-06-21 03:03:00",
-      "album": {
         "name": "Roses (Imanbek Remix)",
         "url": "https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs"
       },
@@ -75,6 +55,26 @@
       "duration_ms": 176840,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
+    },
+    {
+      "added_at": "2024-06-21 03:03:00",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2024-06-21 03:03:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
-        "name": "One Million",
-        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "LOTTEN",
-          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
-        }
-      ],
-      "duration_ms": 187741,
-      "name": "One Million",
-      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
-    },
-    {
-      "added_at": "2024-06-21 03:03:00",
-      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 166299,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
+    },
+    {
+      "added_at": "2024-06-21 03:03:00",
+      "album": {
+        "name": "One Million",
+        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "LOTTEN",
+          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "One Million",
+      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
     },
     {
       "added_at": "2024-06-21 03:03:00",
@@ -911,6 +911,34 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
+        "name": "Atomic Bomb (feat. Juan Alcasar)",
+        "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        },
+        {
+          "name": "Juan Alcasar",
+          "url": "https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Atomic Bomb (feat. Juan Alcasar)",
+      "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
+    },
+    {
+      "added_at": "2024-06-21 03:03:00",
+      "album": {
         "name": "079",
         "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
       },
@@ -991,34 +1019,6 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
-        "name": "Atomic Bomb (feat. Juan Alcasar)",
-        "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        },
-        {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
-        },
-        {
-          "name": "Juan Alcasar",
-          "url": "https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Atomic Bomb (feat. Juan Alcasar)",
-      "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
-    },
-    {
-      "added_at": "2024-06-21 03:03:00",
-      "album": {
         "name": "Two Sides (feat. Julia Temos)",
         "url": "https://open.spotify.com/album/3cNQpCVYoz0wwCTXAdsZG7"
       },
@@ -1079,22 +1079,18 @@
     {
       "added_at": "2024-06-21 03:03:00",
       "album": {
-        "name": "where is your pride?",
-        "url": "https://open.spotify.com/album/2gC9Z5MHfmUkW2e3uHw56f"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Benjamin Zephaniah",
-          "url": "https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6"
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
         }
       ],
-      "duration_ms": 218666,
-      "name": "where is your pride?",
-      "url": "https://open.spotify.com/track/5H8f92czIxzvXko1n7toHZ"
+      "duration_ms": 158639,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
     }
   ],
   "unique_name": "Suor EDM",

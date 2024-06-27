@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,570 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,581 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 59 | [あなたは猫です](https://open.spotify.com/track/4B8y9ZGZeWoCV0KOIzFSoU) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [猫は抱くもの \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/5inaGyoHpfa8ImmeriboUB) | 3:15 |
 | 60 | [Cinco](https://open.spotify.com/track/7CKUI4URr6aECdBGtQPcoS) | [César Hernández Martínez](https://open.spotify.com/artist/2YQhbjGak4eGVvZjQXLTjP) | [Cinco](https://open.spotify.com/album/1i3Qeu4cBxecY6qyxSbxoB) | 4:04 |
 | 61 | [Sanctuary](https://open.spotify.com/track/4J9wp85UujXkSbrzb9uJ92) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [The Snow Goose](https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB) | 1:05 |
-| 62 | [風の谷のナウシカ \- 2024 ver.](https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [風の谷のナウシカ \(2024 ver.\)](https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH) | 5:25 |
-| 63 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
+| 62 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
+| 63 | [風の谷のナウシカ \- 2024 ver.](https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [風の谷のナウシカ \(2024 ver.\)](https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH) | 5:25 |
 | 64 | [harukanade / 春奏](https://open.spotify.com/track/4l4IkWuvZfqH9kxgzo1xSj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [harukanade / 春奏](https://open.spotify.com/album/2T4FB4EAIxoDyAw8IVfxAj) | 3:56 |
 | 65 | [First Sleep](https://open.spotify.com/track/4kvIhfgXgFIMsxmCbsMB0M) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 2:52 |
 | 66 | [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 85 | [Marginalia \#119](https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/5VMUvZggtYTArUGrcrlfCs) | 6:09 |
 | 86 | [MERCURIC DANCE/水銀\~躍動の踊り](https://open.spotify.com/track/2fXZxWhqV6YqpKsEoqID6S) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 7:06 |
 | 87 | [霧中夢](https://open.spotify.com/track/3QfKXrXI14fomDcmwYdkOY) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 6:59 |
-| 88 | [C/O](https://open.spotify.com/track/5BKWJlgXhxT7UmWXxzoCfK) | [Sakura Tsuruta](https://open.spotify.com/artist/79OBZx6sPHvnUqeIpooOcZ) | [C/O](https://open.spotify.com/album/7quy2UPFmb4p5k7lLx1a59) | 5:28 |
-| 89 | [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 |
+| 88 | [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 |
+| 89 | [C/O](https://open.spotify.com/track/5BKWJlgXhxT7UmWXxzoCfK) | [Sakura Tsuruta](https://open.spotify.com/artist/79OBZx6sPHvnUqeIpooOcZ) | [C/O](https://open.spotify.com/album/7quy2UPFmb4p5k7lLx1a59) | 5:28 |
 | 90 | [月の光](https://open.spotify.com/track/0j9BiFY2dWgtyycKZ2HZCw) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [月の光 \(Ultimate Edition\)](https://open.spotify.com/album/3uahEjE95POX11CnbVjBA6) | 5:55 |
 | 91 | [Holy Delay](https://open.spotify.com/track/3wN7BJJcU4tJsqF57GRt9M) | [Susumu Hirasawa](https://open.spotify.com/artist/6kaueP97pX7WZoOwF8XsI2) | [SIREN \(セイレーン\)](https://open.spotify.com/album/32NYvrETcA5iKorC3Sk1z9) | 5:23 |
 | 92 | [BALLADE OF AYA](https://open.spotify.com/track/3iBBDYtZzxyMfaTPBUonuh) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 1:38 |

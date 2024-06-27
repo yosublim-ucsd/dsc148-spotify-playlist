@@ -24,6 +24,24 @@
     {
       "album": {
         "name": "11:11",
+        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208351,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
+    },
+    {
+      "album": {
+        "name": "11:11",
         "url": "https://open.spotify.com/album/4Px9wifE31iBOPudmPL2RP"
       },
       "artists": [
@@ -1204,6 +1222,24 @@
       "duration_ms": 207430,
       "name": "Beckham",
       "url": "https://open.spotify.com/track/1AURVCpSSc7w88q9Fvxu4e"
+    },
+    {
+      "album": {
+        "name": "Bells and Whistles",
+        "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Bells and Whistles",
+      "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
     },
     {
       "album": {
@@ -3231,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "ECRP",
+        "url": "https://open.spotify.com/album/25Acx0aEZgajqNKiZXBJPj"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236440,
+      "name": "ECRP",
+      "url": "https://open.spotify.com/track/7c6Mo690yENpxGVJzpimLl"
+    },
+    {
+      "album": {
         "name": "El 100",
         "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
       },
@@ -3870,6 +3924,24 @@
       "duration_ms": 164256,
       "name": "Flava (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n"
+    },
+    {
+      "album": {
+        "name": "Flirting Again",
+        "url": "https://open.spotify.com/album/4nYswRIZBX55w6aTGUSCnS"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182507,
+      "name": "Flirting Again",
+      "url": "https://open.spotify.com/track/35Gwl5y08cuh99LUlOPyag"
     },
     {
       "album": {
@@ -5210,6 +5282,24 @@
       "duration_ms": 195106,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
+    },
+    {
+      "album": {
+        "name": "Into Gold",
+        "url": "https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342680,
+      "name": "Into Gold",
+      "url": "https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV"
     },
     {
       "album": {
@@ -11536,8 +11626,8 @@
           "url": "https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF"
         },
         {
-          "name": "Puttaneska",
-          "url": "https://open.spotify.com/artist/2F38zdQmpl4DqRSlWCfvhu"
+          "name": "Puttaneska (De Momento)",
+          "url": "https://open.spotify.com/artist/6LvU67HNGK3OJBYnfArORz"
         }
       ],
       "date_added": "2024-06-21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,130 likes - 76 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,134 likes - 76 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 67 | [En el fondo del mar](https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [En el fondo del mar](https://open.spotify.com/album/2le5rS0useInfiwUH6D0en) | 6:07 |
 | 68 | [Luna en Nueva York](https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg) | [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk) | [Piano Tuerto](https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8) | 5:26 |
 | 69 | [Trias](https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw) | [Juan Cruz De Urquiza](https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Carlos Alvarez](https://open.spotify.com/artist/3n4bsQdUztlsnOwCfEYsSI), [Carto Brandán](https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB) | [Trías](https://open.spotify.com/album/3r9kmsMm2FztYolno45BT2) | 10:40 |
-| 70 | [Billie's Bounce](https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc) | [Alfredo Remus](https://open.spotify.com/artist/61rgv0cssjbKKpkESSnup3), [Manuel Fraga](https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8), [Oscar Giunta](https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P) | [Querido Bill : Tributo a Bill Evans](https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ) | 8:10 |
-| 71 | [Infinite Universe](https://open.spotify.com/track/3vJbdayj0bmi5x0CVEfBzN) | [Verónica Sala](https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP), [Santiago Deluca](https://open.spotify.com/artist/0Ui8Oqp2625l6x2Z6gkzDZ) | [Infinite Universe](https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ) | 4:40 |
+| 70 | [Infinite Universe](https://open.spotify.com/track/3vJbdayj0bmi5x0CVEfBzN) | [Verónica Sala](https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP), [Santiago Deluca](https://open.spotify.com/artist/0Ui8Oqp2625l6x2Z6gkzDZ) | [Infinite Universe](https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ) | 4:40 |
+| 71 | [Billie's Bounce](https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc) | [Alfredo Remus](https://open.spotify.com/artist/61rgv0cssjbKKpkESSnup3), [Manuel Fraga](https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8), [Oscar Giunta](https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P) | [Querido Bill : Tributo a Bill Evans](https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ) | 8:10 |
 | 72 | [Ausencias](https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT) | [Dino Saluzzi](https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz) | [Ausencias](https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM) | 4:58 |
 | 73 | [9 de Copas](https://open.spotify.com/track/5rWHeoqcCoWfJgvsjuoBDt) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t), [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm), [Hernán Segret](https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU), [Carto Brandán](https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB) | [9 de Copas](https://open.spotify.com/album/6s057GCrLIIKLJJIVp6Has) | 3:52 |
 | 74 | [Juventud](https://open.spotify.com/track/6JYlEztSmPwzfSNiRDX3Bn) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy) | [Manto de Carne](https://open.spotify.com/album/10ZoS4b1TByFyer9vaFGzH) | 5:14 |

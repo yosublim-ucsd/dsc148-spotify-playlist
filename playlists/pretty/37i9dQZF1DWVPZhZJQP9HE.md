@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,318 likes - 87 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,370 likes - 87 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 7 | [Kanaa](https://open.spotify.com/track/0ThL8U5OaPtjrgz7BB38az) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq), [Aelo](https://open.spotify.com/artist/7qHIhScCCPjjFvwYVPNnJx) | [Kanaa](https://open.spotify.com/album/2wq48v8MQWaek7K6NgLXc2) | 3:55 |
 | 8 | [La La Heartu Nikkala \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/5orsg8Rqsas06dNgt8qVIv) | [Harsha Vardhan](https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [La La Heartu Nikkala \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/5Z3fTQosbONJaCZXGRrLIY) | 2:37 |
 | 9 | [Inimel](https://open.spotify.com/track/6PxEQ1dXyhuZQtTClI6TiR) | [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Inimel](https://open.spotify.com/album/3VTNd5Fcti1lc9ASdEpiWz) | 4:00 |
-| 10 | [Olalai](https://open.spotify.com/track/2nbjJxiBedH58K9Os9Duef) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [keli.thee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg) | [Olalai](https://open.spotify.com/album/10GVrPFNC9zO4TyMskrYrf) | 3:05 |
+| 10 | [Olalai \- From 'Atti Culture'](https://open.spotify.com/track/2nbjJxiBedH58K9Os9Duef) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [keli.thee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg) | [Olalai \(From 'Atti Culture'\)](https://open.spotify.com/album/10GVrPFNC9zO4TyMskrYrf) | 3:05 |
 | 11 | [Idhu Kaadhal Dhaane \- From "Think Indie"](https://open.spotify.com/track/0zKGgCTLYCYCvUlBv5UiAI) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Idhu Kaadhal Dhaane \(From "Think Indie"\)](https://open.spotify.com/album/0DadlfZOp4smHTuegx58bt) | 4:45 |
 | 12 | [Unnaale](https://open.spotify.com/track/0mkMQZ9DT3l9ABGOcn10Vh) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3) | [Unnaale](https://open.spotify.com/album/1qByAMkd0lZV8OE0kllQ8K) | 3:15 |
 | 13 | [Miss Worldwide](https://open.spotify.com/track/1dggrH8yPRF7waf6g7lYxF) | [AK Sekaren](https://open.spotify.com/artist/2TuYELbaTUDcXeeLLgxU9s) | [Miss Worldwide](https://open.spotify.com/album/6mddZoMyU3552WU1OdgczN) | 3:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uGJ6hmelbT.md) - [plain]
 
 > ¡Cantos y Rondas de todos los tiempos para jugar y aprender!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,086 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,091 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uGJ6hmelbT.md) - [plain]
 | 9 | [La vaca Lola](https://open.spotify.com/track/38A98InxiLisshLueMkkBb) | [Los Pollitos](https://open.spotify.com/artist/4iVOyYeNMkk6oInxcFmSGb) | [Canciones De La Granja 2](https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60) | 2:07 |
 | 10 | [Mi Burrito Sabanero \- Remix](https://open.spotify.com/track/4NtlVyFOH4Si9fJcS1N0Oj) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Mi Burrito Sabanero \(Remix\)](https://open.spotify.com/album/0wZMJ3Lr2RRpH1RR4ySLPh) | 3:13 |
 | 11 | [Azul](https://open.spotify.com/track/18dT2U1WriXNJrtnj4uZlw) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q) | [Azul](https://open.spotify.com/album/014vHyEl6X8mAe3ckUX5Mv) | 2:11 |
-| 12 | [Rompe la Piñata](https://open.spotify.com/track/15OTJmroB4KhDoHO2eVTrP) | [Toy Cantando](https://open.spotify.com/artist/1OXm1s4r7Ow6XgyNMWm0ZW), [Laura Hernández Gil](https://open.spotify.com/artist/7DpOqQ8MQHsoSz2QNsDlMS), [Juliana Cuevas](https://open.spotify.com/artist/139sbB0ldv1QK8fzXhLuKW) | [Rompe la Piñata](https://open.spotify.com/album/2bR1iGl96r55vWtb2AhG1W) | 2:29 |
+| 12 | [Rompe la Piñata](https://open.spotify.com/track/15OTJmroB4KhDoHO2eVTrP) | [Toy Cantando](https://open.spotify.com/artist/1OXm1s4r7Ow6XgyNMWm0ZW) | [Rompe la Piñata](https://open.spotify.com/album/2bR1iGl96r55vWtb2AhG1W) | 2:29 |
 | 13 | [Ruge](https://open.spotify.com/track/4wsbghfTyK45ZbrnYSIJCG) | [Dinorockers](https://open.spotify.com/artist/73thUL728iQz7m3kCrqwsi) | [Ruge](https://open.spotify.com/album/7kUQL3OBTYWYHP6iipz9Kb) | 2:14 |
 | 14 | [Mariposita](https://open.spotify.com/track/089Ck3bvQWvl15HUFvklv5) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 2](https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF) | 1:44 |
 | 15 | [La Vaca Lola Perdió Su Cola](https://open.spotify.com/track/72bHySynfodXD8nDHQRiSC) | [Toy Cantando](https://open.spotify.com/artist/1OXm1s4r7Ow6XgyNMWm0ZW) | [La Vaca Lola Perdió Su Cola](https://open.spotify.com/album/1Gb0Xbho63ztMfImppoxR2) | 2:37 |

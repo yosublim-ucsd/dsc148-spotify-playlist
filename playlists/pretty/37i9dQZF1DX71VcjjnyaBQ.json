@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 402446,
+  "num_followers": 402497,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-06-11 13:58:30",
       "album": {
-        "name": "Forest Floor",
-        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
-      },
-      "artists": [
-        {
-          "name": "Fergus McCreadie",
-          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Glade",
-      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
-    },
-    {
-      "added_at": "2024-06-11 13:58:30",
-      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
       },
@@ -471,6 +455,22 @@
     {
       "added_at": "2024-06-11 13:58:30",
       "album": {
+        "name": "Forest Floor",
+        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
+      },
+      "artists": [
+        {
+          "name": "Fergus McCreadie",
+          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Glade",
+      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
+    },
+    {
+      "added_at": "2024-06-11 13:58:30",
+      "album": {
         "name": "Trouble Maker",
         "url": "https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS"
       },
@@ -483,38 +483,6 @@
       "duration_ms": 407333,
       "name": "Trouble Maker",
       "url": "https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u"
-    },
-    {
-      "added_at": "2024-06-11 13:58:30",
-      "album": {
-        "name": "Cloudland",
-        "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
-      },
-      "artists": [
-        {
-          "name": "Lars Danielsson",
-          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
-        },
-        {
-          "name": "Gr\u00e9gory Privat",
-          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
-        },
-        {
-          "name": "John Parricelli",
-          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
-        },
-        {
-          "name": "Magnus \u00d6str\u00f6m",
-          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
-        },
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        }
-      ],
-      "duration_ms": 274802,
-      "name": "Cloudland",
-      "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
     },
     {
       "added_at": "2024-06-11 13:58:30",
@@ -559,6 +527,38 @@
       "duration_ms": 223706,
       "name": "In This Moment",
       "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
+    },
+    {
+      "added_at": "2024-06-11 13:58:30",
+      "album": {
+        "name": "Cloudland",
+        "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
+      },
+      "artists": [
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Gr\u00e9gory Privat",
+          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
+        },
+        {
+          "name": "John Parricelli",
+          "url": "https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri"
+        },
+        {
+          "name": "Magnus \u00d6str\u00f6m",
+          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
+        },
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        }
+      ],
+      "duration_ms": 274802,
+      "name": "Cloudland",
+      "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
     },
     {
       "added_at": "2024-06-11 13:58:30",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-06-11 13:58:30",
       "album": {
-        "name": "For my lady",
-        "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
-      },
-      "artists": [
-        {
-          "name": "Filip Jers",
-          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "For my lady",
-      "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
-    },
-    {
-      "added_at": "2024-06-11 13:58:30",
-      "album": {
         "name": "P\u00e5 nye eventyr",
         "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 322253,
       "name": "P\u00e5 nye eventyr",
       "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
+    },
+    {
+      "added_at": "2024-06-11 13:58:30",
+      "album": {
+        "name": "For my lady",
+        "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
+      },
+      "artists": [
+        {
+          "name": "Filip Jers",
+          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "For my lady",
+      "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
     },
     {
       "added_at": "2024-06-11 13:58:30",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-06-11 13:58:30",
       "album": {
+        "name": "The Rumor",
+        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
+      },
+      "artists": [
+        {
+          "name": "Ron Miles",
+          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
+        }
+      ],
+      "duration_ms": 270613,
+      "name": "The Rumor",
+      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
+    },
+    {
+      "added_at": "2024-06-11 13:58:30",
+      "album": {
         "name": "Our Songs",
         "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 224607,
       "name": "My Song",
       "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
-    },
-    {
-      "added_at": "2024-06-11 13:58:30",
-      "album": {
-        "name": "The Rumor",
-        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
-      },
-      "artists": [
-        {
-          "name": "Ron Miles",
-          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
-        }
-      ],
-      "duration_ms": 270613,
-      "name": "The Rumor",
-      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
     },
     {
       "added_at": "2024-06-11 13:58:30",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-06-11 13:58:30",
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Chestnut",
+          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
+        }
+      ],
+      "duration_ms": 244191,
+      "name": "Son binocle",
+      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
+    },
+    {
+      "added_at": "2024-06-11 13:58:30",
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 283266,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/10csxHiNeiIya5IRKop4Pa"
-    },
-    {
-      "added_at": "2024-06-11 13:58:30",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
-      },
-      "artists": [
-        {
-          "name": "Cyrus Chestnut",
-          "url": "https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO"
-        }
-      ],
-      "duration_ms": 244191,
-      "name": "Son binocle",
-      "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
     },
     {
       "added_at": "2024-06-11 13:58:30",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-06-11 13:58:30",
       "album": {
-        "name": "Nothing Happens Here",
-        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Nothing Happens Here",
-      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
-    },
-    {
-      "added_at": "2024-06-11 13:58:30",
-      "album": {
         "name": "First Quartet",
         "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 290506,
       "name": "First Day",
       "url": "https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s"
+    },
+    {
+      "added_at": "2024-06-11 13:58:30",
+      "album": {
+        "name": "Nothing Happens Here",
+        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Nothing Happens Here",
+      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
     },
     {
       "added_at": "2024-06-11 13:58:30",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-06-11 13:58:30",
       "album": {
+        "name": "Bye Bye Blackbird (Live)",
+        "url": "https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE"
+      },
+      "artists": [
+        {
+          "name": "Jim Snidero",
+          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
+        }
+      ],
+      "duration_ms": 422813,
+      "name": "Bye Bye Blackbird - Live",
+      "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
+    },
+    {
+      "added_at": "2024-06-11 13:58:30",
+      "album": {
         "name": "Some Gospel According to Matthew",
         "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2024-06-11 13:58:30",
       "album": {
-        "name": "Bye Bye Blackbird (Live)",
-        "url": "https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE"
-      },
-      "artists": [
-        {
-          "name": "Jim Snidero",
-          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
-        }
-      ],
-      "duration_ms": 422813,
-      "name": "Bye Bye Blackbird - Live",
-      "url": "https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1"
-    },
-    {
-      "added_at": "2024-06-11 13:58:30",
-      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG"
       },
@@ -1523,34 +1523,6 @@
       "duration_ms": 359982,
       "name": "Theo",
       "url": "https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD"
-    },
-    {
-      "added_at": "2024-06-11 13:58:30",
-      "album": {
-        "name": "Professor Nelson Strikes Again",
-        "url": "https://open.spotify.com/album/4DnzGUum1AtQ1RMeclFhma"
-      },
-      "artists": [
-        {
-          "name": "The New York Second",
-          "url": "https://open.spotify.com/artist/5IvR1puiIiwZY0xh5VFWR9"
-        },
-        {
-          "name": "Harald Walkate",
-          "url": "https://open.spotify.com/artist/1h6G6eVgBdJ88Mo6mMGrl2"
-        },
-        {
-          "name": "Max Sergeant",
-          "url": "https://open.spotify.com/artist/1Zg8kiLomzWw8H4vTsqFT2"
-        },
-        {
-          "name": "Lorenzo Buffa",
-          "url": "https://open.spotify.com/artist/0wK2uFLKljFvDacip7lXbB"
-        }
-      ],
-      "duration_ms": 251863,
-      "name": "Professor Nelson Strikes Again - Single Version",
-      "url": "https://open.spotify.com/track/6SwWNBBqNylPPRUFNy1W5k"
     },
     {
       "added_at": "2024-06-11 13:58:30",
@@ -1583,6 +1555,34 @@
       "duration_ms": 255746,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0TRD3w799Q6W1omTkLZPTi"
+    },
+    {
+      "added_at": "2024-06-11 13:58:30",
+      "album": {
+        "name": "Professor Nelson Strikes Again",
+        "url": "https://open.spotify.com/album/4DnzGUum1AtQ1RMeclFhma"
+      },
+      "artists": [
+        {
+          "name": "The New York Second",
+          "url": "https://open.spotify.com/artist/5IvR1puiIiwZY0xh5VFWR9"
+        },
+        {
+          "name": "Harald Walkate",
+          "url": "https://open.spotify.com/artist/1h6G6eVgBdJ88Mo6mMGrl2"
+        },
+        {
+          "name": "Max Sergeant",
+          "url": "https://open.spotify.com/artist/1Zg8kiLomzWw8H4vTsqFT2"
+        },
+        {
+          "name": "Lorenzo Buffa",
+          "url": "https://open.spotify.com/artist/0wK2uFLKljFvDacip7lXbB"
+        }
+      ],
+      "duration_ms": 251863,
+      "name": "Professor Nelson Strikes Again - Single Version",
+      "url": "https://open.spotify.com/track/6SwWNBBqNylPPRUFNy1W5k"
     },
     {
       "added_at": "2024-06-11 13:58:30",

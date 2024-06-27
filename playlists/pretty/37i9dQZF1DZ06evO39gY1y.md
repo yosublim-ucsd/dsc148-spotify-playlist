@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 ### [This Is Charles Ans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39gY1y)
 
-> This is Charles Ans\. The essential tracks, all in one playlist.
+> This Is Charles Ans\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,874 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,965 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 49 | [Dos de Café](https://open.spotify.com/track/3J2BppVuNMkRLbfWW0qRE0) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Órbitas](https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4) | 4:23 |
 | 50 | [Anticonceptivos](https://open.spotify.com/track/3L2JZWPU5PtlKP7QwTmNyt) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Anticonceptivos](https://open.spotify.com/album/2SUHmJQpAQBKhAIcl9DxOd) | 3:12 |
 
-Snapshot ID: `Zni3AAAAAAC3YLfNA+iNwjzXTFsQxQJi`
+Snapshot ID: `ZnoIgAAAAACplDEB9g7CVghKXyUDqrHg`

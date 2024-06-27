@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Karan Aujla
 
-380 songs - 19 hr 36 min
+381 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bandana](https://open.spotify.com/track/7KQdgW7QzNd9oPoCzjCU76) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Bandana](https://open.spotify.com/album/1jiFBECVkHOJwDe9TcKKiB) | 2:34 | 2024-03-29 |  |
 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 | 2022-05-29 | 2022-08-20 |
 | [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2022-12-10 | 2024-02-20 |
-| [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Hindi\)](https://open.spotify.com/track/73qEZ1uDm4V2jq9EeXWM8G) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Hindi\)](https://open.spotify.com/album/62LIgpBt6vwzmdzpj3fGdA) | 2:42 | 2024-06-17 |  |
+| [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Hindi\)](https://open.spotify.com/track/73qEZ1uDm4V2jq9EeXWM8G) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Hindi\)](https://open.spotify.com/album/62LIgpBt6vwzmdzpj3fGdA) | 2:42 | 2024-06-17 | 2024-06-27 |
 | [Bhalwani Gedi](https://open.spotify.com/track/6v1eVFNX8VmZQHY4woM9R6) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:27 | 2022-05-29 | 2023-08-01 |
 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 | 2022-05-29 | 2023-03-18 |
 | [Bijlee Bijlee](https://open.spotify.com/track/6rypIt9X1x9Okl0mgCdoVV) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Happy Chocolate Day 2022](https://open.spotify.com/album/64MPIq8mztoup1uwycI8dw) | 2:48 | 2022-07-28 | 2022-07-30 |
@@ -150,6 +150,7 @@
 | [Hussan Illahi](https://open.spotify.com/track/3yIRuz28iurD1uJ2ND1R8S) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:20 | 2023-05-26 | 2024-02-01 |
 | [I'm Countin](https://open.spotify.com/track/4avkhMdwDW4Uai0SPTGEtt) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [WITHDRAWS](https://open.spotify.com/album/0BpFDvlREijtZcjIDLnTy7) | 2:30 | 2024-05-10 | 2024-05-25 |
 | [Ice](https://open.spotify.com/track/5bnfUWFS4sVeWx1JLA3K9Z) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-05-19 |  |
+| [IDK HOW](https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 2:55 | 2024-06-26 |  |
 | [Ilzaam](https://open.spotify.com/track/0orOI8nTid7fxPvWIx1tKP) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:07 | 2023-07-07 | 2024-02-08 |
 | [In Love](https://open.spotify.com/track/2hMKHl9OYpQX7WXItUWG3H) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA) | [In Love](https://open.spotify.com/album/0vFXFLu6H6IfNwRJXpy4wS) | 2:41 | 2024-05-09 | 2024-05-25 |
 | [Info](https://open.spotify.com/track/2txEM0LayfSv1AOB3M1Z8R) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Info](https://open.spotify.com/album/6VdOWF7fv6BBeR7ePttQ5M) | 3:20 | 2022-05-29 | 2022-11-09 |

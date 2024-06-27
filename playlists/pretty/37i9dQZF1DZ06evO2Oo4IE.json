@@ -1,32 +1,28 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 179450,
+  "num_followers": 179470,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAAD/JCZyhsIWejjF9xQoV2FF",
+  "snapshot_id": "ZnoIgAAAAAD6PNaLhs4KaFKY4DcxupMw",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
       },
       "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 253333,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
+      "duration_ms": 271333,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
     },
     {
       "added_at": null,
@@ -43,22 +39,6 @@
       "duration_ms": 219133,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Cry Baby",
-      "url": "https://open.spotify.com/track/3L60Vu9qmY6fg2QroRIxgi"
     },
     {
       "added_at": null,
@@ -103,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/3L60Vu9qmY6fg2QroRIxgi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -115,22 +111,6 @@
       "duration_ms": 261893,
       "name": "Kozmic Blues",
       "url": "https://open.spotify.com/track/7eYYxblNEZKKeTT0HBQbXO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 107866,
-      "name": "Mercedes Benz",
-      "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g"
     },
     {
       "added_at": null,
@@ -175,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 107866,
+      "name": "Mercedes Benz",
+      "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -187,22 +183,6 @@
       "duration_ms": 228693,
       "name": "Little Girl Blue",
       "url": "https://open.spotify.com/track/6tv6EVWMV7AIWi8PhZ0uvO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "Move Over",
-      "url": "https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk"
     },
     {
       "added_at": null,
@@ -247,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Move Over",
+      "url": "https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -259,22 +255,6 @@
       "duration_ms": 235160,
       "name": "Try (Just a Little Bit Harder)",
       "url": "https://open.spotify.com/track/5Icqjqizh8TnwHdejZQQGQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Get It While You Can",
-      "url": "https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4"
     },
     {
       "added_at": null,
@@ -319,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Get It While You Can",
+      "url": "https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -331,22 +327,6 @@
       "duration_ms": 313066,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/1hxrGuTfeq8ayjB7fbIfpN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "A Woman Left Lonely",
-      "url": "https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk"
     },
     {
       "added_at": null,
@@ -391,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "A Woman Left Lonely",
+      "url": "https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -423,22 +419,6 @@
       "duration_ms": 116360,
       "name": "Coo Coo",
       "url": "https://open.spotify.com/track/5PEEbmeELam84bKuxZsoj2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 196507,
-      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
-      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
     },
     {
       "added_at": null,
@@ -479,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
       },
       "artists": [
         {
@@ -488,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Trust Me",
-      "url": "https://open.spotify.com/track/6EhE4bTkyFHzupV4bzG8Eu"
+      "duration_ms": 196507,
+      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
+      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
     },
     {
       "added_at": null,
@@ -831,6 +811,26 @@
       "duration_ms": 99706,
       "name": "Overheard In The Studio...",
       "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Oh, Sweet Mary",
+      "url": "https://open.spotify.com/track/6dK3YqaigUJPxdTZqwhnM7"
     },
     {
       "added_at": null,

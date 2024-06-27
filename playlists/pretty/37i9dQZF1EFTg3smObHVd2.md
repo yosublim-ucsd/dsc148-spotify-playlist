@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171 likes - 81 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 170 likes - 81 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 28 | [Collect My Love \(feat\. Alex Newell\)](https://open.spotify.com/track/0vKHq50iizaMQivSaItLf3) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 3:15 |
 | 29 | [Only Ones To Know \(feat\. Leona Lewis\)](https://open.spotify.com/track/64XOpjIAmHElXLV1OqhaOH) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Climate Change](https://open.spotify.com/album/4jtKPpBQ5eneMwEI94f5Y0) | 3:50 |
 | 30 | [Hush Hush](https://open.spotify.com/track/752wMzkVSWytdnSelJtzHK) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6) | 3:42 |
-| 31 | [Sexy Love](https://open.spotify.com/track/5ZEm9wX8MwWLARMOwlarWD) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:31 |
-| 32 | [SING](https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:11 |
+| 31 | [SING](https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:11 |
+| 32 | [Sexy Love](https://open.spotify.com/track/5ZEm9wX8MwWLARMOwlarWD) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:31 |
 | 33 | [Lift Me Up](https://open.spotify.com/track/5eV4sUsCLKTkrjtNc3eWWV) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX) | [Lift Me Up](https://open.spotify.com/album/5b6TihYV69YXs0p5CKnGYs) | 2:52 |
 | 34 | [Instant Gratification \- Nu Aspect Remix](https://open.spotify.com/track/39dv4IPJ5amId6CCE5hvNC) | [Miranda Glory](https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Instant Gratification \(Remixes\)](https://open.spotify.com/album/1XAZ1GKGLXdlDkLI3oYkhI) | 3:30 |
 | 35 | [Through To You](https://open.spotify.com/track/6NbawlEK1oiHcqA6rJUZuD) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [To Love You](https://open.spotify.com/album/2jo2Qi8zG7pT7sjgq9jf3k) | 3:26 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 80 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 |
 | 81 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 
-Snapshot ID: `AbVCDAAAAAAjF4JJ56D9fxucIX/qZMYk`
+Snapshot ID: `AbVHrAAAAAAUosx9spSYgpky0dVj+svr`

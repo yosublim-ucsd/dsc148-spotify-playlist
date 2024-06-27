@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,498 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,657 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 99 | [Sunday Service \(feat\. Megan Thee Stallion & Flo Milli\)](https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Sunday Service \(feat\. Megan Thee Stallion & Flo Milli\)](https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae) | 3:27 |
 | 100 | [OKAY](https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [OKAY](https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL) | 2:44 |
 
-Snapshot ID: `ZntvGgAAAADfBU4YFmM31zIVeyasDomF`
+Snapshot ID: `Znw37wAAAAD47k9mTJGy5JYmw9aLz1uT`

@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u6298\u5742\u60a0\u592a (Yuta Orisaka)",
-  "num_followers": 58425,
+  "num_followers": 58431,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
+        "name": "Unspoiled",
+        "url": "https://open.spotify.com/album/0mQZpVwfhsszway6XW3q6t"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "duration_ms": 335013,
+      "name": "Stellar",
+      "url": "https://open.spotify.com/track/75jg2C0JJPx1OE6yDgTbSR"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
         "name": "\u30e9\u30f3\u30bf\u30f3",
         "url": "https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 271500,
       "name": "\u30b9\u30da\u30eb",
       "url": "https://open.spotify.com/track/1ne0pXfW1MlansRIqBT5Ln"
-    },
-    {
-      "added_at": "2024-06-25 15:00:00",
-      "album": {
-        "name": "Unspoiled",
-        "url": "https://open.spotify.com/album/0mQZpVwfhsszway6XW3q6t"
-      },
-      "artists": [
-        {
-          "name": "Kroi",
-          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
-        }
-      ],
-      "duration_ms": 335013,
-      "name": "Stellar",
-      "url": "https://open.spotify.com/track/75jg2C0JJPx1OE6yDgTbSR"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "Chevon",
-        "url": "https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8"
+        "name": "\u7126\u52d5",
+        "url": "https://open.spotify.com/album/3yMtqQIh5pHTIobXvrWxCo"
       },
       "artists": [
         {
-          "name": "Chevon",
-          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
         }
       ],
-      "duration_ms": 241642,
-      "name": "\u3067\u3059\u3068\u3089\u304f\u3057\u3087\u3093!!",
-      "url": "https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj"
+      "duration_ms": 245145,
+      "name": "\u7126\u52d5",
+      "url": "https://open.spotify.com/track/5jMhr5mbqgytUnPZBcHNmr"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1075,18 +1075,34 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "\u7126\u52d5",
-        "url": "https://open.spotify.com/album/3yMtqQIh5pHTIobXvrWxCo"
+        "name": "Chevon",
+        "url": "https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8"
       },
       "artists": [
         {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
         }
       ],
-      "duration_ms": 245145,
-      "name": "\u7126\u52d5",
-      "url": "https://open.spotify.com/track/5jMhr5mbqgytUnPZBcHNmr"
+      "duration_ms": 241642,
+      "name": "\u3067\u3059\u3068\u3089\u304f\u3057\u3087\u3093!!",
+      "url": "https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "\u6700\u5f8c\u306e\u521d\u604b",
+        "url": "https://open.spotify.com/album/0dEoSEaWD6MmHSlrzcXtij"
+      },
+      "artists": [
+        {
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "DANCE\u6241\u6843\u4f53",
+      "url": "https://open.spotify.com/track/2pVnjeeJu6GrByXApWvTLN"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1123,22 +1139,6 @@
       "duration_ms": 179306,
       "name": "honestly",
       "url": "https://open.spotify.com/track/7ntRuy1lDZsIXNeSNsuCkz"
-    },
-    {
-      "added_at": "2024-06-25 15:00:00",
-      "album": {
-        "name": "\u6700\u5f8c\u306e\u521d\u604b",
-        "url": "https://open.spotify.com/album/0dEoSEaWD6MmHSlrzcXtij"
-      },
-      "artists": [
-        {
-          "name": "Cody\u30fbLee(\u674e)",
-          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "DANCE\u6241\u6843\u4f53",
-      "url": "https://open.spotify.com/track/2pVnjeeJu6GrByXApWvTLN"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "Komorebi",
-        "url": "https://open.spotify.com/album/18abfRUQQNVLHEA127jj6h"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "Spaceship",
-      "url": "https://open.spotify.com/track/5uTctpcdaA0o91A5LGx5LR"
-    },
-    {
-      "added_at": "2024-06-25 15:00:00",
-      "album": {
         "name": "Cubism",
         "url": "https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 194813,
       "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/18abfRUQQNVLHEA127jj6h"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 203786,
+      "name": "Spaceship",
+      "url": "https://open.spotify.com/track/5uTctpcdaA0o91A5LGx5LR"
     },
     {
       "added_at": "2024-06-25 15:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-06-25 15:00:00",
       "album": {
-        "name": "apart",
-        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 176166,
-      "name": "apart",
-      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
-    },
-    {
-      "added_at": "2024-06-25 15:00:00",
-      "album": {
         "name": "Branches",
         "url": "https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 273960,
       "name": "Branches",
       "url": "https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ"
+    },
+    {
+      "added_at": "2024-06-25 15:00:00",
+      "album": {
+        "name": "apart",
+        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 176166,
+      "name": "apart",
+      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
     }
   ],
   "unique_name": "Edge!",

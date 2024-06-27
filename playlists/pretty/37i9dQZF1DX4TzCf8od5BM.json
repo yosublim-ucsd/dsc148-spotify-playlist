@@ -1,13 +1,49 @@
 {
   "description": "Sing-along with your favorite songs from Disney Junior shows including new music from Ariel.",
-  "num_followers": 56512,
+  "num_followers": 56527,
   "original_name": "Disney Junior Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnCbgQAAAACPpuWvwTNcgzlOiNfNWRVH",
+  "snapshot_id": "ZnyKzwAAAABieoWvaKEk2IHPx8pP9vpP",
   "tracks": [
+    {
+      "added_at": "2024-06-26 21:40:30",
+      "album": {
+        "name": "Marvel's Spidey and His Amazing Friends - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/28PAtOT7ctTLu3na2oc2E2"
+      },
+      "artists": [
+        {
+          "name": "Marvel\u2019s Spidey and His Amazing Friends - Cast",
+          "url": "https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 137460,
+      "name": "Go Dino-Webs Go",
+      "url": "https://open.spotify.com/track/652swEGAml76MDdsFHnD7T"
+    },
+    {
+      "added_at": "2024-06-26 21:40:30",
+      "album": {
+        "name": "Marvel's Spidey and His Amazing Friends - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/28PAtOT7ctTLu3na2oc2E2"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        }
+      ],
+      "duration_ms": 154464,
+      "name": "Swing and Smash",
+      "url": "https://open.spotify.com/track/3nTPfuMCc4s8VG5elQ5jWN"
+    },
     {
       "added_at": "2024-06-17 20:24:33",
       "album": {

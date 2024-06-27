@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3rPchT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3rPchT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3rPchT)
 
-### [This Is HARDY](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rPchT)
+### [Acesta este HARDY.](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rPchT)
 
-> This is HARDY\. The essential tracks, all in one playlist.
+> This is HARDY\. Piesele esențiale într\-un singur playlist.
 
 68 songs - 3 hr 46 min
 

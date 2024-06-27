@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:5BfKKSmpGmj2moMNlaWeJK">Marty</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,495 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,520 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 43 | [Preference \- Live](https://open.spotify.com/track/4KZBNnHig4PN0cS5UkI6lq) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Preference \(Live\)](https://open.spotify.com/album/0i9tmWUNDNKQpazOlTy8Tw) | 7:47 |
 | 44 | [Open Every Door](https://open.spotify.com/track/6jA3FcB4e3ZZKtvLdJ9nRN) | [Harvest Worship](https://open.spotify.com/artist/5PdCcthDCLVddaLPWVKSPU), [Ricky Jackson](https://open.spotify.com/artist/0fx4HE5hQcqSgNPUV3c3ku) | [Open Every Door](https://open.spotify.com/album/3x9gsQsjQCzPrB4hFrHbsw) | 6:10 |
 | 45 | [Good To Me](https://open.spotify.com/track/10oJl3HxOl9zpSiHFfSelH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [Good To Me](https://open.spotify.com/album/3pC0kYa2BuwYTRu85cj4F2) | 5:14 |
-| 46 | [Arise](https://open.spotify.com/track/77oeF4AEI0zgsetpqEkduv) | [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Mike Weaver](https://open.spotify.com/artist/2MXO4zuYYiEj0uhRjcq4os), [Laurel Taylor](https://open.spotify.com/artist/4qZZmptWMEONmmERCJIGAR) | [Arise](https://open.spotify.com/album/0S1r5cTF00rHN9pi44Qez0) | 3:25 |
+| 46 | [Arise](https://open.spotify.com/track/77oeF4AEI0zgsetpqEkduv) | [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Laurel Taylor](https://open.spotify.com/artist/4qZZmptWMEONmmERCJIGAR), [Mike Weaver](https://open.spotify.com/artist/2MXO4zuYYiEj0uhRjcq4os) | [Arise](https://open.spotify.com/album/0S1r5cTF00rHN9pi44Qez0) | 3:25 |
 | 47 | [Boast \- Live](https://open.spotify.com/track/2WLnXSA3EBzjg7DbHcsTKv) | [Faith Worship Arts](https://open.spotify.com/artist/7lMdRbr3ZYJ98Kyhf3r2ex) | [Boast \(Live\)](https://open.spotify.com/album/3BuEmRFhH9XEwgT4YpLXAq) | 4:15 |
 | 48 | [Refuge \- Live](https://open.spotify.com/track/71XrNN4nhd4R5KBtIl1y4Y) | [Vizion Worship](https://open.spotify.com/artist/50U7PStTJa45DXDnGt6Cy0), [Kenzie Katlyn](https://open.spotify.com/artist/1LzID8UM1uupTj5RTeZWt9) | [Command My Soul](https://open.spotify.com/album/1tsQNQjeelh0ao6mU13pdc) | 6:05 |
 | 49 | [Where Your Heart Is](https://open.spotify.com/track/2nczMX5hhNQPuuAP9DHJrp) | [Sam Bailey](https://open.spotify.com/artist/5Y4egWWGjGizCPH1eexuHu) | [Where Your Heart Is](https://open.spotify.com/album/5PxhhnBvTuLkZpMntZv00x) | 4:59 |

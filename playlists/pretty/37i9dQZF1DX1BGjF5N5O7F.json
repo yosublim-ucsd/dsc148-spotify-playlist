@@ -1,6 +1,6 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 552682,
+  "num_followers": 552647,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-05-23 16:54:13",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2024-05-23 16:54:13",
-      "album": {
         "name": "Good Luck, Kid",
         "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 405026,
       "name": "Billie Holiday",
       "url": "https://open.spotify.com/track/3JCFw3L2g1NsSjbnjR869j"
+    },
+    {
+      "added_at": "2024-05-23 16:54:13",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2024-05-23 16:54:13",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-05-23 16:54:13",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s"
-    },
-    {
-      "added_at": "2024-05-23 16:54:13",
-      "album": {
         "name": "0",
         "url": "https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 355893,
       "name": "Nobody Loves Me Like You",
       "url": "https://open.spotify.com/track/21jx7ZJ9bH0xQugaPa1wG0"
+    },
+    {
+      "added_at": "2024-05-23 16:54:13",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s"
     },
     {
       "added_at": "2024-05-23 16:54:13",

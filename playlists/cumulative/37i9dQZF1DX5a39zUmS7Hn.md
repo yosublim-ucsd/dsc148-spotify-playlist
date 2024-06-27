@@ -300,7 +300,7 @@
 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 | 2023-05-11 | 2023-06-19 |
 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-04-18 |  |
 | [You Should Be Dancing](https://open.spotify.com/track/1Iu66OVgb8wioY6tpesoQS) | [Dee Gees](https://open.spotify.com/artist/0mCTPQ5oa1lbPvbw4kc0eX) | [Dee Gees / Hail Satin \- Foo Fighters / Live](https://open.spotify.com/album/50QMS2zosvUxhucf6zMRUy) | 3:52 | 2022-04-08 | 2022-07-27 |
+| [You're So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 | 2024-06-06 |  |
 | [You've Got A Habit Of Leaving \- Radio Edit](https://open.spotify.com/track/3dEb9tm18t9qwNUoiR2fXY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [You've Got A Habit Of Leaving \(Radio Edit\)](https://open.spotify.com/album/04PhgcPruSRzPLmk1RJk8a) | 3:26 | 2022-04-08 | 2022-07-27 |
-| [You’re So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 | 2024-06-06 |  |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

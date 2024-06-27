@@ -1,12 +1,12 @@
 {
-  "description": "This is Gojira. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 115687,
+  "description": "This is Gojira. The essential tracks, all in one playlist.",
+  "num_followers": 115721,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAADXsaR/UTf3KGPUhdSroftA",
+  "snapshot_id": "ZnoIgAAAAADZYCeDveQvrY26nsunLGUd",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 212653,
-      "name": "Silvera",
-      "url": "https://open.spotify.com/track/5uunXHE4kIW6uS4HWAXaOQ"
+      "duration_ms": 269533,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
     },
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 246680,
-      "name": "Toxic garbage island",
-      "url": "https://open.spotify.com/track/5e0OSsSpWpQ2kS7Z9CGLDu"
+      "duration_ms": 212653,
+      "name": "Silvera",
+      "url": "https://open.spotify.com/track/5uunXHE4kIW6uS4HWAXaOQ"
     },
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Toxic garbage island",
+      "url": "https://open.spotify.com/track/5e0OSsSpWpQ2kS7Z9CGLDu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fortitude",
         "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 264947,
       "name": "Another World",
       "url": "https://open.spotify.com/track/7cRGgrQ9eg8V8A4FsSj020"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 291626,
-      "name": "Vacuity",
-      "url": "https://open.spotify.com/track/16yvB7exWWUBkZ9fFkLVMI"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 291626,
+      "name": "Vacuity",
+      "url": "https://open.spotify.com/track/16yvB7exWWUBkZ9fFkLVMI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fortitude",
         "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 260741,
       "name": "Born For One Thing",
       "url": "https://open.spotify.com/track/61GkJ0y15jxDyBrdcb6PqR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 321786,
-      "name": "Oroborus",
-      "url": "https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp"
     },
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 321786,
+      "name": "Oroborus",
+      "url": "https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fortitude",
         "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 240358,
       "name": "Sphinx",
       "url": "https://open.spotify.com/track/6PhrbFbRW3Cchrv6klsLF5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 594213,
-      "name": "The art of dying",
-      "url": "https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 594213,
+      "name": "The art of dying",
+      "url": "https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fortitude",
         "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 312751,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/41DA32rbYp3PoLCAJeup0J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 274480,
-      "name": "The Axe",
-      "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 274480,
+      "name": "The Axe",
+      "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The way of all flesh",
         "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 309533,
       "name": "A sight to behold",
       "url": "https://open.spotify.com/track/2fA5O6Fs60rtXxIfelVKcH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fortitude",
-        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 396634,
-      "name": "New Found",
-      "url": "https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+        "name": "Fortitude",
+        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
       },
       "artists": [
         {
@@ -436,25 +436,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 79440,
-      "name": "Yellow Stone",
-      "url": "https://open.spotify.com/track/52HGJjorrIfVRaIueVOdIk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 344746,
-      "name": "Esoteric surgery",
-      "url": "https://open.spotify.com/track/7bUcTW0mHg4Ec0kgdXemEG"
+      "duration_ms": 396634,
+      "name": "New Found",
+      "url": "https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 108293,
       "name": "The Wild Healer",
       "url": "https://open.spotify.com/track/1Pa0DVjBUGreCBHIh81G50"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 344746,
+      "name": "Esoteric surgery",
+      "url": "https://open.spotify.com/track/7bUcTW0mHg4Ec0kgdXemEG"
     },
     {
       "added_at": null,

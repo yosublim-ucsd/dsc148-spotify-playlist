@@ -1401,6 +1401,32 @@
     },
     {
       "album": {
+        "name": "Zachem",
+        "url": "https://open.spotify.com/album/1trkUjHzlFcn58AxIlYRp9"
+      },
+      "artists": [
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        },
+        {
+          "name": "5sta Family",
+          "url": "https://open.spotify.com/artist/1ucCuUSV6lmONSjyJDpHu0"
+        },
+        {
+          "name": "BAbyBoi",
+          "url": "https://open.spotify.com/artist/42cw2CK4gg0tw9Jo6gQsCC"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "Zachem",
+      "url": "https://open.spotify.com/track/1tpgY6cqm5s0HdKwiqpliF"
+    },
+    {
+      "album": {
         "name": "\u0410\u0433\u0430, \u043d\u0443",
         "url": "https://open.spotify.com/album/5FVyAdm8nI5mUEwWco8mPC"
       },
@@ -3072,7 +3098,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 172094,
       "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"
@@ -3918,7 +3944,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 123789,
       "name": "\u0425\u043e\u043b\u043e\u0434",
       "url": "https://open.spotify.com/track/4jiwxqE1yye4hzG5CpNcUH"
@@ -4096,7 +4122,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 193877,
       "name": "\u042d\u0442\u043e \u0431\u044b\u043b\u043e \u0432 \u0420\u043e\u0441\u0441\u0438\u0438",
       "url": "https://open.spotify.com/track/12NAMTSAP5gphJROLrcT12"

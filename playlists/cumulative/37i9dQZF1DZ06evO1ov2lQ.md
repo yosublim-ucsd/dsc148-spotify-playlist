@@ -2,7 +2,7 @@
 
 ### [This Is Biosphere](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ov2lQ)
 
-> This is: Biosphere\. Alle wichtigen Tracks in einer Playlist.
+> This is Biosphere\. The essential tracks, all in one playlist.
 
 165 songs - 13 hr 42 min
 
@@ -92,8 +92,8 @@
 | [Juno](https://open.spotify.com/track/6UAI6i1BLXg9bFODQIRAod) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik 2](https://open.spotify.com/album/04ANZprt8yrZI5Ht6SwXyV) | 1:33 | 2022-10-07 | 2024-02-02 |
 | [Just One Kiss](https://open.spotify.com/track/54t2dTQ7ckm1BxvFsaibHZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Petrified Forest](https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc) | 5:01 | 2022-05-29 |  |
 | [Katedra Botaniki](https://open.spotify.com/track/79QCazp5Yy0bmPx908uqbz) | [Arne Nordheim](https://open.spotify.com/artist/4QsuzR3mlNOZqmhvyPKFME), [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Nordheim Transformed](https://open.spotify.com/album/30O89DMxubRNxxncKnFXdX) | 6:50 | 2022-06-02 | 2022-10-09 |
-| [Kent Country Train](https://open.spotify.com/track/3ZfjmvEQOCYwahIfCCQGQc) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 2:28 | 2022-08-25 | 2024-06-26 |
-| [Kobresia](https://open.spotify.com/track/5O6MFTh1rd9PeN8XEn1yCS) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 7:12 | 2022-05-29 | 2024-06-26 |
+| [Kent Country Train](https://open.spotify.com/track/3ZfjmvEQOCYwahIfCCQGQc) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 2:28 | 2022-08-25 |  |
+| [Kobresia](https://open.spotify.com/track/5O6MFTh1rd9PeN8XEn1yCS) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 7:12 | 2022-05-29 |  |
 | [Kyle](https://open.spotify.com/track/4SiHAz5DhGVoMtq34Tx6JB) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Senja Recordings](https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9) | 1:13 | 2024-04-25 |  |
 | [La Sconsolata](https://open.spotify.com/track/0e3vabGuru2Y3MUv9m29Wy) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:04 | 2022-12-02 |  |
 | [Lorry Shuttle Shaft](https://open.spotify.com/track/1Y8MX3R4RHW29Z8intfD3F) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:08 | 2024-01-19 | 2024-04-12 |
@@ -118,7 +118,7 @@
 | [Path Leading to the High Grass](https://open.spotify.com/track/2FwjeglcsXySDw4vem1Er0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:51 | 2022-06-25 | 2024-02-28 |
 | [People Are Friends](https://open.spotify.com/track/7CYNZgGuWr2lhkeQh1yurD) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 10:39 | 2022-05-29 | 2023-06-01 |
 | [Phantasm](https://open.spotify.com/track/0GitudTQiCx24Yq8GopYuG) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 4:50 | 2022-07-10 | 2022-10-12 |
-| [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 | 2022-05-29 |  |
+| [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 | 2022-05-29 | 2024-06-27 |
 | [Probe](https://open.spotify.com/track/2d2m3q2CPFPi0yM4EGghJo) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Insomnia](https://open.spotify.com/album/1VL4JpgnHsA8Q9Vqp5wNlF) | 1:30 | 2022-10-26 | 2023-11-11 |
 | [Proem](https://open.spotify.com/track/6NyKhutbpB1QVNF56cJ1Wh) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Insomnia](https://open.spotify.com/album/1VL4JpgnHsA8Q9Vqp5wNlF) | 3:16 | 2022-06-13 | 2022-06-16 |
 | [Qual Linea Al Centro](https://open.spotify.com/track/33VVSLjvt7d7Eq7n9lclPD) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:43 | 2023-05-15 |  |
@@ -161,7 +161,7 @@
 | [Tornerai? II](https://open.spotify.com/track/0cxrDTGxIv2kj5ZaVqkUeW) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [L'incoronazione Di Poppea](https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA) | 1:31 | 2023-08-10 | 2024-06-17 |
 | [Tranquillizer](https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 8:18 | 2022-05-29 |  |
 | [Turned to Stone](https://open.spotify.com/track/4CbTLWfGY3bxBaEylVfxLJ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Joan Lorring](https://open.spotify.com/artist/5SJyvsQqcxNC5QHAFrAj6b) | [Black Mesa \(feat\. Joan Lorring\)](https://open.spotify.com/album/4ukHNc9dfGDEPds0zkXfG0) | 3:38 | 2022-05-29 | 2023-04-18 |
-| [Twin Decks](https://open.spotify.com/track/4rhZ726UASilAJG9vSJqGZ) | [Arne Nordheim](https://open.spotify.com/artist/4QsuzR3mlNOZqmhvyPKFME), [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Nordheim Transformed](https://open.spotify.com/album/30O89DMxubRNxxncKnFXdX) | 2:46 | 2022-06-01 |  |
+| [Twin Decks](https://open.spotify.com/track/4rhZ726UASilAJG9vSJqGZ) | [Arne Nordheim](https://open.spotify.com/artist/4QsuzR3mlNOZqmhvyPKFME), [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Nordheim Transformed](https://open.spotify.com/album/30O89DMxubRNxxncKnFXdX) | 2:46 | 2022-06-01 | 2024-06-27 |
 | [Two Ocean Plateau](https://open.spotify.com/track/1ygMskatKHmaYZRqU80klz) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:07 | 2022-09-28 | 2022-09-30 |
 | [Two Ocean Plateau](https://open.spotify.com/track/2PJAh9IeZhEDWMa08xZVIf) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 3:10 | 2022-11-14 | 2024-06-13 |
 | [Uva\-Ursi](https://open.spotify.com/track/40QwZW5GcnjtwuPRJEM9bx) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 3:01 | 2022-08-26 | 2024-06-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,074 likes - 47 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,095 likes - 47 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 46 | [I Believe in Goddess](https://open.spotify.com/track/7K9QY042GZM4UFn2L6oyWP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 1:34 |
 | 47 | [Fake\-a\-Wish Foundation](https://open.spotify.com/track/3zphlVNZhI0c6qqFEccPN2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Half Album](https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD) | 1:26 |
 
-Snapshot ID: `Zni3AAAAAABpFCAu8ZhCkZ2VUtzslJLb`
+Snapshot ID: `ZnoIgAAAAAATshZVBVjqWz+eZT0/xnap`

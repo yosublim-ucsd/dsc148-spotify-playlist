@@ -1367,6 +1367,32 @@
     },
     {
       "album": {
+        "name": "O Mere Maula",
+        "url": "https://open.spotify.com/album/5sQTM5G3Q8PWuDsPfyxiYB"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352311,
+      "name": "O Mere Maula",
+      "url": "https://open.spotify.com/track/1cox6Zf3yJ3QzK1aB88Zqr"
+    },
+    {
+      "album": {
         "name": "Qaseeda Burda Shareef",
         "url": "https://open.spotify.com/album/3f8QBRJQTeLfkNrn7nJ5PP"
       },

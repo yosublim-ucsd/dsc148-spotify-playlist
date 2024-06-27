@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1kss636YZWThqotgyApqMj">Keith Urban</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376 likes - 96 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 377 likes - 96 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 40 | [She's My 11](https://open.spotify.com/track/0D82Yr6IjXqgjN7kpkF7q3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:17 |
 | 41 | [Out The Cage](https://open.spotify.com/track/3mRsqDndAcdKBInLbAsXiH) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 3:09 |
 | 42 | [Everybody](https://open.spotify.com/track/6KCa9qGpQ8eCjjFDFwF1r6) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 3:57 |
-| 43 | [Heart Like Mine](https://open.spotify.com/track/4GQLEEitsn7w5g60Idf4Wt) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:51 |
-| 44 | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P) | 3:47 |
+| 43 | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [GO HOME W U \(WITH LAINEY WILSON\)](https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P) | 3:47 |
+| 44 | [Heart Like Mine](https://open.spotify.com/track/4GQLEEitsn7w5g60Idf4Wt) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:51 |
 | 45 | [Song For Dad](https://open.spotify.com/track/0l2G2yxjpE9zgUA8rJlAMu) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:56 |
 | 46 | [Got It Right This Time \(The Celebration\)](https://open.spotify.com/track/443zJTvmOBwUBO3DB2IWdf) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:44 |
 | 47 | [STRAIGHT LINE](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [STRAIGHT LINE](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 72 | [Big Promises](https://open.spotify.com/track/3L8zMcL9KojENxfoDWeTkt) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 3:47 |
 | 73 | [Faster Car](https://open.spotify.com/track/7qaLei3wecrNvr33Re0s3K) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/3txPRPVrAXeiO0pJ13kFX7) | 4:27 |
 | 74 | [I Wanna Be Your Man \(Forever\)](https://open.spotify.com/track/2rbaRqz8dVCKob2s038sJT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 3:09 |
-| 75 | [Falling](https://open.spotify.com/track/6J3XKrWfZtwWsavbNkzO6e) | [Trent Harmon](https://open.spotify.com/artist/1YSoHvvSAY0oOJW7VxJx3M) | [Falling \(American Idol Top 3 Season 15\)](https://open.spotify.com/album/1c8w5pS5zHWJEKccp2iYwE) | 3:18 |
-| 76 | [You're Not My God](https://open.spotify.com/track/7t56DaFG03JsZaAmCi9LPR) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 8:31 |
+| 75 | [You're Not My God](https://open.spotify.com/track/7t56DaFG03JsZaAmCi9LPR) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 8:31 |
+| 76 | [Falling](https://open.spotify.com/track/6J3XKrWfZtwWsavbNkzO6e) | [Trent Harmon](https://open.spotify.com/artist/1YSoHvvSAY0oOJW7VxJx3M) | [Falling \(American Idol Top 3 Season 15\)](https://open.spotify.com/album/1c8w5pS5zHWJEKccp2iYwE) | 3:18 |
 | 77 | [Tu Compania](https://open.spotify.com/track/2CkkSaKYrvf5KplpndBSnW) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 4:10 |
 | 78 | [You Won](https://open.spotify.com/track/6j5fVSOBfFFuJvjQXkMLQO) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:21 |
 | 79 | [You're The Only One](https://open.spotify.com/track/3IM1MvonbidNaGyFWEndp5) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 4:54 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 95 | [Sunburned Country](https://open.spotify.com/track/6jem5ayssg5LZ3q7mewnr1) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [\(2\)](https://open.spotify.com/album/1ERi78WxPuTTHMKvxV4Wts) | 5:37 |
 | 96 | [Waar is de tijd?](https://open.spotify.com/track/3IJEooHq7SDbPgB728FSyz) | [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Als je lacht](https://open.spotify.com/album/3ilpS9EFDCWz6Eqjeks3mS) | 3:46 |
 
-Snapshot ID: `AbVCNAAAAADoam4PAeE8chP2Izh8Va7g`
+Snapshot ID: `AbVH1AAAAAC2rHK9+Gk9g3M25N+uvX88`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Rosa Chemical, Villabanks, Capo Plaza, Salmo e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,112 likes - 99 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,109 likes - 99 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

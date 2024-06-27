@@ -36069,6 +36069,24 @@
     },
     {
       "album": {
+        "name": "You're So Impatient",
+        "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128880,
+      "name": "You're So Impatient",
+      "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
+    },
+    {
+      "album": {
         "name": "Young In America",
         "url": "https://open.spotify.com/album/1ZIQTACUeZjcf9xHHvCpQp"
       },
@@ -36214,24 +36232,6 @@
       "duration_ms": 165519,
       "name": "youth+",
       "url": "https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo"
-    },
-    {
-      "album": {
-        "name": "You're So Impatient",
-        "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "date_added": "2024-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128880,
-      "name": "You\u2019re So Impatient",
-      "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
     },
     {
       "album": {

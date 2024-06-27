@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This Is Generación 12\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,484 likes - 47 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,496 likes - 47 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 22 | [Yo Te Seguiré](https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Yo Te Seguiré](https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE) | 4:32 |
 | 23 | [Es por Fe](https://open.spotify.com/track/08TSCtVrDwbShoX72DOG23) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 5:41 |
 | 24 | [Ahí Estás Tú](https://open.spotify.com/track/2dlk0PXifJPRYAEpEyV8FT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Ahí Estás Tú](https://open.spotify.com/album/3WS3WMgCXg5JDaxXDn7AsW) | 5:56 |
-| 25 | [Con Brazos Abiertos](https://open.spotify.com/track/7ezrc86k2pnpDkAmvW7Trc) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lau Guerra](https://open.spotify.com/artist/0mItElK8LuABlkUWi7gjn5), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 7:26 |
-| 26 | [Eres Tú](https://open.spotify.com/track/6KwQ4NFdhpZw39FtPOEDAu) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 4:20 |
+| 25 | [Eres Tú](https://open.spotify.com/track/6KwQ4NFdhpZw39FtPOEDAu) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 4:20 |
+| 26 | [Con Brazos Abiertos](https://open.spotify.com/track/7ezrc86k2pnpDkAmvW7Trc) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lau Guerra](https://open.spotify.com/artist/0mItElK8LuABlkUWi7gjn5), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 7:26 |
 | 27 | [No Hay Nada Imposible](https://open.spotify.com/track/40lu3hXRB2fJhDKuPGrnGL) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edgar Aguilar](https://open.spotify.com/artist/7Mn27Z2iSFFaF4UP8UjqOG), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 9:48 |
 | 28 | [Abres Camino](https://open.spotify.com/track/4uIVZAISkG5Kg2QYBCcYHw) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 7:34 |
 | 29 | [Si Tú Estás Conmigo](https://open.spotify.com/track/6k1NGpGexYFNYtHvpVWs3t) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Si Tú Estás Conmigo](https://open.spotify.com/album/3GG0BnFJLkg1GOQQzCOxK1) | 4:05 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 46 | [Cantar de Tu Amor](https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Daniela Quintero](https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 4:36 |
 | 47 | [Sonido de Amor \- \(Espontáneo\)](https://open.spotify.com/track/5Hy5SnsgoJiSseiNZL3TjR) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Anthony Catacoli](https://open.spotify.com/artist/56t1x0Jm7IiTEqpKvtY6Q7), [Antonio & Allison](https://open.spotify.com/artist/25zvOZBB4XlEB4R4xwqjD9) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 2:31 |
 
-Snapshot ID: `Zni3AAAAAAB5TnE9GBYZ20emDT5iqw/8`
+Snapshot ID: `ZnoIgAAAAADsq+/ZHYn7Voz0DfcdPq1y`

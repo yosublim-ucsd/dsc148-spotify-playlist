@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 448422,
+  "num_followers": 448440,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Cozy Nights",
-        "url": "https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B"
-      },
-      "artists": [
-        {
-          "name": "Weekly Bagel",
-          "url": "https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL"
-        }
-      ],
-      "duration_ms": 123290,
-      "name": "Cozy Nights",
-      "url": "https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "superabundance",
         "url": "https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 139738,
       "name": "superabundance",
       "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Cozy Nights",
+        "url": "https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B"
+      },
+      "artists": [
+        {
+          "name": "Weekly Bagel",
+          "url": "https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL"
+        }
+      ],
+      "duration_ms": 123290,
+      "name": "Cozy Nights",
+      "url": "https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "eventide",
+        "url": "https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh"
+      },
+      "artists": [
+        {
+          "name": "sad notes",
+          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
+        }
+      ],
+      "duration_ms": 130287,
+      "name": "eventide",
+      "url": "https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "If You Want Me",
         "url": "https://open.spotify.com/album/6QCAulBTfwAfkXbJYkTf2D"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 171428,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/4ng1XfVomFP5xGYna6FLpR"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "eventide",
-        "url": "https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh"
-      },
-      "artists": [
-        {
-          "name": "sad notes",
-          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
-        }
-      ],
-      "duration_ms": 130287,
-      "name": "eventide",
-      "url": "https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d"
     },
     {
       "added_at": "2024-06-14 04:00:00",

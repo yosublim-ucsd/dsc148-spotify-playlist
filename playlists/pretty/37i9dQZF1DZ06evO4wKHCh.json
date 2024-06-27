@@ -1,12 +1,12 @@
 {
-  "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 5937,
-  "original_name": "This Is Emei",
+  "description": "This is Emei. Piesele esen\u021biale \u00eentr-un singur playlist.",
+  "num_followers": 5951,
+  "original_name": "Acesta este Emei.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAADo2WVJ42eOCyb0iTolJCsx",
+  "snapshot_id": "ZnoIgAAAAADRvT5TvFWMexulsdUGsHMH",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hold On Me (feat. Emei)",
+        "url": "https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 149569,
+      "name": "Hold On Me (feat. Emei)",
+      "url": "https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 140937,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Distracted",
         "url": "https://open.spotify.com/album/762HvFjPyK8ck5uJ79lHHq"
       },
@@ -292,27 +328,11 @@
           "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 140937,
-      "name": "Picky",
-      "url": "https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
       "duration_ms": 143696,
       "name": "Don't Know About The World",
       "url": "https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8"
     }
   ],
-  "unique_name": "This Is Emei",
+  "unique_name": "Acesta este Emei.",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh"
 }

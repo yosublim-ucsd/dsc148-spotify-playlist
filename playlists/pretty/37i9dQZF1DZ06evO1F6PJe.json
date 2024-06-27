@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 100928,
+  "num_followers": 100956,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAACeiOxOngkGkrQTvBxgBzbA",
+  "snapshot_id": "ZnoIgAAAAAABsZWTGGIRj8LjA5ZdN0+V",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Well, I Done Got Over It",
-      "url": "https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sloe Gin",
         "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 492066,
       "name": "Sloe Gin",
       "url": "https://open.spotify.com/track/5hob2jVM2gA74CyJ4G4bJZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Well, I Done Got Over It",
+      "url": "https://open.spotify.com/track/7boJk2iDtxib7PdpxHdqd9"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 243733,
-      "name": "The Valley Runs Low",
-      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sloe Gin",
         "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 189120,
       "name": "Another Kind of Love",
       "url": "https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "The Valley Runs Low",
+      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tales Of Time (Live)",
+        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 511933,
+      "name": "The Heart That Never Waits (Live)",
+      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Four Day Creep",
         "url": "https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 232944,
       "name": "Four Day Creep",
       "url": "https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tales Of Time (Live)",
-        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 511933,
-      "name": "The Heart That Never Waits (Live)",
-      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
     },
     {
       "added_at": null,
@@ -667,6 +667,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cradle Rock",
+        "url": "https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "Cradle Rock",
+      "url": "https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 382040,
+      "name": "Is It Safe To Go Home",
+      "url": "https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enlighten",
         "url": "https://open.spotify.com/album/0apqDCEjK86D64512xrslX"
       },
@@ -699,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+        "name": "Live At The Hollywood Bowl With Orchestra",
+        "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
       },
       "artists": [
         {
@@ -708,25 +740,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 382040,
-      "name": "Is It Safe To Go Home",
-      "url": "https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cradle Rock",
-        "url": "https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 230026,
-      "name": "Cradle Rock",
-      "url": "https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN"
+      "duration_ms": 508400,
+      "name": "No Good Place For The Lonely (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/4hLXcBEmTbvhEJpAafXV2O"
     },
     {
       "added_at": null,
@@ -755,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 238173,
+      "name": "Hope You Realize It (Goodbye Again)",
+      "url": "https://open.spotify.com/track/2wZ8DVY0VgO8OA0THlG3hD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "How Come U Don't Call Me Anymore",
         "url": "https://open.spotify.com/album/6Q9NrZjwc8XnIFT5ICbiTu"
       },
@@ -779,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+        "name": "Live At The Hollywood Bowl With Orchestra",
+        "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
       },
       "artists": [
         {
@@ -788,9 +820,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 238173,
-      "name": "Hope You Realize It (Goodbye Again)",
-      "url": "https://open.spotify.com/track/2wZ8DVY0VgO8OA0THlG3hD"
+      "duration_ms": 476066,
+      "name": "Self-Inflicted Wounds (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/3YAESbqQs6xMLtSfYudfNV"
     },
     {
       "added_at": null,
@@ -815,6 +847,22 @@
       "duration_ms": 192590,
       "name": "Back in Black",
       "url": "https://open.spotify.com/track/3QbM1s2qg68bKEByp0Uvh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 197186,
+      "name": "Lazy Poker Blues",
+      "url": "https://open.spotify.com/track/7yRxdM2XWe80UU46IZngBk"
     },
     {
       "added_at": null,
@@ -883,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 197186,
-      "name": "Lazy Poker Blues",
-      "url": "https://open.spotify.com/track/7yRxdM2XWe80UU46IZngBk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Deluxe",
         "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
@@ -911,38 +943,6 @@
       "duration_ms": 250960,
       "name": "Man of Many Words",
       "url": "https://open.spotify.com/track/6hhe7LQXLdkzHx3wShTsau"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live At The Hollywood Bowl With Orchestra",
-        "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 476066,
-      "name": "Self-Inflicted Wounds (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/3YAESbqQs6xMLtSfYudfNV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last Matador Of Bayonne (Live At The Hollywood Bowl With Orchestra)",
-        "url": "https://open.spotify.com/album/6GMLIFdBnSEUiVzhg1F0Ju"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 492400,
-      "name": "The Last Matador Of Bayonne (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/4rgnW50oylv9VMDb1GKJcU"
     }
   ],
   "unique_name": "This Is Joe Bonamassa",

@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 176133,
       "name": "(Get Your Kicks On) Route 66",
       "url": "https://open.spotify.com/track/6AlmudWNrmyqohVSV7Vgib"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 128143,
       "name": "A Media Luz",
       "url": "https://open.spotify.com/track/0jcUpAvfTUzMdcupbgro5S"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 286173,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 171106,
       "name": "Adios Marquita Linda",
       "url": "https://open.spotify.com/track/0ouj5Z8smLTqpluuhAQ1Cq"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "An Affair To Remember",
       "url": "https://open.spotify.com/track/2Iu8YgkRJNQgqkYnYJ46nv"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 154026,
       "name": "Around The World - Remastered",
       "url": "https://open.spotify.com/track/3ps7CQq1zNxAvbXMgHfypY"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 252000,
       "name": "Blame It On My Youth - Remastered 1999",
       "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 148240,
       "name": "Blue Gardenia - Live at the Blue Note Chicago",
       "url": "https://open.spotify.com/track/0Nya0a04lT3K9XIDA7vbc2"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 287477,
       "name": "Brazilian Love Song",
       "url": "https://open.spotify.com/track/3AjKSTfrcDwRnBh7o5PYPQ"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 168826,
       "name": "Cappuccina",
       "url": "https://open.spotify.com/track/0l77yPx7obpLzZ93NFNcFR"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 175586,
       "name": "Coquette",
       "url": "https://open.spotify.com/track/0tewaW24L9L5gpcP8Qg3ga"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 179510,
       "name": "Easter Sunday Morning",
       "url": "https://open.spotify.com/track/3LB8JR4c3rYEHfQT3Px4Iq"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 211173,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/2waiAcLQiqlX5bzvLtNUA0"
@@ -685,6 +685,24 @@
     },
     {
       "album": {
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182026,
+      "name": "I Was A Little Too Lonely (And You Were A Little Too Late) - 20-Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/7bPW89JDVPbaJEBOyRB81L"
+    },
+    {
+      "album": {
         "name": "From The Capitol Vaults (Vol. 3)",
         "url": "https://open.spotify.com/album/4z763lntNKfZ6VpnjSinS3"
       },
@@ -736,7 +754,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 93760,
       "name": "I'm Shooting High",
       "url": "https://open.spotify.com/track/4LHPQgyAvtux1VrpPFLc5l"
@@ -808,7 +826,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 155306,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
@@ -826,7 +844,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 108040,
       "name": "La Feria De Las Flores",
       "url": "https://open.spotify.com/track/0YJhQ7YrdmQmSsriSJfRCa"
@@ -862,7 +880,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 177706,
       "name": "Las Ma\u00f1anitas",
       "url": "https://open.spotify.com/track/7lhw5LRj9J3mRFoHvZolOt"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 164573,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/5SVYNJjplfUnaaknWcLvPm"
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 162253,
       "name": "Maria Elena",
       "url": "https://open.spotify.com/track/4MbMasQIFwpAvEakMntJwc"
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 253506,
       "name": "Mean To Me",
       "url": "https://open.spotify.com/track/2h0pcrwhB7xIBWWHqz1W8f"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 153666,
       "name": "Noche De Ronda",
       "url": "https://open.spotify.com/track/14r5VuEHs2S4H54yiYI1Sb"
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 192826,
       "name": "On The Street Where You Live",
       "url": "https://open.spotify.com/track/1xTlKISiuPabtjwJe3aPEy"
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 129666,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/4Vp7v5mc7P4SOR4PaIKqOi"
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 165600,
       "name": "Quizas, Quizas, Quizas (Perhaps, Perhaps, Perhaps)",
       "url": "https://open.spotify.com/track/6VuJLPtBlEOaR5oYI51ueN"
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 165720,
       "name": "Solamente Una Vez",
       "url": "https://open.spotify.com/track/4CzO5nlZdaoa331G9qfpIV"
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 195573,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/3npHR2nReF5bhCvvGiNwcL"
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 177506,
       "name": "Tenderly - Remastered",
       "url": "https://open.spotify.com/track/1ufl86TmFCzPuoIJzPCJlU"
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 152320,
       "name": "The Late, Late Show",
       "url": "https://open.spotify.com/track/5tFvnHL61U4gcIU8fv4fHA"
@@ -1566,7 +1584,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 288826,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/15uAiXSILEHdx7IOOYEe0b"
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 205786,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp"
@@ -1764,7 +1782,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 204626,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd"
@@ -1952,7 +1970,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 190773,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB"
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "When I Grow Too Old To Dream - Remastered 1999",
       "url": "https://open.spotify.com/track/1CANiqTKDkdkLklQnvGjvf"

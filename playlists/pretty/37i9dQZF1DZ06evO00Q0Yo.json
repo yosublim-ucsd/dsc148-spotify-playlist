@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 16981,
+  "num_followers": 17001,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAAAuDVoKG4/ENBXSt5u6dpbr",
+  "snapshot_id": "ZnoIgAAAAAC7jSi5qz4SYYuNNagzN5oq",
   "tracks": [
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Attitude",
+        "url": "https://open.spotify.com/album/7Gmi73lktv864xchbOA5PZ"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 147908,
+      "name": "My Attitude",
+      "url": "https://open.spotify.com/track/75nCGDsQW8BQsCXQrhFmoK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Element (Remix) [feat. Flo Milli]",
         "url": "https://open.spotify.com/album/2J48yzicpveqFUaKRWWkq1"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 216550,
       "name": "Element (Remix) [feat. Flo Milli]",
       "url": "https://open.spotify.com/track/206CWNlXy1wLw3nchSDWJA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Attitude",
-        "url": "https://open.spotify.com/album/7Gmi73lktv864xchbOA5PZ"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 147908,
-      "name": "My Attitude",
-      "url": "https://open.spotify.com/track/75nCGDsQW8BQsCXQrhFmoK"
     }
   ],
   "unique_name": "This Is Flo Milli",

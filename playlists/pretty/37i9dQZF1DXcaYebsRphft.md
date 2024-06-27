@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > セトリで余韻に浸ろう！2024年5月11日\~6月2日に行われた『2024 NCT DREAM WORLD TOUR ＜THE DREAM SHOW 3 : DREAM\( \)SCAPE＞ in JAPAN』のセットリストを公開。
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,426 likes - 31 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,429 likes - 31 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 30 | [Moonlight](https://open.spotify.com/track/1xpfMDsEEugAwoXRYLdyQ6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Moonlight](https://open.spotify.com/album/0wjJPnSndRArTKcvEUgUhW) | 3:13 |
 | 31 | [Like We Just Met](https://open.spotify.com/track/7xlPmv0QzeklLt3Z4rckBE) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:29 |
 
-Snapshot ID: `ZlxQsAAAAABej9FVbDXbJMtWhuVZ3mJ9`
+Snapshot ID: `ZnuMHwAAAADMfcsio+p1Cd1mzvIPK+zK`

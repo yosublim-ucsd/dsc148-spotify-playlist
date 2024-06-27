@@ -6,8 +6,88 @@
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACYrKc8lihKxJHeU6YRxdg6uEbekpcM",
+  "snapshot_id": "AACYsQA5/gZ6tQVmzvVSn26lfNP93vhW",
   "tracks": [
+    {
+      "added_at": "2024-06-26 04:51:44",
+      "album": {
+        "name": "Bells and Whistles",
+        "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Bells and Whistles",
+      "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
+    },
+    {
+      "added_at": "2024-06-26 04:51:57",
+      "album": {
+        "name": "ECRP",
+        "url": "https://open.spotify.com/album/25Acx0aEZgajqNKiZXBJPj"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "ECRP",
+      "url": "https://open.spotify.com/track/7c6Mo690yENpxGVJzpimLl"
+    },
+    {
+      "added_at": "2024-06-26 04:52:10",
+      "album": {
+        "name": "Flirting Again",
+        "url": "https://open.spotify.com/album/4nYswRIZBX55w6aTGUSCnS"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 182507,
+      "name": "Flirting Again",
+      "url": "https://open.spotify.com/track/35Gwl5y08cuh99LUlOPyag"
+    },
+    {
+      "added_at": "2024-06-26 04:52:58",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 208351,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
+    },
+    {
+      "added_at": "2024-06-26 04:52:42",
+      "album": {
+        "name": "Into Gold",
+        "url": "https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 342680,
+      "name": "Into Gold",
+      "url": "https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV"
+    },
     {
       "added_at": "2024-06-25 08:13:31",
       "album": {
@@ -860,8 +940,8 @@
           "url": "https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF"
         },
         {
-          "name": "Puttaneska",
-          "url": "https://open.spotify.com/artist/2F38zdQmpl4DqRSlWCfvhu"
+          "name": "Puttaneska (De Momento)",
+          "url": "https://open.spotify.com/artist/6LvU67HNGK3OJBYnfArORz"
         }
       ],
       "duration_ms": 212436,

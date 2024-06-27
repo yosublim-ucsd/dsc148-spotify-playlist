@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,833 songs - 10 day 19 hr 3 min
+6,834 songs - 10 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5286,6 +5286,7 @@
 | [Slothin'](https://open.spotify.com/track/6BAUkR93Y0Q2SVjc96AS92) | [Snaer.](https://open.spotify.com/artist/04piGA2IDgIevAiRL90Gt6) | [Slothin'](https://open.spotify.com/album/03VkvzqDKmz0cHpolbTsz8) | 2:46 | 2020-01-14 | 2021-08-22 |
 | [Slow & Low](https://open.spotify.com/track/4MqTHDR6HHc2JypKXomAV8) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Slow & Low](https://open.spotify.com/album/4YAoU6Be7BiGknAqc5G67w) | 1:36 | 2022-08-26 | 2022-12-03 |
 | [Slow Breaths](https://open.spotify.com/track/1RE3GKAmTksBgeJ2F2Jikd) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Slow Breaths](https://open.spotify.com/album/5AoEPaJg52pcsTYJ432PMl) | 2:07 | 2024-01-19 |  |
+| [slow countryside days](https://open.spotify.com/track/2Fjk06lh3qCrBZZy47krbO) | [Ayaakaa](https://open.spotify.com/artist/01ilwgX5nHOi7vOkBuTuCU) | [slow countryside days](https://open.spotify.com/album/3SfkTNczg7JkThKlomZr6a) | 2:23 | 2024-06-21 |  |
 | [Slow Descent](https://open.spotify.com/track/4OqaeW7DdsbU71WLpfJ6iP) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Slow Descent](https://open.spotify.com/album/4aEh7ShmVBPDg3R8TqHYeU) | 3:35 | 2022-11-25 | 2023-04-21 |
 | [slow down, breath deep, be the willow](https://open.spotify.com/track/446XTzkmwnMgf0RqbSG0rn) | [Mellow dive](https://open.spotify.com/artist/4dEG3k0HWAI1NltH7UI5Nv) | [slow down, breath deep, be the willow](https://open.spotify.com/album/6NWVC4H9MTT8qtWMEtsYT1) | 2:18 | 2020-06-23 | 2021-10-02 |
 | [Slow Drip](https://open.spotify.com/track/7KvWW99v6fnmQGRN8yXjRP) | [Fun Intended](https://open.spotify.com/artist/3LVh75iLe4iDjG4W1ztvAh) | [Slow Drip](https://open.spotify.com/album/4jjzGg5VsaLJUhZlJnIuW4) | 1:56 | 2023-01-20 | 2023-07-06 |
@@ -5829,7 +5830,7 @@
 | [Sxs13](https://open.spotify.com/track/73Oxy2zrZMTFgFARikF4UA) | [BXT Aer](https://open.spotify.com/artist/4Ih0m8L9Xc3fksQjlZHiWk) | [Beauty](https://open.spotify.com/album/28B4EwvzIlTy1gT9UlavVa) | 1:25 | 2020-10-28 | 2021-10-20 |
 | [Symbiotic Love](https://open.spotify.com/track/4WIOnbxtX6POno9PTlompk) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Symbiotic Love](https://open.spotify.com/album/3yjwdKVuIA1UA2FvjLb6Qy) | 1:46 | 2024-03-22 |  |
 | [Synergy](https://open.spotify.com/track/01ArL6Ix0SUyFHkAGAMBE2) | [Lofi Astronaut](https://open.spotify.com/artist/0BQRdk9XRbCZE8wGYAz4dG) | [Synergy \(Lofi Music\)](https://open.spotify.com/album/3q78HwaB3CJqbHQxZGWc7l) | 2:53 | 2022-08-05 | 2022-11-18 |
-| [Synthetic Forest](https://open.spotify.com/track/5Lplx3jpmE2GjvCZxxjBVA) | [East Lassitude](https://open.spotify.com/artist/0LY4tSbZ3fJinTgpoIudAm) | [Synthetic Forest](https://open.spotify.com/album/6YTIod9c8bs3AFucyEZTk1) | 2:55 | 2024-01-12 |  |
+| [Synthetic Forest](https://open.spotify.com/track/5Lplx3jpmE2GjvCZxxjBVA) | [East Lassitude](https://open.spotify.com/artist/0LY4tSbZ3fJinTgpoIudAm) | [Synthetic Forest](https://open.spotify.com/album/6YTIod9c8bs3AFucyEZTk1) | 2:55 | 2024-01-12 | 2024-06-27 |
 | [Synthetic Love](https://open.spotify.com/track/0t2DLY5h1j9pDoqdsrZ4F0) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/0FDZZMdF6DIrGD76lxgw1Y) | 2:48 | 2022-11-18 | 2023-01-07 |
 | [Synthetic Love](https://open.spotify.com/track/4IjdbmobRYukzG1ls4z7iK) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/4IGhDpOK1sigwsd1Rk7Xuk) | 2:48 | 2022-11-18 | 2022-11-24 |
 | [Synthetic Love](https://open.spotify.com/track/4cdUlJdtucjfgP5ZtJTRLC) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [Synthetic Love](https://open.spotify.com/album/3bwD9r16L9AO8wnFxIgO9y) | 2:48 | 2022-09-23 | 2022-11-20 |

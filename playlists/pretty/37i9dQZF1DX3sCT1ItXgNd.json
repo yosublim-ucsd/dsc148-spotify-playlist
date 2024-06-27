@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lola Indigo.",
-  "num_followers": 963031,
+  "num_followers": 963096,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-06-24 17:35:10",
       "album": {
+        "name": "Contrato",
+        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 204391,
+      "name": "Contrato",
+      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
+    },
+    {
+      "added_at": "2024-06-24 17:35:10",
+      "album": {
         "name": "Llorando en el Lambo",
         "url": "https://open.spotify.com/album/55wwmFgx9rSL1OmKoP50De"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2024-06-24 17:35:10",
       "album": {
-        "name": "Contrato",
-        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 204391,
-      "name": "Contrato",
-      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
-    },
-    {
-      "added_at": "2024-06-24 17:35:10",
-      "album": {
         "name": "La Raz\u00f3n",
         "url": "https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg"
       },
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-06-24 17:35:10",
       "album": {
-        "name": "Bahamas",
-        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 223728,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
-    },
-    {
-      "added_at": "2024-06-24 17:35:10",
-      "album": {
         "name": "EL TIBUR\u00d3N",
         "url": "https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 182242,
       "name": "COMO EST\u00c1S BB",
       "url": "https://open.spotify.com/track/2N2t5tqxcIUn8F9fQb2dIR"
+    },
+    {
+      "added_at": "2024-06-24 17:35:10",
+      "album": {
+        "name": "Bahamas",
+        "url": "https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 223728,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC"
     },
     {
       "added_at": "2024-06-24 17:35:10",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-06-24 17:35:10",
       "album": {
+        "name": "Dime Solo Si Has Pensao",
+        "url": "https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 175715,
+      "name": "Dime Solo Si Has Pensao",
+      "url": "https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq"
+    },
+    {
+      "added_at": "2024-06-24 17:35:10",
+      "album": {
         "name": "Falsos Recuerdos",
         "url": "https://open.spotify.com/album/35djQkpLKC1ijpfi6i3AJw"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 153506,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/0nbCZLgGT6kCGzDYYAdhW6"
-    },
-    {
-      "added_at": "2024-06-24 17:35:10",
-      "album": {
-        "name": "Dime Solo Si Has Pensao",
-        "url": "https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 175715,
-      "name": "Dime Solo Si Has Pensao",
-      "url": "https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq"
     },
     {
       "added_at": "2024-06-24 17:35:10",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-06-24 17:35:10",
       "album": {
-        "name": "EL FORASTERO",
-        "url": "https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 163578,
-      "name": "EL FORASTERO",
-      "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
-    },
-    {
-      "added_at": "2024-06-24 17:35:10",
-      "album": {
         "name": "El Principio de algo",
         "url": "https://open.spotify.com/album/0bpAz9oL8eRTGaOxS7PCkw"
       },
@@ -751,22 +735,34 @@
     {
       "added_at": "2024-06-24 17:35:10",
       "album": {
-        "name": "Puede K Nos Liemos",
-        "url": "https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX"
+        "name": "EL FORASTERO",
+        "url": "https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7"
       },
       "artists": [
         {
-          "name": "Almacor",
-          "url": "https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy"
-        },
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
         }
       ],
-      "duration_ms": 156103,
-      "name": "Puede K Nos Liemos",
-      "url": "https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d"
+      "duration_ms": 163578,
+      "name": "EL FORASTERO",
+      "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
+    },
+    {
+      "added_at": "2024-06-24 17:35:10",
+      "album": {
+        "name": "CLASSICO",
+        "url": "https://open.spotify.com/album/1uJhaFnc580OWUORK9HJpG"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "CLASSICO",
+      "url": "https://open.spotify.com/track/2kxFdDHh6BM0892RzpvA7u"
     },
     {
       "added_at": "2024-06-24 17:35:10",
@@ -807,22 +803,58 @@
     {
       "added_at": "2024-06-24 17:35:10",
       "album": {
-        "name": "\u00daltimo Verano",
-        "url": "https://open.spotify.com/album/2p2YybvC7qkeqatcy8Zy1l"
+        "name": "A Las 12",
+        "url": "https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f"
       },
       "artists": [
         {
-          "name": "Lemot",
-          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
         },
         {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
         }
       ],
-      "duration_ms": 169877,
-      "name": "\u00daltimo Verano",
-      "url": "https://open.spotify.com/track/0KTP8GWIao5RGBBu6DyVe9"
+      "duration_ms": 188693,
+      "name": "A Las 12",
+      "url": "https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh"
+    },
+    {
+      "added_at": "2024-06-24 17:35:10",
+      "album": {
+        "name": "Puede K Nos Liemos",
+        "url": "https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX"
+      },
+      "artists": [
+        {
+          "name": "Almacor",
+          "url": "https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy"
+        },
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        }
+      ],
+      "duration_ms": 156103,
+      "name": "Puede K Nos Liemos",
+      "url": "https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d"
+    },
+    {
+      "added_at": "2024-06-24 17:35:10",
+      "album": {
+        "name": "TODAV\u00cdA",
+        "url": "https://open.spotify.com/album/45WAkTP0H8oIyXjQXEZkYw"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "TODAV\u00cdA",
+      "url": "https://open.spotify.com/track/6T4PDkwPhKi5qFwJuOZaKJ"
     },
     {
       "added_at": "2024-06-24 17:35:10",
@@ -847,42 +879,6 @@
     {
       "added_at": "2024-06-24 17:35:10",
       "album": {
-        "name": "A Las 12",
-        "url": "https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "A Las 12",
-      "url": "https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh"
-    },
-    {
-      "added_at": "2024-06-24 17:35:10",
-      "album": {
-        "name": "CLASSICO",
-        "url": "https://open.spotify.com/album/1uJhaFnc580OWUORK9HJpG"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "CLASSICO",
-      "url": "https://open.spotify.com/track/2kxFdDHh6BM0892RzpvA7u"
-    },
-    {
-      "added_at": "2024-06-24 17:35:10",
-      "album": {
         "name": "TE TRAJE FLORES",
         "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
       },
@@ -899,18 +895,22 @@
     {
       "added_at": "2024-06-24 17:35:10",
       "album": {
-        "name": "TODAV\u00cdA",
-        "url": "https://open.spotify.com/album/45WAkTP0H8oIyXjQXEZkYw"
+        "name": "\u00daltimo Verano",
+        "url": "https://open.spotify.com/album/2p2YybvC7qkeqatcy8Zy1l"
       },
       "artists": [
         {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+        },
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
         }
       ],
-      "duration_ms": 170106,
-      "name": "TODAV\u00cdA",
-      "url": "https://open.spotify.com/track/6T4PDkwPhKi5qFwJuOZaKJ"
+      "duration_ms": 169877,
+      "name": "\u00daltimo Verano",
+      "url": "https://open.spotify.com/track/0KTP8GWIao5RGBBu6DyVe9"
     },
     {
       "added_at": "2024-06-24 17:35:10",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-06-24 17:35:10",
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1crmL9xEqGoRsR2nk1nl8n"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP"
+    },
+    {
+      "added_at": "2024-06-24 17:35:10",
+      "album": {
         "name": "PACMAN",
         "url": "https://open.spotify.com/album/3Izuvz6d3sTmIEnbFCljao"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 126551,
       "name": "PACMAN",
       "url": "https://open.spotify.com/track/3Z4wx9a3OxKZHQQEENoqOZ"
-    },
-    {
-      "added_at": "2024-06-24 17:35:10",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/1crmL9xEqGoRsR2nk1nl8n"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP"
     },
     {
       "added_at": "2024-06-24 17:35:10",

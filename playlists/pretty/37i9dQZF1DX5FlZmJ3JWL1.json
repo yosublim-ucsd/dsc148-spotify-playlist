@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 764546,
+  "num_followers": 764639,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl"
+      },
+      "artists": [
+        {
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Don't You Cry",
         "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 246758,
       "name": "Don't You Cry",
       "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Lollipop",
-        "url": "https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl"
-      },
-      "artists": [
-        {
-          "name": "FOVOS",
-          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo"
     },
     {
       "added_at": "2024-06-06 22:00:00",

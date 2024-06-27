@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 194566,
+  "num_followers": 194603,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Facades",
+        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
+      },
+      "artists": [
+        {
+          "name": "Limp Wrist",
+          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
+        }
+      ],
+      "duration_ms": 96051,
+      "name": "Thick Skin",
+      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Everything Dies",
         "url": "https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Facades",
-        "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
+        "name": "Big Shouty",
+        "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
       },
       "artists": [
         {
-          "name": "Limp Wrist",
-          "url": "https://open.spotify.com/artist/38SIMA9z2a7ATlRVenIcHc"
+          "name": "Problem Patterns",
+          "url": "https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP"
         }
       ],
-      "duration_ms": 96051,
-      "name": "Thick Skin",
-      "url": "https://open.spotify.com/track/1rm8VLzeC2exuOdNltcooA"
+      "duration_ms": 86000,
+      "name": "Big Shouty",
+      "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -663,22 +679,6 @@
       "duration_ms": 205293,
       "name": "CCCHOKEMEEE",
       "url": "https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Big Shouty",
-        "url": "https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH"
-      },
-      "artists": [
-        {
-          "name": "Problem Patterns",
-          "url": "https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP"
-        }
-      ],
-      "duration_ms": 86000,
-      "name": "Big Shouty",
-      "url": "https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz"
     },
     {
       "added_at": "2024-05-22 11:00:00",

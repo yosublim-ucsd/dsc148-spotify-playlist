@@ -8691,6 +8691,28 @@
     },
     {
       "album": {
+        "name": "Into the Night",
+        "url": "https://open.spotify.com/album/3wfgKnNiPc0cWt5JWiDdx8"
+      },
+      "artists": [
+        {
+          "name": "Audorn",
+          "url": "https://open.spotify.com/artist/3vpObPX3081idCIxwXiXq1"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Into the Night",
+      "url": "https://open.spotify.com/track/2ucRE68wy12o3kV3y1cCKF"
+    },
+    {
+      "album": {
         "name": "Invaders",
         "url": "https://open.spotify.com/album/4njR9gO1pouK6VsZoe1GNy"
       },
@@ -11314,7 +11336,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 201290,
       "name": "Muchie",
       "url": "https://open.spotify.com/track/2tR8Y2fuzjLYmWWjKAgS6W"

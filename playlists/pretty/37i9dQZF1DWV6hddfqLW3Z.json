@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 797086,
+  "num_followers": 797094,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,26 @@
     {
       "added_at": "2024-06-21 03:00:00",
       "album": {
-        "name": "Onde?",
-        "url": "https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS"
+        "name": "Pra Melhorar",
+        "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
       },
       "artists": [
         {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         },
         {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Flor",
+          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
         }
       ],
-      "duration_ms": 190592,
-      "name": "Ningue\u0301m",
-      "url": "https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG"
+      "duration_ms": 256613,
+      "name": "Pra Melhorar",
+      "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
     },
     {
       "added_at": "2024-06-21 03:00:00",
@@ -467,26 +471,22 @@
     {
       "added_at": "2024-06-21 03:00:00",
       "album": {
-        "name": "Pra Melhorar",
-        "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
+        "name": "Onde?",
+        "url": "https://open.spotify.com/album/0aCbmQd7EYBXzOVCVaXbeS"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
         },
         {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Flor",
-          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
         }
       ],
-      "duration_ms": 256613,
-      "name": "Pra Melhorar",
-      "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
+      "duration_ms": 190592,
+      "name": "Ningue\u0301m",
+      "url": "https://open.spotify.com/track/5O4lp65sEWenlviCdYdeOG"
     },
     {
       "added_at": "2024-06-21 03:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-06-21 03:00:00",
       "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 160238,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
+    },
+    {
+      "added_at": "2024-06-21 03:00:00",
+      "album": {
         "name": "PRISCILLA",
         "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 205640,
       "name": "BOSSA (feat. P\u00e9ricles)",
       "url": "https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq"
-    },
-    {
-      "added_at": "2024-06-21 03:00:00",
-      "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 160238,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
     },
     {
       "added_at": "2024-06-21 03:00:00",
@@ -871,6 +871,30 @@
     {
       "added_at": "2024-06-21 03:00:00",
       "album": {
+        "name": "Um Vento Passou (para Paul Simon)",
+        "url": "https://open.spotify.com/album/33UAU0Ydepj6ohDfiUFPPp"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 276973,
+      "name": "Um Vento Passou (para Paul Simon) [Feat. Paul Simon]",
+      "url": "https://open.spotify.com/track/7aFU5mdJcsyhP6UAteoDiH"
+    },
+    {
+      "added_at": "2024-06-21 03:00:00",
+      "album": {
         "name": "Flora - EP",
         "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
       },
@@ -955,30 +979,6 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
-    },
-    {
-      "added_at": "2024-06-21 03:00:00",
-      "album": {
-        "name": "Um Vento Passou (para Paul Simon)",
-        "url": "https://open.spotify.com/album/33UAU0Ydepj6ohDfiUFPPp"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        },
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 276973,
-      "name": "Um Vento Passou (para Paul Simon) [Feat. Paul Simon]",
-      "url": "https://open.spotify.com/track/7aFU5mdJcsyhP6UAteoDiH"
     },
     {
       "added_at": "2024-06-21 03:00:00",

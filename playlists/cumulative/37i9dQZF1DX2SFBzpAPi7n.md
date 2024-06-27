@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Rolling Quartz\(롤링쿼츠\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-700 songs - 1 day 18 hr 21 min
+702 songs - 1 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [20s](https://open.spotify.com/track/41jvAKlAHXpP6ywHiF30Ld) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [STUDY](https://open.spotify.com/album/5Ui0n470azPnCIBmfTMvCO) | 4:40 | 2024-03-21 | 2024-05-10 |
 | [24 years](https://open.spotify.com/track/4fr96gcFKpf9kAJtvCJROx) | [Slowcity](https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif) | [24 years](https://open.spotify.com/album/326uCTjLWz3BUV85xkuVtX) | 3:20 | 2022-07-08 | 2022-07-10 |
 | [31](https://open.spotify.com/track/5DXbuLQrN6acpjrdd4hUX2) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [31](https://open.spotify.com/album/5rdXLxhpGKj3IchwANaYCT) | 3:14 | 2022-04-22 | 2022-07-23 |
-| [404 Loading](https://open.spotify.com/track/13gq2LImslxP5pdi6nGTjO) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [TAP \- The 2nd Mini Album](https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0) | 4:04 | 2024-06-05 |  |
+| [404 Loading](https://open.spotify.com/track/13gq2LImslxP5pdi6nGTjO) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [TAP \- The 2nd Mini Album](https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0) | 4:04 | 2024-06-05 | 2024-06-27 |
 | [4DL \(four\-dimensional love\)](https://open.spotify.com/track/6uTb0yiIbiGd2G5lTMyO0f) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [Youth Heritage](https://open.spotify.com/album/0lJnKh8v5DHkeRxpuCV3si) | 4:04 | 2024-05-08 | 2024-05-10 |
 | [5 in the morning](https://open.spotify.com/track/4YQN70aa8969if12I9dKDb) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Just Dream](https://open.spotify.com/album/6MgV3YkvyVKip90eLKZGuN) | 3:35 | 2022-04-22 | 2022-07-27 |
 | [52](https://open.spotify.com/track/0BjtnuipCRCiS02Doe9Auk) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [52](https://open.spotify.com/album/6Hd1Syeatbj9KJXaKTevEN) | 3:36 | 2024-05-08 | 2024-05-10 |
@@ -578,6 +578,8 @@
 | [TATTOO](https://open.spotify.com/track/2qDm3urhZhuBDZanIPFLuF) | [Daddy O Radio](https://open.spotify.com/artist/2CnlaPaWAPrHEu4TbR0pz9) | [GREEN TATTOO](https://open.spotify.com/album/0wsqgKLZxPY2pDvv1ii1Tp) | 3:12 | 2023-04-14 | 2023-04-21 |
 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 | 2022-10-02 | 2022-10-19 |
 | [Teddy bear](https://open.spotify.com/track/6ED0tnBoWmQdJHDBKL0w4e) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:59 | 2022-04-22 | 2022-07-26 |
+| [Tell 'em boys](https://open.spotify.com/track/0rZf7sBjvU2hj7TNBbn8qm) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:29 | 2024-06-26 |  |
+| [TELL ME !](https://open.spotify.com/track/4yIt2M4psdz8Bs3RzTi2c2) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:15 | 2024-06-26 |  |
 | [Tempest](https://open.spotify.com/track/4RTeOflkCNdBmJymYk2JJj) | [Huckleberryfinn](https://open.spotify.com/artist/4HWH9BmIaKteAv5RmqWeZa) | [The Devil Judge \(Original Television Soundtrack\)](https://open.spotify.com/album/7dt9sjnoSCVuU4SLnHeFeG) | 4:29 | 2022-05-03 | 2022-07-09 |
 | [The 6th Summer](https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : The Shape of Things to Come](https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF) | 3:43 | 2023-08-28 |  |
 | [The Answer](https://open.spotify.com/track/6gnCg6Z7WcJ9qt8idMWiaj) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2), [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [daybreak X LUCY : Part.1](https://open.spotify.com/album/7k74Ulb6AeAPYPkUFVntyu) | 3:34 | 2022-04-12 | 2022-07-29 |
@@ -689,7 +691,7 @@
 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 | 2023-06-19 |  |
 | [Zombie](https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:29 | 2022-04-12 | 2022-07-27 |
 | [zombie pop](https://open.spotify.com/track/5zhMMVw097YOSvT0oDGgDV) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [DPR ARCHIVES](https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw) | 1:54 | 2024-06-05 |  |
-| [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 |  |
+| [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 | 2024-06-27 |
 | [날 버리지 마요](https://open.spotify.com/track/5NZLKa0BTaxTtIkmeK2Jjs) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [날 버리지 마요](https://open.spotify.com/album/3l25IElZW7jIlbTD7obUAr) | 4:01 | 2022-04-12 | 2022-04-29 |
 | [낡은 괴담 Cumulus](https://open.spotify.com/track/6SGISb2p5ebnvpRUtIaXlr) | [JUNGWOO](https://open.spotify.com/artist/3tvnuk98r2VOv9ygTK8cjs) | [클라우드 쿠쿠 랜드 Cloud Cuckoo Land](https://open.spotify.com/album/1JsmKt5IsgxgqkIVNsjuuz) | 4:02 | 2023-11-10 | 2023-11-24 |
 | [내 인생은 영화가 아니니깐 Even if it's not a movie](https://open.spotify.com/track/3iNKeoWEHeOiggDyDUoQ1Z) | [SAGA](https://open.spotify.com/artist/2ZRfFuLggOblc7VecpyL7l) | [내 인생은 영화가 아니니깐 Even if it's not a movie](https://open.spotify.com/album/7HVbI46GN8Aka3KJbJwhVj) | 3:45 | 2022-04-12 | 2022-07-01 |

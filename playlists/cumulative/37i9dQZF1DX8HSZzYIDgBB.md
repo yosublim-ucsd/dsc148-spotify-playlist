@@ -2,13 +2,14 @@
 
 ### [tropic.alt](https://open.spotify.com/playlist/37i9dQZF1DX8HSZzYIDgBB)
 
-> Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Reyna Tropical en portada.
+> Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Buscabulla en portada.
 
-327 songs - 19 hr 43 min
+329 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Escapándome\) de mí](https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 2:54 | 2023-03-31 | 2024-05-28 |
+| [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 | 2024-06-26 |  |
 | [12:21](https://open.spotify.com/track/1mSqoJ7bLK8sj3yMMQg9Kr) | [Cruz Del Monte](https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs) | [12:21](https://open.spotify.com/album/2cIv8xNIPWnD5WMogm6HMs) | 3:33 | 2023-01-04 | 2023-04-01 |
 | [A Los Arboles \(feat\. Raag\)](https://open.spotify.com/track/22zFpd7tQthAeefRmxIxac) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [Los Tiempos Inciertos \(feat\. Raag\)](https://open.spotify.com/album/2js6vsGGCBlLpdrkRVcfJK) | 4:57 | 2021-10-05 | 2023-03-25 |
 | [A los árboles](https://open.spotify.com/track/3V5eJ9cInVUboTsK0gasts) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el) | [Tejido](https://open.spotify.com/album/2s3yqT1NIbG1IolSkDdGEH) | 4:57 | 2021-10-05 | 2023-04-01 |
@@ -222,7 +223,7 @@
 | [Nosotros También](https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:26 | 2021-10-05 | 2023-04-30 |
 | [Nosotros También](https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nosotros También](https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL) | 3:26 | 2021-10-05 | 2022-10-13 |
 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2023-05-05 | 2023-10-17 |
-| [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 | 2023-12-07 |  |
+| [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 | 2023-12-07 | 2024-06-27 |
 | [Nubecita](https://open.spotify.com/track/5RR90wjPUyoG8nQcvJkjMz) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Nubecita](https://open.spotify.com/album/0hG60eOpUIfy9ERatkO3wt) | 3:17 | 2023-03-31 | 2023-11-22 |
 | [Nunca Paran](https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Aguas](https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy) | 3:04 | 2023-12-07 |  |
 | [Ocasión \- Remix](https://open.spotify.com/track/1E7eaYoGV6UdofumURWUn7) | [Roldán](https://open.spotify.com/artist/7frHfQB5xY6on5DHQdjQws), [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Ocasión \(Remix\)](https://open.spotify.com/album/6OXv8RJSgT68yrOiW6e3wz) | 3:31 | 2021-10-05 | 2022-04-10 |
@@ -271,7 +272,7 @@
 | [Sal de Mar](https://open.spotify.com/track/42ji13UfpBT4Gntboni1HX) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Iusef](https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b) | [Sal de Mar](https://open.spotify.com/album/21NRPLtRhSOKiBXbPM3yRU) | 3:26 | 2023-05-05 | 2024-04-19 |
 | [Sal de Mar](https://open.spotify.com/track/3b8WAuWj0MCKig7e5KV0YL) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sal de Mar](https://open.spotify.com/album/7A24Cw1BI1a7mjhTWGxLxn) | 4:27 | 2022-09-02 | 2023-04-14 |
 | [Sal de Maras](https://open.spotify.com/track/73C1hN8AcfPfrsdd0MwGEb) | [Martin Guerra](https://open.spotify.com/artist/5d5STgzsguF60wZiZeT9MM) | [Temporada de Pesca](https://open.spotify.com/album/05yxfuVNg4swKUEiJSqd4O) | 4:22 | 2021-10-05 | 2023-04-01 |
-| [Sale el Sol](https://open.spotify.com/track/1QT0nxW1aDj2NBeJ1h69v8) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:33 | 2023-10-12 |  |
+| [Sale el Sol](https://open.spotify.com/track/1QT0nxW1aDj2NBeJ1h69v8) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:33 | 2023-10-12 | 2024-06-27 |
 | [Sale el Sol](https://open.spotify.com/track/1YKNaQqLDMVNDULbyOHGqK) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:33 | 2023-10-12 | 2024-04-19 |
 | [SATURN](https://open.spotify.com/track/6aNfreVnFvPTHfziRmLsFW) | [BARDO](https://open.spotify.com/artist/2uHVCKIwvudS4Y9q6noXV7) | [EVERYWHERE REMINDS ME OF SPACE](https://open.spotify.com/album/3nJ9CAANT4wq82nxwf8BbY) | 3:26 | 2021-10-05 | 2022-05-10 |
 | [Sauvage](https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Sauvage](https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt) | 5:31 | 2023-05-09 |  |
@@ -298,6 +299,7 @@
 | [Te Olvidaste](https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Te Olvidaste](https://open.spotify.com/album/5Ik3K7vNA7b4gtL5YL7jCZ) | 3:02 | 2023-03-31 |  |
 | [Te Quiero Con Bugalú](https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [iLevitable](https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky) | 4:09 | 2023-12-07 |  |
 | [Tenías Que Avisar](https://open.spotify.com/track/1sk6pQToLuNIzMMwxBFWc6) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3), [Lucas Beguerie](https://open.spotify.com/artist/3v7EPGIjdVJkMmG9G18lkv) | [Tenías Que Avisar](https://open.spotify.com/album/0BAdYn0KEPppe83QpiSzIZ) | 2:33 | 2022-03-18 | 2022-07-14 |
+| [The Way You Say It](https://open.spotify.com/track/5d4tz59Zk8S3MYIc5N6Nwo) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN), [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Notebook Fantasy](https://open.spotify.com/album/11oAb5VEhTqhiAyfs5AOQX) | 3:33 | 2024-06-26 |  |
 | [Thinking About You](https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Thinking About You](https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj) | 2:37 | 2023-12-07 | 2024-05-27 |
 | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax) | 3:51 | 2022-03-18 | 2022-07-02 |
 | [Tierra](https://open.spotify.com/track/4JnUNSoH5576ZKA9CPLQhD) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Vesica Piscis](https://open.spotify.com/album/1wLQVoxpUOdcCymwnCyH7e) | 5:12 | 2022-03-17 | 2023-04-01 |

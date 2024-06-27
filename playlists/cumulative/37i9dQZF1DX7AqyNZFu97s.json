@@ -23747,6 +23747,24 @@
     },
     {
       "album": {
+        "name": "NOTICE ME",
+        "url": "https://open.spotify.com/album/05lEKjJydJ0cpNyw6gvrom"
+      },
+      "artists": [
+        {
+          "name": "Kayleigh Noble",
+          "url": "https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115442,
+      "name": "NOTICE ME",
+      "url": "https://open.spotify.com/track/2i0ZKqkeZqt7QkNm5zfJyD"
+    },
+    {
+      "album": {
         "name": "Notre Dame Made Out of Flesh",
         "url": "https://open.spotify.com/album/0UFabPWPdCbnptLEJnu5LZ"
       },

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Los Recoditos en portada.",
-  "num_followers": 1217902,
+  "num_followers": 1217944,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "El T\u00f3xico",
-        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "El T\u00f3xico",
-      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "El Patrocinador",
         "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 206960,
       "name": "El Patrocinador",
       "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "El T\u00f3xico",
+        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "El T\u00f3xico",
+      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Aqui",
-        "url": "https://open.spotify.com/album/6acAPwFF5O4Ia6H67Qz5lm"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Vega Jr.",
-          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
-        }
-      ],
-      "duration_ms": 148212,
-      "name": "Aqui",
-      "url": "https://open.spotify.com/track/6KujS6JWvxGDmG4tGIoxCB"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Hola Coraz\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 185514,
       "name": "Hola Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Aqui",
+        "url": "https://open.spotify.com/album/6acAPwFF5O4Ia6H67Qz5lm"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Vega Jr.",
+          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
+        }
+      ],
+      "duration_ms": 148212,
+      "name": "Aqui",
+      "url": "https://open.spotify.com/track/6KujS6JWvxGDmG4tGIoxCB"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Cada Dia Me Gustas Mas",
-        "url": "https://open.spotify.com/album/48fYEdzeoaUg5S57ZDQvzS"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 166478,
-      "name": "Cada Dia Me Gustas Mas",
-      "url": "https://open.spotify.com/track/6S0LhPTWbTautF6mIm3idP"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "De Memoria Me Las S\u00e9",
         "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 190981,
       "name": "Ojitos Caf\u00e9s",
       "url": "https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Cada Dia Me Gustas Mas",
+        "url": "https://open.spotify.com/album/48fYEdzeoaUg5S57ZDQvzS"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 166478,
+      "name": "Cada Dia Me Gustas Mas",
+      "url": "https://open.spotify.com/track/6S0LhPTWbTautF6mIm3idP"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -2143,22 +2143,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Se Dice Facil",
-        "url": "https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm"
+        "name": "Nada De Nada",
+        "url": "https://open.spotify.com/album/4a1sv1wxgBQok1K5ug0ZcA"
       },
       "artists": [
         {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        },
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
-      "duration_ms": 155300,
-      "name": "Se Dice Facil",
-      "url": "https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U"
+      "duration_ms": 204680,
+      "name": "Nada De Nada",
+      "url": "https://open.spotify.com/track/7cnunap9w1egvi4B9ZXCuh"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -2179,18 +2175,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Nada De Nada",
-        "url": "https://open.spotify.com/album/4a1sv1wxgBQok1K5ug0ZcA"
+        "name": "Se Dice Facil",
+        "url": "https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 204680,
-      "name": "Nada De Nada",
-      "url": "https://open.spotify.com/track/7cnunap9w1egvi4B9ZXCuh"
+      "duration_ms": 155300,
+      "name": "Se Dice Facil",
+      "url": "https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U"
     }
   ],
   "unique_name": "Banda 2024",

@@ -4,7 +4,7 @@
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-174 songs - 10 hr 34 min
+175 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-08-24 | 2023-09-13 |
 | [Bayou](https://open.spotify.com/track/0CC0kKfkPSIgokD882T9I5) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 2:13 | 2021-10-15 | 2024-04-19 |
 | [BEAUTIFUL](https://open.spotify.com/track/1OvVUJCil4YjMH1iSSxbrj) | [Pecas](https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU) | [BEAUTIFUL](https://open.spotify.com/album/2cTswe7OpYEeefFd2yLwZu) | 3:19 | 2023-05-31 | 2024-04-19 |
-| [Black Light](https://open.spotify.com/track/0HIoqptSi0bei1EkpZ9FNT) | [BUMPER](https://open.spotify.com/artist/4fzRRClf1bZ6y550CzhcqV), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw), [Ryan Galloway](https://open.spotify.com/artist/0NK0Nuqcb2sZGqJ3tWYpyo) | [pop songs 2020](https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF) | 3:27 | 2021-10-15 |  |
+| [Black Light](https://open.spotify.com/track/0HIoqptSi0bei1EkpZ9FNT) | [BUMPER](https://open.spotify.com/artist/4fzRRClf1bZ6y550CzhcqV), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw), [Ryan Galloway](https://open.spotify.com/artist/0NK0Nuqcb2sZGqJ3tWYpyo) | [pop songs 2020](https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF) | 3:27 | 2021-10-15 | 2024-06-27 |
 | [blame game](https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C) | 3:29 | 2021-10-15 | 2024-04-19 |
 | [blame game](https://open.spotify.com/track/4s79MjBAL0LxmhrPM47G8F) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:29 | 2021-10-15 | 2023-11-30 |
 | [Bliss](https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 | 2022-04-18 |  |
@@ -100,6 +100,7 @@
 | [Love from NGC 7318](https://open.spotify.com/track/2CR01A8W6hmVZuXsVGf2Fn) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc), [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Love from NGC 7318](https://open.spotify.com/album/5WkMXfcM1qR0y8rdhlUaZ7) | 2:48 | 2021-10-15 | 2024-04-19 |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-02 |  |
 | [Love Hope Change](https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [1995](https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l) | 4:41 | 2021-10-15 |  |
+| [Love Potion](https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Love Potion](https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH) | 2:46 | 2024-06-26 |  |
 | [Love Will Work It Out](https://open.spotify.com/track/4bQhGIHwo1ZpixP9MudUbV) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:45 | 2021-10-15 | 2024-04-19 |
 | [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 | 2023-12-20 |  |
 | [Low](https://open.spotify.com/track/3vDa2fcL7Ge1jQVKJ3uIOA) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:34 | 2021-10-15 | 2023-11-18 |

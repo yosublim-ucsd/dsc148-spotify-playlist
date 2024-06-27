@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Auditory Trauma: Nothing Isolation Sessions (Live)",
+        "url": "https://open.spotify.com/album/2MWM3VRR7BXbseyUWU9XDI"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491625,
+      "name": "Carpenter's Son - Live",
+      "url": "https://open.spotify.com/track/3p7aZ3QdgImxHqQm1bJ65N"
+    },
+    {
+      "album": {
         "name": "The Great Dismal",
         "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-758 songs - 1 day 19 hr 36 min
+759 songs - 1 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,6 +653,7 @@
 | [Tender](https://open.spotify.com/track/1Wb6hywune5SXJTczRgSk7) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV) | [Inner Voices](https://open.spotify.com/album/3YpG3KwKKLRjyJezGvSN3Z) | 3:14 | 2023-04-24 | 2023-07-22 |
 | [Tension](https://open.spotify.com/track/5fsPCB4c74rgxBtZI38DCE) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Tension](https://open.spotify.com/album/5jAVsqobvDn8gH9DgMeyZU) | 3:41 | 2023-04-10 | 2023-07-05 |
 | [The Banana Song](https://open.spotify.com/track/1fTxD2WAaESaaXJqg2av2X) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [The Banana Song](https://open.spotify.com/album/3Z64U9gwzFb0CNy7bTC0Fs) | 2:45 | 2024-04-01 | 2024-06-18 |
+| [The Beginning](https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Beginning](https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5) | 4:11 | 2024-06-26 |  |
 | [The Dark](https://open.spotify.com/track/3mE2sIa33kLQtTcSTWrylq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Crimson Child](https://open.spotify.com/artist/3HfDytr1a4fQhrC2J29K6v) | [The Dark](https://open.spotify.com/album/60XUyh545wo0P4HHuVQPsI) | 3:48 | 2023-01-26 | 2023-04-13 |
 | [The Dead March](https://open.spotify.com/track/0eabdClGMPVwX7gJ8ilNke) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [The Dead March](https://open.spotify.com/album/3FpZzHO2jDXRjMX2C9bxNU) | 2:42 | 2022-10-06 | 2022-12-07 |
 | [The Epic Octopus Song](https://open.spotify.com/track/5l3InJmd0xxUvyj1eBb1d1) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Dani Demand](https://open.spotify.com/artist/4AUz9m5EecusjVSBw0FylH) | [The Epic Octopus Song](https://open.spotify.com/album/3VsNiMSWEAc2QkhJjigBSf) | 3:04 | 2024-01-15 | 2024-04-05 |

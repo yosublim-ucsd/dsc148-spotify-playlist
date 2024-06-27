@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO3rPchT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3rPchT)
 
-### [This Is HARDY](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rPchT)
+### [Acesta este HARDY.](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rPchT)
 
-> This is HARDY\. The essential tracks, all in one playlist.
+> This is HARDY\. Piesele esențiale într\-un singur playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,069 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,129 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 50 | [To Hank \(feat\. HARDY, Brantley Gilbert & Colt Ford\)](https://open.spotify.com/track/6F8QHX4aAyXKLOrJLICAWJ) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR) | 3:17 |
 | 51 | [Creep \(feat\. HARDY\)](https://open.spotify.com/track/3CowWV9MOYpMN6sZBqz9rF) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:23 |
 
-Snapshot ID: `Zni3AAAAAADQN6EeBGOMhf4+usFzjkC8`
+Snapshot ID: `ZnoIgAAAAACu/SG2vK62gqxhWJr2cz3+`

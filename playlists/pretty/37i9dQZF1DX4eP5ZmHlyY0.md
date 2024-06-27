@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: INI
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,963 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,968 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 9 | [moooove!!](https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [moooove!!](https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx) | 3:00 |
 | 10 | [五月雨 \(Samidare\)](https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [五月雨 \(Samidare\)](https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE) | 3:11 |
 | 11 | [Sweetest Tune](https://open.spotify.com/track/6uY7MpqSGdXwmMiQlEw6h1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Sweetest Tune](https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc) | 3:25 |
-| 12 | [MINNA BLING BLING](https://open.spotify.com/track/6Xa5ifCXnEEENCYL7xUGxz) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [MINNA BLING BLING](https://open.spotify.com/album/1Bb0nQ5Alx2cJaroN4l1Kw) | 2:30 |
+| 12 | [MINNA BLING BLING](https://open.spotify.com/track/6Xa5ifCXnEEENCYL7xUGxz) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [MINNA BLING BLING](https://open.spotify.com/album/1Bb0nQ5Alx2cJaroN4l1Kw) | 2:30 |
 | 13 | [DRAW+ing](https://open.spotify.com/track/4gcGVSVzZPnCeBt3Be1bmQ) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [DRAW+ing](https://open.spotify.com/album/54O5v1GtPDAeGMTw3lCG82) | 3:24 |
 | 14 | [NINNIN JACK](https://open.spotify.com/track/6fG4sExielzxmQlhX7pEr7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [DEPARTURE](https://open.spotify.com/album/2IcaFXt9KAgLFdcNAktqlU) | 2:36 |
 | 15 | [Pump It Up! feat\. TAKUMA THE GREAT](https://open.spotify.com/track/36tQVvEnWA4CfgJAQRNDDP) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX), [Takuma the Great](https://open.spotify.com/artist/2VwCj19Ruz3bW7tF0KRJws) | [Pump It Up! feat\. TAKUMA THE GREAT](https://open.spotify.com/album/1M2kGI112t0hnGpUpqzw2y) | 3:29 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 ### [This Is Patoranking](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iOLV6)
 
-> This is Patoranking\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Patoranking\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,464 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,482 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 29 | [Confirm \(feat\. Davido\)](https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Confirm \(feat\. Davido\)](https://open.spotify.com/album/3e9N0u3qAe6273h949AsFy) | 3:49 |
 | 30 | [Higher](https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:11 |
 | 31 | [Tonight](https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [TONIGHT](https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb) | 3:16 |
-| 32 | [One Love](https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Africa Unite](https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY) | 2:33 |
-| 33 | [Kom Kom](https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Kom Kom](https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c) | 3:08 |
+| 32 | [Ma girl](https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Ma girl](https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos) | 3:27 |
+| 33 | [One Love](https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Africa Unite](https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY) | 2:33 |
 | 34 | [Control Me](https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:55 |
-| 35 | [Ma girl](https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Ma girl](https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos) | 3:27 |
+| 35 | [Kom Kom](https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Kom Kom](https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c) | 3:08 |
 | 36 | [Sing My Name](https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sing My Name](https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR) | 3:34 |
 | 37 | [I Believe \(feat\. Patoranking & Silly Walks Discotheque\)](https://open.spotify.com/track/5olEm6oL6PhnW6FUhZQIAF) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH) | [The Gentle Man](https://open.spotify.com/album/06xLblJu6SFwSwauSfDFtY) | 3:02 |
 | 38 | [Something Nice](https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Something Nice](https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [Feelings \- A COLORS SHOW](https://open.spotify.com/track/6pM36Gc15BBIwefH7Zy4GI) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Feelings \- A COLORS SHOW](https://open.spotify.com/album/5LJvUFehOgLrzRpDzMAH9o) | 3:26 |
 | 50 | [Smoke & Vibes](https://open.spotify.com/track/6jFlpzEpvEPKDgLGrmgS7O) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:39 |
 
-Snapshot ID: `Zni3AAAAAACA4L0iTejnsMVPoeo8K5bY`
+Snapshot ID: `ZnoIgAAAAACAxBWG12Fx2Sdu5bFOX3X2`

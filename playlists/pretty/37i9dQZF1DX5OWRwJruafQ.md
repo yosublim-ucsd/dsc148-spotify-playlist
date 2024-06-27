@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: NIJJAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,667 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,690 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 2 | [Don't Look 2](https://open.spotify.com/track/4ZQAFya68eENRy7VGVXSUe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [G\-Funk](https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH) | [Don't Look 2](https://open.spotify.com/album/5RCnxjGciArcGJScujPXyU) | 3:18 |
 | 3 | [Busy Doin Nothin](https://open.spotify.com/track/0xOblh9Op69YZkvbsHrsDW) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Busy Doin Nothin](https://open.spotify.com/album/5P7BaRLeaZ0RVj9DKUtPgx) | 3:40 |
 | 4 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
-| 5 | [G Flow](https://open.spotify.com/track/4Gj9KgiRtK4M6ttShk6eVM) | [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Avvy](https://open.spotify.com/artist/4FdVHUenxOa1Jixzrw0bL1), [Rxtro](https://open.spotify.com/artist/7Mz9BEnrYCSHXZLUGJudiJ) | [G Flow](https://open.spotify.com/album/3bXWTJ9uKdYIOOawL4Gsw3) | 3:15 |
+| 5 | [G Flow](https://open.spotify.com/track/4Gj9KgiRtK4M6ttShk6eVM) | [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Avvy](https://open.spotify.com/artist/4FdVHUenxOa1Jixzrw0bL1), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [G Flow](https://open.spotify.com/album/3bXWTJ9uKdYIOOawL4Gsw3) | 3:15 |
 | 6 | [Khoobia](https://open.spotify.com/track/7vdLeF0hqThuFH8dxgUhrc) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [L.B.E](https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E) | 2:29 |
 | 7 | [Jatti Bae](https://open.spotify.com/track/6o2ch5JQkaLDbDp45kXG7A) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [Jatti Bae](https://open.spotify.com/album/1mD3ho2AJpivs3CyKNdcMY) | 2:37 |
 | 8 | [Famous Enough](https://open.spotify.com/track/5HzPjMMntmDxCvHBhrzKrY) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Paper Before Money](https://open.spotify.com/album/1W8xXVyN2UEJWhaQAtrHcC) | 4:00 |

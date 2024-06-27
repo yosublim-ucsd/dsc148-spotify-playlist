@@ -4,7 +4,7 @@
 
 > cover: lola young
 
-2,852 songs - 6 day 9 hr 53 min
+2,853 songs - 6 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Afterlife](https://open.spotify.com/track/0Xi1Cs3WebgME5QFZcJQcs) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [Afterlife](https://open.spotify.com/album/4bTzs8uMPepY1Dv99FesVW) | 2:34 | 2022-05-27 | 2022-07-01 |
 | [Afterthought](https://open.spotify.com/track/1ggYjU6zdFHgANcku82boU) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:14 | 2020-09-25 | 2021-01-12 |
 | [Afterthought](https://open.spotify.com/track/6zvqq50PL7io0rprbkrYc9) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:14 | 2022-06-15 | 2022-07-02 |
+| [Aggy](https://open.spotify.com/track/12xM3OgBvG73MOfVCEphGg) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Aggy](https://open.spotify.com/album/2TyrytZI5dx2qjDSPSlPe2) | 3:26 | 2024-06-26 |  |
 | [agora hills \- Spotify Singles](https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [Spotify Singles](https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa) | 4:54 | 2024-06-10 |  |
 | [Agreeable](https://open.spotify.com/track/0yeDzSWRH7HDeWMcXvgUaA) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Agreeable](https://open.spotify.com/album/42wXjVpz6KItN0kZUhq23d) | 2:14 | 2020-09-15 | 2021-03-09 |
 | [Ain't Together](https://open.spotify.com/track/4jvtuOFXhwTJG1sQHkT1bs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Ain't Together](https://open.spotify.com/album/1eMuzrmQ6CNhwcTA4eSsdN) | 3:22 | 2019-09-06 | 2019-11-14 |
@@ -2204,7 +2205,7 @@
 | [Slugger](https://open.spotify.com/track/2holnzElUAKzjfQyZ0l9of) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Slugger](https://open.spotify.com/album/5AncBhmQ5R7ZHFachIWRhr) | 2:12 | 2023-02-10 | 2023-03-16 |
 | [Slugs](https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Slugs](https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR) | 3:06 | 2023-07-27 | 2023-10-11 |
 | [Slugs](https://open.spotify.com/track/4iTX1HFVrva7chgeMaeR4d) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 3:06 | 2023-07-27 | 2024-01-11 |
-| [Slugs \- yeule & Kin Leonn Remix](https://open.spotify.com/track/4KAq5S5t4tHz5jaARTRT7t) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK) | [Slugs \(yeule & Kin Leonn Remix\)](https://open.spotify.com/album/5tB9jODs9DbqQ6lBAVivKk) | 3:10 | 2024-05-10 |  |
+| [Slugs \- yeule & Kin Leonn Remix](https://open.spotify.com/track/4KAq5S5t4tHz5jaARTRT7t) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK) | [Slugs \(yeule & Kin Leonn Remix\)](https://open.spotify.com/album/5tB9jODs9DbqQ6lBAVivKk) | 3:10 | 2024-05-10 | 2024-06-27 |
 | [Smile](https://open.spotify.com/track/0Q7bQszd9Lr699WS2Uo9aq) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Smile](https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui) | 2:23 | 2019-10-04 | 2020-02-20 |
 | [Smile For The Camera](https://open.spotify.com/track/1LmNzbOQTfzP1a5TSFMYbg) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Heart\-Shaped Bruise](https://open.spotify.com/album/5VtC9ZmocqMVXz0s7Tz7Ne) | 3:12 | 2023-01-13 | 2023-03-07 |
 | [Smithereens](https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Smithereens](https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii) | 2:20 | 2021-12-03 | 2022-01-08 |

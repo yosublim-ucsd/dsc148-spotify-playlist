@@ -2,9 +2,9 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: VIZE, Armin van Buuren, Leony
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: NIIKO &amp; SWAE
 
-1,078 songs - 2 day 9 hr 48 min
+1,079 songs - 2 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Back To You](https://open.spotify.com/track/0TLHzVO3fyM2pTg9XQWutm) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Back To You](https://open.spotify.com/album/5bluYOQ6ASt8vaB1LSA1TI) | 2:33 | 2023-06-08 | 2023-08-01 |
 | [Back To You](https://open.spotify.com/track/5cBe4IcrXXSMleXrQNXoLE) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Ibiza 2023 \- Armada Music](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 2:33 | 2023-07-31 | 2023-12-14 |
 | [Bananza](https://open.spotify.com/track/7h9Z1OOpEcKdwbobsGC0bG) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Bananza](https://open.spotify.com/album/6I1jaw9O18g3BbSsYn5bpk) | 2:34 | 2022-06-09 | 2022-08-19 |
+| [Bang Bang](https://open.spotify.com/track/6uX9Drm4DFWdD6iOgTZvXj) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr) | [Bang Bang](https://open.spotify.com/album/0B1UBqTkSMFmcmAvXxdYYL) | 5:50 | 2024-06-26 |  |
 | [Bar A Thym \- THEMBA Remix](https://open.spotify.com/track/1zMNIRTdAZtBhN0BtoRSZA) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Ibiza 2023 \- Armada Music](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 3:44 | 2023-07-31 | 2023-12-19 |
 | [Be Alright](https://open.spotify.com/track/2ezZt5y0mvIIm5ca7DVY2v) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS) | [Be Alright](https://open.spotify.com/album/17aGTPiN3LQHtjZuNDteyp) | 3:40 | 2024-06-13 |  |
 | [Be Free \- Les Bisous Remix](https://open.spotify.com/track/692dQr65Zu2gkBTk93NZh9) | [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO), [Les Bisous](https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW) | [Be Free \(Les Bisous Remix\)](https://open.spotify.com/album/6Wmk8pr3KVRW0sVs4BejSx) | 3:22 | 2022-08-18 | 2022-09-02 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Edith M\u00e1rquez. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
-  "num_followers": 80094,
+  "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
+  "num_followers": 80116,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAABiWzLLI/xqxo4PSzdUZ4G5",
+  "snapshot_id": "ZnoIgAAAAACNjBhPLCAl15QQj47KYC6M",
   "tracks": [
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones II",
-        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 207626,
-      "name": "\u00bfQuieres Ser Mi Amante?",
-      "url": "https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U"
+      "duration_ms": 220133,
+      "name": "Por hablarle de ti",
+      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+        "name": "Emociones II",
+        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 220133,
-      "name": "Por hablarle de ti",
-      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
+      "duration_ms": 207626,
+      "name": "\u00bfQuieres Ser Mi Amante?",
+      "url": "https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+        "name": "Las Mejores Baladas del Pop",
+        "url": "https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 233000,
-      "name": "C\u00f3mo Fui a Enamorarme de Ti",
-      "url": "https://open.spotify.com/track/44MQKjd4d2SOV3INfboy0I"
+      "duration_ms": 258986,
+      "name": "Tengo todo excepto a ti",
+      "url": "https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Mejores Baladas del Pop",
-        "url": "https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0"
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 258986,
-      "name": "Tengo todo excepto a ti",
-      "url": "https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG"
+      "duration_ms": 233000,
+      "name": "C\u00f3mo Fui a Enamorarme de Ti",
+      "url": "https://open.spotify.com/track/44MQKjd4d2SOV3INfboy0I"
     },
     {
       "added_at": null,

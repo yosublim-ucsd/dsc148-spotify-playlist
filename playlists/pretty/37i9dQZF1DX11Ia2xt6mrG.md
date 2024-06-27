@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Jayrick en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,772 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,773 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 80 | [CLI CLI Clan Clan](https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb) | [CLI CLI Clan Clan](https://open.spotify.com/album/7CyIk7mlvZK9F5AFggoRWH) | 4:19 |
 | 81 | [Deep Lies](https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [BW](https://open.spotify.com/artist/1i44h6fV8ef3hIb9tF2Lvp), [Criminal Sounds](https://open.spotify.com/artist/5njfytLYZKkzutruHPuSVj), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb) | [Deep Lies](https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz) | 3:25 |
 | 82 | [Someone Else's Love](https://open.spotify.com/track/30HuQuGTnEumX2PmUWdLo8) | [Jake Silva](https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL), [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93) | [Someone Else's Love](https://open.spotify.com/album/4sAZLc3KOCg7sZ6CA6wRWK) | 2:54 |
-| 83 | [Weekend](https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW) | [Juan Soto](https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN), [Lemon Mint](https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0) | [Weekend](https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7) | 4:12 |
+| 83 | [UP \(Bzars Remix\)](https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9) | [UP \(Bzars Remix\)](https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g) | 2:22 |
 | 84 | [Dónde Andarás \- USB GAD Remix](https://open.spotify.com/track/57mBuT1W5NyxYShuapIlny) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Yo Solo Quiero Que Me Quieras Como Yo Te Quiero](https://open.spotify.com/album/4vrVL0ZOhpliCIobNqIfzu) | 3:24 |
-| 85 | [UP \(Bzars Remix\)](https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9) | [UP \(Bzars Remix\)](https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g) | 2:22 |
+| 85 | [Weekend](https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW) | [Juan Soto](https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN), [Lemon Mint](https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0) | [Weekend](https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7) | 4:12 |
 | 86 | [Sexy Velocity](https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Sexy Velocity](https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr) | 3:32 |
 | 87 | [Sakura](https://open.spotify.com/track/48HANicqTEwFPCRA3tPpNz) | [Kertox](https://open.spotify.com/artist/1jvwq1Nj0eSEeHMqRnwEDS) | [Sakura](https://open.spotify.com/album/1aWPYXlwhTSU3Z477jms6j) | 2:18 |
 | 88 | [Sunrise](https://open.spotify.com/track/55OQy8slZ9Y74xWUvysJEq) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Sunrise](https://open.spotify.com/album/6Tpqc6l5IldSvPwXXe6hXH) | 2:47 |

@@ -2,9 +2,9 @@
 
 ### [OUTSIDE](https://open.spotify.com/playlist/37i9dQZF1DWT69BWwm9goV)
 
-> A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: Vampire Weekend
+> A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: Hermanos Gutiérrez
 
-25 songs - 1 hr 9 min
+28 songs - 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Bands \(feat\. OhGeesy, Fenix Flexin & Master Kato\)](https://open.spotify.com/track/1n8wr8tRHs5jmBxNWXedcn) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [Rob Vicious](https://open.spotify.com/artist/2gGtD7OGXbNZAY3oCZvZqA), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Master Kato](https://open.spotify.com/artist/6pb2Dl1FHK081UKW6aUqgF) | [Shoreline Mafia Presents Rob Vicious: Traplantic](https://open.spotify.com/album/2rSKi2QJ6v22f464Uq3ose) | 2:54 | 2024-04-02 |  |
 | [Burn \(Spotify OUTSIDE Version\) \- Live from Nashville](https://open.spotify.com/track/7sbC0OC0HQZRzRkzdwi2pe) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [OUTSIDE](https://open.spotify.com/album/5QCncBR19XVNeTeIyGJijz) | 3:25 | 2024-04-02 |  |
 | [Camelot](https://open.spotify.com/track/44sYqNBttbXNxya33FJ3Dj) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 2:28 | 2024-04-02 |  |
+| [Capricorn](https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:09 | 2024-06-26 |  |
 | [club heaven \- Live from Spotify Green Screen](https://open.spotify.com/track/3AaRTY18Q5ETuYoQ2wLXDP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven \(Live from Spotify Green Screen\)](https://open.spotify.com/album/1fe3shDrSWQXIwf32qLFiY) | 2:28 | 2024-04-02 |  |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2024-04-02 |  |
 | [Cowboy In An Escalade \(Spotify OUTSIDE Version\) \- Live From West Columbia, TX](https://open.spotify.com/track/1w35Va648auSiXaTgimWj0) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Cowboy In A Escalade \(Spotify OUTSIDE Version\) \[Live From West Columbia, TX\]](https://open.spotify.com/album/4QsqH6RBbMl6OgB47gRc1t) | 2:02 | 2024-04-04 |  |
@@ -23,6 +24,8 @@
 | [Gravity \- Live from Spotify Green Screen](https://open.spotify.com/track/4XflKK88OP3lWpwrQxg3ll) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Gravity \- Live from Spotify Green Screen](https://open.spotify.com/album/2lRF5yXvrn9obPYMbsH2ho) | 3:04 | 2024-04-02 |  |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-04-02 |  |
 | [keep a window open// \(Spotify OUTSIDE Version\) \- Live from Lake Mills, WI](https://open.spotify.com/track/5tZ4CiFTKrcyT2ZQ9Fnges) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [keep a window open// \(Spotify OUTSIDE Version\) \- Live from Lake Mills, WI](https://open.spotify.com/album/4MQ9OhxmmRFMUw91r8bxnP) | 2:46 | 2024-04-02 |  |
+| [Low Sun](https://open.spotify.com/track/1siRw9E67ouBWsORObDuhZ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 3:08 | 2024-06-26 |  |
+| [Low Sun \- \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc) | 2:57 | 2024-06-26 |  |
 | [Needs](https://open.spotify.com/track/6sg284TefDkBpFh0317Agp) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 2:26 | 2024-04-02 |  |
 | [No Horse To Ride](https://open.spotify.com/track/1KNuxvWSka5wOXQOOOyFsw) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Luke Grimes](https://open.spotify.com/album/3z24fpMlBap60LQ1Or1Gq2) | 2:14 | 2024-04-02 |  |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2024-04-02 |  |

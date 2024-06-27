@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Joker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,350,607 likes - 49 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,350,789 likes - 49 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 4 | [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 |
 | 5 | [Shoote Shoote](https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Shoote Shoote](https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC) | 2:59 |
 | 6 | [Şeytan ve Melekler](https://open.spotify.com/track/1Rrg2RPn0H2iLcUxDYgOWx) | [Heja](https://open.spotify.com/artist/3G0XxE8TxeByKXgwtmVE8n), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Şeytan ve Melekler](https://open.spotify.com/album/6JgYKBgd77acqUw0NZpvpd) | 4:10 |
-| 7 | [MAD](https://open.spotify.com/track/1fak8FUIcbRwmp6fCUbwH1) | [Melez](https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [MAD](https://open.spotify.com/album/4TLoNyJr0nILMmuYM03KAq) | 3:27 |
-| 8 | [Bitmez Ümitlerim](https://open.spotify.com/track/34CpmKk7afqWw4JpsC7m0R) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Bitmez Ümitlerim](https://open.spotify.com/album/123kCll74XMoPqLsSlG8Z9) | 2:44 |
-| 9 | [TEK VURUŞ](https://open.spotify.com/track/1OraTQMNE6tUtRgln4yncD) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [TEK VURUŞ](https://open.spotify.com/album/5tx3THfv7xOaeo8FvRLFLP) | 2:33 |
-| 10 | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9) | 1:35 |
-| 11 | [Sana Vuruldum \(Ulubatlı Hasan\)](https://open.spotify.com/track/5oYRllIEUix5gkYaml9m5p) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Sana Vuruldum \(Ulubatlı Hasan\)](https://open.spotify.com/album/7wHTQvIXsj6ULlSv1QDM0k) | 3:48 |
-| 12 | [Damlarsın](https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Damlarsın](https://open.spotify.com/album/1HbQWs7ClzwFt5AmEgH8r2) | 2:25 |
-| 13 | [Aşksız adam](https://open.spotify.com/track/5cRKWWPyd2zwiLNfN7yWnL) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Aşksız adam](https://open.spotify.com/album/4EqtdQu2vOKHykqJ37B1er) | 2:40 |
-| 14 | [IstanbuL](https://open.spotify.com/track/4kL9OgH9eGLWRERkUSH5RZ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [The World is Yours](https://open.spotify.com/album/49uDkFve9sxXZZWywtq00f) | 1:58 |
-| 15 | [Senin Yüzünden](https://open.spotify.com/track/2IEVhvv5LOFnsz6FQl7Wr3) | [Etki](https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Senin Yüzünden](https://open.spotify.com/album/6DDJbeIc0r9H1z1NpQRmMi) | 2:42 |
-| 16 | [Sezen Aksu](https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 2:03 |
-| 17 | [İNTİHAR](https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7) | 2:08 |
+| 7 | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9) | 1:35 |
+| 8 | [MAD](https://open.spotify.com/track/1fak8FUIcbRwmp6fCUbwH1) | [Melez](https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [MAD](https://open.spotify.com/album/4TLoNyJr0nILMmuYM03KAq) | 3:27 |
+| 9 | [Bitmez Ümitlerim](https://open.spotify.com/track/34CpmKk7afqWw4JpsC7m0R) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Bitmez Ümitlerim](https://open.spotify.com/album/123kCll74XMoPqLsSlG8Z9) | 2:44 |
+| 10 | [İNTİHAR](https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7) | 2:08 |
+| 11 | [TEK VURUŞ](https://open.spotify.com/track/1OraTQMNE6tUtRgln4yncD) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [TEK VURUŞ](https://open.spotify.com/album/5tx3THfv7xOaeo8FvRLFLP) | 2:33 |
+| 12 | [Sana Vuruldum \(Ulubatlı Hasan\)](https://open.spotify.com/track/5oYRllIEUix5gkYaml9m5p) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Sana Vuruldum \(Ulubatlı Hasan\)](https://open.spotify.com/album/7wHTQvIXsj6ULlSv1QDM0k) | 3:48 |
+| 13 | [Damlarsın](https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Damlarsın](https://open.spotify.com/album/1HbQWs7ClzwFt5AmEgH8r2) | 2:25 |
+| 14 | [Aşksız adam](https://open.spotify.com/track/5cRKWWPyd2zwiLNfN7yWnL) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Aşksız adam](https://open.spotify.com/album/4EqtdQu2vOKHykqJ37B1er) | 2:40 |
+| 15 | [IstanbuL](https://open.spotify.com/track/4kL9OgH9eGLWRERkUSH5RZ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [The World is Yours](https://open.spotify.com/album/49uDkFve9sxXZZWywtq00f) | 1:58 |
+| 16 | [Senin Yüzünden](https://open.spotify.com/track/2IEVhvv5LOFnsz6FQl7Wr3) | [Etki](https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Senin Yüzünden](https://open.spotify.com/album/6DDJbeIc0r9H1z1NpQRmMi) | 2:42 |
+| 17 | [Sezen Aksu](https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 2:03 |
 | 18 | [Soluksuz](https://open.spotify.com/track/5FQq3nM4JY8M97PLs8OqSE) | [Rota](https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB), [Burak King](https://open.spotify.com/artist/18hpynG63scJYxOSDYHUVN) | [Soluksuz](https://open.spotify.com/album/0kmkwpeqJP0qnBlPYnLiSQ) | 3:25 |
 | 19 | [anlatamam](https://open.spotify.com/track/6n5sAwgI535CMAr36INv9L) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [anlatamam](https://open.spotify.com/album/3At9Fy28V8N8zkV1kN0Ybf) | 2:02 |
 | 20 | [BENİMSİN](https://open.spotify.com/track/0wIFigZkGmivwhAkrCAz09) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [BENİMSİN](https://open.spotify.com/album/6qMJN3UZFYWEGfN64C0LVq) | 2:40 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 48 | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 |
 | 49 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 
-Snapshot ID: `ZnVf7AAAAAAhqehhfF+5A84Ub28IQiuq`
+Snapshot ID: `ZnwcyQAAAADapcT04VZ/hDL1M+TLM8Dc`

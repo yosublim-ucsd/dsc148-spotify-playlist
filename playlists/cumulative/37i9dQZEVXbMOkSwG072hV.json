@@ -4363,6 +4363,32 @@
     },
     {
       "album": {
+        "name": "A\u00ed A\u00ed Que Legal - A\u00ed A\u00ed Que Fenomenal",
+        "url": "https://open.spotify.com/album/0PSFi4yziwxIfoLgV7J64X"
+      },
+      "artists": [
+        {
+          "name": "DJ Miller Oficial",
+          "url": "https://open.spotify.com/artist/07ox80BTdnwoNNcQT5IvBP"
+        },
+        {
+          "name": "Mc Nauan",
+          "url": "https://open.spotify.com/artist/1UisTLtsrXMrV7T5jvMcHB"
+        },
+        {
+          "name": "MC Digu",
+          "url": "https://open.spotify.com/artist/3vcNcwMasVwgv5jPfdUwaE"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "A\u00ed A\u00ed Que Legal - A\u00ed A\u00ed Que Fenomenal",
+      "url": "https://open.spotify.com/track/5Wo7n1OpPGKSMzTvfou9s8"
+    },
+    {
+      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -10152,7 +10178,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 205973,
       "name": "Como Um Beijo",
       "url": "https://open.spotify.com/track/60wgnlVBEsyswrTB6pYiTi"
@@ -30528,7 +30554,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 80009,
       "name": "MTG - ELASTIC HEART",
       "url": "https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw"
@@ -30810,6 +30836,28 @@
       "duration_ms": 148615,
       "name": "MTG E QUANDO CHEGA A NOITE",
       "url": "https://open.spotify.com/track/5cnLEUmLqLBLzu0Y2fOYTz"
+    },
+    {
+      "album": {
+        "name": "MTG ELASTIC HEART",
+        "url": "https://open.spotify.com/album/0j3DgEsnrGZUrkfMLqkjJv"
+      },
+      "artists": [
+        {
+          "name": "DJ ROLANDIN",
+          "url": "https://open.spotify.com/artist/3dEyQ0CC1B3TyW4lJAmLiu"
+        },
+        {
+          "name": "Lucas Hits",
+          "url": "https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80009,
+      "name": "MTG ELASTIC HEART",
+      "url": "https://open.spotify.com/track/4LCI8fTByJtWV65GRLPOTh"
     },
     {
       "album": {
@@ -31970,7 +32018,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
@@ -47998,6 +48046,48 @@
       "duration_ms": 288000,
       "name": "TRAP DE MALOKA",
       "url": "https://open.spotify.com/track/7t0GcNEgTvKsBHP2EzWb4G"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Kayin",
+          "url": "https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61"
+        },
+        {
+          "name": "Danike",
+          "url": "https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        },
+        {
+          "name": "NERESZZ",
+          "url": "https://open.spotify.com/artist/0q3HhX2NqZo0or1zi7RAko"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "TRAP DE MALOKA",
+      "url": "https://open.spotify.com/track/6XJNYC9uS1h3d8fdxsGtNd"
     },
     {
       "album": {

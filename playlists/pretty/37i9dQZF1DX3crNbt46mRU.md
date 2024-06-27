@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Coldplay
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,233 likes - 120 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,237 likes - 120 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

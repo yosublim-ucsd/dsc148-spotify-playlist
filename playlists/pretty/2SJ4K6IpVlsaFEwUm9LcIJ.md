@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 20,011 likes - 61 songs - 3 hr 0 min
+[margeaux](https://open.spotify.com/user/1220511975) - 20,028 likes - 62 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 59 | [The Only One](https://open.spotify.com/track/2XItbN0HfeLpDamJzeQLqQ) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:15 |
 | 60 | [Baby Lef Marah](https://open.spotify.com/track/0amK3uqJKw5AJ9CgeJArTz) | [S.E\. Rogie](https://open.spotify.com/artist/1W8vgcN29v8ChWmlpZQ3Ai) | [The Sounds of S.E\. Rogie](https://open.spotify.com/album/1Ovz1OhylAnhQ2kLf65obf) | 3:10 |
 | 61 | [She's Leaving You](https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [She's Leaving You](https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp) | 4:38 |
+| 62 | [M M M](https://open.spotify.com/track/3OEnErw6z4DGjfiWefhg75) | [Still House Plants](https://open.spotify.com/artist/1zvVxcYQEbn9D1tMG7960a) | [If I don't make it, I love u](https://open.spotify.com/album/1DG8mBYMlAQNC9pA21zWAH) | 5:46 |
 
-Snapshot ID: `AAAKq5XYai8ul7fHHfnibCPxldEQad/x`
+Snapshot ID: `AAAKrJlqkbKe/9Hj2WmLu1cOY3myxKea`

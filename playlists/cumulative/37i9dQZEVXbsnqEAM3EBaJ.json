@@ -8942,7 +8942,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 350722,
       "name": "For a Thousand Mothers - Live",
       "url": "https://open.spotify.com/track/6WQzrcoT13xFaACybHjgIZ"
@@ -12476,7 +12476,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 266677,
       "name": "I've got plans (involving you)",
       "url": "https://open.spotify.com/track/6W2XOPrs33XWgVwjmpIEpr"
@@ -13640,7 +13640,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 197452,
       "name": "It's not a crime",
       "url": "https://open.spotify.com/track/1oDqCB9okbzGoXgwMfbJEr"
@@ -14122,6 +14122,10 @@
         {
           "name": "Def Leppard",
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
         }
       ],
       "date_added": "2024-06-14",
@@ -14760,7 +14764,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 224243,
       "name": "La Vida y la Libertad",
       "url": "https://open.spotify.com/track/0LpzBuOMD5OgSU3uzCHnFZ"
@@ -30426,7 +30430,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 201114,
       "name": "We Used to Know - Live",
       "url": "https://open.spotify.com/track/07jxFD0egxD4lrBcKNebqb"
@@ -31924,7 +31928,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 241295,
       "name": "\u00d1angapiri",
       "url": "https://open.spotify.com/track/7brVRN8EAO70iJscFiVTge"

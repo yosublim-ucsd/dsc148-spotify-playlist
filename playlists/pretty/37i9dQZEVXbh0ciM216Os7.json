@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADI7nOhgCoigsrE2tUtywo6",
+  "snapshot_id": "AAAAAAAAAAA7qohYNBOHlc03oN3okHNp",
   "tracks": [
     {
       "added_at": "2024-06-21 04:00:00",
@@ -223,6 +223,58 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "5 Deadly Venoms",
+        "url": "https://open.spotify.com/album/4GKSb8x74gaWXeuCKOL19Z"
+      },
+      "artists": [
+        {
+          "name": "Griffin House Music",
+          "url": "https://open.spotify.com/artist/4MdZ4gwFU9fdeKeyz4QE2J"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "A-Tone",
+          "url": "https://open.spotify.com/artist/1AyDK0hLvurtyvahkihUl0"
+        },
+        {
+          "name": "B-Guy Griffin",
+          "url": "https://open.spotify.com/artist/2HhMs0Q9RmMEOr6fVeXb3A"
+        }
+      ],
+      "duration_ms": 194831,
+      "name": "Jet Blue",
+      "url": "https://open.spotify.com/track/0e0x5DeWGa5iKcG56Thp2m"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "The End?",
+        "url": "https://open.spotify.com/album/5W3yhFbAn8czzxL5myKjBd"
+      },
+      "artists": [
+        {
+          "name": "Your Broken Hero",
+          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
+        },
+        {
+          "name": "Reclaim The Fallen",
+          "url": "https://open.spotify.com/artist/41PLS4hpBNijI37EGnUJsx"
+        },
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "Rooftops REMIX (feat. Reclaim The Fallen & Jake Luhrs of August Burns Red)",
+      "url": "https://open.spotify.com/track/5FXo0EeT0EsHw2wIWtyAPe"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Stifled Creativity",
         "url": "https://open.spotify.com/album/35IMV2kpVJDmwOm9j47CK0"
       },
@@ -255,34 +307,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "5 Deadly Venoms",
-        "url": "https://open.spotify.com/album/4GKSb8x74gaWXeuCKOL19Z"
-      },
-      "artists": [
-        {
-          "name": "Griffin House Music",
-          "url": "https://open.spotify.com/artist/4MdZ4gwFU9fdeKeyz4QE2J"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "A-Tone",
-          "url": "https://open.spotify.com/artist/1AyDK0hLvurtyvahkihUl0"
-        },
-        {
-          "name": "B-Guy Griffin",
-          "url": "https://open.spotify.com/artist/2HhMs0Q9RmMEOr6fVeXb3A"
-        }
-      ],
-      "duration_ms": 194831,
-      "name": "Jet Blue",
-      "url": "https://open.spotify.com/track/0e0x5DeWGa5iKcG56Thp2m"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Circa 54",
         "url": "https://open.spotify.com/album/3gMLyUXyktIg8eaV84o7AG"
       },
@@ -303,26 +327,26 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "The End?",
-        "url": "https://open.spotify.com/album/5W3yhFbAn8czzxL5myKjBd"
+        "name": "Don't Come Around Here No More",
+        "url": "https://open.spotify.com/album/4GA6njv7UdGzt1JYvK3BcB"
       },
       "artists": [
         {
-          "name": "Your Broken Hero",
-          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
         },
         {
-          "name": "Reclaim The Fallen",
-          "url": "https://open.spotify.com/artist/41PLS4hpBNijI37EGnUJsx"
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+          "name": "Benmont Tench",
+          "url": "https://open.spotify.com/artist/64BpBvN4VY7JdhV9GaEbiV"
         }
       ],
-      "duration_ms": 178986,
-      "name": "Rooftops REMIX (feat. Reclaim The Fallen & Jake Luhrs of August Burns Red)",
-      "url": "https://open.spotify.com/track/5FXo0EeT0EsHw2wIWtyAPe"
+      "duration_ms": 276856,
+      "name": "Don't Come Around Here No More",
+      "url": "https://open.spotify.com/track/5HoXRYP9uOELM7CbnSMHaS"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -359,26 +383,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Don't Come Around Here No More",
-        "url": "https://open.spotify.com/album/4GA6njv7UdGzt1JYvK3BcB"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2Nos1S7CRz9cs2cxzht1Vn"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+          "name": "Mateo Santiago",
+          "url": "https://open.spotify.com/artist/0c7bsEYzoQOexKPoC4ggSC"
         },
         {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Benmont Tench",
-          "url": "https://open.spotify.com/artist/64BpBvN4VY7JdhV9GaEbiV"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 276856,
-      "name": "Don't Come Around Here No More",
-      "url": "https://open.spotify.com/track/5HoXRYP9uOELM7CbnSMHaS"
+      "duration_ms": 92135,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/3NEqf1JP1mbJYhmoNd3ZYt"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -399,26 +419,6 @@
       "duration_ms": 260026,
       "name": "Joy In The Battle - Church Edition",
       "url": "https://open.spotify.com/track/5MsVtTUBmoqjMxZxsmCmKd"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/2Nos1S7CRz9cs2cxzht1Vn"
-      },
-      "artists": [
-        {
-          "name": "Mateo Santiago",
-          "url": "https://open.spotify.com/artist/0c7bsEYzoQOexKPoC4ggSC"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 92135,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/3NEqf1JP1mbJYhmoNd3ZYt"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Johnny Freight (with Passafire)",
-        "url": "https://open.spotify.com/album/2FlPqSYP0HB7KfcDlhwc5V"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        },
-        {
-          "name": "Passafire",
-          "url": "https://open.spotify.com/artist/3Il8w8T0de4sdogo2EQEVJ"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Johnny Freight (with Passafire)",
-      "url": "https://open.spotify.com/track/2SLo0QVJKiqFR3NlrQwxQY"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/78JhwRR3SIBikI4z0CyqEY"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 186611,
       "name": "Okay",
       "url": "https://open.spotify.com/track/0oohdNzQIMjaFUk4130Lyh"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Johnny Freight (with Passafire)",
+        "url": "https://open.spotify.com/album/2FlPqSYP0HB7KfcDlhwc5V"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
+        {
+          "name": "Passafire",
+          "url": "https://open.spotify.com/artist/3Il8w8T0de4sdogo2EQEVJ"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Johnny Freight (with Passafire)",
+      "url": "https://open.spotify.com/track/2SLo0QVJKiqFR3NlrQwxQY"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Del Oro",
+        "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 374122,
+      "name": "Del Oro",
+      "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Step",
         "url": "https://open.spotify.com/album/2ZgwNJaq7UwUnNlCjJ3wuu"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 241063,
       "name": "Step",
       "url": "https://open.spotify.com/track/5xewKfFWqzScyAexsi72SE"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Del Oro",
-        "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 374122,
-      "name": "Del Oro",
-      "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
     },
     {
       "added_at": "2024-06-21 04:00:00",

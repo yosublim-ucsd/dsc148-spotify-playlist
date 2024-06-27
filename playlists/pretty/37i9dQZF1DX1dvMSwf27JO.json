@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Teyana Taylor ",
-  "num_followers": 562663,
+  "num_followers": 562633,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "I Can't Wait",
-        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        }
-      ],
-      "duration_ms": 134322,
-      "name": "FreakyT",
-      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 106102,
       "name": "Romanticist",
       "url": "https://open.spotify.com/track/3nRhH5u3TE6HtvBH6mNwzY"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 134322,
+      "name": "FreakyT",
+      "url": "https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 255760,
-      "name": "M79",
-      "url": "https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Coven Music Session, Vol. 1",
         "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 58801,
       "name": "60 Seconds",
       "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 255760,
+      "name": "M79",
+      "url": "https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Love Me Like",
         "url": "https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 190000,
       "name": "If You Won't",
       "url": "https://open.spotify.com/track/7omQcQTiUCS1ZTRriyBqBA"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Oranges",
+        "url": "https://open.spotify.com/album/7v6sybbsm7QVp6P3qS2v7p"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 103688,
+      "name": "Oranges",
+      "url": "https://open.spotify.com/track/1sfLRmfnsHo4HwTAGK6u1k"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "BACKWARDS",
         "url": "https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 106046,
       "name": "BACKWARDS",
       "url": "https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Oranges",
-        "url": "https://open.spotify.com/album/7v6sybbsm7QVp6P3qS2v7p"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 103688,
-      "name": "Oranges",
-      "url": "https://open.spotify.com/track/1sfLRmfnsHo4HwTAGK6u1k"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Dog Food (feat. Denzel Curry)",
-        "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 184123,
-      "name": "Dog Food (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "THE ANGEL YOU DON'T KNOW",
         "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 180485,
       "name": "C\u00c9LINE",
       "url": "https://open.spotify.com/track/3PDph58rpbRHraKLXaC2ZG"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Dog Food (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 184123,
+      "name": "Dog Food (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
     },
     {
       "added_at": "2024-05-17 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 110629,
+  "num_followers": 110686,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+        "name": "DEIRA",
+        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
       },
       "artists": [
         {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
         },
         {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 137560,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
+      "duration_ms": 163183,
+      "name": "Allah Yihmeeki",
+      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -203,6 +203,26 @@
       "duration_ms": 298333,
       "name": "So We Won't Forget",
       "url": "https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 137560,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -227,26 +247,6 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "DEIRA",
-        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 163183,
-      "name": "Allah Yihmeeki",
-      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
-      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Sicod\u00e9licos",
         "url": "https://open.spotify.com/album/5UBnoa7wdR6WVRXh4Boj12"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 212466,
       "name": "Guajira Sicod\u00e9lica",
       "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
+      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Cart\u00e3o Postal",
-        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
-      },
-      "artists": [
-        {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
-        }
-      ],
-      "duration_ms": 128903,
-      "name": "Espera Pra Ver",
-      "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Alegria, Alegria!!!",
         "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 152613,
       "name": "Nem Vem Que N\u00e3o Tem",
       "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Cart\u00e3o Postal",
+        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
+      },
+      "artists": [
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+        }
+      ],
+      "duration_ms": 128903,
+      "name": "Espera Pra Ver",
+      "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 295080,
-      "name": "Mujer Divina",
-      "url": "https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Di Melo",
         "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Cart\u00e3o Postal",
-        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ"
       },
       "artists": [
         {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
         }
       ],
-      "duration_ms": 149420,
-      "name": "Que Bandeira",
-      "url": "https://open.spotify.com/track/2aQ8NyRJcsQFgb8jwUil90"
+      "duration_ms": 295080,
+      "name": "Mujer Divina",
+      "url": "https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1287,6 +1271,22 @@
       "duration_ms": 131045,
       "name": "Coconut",
       "url": "https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Cart\u00e3o Postal",
+        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
+      },
+      "artists": [
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+        }
+      ],
+      "duration_ms": 149420,
+      "name": "Que Bandeira",
+      "url": "https://open.spotify.com/track/2aQ8NyRJcsQFgb8jwUil90"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
+        "url": "https://open.spotify.com/album/59NOU4R72nphHRtwQlGfjJ"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/73TTpGtSDdXRP8J7loLifZ"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Fine Anyway (Habibi Funk 016)",
         "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 152733,
       "name": "Hei! Voc\u00ea",
       "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
-        "url": "https://open.spotify.com/album/59NOU4R72nphHRtwQlGfjJ"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/73TTpGtSDdXRP8J7loLifZ"
     },
     {
       "added_at": "2024-06-04 22:00:00",

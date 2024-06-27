@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: GUPE",
-  "num_followers": 433929,
+  "num_followers": 433917,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Antes Que O Mundo Acabe",
-        "url": "https://open.spotify.com/album/7rAGzb5tmPjeJRJZULY1GD"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 198961,
-      "name": "Eu S\u00f3 Queria...",
-      "url": "https://open.spotify.com/track/6F9UyxHuKfvHOmfMkRDCdm"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Antes Que O Mundo Acabe",
+        "url": "https://open.spotify.com/album/7rAGzb5tmPjeJRJZULY1GD"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 198961,
+      "name": "Eu S\u00f3 Queria...",
+      "url": "https://open.spotify.com/track/6F9UyxHuKfvHOmfMkRDCdm"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
+        "name": "Segue o Jogo",
+        "url": "https://open.spotify.com/album/77KghYmKDbtCyEff33pZOM"
+      },
+      "artists": [
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        }
+      ],
+      "duration_ms": 222714,
+      "name": "Segue o Jogo",
+      "url": "https://open.spotify.com/track/6nFnTql6A9bk4W4WMBS819"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
         "name": "Deixa Acender",
         "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 155600,
       "name": "Deixa Acender",
       "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
-        "name": "Segue o Jogo",
-        "url": "https://open.spotify.com/album/77KghYmKDbtCyEff33pZOM"
-      },
-      "artists": [
-        {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
-        }
-      ],
-      "duration_ms": 222714,
-      "name": "Segue o Jogo",
-      "url": "https://open.spotify.com/track/6nFnTql6A9bk4W4WMBS819"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "AGRIDOCE (PARTE 1)",
-        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 162835,
-      "name": "BONITA",
-      "url": "https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Samba Azul",
         "url": "https://open.spotify.com/album/4yGKNoM67bEOR8rE9T1Tgo"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 182004,
       "name": "Samba Azul",
       "url": "https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "AGRIDOCE (PARTE 1)",
+        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 162835,
+      "name": "BONITA",
+      "url": "https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Inevit\u00e1vel",
         "url": "https://open.spotify.com/album/6nFK4rVRWiM5q0wEAf7sBb"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 133626,
       "name": "Inevit\u00e1vel",
       "url": "https://open.spotify.com/track/7xORcxqVgL6v5h0cj0VNlA"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "J\u00e1 Te Falei",
         "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 205540,
       "name": "J\u00e1 Te Falei",
       "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
+        "name": "Guaec\u00e1",
+        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
+      },
+      "artists": [
+        {
+          "name": "LUAU",
+          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Guaec\u00e1",
+      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
         "name": "Concreto (2024 Rework)",
         "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
       },
@@ -987,6 +1003,22 @@
       "duration_ms": 194196,
       "name": "Recome\u00e7o - Bonus Track",
       "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1011,22 +1043,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Guaec\u00e1",
-        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
-      },
-      "artists": [
-        {
-          "name": "LUAU",
-          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Guaec\u00e1",
-      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Diante dos Olhos",
         "url": "https://open.spotify.com/album/4xQUvpsZBA4bAtyHRbYcUc"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "V\u00e1rios Tipos de Amor",
-        "url": "https://open.spotify.com/album/5HoZBDPdcsGtBFjjIvCy3J"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 164594,
-      "name": "Tento Decifrar",
-      "url": "https://open.spotify.com/track/4IBvBQeK7s304u8nvlLOmV"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Espiral",
         "url": "https://open.spotify.com/album/31c2DFsGxwU9A4eGKQ98aH"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 205781,
       "name": "Telepatia",
       "url": "https://open.spotify.com/track/5qQakX292WkdKg4N4e9JHE"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "V\u00e1rios Tipos de Amor",
+        "url": "https://open.spotify.com/album/5HoZBDPdcsGtBFjjIvCy3J"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 164594,
+      "name": "Tento Decifrar",
+      "url": "https://open.spotify.com/track/4IBvBQeK7s304u8nvlLOmV"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1095,24 +1111,8 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
-        "name": "Me Deixa Ser S\u00f3 Teu",
-        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
       },
       "artists": [
         {
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Me Deixa Ser S\u00f3 Teu",
-      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "Nosso Carnaval",
-        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
-        }
-      ],
-      "duration_ms": 165490,
-      "name": "Nosso Carnaval",
-      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
-    },
-    {
-      "added_at": "2024-06-21 12:17:45",
-      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 128904,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
+    },
+    {
+      "added_at": "2024-06-21 12:17:45",
+      "album": {
+        "name": "Nosso Carnaval",
+        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
+        }
+      ],
+      "duration_ms": 165490,
+      "name": "Nosso Carnaval",
+      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
     },
     {
       "added_at": "2024-06-21 12:17:45",
@@ -1275,8 +1275,8 @@
     {
       "added_at": "2024-06-21 12:17:45",
       "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+        "name": "Me Deixa Ser S\u00f3 Teu",
+        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
       "artists": [
         {
@@ -1284,9 +1284,9 @@
           "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+      "duration_ms": 160000,
+      "name": "Me Deixa Ser S\u00f3 Teu",
+      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
       "added_at": "2024-06-21 12:17:45",

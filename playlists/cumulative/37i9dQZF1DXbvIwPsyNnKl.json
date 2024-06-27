@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Nik Makino",
+  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Realest Cram, CK YG",
   "name": "KALYE",
   "tracks": [
     {
@@ -820,6 +820,28 @@
       "duration_ms": 199708,
       "name": "Di Ko Kasalanan (feat. gins&melodies)",
       "url": "https://open.spotify.com/track/7q5sqrG9X5ZzwSqKIpM77F"
+    },
+    {
+      "album": {
+        "name": "Dikapamigay",
+        "url": "https://open.spotify.com/album/1kISZMlDKKu14boq3Ze9Qp"
+      },
+      "artists": [
+        {
+          "name": "Realest Cram",
+          "url": "https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5"
+        },
+        {
+          "name": "ENZO MF",
+          "url": "https://open.spotify.com/artist/1Miwe0S1KiQu7zZhTYdtJV"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257441,
+      "name": "Dikapamigay",
+      "url": "https://open.spotify.com/track/5bEoMNE8AuautKnCVKHyxf"
     },
     {
       "album": {
@@ -2144,7 +2166,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 268000,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/5ZU0vdfJhQn2fgaIYicHlj"
@@ -2312,12 +2334,12 @@
       },
       "artists": [
         {
-          "name": "Ednil Beats",
-          "url": "https://open.spotify.com/artist/0zKg1Ug5p1QrTllISIsfqD"
-        },
-        {
           "name": "UNXPCTD",
           "url": "https://open.spotify.com/artist/1ruOLaqdQdMzwH5y8rfD0Y"
+        },
+        {
+          "name": "Ednil Beats",
+          "url": "https://open.spotify.com/artist/0zKg1Ug5p1QrTllISIsfqD"
         }
       ],
       "date_added": "2024-06-05",

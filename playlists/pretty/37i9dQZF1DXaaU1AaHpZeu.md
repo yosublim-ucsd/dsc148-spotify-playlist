@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. La Máquina Camaleón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,398 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,401 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 22 | [Terapia](https://open.spotify.com/track/1dvcR2fcM4rIsk3i5T6RQR) | [FAZ](https://open.spotify.com/artist/4xUSrhyHFt2cjzOPqWoJM7) | [Tracklist de Terapia](https://open.spotify.com/album/4GVM1JdOLQznHN9UXcl0jt) | 2:33 |
 | 23 | [Vortex](https://open.spotify.com/track/5WJQwspVul3jqtZFLjsqiT) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22) | [Vortex](https://open.spotify.com/album/4fJZaRfprQefvc0elL91JS) | 3:33 |
 | 24 | [Toda La Luz](https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Toda La Luz](https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p) | 2:12 |
-| 25 | [Virtudes](https://open.spotify.com/track/6tNhhkdLHIyjHrCfX39ofH) | [Le Parody](https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF), [Puttaneska](https://open.spotify.com/artist/2F38zdQmpl4DqRSlWCfvhu) | [Virtudes](https://open.spotify.com/album/597PLGvPRn5uCFi1yIIsCH) | 3:32 |
+| 25 | [Virtudes](https://open.spotify.com/track/6tNhhkdLHIyjHrCfX39ofH) | [Le Parody](https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF), [Puttaneska \(De Momento\)](https://open.spotify.com/artist/6LvU67HNGK3OJBYnfArORz) | [Virtudes](https://open.spotify.com/album/597PLGvPRn5uCFi1yIIsCH) | 3:32 |
 | 26 | [Adicto](https://open.spotify.com/track/3bNoHwTPg5clqLY6SVHx2i) | [TOURISTA](https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM) | [Adicto](https://open.spotify.com/album/2nScL5DPSdVjp3iYcTnWw7) | 3:34 |
 | 27 | [Te Desenamoraste](https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM) | [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Te Desenamoraste](https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D) | 2:42 |
 | 28 | [CUANDO ESTÉS DELANTE](https://open.spotify.com/track/0Slcgu1iQojwddRuC9SAGD) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [VOLVER A INTENTARLO CUANDO ESTÉS DELANTE](https://open.spotify.com/album/5E27KX2EJwPGdsXDNKNHBs) | 3:28 |

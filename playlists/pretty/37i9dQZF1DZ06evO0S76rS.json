@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 141454,
+  "num_followers": 141504,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAACevBu7jZxrSokhIucHtG6k",
+  "snapshot_id": "ZnoIgAAAAABXUeaDQXi+HyeaPGAzz5D7",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Triunfo",
+        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 331673,
+      "name": "Listo Medell\u00edn",
+      "url": "https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soltero",
         "url": "https://open.spotify.com/album/6U6e78fvesTnt6UKHTo685"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 260431,
       "name": "Soltero",
       "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Prueba De Fuego",
-        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 309746,
-      "name": "Mec\u00e1nico",
-      "url": "https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
       "duration_ms": 262653,
       "name": "Me Sabe a Per\u00fa",
       "url": "https://open.spotify.com/track/60uygJSldCifzLzPAUkgHD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 309746,
+      "name": "Mec\u00e1nico",
+      "url": "https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tapando el Hueco",
-        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 291893,
-      "name": "El Amor Vendr\u00e1",
-      "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre Una Aventura",
         "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 296960,
       "name": "Lo Bonito Y Lo Feo",
       "url": "https://open.spotify.com/track/3RviPwWauFFD8FhcsTFGe7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 291893,
+      "name": "El Amor Vendr\u00e1",
+      "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Prueba De Fuego",
-        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Solo Tu Sabes",
-      "url": "https://open.spotify.com/track/1O2N1rsU2Y1FR2nuYWjrYD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre Una Aventura",
         "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
@@ -767,6 +767,38 @@
       "duration_ms": 337866,
       "name": "Cielo de Tambores",
       "url": "https://open.spotify.com/track/4yEPR6IZcSBJQV1ITRLn4W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "Mi Valle del Cauca",
+      "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Prueba De Fuego",
+        "url": "https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "Solo Tu Sabes",
+      "url": "https://open.spotify.com/track/1O2N1rsU2Y1FR2nuYWjrYD"
     },
     {
       "added_at": null,
@@ -803,38 +835,6 @@
       "duration_ms": 359182,
       "name": "Atrate\u00f1o - Versi\u00f3n Sinf\u00f3nica",
       "url": "https://open.spotify.com/track/3xwt3eOUASkgdHapmAN0uO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Hay Quinto Malo",
-        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 254556,
-      "name": "El Coco",
-      "url": "https://open.spotify.com/track/1GyiOg6NkOzpDlJQTtY0Fo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Huellas Del Pasado",
-        "url": "https://open.spotify.com/album/0KytSLo7Ou7LnBeAS9KUqy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 306893,
-      "name": "Es Mejor No Despertar",
-      "url": "https://open.spotify.com/track/7CWtHOMsTfdeI5iFvuBPGz"
     }
   ],
   "unique_name": "This Is Grupo Niche",

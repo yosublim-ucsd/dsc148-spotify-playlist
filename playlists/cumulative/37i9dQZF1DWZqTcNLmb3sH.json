@@ -2546,7 +2546,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 209730,
       "name": "Baanadari (From \"Yuva\")",
       "url": "https://open.spotify.com/track/0Ls9D2mxKcPG9pEDEPWjRU"
@@ -5178,6 +5178,36 @@
       "duration_ms": 186352,
       "name": "Chinnumari (From \"Vedha\")",
       "url": "https://open.spotify.com/track/7MBiHHCBLA40Ix05D97bpM"
+    },
+    {
+      "album": {
+        "name": "Chitramanjari (From \"Hejjaru\")",
+        "url": "https://open.spotify.com/album/6ZTnBP8eJ5qL20tE0hHFlb"
+      },
+      "artists": [
+        {
+          "name": "Poornachandra Tejaswi S.V.",
+          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+        },
+        {
+          "name": "Harshapriya",
+          "url": "https://open.spotify.com/artist/124VVnT2v2M3Ucb5r099j2"
+        },
+        {
+          "name": "Sharan",
+          "url": "https://open.spotify.com/artist/3gwJl06k82NzSnDZrE89Nq"
+        },
+        {
+          "name": "Prithwi Bhat",
+          "url": "https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Chitramanjari (From \"Hejjaru\")",
+      "url": "https://open.spotify.com/track/37j53JHSa42pCqbR9I3rPI"
     },
     {
       "album": {
@@ -16496,7 +16526,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 174404,
       "name": "Manuja Nindyava Ooru (From \"Karataka Damanaka\")",
       "url": "https://open.spotify.com/track/2oKglRvhogf1ysdkprls5I"
@@ -19600,7 +19630,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 222964,
       "name": "Neenene E Jeeva (From \"Mandyahaida\")",
       "url": "https://open.spotify.com/track/1AFTJWCChubWjU76sL2Ckp"
@@ -20844,8 +20874,8 @@
           "url": "https://open.spotify.com/artist/072hm2tGA2geeswvhueVQe"
         },
         {
-          "name": "Judha Sandhy",
-          "url": "https://open.spotify.com/artist/6HXarhamexbnoSl3BTgCNb"
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
         }
       ],
       "date_added": "2024-06-19",

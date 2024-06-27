@@ -1,6 +1,6 @@
 {
   "description": "The greatest Alternative Rock songs through the decades. Cover: Weezer",
-  "num_followers": 736458,
+  "num_followers": 736679,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-06-26 02:12:36",
       "album": {
-        "name": "Make Yourself",
-        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
-    },
-    {
-      "added_at": "2024-06-26 02:12:36",
-      "album": {
         "name": "Urban Hymns (Remastered 2016)",
         "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony - Remastered 2016",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
+    },
+    {
+      "added_at": "2024-06-26 02:12:36",
+      "album": {
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
     },
     {
       "added_at": "2024-06-26 02:12:36",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-06-26 02:12:36",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2024-06-26 02:12:36",
-      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 213800,
       "name": "Are You Gonna Be My Girl",
       "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
+    },
+    {
+      "added_at": "2024-06-26 02:12:36",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2024-06-26 02:12:36",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2024-06-26 02:12:36",
       "album": {
-        "name": "Megalithic Symphony Deluxe",
-        "url": "https://open.spotify.com/album/6dMfMvS3hyk3ZCl4yljEDD"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 259102,
-      "name": "Sail",
-      "url": "https://open.spotify.com/track/5xhQChGGhKLWqBqX4XhtYE"
-    },
-    {
-      "added_at": "2024-06-26 02:12:36",
-      "album": {
         "name": "Tell All Your Friends (Re-Issue)",
         "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
       },
@@ -2555,6 +2539,22 @@
       "duration_ms": 211546,
       "name": "Cute Without the \"E\" (Cut From the Team)",
       "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
+    },
+    {
+      "added_at": "2024-06-26 02:12:36",
+      "album": {
+        "name": "Megalithic Symphony Deluxe",
+        "url": "https://open.spotify.com/album/6dMfMvS3hyk3ZCl4yljEDD"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 259102,
+      "name": "Sail",
+      "url": "https://open.spotify.com/track/5xhQChGGhKLWqBqX4XhtYE"
     },
     {
       "added_at": "2024-06-26 02:12:36",
@@ -2991,22 +2991,6 @@
     {
       "added_at": "2024-06-26 02:12:36",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/6Gv1zpuMsO4XfWSw22YQhP"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121306,
-      "name": "Song 2",
-      "url": "https://open.spotify.com/track/4F64QXRV1EGHSm5jIeMmcQ"
-    },
-    {
-      "added_at": "2024-06-26 02:12:36",
-      "album": {
         "name": "Bleed American (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV"
       },
@@ -3019,6 +3003,22 @@
       "duration_ms": 168253,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA"
+    },
+    {
+      "added_at": "2024-06-26 02:12:36",
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/6Gv1zpuMsO4XfWSw22YQhP"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121306,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/4F64QXRV1EGHSm5jIeMmcQ"
     },
     {
       "added_at": "2024-06-26 02:12:36",

@@ -3081,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "Dos Amantes Bailan Como Uno",
+        "url": "https://open.spotify.com/album/41f3LlLR9JqLdb9oD6NhYc"
+      },
+      "artists": [
+        {
+          "name": "Aurelia",
+          "url": "https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184412,
+      "name": "Dos Amantes Bailan Como Uno",
+      "url": "https://open.spotify.com/track/2AD7BOiPxQNwz4M3XagTQI"
+    },
+    {
+      "album": {
         "name": "Downhill",
         "url": "https://open.spotify.com/album/6cLUWw3Mmiw58EcRy1NSgX"
       },
@@ -9178,7 +9196,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 146839,
       "name": "Sail For Toumain",
       "url": "https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou"

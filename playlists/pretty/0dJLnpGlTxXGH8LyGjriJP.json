@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "AAADwAyE0oE1k2dSsUywWJvcB23BKn8q",
+  "snapshot_id": "AAADwwchLvFT1hUNKT3e0ph6qPOlKRgJ",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -14991,6 +14991,58 @@
       "duration_ms": 100291,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5jbDih9bLGmI8ycUKkN5XA"
+    },
+    {
+      "added_at": "2024-06-26 21:14:48",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "KRYPTONITE",
+      "url": "https://open.spotify.com/track/3kqc6Hv2nKJQxa4E9KARJq"
+    },
+    {
+      "added_at": "2024-06-26 21:18:54",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 126986,
+      "name": "TORE UP",
+      "url": "https://open.spotify.com/track/6oTZCn2Wp55AbjcmhkiOfk"
+    },
+    {
+      "added_at": "2024-06-26 21:34:56",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 116733,
+      "name": "DONNY DARKO (FEAT. LIL UZI VERT)",
+      "url": "https://open.spotify.com/track/4Uho2PKf7lBRYfRasw1J0n"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

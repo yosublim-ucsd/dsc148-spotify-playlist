@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Melly",
-  "num_followers": 168886,
+  "num_followers": 168909,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
-        "name": "Daqui pra Frente - Dread Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
-      },
-      "artists": [
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 181514,
-      "name": "Daqui pra Frente - Dread Session, Vol. 1",
-      "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
-    },
-    {
-      "added_at": "2024-06-21 16:58:46",
-      "album": {
         "name": "Sinal de Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
@@ -299,6 +279,26 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
+        "name": "Daqui pra Frente - Dread Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
+      },
+      "artists": [
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 181514,
+      "name": "Daqui pra Frente - Dread Session, Vol. 1",
+      "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
+    },
+    {
+      "added_at": "2024-06-21 16:58:46",
+      "album": {
         "name": "Por Isso Me Liga",
         "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
       },
@@ -315,6 +315,30 @@
       "duration_ms": 219168,
       "name": "Por Isso Me Liga",
       "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2024-06-21 16:58:46",
+      "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Tira minha paz",
+      "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
     },
     {
       "added_at": "2024-06-21 16:58:46",
@@ -355,30 +379,6 @@
       "duration_ms": 162711,
       "name": "SEM BARULHO",
       "url": "https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M"
-    },
-    {
-      "added_at": "2024-06-21 16:58:46",
-      "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Tira minha paz",
-      "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
     },
     {
       "added_at": "2024-06-21 16:58:46",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
-        "name": "N\u00e3o Vou Negar",
-        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        },
-        {
-          "name": "papi",
-          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
-        }
-      ],
-      "duration_ms": 163937,
-      "name": "N\u00e3o Vou Negar",
-      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
-    },
-    {
-      "added_at": "2024-06-21 16:58:46",
-      "album": {
         "name": "Liga\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 209389,
       "name": "Liga\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
+    },
+    {
+      "added_at": "2024-06-21 16:58:46",
+      "album": {
+        "name": "N\u00e3o Vou Negar",
+        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        },
+        {
+          "name": "papi",
+          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
+        }
+      ],
+      "duration_ms": 163937,
+      "name": "N\u00e3o Vou Negar",
+      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
     },
     {
       "added_at": "2024-06-21 16:58:46",
@@ -739,22 +739,18 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
-        "name": "1001 Roteiros",
-        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
+        "name": "\u00c9ramos",
+        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
       },
       "artists": [
         {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+          "name": "Jota SF",
+          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
         }
       ],
-      "duration_ms": 161024,
-      "name": "1001 Roteiros",
-      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
+      "duration_ms": 218890,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
     },
     {
       "added_at": "2024-06-21 16:58:46",
@@ -779,18 +775,22 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
-        "name": "\u00c9ramos",
-        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
+        "name": "1001 Roteiros",
+        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
       },
       "artists": [
         {
-          "name": "Jota SF",
-          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
         }
       ],
-      "duration_ms": 218890,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+      "duration_ms": 161024,
+      "name": "1001 Roteiros",
+      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
     },
     {
       "added_at": "2024-06-21 16:58:46",
@@ -887,18 +887,22 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+        "name": "Sozinho",
+        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
       },
       "artists": [
         {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+          "name": "T\u00e1llia",
+          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
+        },
+        {
+          "name": "Klismman",
+          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
         }
       ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
+      "duration_ms": 151475,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
     },
     {
       "added_at": "2024-06-21 16:58:46",
@@ -927,22 +931,18 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
-        "name": "Sozinho",
-        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
       },
       "artists": [
         {
-          "name": "T\u00e1llia",
-          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
-        },
-        {
-          "name": "Klismman",
-          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
         }
       ],
-      "duration_ms": 151475,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2024-06-21 16:58:46",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-06-21 16:58:46",
       "album": {
+        "name": "S\u00f3 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
+      },
+      "artists": [
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 141502,
+      "name": "S\u00f3 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
+    },
+    {
+      "added_at": "2024-06-21 16:58:46",
+      "album": {
         "name": "Voz De Um Querubim",
         "url": "https://open.spotify.com/album/3CwishKgndzmoz94L8Zb8A"
       },
@@ -1139,38 +1155,6 @@
       "duration_ms": 205479,
       "name": "Voz De Um Querubim",
       "url": "https://open.spotify.com/track/04RTQv2qPDXsbiacFy6DYQ"
-    },
-    {
-      "added_at": "2024-06-21 16:58:46",
-      "album": {
-        "name": "S\u00f3 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
-      },
-      "artists": [
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 141502,
-      "name": "S\u00f3 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
-    },
-    {
-      "added_at": "2024-06-21 16:58:46",
-      "album": {
-        "name": "VER\u00c3O",
-        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        }
-      ],
-      "duration_ms": 219487,
-      "name": "A MEIA NOITE",
-      "url": "https://open.spotify.com/track/0zohxkEGHHOEZSJddLIGjL"
     },
     {
       "added_at": "2024-06-21 16:58:46",
@@ -1199,6 +1183,22 @@
       "duration_ms": 171792,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/6GDEzb8YsJRBFGRt8Uu1ua"
+    },
+    {
+      "added_at": "2024-06-21 16:58:46",
+      "album": {
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "duration_ms": 219487,
+      "name": "A MEIA NOITE",
+      "url": "https://open.spotify.com/track/0zohxkEGHHOEZSJddLIGjL"
     },
     {
       "added_at": "2024-06-21 16:58:46",

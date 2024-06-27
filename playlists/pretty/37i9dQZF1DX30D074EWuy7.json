@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 29464,
+  "num_followers": 29477,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-06-24 15:11:09",
       "album": {
-        "name": "Musica Nuda - My Favorite Tunes",
-        "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
-      },
-      "artists": [
-        {
-          "name": "Musica Nuda",
-          "url": "https://open.spotify.com/artist/4SCNBobp8MbdOHco1VRiPc"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Bach Aire",
-      "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
-    },
-    {
-      "added_at": "2024-06-24 15:11:09",
-      "album": {
         "name": "Prati Bagnati Del Monte Analogo",
         "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 566966,
       "name": "Hula Om",
       "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
+    },
+    {
+      "added_at": "2024-06-24 15:11:09",
+      "album": {
+        "name": "Musica Nuda - My Favorite Tunes",
+        "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
+      },
+      "artists": [
+        {
+          "name": "Musica Nuda",
+          "url": "https://open.spotify.com/artist/4SCNBobp8MbdOHco1VRiPc"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "Bach Aire",
+      "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
     },
     {
       "added_at": "2024-06-24 15:11:09",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-06-24 15:11:09",
       "album": {
-        "name": "Scenario",
-        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
-      },
-      "artists": [
-        {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Kids are electric",
-      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
-    },
-    {
-      "added_at": "2024-06-24 15:11:09",
-      "album": {
         "name": "Chiara Civello 7752",
         "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 322333,
       "name": "Resta",
       "url": "https://open.spotify.com/track/3eq4ncW2xC74TteeoSZ7Ec"
+    },
+    {
+      "added_at": "2024-06-24 15:11:09",
+      "album": {
+        "name": "Scenario",
+        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Kids are electric",
+      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
     },
     {
       "added_at": "2024-06-24 15:11:09",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-06-24 15:11:09",
       "album": {
+        "name": "Ora beat!",
+        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
+      },
+      "artists": [
+        {
+          "name": "Stefano Torossi",
+          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
+        }
+      ],
+      "duration_ms": 125572,
+      "name": "Bighellonando",
+      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
+    },
+    {
+      "added_at": "2024-06-24 15:11:09",
+      "album": {
         "name": "L'AMANTE BUGIARDO",
         "url": "https://open.spotify.com/album/0RPLTYJMUU6fMKpwRKnzmv"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 256560,
       "name": "L'AMANTE BUGIARDO",
       "url": "https://open.spotify.com/track/5Ek1lMjwxJ24Bb1vBAbPqD"
-    },
-    {
-      "added_at": "2024-06-24 15:11:09",
-      "album": {
-        "name": "Ora beat!",
-        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
-      },
-      "artists": [
-        {
-          "name": "Stefano Torossi",
-          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
-        }
-      ],
-      "duration_ms": 125572,
-      "name": "Bighellonando",
-      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
     },
     {
       "added_at": "2024-06-24 15:11:09",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-06-24 15:11:09",
       "album": {
-        "name": "Jazz vs Corona Vol. 1",
-        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
-      },
-      "artists": [
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Luna di mezzogiorno",
-      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
-    },
-    {
-      "added_at": "2024-06-24 15:11:09",
-      "album": {
         "name": "Alchimia",
         "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 225875,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+    },
+    {
+      "added_at": "2024-06-24 15:11:09",
+      "album": {
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
+      },
+      "artists": [
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        }
+      ],
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
     },
     {
       "added_at": "2024-06-24 15:11:09",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-06-24 15:11:09",
       "album": {
+        "name": "Ma Gnossienne",
+        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 270513,
+      "name": "Ma Gnossienne",
+      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
+    },
+    {
+      "added_at": "2024-06-24 15:11:09",
+      "album": {
         "name": "Tempo al Tempo",
         "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 353310,
       "name": "Desertico",
       "url": "https://open.spotify.com/track/4EZKZM515HwNLevRgZmFd6"
-    },
-    {
-      "added_at": "2024-06-24 15:11:09",
-      "album": {
-        "name": "Ma Gnossienne",
-        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 270513,
-      "name": "Ma Gnossienne",
-      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2024-06-24 15:11:09",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-06-24 15:11:09",
       "album": {
-        "name": "Ampia",
-        "url": "https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw"
-      },
-      "artists": [
-        {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
-        }
-      ],
-      "duration_ms": 370080,
-      "name": "Traspare",
-      "url": "https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl"
-    },
-    {
-      "added_at": "2024-06-24 15:11:09",
-      "album": {
         "name": "Explorare",
         "url": "https://open.spotify.com/album/2bISlKj86NDaG7oV1HBxFB"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 227204,
       "name": "April In Parrish",
       "url": "https://open.spotify.com/track/1oTiRQQ0l7sNOJxNqDjFx0"
+    },
+    {
+      "added_at": "2024-06-24 15:11:09",
+      "album": {
+        "name": "Ampia",
+        "url": "https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw"
+      },
+      "artists": [
+        {
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+        }
+      ],
+      "duration_ms": 370080,
+      "name": "Traspare",
+      "url": "https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl"
     },
     {
       "added_at": "2024-06-24 15:11:09",
@@ -1859,18 +1859,26 @@
     {
       "added_at": "2024-06-24 15:11:09",
       "album": {
-        "name": "Integra",
-        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
+        "name": "Brasita",
+        "url": "https://open.spotify.com/album/5z78fFp4kacMx9EORj0Xat"
       },
       "artists": [
         {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+          "name": "Stefania Tallini",
+          "url": "https://open.spotify.com/artist/1pkxVMM5bTXroF9L37toYb"
+        },
+        {
+          "name": "Gabriel Grossi",
+          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
         }
       ],
-      "duration_ms": 254773,
-      "name": "Vibrare",
-      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
+      "duration_ms": 211093,
+      "name": "A veva",
+      "url": "https://open.spotify.com/track/5XnwJkqWV65YQq2VvCLkjD"
     },
     {
       "added_at": "2024-06-24 15:11:09",
@@ -1895,30 +1903,6 @@
       "duration_ms": 293866,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/4dloclI8tlsFDjUTTSYuXY"
-    },
-    {
-      "added_at": "2024-06-24 15:11:09",
-      "album": {
-        "name": "Brasita",
-        "url": "https://open.spotify.com/album/5z78fFp4kacMx9EORj0Xat"
-      },
-      "artists": [
-        {
-          "name": "Stefania Tallini",
-          "url": "https://open.spotify.com/artist/1pkxVMM5bTXroF9L37toYb"
-        },
-        {
-          "name": "Gabriel Grossi",
-          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
-        },
-        {
-          "name": "Jaques Morelenbaum",
-          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "A veva",
-      "url": "https://open.spotify.com/track/5XnwJkqWV65YQq2VvCLkjD"
     },
     {
       "added_at": "2024-06-24 15:11:09",
@@ -1983,6 +1967,34 @@
       "duration_ms": 325120,
       "name": "La Grandiosa (Main Theme)",
       "url": "https://open.spotify.com/track/5soxhq98p5qWHx3g7Iqyfn"
+    },
+    {
+      "added_at": "2024-06-24 15:11:09",
+      "album": {
+        "name": "Make It Pure",
+        "url": "https://open.spotify.com/album/6jYUbst4sqwUQAQ3xJt1cl"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Triglia",
+          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
+        },
+        {
+          "name": "Davide Savarese",
+          "url": "https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf"
+        },
+        {
+          "name": "Benjamin Ventura",
+          "url": "https://open.spotify.com/artist/311eLcQf3m45gs1sYUxKNc"
+        },
+        {
+          "name": "Francesco Fratini",
+          "url": "https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "That Place",
+      "url": "https://open.spotify.com/track/48FYBcHOQAvt0wFtmKDp7x"
     }
   ],
   "unique_name": "Jazz Italia",

@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Lancey Foux",
-  "num_followers": 176953,
+  "num_followers": 176970,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -63,42 +63,6 @@
     {
       "added_at": "2024-05-03 02:51:38",
       "album": {
-        "name": "All My Life (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 223878,
-      "name": "All My Life (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
-    },
-    {
-      "added_at": "2024-05-03 02:51:38",
-      "album": {
-        "name": "Gotta Get U",
-        "url": "https://open.spotify.com/album/6vVP6djBQD80GHolXulYXX"
-      },
-      "artists": [
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Gotta Get U",
-      "url": "https://open.spotify.com/track/3VsLdQ9MA9Tf316U50sN34"
-    },
-    {
-      "added_at": "2024-05-03 02:51:38",
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -119,6 +83,42 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+    },
+    {
+      "added_at": "2024-05-03 02:51:38",
+      "album": {
+        "name": "Gotta Get U",
+        "url": "https://open.spotify.com/album/6vVP6djBQD80GHolXulYXX"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Gotta Get U",
+      "url": "https://open.spotify.com/track/3VsLdQ9MA9Tf316U50sN34"
+    },
+    {
+      "added_at": "2024-05-03 02:51:38",
+      "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
     },
     {
       "added_at": "2024-05-03 02:51:38",

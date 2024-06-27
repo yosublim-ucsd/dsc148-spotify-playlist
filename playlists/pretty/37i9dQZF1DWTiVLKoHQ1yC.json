@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 183854,
+  "num_followers": 183935,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Famax",
-        "url": "https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI"
-      },
-      "artists": [
-        {
-          "name": "RAFFA GUIDO",
-          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
-        }
-      ],
-      "duration_ms": 335194,
-      "name": "Famax",
-      "url": "https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Lost In You EP",
         "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
       },
@@ -843,22 +827,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
+        "name": "Famax",
+        "url": "https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI"
       },
       "artists": [
         {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
+      "duration_ms": 335194,
+      "name": "Famax",
+      "url": "https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -879,6 +859,26 @@
       "duration_ms": 297374,
       "name": "Highest Love",
       "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        }
-      ],
-      "duration_ms": 224750,
-      "name": "Spaces",
-      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Fall Between The Cracks",
         "url": "https://open.spotify.com/album/6b0Q7jiXPpDpvWjGRs0nJV"
       },
@@ -1019,26 +1003,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 213507,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Crazy Love (ANUQRAM Remix)",
         "url": "https://open.spotify.com/album/5EkwcV1x0pkD5wWJNaNG7U"
       },
@@ -1059,6 +1023,42 @@
       "duration_ms": 256450,
       "name": "Crazy Love - ANUQRAM Remix",
       "url": "https://open.spotify.com/track/0rQscieJqmFbGM7uZpisXu"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 213507,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "duration_ms": 224750,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Incomplete Dreaming",
+        "url": "https://open.spotify.com/album/6QsZfxJ3RL8oUV32vlJ2n7"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 252062,
+      "name": "Incomplete Dreaming",
+      "url": "https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "In The Quiet",
         "url": "https://open.spotify.com/album/6AJzq43Wwf38iYJ9WnD2BH"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 150000,
       "name": "Paint My Tomorrow",
       "url": "https://open.spotify.com/track/7FI9lWbsdyv5BGnO8eBBgw"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Incomplete Dreaming",
-        "url": "https://open.spotify.com/album/6QsZfxJ3RL8oUV32vlJ2n7"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 252062,
-      "name": "Incomplete Dreaming",
-      "url": "https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn"
     },
     {
       "added_at": "2024-06-21 00:01:00",

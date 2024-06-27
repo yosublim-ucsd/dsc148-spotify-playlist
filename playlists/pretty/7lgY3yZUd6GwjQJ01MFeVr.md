@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain](/playlists/plain/7lgY3yZUd6GwjQJ01MFeVr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7lgY3yZUd6GwjQJ01MFeVr)
 
-### [Complete Country](https://open.spotify.com/playlist/7lgY3yZUd6GwjQJ01MFeVr)
+### [Top Country Hits \- Summer 2024 ](https://open.spotify.com/playlist/7lgY3yZUd6GwjQJ01MFeVr)
 
-> All your favourite Country songs in one place! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75\_EbuOhDg"> Zach Bryan</a>, The Castellows, Bailey Zimmerman, Warren Zeiders, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more
+> Today's top country music! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75\_EbuOhDg"> Zach Bryan</a>, Bailey Zimmerman, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,774 likes - 82 songs - 4 hr 32 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,772 likes - 82 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 81 | [Livin' Ain't Killed Me Yet](https://open.spotify.com/track/5LXfYCQQFJCasWN2DT5ajG) | [Naomi Cooke Johnson](https://open.spotify.com/artist/0TOpxMqjBLR53TUNKK29ML) | [Livin' Ain't Killed Me Yet](https://open.spotify.com/album/20avoS99wAkzfnxks3FmQH) | 2:40 |
 | 82 | [Cowboy Don’t](https://open.spotify.com/track/5qxXv3JWNTTliODO4LZ0V4) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cowboy Don’t](https://open.spotify.com/album/3mZSYPQPoNheFwNc5ize7q) | 2:42 |
 
-Snapshot ID: `AAAZ0zAIQ2T/Kme6hTmPDRdDgskQc7DL`
+Snapshot ID: `AAAZ1pv66f0oS3lJtyL6figciy3tW12G`

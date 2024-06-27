@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,145 likes - 243 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,224 likes - 243 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

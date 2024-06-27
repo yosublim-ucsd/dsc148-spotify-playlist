@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6080,
+  "num_followers": 6106,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "\u00c7A VA ALLER",
-        "url": "https://open.spotify.com/album/3lS3KwXeNATyc9d76zbGwF"
+        "name": "Dix mille matins",
+        "url": "https://open.spotify.com/album/4A6XlPUNis093jnOYZsTKh"
       },
       "artists": [
         {
-          "name": "NeS",
-          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
+          "name": "Daniel Boucher",
+          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
         }
       ],
-      "duration_ms": 173000,
-      "name": "LE SOURIRE D'UNE TOMBE",
-      "url": "https://open.spotify.com/track/4yIlzOPjaaEPsF3RyivxQD"
+      "duration_ms": 296026,
+      "name": "La d\u00e9sise",
+      "url": "https://open.spotify.com/track/5tolMesLH4lIK2dTrCHmXO"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -695,34 +695,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Dix mille matins",
-        "url": "https://open.spotify.com/album/4A6XlPUNis093jnOYZsTKh"
+        "name": "\u00c7A VA ALLER",
+        "url": "https://open.spotify.com/album/3lS3KwXeNATyc9d76zbGwF"
       },
       "artists": [
         {
-          "name": "Daniel Boucher",
-          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
+          "name": "NeS",
+          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
         }
       ],
-      "duration_ms": 296026,
-      "name": "La d\u00e9sise",
-      "url": "https://open.spotify.com/track/5tolMesLH4lIK2dTrCHmXO"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "medium plaisir",
-        "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
-      },
-      "artists": [
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 292960,
-      "name": "Ce n'est pas de la chance",
-      "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
+      "duration_ms": 173000,
+      "name": "LE SOURIRE D'UNE TOMBE",
+      "url": "https://open.spotify.com/track/4yIlzOPjaaEPsF3RyivxQD"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -739,6 +723,22 @@
       "duration_ms": 200360,
       "name": "Avant Elle",
       "url": "https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "medium plaisir",
+        "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "duration_ms": 292960,
+      "name": "Ce n'est pas de la chance",
+      "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Giscard d'Estaing",
-        "url": "https://open.spotify.com/album/1PBJ7DhNRCwh5yaOIGesJM"
-      },
-      "artists": [
-        {
-          "name": "Dombrance",
-          "url": "https://open.spotify.com/artist/6JlJzxo6tT5ft0LubhLd0S"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Giscard d'Estaing",
-      "url": "https://open.spotify.com/track/2alxvMSDA2U6qEmrEEINfe"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "monde autour",
         "url": "https://open.spotify.com/album/77Isp6SAhHX3vRplCtfKQv"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 264891,
       "name": "blood pareil",
       "url": "https://open.spotify.com/track/5gZY6ZOPf2C70N7DBAH91O"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Giscard d'Estaing",
+        "url": "https://open.spotify.com/album/1PBJ7DhNRCwh5yaOIGesJM"
+      },
+      "artists": [
+        {
+          "name": "Dombrance",
+          "url": "https://open.spotify.com/artist/6JlJzxo6tT5ft0LubhLd0S"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Giscard d'Estaing",
+      "url": "https://open.spotify.com/track/2alxvMSDA2U6qEmrEEINfe"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Les cent prochaines ann\u00e9es",
-        "url": "https://open.spotify.com/album/5JBSwebRBEegZYRIN2CW0b"
-      },
-      "artists": [
-        {
-          "name": "Albin de la Simone",
-          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Les cent prochaines ann\u00e9es",
-      "url": "https://open.spotify.com/track/0nzQAppzk0Xe8lTVCrBuky"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Etienne Dufresne fait des efforts",
         "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 226666,
       "name": "J'fais des efforts",
       "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Les cent prochaines ann\u00e9es",
+        "url": "https://open.spotify.com/album/5JBSwebRBEegZYRIN2CW0b"
+      },
+      "artists": [
+        {
+          "name": "Albin de la Simone",
+          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Les cent prochaines ann\u00e9es",
+      "url": "https://open.spotify.com/track/0nzQAppzk0Xe8lTVCrBuky"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "O\u00d9 EST PASS\u00c9 ZEUDOG ?",
-        "url": "https://open.spotify.com/album/461A8bwUFWhREU9mvKL6tB"
-      },
-      "artists": [
-        {
-          "name": "sean",
-          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "J'AI FAILLI",
-      "url": "https://open.spotify.com/track/3uk9jCGQmtVlkZoLTkuA0A"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Traits d'union",
         "url": "https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 245250,
       "name": "Trait d'union",
       "url": "https://open.spotify.com/track/4D5JucdHfnZmiPPKrX0aj1"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "O\u00d9 EST PASS\u00c9 ZEUDOG ?",
+        "url": "https://open.spotify.com/album/461A8bwUFWhREU9mvKL6tB"
+      },
+      "artists": [
+        {
+          "name": "sean",
+          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "J'AI FAILLI",
+      "url": "https://open.spotify.com/track/3uk9jCGQmtVlkZoLTkuA0A"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "En roulant vers Perc\u00e9",
-        "url": "https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L"
-      },
-      "artists": [
-        {
-          "name": "Daniel Boucher",
-          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
-        }
-      ],
-      "duration_ms": 243236,
-      "name": "En roulant vers Perc\u00e9",
-      "url": "https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Feux de joie",
         "url": "https://open.spotify.com/album/69un5QeWz6xSBF7dc7cROC"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 209570,
       "name": "Elle vit dans les bois",
       "url": "https://open.spotify.com/track/0VBzJIYJey6MvcNH8Set2U"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "En roulant vers Perc\u00e9",
+        "url": "https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L"
+      },
+      "artists": [
+        {
+          "name": "Daniel Boucher",
+          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
+        }
+      ],
+      "duration_ms": 243236,
+      "name": "En roulant vers Perc\u00e9",
+      "url": "https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Monstre",
-        "url": "https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0"
-      },
-      "artists": [
-        {
-          "name": "Douance",
-          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
-        }
-      ],
-      "duration_ms": 184036,
-      "name": "Bisous",
-      "url": "https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Revoir le monde",
         "url": "https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk"
       },
@@ -1827,18 +1811,34 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Pour l'amour du geste II",
-        "url": "https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E"
+        "name": "Monstre",
+        "url": "https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0"
       },
       "artists": [
         {
-          "name": "20Some",
-          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+          "name": "Douance",
+          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
         }
       ],
-      "duration_ms": 126179,
-      "name": "Pour l'amour du geste II",
-      "url": "https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt"
+      "duration_ms": 184036,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "R.B.",
+        "url": "https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU"
+      },
+      "artists": [
+        {
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+        }
+      ],
+      "duration_ms": 289959,
+      "name": "R.B.",
+      "url": "https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "R.B.",
-        "url": "https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU"
+        "name": "Pour l'amour du geste II",
+        "url": "https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E"
       },
       "artists": [
         {
-          "name": "Population II",
-          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
         }
       ],
-      "duration_ms": 289959,
-      "name": "R.B.",
-      "url": "https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5"
+      "duration_ms": 126179,
+      "name": "Pour l'amour du geste II",
+      "url": "https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt"
     },
     {
       "added_at": "2024-06-19 20:38:05",

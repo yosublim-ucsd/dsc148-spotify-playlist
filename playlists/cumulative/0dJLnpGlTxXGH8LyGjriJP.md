@@ -4,7 +4,7 @@
 
 > 
 
-792 songs - 1 day 16 hr 30 min
+795 songs - 1 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Don't Trip \(feat\. Dougie B & Chii Wvttz\)](https://open.spotify.com/track/5i03FQcE4W0iCBLruXW1X5) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [Chii Wvttz](https://open.spotify.com/artist/2lFUx3ImC4kgfMhq2mcCmu) | [The D.O.A\. Tape \(Care Package\)](https://open.spotify.com/album/6fKx0UeCduyu1piUvBZJqg) | 2:03 | 2022-12-09 |  |
 | [Don't Understand](https://open.spotify.com/track/3EIbdiL6F9nbU45CpHkUlv) | [Young DrA](https://open.spotify.com/artist/6qEaAtHR0qBv6BEH7ZIup6), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Don't Understand](https://open.spotify.com/album/4eL7n9x8BPVhpSZkeBRE0Q) | 3:03 | 2023-01-07 |  |
 | [DON'T YOU LIE](https://open.spotify.com/track/0MSTxF501TyzjuRTHZz46g) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:11 | 2023-10-14 |  |
+| [DONNY DARKO \(FEAT\. LIL UZI VERT\)](https://open.spotify.com/track/4Uho2PKf7lBRYfRasw1J0n) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 1:56 | 2024-06-26 |  |
 | [don’t i \(feat\. Gunna\)](https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:33 | 2022-12-23 |  |
 | [Don’t Play \(with Lil Baby\)](https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:36 | 2022-11-06 |  |
 | [Double Down](https://open.spotify.com/track/25BIuLc3xxqGyg2kAAiFZ6) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 3:22 | 2022-10-14 |  |
@@ -373,6 +374,7 @@
 | [KNIGHT CRAWLER \(feat\. Juice WRLD\)](https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:57 | 2023-01-20 |  |
 | [Know The Difference \(feat\. Lil Baby\)](https://open.spotify.com/track/7jMjA7MmHeKcDH4MnSp5YF) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Rich Off Pints 3](https://open.spotify.com/album/71AUiEqMJuQFGUzFmYYACn) | 2:51 | 2023-10-27 |  |
 | [KOD](https://open.spotify.com/track/7yotKA30dwTKNEGomV9ZsI) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:11 | 2023-05-31 |  |
+| [KRYPTONITE](https://open.spotify.com/track/3kqc6Hv2nKJQxa4E9KARJq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 3:02 | 2024-06-26 |  |
 | [KRZY TRAIN \(feat\. Travis Scott\)](https://open.spotify.com/track/6SroqZFR8fPAcvhteW5y9W) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:54 | 2023-01-20 |  |
 | [Kung Fu](https://open.spotify.com/track/1eEYbTvRWPEozV0ttNO0NC) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Kung Fu](https://open.spotify.com/album/2EIrVowJlZncpA9aKjohb9) | 3:19 | 2022-12-23 |  |
 | [LABELS CALLIN'](https://open.spotify.com/track/19s7W71y7IZDAn6X2mnCqr) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [DLOG](https://open.spotify.com/album/4tnNsvUsbJAoI9FESgvkOJ) | 2:38 | 2022-11-20 |  |
@@ -736,6 +738,7 @@
 | [Top Off](https://open.spotify.com/track/0HCnj7pfrvshnocOJUFeit) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:17 | 2023-01-07 |  |
 | [TOP RAMEN](https://open.spotify.com/track/4PXqTastDY8zNGwYsGlsbd) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:10 | 2023-04-21 |  |
 | [TOPIA TWINS \(feat\. Rob49 & 21 Savage\)](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-07-28 |  |
+| [TORE UP](https://open.spotify.com/track/6oTZCn2Wp55AbjcmhkiOfk) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 2:06 | 2024-06-26 |  |
 | [trademark usa](https://open.spotify.com/track/6G9aDedv5hYaTgNYDuduqk) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:30 | 2022-09-12 |  |
 | [Trains \(with Lil Keed\)](https://open.spotify.com/track/0za3xlvxHtNHgn8XZd3ZjC) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:51 | 2022-12-02 |  |
 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/7Ap7Fpqnh2BUQBQxbLEC9I) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:14 | 2022-12-02 |  |

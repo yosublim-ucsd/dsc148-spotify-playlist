@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAADjCSzwOW23GDwt9YZCUpkq",
+  "snapshot_id": "ZnoIgAAAAADKCLMzYYAcVZe7+TLnPKak",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 209693,
-      "name": "Swinging Heart",
-      "url": "https://open.spotify.com/track/0yAegrVbCDH2i3VVKzwpqu"
+      "duration_ms": 259000,
+      "name": "\u541b\u306e\u82b1\u3092\u7948\u308d\u3046",
+      "url": "https://open.spotify.com/track/0ME3fGpjFjsZ1avHbZ2Lin"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 195080,
-      "name": "Drawing a Wish",
-      "url": "https://open.spotify.com/track/70dkA9hhBrGKVIY8pKBqDB"
+      "duration_ms": 209693,
+      "name": "Swinging Heart",
+      "url": "https://open.spotify.com/track/0yAegrVbCDH2i3VVKzwpqu"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 259000,
-      "name": "\u541b\u306e\u82b1\u3092\u7948\u308d\u3046",
-      "url": "https://open.spotify.com/track/0ME3fGpjFjsZ1avHbZ2Lin"
+      "duration_ms": 195080,
+      "name": "Drawing a Wish",
+      "url": "https://open.spotify.com/track/70dkA9hhBrGKVIY8pKBqDB"
     },
     {
       "added_at": null,
@@ -516,6 +516,22 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
+      "duration_ms": 206253,
+      "name": "Swinging Heart Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u9b3c\u982d\u660e\u91cc 1st LIVE TOUR\u300cColorful Closet\u300dStream Selection",
+        "url": "https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
       "duration_ms": 238746,
       "name": "Desire Again Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
       "url": "https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X"
@@ -532,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 206253,
-      "name": "Swinging Heart Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-      "url": "https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL"
+      "duration_ms": 92120,
+      "name": "OPENING Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/7lGqrHJq4niQ5F2GLqNYlE"
     }
   ],
   "unique_name": "This Is Akari Kito",

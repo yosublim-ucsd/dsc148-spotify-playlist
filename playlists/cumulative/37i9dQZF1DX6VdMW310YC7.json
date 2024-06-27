@@ -5931,6 +5931,24 @@
     },
     {
       "album": {
+        "name": "Dark In This Room",
+        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Dark In This Room",
+      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
+    },
+    {
+      "album": {
         "name": "Dawn EP",
         "url": "https://open.spotify.com/album/6r12F8ZnMQxGdUVBWoBjqM"
       },
@@ -10816,7 +10834,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 269249,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
@@ -22974,7 +22992,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 231784,
       "name": "Portals",
       "url": "https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol"
@@ -25038,7 +25056,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 271519,
       "name": "See You In Dreams",
       "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"

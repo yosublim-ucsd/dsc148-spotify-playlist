@@ -5847,6 +5847,24 @@
     },
     {
       "album": {
+        "name": "Who is Nardo Wick?",
+        "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "Wicked Freestyle",
+      "url": "https://open.spotify.com/track/4xl69qYIDxUIACXSeRkXOY"
+    },
+    {
+      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne"
       },

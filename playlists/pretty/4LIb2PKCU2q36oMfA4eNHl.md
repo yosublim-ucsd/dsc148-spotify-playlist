@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,146 likes - 43 songs - 2 hr 50 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,143 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 7 | [Kyoto \(京都\)](https://open.spotify.com/track/6ScA5iBXkvbu5i8grkh7rO) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 4:15 |
 | 8 | [Love In Our Hands](https://open.spotify.com/track/54X03H0dMvwn2FlWWsj3nM) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love In Our Hands](https://open.spotify.com/album/4XSVK3udgsRyaOeBLBUXEv) | 3:48 |
 | 9 | [Closer To You](https://open.spotify.com/track/2CdyYYqIUW6mhIFQK8r9Hs) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Closer To You](https://open.spotify.com/album/3eTNzXkrhDwgL8IPDOa1Ax) | 3:12 |
-| 10 | [Smiling Through The Pain](https://open.spotify.com/track/2yE235IuLnmcYj9kj2TJSI) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 1:37 |
-| 11 | [IZUMO](https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:41 |
+| 10 | [IZUMO](https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:41 |
+| 11 | [Smiling Through The Pain](https://open.spotify.com/track/2yE235IuLnmcYj9kj2TJSI) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 1:37 |
 | 12 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 |
 | 13 | [Autumn Leaves](https://open.spotify.com/track/1IMhurwZ1TdBQyXi9xz2H2) | [Stegonaute](https://open.spotify.com/artist/4ILyRrOiTzhF9hPDzYWcXs) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 2:34 |
 | 14 | [Anywhere \(Road Trippin'\) \- Unplugged](https://open.spotify.com/track/3Q6Cvq1CCuReYxcjz2M5yi) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Beautiful World Field Notes: Unplugged](https://open.spotify.com/album/5W85KtB6tOmqxVJEUD8z8M) | 3:52 |
@@ -48,8 +48,5 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 38 | [closer](https://open.spotify.com/track/1zSPYn6baJA7zuYj2EZ99y) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [closer](https://open.spotify.com/album/3Wf2gPi59LCtE5yBfSAEae) | 6:08 |
 | 39 | [Gilderoy](https://open.spotify.com/track/1GxlJW1YnjSH81pIBvMvJv) | [sue:ann](https://open.spotify.com/artist/17MfXLE9Kn31utpo96GXFY) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 4:00 |
 | 40 | [Don't Say](https://open.spotify.com/track/19GrUQikezttWTKWGzoEik) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Don't Say](https://open.spotify.com/album/1UuJiJZNQCfQrarRvAqBe9) | 4:26 |
-| 41 | [Just Like Heaven](https://open.spotify.com/track/03lqvDgdBKvrq3mGztwU93) | [Vincenzo](https://open.spotify.com/artist/7FR8ZynvReyPlYfi4LnKyI), [Minako](https://open.spotify.com/artist/5XmQ2g7xxwA3I0o6LWXM2N) | [The Vanishing Years](https://open.spotify.com/album/3lnxGIRMSj6NKB16ijwbOH) | 4:55 |
-| 42 | [Vanishing Point](https://open.spotify.com/track/3QFamijo1AyZ7eb1cnNNaC) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [XY/YX](https://open.spotify.com/album/4wtyeAs2RqBfHyfc9hm5F2) | 4:00 |
-| 43 | [Walking Slowly](https://open.spotify.com/track/59ALSzlla8jAzqD5Dhozoo) | [Maty Owl](https://open.spotify.com/artist/1CoaTV8EqidFgYH8CDsfAu) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 4:31 |
 
-Snapshot ID: `AAAKIhYutD8CsW6aiDwOE4vBHZg3tB5k`
+Snapshot ID: `AAAKJLiXO4SKE52pOMr4DYwYDACP+WGP`

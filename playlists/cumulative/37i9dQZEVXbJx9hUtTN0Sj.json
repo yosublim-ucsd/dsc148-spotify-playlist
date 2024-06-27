@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 240875,
       "name": "Fratelli d'Italia (Inno Di Mameli)",
       "url": "https://open.spotify.com/track/7gsiOPWCTsTErEZ2yazTwp"
@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 142265,
       "name": "Guess",
       "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
@@ -4428,7 +4428,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 177600,
       "name": "Ik Reis Door De Nacht",
       "url": "https://open.spotify.com/track/3wup0jGZHoOVb24syu2hVr"
@@ -4887,6 +4887,36 @@
     },
     {
       "album": {
+        "name": "JUNGE BALLER",
+        "url": "https://open.spotify.com/album/573YDpCq1I93aebAWluexj"
+      },
+      "artists": [
+        {
+          "name": "6PM RECORDS",
+          "url": "https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        },
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130660,
+      "name": "JUNGE BALLER",
+      "url": "https://open.spotify.com/track/29vCE5UzdE8dzcJWbG2CsK"
+    },
+    {
+      "album": {
         "name": "JVQTSM",
         "url": "https://open.spotify.com/album/7KzCTw13UpdcbSSLfRXUBB"
       },
@@ -4978,6 +5008,24 @@
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
+    },
+    {
+      "album": {
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
     },
     {
       "album": {
@@ -5544,7 +5592,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 149866,
       "name": "Liesje Leerde Lotje Lopen",
       "url": "https://open.spotify.com/track/25T2F6whIIceQeYfj7becR"
@@ -5987,6 +6035,24 @@
     },
     {
       "album": {
+        "name": "Valedictorian [Deluxe]",
+        "url": "https://open.spotify.com/album/0lmXfHj3QJAZBpoY9jdEbV"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137158,
+      "name": "Magic Johnson",
+      "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn"
+    },
+    {
+      "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
@@ -6212,7 +6278,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 211525,
       "name": "Midnight Ride",
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
@@ -10712,6 +10778,32 @@
       "duration_ms": 190750,
       "name": "Who Do I Call Now? (Hellbent)",
       "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"
+    },
+    {
+      "album": {
+        "name": "daf\u00fcr bin ich frei EP",
+        "url": "https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131773,
+      "name": "wie du manchmal fehlst",
+      "url": "https://open.spotify.com/track/0Mvc2FRCYnVjMTd4jx4DMq"
     },
     {
       "album": {

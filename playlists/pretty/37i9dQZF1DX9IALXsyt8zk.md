@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: RIIZE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,724 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,857 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [Pasadena](https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Pasadena](https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG) | 2:43 |
 | 50 | [Hey Boy !](https://open.spotify.com/track/5acMkZJUeNP9NVyvaZEoQ0) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Hey Boy !](https://open.spotify.com/album/3et0pb0CVdufpFGSwzTDf4) | 3:21 |
 
-Snapshot ID: `ZnAMeAAAAACxnM8EyCla2DItyw98zXg+`
+Snapshot ID: `ZnvfHgAAAACsXtBNCEUKzJqF9b5DdV2S`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,056,402 likes - 100 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,056,688 likes - 100 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 67 | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm) | 5:28 |
 | 68 | [Maravilhado \- Ao Vivo](https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Maravilhado \(Ao Vivo\)](https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam) | 7:34 |
 | 69 | [Todos Os Meus Dias \- Ao Vivo](https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Gabriel Guedes \(Ao Vivo\)](https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs) | 3:24 |
-| 70 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 |
-| 71 | [Você Não Imagina](https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Você Não Imagina](https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu) | 5:18 |
+| 70 | [Você Não Imagina](https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Você Não Imagina](https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu) | 5:18 |
+| 71 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 |
 | 72 | [Gratidão \(Gratitude\) \- Ao Vivo](https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Gratidão \(Gratitude\) \[Ao Vivo\]](https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm) | 7:00 |
 | 73 | [Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH) | 6:26 |
 | 74 | [Para Ti Eu Vou \- Ao Vivo](https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Gabriela Maganete](https://open.spotify.com/artist/0rFSAnwgnOHH3uq73fYoSb), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Para Ti Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo) | 10:01 |

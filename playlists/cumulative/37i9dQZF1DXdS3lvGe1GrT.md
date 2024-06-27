@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Leonie Biney
 
-1,272 songs - 3 day 4 hr 6 min
+1,279 songs - 3 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,6 +665,7 @@
 | [Kindergarten Heart](https://open.spotify.com/track/4sfkyrxPn0YOCohtvBRPJo) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Kindergarten Heart](https://open.spotify.com/album/3H7nFcNvSTRr5e1hOU3neJ) | 2:57 | 2024-02-28 | 2024-05-02 |
 | [Kitchen Disco Queen](https://open.spotify.com/track/2W0p4N8g6iqyU8uSarxroZ) | [Billy Sharp](https://open.spotify.com/artist/3Bs4lfvN2mcnu3yhtBlGt5) | [Kitchen Disco Queen](https://open.spotify.com/album/3BIX57DV8rx4t7PvZblsSc) | 3:15 | 2024-06-19 |  |
 | [knees \(demo\)](https://open.spotify.com/track/4qGKYUIKNigV4NV84vfmVs) | [carego](https://open.spotify.com/artist/3kAQ9u4vBl2uVXWtUW41FR) | [knees \(demo\)](https://open.spotify.com/album/6bmQ5atYMKtF7I9lUdaeE6) | 2:56 | 2023-01-11 | 2023-03-02 |
+| [Know Why Now](https://open.spotify.com/track/3ZiuuFrCE2BY22zcoM5YOd) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [Know Why Now](https://open.spotify.com/album/3vUkdZOqbChrsLxhKvqc8V) | 3:26 | 2024-06-26 |  |
 | [Lackin' Magic](https://open.spotify.com/track/6Jlg2aE1q0kyIKmVulcVFm) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Horny Desert Folk](https://open.spotify.com/album/3fhXqKcoZN4KO3NggRP2mO) | 3:34 | 2023-02-22 | 2023-03-30 |
 | [Lady Apple Tree](https://open.spotify.com/track/0VnXFgtBCax5a1SL17ss48) | [Lady Apple Tree](https://open.spotify.com/artist/3AZOpYsQ1QPmgaVF2TCVrd) | [Lady Apple Tree](https://open.spotify.com/album/4FXJBex4EbiCdTY2XJS3qo) | 4:00 | 2023-07-26 | 2023-09-28 |
 | [Lady Kisses](https://open.spotify.com/track/56pooaog8QbBvLsDJBjJVj) | [Lydia von Hof](https://open.spotify.com/artist/5ftWyvUrcDmg9JHHlEaR8e) | [Lady Kisses](https://open.spotify.com/album/2ra5DZgpnSIVcNJJXg24oZ) | 4:01 | 2022-05-25 | 2022-08-11 |
@@ -745,6 +746,7 @@
 | [mama](https://open.spotify.com/track/3JT1HTp2jSF9EbFYoXya68) | [BODE](https://open.spotify.com/artist/6Y5yfIGFf8KBsa4amo2gvj) | [mama](https://open.spotify.com/album/4aYDVap5RkEGK38GTLNeWU) | 3:50 | 2022-05-25 | 2022-08-11 |
 | [Mama](https://open.spotify.com/track/3rP3035mM8fkdDQzIrzeZP) | [Sammy Brue](https://open.spotify.com/artist/07UNjwKXGW68cGvs4ifQlk) | [Mama](https://open.spotify.com/album/1BH4Hke6l5OiR11yLM6yBg) | 2:45 | 2024-01-10 | 2024-02-15 |
 | [Many Moons](https://open.spotify.com/track/0odsUykrr3MbtIDdxxJBnn) | [Victor Mucho](https://open.spotify.com/artist/6uV2cOu6PbLzYNQyxPo9iu) | [Moonlight in Visby](https://open.spotify.com/album/0vonzQ2JLELebfzlmI18RX) | 4:45 | 2022-05-25 | 2022-09-09 |
+| [Maple](https://open.spotify.com/track/1iMB2Y2rOqw47evr1Z33sX) | [ZOLA](https://open.spotify.com/artist/1J4ofBDurgOATlfzzyniZp) | [Maple](https://open.spotify.com/album/6ql9dCaLeFoPlWKx2QUUS6) | 2:21 | 2024-06-26 |  |
 | [Margot](https://open.spotify.com/track/3xczo2EtOsuwIXsEkNpVew) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Margot](https://open.spotify.com/album/04y6tMPVcteO2xVTnfYwUw) | 4:06 | 2024-06-19 |  |
 | [Maria](https://open.spotify.com/track/0c8yjevkeywoScoAcURgU7) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Greg Mendez](https://open.spotify.com/album/2jbgzfwZf1821YjhhSPrik) | 1:58 | 2023-06-28 | 2023-09-15 |
 | [Marigold](https://open.spotify.com/track/49QMP3y2FevldP5fCfpMbm) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [Marigold](https://open.spotify.com/album/4ZN2IkjJ8oHh2ECj3Tp7ZU) | 3:58 | 2023-01-11 | 2023-03-02 |
@@ -767,6 +769,7 @@
 | [Megachurch](https://open.spotify.com/track/5tXkuObswa1uxjKoQaZhHf) | [Razor Braids](https://open.spotify.com/artist/0MjyFpYWU1nBFKYoZ4UpvT) | [Megachurch](https://open.spotify.com/album/1LnMJUIle8lLZiHHBZpy8U) | 4:12 | 2022-06-15 | 2022-09-29 |
 | [Melatonin](https://open.spotify.com/track/5k9aMP8DDSWUVBRgxMb4Er) | [Easton Kerr](https://open.spotify.com/artist/0v2X9cJOfcotMsok5yRW48), [Bridey Costello](https://open.spotify.com/artist/3tvlb1aIjr47jXRsA4i7GU) | [Melatonin](https://open.spotify.com/album/5sDzsapWKCGd1Rcd2hlM96) | 4:15 | 2022-10-26 | 2022-12-01 |
 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 | 2022-11-09 | 2022-12-01 |
+| [Mexico](https://open.spotify.com/track/7q68vzFRLwyWde8xKCDhJd) | [Callan Brown](https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu) | [Mexico](https://open.spotify.com/album/3NDzbsul6n6TAEBNDLqbVL) | 3:06 | 2024-06-26 |  |
 | [Mhm Okay](https://open.spotify.com/track/7x94AlpzNuSa8oBUp96Cn8) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [Mhm Okay](https://open.spotify.com/album/2UBcowpWLqB3KubRglWjBL) | 4:33 | 2023-05-10 | 2023-06-29 |
 | [Michelle](https://open.spotify.com/track/5JLxLpp0XM5UxI7Aq2ApRD) | [Tish Melton](https://open.spotify.com/artist/4r0G11Ag5P3qXSaIlskMvW) | [Michelle](https://open.spotify.com/album/6NXppwCGLyFSRHvxRzlEIo) | 3:45 | 2023-11-08 | 2023-12-11 |
 | [Middle of a Heart](https://open.spotify.com/track/1bNPHWCDOGQMrzKHja2927) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [Middle of a Heart](https://open.spotify.com/album/5vzJc5UkAhd1GZvJpM0ODL) | 4:00 | 2022-10-19 | 2022-12-01 |
@@ -782,6 +785,7 @@
 | [Monogamy](https://open.spotify.com/track/06FbMlhYsa4b97N1LUgAm8) | [Taylah Carroll](https://open.spotify.com/artist/5rrjNgalPfM94jRqm5RpFk) | [Monogamy](https://open.spotify.com/album/7hyiz1gYHPxc6WtJbJXcKl) | 3:25 | 2023-07-19 | 2023-09-21 |
 | [Montana](https://open.spotify.com/track/4DOxDsuZ6W8PdyRvd4ToDJ) | [Mikey Ferrari](https://open.spotify.com/artist/6WqxuOkQXo8zDZl0InT5R7) | [Montana](https://open.spotify.com/album/6Bex7UEG8UmFreaCtb66i9) | 3:24 | 2022-11-23 | 2022-12-01 |
 | [More Easily](https://open.spotify.com/track/4TJu2i1NcYxTgO0fFSk1Xf) | [Makushin](https://open.spotify.com/artist/7aYflwlSz6eBm0teArvEgl), [Andrew Wasylyk](https://open.spotify.com/artist/6eWBxi3noFhe59k8qdPbzG), [David A Jaycock](https://open.spotify.com/artist/3SMHagl0r9hdZ6fmiXnlM6) | [Move into the Luminous](https://open.spotify.com/album/5sML4aezLsPEnVJe4ObNxm) | 4:41 | 2024-05-24 |  |
+| [More Failure](https://open.spotify.com/track/6yMUfqtUBqfkX3wpUzmQ5T) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [More Failure](https://open.spotify.com/album/6XGQh9tk3AmOAg1ztdLB6t) | 1:57 | 2024-06-26 |  |
 | [Morning](https://open.spotify.com/track/0xQISVRlAtWi1xnDKzfyBt) | [Jackson Wooten](https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz) | [From a Warm Valley](https://open.spotify.com/album/5eEU9cEbcVeR3ltneidPD3) | 4:13 | 2022-11-09 | 2022-12-01 |
 | [Morningbird](https://open.spotify.com/track/54jsQ2oan9bmyaiDPVjbtv) | [Ten Minute Detour](https://open.spotify.com/artist/2xt2sGmcA036zAGPaHmk8n) | [Morningbird](https://open.spotify.com/album/6SYxAeeKJrcFb065q3q45b) | 4:10 | 2022-05-25 | 2022-06-30 |
 | [Moroccan Oranges](https://open.spotify.com/track/5RxC3UrqhQ1B3ld7jiOKbF) | [Olive Louise](https://open.spotify.com/artist/1C7e3ACfR3ifL7GysVhAwe) | [275 Kings Point Road](https://open.spotify.com/album/0ebiLM1jDVBD6rFMQTtsyX) | 3:03 | 2023-05-03 | 2023-06-15 |
@@ -883,6 +887,7 @@
 | [Over My Head](https://open.spotify.com/track/09drCTMXn1mMBEemI6AJeL) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Over My Head](https://open.spotify.com/album/1xZRvm07pp4SBxFUUitaqj) | 3:32 | 2023-06-21 | 2023-08-24 |
 | [owlz](https://open.spotify.com/track/1QhV1fB6S4dZq8YYlJEMIM) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Diagonal](https://open.spotify.com/album/6uY20cDnA4MsRjrAFtDYfb) | 3:15 | 2023-01-11 | 2024-01-11 |
 | [Paper \- Radio Edit](https://open.spotify.com/track/5czpVZPVy2xQaDwNM8INEt) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [Paper \(Radio Edit\)](https://open.spotify.com/album/2fdef6vdtwVALzYrVf3U5C) | 3:53 | 2022-06-15 | 2022-09-22 |
+| [paper doll](https://open.spotify.com/track/5O5kgNI28lR2j9E01RUe6W) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [i tried to freeze light, but only remember a girl](https://open.spotify.com/album/2jIrhbF1cKeEPsxs2TWcqx) | 2:41 | 2024-06-26 |  |
 | [Paper Flower \- Edit](https://open.spotify.com/track/0NtSNdj3qri5rpU9qeMP1t) | [Beauty Queen](https://open.spotify.com/artist/2ddlG5nlorHHTqIt5ag8Ep) | [Paper Flower](https://open.spotify.com/album/5FhCuEvGIDiuGb6aIDJVNj) | 4:09 | 2023-03-08 | 2023-04-13 |
 | [Paradise](https://open.spotify.com/track/1OaXnJXD96unuKh3U1JqEy) | [Thomas LaVine](https://open.spotify.com/artist/2T7YLT9nMnXlnW0UjJBN70) | [Paradise](https://open.spotify.com/album/1CWKRzwZUI9bP1zXocv6wQ) | 3:27 | 2023-09-13 | 2023-11-11 |
 | [Paris](https://open.spotify.com/track/4KxQWXimKCGVTatrSwmrYw) | [Evie](https://open.spotify.com/artist/1kOS484jvPsfcdWNpKEGG9) | [Paris](https://open.spotify.com/album/6IxEWhtC68ce07yxKnwydM) | 3:46 | 2024-04-10 | 2024-06-13 |
@@ -990,6 +995,7 @@
 | [Shove](https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Shove](https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb) | 2:39 | 2023-09-20 | 2024-01-11 |
 | [Show You \(Truck Song\)](https://open.spotify.com/track/5fPo8kJRHPUoa9JD1WWqwT) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Show You \(Truck Song\)](https://open.spotify.com/album/2xVVvxrck67p3TY2Vu5sqW) | 3:11 | 2024-04-17 |  |
 | [Shower Song](https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Shower Song](https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke) | 2:47 | 2022-10-26 | 2022-12-01 |
+| [Sick of Myself](https://open.spotify.com/track/1dlKXi0vyIStC1g5M8L5nE) | [Trace Mountains](https://open.spotify.com/artist/7sLtFQOS2kTEnMPTFLFU1t) | [Sick of Myself](https://open.spotify.com/album/0w5NhosID0EK5kiBKHhABM) | 4:07 | 2024-06-26 |  |
 | [Sidelines](https://open.spotify.com/track/2sxWTcS4AhbOSfXzc4FvdR) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Sidelines](https://open.spotify.com/album/5pi3oHEnvi38KFdgDqr2Ie) | 2:50 | 2023-11-08 | 2023-12-11 |
 | [Silver](https://open.spotify.com/track/2SyHbnQlrFyIdDGFeyPEQe) | [Nathaniel Russell](https://open.spotify.com/artist/1e0cgBOcw5bPx0ScuTTns2) | [Silver](https://open.spotify.com/album/694zQ5EqZdgzqmzxsjPN0l) | 2:20 | 2024-04-10 | 2024-06-20 |
 | [Silver Wings](https://open.spotify.com/track/70YGCrjXwxX0nvSHJVZ16f) | [Harp](https://open.spotify.com/artist/3y80fftQVDjecHmMRfwgOU) | [Albion](https://open.spotify.com/album/3WiW1suHzsswq7fLWoN5z4) | 3:45 | 2024-01-10 | 2024-02-15 |
@@ -1057,6 +1063,7 @@
 | [Strawberry](https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Strawberry](https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy) | 3:09 | 2022-05-25 | 2023-01-12 |
 | [Stretch](https://open.spotify.com/track/290x0HFZibOGZ7jgMIlKgU) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Stretch](https://open.spotify.com/album/1Y00m2WKm4XYK30iKSe3NX) | 4:01 | 2024-04-17 |  |
 | [Stronger Than Most](https://open.spotify.com/track/2SK9RgBAU726NeZ75Cs7mE) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Stronger Than Most](https://open.spotify.com/album/6n6UJuV4KeuRRNPCAj02lu) | 3:22 | 2024-01-10 | 2024-02-22 |
+| [Stronger Than You Think](https://open.spotify.com/track/3XlsEFrtIC7dGLVQpO8EIa) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Stronger Than You Think](https://open.spotify.com/album/35rmpXN0vdeIfU56ZPwxbk) | 3:28 | 2024-06-26 |  |
 | [Style](https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Style](https://open.spotify.com/album/1fJtEbOyFvVHAo1vuVARRm) | 3:43 | 2024-02-14 | 2024-04-19 |
 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 | 2023-10-25 | 2023-12-11 |
 | [Suburban Outlaw](https://open.spotify.com/track/1guH0XpqZzQmRkpKCY3sdb) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Suburban Outlaw](https://open.spotify.com/album/1dpKQmczm2H9hNt4lFMlYV) | 4:56 | 2024-01-10 | 2024-02-22 |

@@ -2,9 +2,9 @@
 
 ### [This Is Terry Riley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wmvjq)
 
-> This Is Terry Riley\. Los temas esenciales, todos en una lista.
+> This is Terry Riley\. The essential tracks, all in one playlist.
 
-174 songs - 1 day 0 hr 15 min
+175 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Part VIII \- Live 1974](https://open.spotify.com/track/15scPBj0oF0GvorNBhPn93) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Cologne 1974 \(Live 1974\)](https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU) | 5:36 | 2022-10-28 | 2023-04-21 |
 | [Peace Dance](https://open.spotify.com/track/1C9YNw12DCN9cGGJK6wXFr) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 5:49 | 2023-02-20 | 2024-03-21 |
 | [Performance One \- Part 1](https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Persian Surgery Dervishes](https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH) | 20:49 | 2022-05-29 |  |
+| [Poppy Nogood and the Phantom Band](https://open.spotify.com/track/6fD1B6kBhP55xoQ7Hkocp9) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [A Rainbow In Curved Air](https://open.spotify.com/album/6mJBD78Ohy7Ch8VVcniS10) | 21:39 | 2024-06-27 |  |
 | [Poppy Nogood and the Phantom Band \- Instrumental](https://open.spotify.com/track/7yX6clhxwVHuKMNcCXAyB9) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band](https://open.spotify.com/album/7tMM2MIBklhAtmmsgbQrAq) | 21:38 | 2022-05-29 | 2024-06-15 |
 | [Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968](https://open.spotify.com/track/4dDdGh1VQTPYLm2bLl4M5m) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968](https://open.spotify.com/album/3cFjiTCXi7SYwyoEii2ERi) | 39:48 | 2022-05-29 | 2024-05-14 |
 | [Premonition Rag](https://open.spotify.com/track/0OnxvzakK3YBnacYSrlDvY) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The Padova Concert](https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW) | 13:10 | 2022-10-21 | 2022-11-01 |
@@ -140,7 +141,7 @@
 | [Skylar Saunders](https://open.spotify.com/track/13KF8bVEeQdZ0QRJOPoIZx) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Skylar Saunders](https://open.spotify.com/album/51UnJiGrQ7V8GaUeZ3ik6h) | 0:41 | 2022-05-29 | 2024-01-12 |
 | [Slow Melody In Bhairavi](https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 3:16 | 2022-05-29 |  |
 | [Spirit of Peace: Part I.](https://open.spotify.com/track/0hh4neHwvdZK7jB4yobBoX) | [Florian Fricke](https://open.spotify.com/artist/21ciJ5ssX76NZ21k3GUxFK), [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Piano Music \- Fricke, F\. / Otte, H\. / Hamel, P.M\. / Gurdjieff, G.I\. / Hartmann, T\. De / Scriabin, A\. / Riley, T\. \(Keys of Life\)](https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs) | 3:34 | 2022-06-08 | 2024-06-11 |
-| [Spirit of Peace: Part II.](https://open.spotify.com/track/49jlgHpsuZEeQxgo8xxYKP) | [Florian Fricke](https://open.spotify.com/artist/21ciJ5ssX76NZ21k3GUxFK), [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Piano Music \- Fricke, F\. / Otte, H\. / Hamel, P.M\. / Gurdjieff, G.I\. / Hartmann, T\. De / Scriabin, A\. / Riley, T\. \(Keys of Life\)](https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs) | 7:36 | 2022-05-29 |  |
+| [Spirit of Peace: Part II.](https://open.spotify.com/track/49jlgHpsuZEeQxgo8xxYKP) | [Florian Fricke](https://open.spotify.com/artist/21ciJ5ssX76NZ21k3GUxFK), [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Piano Music \- Fricke, F\. / Otte, H\. / Hamel, P.M\. / Gurdjieff, G.I\. / Hartmann, T\. De / Scriabin, A\. / Riley, T\. \(Keys of Life\)](https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs) | 7:36 | 2022-05-29 | 2024-06-27 |
 | [St\. Francis and the Birds](https://open.spotify.com/track/2w12QnKw0mWjxxwRuyGef2) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [For the Birds: The Birdsong Project, Vol\. I](https://open.spotify.com/album/6c8aHa89kWTsrcz0iw7fgS) | 4:49 | 2022-05-29 | 2023-02-24 |
 | [St\. Francis and the Birds](https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [For the Birds: The Birdsong Project, Vol\. I](https://open.spotify.com/album/6jYoMV6ujTCI55q6eV2isv) | 4:49 | 2023-02-23 |  |
 | [Summer Fling](https://open.spotify.com/track/3aJIumuPZqaew8jF6Fy3vu) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Destination \- Summer Fling Riddim](https://open.spotify.com/album/3rURS7kdzBgkD5EFBrujHD) | 2:30 | 2022-09-09 | 2024-04-30 |

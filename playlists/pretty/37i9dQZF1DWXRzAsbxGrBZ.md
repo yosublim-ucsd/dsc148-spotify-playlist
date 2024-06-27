@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,009 likes - 50 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,074 likes - 50 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 19 | [VOICES](https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Simeon](https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x) | [TARU](https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL) | 6:39 |
 | 20 | [Far Away](https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq) | [DJ Odyccy](https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf) | [Far Away](https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d) | 6:59 |
 | 21 | [Sensitive](https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t) | [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20) | [Emotions](https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA) | 3:40 |
-| 22 | [Eyesolation](https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI) | [4 The Wolves](https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR) | 8:41 |
-| 23 | [Truth \- Nostalgic Mix](https://open.spotify.com/track/1TNs2tJtHYShkH5OYYYLEK) | [The Godfathers Of Deep House SA](https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND) | [Trace EP](https://open.spotify.com/album/2k6OcQTdxtE89UQzh7nek3) | 7:08 |
+| 22 | [Truth \- Nostalgic Mix](https://open.spotify.com/track/1TNs2tJtHYShkH5OYYYLEK) | [The Godfathers Of Deep House SA](https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND) | [Trace EP](https://open.spotify.com/album/2k6OcQTdxtE89UQzh7nek3) | 7:08 |
+| 23 | [Eyesolation](https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI) | [4 The Wolves](https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR) | 8:41 |
 | 24 | [Winter Nights \- BlaQ Afro\-Kay Remix](https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T) | [Sitha](https://open.spotify.com/artist/44t9AevT07GOmWQ3cplcfM), [BlaQ Afro\-Kay](https://open.spotify.com/artist/5FMpvRvyyk5EUo26xIJ80E), [Laps Rsa](https://open.spotify.com/artist/46RRPn997jjhnUkheJxOXQ) | [Foniklab Records, Vol\. 2 \(Compiled By DysFonik\)](https://open.spotify.com/album/5TOcWrO7Z5tLpWxToReiT6) | 6:40 |
 | 25 | [Ingoma \- Original Mix](https://open.spotify.com/track/7oyMweIaDux964WgeejCf7) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Mr.Cantata](https://open.spotify.com/artist/3r1o9eEvpXFvToBB6Y5GR0), [Bikie](https://open.spotify.com/artist/4LwtgBxKUoIWPWOCdOA9yu) | [Ingoma](https://open.spotify.com/album/7FkJnT8Ve5hYmzVya06wF0) | 7:10 |
 | 26 | [Recall](https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io) | [Recall](https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF) | 6:13 |

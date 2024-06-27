@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAsdS5nU91h5hEkFkDBFxKx",
+  "snapshot_id": "AAAAAAAAAABOLprB+oNjnkTpj0qC4MwZ",
   "tracks": [
     {
       "added_at": "2024-06-21 04:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "7 Screaming Diz-Busters (Live)",
+        "url": "https://open.spotify.com/album/37YpFvRfNqmJm5HYwesE2u"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 421648,
+      "name": "7 Screaming Diz-Busters - Live",
+      "url": "https://open.spotify.com/track/3c85MmYaJkGPhHEJFZ8vZv"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "This Could Be Anywhere in the World (Live)",
         "url": "https://open.spotify.com/album/4J2ZipFuVaCt5P24Zb8nMa"
       },
@@ -91,18 +107,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "7 Screaming Diz-Busters (Live)",
-        "url": "https://open.spotify.com/album/37YpFvRfNqmJm5HYwesE2u"
+        "name": "Cuarto",
+        "url": "https://open.spotify.com/album/57rUsa5oTRdwbgKbCHSNQb"
       },
       "artists": [
         {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
         }
       ],
-      "duration_ms": 421648,
-      "name": "7 Screaming Diz-Busters - Live",
-      "url": "https://open.spotify.com/track/3c85MmYaJkGPhHEJFZ8vZv"
+      "duration_ms": 220040,
+      "name": "Somos Errantes",
+      "url": "https://open.spotify.com/track/0HapbnDdUPdVHT0C6jHGV9"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -123,18 +139,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Cuarto",
-        "url": "https://open.spotify.com/album/57rUsa5oTRdwbgKbCHSNQb"
+        "name": "Worlds Collide Tour (Live in Amsterdam)",
+        "url": "https://open.spotify.com/album/4FA76o2vhVqP8dpMlnnmPv"
       },
       "artists": [
         {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 220040,
-      "name": "Somos Errantes",
-      "url": "https://open.spotify.com/track/0HapbnDdUPdVHT0C6jHGV9"
+      "duration_ms": 270100,
+      "name": "Faster - Live in Amsterdam",
+      "url": "https://open.spotify.com/track/09az9LNbYDb1aBXiKoNjjz"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -159,18 +175,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Worlds Collide Tour (Live in Amsterdam)",
-        "url": "https://open.spotify.com/album/4FA76o2vhVqP8dpMlnnmPv"
+        "name": "lofi chill vibes with korn",
+        "url": "https://open.spotify.com/album/2an3rCrUgZsJu7ApHemCBC"
       },
       "artists": [
         {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+          "name": "lonelyboy",
+          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
+        },
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 270100,
-      "name": "Faster - Live in Amsterdam",
-      "url": "https://open.spotify.com/track/09az9LNbYDb1aBXiKoNjjz"
+      "duration_ms": 120000,
+      "name": "blind - lofi",
+      "url": "https://open.spotify.com/track/0nOAqwyTeddVOUC9KZBb8I"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -199,46 +219,6 @@
       "duration_ms": 202120,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/4tOCjcTo8c4wH5krCVgwsw"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "lofi chill vibes with korn",
-        "url": "https://open.spotify.com/album/2an3rCrUgZsJu7ApHemCBC"
-      },
-      "artists": [
-        {
-          "name": "lonelyboy",
-          "url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc"
-        },
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "blind - lofi",
-      "url": "https://open.spotify.com/track/0nOAqwyTeddVOUC9KZBb8I"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "The Seasons, Op. 37a: No. 12. December: Christmas",
-        "url": "https://open.spotify.com/album/4Rvu8xBeTJNdvsTyovKb4B"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "German Kitkin",
-          "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
-        }
-      ],
-      "duration_ms": 252453,
-      "name": "The Seasons, Op. 37a: No. 12. December: Christmas",
-      "url": "https://open.spotify.com/track/0AXAlpko37X8LfdYqTebpP"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -275,6 +255,26 @@
       "duration_ms": 267314,
       "name": "Moon River / Audrey\u2019s Letter",
       "url": "https://open.spotify.com/track/6g7uwja1iFcOEPFHWEZN8I"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "The Seasons, Op. 37a: No. 12. December: Christmas",
+        "url": "https://open.spotify.com/album/4Rvu8xBeTJNdvsTyovKb4B"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "German Kitkin",
+          "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
+        }
+      ],
+      "duration_ms": 252453,
+      "name": "The Seasons, Op. 37a: No. 12. December: Christmas",
+      "url": "https://open.spotify.com/track/0AXAlpko37X8LfdYqTebpP"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/1qISfk68iEjgZ4cG17YuEy"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 288946,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Rock 'n' Roll Star!",
         "url": "https://open.spotify.com/album/1bqZP0fgsBTnQaYj4Dte7Z"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 142338,
       "name": "I Can't Explain - Trident Studios Version",
       "url": "https://open.spotify.com/track/0YK64CRFEMRCDkMTiM6Sjk"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/1qISfk68iEjgZ4cG17YuEy"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "duration_ms": 288946,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -434,6 +434,10 @@
         {
           "name": "Def Leppard",
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
         }
       ],
       "duration_ms": 223133,
@@ -459,6 +463,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Top of the World (Live at the West End Marketplace, Dallas, TX, 12/4/1991)",
+        "url": "https://open.spotify.com/album/2OG75CV0b66G4TkZRsVJ9J"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 383204,
+      "name": "Top of the World - Live at the West End Marketplace, Dallas, TX, 12/4/1991",
+      "url": "https://open.spotify.com/track/22zR1Ih6YXMDDW4eeZmFfH"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Ranma 1/2 (Olvida La Amargura)",
         "url": "https://open.spotify.com/album/6hVWovjwcad0FSoGXqE9Bh"
       },
@@ -475,22 +495,6 @@
       "duration_ms": 160256,
       "name": "Ranma 1/2 (Olvida La Amargura)",
       "url": "https://open.spotify.com/track/59sUk0NRw5WEmnBf72F3FU"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Top of the World (Live at the West End Marketplace, Dallas, TX, 12/4/1991)",
-        "url": "https://open.spotify.com/album/2OG75CV0b66G4TkZRsVJ9J"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 383204,
-      "name": "Top of the World - Live at the West End Marketplace, Dallas, TX, 12/4/1991",
-      "url": "https://open.spotify.com/track/22zR1Ih6YXMDDW4eeZmFfH"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -544,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 241295,
-      "name": "\u00d1angapiri",
-      "url": "https://open.spotify.com/track/7brVRN8EAO70iJscFiVTge"
+      "duration_ms": 224243,
+      "name": "La Vida y la Libertad",
+      "url": "https://open.spotify.com/track/0LpzBuOMD5OgSU3uzCHnFZ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -687,6 +691,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "V de Vendetta",
+        "url": "https://open.spotify.com/album/19EoBQStBV87G5qaKrb0Fv"
+      },
+      "artists": [
+        {
+          "name": "Dark Moor",
+          "url": "https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh"
+        }
+      ],
+      "duration_ms": 300472,
+      "name": "V de Vendetta",
+      "url": "https://open.spotify.com/track/1uEfe0myg6FOpTazIPfPy1"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "The Quest for Tanelorn (Revisited)",
         "url": "https://open.spotify.com/album/7vtUeoxwk5o5zSJ7IudmNY"
       },
@@ -735,38 +755,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "V de Vendetta",
-        "url": "https://open.spotify.com/album/19EoBQStBV87G5qaKrb0Fv"
-      },
-      "artists": [
-        {
-          "name": "Dark Moor",
-          "url": "https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh"
-        }
-      ],
-      "duration_ms": 300472,
-      "name": "V de Vendetta",
-      "url": "https://open.spotify.com/track/1uEfe0myg6FOpTazIPfPy1"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "London Session 1972",
-        "url": "https://open.spotify.com/album/4Ea2mTODEbaxH49mywljHY"
-      },
-      "artists": [
-        {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
-        }
-      ],
-      "duration_ms": 199947,
-      "name": "Search And Destroy - Early Demo",
-      "url": "https://open.spotify.com/track/3YTKTIN1OeKA5DYvXuNfCm"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Quer\u00eda Saber",
         "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
       },
@@ -799,6 +787,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "London Session 1972",
+        "url": "https://open.spotify.com/album/4Ea2mTODEbaxH49mywljHY"
+      },
+      "artists": [
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "duration_ms": 199947,
+      "name": "Search And Destroy - Early Demo",
+      "url": "https://open.spotify.com/track/3YTKTIN1OeKA5DYvXuNfCm"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "A new bohemia",
         "url": "https://open.spotify.com/album/6HRsZwU2RK31pMrVz7OXgF"
       },
@@ -808,25 +812,9 @@
           "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
         }
       ],
-      "duration_ms": 197452,
-      "name": "It's not a crime",
-      "url": "https://open.spotify.com/track/1oDqCB9okbzGoXgwMfbJEr"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "You Are Here (Ultimate Mix)",
-        "url": "https://open.spotify.com/album/6A0BDzSzJVKRVo42EVoyo8"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 252648,
-      "name": "You Are Here - Ultimate Mix",
-      "url": "https://open.spotify.com/track/2W9WA18G7wqsPNfDOE9tVT"
+      "duration_ms": 266677,
+      "name": "I've got plans (involving you)",
+      "url": "https://open.spotify.com/track/6W2XOPrs33XWgVwjmpIEpr"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -855,6 +843,22 @@
       "duration_ms": 219999,
       "name": "We Might Be Giants",
       "url": "https://open.spotify.com/track/6RV8XTQfO7DXRgT0yJmq2U"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "You Are Here (Ultimate Mix)",
+        "url": "https://open.spotify.com/album/6A0BDzSzJVKRVo42EVoyo8"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 252648,
+      "name": "You Are Here - Ultimate Mix",
+      "url": "https://open.spotify.com/track/2W9WA18G7wqsPNfDOE9tVT"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -920,9 +924,25 @@
           "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 201114,
-      "name": "We Used to Know - Live",
-      "url": "https://open.spotify.com/track/07jxFD0egxD4lrBcKNebqb"
+      "duration_ms": 350722,
+      "name": "For a Thousand Mothers - Live",
+      "url": "https://open.spotify.com/track/6WQzrcoT13xFaACybHjgIZ"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Count Me Out",
+        "url": "https://open.spotify.com/album/1ePPzs2oFi7S0PtgdJidgQ"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "duration_ms": 252392,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/5Obhe5gMI1htOwRupTc5K2"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -947,22 +967,6 @@
       "duration_ms": 207992,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Count Me Out",
-        "url": "https://open.spotify.com/album/1ePPzs2oFi7S0PtgdJidgQ"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 252392,
-      "name": "Count Me Out",
-      "url": "https://open.spotify.com/track/5Obhe5gMI1htOwRupTc5K2"
     },
     {
       "added_at": "2024-06-21 04:00:00",

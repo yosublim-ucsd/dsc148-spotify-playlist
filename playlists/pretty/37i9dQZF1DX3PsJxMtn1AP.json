@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 74491,
+  "num_followers": 74498,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnmBsQAAAAClZtgz7DIREyeHTXzshT9V",
+  "snapshot_id": "ZnxjmQAAAAARYWhispANgSidqdZALqVc",
   "tracks": [
     {
       "added_at": "2024-05-29 01:39:02",
@@ -23,6 +23,22 @@
       "duration_ms": 131571,
       "name": "I Go Meow",
       "url": "https://open.spotify.com/track/0ewurUrBfHTTWGlBurGUNo"
+    },
+    {
+      "added_at": "2024-06-26 18:53:13",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 208351,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
     },
     {
       "added_at": "2024-06-18 16:28:48",
@@ -81,6 +97,22 @@
       "url": "https://open.spotify.com/track/0UMfconu33lpuioJ696nKv"
     },
     {
+      "added_at": "2024-06-26 18:38:55",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 176105,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
+    },
+    {
       "added_at": "2024-05-31 22:24:44",
       "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
@@ -115,6 +147,22 @@
       "duration_ms": 262079,
       "name": "Love Buzz",
       "url": "https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i"
+    },
+    {
+      "added_at": "2024-06-26 18:42:26",
+      "album": {
+        "name": "Love Potion",
+        "url": "https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Love Potion",
+      "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -709,38 +757,6 @@
       "url": "https://open.spotify.com/track/60PgbKqLoj6DCASnxEgZ7F"
     },
     {
-      "added_at": "2024-05-31 00:18:03",
-      "album": {
-        "name": "Pull the Rope",
-        "url": "https://open.spotify.com/album/3wjRvLacBAnnIi08sQwsZS"
-      },
-      "artists": [
-        {
-          "name": "Ibibio Sound Machine",
-          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
-        }
-      ],
-      "duration_ms": 216240,
-      "name": "Political Incorrect",
-      "url": "https://open.spotify.com/track/4MBJzFfLTkg6KDfvANj3xs"
-    },
-    {
-      "added_at": "2024-04-15 18:26:20",
-      "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/47rlABSBChwZC7qxAKzOWw"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 220192,
-      "name": "See you soon",
-      "url": "https://open.spotify.com/track/5TMGf0iNjOVLOgBf9vgq2O"
-    },
-    {
       "added_at": "2024-05-03 16:46:44",
       "album": {
         "name": "Like I Say (I runaway)",
@@ -799,22 +815,6 @@
       "duration_ms": 182355,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/0h04l7hE4CrYjdRFbk4c4O"
-    },
-    {
-      "added_at": "2024-05-20 20:31:10",
-      "album": {
-        "name": "AMAMA",
-        "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "Crushxd",
-      "url": "https://open.spotify.com/track/42xwqRK62PxAEUh4N3kVpf"
     },
     {
       "added_at": "2024-06-21 15:02:14",

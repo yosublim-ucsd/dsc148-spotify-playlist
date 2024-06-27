@@ -4,7 +4,7 @@
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-146 songs - 10 hr 12 min
+147 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 | 2022-11-28 |  |
 | [Losing Us.](https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo) | 3:56 | 2024-05-09 |  |
 | [Luka](https://open.spotify.com/track/6ScSZhZJ72nNlG2HNKtNri) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Luka](https://open.spotify.com/album/7qalb7ab5XUNyJmcXrGQCT) | 4:52 | 2023-06-09 | 2023-06-15 |
-| [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-05-27 |  |
+| [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-05-27 | 2024-06-27 |
 | [Manusia Putus Asa](https://open.spotify.com/track/68PkrpsVyyVlnNYb7hY97l) | [Ayuenstar](https://open.spotify.com/artist/7ydN6ucPSuyIQVM06TT81X) | [Manusia Putus Asa](https://open.spotify.com/album/3A5u8eywrTDJTMol5cUPCe) | 4:16 | 2023-06-23 | 2023-06-27 |
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-03-05 |  |
 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 | 2024-04-17 |  |
@@ -138,6 +138,7 @@
 | [Tak Ingin Usai](https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tak Ingin Usai](https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY) | 4:38 | 2022-11-28 | 2023-10-25 |
 | [Tak Ingin Usai \- Duet Version](https://open.spotify.com/track/0qPiK7vHmTMAckxIgKETN9) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Tak Ingin Usai \(Duet Version\)](https://open.spotify.com/album/16K8rQ5maxmxeJb5L3uuo4) | 4:38 | 2022-11-28 | 2023-01-10 |
 | [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 | 2022-11-28 |  |
+| [Tak Pantas \- From "Ipar Adalah Maut"](https://open.spotify.com/track/1G4tOVqycdkHk1Q9U1vsb0) | [Mytha Lestari](https://open.spotify.com/artist/4qb81y9DFygggMTArjhQMn) | [Tak Pantas \(From "Ipar Adalah Maut"\)](https://open.spotify.com/album/2ftSrVmQW9y5M5GoyiILgb) | 3:53 | 2024-06-26 |  |
 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 | 2023-01-09 |  |
 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 | 2022-11-28 | 2023-05-05 |
 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 | 2022-11-28 |  |

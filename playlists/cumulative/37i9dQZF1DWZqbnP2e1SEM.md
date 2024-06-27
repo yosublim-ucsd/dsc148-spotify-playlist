@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-353 songs - 19 hr 5 min
+354 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 | 2024-06-14 |  |
 | [Go Girl](https://open.spotify.com/track/02btIbZVDCpCdCkSorceTm) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Go Girl](https://open.spotify.com/album/7cms9Gm5nuo1USp34gCAaQ) | 3:27 | 2022-05-10 | 2022-07-29 |
 | [Go Low](https://open.spotify.com/track/2OwV4woHaOCp8bii7p6Dx6) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Go Low](https://open.spotify.com/album/4j5Fhcni75m2xAAR6evRxX) | 2:53 | 2022-05-10 | 2022-05-26 |
-| [GO OFF](https://open.spotify.com/track/2BVybO0IKCbtUu2ZI2VfiZ) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [GO OFF](https://open.spotify.com/album/795AOVTX1vBJBP1xKbJLrw) | 4:13 | 2024-06-14 |  |
+| [GO OFF](https://open.spotify.com/track/2BVybO0IKCbtUu2ZI2VfiZ) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [GO OFF](https://open.spotify.com/album/795AOVTX1vBJBP1xKbJLrw) | 4:13 | 2024-06-14 | 2024-06-27 |
 | [Gold Dust \- Shy FX Re\-Edit](https://open.spotify.com/track/61gnmKsVhB4TuSJWZzjI3N) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [Gold Dust \(Shy FX Re\-Edit\)](https://open.spotify.com/album/2y7ahWV2mpl2le5QboUG2k) | 3:02 | 2021-07-09 | 2022-05-11 |
 | [Good](https://open.spotify.com/track/0LEEtJg8hHOyytcotgnaKq) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Good](https://open.spotify.com/album/4FgSB1DDC5bKynrjVs68Uv) | 2:58 | 2021-07-09 | 2022-07-29 |
 | [Good Times \- Radio Edit](https://open.spotify.com/track/6MmcXmpXBeqY640DLNHPKW) | [Roll Deep](https://open.spotify.com/artist/4gpElxNt5pL515njzmZaZG), [Jodie Connor](https://open.spotify.com/artist/2z8TUHYgpATw1YCb8WV6qv) | [Winner Stays On](https://open.spotify.com/album/4SLp2B1pA9SFMXtOgpZVuY) | 3:44 | 2021-07-09 | 2022-05-11 |
@@ -317,6 +317,7 @@
 | [Tell Me](https://open.spotify.com/track/3pvuMKIcwgv9E1UXiwjDyH) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Fairground](https://open.spotify.com/artist/4dQlpFhvkptuBBL8Suvp7E) | [Tell Me](https://open.spotify.com/album/7C0qvVx8l3z9ffSkCeIdtW) | 3:17 | 2024-06-21 |  |
 | [Tell Me Something](https://open.spotify.com/track/0gnPONZvU8go7Cze5A9HoJ) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Tell Me Something](https://open.spotify.com/album/1B2pYmKSInePRJ41ecAIkP) | 3:46 | 2021-07-09 | 2022-05-10 |
 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 | 2022-05-10 | 2024-06-14 |
+| [Tengo Fuego](https://open.spotify.com/track/1CHYzp3JApDRMGDGhf15iw) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Tengo Fuego](https://open.spotify.com/album/7iEKNRehvEwhwwWTTGPhOG) | 3:07 | 2024-06-21 |  |
 | [The Cure & The Cause \- Radio Edit](https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg) | [The Cure & The Cause \(Radio Edit\)](https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN) | 2:37 | 2021-07-09 | 2022-05-11 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2022-05-10 | 2024-06-14 |
 | [The Nighttrain](https://open.spotify.com/track/067wD8CKiwiOz8beq5OTV2) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Maitland](https://open.spotify.com/artist/0Q73yVxsPyLsllS3ILTEZL) | [The Nighttrain](https://open.spotify.com/album/4t5mdjfkRkRPwQmHmXRx1v) | 3:06 | 2024-05-24 |  |

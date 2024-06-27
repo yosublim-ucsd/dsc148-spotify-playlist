@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest Pakistani discoveries\. Cover \- Nirmala Maghani
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,452 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,455 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 25 | [Thak Gaya Hoon](https://open.spotify.com/track/6XV7oKdnmACLnuXev8rAvI) | [Irfan Ali Taj](https://open.spotify.com/artist/0wzji6eI2JiZNztAEoXer4), [Varqa Faraid](https://open.spotify.com/artist/58Sy8Jc3tHOFT5KLBgr8Xp) | [Thak Gaya Hoon](https://open.spotify.com/album/6xP4MkISTnGw0fHkIkNPKy) | 3:20 |
 | 26 | [Wings Of Submission](https://open.spotify.com/track/6Xg6glWN4QBM1I6nO0qrrn) | [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [Wings Of Submission](https://open.spotify.com/album/2B094fM0K5m5ScLQ7xBjHV) | 4:45 |
 | 27 | [Kaisay Kahoon](https://open.spotify.com/track/7JHJIanGb1J0ZkUNsS0r0o) | [Hamiz](https://open.spotify.com/artist/16UEZuBqNPggeziSTbotjx) | [Kaisay Kahoon](https://open.spotify.com/album/6qlURgYxWgQI5xhQ0e9Fho) | 3:52 |
-| 28 | [Soch Lay](https://open.spotify.com/track/1GRYbdL9yTKB3rsmVnsqww) | [Maham Waqar](https://open.spotify.com/artist/2eH0KcQ6GjxWb1eDgv8Tnk), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Soch Le](https://open.spotify.com/album/0kAHa3ujohT9HqMTasmzzg) | 3:22 |
+| 28 | [Soch Le](https://open.spotify.com/track/1GRYbdL9yTKB3rsmVnsqww) | [Maham Waqar](https://open.spotify.com/artist/2eH0KcQ6GjxWb1eDgv8Tnk), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Soch Le](https://open.spotify.com/album/0kAHa3ujohT9HqMTasmzzg) | 3:22 |
 | 29 | [Friday](https://open.spotify.com/track/33sQESXScMpvtaycWxJV2u) | [Panda J](https://open.spotify.com/artist/27Bqpm9xApyAJIezEaqjm0) | [Friday](https://open.spotify.com/album/0gSKdwhfcT7VdxW9w0Z2l3) | 2:25 |
 | 30 | [Tehreer](https://open.spotify.com/track/639tQCCi9Kk92SnuYkQ3t2) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Maham Waqar](https://open.spotify.com/artist/2eH0KcQ6GjxWb1eDgv8Tnk) | [Tehreer](https://open.spotify.com/album/0d9vJ664e8se8fPN61q2Au) | 4:49 |
 | 31 | [Raat Nasheeli](https://open.spotify.com/track/7woHdjxiJd53nYOHtAjt4J) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Raat Nasheeli](https://open.spotify.com/album/0GZm6hM5Fo7BhZojLTMqEW) | 2:29 |

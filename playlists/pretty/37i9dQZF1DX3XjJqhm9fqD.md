@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,537 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,543 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,16 +95,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 85 | [Se Ou M Chwazi](https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim) | [D\-Singer](https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf), [Rob Vital](https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY) | [Se Ou M Chwazi](https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx) | 3:38 |
 | 86 | [BIDIBAM](https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [BIDIBAM](https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI) | 3:10 |
 | 87 | [Regrè](https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj) | [Wood Terrib](https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr) | [Regrè](https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7) | 3:49 |
-| 88 | [Imitate](https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Imitate](https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b) | 3:20 |
-| 89 | [Say It Like](https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Say It Like](https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX) | 2:54 |
+| 88 | [Say It Like](https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Say It Like](https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX) | 2:54 |
+| 89 | [Imitate](https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Imitate](https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b) | 3:20 |
 | 90 | [Kote moun yo](https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Haiti debout](https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE) | 3:18 |
-| 91 | [Li Cho](https://open.spotify.com/track/5FAekDZSA4bfe2Bz3aN4VI) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Li Cho](https://open.spotify.com/album/6Plh34hDbXkiS7ttbXdZ1Z) | 2:41 |
-| 92 | [Dekonekte](https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj) | [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Dekonekte](https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H) | 3:46 |
-| 93 | [On va pas baisser les bras](https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r) | [Paska](https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6), [Romeomania](https://open.spotify.com/artist/3Gd9aSyUrIZVbZmC6q6A4w) | [On va pas baisser les bras](https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A) | 3:15 |
+| 91 | [On va pas baisser les bras](https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r) | [Paska](https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6), [Romeomania](https://open.spotify.com/artist/3Gd9aSyUrIZVbZmC6q6A4w) | [On va pas baisser les bras](https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A) | 3:15 |
+| 92 | [Li Cho](https://open.spotify.com/track/5FAekDZSA4bfe2Bz3aN4VI) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Li Cho](https://open.spotify.com/album/6Plh34hDbXkiS7ttbXdZ1Z) | 2:41 |
+| 93 | [Dekonekte](https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj) | [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Dekonekte](https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H) | 3:46 |
 | 94 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |
 | 95 | [Sote](https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [Sote](https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx) | 2:28 |
-| 96 | [Down With the Gouyad \(Remix\)](https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5) | [DJ Magickenny](https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [Down With the Gouyad \(Remix\)](https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf) | 4:51 |
-| 97 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
+| 96 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
+| 97 | [Down With the Gouyad \(Remix\)](https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5) | [DJ Magickenny](https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [Down With the Gouyad \(Remix\)](https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf) | 4:51 |
 | 98 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
 | 99 | [Plenyen Player Yo](https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Plenyen Player Yo](https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G) | 3:46 |
 | 100 | [Ou Bezwen](https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje) | [Jay Brixxx](https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv) | [Ou Bezwen](https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp) | 4:12 |

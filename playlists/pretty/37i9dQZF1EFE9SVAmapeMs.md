@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 21 | [Malfunction](https://open.spotify.com/track/57nQyFocXZrKvWg5ZPYSoG) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:19 |
 | 22 | [No Photos](https://open.spotify.com/track/38HkYfvnhHLLB5Yaj2VpZg) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:55 |
 | 23 | [Rockstar Knights \(with Trippie Redd\)](https://open.spotify.com/track/4J9SI7do4KOEsCexqEbjmR) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:51 |
-| 24 | [Whip \(feat\. Travis Scott\)](https://open.spotify.com/track/6Z4rmc0uujCpl8yXe3yjgI) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rap Or Go To The League](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) | 3:46 |
-| 25 | [Never Catch Me](https://open.spotify.com/track/3jg8bevUzKYONDLBBQquif) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 2:56 |
+| 24 | [Never Catch Me](https://open.spotify.com/track/3jg8bevUzKYONDLBBQquif) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 2:56 |
+| 25 | [Whip \(feat\. Travis Scott\)](https://open.spotify.com/track/6Z4rmc0uujCpl8yXe3yjgI) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rap Or Go To The League](https://open.spotify.com/album/1BR69wIifGZUSimcuTjWVg) | 3:46 |
 | 26 | [Scott and Ramona](https://open.spotify.com/track/7egGWCqoxtAuo7QgsWw3tm) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lil Uzi Vert vs\. The World](https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM) | 3:41 |
 | 27 | [JACKBOYS](https://open.spotify.com/track/62zKJrpbLxz6InR3tGyr7o) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 0:46 |
 | 28 | [This Ain't Love](https://open.spotify.com/track/5Y7dUgG3vyx3541JagbWvv) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 2:44 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 58 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 |
 | 59 | [Young Love Games](https://open.spotify.com/track/5Z0qaipNiBmMTTFohE9ek3) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Young Love Games](https://open.spotify.com/album/0edwyKGofva4cAqAuTWmJd) | 2:45 |
 
-Snapshot ID: `AbVCDAAAAABDMV9FdjpU0Fpb3z799TZ/`
+Snapshot ID: `AbVHrAAAAAAMJ/dP+qP78eunyp3uqo0x`

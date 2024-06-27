@@ -2,7 +2,7 @@
 
 ### [This Is Matt Maher](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0F9kBy)
 
-> This is Matt Maher\. The essential tracks, all in one playlist.
+> This is Matt Maher\. Track\-track unggulan, semuanya dalam satu playlist.
 
 84 songs - 6 hr 8 min
 
@@ -23,7 +23,7 @@
 | [Better Off Broken \(feat\. Ryan Ellis\)](https://open.spotify.com/track/6tJPjbZqyjA2gs78XJQMna) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:27 | 2022-10-29 | 2023-11-11 |
 | [Bigger Table](https://open.spotify.com/track/1cEwtzx7B2Gr87o4w5yWOE) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:54 | 2024-06-19 |  |
 | [Bigger Table](https://open.spotify.com/track/76LbmiM3FBV5mGMB7GXrPw) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Bigger Table](https://open.spotify.com/album/0NAx57507JN5OrI7NE5hSH) | 3:54 | 2022-09-14 | 2024-04-03 |
-| [Bless The One \- Live](https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [SPACE](https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw) | 4:58 | 2022-09-14 |  |
+| [Bless The One \- Live](https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [SPACE](https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw) | 4:58 | 2022-09-14 | 2024-06-27 |
 | [Borrowed Time](https://open.spotify.com/track/5dePXcixOAITAskyqkKe7O) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:38 | 2022-09-15 | 2022-09-17 |
 | [Burning Heart of God](https://open.spotify.com/track/6BZNiWZcn87Xc8R3JyOkII) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:16 | 2022-10-28 |  |
 | [Burning In My Soul](https://open.spotify.com/track/39mcodzxm2M8FgxVsUzV9K) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:45 | 2022-09-14 |  |
@@ -63,7 +63,7 @@
 | [My Old Friend \(feat\. Drew Holcomb\)](https://open.spotify.com/track/11DODMoytrztXjlZt3Umhm) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT) | [The Stories I Tell Myself](https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv) | 3:23 | 2022-10-12 | 2023-01-04 |
 | [My Only Love](https://open.spotify.com/track/3dSvjnkPXd7QqYdwGpBxxY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Love In Between](https://open.spotify.com/album/0VatKO8y9ivCWD4obvX4U7) | 3:34 | 2022-09-14 | 2022-10-15 |
 | [No Body \(feat\. Matt Maher\)](https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:06 | 2022-09-14 |  |
-| [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 | 2022-09-24 | 2024-06-26 |
+| [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 | 2022-09-24 |  |
 | [Only Good Will Grow \(feat\. Brian Elmquist\)](https://open.spotify.com/track/4wVD5bjDg7vJErEv0a4apm) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Brian Elmquist](https://open.spotify.com/artist/5EfuemsjOXqraQLj0WAjHM) | [Only Good Will Grow](https://open.spotify.com/album/36OsXL7Ib4ux8PGSrvTi5P) | 2:32 | 2022-09-14 | 2022-10-24 |
 | [Remembrance \(Communion Song\)](https://open.spotify.com/track/4U1kozpFOiKDYb7CDjqPt7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:18 | 2022-09-14 |  |
 | [Rest](https://open.spotify.com/track/7nEzee6SW3xOxh5ciJsei2) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 4:40 | 2022-09-14 | 2023-02-02 |

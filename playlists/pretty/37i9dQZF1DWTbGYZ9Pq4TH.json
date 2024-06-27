@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 176995,
+  "num_followers": 176998,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
       },
       "artists": [
         {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Un'emozione per sempre",
-      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
+      "duration_ms": 226160,
+      "name": "Cascare nei tuoi occhi",
+      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Un'emozione per sempre",
+      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
         "name": "Diari Aperti",
         "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 239693,
       "name": "Anche Fragile",
       "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Cascare nei tuoi occhi",
-      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
+        "name": "Lucio Dalla",
+        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
+      },
+      "artists": [
+        {
+          "name": "Lucio Dalla",
+          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Anna E Marco",
+      "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
         "name": "Splende",
         "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 270346,
       "name": "Sei nell'anima",
       "url": "https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
-        "name": "Lucio Dalla",
-        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
-      },
-      "artists": [
-        {
-          "name": "Lucio Dalla",
-          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Anna E Marco",
-      "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
     }
   ],
   "unique_name": "Amore Davvero",

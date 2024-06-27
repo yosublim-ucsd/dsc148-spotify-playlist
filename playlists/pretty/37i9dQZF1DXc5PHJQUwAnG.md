@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Peso Pluma y Arcángel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,898 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,911 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 11 | [Quehacer](https://open.spotify.com/track/2ApMbu401bqRcFYUgmSP7J) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK) | [Quehacer](https://open.spotify.com/album/2iEKSHSVMbOBmjkN6osGBc) | 1:23 |
 | 12 | [De Por Vida](https://open.spotify.com/track/5ykrkjleDzZWCmkTkWoN8h) | [DUNNOWHERE](https://open.spotify.com/artist/35FdbavCU6ynfBatkUPQG8), [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [CRYMES](https://open.spotify.com/artist/2Js99jlxIiJItAAh69aZMM) | [De Por Vida](https://open.spotify.com/album/0SD5803nMitaFCZFliaktr) | 2:33 |
 | 13 | [Intenso](https://open.spotify.com/track/65ZgdkDdwZhHndW9QXxnVy) | [Lil Wacho](https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX), [Melodico](https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg) | [Intenso](https://open.spotify.com/album/0juH0Sa9FvydmIhNkH6pcR) | 3:49 |
-| 14 | [PESAO](https://open.spotify.com/track/4J1Wu4oFT34P67r0186HyF) | [brandon dxf](https://open.spotify.com/artist/57ZFYnNFBOucZ8Q8uEAith) | [PESAO](https://open.spotify.com/album/0VtOM9LzN2iiraItSi4vYM) | 2:04 |
+| 14 | [PESAO](https://open.spotify.com/track/4J1Wu4oFT34P67r0186HyF) | [brandon dxf](https://open.spotify.com/artist/57ZFYnNFBOucZ8Q8uEAith), [SOMOS OINK](https://open.spotify.com/artist/3Asy70HJ5VqJxRxByvv6FN) | [PESAO](https://open.spotify.com/album/0VtOM9LzN2iiraItSi4vYM) | 2:04 |
 | 15 | [PESO COMPLETO](https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [PESO COMPLETO](https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ) | 3:13 |
 | 16 | [Fuk on Me! \(Look At Me!\)](https://open.spotify.com/track/5a2FnwjgYsaLbjZi9PpHVs) | [Abnerxd](https://open.spotify.com/artist/38DNB5yq30k6tcxmDNDMGd) | [Fuk on Me! \(Look At Me!\)](https://open.spotify.com/album/0Q7YfXN6pPH8fjJfnf6upc) | 2:16 |
 | 17 | [AL0NE](https://open.spotify.com/track/54Jk6726TvuuUFrhWnTicw) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf), [Maykiiv](https://open.spotify.com/artist/2Hjz7RtQ7UBQgpggthZOmn) | [AL0NE](https://open.spotify.com/album/2oIpRFI1k4yB32XD5Q0gDf) | 2:14 |

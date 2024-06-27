@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 156788,
+  "num_followers": 156827,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAADBXf6YADWS26RHD+7uJPUn",
+  "snapshot_id": "ZnoIgAAAAAAWLtiVABU8Jptn1+cwg7Ic",
   "tracks": [
     {
       "added_at": null,
@@ -122,11 +122,31 @@
         {
           "name": "Lil Nas X",
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
         }
       ],
-      "duration_ms": 113000,
-      "name": "Old Town Road",
-      "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
+      "duration_ms": 157066,
+      "name": "Old Town Road - Remix",
+      "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 154997,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
     },
     {
       "added_at": null,
@@ -143,26 +163,6 @@
       "duration_ms": 114893,
       "name": "Panini",
       "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tennessee (feat. Lil Nas X)",
-        "url": "https://open.spotify.com/album/37APE1ZgCTM38NY4IgO73G"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 173560,
-      "name": "Tennessee (feat. Lil Nas X)",
-      "url": "https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv"
     },
     {
       "added_at": null,
@@ -190,15 +190,31 @@
         {
           "name": "Lil Nas X",
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 158706,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
+      "duration_ms": 113000,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tennessee (feat. Lil Nas X)",
+        "url": "https://open.spotify.com/album/37APE1ZgCTM38NY4IgO73G"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "Tennessee (feat. Lil Nas X)",
+      "url": "https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv"
     },
     {
       "added_at": null,
@@ -215,22 +231,6 @@
       "duration_ms": 168275,
       "name": "SUN GOES DOWN",
       "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
-        "url": "https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 195470,
-      "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
-      "url": "https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv"
     },
     {
       "added_at": null,
@@ -255,6 +255,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "7 EP",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 158706,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
+        "url": "https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 195470,
+      "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
+      "url": "https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd"
       },
@@ -271,6 +307,22 @@
       "duration_ms": 180666,
       "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 130925,
+      "name": "DONT WANT IT",
+      "url": "https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO"
     },
     {
       "added_at": null,
@@ -322,38 +374,6 @@
         {
           "name": "Lil Nas X",
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 130925,
-      "name": "DONT WANT IT",
-      "url": "https://open.spotify.com/track/4vsJWPwWPS27gRM4oLjBNO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7 EP",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 141986,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         },
         {
           "name": "Miley Cyrus",
@@ -376,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 131706,
-      "name": "Bring U Down",
-      "url": "https://open.spotify.com/track/3fsH9s00dbn9mSgUu7Yi9D"
+      "duration_ms": 141986,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV"
     },
     {
       "added_at": null,
@@ -390,15 +410,11 @@
         {
           "name": "Lil Nas X",
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 162720,
-      "name": "F9mily (You & Me)",
-      "url": "https://open.spotify.com/track/1ABQT5SxlUTNapSbSzblGx"
+      "duration_ms": 131706,
+      "name": "Bring U Down",
+      "url": "https://open.spotify.com/track/3fsH9s00dbn9mSgUu7Yi9D"
     }
   ],
   "unique_name": "This Is Lil Nas X",

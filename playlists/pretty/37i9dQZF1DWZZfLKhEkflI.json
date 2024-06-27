@@ -1,6 +1,6 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 73469,
+  "num_followers": 73499,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
@@ -571,18 +571,22 @@
     {
       "added_at": "2024-03-20 14:54:52",
       "album": {
-        "name": "Back To The Tracks",
-        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
+        "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
+        "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
       },
       "artists": [
         {
-          "name": "Tina Brooks",
-          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
         }
       ],
-      "duration_ms": 483293,
-      "name": "Back To The Tracks",
-      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
+      "duration_ms": 530840,
+      "name": "Blues Up And Down",
+      "url": "https://open.spotify.com/track/22IK0azgagib3S51e9AIOF"
     },
     {
       "added_at": "2024-03-20 14:54:52",
@@ -603,18 +607,18 @@
     {
       "added_at": "2024-03-20 14:54:52",
       "album": {
-        "name": "Clubhouse",
-        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
+        "name": "Back To The Tracks",
+        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Tina Brooks",
+          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
         }
       ],
-      "duration_ms": 425480,
-      "name": "Devilette",
-      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
+      "duration_ms": 483293,
+      "name": "Back To The Tracks",
+      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
     },
     {
       "added_at": "2024-03-20 14:54:52",
@@ -635,22 +639,18 @@
     {
       "added_at": "2024-03-20 14:54:52",
       "album": {
-        "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
-        "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
+        "name": "Clubhouse",
+        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
       },
       "artists": [
         {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        },
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 530840,
-      "name": "Blues Up And Down",
-      "url": "https://open.spotify.com/track/22IK0azgagib3S51e9AIOF"
+      "duration_ms": 425480,
+      "name": "Devilette",
+      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
     },
     {
       "added_at": "2024-03-20 14:54:52",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-03-20 14:54:52",
       "album": {
-        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 465066,
-      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
-      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
-    },
-    {
-      "added_at": "2024-03-20 14:54:52",
-      "album": {
         "name": "Lee-Way",
         "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 519360,
       "name": "The Champ",
       "url": "https://open.spotify.com/track/2LabSli3Hawqd8hq4N7IHp"
+    },
+    {
+      "added_at": "2024-03-20 14:54:52",
+      "album": {
+        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 465066,
+      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
+      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
     },
     {
       "added_at": "2024-03-20 14:54:52",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-03-20 14:54:52",
       "album": {
+        "name": "Lee-Way",
+        "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 729613,
+      "name": "Midtown Blues",
+      "url": "https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt"
+    },
+    {
+      "added_at": "2024-03-20 14:54:52",
+      "album": {
         "name": "My Conception",
         "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 367826,
       "name": "The Rake",
       "url": "https://open.spotify.com/track/4dR7kPaQ9U7fWHdwTHexkZ"
-    },
-    {
-      "added_at": "2024-03-20 14:54:52",
-      "album": {
-        "name": "Lee-Way",
-        "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 729613,
-      "name": "Midtown Blues",
-      "url": "https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt"
     },
     {
       "added_at": "2024-03-20 14:54:52",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-20 14:54:52",
       "album": {
-        "name": "Introducing Kenny Burrell: The First Blue Note Sessions",
-        "url": "https://open.spotify.com/album/3gIrrrmvhrrs4Y6KNu3sSQ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 488000,
-      "name": "Blues For Skeeter - Remastered 2000",
-      "url": "https://open.spotify.com/track/5DMvnFcUeu6TwYhwWDSpYx"
-    },
-    {
-      "added_at": "2024-03-20 14:54:52",
-      "album": {
         "name": "Benny Golson And The Philadelphians",
         "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2024-03-20 14:54:52",
       "album": {
+        "name": "Introducing Kenny Burrell: The First Blue Note Sessions",
+        "url": "https://open.spotify.com/album/3gIrrrmvhrrs4Y6KNu3sSQ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 488000,
+      "name": "Blues For Skeeter - Remastered 2000",
+      "url": "https://open.spotify.com/track/5DMvnFcUeu6TwYhwWDSpYx"
+    },
+    {
+      "added_at": "2024-03-20 14:54:52",
+      "album": {
         "name": "Shades Of Redd (Remastered)",
         "url": "https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-03-20 14:54:52",
       "album": {
-        "name": "The Congregation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 391266,
-      "name": "Main Spring - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G"
-    },
-    {
-      "added_at": "2024-03-20 14:54:52",
-      "album": {
         "name": "Hootin' 'N Tootin'",
         "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 239733,
       "name": "Dippin' In The Bag",
       "url": "https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj"
+    },
+    {
+      "added_at": "2024-03-20 14:54:52",
+      "album": {
+        "name": "The Congregation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 391266,
+      "name": "Main Spring - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G"
     },
     {
       "added_at": "2024-03-20 14:54:52",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-03-20 14:54:52",
       "album": {
-        "name": "Hootin' 'N Tootin'",
-        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
-      },
-      "artists": [
-        {
-          "name": "Fred Jackson",
-          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
-        }
-      ],
-      "duration_ms": 345466,
-      "name": "Preach Brother",
-      "url": "https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v"
-    },
-    {
-      "added_at": "2024-03-20 14:54:52",
-      "album": {
         "name": "The Blues and the Abstract Truth",
         "url": "https://open.spotify.com/album/7BSQKjtu7YjBkTuhBK2tIJ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 281986,
       "name": "Hoe Down",
       "url": "https://open.spotify.com/track/7kDlGHJVjuMGVZWNDlH9Ru"
+    },
+    {
+      "added_at": "2024-03-20 14:54:52",
+      "album": {
+        "name": "Hootin' 'N Tootin'",
+        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
+      },
+      "artists": [
+        {
+          "name": "Fred Jackson",
+          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
+        }
+      ],
+      "duration_ms": 345466,
+      "name": "Preach Brother",
+      "url": "https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v"
     },
     {
       "added_at": "2024-03-20 14:54:52",

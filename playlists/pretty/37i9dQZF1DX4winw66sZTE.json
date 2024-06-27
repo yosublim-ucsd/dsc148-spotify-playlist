@@ -1,6 +1,6 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 22796,
+  "num_followers": 22800,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Sherlock - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 239186,
-      "name": "Sherlock (Clue + Note)",
-      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "Another Miss Oh, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 216555,
       "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
       "url": "https://open.spotify.com/track/5NkpsRKvSBukdYQtl3WLZW"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "Sherlock - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 239186,
+      "name": "Sherlock (Clue + Note)",
+      "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 233098,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 233098,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "I GOT A BOY - The 4th Album",
-        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 271325,
-      "name": "I GOT A BOY",
-      "url": "https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "The 3rd Album Part.1",
         "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 212976,
       "name": "Please don\u2019t\u2026",
       "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 271325,
+      "name": "I GOT A BOY",
+      "url": "https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Mama - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
-      },
-      "artists": [
-        {
-          "name": "EXO-K",
-          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
-        }
-      ],
-      "duration_ms": 270452,
-      "name": "MAMA",
-      "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 229627,
       "name": "COME BACK HOME",
       "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "duration_ms": 270452,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+        "name": "Rain - SM STATION",
+        "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
+      "duration_ms": 222047,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Rain - SM STATION",
-        "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 222047,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU"
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "ME",
-        "url": "https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3"
-      },
-      "artists": [
-        {
-          "name": "CLC",
-          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "ME",
-      "url": "https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "THE SECRET",
         "url": "https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 222581,
       "name": "Secret",
       "url": "https://open.spotify.com/track/1OIb1AalkGikhzCRbWgchd"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3"
+      },
+      "artists": [
+        {
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI"
     },
     {
       "added_at": "2024-04-04 20:15:17",

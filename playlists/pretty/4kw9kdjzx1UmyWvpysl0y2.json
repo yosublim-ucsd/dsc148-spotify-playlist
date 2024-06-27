@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125929,
+  "num_followers": 125925,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASkayPZTNOtQqcW5VAwC/CF12VsHWS",
+  "snapshot_id": "AAASkvQ4liq6RRiSYMewaK7pKK+Ue0/j",
   "tracks": [
+    {
+      "added_at": "2024-06-26 13:08:10",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 251034,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc"
+    },
     {
       "added_at": "2024-06-25 14:27:09",
       "album": {

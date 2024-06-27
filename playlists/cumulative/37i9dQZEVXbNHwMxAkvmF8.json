@@ -7484,7 +7484,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 169795,
       "name": "Gengetek ellen",
       "url": "https://open.spotify.com/track/4Q6pUe0KTMlqRoxJpXCytk"
@@ -13200,7 +13200,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 193542,
       "name": "Miafasz",
       "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
@@ -13302,7 +13302,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 210526,
       "name": "Mihaszna",
       "url": "https://open.spotify.com/track/4fV9i6y3YjloifMR59K9O2"
@@ -22274,6 +22274,32 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "album": {
+        "name": "VOLT P\u00c1R ALKALOM",
+        "url": "https://open.spotify.com/album/5ci8XSR7YwZ7LnpM4Uum7R"
+      },
+      "artists": [
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "L.L. Junior",
+          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155159,
+      "name": "VOLT P\u00c1R ALKALOM",
+      "url": "https://open.spotify.com/track/1TxuMRsWqKFtBVerKoGrhp"
     },
     {
       "album": {

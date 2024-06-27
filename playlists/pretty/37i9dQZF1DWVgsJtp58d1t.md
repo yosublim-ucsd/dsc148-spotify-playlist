@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Happy Black Music Month! Cover: <a href="spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg">Kendrick Lamar</a>, Shot by: Arturo Holmes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,784 likes - 170 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,913 likes - 170 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

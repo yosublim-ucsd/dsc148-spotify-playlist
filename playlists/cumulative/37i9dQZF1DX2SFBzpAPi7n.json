@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 244293,
       "name": "404 Loading",
       "url": "https://open.spotify.com/track/13gq2LImslxP5pdi6nGTjO"
@@ -10565,6 +10565,42 @@
     },
     {
       "album": {
+        "name": "\"L\"",
+        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269976,
+      "name": "Tell 'em boys",
+      "url": "https://open.spotify.com/track/0rZf7sBjvU2hj7TNBbn8qm"
+    },
+    {
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195893,
+      "name": "TELL ME !",
+      "url": "https://open.spotify.com/track/4yIt2M4psdz8Bs3RzTi2c2"
+    },
+    {
+      "album": {
         "name": "The Devil Judge (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7dt9sjnoSCVuU4SLnHeFeG"
       },
@@ -12610,7 +12646,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 232558,
       "name": "\ub098\ubb34",
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"

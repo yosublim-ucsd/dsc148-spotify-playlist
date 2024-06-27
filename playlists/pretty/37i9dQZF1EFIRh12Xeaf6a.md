@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,734 likes - 273 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,735 likes - 273 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 19 | [Wasn't Born to Follow](https://open.spotify.com/track/3Lk77QOBVywNAVSqOPcuw2) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Notorious Byrd Brothers](https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B) | 2:03 |
 | 20 | [Pleasant Valley Sunday \- 2007 Remaster](https://open.spotify.com/track/2HqB3VSdiYmDkTTCPzVHOf) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Pisces, Aquarius, Capricorn & Jones Ltd\. \(Deluxe Edition\)](https://open.spotify.com/album/0hYCs5ttzuQcu86VPCEsXF) | 3:14 |
 | 21 | [Way Over Yonder](https://open.spotify.com/track/64lav7jWJqd5P4oWm4Ova6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 4:43 |
-| 22 | [Goin' Back](https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Notorious Byrd Brothers](https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B) | 3:25 |
-| 23 | [It's Going To Take Some Time](https://open.spotify.com/track/17MRUI1nql2E1GJEltjoyx) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [A Song For You](https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov) | 2:56 |
+| 22 | [It's Going To Take Some Time](https://open.spotify.com/track/17MRUI1nql2E1GJEltjoyx) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [A Song For You](https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov) | 2:56 |
+| 23 | [Goin' Back](https://open.spotify.com/track/6mM3QPK502fHwOYaj6ELmm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [The Notorious Byrd Brothers](https://open.spotify.com/album/5UI2X5VAmgu9xrlXDd5U7B) | 3:25 |
 | 24 | [Smackwater Jack](https://open.spotify.com/track/0PrW6YZOBGeukTkvJsSIV3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:41 |
 | 25 | [Tapestry](https://open.spotify.com/track/4kCS2MgX5dQFyqHy21MzJG) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:13 |
 | 26 | [As We Go Along](https://open.spotify.com/track/0n7K8jB7Lg4zCI4WBWxO0Q) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Head](https://open.spotify.com/album/3xru9aQ0OwyBa4JxfziloH) | 3:52 |
@@ -95,17 +95,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 85 | [The First Day In August](https://open.spotify.com/track/075zqvJuvxI0XVKcrosMAr) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:47 |
 | 86 | [This Little Girl](https://open.spotify.com/track/6VGqU1LCPFjJ7ZwrV5dsHS) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Donna the Prima Donna](https://open.spotify.com/album/5ZQh54BjXCUK15ziGP1zuX) | 2:34 |
 | 87 | [True Love](https://open.spotify.com/track/49K8v4qRymtDd15Uyg577I) | [Ben King](https://open.spotify.com/artist/3oyChKXh8fpsLj65HfXs8E) | [Save the Last Dance for Me](https://open.spotify.com/album/1aLCACK63j3wSqGr5FvfDu) | 2:15 |
-| 88 | [The Girl From Ipanema](https://open.spotify.com/track/4azEwlFfJ6rC1Zp88dRoJI) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Snuggles](https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [The Girl From Ipanema](https://open.spotify.com/album/5bDOastHuIYL0rHjZ3WMDf) | 1:23 |
-| 89 | [How Many Tears](https://open.spotify.com/track/5gd2WpEBaSaMAcvSPaIgBj) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [With Strings And Things](https://open.spotify.com/album/0MqJETsHm4n5RPkHwZnroy) | 2:06 |
-| 90 | [Really Rosie](https://open.spotify.com/track/5VY8GdeUT4ytQkqwD57kIh) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 1:50 |
-| 91 | [Song of Long Ago](https://open.spotify.com/track/0exUcfluyGwOgsfYh9xYNf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:44 |
+| 88 | [How Many Tears](https://open.spotify.com/track/5gd2WpEBaSaMAcvSPaIgBj) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [With Strings And Things](https://open.spotify.com/album/0MqJETsHm4n5RPkHwZnroy) | 2:06 |
+| 89 | [The Girl From Ipanema](https://open.spotify.com/track/4azEwlFfJ6rC1Zp88dRoJI) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Snuggles](https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [The Girl From Ipanema](https://open.spotify.com/album/5bDOastHuIYL0rHjZ3WMDf) | 1:23 |
+| 90 | [Song of Long Ago](https://open.spotify.com/track/0exUcfluyGwOgsfYh9xYNf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:44 |
+| 91 | [Really Rosie](https://open.spotify.com/track/5VY8GdeUT4ytQkqwD57kIh) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 1:50 |
 | 92 | [You Light Up My Life](https://open.spotify.com/track/10qVTksSWVtwvJVUa0iD7e) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Release Me 2](https://open.spotify.com/album/5Ele2n7DDMGy8S4CSZCykm) | 3:38 |
 | 93 | [Tell Daddy \- Single Version](https://open.spotify.com/track/3pCkgTO02gQveCFBiRKBoe) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [The Complete Atco/Atlantic Singles, Vol\. 1: 1960\-1966](https://open.spotify.com/album/1Wvl2Y20FavtOTi6y0jhEb) | 2:41 |
 | 94 | [A Quiet Place to Live](https://open.spotify.com/track/5gjD5X9YR05v8JVqbWvqg7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 1:55 |
 | 95 | [Pierre](https://open.spotify.com/track/4yG5v8qiUhri7PyWp8qaLE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 5:38 |
 | 96 | [Being at War with Each Other](https://open.spotify.com/track/1hHpDn9q89uyvPAlrkri8i) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 4:01 |
-| 97 | [In the Name of Love](https://open.spotify.com/track/5RpGVmGXHyC9xQXsAFB3W6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:04 |
-| 98 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 97 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 98 | [In the Name of Love](https://open.spotify.com/track/5RpGVmGXHyC9xQXsAFB3W6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:04 |
 | 99 | [After All This Time](https://open.spotify.com/track/202Rv6z4W2aE0rxYwUfCq9) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 3:10 |
 | 100 | [Snow Queen](https://open.spotify.com/track/4ixqlGDNCyg5HvWDtC0lBQ) | [Aliotta Haynes Jeremiah](https://open.spotify.com/artist/4VmWYQQ5M9N9AiAx14v2yg) | [Lake Shore Drive](https://open.spotify.com/album/24NY6n4z0tDzpt8QCiWEGV) | 4:32 |
 | 101 | [My My She Cries](https://open.spotify.com/track/5JYRYD8ya0yaE4p6oqjXH1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:19 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbVCAgAAAABK0OI9wVU0eup1c6tlhfT9`
+Snapshot ID: `AbVH3gAAAABS+2/FOHzlVjVchtt8u4aW`

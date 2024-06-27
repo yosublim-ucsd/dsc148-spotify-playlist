@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eme Malafe en portada.",
-  "num_followers": 168787,
+  "num_followers": 168796,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,26 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "LINDA",
+        "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 224210,
+      "name": "LINDA",
+      "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Skin de Bandida",
         "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
       },
@@ -395,26 +415,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "LINDA",
-        "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 224210,
-      "name": "LINDA",
-      "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Kalashnikov",
         "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
       },
@@ -427,30 +427,6 @@
       "duration_ms": 129500,
       "name": "Kalashnikov",
       "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Don Dimadon",
-        "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
-      },
-      "artists": [
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 184987,
-      "name": "Don Dimadon",
-      "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -475,6 +451,30 @@
       "duration_ms": 156716,
       "name": "Tacata (Remix)",
       "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Don Dimadon",
+        "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
+      },
+      "artists": [
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 184987,
+      "name": "Don Dimadon",
+      "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 211352,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 211352,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -783,6 +783,30 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Ando Enfocado",
+        "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Ando Enfocado",
+      "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Gimme A Second",
         "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
       },
@@ -819,30 +843,6 @@
       "duration_ms": 172056,
       "name": "Mi Terre CLN",
       "url": "https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Ando Enfocado",
-        "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Ando Enfocado",
-      "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Koenigsegg",
-        "url": "https://open.spotify.com/album/2BCfKhmwimc5a0lhdRZN65"
-      },
-      "artists": [
-        {
-          "name": "Brian Santin",
-          "url": "https://open.spotify.com/artist/7yqNw1jSOfhiP62pXYggdx"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 186459,
-      "name": "Koenigsegg",
-      "url": "https://open.spotify.com/track/3jZ24Jd8i5FNpePjYQy4ck"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Hasta El QLO",
         "url": "https://open.spotify.com/album/59QlyRjPd5USQQ7OdbMIe3"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 162480,
       "name": "Hasta El QLO",
       "url": "https://open.spotify.com/track/4lTlUpfOSZphX37uotVwx6"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Koenigsegg",
+        "url": "https://open.spotify.com/album/2BCfKhmwimc5a0lhdRZN65"
+      },
+      "artists": [
+        {
+          "name": "Brian Santin",
+          "url": "https://open.spotify.com/artist/7yqNw1jSOfhiP62pXYggdx"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 186459,
+      "name": "Koenigsegg",
+      "url": "https://open.spotify.com/track/3jZ24Jd8i5FNpePjYQy4ck"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Un Tabaco (En Vivo)",
+        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
+      },
+      "artists": [
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "Un Tabaco (En Vivo)",
+      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "KATY PERRY",
         "url": "https://open.spotify.com/album/0ZwHrjXLSKASw5RRvJK01t"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 155909,
       "name": "KATY PERRY",
       "url": "https://open.spotify.com/track/7F9wULTYG7mrp7bykMoU2K"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Un Tabaco (En Vivo)",
-        "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
-      },
-      "artists": [
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "Un Tabaco (En Vivo)",
-      "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1787,22 +1787,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "La Cumbia De La Baliniza",
-        "url": "https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc"
+        "name": "Porte Malandro Fres\u00f3n",
+        "url": "https://open.spotify.com/album/4uXVAVVf7aCt2sHVBnKD6U"
       },
       "artists": [
         {
-          "name": "Los C\u00f3mplices",
-          "url": "https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn"
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
         },
         {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
         }
       ],
-      "duration_ms": 167235,
-      "name": "La Cumbia De La Baliniza",
-      "url": "https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF"
+      "duration_ms": 149761,
+      "name": "Porte Malandro Fres\u00f3n",
+      "url": "https://open.spotify.com/track/44rmoLP3engelokQlkWhLJ"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1823,22 +1823,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Porte Malandro Fres\u00f3n",
-        "url": "https://open.spotify.com/album/4uXVAVVf7aCt2sHVBnKD6U"
+        "name": "La Cumbia De La Baliniza",
+        "url": "https://open.spotify.com/album/0rrk5OiasAkClqvriMUPwc"
       },
       "artists": [
         {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+          "name": "Los C\u00f3mplices",
+          "url": "https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn"
         },
         {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
         }
       ],
-      "duration_ms": 149761,
-      "name": "Porte Malandro Fres\u00f3n",
-      "url": "https://open.spotify.com/track/44rmoLP3engelokQlkWhLJ"
+      "duration_ms": 167235,
+      "name": "La Cumbia De La Baliniza",
+      "url": "https://open.spotify.com/track/4sNnFf3VjtL0biCWSiI6BF"
     },
     {
       "added_at": "2024-06-07 06:00:00",

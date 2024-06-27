@@ -3045,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Damar",
+        "url": "https://open.spotify.com/album/65tKPzNW9Z4Wk4IVQ3Objv"
+      },
+      "artists": [
+        {
+          "name": "Lamis Kan",
+          "url": "https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251868,
+      "name": "Damar",
+      "url": "https://open.spotify.com/track/2wOPcU3AZrTEw0teqb0vSw"
+    },
+    {
+      "album": {
         "name": "Dars Hayaty",
         "url": "https://open.spotify.com/album/1ItG5aRvvmxKzEIpUnwbBB"
       },
@@ -7893,6 +7911,24 @@
     },
     {
       "album": {
+        "name": "Mafesh Mamnoua",
+        "url": "https://open.spotify.com/album/5QwUNgzFhyr5FF4VTSUsk1"
+      },
+      "artists": [
+        {
+          "name": "Latifa",
+          "url": "https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169352,
+      "name": "Mafesh Mamnoua",
+      "url": "https://open.spotify.com/track/5gUjWmBApbGWUFh74iDc1F"
+    },
+    {
+      "album": {
         "name": "Mafish Keda",
         "url": "https://open.spotify.com/album/6PAQDC98KMLmzdnlGVqHA8"
       },
@@ -9222,7 +9258,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 202355,
       "name": "Moog - Red Bull Sada Sot",
       "url": "https://open.spotify.com/track/5biAZYSL9ujS1A87ZHm3Y0"
@@ -14580,7 +14616,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 280975,
       "name": "\u0628\u0642\u0648\u0644 \u0648\u0627\u0643\u062f\u0628",
       "url": "https://open.spotify.com/track/4Lep7DGWWogIqr3tpAHfSC"
@@ -18686,6 +18722,24 @@
       "duration_ms": 195249,
       "name": "\u064a\u0627\u0645\u0627 \u0627\u0644\u0644\u064a\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/3odspHtOBp0vxJS2f4IkT6"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627\u0645\u0627 \u0643\u0646\u062a \u0628\u0634\u0643\u064a \u0644\u0644\u0632\u0645\u0646 \u0627\u0646\u0627 \u062d\u0627\u0644\u064a - \u0627\u0645\u0627\u0646\u0647 \u0628\u0633 \u0644\u0648 \u062d\u062f \u064a\u0639\u0631\u0641 \u0645\u0627\u0644\u064a",
+        "url": "https://open.spotify.com/album/56IwlaA2ehOMGpLr2apZIN"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Mashal",
+          "url": "https://open.spotify.com/artist/5fKTVxUJTVu6uYin0ppPdf"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231573,
+      "name": "\u064a\u0627\u0645\u0627 \u0643\u0646\u062a \u0628\u0634\u0643\u064a \u0644\u0644\u0632\u0645\u0646 \u0627\u0646\u0627 \u062d\u0627\u0644\u064a - \u0627\u0645\u0627\u0646\u0647 \u0628\u0633 \u0644\u0648 \u062d\u062f \u064a\u0639\u0631\u0641 \u0645\u0627\u0644\u064a",
+      "url": "https://open.spotify.com/track/3pUi2KywQhEg2yA5Ge9PTn"
     },
     {
       "album": {

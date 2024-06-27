@@ -512,12 +512,12 @@
       },
       "artists": [
         {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        },
-        {
           "name": "Mohammad Faiz",
           "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
         }
       ],
       "date_added": "2024-06-11",

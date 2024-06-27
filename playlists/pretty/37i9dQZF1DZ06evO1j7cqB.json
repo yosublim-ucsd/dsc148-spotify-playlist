@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 9610,
+  "num_followers": 9615,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAACxd8isNoJZYURX1CJ3H+II",
+  "snapshot_id": "ZnoIgAAAAACtAXB+K7t3lGXcWPGYQZhA",
   "tracks": [
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 49321,
-      "name": "Theme from the Walking Dead",
-      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
+      "duration_ms": 177613,
+      "name": "The Day Will Come",
+      "url": "https://open.spotify.com/track/4tjeF7cfcy4q5vN1Yu7IAo"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 177613,
-      "name": "The Day Will Come",
-      "url": "https://open.spotify.com/track/4tjeF7cfcy4q5vN1Yu7IAo"
+      "duration_ms": 49321,
+      "name": "Theme from the Walking Dead",
+      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 130400,
-      "name": "Mothra's Song",
-      "url": "https://open.spotify.com/track/07MzNaR5Rrxm4IqpeOHAxM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 130400,
+      "name": "Mothra's Song",
+      "url": "https://open.spotify.com/track/07MzNaR5Rrxm4IqpeOHAxM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marvel's Agents of S.H.I.E.L.D.",
         "url": "https://open.spotify.com/album/0QC50e0EZ0MAYLbbbeit0M"
       },
@@ -687,26 +687,6 @@
       "duration_ms": 171960,
       "name": "Agents of S.H.I.E.L.D. Overture",
       "url": "https://open.spotify.com/track/7g5H7rvDNnb6VAaLxjCgW5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Sophia Nomvete",
-          "url": "https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW"
-        }
-      ],
-      "duration_ms": 227386,
-      "name": "A Plea to the Rocks",
-      "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
     },
     {
       "added_at": null,
@@ -751,6 +731,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Nomvete",
+          "url": "https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW"
+        }
+      ],
+      "duration_ms": 227386,
+      "name": "A Plea to the Rocks",
+      "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Gillebr\u00ecde Macmillan",
+          "url": "https://open.spotify.com/artist/19zK5vFzvXwUb65RRuoIg4"
+        }
+      ],
+      "duration_ms": 95262,
+      "name": "An Fh\u00ecdeag Airgid (feat. Gillebride MacMillan)",
+      "url": "https://open.spotify.com/track/1HBRYkdOLAxiP1D06hmqCC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Singularity",
         "url": "https://open.spotify.com/album/3F3bn1GGgjTSn8AQadLo4w"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 243202,
       "name": "Escape from the Machines",
       "url": "https://open.spotify.com/track/2xyZON494V7biqOcJ4gwWX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Raya Yarbrough",
-          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "The Summoning (feat. Raya Yarbrough)",
-      "url": "https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq"
     },
     {
       "added_at": null,
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "The Summoning (feat. Raya Yarbrough)",
+      "url": "https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Battlestar Galactica: Season 3 (Original Soundtrack) [Remastered]",
         "url": "https://open.spotify.com/album/2s89jzS4wSxUdzZdhjTb8k"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 214440,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/6u4j7iBlbnPv0QEmlpf3W8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Gillebr\u00ecde Macmillan",
-          "url": "https://open.spotify.com/artist/19zK5vFzvXwUb65RRuoIg4"
-        }
-      ],
-      "duration_ms": 95262,
-      "name": "An Fh\u00ecdeag Airgid (feat. Gillebride MacMillan)",
-      "url": "https://open.spotify.com/track/1HBRYkdOLAxiP1D06hmqCC"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Seven: The Eye - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1uVZhJYHy8dcumbR7ZEkVv"
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 392964,
-      "name": "Infirmary",
-      "url": "https://open.spotify.com/track/0kjI3u4eyLULtEiJE07DEc"
+      "duration_ms": 135893,
+      "name": "To the Begging I Will Go",
+      "url": "https://open.spotify.com/track/6fgl77WtVLCveA6IPmLvXX"
     }
   ],
   "unique_name": "This Is Bear McCreary",

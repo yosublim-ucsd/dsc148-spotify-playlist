@@ -1,6 +1,6 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 60108,
+  "num_followers": 60133,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -419,18 +419,22 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Gnawa Njoum Experience",
-        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
       },
       "artists": [
         {
-          "name": "Gnawa Njoum Experience",
-          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
+          "name": "Gnawa de Marrakech",
+          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
+        },
+        {
+          "name": "Maalem Mahjoub",
+          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
         }
       ],
-      "duration_ms": 375120,
-      "name": "Baba Arabi",
-      "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
+      "duration_ms": 541653,
+      "name": "Salat al Nabi",
+      "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
     },
     {
       "added_at": "2023-08-10 19:42:53",
@@ -451,22 +455,18 @@
     {
       "added_at": "2023-08-10 19:42:53",
       "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+        "name": "Gnawa Njoum Experience",
+        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
       },
       "artists": [
         {
-          "name": "Gnawa de Marrakech",
-          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
-        },
-        {
-          "name": "Maalem Mahjoub",
-          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+          "name": "Gnawa Njoum Experience",
+          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
         }
       ],
-      "duration_ms": 541653,
-      "name": "Salat al Nabi",
-      "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
+      "duration_ms": 375120,
+      "name": "Baba Arabi",
+      "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
     },
     {
       "added_at": "2023-08-10 19:42:53",

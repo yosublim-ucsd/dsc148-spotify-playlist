@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de Cris Mj.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,650 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,758 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 11 | [MIAMI VIBES 2.0 \(with Polimá Westcoast & Aqua VS\)](https://open.spotify.com/track/2gK4jE05sDGissNGeIYvn7) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [FINALMENTE LIBRE](https://open.spotify.com/album/4SOp9ebHU3O2waxCa7cm49) | 3:20 |
 | 12 | [Perco Con Mari](https://open.spotify.com/track/1qkVJlyVaLZbwolRZmc17i) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Perco Con Mari](https://open.spotify.com/album/0IVrXEJ6q4tiYEJNWqkjlA) | 3:59 |
 | 13 | [LOUD \(feat\. Piero 47, 3TRIPLE J, JulianoChieff\)](https://open.spotify.com/track/4urZ3ocnvCpgU0Rv1P6Pd5) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [3TRIPLE J](https://open.spotify.com/artist/2lvn0dSSamgNsFZPaJPzoR), [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l) | [LOUD \(feat\. Piero 47, 3TRIPLE J, JulianoChieff\)](https://open.spotify.com/album/6FtE6zJfTCiDMh0ju5B8nN) | 5:41 |
-| 14 | [Big Glocks](https://open.spotify.com/track/7i8NO4HHq8bWEYXrU6tmYM) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [Big Glocks](https://open.spotify.com/album/6U9wHzw31rbF5DJF4P0kiT) | 3:29 |
+| 14 | [Big Glocks](https://open.spotify.com/track/7i8NO4HHq8bWEYXrU6tmYM) | [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [Big Glocks](https://open.spotify.com/album/6U9wHzw31rbF5DJF4P0kiT) | 3:17 |
 | 15 | [Como Lo Soñamos](https://open.spotify.com/track/73MxLebHswOiNzYqHlKDW9) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Lo Soñamos](https://open.spotify.com/album/13fkbJw2bElBpM00Em4AgW) | 3:16 |
 | 16 | [CLAP](https://open.spotify.com/track/0WF17ZUQCLX2eIgq99bIUe) | [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Savage Bright](https://open.spotify.com/artist/6BrFszfIlVIvrox20vz3uQ) | [CLAP](https://open.spotify.com/album/7djt3Er4AULCNXTFlgnYrk) | 2:45 |
 | 17 | [X Dinero](https://open.spotify.com/track/5rqOopoA9X1ybr0Yfk9YOx) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Trap Life](https://open.spotify.com/album/20TTxQ5tBU35RYiAghI6uf) | 2:54 |

@@ -1,6 +1,6 @@
 {
   "description": "Bien al tiro con Los Farmerz, Los Alegres Del Barranco and the hottest corridos in the U.S.!",
-  "num_followers": 266443,
+  "num_followers": 266484,
   "original_name": "Al Tiro",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-06-21 10:09:26",
       "album": {
-        "name": "SC-9",
-        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 165261,
-      "name": "SC-9",
-      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
-    },
-    {
-      "added_at": "2024-06-21 10:09:26",
-      "album": {
         "name": "Un Suspir\u00f3",
         "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 184411,
       "name": "Un Suspir\u00f3",
       "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+    },
+    {
+      "added_at": "2024-06-21 10:09:26",
+      "album": {
+        "name": "SC-9",
+        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 165261,
+      "name": "SC-9",
+      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
     },
     {
       "added_at": "2024-06-21 10:09:26",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-06-21 10:09:26",
       "album": {
-        "name": "TESLA",
-        "url": "https://open.spotify.com/album/4KAl3vaHCPQDvqHtPPwpeL"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 136375,
-      "name": "TESLA",
-      "url": "https://open.spotify.com/track/24ywDS7nerYsXy99wwbEDk"
-    },
-    {
-      "added_at": "2024-06-21 10:09:26",
-      "album": {
         "name": "Soy Buen Amigo",
         "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 153967,
       "name": "Soy Buen Amigo",
       "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
+    },
+    {
+      "added_at": "2024-06-21 10:09:26",
+      "album": {
+        "name": "TESLA",
+        "url": "https://open.spotify.com/album/4KAl3vaHCPQDvqHtPPwpeL"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 136375,
+      "name": "TESLA",
+      "url": "https://open.spotify.com/track/24ywDS7nerYsXy99wwbEDk"
     },
     {
       "added_at": "2024-06-21 10:09:26",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-06-21 10:09:26",
       "album": {
-        "name": "LA 701",
-        "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 164482,
-      "name": "LA 701",
-      "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
-    },
-    {
-      "added_at": "2024-06-21 10:09:26",
-      "album": {
         "name": "Soy VIP",
         "url": "https://open.spotify.com/album/3sIb7P0k12l1IaThmLPzkV"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 181109,
       "name": "Soy VIP",
       "url": "https://open.spotify.com/track/4Kn7o7LfvnQS9khdDgm05a"
+    },
+    {
+      "added_at": "2024-06-21 10:09:26",
+      "album": {
+        "name": "LA 701",
+        "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 164482,
+      "name": "LA 701",
+      "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
     },
     {
       "added_at": "2024-06-21 10:09:26",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-06-21 10:09:26",
       "album": {
+        "name": "Tirando la H",
+        "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 119333,
+      "name": "Tirando la H",
+      "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
+    },
+    {
+      "added_at": "2024-06-21 10:09:26",
+      "album": {
         "name": "Me Pongo Belikon",
         "url": "https://open.spotify.com/album/7dtzKzqSAivR4nxhKO8FX6"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 148245,
       "name": "Me Pongo Belikon",
       "url": "https://open.spotify.com/track/3CPGCgJs3AVKxxzPNKYjsY"
-    },
-    {
-      "added_at": "2024-06-21 10:09:26",
-      "album": {
-        "name": "Tirando la H",
-        "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 119333,
-      "name": "Tirando la H",
-      "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
     },
     {
       "added_at": "2024-06-21 10:09:26",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-06-21 10:09:26",
       "album": {
+        "name": "Gorra L.A.",
+        "url": "https://open.spotify.com/album/1CSP6xUW9UGaQG4XsWRY1j"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 161571,
+      "name": "Gorra L.A.",
+      "url": "https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG"
+    },
+    {
+      "added_at": "2024-06-21 10:09:26",
+      "album": {
         "name": "Como Esta Carnal",
         "url": "https://open.spotify.com/album/3jPvYnxQhTg658G7r634Km"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 205853,
       "name": "Como Esta Carnal",
       "url": "https://open.spotify.com/track/2TbRrrT3NFqrQohxZcKg7h"
-    },
-    {
-      "added_at": "2024-06-21 10:09:26",
-      "album": {
-        "name": "Gorra L.A.",
-        "url": "https://open.spotify.com/album/1CSP6xUW9UGaQG4XsWRY1j"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 161571,
-      "name": "Gorra L.A.",
-      "url": "https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG"
     },
     {
       "added_at": "2024-06-21 10:09:26",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2024-06-21 10:09:26",
       "album": {
+        "name": "El Gerente",
+        "url": "https://open.spotify.com/album/4QVubyun1jCOQ1NIwBbrq4"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "El Gerente",
+      "url": "https://open.spotify.com/track/6FcdLIc4fWVBNUJNd9dIXA"
+    },
+    {
+      "added_at": "2024-06-21 10:09:26",
+      "album": {
         "name": "Arriba Las Manos",
         "url": "https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 135960,
       "name": "Arriba Las Manos",
       "url": "https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5"
-    },
-    {
-      "added_at": "2024-06-21 10:09:26",
-      "album": {
-        "name": "El Gerente",
-        "url": "https://open.spotify.com/album/4QVubyun1jCOQ1NIwBbrq4"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "El Gerente",
-      "url": "https://open.spotify.com/track/6FcdLIc4fWVBNUJNd9dIXA"
     }
   ],
   "unique_name": "Al Tiro",

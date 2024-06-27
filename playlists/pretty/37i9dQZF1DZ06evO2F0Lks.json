@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 143328,
+  "num_followers": 143359,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAAAyHxXmCALao2msIZsfrKjW",
+  "snapshot_id": "ZnoIgAAAAAAhotJyv28B/9XsZwppW6Lz",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "All-American Girl",
+      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
@@ -183,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "The Champion - Bonus Track",
-      "url": "https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
@@ -215,6 +211,22 @@
       "duration_ms": 205560,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
     },
     {
       "added_at": null,
@@ -271,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "The Champion - Bonus Track",
+      "url": "https://open.spotify.com/track/2F6JxWMP2ZfmVErc3ZTmqQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Is Country Music",
         "url": "https://open.spotify.com/album/3krMgq4qNrE8SvW5rRg50V"
       },
@@ -319,6 +351,26 @@
       "duration_ms": 209920,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 213857,
+      "name": "I Wanna Remember (feat. Carrie Underwood)",
+      "url": "https://open.spotify.com/track/124KRi7jkm9Skq89xIK28V"
     },
     {
       "added_at": null,
@@ -531,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+        "name": "Greatest Hits: Decade #1",
+        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
       },
       "artists": [
         {
@@ -540,9 +592,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 284706,
-      "name": "Just a Dream",
-      "url": "https://open.spotify.com/track/7g8OpS827dAYU067lZaR0L"
+      "duration_ms": 210760,
+      "name": "Little Toy Guns",
+      "url": "https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X"
     },
     {
       "added_at": null,
@@ -563,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: Decade #1",
-        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
       "artists": [
         {
@@ -572,9 +624,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 210760,
-      "name": "Little Toy Guns",
-      "url": "https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X"
+      "duration_ms": 268560,
+      "name": "Temporary Home",
+      "url": "https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM"
     },
     {
       "added_at": null,
@@ -595,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
       },
       "artists": [
         {
@@ -604,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 268560,
-      "name": "Temporary Home",
-      "url": "https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM"
+      "duration_ms": 247320,
+      "name": "Cry Pretty",
+      "url": "https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM"
     },
     {
       "added_at": null,
@@ -627,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
       "artists": [
         {
@@ -636,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 247320,
-      "name": "Cry Pretty",
-      "url": "https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM"
+      "duration_ms": 240240,
+      "name": "Mama's Song",
+      "url": "https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa"
     },
     {
       "added_at": null,
@@ -655,22 +707,6 @@
       "duration_ms": 257893,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 240240,
-      "name": "Mama's Song",
-      "url": "https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa"
     },
     {
       "added_at": null,
@@ -711,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Me Out",
-        "url": "https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Denim & Rhinestones (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
       },
@@ -739,6 +759,22 @@
       "duration_ms": 184466,
       "name": "Drunk and Hungover",
       "url": "https://open.spotify.com/track/6mFw6OhoyHsEdRFCCNY8LP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take Me Out",
+        "url": "https://open.spotify.com/album/6sJh3uH5blwXur99LVe2pQ"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
     },
     {
       "added_at": null,
@@ -791,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only Us (From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        },
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 225621,
-      "name": "Only Us (with Dan + Shay) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Denim & Rhinestones",
         "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
@@ -827,34 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+        "name": "Only Us (From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5j1dWzKgecz37sV0sedDwF"
       },
       "artists": [
         {
           "name": "Carrie Underwood",
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Choctaw County Affair",
-      "url": "https://open.spotify.com/track/31qhbcGwJRQAe8bITyTQAt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
-      },
-      "artists": [
+        },
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 193360,
-      "name": "End Up With You",
-      "url": "https://open.spotify.com/track/5XIrB4tNKqmGxtVbYpTllz"
+      "duration_ms": 225621,
+      "name": "Only Us (with Dan + Shay) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/5uS9wvMZRGItgtOEzKZoTK"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

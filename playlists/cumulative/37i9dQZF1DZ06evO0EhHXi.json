@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-11",
-  "description": "This is \u30e9\u30e2\u30fc\u30f3\u30ba\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "name": "This Is \u30e9\u30e2\u30fc\u30f3\u30ba",
+  "description": "This Is Ramones. Los temas esenciales, todos en una lista.",
+  "name": "This Is Ramones",
   "tracks": [
     {
       "album": {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 111866,
       "name": "Let's Dance - 2016 Remaster",
       "url": "https://open.spotify.com/track/5wPUGMFkGjNQH9W3FkgkGt"

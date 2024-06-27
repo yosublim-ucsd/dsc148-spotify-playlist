@@ -1,6 +1,6 @@
 {
   "description": "blir det en hvit sommer?",
-  "num_followers": 110018,
+  "num_followers": 110026,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Ungkar med dobbelseng",
+        "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
+      },
+      "artists": [
+        {
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+        }
+      ],
+      "duration_ms": 190466,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Gamleveien",
         "url": "https://open.spotify.com/album/3ZvbYMfxz7TFXp9Zqv4uZf"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 137816,
       "name": "Gamleveien",
       "url": "https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Ungkar med dobbelseng",
-        "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 190466,
-      "name": "Granada",
-      "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -299,26 +299,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Mekke bil (feat. Tor-Anders Ringnes)",
-        "url": "https://open.spotify.com/album/5KudautWOwAQOyFVWhrGRt"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Tor-Anders Ringnes",
-          "url": "https://open.spotify.com/artist/1C6ztSfBUGTx9lZ65HjqqW"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Mekke bil (feat. Tor-Anders Ringnes)",
-      "url": "https://open.spotify.com/track/4dqrmHVAq0GtWgb0oGXGAA"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Sju Fjell",
         "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
       },
@@ -331,6 +311,22 @@
       "duration_ms": 178171,
       "name": "Sju Fjell",
       "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Staut",
+        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
+      },
+      "artists": [
+        {
+          "name": "Staut",
+          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Sj\u00e5 sole",
+      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -355,54 +351,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Staut",
-        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
-      },
-      "artists": [
-        {
-          "name": "Staut",
-          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Sj\u00e5 sole",
-      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Hald deg fast",
-        "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 201178,
-      "name": "Hald deg fast",
-      "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Konge p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 180393,
-      "name": "Konge p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Dunka",
         "url": "https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7"
       },
@@ -423,6 +371,58 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Hald deg fast",
+        "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 201178,
+      "name": "Hald deg fast",
+      "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Mekke bil (feat. Tor-Anders Ringnes)",
+        "url": "https://open.spotify.com/album/5KudautWOwAQOyFVWhrGRt"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Tor-Anders Ringnes",
+          "url": "https://open.spotify.com/artist/1C6ztSfBUGTx9lZ65HjqqW"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Mekke bil (feat. Tor-Anders Ringnes)",
+      "url": "https://open.spotify.com/track/4dqrmHVAq0GtWgb0oGXGAA"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Konge p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 180393,
+      "name": "Konge p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Polare",
         "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
       },
@@ -439,8 +439,8 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "P\u00e5 hytta g\u00e5r det bra",
-        "url": "https://open.spotify.com/album/6Hg5gU51YHaRdBts9GXmqs"
+        "name": "Har du lyst har du lov",
+        "url": "https://open.spotify.com/album/5lKiWb3gleGfRPCUrImexs"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
         }
       ],
-      "duration_ms": 129485,
-      "name": "P\u00e5 hytta g\u00e5r det bra",
-      "url": "https://open.spotify.com/track/1bmRqWCbN925Pk8A19g1EE"
+      "duration_ms": 147785,
+      "name": "Har du lyst har du lov",
+      "url": "https://open.spotify.com/track/24fZgYryGyJ5ofUKhGRcpy"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -551,8 +551,8 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Har du lyst har du lov",
-        "url": "https://open.spotify.com/album/5lKiWb3gleGfRPCUrImexs"
+        "name": "P\u00e5 hytta g\u00e5r det bra",
+        "url": "https://open.spotify.com/album/6Hg5gU51YHaRdBts9GXmqs"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
         }
       ],
-      "duration_ms": 147785,
-      "name": "Har du lyst har du lov",
-      "url": "https://open.spotify.com/track/24fZgYryGyJ5ofUKhGRcpy"
+      "duration_ms": 129485,
+      "name": "P\u00e5 hytta g\u00e5r det bra",
+      "url": "https://open.spotify.com/track/1bmRqWCbN925Pk8A19g1EE"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "B\u00f8gda (Remix)",
-        "url": "https://open.spotify.com/album/2JERhOqPI0H3ihKyqjBYt7"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 171938,
-      "name": "B\u00f8gda - Remix",
-      "url": "https://open.spotify.com/track/5Bz4qWEYrg4jCX9hWq1Pkh"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Hej sk\u00e5l!",
         "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 129375,
       "name": "Hej sk\u00e5l!",
       "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Rull\u00e6r",
+        "url": "https://open.spotify.com/album/54JEprViU1skzpmEgO32A1"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        }
+      ],
+      "duration_ms": 147934,
+      "name": "Rull\u00e6r",
+      "url": "https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Rull\u00e6r",
-        "url": "https://open.spotify.com/album/54JEprViU1skzpmEgO32A1"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
-        }
-      ],
-      "duration_ms": 147934,
-      "name": "Rull\u00e6r",
-      "url": "https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Ei tid (Akustisk versjon)",
         "url": "https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 137106,
       "name": "Der Jeg H\u00f8rer Te (Bygda)",
       "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "B\u00f8gda (Remix)",
+        "url": "https://open.spotify.com/album/2JERhOqPI0H3ihKyqjBYt7"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 171938,
+      "name": "B\u00f8gda - Remix",
+      "url": "https://open.spotify.com/track/5Bz4qWEYrg4jCX9hWq1Pkh"
     },
     {
       "added_at": "2024-06-13 22:00:00",

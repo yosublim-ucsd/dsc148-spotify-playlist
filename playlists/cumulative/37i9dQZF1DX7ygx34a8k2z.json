@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/6K8J4txeZp5anMIE0srVqr"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 308880,
       "name": "Drowned World / Substitute for Love",
       "url": "https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk"
@@ -1370,6 +1370,24 @@
       "duration_ms": 233160,
       "name": "Gentlemen - Remastered",
       "url": "https://open.spotify.com/track/4ZmjkfxPnqu62t2gcMgpoU"
+    },
+    {
+      "album": {
+        "name": "Get Back Again",
+        "url": "https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250331,
+      "name": "Get Back Again",
+      "url": "https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0"
     },
     {
       "album": {
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 260333,
       "name": "Let Me Ride",
       "url": "https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT"
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 105986,
       "name": "Lowlife - '92 cassette",
       "url": "https://open.spotify.com/track/1foEqghEYeYPRnQzNVSNGQ"
@@ -3352,7 +3370,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175533,
       "name": "Sex & Candy",
       "url": "https://open.spotify.com/track/669UUGJqllYeW8SoL7lxmB"
@@ -3766,7 +3784,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 142200,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/3ZGQMBLN5qpkR6R5qEuuUm"
@@ -4292,7 +4310,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 240306,
       "name": "What\u2019s The Frequency, Kenneth? - Remastered",
       "url": "https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e"

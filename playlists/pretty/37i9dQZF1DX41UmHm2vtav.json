@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 467981,
+  "num_followers": 468012,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -1031,22 +1031,30 @@
     {
       "added_at": "2024-06-21 12:57:05",
       "album": {
-        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
-        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
+        "name": "Quem N\u00e3o Quer Sou Eu",
+        "url": "https://open.spotify.com/album/5W6Q0cY6UPrE8xETTenYVr"
       },
       "artists": [
         {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
         },
         {
-          "name": "LION dj",
-          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
         }
       ],
-      "duration_ms": 300432,
-      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
-      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
+      "duration_ms": 178205,
+      "name": "Quem N\u00e3o Quer Sou Eu",
+      "url": "https://open.spotify.com/track/2kVbOlICxuNwFU8pFEx12q"
     },
     {
       "added_at": "2024-06-21 12:57:05",
@@ -1067,6 +1075,26 @@
       "duration_ms": 173446,
       "name": "I Do - with Zeeba",
       "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+    },
+    {
+      "added_at": "2024-06-21 12:57:05",
+      "album": {
+        "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
+        "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        },
+        {
+          "name": "LION dj",
+          "url": "https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ"
+        }
+      ],
+      "duration_ms": 300432,
+      "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
+      "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
     },
     {
       "added_at": "2024-06-21 12:57:05",
@@ -1175,34 +1203,6 @@
       "duration_ms": 269015,
       "name": "Todo Homem - Bhaskar, Mojjo Remix",
       "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
-    },
-    {
-      "added_at": "2024-06-21 12:57:05",
-      "album": {
-        "name": "Quem N\u00e3o Quer Sou Eu",
-        "url": "https://open.spotify.com/album/5W6Q0cY6UPrE8xETTenYVr"
-      },
-      "artists": [
-        {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "Quem N\u00e3o Quer Sou Eu",
-      "url": "https://open.spotify.com/track/2kVbOlICxuNwFU8pFEx12q"
     },
     {
       "added_at": "2024-06-21 12:57:05",

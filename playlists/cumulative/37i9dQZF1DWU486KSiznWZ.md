@@ -2,7 +2,7 @@
 
 ### [Hits خليجي](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: اصيل هميم
+> اسمعوا افضل الاغاني الخليجية <br/>الغلاف: اصيل هميم
 
 174 songs - 12 hr 27 min
 

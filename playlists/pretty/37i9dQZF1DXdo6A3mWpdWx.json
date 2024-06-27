@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 870736,
+  "num_followers": 871222,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Remember the Time",
+      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
         "name": "Music Sounds Better With You",
         "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 260906,
       "name": "Music Sounds Better With You - Radio Edit",
       "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Remember the Time",
-      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "added_at": "2024-06-11 19:27:48",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
-        "name": "Life Thru A Lens",
-        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Let Me Entertain You",
-      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
         "name": "Homebase",
         "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 270973,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
+        "name": "Life Thru A Lens",
+        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Let Me Entertain You",
+      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
     },
     {
       "added_at": "2024-06-11 19:27:48",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
-        "name": "12 Inches Of Snow",
-        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
-      },
-      "artists": [
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 268910,
-      "name": "Informer",
-      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 324666,
       "name": "Fastlove, Pt. 1",
       "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
+        "name": "12 Inches Of Snow",
+        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
+      },
+      "artists": [
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 268910,
+      "name": "Informer",
+      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
     },
     {
       "added_at": "2024-06-11 19:27:48",
@@ -1488,7 +1488,7 @@
           "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 285462,
+      "duration_ms": 285706,
       "name": "Heartbreaker (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
     },
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 317080,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
         "name": "'N Sync UK Version",
         "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 200440,
       "name": "I Want You Back - Radio Edit",
       "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 317080,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
     },
     {
       "added_at": "2024-06-11 19:27:48",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2024-06-11 19:27:48",
       "album": {
-        "name": "Was Ist Das",
-        "url": "https://open.spotify.com/album/0QmvLPwLCu50ebemsJZT6F"
-      },
-      "artists": [
-        {
-          "name": "Mo-Do",
-          "url": "https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f"
-        }
-      ],
-      "duration_ms": 313426,
-      "name": "Eins Zwei Polizei",
-      "url": "https://open.spotify.com/track/015p8TgFahkz0viuux9YGJ"
-    },
-    {
-      "added_at": "2024-06-11 19:27:48",
-      "album": {
         "name": "The Best Of Crystal Waters",
         "url": "https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 278626,
       "name": "100% Pure Love",
       "url": "https://open.spotify.com/track/0dfQwyoZoS9LgQiU6AJO7f"
+    },
+    {
+      "added_at": "2024-06-11 19:27:48",
+      "album": {
+        "name": "Was Ist Das",
+        "url": "https://open.spotify.com/album/0QmvLPwLCu50ebemsJZT6F"
+      },
+      "artists": [
+        {
+          "name": "Mo-Do",
+          "url": "https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f"
+        }
+      ],
+      "duration_ms": 313426,
+      "name": "Eins Zwei Polizei",
+      "url": "https://open.spotify.com/track/015p8TgFahkz0viuux9YGJ"
     },
     {
       "added_at": "2024-06-11 19:27:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,675 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,781 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 50 | [Knock Knock](https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Deppz](https://open.spotify.com/artist/7jhS9dwK214Tp1KgEVfyd2) | [Knock Knock](https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2) | 3:18 |
 | 51 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
 | 52 | [Misfit](https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Ikebana \- EP](https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK) | 3:46 |
-| 53 | [STUCK ON U](https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [BABE?](https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi) | 3:30 |
-| 54 | [Want \(ur body\)](https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Want \(ur body\)](https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts) | 4:34 |
+| 53 | [Want \(ur body\)](https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Want \(ur body\)](https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts) | 4:34 |
+| 54 | [STUCK ON U](https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [BABE?](https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi) | 3:30 |
 | 55 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
 | 56 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
 | 57 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 |
 | 58 | [Bite Your Lip pt\. 2](https://open.spotify.com/track/62FIFVM7LIDDfNM4fEqDgx) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Bite Your Lip pt\. 2](https://open.spotify.com/album/4TMaXttEPyK93NHPPoLzcL) | 3:05 |
 | 59 | [Passion](https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [What About The DJ?](https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV) | 4:40 |
-| 60 | [Ruffneck](https://open.spotify.com/track/2IdA9NR0QVKYDWKQZObq0s) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B), [James Bangura](https://open.spotify.com/artist/7939stjhhD9rNBMg0HvQ4o) | [Ruffneck](https://open.spotify.com/album/266vU1sTez2M31BgOIYEhL) | 4:18 |
-| 61 | [Bad Bassline](https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH), [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF) | [Bad Bassline](https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH) | 3:11 |
+| 60 | [Bad Bassline](https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH), [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF) | [Bad Bassline](https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH) | 3:11 |
+| 61 | [Ruffneck](https://open.spotify.com/track/2IdA9NR0QVKYDWKQZObq0s) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B), [James Bangura](https://open.spotify.com/artist/7939stjhhD9rNBMg0HvQ4o) | [Ruffneck](https://open.spotify.com/album/266vU1sTez2M31BgOIYEhL) | 4:18 |
 | 62 | [Boom](https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Boom](https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA) | 3:02 |
 | 63 | [IMMACULATE SKANK](https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IMMACULATE SKANK](https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm) | 3:42 |
 | 64 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |

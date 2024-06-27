@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 66 | [Like You Do](https://open.spotify.com/track/4vS4ciFalEcCgwJR0hG5ro) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Like You Do](https://open.spotify.com/album/0sPG1RSfhPiOTOYx1rXwk5) | 2:24 |
 | 67 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 |
 | 68 | [Shapeshifting](https://open.spotify.com/track/0wyrhNheLaN7wyiW1TaJ0D) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:26 |
-| 69 | [Memories](https://open.spotify.com/track/2YyAfOVKSMDiWXnKMuHdFI) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Memories](https://open.spotify.com/album/5o53jTcQgHqjjtQaSPo8Rh) | 2:43 |
-| 70 | [Pretty When You Lie](https://open.spotify.com/track/2Bl0J01BAk7JkMGCtLdRz5) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Pretty When You Lie](https://open.spotify.com/album/7xEXzVF62ib2CVTIqKZGJa) | 2:15 |
+| 69 | [Pretty When You Lie](https://open.spotify.com/track/2Bl0J01BAk7JkMGCtLdRz5) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Pretty When You Lie](https://open.spotify.com/album/7xEXzVF62ib2CVTIqKZGJa) | 2:15 |
+| 70 | [Memories](https://open.spotify.com/track/2YyAfOVKSMDiWXnKMuHdFI) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Memories](https://open.spotify.com/album/5o53jTcQgHqjjtQaSPo8Rh) | 2:43 |
 | 71 | [Comfortable](https://open.spotify.com/track/4h7ZS66TqqTnQcNn9DDZkx) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:56 |
 | 72 | [Wallet, Keys & Phone](https://open.spotify.com/track/7mux2YcZHv7HQPfj8wPlcG) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [French Pirates](https://open.spotify.com/artist/0kTuCWShcfxSpOKQ2xYdf3) | [Wallet, Keys & Phone](https://open.spotify.com/album/2AdOab51bDityCFh0kROI2) | 2:53 |
 | 73 | [Infinity](https://open.spotify.com/track/5YO9riGOJgBA10bDFdWU6T) | [Lavid](https://open.spotify.com/artist/6uWv9tuRobkbltKnvzXVoX), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Infinity](https://open.spotify.com/album/6JxiApeLVGYcw0vUdCpIrV) | 3:08 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 103 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
 | 104 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 
-Snapshot ID: `AbVCNAAAAADnOfBPscKC0P0f0EETxcBb`
+Snapshot ID: `AbVH1AAAAACD784tRSoR7WV8U6ElUBuG`

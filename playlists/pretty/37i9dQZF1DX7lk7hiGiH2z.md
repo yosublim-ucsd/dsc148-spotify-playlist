@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,247 likes - 45 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,279 likes - 45 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 18 | [Contigo en la playa](https://open.spotify.com/track/5YZpIO8LYmAuHY6RshKAgL) | [Kira Kolumna](https://open.spotify.com/artist/4ZRVadQQ7rbyhiGZurqb72) | [Contigo en la playa](https://open.spotify.com/album/3hFrMthztGPiBeedZoMyIS) | 2:21 |
 | 19 | [Probiers mal mit Gemütlichkeit](https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld) | [Jupiter Jones](https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 2](https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6) | 3:07 |
 | 20 | [Die Jahresuhr](https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederkalender / Die Jahresuhr](https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW) | 3:52 |
-| 21 | [Dschungelparty](https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9) | [Giraffenaffen Gang](https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv) | [Nö mit Ö](https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V) | 3:05 |
-| 22 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
+| 21 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
+| 22 | [Dschungelparty](https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9) | [Giraffenaffen Gang](https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv) | [Nö mit Ö](https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V) | 3:05 |
 | 23 | [In den Urlaub](https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [Das Gelbe vom Schwamm](https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT) | 3:30 |
 | 24 | [Kleine Meise](https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:28 |
 | 25 | [Jahreszeiten](https://open.spotify.com/track/4jHtjsvqHhOJaPgvq36szI) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Jahreszeiten](https://open.spotify.com/album/3HWPzMy11VN2SEH4NI5svm) | 3:22 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 40 | [Ab in den Urlaub](https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Urlaub \- EP](https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0) | 2:06 |
 | 41 | [Blüht ein Blümlein](https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 1:35 |
 | 42 | [Baller mit meinem Rad](https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Meine Mütze und Ich](https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5) | 2:47 |
-| 43 | [Ida's Sommerlied](https://open.spotify.com/track/32rYNfv14cF2dDdAu1WCkL) | [Sonia Liebing](https://open.spotify.com/artist/3YZCbwdW9Gy1sZXV39uf6B), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 1:53 |
-| 44 | [Fühl Mich So Gut](https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 2:02 |
+| 43 | [Wir wollen Sonne \(Verde e amarelo\)](https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 3:39 |
+| 44 | [Ida's Sommerlied](https://open.spotify.com/track/32rYNfv14cF2dDdAu1WCkL) | [Sonia Liebing](https://open.spotify.com/artist/3YZCbwdW9Gy1sZXV39uf6B), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 1:53 |
 | 45 | [Urlaub unter Freunden](https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR) | [Die Lollipops](https://open.spotify.com/artist/6rZqH8GxGkk8qoDVwjC8Nt) | [Zusammen sind wir doppelt stark\-Unser Freundschaftsalbum](https://open.spotify.com/album/6VDjPoe7YZFBNkCntEfkQS) | 3:33 |
 
 Snapshot ID: `ZmLEGAAAAAAJNCU7W7rkD3iVCRaueIbc`

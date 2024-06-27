@@ -1579,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "Aggy",
+        "url": "https://open.spotify.com/album/2TyrytZI5dx2qjDSPSlPe2"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206597,
+      "name": "Aggy",
+      "url": "https://open.spotify.com/track/12xM3OgBvG73MOfVCEphGg"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa"
       },
@@ -41040,7 +41058,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 190730,
       "name": "Slugs - yeule & Kin Leonn Remix",
       "url": "https://open.spotify.com/track/4KAq5S5t4tHz5jaARTRT7t"

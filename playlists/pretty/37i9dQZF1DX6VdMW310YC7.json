@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3890790,
+  "num_followers": 3890827,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Waiting For The Sun",
-        "url": "https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 222278,
-      "name": "Waiting For The Sun",
-      "url": "https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "The Kind of Love",
         "url": "https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 187384,
       "name": "The Kind of Love",
       "url": "https://open.spotify.com/track/7CyStHLAihLyfUX738UElG"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Waiting For The Sun",
+        "url": "https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 222278,
+      "name": "Waiting For The Sun",
+      "url": "https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 177206,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
       },
@@ -971,42 +987,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 177206,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "snowfall",
-        "url": "https://open.spotify.com/album/77vLEdWiuJQt9oyPG84csK"
-      },
-      "artists": [
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        }
-      ],
-      "duration_ms": 141785,
-      "name": "snowfall",
-      "url": "https://open.spotify.com/track/2e3KEsdhY5S2RDl593dbOE"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "I Will Leave a Light On",
         "url": "https://open.spotify.com/album/2KSD7hHUDnXcgTO56Zhwi2"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 240975,
       "name": "I Will Leave a Light On",
       "url": "https://open.spotify.com/track/2xlSM0k9SCoG6UMaZWWRiC"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "snowfall",
+        "url": "https://open.spotify.com/album/77vLEdWiuJQt9oyPG84csK"
+      },
+      "artists": [
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        }
+      ],
+      "duration_ms": 141785,
+      "name": "snowfall",
+      "url": "https://open.spotify.com/track/2e3KEsdhY5S2RDl593dbOE"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "U REALLY HURT ME",
-        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
-      },
-      "artists": [
-        {
-          "name": "LUV HRTS",
-          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
-        },
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "U REALLY HURT ME",
-      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 227987,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "U REALLY HURT ME",
+        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
+      },
+      "artists": [
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        },
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "U REALLY HURT ME",
+      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 262221,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Hush Hush",
         "url": "https://open.spotify.com/album/3jkBwDVX1UXdLclMHJsAAX"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 293133,
       "name": "Gleams",
       "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 262221,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "My Reflection",
+        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 257608,
+      "name": "My Reflection",
+      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "This Is Love",
         "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
       },
@@ -1659,42 +1675,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "My Reflection",
-        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 257608,
-      "name": "My Reflection",
-      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/03JjqwDRiH4zqkIwyUTxKo"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 247447,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3w9Y8pn8IslbbCL970xMcy"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "No Ending (Nils Hoffmann Remix)",
         "url": "https://open.spotify.com/album/4hrRW25xx2jiQqFe5pSbjs"
       },
@@ -1719,6 +1699,26 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/03JjqwDRiH4zqkIwyUTxKo"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 247447,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3w9Y8pn8IslbbCL970xMcy"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Fortified",
         "url": "https://open.spotify.com/album/3CY9DD7Kle1y2hA5tjoT4I"
       },
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Monday Car",
-        "url": "https://open.spotify.com/album/3HPu6yW6rnclrduY4sHvBl"
-      },
-      "artists": [
-        {
-          "name": "Marin Lavelle",
-          "url": "https://open.spotify.com/artist/5PeNOtLcCVzXgn5g3joShS"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Monday Car",
-      "url": "https://open.spotify.com/track/0LUDpqcfCMQy0SPnWaiFir"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 267860,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Monday Car",
+        "url": "https://open.spotify.com/album/3HPu6yW6rnclrduY4sHvBl"
+      },
+      "artists": [
+        {
+          "name": "Marin Lavelle",
+          "url": "https://open.spotify.com/artist/5PeNOtLcCVzXgn5g3joShS"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Monday Car",
+      "url": "https://open.spotify.com/track/0LUDpqcfCMQy0SPnWaiFir"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Dark In This Room",
+        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Dark In This Room",
+      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Nothing To Lose (feat. Circa Waves)",
         "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 258284,
       "name": "Nothing To Lose (feat. Circa Waves)",
       "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 269249,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1911,22 +1911,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Portals",
-        "url": "https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW"
+        "name": "See You In Dreams",
+        "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
         },
         {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
         }
       ],
-      "duration_ms": 231784,
-      "name": "Portals",
-      "url": "https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol"
+      "duration_ms": 271519,
+      "name": "See You In Dreams",
+      "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
     }
   ],
   "unique_name": "Chill Tracks",

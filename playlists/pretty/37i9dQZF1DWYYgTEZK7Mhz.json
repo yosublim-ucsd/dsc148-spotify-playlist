@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 30539,
+  "num_followers": 30592,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-06-03 12:38:43",
       "album": {
-        "name": "Peppino Di Capri",
-        "url": "https://open.spotify.com/album/2jtQpCnF21YfepWwuM0tec"
-      },
-      "artists": [
-        {
-          "name": "Peppino Di Capri",
-          "url": "https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4"
-        }
-      ],
-      "duration_ms": 137346,
-      "name": "Saint-Tropez Twist",
-      "url": "https://open.spotify.com/track/0yzxnz8zp2ttEAWKgeD006"
-    },
-    {
-      "added_at": "2024-06-03 12:38:43",
-      "album": {
         "name": "Un'estate al mare / Bing bang being [Digital 45]",
         "url": "https://open.spotify.com/album/1fgPsJVsNaH1pU9Ff67Hyh"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 198373,
       "name": "Un'estate al mare",
       "url": "https://open.spotify.com/track/37ynOa5jIP5OaMTK2If1Sd"
+    },
+    {
+      "added_at": "2024-06-03 12:38:43",
+      "album": {
+        "name": "Peppino Di Capri",
+        "url": "https://open.spotify.com/album/2jtQpCnF21YfepWwuM0tec"
+      },
+      "artists": [
+        {
+          "name": "Peppino Di Capri",
+          "url": "https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4"
+        }
+      ],
+      "duration_ms": 137346,
+      "name": "Saint-Tropez Twist",
+      "url": "https://open.spotify.com/track/0yzxnz8zp2ttEAWKgeD006"
     },
     {
       "added_at": "2024-06-03 12:38:43",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-06-03 12:38:43",
       "album": {
+        "name": "I Grandi Successi degli anni '60 [New Edition]",
+        "url": "https://open.spotify.com/album/1membNisSAiJIocUKBuvCz"
+      },
+      "artists": [
+        {
+          "name": "Gianni Pettenati",
+          "url": "https://open.spotify.com/artist/0nc6KCFosBCzuavMT94Ofo"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Bandiera gialla",
+      "url": "https://open.spotify.com/track/1ANLC3r7DQ5KCH4WRBnUXq"
+    },
+    {
+      "added_at": "2024-06-03 12:38:43",
+      "album": {
         "name": "Qualcuno mi pu\u00f2 giudicare",
         "url": "https://open.spotify.com/album/1ydi18iypjZlrUszS7gsbO"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 161933,
       "name": "Nessuno mi pu\u00f2 giudicare",
       "url": "https://open.spotify.com/track/0ZXKyekFgjiSJ6q2Wc3bRn"
-    },
-    {
-      "added_at": "2024-06-03 12:38:43",
-      "album": {
-        "name": "Donatella Rettore",
-        "url": "https://open.spotify.com/album/2eGxIkMPIgcvthCOLYoQZU"
-      },
-      "artists": [
-        {
-          "name": "Donatella Rettore",
-          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Kobra",
-      "url": "https://open.spotify.com/track/6RyJ57TU2qJCw3GIv9Ag1B"
     },
     {
       "added_at": "2024-06-03 12:38:43",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-06-03 12:38:43",
       "album": {
-        "name": "Self control",
-        "url": "https://open.spotify.com/album/7AYodrNIhuRvYAsMcfzBdP"
+        "name": "Donatella Rettore",
+        "url": "https://open.spotify.com/album/2eGxIkMPIgcvthCOLYoQZU"
       },
       "artists": [
         {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+          "name": "Donatella Rettore",
+          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
         }
       ],
-      "duration_ms": 238493,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/70VXILTu9LqZNDc1VmqDGg"
+      "duration_ms": 207360,
+      "name": "Kobra",
+      "url": "https://open.spotify.com/track/6RyJ57TU2qJCw3GIv9Ag1B"
     },
     {
       "added_at": "2024-06-03 12:38:43",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-06-03 12:38:43",
       "album": {
-        "name": "I Grandi Successi degli anni '60 [New Edition]",
-        "url": "https://open.spotify.com/album/1membNisSAiJIocUKBuvCz"
+        "name": "Self control",
+        "url": "https://open.spotify.com/album/7AYodrNIhuRvYAsMcfzBdP"
       },
       "artists": [
         {
-          "name": "Gianni Pettenati",
-          "url": "https://open.spotify.com/artist/0nc6KCFosBCzuavMT94Ofo"
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
         }
       ],
-      "duration_ms": 148826,
-      "name": "Bandiera gialla",
-      "url": "https://open.spotify.com/track/1ANLC3r7DQ5KCH4WRBnUXq"
+      "duration_ms": 238493,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/70VXILTu9LqZNDc1VmqDGg"
     },
     {
       "added_at": "2024-06-03 12:38:43",

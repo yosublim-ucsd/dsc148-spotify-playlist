@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Demae
 
-1,992 songs - 4 day 10 hr 14 min
+1,993 songs - 4 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1289,6 +1289,7 @@
 | [Nothing to Something](https://open.spotify.com/track/0jy6xqf66xAccJWPg1db5e) | [Nolay](https://open.spotify.com/artist/5DBQ8zSyCGuMkg52bhRG5X) | [Nothing to Something](https://open.spotify.com/album/7q2jCrSm2cpo6mpSuKag30) | 3:45 | 2022-02-16 | 2023-01-05 |
 | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/track/5e5mWtx00orL2FTbRv4kr9) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/album/721N179Yxv1G8kqefWUc0A) | 2:50 | 2023-11-08 | 2023-11-30 |
 | [notice](https://open.spotify.com/track/6tDNa0dOZAM3WeFabwCQXW) | [becca kate](https://open.spotify.com/artist/4k11Fgj5xMaWa4GF1a06e5) | [notice](https://open.spotify.com/album/4I2va2ct27Ib8gOxLgyOWw) | 3:44 | 2022-07-13 | 2022-10-13 |
+| [NOTICE ME](https://open.spotify.com/track/2i0ZKqkeZqt7QkNm5zfJyD) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [NOTICE ME](https://open.spotify.com/album/05lEKjJydJ0cpNyw6gvrom) | 1:55 | 2024-06-26 |  |
 | [Notre Dame Made Out of Flesh](https://open.spotify.com/track/3qiftvGuJKJhHB5Pjy1u9p) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Notre Dame Made Out of Flesh](https://open.spotify.com/album/0UFabPWPdCbnptLEJnu5LZ) | 5:05 | 2023-09-05 | 2024-01-03 |
 | [Now I'm Alone](https://open.spotify.com/track/3Fc2pLWaMpuFtepib2J92X) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Now I'm Alone](https://open.spotify.com/album/7rPlFVP0vuCQe5ZgpKfzSE) | 4:06 | 2022-11-16 | 2023-01-19 |
 | [now rest.](https://open.spotify.com/track/7w2BFaIljW2VETno4xiwsr) | [Daisy George](https://open.spotify.com/artist/4HS2aOCR0Km1namVrjoP59), [Mohan Evans](https://open.spotify.com/artist/4lwPjcmi291GXEg8WGNhEJ) | [see me now](https://open.spotify.com/album/0iWIgSsPhn9UClzSQH7Dk2) | 5:56 | 2023-01-04 | 2023-03-02 |

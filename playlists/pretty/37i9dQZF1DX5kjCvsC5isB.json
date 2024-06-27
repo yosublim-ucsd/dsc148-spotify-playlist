@@ -1,6 +1,6 @@
 {
   "description": "Women who rock our world. Cover: The Last Dinner Party",
-  "num_followers": 297103,
+  "num_followers": 297144,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 165317,
+      "name": "T.M.I",
+      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
         "name": "She\u2019s So Cool (with Pale Waves)",
         "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 146250,
       "name": "She\u2019s So Cool (with Pale Waves)",
       "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
-        "name": "Past // Present // Future",
-        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 165317,
-      "name": "T.M.I",
-      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -751,18 +751,18 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "poser",
-        "url": "https://open.spotify.com/album/2cYM6qi8MBNjQIwfAcJa3C"
+        "name": "Liquor and Kerosene (feat. The Maine)",
+        "url": "https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j"
       },
       "artists": [
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
         }
       ],
-      "duration_ms": 169065,
-      "name": "poser",
-      "url": "https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl"
+      "duration_ms": 214024,
+      "name": "Liquor and Kerosene (feat. The Maine)",
+      "url": "https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Liquor and Kerosene (feat. The Maine)",
-        "url": "https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j"
+        "name": "poser",
+        "url": "https://open.spotify.com/album/2cYM6qi8MBNjQIwfAcJa3C"
       },
       "artists": [
         {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
         }
       ],
-      "duration_ms": 214024,
-      "name": "Liquor and Kerosene (feat. The Maine)",
-      "url": "https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY"
+      "duration_ms": 169065,
+      "name": "poser",
+      "url": "https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Got It Bad",
-        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 178804,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Cherry Picking",
         "url": "https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 150736,
       "name": "Cherry Picking",
       "url": "https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 178804,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Cult Classic",
-        "url": "https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr"
-      },
-      "artists": [
-        {
-          "name": "Holy Wars",
-          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
-        }
-      ],
-      "duration_ms": 198123,
-      "name": "CULT CLASSIC",
-      "url": "https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Over The Threshold",
         "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 249600,
       "name": "Over The Threshold",
       "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr"
+      },
+      "artists": [
+        {
+          "name": "Holy Wars",
+          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+        }
+      ],
+      "duration_ms": 198123,
+      "name": "CULT CLASSIC",
+      "url": "https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Love Goes On",
-        "url": "https://open.spotify.com/album/30eJbXVjjtYtYtwkt337Sr"
-      },
-      "artists": [
-        {
-          "name": "Kelsy Karter & The Heroines",
-          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Love Goes On",
-      "url": "https://open.spotify.com/track/3xeyZGEEVW8SZPmteR9Fw6"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "KILLJOY",
         "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 138944,
       "name": "What's The Point In Life",
       "url": "https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Love Goes On",
+        "url": "https://open.spotify.com/album/30eJbXVjjtYtYtwkt337Sr"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Love Goes On",
+      "url": "https://open.spotify.com/track/3xeyZGEEVW8SZPmteR9Fw6"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "The Pain",
-        "url": "https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD"
-      },
-      "artists": [
-        {
-          "name": "Another Sky",
-          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "The Pain",
-      "url": "https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "GOOD LUCK",
         "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "I Think You Should Leave",
-        "url": "https://open.spotify.com/album/1XsERUmCUSsSnoGCsNpbX3"
+        "name": "The Pain",
+        "url": "https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD"
       },
       "artists": [
         {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+          "name": "Another Sky",
+          "url": "https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr"
         }
       ],
-      "duration_ms": 163624,
-      "name": "I Think You Should Leave",
-      "url": "https://open.spotify.com/track/6YcrBSmLlD2vRUjAQkcUtL"
+      "duration_ms": 221080,
+      "name": "The Pain",
+      "url": "https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1415,22 +1399,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Tornillo",
-        "url": "https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 93251,
-      "name": "Tornillo",
-      "url": "https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Big Bite",
         "url": "https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI"
       },
@@ -1443,6 +1411,38 @@
       "duration_ms": 201400,
       "name": "Big Bite",
       "url": "https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "I Think You Should Leave",
+        "url": "https://open.spotify.com/album/1XsERUmCUSsSnoGCsNpbX3"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 163624,
+      "name": "I Think You Should Leave",
+      "url": "https://open.spotify.com/track/6YcrBSmLlD2vRUjAQkcUtL"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Tornillo",
+        "url": "https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 93251,
+      "name": "Tornillo",
+      "url": "https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx"
     },
     {
       "added_at": "2024-02-28 19:20:31",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Nanpa B\u00e1sico. Los temas esenciales, todos en una lista.",
-  "num_followers": 216662,
+  "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
+  "num_followers": 216779,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAADmOnWs4fPw6CdApHv2nhcF",
+  "snapshot_id": "ZnoIgAAAAACrho+ROxCUurbAEt9nXAoN",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Ti Estoy Bien",
+        "url": "https://open.spotify.com/album/1UDfUiqSqAZ4TFom6yzZ89"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 221696,
+      "name": "Sin Ti Estoy Bien",
+      "url": "https://open.spotify.com/track/4RrOSjdnV8rkpIuOIfkKYS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La \u00daltima",
         "url": "https://open.spotify.com/album/6V3S0KF8E2DAylBIEN0EiO"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 187733,
       "name": "La \u00daltima",
       "url": "https://open.spotify.com/track/322r3kTVgJv9RCxcoG854x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Ti Estoy Bien",
-        "url": "https://open.spotify.com/album/1UDfUiqSqAZ4TFom6yzZ89"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 221696,
-      "name": "Sin Ti Estoy Bien",
-      "url": "https://open.spotify.com/track/4RrOSjdnV8rkpIuOIfkKYS"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otro Paso a la Locura",
+        "url": "https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 228675,
+      "name": "Prototipo",
+      "url": "https://open.spotify.com/track/2eDnDmBCMRWiADTOWgVtHR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 183000,
       "name": "No Se Sobrepase",
       "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otro Paso a la Locura",
-        "url": "https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Prototipo",
-      "url": "https://open.spotify.com/track/2eDnDmBCMRWiADTOWgVtHR"
     },
     {
       "added_at": null,

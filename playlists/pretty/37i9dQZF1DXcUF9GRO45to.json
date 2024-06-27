@@ -1,6 +1,6 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 38091,
+  "num_followers": 38098,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
+        "name": "SNAKES",
+        "url": "https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk"
+      },
+      "artists": [
+        {
+          "name": "YAOUND\u00c9BOXINGCLUB",
+          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "SNAKES",
+      "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
         "name": "Long Life",
         "url": "https://open.spotify.com/album/54xgrAyNTiSiVPXydgJPoF"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 255483,
       "name": "Piece Of You",
       "url": "https://open.spotify.com/track/591M3gxvS0gc4JdZZqn6oy"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
-        "name": "SNAKES",
-        "url": "https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk"
-      },
-      "artists": [
-        {
-          "name": "YAOUND\u00c9BOXINGCLUB",
-          "url": "https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "SNAKES",
-      "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Take It or Leave It",
-        "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
-      },
-      "artists": [
-        {
-          "name": "Teacup Monster",
-          "url": "https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW"
-        }
-      ],
-      "duration_ms": 238947,
-      "name": "Take It",
-      "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "The Devil You Know",
         "url": "https://open.spotify.com/album/7zrq1fN6aANP2nDQZA2CtL"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Little Armageddon (Deluxe)",
-        "url": "https://open.spotify.com/album/3RINC17yAVSYXzIzhmCmiY"
+        "name": "Take It or Leave It",
+        "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
       },
       "artists": [
         {
-          "name": "Skip the Use",
-          "url": "https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB"
+          "name": "Teacup Monster",
+          "url": "https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW"
         }
       ],
-      "duration_ms": 186160,
-      "name": "Second To None",
-      "url": "https://open.spotify.com/track/7zOop5skARaxQjkxh9JlZR"
+      "duration_ms": 238947,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -635,6 +619,22 @@
       "duration_ms": 220812,
       "name": "Power Lines",
       "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Little Armageddon (Deluxe)",
+        "url": "https://open.spotify.com/album/3RINC17yAVSYXzIzhmCmiY"
+      },
+      "artists": [
+        {
+          "name": "Skip the Use",
+          "url": "https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB"
+        }
+      ],
+      "duration_ms": 186160,
+      "name": "Second To None",
+      "url": "https://open.spotify.com/track/7zOop5skARaxQjkxh9JlZR"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "L\u00e9on",
-        "url": "https://open.spotify.com/album/469XU2UjBypsJUKNCARczN"
-      },
-      "artists": [
-        {
-          "name": "Ottis C\u0153ur",
-          "url": "https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "L\u00e9on",
-      "url": "https://open.spotify.com/track/2PRjQpMbTBaerHD6QRktB5"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Sisyphus",
         "url": "https://open.spotify.com/album/1zZ0wIAF8iYeiLGqNxqVOI"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 233880,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1I2u7A2VycGzm1YUU1Oe36"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "L\u00e9on",
+        "url": "https://open.spotify.com/album/469XU2UjBypsJUKNCARczN"
+      },
+      "artists": [
+        {
+          "name": "Ottis C\u0153ur",
+          "url": "https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "L\u00e9on",
+      "url": "https://open.spotify.com/track/2PRjQpMbTBaerHD6QRktB5"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Ashamed",
-        "url": "https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo"
-      },
-      "artists": [
-        {
-          "name": "Mad Foxes",
-          "url": "https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Crystal Glass",
-      "url": "https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Night of the Loving Dead",
         "url": "https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 203906,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Ashamed",
+        "url": "https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo"
+      },
+      "artists": [
+        {
+          "name": "Mad Foxes",
+          "url": "https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Crystal Glass",
+      "url": "https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/24e49t2eGI5UV88f1uLTOe"
-      },
-      "artists": [
-        {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
-        }
-      ],
-      "duration_ms": 177040,
-      "name": "Pop Pop Pop",
-      "url": "https://open.spotify.com/track/68ySTFttrJJjrCD6U6Yeg3"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/24e49t2eGI5UV88f1uLTOe"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "duration_ms": 177040,
+      "name": "Pop Pop Pop",
+      "url": "https://open.spotify.com/track/68ySTFttrJJjrCD6U6Yeg3"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
         "name": "Teenage Ends",
         "url": "https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Provocative",
-        "url": "https://open.spotify.com/album/3WruGDJtSzFt10JJjIQh5G"
-      },
-      "artists": [
-        {
-          "name": "WOOD WOUNDS",
-          "url": "https://open.spotify.com/artist/0pT5iVVXSZxmytxY6Dqnzm"
-        }
-      ],
-      "duration_ms": 119062,
-      "name": "Provocative",
-      "url": "https://open.spotify.com/track/38a028wwlHws1qY0UfVgCK"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Daddy Issues",
         "url": "https://open.spotify.com/album/31gjmH07EByb5lpua6I4G8"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 289476,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/2IQq6WSFeAeQIdarYvlGxP"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Provocative",
+        "url": "https://open.spotify.com/album/3WruGDJtSzFt10JJjIQh5G"
+      },
+      "artists": [
+        {
+          "name": "WOOD WOUNDS",
+          "url": "https://open.spotify.com/artist/0pT5iVVXSZxmytxY6Dqnzm"
+        }
+      ],
+      "duration_ms": 119062,
+      "name": "Provocative",
+      "url": "https://open.spotify.com/track/38a028wwlHws1qY0UfVgCK"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Horns",
-        "url": "https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf"
-      },
-      "artists": [
-        {
-          "name": "Lysistrata",
-          "url": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
-        }
-      ],
-      "duration_ms": 206873,
-      "name": "Horns",
-      "url": "https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Liquor Liquor",
         "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 222288,
       "name": "Liquor Liquor",
       "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Horns",
+        "url": "https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf"
+      },
+      "artists": [
+        {
+          "name": "Lysistrata",
+          "url": "https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb"
+        }
+      ],
+      "duration_ms": 206873,
+      "name": "Horns",
+      "url": "https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Nothing Belongs to Anything",
-        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
-      },
-      "artists": [
-        {
-          "name": "Cosse",
-          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
-        }
-      ],
-      "duration_ms": 308125,
-      "name": "Welcome Newcomers",
-      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Chantal",
         "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
+        "name": "Nothing Belongs to Anything",
+        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
+      },
+      "artists": [
+        {
+          "name": "Cosse",
+          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
+        }
+      ],
+      "duration_ms": 308125,
+      "name": "Welcome Newcomers",
+      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
         "name": "HORIZON",
         "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
       },
@@ -1251,26 +1251,6 @@
       "duration_ms": 228080,
       "name": "HORIZON",
       "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
-        "name": "Kathleen",
-        "url": "https://open.spotify.com/album/6HbXom8ITK6F2IBYVkj0uO"
-      },
-      "artists": [
-        {
-          "name": "Dead Horse One",
-          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
-        },
-        {
-          "name": "Harlee Young",
-          "url": "https://open.spotify.com/artist/5PjLHWWAAV9GJBRChXuclG"
-        }
-      ],
-      "duration_ms": 138083,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/4s7l0JNvkvFjoD40Am4p1P"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1323,22 +1303,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Vacuum Sealed",
-        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
-      },
-      "artists": [
-        {
-          "name": "Bryan's Magic Tears",
-          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Sitcoms for Aliens",
         "url": "https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6"
       },
@@ -1351,6 +1315,42 @@
       "duration_ms": 185218,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Kathleen",
+        "url": "https://open.spotify.com/album/6HbXom8ITK6F2IBYVkj0uO"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+        },
+        {
+          "name": "Harlee Young",
+          "url": "https://open.spotify.com/artist/5PjLHWWAAV9GJBRChXuclG"
+        }
+      ],
+      "duration_ms": 138083,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/4s7l0JNvkvFjoD40Am4p1P"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Vacuum Sealed",
+        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
+      },
+      "artists": [
+        {
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Shreds of Tales",
-        "url": "https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl"
-      },
-      "artists": [
-        {
-          "name": "Grit",
-          "url": "https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ"
-        }
-      ],
-      "duration_ms": 211505,
-      "name": "Others",
-      "url": "https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "Fall Away",
         "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Only Weird People Can Fly",
-        "url": "https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV"
+        "name": "Shreds of Tales",
+        "url": "https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl"
       },
       "artists": [
         {
-          "name": "Dust On Earth",
-          "url": "https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6"
+          "name": "Grit",
+          "url": "https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ"
         }
       ],
-      "duration_ms": 258372,
-      "name": "Only Weird People Can Fly",
-      "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
+      "duration_ms": 211505,
+      "name": "Others",
+      "url": "https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
+        "name": "Only Weird People Can Fly",
+        "url": "https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV"
+      },
+      "artists": [
+        {
+          "name": "Dust On Earth",
+          "url": "https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6"
+        }
+      ],
+      "duration_ms": 258372,
+      "name": "Only Weird People Can Fly",
+      "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
         "name": "Centaur Desire",
         "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Freakenstein",
-        "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
-      },
-      "artists": [
-        {
-          "name": "Th Da Freak",
-          "url": "https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd"
-        }
-      ],
-      "duration_ms": 223421,
-      "name": "Peeling the Onion",
-      "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "SORORITY / CONTROL",
         "url": "https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 163732,
       "name": "Sorority",
       "url": "https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Freakenstein",
+        "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
+      },
+      "artists": [
+        {
+          "name": "Th Da Freak",
+          "url": "https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd"
+        }
+      ],
+      "duration_ms": 223421,
+      "name": "Peeling the Onion",
+      "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
     },
     {
       "added_at": "2024-05-29 06:49:34",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-05-29 06:49:34",
       "album": {
-        "name": "Liminal Status",
-        "url": "https://open.spotify.com/album/4pyKwnieAfUEzKdhLw1Ahp"
-      },
-      "artists": [
-        {
-          "name": "Watertank",
-          "url": "https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC"
-        }
-      ],
-      "duration_ms": 213560,
-      "name": "Liminal Status",
-      "url": "https://open.spotify.com/track/0wqxvfCxfga9DBOcKYPWuY"
-    },
-    {
-      "added_at": "2024-05-29 06:49:34",
-      "album": {
         "name": "The West Is the Best",
         "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 269293,
       "name": "Testify",
       "url": "https://open.spotify.com/track/7BFZuaNusBMXusPtaohiVq"
+    },
+    {
+      "added_at": "2024-05-29 06:49:34",
+      "album": {
+        "name": "Liminal Status",
+        "url": "https://open.spotify.com/album/4pyKwnieAfUEzKdhLw1Ahp"
+      },
+      "artists": [
+        {
+          "name": "Watertank",
+          "url": "https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Liminal Status",
+      "url": "https://open.spotify.com/track/0wqxvfCxfga9DBOcKYPWuY"
     }
   ],
   "unique_name": "French Noise",

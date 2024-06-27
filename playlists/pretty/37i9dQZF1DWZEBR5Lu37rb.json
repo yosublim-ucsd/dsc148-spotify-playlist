@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 65120,
+  "num_followers": 65200,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Wetin",
-        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 78946,
-      "name": "Wetin",
-      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Umuthi",
+        "url": "https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU"
+      },
+      "artists": [
+        {
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        }
+      ],
+      "duration_ms": 249795,
+      "name": "Ibhanoyi",
+      "url": "https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Grass 2 Grace",
         "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Umuthi",
-        "url": "https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU"
+        "name": "Amagama",
+        "url": "https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP"
       },
       "artists": [
         {
-          "name": "Blaq Diamond",
-          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+          "name": "Intaba Yase Dubai",
+          "url": "https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6"
         }
       ],
-      "duration_ms": 249795,
-      "name": "Ibhanoyi",
-      "url": "https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI"
+      "duration_ms": 300773,
+      "name": "Sbali",
+      "url": "https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -803,22 +819,6 @@
       "duration_ms": 277760,
       "name": "Nomvula",
       "url": "https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Amagama",
-        "url": "https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP"
-      },
-      "artists": [
-        {
-          "name": "Intaba Yase Dubai",
-          "url": "https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "Sbali",
-      "url": "https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Sweet Sensation",
+        "url": "https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM"
+      },
+      "artists": [
+        {
+          "name": "Orezi",
+          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
+        },
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 210651,
+      "name": "Sweet Sensation",
+      "url": "https://open.spotify.com/track/0XSE0EfkNkGtb6Bbhd0ae4"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Fine Wine (feat. King Promise & Joeboy)",
         "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 230400,
       "name": "Fine Wine (feat. King Promise & Joeboy)",
       "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Sweet Sensation",
-        "url": "https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM"
-      },
-      "artists": [
-        {
-          "name": "Orezi",
-          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
-        },
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 210651,
-      "name": "Sweet Sensation",
-      "url": "https://open.spotify.com/track/0XSE0EfkNkGtb6Bbhd0ae4"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Live and Die in Afrika",
-        "url": "https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ"
-      },
-      "artists": [
-        {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
-        }
-      ],
-      "duration_ms": 212009,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Expressions",
         "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 320012,
       "name": "Olufunmi",
       "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Live and Die in Afrika",
+        "url": "https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "duration_ms": 212009,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1583,22 +1583,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Bald Men Love Better",
-        "url": "https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ"
+        "name": "Give You Love",
+        "url": "https://open.spotify.com/album/26m3VR0pkxErF4DFGu95bl"
       },
       "artists": [
         {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         },
         {
-          "name": "Aaron Rimbui",
-          "url": "https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 174807,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/6HFRsC9QAkBU6zQwgmTS15"
+      "duration_ms": 234605,
+      "name": "Give You Love",
+      "url": "https://open.spotify.com/track/2nDZqi7S7CtFmwFXw5V8V5"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1619,22 +1619,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Give You Love",
-        "url": "https://open.spotify.com/album/26m3VR0pkxErF4DFGu95bl"
+        "name": "Bald Men Love Better",
+        "url": "https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
         },
         {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "Aaron Rimbui",
+          "url": "https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H"
         }
       ],
-      "duration_ms": 234605,
-      "name": "Give You Love",
-      "url": "https://open.spotify.com/track/2nDZqi7S7CtFmwFXw5V8V5"
+      "duration_ms": 174807,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/6HFRsC9QAkBU6zQwgmTS15"
     },
     {
       "added_at": "2024-05-22 11:00:00",

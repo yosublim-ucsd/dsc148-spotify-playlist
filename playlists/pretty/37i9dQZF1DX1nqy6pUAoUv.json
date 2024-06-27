@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 179165,
+  "num_followers": 179183,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Workin' Woman Blues",
-      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Dressed in Roses",
         "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 206013,
       "name": "Barbaro",
       "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -843,38 +843,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "You, Yeah, You",
-        "url": "https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 119615,
-      "name": "Sammi's Song",
-      "url": "https://open.spotify.com/track/5yxGc3FatVpON8FM0lpIJU"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -903,18 +871,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
+        "name": "You, Yeah, You",
+        "url": "https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY"
       },
       "artists": [
         {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
         }
       ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
+      "duration_ms": 119615,
+      "name": "Sammi's Song",
+      "url": "https://open.spotify.com/track/5yxGc3FatVpON8FM0lpIJU"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -928,9 +896,41 @@
           "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
         }
       ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
+      "duration_ms": 174640,
+      "name": "Money Is King",
+      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Saint Elizabeth",
+      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Wildflowers in the Graveyard",
-        "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
-      },
-      "artists": [
-        {
-          "name": "Amber Rubarth",
-          "url": "https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva"
-        }
-      ],
-      "duration_ms": 180977,
-      "name": "Wildflowers in the Graveyard",
-      "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 219053,
       "name": "You And I",
       "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Wildflowers in the Graveyard",
+        "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
+      },
+      "artists": [
+        {
+          "name": "Amber Rubarth",
+          "url": "https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva"
+        }
+      ],
+      "duration_ms": 180977,
+      "name": "Wildflowers in the Graveyard",
+      "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Breakin' Ground",
         "url": "https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 184040,
       "name": "Breakin' Ground",
       "url": "https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Money Is King",
-      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 227554,
-      "name": "Walk Through Fire",
-      "url": "https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Ruminations",
         "url": "https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB"
       },
@@ -1131,22 +1115,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Fall (Deluxe)",
-        "url": "https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "High and Low (Acoustic)",
-      "url": "https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Poor David's Almanack",
         "url": "https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM"
       },
@@ -1159,6 +1127,38 @@
       "duration_ms": 198440,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 227554,
+      "name": "Walk Through Fire",
+      "url": "https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "The Fall (Deluxe)",
+        "url": "https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "High and Low (Acoustic)",
+      "url": "https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Working Man",
         "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Prospect Hill: The American Songster Omnibus",
         "url": "https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo"
       },
@@ -1375,26 +1375,6 @@
       "duration_ms": 170456,
       "name": "Georgia Drumbeat",
       "url": "https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        },
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 249886,
-      "name": "The Fray (feat. The Milk Carton Kids)",
-      "url": "https://open.spotify.com/track/2a4Et8Q8QUBnmgjO4FDMS6"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1415,6 +1395,26 @@
       "duration_ms": 293776,
       "name": "Boots of Spanish Leather (feat. Diana DeMuth)",
       "url": "https://open.spotify.com/track/70ToRlumcpgqvPQMcqnsji"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        },
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 249886,
+      "name": "The Fray (feat. The Milk Carton Kids)",
+      "url": "https://open.spotify.com/track/2a4Et8Q8QUBnmgjO4FDMS6"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Pohorylle",
-        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
-      },
-      "artists": [
-        {
-          "name": "Margo Cilker",
-          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Tehachapi",
-      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "The Lonely Persistence of Time",
         "url": "https://open.spotify.com/album/5g84elUozrlHGFSYCvvV8d"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Pohorylle",
+        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
+      },
+      "artists": [
+        {
+          "name": "Margo Cilker",
+          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Tehachapi",
+      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Chain Reaction",
         "url": "https://open.spotify.com/album/0EFV8dTelIT79qbvzRtGuP"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Before I Go",
-        "url": "https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP"
-      },
-      "artists": [
-        {
-          "name": "Ordinary Elephant",
-          "url": "https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Spinning Plates",
         "url": "https://open.spotify.com/album/6txekUbi7XkWmtMVtTrbA0"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 166324,
       "name": "Spinning Plates",
       "url": "https://open.spotify.com/track/5vhKsYxmAeS18BaeSMsMR8"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Before I Go",
+        "url": "https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Elephant",
+          "url": "https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm"
     },
     {
       "added_at": "2023-06-23 04:00:00",

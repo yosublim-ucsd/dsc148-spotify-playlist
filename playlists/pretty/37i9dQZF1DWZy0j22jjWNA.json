@@ -1,6 +1,6 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 94051,
+  "num_followers": 94065,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-06-25 04:52:33",
       "album": {
-        "name": "Mighty Refuge",
-        "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/2nj79DhXjioJcFbp6L93WD"
       },
       "artists": [
         {
-          "name": "Aaron Strumpel",
-          "url": "https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg"
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
         }
       ],
-      "duration_ms": 323076,
-      "name": "Spark My Heart",
-      "url": "https://open.spotify.com/track/4GkzKZVbwUKW83hKk0MfrA"
+      "duration_ms": 297005,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/3ttUhmMipgjIBjfp0TatCm"
     },
     {
       "added_at": "2024-06-25 04:52:33",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-06-25 04:52:33",
       "album": {
-        "name": "Anywhere",
-        "url": "https://open.spotify.com/album/2nj79DhXjioJcFbp6L93WD"
+        "name": "Mighty Refuge",
+        "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
       },
       "artists": [
         {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+          "name": "Aaron Strumpel",
+          "url": "https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg"
         }
       ],
-      "duration_ms": 297005,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/3ttUhmMipgjIBjfp0TatCm"
+      "duration_ms": 323076,
+      "name": "Spark My Heart",
+      "url": "https://open.spotify.com/track/4GkzKZVbwUKW83hKk0MfrA"
     },
     {
       "added_at": "2024-06-25 04:52:33",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-06-25 04:52:33",
       "album": {
-        "name": "Zeal",
-        "url": "https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 228247,
-      "name": "Backwards",
-      "url": "https://open.spotify.com/track/07ii8FiGFeAf6ZoW8TbggA"
-    },
-    {
-      "added_at": "2024-06-25 04:52:33",
-      "album": {
         "name": "How Good of God",
         "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 164632,
       "name": "How Good of God",
       "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
+    },
+    {
+      "added_at": "2024-06-25 04:52:33",
+      "album": {
+        "name": "Zeal",
+        "url": "https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 228247,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/07ii8FiGFeAf6ZoW8TbggA"
     },
     {
       "added_at": "2024-06-25 04:52:33",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-25 04:52:33",
       "album": {
-        "name": "Autumn Love",
-        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
-      },
-      "artists": [
-        {
-          "name": "Tyson Motsenbocker",
-          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
-        }
-      ],
-      "duration_ms": 295120,
-      "name": "Autumn Love",
-      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
-    },
-    {
-      "added_at": "2024-06-25 04:52:33",
-      "album": {
         "name": "Radiant (Shine Like Diamonds)",
         "url": "https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 241031,
       "name": "Radiant (Shine Like Diamonds)",
       "url": "https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp"
+    },
+    {
+      "added_at": "2024-06-25 04:52:33",
+      "album": {
+        "name": "Autumn Love",
+        "url": "https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4"
+      },
+      "artists": [
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "duration_ms": 295120,
+      "name": "Autumn Love",
+      "url": "https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca"
     },
     {
       "added_at": "2024-06-25 04:52:33",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-06-25 04:52:33",
       "album": {
-        "name": "Dawned On Me",
-        "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
-      },
-      "artists": [
-        {
-          "name": "Brewer",
-          "url": "https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2"
-        }
-      ],
-      "duration_ms": 177633,
-      "name": "Dawned On Me",
-      "url": "https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj"
-    },
-    {
-      "added_at": "2024-06-25 04:52:33",
-      "album": {
         "name": "Brightside",
         "url": "https://open.spotify.com/album/3E7uS9oOL92bNvYTYge5m7"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 196207,
       "name": "Brightside",
       "url": "https://open.spotify.com/track/05hlmQgTPYuzJyxeDZxm8n"
+    },
+    {
+      "added_at": "2024-06-25 04:52:33",
+      "album": {
+        "name": "Dawned On Me",
+        "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
+      },
+      "artists": [
+        {
+          "name": "Brewer",
+          "url": "https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2"
+        }
+      ],
+      "duration_ms": 177633,
+      "name": "Dawned On Me",
+      "url": "https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj"
     },
     {
       "added_at": "2024-06-25 04:52:33",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-06-25 04:52:33",
       "album": {
-        "name": "Power Over Me",
-        "url": "https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 172088,
-      "name": "Power Over Me",
-      "url": "https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h"
-    },
-    {
-      "added_at": "2024-06-25 04:52:33",
-      "album": {
         "name": "Free Like a Broken Heart (Acoustic)",
         "url": "https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 213653,
       "name": "Free Like a Broken Heart (Acoustic)",
       "url": "https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy"
+    },
+    {
+      "added_at": "2024-06-25 04:52:33",
+      "album": {
+        "name": "Power Over Me",
+        "url": "https://open.spotify.com/album/30wxjIWeV2Q7SkzsYpngCi"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 172088,
+      "name": "Power Over Me",
+      "url": "https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h"
     },
     {
       "added_at": "2024-06-25 04:52:33",

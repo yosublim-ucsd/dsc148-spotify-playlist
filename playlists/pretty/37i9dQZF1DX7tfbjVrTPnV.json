@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Lori McKenna",
-  "num_followers": 208617,
+  "num_followers": 208669,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
+      },
+      "artists": [
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+        }
+      ],
+      "duration_ms": 219108,
+      "name": "The Rock and the Hill",
+      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "The Medicine Man",
         "url": "https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 218360,
       "name": "The Medicine Man [Feat. Old Crow Medicine Show]",
       "url": "https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
-      },
-      "artists": [
-        {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
-        }
-      ],
-      "duration_ms": 219108,
-      "name": "The Rock and the Hill",
-      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 158834,
+      "name": "Got Your Six",
+      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Picture In a Frame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 158834,
-      "name": "Got Your Six",
-      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Too Blessed to Be Stressed",
         "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 284253,
       "name": "Everything's Gonna Be Alright",
       "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Essential Guy Clark",
+        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 272866,
+      "name": "Desperados Waiting For A Train",
+      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1327,34 +1343,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Essential Guy Clark",
-        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
+        "name": "Trouble and Love",
+        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
       },
       "artists": [
         {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
         }
       ],
-      "duration_ms": 272866,
-      "name": "Desperados Waiting For A Train",
-      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 329746,
-      "name": "Time After Time - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
+      "duration_ms": 326746,
+      "name": "Oh Soul",
+      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 329746,
+      "name": "Time After Time - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Way Out West",
         "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 198840,
       "name": "Whole Lotta Highway (With A Million Miles to Go)",
       "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Trouble and Love",
-        "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 326746,
-      "name": "Oh Soul",
-      "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Wouldn't It Be Great",
-        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 150080,
-      "name": "I'm Dying for Someone to Live For",
-      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Band of Brothers",
         "url": "https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 173960,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Wouldn't It Be Great",
+        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 150080,
+      "name": "I'm Dying for Someone to Live For",
+      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Great American Cities",
         "url": "https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 278720,
       "name": "Great American Cities",
       "url": "https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2459,18 +2459,34 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Something Has to Change",
-        "url": "https://open.spotify.com/album/77JgPh5gVcNbovCdiQCKQo"
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/5pHY33NfVPp6no94BYgoWS"
       },
       "artists": [
         {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+          "name": "Lyle Lovett",
+          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
         }
       ],
-      "duration_ms": 241540,
-      "name": "Something Has to Change",
-      "url": "https://open.spotify.com/track/3UYk55HdmtGfWQMggK5ie4"
+      "duration_ms": 186386,
+      "name": "Garfield's Blackberry Blossom",
+      "url": "https://open.spotify.com/track/3S4HRC12gDqUqPDtnvtScN"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Best Of John Hiatt",
+        "url": "https://open.spotify.com/album/03BPF9Iq5ubseCobrmV1bg"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Memphis In The Meantime",
+      "url": "https://open.spotify.com/track/1fhu1SVHEa9M3nfiCypva2"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2495,22 +2511,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/5pHY33NfVPp6no94BYgoWS"
-      },
-      "artists": [
-        {
-          "name": "Lyle Lovett",
-          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "Garfield's Blackberry Blossom",
-      "url": "https://open.spotify.com/track/3S4HRC12gDqUqPDtnvtScN"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Live at the Old Quarter",
         "url": "https://open.spotify.com/album/2drUynocyGveMTFheprmJy"
       },
@@ -2527,18 +2527,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Best Of John Hiatt",
-        "url": "https://open.spotify.com/album/03BPF9Iq5ubseCobrmV1bg"
+        "name": "Something Has to Change",
+        "url": "https://open.spotify.com/album/77JgPh5gVcNbovCdiQCKQo"
       },
       "artists": [
         {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
         }
       ],
-      "duration_ms": 237333,
-      "name": "Memphis In The Meantime",
-      "url": "https://open.spotify.com/track/1fhu1SVHEa9M3nfiCypva2"
+      "duration_ms": 241540,
+      "name": "Something Has to Change",
+      "url": "https://open.spotify.com/track/3UYk55HdmtGfWQMggK5ie4"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2591,22 +2591,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Midnight Special",
-        "url": "https://open.spotify.com/album/63LJ7HtG7tDibRiYUHvCQo"
+        "name": "Terms Of My Surrender",
+        "url": "https://open.spotify.com/album/3xIszcJYVBLLSkg9weobEu"
       },
       "artists": [
         {
-          "name": "Billy Bragg",
-          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
-        },
-        {
-          "name": "Joe Henry",
-          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
         }
       ],
-      "duration_ms": 214949,
-      "name": "The Midnight Special",
-      "url": "https://open.spotify.com/track/21roVVtN1ed5QAMFlVxqrv"
+      "duration_ms": 209666,
+      "name": "Terms Of My Surrender",
+      "url": "https://open.spotify.com/track/4OWKZfpJQDRNJdfeZf5Svf"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2627,18 +2623,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Terms Of My Surrender",
-        "url": "https://open.spotify.com/album/3xIszcJYVBLLSkg9weobEu"
+        "name": "The Midnight Special",
+        "url": "https://open.spotify.com/album/63LJ7HtG7tDibRiYUHvCQo"
       },
       "artists": [
         {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+          "name": "Billy Bragg",
+          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
+        },
+        {
+          "name": "Joe Henry",
+          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
         }
       ],
-      "duration_ms": 209666,
-      "name": "Terms Of My Surrender",
-      "url": "https://open.spotify.com/track/4OWKZfpJQDRNJdfeZf5Svf"
+      "duration_ms": 214949,
+      "name": "The Midnight Special",
+      "url": "https://open.spotify.com/track/21roVVtN1ed5QAMFlVxqrv"
     },
     {
       "added_at": "2023-08-11 04:00:00",

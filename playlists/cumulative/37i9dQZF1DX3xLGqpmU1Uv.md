@@ -4,7 +4,7 @@
 
 > ¡Las canciones que ponían a bailar a todo México!
 
-84 songs - 3 hr 28 min
+85 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cómo Te Extraño Mi Amor \(En Vivo\) \(feat\. Rubén Albarrán\)](https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:15 | 2020-03-18 |  |
 | [De Rodillas Ante Ti](https://open.spotify.com/track/0Rc8UXhnvxeTMJEffTevHZ) | [Los Moonlights](https://open.spotify.com/artist/5jq7ZBcwUEaVSZYYcoONEH) | [15 De Los Moonlights](https://open.spotify.com/album/4Vs7lVsmEwUc5ii8yQIKUj) | 2:57 | 2020-03-18 |  |
 | [Despeinada](https://open.spotify.com/track/1ZvgM8b9safTcoERQmeKnh) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:55 | 2020-03-18 | 2024-04-19 |
+| [Despeinada](https://open.spotify.com/track/5EqhIwIJuVGNWcxtxtnTBr) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Despeinada](https://open.spotify.com/album/65X0nIMBfqGuphHyBoOCZk) | 2:55 | 2020-03-18 |  |
 | [Edi, Edi](https://open.spotify.com/track/0a59DGdqkzBNuVYVpI5Mx7) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [15 Éxitos](https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z) | 2:27 | 2020-03-18 | 2024-04-19 |
 | [EdiEdi](https://open.spotify.com/track/6gDBSDDiCNlbLhVTWXoQTl) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Edi Edi](https://open.spotify.com/album/57VCb2iv9bJ095rueL3Bun) | 2:26 | 2020-03-18 |  |
 | [El Amor Es Triste \- Love Is Blue](https://open.spotify.com/track/6biuMgdkzR1JmA05CAtOEY) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2OA7EvjDkBZMkAZvElz8UU) | 2:18 | 2020-03-18 | 2024-02-25 |
@@ -85,7 +86,7 @@
 | [Significas Todo Para Mi](https://open.spotify.com/track/2AN25qW8T7TBLpUDTWNDip) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 2:41 | 2020-03-18 | 2024-04-19 |
 | [Sospecha](https://open.spotify.com/track/17R4EXVlGqwQCevhoqY79U) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Mexican Garage Rock '66](https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY) | 2:29 | 2020-03-18 | 2024-04-19 |
 | [Sospecha](https://open.spotify.com/track/0siRDrhbWLCoCdJt0Cv0dq) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Los Originales](https://open.spotify.com/album/5UnYv67PEkeTWnlkBL1s5a) | 2:29 | 2020-03-18 |  |
-| [Te Seguiré \(I Will Follow You\)](https://open.spotify.com/track/1YeJSfTv6Fgat5vrnRLtQ7) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Álbum de Oro de Enrique Guzmán](https://open.spotify.com/album/6Lftm9Cfdy1A02odcreILy) | 2:12 | 2020-03-18 |  |
+| [Te Seguiré \(I Will Follow You\)](https://open.spotify.com/track/1YeJSfTv6Fgat5vrnRLtQ7) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Álbum de Oro de Enrique Guzmán](https://open.spotify.com/album/6Lftm9Cfdy1A02odcreILy) | 2:12 | 2020-03-18 | 2024-06-27 |
 | [Te Seguiré \(I Will Follow You\)](https://open.spotify.com/track/4KnjB5h7F90s1yfk3U1RfQ) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Enrique Guzmán \(El Llanto del Siglo\)](https://open.spotify.com/album/0cudjmyNmIaQYLbvPcp2bu) | 2:12 | 2020-03-18 | 2024-04-19 |
 | [Tu Cabeza en Mi Hombro](https://open.spotify.com/track/6dRAaQ7DFVPsZ2Pnfv97vX) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [La Gran Colección del 60 Aniversario CBS \- Enrique Guzmán](https://open.spotify.com/album/4qFFxzwNLUpk2kce2Z7Bx0) | 2:31 | 2020-03-18 |  |
 | [Tus Ojos](https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 3:25 | 2020-03-18 |  |

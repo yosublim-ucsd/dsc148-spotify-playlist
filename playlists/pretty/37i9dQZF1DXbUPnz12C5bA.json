@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 114809,
+  "num_followers": 114904,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Nace Del Alma",
-        "url": "https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po"
-      },
-      "artists": [
-        {
-          "name": "Omar Geles",
-          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
-        }
-      ],
-      "duration_ms": 285640,
-      "name": "Una Hoja En Blanco",
-      "url": "https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
         "name": "El Caballero Del Vallenato",
         "url": "https://open.spotify.com/album/3qJ2kc4NkR6UBnbYUsyxeu"
       },
@@ -743,18 +727,34 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+        "name": "Nace Del Alma",
+        "url": "https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
         }
       ],
-      "duration_ms": 267840,
-      "name": "A Besitos",
-      "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
+      "duration_ms": 285640,
+      "name": "Una Hoja En Blanco",
+      "url": "https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 297413,
+      "name": "Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
       "artists": [
         {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 297413,
-      "name": "Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
+      "duration_ms": 267840,
+      "name": "A Besitos",
+      "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -876,17 +876,17 @@
       "added_at": "2024-05-28 19:20:48",
       "album": {
         "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+      "duration_ms": 288533,
+      "name": "Te Sorprender\u00e1s",
+      "url": "https://open.spotify.com/track/7f4wlBeT8vqUDmom4Q676T"
     },
     {
       "added_at": "2024-05-28 19:20:48",

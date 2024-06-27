@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 32682,
+  "num_followers": 32686,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAADKtzovQhS0V0PFEaUX8pkO",
+  "snapshot_id": "ZnoIgAAAAABd5ZKEqFWgWsL0Z1l4tGxR",
   "tracks": [
     {
       "added_at": null,
@@ -167,30 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Almighty So 2",
-        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "Ballout",
-          "url": "https://open.spotify.com/artist/0VlR93v41JFZlo1tRAgy2A"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Neph Nem (feat. Ballout & G Herbo)",
-      "url": "https://open.spotify.com/track/0IzqRBC2zj2ejfg5EvZ3o9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TO THE GRAVE",
         "url": "https://open.spotify.com/album/3oftYhgmFsRf56Ivz1CbVV"
       },
@@ -211,6 +187,30 @@
       "duration_ms": 216398,
       "name": "TO THE GRAVE",
       "url": "https://open.spotify.com/track/12Qfni7HZUowpG6NNtM10g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Almighty So 2",
+        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Ballout",
+          "url": "https://open.spotify.com/artist/0VlR93v41JFZlo1tRAgy2A"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Neph Nem (feat. Ballout & G Herbo)",
+      "url": "https://open.spotify.com/track/0IzqRBC2zj2ejfg5EvZ3o9"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome to Fazoland",
+        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 199302,
+      "name": "Write Your Name",
+      "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Coldest",
         "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
       },
@@ -375,6 +391,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rookie Of The Year",
+        "url": "https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 175729,
+      "name": "Onna Come Up (feat. G Herbo) [Remix]",
+      "url": "https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Is Yellow",
         "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
@@ -395,26 +431,6 @@
       "duration_ms": 183529,
       "name": "Equilibrium (with BabyTron & G Herbo)",
       "url": "https://open.spotify.com/track/3ZrobdWN5kvgpPlwpzCvTt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rookie Of The Year",
-        "url": "https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB"
-      },
-      "artists": [
-        {
-          "name": "Lil Eazzyy",
-          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 175729,
-      "name": "Onna Come Up (feat. G Herbo) [Remix]",
-      "url": "https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv"
     },
     {
       "added_at": null,
@@ -563,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "#FreeMyHoodFuckYoHood: Bounce Out Edition",
+        "url": "https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 190511,
+      "name": "U Know Dat (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sick of Myself",
         "url": "https://open.spotify.com/album/1erUgFySoDRYMidU9UkK9j"
       },
@@ -603,26 +639,6 @@
       "duration_ms": 161627,
       "name": "Go Part 1 (with G Herbo)",
       "url": "https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "#FreeMyHoodFuckYoHood: Bounce Out Edition",
-        "url": "https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD"
-      },
-      "artists": [
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 190511,
-      "name": "U Know Dat (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
     },
     {
       "added_at": null,
@@ -931,30 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        }
-      ],
-      "duration_ms": 244853,
-      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Swervo",
         "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
       },
@@ -995,22 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Hood Cycle (Bonus)",
-      "url": "https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TO THE MOON (feat. Fivio Foreign, Russ Millions & Sam Tompkins) [Drill Remix]",
         "url": "https://open.spotify.com/album/0ddJiwySvz540rC18Qn2aY"
       },
@@ -1043,6 +1019,22 @@
       "duration_ms": 218880,
       "name": "TO THE MOON (feat. Fivio Foreign, Russ Millions & Sam Tompkins) - Drill Remix",
       "url": "https://open.spotify.com/track/3rF1pPjaDjWuIUCTXpMGIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Hood Cycle (Bonus)",
+      "url": "https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 985381,
+  "num_followers": 985414,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Blood Milk Moon",
-        "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 177852,
-      "name": "Blood Milk Moon",
-      "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "Eternal Embers",
         "url": "https://open.spotify.com/album/35DFjJWsfg355dxH6p1ZfA"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 198613,
       "name": "Within You, Within Me",
       "url": "https://open.spotify.com/track/77evpfqHmmSklsFpo8wLCB"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Blood Milk Moon",
+        "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 177852,
+      "name": "Blood Milk Moon",
+      "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
     },
     {
       "added_at": "2024-05-08 17:27:31",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "If Not Now?",
-        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Theirs13",
-      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "Bewilderment",
         "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 172869,
       "name": "Dreaming In Slow Motion",
       "url": "https://open.spotify.com/track/0K2Ou0NhEBvc7UoeWf58Cy"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "If Not Now?",
+        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Theirs13",
+      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -645,6 +645,22 @@
       "url": "https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix"
     },
     {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Moon Soul",
+        "url": "https://open.spotify.com/album/1GDqh9jIhxc7yoil0g5Z1O"
+      },
+      "artists": [
+        {
+          "name": "Moon Soul",
+          "url": "https://open.spotify.com/artist/48IWhckCqdKLfS7hFw20x5"
+        }
+      ],
+      "duration_ms": 66000,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/08eFlR1borTUC3cufSz5oz"
+    },
+    {
       "added_at": "2024-05-08 17:27:31",
       "album": {
         "name": "Saturnine",
@@ -663,22 +679,6 @@
       "duration_ms": 201533,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/0czIop1Wsllu6wCktR633R"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
-        "name": "Moon Soul",
-        "url": "https://open.spotify.com/album/1GDqh9jIhxc7yoil0g5Z1O"
-      },
-      "artists": [
-        {
-          "name": "Moon Soul",
-          "url": "https://open.spotify.com/artist/48IWhckCqdKLfS7hFw20x5"
-        }
-      ],
-      "duration_ms": 66000,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/08eFlR1borTUC3cufSz5oz"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Pixie Dust",
-        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
+        "name": "Your Touch",
+        "url": "https://open.spotify.com/album/0Rumz8oZFRw2oirlaBBf47"
       },
       "artists": [
         {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        },
+        {
+          "name": "Treasure Bloom",
+          "url": "https://open.spotify.com/artist/6iGEAcDw1wO4jk35r89Rft"
         }
       ],
-      "duration_ms": 183716,
-      "name": "Pixie Dust",
-      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
+      "duration_ms": 206394,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Your Touch",
-        "url": "https://open.spotify.com/album/0Rumz8oZFRw2oirlaBBf47"
+        "name": "Pixie Dust",
+        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
       },
       "artists": [
         {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        },
-        {
-          "name": "Treasure Bloom",
-          "url": "https://open.spotify.com/artist/6iGEAcDw1wO4jk35r89Rft"
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
         }
       ],
-      "duration_ms": 206394,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2"
+      "duration_ms": 183716,
+      "name": "Pixie Dust",
+      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Anak Ko",
-        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 237865,
-      "name": "Get Well",
-      "url": "https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "That's What They Wanted",
         "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 116832,
       "name": "That's What They Wanted",
       "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Anak Ko",
+        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 237865,
+      "name": "Get Well",
+      "url": "https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
+        "name": "Iris and I",
+        "url": "https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Iris and I",
+      "url": "https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
         "name": "Holy Waters",
         "url": "https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 186032,
       "name": "hurt me enough",
       "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
-        "name": "Iris and I",
-        "url": "https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Iris and I",
-      "url": "https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq"
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no"
       },
       "artists": [
         {
-          "name": "Goofy Geese",
-          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
         }
       ],
-      "duration_ms": 210687,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb"
+      "duration_ms": 218848,
+      "name": "Really You",
+      "url": "https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq"
+      },
+      "artists": [
+        {
+          "name": "Goofy Geese",
+          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
+        }
+      ],
+      "duration_ms": 210687,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
         "name": "Check Please",
         "url": "https://open.spotify.com/album/7573edXJCcJ5VlWhonMqXS"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 208080,
       "name": "Love As A Weapon",
       "url": "https://open.spotify.com/track/2CwZN7Qv20PRenBsoyUp7v"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 218848,
-      "name": "Really You",
-      "url": "https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Move San, L\u00e8t Gate",
-        "url": "https://open.spotify.com/album/6gVG0djijF2sU0KLYFObKE"
+        "name": "Took One Look",
+        "url": "https://open.spotify.com/album/75I7QxTj9TMYpClUsBN21w"
       },
       "artists": [
         {
-          "name": "TWEAKS",
-          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
+          "name": "Muunjuun",
+          "url": "https://open.spotify.com/artist/32y328GZcvGkG3Ch2p89Q7"
         }
       ],
-      "duration_ms": 175707,
-      "name": "Plastic Beach",
-      "url": "https://open.spotify.com/track/6tqBvXpnAqeHTzINQlhbKp"
+      "duration_ms": 140326,
+      "name": "Took One Look",
+      "url": "https://open.spotify.com/track/38c3RCyYlBv4bFQ1dn5nTJ"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Took One Look",
-        "url": "https://open.spotify.com/album/75I7QxTj9TMYpClUsBN21w"
-      },
-      "artists": [
-        {
-          "name": "Muunjuun",
-          "url": "https://open.spotify.com/artist/32y328GZcvGkG3Ch2p89Q7"
-        }
-      ],
-      "duration_ms": 140326,
-      "name": "Took One Look",
-      "url": "https://open.spotify.com/track/38c3RCyYlBv4bFQ1dn5nTJ"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "Shadowglow (Deluxe)",
         "url": "https://open.spotify.com/album/0aVEaOcyvb4XDHTgkwK3Sp"
       },
@@ -1671,6 +1655,38 @@
       "duration_ms": 227486,
       "name": "Sad Disco (Pine Studios)",
       "url": "https://open.spotify.com/track/45w3oCmAZDjkJ79lwAvM4X"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Move San, L\u00e8t Gate",
+        "url": "https://open.spotify.com/album/6gVG0djijF2sU0KLYFObKE"
+      },
+      "artists": [
+        {
+          "name": "TWEAKS",
+          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
+        }
+      ],
+      "duration_ms": 175707,
+      "name": "Plastic Beach",
+      "url": "https://open.spotify.com/track/6tqBvXpnAqeHTzINQlhbKp"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Live at RBC Echo Beach",
+        "url": "https://open.spotify.com/album/5r70krK838xAiHP8t0algB"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 213120,
+      "name": "Show Me How - Live at RBC Echo Beach",
+      "url": "https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1691,22 +1707,6 @@
       "duration_ms": 147644,
       "name": "Tides",
       "url": "https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
-        "name": "Live at RBC Echo Beach",
-        "url": "https://open.spotify.com/album/5r70krK838xAiHP8t0algB"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 213120,
-      "name": "Show Me How - Live at RBC Echo Beach",
-      "url": "https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a"
     }
   ],
   "unique_name": "late night vibes",

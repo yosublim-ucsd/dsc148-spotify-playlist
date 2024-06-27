@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 218155,
+  "num_followers": 218205,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Sound Of The Republic",
-        "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
-      },
-      "artists": [
-        {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "You Ignore Them All",
-      "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Silence Is Betrayal",
         "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 53168,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Sound Of The Republic",
+        "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "You Ignore Them All",
+      "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Wake The Dead",
-        "url": "https://open.spotify.com/album/12E474LltJ7NCZD2L2kvR0"
+        "name": "Vision of Disorder",
+        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
       },
       "artists": [
         {
-          "name": "Comeback Kid",
-          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+          "name": "Vision Of Disorder",
+          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
         }
       ],
-      "duration_ms": 197226,
-      "name": "Wake the Dead",
-      "url": "https://open.spotify.com/track/0Ux0LyZRoLFiXfyKZtt6IE"
+      "duration_ms": 193066,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -347,34 +347,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Vision of Disorder",
-        "url": "https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD"
+        "name": "Wake The Dead",
+        "url": "https://open.spotify.com/album/12E474LltJ7NCZD2L2kvR0"
       },
       "artists": [
         {
-          "name": "Vision Of Disorder",
-          "url": "https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil"
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
         }
       ],
-      "duration_ms": 193066,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Ugly",
-        "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
-      },
-      "artists": [
-        {
-          "name": "Life Of Agony",
-          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Let's Pretend",
-      "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
+      "duration_ms": 197226,
+      "name": "Wake the Dead",
+      "url": "https://open.spotify.com/track/0Ux0LyZRoLFiXfyKZtt6IE"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -391,6 +375,22 @@
       "duration_ms": 210626,
       "name": "Get This Right!",
       "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
+      },
+      "artists": [
+        {
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Let's Pretend",
+      "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "River Runs Red [Top Shelf Edition]",
+        "url": "https://open.spotify.com/album/4CEF4KxtSwbw1FeufmRDbi"
+      },
+      "artists": [
+        {
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        }
+      ],
+      "duration_ms": 114680,
+      "name": "River Runs Red",
+      "url": "https://open.spotify.com/track/0j9sdD1cyPToHd3bkhuMG4"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Gravity Wins Again - EP",
         "url": "https://open.spotify.com/album/4Vj5PyRGUJKyG3OyydLJnJ"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 155693,
       "name": "Chain Letter",
       "url": "https://open.spotify.com/track/7lF14EmytH8hkPGRX8Iu8Z"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "River Runs Red [Top Shelf Edition]",
-        "url": "https://open.spotify.com/album/4CEF4KxtSwbw1FeufmRDbi"
-      },
-      "artists": [
-        {
-          "name": "Life Of Agony",
-          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
-        }
-      ],
-      "duration_ms": 114680,
-      "name": "River Runs Red",
-      "url": "https://open.spotify.com/track/0j9sdD1cyPToHd3bkhuMG4"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Words in Ink Don't Lie",
-        "url": "https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu"
+        "name": "God Loves Man Kills",
+        "url": "https://open.spotify.com/album/74mZMod95TaB70r5reWSdm"
       },
       "artists": [
         {
-          "name": "Endicott",
-          "url": "https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF"
+          "name": "One King Down",
+          "url": "https://open.spotify.com/artist/782HAMHn2gK7WqWZZ7aJ9D"
         }
       ],
-      "duration_ms": 159066,
-      "name": "Ransom Note",
-      "url": "https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ"
+      "duration_ms": 217506,
+      "name": "In The Blood",
+      "url": "https://open.spotify.com/track/1xeq7bGqYQr89IH2dUwnJf"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "God Loves Man Kills",
-        "url": "https://open.spotify.com/album/74mZMod95TaB70r5reWSdm"
+        "name": "Everything You Know",
+        "url": "https://open.spotify.com/album/1g3661VmArydCMCXltxVJk"
       },
       "artists": [
         {
-          "name": "One King Down",
-          "url": "https://open.spotify.com/artist/782HAMHn2gK7WqWZZ7aJ9D"
+          "name": "Wisdom In Chains",
+          "url": "https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd"
         }
       ],
-      "duration_ms": 217506,
-      "name": "In The Blood",
-      "url": "https://open.spotify.com/track/1xeq7bGqYQr89IH2dUwnJf"
+      "duration_ms": 203440,
+      "name": "Chasing the Dragon",
+      "url": "https://open.spotify.com/track/2NaSdkhNfzrCFd0p5vKspk"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Everything You Know",
-        "url": "https://open.spotify.com/album/1g3661VmArydCMCXltxVJk"
+        "name": "Words in Ink Don't Lie",
+        "url": "https://open.spotify.com/album/5qPhk8Oqdd4VxJCwH7pJEu"
       },
       "artists": [
         {
-          "name": "Wisdom In Chains",
-          "url": "https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd"
+          "name": "Endicott",
+          "url": "https://open.spotify.com/artist/4TTcoDVJp3NdA6lfQXcWKF"
         }
       ],
-      "duration_ms": 203440,
-      "name": "Chasing the Dragon",
-      "url": "https://open.spotify.com/track/2NaSdkhNfzrCFd0p5vKspk"
+      "duration_ms": 159066,
+      "name": "Ransom Note",
+      "url": "https://open.spotify.com/track/6hLqoz9CEzw6zKKE4gWYSQ"
     },
     {
       "added_at": "2024-02-07 16:33:52",

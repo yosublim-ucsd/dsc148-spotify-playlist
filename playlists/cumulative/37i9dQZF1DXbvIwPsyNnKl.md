@@ -2,9 +2,9 @@
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Nik Makino
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Realest Cram, CK YG
 
-153 songs - 8 hr 44 min
+154 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [DAB \- Leaked interlude](https://open.spotify.com/track/0XfEJcbDfXVpEkVc1kTXUZ) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [DAB \(Leaked interlude\)](https://open.spotify.com/album/4ihyVo02StqInn6ZAVn60T) | 2:45 | 2023-09-20 | 2024-01-10 |
 | [Di kita trip](https://open.spotify.com/track/1lS1wmAFXcj4RMbQ3pEhDt) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Di kita trip](https://open.spotify.com/album/3iYWYMFX37PfR3w4n1Z3fa) | 2:54 | 2024-03-06 | 2024-05-09 |
 | [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/track/7q5sqrG9X5ZzwSqKIpM77F) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK) | [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/album/0GuFAo9QHxDMdTCMKpix06) | 3:19 | 2024-05-08 |  |
+| [Dikapamigay](https://open.spotify.com/track/5bEoMNE8AuautKnCVKHyxf) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [ENZO MF](https://open.spotify.com/artist/1Miwe0S1KiQu7zZhTYdtJV) | [Dikapamigay](https://open.spotify.com/album/1kISZMlDKKu14boq3Ze9Qp) | 4:17 | 2024-06-26 |  |
 | [Don't Play With Us](https://open.spotify.com/track/029wtk4SD7qKs63ulhgtUc) | [OLG Zak](https://open.spotify.com/artist/3cAaV8C5Lgdvtib9ub4EGs), [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [ENZO MF](https://open.spotify.com/artist/1Miwe0S1KiQu7zZhTYdtJV) | [Don't Play With Us](https://open.spotify.com/album/3JIiRchM7D9BE5Ksj5aUze) | 3:23 | 2023-09-20 | 2024-02-15 |
 | [Down Timez](https://open.spotify.com/track/1HjMv8tZKSkKi1wPlKPIpk) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Down Timez](https://open.spotify.com/album/18weGXt4wxCtnSlYH39ZHf) | 2:36 | 2023-11-15 | 2024-01-10 |
 | [Drugs in tha club](https://open.spotify.com/track/1D8ejFcxDCseMHxp6LnpSp) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC), [PRETTYMF9INE](https://open.spotify.com/artist/5I3BtMCxlNTdZPcrB6l8TX) | [Drugs in tha club](https://open.spotify.com/album/3Xov5djR8sxrJ1i4YMofuH) | 2:57 | 2023-09-20 | 2023-11-18 |
@@ -106,7 +107,7 @@
 | [MINAHALAGAD](https://open.spotify.com/track/0k9bmRFeWAKCJm0OtIrbd1) | [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [MINAHALAGAD](https://open.spotify.com/album/1N6eO3cWQ1LXAJux7E21fD) | 4:11 | 2024-05-01 |  |
 | [Mood](https://open.spotify.com/track/27kaeLB6wRVvsaORS8O96F) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm), [Muric](https://open.spotify.com/artist/48K8I2AZGPknyk914KtMzO) | [Mood](https://open.spotify.com/album/1KCy0t9OekxUxwTxfIHrbA) | 3:50 | 2023-09-20 | 2024-02-22 |
 | [Mossa Downtown](https://open.spotify.com/track/5kA5QMEgxW3VwwvAFjpgr4) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK) | [Mossa Downtown](https://open.spotify.com/album/2iqWQbp5duKqkI22C7rwtU) | 2:45 | 2023-09-20 | 2023-12-14 |
-| [My Everything](https://open.spotify.com/track/5ZU0vdfJhQn2fgaIYicHlj) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [My Everything](https://open.spotify.com/album/0XJqY30CK6xUBs73xGHUAw) | 4:28 | 2024-02-21 |  |
+| [My Everything](https://open.spotify.com/track/5ZU0vdfJhQn2fgaIYicHlj) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [My Everything](https://open.spotify.com/album/0XJqY30CK6xUBs73xGHUAw) | 4:28 | 2024-02-21 | 2024-06-27 |
 | [MY THANG \(GO GETTA 2\)](https://open.spotify.com/track/1fRLcqxVwpzpua8E6Se2sN) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp) | [MY THANG \(GO GETTA 2\)](https://open.spotify.com/album/2iLm8scmBP9VcNixtMIf4G) | 3:10 | 2023-11-01 |  |
 | [Oh Yeah](https://open.spotify.com/track/61MHqRAgaKsh69Nm6vgAyX) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Oh Yeah](https://open.spotify.com/album/1HAXe1xCvQUNvRJ3vcVPdT) | 3:44 | 2024-04-17 |  |
 | [ON LY](https://open.spotify.com/track/3CpZiVFZTld1E9U9esag6m) | [J emm Dahon](https://open.spotify.com/artist/0RptGZKWMZM1HX8SK3bEcm), [King Lheanard](https://open.spotify.com/artist/1ugycLfwsjOuoRT0y8DZMj), [Kushin](https://open.spotify.com/artist/4hOq1IlgRnPNjsbJRCgK0B) | [ON LY](https://open.spotify.com/album/1dTBjVhAh2CVzVGmeXUqQv) | 2:54 | 2023-12-27 | 2024-01-25 |
@@ -115,7 +116,7 @@
 | [Pamanggulo](https://open.spotify.com/track/0gkyfpDYooQV9dYzNlkyft) | [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc), [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB) | [Meron Na](https://open.spotify.com/album/4EIkAGjXLeIjP2IWzAQbDW) | 5:13 | 2023-12-27 | 2024-02-01 |
 | [Panauhin](https://open.spotify.com/track/756k320jmGzGneEyIs8LwX) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd) | [Panauhin](https://open.spotify.com/album/1YaZmMd8dmIrxeEAdNlzwJ) | 2:47 | 2024-04-17 | 2024-06-06 |
 | [PAREHAS TAYO](https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [PAREHAS TAYO](https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk) | 4:16 | 2023-11-01 |  |
-| [Pass Sa Lowkey](https://open.spotify.com/track/78sUH2ilGjWxoFp3L5EptT) | [Ednil Beats](https://open.spotify.com/artist/0zKg1Ug5p1QrTllISIsfqD), [UNXPCTD](https://open.spotify.com/artist/1ruOLaqdQdMzwH5y8rfD0Y) | [Pass Sa Lowkey](https://open.spotify.com/album/6B6K84lxNWJivNC4L5nW7F) | 5:30 | 2024-06-05 |  |
+| [Pass Sa Lowkey](https://open.spotify.com/track/78sUH2ilGjWxoFp3L5EptT) | [UNXPCTD](https://open.spotify.com/artist/1ruOLaqdQdMzwH5y8rfD0Y), [Ednil Beats](https://open.spotify.com/artist/0zKg1Ug5p1QrTllISIsfqD) | [Pass Sa Lowkey](https://open.spotify.com/album/6B6K84lxNWJivNC4L5nW7F) | 5:30 | 2024-06-05 |  |
 | [Pikit](https://open.spotify.com/track/1O0xVXmC9JtMeHJFnsrEP6) | [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Pikit](https://open.spotify.com/album/3HceIQ1nJ7DkSOBn0OQmrN) | 3:31 | 2023-12-06 | 2024-02-08 |
 | [Playaz in dis MF](https://open.spotify.com/track/0OFDQdCZNmSNLyS79IWQlw) | [Downtown Q'](https://open.spotify.com/artist/599vZ7NVJ66pga0D0oWDqx), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [LK](https://open.spotify.com/artist/1Kkt2yhO2bGxjfHNKirKrR) | [Breezemonths, Vol\. 1](https://open.spotify.com/album/3Ix9PgEPaEPsjTUNNbriXm) | 2:30 | 2024-01-10 |  |
 | [Playsafe](https://open.spotify.com/track/1Ni0egtEbIUHSFrgJ1AGvq) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [Playsafe](https://open.spotify.com/album/7ix2zcaZk5DNmIkX8p11CX) | 3:28 | 2024-01-24 | 2024-03-28 |

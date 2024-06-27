@@ -1,12 +1,12 @@
 {
   "description": "Instrumental beats from (and influenced by) Hip-Hop's golden era; to help you study, work and vibe. ",
-  "num_followers": 336595,
+  "num_followers": 336668,
   "original_name": "Boom Bap Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmkulwAAAAAorNm9/7yCAc0HtePogVYe",
+  "snapshot_id": "ZnyE9wAAAAD4AJ+kZHTisJ2l3ZsJVP6W",
   "tracks": [
     {
       "added_at": "2022-12-09 13:00:46",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9"
     },
     {
+      "added_at": "2024-04-29 20:46:32",
+      "album": {
+        "name": "Soul Food (The Instrumental Album)",
+        "url": "https://open.spotify.com/album/4v0sRArgHmBWfTnJr2EpMG"
+      },
+      "artists": [
+        {
+          "name": "Goodie Mob",
+          "url": "https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj"
+        }
+      ],
+      "duration_ms": 235652,
+      "name": "Soul Food - Instrumental",
+      "url": "https://open.spotify.com/track/5XhzeXctHO8xo8JeGNGl8d"
+    },
+    {
       "added_at": "2023-06-15 20:15:01",
       "album": {
         "name": "Dope On Plastic 3",
@@ -1477,22 +1493,6 @@
       "url": "https://open.spotify.com/track/6Jw7ft5Rvh1IPRRfacqhCi"
     },
     {
-      "added_at": "2024-04-29 20:46:32",
-      "album": {
-        "name": "Soul Food (The Instrumental Album)",
-        "url": "https://open.spotify.com/album/4v0sRArgHmBWfTnJr2EpMG"
-      },
-      "artists": [
-        {
-          "name": "Goodie Mob",
-          "url": "https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj"
-        }
-      ],
-      "duration_ms": 235652,
-      "name": "Soul Food - Instrumental",
-      "url": "https://open.spotify.com/track/5XhzeXctHO8xo8JeGNGl8d"
-    },
-    {
       "added_at": "2022-12-09 13:00:46",
       "album": {
         "name": "Bizarre Ride II The Pharcyde (25th Anniversary Edition)",
@@ -1809,22 +1809,6 @@
       "url": "https://open.spotify.com/track/3YJp8y2wgDruXSkTNvzzwI"
     },
     {
-      "added_at": "2022-12-09 13:00:46",
-      "album": {
-        "name": "Beats That Collected Dust Vol. 2",
-        "url": "https://open.spotify.com/album/6VDSvx3Z6cfz6GXkFBNYLX"
-      },
-      "artists": [
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 213602,
-      "name": "N.Y.S.O.M. #20",
-      "url": "https://open.spotify.com/track/4GgFRWzP9vAviZhWbd8ZFp"
-    },
-    {
       "added_at": "2024-02-09 18:41:10",
       "album": {
         "name": "McFly",
@@ -2099,22 +2083,6 @@
       "duration_ms": 103820,
       "name": "Venus",
       "url": "https://open.spotify.com/track/4EnHspKqEoHm7Y7qWsHiio"
-    },
-    {
-      "added_at": "2024-04-29 20:46:32",
-      "album": {
-        "name": "The Coming (25th Anniversary Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3A7233EKpt8yvn47QJ6Kko"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 280173,
-      "name": "It's A Party (Instrumental)",
-      "url": "https://open.spotify.com/track/3HKBkOqQ5YJ8tU5oWmpccV"
     }
   ],
   "unique_name": "Boom Bap Focus",

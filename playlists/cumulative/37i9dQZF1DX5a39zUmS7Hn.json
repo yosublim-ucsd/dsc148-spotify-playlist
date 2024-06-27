@@ -5377,6 +5377,24 @@
     },
     {
       "album": {
+        "name": "You're So Impatient",
+        "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128880,
+      "name": "You're So Impatient",
+      "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
+    },
+    {
+      "album": {
         "name": "You've Got A Habit Of Leaving (Radio Edit)",
         "url": "https://open.spotify.com/album/04PhgcPruSRzPLmk1RJk8a"
       },
@@ -5392,24 +5410,6 @@
       "duration_ms": 206449,
       "name": "You've Got A Habit Of Leaving - Radio Edit",
       "url": "https://open.spotify.com/track/3dEb9tm18t9qwNUoiR2fXY"
-    },
-    {
-      "album": {
-        "name": "You're So Impatient",
-        "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "date_added": "2024-06-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128880,
-      "name": "You\u2019re So Impatient",
-      "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5a39zUmS7Hn"

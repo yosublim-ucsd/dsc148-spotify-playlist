@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > be on your way with the sturniolo triplets
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,837 likes - 61 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,793 likes - 61 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

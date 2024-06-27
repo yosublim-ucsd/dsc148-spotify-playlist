@@ -1,6 +1,6 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 266425,
+  "num_followers": 266497,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
         }
       ],
-      "duration_ms": 356280,
-      "name": "Yo Quiero Mas de Cristo",
-      "url": "https://open.spotify.com/track/0H79dPuHeHPkfR51XfwBUD"
+      "duration_ms": 323693,
+      "name": "Gracias Se\u00f1or",
+      "url": "https://open.spotify.com/track/6fVAVie4PzmKAoMAZBGtz1"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1132,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
         }
       ],
-      "duration_ms": 323693,
-      "name": "Gracias Se\u00f1or",
-      "url": "https://open.spotify.com/track/6fVAVie4PzmKAoMAZBGtz1"
+      "duration_ms": 356280,
+      "name": "Yo Quiero Mas de Cristo",
+      "url": "https://open.spotify.com/track/0H79dPuHeHPkfR51XfwBUD"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Cosas Poderosas",
-        "url": "https://open.spotify.com/album/3KoD8Uxnyl7yU5kwix9Hk5"
-      },
-      "artists": [
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
-        }
-      ],
-      "duration_ms": 305972,
-      "name": "Eres Fiel",
-      "url": "https://open.spotify.com/track/6vTBRcJDcPEqwmtpi3qoI6"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/3Aejvhfr04XlnrEAoHDytu"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 136960,
       "name": "Jehov\u00e1 Es Mi Guerrero/Le Llaman (Reprise)",
       "url": "https://open.spotify.com/track/38rRpy2CTsHScLk9IRo0PC"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Cosas Poderosas",
+        "url": "https://open.spotify.com/album/3KoD8Uxnyl7yU5kwix9Hk5"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        }
+      ],
+      "duration_ms": 305972,
+      "name": "Eres Fiel",
+      "url": "https://open.spotify.com/track/6vTBRcJDcPEqwmtpi3qoI6"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Hoy M\u00e1s Que Ayer",
-        "url": "https://open.spotify.com/album/623gBThpduIjV7x1vxfCPo"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
-        }
-      ],
-      "duration_ms": 230093,
-      "name": "No Basta",
-      "url": "https://open.spotify.com/track/2jP3Vq1WzlOTwCejhokGuN"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Donde T\u00fa Est\u00e1s",
         "url": "https://open.spotify.com/album/66jgmPscSa5lrA8yBm90ar"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 534748,
       "name": "Donde T\u00fa Est\u00e1s (feat. Rebeca Zamorano)",
       "url": "https://open.spotify.com/track/0ghEDN5LzOFJW7xkCKVWoZ"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Hoy M\u00e1s Que Ayer",
+        "url": "https://open.spotify.com/album/623gBThpduIjV7x1vxfCPo"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+        }
+      ],
+      "duration_ms": 230093,
+      "name": "No Basta",
+      "url": "https://open.spotify.com/track/2jP3Vq1WzlOTwCejhokGuN"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/3Aejvhfr04XlnrEAoHDytu"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+        }
+      ],
+      "duration_ms": 79213,
+      "name": "El Poderoso de Israel",
+      "url": "https://open.spotify.com/track/63TNDMbqRlJKBr8YcyaBgU"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Irreversible",
         "url": "https://open.spotify.com/album/49ZQTKyiGfLtv1jWEZxxJm"
       },
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Mi confianza est\u00e1 en ti (remix)",
-        "url": "https://open.spotify.com/album/3ZmuTmdXygRP7fQB9KUNNb"
-      },
-      "artists": [
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
-        }
-      ],
-      "duration_ms": 333653,
-      "name": "Mi confianza est\u00e1 en ti (remix)",
-      "url": "https://open.spotify.com/track/5RDTDeDzKwjzZKqStxDvcG"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Santo Es El Se\u00f1or",
         "url": "https://open.spotify.com/album/0e7NveKGulQA4fkVBOoDeq"
       },
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/3Aejvhfr04XlnrEAoHDytu"
+        "name": "Mi confianza est\u00e1 en ti (remix)",
+        "url": "https://open.spotify.com/album/3ZmuTmdXygRP7fQB9KUNNb"
       },
       "artists": [
         {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
         }
       ],
-      "duration_ms": 79213,
-      "name": "El Poderoso de Israel",
-      "url": "https://open.spotify.com/track/63TNDMbqRlJKBr8YcyaBgU"
+      "duration_ms": 333653,
+      "name": "Mi confianza est\u00e1 en ti (remix)",
+      "url": "https://open.spotify.com/track/5RDTDeDzKwjzZKqStxDvcG"
     }
   ],
   "unique_name": "Con Fe",

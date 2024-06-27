@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > C.R.O en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,957 likes - 108 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,973 likes - 108 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 13 | [Por La Noche](https://open.spotify.com/track/78U3vNXDAA6hyk75klpy2D) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Corazón Loco](https://open.spotify.com/album/3wb7weKeR3Idt2dQE8OhNy) | 2:24 |
 | 14 | [DOPE](https://open.spotify.com/track/4DrEHdUyu92OnmTSbshHkv) | [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Tymo Benz](https://open.spotify.com/artist/4zlVZ5DUwGD6gQppoYq2hF) | [DOPE](https://open.spotify.com/album/5cSPIeyyLRZ5MwCg1JKsfq) | 1:46 |
 | 15 | [Caviar](https://open.spotify.com/track/6SuAh9Zl4urVOGWlhlJ5Zd) | [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Caviar](https://open.spotify.com/album/1MRzrtSBb6Y4V27DMd90rw) | 1:32 |
-| 16 | [Bby](https://open.spotify.com/track/0F2CMN5xEZBd7V1aHTOPjU) | [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw) | [Bby](https://open.spotify.com/album/4poBDZhAu9wzydavWJlKuj) | 2:49 |
+| 16 | [Bby](https://open.spotify.com/track/0F2CMN5xEZBd7V1aHTOPjU) | [Lil Pocket](https://open.spotify.com/artist/1W0mGZKBxW6RrdVRZq7Jdw), [Matu](https://open.spotify.com/artist/6cibaeswg2HD0yjbt9X1WH) | [Bby](https://open.spotify.com/album/4poBDZhAu9wzydavWJlKuj) | 2:49 |
 | 17 | [AP](https://open.spotify.com/track/17A03LcYFHCv33vZrzhwYy) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [AP](https://open.spotify.com/album/27RicP90anwH8Z1etRrB1n) | 3:01 |
 | 18 | [Mucho de Todo](https://open.spotify.com/track/73dnPI09vyOXAL9LPS6OWM) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [C.D.M](https://open.spotify.com/album/4LG0QSGf6Tr04tQao5JLC6) | 2:07 |
 | 19 | [DAKAR](https://open.spotify.com/track/0Go1oLj9k4wo1GqmKrSYFz) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo) | [DAKAR](https://open.spotify.com/album/10qhWnLbVyuQgcdv4DxYaP) | 3:34 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,774 songs - 3 day 19 hr 6 min
+1,775 songs - 3 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [Mayday](https://open.spotify.com/track/1EbpeFTSg6ZSSLhz366ova) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [Mayday](https://open.spotify.com/album/20Z43ZtZoSH9DWyeWoZGFi) | 3:57 | 2023-10-28 | 2023-11-27 |
 | [Małe Krople](https://open.spotify.com/track/5WBfvDnOJP9vmoT9vVhCUY) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [Notatki z Marginesu](https://open.spotify.com/album/0yH9nM2sihHBFBhYCcamfu) | 2:44 | 2022-11-19 | 2022-12-03 |
 | [Małe Krople](https://open.spotify.com/track/6wkV4uyxWrfNim5QmLmQnp) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [Małe Krople](https://open.spotify.com/album/3dD3hIgOhQo7zZph0rkhu6) | 2:44 | 2022-09-02 | 2022-11-20 |
+| [Mało kto](https://open.spotify.com/track/781GlMMTC7QUeeRnrWKUmg) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv) | [Maestro](https://open.spotify.com/album/5tSaoIKdFl6ntVJxu2ICdf) | 2:19 | 2024-06-26 |  |
 | [Małomiasteczkowy](https://open.spotify.com/track/77vLpSAMNzeYL4EBeZxWqI) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:23 | 2023-05-02 | 2023-05-04 |
 | [Mały Książę](https://open.spotify.com/track/5ngOu7hZUAGnk0FTDPzBob) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Mały Książę](https://open.spotify.com/album/0vklKK8tv39Onnd9DnZlUt) | 3:01 | 2023-04-01 | 2023-05-13 |
 | [Mały Książę](https://open.spotify.com/track/5sBjwtGzfh6soZbUKNj24h) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Mały Książę](https://open.spotify.com/album/3jtWIxCfFzYAkQMV2RpMah) | 3:01 | 2023-03-28 | 2023-04-02 |
@@ -1113,7 +1114,7 @@
 | [Olimp](https://open.spotify.com/track/3Sh4yTnlwiNxtFw8sWgJoe) | [Reto](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [Olimp](https://open.spotify.com/album/54dOztJog6IgsWfzNELsox) | 2:22 | 2022-07-02 | 2022-07-04 |
 | [OMDB](https://open.spotify.com/track/5KAQJfejYiIa8M6Kyw6Xgr) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Szamz](https://open.spotify.com/artist/2rbgb3tDxDpfhaN10sQzzE) | [OMDB](https://open.spotify.com/album/03zp8p5p7Tv218sSXz4KIf) | 2:27 | 2023-01-28 | 2023-02-27 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-05 | 2022-11-07 |
-| [On Me](https://open.spotify.com/track/6esBajH4pfY0i61Vr53QWR) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [On Me](https://open.spotify.com/album/6ay5i1EpdXJA1MO4216Cif) | 2:08 | 2024-06-22 |  |
+| [On Me](https://open.spotify.com/track/6esBajH4pfY0i61Vr53QWR) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [On Me](https://open.spotify.com/album/6ay5i1EpdXJA1MO4216Cif) | 2:08 | 2024-06-22 | 2024-06-27 |
 | [Ona działa na mnie jak](https://open.spotify.com/track/0WJhZGtWI4wuYVMufw0zeH) | [Dawid Narożny](https://open.spotify.com/artist/7JMNSrJDmAjYrNwf4vGkuJ), [Agbe](https://open.spotify.com/artist/25OooHA4rUJ098aTiVGtTx) | [Ona działa na mnie jak](https://open.spotify.com/album/4zEPz76qtZ2yckET0DvU6W) | 2:50 | 2023-06-25 | 2023-09-19 |
 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2024-02-06 | 2024-04-06 |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/1VNWdmXSbaNrnWod10WIL0) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Highlights \(Deluxe\)](https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC) | 4:04 | 2024-02-10 | 2024-02-29 |

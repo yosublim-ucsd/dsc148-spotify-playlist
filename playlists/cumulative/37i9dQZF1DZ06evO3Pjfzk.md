@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3Pjfzk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3Pjfzk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3Pjfzk)
 
-### [This Is Lainey Wilson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Pjfzk)
+### [Acesta este Lainey Wilson.](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Pjfzk)
 
-> This is Lainey Wilson\. The essential tracks, all in one playlist.
+> This is Lainey Wilson\. Piesele esențiale într\-un singur playlist.
 
 65 songs - 3 hr 43 min
 

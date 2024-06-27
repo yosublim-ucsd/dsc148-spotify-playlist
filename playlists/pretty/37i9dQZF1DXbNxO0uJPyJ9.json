@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 688091,
+  "num_followers": 688258,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Hot Girls, Bad Boys",
-        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
-      },
-      "artists": [
-        {
-          "name": "Bad Boys Blue",
-          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
-        }
-      ],
-      "duration_ms": 321840,
-      "name": "You're a Woman",
-      "url": "https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Disco",
         "url": "https://open.spotify.com/album/69uM5D9lGcA0ODQ8yTXfaj"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 409466,
       "name": "(I Wanna Give You) Devotion - Original Club Mix",
       "url": "https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Hot Girls, Bad Boys",
+        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
+      },
+      "artists": [
+        {
+          "name": "Bad Boys Blue",
+          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
+        }
+      ],
+      "duration_ms": 321840,
+      "name": "You're a Woman",
+      "url": "https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Tell It to My Heart (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk"
-      },
-      "artists": [
-        {
-          "name": "Taylor Dayne",
-          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
-        }
-      ],
-      "duration_ms": 405280,
-      "name": "Tell It to My Heart - Club Mix",
-      "url": "https://open.spotify.com/track/6aKSXaRGkwlNVRL8aA8H1F"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Raspberry Beret",
         "url": "https://open.spotify.com/album/2aJPa9emKOSIGUJpxgjNnx"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 400520,
       "name": "Raspberry Beret - Extended 12\" Version",
       "url": "https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Tell It to My Heart (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk"
+      },
+      "artists": [
+        {
+          "name": "Taylor Dayne",
+          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+        }
+      ],
+      "duration_ms": 405280,
+      "name": "Tell It to My Heart - Club Mix",
+      "url": "https://open.spotify.com/track/6aKSXaRGkwlNVRL8aA8H1F"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Never Ending Story",
-        "url": "https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD"
-      },
-      "artists": [
-        {
-          "name": "Limahl",
-          "url": "https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D"
-        }
-      ],
-      "duration_ms": 368413,
-      "name": "Never Ending Story - 12'' Dance Mix",
-      "url": "https://open.spotify.com/track/0MnpVLnTeduZTulhqaU3kU"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Suddenly (Expanded Edition)",
         "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
       },
@@ -963,18 +947,38 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "C'est la ouate",
-        "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
+        "name": "Never Ending Story",
+        "url": "https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD"
       },
       "artists": [
         {
-          "name": "Caroline Loeb",
-          "url": "https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm"
+          "name": "Limahl",
+          "url": "https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D"
         }
       ],
-      "duration_ms": 363760,
-      "name": "C'est la ouate - Extended Version",
-      "url": "https://open.spotify.com/track/1NzowVFBeKuGBEO3tGY6Jj"
+      "duration_ms": 368413,
+      "name": "Never Ending Story - 12'' Dance Mix",
+      "url": "https://open.spotify.com/track/0MnpVLnTeduZTulhqaU3kU"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "The Raw & The Cooked (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5OwTprgzRXQyIQHFkyhbNT"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        },
+        {
+          "name": "David Z.",
+          "url": "https://open.spotify.com/artist/4UNxTJpJK5uiMsIO5stknj"
+        }
+      ],
+      "duration_ms": 426671,
+      "name": "She Drives Me Crazy - David Z 12\" Remix",
+      "url": "https://open.spotify.com/track/3iZ0JKN1BE0byU8yb9KBwx"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1011,22 +1015,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "The Raw & The Cooked (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5OwTprgzRXQyIQHFkyhbNT"
+        "name": "C'est la ouate",
+        "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
       },
       "artists": [
         {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        },
-        {
-          "name": "David Z.",
-          "url": "https://open.spotify.com/artist/4UNxTJpJK5uiMsIO5stknj"
+          "name": "Caroline Loeb",
+          "url": "https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm"
         }
       ],
-      "duration_ms": 426671,
-      "name": "She Drives Me Crazy - David Z 12\" Remix",
-      "url": "https://open.spotify.com/track/3iZ0JKN1BE0byU8yb9KBwx"
+      "duration_ms": 363760,
+      "name": "C'est la ouate - Extended Version",
+      "url": "https://open.spotify.com/track/1NzowVFBeKuGBEO3tGY6Jj"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Music For Groovin'",
-        "url": "https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON"
-      },
-      "artists": [
-        {
-          "name": "Gwen Guthrie",
-          "url": "https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Ain't Nothin' Goin' On But The Rent - 12\" Club Mix",
-      "url": "https://open.spotify.com/track/1i0az2pG8teXklaM7jYy1j"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Club Classics Vol. One",
         "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Music For Groovin'",
+        "url": "https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON"
+      },
+      "artists": [
+        {
+          "name": "Gwen Guthrie",
+          "url": "https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Ain't Nothin' Goin' On But The Rent - 12\" Club Mix",
+      "url": "https://open.spotify.com/track/1i0az2pG8teXklaM7jYy1j"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "High Energy",
         "url": "https://open.spotify.com/album/2u0fuYIuuwvGwb6vO9utFn"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 471026,
       "name": "High Energy (Extended Version)",
       "url": "https://open.spotify.com/track/5kUiHXmyAYfhHpue64CWlQ"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Best of Righeira (Le meilleur des annees 80)",
-        "url": "https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 306155,
-      "name": "Vamos a la Playa - 1983 Maxi",
-      "url": "https://open.spotify.com/track/45CDt8Bli1qsoskZQTpxzD"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "45 RPM - The Singles Of The The",
-        "url": "https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa"
+        "name": "Best of Righeira (Le meilleur des annees 80)",
+        "url": "https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB"
       },
       "artists": [
         {
-          "name": "The The",
-          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
         }
       ],
-      "duration_ms": 599400,
-      "name": "Uncertain Smile - 12\" Remix",
-      "url": "https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV"
+      "duration_ms": 306155,
+      "name": "Vamos a la Playa - 1983 Maxi",
+      "url": "https://open.spotify.com/track/45CDt8Bli1qsoskZQTpxzD"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "45 RPM - The Singles Of The The",
+        "url": "https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 599400,
+      "name": "Uncertain Smile - 12\" Remix",
+      "url": "https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Axel F (Theme from \"Beverly Hills Cop\")",
         "url": "https://open.spotify.com/album/3BGEfvBICQ2tqWoEzt1OmV"
       },
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Hot Girls, Bad Boys",
-        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
+        "name": "Music for the Masses",
+        "url": "https://open.spotify.com/album/5Yyx661Ksxl2pmRUuGLzw3"
       },
       "artists": [
         {
-          "name": "Bad Boys Blue",
-          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 346506,
-      "name": "Pretty Young Girl",
-      "url": "https://open.spotify.com/track/34LcZE3FJWWWVl2NoC8EXT"
+      "duration_ms": 296160,
+      "name": "Never Let Me Down Again - Aggro Mix",
+      "url": "https://open.spotify.com/track/0s7024HpwRg7dJjGy2gE3P"
     }
   ],
   "unique_name": "12\" Classics",

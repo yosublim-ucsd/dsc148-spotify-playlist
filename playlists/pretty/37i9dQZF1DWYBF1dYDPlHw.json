@@ -1,6 +1,6 @@
 {
   "description": "All killer, no filler, 100% hits. ",
-  "num_followers": 1025219,
+  "num_followers": 1025239,
   "original_name": "Sing-Along Indie Hits",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/1c2Ee269Rj9w8wn8s3qQu9"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/20uBdCmVtlUuYsvxysoito"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Proudly Present... A Guide to Love, Loss & Desperation",
         "url": "https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 205213,
       "name": "Golden Touch - Full Length",
       "url": "https://open.spotify.com/track/13bEwk7dTy0RdOAY3ZNNBD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "Campus",
-      "url": "https://open.spotify.com/track/5dUFfk2cwD8GiJPS03mYN0"
     }
   ],
   "unique_name": "Sing-Along Indie Hits",

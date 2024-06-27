@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,177 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,180 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 42 | [Skin \(feat\. Seori\)](https://open.spotify.com/track/4JAqA8BZ9aKqgfYVvro8QJ) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Skin](https://open.spotify.com/album/57EMnZPUuiDJaPldPoFXoH) | 4:06 |
 | 43 | [sleep tight](https://open.spotify.com/track/3W2PPFdSBQeK96qQwKBnhH) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:49 |
 | 44 | [Y earned \(Feat\. Gaeko, SOLE\) \(Prod\. Primary, plusNONE\)](https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [xs](https://open.spotify.com/artist/3ivxGWDvNZC4KSTaUgNXr8), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DSEL](https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 3:06 |
-| 45 | [Thank U \(Feat.Lee Aram\)](https://open.spotify.com/track/2ra21UPWO6BHN8HlguhDFR) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Thank U](https://open.spotify.com/album/3c6PzqYExZUGOzCY2YyQex) | 2:43 |
-| 46 | [foff \(Feat\. CHOILB\)](https://open.spotify.com/track/7iPnMNI8xnI3pOq3w8f3Ao) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [OZ Land](https://open.spotify.com/album/3LNjqzURAuyxC1dfMO9FnL) | 2:33 |
+| 45 | [foff \(Feat\. CHOILB\)](https://open.spotify.com/track/7iPnMNI8xnI3pOq3w8f3Ao) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [OZ Land](https://open.spotify.com/album/3LNjqzURAuyxC1dfMO9FnL) | 2:33 |
+| 46 | [Thank U \(Feat.Lee Aram\)](https://open.spotify.com/track/2ra21UPWO6BHN8HlguhDFR) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Thank U](https://open.spotify.com/album/3c6PzqYExZUGOzCY2YyQex) | 2:43 |
 | 47 | [HALYANG DREAM \(feat.John Park\)](https://open.spotify.com/track/2zppBnacbinj3UheY5S0pM) | [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [2002](https://open.spotify.com/album/3IPBA2JydAHsrYe77rDyIa) | 3:45 |
 | 48 | [GOD DID \(Feat\. Thug Min\) \[Prod\. TOIL\]](https://open.spotify.com/track/5LjLkUUh0curHF39ZdoQwz) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [GOD DID](https://open.spotify.com/album/7tgqhnlcveT91qRcoPnjpG) | 2:57 |
 | 49 | [Star\(feat.Nell\)](https://open.spotify.com/track/6kbOu1oRTxRxRTBrGxIYzK) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Star](https://open.spotify.com/album/3zCvTkjs4RaVAV5AF4LayZ) | 4:00 |

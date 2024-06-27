@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263 likes - 229 songs - 13 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 264 likes - 229 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 86 | [In the Dark](https://open.spotify.com/track/1GO9vCm5Cra5uWGSWQ5mGK) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:39 |
 | 87 | [Dolerme](https://open.spotify.com/track/2reL9PAUza4PUtbjqW1fRf) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dolerme](https://open.spotify.com/album/1sETl1onOh3oZIAMn9Kfyo) | 2:23 |
 | 88 | [Biking \(Solo\)](https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Biking \(Solo\)](https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr) | 3:32 |
-| 89 | [DIABLO](https://open.spotify.com/track/4QlMiL1BPCBzLfn1XbSkpg) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:45 |
-| 90 | [COMO UN G](https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 4:22 |
+| 89 | [COMO UN G](https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 4:22 |
+| 90 | [DIABLO](https://open.spotify.com/track/4QlMiL1BPCBzLfn1XbSkpg) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:45 |
 | 91 | [Zaddy](https://open.spotify.com/track/7n1nLaVnTdMmUY8gj7DMY7) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Campaign](https://open.spotify.com/album/7bSsdgWDh5VRI3ZVOXQEj4) | 3:44 |
 | 92 | [Seasons \(with Sjava & Reason\)](https://open.spotify.com/track/35cOyocq8Gb6UcT0NWeTwn) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 4:02 |
 | 93 | [Inside Out](https://open.spotify.com/track/5xi2SXmF3A5AIsuGXiUIZu) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:02 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 126 | [Confessions](https://open.spotify.com/track/1Sc2RHxyKHMeyCChQTWTnp) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 5:00 |
 | 127 | [Beach Boy](https://open.spotify.com/track/1jNyxG5S2P9gztbfAnrq85) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 4:43 |
 | 128 | [Stay Alive](https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:01 |
-| 129 | [Can't Leave the Night](https://open.spotify.com/track/3i24dUJKnMzsDqaFWqTGlb) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 4:40 |
-| 130 | [Where Do We Go From Here](https://open.spotify.com/track/0Affp5QQ5KTDRK9RuiNYvI) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Victim of Love](https://open.spotify.com/album/6YAwLAs71WJtwUp7LEdWIk) | 3:11 |
+| 129 | [Where Do We Go From Here](https://open.spotify.com/track/0Affp5QQ5KTDRK9RuiNYvI) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Victim of Love](https://open.spotify.com/album/6YAwLAs71WJtwUp7LEdWIk) | 3:11 |
+| 130 | [Can't Leave the Night](https://open.spotify.com/track/3i24dUJKnMzsDqaFWqTGlb) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 4:40 |
 | 131 | [Because Of You](https://open.spotify.com/track/75N0cen8wTAlL5nPFprGoE) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Because Of You](https://open.spotify.com/album/35K2EC0ekebCHw5sHn5i1B) | 2:27 |
 | 132 | [Fuckin' up the Count](https://open.spotify.com/track/19qoXk7V1Fs3BV5MkCOaA9) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Shadow of a Doubt](https://open.spotify.com/album/41zRghNRGMG6l8dYtRp3iI) | 3:21 |
 | 133 | [Hotel Bathroom](https://open.spotify.com/track/2mR5fQtkgi23sHVDfm5bo3) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:51 |
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 151 | [Ali](https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 |
 | 152 | [Antares](https://open.spotify.com/track/3NTQws0JI0usmAUXHD8Gia) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:06 |
 | 153 | [I'll Gladly Place Myself Below You](https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 5:12 |
-| 154 | [The Helium Balloon](https://open.spotify.com/track/1qKduDCOSKvJPQ1PENrtF1) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Magazeen](https://open.spotify.com/artist/21D8ywf89eWxGJGx7IfMBW) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:47 |
-| 155 | [Selfish](https://open.spotify.com/track/4LkAzufjnvMdolFuVnlZCt) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [A 64 East Saga](https://open.spotify.com/album/6rNaEOcCOyzFJfNTAp1SS8) | 1:37 |
+| 154 | [Selfish](https://open.spotify.com/track/4LkAzufjnvMdolFuVnlZCt) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [A 64 East Saga](https://open.spotify.com/album/6rNaEOcCOyzFJfNTAp1SS8) | 1:37 |
+| 155 | [The Helium Balloon](https://open.spotify.com/track/1qKduDCOSKvJPQ1PENrtF1) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Magazeen](https://open.spotify.com/artist/21D8ywf89eWxGJGx7IfMBW) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:47 |
 | 156 | [Gimme Gimme](https://open.spotify.com/track/6m8uAsdrrL4dgsdYBqlRss) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Carnage](https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7) | [Step Brothers](https://open.spotify.com/album/3fPVpa5c6VFluIWqn176sV) | 2:40 |
 | 157 | [Float On \(feat\. Charli XCX\)](https://open.spotify.com/track/7sVWaKkGHotMdumFe6Ecph) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Old](https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl) | 3:31 |
 | 158 | [Since You Asked Kindly](https://open.spotify.com/track/3vybpXzMgBMsK9Nd2Ce7qh) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 4:41 |
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 228 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 229 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AbVCOwAAAABDxsM6I0yXinmjaHvPudUe`
+Snapshot ID: `AbVH2gAAAAAqG/fvJQJbFi697VYZZH7u`

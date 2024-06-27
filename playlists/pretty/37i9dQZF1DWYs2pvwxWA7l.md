@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover: Rema and Shallipoppi
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,976 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,131 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 66 | [TONIGHT \(feat\. Libianca & Jae5\)](https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 3:31 |
 | 67 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 |
 | 68 | [Don't Leave](https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 3:05 |
-| 69 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
-| 70 | [Typhoon \(feat\. Sastii, LaCabra, Lowfeye, Blue Papi\)](https://open.spotify.com/track/0tIDIj46MoZhTuU7lPw4qD) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R), [Blue Papi](https://open.spotify.com/artist/66EJMoAeows7M3zd7IxBxN), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml) | [Isibuko \(Deluxe\)](https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U) | 4:36 |
+| 69 | [Typhoon \(feat\. Sastii, LaCabra, Lowfeye, Blue Papi\)](https://open.spotify.com/track/0tIDIj46MoZhTuU7lPw4qD) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R), [Blue Papi](https://open.spotify.com/artist/66EJMoAeows7M3zd7IxBxN), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml) | [Isibuko \(Deluxe\)](https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U) | 4:36 |
+| 70 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
 
 Snapshot ID: `ZnTCvAAAAAAi+xqezTA4gBvZGEdNsLk8`

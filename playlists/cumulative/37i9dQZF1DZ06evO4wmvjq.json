@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This Is Terry Riley. Los temas esenciales, todos en una lista.",
+  "description": "This is Terry Riley. The essential tracks, all in one playlist.",
   "name": "This Is Terry Riley",
   "tracks": [
     {
@@ -2271,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "A Rainbow In Curved Air",
+        "url": "https://open.spotify.com/album/6mJBD78Ohy7Ch8VVcniS10"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1299533,
+      "name": "Poppy Nogood and the Phantom Band",
+      "url": "https://open.spotify.com/track/6fD1B6kBhP55xoQ7Hkocp9"
+    },
+    {
+      "album": {
         "name": "Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band",
         "url": "https://open.spotify.com/album/7tMM2MIBklhAtmmsgbQrAq"
       },
@@ -2748,7 +2766,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 456066,
       "name": "Spirit of Peace: Part II.",
       "url": "https://open.spotify.com/track/49jlgHpsuZEeQxgo8xxYKP"

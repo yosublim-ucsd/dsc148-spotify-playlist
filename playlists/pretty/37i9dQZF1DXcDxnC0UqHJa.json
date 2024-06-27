@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
-  "num_followers": 461055,
+  "num_followers": 461059,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "A Case of You",
         "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 222008,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -975,18 +975,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+        "name": "For Better, Or Worse",
+        "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
       },
       "artists": [
         {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Fiona Prine",
+          "url": "https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI"
         }
       ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
+      "duration_ms": 175334,
+      "name": "My Happiness (feat. Fiona Prine)",
+      "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1007,6 +1011,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Ways To Be Wicked",
         "url": "https://open.spotify.com/album/3hP7NXCmcLrvkSVGmv9yoz"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 207511,
       "name": "Ways To Be Wicked",
       "url": "https://open.spotify.com/track/7JmNMyrZC20KNu3TvWjvzd"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "For Better, Or Worse",
-        "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "Fiona Prine",
-          "url": "https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI"
-        }
-      ],
-      "duration_ms": 175334,
-      "name": "My Happiness (feat. Fiona Prine)",
-      "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "I Will Follow You Into The Dark",
-        "url": "https://open.spotify.com/album/3oa1lLhRWZ390b2CeoXndA"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 224692,
-      "name": "I Will Follow You Into The Dark",
-      "url": "https://open.spotify.com/track/3Jmc6qadrwk3pg30iQPs5j"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "The Bridge School Concerts 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 223133,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "I Will Follow You Into The Dark",
+        "url": "https://open.spotify.com/album/3oa1lLhRWZ390b2CeoXndA"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 224692,
+      "name": "I Will Follow You Into The Dark",
+      "url": "https://open.spotify.com/track/3Jmc6qadrwk3pg30iQPs5j"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 197540,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
         "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
+        "name": "Coming Around Again",
+        "url": "https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
         }
       ],
-      "duration_ms": 197540,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
+      "duration_ms": 214625,
+      "name": "Coming Around Again",
+      "url": "https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1387,22 +1403,6 @@
       "duration_ms": 296715,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/2rqlJD4KKngNYUrk14dQWk"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Coming Around Again",
-        "url": "https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 214625,
-      "name": "Coming Around Again",
-      "url": "https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 189799,
-      "name": "The Partisan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Reason to Believe (feat. Courtney Barnett)",
         "url": "https://open.spotify.com/album/3XS1FYnvexIhkkkLEkaEMX"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 149445,
       "name": "Reason to Believe (feat. Courtney Barnett)",
       "url": "https://open.spotify.com/track/7aDf2PpDNfT5NbKEIZVKtW"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 189799,
+      "name": "The Partisan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Green Rocky Road",
+        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
+      },
+      "artists": [
+        {
+          "name": "Bria Salmena",
+          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
+        }
+      ],
+      "duration_ms": 201985,
+      "name": "Green Rocky Road",
+      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "So Low",
         "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 216773,
       "name": "Remembering Mountains",
       "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Green Rocky Road",
-        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
-      },
-      "artists": [
-        {
-          "name": "Bria Salmena",
-          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
-        }
-      ],
-      "duration_ms": 201985,
-      "name": "Green Rocky Road",
-      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
     },
     {
       "added_at": "2024-06-07 04:00:00",

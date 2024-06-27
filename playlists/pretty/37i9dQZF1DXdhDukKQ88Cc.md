@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > <a href="spotify:album:0vYywoBHcZgwW08A2rA9fU">KENNY</a> dør aldrig❤️‍🔥 <a href="spotify:artist:2eBqkaIfoNsOPCQCQEy5fD">@bennyjamzlive</a>🪡 <a href="spotify:artist:2KbikmQKGiUPR2ARs1h0sq">@gilliangilo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,409 likes - 63 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,431 likes - 63 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

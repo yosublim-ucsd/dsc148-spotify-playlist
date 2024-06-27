@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 699821,
+  "num_followers": 699841,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-06-21 14:23:35",
       "album": {
+        "name": "If U Need It",
+        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "If U Need It",
+      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
+    },
+    {
+      "added_at": "2024-06-21 14:23:35",
+      "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
-    },
-    {
-      "added_at": "2024-06-21 14:23:35",
-      "album": {
-        "name": "If U Need It",
-        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "If U Need It",
-      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
     },
     {
       "added_at": "2024-06-21 14:23:35",
@@ -1187,6 +1187,30 @@
     {
       "added_at": "2024-06-21 14:23:35",
       "album": {
+        "name": "Zeros (feat. Headie One)",
+        "url": "https://open.spotify.com/album/3EXGGB0DAQEUbvzOuaSJub"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 133821,
+      "name": "Zeros (feat. Headie One)",
+      "url": "https://open.spotify.com/track/1V0HauTAFl7CnslORPhAzB"
+    },
+    {
+      "added_at": "2024-06-21 14:23:35",
+      "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
       },
@@ -1231,30 +1255,6 @@
     {
       "added_at": "2024-06-21 14:23:35",
       "album": {
-        "name": "Zeros (feat. Headie One)",
-        "url": "https://open.spotify.com/album/3EXGGB0DAQEUbvzOuaSJub"
-      },
-      "artists": [
-        {
-          "name": "cass\u00f6",
-          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        }
-      ],
-      "duration_ms": 133821,
-      "name": "Zeros (feat. Headie One)",
-      "url": "https://open.spotify.com/track/1V0HauTAFl7CnslORPhAzB"
-    },
-    {
-      "added_at": "2024-06-21 14:23:35",
-      "album": {
         "name": "Want U",
         "url": "https://open.spotify.com/album/336xKil8LL5FWBEHFdDXG4"
       },
@@ -1295,30 +1295,6 @@
     {
       "added_at": "2024-06-21 14:23:35",
       "album": {
-        "name": "Life Lesson",
-        "url": "https://open.spotify.com/album/0zrcEy45YCYxctOZ0YAjNQ"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        },
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 216466,
-      "name": "Life Lesson",
-      "url": "https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr"
-    },
-    {
-      "added_at": "2024-06-21 14:23:35",
-      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
       },
@@ -1339,6 +1315,30 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "added_at": "2024-06-21 14:23:35",
+      "album": {
+        "name": "Life Lesson",
+        "url": "https://open.spotify.com/album/0zrcEy45YCYxctOZ0YAjNQ"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 216466,
+      "name": "Life Lesson",
+      "url": "https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr"
     },
     {
       "added_at": "2024-06-21 14:23:35",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-06-21 14:23:35",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 154083,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
-    },
-    {
-      "added_at": "2024-06-21 14:23:35",
-      "album": {
         "name": "Don\u2019t Forget My Love",
         "url": "https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 199090,
       "name": "Don\u2019t Forget My Love",
       "url": "https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S"
+    },
+    {
+      "added_at": "2024-06-21 14:23:35",
+      "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 154083,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
     },
     {
       "added_at": "2024-06-21 14:23:35",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2024-06-21 14:23:35",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/07VhUtgyRdGGmMeo5lN5CW"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        },
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 205116,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml"
-    },
-    {
-      "added_at": "2024-06-21 14:23:35",
-      "album": {
         "name": "My Head Is A Jungle (MK Remix / Radio Edit)",
         "url": "https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn"
       },
@@ -1655,6 +1635,46 @@
       "duration_ms": 205161,
       "name": "My Head Is A Jungle - MK Remix / Radio Edit",
       "url": "https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB"
+    },
+    {
+      "added_at": "2024-06-21 14:23:35",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/07VhUtgyRdGGmMeo5lN5CW"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 205116,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml"
+    },
+    {
+      "added_at": "2024-06-21 14:23:35",
+      "album": {
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 160314,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
     },
     {
       "added_at": "2024-06-21 14:23:35",
@@ -1723,22 +1743,22 @@
     {
       "added_at": "2024-06-21 14:23:35",
       "album": {
-        "name": "Tell Me What You Want",
-        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
+        "name": "Where Do We Go (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ"
       },
       "artists": [
         {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
         },
         {
           "name": "Poppy Baskcomb",
           "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 160314,
-      "name": "Tell Me What You Want",
-      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
+      "duration_ms": 204137,
+      "name": "Where Do We Go (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"
     },
     {
       "added_at": "2024-06-21 14:23:35",
@@ -1779,26 +1799,6 @@
       "duration_ms": 214482,
       "name": "Panic Room",
       "url": "https://open.spotify.com/track/3MkuFR7t25mu7Iscp6GGiV"
-    },
-    {
-      "added_at": "2024-06-21 14:23:35",
-      "album": {
-        "name": "Where Do We Go (feat. Poppy Baskcomb)",
-        "url": "https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "Where Do We Go (feat. Poppy Baskcomb)",
-      "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"
     },
     {
       "added_at": "2024-06-21 14:23:35",
@@ -2011,18 +2011,22 @@
     {
       "added_at": "2024-06-21 14:23:35",
       "album": {
-        "name": "VACANCY",
-        "url": "https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz"
+        "name": "Rhymes",
+        "url": "https://open.spotify.com/album/4hqlx8mdrCorDXsdzQfmX1"
       },
       "artists": [
         {
-          "name": "Switch Disco",
-          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         }
       ],
-      "duration_ms": 191805,
-      "name": "VACANCY",
-      "url": "https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf"
+      "duration_ms": 200005,
+      "name": "Rhymes",
+      "url": "https://open.spotify.com/track/5QTlj4L7ODIKNnTkhDE16p"
     }
   ],
   "unique_name": "PARTY MODE",

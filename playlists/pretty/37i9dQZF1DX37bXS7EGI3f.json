@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Powerwolf\n",
-  "num_followers": 769132,
+  "num_followers": 769260,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,26 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
+        "name": "Love Reign O'er Me",
+        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
+      },
+      "artists": [
+        {
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Love Reign O'er Me",
+      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
         "name": "Light up the Sky",
         "url": "https://open.spotify.com/album/7zPQAdxJSYdzWL0FiAOrpM"
       },
@@ -1007,22 +1027,6 @@
       "duration_ms": 206720,
       "name": "Light up the Sky",
       "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1059,6 +1063,38 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
+        "name": "A Fortress Called Home",
+        "url": "https://open.spotify.com/album/6o0UiW267q52P3LtHCtJfa"
+      },
+      "artists": [
+        {
+          "name": "Seven Spires",
+          "url": "https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o"
+        }
+      ],
+      "duration_ms": 286160,
+      "name": "Portrait of Us",
+      "url": "https://open.spotify.com/track/67uIun0M8fLAW6ZkVqdSSJ"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
         "name": "Diamond Claws",
         "url": "https://open.spotify.com/album/6ABYt8Esd1En0LnDm9iKBx"
       },
@@ -1071,26 +1107,6 @@
       "duration_ms": 276552,
       "name": "Diamond Claws",
       "url": "https://open.spotify.com/track/1Zd6cxz9jtBEMPjbKHHOIJ"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
-        "name": "Love Reign O'er Me",
-        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
-      },
-      "artists": [
-        {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Love Reign O'er Me",
-      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1111,22 +1127,6 @@
       "duration_ms": 364029,
       "name": "Vita Nova",
       "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
-        "name": "The Old Hurt of Being Left Behind",
-        "url": "https://open.spotify.com/album/2oARG8q3rbzDtjYuy4uaFa"
-      },
-      "artists": [
-        {
-          "name": "Seven Spires",
-          "url": "https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o"
-        }
-      ],
-      "duration_ms": 410200,
-      "name": "The Old Hurt of Being Left Behind",
-      "url": "https://open.spotify.com/track/1v2O0uLpl5LpizZEPawkmR"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
+        "name": "The Old Hurt of Being Left Behind",
+        "url": "https://open.spotify.com/album/2oARG8q3rbzDtjYuy4uaFa"
+      },
+      "artists": [
+        {
+          "name": "Seven Spires",
+          "url": "https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o"
+        }
+      ],
+      "duration_ms": 410200,
+      "name": "The Old Hurt of Being Left Behind",
+      "url": "https://open.spotify.com/track/1v2O0uLpl5LpizZEPawkmR"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
         "name": "Summer Wine",
         "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "A Fortress Called Home",
-        "url": "https://open.spotify.com/album/6o0UiW267q52P3LtHCtJfa"
-      },
-      "artists": [
-        {
-          "name": "Seven Spires",
-          "url": "https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o"
-        }
-      ],
-      "duration_ms": 286160,
-      "name": "Portrait of Us",
-      "url": "https://open.spotify.com/track/67uIun0M8fLAW6ZkVqdSSJ"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
         "name": "A Brave New Hope",
         "url": "https://open.spotify.com/album/4R7CBA3wk2lrj9tkglsnQh"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj"
-      },
-      "artists": [
-        {
-          "name": "Stratovarius",
-          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "World on Fire",
-      "url": "https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
         "name": "Axes",
         "url": "https://open.spotify.com/album/2KtjpfdPn3rNCoRTdhHGtv"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 212493,
       "name": "Axes",
       "url": "https://open.spotify.com/track/5cMNQ2LmvEBTUL0ZKdxtPl"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj"
+      },
+      "artists": [
+        {
+          "name": "Stratovarius",
+          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Hear My Voice",
-        "url": "https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV"
-      },
-      "artists": [
-        {
-          "name": "Alterium",
-          "url": "https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV"
-        }
-      ],
-      "duration_ms": 198997,
-      "name": "Hear My Voice",
-      "url": "https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
         "name": "The Beast Has Awoken",
         "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 213473,
       "name": "The Beast Has Awoken",
       "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
+        "name": "Hear My Voice",
+        "url": "https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV"
+      },
+      "artists": [
+        {
+          "name": "Alterium",
+          "url": "https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV"
+        }
+      ],
+      "duration_ms": 198997,
+      "name": "Hear My Voice",
+      "url": "https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Juokse Sin\u00e4 Humma",
-        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
       },
       "artists": [
         {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+          "name": "Elvenking",
+          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
         }
       ],
-      "duration_ms": 196636,
-      "name": "Juokse Sin\u00e4 Humma",
-      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
+      "duration_ms": 267240,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1599,38 +1599,18 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
+        "name": "Juokse Sin\u00e4 Humma",
+        "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
       },
       "artists": [
         {
-          "name": "Elvenking",
-          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
         }
       ],
-      "duration_ms": 267240,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
-    },
-    {
-      "added_at": "2024-06-24 20:30:56",
-      "album": {
-        "name": "My Father's Son",
-        "url": "https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr"
-      },
-      "artists": [
-        {
-          "name": "Jani Liimatainen",
-          "url": "https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9"
-        },
-        {
-          "name": "Bjorn \"Speed\" Strid",
-          "url": "https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN"
-        }
-      ],
-      "duration_ms": 303253,
-      "name": "Breathing Divinity",
-      "url": "https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8"
+      "duration_ms": 196636,
+      "name": "Juokse Sin\u00e4 Humma",
+      "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1663,6 +1643,26 @@
       "duration_ms": 258737,
       "name": "Ritter Tod und Teufel (Knightfall)",
       "url": "https://open.spotify.com/track/6ioDj88eu8eqFuNuGv00tv"
+    },
+    {
+      "added_at": "2024-06-24 20:30:56",
+      "album": {
+        "name": "My Father's Son",
+        "url": "https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr"
+      },
+      "artists": [
+        {
+          "name": "Jani Liimatainen",
+          "url": "https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9"
+        },
+        {
+          "name": "Bjorn \"Speed\" Strid",
+          "url": "https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN"
+        }
+      ],
+      "duration_ms": 303253,
+      "name": "Breathing Divinity",
+      "url": "https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8"
     },
     {
       "added_at": "2024-06-24 20:30:56",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2024-06-24 20:30:56",
       "album": {
-        "name": "Call of the North",
-        "url": "https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t"
+        "name": "Towards The Dying Lands",
+        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
       },
       "artists": [
         {
-          "name": "Frozen Crown",
-          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
+          "name": "Horizon Ignited",
+          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
         }
       ],
-      "duration_ms": 384066,
-      "name": "Call of the North",
-      "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
+      "duration_ms": 237000,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
     }
   ],
   "unique_name": "Epic & Melodic",

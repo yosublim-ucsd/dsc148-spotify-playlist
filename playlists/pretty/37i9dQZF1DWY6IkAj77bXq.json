@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 72610,
+  "num_followers": 72636,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
+        "name": "Aetheris",
+        "url": "https://open.spotify.com/album/2JDr7kXGdHPQQKgOdfGy6x"
+      },
+      "artists": [
+        {
+          "name": "Edge Of The Spiral",
+          "url": "https://open.spotify.com/artist/71xo1rIlxbxkACPQgQpof8"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "Aetheris",
+      "url": "https://open.spotify.com/track/3qW4n7ZcKKdby0Hyp0tVma"
+    },
+    {
+      "added_at": "2024-06-10 17:02:30",
+      "album": {
         "name": "Afloat",
         "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 159892,
       "name": "Nature of Life",
       "url": "https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI"
-    },
-    {
-      "added_at": "2024-06-10 17:02:30",
-      "album": {
-        "name": "Aetheris",
-        "url": "https://open.spotify.com/album/2JDr7kXGdHPQQKgOdfGy6x"
-      },
-      "artists": [
-        {
-          "name": "Edge Of The Spiral",
-          "url": "https://open.spotify.com/artist/71xo1rIlxbxkACPQgQpof8"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "Aetheris",
-      "url": "https://open.spotify.com/track/3qW4n7ZcKKdby0Hyp0tVma"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
-        "name": "No Distractions",
-        "url": "https://open.spotify.com/album/1avmZuCKtnldnf3n1TCUIA"
-      },
-      "artists": [
-        {
-          "name": "Airosa",
-          "url": "https://open.spotify.com/artist/4CByXjHMoW0Gq2Y2tenlxY"
-        }
-      ],
-      "duration_ms": 183227,
-      "name": "No Distractions",
-      "url": "https://open.spotify.com/track/6OsYfzBSlyV2c0ZYcbhldr"
-    },
-    {
-      "added_at": "2024-06-10 17:02:30",
-      "album": {
         "name": "Mind Balance",
         "url": "https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 178723,
       "name": "Mind Balance",
       "url": "https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w"
+    },
+    {
+      "added_at": "2024-06-10 17:02:30",
+      "album": {
+        "name": "No Distractions",
+        "url": "https://open.spotify.com/album/1avmZuCKtnldnf3n1TCUIA"
+      },
+      "artists": [
+        {
+          "name": "Airosa",
+          "url": "https://open.spotify.com/artist/4CByXjHMoW0Gq2Y2tenlxY"
+        }
+      ],
+      "duration_ms": 183227,
+      "name": "No Distractions",
+      "url": "https://open.spotify.com/track/6OsYfzBSlyV2c0ZYcbhldr"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
-        "name": "Moonrise",
-        "url": "https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg"
-      },
-      "artists": [
-        {
-          "name": "Asa Kora",
-          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
-        }
-      ],
-      "duration_ms": 208515,
-      "name": "Moonrise",
-      "url": "https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj"
-    },
-    {
-      "added_at": "2024-06-10 17:02:30",
-      "album": {
         "name": "Hills Of Clarity",
         "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 255792,
       "name": "Hills Of Clarity",
       "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
+    },
+    {
+      "added_at": "2024-06-10 17:02:30",
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg"
+      },
+      "artists": [
+        {
+          "name": "Asa Kora",
+          "url": "https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj"
+        }
+      ],
+      "duration_ms": 208515,
+      "name": "Moonrise",
+      "url": "https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv"
-      },
-      "artists": [
-        {
-          "name": "Silent Movement",
-          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "Paracosm",
-      "url": "https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk"
-    },
-    {
-      "added_at": "2024-06-10 17:02:30",
-      "album": {
         "name": "Vibrational",
         "url": "https://open.spotify.com/album/7ItE1PpkbhDgDQQkmGEn7V"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 175460,
       "name": "Vibrational",
       "url": "https://open.spotify.com/track/0WPubOHAJO44JOIYpbaHd7"
+    },
+    {
+      "added_at": "2024-06-10 17:02:30",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv"
+      },
+      "artists": [
+        {
+          "name": "Silent Movement",
+          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Paracosm",
+      "url": "https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
-        "name": "Moonchild's First Flight",
-        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
+        "name": "Transform",
+        "url": "https://open.spotify.com/album/2fv3MlIygs4mGaBqfp0PAM"
       },
       "artists": [
         {
-          "name": "Amos Stremann",
-          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
+          "name": "Ceny Noes",
+          "url": "https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS"
         }
       ],
-      "duration_ms": 172372,
-      "name": "Moonchild's First Flight",
-      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
+      "duration_ms": 162627,
+      "name": "Transform",
+      "url": "https://open.spotify.com/track/6LGdqj1nnjVA3gegINxdLb"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -1015,6 +1015,22 @@
       "duration_ms": 165325,
       "name": "Forgettable",
       "url": "https://open.spotify.com/track/6O6QxgjfXLyHH4C6aa8jbO"
+    },
+    {
+      "added_at": "2024-06-10 17:02:30",
+      "album": {
+        "name": "Moonchild's First Flight",
+        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
+      },
+      "artists": [
+        {
+          "name": "Amos Stremann",
+          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
+        }
+      ],
+      "duration_ms": 172372,
+      "name": "Moonchild's First Flight",
+      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -1047,22 +1063,6 @@
       "duration_ms": 233383,
       "name": "Emerald Isles",
       "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
-    },
-    {
-      "added_at": "2024-06-10 17:02:30",
-      "album": {
-        "name": "Transform",
-        "url": "https://open.spotify.com/album/2fv3MlIygs4mGaBqfp0PAM"
-      },
-      "artists": [
-        {
-          "name": "Ceny Noes",
-          "url": "https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS"
-        }
-      ],
-      "duration_ms": 162627,
-      "name": "Transform",
-      "url": "https://open.spotify.com/track/6LGdqj1nnjVA3gegINxdLb"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
-        "name": "Everlasting Lights",
-        "url": "https://open.spotify.com/album/3rxpTB5ABi00AJal0SE7WO"
-      },
-      "artists": [
-        {
-          "name": "Priy",
-          "url": "https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer"
-        }
-      ],
-      "duration_ms": 199124,
-      "name": "Everlasting Lights",
-      "url": "https://open.spotify.com/track/7MTvwNVOEkpfDBQAu23vFG"
-    },
-    {
-      "added_at": "2024-06-10 17:02:30",
-      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
       },
@@ -1271,6 +1255,38 @@
       "duration_ms": 206624,
       "name": "Sammram",
       "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
+    },
+    {
+      "added_at": "2024-06-10 17:02:30",
+      "album": {
+        "name": "Everlasting Lights",
+        "url": "https://open.spotify.com/album/3rxpTB5ABi00AJal0SE7WO"
+      },
+      "artists": [
+        {
+          "name": "Priy",
+          "url": "https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer"
+        }
+      ],
+      "duration_ms": 199124,
+      "name": "Everlasting Lights",
+      "url": "https://open.spotify.com/track/7MTvwNVOEkpfDBQAu23vFG"
+    },
+    {
+      "added_at": "2024-06-10 17:02:30",
+      "album": {
+        "name": "Elevation",
+        "url": "https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP"
+      },
+      "artists": [
+        {
+          "name": "Eldrelder",
+          "url": "https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z"
+        }
+      ],
+      "duration_ms": 170176,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
-        "name": "Elevation",
-        "url": "https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP"
+        "name": "Defining Rest",
+        "url": "https://open.spotify.com/album/474ZgkfmyuzXVtMANPchsc"
       },
       "artists": [
         {
-          "name": "Eldrelder",
-          "url": "https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z"
+          "name": "Soundtopia",
+          "url": "https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4"
         }
       ],
-      "duration_ms": 170176,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy"
+      "duration_ms": 161454,
+      "name": "Defining Rest",
+      "url": "https://open.spotify.com/track/3yIimdbe1kmqOpyZbTHyDY"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
-        "name": "Defining Rest",
-        "url": "https://open.spotify.com/album/474ZgkfmyuzXVtMANPchsc"
-      },
-      "artists": [
-        {
-          "name": "Soundtopia",
-          "url": "https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Defining Rest",
-      "url": "https://open.spotify.com/track/3yIimdbe1kmqOpyZbTHyDY"
-    },
-    {
-      "added_at": "2024-06-10 17:02:30",
-      "album": {
         "name": "Prieks",
         "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
-        "name": "mOther World",
-        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
-      },
-      "artists": [
-        {
-          "name": "Mike Molloy",
-          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
-        }
-      ],
-      "duration_ms": 124458,
-      "name": "mOther World",
-      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
-    },
-    {
-      "added_at": "2024-06-10 17:02:30",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/01iV3VoDYYuC4Oz82XaYCR"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 144043,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/0zoLn35Bnc2byxEe4Y8N8Y"
+    },
+    {
+      "added_at": "2024-06-10 17:02:30",
+      "album": {
+        "name": "mOther World",
+        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
+      },
+      "artists": [
+        {
+          "name": "Mike Molloy",
+          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
+        }
+      ],
+      "duration_ms": 124458,
+      "name": "mOther World",
+      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
-        "name": "Light & Hope",
-        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
-      },
-      "artists": [
-        {
-          "name": "Crystalsong",
-          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
-        }
-      ],
-      "duration_ms": 167099,
-      "name": "Light & Hope",
-      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
-    },
-    {
-      "added_at": "2024-06-10 17:02:30",
-      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/45XW5GtxG6TdPEEgvA7Jul"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 211443,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1"
+    },
+    {
+      "added_at": "2024-06-10 17:02:30",
+      "album": {
+        "name": "Light & Hope",
+        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
+      },
+      "artists": [
+        {
+          "name": "Crystalsong",
+          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
+        }
+      ],
+      "duration_ms": 167099,
+      "name": "Light & Hope",
+      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
-        "name": "Desiderio",
-        "url": "https://open.spotify.com/album/3G2m9ypP5NGaKtwkIfncuh"
-      },
-      "artists": [
-        {
-          "name": "Armand DeLuca",
-          "url": "https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu"
-        }
-      ],
-      "duration_ms": 154726,
-      "name": "Desiderio",
-      "url": "https://open.spotify.com/track/3Vk578KtrVIfcTANvQ2rkW"
-    },
-    {
-      "added_at": "2024-06-10 17:02:30",
-      "album": {
         "name": "Dreamgaze",
         "url": "https://open.spotify.com/album/0gvuIEHNqACJU8JXn2BcTC"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 217000,
       "name": "Dreamgaze",
       "url": "https://open.spotify.com/track/6IRi150T6ZXt3uFGpFggEv"
+    },
+    {
+      "added_at": "2024-06-10 17:02:30",
+      "album": {
+        "name": "Desiderio",
+        "url": "https://open.spotify.com/album/3G2m9ypP5NGaKtwkIfncuh"
+      },
+      "artists": [
+        {
+          "name": "Armand DeLuca",
+          "url": "https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu"
+        }
+      ],
+      "duration_ms": 154726,
+      "name": "Desiderio",
+      "url": "https://open.spotify.com/track/3Vk578KtrVIfcTANvQ2rkW"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
+        "name": "A Special Place",
+        "url": "https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aura",
+          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
+        }
+      ],
+      "duration_ms": 146625,
+      "name": "A Special Place",
+      "url": "https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9"
+    },
+    {
+      "added_at": "2024-06-10 17:02:30",
+      "album": {
         "name": "Stillness",
         "url": "https://open.spotify.com/album/45JitQMFNSa8L3wFS5JOcC"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 193492,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"
-    },
-    {
-      "added_at": "2024-06-10 17:02:30",
-      "album": {
-        "name": "A Special Place",
-        "url": "https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB"
-      },
-      "artists": [
-        {
-          "name": "Celestial Aura",
-          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
-        }
-      ],
-      "duration_ms": 146625,
-      "name": "A Special Place",
-      "url": "https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 181985,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs"
+    },
+    {
+      "added_at": "2024-06-10 17:02:30",
+      "album": {
         "name": "Nebulae",
         "url": "https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj"
       },
@@ -1787,18 +1803,18 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
-        "name": "A New Day",
-        "url": "https://open.spotify.com/album/1iW2YQx2uFHUVVPwBCVBpW"
+        "name": "Grains of the Golden Sand",
+        "url": "https://open.spotify.com/album/7DP6yEBXCyuih8gc5j4G7p"
       },
       "artists": [
         {
-          "name": "Oscar Sol",
-          "url": "https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce"
+          "name": "Eternal Light",
+          "url": "https://open.spotify.com/artist/45Wnto3MekB5K0mL5aBiYv"
         }
       ],
-      "duration_ms": 156000,
-      "name": "A New Day",
-      "url": "https://open.spotify.com/track/4hI39WJTJdxfLZIxw1P4xZ"
+      "duration_ms": 151343,
+      "name": "Grains of the Golden Sand",
+      "url": "https://open.spotify.com/track/0FKabfqMVicNNykyhpjniV"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -1819,18 +1835,18 @@
     {
       "added_at": "2024-06-10 17:02:30",
       "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV"
+        "name": "A New Day",
+        "url": "https://open.spotify.com/album/1iW2YQx2uFHUVVPwBCVBpW"
       },
       "artists": [
         {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+          "name": "Oscar Sol",
+          "url": "https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce"
         }
       ],
-      "duration_ms": 181985,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs"
+      "duration_ms": 156000,
+      "name": "A New Day",
+      "url": "https://open.spotify.com/track/4hI39WJTJdxfLZIxw1P4xZ"
     },
     {
       "added_at": "2024-06-10 17:02:30",
@@ -1863,22 +1879,6 @@
       "duration_ms": 171666,
       "name": "Sleep Drifting",
       "url": "https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv"
-    },
-    {
-      "added_at": "2024-06-10 17:02:30",
-      "album": {
-        "name": "Grains of the Golden Sand",
-        "url": "https://open.spotify.com/album/7DP6yEBXCyuih8gc5j4G7p"
-      },
-      "artists": [
-        {
-          "name": "Eternal Light",
-          "url": "https://open.spotify.com/artist/45Wnto3MekB5K0mL5aBiYv"
-        }
-      ],
-      "duration_ms": 151343,
-      "name": "Grains of the Golden Sand",
-      "url": "https://open.spotify.com/track/0FKabfqMVicNNykyhpjniV"
     },
     {
       "added_at": "2024-06-10 17:02:30",

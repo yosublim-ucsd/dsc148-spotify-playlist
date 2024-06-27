@@ -299,6 +299,22 @@
     {
       "added_at": "2024-06-21 09:41:08",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1uDSyPokcsWjykNxR61SbI"
+      },
+      "artists": [
+        {
+          "name": "Khakii",
+          "url": "https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/44NrYLVtWcwizNgFva0zUt"
+    },
+    {
+      "added_at": "2024-06-21 09:41:08",
+      "album": {
         "name": "RANDOM BOX",
         "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 159230,
       "name": "Color (Feat. youra)",
       "url": "https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB"
-    },
-    {
-      "added_at": "2024-06-21 09:41:08",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1uDSyPokcsWjykNxR61SbI"
-      },
-      "artists": [
-        {
-          "name": "Khakii",
-          "url": "https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/44NrYLVtWcwizNgFva0zUt"
     },
     {
       "added_at": "2024-06-21 09:41:08",

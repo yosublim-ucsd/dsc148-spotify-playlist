@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Raphaela Santos e mais mulheres no volume máximo! Co\-curadoria com Raphaela Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,877 likes - 48 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,885 likes - 48 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 35 | [Seu Mentiroso \- Ao Vivo em Aracaju](https://open.spotify.com/track/5bxPJGrCtWOtvDL0rtWO3Q) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Seu Mentiroso \(Ao Vivo em Aracaju\)](https://open.spotify.com/album/4CAaq6RKKS07kRKhgRDxzF) | 3:45 |
 | 36 | [Bora Testar](https://open.spotify.com/track/5sGpSASOFgc9WqvUR76Jqo) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Bora Testar](https://open.spotify.com/album/0cT2wFroLy3chvFZ2hWuI7) | 2:32 |
 | 37 | [Ondas Voltam Pro Mar](https://open.spotify.com/track/7xaseKeBTdAtb6wr5E1ANu) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Ondas Voltam Pro Mar](https://open.spotify.com/album/1K36bCOMvKKesXv8CCIBVb) | 3:11 |
-| 38 | [Vamos Viajar](https://open.spotify.com/track/7qlywEFIJi7aa7mY4xWLF8) | [Luanny Vital](https://open.spotify.com/artist/4o6NHc4xMGrHENiEDYhQe1), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Vamos Viajar](https://open.spotify.com/album/2Ed1zgpMpYKKAKzg2yitNJ) | 2:54 |
+| 38 | [Batom Na Boca](https://open.spotify.com/track/5wgMwNVQuyMFdZ7KX5kbD7) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Se Joga \(Deluxe\)](https://open.spotify.com/album/18sftFYNsEQomDlRzldTIY) | 2:44 |
 | 39 | [Vou te Bloquear](https://open.spotify.com/track/47dnK5hi3tjLjrfTDOfiMy) | [Galícia](https://open.spotify.com/artist/79N95MiRQ5G55CtC7cVBsr) | [Vou te Bloquear](https://open.spotify.com/album/1lKFEVjayLHliUyYHn4jwp) | 2:30 |
-| 40 | [Batom Na Boca](https://open.spotify.com/track/5wgMwNVQuyMFdZ7KX5kbD7) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Se Joga \(Deluxe\)](https://open.spotify.com/album/18sftFYNsEQomDlRzldTIY) | 2:44 |
+| 40 | [Vamos Viajar](https://open.spotify.com/track/7qlywEFIJi7aa7mY4xWLF8) | [Luanny Vital](https://open.spotify.com/artist/4o6NHc4xMGrHENiEDYhQe1), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Vamos Viajar](https://open.spotify.com/album/2Ed1zgpMpYKKAKzg2yitNJ) | 2:54 |
 | 41 | [Frase Decorada](https://open.spotify.com/track/0lu1ncJkS1BzB41ByBqtBY) | [Ester Moraes](https://open.spotify.com/artist/07gBSJp5Y3SQYut7biit26) | [Frase Decorada](https://open.spotify.com/album/7jNwEJn3p7qvmQG72klx5T) | 3:39 |
 | 42 | [Status](https://open.spotify.com/track/210jgouJg1YRS4rtp0xkNm) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Status](https://open.spotify.com/album/5aEKsmuiELa952fvaIyzri) | 2:23 |
 | 43 | [Ex Meu, Ex Dela \- Ao Vivo](https://open.spotify.com/track/1Lj20YC5YZsB3VwGckxgxM) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ) | [Rayane & Rafaela, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3alOXtWjiWAlFbCYcpvvni) | 2:36 |

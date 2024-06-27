@@ -3204,7 +3204,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 168719,
       "name": "Always Dreaming (of Gina)",
       "url": "https://open.spotify.com/track/2aHthzuDY74jguQJaXIF2Q"
@@ -18026,7 +18026,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 207673,
       "name": "Every Kind of Way",
       "url": "https://open.spotify.com/track/4EY2f16x9kRn2GuQoGi7za"
@@ -40650,7 +40650,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 221866,
       "name": "Night Skies",
       "url": "https://open.spotify.com/track/4RNKofeyQuBizGTSKyrkrG"
@@ -42962,7 +42962,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 221217,
       "name": "One Time - Precision Productions & Samman Remix",
       "url": "https://open.spotify.com/track/43MT3JlrX9sqXw4YfEog3V"
@@ -53786,7 +53786,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 151456,
       "name": "Strawberry Ice",
       "url": "https://open.spotify.com/track/6bYoJHuGp4o47JmyUgicZW"
@@ -55984,7 +55984,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 248489,
       "name": "Talking In Your Sleep",
       "url": "https://open.spotify.com/track/3Uj3ZIu76sUFrsxBbBPP9C"
@@ -58166,6 +58166,24 @@
       "duration_ms": 183529,
       "name": "Think About It",
       "url": "https://open.spotify.com/track/2rAZTI1dSyeRh6jirHoAzb"
+    },
+    {
+      "album": {
+        "name": "Think I'm In Love",
+        "url": "https://open.spotify.com/album/4Li0XOPIbtCGsSqOIPDR6C"
+      },
+      "artists": [
+        {
+          "name": "Mikael Johansen",
+          "url": "https://open.spotify.com/artist/74xwUTLeQcH13wzMloF7ZD"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159413,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/0T1tvbmjEaJ1RqtGlzsQqD"
     },
     {
       "album": {
@@ -63456,6 +63474,28 @@
       "duration_ms": 195750,
       "name": "What I Know",
       "url": "https://open.spotify.com/track/79Gg3a5rEcaEWFVSgpeAcL"
+    },
+    {
+      "album": {
+        "name": "What I Live For",
+        "url": "https://open.spotify.com/album/149F2ut9m1Y2EXEnaMTfQ7"
+      },
+      "artists": [
+        {
+          "name": "ellee ven",
+          "url": "https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x"
+        },
+        {
+          "name": "Prod\u00e9je",
+          "url": "https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120187,
+      "name": "What I Live For",
+      "url": "https://open.spotify.com/track/6TvbTJeOiS2GfNta72CtcY"
     },
     {
       "album": {

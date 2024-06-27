@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 45 | [Viento y Fuego](https://open.spotify.com/track/5G9vADNELif86MhpMfJsj5) | [ICC Worship](https://open.spotify.com/artist/78dYVP5riNvP1gSUMrir80), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Viento y Fuego](https://open.spotify.com/album/1gwEQd1JAuVzFmyNuhJxxa) | 5:19 |
 | 46 | [Luz del Mundo](https://open.spotify.com/track/4g62y55eG0bqSWmssbUAC2) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Andreas Moss](https://open.spotify.com/artist/2g6nfqSFo2cPVrafnW85jm) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 4:25 |
 | 47 | [Vem Sabendo](https://open.spotify.com/track/6xw0ym9rtm8qxP9DYCzW8q) | [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz) | [Tudo Novo](https://open.spotify.com/album/2GdUy47fwXjOrOjU9v12Pg) | 4:59 |
-| 48 | [Surpresa do Céu](https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky) | [Márcia Christiny](https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe) | [Surpresa do Céu](https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9) | 5:01 |
-| 49 | [Mãe](https://open.spotify.com/track/4EDqnS8xzv7cErqgl7e8tw) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [Mãe](https://open.spotify.com/album/5MQOsikb3BzuBsXRTe0I7j) | 3:19 |
+| 48 | [Mãe](https://open.spotify.com/track/4EDqnS8xzv7cErqgl7e8tw) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [Mãe](https://open.spotify.com/album/5MQOsikb3BzuBsXRTe0I7j) | 3:19 |
+| 49 | [Surpresa do Céu](https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky) | [Márcia Christiny](https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe) | [Surpresa do Céu](https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9) | 5:01 |
 | 50 | [Promessas](https://open.spotify.com/track/0DG8rlv4qfOU2YbdttWHLy) | [Lais Souza](https://open.spotify.com/artist/1gbps42EklltqqNRUb88gx) | [Promessas](https://open.spotify.com/album/7od6KkiUWFK2Qx3iHTRunC) | 4:45 |
 
-Snapshot ID: `AbVCAgAAAAC0L9TD9ZpfGMfkEfmOtyc2`
+Snapshot ID: `AbVH4AAAAAA/tdCagXq05ZxkJqp+OXH9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,904 likes - 201 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,987 likes - 201 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 123 | [unruly](https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [unruly](https://open.spotify.com/album/30qNUbkHpnFRNd8x8sYWNT) | 2:24 |
 | 124 | [Audacity \(Remix\)](https://open.spotify.com/track/0ouNBIHM99th3cFiLnLt4c) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Audacity \(Remix\)](https://open.spotify.com/album/3LPAkWk7d2r2iz9p0Zt6Rw) | 2:42 |
 | 125 | [Fade \(feat\. KIRBY\)](https://open.spotify.com/track/4JIQyyCvJnUcRTYxKBB4LU) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Fade \(feat\. KIRBY\)](https://open.spotify.com/album/2np1sUdwyKLUGAe1NFs4uL) | 3:28 |
-| 126 | [All for Love](https://open.spotify.com/track/1uY5hVJoMZjq6bTRhokkjW) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Burniss Travis](https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c) | [All for Love](https://open.spotify.com/album/0HsRlNgQyqMG96FaB3DHfT) | 6:12 |
+| 126 | [All For Love \- Live](https://open.spotify.com/track/1uY5hVJoMZjq6bTRhokkjW) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Burniss Travis](https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c) | [All For Love \(Live\)](https://open.spotify.com/album/0HsRlNgQyqMG96FaB3DHfT) | 6:12 |
 | 127 | [Bleeding Me Dry](https://open.spotify.com/track/6ldJ3AUfPvRX2gCB4IMpBG) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry](https://open.spotify.com/album/4jMPCb1lQSBO6rjgMDxoVi) | 3:27 |
 | 128 | [Love Somebody](https://open.spotify.com/track/0TCQnVD1YqN2gNIFrvNICE) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Love Somebody](https://open.spotify.com/album/7BK8Km6JQ3D5YhT0PdRwus) | 2:56 |
 | 129 | [Get Away](https://open.spotify.com/track/25WijqKV8rFsFM53gZN2G1) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Get Away](https://open.spotify.com/album/670TUBzn6VAg0juITSAFUZ) | 2:57 |

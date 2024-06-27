@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-205 songs - 15 hr 16 min
+206 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Amaat One](https://open.spotify.com/track/60nFcBJzUY17ZuDTDtD8qi) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Amaat One](https://open.spotify.com/album/4UVVXIPLpuFYFxOr8hEPjJ) | 5:36 | 2023-02-17 |  |
 | [Amaat One](https://open.spotify.com/track/7oY7hsyhvGS5rVaMszDEEh) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Amaat One](https://open.spotify.com/album/2elBATB2nvWGsWxvCPwQwU) | 5:36 | 2023-02-17 | 2024-04-19 |
 | [Aquarius](https://open.spotify.com/track/08EgS4Nqe1jPkI9tx9Dq3S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 5:58 | 2023-02-17 | 2024-04-19 |
-| [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 | 2023-02-17 |  |
+| [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 | 2023-02-17 | 2024-06-27 |
 | [Arcadian Daze](https://open.spotify.com/track/6NXrZnDylt1iZd2qU8ssK3) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Arcadian Daze](https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT) | 3:16 | 2023-02-17 | 2024-04-19 |
 | [Arpeggi](https://open.spotify.com/track/6OQTJ7llyUiejKFxR4MUuy) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 4:45 | 2023-02-17 |  |
 | [At Height](https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu) | 3:52 | 2023-02-17 |  |
@@ -76,6 +76,7 @@
 | [Haku \- RUMTUM Remix](https://open.spotify.com/track/4bbC2PWt5QDvICHQBUXyj4) | [Ramakhandra](https://open.spotify.com/artist/1Apw9xiab11PyZLo6YeUoJ), [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Haku \(RUMTUM Remix\)](https://open.spotify.com/album/3ranyNZIbzrxe6XdiwoiWD) | 5:41 | 2023-02-17 | 2024-04-19 |
 | [Hands](https://open.spotify.com/track/2UFR9rHVRKPVMC5DeZvO1P) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Rounds \(Special Anniversary Edition\)](https://open.spotify.com/album/6ebN0Gkim6B1SDSp2ZbwI1) | 5:41 | 2023-02-17 | 2024-04-19 |
 | [Hands](https://open.spotify.com/track/6VfWccY3UTDtXFa7WFMyz8) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Rounds](https://open.spotify.com/album/2H49BEjjzWluWjmy2k9tdQ) | 5:41 | 2023-02-17 |  |
+| [Happy Cycling](https://open.spotify.com/track/6G4Iu30Hp9SHWQ1k2Fow7i) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 7:52 | 2023-02-17 |  |
 | [Happy Cycling](https://open.spotify.com/track/55IsBrXUfZUmY7KSm2BjUp) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 7:56 | 2023-02-17 | 2024-04-19 |
 | [Hasty Boom Alert](https://open.spotify.com/track/4miEA9U9PZKBYryATLzCKC) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 5:15 | 2023-02-17 |  |
 | [Haynes Manor](https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 5:06 | 2023-02-17 |  |

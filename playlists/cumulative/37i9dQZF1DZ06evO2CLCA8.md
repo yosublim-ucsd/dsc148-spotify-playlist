@@ -2,7 +2,7 @@
 
 ### [This Is Tom Petty and the Heartbreakers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CLCA8)
 
-> This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
+> This Is Tom Petty and the Heartbreakers\. Los temas esenciales, todos en una lista.
 
 99 songs - 6 hr 23 min
 
@@ -53,13 +53,13 @@
 | [I Won't Back Down \- Live at the Fillmore, 1997](https://open.spotify.com/track/0IXin8XHw7ikscCycdCZwa) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [I Won't Back Down \(Live at the Fillmore, 1997\)](https://open.spotify.com/album/0OmDmOf0kDHw2RXxjeaMLf) | 3:42 | 2022-10-29 | 2024-06-26 |
 | [I Won't Back Down \- Live at the Fillmore, 1997](https://open.spotify.com/track/6VI1XxF61Ny1Gb2m27XnaR) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 3:42 | 2022-12-09 | 2023-04-22 |
 | [Insider](https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:20 | 2022-02-14 |  |
-| [Into The Great Wide Open](https://open.spotify.com/track/63xBnyUVKIupzjHno4wFs3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:43 | 2022-01-11 | 2024-06-23 |
+| [Into The Great Wide Open](https://open.spotify.com/track/63xBnyUVKIupzjHno4wFs3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:43 | 2022-01-11 |  |
 | [It'll All Work Out](https://open.spotify.com/track/18N4jiKRHtC5v5bgMtFeUF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Let Me Up \(I've Had Enough\)](https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ) | 3:11 | 2022-01-11 |  |
 | [It's Good to Be King \- Live](https://open.spotify.com/track/3fr8eOb9TWfp7VM7IrTg2Q) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Live Anthology](https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh) | 12:14 | 2022-09-25 | 2022-09-29 |
 | [Jammin' Me](https://open.spotify.com/track/2AFJkvRUFVx0MccykGaHV2) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Let Me Up \(I've Had Enough\)](https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ) | 4:09 | 2022-01-12 |  |
 | [Jammin' Me \- Live at the Fillmore, 1997](https://open.spotify.com/track/5vHSRMboftjNdGoT19Ly59) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 4:21 | 2022-12-12 | 2023-01-01 |
 | [Kings Highway](https://open.spotify.com/track/0ge66NW3sKKgWW7eKQHnE0) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:06 | 2022-01-12 |  |
-| [Learning To Fly](https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 4:02 | 2022-01-11 |  |
+| [Learning To Fly](https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 4:02 | 2022-01-11 | 2024-06-27 |
 | [Let Yourself Go](https://open.spotify.com/track/4Jq6VAECmEgrS7LWIbWiQW) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo \(Extra Mojo Version\)](https://open.spotify.com/album/5Vd6FI8d0ZMXyrJUdCsCSP) | 3:22 | 2023-12-13 | 2024-01-14 |
 | [Let Yourself Go](https://open.spotify.com/track/3eGvKdxK4cRs0CvkohrpP1) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 3:22 | 2023-11-10 | 2024-05-13 |
 | [Listen to Her Heart](https://open.spotify.com/track/2iW5uc25ziGLlNMqdhFJad) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [You're Gonna Get It!](https://open.spotify.com/album/5hULIIwBVNm3cinAAFmv1P) | 3:04 | 2022-01-11 |  |

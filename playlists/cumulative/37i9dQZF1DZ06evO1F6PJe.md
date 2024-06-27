@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-144 songs - 12 hr 46 min
+145 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Molly O'](https://open.spotify.com/track/0ExwFnQ2XcaUw6buImFuLV) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 6:06 | 2022-11-02 | 2022-12-25 |
 | [Mountain Climbing](https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:43 | 2022-08-05 |  |
 | [No Good Place For The Lonely](https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 8:38 | 2022-08-05 | 2023-04-21 |
+| [No Good Place For The Lonely \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/4hLXcBEmTbvhEJpAafXV2O) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 8:28 | 2024-06-27 |  |
 | [Notches](https://open.spotify.com/track/37OvIUoTAlKsuO3nTGSLSf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 7:03 | 2022-08-05 | 2023-04-23 |
 | [Notches \(Live\)](https://open.spotify.com/track/4ZvJWowagPHXIp7dxctfuT) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 9:49 | 2023-04-22 | 2023-12-14 |
 | [Nutbush City Limits](https://open.spotify.com/track/07nZ2XeSabtqpx9Gy67xac) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Seesaw](https://open.spotify.com/album/4YeG1gnArhUBfqGyuJe2vT) | 3:36 | 2022-08-05 | 2022-10-06 |
@@ -125,7 +126,7 @@
 | [The Ghost Of Macon Jones](https://open.spotify.com/track/6kqPxNCsODUHqipFNYYNZL) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:24 | 2022-08-05 | 2022-10-30 |
 | [The Heart That Never Waits](https://open.spotify.com/track/4sb2JUFkGwT9jfzM7lcQBI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 5:51 | 2022-08-05 | 2023-04-16 |
 | [The Heart That Never Waits \(Live\)](https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 8:31 | 2023-04-15 |  |
-| [The Last Matador Of Bayonne \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/4rgnW50oylv9VMDb1GKJcU) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Last Matador Of Bayonne \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/6GMLIFdBnSEUiVzhg1F0Ju) | 8:12 | 2024-03-23 |  |
+| [The Last Matador Of Bayonne \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/4rgnW50oylv9VMDb1GKJcU) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Last Matador Of Bayonne \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/6GMLIFdBnSEUiVzhg1F0Ju) | 8:12 | 2024-03-23 | 2024-06-27 |
 | [The Loyal Kind \(Live\)](https://open.spotify.com/track/3VlxQrEaQAehaxvPUpN9Gi) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Loyal Kind \(Live\)](https://open.spotify.com/album/0ApJp0w406tV4tWNFwMWBk) | 6:34 | 2023-02-09 | 2023-04-20 |
 | [The Loyal Kind \(Live\)](https://open.spotify.com/track/7GbLzRIAPkJSjyR5iPKLpg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 6:34 | 2023-04-22 | 2024-02-23 |
 | [The Truth Hurts](https://open.spotify.com/track/5sJ5SvKZzvaSXrVovdHbUu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq), [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 4:35 | 2023-10-10 | 2023-11-11 |

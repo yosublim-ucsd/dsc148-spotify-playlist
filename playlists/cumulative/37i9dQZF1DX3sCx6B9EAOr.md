@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-751 songs - 1 day 17 hr 6 min
+752 songs - 1 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Come N Goes](https://open.spotify.com/track/5FANrx0S8OLZrHiG8OpvVB) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:31 | 2022-02-03 | 2022-05-02 |
 | [Complex \(Feat\. ZICO\)](https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [FIVE SENSES](https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP) | 3:15 | 2022-10-07 | 2023-02-18 |
 | [Control](https://open.spotify.com/track/4uUqBEXqsx3JJ90aZXPDrs) | [GHOST9](https://open.spotify.com/artist/7f953Uuid7Xrd0nXQ3V3s1) | [NOW : Who we are facing](https://open.spotify.com/album/0yO5og1avvyKG0sf83iZ3M) | 3:13 | 2022-03-24 | 2022-04-21 |
+| [Cosmic](https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:45 | 2024-06-25 |  |
 | [Crash & Burn](https://open.spotify.com/track/2QOI51497Fk1yh8ctvTZQ2) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) | 3:24 | 2023-04-07 | 2023-05-03 |
 | [Crazy About You](https://open.spotify.com/track/5fWA7ingUBU5U6eCbsf4TH) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Novella](https://open.spotify.com/album/0Yy2pkAP5dZ5QGJhItCEm9) | 4:12 | 2022-03-24 | 2022-03-27 |
 | [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 | 2023-07-11 |  |
@@ -173,7 +174,7 @@
 | [Do dum chit](https://open.spotify.com/track/46bN1wIFJy2w0E0pQlEjYm) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 2:55 | 2022-03-24 | 2022-05-10 |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-11 | 2024-01-04 |
 | [Do It Like This](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : FIND OUT](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) | 3:12 | 2022-01-03 | 2024-03-06 |
-| [Do or Die \(ft\. DPR IAN\)](https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo) | [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ), [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [KINEMA](https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8) | 3:34 | 2024-03-27 |  |
+| [Do or Die \(ft\. DPR IAN\)](https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo) | [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ), [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [KINEMA](https://open.spotify.com/album/5bikiolrxKPQiFfPt7bdv8) | 3:34 | 2024-03-27 | 2024-06-27 |
 | [DO or NOT](https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:08 | 2021-12-07 | 2022-07-08 |
 | [DO WHAT WE LIKE](https://open.spotify.com/track/54kGRAmn3I49RPAhdWG2sp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 2:59 | 2022-01-03 | 2022-05-01 |
 | [Dolphin](https://open.spotify.com/track/3NfgdU9mbIVhcJF3XvC0c9) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 2:56 | 2021-12-07 | 2023-08-04 |

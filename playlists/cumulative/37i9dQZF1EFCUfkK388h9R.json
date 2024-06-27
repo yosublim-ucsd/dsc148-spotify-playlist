@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Love On Repeat",
+        "url": "https://open.spotify.com/album/0f2TR4e0rXqQ4HfiEEunLW"
+      },
+      "artists": [
+        {
+          "name": "SAKIMA",
+          "url": "https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129336,
+      "name": "Love On Repeat",
+      "url": "https://open.spotify.com/track/4IOhOvxeaI9rhYbdpb0xUF"
+    },
+    {
+      "album": {
         "name": "DICE - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n"
       },

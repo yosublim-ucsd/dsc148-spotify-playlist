@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1323171,
+  "num_followers": 1323435,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Marcy Playground",
-        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
-      },
-      "artists": [
-        {
-          "name": "Marcy Playground",
-          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Sex & Candy",
-      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 305533,
       "name": "Undone - The Sweater Song",
       "url": "https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Marcy Playground",
+        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
+      },
+      "artists": [
+        {
+          "name": "Marcy Playground",
+          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Sex & Candy",
+      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Title Of Record (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 363800,
-      "name": "Take A Picture",
-      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "X (Remastered)",
         "url": "https://open.spotify.com/album/6Ct05XZNu2QpqDpjaxY7Xu"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 232626,
       "name": "Suicide Blonde",
       "url": "https://open.spotify.com/track/3dISHe66tFlOKqmom5Qr2n"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Title Of Record (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 363800,
+      "name": "Take A Picture",
+      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Odelay",
-        "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 330946,
-      "name": "Where It's At",
-      "url": "https://open.spotify.com/track/0myfUjrUP8kMrk48nOXAY0"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Transmissions From the Satellite Heart",
         "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 222278,
       "name": "She Don't Use Jelly",
       "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Odelay",
+        "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 330946,
+      "name": "Where It's At",
+      "url": "https://open.spotify.com/track/0myfUjrUP8kMrk48nOXAY0"
     },
     {
       "added_at": "2024-06-26 02:07:58",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAADlMJgT+V6N0tY9XI2QdRCG",
+  "snapshot_id": "ZnoIgAAAAADRx8ff0mzTfqDAMaIruHSi",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Nena Resc\u00e1tame",
+      "url": "https://open.spotify.com/track/2tbmgpfmLQCC9EP1ec9wel"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donde Vamos a Parar (Remasterizado)",
         "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
       },
@@ -379,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
       },
       "artists": [
         {
@@ -388,9 +404,29 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 165666,
-      "name": "Nena Resc\u00e1tame",
-      "url": "https://open.spotify.com/track/2tbmgpfmLQCC9EP1ec9wel"
+      "duration_ms": 243040,
+      "name": "Todo Lo Que Quiero",
+      "url": "https://open.spotify.com/track/2cXRuJKl16xftUhDCaJUqr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        },
+        {
+          "name": "Leslie Shaw",
+          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
+        }
+      ],
+      "duration_ms": 223371,
+      "name": "Amores Que Acaban",
+      "url": "https://open.spotify.com/track/3VNj2mxv5UqUVx8eJRLFLh"
     },
     {
       "added_at": null,
@@ -451,42 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        },
-        {
-          "name": "Leslie Shaw",
-          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
-        }
-      ],
-      "duration_ms": 223371,
-      "name": "Amores Que Acaban",
-      "url": "https://open.spotify.com/track/3VNj2mxv5UqUVx8eJRLFLh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Cr\u00eda",
-        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Todo Lo Que Quiero",
-      "url": "https://open.spotify.com/track/2cXRuJKl16xftUhDCaJUqr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
       },
@@ -499,38 +499,6 @@
       "duration_ms": 234973,
       "name": "Un Amor Sin Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4zzOetx3QIt95dC2nMYQPM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock And Qu\u00e9",
-        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 291173,
-      "name": "M\u00f3nica",
-      "url": "https://open.spotify.com/track/1eU86kHbVXWop774OQRKfi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 218538,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/6CnD6Lf21ssKD6qyngqD2e"
     },
     {
       "added_at": null,
@@ -551,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
+        "name": "33",
+        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
       },
       "artists": [
         {
@@ -560,9 +528,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/4UjJEOoa8JzbbmighGn5du"
+      "duration_ms": 218538,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/6CnD6Lf21ssKD6qyngqD2e"
     },
     {
       "added_at": null,
@@ -587,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
       },
       "artists": [
         {
@@ -596,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 218122,
-      "name": "Ventana",
-      "url": "https://open.spotify.com/track/3zcXkcT0sDOn67WpJV9QsR"
+      "duration_ms": 210000,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/4UjJEOoa8JzbbmighGn5du"
     },
     {
       "added_at": null,
@@ -619,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 218122,
+      "name": "Ventana",
+      "url": "https://open.spotify.com/track/3zcXkcT0sDOn67WpJV9QsR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock And Qu\u00e9",
         "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
       },
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 214493,
-      "name": "D\u00f3nde Vas",
-      "url": "https://open.spotify.com/track/2QvA8SrQxMEJHBtAJu48X4"
+      "duration_ms": 291173,
+      "name": "M\u00f3nica",
+      "url": "https://open.spotify.com/track/1eU86kHbVXWop774OQRKfi"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Vac\u00edo",
+      "url": "https://open.spotify.com/track/2uoOUpIOBMnBxtaJGQIDZg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
       },
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
+        "name": "Rock And Qu\u00e9",
+        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 190533,
-      "name": "Vac\u00edo",
-      "url": "https://open.spotify.com/track/2uoOUpIOBMnBxtaJGQIDZg"
+      "duration_ms": 214493,
+      "name": "D\u00f3nde Vas",
+      "url": "https://open.spotify.com/track/2QvA8SrQxMEJHBtAJu48X4"
     },
     {
       "added_at": null,

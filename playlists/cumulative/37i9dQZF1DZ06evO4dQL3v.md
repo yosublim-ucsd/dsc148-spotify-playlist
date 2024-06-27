@@ -2,7 +2,7 @@
 
 ### [This Is Banda Toro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dQL3v)
 
-> This is Banda Toro\. The essential tracks, all in one playlist.
+> This is Banda Toro\. Todos os maiores hits em uma só playlist.
 
 103 songs - 4 hr 55 min
 

@@ -82,7 +82,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 498426,
       "name": "Break Every Chain - Live",
       "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
@@ -140,7 +140,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 374706,
       "name": "Confidence - Live",
       "url": "https://open.spotify.com/track/5J0TvJIdYrybgk6SINgieR"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 358440,
       "name": "Fill Me Up - Live",
       "url": "https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 307140,
       "name": "Fill Me Up / Overflow - Medley/1 Mic 1 Take",
       "url": "https://open.spotify.com/track/5K4x0ZKK32t6EWbrhzOoV1"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 406440,
       "name": "For Your Glory - Live",
       "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 383973,
       "name": "Forever At Your Feet",
       "url": "https://open.spotify.com/track/2fL7VG81TUm62B3fhJyr1Z"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 427389,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
@@ -354,7 +354,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 131333,
       "name": "God's About To Do It - Live",
       "url": "https://open.spotify.com/track/6o2nGV8dMKZW3uLx40liV6"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 369840,
       "name": "Grace - Live",
       "url": "https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 376666,
       "name": "Gracefully Broken",
       "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 506200,
       "name": "I'm Getting Ready",
       "url": "https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 346765,
       "name": "In Spite Of Me",
       "url": "https://open.spotify.com/track/14jIX5rmoUWVPBNq3Q72J8"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 453173,
       "name": "No Longer Slaves - Live",
       "url": "https://open.spotify.com/track/3KCr3pq7p5ATgEOc6EypAo"
@@ -1730,10 +1730,32 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 301066,
       "name": "The River Of The Lord",
       "url": "https://open.spotify.com/track/4AWM3wvYUY7n0HgscOSHAw"
+    },
+    {
+      "album": {
+        "name": "TEAR OFF THE ROOF (LIVE FROM THE HOLY CITY)",
+        "url": "https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428354,
+      "name": "THIS IS A MOVE (LIVE FROM GREENSBORO)",
+      "url": "https://open.spotify.com/track/4chx4qrqcgMalneuDKedPt"
     },
     {
       "album": {
@@ -1748,7 +1770,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 445586,
       "name": "This Is A Move - Live",
       "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
@@ -1826,7 +1848,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 397216,
       "name": "What He's Done - Live From Passion 2022",
       "url": "https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX"
@@ -1958,7 +1980,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 471573,
       "name": "Your Spirit",
       "url": "https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr"

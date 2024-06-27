@@ -1,13 +1,29 @@
 {
-  "description": "A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Vampire Weekend",
-  "num_followers": 777,
+  "description": "A collection of songs from Spotify's new video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Hermanos Guti\u00e9rrez",
+  "num_followers": 780,
   "original_name": "OUTSIDE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZloGDAAAAABD9YZYAM6iOQ9uMDnzGVR4",
+  "snapshot_id": "ZnygLwAAAABMS510GxtM6Za6497aFSV6",
   "tracks": [
+    {
+      "added_at": "2024-06-26 23:06:37",
+      "album": {
+        "name": "Low Sun (Spotify OUTSIDE Version) - Live from Ghost Ranch",
+        "url": "https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Low Sun - (Spotify OUTSIDE Version) - Live from Ghost Ranch",
+      "url": "https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF"
+    },
     {
       "added_at": "2024-05-31 17:16:59",
       "album": {
@@ -219,6 +235,38 @@
       "duration_ms": 155831,
       "name": "Still In Shocc (Spotify OUTSIDE Version) - Live from Watts, CA",
       "url": "https://open.spotify.com/track/0zivr0gI6MPlcy2apSKMA7"
+    },
+    {
+      "added_at": "2024-06-26 23:11:43",
+      "album": {
+        "name": "Sonido C\u00f3smico",
+        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 188396,
+      "name": "Low Sun",
+      "url": "https://open.spotify.com/track/1siRw9E67ouBWsORObDuhZ"
+    },
+    {
+      "added_at": "2024-06-26 23:11:43",
+      "album": {
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "Capricorn",
+      "url": "https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt"
     },
     {
       "added_at": "2024-04-02 17:11:22",

@@ -305,6 +305,28 @@
     },
     {
       "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/4HmfQKakoYL6zCO4EOoeom"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209288,
+      "name": "20",
+      "url": "https://open.spotify.com/track/5RKOv93gklmKCI1YqmYUUo"
+    },
+    {
+      "album": {
         "name": "20 blues",
         "url": "https://open.spotify.com/album/0NvFgGERMLnzNlYp0eLZqW"
       },
@@ -2952,6 +2974,24 @@
       "duration_ms": 181173,
       "name": "BIG DADDY STYLE",
       "url": "https://open.spotify.com/track/0RaUxAB9RWLEGOI5pTRzKv"
+    },
+    {
+      "album": {
+        "name": "SKANDALOUZ 2",
+        "url": "https://open.spotify.com/album/0Zcd58EPivpLZZPR38UTnN"
+      },
+      "artists": [
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178688,
+      "name": "Big Steppin",
+      "url": "https://open.spotify.com/track/1CJVgidWkHcp3moT9J2zsk"
     },
     {
       "album": {
@@ -10099,6 +10139,24 @@
     },
     {
       "album": {
+        "name": "Hacuna girl",
+        "url": "https://open.spotify.com/album/3zLBJZ3T2rEzCRgs53V5L2"
+      },
+      "artists": [
+        {
+          "name": "New Champ",
+          "url": "https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136343,
+      "name": "Hacuna girl",
+      "url": "https://open.spotify.com/track/4gE6t1R2kJW7LKU2ZvkiAA"
+    },
+    {
+      "album": {
         "name": "D-DAY",
         "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
       },
@@ -11412,6 +11470,24 @@
       "duration_ms": 173892,
       "name": "hur (feat. C JAMM)",
       "url": "https://open.spotify.com/track/4E97uO8qzkfiCtqjPuuwfM"
+    },
+    {
+      "album": {
+        "name": "HURRICANE",
+        "url": "https://open.spotify.com/album/7sRIyO45mBnqimcG7Sk4k4"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149960,
+      "name": "HURRICANE",
+      "url": "https://open.spotify.com/track/6oOQzwWhv7RW0QmuPupgQX"
     },
     {
       "album": {
@@ -17149,6 +17225,32 @@
     },
     {
       "album": {
+        "name": "DARKSIDE",
+        "url": "https://open.spotify.com/album/6tnMZuv9JYQC2RfL8GTwjD"
+      },
+      "artists": [
+        {
+          "name": "Microdot",
+          "url": "https://open.spotify.com/artist/1ToWoFmtIc9NTPFy7lR690"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "Dbo",
+          "url": "https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "Never Change",
+      "url": "https://open.spotify.com/track/14m8CepkQkI0Kvd31awHXY"
+    },
+    {
+      "album": {
         "name": "TOYSTORY3",
         "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
       },
@@ -18178,6 +18280,32 @@
       "duration_ms": 192640,
       "name": "ON MY MIND",
       "url": "https://open.spotify.com/track/25gHcZbLwgDskS2Hv6BAMr"
+    },
+    {
+      "album": {
+        "name": "On My Scars (feat.Lil Cherry, Dbo)",
+        "url": "https://open.spotify.com/album/5ffj6G6sXr3NXtlQFnUybz"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        },
+        {
+          "name": "Dbo",
+          "url": "https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198275,
+      "name": "On My Scars (feat.Lil Cherry, Dbo)",
+      "url": "https://open.spotify.com/track/2nRXFF4FE6NhUo0Sy6uCBS"
     },
     {
       "album": {
@@ -19618,6 +19746,24 @@
       "duration_ms": 246413,
       "name": "PRICELESS (Feat. toigo)",
       "url": "https://open.spotify.com/track/3ugYRBISHignwAHvbWhxbZ"
+    },
+    {
+      "album": {
+        "name": "Archiive",
+        "url": "https://open.spotify.com/album/7mVimQXXtda0zPzST6YU8E"
+      },
+      "artists": [
+        {
+          "name": "Shyboiitobii",
+          "url": "https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169173,
+      "name": "Prime Time",
+      "url": "https://open.spotify.com/track/2wbOZBCfpiCZSshzrM9hNT"
     },
     {
       "album": {
@@ -26104,6 +26250,60 @@
       "duration_ms": 215035,
       "name": "Victory",
       "url": "https://open.spotify.com/track/1N4m5I7HVLcL7Jr6jTyHuK"
+    },
+    {
+      "album": {
+        "name": "SKANDALOUZ 2",
+        "url": "https://open.spotify.com/album/0Zcd58EPivpLZZPR38UTnN"
+      },
+      "artists": [
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        },
+        {
+          "name": "Wutan",
+          "url": "https://open.spotify.com/artist/6X4GGufs8OhbUC1fy1xuUn"
+        },
+        {
+          "name": "Hwaji",
+          "url": "https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud"
+        },
+        {
+          "name": "DEEPFLOW",
+          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
+        },
+        {
+          "name": "Don Mills",
+          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
+        },
+        {
+          "name": "Rohann",
+          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
+        },
+        {
+          "name": "QM",
+          "url": "https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j"
+        },
+        {
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        },
+        {
+          "name": "Odee",
+          "url": "https://open.spotify.com/artist/6cXolDFPOgf0wuRe5kMPxo"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319073,
+      "name": "Visty (Feat. Wutan, Hwaji, Deepflow, Don Mills, Rohann, QM, Big One, Nucksal, Odee)",
+      "url": "https://open.spotify.com/track/5Ed8DTf2Cfu15YlFN3znG0"
     },
     {
       "album": {

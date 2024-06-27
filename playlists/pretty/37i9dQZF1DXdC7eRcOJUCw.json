@@ -1,6 +1,6 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Alicia Villarreal en portada.",
-  "num_followers": 141816,
+  "num_followers": 141929,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 204866,
-      "name": "No Me Vuelvo a Enamorar",
-      "url": "https://open.spotify.com/track/1djvcwusUBPg7c8lGR9htm"
+      "duration_ms": 249426,
+      "name": "Inocente Pobre Amiga",
+      "url": "https://open.spotify.com/track/1CwbpsXpzVmVrIxOEraUTs"
     },
     {
       "added_at": "2024-06-21 16:11:20",
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 249426,
-      "name": "Inocente Pobre Amiga",
-      "url": "https://open.spotify.com/track/1CwbpsXpzVmVrIxOEraUTs"
+      "duration_ms": 204866,
+      "name": "No Me Vuelvo a Enamorar",
+      "url": "https://open.spotify.com/track/1djvcwusUBPg7c8lGR9htm"
     },
     {
       "added_at": "2024-06-21 16:11:20",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-06-21 16:11:20",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
-    },
-    {
-      "added_at": "2024-06-21 16:11:20",
-      "album": {
         "name": "Las Rejas No Matan",
         "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 178000,
       "name": "Las Rejas No Matan",
       "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
+    },
+    {
+      "added_at": "2024-06-21 16:11:20",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
     },
     {
       "added_at": "2024-06-21 16:11:20",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-06-21 16:11:20",
       "album": {
-        "name": "Besos y Copas",
-        "url": "https://open.spotify.com/album/5HTIRhX9JAFrHL1LVQK0xI"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Besos y Copas",
-      "url": "https://open.spotify.com/track/2qHHBjkrs2KlzG1mb0A3Qc"
-    },
-    {
-      "added_at": "2024-06-21 16:11:20",
-      "album": {
         "name": "Para No Pensar en Ti",
         "url": "https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 209702,
       "name": "Para No Pensar en Ti",
       "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
+    },
+    {
+      "added_at": "2024-06-21 16:11:20",
+      "album": {
+        "name": "Besos y Copas",
+        "url": "https://open.spotify.com/album/5HTIRhX9JAFrHL1LVQK0xI"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Besos y Copas",
+      "url": "https://open.spotify.com/track/2qHHBjkrs2KlzG1mb0A3Qc"
     },
     {
       "added_at": "2024-06-21 16:11:20",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-06-21 16:11:20",
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 233879,
+      "name": "Uno Y Uno",
+      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
+    },
+    {
+      "added_at": "2024-06-21 16:11:20",
+      "album": {
         "name": "Lo Mejor De Lucha Villa",
         "url": "https://open.spotify.com/album/6jlvjCWDZxTKlePg8NrrX2"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 177870,
       "name": "Amaneci En Tus Brazos",
       "url": "https://open.spotify.com/track/3JCkLjbaFahyuXWb1JUkLr"
-    },
-    {
-      "added_at": "2024-06-21 16:11:20",
-      "album": {
-        "name": "Paquita La Del Barrio Con Mariachi",
-        "url": "https://open.spotify.com/album/6mioeN7c8bV5ARR2ZgidLI"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 172907,
-      "name": "No Hay Quinto Malo",
-      "url": "https://open.spotify.com/track/0807Vxt3hDYDktEijq2gBl"
     },
     {
       "added_at": "2024-06-21 16:11:20",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-06-21 16:11:20",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+        "name": "Paquita La Del Barrio Con Mariachi",
+        "url": "https://open.spotify.com/album/6mioeN7c8bV5ARR2ZgidLI"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 233879,
-      "name": "Uno Y Uno",
-      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
+      "duration_ms": 172907,
+      "name": "No Hay Quinto Malo",
+      "url": "https://open.spotify.com/track/0807Vxt3hDYDktEijq2gBl"
     },
     {
       "added_at": "2024-06-21 16:11:20",
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2024-06-21 16:11:20",
       "album": {
-        "name": "La Reina de la Canci\u00f3n Mexicana",
-        "url": "https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas"
+        "name": "Lola Beltr\u00e1n en Concierto - 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
+        "url": "https://open.spotify.com/album/5s2FnaKvePvxbVaBt1qZMF"
       },
       "artists": [
         {
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
         }
       ],
-      "duration_ms": 178560,
-      "name": "Que te Vaya Bonito",
-      "url": "https://open.spotify.com/track/26s97B2gSEVy1vhPmLALmr"
+      "duration_ms": 228000,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/7vzrbp7j0XIHSycOZqgRa0"
     },
     {
       "added_at": "2024-06-21 16:11:20",
@@ -1427,8 +1427,8 @@
     {
       "added_at": "2024-06-21 16:11:20",
       "album": {
-        "name": "Lola Beltr\u00e1n en Concierto - 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
-        "url": "https://open.spotify.com/album/5s2FnaKvePvxbVaBt1qZMF"
+        "name": "La Reina de la Canci\u00f3n Mexicana",
+        "url": "https://open.spotify.com/album/4BLddBWl0kBBxGQnQQ9Sas"
       },
       "artists": [
         {
@@ -1436,9 +1436,9 @@
           "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/7vzrbp7j0XIHSycOZqgRa0"
+      "duration_ms": 178560,
+      "name": "Que te Vaya Bonito",
+      "url": "https://open.spotify.com/track/26s97B2gSEVy1vhPmLALmr"
     },
     {
       "added_at": "2024-06-21 16:11:20",

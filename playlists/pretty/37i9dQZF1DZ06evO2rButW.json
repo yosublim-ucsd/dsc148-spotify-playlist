@@ -1,12 +1,12 @@
 {
-  "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 669070,
+  "description": "This Is Mon Laferte. Los temas esenciales, todos en una lista.",
+  "num_followers": 669291,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAAAoYT7gcTzadBdcxhP1DYYV",
+  "snapshot_id": "ZnoIgAAAAADtD/hJ04eR2EVT2kVozUNb",
   "tracks": [
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 241880,
-      "name": "Amor Completo",
-      "url": "https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9"
+      "duration_ms": 202333,
+      "name": "Si T\u00fa Me Quisieras",
+      "url": "https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq"
     },
     {
       "added_at": null,
@@ -159,22 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
       "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 195883,
-      "name": "Se Portaba Mal",
-      "url": "https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b"
+      "duration_ms": 241880,
+      "name": "Amor Completo",
+      "url": "https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9"
     },
     {
       "added_at": null,
@@ -191,6 +187,26 @@
       "duration_ms": 249266,
       "name": "Pa\u2019 D\u00f3nde Se Fue",
       "url": "https://open.spotify.com/track/2TPZomzhdB7toV3cx0hj08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 195883,
+      "name": "Se Portaba Mal",
+      "url": "https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b"
     },
     {
       "added_at": null,
@@ -227,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "Primaveral",
+      "url": "https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
@@ -247,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
       "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 231653,
-      "name": "Primaveral",
-      "url": "https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x"
+      "duration_ms": 183880,
+      "name": "Asilo (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
     },
     {
       "added_at": null,
@@ -279,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
-        "url": "https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE"
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
       "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 242478,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/41SJBO05x4mHd6tuSf9BTZ"
+      "duration_ms": 256773,
+      "name": "Flaco",
+      "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
     },
     {
       "added_at": null,
@@ -315,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+        "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
+        "url": "https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE"
       },
       "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 256773,
-      "name": "Flaco",
-      "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
+      "duration_ms": 242478,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/41SJBO05x4mHd6tuSf9BTZ"
     },
     {
       "added_at": null,
@@ -827,90 +863,6 @@
       "duration_ms": 217936,
       "name": "Obra de Dios",
       "url": "https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Canto de Todos",
-        "url": "https://open.spotify.com/album/5Y5gm7ty6In0hBDm7R39eO"
-      },
-      "artists": [
-        {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        },
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        },
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Isabel Parra",
-          "url": "https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt"
-        },
-        {
-          "name": "Tita Parra",
-          "url": "https://open.spotify.com/artist/4thdsnYghHc8bTB3GQ6zru"
-        },
-        {
-          "name": "Francesca Gagnon",
-          "url": "https://open.spotify.com/artist/75VPGcVJ0CLIYJr6fDZ5IV"
-        },
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        },
-        {
-          "name": "Roberto Marquez",
-          "url": "https://open.spotify.com/artist/0bGEitoGJUQPfiBhvzuScw"
-        },
-        {
-          "name": "Pancho Sazo",
-          "url": "https://open.spotify.com/artist/4cWDj4v7WAydE1CEl45G8w"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        },
-        {
-          "name": "Mapocho Orquesta",
-          "url": "https://open.spotify.com/artist/5zoXAWbqiovx7MFrNvuteu"
-        }
-      ],
-      "duration_ms": 41880,
-      "name": "El Canto de Todos - Bonus Track",
-      "url": "https://open.spotify.com/track/2UTskfGvRLtIMTnqu9iuPr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As\u00ed Te Quiero Yo",
-        "url": "https://open.spotify.com/album/3gpg9uMXT5gX6AJkeDH4Ok"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Palabras Tristes",
-      "url": "https://open.spotify.com/track/1UX1kt5jsniuhSpjIJTFGI"
     }
   ],
   "unique_name": "This Is Mon Laferte",

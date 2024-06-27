@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 22525,
+  "num_followers": 22534,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAAAWvCWVfDREKSNB6hvdT549",
+  "snapshot_id": "ZnoIgAAAAABAdjiXg/XZt5SwkGON67yp",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bulgari",
-        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 164115,
-      "name": "Bulgari",
-      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahora Piden Paros",
         "url": "https://open.spotify.com/album/0MSj2lraOwsb0XACGOItcQ"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 139625,
       "name": "Ahora Piden Paros",
       "url": "https://open.spotify.com/track/1oRxWYm6Vw7dwsnmewFuhx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bulgari",
+        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 164115,
+      "name": "Bulgari",
+      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agradecido",
-        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "Vamos Recordando",
-      "url": "https://open.spotify.com/track/6nSPt3xRvsWqOvTU8nx6kJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Creyeron",
         "url": "https://open.spotify.com/album/7usrNQirwgYKaGzxEUkAAD"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 195750,
       "name": "No Creyeron",
       "url": "https://open.spotify.com/track/0RygZfsCKhBfZTj5RuKnsq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "Vamos Recordando",
+      "url": "https://open.spotify.com/track/6nSPt3xRvsWqOvTU8nx6kJ"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agradecido",
-        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 124766,
-      "name": "Pasos Lentos",
-      "url": "https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Achillo",
         "url": "https://open.spotify.com/album/1J6Edxly1ds40IcPhE6Fvx"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 272000,
       "name": "El Achillo",
       "url": "https://open.spotify.com/track/1wV8nsIBPLpovpqOZnb24y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 124766,
+      "name": "Pasos Lentos",
+      "url": "https://open.spotify.com/track/2gwWr4oV3hN9PVJZd3KDAe"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: A Not So Fairy Tale(\uc120\ub140\uc678\uc804)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 89386,
+  "num_followers": 89417,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
+        "url": "https://open.spotify.com/album/6vjWWclU2DqncdQsLWS9hh"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
+      "url": "https://open.spotify.com/track/79iwErOUuLtnx11lTepXLz"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "Draw (No Office Romance! X TAEMIN) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 260493,
       "name": "Windflower (The Forbidden Marriage X Shin Ye-Young)",
       "url": "https://open.spotify.com/track/7wlip8qEudClSmF4GmUlis"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
-        "url": "https://open.spotify.com/album/6vjWWclU2DqncdQsLWS9hh"
-      },
-      "artists": [
-        {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Hug Me (Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family)",
-      "url": "https://open.spotify.com/track/79iwErOUuLtnx11lTepXLz"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
-        "url": "https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz"
+        "name": "Better for Me (Nth Romance X MeloMance)",
+        "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
       },
       "artists": [
         {
-          "name": "Kim Yuna",
-          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 187306,
-      "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
-      "url": "https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L"
+      "duration_ms": 239853,
+      "name": "Better for Me (Nth Romance X MeloMance)",
+      "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Better for Me (Nth Romance X MeloMance)",
-        "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
+        "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
+        "url": "https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
         }
       ],
-      "duration_ms": 239853,
-      "name": "Better for Me (Nth Romance X MeloMance)",
-      "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
+      "duration_ms": 187306,
+      "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
+      "url": "https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -455,22 +455,6 @@
       "duration_ms": 237253,
       "name": "With You",
       "url": "https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.1",
-        "url": "https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c"
-      },
-      "artists": [
-        {
-          "name": "\uc2b9\ud76c",
-          "url": "https://open.spotify.com/artist/12RP2Nj3evGk2hjv6KNx3j"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "The day",
-      "url": "https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -495,18 +479,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1",
-        "url": "https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f"
+        "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c"
       },
       "artists": [
         {
-          "name": "AleXa",
-          "url": "https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU"
+          "name": "\uc2b9\ud76c",
+          "url": "https://open.spotify.com/artist/12RP2Nj3evGk2hjv6KNx3j"
         }
       ],
-      "duration_ms": 260173,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK"
+      "duration_ms": 196680,
+      "name": "The day",
+      "url": "https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -523,6 +507,22 @@
       "duration_ms": 176997,
       "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
       "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1",
+        "url": "https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f"
+      },
+      "artists": [
+        {
+          "name": "AleXa",
+          "url": "https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Starlight (No Office Romance! X JINI) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/3xJ4992CDlMMCIdjpRTkfy"
-      },
-      "artists": [
-        {
-          "name": "JINI",
-          "url": "https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/10mZOfUMXYsXVTGuxp69O3"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "A Shoulder to Cry On (Original Audio Drama Soundtrack)",
         "url": "https://open.spotify.com/album/6zB6OXYBLrYfk9lQhXiarC"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 286013,
       "name": "Only you (The Moon during the Day X GB9)",
       "url": "https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Starlight (No Office Romance! X JINI) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/3xJ4992CDlMMCIdjpRTkfy"
+      },
+      "artists": [
+        {
+          "name": "JINI",
+          "url": "https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/10mZOfUMXYsXVTGuxp69O3"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.30 (Soundtrack)",
-        "url": "https://open.spotify.com/album/1UTM9hXWghsDNDWqBDeUyb"
-      },
-      "artists": [
-        {
-          "name": "Weeky1",
-          "url": "https://open.spotify.com/artist/6kxfUeI8Sq80X7ICFw7KtK"
-        }
-      ],
-      "duration_ms": 191608,
-      "name": "Should we walk hand in hand?",
-      "url": "https://open.spotify.com/track/45Odu7IUv2jqhia7m99eaq"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "My 20th Twenty (Original Webdrama Sountrack, Pt. 1)",
         "url": "https://open.spotify.com/album/71EhGfqFpVNw0fsLfgyyfx"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 222252,
       "name": "My 20th Twenty",
       "url": "https://open.spotify.com/track/6EbXl39EhKldo6XU4q9MCe"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.30 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1UTM9hXWghsDNDWqBDeUyb"
+      },
+      "artists": [
+        {
+          "name": "Weeky1",
+          "url": "https://open.spotify.com/artist/6kxfUeI8Sq80X7ICFw7KtK"
+        }
+      ],
+      "duration_ms": 191608,
+      "name": "Should we walk hand in hand?",
+      "url": "https://open.spotify.com/track/45Odu7IUv2jqhia7m99eaq"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "\uc8fd\uc774\uace0 \uc2f6\uc740 \ub098\uc758 \uc804\ubcf5 \uc655\uc790\ub2d8 OST Part.12 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3t629Z1Tyz0XroCgoA9OF9"
+      },
+      "artists": [
+        {
+          "name": "Joo Hyunmin",
+          "url": "https://open.spotify.com/artist/7I4EANWzax0oiEtNrNmlx7"
+        }
+      ],
+      "duration_ms": 215422,
+      "name": "I haven't erased you even for a single day",
+      "url": "https://open.spotify.com/track/6wgCtd1Z1hb4VndLPeb6bX"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "Today's Weather (From \"Spring Is Gone\" [Original Soundtrack])",
         "url": "https://open.spotify.com/album/6RCjA02nGoEqphsjT6ZQGZ"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uc8fd\uc774\uace0 \uc2f6\uc740 \ub098\uc758 \uc804\ubcf5 \uc655\uc790\ub2d8 OST Part.12 (Soundtrack)",
-        "url": "https://open.spotify.com/album/3t629Z1Tyz0XroCgoA9OF9"
+        "name": "\uc5ec\uae30 \ubcf4\uc138\uc694, \ub9c8\uc655\ub2d8! OST Part.5 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5hrKQtOgXHD1IFA6H8d74J"
       },
       "artists": [
         {
-          "name": "Joo Hyunmin",
-          "url": "https://open.spotify.com/artist/7I4EANWzax0oiEtNrNmlx7"
+          "name": "Lee Dong Yoon",
+          "url": "https://open.spotify.com/artist/1lUg902ZVImCAZw029ZhVe"
         }
       ],
-      "duration_ms": 215422,
-      "name": "I haven't erased you even for a single day",
-      "url": "https://open.spotify.com/track/6wgCtd1Z1hb4VndLPeb6bX"
+      "duration_ms": 229891,
+      "name": "I miss you like crazy",
+      "url": "https://open.spotify.com/track/4wioWVD9Ob0c4M0VTFh3XX"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1179,22 +1195,6 @@
       "duration_ms": 242573,
       "name": "Miss you.. want to caress you (Something Between Us X Monday Kiz)",
       "url": "https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "\uc5ec\uae30 \ubcf4\uc138\uc694, \ub9c8\uc655\ub2d8! OST Part.5 (Soundtrack)",
-        "url": "https://open.spotify.com/album/5hrKQtOgXHD1IFA6H8d74J"
-      },
-      "artists": [
-        {
-          "name": "Lee Dong Yoon",
-          "url": "https://open.spotify.com/artist/1lUg902ZVImCAZw029ZhVe"
-        }
-      ],
-      "duration_ms": 229891,
-      "name": "I miss you like crazy",
-      "url": "https://open.spotify.com/track/4wioWVD9Ob0c4M0VTFh3XX"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "I Wasn't the Cinderella OST part 2 (Soundtrack)",
-        "url": "https://open.spotify.com/album/07sXBVe7RpL5Lux5mqpQ3Y"
-      },
-      "artists": [
-        {
-          "name": "Seo Moon Tak",
-          "url": "https://open.spotify.com/artist/3pNYE2NX9kKZJku5jIKe1G"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "\uc774 \ubc24\uc744 \uc9c0\ub098",
-      "url": "https://open.spotify.com/track/11KcLs1eRcTGZQ82tJntVx"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "\ubca0\uc774\ube44 \ub4dc\ub798\uace4 (Original Webtoon Soundtrack) Pt. 7",
         "url": "https://open.spotify.com/album/5mOdHlkIdGAgMvpJCKDLwt"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 237056,
       "name": "\ud587\uc0b4\uac19\uc740 \uc0ac\ub791\uc785\ub2c8\ub2e4",
       "url": "https://open.spotify.com/track/5ZYBeXAnNAQBuEZcJsb00Q"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "I Wasn't the Cinderella OST part 2 (Soundtrack)",
+        "url": "https://open.spotify.com/album/07sXBVe7RpL5Lux5mqpQ3Y"
+      },
+      "artists": [
+        {
+          "name": "Seo Moon Tak",
+          "url": "https://open.spotify.com/artist/3pNYE2NX9kKZJku5jIKe1G"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "\uc774 \ubc24\uc744 \uc9c0\ub098",
+      "url": "https://open.spotify.com/track/11KcLs1eRcTGZQ82tJntVx"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Coffee Fox Kim Sam Wol OST Part.10 (Soundtrack)",
-        "url": "https://open.spotify.com/album/3wFlmLOdSwFf0hYlcVbiXM"
-      },
-      "artists": [
-        {
-          "name": "Tae Hwa Yoon",
-          "url": "https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M"
-        }
-      ],
-      "duration_ms": 223442,
-      "name": "I wait for you without knowing",
-      "url": "https://open.spotify.com/track/1jqGHm9Yh5DsuY5cGL7NiU"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Dr. Choi Ki Seok (Original Webtoon Soundtrack) Pt.4",
         "url": "https://open.spotify.com/album/0nmZwQAXIexeYz0FLNNZ7Q"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 228333,
       "name": "About time",
       "url": "https://open.spotify.com/track/640mnKfbSWaw7ZVHtqW5qT"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.10 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3wFlmLOdSwFf0hYlcVbiXM"
+      },
+      "artists": [
+        {
+          "name": "Tae Hwa Yoon",
+          "url": "https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M"
+        }
+      ],
+      "duration_ms": 223442,
+      "name": "I wait for you without knowing",
+      "url": "https://open.spotify.com/track/1jqGHm9Yh5DsuY5cGL7NiU"
     },
     {
       "added_at": "2024-06-24 05:39:23",

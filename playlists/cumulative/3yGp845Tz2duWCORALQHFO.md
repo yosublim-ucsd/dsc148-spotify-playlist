@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-325 songs - 17 hr 42 min
+327 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Lifter \- Festival Mix](https://open.spotify.com/track/7g2BbkG3rYNyhFeoFT8VlG) | [Alex Kunnari](https://open.spotify.com/artist/5t8dw8yCWNAezW6wP3ZOGh) | [Lifter](https://open.spotify.com/album/0DiYj3v5k8Vzncfi8APOcN) | 3:16 | 2024-05-17 | 2024-05-25 |
 | [Lighthouse](https://open.spotify.com/track/4p9FFgvhchLHLoq9yaH1po) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 3:11 | 2024-06-20 |  |
 | [Lighthouse](https://open.spotify.com/track/6MkXaEKSlSMX7LPWBQnKit) | [Paul Webster](https://open.spotify.com/artist/2xxQ1Dy2fyyhVqJodKB4OC) | [Lighthouse](https://open.spotify.com/album/4e94nZ0wkdledaiVu6eMDj) | 3:34 | 2024-06-16 | 2024-06-21 |
+| [Lights](https://open.spotify.com/track/1eDmbxoNF80TSki1uUJ4cn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Lights](https://open.spotify.com/album/1E4C3qoHeDd6FIfqs3vImr) | 3:53 | 2024-06-26 |  |
 | [Lights Out](https://open.spotify.com/track/00tfyvc1YMN9uf9WwJlSeC) | [Jordan Dae](https://open.spotify.com/artist/5e6la7DEu908I4KeAh0NwG) | [Lights Out](https://open.spotify.com/album/4WYzbZnPx71VxEd2fqUXkf) | 2:42 | 2024-05-17 | 2024-06-08 |
 | [Lights Up \- Dimitri Vegas & Like Mike Edit](https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Lights Up \(Dimitri Vegas & Like Mike Edit\)](https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp) | 3:10 | 2024-06-07 | 2024-06-17 |
 | [Limbo](https://open.spotify.com/track/6GBh5tzPk7knv0dEkN88pW) | [Jaytech](https://open.spotify.com/artist/5mpJ1Z8BYEOG0rrdO4a2nG) | [Next Level EP](https://open.spotify.com/album/49syVBSsdGZCFWdEpuYj2W) | 3:31 | 2024-06-07 | 2024-06-17 |
@@ -320,6 +321,7 @@
 | [Voices In My Head \(ft\. Teddy Bee\)](https://open.spotify.com/track/67IluCSppOPrLyfWonaGGv) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [Voices In My Head / Flashing Lights](https://open.spotify.com/album/3kNdbvSLi5XZGCyEQ0lCVZ) | 2:55 | 2024-05-30 | 2024-06-08 |
 | [Walk The Edge \- RAM Remix](https://open.spotify.com/track/715vUT3JBbofalXrb2g6iH) | [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW), [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX) | [Walk The Edge \(RAM Remix\)](https://open.spotify.com/album/1nvwod8b8AhmuVRUdJK1Ir) | 2:55 | 2024-05-17 | 2024-05-25 |
 | [Warp 1.9 \(feat\. Steve Aoki\) \- Westend & Cherry Tooth Remix](https://open.spotify.com/track/4g3rjdS9GGPsCQ9u3uEweZ) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Warp 1.9 \(feat\. Steve Aoki\) \[Westend & Cherry Tooth Remix\]](https://open.spotify.com/album/7qCVuPyIdosx8QkFxuINON) | 2:47 | 2024-06-16 | 2024-06-21 |
+| [What I Live For](https://open.spotify.com/track/6TvbTJeOiS2GfNta72CtcY) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [What I Live For](https://open.spotify.com/album/149F2ut9m1Y2EXEnaMTfQ7) | 2:00 | 2024-06-26 |  |
 | [What's Up Brother](https://open.spotify.com/track/6nQmYGnZ6daIC86GXf6c0i) | [name unknown](https://open.spotify.com/artist/7E75QbjZ3KDgQXVAHxCKp2) | [What's Up Brother](https://open.spotify.com/album/1kGvr54Z36PMbZZbh735yz) | 3:53 | 2024-06-18 | 2024-06-22 |
 | [Where Did You Go](https://open.spotify.com/track/1bzlhLZNJbOV5XI1NaJ3af) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Where Did You Go](https://open.spotify.com/album/341qhE9KRMPcvrpWYenlU3) | 2:46 | 2024-06-16 | 2024-06-21 |
 | [Where Do You Go](https://open.spotify.com/track/4DEDFUPq2xMsVQNoT9M9n9) | [Luisk Rivera](https://open.spotify.com/artist/1K4p47iRJuC0bo4EvRooCt) | [Where Do You Go](https://open.spotify.com/album/5mt6FKGMeLtHjYQKsDvX3O) | 2:37 | 2024-06-07 | 2024-06-17 |

@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Zach Bryan
 
-458 songs - 1 day 4 hr 4 min
+459 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Fighting Like Hell to Be Free](https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Glory](https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB) | 3:04 | 2023-04-21 | 2024-02-18 |
 | [Find Your People](https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Find Your People](https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY) | 3:14 | 2023-03-24 |  |
 | [First Light](https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Dom Louis](https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6) | 2:55 | 2023-04-14 |  |
+| [Fix on the Tailwind](https://open.spotify.com/track/3bRwWeg1iB4hrStJqlDBKg) | [Steel Saddle](https://open.spotify.com/artist/5cTnIEVg8jeAcqzSYWT3ed) | [Fix on the Tailwind](https://open.spotify.com/album/0uFKlO7rBufrhgW5pomf1V) | 2:27 | 2024-06-21 |  |
 | [Flowers On My Bedside](https://open.spotify.com/track/5ihEkOIEpylssy0dur6U6w) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Flowers On My Bedside](https://open.spotify.com/album/6GGxMlTRIwQOJV9TAooh0U) | 4:49 | 2023-03-17 | 2023-04-22 |
 | [Folk Song](https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [A Light in the Attic](https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6) | 4:12 | 2023-03-24 | 2023-08-12 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-05-13 | 2022-08-27 |
@@ -288,7 +289,7 @@
 | [Mother Love](https://open.spotify.com/track/6h5oSSJXgIyXHxJm256HWP) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu) | [Mother Love](https://open.spotify.com/album/7dKPc0Mj8iVLpaVvby2NSf) | 4:28 | 2022-07-22 | 2023-04-22 |
 | [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 | 2023-06-02 |  |
 | [Mountain Song](https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Songs To Keep You Warm](https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08) | 4:09 | 2024-03-15 | 2024-04-19 |
-| [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-08-26 |  |
+| [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-08-26 | 2024-06-27 |
 | [My Best Western](https://open.spotify.com/track/3rmizqk5SbVCc1phDEiLUM) | [Yesterday's Ring](https://open.spotify.com/artist/7z76KyK7conOi6VHDiEPk6) | [Goodbye Nightlife](https://open.spotify.com/album/1llw5IJGwZzz7E2YqYQtv2) | 3:15 | 2022-05-13 | 2022-07-29 |
 | [My Best Western](https://open.spotify.com/track/6fKhdMy7iJhOQPDVgzGcqh) | [Yesterday's Ring](https://open.spotify.com/artist/7z76KyK7conOi6VHDiEPk6) | [Goodbye Nightlife](https://open.spotify.com/album/37nVbLsncw7oAuUPtkwObQ) | 3:15 | 2022-07-22 | 2023-04-22 |
 | [My Darlin'](https://open.spotify.com/track/4X0FKaG7iuwTpCPyEs5HFp) | [CALICO](https://open.spotify.com/artist/3Up8jTurMilOn2IKFTm7o2) | [My Darlin'](https://open.spotify.com/album/2g8mVKzOZoDbsgbCTjCy7q) | 2:57 | 2022-05-13 | 2022-07-30 |

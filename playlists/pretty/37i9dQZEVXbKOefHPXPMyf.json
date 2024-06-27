@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lg4rmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lg99GAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Cantan las Canciones de Lona",
         "url": "https://open.spotify.com/album/0okSuR9REAM3YPUcud8l9L"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1bwTrOQsffRcTCwzB2dZXu"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Cantan las Canciones de Lona",
         "url": "https://open.spotify.com/album/0okSuR9REAM3YPUcud8l9L"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0GMXCR5z5qxg6QubmbOtBQ"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Feliz Cumplea\u00f1os Jaquelinne",
         "url": "https://open.spotify.com/album/1YoY9NtGYf85hWLDhNYB76"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6sOTnqabGKytZGdNU3NyJ3"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Ohnana",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Orion",
         "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Cantan las Canciones de Agueda",
         "url": "https://open.spotify.com/album/4Bwmfhzg52EBDrZFRMuoEz"
@@ -109,23 +109,7 @@
       "url": "https://open.spotify.com/track/1UhIENBY7gmZhxj8OXBWha"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
-      "album": {
-        "name": "EL \u00daLTIMO BAILE",
-        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 145342,
-      "name": "REAL GANGSTA LOVE",
-      "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
-    },
-    {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Cantan las Canciones de Hannah",
         "url": "https://open.spotify.com/album/2tAUPXIDZOFyPpuFJetThW"
@@ -141,39 +125,23 @@
       "url": "https://open.spotify.com/track/77rASAoppjLfhrkDnSA3oh"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+      "duration_ms": 145342,
+      "name": "REAL GANGSTA LOVE",
+      "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
-      "album": {
-        "name": "Cantan las Canciones de Lona",
-        "url": "https://open.spotify.com/album/0okSuR9REAM3YPUcud8l9L"
-      },
-      "artists": [
-        {
-          "name": "Tina y Tin",
-          "url": "https://open.spotify.com/artist/2iNwRUfZjytm6noUCtN7Nz"
-        }
-      ],
-      "duration_ms": 129280,
-      "name": "Las Notas Musicales Lona",
-      "url": "https://open.spotify.com/track/101yzii8qGDfLGUAKs73Wn"
-    },
-    {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Cantan las Canciones de Lona",
         "url": "https://open.spotify.com/album/0okSuR9REAM3YPUcud8l9L"
@@ -189,7 +157,39 @@
       "url": "https://open.spotify.com/track/469hddl9JCPXV8dVeLkNcL"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
+      "album": {
+        "name": "Cantan las Canciones de Lona",
+        "url": "https://open.spotify.com/album/0okSuR9REAM3YPUcud8l9L"
+      },
+      "artists": [
+        {
+          "name": "Tina y Tin",
+          "url": "https://open.spotify.com/artist/2iNwRUfZjytm6noUCtN7Nz"
+        }
+      ],
+      "duration_ms": 129280,
+      "name": "Las Notas Musicales Lona",
+      "url": "https://open.spotify.com/track/101yzii8qGDfLGUAKs73Wn"
+    },
+    {
+      "added_at": "2024-06-26 14:11:27",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Cantan las Canciones de Jose Manuel",
         "url": "https://open.spotify.com/album/7aUGwNbCPvhiJ3eEgCUu3E"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/2pUcbllLb9258f4QTKolew"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Cantan las Canciones de Lona",
         "url": "https://open.spotify.com/album/0okSuR9REAM3YPUcud8l9L"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/2ujv6yiFVrRCOXwH7VDoVL"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "WYA REMIX RED",
         "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -301,27 +301,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
-      "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 198495,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
-    },
-    {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "SORRY 4 THAT MUCH",
         "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
@@ -337,23 +317,7 @@
       "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Yo Bunny",
         "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
@@ -373,7 +337,7 @@
       "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Estoy Convencido (En vivo)",
         "url": "https://open.spotify.com/album/0FnguLF7w0y6FCtkFKKKrq"
@@ -389,7 +353,43 @@
       "url": "https://open.spotify.com/track/3tibAhUL1rTJjnqipgRwgl"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-06-26 14:11:27",
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 198495,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
+    },
+    {
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Memorias <3",
         "url": "https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "WOKE UP",
         "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
@@ -453,7 +453,87 @@
       "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
+      "album": {
+        "name": "Kbron y Medio",
+        "url": "https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 258441,
+      "name": "Kbron y Medio",
+      "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
+    },
+    {
+      "added_at": "2024-06-26 14:11:27",
+      "album": {
+        "name": "Hay Lupita",
+        "url": "https://open.spotify.com/album/7x1AOJoliyxZfhL7n6wdfQ"
+      },
+      "artists": [
+        {
+          "name": "Megan Koffe",
+          "url": "https://open.spotify.com/artist/0fNivAGcaZiBhOdNgsprar"
+        }
+      ],
+      "duration_ms": 108855,
+      "name": "Hay Lupita",
+      "url": "https://open.spotify.com/track/5LHfb6tTLSBmM9oCnVWoPW"
+    },
+    {
+      "added_at": "2024-06-26 14:11:27",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
+    },
+    {
+      "added_at": "2024-06-26 14:11:27",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "added_at": "2024-06-26 14:11:27",
+      "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 188930,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
+    },
+    {
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Uno Pal Estr\u00e9s",
         "url": "https://open.spotify.com/album/5bxWMbhZYuXZZKlKiUdWN8"
@@ -489,23 +569,23 @@
       "url": "https://open.spotify.com/track/3f08WSj7W5Ad3ontToBVyc"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
-        "name": "Kbron y Medio",
-        "url": "https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax"
+        "name": "SAN TURRONA",
+        "url": "https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 258441,
-      "name": "Kbron y Medio",
-      "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
+      "duration_ms": 124689,
+      "name": "SAN TURRONA",
+      "url": "https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
@@ -521,71 +601,7 @@
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2024-06-25 13:18:21",
-      "album": {
-        "name": "Hay Lupita",
-        "url": "https://open.spotify.com/album/7x1AOJoliyxZfhL7n6wdfQ"
-      },
-      "artists": [
-        {
-          "name": "Megan Koffe",
-          "url": "https://open.spotify.com/artist/0fNivAGcaZiBhOdNgsprar"
-        }
-      ],
-      "duration_ms": 108855,
-      "name": "Hay Lupita",
-      "url": "https://open.spotify.com/track/5LHfb6tTLSBmM9oCnVWoPW"
-    },
-    {
-      "added_at": "2024-06-25 13:18:21",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 184841,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
-    },
-    {
-      "added_at": "2024-06-25 13:18:21",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 188930,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
-    },
-    {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -601,23 +617,23 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
-        "name": "El Beneficio De La Duda",
-        "url": "https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6"
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 245500,
-      "name": "El Beneficio De La Duda",
-      "url": "https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY"
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
@@ -633,7 +649,23 @@
       "url": "https://open.spotify.com/track/41krZZovstMJKeJZJtbL78"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
+    },
+    {
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "CHEGOU 3",
         "url": "https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj"
@@ -653,39 +685,7 @@
       "url": "https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
-      "album": {
-        "name": "SAN TURRONA",
-        "url": "https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 124689,
-      "name": "SAN TURRONA",
-      "url": "https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL"
-    },
-    {
-      "added_at": "2024-06-25 13:18:21",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 161757,
-      "name": "Talk talk",
-      "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
-    },
-    {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Abyss (from Kaiju No. 8)",
         "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "Mirame",
         "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
@@ -721,59 +721,23 @@
       "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
-        "name": "Bichigyal (Remix)",
-        "url": "https://open.spotify.com/album/6fp2lUFm34oeOuwRC5t9Jf"
+        "name": "El Beneficio De La Duda",
+        "url": "https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6"
       },
       "artists": [
         {
-          "name": "PRIZE",
-          "url": "https://open.spotify.com/artist/2Xd2pJZdm7FjIFnfuMi66R"
-        },
-        {
-          "name": "Sautu",
-          "url": "https://open.spotify.com/artist/1uhbSZzf1a3lwdRzlX302B"
-        },
-        {
-          "name": "ARA",
-          "url": "https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o"
-        },
-        {
-          "name": "Ramma",
-          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
-        },
-        {
-          "name": "c n d",
-          "url": "https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F"
-        },
-        {
-          "name": "Tiano",
-          "url": "https://open.spotify.com/artist/1rAJwyGY6mSbV4U83L590D"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 330000,
-      "name": "Bichigyal - Remix",
-      "url": "https://open.spotify.com/track/4v45rww5vNHvlu3iqdwa9u"
+      "duration_ms": 245500,
+      "name": "El Beneficio De La Duda",
+      "url": "https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151125,
-      "name": "Sympathy is a knife",
-      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
-    },
-    {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
@@ -789,7 +753,7 @@
       "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
@@ -800,28 +764,60 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
+      "duration_ms": 161757,
+      "name": "Talk talk",
+      "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
-        "name": "Me Lo Merezco",
-        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 172125,
-      "name": "Me Lo Merezco",
-      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+      "duration_ms": 151125,
+      "name": "Sympathy is a knife",
+      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
+      "album": {
+        "name": "Cantan las Canciones de Lona",
+        "url": "https://open.spotify.com/album/0okSuR9REAM3YPUcud8l9L"
+      },
+      "artists": [
+        {
+          "name": "Tina y Tin",
+          "url": "https://open.spotify.com/artist/2iNwRUfZjytm6noUCtN7Nz"
+        }
+      ],
+      "duration_ms": 122723,
+      "name": "El Juego del Espejo Lona",
+      "url": "https://open.spotify.com/track/0KWx9jv3Z0tVFum1rfGGEI"
+    },
+    {
+      "added_at": "2024-06-26 14:11:27",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1svYzadjdS9RrR2E2EPEhj"
@@ -841,39 +837,23 @@
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 166880,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
-      "album": {
-        "name": "EL \u00daLTIMO BAILE",
-        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 149083,
-      "name": "RAIN III",
-      "url": "https://open.spotify.com/track/74IoOB0Rxc7jKF7gUYFoNj"
-    },
-    {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
         "name": "it boy",
         "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
@@ -889,24 +869,24 @@
       "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
     },
     {
-      "added_at": "2024-06-25 13:18:21",
+      "added_at": "2024-06-26 14:11:27",
       "album": {
-        "name": "GRASA",
-        "url": "https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv"
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
       "artists": [
         {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         },
         {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
         }
       ],
-      "duration_ms": 187500,
-      "name": "TODO ROTO",
-      "url": "https://open.spotify.com/track/2neEt3A8fA4Scfwo4jAw1J"
+      "duration_ms": 191250,
+      "name": "\u2060Aviso importante",
+      "url": "https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD"
     }
   ],
   "unique_name": "Viral 50 - Costa Rica",

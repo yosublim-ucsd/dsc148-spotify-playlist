@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This Is Lenny Kravitz. Los temas esenciales, todos en una lista.",
+  "description": "This Is Lenny Kravitz. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
   "name": "This Is Lenny Kravitz",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 211933,
       "name": "Are You Gonna Go My Way",
       "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 290826,
       "name": "Black Velveteen",
       "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
@@ -481,6 +481,28 @@
     },
     {
       "album": {
+        "name": "Human (LF SYSTEM Remix)",
+        "url": "https://open.spotify.com/album/5y31O5yTflyqocxyBt6ifG"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        },
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154300,
+      "name": "Human - LF SYSTEM Remix Edit",
+      "url": "https://open.spotify.com/track/1SnAGjs0nN83jApG77MgXu"
+    },
+    {
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR"
       },
@@ -492,7 +514,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 211000,
       "name": "Human - Single Version",
       "url": "https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD"
@@ -532,7 +554,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 257733,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
@@ -622,7 +644,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
@@ -730,7 +752,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 255573,
       "name": "Lady",
       "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
@@ -1148,7 +1170,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 255693,
       "name": "Stillness Of Heart",
       "url": "https://open.spotify.com/track/7eYVOdiqYA0wcPhhOC1g92"
@@ -1242,7 +1264,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 208626,
       "name": "Superlove",
       "url": "https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR"

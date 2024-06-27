@@ -2,7 +2,7 @@
 
 ### [This Is Pabllo Vittar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3P9CWt)
 
-> This is Pabllo Vittar\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
 78 songs - 3 hr 42 min
 

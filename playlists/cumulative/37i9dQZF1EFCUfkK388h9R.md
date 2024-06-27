@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1TKLER9anp82uwNUrFo1xc">SAKIMA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-50 songs - 2 hr 35 min
+51 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Let the Right One In](https://open.spotify.com/track/0yxXrDd1MYIb8LNEQdc4fy) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Let the Right One In](https://open.spotify.com/album/4Vwc3fRso8tmCrlp4Rc1a4) | 3:08 | 2024-03-21 |  |
 | [Long Shot](https://open.spotify.com/track/4DSNXNrBKv2rMo30c5DyTh) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Shot](https://open.spotify.com/album/0jSxGspgNSr6D1o839Brhl) | 3:24 | 2024-03-21 |  |
 | [Love \(Sweet Love\)](https://open.spotify.com/track/6Y9Sk7mKkNndGQBIwQ52Il) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 3:40 | 2024-03-21 |  |
+| [Love On Repeat](https://open.spotify.com/track/4IOhOvxeaI9rhYbdpb0xUF) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Love On Repeat](https://open.spotify.com/album/0f2TR4e0rXqQ4HfiEEunLW) | 2:09 | 2024-06-26 |  |
 | [Love Phobia](https://open.spotify.com/track/33Vbi87Po3TrNaJUvyKsdY) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:10 | 2024-03-21 |  |
 | [Love You Less](https://open.spotify.com/track/5PFJuBIybAsfMgnwvkmDPC) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 2:59 | 2024-03-21 |  |
 | [LOVELIFE](https://open.spotify.com/track/2GKLNiIStdke1CbLRrgRXM) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [LOVELIFE](https://open.spotify.com/album/2z9LNkxTFMuJUvisHXip0m) | 2:31 | 2024-03-21 |  |

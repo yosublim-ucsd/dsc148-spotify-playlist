@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 225973,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
@@ -4499,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "Von Zeit zu Zeit",
+        "url": "https://open.spotify.com/album/7f8lMTG8osTooFVFDalBNE"
+      },
+      "artists": [
+        {
+          "name": "Rainhard Fendrich",
+          "url": "https://open.spotify.com/artist/4vWQjpI68kWBNkXOEbi1D6"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226760,
+      "name": "I am from Austria",
+      "url": "https://open.spotify.com/track/1JIaXY2yUMPHs0eAzPUjsP"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
@@ -4844,7 +4862,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 197127,
       "name": "Immer wieder \u00d6sterreich",
       "url": "https://open.spotify.com/track/6j9OI8oQtURND1a45LMbJt"
@@ -5380,6 +5398,24 @@
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
+    },
+    {
+      "album": {
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
     },
     {
       "album": {
@@ -6612,7 +6648,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 113595,
       "name": "Man In Finance (with David Guetta)",
       "url": "https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T"
@@ -7799,6 +7835,24 @@
     },
     {
       "album": {
+        "name": "Sturm und Drang",
+        "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224698,
+      "name": "Pain in my Heart",
+      "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
+    },
+    {
+      "album": {
         "name": "Gl\u00fcckskind",
         "url": "https://open.spotify.com/album/2J3En8aAFnHAT3rgsobCoI"
       },
@@ -7964,7 +8018,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -9249,6 +9303,28 @@
     },
     {
       "album": {
+        "name": "Slide da Treme Mel\u00f3dica v2",
+        "url": "https://open.spotify.com/album/4sWmzhpogE4nLa1f2q9Ke0"
+      },
+      "artists": [
+        {
+          "name": "DJ FNK",
+          "url": "https://open.spotify.com/artist/7nM7RtPXQ6jwNlFTfPyZnA"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165107,
+      "name": "Slide da Treme Mel\u00f3dica v2",
+      "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
+    },
+    {
+      "album": {
         "name": "Slow Dancing",
         "url": "https://open.spotify.com/album/57sBpryLVCsYI9HyQuuSEd"
       },
@@ -10434,7 +10510,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 173000,
       "name": "To All The Boys",
       "url": "https://open.spotify.com/track/4c1ZaRia4SUkdkqSHM9eBt"

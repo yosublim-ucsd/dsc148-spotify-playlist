@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home",
-  "num_followers": 58906,
+  "num_followers": 58919,
   "original_name": "Hardstyle Gym \ud83d\udcaa",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-06-07 11:31:43",
       "album": {
+        "name": "Dissolve My Mind",
+        "url": "https://open.spotify.com/album/4LzpG7zgNbRvejVUpx0U4W"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "duration_ms": 251082,
+      "name": "Dissolve My Mind",
+      "url": "https://open.spotify.com/track/3pfXohE3mfz9lsdo47Rfvt"
+    },
+    {
+      "added_at": "2024-06-07 11:31:43",
+      "album": {
         "name": "In Hardstyle We Trust (Melody Mix)",
         "url": "https://open.spotify.com/album/0cUZwW0wPp3HDebw6fZosP"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 235009,
       "name": "In Hardstyle We Trust - Melody Mix",
       "url": "https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi"
-    },
-    {
-      "added_at": "2024-06-07 11:31:43",
-      "album": {
-        "name": "Dissolve My Mind",
-        "url": "https://open.spotify.com/album/4LzpG7zgNbRvejVUpx0U4W"
-      },
-      "artists": [
-        {
-          "name": "Devin Wild",
-          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
-        }
-      ],
-      "duration_ms": 251082,
-      "name": "Dissolve My Mind",
-      "url": "https://open.spotify.com/track/3pfXohE3mfz9lsdo47Rfvt"
     },
     {
       "added_at": "2024-06-07 11:31:43",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-06-07 11:31:43",
       "album": {
+        "name": "Futurepower",
+        "url": "https://open.spotify.com/album/2MG0xLJezHQAAlmpCVf7h6"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "duration_ms": 246316,
+      "name": "Futurepower",
+      "url": "https://open.spotify.com/track/5BEeBEAsRWIhAw18rkun9F"
+    },
+    {
+      "added_at": "2024-06-07 11:31:43",
+      "album": {
         "name": "The Night (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/7foUHVIJy7YFBDP1OFskL1"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 148000,
       "name": "The Night - Hardstyle Mix",
       "url": "https://open.spotify.com/track/3XikEye0OgF9rJ4BSCtLp1"
-    },
-    {
-      "added_at": "2024-06-07 11:31:43",
-      "album": {
-        "name": "Futurepower",
-        "url": "https://open.spotify.com/album/2MG0xLJezHQAAlmpCVf7h6"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        }
-      ],
-      "duration_ms": 246316,
-      "name": "Futurepower",
-      "url": "https://open.spotify.com/track/5BEeBEAsRWIhAw18rkun9F"
     },
     {
       "added_at": "2024-06-07 11:31:43",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-06-07 11:31:43",
       "album": {
-        "name": "X (A DECADE)",
-        "url": "https://open.spotify.com/album/0g915bxfWtbv7YbTRnt826"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        },
-        {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "X (A DECADE)",
-      "url": "https://open.spotify.com/track/5hQVCrL0yKJw5Jf7lWnjPY"
-    },
-    {
-      "added_at": "2024-06-07 11:31:43",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/6ju4jSGjr31ZaqqFB17IDV"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 176962,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4yKjG2a8xS68h7J6t9ycGX"
+    },
+    {
+      "added_at": "2024-06-07 11:31:43",
+      "album": {
+        "name": "X (A DECADE)",
+        "url": "https://open.spotify.com/album/0g915bxfWtbv7YbTRnt826"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "X (A DECADE)",
+      "url": "https://open.spotify.com/track/5hQVCrL0yKJw5Jf7lWnjPY"
     },
     {
       "added_at": "2024-06-07 11:31:43",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-06-07 11:31:43",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/789OzvbySYuX2piZXUo4bU"
-      },
-      "artists": [
-        {
-          "name": "Devin Wild",
-          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
-        },
-        {
-          "name": "Nathalie Blue",
-          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
-        }
-      ],
-      "duration_ms": 212322,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK"
-    },
-    {
-      "added_at": "2024-06-07 11:31:43",
-      "album": {
         "name": "Won't Forget",
         "url": "https://open.spotify.com/album/6PnHSLrP5IYAubIo3fT2n7"
       },
@@ -887,26 +867,22 @@
     {
       "added_at": "2024-06-07 11:31:43",
       "album": {
-        "name": "Worlds Collide (Omnya Remix)",
-        "url": "https://open.spotify.com/album/4tr0H7vrHhGkKJ4zvEvjsk"
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/789OzvbySYuX2piZXUo4bU"
       },
       "artists": [
         {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
         },
         {
-          "name": "Fraw",
-          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
-        },
-        {
-          "name": "Omnya",
-          "url": "https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL"
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
         }
       ],
-      "duration_ms": 211503,
-      "name": "Worlds Collide - Omnya Remix",
-      "url": "https://open.spotify.com/track/2uSrTcuAgfNQSEoXDOfAUe"
+      "duration_ms": 212322,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/4U7tLQ4g0JPqisxSAuNoFK"
     },
     {
       "added_at": "2024-06-07 11:31:43",
@@ -931,6 +907,30 @@
       "duration_ms": 195066,
       "name": "FYAH",
       "url": "https://open.spotify.com/track/1t43yOydn1O4uOusALEUFl"
+    },
+    {
+      "added_at": "2024-06-07 11:31:43",
+      "album": {
+        "name": "Worlds Collide (Omnya Remix)",
+        "url": "https://open.spotify.com/album/4tr0H7vrHhGkKJ4zvEvjsk"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Fraw",
+          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL"
+        }
+      ],
+      "duration_ms": 211503,
+      "name": "Worlds Collide - Omnya Remix",
+      "url": "https://open.spotify.com/track/2uSrTcuAgfNQSEoXDOfAUe"
     },
     {
       "added_at": "2024-06-07 11:31:43",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-06-07 11:31:43",
       "album": {
-        "name": "What You Heard",
-        "url": "https://open.spotify.com/album/5cUjfZQV7IaaYi89yzz3L4"
-      },
-      "artists": [
-        {
-          "name": "Phrantic",
-          "url": "https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6"
-        },
-        {
-          "name": "LXCPR",
-          "url": "https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0"
-        }
-      ],
-      "duration_ms": 162004,
-      "name": "What You Heard",
-      "url": "https://open.spotify.com/track/6n6xZkucdDYETMuqOmZ8OI"
-    },
-    {
-      "added_at": "2024-06-07 11:31:43",
-      "album": {
         "name": "Deep In My Soul",
         "url": "https://open.spotify.com/album/4i23NCktx67U67gbmNfxuL"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 165844,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/621OKN7F7dicuOKewxxeq1"
+    },
+    {
+      "added_at": "2024-06-07 11:31:43",
+      "album": {
+        "name": "What You Heard",
+        "url": "https://open.spotify.com/album/5cUjfZQV7IaaYi89yzz3L4"
+      },
+      "artists": [
+        {
+          "name": "Phrantic",
+          "url": "https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6"
+        },
+        {
+          "name": "LXCPR",
+          "url": "https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0"
+        }
+      ],
+      "duration_ms": 162004,
+      "name": "What You Heard",
+      "url": "https://open.spotify.com/track/6n6xZkucdDYETMuqOmZ8OI"
     },
     {
       "added_at": "2024-06-07 11:31:43",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-06-07 11:31:43",
       "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/1dklzQmTgzrPxN0YOrh7H3"
-      },
-      "artists": [
-        {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
-        },
-        {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
-        }
-      ],
-      "duration_ms": 211499,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/0Trr3QSf9SvtFRtuAPVoBn"
-    },
-    {
-      "added_at": "2024-06-07 11:31:43",
-      "album": {
         "name": "Edge Of The Unknown",
         "url": "https://open.spotify.com/album/13mS26sOAVYfngzLevsf82"
       },
@@ -1287,6 +1267,26 @@
     {
       "added_at": "2024-06-07 11:31:43",
       "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/1dklzQmTgzrPxN0YOrh7H3"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "duration_ms": 211499,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/0Trr3QSf9SvtFRtuAPVoBn"
+    },
+    {
+      "added_at": "2024-06-07 11:31:43",
+      "album": {
         "name": "The Get Back",
         "url": "https://open.spotify.com/album/408QsFdYz9ZT0jq9uqAyOY"
       },
@@ -1303,6 +1303,26 @@
       "duration_ms": 130964,
       "name": "The Get Back",
       "url": "https://open.spotify.com/track/22wegVv3MYQOu4WgVbhaXp"
+    },
+    {
+      "added_at": "2024-06-07 11:31:43",
+      "album": {
+        "name": "What You Give Is What You Get",
+        "url": "https://open.spotify.com/album/5cR4r1R6oN6v5DNXNUx2AK"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Clockartz",
+          "url": "https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp"
+        }
+      ],
+      "duration_ms": 207290,
+      "name": "What You Give Is What You Get",
+      "url": "https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0"
     },
     {
       "added_at": "2024-06-07 11:31:43",
@@ -1343,26 +1363,6 @@
       "duration_ms": 167687,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/5Oz55aVuZ3KbKMeHOhePdx"
-    },
-    {
-      "added_at": "2024-06-07 11:31:43",
-      "album": {
-        "name": "What You Give Is What You Get",
-        "url": "https://open.spotify.com/album/5cR4r1R6oN6v5DNXNUx2AK"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Clockartz",
-          "url": "https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp"
-        }
-      ],
-      "duration_ms": 207290,
-      "name": "What You Give Is What You Get",
-      "url": "https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0"
     },
     {
       "added_at": "2024-06-07 11:31:43",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-06-07 11:31:43",
       "album": {
-        "name": "XTREME XTASY",
-        "url": "https://open.spotify.com/album/1DcPUHZKSsJjPuc7pfabEK"
-      },
-      "artists": [
-        {
-          "name": "Thyron",
-          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "XTREME XTASY",
-      "url": "https://open.spotify.com/track/7DIAUvqEp8uCAp9rL5pBEA"
-    },
-    {
-      "added_at": "2024-06-07 11:31:43",
-      "album": {
         "name": "MOVIE DREAM",
         "url": "https://open.spotify.com/album/48e9WXqqjXSDn8PGlbjJrd"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 154593,
       "name": "MOVIE DREAM",
       "url": "https://open.spotify.com/track/7CNTnuvqYFzSMNm8GLOAbG"
+    },
+    {
+      "added_at": "2024-06-07 11:31:43",
+      "album": {
+        "name": "XTREME XTASY",
+        "url": "https://open.spotify.com/album/1DcPUHZKSsJjPuc7pfabEK"
+      },
+      "artists": [
+        {
+          "name": "Thyron",
+          "url": "https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "XTREME XTASY",
+      "url": "https://open.spotify.com/track/7DIAUvqEp8uCAp9rL5pBEA"
     },
     {
       "added_at": "2024-06-07 11:31:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: LUM!X x Lucas &amp; Steve
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,185 likes - 8 songs - 21 min 15 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,178 likes - 8 songs - 21 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

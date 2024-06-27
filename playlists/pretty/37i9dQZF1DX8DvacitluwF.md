@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I?si=RejQEduzSYCqPKIKvu3J2g>Normani</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,111 likes - 91 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,127 likes - 91 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

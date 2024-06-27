@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to current Pakistani Hits\. 🇵🇰 Cover: Shazia Manzoor, Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,538 likes - 56 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,556 likes - 56 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

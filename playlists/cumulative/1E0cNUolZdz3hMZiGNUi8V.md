@@ -4,7 +4,7 @@
 
 > 🔥 All the hottest hip hop tracks in one spot! Featuring: <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=jQqAUyTPThqyJKCm1mxJTQ">Gunna</a>, Jack Harlow, Gucci Mane,  Lil Uzi Vert, Young Thug, Don Toliver,  NLE Choppa &amp; many more.
 
-149 songs - 7 hr 4 min
+150 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Snot \(feat\. Gucci Mane\)](https://open.spotify.com/track/5edHOpjlQGXX0KF8d1pLOv) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Snot \(feat\. Gucci Mane\)](https://open.spotify.com/album/329mW6xxdEU6hWNbjTTNP7) | 3:02 | 2023-12-01 |  |
 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 1:54 | 2023-12-08 |  |
 | [Sorrys & Ferraris](https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Sorrys & Ferraris](https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT) | 2:47 | 2024-02-16 | 2024-02-24 |
+| [Steppas](https://open.spotify.com/track/0tGxowM8TIQX5WtmrSNceT) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Better Off Alone](https://open.spotify.com/album/6QRaNTiMJjHP2ptwo9jM1d) | 3:20 | 2024-06-26 |  |
 | [Stickin And Movin](https://open.spotify.com/track/0LFytFdnyYnyjKQjFhz2XJ) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Stickin And Movin](https://open.spotify.com/album/50yCR96sx5poUVluZCgH6O) | 2:47 | 2024-05-16 |  |
 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 | 2023-12-08 | 2023-12-16 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 | 2023-12-08 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 156180,
+  "num_followers": 156220,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Hey Bro",
-        "url": "https://open.spotify.com/album/2lJNU3gStbWwaudk0qrIXD"
-      },
-      "artists": [
-        {
-          "name": "Elo\u00efz",
-          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
-        }
-      ],
-      "duration_ms": 150024,
-      "name": "Hey Bro",
-      "url": "https://open.spotify.com/track/3llW2J8Gl8LggqQcQSjyqM"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "\u00e0 2 \u00e0 3",
         "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 180745,
       "name": "Comment on fait",
       "url": "https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Hey Bro",
+        "url": "https://open.spotify.com/album/2lJNU3gStbWwaudk0qrIXD"
+      },
+      "artists": [
+        {
+          "name": "Elo\u00efz",
+          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
+        }
+      ],
+      "duration_ms": 150024,
+      "name": "Hey Bro",
+      "url": "https://open.spotify.com/track/3llW2J8Gl8LggqQcQSjyqM"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Louise Attaque",
-        "url": "https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz"
-      },
-      "artists": [
-        {
-          "name": "Louise Attaque",
-          "url": "https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "L\u00e9a",
-      "url": "https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Encore un soir (Deluxe Edition)",
         "url": "https://open.spotify.com/album/34ojCO0ZiLZwJlUFXuGx9R"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 210706,
       "name": "Le chemin (feat. Sita)",
       "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Louise Attaque",
+        "url": "https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz"
+      },
+      "artists": [
+        {
+          "name": "Louise Attaque",
+          "url": "https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "L\u00e9a",
+      "url": "https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Pri\u00e8re pa\u00efenne",
-      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Pri\u00e8re pa\u00efenne",
+      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Un jour, je",
         "url": "https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "PYRAMIDE",
-        "url": "https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb"
-      },
-      "artists": [
-        {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
-        }
-      ],
-      "duration_ms": 233800,
-      "name": "Tomb\u00e9",
-      "url": "https://open.spotify.com/track/399mh97iAmjU34de5MebHp"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Je sais pas si \u00e7a va",
         "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 166293,
       "name": "Mal barr\u00e9",
       "url": "https://open.spotify.com/track/4c3sC3cX8RFwKz9KMUNxt9"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "PYRAMIDE",
+        "url": "https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "Tomb\u00e9",
+      "url": "https://open.spotify.com/track/399mh97iAmjU34de5MebHp"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "La Zizanie",
-        "url": "https://open.spotify.com/album/2MmtycxmuZrVlHoo70uX60"
-      },
-      "artists": [
-        {
-          "name": "Zazie",
-          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Rue de la Paix",
-      "url": "https://open.spotify.com/track/78js60sgt5lq9zEnlHg9WB"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 326186,
       "name": "Un \u00e9t\u00e9 fran\u00e7ais",
       "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "La Zizanie",
+        "url": "https://open.spotify.com/album/2MmtycxmuZrVlHoo70uX60"
+      },
+      "artists": [
+        {
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Rue de la Paix",
+      "url": "https://open.spotify.com/track/78js60sgt5lq9zEnlHg9WB"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Dimanche",
-        "url": "https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq"
-      },
-      "artists": [
-        {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Le temps passe",
-      "url": "https://open.spotify.com/track/7h10VREXjoiHk7YE9QGfgs"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 188173,
       "name": "Dis-Moi Encore Que Tu M'Aimes",
       "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Dimanche",
+        "url": "https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Le temps passe",
+      "url": "https://open.spotify.com/track/7h10VREXjoiHk7YE9QGfgs"
     },
     {
       "added_at": "2024-05-23 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 16444,
+  "num_followers": 16493,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAACIhA79WISFjJJZkIr+Qy0x",
+  "snapshot_id": "ZnoIgAAAAAAM+EQuvdY2HCSJoRH2QQxv",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Finesse (feat. GloRilla)",
         "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
       },
@@ -91,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lick Or Sum",
-        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 141604,
-      "name": "Lick Or Sum",
-      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ehhthang Ehhthang",
         "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
@@ -123,22 +127,82 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Wat U On (with GloRilla)",
-        "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
+        "name": "Lick Or Sum",
+        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
       },
       "artists": [
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 141604,
+      "name": "Lick Or Sum",
+      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/7cCqSijm31dZdQ1v3BaFAZ"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 159720,
-      "name": "On Wat U On (with GloRilla)",
-      "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
+      "duration_ms": 137386,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/5nEUEJWFtBFdjVGeFyIOL0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 222386,
+      "name": "Leave the Club (feat. Lil Durk & GloRilla)",
+      "url": "https://open.spotify.com/track/0zP8VSgyYSVqrSXTYTn9Su"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "All Dere (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG"
     },
     {
       "added_at": null,
@@ -199,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/358jvrijvWrD1zDXk8uL3G"
       },
       "artists": [
         {
@@ -208,13 +272,29 @@
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         },
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
         }
       ],
-      "duration_ms": 176551,
-      "name": "All Dere (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG"
+      "duration_ms": 113844,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/7v6B1kRUvNbkVGfqSkrwuS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "No Bih",
+      "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
     },
     {
       "added_at": null,
@@ -290,11 +370,15 @@
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
         }
       ],
-      "duration_ms": 179200,
-      "name": "No Bih",
-      "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
+      "duration_ms": 142702,
+      "name": "Finesse Da Glo (feat. Finesse2Tymes)",
+      "url": "https://open.spotify.com/track/1nKgk560ybSt7eZLtFAa9p"
     },
     {
       "added_at": null,
@@ -358,15 +442,11 @@
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
         }
       ],
-      "duration_ms": 142702,
-      "name": "Finesse Da Glo (feat. Finesse2Tymes)",
-      "url": "https://open.spotify.com/track/1nKgk560ybSt7eZLtFAa9p"
+      "duration_ms": 126315,
+      "name": "Opp Shit",
+      "url": "https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB"
     },
     {
       "added_at": null,
@@ -427,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "Opp Shit",
-      "url": "https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strictly 4 My Fans 2",
         "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
       },
@@ -463,22 +527,6 @@
       "duration_ms": 188157,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 169465,
-      "name": "Unh Unh",
-      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
     },
     {
       "added_at": null,

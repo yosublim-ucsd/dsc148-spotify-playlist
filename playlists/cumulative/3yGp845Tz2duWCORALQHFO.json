@@ -3367,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/1E4C3qoHeDd6FIfqs3vImr"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233597,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/1eDmbxoNF80TSki1uUJ4cn"
+    },
+    {
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/4WYzbZnPx71VxEd2fqUXkf"
       },
@@ -6738,6 +6756,28 @@
       "duration_ms": 167076,
       "name": "Warp 1.9 (feat. Steve Aoki) - Westend & Cherry Tooth Remix",
       "url": "https://open.spotify.com/track/4g3rjdS9GGPsCQ9u3uEweZ"
+    },
+    {
+      "album": {
+        "name": "What I Live For",
+        "url": "https://open.spotify.com/album/149F2ut9m1Y2EXEnaMTfQ7"
+      },
+      "artists": [
+        {
+          "name": "ellee ven",
+          "url": "https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x"
+        },
+        {
+          "name": "Prod\u00e9je",
+          "url": "https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120187,
+      "name": "What I Live For",
+      "url": "https://open.spotify.com/track/6TvbTJeOiS2GfNta72CtcY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,776 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,825 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 34 | [Nuit sur les Champs\-Élysées \- Take 1 \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/0NsRSkszdbzublEEh3cSYH) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:25 |
 | 35 | [J'ai Deux Amours](https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:01 |
 | 36 | [The Lady is a Tramp](https://open.spotify.com/track/3ktv2iqF2G7r2RNUyJK7jj) | [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 3:49 |
-| 37 | [La Dolce Vita / La Bella Malinconica](https://open.spotify.com/track/3GRGACEHWI4cYbJvoIp5gD) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo) | [La Dolce Vita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB) | 3:06 |
+| 37 | [Opening \(Spirit of Adventure\)](https://open.spotify.com/track/5oYUpqagyuDKyv4CAYOqzR) | [Andrea Datzman](https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2), [Curtis Green](https://open.spotify.com/artist/7BeM8T22ATymjmtyyfoHyV) | [Dug Days \(Original Soundtrack\)](https://open.spotify.com/album/6fEXaQ4sDE9L9pSsixUPQM) | 0:52 |
 | 38 | [Joe's Lowdown Blues](https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 0:36 |
-| 39 | [Opening \(Spirit of Adventure\)](https://open.spotify.com/track/5oYUpqagyuDKyv4CAYOqzR) | [Andrea Datzman](https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2), [Curtis Green](https://open.spotify.com/artist/7BeM8T22ATymjmtyyfoHyV) | [Dug Days \(Original Soundtrack\)](https://open.spotify.com/album/6fEXaQ4sDE9L9pSsixUPQM) | 0:52 |
+| 39 | [La Dolce Vita / La Bella Malinconica](https://open.spotify.com/track/3GRGACEHWI4cYbJvoIp5gD) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo) | [La Dolce Vita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB) | 3:06 |
 | 40 | [Thank God for the Rain](https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [Taxi Driver](https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP) | 1:41 |
 | 41 | [I Love Penny Sue](https://open.spotify.com/track/4SBHuF59wYA32i3O1Yfv1L) | [Daniel May](https://open.spotify.com/artist/1v1sbhRjpHfjqdBpSiwCvc) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:17 |
 | 42 | [The Thrombey Family Theme](https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 1:47 |

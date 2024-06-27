@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 363671,
+  "num_followers": 363787,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Pat Boone's Greatest Hits (Reissue)",
-        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 134560,
-      "name": "Love Letters In The Sand",
-      "url": "https://open.spotify.com/track/1eqGYJJr2z2GXK1i0hD3BC"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 168906,
       "name": "Don't",
       "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Pat Boone's Greatest Hits (Reissue)",
+        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 134560,
+      "name": "Love Letters In The Sand",
+      "url": "https://open.spotify.com/track/1eqGYJJr2z2GXK1i0hD3BC"
     },
     {
       "added_at": "2022-05-30 12:59:00",

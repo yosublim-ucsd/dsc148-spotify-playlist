@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover: Kamakshi Khanna
 
-306 songs - 17 hr 35 min
+307 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Faking Concern](https://open.spotify.com/track/479UQ7H4E9LFs7pJwDsJF6) | [Ishita Parakh](https://open.spotify.com/artist/0Fb1hND25pyPt3JSQAjIIV) | [Faking Concern](https://open.spotify.com/album/2rxkw4WM0iQ2kPIBx1AZ0I) | 2:40 | 2022-12-20 | 2023-02-16 |
 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 | 2023-03-09 | 2024-04-19 |
 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-19 | 2023-03-19 |
-| [fickle.minds](https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [fickle.minds](https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq) | 3:41 | 2023-05-19 |  |
+| [fickle.minds](https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [fickle.minds](https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq) | 3:41 | 2023-05-19 | 2024-06-27 |
 | [Fight This Fight](https://open.spotify.com/track/2qXFpmLrTryis1MYSSO6po) | [Arrows](https://open.spotify.com/artist/2LgY4M7R8cJM0l52RlE9dd), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl), [Warren Mendonsa](https://open.spotify.com/artist/4h3U9ZOiDOzSUqiKCmrvfn) | [Fight This Fight](https://open.spotify.com/album/0XGeJXRsh23px41Y3pir3m) | 2:53 | 2023-07-14 | 2023-08-03 |
 | [Figure 8](https://open.spotify.com/track/0A2yplg86L7XTX2ZN62DpV) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Outlast](https://open.spotify.com/album/1wznIFQEKfVFPRD6MCH9AW) | 4:31 | 2022-03-25 | 2023-02-25 |
 | [Find You](https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:44 | 2022-03-25 |  |
@@ -286,6 +286,7 @@
 | [Time Is Money](https://open.spotify.com/track/6Q8JbAUkZZP0sLhlXkNLhu) | [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Time Is Money](https://open.spotify.com/album/0h894TP5cKaz0Lc5tERtvf) | 3:04 | 2024-03-01 | 2024-04-02 |
 | [To summer didn’t shine for us](https://open.spotify.com/track/3Slem59fCLqnreAqQxu23l) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [To summer didn’t shine for us](https://open.spotify.com/album/6V9lhpcM3w24zcjJfeVNX9) | 2:59 | 2023-08-29 |  |
 | [Tomorrow](https://open.spotify.com/track/7IrCTxnRCyhLhTYEf729Ni) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Tomorrow](https://open.spotify.com/album/46ergrjBnO4VMGR4gc6HbS) | 3:59 | 2022-03-25 | 2022-09-10 |
+| [Tourist](https://open.spotify.com/track/7enEWPtX7qbL0AiiIwY59s) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:45 | 2024-06-21 |  |
 | [Traffic](https://open.spotify.com/track/4z2oHMR3XlJJyyME3ZOkPr) | [Till Apes](https://open.spotify.com/artist/7qzkGpR5qvkIVPXN5UwvVZ) | [ill tapes, Vol\. 1](https://open.spotify.com/album/16UYyBhOMc8C6wCLagb1Vr) | 2:18 | 2022-05-06 | 2023-03-18 |
 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 | 2023-09-07 | 2024-06-22 |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2022-03-25 |  |

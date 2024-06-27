@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: BOYNEXTDOOR
 
-1,081 songs - 2 day 10 hr 33 min
+1,083 songs - 2 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -751,6 +751,7 @@
 | [SAINT](https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:59 | 2024-06-19 |  |
 | [SAME SAME DIFFERENT \- JP Ver.](https://open.spotify.com/track/0MTRZzn4wNBjBEthtffOMk) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [SAME SAME DIFFERENT \(JP Ver.\)](https://open.spotify.com/album/742XumfrnmfiQ7w7oGxvjR) | 3:35 | 2022-06-10 | 2022-07-27 |
 | [Sara Sara](https://open.spotify.com/track/0aLkYYO8w7T0U2Vhb0pe2O) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Sara Sara](https://open.spotify.com/album/1Q9cks7ruxKgspE9EFroNR) | 2:57 | 2023-08-15 | 2023-10-28 |
+| [Satellite](https://open.spotify.com/track/5nEuBeII9tTOpEs4zCQJrY) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Satellite](https://open.spotify.com/album/12crE710s5Iy0ebsr3qDfc) | 3:35 | 2024-06-25 |  |
 | [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 | 2023-07-20 | 2023-08-04 |
 | [save me](https://open.spotify.com/track/15xLGWvLs9vb6UaNLwDTEY) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [save me](https://open.spotify.com/album/4fpOkKyUs4HR0nSG97loRI) | 3:12 | 2022-04-07 | 2022-06-22 |
 | [Save me, Kill me](https://open.spotify.com/track/0Z5gF9M35PmrQooN2lDlkK) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 6th EP Album 'OK' Episode 2 : I'm OK](https://open.spotify.com/album/6z25pxVQFfJgi7ymbORA02) | 3:37 | 2023-05-30 | 2023-07-19 |
@@ -861,6 +862,7 @@
 | [Suit Up](https://open.spotify.com/track/0Rc0fWWERItc0Y2f6BumqA) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [Suit Up](https://open.spotify.com/album/5q62iqYUYwzapHZ5sDD6Ke) | 3:02 | 2024-01-25 | 2024-02-28 |
 | [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 | 2023-07-25 | 2023-08-19 |
 | [Summer Night](https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Summer Strike, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF) | 4:28 | 2022-11-24 | 2023-01-25 |
+| [Sunkissed \(Feat\. MARK of NCT\)](https://open.spotify.com/track/5fgjRRJwE86CpvnZvR3bM6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Sunkissed](https://open.spotify.com/album/0DLOQV3bGLeLTrEYk1bR81) | 2:39 | 2024-06-25 |  |
 | [Sunny Road](https://open.spotify.com/track/1T6WV7LI5pfa61PjOVGUGM) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sunny Road](https://open.spotify.com/album/6hKjTW2iYx2CyWUqUfP0Kz) | 3:21 | 2023-04-24 | 2023-06-27 |
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-04-24 | 2023-08-23 |
 | [Super \(Workout Remix\)](https://open.spotify.com/track/6P7m3AZlTUm39hkeAgQNMk) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Super \(Workout Remix\)](https://open.spotify.com/album/6oeww5DTxCKE4h5sSkoRjI) | 3:13 | 2024-02-15 | 2024-04-10 |

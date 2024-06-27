@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-206 songs - 10 hr 33 min
+207 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Like Lovers Do](https://open.spotify.com/track/1vDMPDEOp8MqmMfMosMUml) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Like Lovers Do](https://open.spotify.com/album/7xtebGDHxGz9nfHveTGc7W) | 2:50 | 2024-06-08 |  |
 | [Low](https://open.spotify.com/track/762nQHxV3RCum4UBgARjaW) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Tear Your Heart Out](https://open.spotify.com/album/66aBhNtqG6pZvyiaqECBZi) | 4:19 | 2024-03-29 | 2024-05-16 |
 | [Lux Radio Theatre](https://open.spotify.com/track/7L6luimnBJ3SRfyf2Ua436) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 2:44 | 2024-02-13 | 2024-03-10 |
+| [M M M](https://open.spotify.com/track/3OEnErw6z4DGjfiWefhg75) | [Still House Plants](https://open.spotify.com/artist/1zvVxcYQEbn9D1tMG7960a) | [If I don't make it, I love u](https://open.spotify.com/album/1DG8mBYMlAQNC9pA21zWAH) | 5:46 | 2024-06-26 |  |
 | [mahou no hiroba](https://open.spotify.com/track/7N3FBdEMvKhzL0qhADdt2N) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Songbook](https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7) | 9:04 | 2024-03-09 | 2024-05-16 |
 | [Make My Bed](https://open.spotify.com/track/1st16i7UZSXuNteGAJ5pMR) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 2:00 | 2024-03-20 | 2024-05-16 |
 | [March 8](https://open.spotify.com/track/4jRcB4wbhwhYVLYQr6fB8Y) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Ya Chaika](https://open.spotify.com/album/4tVFs4nSvfiD2TubHFYR0B) | 1:21 | 2024-01-31 | 2024-03-10 |

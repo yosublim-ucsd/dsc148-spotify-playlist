@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,818 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,064 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 43 | [Amor, Amor de Mis Amores \(with Ximena Sariñana\) \- En Vivo \[Sala Telefónica del Centro Cultural Roberto Cantoral\]](https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mujer Divina \- Homenaje a Agustín Lara \[En Vivo\]](https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH) | 4:31 |
 | 44 | [Te amaré \- MTV Unplugged](https://open.spotify.com/track/1cRNYYuGsB59ymqi6wvTbU) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 5:33 |
 | 45 | [Te Equivocaste \(Primera Fila\) \(feat\. Malú\) \- En Vivo](https://open.spotify.com/track/7wadwcnZoJEU2b3pgApUDv) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 4:06 |
-| 46 | [Te Quiero Tanto, Tanto \- En Vivo](https://open.spotify.com/track/5rxSLxLdN4D0YFQd2QQlle) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [OV7 Primera Fila](https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa) | 4:28 |
-| 47 | [Ilusion \(Unplugged\) \(En Vivo\) \(with Marisa Monte\)](https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 3:46 |
+| 46 | [Ilusion \(Unplugged\) \(En Vivo\) \(with Marisa Monte\)](https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 3:46 |
+| 47 | [Te Quiero Tanto, Tanto \- En Vivo](https://open.spotify.com/track/5rxSLxLdN4D0YFQd2QQlle) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [OV7 Primera Fila](https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa) | 4:28 |
 | 48 | [Yo Te Pido Amor \(Primera Fila\) \(feat\. Pandora\) \- En Vivo](https://open.spotify.com/track/0QIKg7unxus0JeC8PhzCXQ) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/19FjT2Eq5zuZqscnwhjNFH) | 4:42 |
-| 49 | [Nunca Voy a Olvidarte \- Primera Fila \- Live Version](https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:57 |
+| 49 | [Vuélveme a Querer \- Primera Fila \- Live Version](https://open.spotify.com/track/2Hhxygof6UeksbABhZKop4) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 4:50 |
 | 50 | [Serás el Aire \- Primera Fila](https://open.spotify.com/track/1s8i3KnevFv5h5BVfFotCl) | [Sasha, Benny y Erik](https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC) | [Primera Fila Sasha Benny Erik](https://open.spotify.com/album/0DB9SvuVNpmScrd8InA3jv) | 4:19 |
 
 Snapshot ID: `Zmm5BQAAAACDzuSBsCo3GlaVrTspThjF`

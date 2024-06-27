@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Valentina Marquez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,687 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,704 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,13 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 77 | [Provenza / Te Felicito / Despechao](https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Provenza / Te Felicito / Despechao](https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc) | 6:02 |
 | 78 | [Beso a beso](https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Hugh Padgham](https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl), [Sergio Oliva](https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM) | [Beso a Beso \(con La Mona\)](https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok) | 5:03 |
 | 79 | [Luna](https://open.spotify.com/track/2OuHEXGwys30H9dKO6Lbeu) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Luna](https://open.spotify.com/album/0kvSSwYnvisc11aKzslkHC) | 2:32 |
-| 80 | [La Carta](https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Fiesta Inolvidable Con La Barra](https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW) | 4:05 |
+| 80 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
 | 81 | [Aguardiente](https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR) | 3:19 |
 | 82 | [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 |
 | 83 | [No Dire Que Si](https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p), [Pia Ka](https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix) | [No Dire Que Si](https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj) | 3:33 |
 | 84 | [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 |
 | 85 | [Qué Bonito \(en vivo Luna Park\)](https://open.spotify.com/track/00VddhKPOxqdUzyO7sVtfV) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Miguel Alejandro](https://open.spotify.com/artist/0d2A861NEFqVpEogrYewVJ) | [Qué Bonito \(en vivo Luna Park\)](https://open.spotify.com/album/3UVCcXjNO7PnnvZAoZVR0O) | 2:35 |
-| 86 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
+| 86 | [La Carta](https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Fiesta Inolvidable Con La Barra](https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW) | 4:05 |
 | 87 | [La Última Granada \(DQV Premium\)](https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [La Última Granada \(DQV Premium\)](https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1) | 3:02 |
 | 88 | [La Luna](https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Antologia Carlitos La Mona Jimenez](https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg) | 4:05 |
 | 89 | [Esperando](https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF) | [Walter Romero](https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad) | [Libre al Fin](https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb) | 4:06 |

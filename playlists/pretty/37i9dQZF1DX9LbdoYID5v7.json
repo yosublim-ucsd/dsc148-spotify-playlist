@@ -1,6 +1,6 @@
 {
   "description": "Music that created modern indie as we know it. Cover: Yeah Yeah Yeahs",
-  "num_followers": 487342,
+  "num_followers": 487485,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Starfucker",
-        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Rawnald Gregory Erickson the Second",
-      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "We Were Dead Before The Ship Even Sank",
         "url": "https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "This Is Happening",
-        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+        "name": "Starfucker",
+        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
         }
       ],
-      "duration_ms": 536471,
-      "name": "Dance Yrself Clean",
-      "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
+      "duration_ms": 173693,
+      "name": "Rawnald Gregory Erickson the Second",
+      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -475,6 +459,22 @@
       "duration_ms": 271520,
       "name": "In The Waiting Line",
       "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "This Is Happening",
+        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 536471,
+      "name": "Dance Yrself Clean",
+      "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -575,6 +575,30 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Sophie Barker",
+          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
+        }
+      ],
+      "duration_ms": 338279,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
         "name": "The Reminder",
         "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
       },
@@ -603,30 +627,6 @@
       "duration_ms": 204906,
       "name": "L.E.S. Artistes",
       "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Sophie Barker",
-          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
-        }
-      ],
-      "duration_ms": 338279,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/1c2Ee269Rj9w8wn8s3qQu9"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/5tV7QNSURiLd8trSLrZahV"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
         "name": "The Bravery",
         "url": "https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 271906,
       "name": "Take Your Mama",
       "url": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/1c2Ee269Rj9w8wn8s3qQu9"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/5tV7QNSURiLd8trSLrZahV"
     },
     {
       "added_at": "2023-01-18 01:04:44",

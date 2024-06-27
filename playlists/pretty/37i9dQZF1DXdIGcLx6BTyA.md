@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,144 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,149 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 58 | [Prisoner Of The Highway](https://open.spotify.com/track/17ovUJrgt7GvsemAskk0Vs) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:44 |
 | 59 | [Before The Dogwood Blooms](https://open.spotify.com/track/6OkVaVrNaWT54KQMBCCmyN) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Lamentations](https://open.spotify.com/album/16cNE8Er5s7OeJAe0Ki3vC) | 2:55 |
 | 60 | [Drunken Poet's Dream \[feat\. Ray Wylie Hubbard\] \(Alone Together Sessions\)](https://open.spotify.com/track/6k7HGFpPdXf1mMz1VvdFdo) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Alone Together Sessions](https://open.spotify.com/album/0Sw1qWpwK8FANIuvvKTYLE) | 4:53 |
-| 61 | [Goddamn Lonely Love](https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 4:59 |
-| 62 | [Everything Is Broken](https://open.spotify.com/track/3UHyIr4CEma2wusb208Wyl) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Everything Is Broken](https://open.spotify.com/album/6wBh8mo97CY42OTfh1DjHi) | 4:32 |
-| 63 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/5zTpwOHztQElKRizyTayWa) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/album/0uZDVcg1RcF8WoWbyN0R5Y) | 2:52 |
-| 64 | [Wrangled](https://open.spotify.com/track/6QyeZn2b2LFLdX1AJ9PPZN) | [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Wrangled](https://open.spotify.com/album/0zwOXYFER5nHUzF1xiuS58) | 4:42 |
-| 65 | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/track/3aIhA9TSOdl6xUgJ2syUDR) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/album/4evWI9DiccsMHwbh0sn81t) | 3:55 |
+| 61 | [Everything Is Broken](https://open.spotify.com/track/3UHyIr4CEma2wusb208Wyl) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Everything Is Broken](https://open.spotify.com/album/6wBh8mo97CY42OTfh1DjHi) | 4:32 |
+| 62 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/5zTpwOHztQElKRizyTayWa) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/album/0uZDVcg1RcF8WoWbyN0R5Y) | 2:52 |
+| 63 | [Goddamn Lonely Love](https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 4:59 |
+| 64 | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/track/3aIhA9TSOdl6xUgJ2syUDR) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/album/4evWI9DiccsMHwbh0sn81t) | 3:55 |
+| 65 | [Wrangled](https://open.spotify.com/track/6QyeZn2b2LFLdX1AJ9PPZN) | [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Wrangled](https://open.spotify.com/album/0zwOXYFER5nHUzF1xiuS58) | 4:42 |
 | 66 | [Wild Love](https://open.spotify.com/track/0pNMGl99ohJrxz0O3ardvu) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Sparrow](https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu) | 3:51 |
 | 67 | [Terlingua Girl](https://open.spotify.com/track/0YqdhC1eKW6zuAodDlhTZ8) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Terlingua Girl](https://open.spotify.com/album/1sie66Xsn9KhVGseBhdNeF) | 4:14 |
 | 68 | [Joshua Tree](https://open.spotify.com/track/36XvVcxYLXYOQj37McVSHD) | [Ruthie Collins](https://open.spotify.com/artist/4qf3V2xmsI9GDIkQGlMfwV) | [Joshua Tree](https://open.spotify.com/album/604SYSnLaQAYume81vqV1z) | 4:11 |

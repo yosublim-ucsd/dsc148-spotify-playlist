@@ -1,6 +1,6 @@
 {
   "description": "MC Paulin da Capital, Mc Piedro, Dj GM, DJ WN, MC Ryan SP, Mc Daniel e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 365810,
+  "num_followers": 365887,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,34 @@
     {
       "added_at": "2024-06-25 14:41:55",
       "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 324923,
+      "name": "HINO DOS D",
+      "url": "https://open.spotify.com/track/1kiZwdWT6Laffn4y7eRJXy"
+    },
+    {
+      "added_at": "2024-06-25 14:41:55",
+      "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
       },
@@ -1291,30 +1319,6 @@
       "duration_ms": 218687,
       "name": "2022",
       "url": "https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W"
-    },
-    {
-      "added_at": "2024-06-25 14:41:55",
-      "album": {
-        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
-        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        }
-      ],
-      "duration_ms": 324923,
-      "name": "HINO DOS D",
-      "url": "https://open.spotify.com/track/1kiZwdWT6Laffn4y7eRJXy"
     },
     {
       "added_at": "2024-06-25 14:41:55",
@@ -1419,26 +1423,6 @@
     {
       "added_at": "2024-06-25 14:41:55",
       "album": {
-        "name": "Energia Benzadeus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3EfjvhRjvdm99Gq1IGoFK2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 153045,
-      "name": "Despedida De Solteiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ojITFsiarLcH7qzJvseWj"
-    },
-    {
-      "added_at": "2024-06-25 14:41:55",
-      "album": {
         "name": "Cora\u00e7\u00e3o e Beat",
         "url": "https://open.spotify.com/album/28KkgrToYZdh3hxbM9rDIJ"
       },
@@ -1455,6 +1439,26 @@
       "duration_ms": 206769,
       "name": "Modo Gal\u00e1tico",
       "url": "https://open.spotify.com/track/4TjLgUP7cfLTsDt4mRDsOh"
+    },
+    {
+      "added_at": "2024-06-25 14:41:55",
+      "album": {
+        "name": "Energia Benzadeus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EfjvhRjvdm99Gq1IGoFK2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 153045,
+      "name": "Despedida De Solteiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ojITFsiarLcH7qzJvseWj"
     },
     {
       "added_at": "2024-06-25 14:41:55",

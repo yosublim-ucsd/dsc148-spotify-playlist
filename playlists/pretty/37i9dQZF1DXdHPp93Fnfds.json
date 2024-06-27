@@ -1,6 +1,6 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Kirnbauer, Joaquina Mertz, Mar\u00eda Centeno & Noa Sainz.",
-  "num_followers": 142295,
+  "num_followers": 142297,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "100PRE",
-        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 205511,
-      "name": "100PRE",
-      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 193517,
       "name": "Cursi",
       "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "100PRE",
+        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 205511,
+      "name": "100PRE",
+      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -1007,58 +1007,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "Male",
-        "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
-      },
-      "artists": [
-        {
-          "name": "Clara_mente",
-          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
-        }
-      ],
-      "duration_ms": 182903,
-      "name": "Male",
-      "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
-        "name": "Todo Va A Cambiar",
-        "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        },
-        {
-          "name": "Karma C",
-          "url": "https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh"
-        }
-      ],
-      "duration_ms": 147386,
-      "name": "Todo Va A Cambiar",
-      "url": "https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
-        "name": "Ganas de Dejarte",
-        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 140286,
-      "name": "Ganas de Dejarte",
-      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -1083,6 +1031,58 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "Todo Va A Cambiar",
+        "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        },
+        {
+          "name": "Karma C",
+          "url": "https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh"
+        }
+      ],
+      "duration_ms": 147386,
+      "name": "Todo Va A Cambiar",
+      "url": "https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "Male",
+        "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
+      },
+      "artists": [
+        {
+          "name": "Clara_mente",
+          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
+        }
+      ],
+      "duration_ms": 182903,
+      "name": "Male",
+      "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 140286,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "1312 (Portarme Mal)",
-        "url": "https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 218613,
-      "name": "1312 (Portarme Mal)",
-      "url": "https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
         "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 326961,
       "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
       "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "1312 (Portarme Mal)",
+        "url": "https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 218613,
+      "name": "1312 (Portarme Mal)",
+      "url": "https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "Dwele",
-        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Dwele",
-      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Chica Violeta",
         "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
       },
@@ -1327,22 +1311,6 @@
       "duration_ms": 386900,
       "name": "Chica Violeta",
       "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
-        "name": "No va a pasar",
-        "url": "https://open.spotify.com/album/3BWz14j0eiivYK3pnSg74T"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 211847,
-      "name": "No va a pasar",
-      "url": "https://open.spotify.com/track/539SIIj6PtikkCunfoDmEW"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -1363,6 +1331,38 @@
       "duration_ms": 232173,
       "name": "Detonaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "Dwele",
+        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Dwele",
+      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "\u00faltimo y primero",
+        "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 179377,
+      "name": "\u00faltimo y primero",
+      "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
     }
   ],
   "unique_name": "Mujeres del Indie",

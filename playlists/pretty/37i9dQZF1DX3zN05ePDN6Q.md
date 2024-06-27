@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: 2ZDinizz
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,877 likes - 74 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,908 likes - 74 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

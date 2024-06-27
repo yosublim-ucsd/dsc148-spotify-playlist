@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,067 likes - 132 songs - 4 hr 19 min
+[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,068 likes - 133 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,5 +140,6 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 | 130 | [Misty Solace](https://open.spotify.com/track/6bEjGMoeSx7bHZ1Qqh4c9V) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Melodies of Serenity](https://open.spotify.com/album/3Z6J66tVl7nqa1lzFqftrA) | 2:03 |
 | 131 | [monday](https://open.spotify.com/track/7rOJZDZ1CgG5sG2Ou1F6tS) | [rainglow](https://open.spotify.com/artist/2A8CBcSX8bhpgAtwbDWHdr) | [monday](https://open.spotify.com/album/0rpX7azsvEwZjriTBzIiuc) | 2:23 |
 | 132 | [Side by Side](https://open.spotify.com/track/2OT7GmuC5Jc0KnYiUNgU69) | [The Last Nation](https://open.spotify.com/artist/2VfivUm19U6rmx8GwzUFtD) | [Allies of the Good](https://open.spotify.com/album/5F7HS5lR1LZ0OkPVYxBSt5) | 2:08 |
+| 133 | [Slow Morning](https://open.spotify.com/track/52aIVkfycicioVn13LVkXG) | [Morning Coffee](https://open.spotify.com/artist/62fnZMi7JwI8kp2DPqdlv1) | [Slow Morning](https://open.spotify.com/album/0ydqrgxnkRE9OlSMSrYDG3) | 2:00 |
 
-Snapshot ID: `AAAAVPs94IyD1XeDY59g4FqBT5qQWCoM`
+Snapshot ID: `AAAAVbS2KtfmowckgouuCfaeykW/vFDF`

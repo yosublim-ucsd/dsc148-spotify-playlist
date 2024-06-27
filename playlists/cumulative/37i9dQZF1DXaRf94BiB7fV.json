@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Inayat, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Maan Panu, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -2676,6 +2676,24 @@
       "duration_ms": 154396,
       "name": "Bekhabar Zindagi",
       "url": "https://open.spotify.com/track/2eHfJ7tAqFAiTMZnnOnYhT"
+    },
+    {
+      "album": {
+        "name": "Bemausam Baarish",
+        "url": "https://open.spotify.com/album/0xBbItufW99JKgkNiFG937"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Adwani",
+          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214329,
+      "name": "Bemausam Baarish",
+      "url": "https://open.spotify.com/track/28m7rFpkY7bLmDjVWYRzh1"
     },
     {
       "album": {
@@ -6154,7 +6172,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 183857,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7H0JskFt7G1or98bxDiCYt"
@@ -7716,6 +7734,24 @@
       "duration_ms": 192134,
       "name": "haye.",
       "url": "https://open.spotify.com/track/5Ny3h0JdpRxWsD0TvVzYGz"
+    },
+    {
+      "album": {
+        "name": "hbd",
+        "url": "https://open.spotify.com/album/7cxZPmFLNdb5wtLySlae5Q"
+      },
+      "artists": [
+        {
+          "name": "Natascha",
+          "url": "https://open.spotify.com/artist/1SpIm9sFUETlZoBvndFwH1"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "hbd",
+      "url": "https://open.spotify.com/track/5VKkxDE0Yj5EAhWxXfrcCb"
     },
     {
       "album": {
@@ -11594,7 +11630,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 268500,
       "name": "Khazaana",
       "url": "https://open.spotify.com/track/7iLyAideT0t1y5diQgy4EX"
@@ -14443,6 +14479,28 @@
     },
     {
       "album": {
+        "name": "Mera Piya Kahan",
+        "url": "https://open.spotify.com/album/4x9zc5doUEta9xhRMguQ63"
+      },
+      "artists": [
+        {
+          "name": "Manish Chouhan",
+          "url": "https://open.spotify.com/artist/1PI6uM5KV7E3V9T3KajSdD"
+        },
+        {
+          "name": "Madhura Badhe",
+          "url": "https://open.spotify.com/artist/4A46N5F3QLQvj0WVvuDv3n"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239928,
+      "name": "Mera Piya Kahan",
+      "url": "https://open.spotify.com/track/7troxHsHoGkvU1jGlykoaD"
+    },
+    {
+      "album": {
         "name": "Mera Safar",
         "url": "https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q"
       },
@@ -17245,6 +17303,28 @@
     },
     {
       "album": {
+        "name": "Pyaar Mera (SAWAL Edition)",
+        "url": "https://open.spotify.com/album/1WKLYs4tiofjkay7of2UNx"
+      },
+      "artists": [
+        {
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        },
+        {
+          "name": "Ises",
+          "url": "https://open.spotify.com/artist/7AJZUJGavrMJCJtXcf5ChC"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Pyaar Mera (SAWAL Edition)",
+      "url": "https://open.spotify.com/track/2OznGIyJVqZZmJMNBG55Al"
+    },
+    {
+      "album": {
         "name": "Pyar Karte Hai",
         "url": "https://open.spotify.com/album/684I8GXuNmlBgtZXg2m5XB"
       },
@@ -19382,7 +19462,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 440727,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/6ltwTdMxuFvPLPYMOTFqLN"
@@ -23882,7 +23962,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 170538,
       "name": "Where's Home?",
       "url": "https://open.spotify.com/track/0ayZg3qylmhoPD0liXT7dd"

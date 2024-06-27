@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,035 likes - 217 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,036 likes - 217 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 67 | [Take It To The Top \(Becky G & Ayra Starr\)](https://open.spotify.com/track/4mKUfMSg0geJFVscFdaMcQ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION\)](https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx) | 2:05 |
 | 68 | [Don't Judge Me](https://open.spotify.com/track/6UQDIIEPzeduwXlZE86SOF) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 6:00 |
 | 69 | [Pipe \(feat\. XNDA\)](https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [XNDA](https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:05 |
-| 70 | [The Kids Are Alright](https://open.spotify.com/track/4VLViQtnHrWrDdDoigG3dR) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [The Kids Are Alright](https://open.spotify.com/album/26mqgId4rrypPiYnN9tXuX) | 2:48 |
-| 71 | [Nassau](https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:36 |
+| 70 | [Nassau](https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:36 |
+| 71 | [The Kids Are Alright](https://open.spotify.com/track/4VLViQtnHrWrDdDoigG3dR) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [The Kids Are Alright](https://open.spotify.com/album/26mqgId4rrypPiYnN9tXuX) | 2:48 |
 | 72 | [Like I Do \(feat\. GoldLink\)](https://open.spotify.com/track/7hYUoA7Z4mtlDwXyq3s1Gz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:49 |
 | 73 | [FUBT](https://open.spotify.com/track/5bICTMzCf1ijteGtbcubni) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt III \(Expanded Edition\)](https://open.spotify.com/album/79thwyFL6Uo6rgTp3YWEAf) | 3:13 |
 | 74 | [Love Me Down](https://open.spotify.com/track/40EqrQIeP09f2Z1Xnghki5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 2:45 |
@@ -175,8 +175,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 165 | [Happy Birthday \- Interlude](https://open.spotify.com/track/39l9l2cOqzZ9i8apGeRXA3) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 0:51 |
 | 166 | [Last Words](https://open.spotify.com/track/5jl4mrAV1rEm384440ZAib) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:47 |
 | 167 | [Stare](https://open.spotify.com/track/7bvumLayTpnyN2fimH5xig) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:18 |
-| 168 | [Tomboys Have Feelings Too \- Interlude](https://open.spotify.com/track/6qu3x4okjnBqHYZpmEWGuR) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 1:24 |
-| 169 | [For What It's Worth](https://open.spotify.com/track/11TSZcCco9oHmpTv3TRS9M) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [For What It's Worth](https://open.spotify.com/album/7xbIDc3R7zS0yrOOKRSLAX) | 2:31 |
+| 168 | [For What It's Worth](https://open.spotify.com/track/11TSZcCco9oHmpTv3TRS9M) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [For What It's Worth](https://open.spotify.com/album/7xbIDc3R7zS0yrOOKRSLAX) | 2:31 |
+| 169 | [Tomboys Have Feelings Too \- Interlude](https://open.spotify.com/track/6qu3x4okjnBqHYZpmEWGuR) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 1:24 |
 | 170 | [Justified \(feat\. Tank and The Bangas\)](https://open.spotify.com/track/7q1wxV2QkDLBzFF0ULN0fh) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 3:24 |
 | 171 | [Loneliness](https://open.spotify.com/track/36C8pBTFMofLEikkkQWRd0) | [Karise Eden](https://open.spotify.com/artist/0dJwWgFktKXVoomwZGmUV8) | [Things I've Done](https://open.spotify.com/album/4WNiIAQqHRgCeLhulhId0r) | 3:50 |
 | 172 | [Two Left Feet](https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 2:30 |
@@ -186,8 +186,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 176 | [Something In My Eye](https://open.spotify.com/track/2DW8K92zcLza0lsTlBg7Ld) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Something In My Eye](https://open.spotify.com/album/4b19y9VplmgR8kOXFpH3B1) | 2:44 |
 | 177 | [Bricks](https://open.spotify.com/track/7C8D8SOJ2jHrC15aB1yZ67) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:54 |
 | 178 | [Rich](https://open.spotify.com/track/2Gh6kOnozibGZC0iTEWMiE) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Rich](https://open.spotify.com/album/7EpkVV9OWoywiqkeMcHXaw) | 2:57 |
-| 179 | [Selective Memories](https://open.spotify.com/track/3BfbxwE0DTP8QDdjX0mr7C) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 3:43 |
-| 180 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
+| 179 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
+| 180 | [Selective Memories](https://open.spotify.com/track/3BfbxwE0DTP8QDdjX0mr7C) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 3:43 |
 | 181 | [Nonchalant](https://open.spotify.com/track/1bFkegc1VrmfYl26qeTWAl) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 1:27 |
 | 182 | [Come Down](https://open.spotify.com/track/7scJjopLxCX8tNMUW5R0y9) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 2:23 |
 | 183 | [Fall Tonight](https://open.spotify.com/track/3lOw4G8OgayvKkj5kea7CN) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Fall Tonight](https://open.spotify.com/album/2K1HtU9ddlCjChISLhPNLv) | 3:08 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 216 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 | 217 | [SummerTime](https://open.spotify.com/track/364fkWjCvOvHzCUBTHvU3I) | [KE](https://open.spotify.com/artist/1OQbZJyFhZMWGINxNBCUzB), [LAGITT](https://open.spotify.com/artist/1OhNC7ULDsgId5WEKsNsMY) | [SummerTime](https://open.spotify.com/album/0KgWqv4TZlwGCk3M7E6E7j) | 3:40 |
 
-Snapshot ID: `AbVCPgAAAAA9bN8c9O5k/lD75YMvClQ+`
+Snapshot ID: `AbVH5AAAAACznI4sxW+xit4dAraHLOoB`

@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Rema and Shallipopi",
-  "num_followers": 57522,
+  "num_followers": 57627,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Giddem",
+        "url": "https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Giddem",
+      "url": "https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "Shutdown",
         "url": "https://open.spotify.com/album/5KfqTov6TpsIfY0wRrBNbC"
       },
@@ -523,30 +539,6 @@
       "duration_ms": 179272,
       "name": "Shutdown",
       "url": "https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "R2 Sept 12",
-        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4Su2KjN1mxdB5JpT5aAtQw"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 184941,
-      "name": "Oghene",
-      "url": "https://open.spotify.com/track/1TGNfm1HCICFHIKM1DMmuL"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -571,18 +563,26 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "10 Bottles",
-        "url": "https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh"
+        "name": "R2 Sept 12",
+        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
       },
       "artists": [
         {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
           "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "url": "https://open.spotify.com/artist/4Su2KjN1mxdB5JpT5aAtQw"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 178936,
-      "name": "10 Bottles",
-      "url": "https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p"
+      "duration_ms": 184941,
+      "name": "Oghene",
+      "url": "https://open.spotify.com/track/1TGNfm1HCICFHIKM1DMmuL"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Giddem",
-        "url": "https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH"
+        "name": "10 Bottles",
+        "url": "https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh"
       },
       "artists": [
         {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Giddem",
-      "url": "https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN"
+      "duration_ms": 178936,
+      "name": "10 Bottles",
+      "url": "https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -671,22 +671,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "R2 Sept 12",
-        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
+        "name": "HBP",
+        "url": "https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
         }
       ],
-      "duration_ms": 162336,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
+      "duration_ms": 167471,
+      "name": "HBP",
+      "url": "https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -707,42 +703,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "HBP",
-        "url": "https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 167471,
-      "name": "HBP",
-      "url": "https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Let There Be Light",
-        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Let There Be Light",
-      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -755,6 +715,26 @@
       "duration_ms": 145910,
       "name": "La Pio Pio",
       "url": "https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "R2 Sept 12",
+        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 162336,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -791,22 +771,42 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+        "name": "HBP Remix",
+        "url": "https://open.spotify.com/album/22swHHoDtodIc5kImIImlt"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
         },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 176526,
+      "name": "HBP Remix",
+      "url": "https://open.spotify.com/track/5oxaJpMQCijHqwTduLq6Fr"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Let There Be Light",
+        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
+      },
+      "artists": [
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 134482,
-      "name": "50 Billion (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
+      "duration_ms": 169822,
+      "name": "Let There Be Light",
+      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -823,6 +823,26 @@
       "duration_ms": 161462,
       "name": "Puff & Pass",
       "url": "https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "50 Billion (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -883,26 +903,6 @@
       "duration_ms": 153174,
       "name": "Account Balance",
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "HBP Remix",
-        "url": "https://open.spotify.com/album/22swHHoDtodIc5kImIImlt"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 176526,
-      "name": "HBP Remix",
-      "url": "https://open.spotify.com/track/5oxaJpMQCijHqwTduLq6Fr"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Trabaye",
+        "url": "https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Trabaye",
+      "url": "https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "AMERICA",
         "url": "https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95"
       },
@@ -1003,46 +1023,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "How Low (Remix)",
-        "url": "https://open.spotify.com/album/5AjYtPDHP2PVgoS8urjLkW"
-      },
-      "artists": [
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "How Low (Remix)",
-      "url": "https://open.spotify.com/track/2gJTSnswyu6WlFwFKO3qw2"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Trabaye",
-        "url": "https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Trabaye",
-      "url": "https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 174358,
       "name": "Alright",
       "url": "https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "How Low (Remix)",
+        "url": "https://open.spotify.com/album/5AjYtPDHP2PVgoS8urjLkW"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "How Low (Remix)",
+      "url": "https://open.spotify.com/track/2gJTSnswyu6WlFwFKO3qw2"
     },
     {
       "added_at": "2024-06-21 00:01:00",

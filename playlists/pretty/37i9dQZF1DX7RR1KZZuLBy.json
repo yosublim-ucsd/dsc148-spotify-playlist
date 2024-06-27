@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 49083,
+  "num_followers": 49123,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -655,18 +655,26 @@
     {
       "added_at": "2024-05-31 23:59:00",
       "album": {
-        "name": "Give It Time",
-        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
+        "name": "Take It All Back",
+        "url": "https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt"
       },
       "artists": [
         {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        },
+        {
+          "name": "Davies.",
+          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
         }
       ],
-      "duration_ms": 217426,
-      "name": "He Sees You",
-      "url": "https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1"
+      "duration_ms": 193501,
+      "name": "Take It All Back",
+      "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
     },
     {
       "added_at": "2024-05-31 23:59:00",
@@ -689,20 +697,20 @@
       "url": "https://open.spotify.com/track/5doYljP28aXEnQryAPrcka"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2024-05-31 23:59:00",
       "album": {
-        "name": "Get Ready",
-        "url": "https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6"
+        "name": "Give It Time",
+        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
       },
       "artists": [
         {
-          "name": "Forever Jones",
-          "url": "https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q"
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
         }
       ],
-      "duration_ms": 207800,
-      "name": "He Wants It All",
-      "url": "https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS"
+      "duration_ms": 217426,
+      "name": "He Sees You",
+      "url": "https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -749,28 +757,20 @@
       "url": "https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl"
     },
     {
-      "added_at": "2024-05-31 23:59:00",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Take It All Back",
-        "url": "https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt"
+        "name": "Get Ready",
+        "url": "https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        },
-        {
-          "name": "Davies.",
-          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
+          "name": "Forever Jones",
+          "url": "https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q"
         }
       ],
-      "duration_ms": 193501,
-      "name": "Take It All Back",
-      "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
+      "duration_ms": 207800,
+      "name": "He Wants It All",
+      "url": "https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS"
     },
     {
       "added_at": "2024-05-31 23:59:00",

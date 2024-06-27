@@ -1,12 +1,12 @@
 {
   "description": "This Is Lunay. Los temas esenciales, todos en una lista.",
-  "num_followers": 66806,
+  "num_followers": 66819,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAACAm4XmwEVvJ269D9ecrvjI",
+  "snapshot_id": "ZnoIgAAAAABQAAXxPiJT4bHOGpmJ07Yn",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mezcalito en copa",
+        "url": "https://open.spotify.com/album/2skejlYNbtowtMpPbWibmE"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "Mezcalito en copa",
+      "url": "https://open.spotify.com/track/3r4K0mYTigmkODUqkU9MGN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ll\u00e9gale",
         "url": "https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 217733,
       "name": "Prendemos",
       "url": "https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mezcalito en copa",
-        "url": "https://open.spotify.com/album/2skejlYNbtowtMpPbWibmE"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "Mezcalito en copa",
-      "url": "https://open.spotify.com/track/3r4K0mYTigmkODUqkU9MGN"
     },
     {
       "added_at": null,

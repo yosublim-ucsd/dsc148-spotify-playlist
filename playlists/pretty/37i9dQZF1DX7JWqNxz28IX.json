@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 45921,
+  "num_followers": 45936,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
+        "name": "Suffer On",
+        "url": "https://open.spotify.com/album/2xFuWOCqvKkABqxIQReMGX"
+      },
+      "artists": [
+        {
+          "name": "Wicca Phase Springs Eternal",
+          "url": "https://open.spotify.com/artist/70AkqfU43ou9hFxJZTDt7A"
+        }
+      ],
+      "duration_ms": 130692,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/5wz9se6PQr0raxQtmsdBQm"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
         "name": "Io Sono",
         "url": "https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 163404,
       "name": "Paranoie",
       "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
-        "name": "Suffer On",
-        "url": "https://open.spotify.com/album/2xFuWOCqvKkABqxIQReMGX"
-      },
-      "artists": [
-        {
-          "name": "Wicca Phase Springs Eternal",
-          "url": "https://open.spotify.com/artist/70AkqfU43ou9hFxJZTDt7A"
-        }
-      ],
-      "duration_ms": 130692,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/5wz9se6PQr0raxQtmsdBQm"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
-        "name": "Per starci in due",
-        "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Per starci in due",
-      "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
         "name": "Mancati",
         "url": "https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 112000,
       "name": "Mancati",
       "url": "https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
+        "name": "Per starci in due",
+        "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Per starci in due",
+      "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
-        "name": "cloud love",
-        "url": "https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk"
-      },
-      "artists": [
-        {
-          "name": "Anzj",
-          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
-        }
-      ],
-      "duration_ms": 89832,
-      "name": "sto bene, a volte",
-      "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
         "name": "REBEL (Deluxe)",
         "url": "https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 220485,
       "name": "Horror - Acoustic",
       "url": "https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
+        "name": "cloud love",
+        "url": "https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk"
+      },
+      "artists": [
+        {
+          "name": "Anzj",
+          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
+        }
+      ],
+      "duration_ms": 89832,
+      "name": "sto bene, a volte",
+      "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
-        "name": "Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
-      },
-      "artists": [
-        {
-          "name": "\u00cbgo",
-          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Hasta la Muerte",
-      "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
         "name": "Due anni fa",
         "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 160247,
       "name": "Due anni fa",
       "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
+        "name": "Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Hasta la Muerte",
+      "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
     },
     {
       "added_at": "2024-06-13 09:21:35",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-06-13 09:21:35",
       "album": {
-        "name": "Semiminime",
-        "url": "https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ"
-      },
-      "artists": [
-        {
-          "name": "Rondine",
-          "url": "https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l"
-        }
-      ],
-      "duration_ms": 129854,
-      "name": "Semiminime",
-      "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
-    },
-    {
-      "added_at": "2024-06-13 09:21:35",
-      "album": {
         "name": "Cose stupide",
         "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 172216,
       "name": "Empatia",
       "url": "https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC"
+    },
+    {
+      "added_at": "2024-06-13 09:21:35",
+      "album": {
+        "name": "Semiminime",
+        "url": "https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ"
+      },
+      "artists": [
+        {
+          "name": "Rondine",
+          "url": "https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l"
+        }
+      ],
+      "duration_ms": 129854,
+      "name": "Semiminime",
+      "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
     },
     {
       "added_at": "2024-06-13 09:21:35",

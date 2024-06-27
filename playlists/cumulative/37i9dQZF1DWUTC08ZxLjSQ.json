@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Dania. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Sofco. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "3YUN",
+        "url": "https://open.spotify.com/album/4ooVsSAZab7GwCi98j6w3j"
+      },
+      "artists": [
+        {
+          "name": "KairoKid",
+          "url": "https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172496,
+      "name": "3YUN",
+      "url": "https://open.spotify.com/track/3ccOgc5CTi7ojPMFEhjj4i"
+    },
+    {
+      "album": {
         "name": "7doude",
         "url": "https://open.spotify.com/album/2qJw5ynTpaVIFfICGu1fId"
       },
@@ -164,6 +182,24 @@
       "duration_ms": 272000,
       "name": "Afkar Galbi",
       "url": "https://open.spotify.com/track/17oyrFSekVUCCx4YoFhsGR"
+    },
+    {
+      "album": {
+        "name": "AGSAM",
+        "url": "https://open.spotify.com/album/6B0v3abTkAyYX3cqmRQhVg"
+      },
+      "artists": [
+        {
+          "name": "ZAF",
+          "url": "https://open.spotify.com/artist/0HuChNNYu7zlI19O9ncr6f"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78987,
+      "name": "AGSAM",
+      "url": "https://open.spotify.com/track/3Owy1fbFK6Ym1UY9Barq1G"
     },
     {
       "album": {
@@ -596,7 +632,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 205557,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5SReQqpPuEhowJod8RdpG1"
@@ -950,7 +986,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 132346,
       "name": "DAMEER!",
       "url": "https://open.spotify.com/track/5FP2wHFoWlA80LNTFNEdRU"
@@ -968,7 +1004,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 191666,
       "name": "Dayman Faker",
       "url": "https://open.spotify.com/track/3xVm2gJc4IiA9JZ48VWNyp"
@@ -1216,6 +1252,24 @@
       "duration_ms": 132900,
       "name": "Es7a | \u0627\u0635\u062d\u0627",
       "url": "https://open.spotify.com/track/01AgIf1EsewkMbYVB3HcZX"
+    },
+    {
+      "album": {
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx"
+      },
+      "artists": [
+        {
+          "name": "Jana Diab",
+          "url": "https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139003,
+      "name": "Escape Plan",
+      "url": "https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz"
     },
     {
       "album": {
@@ -1568,6 +1622,42 @@
       "duration_ms": 226909,
       "name": "Grounding Place",
       "url": "https://open.spotify.com/track/5k42ev7lFesuG1UAlrKT3l"
+    },
+    {
+      "album": {
+        "name": "Hacienda Freestyle",
+        "url": "https://open.spotify.com/album/3lpoJy2tpRppUQKmLk6nX2"
+      },
+      "artists": [
+        {
+          "name": "Batawi",
+          "url": "https://open.spotify.com/artist/5cIaZnrOBI0QNakgSCXIJe"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176379,
+      "name": "Hacienda Freestyle",
+      "url": "https://open.spotify.com/track/5K80Yyzo9qWJrZdstbStsl"
+    },
+    {
+      "album": {
+        "name": "Haja Bayna",
+        "url": "https://open.spotify.com/album/4jKOlX5vh1IUoUUuhzpkeW"
+      },
+      "artists": [
+        {
+          "name": "JAMRAH \u062c\u064e\u0645\u0652\u0631\u064e\u0647\u0652",
+          "url": "https://open.spotify.com/artist/0xyOmQLLbfLXZ47KdwjDa4"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Haja Bayna",
+      "url": "https://open.spotify.com/track/1SNI55SL4aOtiDqY8MgF97"
     },
     {
       "album": {
@@ -2237,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "KAWASAKI",
+        "url": "https://open.spotify.com/album/1Brwn0jmwoJbjMS16Cmf0V"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180355,
+      "name": "KAWASAKI",
+      "url": "https://open.spotify.com/track/38V0XqPtlaEq0G0wxM5mdI"
+    },
+    {
+      "album": {
         "name": "Khayal",
         "url": "https://open.spotify.com/album/1oQtEMocdtaP1GBH7eVZbO"
       },
@@ -2381,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "Lafena",
+        "url": "https://open.spotify.com/album/7vJjPvXyxOV7hRb9e3hhhW"
+      },
+      "artists": [
+        {
+          "name": "Shargeeya",
+          "url": "https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Lafena",
+      "url": "https://open.spotify.com/track/2nn8d3beF6cbZUOgwFo874"
+    },
+    {
+      "album": {
         "name": "Last Time That I Saw You",
         "url": "https://open.spotify.com/album/58RWGR3hxvhVELh5hOpFrn"
       },
@@ -2410,7 +2536,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 230493,
       "name": "Law Tes'aleeny",
       "url": "https://open.spotify.com/track/5ug0O0aWp6ZTNPLwKno7MX"
@@ -2450,6 +2576,28 @@
       "duration_ms": 234775,
       "name": "Leh Ya Hana ?",
       "url": "https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx"
+    },
+    {
+      "album": {
+        "name": "Lessa",
+        "url": "https://open.spotify.com/album/0FFeto2yLQt9z31E8VfjFp"
+      },
+      "artists": [
+        {
+          "name": "Malayka",
+          "url": "https://open.spotify.com/artist/4DJk09zggqa3otcA3gtPNM"
+        },
+        {
+          "name": "Hudz",
+          "url": "https://open.spotify.com/artist/1ffKtN3dRJOQKTUm1pkDGM"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "Lessa",
+      "url": "https://open.spotify.com/track/2IS9PaCWrPwqx6VuaqQTTA"
     },
     {
       "album": {
@@ -2774,7 +2922,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 201535,
       "name": "Malet",
       "url": "https://open.spotify.com/track/1byU3My7AALXDnwSHM2ZRQ"
@@ -2984,6 +3132,24 @@
       "duration_ms": 152000,
       "name": "Mister Mister",
       "url": "https://open.spotify.com/track/6xNpNuWJfdDtcFCzjJfruu"
+    },
+    {
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/2sEbYwgynqVfqCXuMgLZIj"
+      },
+      "artists": [
+        {
+          "name": "Sofco",
+          "url": "https://open.spotify.com/artist/3E9ui9b6vhr7yVLpcw0tK0"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/0B8DuVlgb2GRcOZYe4TaPX"
     },
     {
       "album": {
@@ -3453,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Reign&Fire",
+        "url": "https://open.spotify.com/album/2HJq0rv6Gnd65WxVAwVRjf"
+      },
+      "artists": [
+        {
+          "name": "Jindi",
+          "url": "https://open.spotify.com/artist/4GWb4m8ZhkRkaJvpFD9agr"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "Omo Logo",
+      "url": "https://open.spotify.com/track/5vz1hcpjZK3btdy3gv5P0c"
+    },
+    {
+      "album": {
         "name": "On Sight",
         "url": "https://open.spotify.com/album/4LxPwuFcp3IOfBnYWKj368"
       },
@@ -3597,6 +3781,24 @@
     },
     {
       "album": {
+        "name": "over my dead body",
+        "url": "https://open.spotify.com/album/46wQxwOwgs6RWQ7WKdTjPi"
+      },
+      "artists": [
+        {
+          "name": "Moelex",
+          "url": "https://open.spotify.com/artist/6vXFJ4s8h7xHmbLKMBUJU8"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206444,
+      "name": "over my dead body",
+      "url": "https://open.spotify.com/track/3smNeqQT9Q5rjXPNqiYRAZ"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/2N2HH3ZQGDbWE4evh5K9Dv"
       },
@@ -3728,7 +3930,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 135210,
       "name": "push back (feat. GrzzLee)",
       "url": "https://open.spotify.com/track/0x1Z1binRRDnQKL6ALG4x2"
@@ -3968,7 +4170,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 169541,
       "name": "Sana",
       "url": "https://open.spotify.com/track/3tGvGTzLKSj4gritfFAYYh"
@@ -4080,7 +4282,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 130075,
       "name": "SESSION 739 (25%)",
       "url": "https://open.spotify.com/track/7I5N0Zqq2or3Am9tPn5tt8"
@@ -4102,6 +4304,24 @@
       "duration_ms": 231545,
       "name": "Seventeenth",
       "url": "https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM"
+    },
+    {
+      "album": {
+        "name": "Shams",
+        "url": "https://open.spotify.com/album/6ZUBxaMA0lBhepxO0tERaJ"
+      },
+      "artists": [
+        {
+          "name": "Nour Harkati",
+          "url": "https://open.spotify.com/artist/0LFvN0ZSf92CMb00teZdYJ"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "Shams",
+      "url": "https://open.spotify.com/track/2cxPQqNhII3kta4S1Wq0ga"
     },
     {
       "album": {
@@ -4168,6 +4388,24 @@
       "duration_ms": 121846,
       "name": "Snakes",
       "url": "https://open.spotify.com/track/4oWV6PKAHJNoX2klvLHNW6"
+    },
+    {
+      "album": {
+        "name": "Solitaire",
+        "url": "https://open.spotify.com/album/5YiSks0QIvQBTmCZoviwN8"
+      },
+      "artists": [
+        {
+          "name": "DJIZA",
+          "url": "https://open.spotify.com/artist/21wg9OKxtB2sZVuhBaEwCk"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196056,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/1KSgJRyubU6AkmV2CoZlyq"
     },
     {
       "album": {
@@ -4444,7 +4682,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 152195,
       "name": "Talin - Acoustic Version",
       "url": "https://open.spotify.com/track/0vdUf2a33S0jgvwMwh6Odp"
@@ -4466,6 +4704,24 @@
       "duration_ms": 150857,
       "name": "Taqa",
       "url": "https://open.spotify.com/track/6m6vWsgO06r0MvxIbs1rhN"
+    },
+    {
+      "album": {
+        "name": "Tekram",
+        "url": "https://open.spotify.com/album/4Kcu6Yv1DjQfv0b35PvIaP"
+      },
+      "artists": [
+        {
+          "name": "Aziza",
+          "url": "https://open.spotify.com/artist/5Rfskh0eC4Ui4xPIEisqwz"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "Tekram",
+      "url": "https://open.spotify.com/track/1wtMuXGeiJwZPaN1Av2txT"
     },
     {
       "album": {
@@ -4932,7 +5188,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 210778,
       "name": "Whipsnake",
       "url": "https://open.spotify.com/track/2pXn0mwxI2lOBVphfmvZuB"
@@ -5138,7 +5394,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 256185,
       "name": "Zero",
       "url": "https://open.spotify.com/track/7xYfaaut5INqsSL0gWdvq2"
@@ -5163,6 +5419,24 @@
     },
     {
       "album": {
+        "name": "\u00e7a ira mieux",
+        "url": "https://open.spotify.com/album/3xKmJfhleJoPmardRq4bWq"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124843,
+      "name": "\u00e7a ira mieux",
+      "url": "https://open.spotify.com/track/0S6Aanrei1yPQ2cOadDg9E"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
         "url": "https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE"
       },
@@ -5174,7 +5448,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 126101,
       "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
       "url": "https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb"

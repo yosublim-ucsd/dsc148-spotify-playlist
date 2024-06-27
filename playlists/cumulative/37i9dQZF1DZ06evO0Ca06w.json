@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "The Unforgettable Miriam Makeba (Remastered 2024)",
+        "url": "https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152321,
+      "name": "Amampondo - Remastered 2024",
+      "url": "https://open.spotify.com/track/5zBYCKv8VsEEjN1NRr2Yxf"
+    },
+    {
+      "album": {
         "name": "Sangoma",
         "url": "https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI"
       },
@@ -863,6 +881,24 @@
     },
     {
       "album": {
+        "name": "The Unforgettable Miriam Makeba (Remastered 2024)",
+        "url": "https://open.spotify.com/album/28whMtpMbbEI2M1DqojLDo"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154097,
+      "name": "Holilili - Remastered 2024",
+      "url": "https://open.spotify.com/track/2JPc66jkgYF11UYvHj3eUV"
+    },
+    {
+      "album": {
         "name": "Miriam Makeba",
         "url": "https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n"
       },
@@ -1022,7 +1058,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 144187,
       "name": "Inkomo Zodwa",
       "url": "https://open.spotify.com/track/5MzPPSDVXUqZQh2LbIi53E"
@@ -2058,7 +2094,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 268866,
       "name": "Ndiarabi",
       "url": "https://open.spotify.com/track/1rcWedOQYluzxH8xr8vQ0U"

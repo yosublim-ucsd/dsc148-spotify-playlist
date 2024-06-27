@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng Hà Trần tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,755 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,757 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 17 | [cô ấy của anh ấy](https://open.spotify.com/track/3Sx63dtDf3m5barUfoPjRJ) | [Bảo Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J), [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr) | [không biết nên vui hay buồn](https://open.spotify.com/album/6dGz0gicZR4i1bzBWY4D42) | 4:34 |
 | 18 | [đen đá không đường](https://open.spotify.com/track/3clfEGdaeSmWM6pDekmZ2G) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:00 |
 | 19 | [Anh Chưa Thương Em Đến Vậy Đâu](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tập 12: The Masked Singer Vietnam](https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA) | 4:30 |
-| 20 | [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/track/5SzRpDS2jfB3Zl6uQL5HCQ) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/album/0PEvJe4NJCGRkOZkIPTeQX) | 4:27 |
+| 20 | [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/track/5SzRpDS2jfB3Zl6uQL5HCQ) | [SUNI Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/album/0PEvJe4NJCGRkOZkIPTeQX) | 4:27 |
 | 21 | [Đại Minh Tinh](https://open.spotify.com/track/48D6GbuJqsGLTkNm6QvYwl) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Minh Tinh](https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76) | 4:07 |
 | 22 | [Gặp lại năm ta 60](https://open.spotify.com/track/3Vo5KWON7ii5Cs6gAivUWH) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Gặp lại năm ta 60](https://open.spotify.com/album/0tK8HJvbXi0demMO93mlIY) | 5:33 |
 | 23 | [Em Đây Chẳng Phải Thúy Kiều](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 31 | [trời giấu trời mang đi](https://open.spotify.com/track/1ecVks3GJX8U67DvhVDVBn) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 4:13 |
 | 32 | [Anh \- Uyên Linh Version](https://open.spotify.com/track/2YF6BpVt9vvmrCSdYYLGpq) | [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Anh](https://open.spotify.com/album/4tHoCOKrPBg3QZwQeDaywT) | 3:02 |
 | 33 | [Một Ngày Chẳng Nắng](https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Một Ngày Chẳng Nắng](https://open.spotify.com/album/5KOH4cewrrp8flJpIAmeoX) | 3:12 |
-| 34 | [Cảm Nắng](https://open.spotify.com/track/4LDhkOharOhue7nZMFYmCu) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Rtee](https://open.spotify.com/artist/73AUXZbgPiHjPbv66nGVq7) | [Cảm Nắng](https://open.spotify.com/album/5x9Vf9SS1Rm6Mv59hp1IFl) | 3:48 |
+| 34 | [Cảm Nắng](https://open.spotify.com/track/4LDhkOharOhue7nZMFYmCu) | [SUNI Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Rtee](https://open.spotify.com/artist/73AUXZbgPiHjPbv66nGVq7) | [Cảm Nắng](https://open.spotify.com/album/5x9Vf9SS1Rm6Mv59hp1IFl) | 3:48 |
 | 35 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
 | 36 | [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ) | 4:04 |
 | 37 | [nếu lúc đó](https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 4:23 |

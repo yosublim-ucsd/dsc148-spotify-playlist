@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/329744?utm_source=spotify.com&utm_medium=referral\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af! ",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/329934?utm_source=spotify.com&utm_medium=referral\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af! ",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -1082,6 +1082,24 @@
       "duration_ms": 1781249,
       "name": "2024/05/29 \u690e\u540d\u6797\u6a8e\u304c\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3001Perfume\u306e\u3063\u3061\u3068\u30b3\u30e9\u30dc\uff01\u7c73\u6d25\u7384\u5e2b\u3001\u30e8\u30eb\u30b7\u30ab\u3001Tele\u306e\u65b0\u66f2\u3084\u3001\u30b9\u30ad\u30de\u30b9\u30a4\u30c3\u30c1\u306e\u30c8\u30ea\u30d3\u30e5\u30fc\u30c8\u30a2\u30eb\u30d0\u30e0\u3001\u30de\u30ab\u30ed\u30cb\u3048\u3093\u3074\u3064\u306eEP\u3082\uff01Nulbarich\u3001Sunny\u3001UMI\u304c\u30b3\u30e9\u30dc\u3057\u305f\u65b0\u4f5c\u3001\u9234\u6728\u771f\u6d77\u5b50\u306e\u65b0\u66f2\u3001swetty\u306eEP\u3001Michael Kaneko\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01",
       "url": "https://open.spotify.com/episode/3o0y05yH5qpOE1Us9iDdai"
+    },
+    {
+      "album": {
+        "name": "New Music Wednesday [Music+Talk Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Music+Talk Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1917178,
+      "name": "2024/06/26 \u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba\u304c\u30ab\u30d0\u30fc\uff01Ovall\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3001NewJeans\u306e\u65e5\u672c\u30c7\u30d3\u30e5\u30fc\u30b7\u30f3\u30b0\u30eb\u3082\u30ea\u30ea\u30fc\u30b9\u306b\u3002Cornelius\u3001\u9234\u6728\u771f\u6d77\u5b50\u3001\u6298\u5742\u60a0\u592a\u3068\u3044\u3063\u305f\u7d20\u6674\u3089\u3057\u3044\u30a2\u30eb\u30d0\u30e0\u4f5c\u54c1\u3082\u591a\u6570\u5230\u7740\uff01Early Noise\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u97f3\u7530\u96c5\u5247\u3084JUMADIBA\u306e\u65b0\u66f2\u3001MAISONdes\u3068\u4e43\u7d2b&\u304b\u3084\u3086\u30fc\u306e\u30b3\u30e9\u30dc\u65b0\u66f2\u3001\u6d77\u5916\u304b\u3089\u306f\u30b3\u30fc\u30eb\u30c9\u30d7\u30ec\u30a4\u306e\u65b0\u66f2\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01",
+      "url": "https://open.spotify.com/episode/4eFjL3os0UG1yqCqeGexXE"
     },
     {
       "album": {
@@ -47604,10 +47622,6 @@
           "url": "https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk"
         },
         {
-          "name": "SKY-HI",
-          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
-        },
-        {
           "name": "Novel Core",
           "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
         },
@@ -47622,6 +47636,10 @@
         {
           "name": "REIKO",
           "url": "https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96"
+        },
+        {
+          "name": "SKY-HI",
+          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
         },
         {
           "name": "MONJOE",
@@ -64970,6 +64988,24 @@
       "duration_ms": 224566,
       "name": "sasen",
       "url": "https://open.spotify.com/track/7xy7oiS6rUvZdiqyH451Wd"
+    },
+    {
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/12crE710s5Iy0ebsr3qDfc"
+      },
+      "artists": [
+        {
+          "name": "Gyubin",
+          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5nEuBeII9tTOpEs4zCQJrY"
     },
     {
       "album": {

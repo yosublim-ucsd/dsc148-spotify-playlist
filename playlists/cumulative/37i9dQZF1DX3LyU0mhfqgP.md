@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Villano Antillano
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Karin Ann
 
-1,232 songs - 2 day 18 hr 30 min
+1,233 songs - 2 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -889,6 +889,7 @@
 | [Real Love](https://open.spotify.com/track/5aaY8s8X72TDkuNutmWqgl) | [Kimmese](https://open.spotify.com/artist/4w5vfLTFKwpd16ZzmYwcXA), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [Real Love](https://open.spotify.com/album/36MMfOa4HDNwQcBqgmMJdk) | 3:40 | 2023-03-07 | 2023-05-10 |
 | [Real Love](https://open.spotify.com/track/6qjISOkB9F6X6FgsvdI2fR) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Real Love](https://open.spotify.com/album/3NWJXg0aK1Wo2EPhv46IRP) | 3:18 | 2022-06-17 | 2022-07-23 |
 | [Really, Really](https://open.spotify.com/track/4Kg7wuHmbjZ3o6LeUJH8P4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Really, Really](https://open.spotify.com/album/0qbnY0chu7T0QUgnEuei3Y) | 2:26 | 2021-12-24 | 2022-01-23 |
+| [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88) | 3:52 | 2024-06-26 |  |
 | [Reasons I Loved You \(I Can't Think Of One\)](https://open.spotify.com/track/1TnmUvzVMHdZVaIdVeKHMb) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Reasons I Loved You \(I Can't Think Of One\)](https://open.spotify.com/album/1c5ujLAhVtSxZWFy9EAhFq) | 3:01 | 2024-02-13 | 2024-03-13 |
 | [Rebel Revolution](https://open.spotify.com/track/1dIFTswy9iCiF2gVVvmwNV) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Rebel Revolution](https://open.spotify.com/album/4OpD2M4bZ8BMgOkWl7OfxO) | 3:08 | 2022-05-27 | 2022-07-29 |
 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 | 2023-11-14 | 2023-11-30 |
@@ -1128,7 +1129,7 @@
 | [Underdogs](https://open.spotify.com/track/4MALiTKHAOFmOqXe16bt8K) | [Cherryade](https://open.spotify.com/artist/2Z4zth26FtZ4lK2Yu9nBgV) | [Underdogs](https://open.spotify.com/album/10UUUzUXqMPXyoKeVPrALd) | 3:36 | 2022-04-29 | 2022-07-18 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-11-30 | 2024-01-11 |
 | [Universo](https://open.spotify.com/track/3jEB4jnVr3ExApgjlPI21c) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Universo](https://open.spotify.com/album/3cW83FmkNbfV2vUBF0teDH) | 3:15 | 2023-09-12 | 2023-10-11 |
-| [unruly](https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [unruly](https://open.spotify.com/album/30qNUbkHpnFRNd8x8sYWNT) | 2:24 | 2024-06-12 |  |
+| [unruly](https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [unruly](https://open.spotify.com/album/30qNUbkHpnFRNd8x8sYWNT) | 2:24 | 2024-06-12 | 2024-06-27 |
 | [Untidy Creature](https://open.spotify.com/track/5iFAQbY63p9Wbpc8XGU84a) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Untidy Creature](https://open.spotify.com/album/7iB1U6TK6DtjX7Jt69SEPB) | 3:28 | 2024-01-10 | 2024-03-13 |
 | [Vacation Bae](https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:34 | 2024-03-12 | 2024-05-07 |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-08-08 | 2023-09-26 |

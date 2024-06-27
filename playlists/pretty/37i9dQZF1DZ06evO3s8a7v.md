@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 ### [This Is MYA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s8a7v)
 
-> This is MYA\. The essential tracks, all in one playlist.
+> This Is MYA\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,527 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,554 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 38 | [Ta Pa Estar](https://open.spotify.com/track/2kS92A6GBEsI1KOfY0x9p5) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:30 |
 | 39 | [Universo Paralelo \(Vivo en Buenos Aires\) \(feat\. Nahuel Pennisi\)](https://open.spotify.com/track/3MwjYriKWx26vP1upGreeJ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Corazón Guerrero / Universo Paralelo \(Vivo en Buenos Aires\)](https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559) | 4:32 |
 | 40 | [TAZA TAZA](https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [TAZA TAZA](https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS) | 2:38 |
-| 41 | [Te Vas](https://open.spotify.com/track/1diR6HzZqvxxeXjgMfoY1c) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:11 |
+| 41 | [Suelta, Sola y Tranquila \(feat\. MYA\)](https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila \(feat\. MYA\)](https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM) | 2:29 |
 | 42 | [Tú](https://open.spotify.com/track/02p12P5arat2ijVU7XcSYk) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:43 |
-| 43 | [Suelta, Sola y Tranquila \(feat\. MYA\)](https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila \(feat\. MYA\)](https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM) | 2:29 |
+| 43 | [Te Vas](https://open.spotify.com/track/1diR6HzZqvxxeXjgMfoY1c) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:11 |
 | 44 | [A Escondidas](https://open.spotify.com/track/0Myz4UuooJeosNmbscdfZZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [A Escondidas](https://open.spotify.com/album/2NUgat9TkrF2H74ST2uin6) | 2:28 |
 | 45 | [Calle 2 \- Remix](https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Coscu](https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm) | [Calle 2 \(Remix\)](https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07) | 3:42 |
-| 46 | [Piénsalo \(feat\. Rombai\)](https://open.spotify.com/track/72FJxkwyBde4oyntw4m66u) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:22 |
-| 47 | [Corazón Guerrero \(Vivo en Buenos Aires\)](https://open.spotify.com/track/0lRZUkHlPqXjDsyapmPbsX) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Corazón Guerrero / Universo Paralelo \(Vivo en Buenos Aires\)](https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559) | 5:03 |
+| 46 | [Corazón Guerrero \(Vivo en Buenos Aires\)](https://open.spotify.com/track/0lRZUkHlPqXjDsyapmPbsX) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Corazón Guerrero / Universo Paralelo \(Vivo en Buenos Aires\)](https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559) | 5:03 |
+| 47 | [Piénsalo \(feat\. Rombai\)](https://open.spotify.com/track/72FJxkwyBde4oyntw4m66u) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:22 |
 | 48 | [Me Provoca](https://open.spotify.com/track/4DLcXPP3FJ7FCyDWUCqOLM) | [Adexe & Nau](https://open.spotify.com/artist/0ndVqPlOidgsJ4yB3Fc5ec), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Indiscutibles](https://open.spotify.com/album/0d7QAQ5aAXy74LiPFkWLBH) | 2:49 |
 | 49 | [Amarte Así](https://open.spotify.com/track/40ex6T5HA2iRU6PDA3qoUN) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Amarte Así](https://open.spotify.com/album/1emxnc3NCP7GvPuqlZAiwE) | 2:51 |
-| 50 | [Tu y Yo](https://open.spotify.com/track/1qE7Qo0eM5P2yBVQ0kPlZT) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:28 |
-| 51 | [Día y Noche](https://open.spotify.com/track/2NZ4Lg677xRbdrlFMOPTcF) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Día y Noche](https://open.spotify.com/album/4LNDD3N645KasfePnuqWbm) | 3:15 |
+| 50 | [Día y Noche](https://open.spotify.com/track/2NZ4Lg677xRbdrlFMOPTcF) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Día y Noche](https://open.spotify.com/album/4LNDD3N645KasfePnuqWbm) | 3:15 |
+| 51 | [Tu y Yo](https://open.spotify.com/track/1qE7Qo0eM5P2yBVQ0kPlZT) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:28 |
 | 52 | [Amor Prohibido](https://open.spotify.com/track/1oXcxpTLTHOsaW0XmzSxCc) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Amor Prohibido](https://open.spotify.com/album/2IX5QGaqanqswJATMe11Cq) | 3:31 |
 
-Snapshot ID: `Zni3AAAAAADHEoNnpdDNyR/QlvAUrie8`
+Snapshot ID: `ZnoIgAAAAAAdHghILhdhjX1sf0buUNLt`

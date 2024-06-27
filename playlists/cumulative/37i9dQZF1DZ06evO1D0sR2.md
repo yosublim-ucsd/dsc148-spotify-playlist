@@ -2,9 +2,9 @@
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
+> This is JJ Hairston\. The essential tracks, all in one playlist.
 
-142 songs - 15 hr 54 min
+143 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [He Reigns](https://open.spotify.com/track/3FmNXTHeyKnZ0NqWMxtzGE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 5:42 | 2023-04-02 | 2024-01-08 |
 | [He Reigns](https://open.spotify.com/track/4w67C9ICVsxgbPzMqVRNYS) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 5:42 | 2024-01-07 |  |
 | [He Shall Reign Forevermore \- Live](https://open.spotify.com/track/2DHiJ8ETKsHfSm4Pb6WHeH) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Donishisa Ballard](https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 10:47 | 2024-01-08 | 2024-01-14 |
+| [He's Worthy](https://open.spotify.com/track/1QPFwYsaopJstLBjpMTEo8) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 4:51 | 2024-06-27 |  |
 | [I Am Thankful](https://open.spotify.com/track/0p0tFR1OuBkWOrsb6SbvaW) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Chris House](https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ) | [Not Holding Back](https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR) | 9:12 | 2023-04-02 | 2024-01-07 |
 | [I Am Thankful](https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Chris House](https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ) | [Not Holding Back](https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk) | 9:12 | 2024-01-06 |  |
 | [I Feel You Moving](https://open.spotify.com/track/5Ak7GmSRaZc5OdUPR21gK5) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Jason Nelson](https://open.spotify.com/artist/5O3FSEZyqMTsQi0RQlJLV3) | [I See Victory](https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl) | 6:57 | 2023-04-02 | 2024-01-07 |
@@ -122,7 +123,7 @@
 | [The Lifter](https://open.spotify.com/track/50wptD0r7v4mlVSsapsEUj) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 2:56 | 2023-09-05 | 2023-10-11 |
 | [The Newborn King \- Live](https://open.spotify.com/track/68480PLDDMeu3MYkQiU2FM) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm), [Katondra Jenkins](https://open.spotify.com/artist/4siQoXWognMsG9ieD6B2fG) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 8:22 | 2023-11-10 | 2024-01-23 |
 | [The Night \- Live](https://open.spotify.com/track/0pKnDHFBEcFI6myBgoalGg) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Brittany Brooks](https://open.spotify.com/artist/1IeEzdyX9BDzfDhrkfX8Js) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 3:31 | 2024-01-18 | 2024-01-25 |
-| [The Victor](https://open.spotify.com/track/72WqopKBL6SloqhDSWy2Me) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 6:17 | 2024-03-03 |  |
+| [The Victor](https://open.spotify.com/track/72WqopKBL6SloqhDSWy2Me) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 6:17 | 2024-03-03 | 2024-06-27 |
 | [The Victor](https://open.spotify.com/track/7yXoXKRxqVSuFWETqc7SfI) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [After This](https://open.spotify.com/album/1P596ltYZVJ9sJEwGdGCWZ) | 6:17 | 2023-05-25 | 2023-08-10 |
 | [This is the Lord's Doing \(feat\. Crystal Aiken, Kevin Lemons & Higher Calling\)](https://open.spotify.com/track/1YHeESYShbCZxmqqdY8apS) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Crystal Aikin](https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf), [Kevin Lemons & Higher Calling](https://open.spotify.com/artist/6n86jr80ui4KY5OMTyWVUg) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 6:03 | 2023-04-04 | 2024-06-06 |
 | [We Adore You \- Live](https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 8:19 | 2023-11-10 | 2024-01-15 |

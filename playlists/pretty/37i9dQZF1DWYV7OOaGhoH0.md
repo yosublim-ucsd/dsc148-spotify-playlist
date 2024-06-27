@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,812,088 likes - 101 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,812,068 likes - 101 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

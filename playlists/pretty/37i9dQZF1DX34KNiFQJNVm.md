@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Dricka com Arca, Lauana Prado com Zé Neto & Cristiano e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,917,782 likes - 72 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,917,833 likes - 72 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 30 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 |
 | 31 | [Crash](https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 2:36 |
 | 32 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 2:42 |
-| 33 | [Briguei Com Ela](https://open.spotify.com/track/3tRvHIUorrlP9U4aEVlMvm) | [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [MC Gabluca](https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8), [DJ PKZIN](https://open.spotify.com/artist/7pPfAxWzyILH909Rhc8VO1), [Dj Luizin](https://open.spotify.com/artist/1j5jjya5prvPJE2FZU8JPj) | [Briguei Com Ela](https://open.spotify.com/album/4RBxT25MyUhFZs8QbdH4Od) | 2:32 |
+| 33 | [Briguei Com Ela](https://open.spotify.com/track/3tRvHIUorrlP9U4aEVlMvm) | [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [MC Gabluca](https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8), [DJ PKZIN](https://open.spotify.com/artist/7pPfAxWzyILH909Rhc8VO1), [Dj Luizin](https://open.spotify.com/artist/1j5jjya5prvPJE2FZU8JPj), [Fera Entretenimento](https://open.spotify.com/artist/4FutF95xN5UD1d3T86bWSK) | [Briguei Com Ela](https://open.spotify.com/album/4RBxT25MyUhFZs8QbdH4Od) | 2:32 |
 | 34 | [Descontrolada](https://open.spotify.com/track/1hTxRUsvDXyPtNfA0E7WSs) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [Descontrolada](https://open.spotify.com/album/6QxibeDxULyxRKc5ngX9tZ) | 2:31 |
 | 35 | [Mete, Mete](https://open.spotify.com/track/2DeNWX6MkAM3ZHkAJOgxtS) | [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [DJ DAVY FELIPE](https://open.spotify.com/artist/3lcoMONMPxWP4WzYYK403m) | [Mete, Mete](https://open.spotify.com/album/6ADjlyIz5KGUorerxjcfnj) | 2:27 |
 | 36 | [Lets Go Vishh](https://open.spotify.com/track/5uPn6t7pHeVTOSYLWvqyh6) | [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [prod.bry4n](https://open.spotify.com/artist/1dzHWxdEN4Chv4OyOPjbMQ) | [Lets Go Vishh](https://open.spotify.com/album/6isLhjy8begtKAZRAE7lNn) | 2:57 |

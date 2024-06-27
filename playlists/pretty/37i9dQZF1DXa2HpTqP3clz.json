@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tony Trischka",
-  "num_followers": 162008,
+  "num_followers": 162026,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "North of Despair",
+        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
+      },
+      "artists": [
+        {
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Eliza",
+      "url": "https://open.spotify.com/track/5lprg6IeVY9TNsK5WqjWcV"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 258393,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "North of Despair",
-        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
-      },
-      "artists": [
-        {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Eliza",
-      "url": "https://open.spotify.com/track/5lprg6IeVY9TNsK5WqjWcV"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Tiny Wooden Box",
-        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
-      },
-      "artists": [
-        {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
-        }
-      ],
-      "duration_ms": 247813,
-      "name": "Tiny Wooden Box",
-      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Fall In Tennessee",
         "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 231120,
       "name": "Fall In Tennessee (feat. Jerry Douglas)",
       "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Tiny Wooden Box",
+        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "duration_ms": 247813,
+      "name": "Tiny Wooden Box",
+      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Big City",
-        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
+        "name": "Mayhayley's House",
+        "url": "https://open.spotify.com/album/552ZVlloL4z7bNoE727oso"
       },
       "artists": [
         {
-          "name": "Joe Mullins & The Radio Ramblers",
-          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
         }
       ],
-      "duration_ms": 171055,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
+      "duration_ms": 217222,
+      "name": "Diggin'",
+      "url": "https://open.spotify.com/track/7IRU3DyQ3ROnuMgMWjeM0h"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Mayhayley's House",
-        "url": "https://open.spotify.com/album/552ZVlloL4z7bNoE727oso"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 217222,
-      "name": "Diggin'",
-      "url": "https://open.spotify.com/track/7IRU3DyQ3ROnuMgMWjeM0h"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Trapper's Attic",
         "url": "https://open.spotify.com/album/1nepXC3JRZ1OfdoTByMKqJ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 302000,
       "name": "Idaho Mountain Song",
       "url": "https://open.spotify.com/track/1mj8ViehGEsL6qR385CD0W"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Big City",
+        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
+      },
+      "artists": [
+        {
+          "name": "Joe Mullins & The Radio Ramblers",
+          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
+        }
+      ],
+      "duration_ms": 171055,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "Reason To Believe",
+        "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
+      },
+      "artists": [
+        {
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+        }
+      ],
+      "duration_ms": 173688,
+      "name": "Reason To Believe",
+      "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "Happy Valley",
         "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 230032,
       "name": "Blue Smoke",
       "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Reason To Believe",
-        "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
-      },
-      "artists": [
-        {
-          "name": "The Seldom Scene",
-          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
-        }
-      ],
-      "duration_ms": 173688,
-      "name": "Reason To Believe",
-      "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "This Valley",
-        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
-      },
-      "artists": [
-        {
-          "name": "Calamity Jane",
-          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
-        }
-      ],
-      "duration_ms": 255505,
-      "name": "This Valley",
-      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "White Line Fever",
         "url": "https://open.spotify.com/album/5h6xmbk0GucwMFn6M6irAL"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
+        "name": "This Valley",
+        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
+      },
+      "artists": [
+        {
+          "name": "Calamity Jane",
+          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
+        }
+      ],
+      "duration_ms": 255505,
+      "name": "This Valley",
+      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
         "name": "Love Train",
         "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 171823,
       "name": "Saltbush Express",
       "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Brand New Day",
+        "url": "https://open.spotify.com/album/0nOo0LwXS3wb3Mkj0bOhyB"
+      },
+      "artists": [
+        {
+          "name": "Jessica Willis Fisher",
+          "url": "https://open.spotify.com/artist/0EpJnzbypW1sjzPQF8rCa2"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Fire Song",
+      "url": "https://open.spotify.com/track/6JW7S2jU3rnm9rQmbOzdIY"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1559,22 +1575,6 @@
       "duration_ms": 191813,
       "name": "Sunny Days (Are Comin' Once Again)",
       "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
-        "name": "Brand New Day",
-        "url": "https://open.spotify.com/album/0nOo0LwXS3wb3Mkj0bOhyB"
-      },
-      "artists": [
-        {
-          "name": "Jessica Willis Fisher",
-          "url": "https://open.spotify.com/artist/0EpJnzbypW1sjzPQF8rCa2"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Fire Song",
-      "url": "https://open.spotify.com/track/6JW7S2jU3rnm9rQmbOzdIY"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Murmurations, Vol. 2",
-        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
-      },
-      "artists": [
-        {
-          "name": "Birds of Play",
-          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Sandhill Cranes",
-      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
-    },
-    {
-      "added_at": "2024-06-13 10:05:29",
-      "album": {
         "name": "Maria with a \"J\"",
         "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
       },
@@ -1691,18 +1675,18 @@
     {
       "added_at": "2024-06-13 10:05:29",
       "album": {
-        "name": "Blues Are Close at Hand",
-        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+        "name": "Murmurations, Vol. 2",
+        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
       },
       "artists": [
         {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+          "name": "Birds of Play",
+          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
         }
       ],
-      "duration_ms": 159427,
-      "name": "Blues Are Close at Hand",
-      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
+      "duration_ms": 279506,
+      "name": "Sandhill Cranes",
+      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
     },
     {
       "added_at": "2024-06-13 10:05:29",
@@ -1719,6 +1703,22 @@
       "duration_ms": 161333,
       "name": "Mary Ann is a Pistol",
       "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
+    },
+    {
+      "added_at": "2024-06-13 10:05:29",
+      "album": {
+        "name": "Blues Are Close at Hand",
+        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 159427,
+      "name": "Blues Are Close at Hand",
+      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     },
     {
       "added_at": "2024-06-13 10:05:29",

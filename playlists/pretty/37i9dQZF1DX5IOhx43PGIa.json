@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere.  Cover: Raveena.",
-  "num_followers": 286693,
+  "num_followers": 286694,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Love Me Not",
-        "url": "https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 140355,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Lobster Telephone (Edit)",
         "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 214315,
       "name": "Lobster Telephone - Edit",
       "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Love Me Not",
+        "url": "https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 140355,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "life with u",
+        "url": "https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 205275,
+      "name": "life with u",
+      "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Sunny When I'm With You",
         "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 180000,
       "name": "Sunny When I'm With You",
       "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "life with u",
-        "url": "https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 205275,
-      "name": "life with u",
-      "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "So I Danced",
-        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "So I Danced",
-      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 165525,
       "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "So I Danced",
+        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "So I Danced",
+      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "flip phone",
+        "url": "https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "duration_ms": 124553,
+      "name": "flip phone",
+      "url": "https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Love Like That (feat. Ali Sethi)",
         "url": "https://open.spotify.com/album/370o1v7cPpNPuFnOGEgVCN"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 160707,
       "name": "Love Like That (feat. Ali Sethi)",
       "url": "https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "flip phone",
-        "url": "https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww"
-      },
-      "artists": [
-        {
-          "name": "PIAO",
-          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
-        }
-      ],
-      "duration_ms": 124553,
-      "name": "flip phone",
-      "url": "https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "cold medicine",
+        "url": "https://open.spotify.com/album/5dcGyDegN1gG3xgf485Bkz"
+      },
+      "artists": [
+        {
+          "name": "tiffi",
+          "url": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
+        }
+      ],
+      "duration_ms": 207911,
+      "name": "cold medicine",
+      "url": "https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 197474,
       "name": "don't miss me too much",
       "url": "https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "cold medicine",
-        "url": "https://open.spotify.com/album/5dcGyDegN1gG3xgf485Bkz"
-      },
-      "artists": [
-        {
-          "name": "tiffi",
-          "url": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
-        }
-      ],
-      "duration_ms": 207911,
-      "name": "cold medicine",
-      "url": "https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1903,18 +1903,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "The Goo",
-        "url": "https://open.spotify.com/album/76PdRpzuQWUzg17LoA9u4z"
+        "name": "moviestar",
+        "url": "https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW"
       },
       "artists": [
         {
-          "name": "FIG",
-          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+          "name": "asumuh",
+          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
         }
       ],
-      "duration_ms": 154346,
-      "name": "The Goo",
-      "url": "https://open.spotify.com/track/4tNggYnNT1qWzV1MzFZZRo"
+      "duration_ms": 138714,
+      "name": "moviestar",
+      "url": "https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "moviestar",
-        "url": "https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW"
+        "name": "The Goo",
+        "url": "https://open.spotify.com/album/76PdRpzuQWUzg17LoA9u4z"
       },
       "artists": [
         {
-          "name": "asumuh",
-          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
         }
       ],
-      "duration_ms": 138714,
-      "name": "moviestar",
-      "url": "https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc"
+      "duration_ms": 154346,
+      "name": "The Goo",
+      "url": "https://open.spotify.com/track/4tNggYnNT1qWzV1MzFZZRo"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Lola Amour",
-        "url": "https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ"
-      },
-      "artists": [
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        }
-      ],
-      "duration_ms": 158346,
-      "name": "Part II: Bliss",
-      "url": "https://open.spotify.com/track/6ebVuGIfwGSpUpVNZdyryk"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "SEEING PINK",
         "url": "https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed"
       },
@@ -2131,6 +2115,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Lola Amour",
+        "url": "https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "duration_ms": 158346,
+      "name": "Part II: Bliss",
+      "url": "https://open.spotify.com/track/6ebVuGIfwGSpUpVNZdyryk"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Water Worship Pray",
         "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
       },
@@ -2143,6 +2143,22 @@
       "duration_ms": 191016,
       "name": "Water Worship Pray",
       "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Blue Jeans",
+        "url": "https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR"
+      },
+      "artists": [
+        {
+          "name": "Layton Wu",
+          "url": "https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a"
+        }
+      ],
+      "duration_ms": 189555,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2179,38 +2195,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR"
-      },
-      "artists": [
-        {
-          "name": "Layton Wu",
-          "url": "https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a"
-        }
-      ],
-      "duration_ms": 189555,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2vPJBsueA0vfXM6RehIOty"
-      },
-      "artists": [
-        {
-          "name": "aimei \u5a9a",
-          "url": "https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/37MGryCBQtujYtMNflLZM5"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "it takes 2",
         "url": "https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 220677,
       "name": "it takes 2",
       "url": "https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2vPJBsueA0vfXM6RehIOty"
+      },
+      "artists": [
+        {
+          "name": "aimei \u5a9a",
+          "url": "https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/37MGryCBQtujYtMNflLZM5"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2259,6 +2259,22 @@
       "duration_ms": 221490,
       "name": "maybe",
       "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "DIGITAL BABE",
+        "url": "https://open.spotify.com/album/1XNIu6K8tW9LyfvIK9kWfa"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "DIGITAL BABE",
+      "url": "https://open.spotify.com/track/0j7il6QUxW1bc9h3otA2Qb"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2327,18 +2343,18 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "DIGITAL BABE",
-        "url": "https://open.spotify.com/album/1XNIu6K8tW9LyfvIK9kWfa"
+        "name": "all these little words",
+        "url": "https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ"
       },
       "artists": [
         {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+          "name": "wilo wilde",
+          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
         }
       ],
-      "duration_ms": 149333,
-      "name": "DIGITAL BABE",
-      "url": "https://open.spotify.com/track/0j7il6QUxW1bc9h3otA2Qb"
+      "duration_ms": 137946,
+      "name": "all these little words",
+      "url": "https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2355,22 +2371,6 @@
       "duration_ms": 178448,
       "name": "Love Bites",
       "url": "https://open.spotify.com/track/3jUeRyAxFkC7OAoUMGOlhk"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "all these little words",
-        "url": "https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ"
-      },
-      "artists": [
-        {
-          "name": "wilo wilde",
-          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
-        }
-      ],
-      "duration_ms": 137946,
-      "name": "all these little words",
-      "url": "https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2"
-      },
-      "artists": [
-        {
-          "name": "Chloe Tang",
-          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
-        }
-      ],
-      "duration_ms": 166941,
-      "name": "2.0",
-      "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Petrichor",
         "url": "https://open.spotify.com/album/2ig1OYEpZNZTRaSADMik6b"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 162782,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/3xr3NiQnIEVgIlnrWhMuC0"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "duration_ms": 166941,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
     },
     {
       "added_at": "2024-06-21 04:00:00",

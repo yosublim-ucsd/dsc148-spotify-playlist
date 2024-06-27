@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Reyna Tropical en portada.",
+  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Buscabulla en portada.",
   "name": "tropic.alt",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 174080,
       "name": "(Escap\u00e1ndome) de m\u00ed",
       "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208351,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
     },
     {
       "album": {
@@ -4256,7 +4274,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 171807,
       "name": "NTE",
       "url": "https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI"
@@ -5238,7 +5256,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 213541,
       "name": "Sale el Sol",
       "url": "https://open.spotify.com/track/1QT0nxW1aDj2NBeJ1h69v8"
@@ -5754,6 +5772,28 @@
       "duration_ms": 153898,
       "name": "Ten\u00edas Que Avisar",
       "url": "https://open.spotify.com/track/1sk6pQToLuNIzMMwxBFWc6"
+    },
+    {
+      "album": {
+        "name": "Notebook Fantasy",
+        "url": "https://open.spotify.com/album/11oAb5VEhTqhiAyfs5AOQX"
+      },
+      "artists": [
+        {
+          "name": "Chicano Batman",
+          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
+        },
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213186,
+      "name": "The Way You Say It",
+      "url": "https://open.spotify.com/track/5d4tz59Zk8S3MYIc5N6Nwo"
     },
     {
       "album": {

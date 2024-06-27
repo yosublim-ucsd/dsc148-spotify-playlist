@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Our editors selected the 24 best Latin albums of the year so far\. Dive in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,247 likes - 72 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,872 likes - 72 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 57951,
+  "num_followers": 57978,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "s\u00f3 eu sei",
-        "url": "https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 115636,
-      "name": "s\u00f3 eu sei",
-      "url": "https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "30\u00baC",
         "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 160000,
       "name": "PORTAIS",
       "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "s\u00f3 eu sei",
+        "url": "https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 115636,
+      "name": "s\u00f3 eu sei",
+      "url": "https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -487,26 +487,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Ouroboros",
-        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
-      },
-      "artists": [
-        {
-          "name": "Kanda Ent",
-          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
-        },
-        {
-          "name": "Diego Amani",
-          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
-        }
-      ],
-      "duration_ms": 152706,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "P\u00e2nico",
         "url": "https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5"
       },
@@ -527,18 +507,22 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Ondina",
-        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
+        "name": "Ouroboros",
+        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
       },
       "artists": [
         {
-          "name": "Jadidi",
-          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
+          "name": "Kanda Ent",
+          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
+        },
+        {
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Ondina",
-      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
+      "duration_ms": 152706,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -555,6 +539,22 @@
       "duration_ms": 199186,
       "name": "Candeia",
       "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
+        "name": "Ondina",
+        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
+      },
+      "artists": [
+        {
+          "name": "Jadidi",
+          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Ondina",
+      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
+        "name": "EU S\u00d3 PENSO EM VOC\u00ca",
+        "url": "https://open.spotify.com/album/0qXGKKrNzVkrUUlchwpclj"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+        }
+      ],
+      "duration_ms": 145352,
+      "name": "EU S\u00d3 PENSO EM VOC\u00ca",
+      "url": "https://open.spotify.com/track/5XB072lywUk1v9SafrUVIH"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
         "name": "Rosas & Violetas fa\u00e7o um buqu\u00ea. Eu quero queimar um ******* com voc\u00ea.",
         "url": "https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Tra\u00e7os",
-        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
-      },
-      "artists": [
-        {
-          "name": "Pedro Stone",
-          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Tra\u00e7os",
-      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
         "name": "Quando acordar",
         "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
       },
@@ -759,22 +759,18 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
+        "name": "Tra\u00e7os",
+        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
       },
       "artists": [
         {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
         }
       ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+      "duration_ms": 199333,
+      "name": "Tra\u00e7os",
+      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
     },
     {
       "added_at": "2024-06-21 03:01:00",
@@ -799,6 +795,26 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
+      },
+      "artists": [
+        {
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 171176,
       "name": "Segredos",
       "url": "https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "EU S\u00d3 PENSO EM VOC\u00ca",
-        "url": "https://open.spotify.com/album/0qXGKKrNzVkrUUlchwpclj"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Klein",
-          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
-        }
-      ],
-      "duration_ms": 145352,
-      "name": "EU S\u00d3 PENSO EM VOC\u00ca",
-      "url": "https://open.spotify.com/track/5XB072lywUk1v9SafrUVIH"
     },
     {
       "added_at": "2024-06-21 03:01:00",

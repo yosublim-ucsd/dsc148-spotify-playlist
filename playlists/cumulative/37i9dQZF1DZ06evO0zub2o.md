@@ -2,7 +2,7 @@
 
 ### [This Is Pantera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zub2o)
 
-> This is Pantera\. Todos os maiores hits em uma só playlist.
+> This is Pantera\. The essential tracks, all in one playlist.
 
 59 songs - 4 hr 27 min
 
@@ -15,9 +15,9 @@
 | [Avoid the Light](https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 6:26 | 2022-05-30 |  |
 | [Becoming](https://open.spotify.com/track/3iV11AiIEDIOVjKy3kgjld) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:05 | 2022-05-30 |  |
 | [By Demons Be Driven](https://open.spotify.com/track/6Kl2BY1d8KHjOjY3cynftv) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 4:40 | 2023-03-21 |  |
-| [Cat Scratch Fever](https://open.spotify.com/track/0baZSyZzsKSigMmoDno6Uk) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 3:49 | 2022-05-31 |  |
+| [Cat Scratch Fever](https://open.spotify.com/track/0baZSyZzsKSigMmoDno6Uk) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 3:49 | 2022-05-31 | 2024-06-27 |
 | [Cemetery Gates](https://open.spotify.com/track/4vJr55lngvhSM8WIh9CjQc) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 7:02 | 2022-05-30 |  |
-| [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 | 2022-05-30 |  |
+| [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 | 2022-05-30 | 2024-06-27 |
 | [Death Rattle](https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 3:17 | 2022-05-30 |  |
 | [Dom / Hollow \- Live](https://open.spotify.com/track/6DVxAei4u7nNrXbEs9XvNS) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 3:43 | 2022-05-30 |  |
 | [Domination](https://open.spotify.com/track/769cLRTw2y6KRdkFWFkxtu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 5:05 | 2022-05-30 |  |
@@ -42,7 +42,7 @@
 | [Message in Blood](https://open.spotify.com/track/2EsJKiFvrdO0x3Mx9oZeH4) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 5:09 | 2024-05-29 | 2024-06-01 |
 | [Mouth for War](https://open.spotify.com/track/6rkeaQRCWZxwkjhyqgxjXi) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 3:57 | 2022-05-30 |  |
 | [No Good \(Attack the Radical\)](https://open.spotify.com/track/5q272ZCgwndbAJJhGdG2mI) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 4:49 | 2023-12-13 | 2024-01-22 |
-| [Piss](https://open.spotify.com/track/5glW68ECkgLLPlleSdJa28) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Piss](https://open.spotify.com/album/1wQbBWymUA04PZTORsZvR3) | 4:22 | 2022-05-30 | 2024-06-26 |
+| [Piss](https://open.spotify.com/track/5glW68ECkgLLPlleSdJa28) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Piss](https://open.spotify.com/album/1wQbBWymUA04PZTORsZvR3) | 4:22 | 2022-05-30 |  |
 | [Planet Caravan](https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:03 | 2022-05-30 |  |
 | [Primal Concrete Sledge](https://open.spotify.com/track/6lJJcUjhsp0TJRuzUIPOYO) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 2:13 | 2022-05-30 |  |
 | [Psycho Holiday](https://open.spotify.com/track/5JCZHWdFLg2rXtg684rTHt) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 5:19 | 2022-05-30 |  |
@@ -55,7 +55,7 @@
 | [Slaughtered](https://open.spotify.com/track/2iWfqSC03Hhcq0HPxRYe09) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:57 | 2024-03-13 |  |
 | [Strength Beyond Strength](https://open.spotify.com/track/6TGw6QkUsQIcAxfq1EFfjP) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 3:38 | 2022-05-30 |  |
 | [Suicide Note, Pt\. 1](https://open.spotify.com/track/0CcmoDwo2KAACTPoy87F8V) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:44 | 2022-05-30 | 2023-11-11 |
-| [The Art of Shredding](https://open.spotify.com/track/17sbfQLWxyC0ciBXi9g54f) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:18 | 2023-05-13 | 2024-06-21 |
+| [The Art of Shredding](https://open.spotify.com/track/17sbfQLWxyC0ciBXi9g54f) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:18 | 2023-05-13 |  |
 | [The Badge](https://open.spotify.com/track/3HO3nXKWRhvkibVvsONrle) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:54 | 2022-05-30 |  |
 | [The Great Southern Trendkill](https://open.spotify.com/track/055Oi1gpZYQ3mVC5aOntx7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 3:46 | 2022-05-30 |  |
 | [The Underground in America](https://open.spotify.com/track/02r2PCS9ayW0i45hgrJsHI) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:33 | 2022-05-30 | 2022-10-13 |

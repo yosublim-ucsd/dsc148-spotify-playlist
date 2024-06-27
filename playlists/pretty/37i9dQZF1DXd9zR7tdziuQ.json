@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 929658,
+  "num_followers": 929725,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
-        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 178355,
-      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
-      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Little Talks",
         "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
       },
@@ -291,6 +275,22 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
+        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 178355,
+      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
+      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "Shape of You (Acoustic)",
         "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
       },
@@ -303,6 +303,22 @@
       "duration_ms": 223573,
       "name": "Shape of You - Acoustic",
       "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "What About Us (Acoustic)",
+        "url": "https://open.spotify.com/album/0oqgSmNw05kvsTG9ap2Vv5"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 255510,
+      "name": "What About Us - Acoustic",
+      "url": "https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -323,22 +339,6 @@
       "duration_ms": 189793,
       "name": "Something Just Like This - Acoustic",
       "url": "https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "What About Us (Acoustic)",
-        "url": "https://open.spotify.com/album/0oqgSmNw05kvsTG9ap2Vv5"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 255510,
-      "name": "What About Us - Acoustic",
-      "url": "https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Who You Are (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "Price Tag - Acoustic Version",
-      "url": "https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Fix You (Live)",
         "url": "https://open.spotify.com/album/6VnppEx0PoQpbnfTOutyaQ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 257650,
       "name": "Fix You - Live",
       "url": "https://open.spotify.com/track/0Hbn9DrKJiXgoQdVSwBn7B"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Who You Are (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "Price Tag - Acoustic Version",
+      "url": "https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Dancing On My Own (Acoustic)",
-        "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 253482,
-      "name": "Dancing On My Own - Acoustic",
-      "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "We Can't Stop (Acoustic)",
         "url": "https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 178490,
       "name": "We Can't Stop - Acoustic",
       "url": "https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Dancing On My Own (Acoustic)",
+        "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 253482,
+      "name": "Dancing On My Own - Acoustic",
+      "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Stitches",
-        "url": "https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2"
-      },
-      "artists": [
-        {
-          "name": "Jaclyn Davies",
-          "url": "https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Stitches",
-      "url": "https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "I'm the One (Acoustic)",
         "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 233488,
       "name": "I'm the One - Acoustic",
       "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2"
+      },
+      "artists": [
+        {
+          "name": "Jaclyn Davies",
+          "url": "https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "She's On My Mind (Acoustics)",
-        "url": "https://open.spotify.com/album/11iEgJHgXJOEnrqLkAg1pz"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 166701,
-      "name": "She's On My Mind - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/6O2cwVw0mjWxq98rI4YfVz"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 174837,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "She's On My Mind (Acoustics)",
+        "url": "https://open.spotify.com/album/11iEgJHgXJOEnrqLkAg1pz"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 166701,
+      "name": "She's On My Mind - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/6O2cwVw0mjWxq98rI4YfVz"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "Acoustic In Nashville - Bootleg No. 2",
+        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
+      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7tIOWu8jlPjnzDIGmDrjSY"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Acoustic In Nashville - Bootleg No. 2",
-        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
+        "name": "Starboy (Acoustic)",
+        "url": "https://open.spotify.com/album/5Bh0yujzOhMqly3ONkprWR"
       },
       "artists": [
         {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+          "name": "Simon Samaeng",
+          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
         }
       ],
-      "duration_ms": 269946,
-      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
-      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
+      "duration_ms": 225790,
+      "name": "Starboy - Acoustic",
+      "url": "https://open.spotify.com/track/2QoyYV4YAuw9T9UgsDoam2"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1387,22 +1403,6 @@
       "duration_ms": 180573,
       "name": "Dancing in the Moonlight - Acoustic Version",
       "url": "https://open.spotify.com/track/3whQonlWrOjLVkZcA1GQsV"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "Starboy (Acoustic)",
-        "url": "https://open.spotify.com/album/5Bh0yujzOhMqly3ONkprWR"
-      },
-      "artists": [
-        {
-          "name": "Simon Samaeng",
-          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
-        }
-      ],
-      "duration_ms": 225790,
-      "name": "Starboy - Acoustic",
-      "url": "https://open.spotify.com/track/2QoyYV4YAuw9T9UgsDoam2"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3AkgNcAjPBlz6PGzgHpDYU"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
-        "name": "Once In a While (Acoustic)",
-        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
       "artists": [
         {
-          "name": "Timeflies",
-          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
         }
       ],
-      "duration_ms": 231582,
-      "name": "Once In a While - Acoustic",
-      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1519,6 +1503,22 @@
       "duration_ms": 201683,
       "name": "Maps",
       "url": "https://open.spotify.com/track/7ED8yT6oWUoq5WVIfaka4e"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
+        "name": "Once In a While (Acoustic)",
+        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
+      },
+      "artists": [
+        {
+          "name": "Timeflies",
+          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
+        }
+      ],
+      "duration_ms": 231582,
+      "name": "Once In a While - Acoustic",
+      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "High and Dry",
+        "url": "https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 249752,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "Think Before I Talk (Acoustic)",
         "url": "https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 177605,
       "name": "False Alarm - Acoustic Version",
       "url": "https://open.spotify.com/track/0nKuytIjMXj1UDNyPsgOUp"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "High and Dry",
-        "url": "https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 249752,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F"
     },
     {
       "added_at": "2023-11-30 18:27:42",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2023-11-30 18:27:42",
       "album": {
+        "name": "Jess Delgado RAWsession - 5.25.10",
+        "url": "https://open.spotify.com/album/0ECa20b3UM57SWWLc9MTLV"
+      },
+      "artists": [
+        {
+          "name": "Jess Delgado",
+          "url": "https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5"
+        }
+      ],
+      "duration_ms": 266793,
+      "name": "Why Georgia (RAWsession) [originally by John Mayer]",
+      "url": "https://open.spotify.com/track/2rraSZfmRIIU5na1OH7L0q"
+    },
+    {
+      "added_at": "2023-11-30 18:27:42",
+      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/3j7z8hX2MtfUcv6Ebfgs45"
       },
@@ -2219,22 +2235,6 @@
       "duration_ms": 291046,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/0hL7pMYm3WQhoywLYFdF3t"
-    },
-    {
-      "added_at": "2023-11-30 18:27:42",
-      "album": {
-        "name": "Jess Delgado RAWsession - 5.25.10",
-        "url": "https://open.spotify.com/album/0ECa20b3UM57SWWLc9MTLV"
-      },
-      "artists": [
-        {
-          "name": "Jess Delgado",
-          "url": "https://open.spotify.com/artist/7rkZ1O9S0fLbpWMQApubz5"
-        }
-      ],
-      "duration_ms": 266793,
-      "name": "Why Georgia (RAWsession) [originally by John Mayer]",
-      "url": "https://open.spotify.com/track/2rraSZfmRIIU5na1OH7L0q"
     },
     {
       "added_at": "2023-11-30 18:27:42",

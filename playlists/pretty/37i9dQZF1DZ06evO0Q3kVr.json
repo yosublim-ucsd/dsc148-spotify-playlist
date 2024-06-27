@@ -1,12 +1,12 @@
 {
-  "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
-  "num_followers": 4933,
+  "description": "This Is Banda Bostik. Los temas esenciales, todos en una lista.",
+  "num_followers": 4940,
   "original_name": "This Is Banda Bostik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAACP2WpwNpOVWY6X8o16XLD4",
+  "snapshot_id": "ZnoIgAAAAACSmyq3fhzDnrWsNKwF210t",
   "tracks": [
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 191750,
-      "name": "Maribel",
-      "url": "https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc"
+      "duration_ms": 129393,
+      "name": "Presentaci\u00f3n",
+      "url": "https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 129393,
-      "name": "Presentaci\u00f3n",
-      "url": "https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc"
+      "duration_ms": 191750,
+      "name": "Maribel",
+      "url": "https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc"
     }
   ],
   "unique_name": "This Is Banda Bostik",

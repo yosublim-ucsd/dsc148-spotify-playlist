@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,061 likes - 41 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,077 likes - 41 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 32 | [Mast Challay Amcha](https://open.spotify.com/track/6ldbYO3x98OBBePPUITiid) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Marathi Dance Hits](https://open.spotify.com/album/6R7H1X3c3mBXv5CnRvKASA) | 4:56 |
 | 33 | [Gau Nako Kisna](https://open.spotify.com/track/5frla1hLU3JgNbj3O3xb6M) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Jayesh Khare](https://open.spotify.com/artist/6vndO4bnE3pXSPZ3xKkZ2U), [Mayur Sukale](https://open.spotify.com/artist/0ET8FP6HX14K2uZWHjDq2s), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Maharashtra Shaheer](https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk) | 5:04 |
 | 34 | [Baghtoy Rikshawala Ga Waat Mazhi Baghatoy Rikshawala](https://open.spotify.com/track/3l8vEUmm8vh4QNoF9TeMIp) | [Reshma Sonawane](https://open.spotify.com/artist/0us5qLUz4waTwJ7hGoBrxl) | [Wat Mazi Baghatoy Rikshavala](https://open.spotify.com/album/1oNTgjkByWIbvZhMeW5xbP) | 3:46 |
-| 35 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Harshavardhan Wavare](https://open.spotify.com/artist/0ltsd6EZrWlkPEnbSVhb9V) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
+| 35 | [Majhi Navri](https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q) | [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4), [Vishnupriya](https://open.spotify.com/artist/02tdlcWysk429Q3xMT62L7), [Sai Patil](https://open.spotify.com/artist/4t3ZUbQcJRgD7O6UYU70TI) | [Majhi Navri](https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT) | 4:00 |
 | 36 | [Aaichya Gavat](https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Kavita Raam](https://open.spotify.com/artist/6yXmsGNyvtpXM6g8yupcrS), [Mugdha Karhade](https://open.spotify.com/artist/7zW0Crf8iaoyrTFoMFIq7b) | [Girlz](https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd) | 3:36 |
 | 37 | [Shantabai DJ](https://open.spotify.com/track/0UPVbrPxCWR41qk9uG75gJ) | [Sanjay Londe](https://open.spotify.com/artist/0CNmmi4J9uBFSRjDxsQNOQ) | [Shantabai](https://open.spotify.com/album/50vy5OvF9LLor9cAHW5wM1) | 2:59 |
 | 38 | [Malhar](https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Zindagi Virat](https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra) | 4:09 |

@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt & more\. Cover: The Story So Far
 
-1,228 songs - 2 day 16 hr 58 min
+1,230 songs - 2 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Beautiful Life](https://open.spotify.com/track/6wAut6sadO8orbRcbRLUCV) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Beautiful Life](https://open.spotify.com/album/5UtjShaLwFSPTBIqEFQSnD) | 3:27 | 2021-12-10 | 2022-07-26 |
 | [Beauty In The Bad Things](https://open.spotify.com/track/0aGXMi4C241O4y0vtIFAmI) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [Beauty In The Bad Things](https://open.spotify.com/album/79vwQSbG2INsGGIJHT57Gs) | 3:33 | 2022-07-08 | 2022-08-03 |
 | [Bedroom Eyes](https://open.spotify.com/track/57p8gUFm53940CZaTxHB1m) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [Bedroom Eyes](https://open.spotify.com/album/1oyjqGKLyPlgL5nZDAqezq) | 2:33 | 2022-01-14 | 2022-06-12 |
+| [Before I Die](https://open.spotify.com/track/7BcTWgmZQp5Ueu3XdjCdFY) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/61B7Jjcy1ccw5KnXEebj3T) | 2:53 | 2024-06-24 |  |
 | [Beg](https://open.spotify.com/track/3s9oKWdvPOF7KMgtApYVE4) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [Beg](https://open.spotify.com/album/1gb1U1Rb3xqq6xMFGHrcSG) | 2:31 | 2021-12-10 | 2022-05-20 |
 | [Beg For More](https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Beg For More](https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I) | 2:54 | 2024-06-24 |  |
 | [Benadryl Subreddit](https://open.spotify.com/track/5dQvFklopnQ5q84EM7nS1M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Benadryl Subreddit](https://open.spotify.com/album/31enCOWEDpvlAVDbTq3Pqi) | 3:35 | 2023-07-28 | 2023-12-09 |
@@ -140,11 +141,12 @@
 | [Birdcage](https://open.spotify.com/track/2dU8wkeyvbMUUM3mwun5IX) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Birdcage](https://open.spotify.com/album/0O5hPKodswyqouT4iSH9ae) | 3:23 | 2021-12-10 | 2022-06-25 |
 | [Bitter](https://open.spotify.com/track/4GOQLGfeCednzst9gy1M7S) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Bitter](https://open.spotify.com/album/4Up0H6lEZYeooXEQJzhe63) | 3:11 | 2021-12-10 | 2022-06-25 |
 | [Black Confetti](https://open.spotify.com/track/0WaTwKJGHKJQ6Tv9e2rSGk) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Black Confetti](https://open.spotify.com/album/4OzfmOuozt9Rlosxrtktzi) | 2:53 | 2022-05-20 | 2022-08-03 |
-| [Blackout](https://open.spotify.com/track/1UU3Rz7R3htJ1W636jxzKd) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9), [Rat Park](https://open.spotify.com/artist/3HltfqsiDmqwrvNWGwco9K) | [Blackout](https://open.spotify.com/album/3LX2JhMQanwcOe4Bu81gl0) | 3:14 | 2024-04-12 |  |
+| [Blackout](https://open.spotify.com/track/1UU3Rz7R3htJ1W636jxzKd) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9), [Rat Park](https://open.spotify.com/artist/3HltfqsiDmqwrvNWGwco9K) | [Blackout](https://open.spotify.com/album/3LX2JhMQanwcOe4Bu81gl0) | 3:14 | 2024-04-12 | 2024-06-27 |
 | [blame](https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [blame / how to exit a room](https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ) | 3:10 | 2023-06-09 | 2024-04-13 |
 | [blame me for everything](https://open.spotify.com/track/3gdFfyVjx5g5uqqpPH00vg) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [nosebleeder](https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3) | 2:13 | 2024-02-09 |  |
 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 | 2022-12-02 |  |
 | [Blistered World](https://open.spotify.com/track/5qGZW9TilPRhXIYDB1amjE) | [Plasma Canvas](https://open.spotify.com/artist/6bhi8CRvRAb6FxLk2zaMGQ) | [Blistered World](https://open.spotify.com/album/70mjHoRyTAkG4RcXi265ku) | 3:05 | 2022-10-25 | 2022-12-08 |
+| [Blood Moon](https://open.spotify.com/track/5cfrLL1TcbJp3bbKemlL6F) | [State Faults](https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b) | [Blood Moon](https://open.spotify.com/album/1Ib31L2Db5OHtZnsPVncwx) | 2:28 | 2024-06-24 |  |
 | [Bloodhound for Oblivion](https://open.spotify.com/track/5NDKH3pjVtgiXt5PgjeONS) | [Relic Hearts](https://open.spotify.com/artist/1gmrjw85YvHI6jrbFkoN3n) | [Volatile](https://open.spotify.com/album/4j6sM622OZ4QUUm3ybI6zL) | 3:11 | 2022-03-25 | 2022-04-19 |
 | [Bloody Nose](https://open.spotify.com/track/0mG20jgAJkaFEMZoWm0mOU) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [breathe](https://open.spotify.com/album/2F2RkJb7kGZitRS6C8O2XT) | 2:48 | 2022-03-25 | 2022-06-21 |
 | [bloody valentine](https://open.spotify.com/track/1bWEngw5tAF7vWByrf5Oy5) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [bloody valentine](https://open.spotify.com/album/268JRqKvCGhDrbqH74sDFz) | 3:25 | 2021-12-10 | 2022-05-20 |
@@ -335,7 +337,7 @@
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2022-02-04 | 2022-07-29 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 | 2022-07-08 | 2023-07-15 |
 | [Emotion](https://open.spotify.com/track/6nUSBSf0IxajomBZxuSD5h) | [bloom.](https://open.spotify.com/artist/2pe5XkD5nb5nTQeVsPn4uD) | [Withered](https://open.spotify.com/album/0FjBK3l1bTQUfTBb0N1d8Q) | 2:38 | 2022-03-25 | 2022-04-15 |
-| [Empire](https://open.spotify.com/track/0rh6ie1S24XTyKXDCUd8aR) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Empire](https://open.spotify.com/album/23VCaSYUWBTn0mUgvuwBtJ) | 3:44 | 2024-04-12 |  |
+| [Empire](https://open.spotify.com/track/0rh6ie1S24XTyKXDCUd8aR) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Empire](https://open.spotify.com/album/23VCaSYUWBTn0mUgvuwBtJ) | 3:44 | 2024-04-12 | 2024-06-27 |
 | [EMPTY](https://open.spotify.com/track/3kfNs2LbF9HRLGm4q3jwYQ) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [EMPTY](https://open.spotify.com/album/1XCdPUZ5x1quEIMnEJmQhQ) | 3:50 | 2022-01-14 | 2022-04-21 |
 | [Empty Thoughts](https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [My Descend](https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6) | 3:32 | 2021-12-10 | 2022-05-19 |
 | [End of the World/A Game of Chess](https://open.spotify.com/track/61Wr8Uti1rMxMV0NBv2uOx) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ), [Connie Sgarbossa](https://open.spotify.com/artist/7ymaeAGhITzan9ytguISsP), [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [End of the World](https://open.spotify.com/album/1uUnNVwOZxR4RGIZpAHgHS) | 3:56 | 2022-06-24 | 2022-08-03 |

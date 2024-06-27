@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 112414,
+  "num_followers": 112439,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-06-12 14:22:58",
       "album": {
-        "name": "Ritual Piojoso (En Vivo en River Plate)",
-        "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 284048,
-      "name": "Pac\u00edfico",
-      "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
-    },
-    {
-      "added_at": "2024-06-12 14:22:58",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 238625,
       "name": "Si Supieras - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
+    },
+    {
+      "added_at": "2024-06-12 14:22:58",
+      "album": {
+        "name": "Ritual Piojoso (En Vivo en River Plate)",
+        "url": "https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 284048,
+      "name": "Pac\u00edfico",
+      "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
     },
     {
       "added_at": "2024-06-12 14:22:58",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-06-12 14:22:58",
       "album": {
-        "name": "Carretera Perdida (En Vivo)",
-        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
-      },
-      "artists": [
-        {
-          "name": "Buitres",
-          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
-        }
-      ],
-      "duration_ms": 290496,
-      "name": "Carretera Perdida - En Vivo",
-      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
-    },
-    {
-      "added_at": "2024-06-12 14:22:58",
-      "album": {
         "name": "Hasta Estallar (En Vivo)",
         "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 280810,
       "name": "Hasta Estallar (En Vivo)",
       "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
+    },
+    {
+      "added_at": "2024-06-12 14:22:58",
+      "album": {
+        "name": "Carretera Perdida (En Vivo)",
+        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
+      },
+      "artists": [
+        {
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+        }
+      ],
+      "duration_ms": 290496,
+      "name": "Carretera Perdida - En Vivo",
+      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
     },
     {
       "added_at": "2024-06-12 14:22:58",

@@ -674,7 +674,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 202414,
       "name": "Bad Behaviour",
       "url": "https://open.spotify.com/track/3lG94qBfaZGcO5Pbz4UTfO"
@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Carnaval de Paris",
+        "url": "https://open.spotify.com/album/0wevT1LD6VQtghix2apQgQ"
+      },
+      "artists": [
+        {
+          "name": "Dario G",
+          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232653,
+      "name": "Carnaval de Paris - Radio Mix",
+      "url": "https://open.spotify.com/track/59mdyQniSaNFeXaKMGu9RB"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -2029,6 +2047,32 @@
     },
     {
       "album": {
+        "name": "Don't Copy My Flow",
+        "url": "https://open.spotify.com/album/3uxZV2XyunoLM15AMYl4au"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        },
+        {
+          "name": "Mwizz",
+          "url": "https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU"
+        },
+        {
+          "name": "George Kipa",
+          "url": "https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172382,
+      "name": "Don't Copy My Flow",
+      "url": "https://open.spotify.com/track/44HTE9IdjUk01DEAp54amH"
+    },
+    {
+      "album": {
         "name": "Don't Gas Me",
         "url": "https://open.spotify.com/album/40s9ebO3BAEye8KqbIM8tU"
       },
@@ -2044,6 +2088,24 @@
       "duration_ms": 227679,
       "name": "Don't Gas Me",
       "url": "https://open.spotify.com/track/5OnNFaUjue55aBaKIaT63K"
+    },
+    {
+      "album": {
+        "name": "Na\u00efve",
+        "url": "https://open.spotify.com/album/4NkgzNCOzuki4FuWUOY28R"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196187,
+      "name": "Don't Give Up On Me",
+      "url": "https://open.spotify.com/track/0fiijtFXDJ9MOVwgSaEQJ5"
     },
     {
       "album": {
@@ -2094,7 +2156,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 156225,
       "name": "Duimpje Omhoog",
       "url": "https://open.spotify.com/track/4AGG98m7CTokp6pCyBPPFn"
@@ -2631,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Summer",
+        "url": "https://open.spotify.com/album/6URIHB3zQ2ba7msR4gqf0k"
+      },
+      "artists": [
+        {
+          "name": "Samuel Jack",
+          "url": "https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187094,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/0ZERGmkfuDSrLaIzEGFdiH"
+    },
+    {
+      "album": {
         "name": "Festival",
         "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
       },
@@ -3106,6 +3186,24 @@
       "duration_ms": 214942,
       "name": "Good Feeling (feat. Rhys Lewis)",
       "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "album": {
@@ -4306,7 +4404,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 147692,
       "name": "kompa pasi\u00f3n",
       "url": "https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI"
@@ -4648,6 +4746,24 @@
       "duration_ms": 332386,
       "name": "Look At Us Now (Honeycomb)",
       "url": "https://open.spotify.com/track/6xSr2HhAmY096v9vfJrRqv"
+    },
+    {
+      "album": {
+        "name": "Look Who's Laughing Now",
+        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174660,
+      "name": "Look Who's Laughing Now",
+      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
     },
     {
       "album": {
@@ -7339,6 +7455,24 @@
     },
     {
       "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275506,
+      "name": "Ride Like the Wind",
+      "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
+    },
+    {
+      "album": {
         "name": "Ride Or Die, Pt. 2",
         "url": "https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0"
       },
@@ -7594,7 +7728,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 399040,
       "name": "Satisfaction - Isak Original Mix",
       "url": "https://open.spotify.com/track/36emXWXbAWqtKdXPZfwNnO"
@@ -7758,6 +7892,24 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "album": {
+        "name": "Easier Said Than Done",
+        "url": "https://open.spotify.com/album/4WdZUPgLkbS6qIeuP9CG9r"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "SEGA",
+      "url": "https://open.spotify.com/track/60rOQaDu4ADXKHqg4fT6IX"
     },
     {
       "album": {
@@ -8747,6 +8899,28 @@
     },
     {
       "album": {
+        "name": "The Spark",
+        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
+      },
+      "artists": [
+        {
+          "name": "Kabin Crew",
+          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
+        },
+        {
+          "name": "Lisdoonvarna Crew",
+          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146384,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
+    },
+    {
+      "album": {
         "name": "The Spectre",
         "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
       },
@@ -8762,6 +8936,54 @@
       "duration_ms": 193787,
       "name": "The Spectre",
       "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
+    },
+    {
+      "album": {
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195873,
+      "name": "The Spins",
+      "url": "https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR"
+    },
+    {
+      "album": {
+        "name": "The Sun Is Shining",
+        "url": "https://open.spotify.com/album/79gnBqgc2PnKThDog3XNDm"
+      },
+      "artists": [
+        {
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+        },
+        {
+          "name": "1 World",
+          "url": "https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa"
+        },
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158740,
+      "name": "The Sun Is Shining",
+      "url": "https://open.spotify.com/track/1ROZwbJBndwmp5Cl2ig7TB"
     },
     {
       "album": {

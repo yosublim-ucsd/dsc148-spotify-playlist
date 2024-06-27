@@ -1,12 +1,12 @@
 {
-  "description": "This is Salt Creek. The essential tracks, all in one playlist.",
+  "description": "This is Salt Creek. Tutti i brani in un'unica playlist.",
   "num_followers": 52,
   "original_name": "This Is Salt Creek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAABUJCCisgOA93Ezq9om1b0m",
+  "snapshot_id": "ZnoIgAAAAAAD+Z1VdT1pvz8r7hcYsLpb",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 193293,
-      "name": "Soul Jar",
-      "url": "https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L"
+      "duration_ms": 175614,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Occult Box (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gBL6rEeGLUM1anvgGuisF"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 320320,
-      "name": "Destroy",
-      "url": "https://open.spotify.com/track/5GMsUTlHVuuKF08zW6zQ5g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Out of the Sky",
         "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
       },
@@ -164,9 +148,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 175614,
-      "name": "INVU",
-      "url": "https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe"
+      "duration_ms": 193293,
+      "name": "Soul Jar",
+      "url": "https://open.spotify.com/track/1rDETpDKFivRksRXGWQz6L"
     },
     {
       "added_at": null,
@@ -228,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 254733,
-      "name": "Window Shade",
-      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
+      "duration_ms": 205826,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD"
     },
     {
       "added_at": null,
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 205826,
-      "name": "Weathervane",
-      "url": "https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD"
+      "duration_ms": 254733,
+      "name": "Window Shade",
+      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
     },
     {
       "added_at": null,

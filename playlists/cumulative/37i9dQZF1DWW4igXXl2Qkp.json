@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:6UIpxj5ggLdOebFVCOxVax\">Loe Shimmy</a>\n",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:5qhDQveADDnjIZQ85AtgDM\">STAR BANDZ</a>\n",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -706,6 +706,24 @@
       "duration_ms": 99115,
       "name": "8 days a week",
       "url": "https://open.spotify.com/track/0KowL4rI8ttFazFhC6TvmI"
+    },
+    {
+      "album": {
+        "name": "Your Stepdad [Deluxe]",
+        "url": "https://open.spotify.com/album/6WmxKzDnGUXqtSyJ6iKCUT"
+      },
+      "artists": [
+        {
+          "name": "Your Stepdad",
+          "url": "https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117575,
+      "name": "808's and Weird Shit",
+      "url": "https://open.spotify.com/track/3WlvQEWPeIRKvRokAycexP"
     },
     {
       "album": {
@@ -3721,6 +3739,24 @@
     },
     {
       "album": {
+        "name": "BOSS COFFEE",
+        "url": "https://open.spotify.com/album/7wkGcwwAvaN6cZMjTTWEvY"
+      },
+      "artists": [
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129826,
+      "name": "BOSS COFFEE",
+      "url": "https://open.spotify.com/track/0TFScVZuG1q3YV0oQ60HL1"
+    },
+    {
+      "album": {
         "name": "Boujee",
         "url": "https://open.spotify.com/album/006BIFfWhCSaQxRVGT0GUn"
       },
@@ -4416,7 +4452,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 138369,
       "name": "CANADIAN TUX",
       "url": "https://open.spotify.com/track/65LD6j5Wg5xYnebnrcwaUI"
@@ -4785,6 +4821,28 @@
     },
     {
       "album": {
+        "name": "Click (with STAR BANDZ)",
+        "url": "https://open.spotify.com/album/3wAYmVJa0xce3hPspthdIV"
+      },
+      "artists": [
+        {
+          "name": "1up Tee",
+          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
+        },
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Click (with STAR BANDZ)",
+      "url": "https://open.spotify.com/track/7mefGjEVVKjAM7kkjnmIU0"
+    },
+    {
+      "album": {
         "name": "Close Friends",
         "url": "https://open.spotify.com/album/1N6EM0uF39G1A3uHPO6oIX"
       },
@@ -5122,7 +5180,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 213487,
       "name": "CRASHING DOWN",
       "url": "https://open.spotify.com/track/1pYAKlIRaVOgp9UW3c0Ytd"
@@ -5294,7 +5352,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 163615,
       "name": "Curtis Jackson",
       "url": "https://open.spotify.com/track/2FVr7l3wYO2y1jIkH5va2o"
@@ -8000,7 +8058,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 159821,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/6VwiIlkMlY83oITeZbOOCF"
@@ -8152,6 +8210,24 @@
       "duration_ms": 157847,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/00ZSsUUJXQMJSjgTxOHvzr"
+    },
+    {
+      "album": {
+        "name": "Free Rio",
+        "url": "https://open.spotify.com/album/5Zi0Pf3Eu1aZWEK6BzA94F"
+      },
+      "artists": [
+        {
+          "name": "DB.Boutabag",
+          "url": "https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145371,
+      "name": "Free Rio",
+      "url": "https://open.spotify.com/track/78cJP8mb8mvA8AgXMBOAsy"
     },
     {
       "album": {
@@ -8412,7 +8488,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 111192,
       "name": "G for Global",
       "url": "https://open.spotify.com/track/2CMxwWsN3hF7wYnMTZ5aOB"
@@ -11942,7 +12018,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 114599,
       "name": "Latex",
       "url": "https://open.spotify.com/track/6D0SnFFpPlzdLyVThkN1EG"
@@ -12346,6 +12422,36 @@
       "duration_ms": 91129,
       "name": "LIGHTERS",
       "url": "https://open.spotify.com/track/3lI1eVL8K0aYQ9Bvbo0Zag"
+    },
+    {
+      "album": {
+        "name": "HUE SOUND, VOL 1: LIGHTWORK",
+        "url": "https://open.spotify.com/album/3L8DAQhfqD8B48dOxgVYcz"
+      },
+      "artists": [
+        {
+          "name": "HUE SOUND",
+          "url": "https://open.spotify.com/artist/3BsGKNayMq7tYR01UU13z6"
+        },
+        {
+          "name": "Paris Price",
+          "url": "https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        },
+        {
+          "name": "Mad Keys",
+          "url": "https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190463,
+      "name": "LIGHTWORK",
+      "url": "https://open.spotify.com/track/0WeGjX9lZiabNektDvT6NL"
     },
     {
       "album": {
@@ -15259,6 +15365,24 @@
     },
     {
       "album": {
+        "name": "nights'",
+        "url": "https://open.spotify.com/album/0zpnyLFcwUu6ziYu2yLGLL"
+      },
+      "artists": [
+        {
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148987,
+      "name": "nights'",
+      "url": "https://open.spotify.com/track/7rhawho5h7gRWmldDc2f3t"
+    },
+    {
+      "album": {
         "name": "NINE",
         "url": "https://open.spotify.com/album/55yHo2DmIaONUlpMMR9sht"
       },
@@ -17226,7 +17350,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 99134,
       "name": "PRESSED",
       "url": "https://open.spotify.com/track/76iv4nlUeQqJgUJuafBGvf"
@@ -17302,7 +17426,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 153994,
       "name": "Price Going Up",
       "url": "https://open.spotify.com/track/2z3lnPXc6ZGTSKE7NogSXC"
@@ -17606,7 +17730,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 230112,
       "name": "Put The Bag First",
       "url": "https://open.spotify.com/track/34iKaFipIoGQ0XFePP7x2J"
@@ -17912,7 +18036,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 122686,
       "name": "REAL",
       "url": "https://open.spotify.com/track/217TmpbCNpVPISJYmAdxlu"
@@ -18580,7 +18704,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 170360,
       "name": "Run Shit",
       "url": "https://open.spotify.com/track/4KUZw84SWdhDDtPWtCaPF6"
@@ -19297,6 +19421,32 @@
     },
     {
       "album": {
+        "name": "silent heel",
+        "url": "https://open.spotify.com/album/4NdeAAlbR3AOJItt0VP4dv"
+      },
+      "artists": [
+        {
+          "name": "MESSIAH!",
+          "url": "https://open.spotify.com/artist/7nfddgqZWzCgRcgZvjJqgo"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        },
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235479,
+      "name": "silent heel",
+      "url": "https://open.spotify.com/track/1U3nHpW5WjsBkCkCRG362U"
+    },
+    {
+      "album": {
         "name": "Silly Heaux",
         "url": "https://open.spotify.com/album/03DunL87YaUMadDMdIPzRA"
       },
@@ -19803,6 +19953,24 @@
     },
     {
       "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/6PHJaADgQGWUYZWu80PEkU"
+      },
+      "artists": [
+        {
+          "name": "MARCO PLUS",
+          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305052,
+      "name": "solace",
+      "url": "https://open.spotify.com/track/3WbG5D8zVStOhL6MTQgQ5h"
+    },
+    {
+      "album": {
         "name": "Solar System",
         "url": "https://open.spotify.com/album/3bwQ7dUluzGuivf2COLepc"
       },
@@ -20121,6 +20289,28 @@
     },
     {
       "album": {
+        "name": "SPIRIT GUN",
+        "url": "https://open.spotify.com/album/2qjIyCUHv1AaDSWsl9Ik7j"
+      },
+      "artists": [
+        {
+          "name": "Malik Elijah",
+          "url": "https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh"
+        },
+        {
+          "name": "Latrell James",
+          "url": "https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159289,
+      "name": "SPIRIT GUN",
+      "url": "https://open.spotify.com/track/7z53VFg0dUJHtMstREapNe"
+    },
+    {
+      "album": {
         "name": "Splat",
         "url": "https://open.spotify.com/album/7yxhsijLki5kVHC62xPhKr"
       },
@@ -20175,7 +20365,7 @@
     },
     {
       "album": {
-        "name": "Splitz (Feat. Lil Baby)",
+        "name": "Splitz",
         "url": "https://open.spotify.com/album/4Y4ZGoYCQiabburYeOD30i"
       },
       "artists": [
@@ -20192,7 +20382,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 154921,
-      "name": "Splitz - Feat. Lil Baby",
+      "name": "Splitz",
       "url": "https://open.spotify.com/track/2Sh502DfJNGzhnEEnkN6QJ"
     },
     {
@@ -20944,7 +21134,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 199972,
       "name": "Swim",
       "url": "https://open.spotify.com/track/11vl1eaSsZHDnuEDfvvhCm"
@@ -23251,6 +23441,36 @@
     },
     {
       "album": {
+        "name": "HUE SOUND, VOL 1: LIGHTWORK",
+        "url": "https://open.spotify.com/album/3L8DAQhfqD8B48dOxgVYcz"
+      },
+      "artists": [
+        {
+          "name": "HUE SOUND",
+          "url": "https://open.spotify.com/artist/3BsGKNayMq7tYR01UU13z6"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        },
+        {
+          "name": "Mad Keys",
+          "url": "https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2"
+        },
+        {
+          "name": "Paris Price",
+          "url": "https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128134,
+      "name": "WAITIN",
+      "url": "https://open.spotify.com/track/5enNpEZhX6CZAHox09Nxk3"
+    },
+    {
+      "album": {
         "name": "WAITONME",
         "url": "https://open.spotify.com/album/7ebncX53jK1sj9CD1IQHK4"
       },
@@ -24530,7 +24750,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 121887,
       "name": "Yea Yea",
       "url": "https://open.spotify.com/track/2VIJ6TJoMNc0KeXgrCUSLu"
@@ -24704,7 +24924,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 182857,
       "name": "Zion N Sacred Art",
       "url": "https://open.spotify.com/track/4wNMC9Yhah4zk6j6Jy3a2u"

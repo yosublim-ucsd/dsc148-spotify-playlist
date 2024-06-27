@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: FRIEDRICH, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Rahel, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -988,6 +988,24 @@
     {
       "album": {
         "name": "Angst",
+        "url": "https://open.spotify.com/album/6CPsPA6bPRkGlngm4Yg03s"
+      },
+      "artists": [
+        {
+          "name": "Rahel",
+          "url": "https://open.spotify.com/artist/5r3MZScW8ORu8U9T0hmCPL"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179461,
+      "name": "Angst",
+      "url": "https://open.spotify.com/track/44lEBcPY7DZsRchgQuZjca"
+    },
+    {
+      "album": {
+        "name": "Angst",
         "url": "https://open.spotify.com/album/29F5AbwqtV1XnEd9ELoCnX"
       },
       "artists": [
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 174948,
       "name": "ARM",
       "url": "https://open.spotify.com/track/5SEj49J7GiVe26ZV6FEUUW"
@@ -1380,7 +1398,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 167069,
       "name": "Babe",
       "url": "https://open.spotify.com/track/61wtihlfNjGHCk5DY2aiYR"
@@ -1855,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Big Smiles",
+        "url": "https://open.spotify.com/album/6hZLyGemCjYPHSKLmNbu8H"
+      },
+      "artists": [
+        {
+          "name": "Between Owls",
+          "url": "https://open.spotify.com/artist/3ZyKtqDXmUlEwgGt3iipTq"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Big Smiles",
+      "url": "https://open.spotify.com/track/0oYHjBnblrVITXHndUsG22"
+    },
+    {
+      "album": {
         "name": "Bird's Life",
         "url": "https://open.spotify.com/album/2vpSULG9uMwpHsQ2KXHbuR"
       },
@@ -2108,7 +2144,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 223615,
       "name": "blaues licht",
       "url": "https://open.spotify.com/track/0dzL2MWcaIkvh3XmHXfRIb"
@@ -5093,6 +5129,24 @@
     },
     {
       "album": {
+        "name": "Drunk in Love",
+        "url": "https://open.spotify.com/album/555zgvNI85MJcwGgTzfT8y"
+      },
+      "artists": [
+        {
+          "name": "Denny Jay",
+          "url": "https://open.spotify.com/artist/5AYOVoAofpknDrmarT2jt0"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149590,
+      "name": "Drunk in Love",
+      "url": "https://open.spotify.com/track/626WpfRMJnmk9B0VGmWz0V"
+    },
+    {
+      "album": {
         "name": "Dschungel",
         "url": "https://open.spotify.com/album/3laNqjkfJ28s3CGDKdlWQ4"
       },
@@ -5238,6 +5292,28 @@
       "duration_ms": 396865,
       "name": "Dusk Till Dawn",
       "url": "https://open.spotify.com/track/66sBQP4haQGislypMN3reX"
+    },
+    {
+      "album": {
+        "name": "Dusty Eyes",
+        "url": "https://open.spotify.com/album/11YiDP2k2oClv3fHEb7nW6"
+      },
+      "artists": [
+        {
+          "name": "TELLL",
+          "url": "https://open.spotify.com/artist/28ngN7jX9jFLL6R3ejjNWQ"
+        },
+        {
+          "name": "Ivery",
+          "url": "https://open.spotify.com/artist/32oc8Xlo5E67JkJJTC1JX6"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263415,
+      "name": "Dusty Eyes",
+      "url": "https://open.spotify.com/track/7FaaQD6dBXQIHxCbByXIFa"
     },
     {
       "album": {
@@ -5928,7 +6004,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 134470,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/7fNjY0oS8mKPtGQxevOBwz"
@@ -6166,7 +6242,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 170725,
       "name": "Falling Again",
       "url": "https://open.spotify.com/track/0LqE1XSOeqEAoZSpKqX5bC"
@@ -8016,7 +8092,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 218649,
       "name": "Heart Still Beats 4 U",
       "url": "https://open.spotify.com/track/4TJBP4HTaJyujk0L0Yf8h7"
@@ -9812,7 +9888,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 193826,
       "name": "Jona",
       "url": "https://open.spotify.com/track/7dJ4WXrjst71fFyaAysbD5"
@@ -10862,6 +10938,24 @@
       "duration_ms": 187493,
       "name": "licht",
       "url": "https://open.spotify.com/track/6XHmH7CawKV2O2fXUaD6bz"
+    },
+    {
+      "album": {
+        "name": "Lichtblick",
+        "url": "https://open.spotify.com/album/6Einzy6kxuwNopqb81HfHk"
+      },
+      "artists": [
+        {
+          "name": "NIEMALS",
+          "url": "https://open.spotify.com/artist/1yY1FbNGJVyaTQQ62PYv9y"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170740,
+      "name": "Lichtblick",
+      "url": "https://open.spotify.com/track/3hZKeMBXB7swz85lkuMZyX"
     },
     {
       "album": {
@@ -12688,7 +12782,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 120228,
       "name": "nichtschwimmer",
       "url": "https://open.spotify.com/track/5xWL39XHuLPamlpBnKj0XA"
@@ -15767,6 +15861,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3qfG69uFbDHJ9pXRQsUFBS"
+      },
+      "artists": [
+        {
+          "name": "Nina Celine",
+          "url": "https://open.spotify.com/artist/4ts0PBYiqG54p9lBrZ6hy3"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155433,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0CJVcIjU3xKOgRufhiE99j"
+    },
+    {
+      "album": {
         "name": "See Me Falling",
         "url": "https://open.spotify.com/album/2SXIj5tIf7lkxLdTafEVXW"
       },
@@ -16420,7 +16532,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 223776,
       "name": "So Long",
       "url": "https://open.spotify.com/track/4wNJkIMcP7s2WcJZ6GYH76"
@@ -16846,6 +16958,24 @@
       "duration_ms": 191027,
       "name": "Spring",
       "url": "https://open.spotify.com/track/10qeL2Lvi7VKE5u3piNDNx"
+    },
+    {
+      "album": {
+        "name": "Sry Nein",
+        "url": "https://open.spotify.com/album/2Lx2lfS56kcutLFur53K56"
+      },
+      "artists": [
+        {
+          "name": "Vergisstmannnicht",
+          "url": "https://open.spotify.com/artist/1zQ3X6CZNeti5RZ1iZgHlt"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Sry Nein",
+      "url": "https://open.spotify.com/track/4WC4lrn2ydY02tV1vaL4Sf"
     },
     {
       "album": {
@@ -17495,6 +17625,24 @@
     },
     {
       "album": {
+        "name": "Swipe",
+        "url": "https://open.spotify.com/album/4RBt7qvZ5wxO78nMZiCLWC"
+      },
+      "artists": [
+        {
+          "name": "MEMOI",
+          "url": "https://open.spotify.com/artist/21OaILBQ3OW6QhilQ32wda"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192272,
+      "name": "Swipe",
+      "url": "https://open.spotify.com/track/1Z6rx92R2MNjGodjeUrq4e"
+    },
+    {
+      "album": {
         "name": "S\u00e4ulen",
         "url": "https://open.spotify.com/album/4GKKZTEU1bmlWXJI64SKj8"
       },
@@ -17658,7 +17806,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 193677,
       "name": "Television",
       "url": "https://open.spotify.com/track/78DPcZ9xY3UCchuQHnvDIc"
@@ -19185,6 +19333,28 @@
     },
     {
       "album": {
+        "name": "MM001",
+        "url": "https://open.spotify.com/album/4ZMDpSqddkubkcmrEHTVpT"
+      },
+      "artists": [
+        {
+          "name": "MITMISCHEN",
+          "url": "https://open.spotify.com/artist/02BkREPofdRZIVYBPDaHgc"
+        },
+        {
+          "name": "Elfi",
+          "url": "https://open.spotify.com/artist/4eWDXF7bBpqkHdKtQ2grlg"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196138,
+      "name": "Venus/Mars",
+      "url": "https://open.spotify.com/track/4ZJiBy96b5INuQZXbsGoLL"
+    },
+    {
+      "album": {
         "name": "Verdammt",
         "url": "https://open.spotify.com/album/3f9JcIzhjRr3h58sJOt2qT"
       },
@@ -19676,6 +19846,24 @@
       "duration_ms": 179718,
       "name": "We Didn't Fit Together At All",
       "url": "https://open.spotify.com/track/6051tQ7EVkAuRshp4le6Tf"
+    },
+    {
+      "album": {
+        "name": "We Were Heroes",
+        "url": "https://open.spotify.com/album/0OWKj4bho5UirZMOtVTl9p"
+      },
+      "artists": [
+        {
+          "name": "TATIA",
+          "url": "https://open.spotify.com/artist/7zaDWkEQQLHxLbp79fm9dK"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226502,
+      "name": "We Were Heroes",
+      "url": "https://open.spotify.com/track/5mah7gCT19YabS9VtoIUXX"
     },
     {
       "album": {

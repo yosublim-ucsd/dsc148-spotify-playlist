@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 166153,
       "name": "Ana (A M\u00ed)",
       "url": "https://open.spotify.com/track/2j4lOCH0hUt8U3SFlBNzCW"
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -4932,7 +4932,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 160113,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/2tFcqyXXBUdtPIrGk19juw"
@@ -6190,6 +6190,28 @@
       "duration_ms": 226490,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
+    },
+    {
+      "album": {
+        "name": "DEMASIADO FLOW",
+        "url": "https://open.spotify.com/album/0dgLLHPKLUU0agFBuvohtn"
+      },
+      "artists": [
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "CREADOR",
+          "url": "https://open.spotify.com/artist/0SsoQFZXKE0Szow7wdZ3yO"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "DEMASIADO FLOW",
+      "url": "https://open.spotify.com/track/7toThDUb8eVV4tgqSYWw0x"
     },
     {
       "album": {
@@ -8196,7 +8218,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 215213,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
@@ -8394,6 +8416,32 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "album": {
+        "name": "Ellos Vienen Ellos Van (Remix)",
+        "url": "https://open.spotify.com/album/2OaIGw5SeTQEX3B17k3wF0"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Loco Prieto Oficial",
+          "url": "https://open.spotify.com/artist/4lpMINWZQ39N9joHJFmgDE"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124028,
+      "name": "Ellos Vienen Ellos Van - Remix",
+      "url": "https://open.spotify.com/track/6OrYFEipXhLOZPHonr62mU"
     },
     {
       "album": {
@@ -13942,7 +13990,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 131000,
       "name": "LA VIDA BUENA",
       "url": "https://open.spotify.com/track/5izEV5M3JTCcD1xxSUPXIS"
@@ -14134,7 +14182,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 188885,
       "name": "LASER",
       "url": "https://open.spotify.com/track/6DjCL0BcCrOWGh2538hhVg"
@@ -15944,7 +15992,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 185795,
       "name": "Mami tu te pasas",
       "url": "https://open.spotify.com/track/06X3IC7O2gLdG7p7klh0Tj"
@@ -19347,6 +19395,28 @@
     },
     {
       "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240964,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
+    {
+      "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
@@ -21062,7 +21132,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -27444,7 +27514,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 112906,
       "name": "TIRALO PA' TRA",
       "url": "https://open.spotify.com/track/0xY42qwLNOERJfKt1cmCl2"

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [08pm rain](https://open.spotify.com/track/5avCPLTbfEaFt6KwhNaEsV) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in gothenburg](https://open.spotify.com/album/5YsUXczkuSJUIqYCTCcaOV) | 3:06 | 2022-04-07 |  |
+| [08pm rain](https://open.spotify.com/track/5avCPLTbfEaFt6KwhNaEsV) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in gothenburg](https://open.spotify.com/album/5YsUXczkuSJUIqYCTCcaOV) | 3:06 | 2022-04-07 | 2024-06-27 |
 | [11 p.m rain](https://open.spotify.com/track/0236YDA8KmwrVQV5f4tTzE) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [11 p.m rain](https://open.spotify.com/album/1lSOE7QiLZ79Egs0OBB1aW) | 2:15 | 2022-04-07 | 2023-06-21 |
 | [11 p.m rain](https://open.spotify.com/track/7umWlKowqWEBaX7XlwHC7I) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [11 p.m rain](https://open.spotify.com/album/1lSOE7QiLZ79Egs0OBB1aW) | 2:23 | 2022-04-07 |  |
 | [3am rain](https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 | 2022-04-07 |  |
@@ -134,7 +134,7 @@
 | [Quality Rain](https://open.spotify.com/track/6wylgOavjiq5DxfwrBWDJp) | [Rain Recordings](https://open.spotify.com/artist/0K4qycWYB7fwNMvrtS9lID) | [Rain Storms](https://open.spotify.com/album/7ipI3unaq9JtibJGg74yCQ) | 2:16 | 2022-04-07 |  |
 | [Quiet, Listen](https://open.spotify.com/track/6PUGWTnD1L8JmzmdogNUfS) | [Dropletecal](https://open.spotify.com/artist/2qOif0NcXyNAAhriR39lQ8) | [Evaporating Water](https://open.spotify.com/album/2OAmblyE8oR9F1Oac4sEIi) | 2:33 | 2022-04-07 |  |
 | [Rain](https://open.spotify.com/track/05up0rSwBaSJeFRwB1Xmm6) | [New Sounds Of Nature](https://open.spotify.com/artist/5U4BDAMefQlcNIp9OaEbQa) | [New Sounds Of Nature](https://open.spotify.com/album/70XslLqe3Ajnnxr0wWDboy) | 2:22 | 2022-04-07 |  |
-| [Rain](https://open.spotify.com/track/2BmeOiB4IOkF4blp8m9QO0) | [sonos natura](https://open.spotify.com/artist/2JXRCHWmCZOXaL0myEXCNR) | [Uma Cama Quente](https://open.spotify.com/album/0SaXJrUabenc3BLvOAUQli) | 2:39 | 2022-04-07 | 2023-06-21 |
+| [Rain](https://open.spotify.com/track/2BmeOiB4IOkF4blp8m9QO0) | [sonos natura](https://open.spotify.com/artist/2JXRCHWmCZOXaL0myEXCNR) | [Uma Cama Quente](https://open.spotify.com/album/0SaXJrUabenc3BLvOAUQli) | 2:39 | 2022-04-07 |  |
 | [Rain After The Storm](https://open.spotify.com/track/6INpACWuzfVytMrEJByyhc) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Scandinavian Rain](https://open.spotify.com/album/1KYpqdkgChN7cRPriZTDFJ) | 2:49 | 2022-04-07 |  |
 | [Rain Again](https://open.spotify.com/track/6SoSVRemix7GmsZZusXXhY) | [Meryl Stream](https://open.spotify.com/artist/7wU4Xw4xqmBzfy2TIej8qa) | [Leaking Clouds](https://open.spotify.com/album/6vJEQDkD0nvKBuEgWiigVh) | 2:33 | 2022-04-07 |  |
 | [Rain All Year Round](https://open.spotify.com/track/4iwDUEEZHxq7ITcc7DqCCI) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2022-04-07 |  |

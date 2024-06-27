@@ -4,7 +4,7 @@
 
 > Exercise together with uplifting soul music.
 
-155 songs - 8 hr 1 min
+156 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Another Saturday Night](https://open.spotify.com/track/5z8DiKSG4EwxmO6gUi12rZ) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 2:40 | 2023-01-09 |  |
 | [At the Top of the Stairs](https://open.spotify.com/track/0rA9NWth0fNN62CcpCPLvr) | [The Formations](https://open.spotify.com/artist/4VSXRIlvdkUtEFAXDS4TfQ) | [Six Pack](https://open.spotify.com/album/0PXUcppvK5YmC5QiWpLdLi) | 2:18 | 2022-03-24 | 2022-04-21 |
 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 | 2022-01-21 |  |
+| [Barefootin'](https://open.spotify.com/track/6t5XVSW2it2oySKzeYt9Ov) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:22 | 2024-01-16 |  |
 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 | 2021-12-20 |  |
 | [Boogie Wonderland](https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2022-05-12 | 2023-02-22 |
 | [Boogie Wonderland \- with The Emotions](https://open.spotify.com/track/11I3sRmPhmBKwQtz5dAsXF) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Boogie Wonderland: The Best Of Earth, Wind & Fire](https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb) | 4:48 | 2022-03-24 | 2022-04-21 |
@@ -151,7 +152,7 @@
 | [Twistin' the Night Away](https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away](https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY) | 2:39 | 2022-05-12 | 2024-04-19 |
 | [Twistin' the Night Away](https://open.spotify.com/track/4pHLMH4f3NKP5cBRfPlIZb) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Twistin' the Night Away \(Classic Album \- Gold Edition\)](https://open.spotify.com/album/5tTtfbF5NOceHLjzjWywYC) | 2:42 | 2021-12-20 | 2022-07-29 |
 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight](https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK) | 2:54 | 2022-05-12 | 2024-04-19 |
-| [Uptight \(Everything's Alright\)](https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight Everything's Alright](https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP) | 2:55 | 2021-12-20 |  |
+| [Uptight \(Everything's Alright\)](https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight Everything's Alright](https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP) | 2:55 | 2021-12-20 | 2024-06-27 |
 | [Wade In The Water](https://open.spotify.com/track/3cuvHbi1A18vg58oi4CEfV) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Freedom Highway](https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg) | 2:56 | 2021-12-20 | 2022-07-29 |
 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 | 2023-02-21 |  |
 | [Warpaint](https://open.spotify.com/track/3sqb5hfu5gIdrd2U70FT3L) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Warpaint](https://open.spotify.com/album/2MkJIYLt4fz2SDSozVntDD) | 4:50 | 2022-03-24 | 2022-07-20 |

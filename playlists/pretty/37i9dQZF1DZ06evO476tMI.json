@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 606237,
+  "num_followers": 606313,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAADenwS8Y7azIxExGxiD36aa",
+  "snapshot_id": "ZnoIgAAAAABOcWqcArbiL3Uh7zzogAqp",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Exhale (Shoop Shoop) - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/1X3ypzPnyerpZuMqrDFK29"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Your Baby Tonight",
         "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 299426,
       "name": "I'm Your Baby Tonight",
       "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Exhale (Shoop Shoop) - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/1X3ypzPnyerpZuMqrDFK29"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Whitney",
-        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Try It On My Own",
-      "url": "https://open.spotify.com/track/2IpeftovkFwpkWBYuS0qCz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Your Baby Tonight",
         "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 251426,
       "name": "All The Man That I Need",
       "url": "https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Whitney",
+        "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 280426,
+      "name": "Try It On My Own",
+      "url": "https://open.spotify.com/track/2IpeftovkFwpkWBYuS0qCz"
     },
     {
       "added_at": null,

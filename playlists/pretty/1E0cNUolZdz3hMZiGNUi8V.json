@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udd25 All the hottest hip hop tracks in one spot! Featuring: <a href=\"https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=jQqAUyTPThqyJKCm1mxJTQ\">Gunna</a>, Jack Harlow, Gucci Mane,  Lil Uzi Vert, Young Thug, Don Toliver,  NLE Choppa &amp; many more.",
-  "num_followers": 39156,
+  "num_followers": 39155,
   "original_name": "Hip Hop Weekly",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAeoqUJhxHfEoa0TqkhHw7hu2utJQ1I",
+  "snapshot_id": "AAAeqUqrLAROKv9Bf9nXLdWW/GsF/Px0",
   "tracks": [
     {
       "added_at": "2024-06-17 20:35:34",
@@ -105,6 +105,38 @@
       "url": "https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv"
     },
     {
+      "added_at": "2024-05-16 18:16:50",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2024-06-05 15:42:00",
+      "album": {
+        "name": "Survivor\u2019s Remorse",
+        "url": "https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 156645,
+      "name": "Survivor\u2019s Remorse",
+      "url": "https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh"
+    },
+    {
       "added_at": "2024-06-05 15:42:06",
       "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
@@ -123,22 +155,6 @@
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
-    },
-    {
-      "added_at": "2024-06-05 15:42:00",
-      "album": {
-        "name": "Survivor\u2019s Remorse",
-        "url": "https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 156645,
-      "name": "Survivor\u2019s Remorse",
-      "url": "https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh"
     },
     {
       "added_at": "2024-06-17 20:35:53",
@@ -173,20 +189,20 @@
       "url": "https://open.spotify.com/track/0LFytFdnyYnyjKQjFhz2XJ"
     },
     {
-      "added_at": "2024-05-16 18:16:50",
+      "added_at": "2024-06-26 17:26:32",
       "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/6QRaNTiMJjHP2ptwo9jM1d"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+      "duration_ms": 200893,
+      "name": "Steppas",
+      "url": "https://open.spotify.com/track/0tGxowM8TIQX5WtmrSNceT"
     },
     {
       "added_at": "2024-05-16 18:16:58",

@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-941 songs - 2 day 3 hr 10 min
+943 songs - 2 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2023-08-07 |  |
 | [Baby](https://open.spotify.com/track/7LjEQ8GsQiUNVakV6TZI0e) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Baby](https://open.spotify.com/album/1w9947gaSEqv6sJcxUKmtI) | 3:27 | 2020-08-21 | 2021-05-22 |
 | [Back 2 Good](https://open.spotify.com/track/3y0t7V46qv0n5YSbWSmi02) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Hearing Colour](https://open.spotify.com/album/4JRa8rklT1kE6cN1toiirY) | 3:06 | 2019-06-24 | 2020-01-04 |
-| [Back To My Bed](https://open.spotify.com/track/0NHBjddjKTkJQvEb5oTilt) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Back To My Bed](https://open.spotify.com/album/6xT0yZwxV34C84SOdIoEUh) | 3:22 | 2020-09-18 |  |
+| [Back To My Bed](https://open.spotify.com/track/0NHBjddjKTkJQvEb5oTilt) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Back To My Bed](https://open.spotify.com/album/6xT0yZwxV34C84SOdIoEUh) | 3:22 | 2020-09-18 | 2024-06-27 |
 | [Back To You](https://open.spotify.com/track/0GlO3iD7ParRcxXPRz6o04) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [Back To You](https://open.spotify.com/album/1Pk2SrspKEgZnyqT0wO5V6) | 2:40 | 2021-12-16 | 2022-02-17 |
 | [Back To You \- Joey Pecoraro Remix](https://open.spotify.com/track/216afVgCJWieLyqPDwziwq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Back To You \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU) | 3:46 | 2019-05-25\* | 2019-06-15 |
 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 | 2019-05-27 | 2020-04-24 |
@@ -96,8 +96,9 @@
 | [Better Than Today](https://open.spotify.com/track/6MLHg35rlksBc5OBcdZvJi) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Better Than Today](https://open.spotify.com/album/0GPUPlsmyjRLwBKlWNPW3T) | 3:50 | 2019-05-25\* | 2020-02-28 |
 | [Beyond Today](https://open.spotify.com/track/7p6s3yvfMxu6XnxodtnA00) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Lost EP](https://open.spotify.com/album/38fspTwOSWuE8kcxTe4AVs) | 3:57 | 2019-05-30 | 2020-01-04 |
 | [Bipolar](https://open.spotify.com/track/1agOL1akZePDXe21TBbBM2) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Bipolar](https://open.spotify.com/album/2y5oeiOOk7synreCnFAy7A) | 3:22 | 2019-10-25 | 2020-01-04 |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-26 |  |
 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-03-24 |  |
-| [Bitter](https://open.spotify.com/track/5Z0AM9HW78XIyZqF2BPasr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Bitter](https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u) | 3:14 | 2020-06-12 |  |
+| [Bitter](https://open.spotify.com/track/5Z0AM9HW78XIyZqF2BPasr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Bitter](https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u) | 3:14 | 2020-06-12 | 2024-06-27 |
 | [Black & Blue](https://open.spotify.com/track/1Y59TyltHoDl4YK2R3nCRm) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Black & Blue](https://open.spotify.com/album/6UEjnGUIcJjL2uBZJGD3tt) | 3:11 | 2019-10-13 | 2020-10-21 |
 | [Black Converse](https://open.spotify.com/track/0NbDnRbBxUaT27CTgmraSG) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Black Converse](https://open.spotify.com/album/5veCdVBHBm0jt5SeNq52ql) | 3:06 | 2020-06-12 | 2022-07-29 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-28 |  |
@@ -874,6 +875,7 @@
 | [Until We Meet Again](https://open.spotify.com/track/6aXgxeYA03veaPyHHZQaj3) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Until We Meet Again](https://open.spotify.com/album/1pGagy68WNlwyo7DwGZt91) | 3:17 | 2020-05-26 | 2022-07-26 |
 | [untitled](https://open.spotify.com/track/4pJcFEzvPTTpxAncONKdrk) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [untitled](https://open.spotify.com/album/1AzTLu2HMYvWizUxKPMKNP) | 2:44 | 2021-04-28 | 2021-05-14 |
 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 | 2023-08-16 |  |
+| [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-06-26 |  |
 | [Used To](https://open.spotify.com/track/24qOlCdUSSU6ungmY6fZmi) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy), [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Used To](https://open.spotify.com/album/4Y1MQP4MpyYQMmQXu5DluN) | 2:54 | 2019-05-25\* | 2019-11-30 |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-25 |  |
 | [Used to This](https://open.spotify.com/track/3r73OmpBtQAwMgawxOmlg0) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:30 | 2020-01-03 | 2020-01-04 |

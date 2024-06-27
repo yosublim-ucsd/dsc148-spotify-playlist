@@ -6291,7 +6291,7 @@
     },
     {
       "album": {
-        "name": "everybody's gone home (florence slowed version)",
+        "name": "everybody's gone home (slowed version)",
         "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
       },
       "artists": [
@@ -6302,13 +6302,17 @@
         {
           "name": "Sedogy Bedam",
           "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        },
+        {
+          "name": "weareflorence",
+          "url": "https://open.spotify.com/artist/5VpCk450Ks61RKAA9OFyyi"
         }
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171072,
-      "name": "everybody's gone home (florence slowed version)",
+      "name": "everybody's gone home - slowed version",
       "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
     },
     {

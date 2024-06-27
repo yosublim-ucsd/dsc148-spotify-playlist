@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 515 songs - 1 day 9 hr 58 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 514 songs - 1 day 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -517,11 +517,10 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 507 | [Sky Saw \- 2004 Remaster](https://open.spotify.com/track/1sr1NnVTSUZL2xGzlkiq1G) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:27 |
 | 508 | [Ol' 55](https://open.spotify.com/track/7qbLE7ssJcnWD6EO7My847) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time \(Remastered\)](https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb) | 3:56 |
 | 509 | [Smack My Bitch Up](https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 5:43 |
-| 510 | [WHAT'S THE TIME? \(SOME DAY, IN TIME\)](https://open.spotify.com/track/51mk7xOetdjEHMJpPpeT7e) | [DOOPEES](https://open.spotify.com/artist/6S7MhIZberHR1iHRE6obUf) | [DOOPEE TIME](https://open.spotify.com/album/4ZrrsbXBe0byye7R0Spx1x) | 0:29 |
-| 511 | [TOP SECRET MAN](https://open.spotify.com/track/0xlMZyzjV8B6d0xchDCnmw) | [Plastics](https://open.spotify.com/artist/12I1yoGmoHUfrm0OIrYQhz) | [WELCOME PLASTICS](https://open.spotify.com/album/52zbFml9o5ADP62lvoaq3Z) | 2:26 |
-| 512 | [LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [LONG SEASON](https://open.spotify.com/album/4EX1fAypgQC9wDjGI5QzbZ) | 35:16 |
-| 513 | [Intro \(It's Album Time\)](https://open.spotify.com/track/2oa3MecguzBGHp2lF72pOh) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2) | 1:40 |
-| 514 | [Basil Noodles](https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:16 |
-| 515 | [001](https://open.spotify.com/track/5IsDutGiVEOzHXSqB3ZcXv) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [001](https://open.spotify.com/album/06uSvdhE2EKZFFs4ZUzcOt) | 3:06 |
+| 510 | [TOP SECRET MAN](https://open.spotify.com/track/0xlMZyzjV8B6d0xchDCnmw) | [Plastics](https://open.spotify.com/artist/12I1yoGmoHUfrm0OIrYQhz) | [WELCOME PLASTICS](https://open.spotify.com/album/52zbFml9o5ADP62lvoaq3Z) | 2:26 |
+| 511 | [LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [LONG SEASON](https://open.spotify.com/album/4EX1fAypgQC9wDjGI5QzbZ) | 35:16 |
+| 512 | [Intro \(It's Album Time\)](https://open.spotify.com/track/2oa3MecguzBGHp2lF72pOh) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2) | 1:40 |
+| 513 | [Basil Noodles](https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:16 |
+| 514 | [001](https://open.spotify.com/track/5IsDutGiVEOzHXSqB3ZcXv) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [001](https://open.spotify.com/album/06uSvdhE2EKZFFs4ZUzcOt) | 3:06 |
 
-Snapshot ID: `AAAGLFPNP3zMao4RucRJdnPR9fA6QLyk`
+Snapshot ID: `AAAGLRsBnytcQ4jd583o18gSUFqtKeGM`

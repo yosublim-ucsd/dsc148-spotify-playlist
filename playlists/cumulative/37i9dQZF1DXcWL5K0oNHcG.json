@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "April In Paris",
+        "url": "https://open.spotify.com/album/3bAfv8bowq6PIv2rw0zI87"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243457,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/2mBmDzFH3ysQoZM6eEYh0X"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/1yDtE1Rr7hjEzbH6DFp4FG"
       },
@@ -1749,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "Journey We Did",
+        "url": "https://open.spotify.com/album/677yvDEFo4OH08S8duKHPt"
+      },
+      "artists": [
+        {
+          "name": "John Nakayama Trio",
+          "url": "https://open.spotify.com/artist/43wM3prVdVeBJc4qD3gVdz"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299060,
+      "name": "Arpen",
+      "url": "https://open.spotify.com/track/0OdTNdxDcZQoDjksOwDKH1"
+    },
+    {
+      "album": {
         "name": "Liesu",
         "url": "https://open.spotify.com/album/69qer1Cm2ce3LVRLWPUgn7"
       },
@@ -1840,7 +1876,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 164500,
       "name": "Aspire",
       "url": "https://open.spotify.com/track/4lRJPpelj6XySxqL73XIWJ"
@@ -7488,7 +7524,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 272000,
       "name": "El Novio - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/0XscqW7XABbfVxLr1Xxy2V"
@@ -14217,6 +14253,24 @@
     },
     {
       "album": {
+        "name": "OPEN THE GATES",
+        "url": "https://open.spotify.com/album/1p4XxRbVTvKp9uGmOLi3qC"
+      },
+      "artists": [
+        {
+          "name": "QUANZA",
+          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168687,
+      "name": "LISTEN TO THE LIGHT",
+      "url": "https://open.spotify.com/track/5UzV8jo9BSozNIf7mESn4p"
+    },
+    {
+      "album": {
         "name": "SOUNDS FROM THE STREET: LIVE",
         "url": "https://open.spotify.com/album/7pV9eJkOmSHIeUp2531JCk"
       },
@@ -16074,6 +16128,24 @@
       "duration_ms": 272986,
       "name": "Moon Over Manhattan",
       "url": "https://open.spotify.com/track/6c9Eex2sbUBrczeoRvV21B"
+    },
+    {
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217480,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW"
     },
     {
       "album": {
@@ -18370,7 +18442,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 211818,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
@@ -18846,7 +18918,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 275453,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/7aVel1yyCcloBXQa7BqvlA"
@@ -20676,7 +20748,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 296000,
       "name": "RoseGold",
       "url": "https://open.spotify.com/track/3HwPz3OzoXWOEA1yiAIMZo"
@@ -26320,7 +26392,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 295506,
       "name": "Touch\u00e9 Hombre",
       "url": "https://open.spotify.com/track/3n1nN2sx8b4fyrloyKHJVl"
@@ -26927,6 +26999,24 @@
     },
     {
       "album": {
+        "name": "Unbreak",
+        "url": "https://open.spotify.com/album/62qrlffiqwcgW0Deji67DI"
+      },
+      "artists": [
+        {
+          "name": "Xan DuBose",
+          "url": "https://open.spotify.com/artist/1FtaimfBPkxh0WRi2kAg9l"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230266,
+      "name": "Unbreak",
+      "url": "https://open.spotify.com/track/1xkIQkvJoGb2HinzTzS3fj"
+    },
+    {
+      "album": {
         "name": "Uncover",
         "url": "https://open.spotify.com/album/3mBHdGiUVxQ9pmlc3xjnSv"
       },
@@ -27112,6 +27202,24 @@
       "duration_ms": 456666,
       "name": "Untethered",
       "url": "https://open.spotify.com/track/6XIPyo1QeSUHwbBRjg2Ae4"
+    },
+    {
+      "album": {
+        "name": "Until I See You Again",
+        "url": "https://open.spotify.com/album/5eUlJQADurMPkv9rCBMPuA"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299990,
+      "name": "Until I See You Again",
+      "url": "https://open.spotify.com/track/5LgKohqhX8LwJtAd0FRCo2"
     },
     {
       "album": {
@@ -27392,7 +27500,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 475441,
       "name": "Vir Elsa",
       "url": "https://open.spotify.com/track/6CZEVA2YFWwn3P41Nxtyio"
@@ -29646,6 +29754,32 @@
       "duration_ms": 258000,
       "name": "\u672c\u65e5\u306f\u6674\u5929",
       "url": "https://open.spotify.com/track/3STBOXNnwPWEwDdxfHPuqF"
+    },
+    {
+      "album": {
+        "name": "Where will we go?",
+        "url": "https://open.spotify.com/album/1J2654gN9aWRQ7629RVCDy"
+      },
+      "artists": [
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj"
+        },
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "\u5eb8\u8535",
+          "url": "https://open.spotify.com/artist/55k1fTNHRJcW8oCDUTETjx"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225281,
+      "name": "\u7d04\u675f\u306e\u98a8",
+      "url": "https://open.spotify.com/track/0fxLzzQf4NbxVkfv2eVf8U"
     },
     {
       "album": {

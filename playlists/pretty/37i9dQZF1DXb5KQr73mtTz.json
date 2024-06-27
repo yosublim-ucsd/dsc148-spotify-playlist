@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17398,
+  "num_followers": 17397,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-11 07:49:41",
       "album": {
-        "name": "long to be the garden",
-        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyunchang",
-          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
-    },
-    {
-      "added_at": "2024-06-11 07:49:41",
-      "album": {
         "name": "Please Forget Me",
         "url": "https://open.spotify.com/album/4U5CaXlqvjccAJlP5vP5uT"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 271213,
       "name": "Please Forget Me",
       "url": "https://open.spotify.com/track/6wsPqzuErrbr6ZmnQiT8cG"
+    },
+    {
+      "added_at": "2024-06-11 07:49:41",
+      "album": {
+        "name": "long to be the garden",
+        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
     },
     {
       "added_at": "2024-06-11 07:49:41",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-06-11 07:49:41",
       "album": {
-        "name": "Between Heaven And Hell",
-        "url": "https://open.spotify.com/album/7oiyhEtOQSmzqIhq2IZeVd"
-      },
-      "artists": [
-        {
-          "name": "Baek Ji Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
-        }
-      ],
-      "duration_ms": 226096,
-      "name": "Between Heaven And Hell",
-      "url": "https://open.spotify.com/track/0ZvpuSbOQGD3S3gsjoAPvS"
-    },
-    {
-      "added_at": "2024-06-11 07:49:41",
-      "album": {
         "name": "True Song",
         "url": "https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 270663,
       "name": "True Song",
       "url": "https://open.spotify.com/track/7hm4BYnceCuxlioLaKGiyW"
+    },
+    {
+      "added_at": "2024-06-11 07:49:41",
+      "album": {
+        "name": "Between Heaven And Hell",
+        "url": "https://open.spotify.com/album/7oiyhEtOQSmzqIhq2IZeVd"
+      },
+      "artists": [
+        {
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        }
+      ],
+      "duration_ms": 226096,
+      "name": "Between Heaven And Hell",
+      "url": "https://open.spotify.com/track/0ZvpuSbOQGD3S3gsjoAPvS"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

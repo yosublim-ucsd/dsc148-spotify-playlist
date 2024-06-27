@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 157917,
+  "num_followers": 157923,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,30 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
+        "name": "27 Dias",
+        "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
+      },
+      "artists": [
+        {
+          "name": "Douriel",
+          "url": "https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF"
+        },
+        {
+          "name": "Dracko",
+          "url": "https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        }
+      ],
+      "duration_ms": 139097,
+      "name": "27 Dias",
+      "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
         "name": "Sua Boca",
         "url": "https://open.spotify.com/album/713CT4lO8XlIET42xTkGfd"
       },
@@ -995,30 +1019,6 @@
       "duration_ms": 156800,
       "name": "Nossa Viagem",
       "url": "https://open.spotify.com/track/2CYjW7iosrYhe80Ydm6PEz"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
-        "name": "27 Dias",
-        "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
-      },
-      "artists": [
-        {
-          "name": "Douriel",
-          "url": "https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF"
-        },
-        {
-          "name": "Dracko",
-          "url": "https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY"
-        },
-        {
-          "name": "Indie Space",
-          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
-        }
-      ],
-      "duration_ms": 139097,
-      "name": "27 Dias",
-      "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
     },
     {
       "added_at": "2024-06-21 16:06:09",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
+        "name": "Minha Mina \u00e9 Braba",
+        "url": "https://open.spotify.com/album/6mtPlDFW6xquEHzgIICgx6"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Minha Mina \u00e9 Braba",
+      "url": "https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
-        "name": "Minha Mina \u00e9 Braba",
-        "url": "https://open.spotify.com/album/6mtPlDFW6xquEHzgIICgx6"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Minha Mina \u00e9 Braba",
-      "url": "https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
         "name": "N\u00e3o Quero Mais Nada",
         "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
       },
@@ -1191,6 +1191,26 @@
       "duration_ms": 213587,
       "name": "N\u00e3o Quero Mais Nada",
       "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
+    },
+    {
+      "added_at": "2024-06-21 16:06:09",
+      "album": {
+        "name": "Pode Confiar",
+        "url": "https://open.spotify.com/album/5357d20sHYU5ai9MUo6yiK"
+      },
+      "artists": [
+        {
+          "name": "Karen Francis",
+          "url": "https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU"
+        },
+        {
+          "name": "Anna Suav",
+          "url": "https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "Pode Confiar",
+      "url": "https://open.spotify.com/track/642FSZi6u1VTLaYNxoE6y8"
     },
     {
       "added_at": "2024-06-21 16:06:09",
@@ -1235,22 +1255,22 @@
     {
       "added_at": "2024-06-21 16:06:09",
       "album": {
-        "name": "Pode Confiar",
-        "url": "https://open.spotify.com/album/5357d20sHYU5ai9MUo6yiK"
+        "name": "Mapa Astral",
+        "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
       },
       "artists": [
         {
-          "name": "Karen Francis",
-          "url": "https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU"
+          "name": "Zoli",
+          "url": "https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6"
         },
         {
-          "name": "Anna Suav",
-          "url": "https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX"
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
         }
       ],
-      "duration_ms": 136363,
-      "name": "Pode Confiar",
-      "url": "https://open.spotify.com/track/642FSZi6u1VTLaYNxoE6y8"
+      "duration_ms": 193620,
+      "name": "Mapa Astral",
+      "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
     },
     {
       "added_at": "2024-06-21 16:06:09",
@@ -1271,26 +1291,6 @@
       "duration_ms": 125932,
       "name": "Ir Embora",
       "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
-    },
-    {
-      "added_at": "2024-06-21 16:06:09",
-      "album": {
-        "name": "Mapa Astral",
-        "url": "https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF"
-      },
-      "artists": [
-        {
-          "name": "Zoli",
-          "url": "https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6"
-        },
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        }
-      ],
-      "duration_ms": 193620,
-      "name": "Mapa Astral",
-      "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
     },
     {
       "added_at": "2024-06-21 16:06:09",

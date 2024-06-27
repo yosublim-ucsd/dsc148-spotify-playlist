@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,273 likes - 41 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,282 likes - 41 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 26 | [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 |
 | 27 | [Streetwise](https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e), [xmal](https://open.spotify.com/artist/20DDNwdmrT61u9Wat7cv7H) | [Streetwise](https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv) | 2:06 |
 | 28 | [Cowboy](https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Cowboy](https://open.spotify.com/album/3QmI9nASm8e4IdQzGoaB5W) | 3:17 |
-| 29 | [Leroy](https://open.spotify.com/track/4NNOEsCDKReHvVwSNXxfCq) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Leroy](https://open.spotify.com/album/3n2wFuTMkPQxWVHlZyJ7Ts) | 3:27 |
-| 30 | [I Let Him Love Me](https://open.spotify.com/track/3r7y3Zmvf3hjHCtXbntAaQ) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [The Loneliest Girl In The World](https://open.spotify.com/album/7IZM1DRyVEwojBUupZrh96) | 3:56 |
+| 29 | [I Let Him Love Me](https://open.spotify.com/track/3r7y3Zmvf3hjHCtXbntAaQ) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [The Loneliest Girl In The World](https://open.spotify.com/album/7IZM1DRyVEwojBUupZrh96) | 3:56 |
+| 30 | [Leroy](https://open.spotify.com/track/4NNOEsCDKReHvVwSNXxfCq) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Leroy](https://open.spotify.com/album/3n2wFuTMkPQxWVHlZyJ7Ts) | 3:27 |
 | 31 | [Riding Around In The Dark](https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Riding Around In The Dark](https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj) | 3:26 |
 | 32 | [Can't Be Still](https://open.spotify.com/track/6XUTviMKLT68nRa3Sowgn2) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Can't Be Still](https://open.spotify.com/album/2jCBWWbsHm37ZGLybkiJvF) | 2:58 |
 | 33 | [Delphinium Blue](https://open.spotify.com/track/27ws2QOhH3gNqyy30thMzR) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Delphinium Blue](https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8) | 3:37 |

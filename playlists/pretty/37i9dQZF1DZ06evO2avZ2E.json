@@ -1,12 +1,12 @@
 {
-  "description": "This Is Vanessa Zamora. Los temas esenciales, todos en una lista.",
-  "num_followers": 2629,
+  "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
+  "num_followers": 2628,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zni3AAAAAAD018nZmTTtJ9xRYgZdijV8",
+  "snapshot_id": "ZnoIgAAAAACsmuHsecbMehf5NDFzP82v",
   "tracks": [
     {
       "added_at": null,
@@ -211,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo Puede Esperar",
-        "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
+        "name": "Una Caricia",
+        "url": "https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f"
       },
       "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 161142,
-      "name": "El Mundo Puede Esperar",
-      "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
+      "duration_ms": 208240,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/7MDhm9FYj70sbX3U0w4E3m"
     },
     {
       "added_at": null,
@@ -259,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Caricia",
-        "url": "https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f"
+        "name": "El Mundo Puede Esperar",
+        "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
       },
       "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 208240,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/7MDhm9FYj70sbX3U0w4E3m"
+      "duration_ms": 161142,
+      "name": "El Mundo Puede Esperar",
+      "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 94000,
-      "name": "lilia",
-      "url": "https://open.spotify.com/track/4kJYQdHsUomKEXFuT0Vyfj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encontr\u00e9",
         "url": "https://open.spotify.com/album/5ddBTNmz3PTFRRvW3mmcZJ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 196207,
       "name": "Encontr\u00e9",
       "url": "https://open.spotify.com/track/7aCYpJHSFGGFYP5e0hEcfe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 94000,
+      "name": "lilia",
+      "url": "https://open.spotify.com/track/4kJYQdHsUomKEXFuT0Vyfj"
     },
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver a Comenzar",
-        "url": "https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp"
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
       },
       "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 187670,
-      "name": "Volver a Comenzar",
-      "url": "https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6"
+      "duration_ms": 188687,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
     },
     {
       "added_at": null,
@@ -623,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volver a Comenzar",
+        "url": "https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 187670,
+      "name": "Volver a Comenzar",
+      "url": "https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta la Fantas\u00eda",
         "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
       },
@@ -632,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 188687,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
+      "duration_ms": 205320,
+      "name": "Este Final",
+      "url": "https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4"
     },
     {
       "added_at": null,
@@ -704,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 205320,
-      "name": "Este Final",
-      "url": "https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4"
+      "duration_ms": 203633,
+      "name": "Hasta la Fantas\u00eda",
+      "url": "https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
       "duration_ms": 173642,
       "name": "rayo violeta",
       "url": "https://open.spotify.com/track/5R5kHA3tw9s9DUUWmiEH5V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 203633,
-      "name": "Hasta la Fantas\u00eda",
-      "url": "https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o"
     },
     {
       "added_at": null,

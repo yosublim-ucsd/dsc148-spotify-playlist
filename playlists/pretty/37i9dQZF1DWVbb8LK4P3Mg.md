@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: NCT 127\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,452 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,445 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 65 | [The Christmas Number 12](https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [The Christmas Number 12](https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ) | 2:39 |
 | 66 | [Christmas Time](https://open.spotify.com/track/0vDKTkWeDQETxVlr23XkkC) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [BOYFRIEND](https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD), [YOO SEUNGWOO](https://open.spotify.com/artist/6pR1ySndn2rTiCX0izqJU9), [BrotherSu](https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB), [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN), [DUETTO](https://open.spotify.com/artist/6PvXDvysAc002NKTISIYBV), [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [STARSHIP PLANET 2018](https://open.spotify.com/album/6UPvFQ3Lhi5x6W7vCq0Zaq) | 4:01 |
 | 67 | [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 |
-| 68 | [5 Christmas Languages](https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [5 Christmas Languages](https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH) | 3:24 |
-| 69 | [Everyday Christmas](https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Everyday Christmas](https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2) | 3:08 |
+| 68 | [Everyday Christmas](https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Everyday Christmas](https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2) | 3:08 |
+| 69 | [5 Christmas Languages](https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [5 Christmas Languages](https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH) | 3:24 |
 | 70 | [First Snow](https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [First Snow](https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb) | 3:07 |
 | 71 | [Happy Christmas](https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [YAOKI Project part.1](https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9) | 4:03 |
 | 72 | [Winter Breath](https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:52 |

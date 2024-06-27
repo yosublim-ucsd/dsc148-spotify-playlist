@@ -1,6 +1,6 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 187290,
+  "num_followers": 187360,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-05-28 08:03:02",
       "album": {
-        "name": "Fairouz World, Pt. 1",
-        "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
-      },
-      "artists": [
-        {
-          "name": "Fairuz",
-          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
-        }
-      ],
-      "duration_ms": 326739,
-      "name": "Saaltak Habiby",
-      "url": "https://open.spotify.com/track/2tTifBkEXqJ039o3jKcej7"
-    },
-    {
-      "added_at": "2024-05-28 08:03:02",
-      "album": {
         "name": "\u0635\u062d \u0627\u0644\u0646\u0648\u0645",
         "url": "https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": "2024-05-28 08:03:02",
       "album": {
+        "name": "Fairouz World, Pt. 1",
+        "url": "https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "duration_ms": 326739,
+      "name": "Saaltak Habiby",
+      "url": "https://open.spotify.com/track/2tTifBkEXqJ039o3jKcej7"
+    },
+    {
+      "added_at": "2024-05-28 08:03:02",
+      "album": {
         "name": "Bala Wala Shi",
         "url": "https://open.spotify.com/album/0Y9Z6GwBnBoY4C3KvU9Ayx"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-05-28 08:03:02",
       "album": {
-        "name": "Houdou Nisbi",
-        "url": "https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz"
-      },
-      "artists": [
-        {
-          "name": "Ziad Rahbani",
-          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "Bala Wala Chi",
-      "url": "https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX"
-    },
-    {
-      "added_at": "2024-05-28 08:03:02",
-      "album": {
         "name": "Afkarik",
         "url": "https://open.spotify.com/album/4aATb7Kb0iTifiMphvFpbW"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 222316,
       "name": "Afkarik",
       "url": "https://open.spotify.com/track/1ebIGIiewKtLSjLf6n76KX"
+    },
+    {
+      "added_at": "2024-05-28 08:03:02",
+      "album": {
+        "name": "Houdou Nisbi",
+        "url": "https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz"
+      },
+      "artists": [
+        {
+          "name": "Ziad Rahbani",
+          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "Bala Wala Chi",
+      "url": "https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX"
     },
     {
       "added_at": "2024-05-28 08:03:02",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-05-28 08:03:02",
       "album": {
-        "name": "Romeo & Leila",
-        "url": "https://open.spotify.com/album/2j4MGjJOs8SBgXL7OyqCFl"
-      },
-      "artists": [
-        {
-          "name": "Ghalia Benali",
-          "url": "https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy"
-        }
-      ],
-      "duration_ms": 322760,
-      "name": "Ya M'safer",
-      "url": "https://open.spotify.com/track/2sOg0fznPO0YWKWksIQEmA"
-    },
-    {
-      "added_at": "2024-05-28 08:03:02",
-      "album": {
         "name": "Fairouz World, Pt. 2",
         "url": "https://open.spotify.com/album/6GG5rceIHC6rN9fIDDO62Y"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 337371,
       "name": "Habbaitak Tanseet El Noum",
       "url": "https://open.spotify.com/track/6ch2OJ4qWx6ub61bGKCkVo"
+    },
+    {
+      "added_at": "2024-05-28 08:03:02",
+      "album": {
+        "name": "Romeo & Leila",
+        "url": "https://open.spotify.com/album/2j4MGjJOs8SBgXL7OyqCFl"
+      },
+      "artists": [
+        {
+          "name": "Ghalia Benali",
+          "url": "https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy"
+        }
+      ],
+      "duration_ms": 322760,
+      "name": "Ya M'safer",
+      "url": "https://open.spotify.com/track/2sOg0fznPO0YWKWksIQEmA"
     },
     {
       "added_at": "2024-05-28 08:03:02",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-05-28 08:03:02",
       "album": {
-        "name": "Promises of the Storm",
-        "url": "https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk"
-      },
-      "artists": [
-        {
-          "name": "Marcel Khalifa",
-          "url": "https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ"
-        }
-      ],
-      "duration_ms": 557466,
-      "name": "My Mother",
-      "url": "https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ"
-    },
-    {
-      "added_at": "2024-05-28 08:03:02",
-      "album": {
         "name": "Hawel Tensany",
         "url": "https://open.spotify.com/album/7ndAWFIsXAqncsWbytToka"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 219533,
       "name": "Hawel Tensany",
       "url": "https://open.spotify.com/track/4DNTAPb1bwk61n4jNfO6nj"
+    },
+    {
+      "added_at": "2024-05-28 08:03:02",
+      "album": {
+        "name": "Promises of the Storm",
+        "url": "https://open.spotify.com/album/3IDJ1T4PJ3fgp2Q1vQ2Ytk"
+      },
+      "artists": [
+        {
+          "name": "Marcel Khalifa",
+          "url": "https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ"
+        }
+      ],
+      "duration_ms": 557466,
+      "name": "My Mother",
+      "url": "https://open.spotify.com/track/3WxUI6F09yVhLMLksKMjQJ"
     },
     {
       "added_at": "2024-05-28 08:03:02",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-05-28 08:03:02",
       "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/785ArxpCDxcCaV7a8jFhUM"
-      },
-      "artists": [
-        {
-          "name": "Harget Kart",
-          "url": "https://open.spotify.com/artist/5zfHhvhZk4urnU1SHWkxBm"
-        }
-      ],
-      "duration_ms": 232489,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p"
-    },
-    {
-      "added_at": "2024-05-28 08:03:02",
-      "album": {
         "name": "Lazim Ahkeelak",
         "url": "https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 198827,
       "name": "Lazim Ahkeelak",
       "url": "https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI"
+    },
+    {
+      "added_at": "2024-05-28 08:03:02",
+      "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/785ArxpCDxcCaV7a8jFhUM"
+      },
+      "artists": [
+        {
+          "name": "Harget Kart",
+          "url": "https://open.spotify.com/artist/5zfHhvhZk4urnU1SHWkxBm"
+        }
+      ],
+      "duration_ms": 232489,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p"
     },
     {
       "added_at": "2024-05-28 08:03:02",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-05-28 08:03:02",
       "album": {
+        "name": "A Time to Cry - a Lament over Jerusalem",
+        "url": "https://open.spotify.com/album/5Q1IFJcO2UoccuVQkIukc8"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Mum, Sing to the Wind",
+      "url": "https://open.spotify.com/track/6DdxuWERjRsWofoIuZJiwA"
+    },
+    {
+      "added_at": "2024-05-28 08:03:02",
+      "album": {
         "name": "\u0632\u0647\u0631\u0629 \u0631\u0645\u0627\u0646",
         "url": "https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2024-05-28 08:03:02",
       "album": {
-        "name": "El Hob El Kbir",
-        "url": "https://open.spotify.com/album/5gwfQSiGcdy5eAJHlS95Pi"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 251101,
-      "name": "El Hob El Kbir",
-      "url": "https://open.spotify.com/track/7c73VYNSw0nwDdklXa5yfu"
-    },
-    {
-      "added_at": "2024-05-28 08:03:02",
-      "album": {
         "name": "Rawquha",
         "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-05-28 08:03:02",
       "album": {
-        "name": "A Time to Cry - a Lament over Jerusalem",
-        "url": "https://open.spotify.com/album/5Q1IFJcO2UoccuVQkIukc8"
+        "name": "El Hob El Kbir",
+        "url": "https://open.spotify.com/album/5gwfQSiGcdy5eAJHlS95Pi"
       },
       "artists": [
         {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
         }
       ],
-      "duration_ms": 208626,
-      "name": "Mum, Sing to the Wind",
-      "url": "https://open.spotify.com/track/6DdxuWERjRsWofoIuZJiwA"
+      "duration_ms": 251101,
+      "name": "El Hob El Kbir",
+      "url": "https://open.spotify.com/track/7c73VYNSw0nwDdklXa5yfu"
     },
     {
       "added_at": "2024-05-28 08:03:02",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-05-28 08:03:02",
       "album": {
-        "name": "Shem Wroud",
-        "url": "https://open.spotify.com/album/4lTQSJLGiwsJuNI7mvyFG6"
-      },
-      "artists": [
-        {
-          "name": "Zef",
-          "url": "https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L"
-        }
-      ],
-      "duration_ms": 196795,
-      "name": "Shem Wroud",
-      "url": "https://open.spotify.com/track/7mw1BU1xKLh9BPcMfhDuAG"
-    },
-    {
-      "added_at": "2024-05-28 08:03:02",
-      "album": {
         "name": "Second Verse",
         "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 171973,
       "name": "Despite the Flop",
       "url": "https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3"
+    },
+    {
+      "added_at": "2024-05-28 08:03:02",
+      "album": {
+        "name": "Shem Wroud",
+        "url": "https://open.spotify.com/album/4lTQSJLGiwsJuNI7mvyFG6"
+      },
+      "artists": [
+        {
+          "name": "Zef",
+          "url": "https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "Shem Wroud",
+      "url": "https://open.spotify.com/track/7mw1BU1xKLh9BPcMfhDuAG"
     },
     {
       "added_at": "2024-05-28 08:03:02",

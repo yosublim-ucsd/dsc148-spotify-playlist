@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28153,
+  "num_followers": 28159,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Sp\u00e5r av BLod",
-        "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
+        "name": "Sjunka",
+        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
       },
       "artists": [
         {
           "name": "Asme",
           "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
         }
       ],
-      "duration_ms": 160634,
-      "name": "Aktiv",
-      "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
+      "duration_ms": 133375,
+      "name": "Sjunka",
+      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -351,22 +347,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 154043,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246"
       },
@@ -379,6 +359,22 @@
       "duration_ms": 161240,
       "name": "Blind",
       "url": "https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 154043,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -471,38 +467,38 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "BLANCO",
-        "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
+        "name": "En till dans",
+        "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
       },
       "artists": [
         {
-          "name": "Gaboro",
-          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 135004,
-      "name": "BLANCO",
-      "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
+      "duration_ms": 200412,
+      "name": "En till dans",
+      "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
     },
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Sjunka",
-        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
+        "name": "Sp\u00e5r av BLod",
+        "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
       },
       "artists": [
         {
           "name": "Asme",
           "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
         }
       ],
-      "duration_ms": 133375,
-      "name": "Sjunka",
-      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
+      "duration_ms": 160634,
+      "name": "Aktiv",
+      "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -527,22 +523,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "En till dans",
-        "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 200412,
-      "name": "En till dans",
-      "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "L\u00f8sningsorienterte",
         "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 173465,
       "name": "L\u00f8sningsorienterte",
       "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "BLANCO",
+        "url": "https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2"
+      },
+      "artists": [
+        {
+          "name": "Gaboro",
+          "url": "https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 135004,
+      "name": "BLANCO",
+      "url": "https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -739,6 +739,26 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "TIL DEG",
+        "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "duration_ms": 157217,
+      "name": "TIL DEG",
+      "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "SIPPER",
         "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
       },
@@ -759,22 +779,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Gata",
-        "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 155825,
-      "name": "Gata",
-      "url": "https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "2X SPEKTRUM FREESTYLE",
         "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
       },
@@ -791,22 +795,18 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "TIL DEG",
-        "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
+        "name": "Gata",
+        "url": "https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs"
       },
       "artists": [
         {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 157217,
-      "name": "TIL DEG",
-      "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
+      "duration_ms": 155825,
+      "name": "Gata",
+      "url": "https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Sprite",
-        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 165570,
-      "name": "Sprite",
-      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "Whina",
         "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 156453,
       "name": "Whina",
       "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Sprite",
+        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 165570,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Frossa",
+        "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 154985,
+      "name": "Frossa",
+      "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 194526,
       "name": "Ment for hverandre",
       "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Frossa",
-        "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 154985,
-      "name": "Frossa",
-      "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
-        "name": "Konstn\u00e4rer",
-        "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        }
-      ],
-      "duration_ms": 150040,
-      "name": "Konstn\u00e4rer",
-      "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
         "name": "FLEX",
         "url": "https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf"
       },
@@ -1151,26 +1131,6 @@
       "duration_ms": 134400,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Mariachi",
-        "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Mariachi",
-      "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -1199,6 +1159,26 @@
     {
       "added_at": "2024-06-20 22:00:00",
       "album": {
+        "name": "Konstn\u00e4rer",
+        "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "duration_ms": 150040,
+      "name": "Konstn\u00e4rer",
+      "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
         "name": "TRILLE",
         "url": "https://open.spotify.com/album/1n7BDlc1vwPfZlyZwxcL1D"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 162017,
       "name": "TRILLE",
       "url": "https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY"
+    },
+    {
+      "added_at": "2024-06-20 22:00:00",
+      "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Mariachi",
+      "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
     },
     {
       "added_at": "2024-06-20 22:00:00",

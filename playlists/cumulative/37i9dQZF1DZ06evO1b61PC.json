@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 202666,
       "name": "blue - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
@@ -538,10 +538,36 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 193984,
       "name": "When I Fall Asleep (with Jai Wolf)",
       "url": "https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn"
+    },
+    {
+      "album": {
+        "name": "Moonlight (The Remixes)",
+        "url": "https://open.spotify.com/album/3gmbHl9gfRU8KTOh9z26E7"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177245,
+      "name": "When I Fall Asleep (with Jai Wolf) - Day Wave Remix",
+      "url": "https://open.spotify.com/track/17DntT7fbnEH13Ofd5bp6X"
     },
     {
       "album": {

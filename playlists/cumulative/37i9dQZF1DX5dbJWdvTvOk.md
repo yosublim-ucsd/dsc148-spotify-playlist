@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-702 songs - 1 day 5 hr 52 min
+703 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Donegal](https://open.spotify.com/track/51760UCr1H0wFGIeNlZg2F) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Donegal](https://open.spotify.com/album/4aPfvkL9aJn4yozAV8Hift) | 2:36 | 2023-10-13 |  |
 | [Doors](https://open.spotify.com/track/0p8hGanIeSRCOcDZ1nayUb) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Doors](https://open.spotify.com/album/25383NCmsUte9zszpeKzr2) | 2:31 | 2024-03-08 |  |
 | [Dorival](https://open.spotify.com/track/1sgihll2tdAfRm3ko1Bay3) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Dorival](https://open.spotify.com/album/460T3DYQguwcbXb5M97nr6) | 2:46 | 2023-04-21 |  |
+| [Dos Amantes Bailan Como Uno](https://open.spotify.com/track/2AD7BOiPxQNwz4M3XagTQI) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Dos Amantes Bailan Como Uno](https://open.spotify.com/album/41f3LlLR9JqLdb9oD6NhYc) | 3:04 | 2024-06-14 |  |
 | [Downhill](https://open.spotify.com/track/06v6Jm0odFC4lb0aSd54Nf) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Downhill](https://open.spotify.com/album/6cLUWw3Mmiw58EcRy1NSgX) | 5:01 | 2022-07-15 | 2023-04-22 |
 | [Dream by day](https://open.spotify.com/track/6VC0dMG2hyvdSgANubpBoM) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Dream by day](https://open.spotify.com/album/2RohB8WrmEWB1J2OqP8yoB) | 2:25 | 2023-04-21 | 2023-05-13 |
 | [Dream Sweet Dreams](https://open.spotify.com/track/4NgP1eBz1VPVKWDDIgsDvW) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Dream Sweet Dreams](https://open.spotify.com/album/4gWqNj16uzmwC4VglSdtFt) | 1:40 | 2023-04-21 | 2023-08-26 |
@@ -515,7 +516,7 @@
 | [Rêves de perpétuité](https://open.spotify.com/track/3zVvkgye4Y4ZZNQceOXhx1) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Rêves de perpétuité](https://open.spotify.com/album/1NiiCOCRi6SgLhPDP6QTKZ) | 2:14 | 2023-04-21 |  |
 | [Saas Fee](https://open.spotify.com/track/2q9RdGt69x8gWofFuPTLtD) | [Matthias Trapp](https://open.spotify.com/artist/5WKLrD3PamTJ6XPLeI3CXg) | [Welt Stille](https://open.spotify.com/album/0EDr3KbcnfoWmOsA4mhWaC) | 2:43 | 2022-07-15 | 2022-09-17 |
 | [Saffron Hills](https://open.spotify.com/track/65334YdgENom7CuEpChTCJ) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Saffron Hills](https://open.spotify.com/album/6j9zshvn2NhNjUKGRP1NgM) | 2:25 | 2022-07-15 | 2022-11-18 |
-| [Sail For Toumain](https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Sail For Toumain](https://open.spotify.com/album/4qEH9vdWvau9XxXhlBi3q1) | 2:26 | 2023-04-21 |  |
+| [Sail For Toumain](https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Sail For Toumain](https://open.spotify.com/album/4qEH9vdWvau9XxXhlBi3q1) | 2:26 | 2023-04-21 | 2024-06-27 |
 | [Saint Michel](https://open.spotify.com/track/1vx0RMtjAs0ZiLKXTsIxzA) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Saint Michel](https://open.spotify.com/album/5B6U8Kx1LppXVW0FivQdLS) | 2:47 | 2024-02-23 |  |
 | [Saint Valentine](https://open.spotify.com/track/1rIOkUQTk0LH9UM6tdRlFR) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Saint Valentine](https://open.spotify.com/album/1MbqX2EtuO7SnLnrKzEnkv) | 1:52 | 2022-07-15 | 2023-04-22 |
 | [Salamanca](https://open.spotify.com/track/53AY7g9X2UhBbDZDCFnc3f) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Salamanca](https://open.spotify.com/album/5RmmprgbPa4o0WlIoJFw5g) | 2:34 | 2023-04-21 | 2023-11-28 |

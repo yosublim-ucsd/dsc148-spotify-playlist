@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Los Chavalitos en portada.",
-  "num_followers": 221814,
+  "num_followers": 221867,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
+        "name": "La Loteria",
+        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 176350,
+      "name": "Por La Baja Navegamos",
+      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
         "name": "El Sera y El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 177000,
       "name": "El Sera y El Chavo (En Vivo)",
       "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "La Loteria",
-        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 176350,
-      "name": "Por La Baja Navegamos",
-      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
     },
     {
       "added_at": "2024-05-24 06:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-05-24 06:00:00",
       "album": {
+        "name": "Don Cheyo Imperial",
+        "url": "https://open.spotify.com/album/6FMWZ9K8YlljAxvWdLBYOn"
+      },
+      "artists": [
+        {
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+        }
+      ],
+      "duration_ms": 177485,
+      "name": "Don Cheyo Imperial",
+      "url": "https://open.spotify.com/track/6bUi10rGDo5g2FKSPUUBmY"
+    },
+    {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
         "name": "Luces, C\u00e1mara y Acci\u00f3n",
         "url": "https://open.spotify.com/album/5NfTz4lFMYJDEWISZVrs6U"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 179486,
       "name": "Luces, C\u00e1mara y Acci\u00f3n",
       "url": "https://open.spotify.com/track/2Olwh5dazDuJLNMPxAszab"
-    },
-    {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "Don Cheyo Imperial",
-        "url": "https://open.spotify.com/album/6FMWZ9K8YlljAxvWdLBYOn"
-      },
-      "artists": [
-        {
-          "name": "Grupo H-100",
-          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
-        }
-      ],
-      "duration_ms": 177485,
-      "name": "Don Cheyo Imperial",
-      "url": "https://open.spotify.com/track/6bUi10rGDo5g2FKSPUUBmY"
     },
     {
       "added_at": "2024-05-24 06:00:00",

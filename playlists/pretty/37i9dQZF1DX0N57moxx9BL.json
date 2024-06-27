@@ -1,6 +1,6 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 151620,
+  "num_followers": 151676,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "The Cave",
-        "url": "https://open.spotify.com/album/4MDSWuaSkuJrIz6XE68q14"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/4rf3psGLD1Ol5sn7Z2VI9F"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Standing in the Storm / Surviving The Game",
         "url": "https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 257467,
       "name": "Standing in the Storm",
       "url": "https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "The Cave",
+        "url": "https://open.spotify.com/album/4MDSWuaSkuJrIz6XE68q14"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/4rf3psGLD1Ol5sn7Z2VI9F"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -503,8 +503,8 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
+        "name": "Words of Fire",
+        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
         }
       ],
-      "duration_ms": 262254,
-      "name": "Run - Twenty Version",
-      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
+      "duration_ms": 251201,
+      "name": "Words of Fire",
+      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -531,6 +531,22 @@
       "duration_ms": 293538,
       "name": "Promise to Live",
       "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -583,6 +599,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 262254,
+      "name": "Run - Twenty Version",
+      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "SILENCE THE WORLD",
         "url": "https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw"
       },
@@ -599,38 +631,6 @@
       "duration_ms": 433866,
       "name": "SILENCE THE WORLD",
       "url": "https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Words of Fire",
-        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 251201,
-      "name": "Words of Fire",
-      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Still Alive",
-        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
-      },
-      "artists": [
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "I'm Only Dreaming",
         "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
       },
@@ -823,22 +807,6 @@
       "duration_ms": 236969,
       "name": "Louder Than a Lion",
       "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "The Final Battle",
-        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
-      },
-      "artists": [
-        {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
-        }
-      ],
-      "duration_ms": 233686,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -859,6 +827,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
+      },
+      "artists": [
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 211906,
       "name": "You Are",
       "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "The Final Battle",
+        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "duration_ms": 233686,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
-      },
-      "artists": [
-        {
-          "name": "Living Scars",
-          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
-        }
-      ],
-      "duration_ms": 253740,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Death Stare",
         "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 255980,
       "name": "Pls Snd Hlp",
       "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
+      },
+      "artists": [
+        {
+          "name": "Living Scars",
+          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
+        }
+      ],
+      "duration_ms": 253740,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7mjkYaoqV3XIh6q6TBGvUv"
+      },
+      "artists": [
+        {
+          "name": "Crusoe",
+          "url": "https://open.spotify.com/artist/6ON5hdOJnGooX4VqLtObIl"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Wild Ones",
+      "url": "https://open.spotify.com/track/5TDFpV2PIoU0leXEBq3zv2"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "Lighting up the Darkness",
         "url": "https://open.spotify.com/album/78cPuJVdYTd5u1X5Z6XSit"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 207188,
       "name": "Lighting up the Darkness (feat. LKD)",
       "url": "https://open.spotify.com/track/5YPAJtV7lnCvw2gcKuX0ko"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7mjkYaoqV3XIh6q6TBGvUv"
-      },
-      "artists": [
-        {
-          "name": "Crusoe",
-          "url": "https://open.spotify.com/artist/6ON5hdOJnGooX4VqLtObIl"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Wild Ones",
-      "url": "https://open.spotify.com/track/5TDFpV2PIoU0leXEBq3zv2"
     },
     {
       "added_at": "2024-05-10 04:01:29",

@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 311482,
+  "num_followers": 311515,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,22 @@
     {
       "added_at": "2024-06-21 01:07:42",
       "album": {
-        "name": "Codinome",
-        "url": "https://open.spotify.com/album/55pQ5LfBEgTcIti8XvfdwM"
+        "name": "S",
+        "url": "https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8"
       },
       "artists": [
         {
-          "name": "Maria",
-          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         }
       ],
-      "duration_ms": 209026,
-      "name": "Codinome",
-      "url": "https://open.spotify.com/track/4NQwX44ditNnlFwdnz1Iqm"
+      "duration_ms": 211451,
+      "name": "Ser",
+      "url": "https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9"
     },
     {
       "added_at": "2024-06-21 01:07:42",
@@ -591,22 +595,18 @@
     {
       "added_at": "2024-06-21 01:07:42",
       "album": {
-        "name": "S",
-        "url": "https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8"
+        "name": "Codinome",
+        "url": "https://open.spotify.com/album/55pQ5LfBEgTcIti8XvfdwM"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+          "name": "Maria",
+          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
         }
       ],
-      "duration_ms": 211451,
-      "name": "Ser",
-      "url": "https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9"
+      "duration_ms": 209026,
+      "name": "Codinome",
+      "url": "https://open.spotify.com/track/4NQwX44ditNnlFwdnz1Iqm"
     },
     {
       "added_at": "2024-06-21 01:07:42",

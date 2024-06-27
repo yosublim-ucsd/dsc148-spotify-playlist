@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Villano Antillano",
+  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Karin Ann",
   "name": "GLOW",
   "tracks": [
     {
@@ -16739,6 +16739,32 @@
     },
     {
       "album": {
+        "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
+        "url": "https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "BC Kingdom",
+          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
+        }
+      ],
+      "date_added": "2024-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232374,
+      "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
+      "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
+    },
+    {
+      "album": {
         "name": "Reasons I Loved You (I Can't Think Of One)",
         "url": "https://open.spotify.com/album/1c5ujLAhVtSxZWFy9EAhFq"
       },
@@ -21304,7 +21330,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 144446,
       "name": "unruly",
       "url": "https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46"

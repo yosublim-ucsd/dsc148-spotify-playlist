@@ -2177,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "Before I Die",
+        "url": "https://open.spotify.com/album/61B7Jjcy1ccw5KnXEebj3T"
+      },
+      "artists": [
+        {
+          "name": "Footballhead",
+          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173269,
+      "name": "Before I Die",
+      "url": "https://open.spotify.com/track/7BcTWgmZQp5Ueu3XdjCdFY"
+    },
+    {
+      "album": {
         "name": "Beg",
         "url": "https://open.spotify.com/album/1gb1U1Rb3xqq6xMFGHrcSG"
       },
@@ -2516,7 +2534,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 194375,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/1UU3Rz7R3htJ1W636jxzKd"
@@ -2596,6 +2614,24 @@
       "duration_ms": 185191,
       "name": "Blistered World",
       "url": "https://open.spotify.com/track/5qGZW9TilPRhXIYDB1amjE"
+    },
+    {
+      "album": {
+        "name": "Blood Moon",
+        "url": "https://open.spotify.com/album/1Ib31L2Db5OHtZnsPVncwx"
+      },
+      "artists": [
+        {
+          "name": "State Faults",
+          "url": "https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148352,
+      "name": "Blood Moon",
+      "url": "https://open.spotify.com/track/5cfrLL1TcbJp3bbKemlL6F"
     },
     {
       "album": {
@@ -6226,7 +6262,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-27",
       "duration_ms": 224903,
       "name": "Empire",
       "url": "https://open.spotify.com/track/0rh6ie1S24XTyKXDCUd8aR"

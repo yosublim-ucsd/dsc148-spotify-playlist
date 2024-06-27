@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73377,
+  "num_followers": 73375,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -647,26 +647,22 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Awaken: The Surrounded Experience",
-        "url": "https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa"
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU"
       },
       "artists": [
         {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
         },
         {
-          "name": "Vanessa Campagna",
-          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
-        },
-        {
-          "name": "Madelyn Berry",
-          "url": "https://open.spotify.com/artist/0BQdLOsJd5icawEym8uBp0"
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
         }
       ],
-      "duration_ms": 437131,
-      "name": "Waymaker",
-      "url": "https://open.spotify.com/track/0hLsDRLsfvwExXMBeDS53k"
+      "duration_ms": 310200,
+      "name": "Because Of Christ",
+      "url": "https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -691,22 +687,26 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU"
+        "name": "Awaken: The Surrounded Experience",
+        "url": "https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
         },
         {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+          "name": "Vanessa Campagna",
+          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+        },
+        {
+          "name": "Madelyn Berry",
+          "url": "https://open.spotify.com/artist/0BQdLOsJd5icawEym8uBp0"
         }
       ],
-      "duration_ms": 310200,
-      "name": "Because Of Christ",
-      "url": "https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD"
+      "duration_ms": 437131,
+      "name": "Waymaker",
+      "url": "https://open.spotify.com/track/0hLsDRLsfvwExXMBeDS53k"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "\"Blessed Be Your Name: The Songs Of Matt Redman, Vol. 1\"",
-        "url": "https://open.spotify.com/album/7pMoDDmoNMP0o44ztOoyvk"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 348933,
-      "name": "Blessed Be Your Name",
-      "url": "https://open.spotify.com/track/51ndwDACfzlvfOYnwp4ryn"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 307026,
       "name": "Christ Is Risen",
       "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "\"Blessed Be Your Name: The Songs Of Matt Redman, Vol. 1\"",
+        "url": "https://open.spotify.com/album/7pMoDDmoNMP0o44ztOoyvk"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 348933,
+      "name": "Blessed Be Your Name",
+      "url": "https://open.spotify.com/track/51ndwDACfzlvfOYnwp4ryn"
     },
     {
       "added_at": "2024-03-20 11:39:23",

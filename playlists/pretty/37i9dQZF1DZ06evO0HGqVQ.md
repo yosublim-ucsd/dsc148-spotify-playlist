@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 
 ### [This Is Los inquietos del vallenato](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HGqVQ)
 
-> This Is Los inquietos del vallenato\. Los temas esenciales, todos en una lista.
+> This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,985 likes - 35 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,996 likes - 35 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 34 | [Cuando Llora El Corazón](https://open.spotify.com/track/1vsWun46LmODh9NAjxgbZP) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 4:54 |
 | 35 | [Piel A Piel](https://open.spotify.com/track/6IytGzzeSCfbX1pqGYeVPz) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 4:11 |
 
-Snapshot ID: `Zni3AAAAAACy/Cr535gLln3OSBK1xZ5Q`
+Snapshot ID: `ZnoIgAAAAABZl708wSqp0Bu7kooYjXDm`
