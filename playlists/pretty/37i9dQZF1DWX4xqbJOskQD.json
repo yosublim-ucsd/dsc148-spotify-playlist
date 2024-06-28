@@ -1,6 +1,6 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1890,
+  "num_followers": 1891,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
@@ -245,6 +245,22 @@
       "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
     },
     {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Anthology: 1931 - 1968",
+        "url": "https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo"
+      },
+      "artists": [
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "Nevertheless (I'm In Love With You)",
+      "url": "https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak"
+    },
+    {
       "added_at": "2022-03-28 19:29:09",
       "album": {
         "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
@@ -263,22 +279,6 @@
       "duration_ms": 191306,
       "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
       "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Anthology: 1931 - 1968",
-        "url": "https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo"
-      },
-      "artists": [
-        {
-          "name": "The Mills Brothers",
-          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
-        }
-      ],
-      "duration_ms": 168600,
-      "name": "Nevertheless (I'm In Love With You)",
-      "url": "https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -415,34 +415,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Remember Pearl Harbor: Classic Songs Of World War II",
-        "url": "https://open.spotify.com/album/4esQCA7GCIC2NBUq8ndw87"
+        "name": "Teach Me Tonight",
+        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
       },
       "artists": [
         {
-          "name": "Four Vagabonds",
-          "url": "https://open.spotify.com/artist/0uKcBFmwZYbIFXlWmQelqu"
-        },
-        {
-          "name": "Ray Conrad Grant, Jr.",
-          "url": "https://open.spotify.com/artist/2BIqrWYWykhVzz3BKsXCpF"
-        },
-        {
-          "name": "Robert Arthur O'Neal",
-          "url": "https://open.spotify.com/artist/0ZuEQxfuQejHYRtkOx5W79"
-        },
-        {
-          "name": "John Albert Jordan",
-          "url": "https://open.spotify.com/artist/4ZuHlKZejvovr4ugaPYxY1"
-        },
-        {
-          "name": "Norval Donahue Taborn",
-          "url": "https://open.spotify.com/artist/5dj06Qp6X30mdhsOmaJryV"
+          "name": "The De Castro Sisters",
+          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
         }
       ],
-      "duration_ms": 159173,
-      "name": "A G.I. Wish",
-      "url": "https://open.spotify.com/track/2TVIvoDLrq3adZBeDyFbl9"
+      "duration_ms": 170666,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX"
     },
     {
       "added_at": "2022-03-28 19:29:09",
@@ -479,18 +463,34 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Teach Me Tonight",
-        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
+        "name": "Remember Pearl Harbor: Classic Songs Of World War II",
+        "url": "https://open.spotify.com/album/4esQCA7GCIC2NBUq8ndw87"
       },
       "artists": [
         {
-          "name": "The De Castro Sisters",
-          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
+          "name": "Four Vagabonds",
+          "url": "https://open.spotify.com/artist/0uKcBFmwZYbIFXlWmQelqu"
+        },
+        {
+          "name": "Ray Conrad Grant, Jr.",
+          "url": "https://open.spotify.com/artist/2BIqrWYWykhVzz3BKsXCpF"
+        },
+        {
+          "name": "Robert Arthur O'Neal",
+          "url": "https://open.spotify.com/artist/0ZuEQxfuQejHYRtkOx5W79"
+        },
+        {
+          "name": "John Albert Jordan",
+          "url": "https://open.spotify.com/artist/4ZuHlKZejvovr4ugaPYxY1"
+        },
+        {
+          "name": "Norval Donahue Taborn",
+          "url": "https://open.spotify.com/artist/5dj06Qp6X30mdhsOmaJryV"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX"
+      "duration_ms": 159173,
+      "name": "A G.I. Wish",
+      "url": "https://open.spotify.com/track/2TVIvoDLrq3adZBeDyFbl9"
     },
     {
       "added_at": "2020-08-17 22:49:59",

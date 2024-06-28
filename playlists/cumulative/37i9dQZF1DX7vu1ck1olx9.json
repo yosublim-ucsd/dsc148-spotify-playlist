@@ -3516,7 +3516,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 146666,
       "name": "NotThatBad",
       "url": "https://open.spotify.com/track/6lqnK8lLs27uXoXHbSSLvg"
@@ -5262,6 +5262,28 @@
       "duration_ms": 132000,
       "name": "the eagle",
       "url": "https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch"
+    },
+    {
+      "album": {
+        "name": "Timeless Ocean",
+        "url": "https://open.spotify.com/album/6xW3oemKwNU2LXb7kJ5e1d"
+      },
+      "artists": [
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        },
+        {
+          "name": "Abricot",
+          "url": "https://open.spotify.com/artist/3g1NWK6jzmo2TqQe019RGC"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "The Silent Sea",
+      "url": "https://open.spotify.com/track/5rdtRmS8lRbnYMqZiNo1Gc"
     },
     {
       "album": {

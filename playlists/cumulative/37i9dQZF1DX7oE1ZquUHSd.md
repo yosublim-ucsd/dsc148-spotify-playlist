@@ -4,7 +4,7 @@
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-481 songs - 1 day 8 hr 47 min
+482 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Mi Filme](https://open.spotify.com/track/2vek70UqC5VmyTOPCBt8Z3) | [Hache St](https://open.spotify.com/artist/3HWj3ztggFwJwtgcFMbxmL) | [Efecto Cibaeño](https://open.spotify.com/album/328zryuaVHDmVOlYbSAUxC) | 3:00 | 2021-11-16 | 2022-05-14 |
 | [Mi Filosofia](https://open.spotify.com/track/0GaTLEPwoEdUYE51QoTKaf) | [El B](https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm) | [MI FILOSOFIA](https://open.spotify.com/album/6O6ziECchAfj9XfJqKisTX) | 5:43 | 2021-11-16 | 2022-07-21 |
 | [MI Gran Amor](https://open.spotify.com/track/5vcDoIJINMGRCLqIrnxE8V) | [Rapper School](https://open.spotify.com/artist/5iGxZSbSLhdLoqTg9KZtlt) | [Crónicas Al Tiempo \(Edición Especial\)](https://open.spotify.com/album/2uqQXqPEILGhEyJRpgZYT0) | 3:47 | 2021-11-16 | 2022-07-27 |
-| [Mi Mejor Inspiración](https://open.spotify.com/track/5RlwAz1LZDNqTF8OLEXAPO) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 5:07 | 2021-11-16 |  |
+| [Mi Mejor Inspiración](https://open.spotify.com/track/5RlwAz1LZDNqTF8OLEXAPO) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 5:07 | 2021-11-16 | 2024-06-28 |
 | [Mi Primera Vez](https://open.spotify.com/track/2ZSP2DxDPlJg6bOpnUNiNA) | [Los Aldeanos](https://open.spotify.com/artist/4Y6VI2Mfdhvb1RImggzOiY), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [Charly Mucharrima](https://open.spotify.com/artist/6nJF8xzQ48VCfBlXb5btQp), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [El B](https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm), [Yamil Reyes \(Dejavu\)](https://open.spotify.com/artist/2hhm3fRyxsCvhsrVP7Gnlr) | [Descato](https://open.spotify.com/album/73LPJr85VgniRjasNJjrQQ) | 5:54 | 2021-11-16 | 2022-07-22 |
 | [Mi Sangre](https://open.spotify.com/track/7oM865zYHm0XcPiOMthmdF) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Mi Sangre](https://open.spotify.com/album/1pMOfqgOIpPuLpNQCOoAJp) | 3:45 | 2021-11-16 | 2022-07-15 |
 | [Mi Tío Snoop](https://open.spotify.com/track/48XgkAh1fkcZqA2EZWCDX6) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Mi Tío Snoop](https://open.spotify.com/album/6ugE8dVzZdepHyyGxCt2kW) | 3:23 | 2021-11-16 |  |
@@ -379,6 +379,7 @@
 | [Rain](https://open.spotify.com/track/1EljzqiV1RDtXj1QUbx3db) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Rain](https://open.spotify.com/album/2rmhl1gQux3WGPJA77FgRN) | 3:02 | 2021-11-16 | 2024-04-19 |
 | [Rap Pa Mi\-Pa Ti](https://open.spotify.com/track/3ar2CUGRGwtJ8fMTW2Idl9) | [Arianna Puello](https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL) | [Asi Lo Siento](https://open.spotify.com/album/0DFAhxV7LEzwpTJLft9Lrc) | 4:06 | 2021-11-16 | 2022-07-19 |
 | [Rap Sucio](https://open.spotify.com/track/5EqKoJKIkeen0LK3wekLAc) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Nunca Vemos Nada](https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv) | 3:05 | 2021-11-16 | 2022-07-24 |
+| [Rap Vs\. Racismo \- Con Lírico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Titó y Xhelazz.](https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Ataque De Los Que Observaban](https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY) | 5:54 | 2023-08-08 |  |
 | [Raploncesto](https://open.spotify.com/track/1yC3dw7bXjWnrXtBozbFx0) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Gabylonia](https://open.spotify.com/artist/1dTtCb4nYTZLKpTnJ1f5uU), [IceOD](https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B), [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4), [Scrop](https://open.spotify.com/artist/7q50Y9VvDql0iRcB84P5Ly) | [Raploncesto](https://open.spotify.com/album/1UEh8JiG2GXfmXQSApeKQw) | 3:54 | 2021-11-16 | 2022-07-22 |
 | [Rastaman\- Dita](https://open.spotify.com/track/5kUf3gMXG6lTJkfQWLZSsP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Apocalypshit](https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ) | 3:48 | 2021-11-16 |  |
 | [Raza Es Raza](https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 3:55 | 2021-11-16 | 2022-07-26 |

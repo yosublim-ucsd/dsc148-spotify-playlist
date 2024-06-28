@@ -2,7 +2,7 @@
 
 ### [This Is UVERworld](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KBMI1)
 
-> This is UVERworld\. The essential tracks, all in one playlist.
+> This Is UVERworld\. Les titres incontournables, réunis dans une seule et même playlist.
 
 104 songs - 7 hr 21 min
 

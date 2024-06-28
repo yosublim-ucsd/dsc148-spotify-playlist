@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Abader",
+        "url": "https://open.spotify.com/album/749eE00Y5A8hauiQJi2V2S"
+      },
+      "artists": [
+        {
+          "name": "Khaled Almuthafar",
+          "url": "https://open.spotify.com/artist/1ToVXfINPwcuiUWRzhg9BG"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204596,
+      "name": "Abader",
+      "url": "https://open.spotify.com/track/7clpLRhperdFynKEaIsG7I"
+    },
+    {
+      "album": {
         "name": "Ahl Aleshg",
         "url": "https://open.spotify.com/album/5RBewkiAhunvGKOaqvl6t2"
       },
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 351553,
       "name": "Kellahe El Shouq",
       "url": "https://open.spotify.com/track/6E3UOyIIeRzeycTVY84CLZ"
@@ -1182,7 +1200,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 239774,
       "name": "Ma Fagadtek",
       "url": "https://open.spotify.com/track/5OS9kPuLlLchB7dwab7jsv"
@@ -1330,6 +1348,28 @@
       "duration_ms": 193548,
       "name": "Mo 3ebek",
       "url": "https://open.spotify.com/track/0R3oaHOHLAPOvL5JJdjGk7"
+    },
+    {
+      "album": {
+        "name": "Al Bedaa",
+        "url": "https://open.spotify.com/album/3CVX4Kz3DbPIoFd16mq5Em"
+      },
+      "artists": [
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        },
+        {
+          "name": "Ahmed Al Hermi",
+          "url": "https://open.spotify.com/artist/5RsINX9NKo2WPaEs70Iq3u"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192717,
+      "name": "Mojeaah Galbah",
+      "url": "https://open.spotify.com/track/3Utr6kkQLHIvPDgXdgJ8Jf"
     },
     {
       "album": {

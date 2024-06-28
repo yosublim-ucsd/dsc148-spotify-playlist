@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Asake",
+  "description": "Tracks popping off in the Afro scene. Cover: Amaarae",
   "name": "Afro Station",
   "tracks": [
     {
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 167756,
       "name": "Cheri Ya Motema",
       "url": "https://open.spotify.com/track/30To0a1sj1igWsyeZbLqBB"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 144933,
       "name": "Chouchou des nanas",
       "url": "https://open.spotify.com/track/56Xr14dI8ugeQcuIvTzusS"
@@ -1995,6 +1995,28 @@
     },
     {
       "album": {
+        "name": "Island 54",
+        "url": "https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143505,
+      "name": "Desire (feat. Tayc)",
+      "url": "https://open.spotify.com/track/1VQo0tmPiBdeZ2sZ8iFEmP"
+    },
+    {
+      "album": {
         "name": "Dey Inside",
         "url": "https://open.spotify.com/album/1R9Omq2kGRKB41M7nNzr1D"
       },
@@ -2424,7 +2446,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 172600,
       "name": "D\u00e9j\u00e0",
       "url": "https://open.spotify.com/track/4HnNEJntnJXu3T6Z3jk4Tt"
@@ -3490,7 +3512,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 194857,
       "name": "Honest",
       "url": "https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f"
@@ -3927,6 +3949,28 @@
     },
     {
       "album": {
+        "name": "Jamais (feat. Lossa)",
+        "url": "https://open.spotify.com/album/2PtjiV7aOcE4HzFCWz8PNO"
+      },
+      "artists": [
+        {
+          "name": "Jaymax",
+          "url": "https://open.spotify.com/artist/0v5TXXJsokDC2bYAUe8UAF"
+        },
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203577,
+      "name": "Jamais (feat. Lossa)",
+      "url": "https://open.spotify.com/track/2V4ttOwCG3RHKSjHMIP9ST"
+    },
+    {
+      "album": {
         "name": "Jimmy",
         "url": "https://open.spotify.com/album/0AdmldzWpvYNx1oKr3gh2E"
       },
@@ -4120,6 +4164,24 @@
       "duration_ms": 178909,
       "name": "KATIGORI",
       "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
+    },
+    {
+      "album": {
+        "name": "Bully Season Vol.2 : Pretty Girls Love Afrobeats",
+        "url": "https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153512,
+      "name": "Kel-P Vibes",
+      "url": "https://open.spotify.com/track/5uNWbjRJFAWfOWcumCu0QE"
     },
     {
       "album": {
@@ -5325,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "Honestly,",
+        "url": "https://open.spotify.com/album/5RmNJ4XWLWKjU4dk6eYbSx"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178960,
+      "name": "Monde entier",
+      "url": "https://open.spotify.com/track/147pZmwBwNPncFbFhorZIl"
+    },
+    {
+      "album": {
         "name": "Money & Love",
         "url": "https://open.spotify.com/album/1a936IexPb6wtpMlymctZz"
       },
@@ -5900,7 +5980,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 158931,
       "name": "O Bosso",
       "url": "https://open.spotify.com/track/6SIg8TNpd9odyF40MgBIH9"
@@ -7819,6 +7899,24 @@
     },
     {
       "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
+    },
+    {
+      "album": {
         "name": "Take Ova",
         "url": "https://open.spotify.com/album/1kAZ6bI1GTGG55kuho3HDD"
       },
@@ -8248,6 +8346,24 @@
       "duration_ms": 165436,
       "name": "Tricheur",
       "url": "https://open.spotify.com/track/55a59qzeDDTDB022hW0TXB"
+    },
+    {
+      "album": {
+        "name": "Trop \u00e0 l'aise",
+        "url": "https://open.spotify.com/album/7msKK5kcjgczu95aqLOYmX"
+      },
+      "artists": [
+        {
+          "name": "Jogga",
+          "url": "https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158360,
+      "name": "Trop \u00e0 l'aise",
+      "url": "https://open.spotify.com/track/0JkifbkM6a8ISznsk9Agcc"
     },
     {
       "album": {

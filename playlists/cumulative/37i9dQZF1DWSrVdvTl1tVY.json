@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Sosa ",
+  "description": "The biggest house bangers popping off in the UK, let's go! PAWSA",
   "name": "UK House Music",
   "tracks": [
     {
@@ -2527,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "Chain",
+        "url": "https://open.spotify.com/album/7dFNICH14oXBmzvMAuOJTi"
+      },
+      "artists": [
+        {
+          "name": "Friend Within",
+          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201692,
+      "name": "Chain",
+      "url": "https://open.spotify.com/track/0z3NW6zVKRLx06tgDUSZLl"
+    },
+    {
+      "album": {
         "name": "Change / Take My Time",
         "url": "https://open.spotify.com/album/08nFm5wXYFGlkJ8jXn6cm5"
       },
@@ -3596,7 +3614,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 184687,
       "name": "Disco Tool",
       "url": "https://open.spotify.com/track/6MXaI09ksTQ0FmMswDjPG6"
@@ -3618,7 +3636,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 215076,
       "name": "Disco Trip",
       "url": "https://open.spotify.com/track/0lVQP0FIJhruy3yXiuH7vu"
@@ -3796,7 +3814,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 135967,
       "name": "Don't Abuse It",
       "url": "https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE"
@@ -5398,6 +5416,24 @@
       "duration_ms": 256874,
       "name": "Four Play",
       "url": "https://open.spotify.com/track/4RANu2OTh6ADsITIVS2Uok"
+    },
+    {
+      "album": {
+        "name": "Freak Mode",
+        "url": "https://open.spotify.com/album/55CSMCHCUjT6iBcipBn0Wi"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186904,
+      "name": "Freak Mode",
+      "url": "https://open.spotify.com/track/2BZMWHCd8UKVMIWLxFf6BH"
     },
     {
       "album": {
@@ -10147,6 +10183,24 @@
     },
     {
       "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/1ZCDNZ42SoSukKI4QPebqA"
+      },
+      "artists": [
+        {
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174225,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/32EbZeoDAXpEyxiTm3mG6P"
+    },
+    {
+      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/3SKIfKsWm7GYkN1CZ2WGPJ"
       },
@@ -10476,7 +10530,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 155905,
       "name": "Nikes On",
       "url": "https://open.spotify.com/track/0atyEX8Oo2UzFjsLmqN18m"
@@ -12781,6 +12835,28 @@
     },
     {
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/2HUvguUTDRUOtPv3XHF841"
+      },
+      "artists": [
+        {
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/6aQzXwDT104Hpg3YvmXyY3"
+    },
+    {
+      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/5Ao966nL5V38v8652399lo"
       },
@@ -14798,6 +14874,32 @@
       "duration_ms": 209300,
       "name": "The Cure & The Cause - Idris Elba Remix",
       "url": "https://open.spotify.com/track/5vS0cIS1Z8RIXfEjcrJ4HC"
+    },
+    {
+      "album": {
+        "name": "The Cure (feat. Chloe Paige)",
+        "url": "https://open.spotify.com/album/11NsP5ydXk68bhYyq5tErV"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "KeeQ",
+          "url": "https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB"
+        },
+        {
+          "name": "Chloe Paige",
+          "url": "https://open.spotify.com/artist/5829bCNnWiHYQQvF5lMxWq"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234312,
+      "name": "The Cure (feat. Chloe Paige)",
+      "url": "https://open.spotify.com/track/47bfpeMYD6oCLJL9ZAbxCc"
     },
     {
       "album": {

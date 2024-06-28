@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125925,
+  "num_followers": 125923,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASkvQ4liq6RRiSYMewaK7pKK+Ue0/j",
+  "snapshot_id": "AAASlzEx7gNLOj05Al82z5gasj1IVkqC",
   "tracks": [
+    {
+      "added_at": "2024-06-27 08:23:30",
+      "album": {
+        "name": "Run Alone",
+        "url": "https://open.spotify.com/album/1QpvGcvfiU6uiQMIy08fMn"
+      },
+      "artists": [
+        {
+          "name": "Eskei83",
+          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
+        },
+        {
+          "name": "MARIELE",
+          "url": "https://open.spotify.com/artist/7BD5vJssWIjaDmb5Pszagd"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Run Alone",
+      "url": "https://open.spotify.com/track/7IJYK8h8z2NxYfjUjAzJTy"
+    },
     {
       "added_at": "2024-06-26 13:08:10",
       "album": {
@@ -1143,94 +1163,6 @@
       "duration_ms": 165517,
       "name": "Venom",
       "url": "https://open.spotify.com/track/6bjMeD8hdOcSU5AQQTRS5J"
-    },
-    {
-      "added_at": "2024-04-09 17:11:19",
-      "album": {
-        "name": "RIOT (Curbi Remix)",
-        "url": "https://open.spotify.com/album/7wJKTljt6tVUWJFPFSj9qw"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 165710,
-      "name": "RIOT - Curbi Remix",
-      "url": "https://open.spotify.com/track/141Wmp3tD5OEqY3PrfryWj"
-    },
-    {
-      "added_at": "2024-04-09 17:10:29",
-      "album": {
-        "name": "Lifeforce",
-        "url": "https://open.spotify.com/album/1AfJEUYxnKu51Fh2kdDmpJ"
-      },
-      "artists": [
-        {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        },
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Lifeforce",
-      "url": "https://open.spotify.com/track/6WZlq7JetbqyFy07NvForB"
-    },
-    {
-      "added_at": "2024-04-08 18:49:46",
-      "album": {
-        "name": "U & Me (Vincent Remix)",
-        "url": "https://open.spotify.com/album/5HfW4x3d6Z6U8SxVVPq64J"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        },
-        {
-          "name": "Vincent",
-          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
-        }
-      ],
-      "duration_ms": 238806,
-      "name": "U & Me - Vincent Remix",
-      "url": "https://open.spotify.com/track/6WvlIbyEEjZqbsxBlGGM7H"
-    },
-    {
-      "added_at": "2024-04-05 16:22:31",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "SpaceMan Zack",
-          "url": "https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "Only the Good Die Young",
-      "url": "https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

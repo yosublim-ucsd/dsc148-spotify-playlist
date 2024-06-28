@@ -973,6 +973,24 @@
     },
     {
       "album": {
+        "name": "The Chain (From The Prime Video Original Series, My Lady Jane)",
+        "url": "https://open.spotify.com/album/7keXdFgGtDhrkJoFXoqxIc"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225186,
+      "name": "The Chain - From The Prime Video Original Series, My Lady Jane",
+      "url": "https://open.spotify.com/track/328yyFDPgpzUXVq3v2YBld"
+    },
+    {
+      "album": {
         "name": "The Idea of You (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA"
       },

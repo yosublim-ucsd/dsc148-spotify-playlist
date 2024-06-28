@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=RAxZFoJvS2CkSG4OXsdL1Q\">Nyashinski</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=pSgyzshEQBKP_mbOG-fd8Q\">Wakadinali</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -1903,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "Into That",
+        "url": "https://open.spotify.com/album/0dWYoKiceJd8STPSzkvPlw"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172068,
+      "name": "Into That",
+      "url": "https://open.spotify.com/track/7fbPgtWH49WWbY0YIKi3wm"
+    },
+    {
+      "album": {
         "name": "Intro Freestyle",
         "url": "https://open.spotify.com/album/0Ud4Tg3WBjnKkqQRKgwsNJ"
       },
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 139133,
       "name": "Intro Freestyle",
       "url": "https://open.spotify.com/track/2SeDaMZmSfwJ5McsxiSMf8"
@@ -2045,6 +2063,28 @@
     },
     {
       "album": {
+        "name": "Kicks Kama Shoulin",
+        "url": "https://open.spotify.com/album/4J8jb57i0dLdKYRikNLRhi"
+      },
+      "artists": [
+        {
+          "name": "4Mr Frank White",
+          "url": "https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6"
+        },
+        {
+          "name": "UGYN",
+          "url": "https://open.spotify.com/artist/4ir54j2pLRmjVwseHuP79N"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81173,
+      "name": "Kicks Kama Shoulin",
+      "url": "https://open.spotify.com/track/7wdiLTYpTS5YrC57QViB3H"
+    },
+    {
+      "album": {
         "name": "KILIPESA",
         "url": "https://open.spotify.com/album/26Y0kUKYndeY7UNxq5tZXl"
       },
@@ -2090,6 +2130,32 @@
       "duration_ms": 138055,
       "name": "Kuja",
       "url": "https://open.spotify.com/track/5gI9yDOEUJCFvm6KNBihBR"
+    },
+    {
+      "album": {
+        "name": "Haitaki Hasira",
+        "url": "https://open.spotify.com/album/4XYUisoUrAzj5prx4rtIso"
+      },
+      "artists": [
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        },
+        {
+          "name": "Scar Mkadinali",
+          "url": "https://open.spotify.com/artist/3RCoJbqdoT2wavPdNCob2T"
+        },
+        {
+          "name": "SirBwoy",
+          "url": "https://open.spotify.com/artist/2YGz5XZZOcYA9TjDacv2aC"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236669,
+      "name": "Kuna Siku Youths Wataungana",
+      "url": "https://open.spotify.com/track/3btdpyVBUk4rcTFZ0t2HpT"
     },
     {
       "album": {
@@ -2899,6 +2965,28 @@
     },
     {
       "album": {
+        "name": "Mbuzi",
+        "url": "https://open.spotify.com/album/22lDZE5BEh0ZYMx0dPzx8j"
+      },
+      "artists": [
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        },
+        {
+          "name": "dutchavelli",
+          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201405,
+      "name": "Nduki (feat. dutchavelli)",
+      "url": "https://open.spotify.com/track/2fLXqKmxFQXZ5qcJVtBuCk"
+    },
+    {
+      "album": {
         "name": "Next",
         "url": "https://open.spotify.com/album/0aYga2tetl8BcfUbava1LM"
       },
@@ -3530,7 +3618,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 315376,
       "name": "RITHO",
       "url": "https://open.spotify.com/track/2M32pG0Wr1eT5RdKoAzykL"
@@ -4092,7 +4180,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 381727,
       "name": "SON-RISE - Resurrection",
       "url": "https://open.spotify.com/track/3BIjS35lXp5wajylMzYhdU"
@@ -5032,7 +5120,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 198400,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/5yJZO7Hrkpw0dYmmfwKJUm"

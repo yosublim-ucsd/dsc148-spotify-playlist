@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 89335,
+  "num_followers": 89348,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnoIgAAAAAA1+n+B9tULHIcmk0p4W38Q",
+  "snapshot_id": "ZntaAAAAAABJfjL+pCGBQ1/U4BYdY06h",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 170456,
+      "name": "Yo Quiero Fumar",
+      "url": "https://open.spotify.com/track/54R1JRL65L0LarHmgdMqay"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 170672,
       "name": "En La Bola (feat. El De La Guitarra)",
       "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Prometido Es Deuda Vol.2",
-        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 170456,
-      "name": "Yo Quiero Fumar",
-      "url": "https://open.spotify.com/track/54R1JRL65L0LarHmgdMqay"
     },
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "Ya La Conecte",
-      "url": "https://open.spotify.com/track/24WJmf2sL7u9iyeuGHV6Vy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 196205,
       "name": "Lo Que Me Distingue",
       "url": "https://open.spotify.com/track/2evqVdCxI2wKa5G0fjnEgB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "Ya La Conecte",
+      "url": "https://open.spotify.com/track/24WJmf2sL7u9iyeuGHV6Vy"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 157499,
-      "name": "No Andamos Solos",
-      "url": "https://open.spotify.com/track/0RFLlf7uUUUCgDUT6sJsBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 241444,
       "name": "El Del Jolly Rancher",
       "url": "https://open.spotify.com/track/6x8tNMBrOiFAvA2WoqYKgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 157499,
+      "name": "No Andamos Solos",
+      "url": "https://open.spotify.com/track/0RFLlf7uUUUCgDUT6sJsBQ"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Las Calles",
-        "url": "https://open.spotify.com/album/4sqxfNeqy1wpAJgk8Xuz1e"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        },
-        {
-          "name": "Dani G",
-          "url": "https://open.spotify.com/artist/5VF5P0WpOEvfNmSVYRaSqq"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Por Las Calles",
-      "url": "https://open.spotify.com/track/4nGiX1q909OD6ewChFFiB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Dicen Rana y Brinco",
         "url": "https://open.spotify.com/album/3ecvio5Id4s2NCOHMWKFbf"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 188790,
       "name": "Me Dicen Rana y Brinco",
       "url": "https://open.spotify.com/track/3VJHjovNyzkOw4CUdXOp6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Las Calles",
+        "url": "https://open.spotify.com/album/4sqxfNeqy1wpAJgk8Xuz1e"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Dani G",
+          "url": "https://open.spotify.com/artist/5VF5P0WpOEvfNmSVYRaSqq"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Por Las Calles",
+      "url": "https://open.spotify.com/track/4nGiX1q909OD6ewChFFiB1"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vida De Jefe",
+        "url": "https://open.spotify.com/album/5oaYRUViQpFhtJmvdmKNME"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 155250,
+      "name": "Vida De Jefe",
+      "url": "https://open.spotify.com/track/2JwqhwGplXHVHX7kBIv9I4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mismo Morro",
         "url": "https://open.spotify.com/album/159mfKivxJG6O33wzaMVCI"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 140122,
       "name": "El Mismo Morro",
       "url": "https://open.spotify.com/track/2LJC71XUvul0dUcGy41neC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vida De Jefe",
-        "url": "https://open.spotify.com/album/5oaYRUViQpFhtJmvdmKNME"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 155250,
-      "name": "Vida De Jefe",
-      "url": "https://open.spotify.com/track/2JwqhwGplXHVHX7kBIv9I4"
     }
   ],
   "unique_name": "This Is El de La Guitarra",

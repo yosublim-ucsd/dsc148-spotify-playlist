@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > puros morrxs haciendo música chida\. Sofish e Hispana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,632 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,627 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 47 | [Casi](https://open.spotify.com/track/1jesvXqRoERzpk4PYxbJC2) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF) | [Casi](https://open.spotify.com/album/1tyzlv1IPY4YwK5N9CDEKp) | 4:01 |
 | 48 | [Queriéndonos Bien](https://open.spotify.com/track/4wG7XaCbKosVVcKrvU6ECm) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Queriéndonos Bien](https://open.spotify.com/album/6c4WIqpwMrgNtjCPIzWfDX) | 2:06 |
 | 49 | [El Plan](https://open.spotify.com/track/5bQhbletNXhYFlBPVZnJcT) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [El Plan](https://open.spotify.com/album/0NlTdr4PZnxo2IV83PVvJE) | 3:37 |
-| 50 | [Al Parque](https://open.spotify.com/track/12t8uKp5KH8N8ibjRvdesB) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Al Parque](https://open.spotify.com/album/40kiTREjj8LkkgWQoMOXc0) | 3:27 |
+| 50 | [Al Parque](https://open.spotify.com/track/12t8uKp5KH8N8ibjRvdesB) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Al Parque](https://open.spotify.com/album/40kiTREjj8LkkgWQoMOXc0) | 3:28 |
 
 Snapshot ID: `ZnUW4AAAAADVvb8wEazLugaApRgmS1L8`

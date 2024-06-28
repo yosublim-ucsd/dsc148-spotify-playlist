@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Liana Flores",
+  "description": "The best jazz new releases. Cover: Madeleine Peyroux",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1506,6 +1506,28 @@
       "duration_ms": 177157,
       "name": "But Not for Me",
       "url": "https://open.spotify.com/track/1RFcW32md4A4JxrSLzSBjK"
+    },
+    {
+      "album": {
+        "name": "Flower of the soul",
+        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322223,
+      "name": "Butterflies (feat. Tim Bernardes)",
+      "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
     },
     {
       "album": {
@@ -3502,7 +3524,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 208978,
       "name": "Fly",
       "url": "https://open.spotify.com/track/6bsCkIuP5zdST3CrvBJDnm"
@@ -5957,6 +5979,24 @@
     },
     {
       "album": {
+        "name": "Let's Walk",
+        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292786,
+      "name": "Let's Walk",
+      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+    },
+    {
+      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/0VzsYDmj3gbUrc9u0BYsRo"
       },
@@ -7050,7 +7090,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 192573,
       "name": "My Baby Just Cares for Me (Pompignan Take)",
       "url": "https://open.spotify.com/track/7MT7wDaOW2nzOthUTS2GR8"
@@ -7334,6 +7374,28 @@
       "duration_ms": 159758,
       "name": "Nobody's fault but mine",
       "url": "https://open.spotify.com/track/07dvfTvxCzgQEf5jYRUqfX"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/7gEO5D21947OD8DPjh9UK2"
+      },
+      "artists": [
+        {
+          "name": "JaRon Marshall",
+          "url": "https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8"
+        },
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186572,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6GyIAOPiPEXO7gZ2ageJp4"
     },
     {
       "album": {
@@ -7738,7 +7800,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 246078,
       "name": "Ordinaire",
       "url": "https://open.spotify.com/track/4vpgTddDyBV25oLHhXDfYa"
@@ -8876,7 +8938,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 241626,
       "name": "Showman Dan",
       "url": "https://open.spotify.com/track/6PfdBLM4XoGyWTrhnaVWgI"
@@ -9026,7 +9088,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 390733,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4gnLPUf5GDEH1jl8XGqM2O"
@@ -9989,6 +10051,24 @@
     },
     {
       "album": {
+        "name": "The Mojo",
+        "url": "https://open.spotify.com/album/2GJ9XmrXCyEas9lZmocCAl"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Rifflet",
+          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197586,
+      "name": "The Mojo",
+      "url": "https://open.spotify.com/track/43ZH66bpYjA7xWQgryH0KQ"
+    },
+    {
+      "album": {
         "name": "The Only Thing Missing Is You",
         "url": "https://open.spotify.com/album/7e3oiSXfu7UJcW18gZLrwB"
       },
@@ -10678,6 +10758,24 @@
       "duration_ms": 261319,
       "name": "Under Paris Skies",
       "url": "https://open.spotify.com/track/4HnZtTEp8wQfF43Km2w6G7"
+    },
+    {
+      "album": {
+        "name": "Une Chanson Douce",
+        "url": "https://open.spotify.com/album/3AsXHghl7Z9VBLkX0g4TIB"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Une Chanson Douce",
+      "url": "https://open.spotify.com/track/6WhWdVpXBLdc9CXOm7uDlM"
     },
     {
       "album": {

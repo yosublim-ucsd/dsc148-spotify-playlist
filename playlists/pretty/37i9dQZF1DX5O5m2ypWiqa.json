@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda en portada. ",
-  "num_followers": 1876141,
+  "num_followers": 1876506,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Tu Yo Y La Luna",
-        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Recostada En La Cama",
-      "url": "https://open.spotify.com/track/50tmOF513elS7K3HrwYq29"
-    },
-    {
-      "added_at": "2024-04-08 16:23:47",
-      "album": {
         "name": "El Antes Y El Despu\u00e9s",
         "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 180160,
       "name": "Disculpa Coraz\u00f3n",
       "url": "https://open.spotify.com/track/37mRiEkMEFpBTengqlBBXW"
+    },
+    {
+      "added_at": "2024-04-08 16:23:47",
+      "album": {
+        "name": "Tu Yo Y La Luna",
+        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Recostada En La Cama",
+      "url": "https://open.spotify.com/track/50tmOF513elS7K3HrwYq29"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
+        "name": "El Antes Y El Despu\u00e9s",
+        "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
+      },
+      "artists": [
+        {
+          "name": "La Poderosa Banda San Juan",
+          "url": "https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u"
+        }
+      ],
+      "duration_ms": 135813,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/38opVim2NDSvYAPtsKfcOI"
+    },
+    {
+      "added_at": "2024-04-08 16:23:47",
+      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
-    },
-    {
-      "added_at": "2024-04-08 16:23:47",
-      "album": {
-        "name": "El Antes Y El Despu\u00e9s",
-        "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
-      },
-      "artists": [
-        {
-          "name": "La Poderosa Banda San Juan",
-          "url": "https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u"
-        }
-      ],
-      "duration_ms": 135813,
-      "name": "Sigue",
-      "url": "https://open.spotify.com/track/38opVim2NDSvYAPtsKfcOI"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 201108,
-      "name": "Mil Cartas",
-      "url": "https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K"
-    },
-    {
-      "added_at": "2024-04-08 16:23:47",
-      "album": {
         "name": "Indeleble",
         "url": "https://open.spotify.com/album/6AxSh2VYkdZUSZmwpLKsyk"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 187906,
       "name": "Indeleble",
       "url": "https://open.spotify.com/track/6r6g6eNSA6CNXo423wJ6gV"
+    },
+    {
+      "added_at": "2024-04-08 16:23:47",
+      "album": {
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 201108,
+      "name": "Mil Cartas",
+      "url": "https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -1787,22 +1787,18 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
+        "name": "La Autentica de Jerez Zacatecas - 15 Exitos",
+        "url": "https://open.spotify.com/album/5fkYzCrX5WjQxivctHQ2wt"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Banda Autentica de Jerez",
+          "url": "https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1"
         }
       ],
-      "duration_ms": 250686,
-      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
+      "duration_ms": 172920,
+      "name": "24 Horas del Dia",
+      "url": "https://open.spotify.com/track/69RBhbgVjnfVzzUvFokYRC"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -1855,18 +1851,22 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "La Autentica de Jerez Zacatecas - 15 Exitos",
-        "url": "https://open.spotify.com/album/5fkYzCrX5WjQxivctHQ2wt"
+        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
       },
       "artists": [
         {
-          "name": "Banda Autentica de Jerez",
-          "url": "https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 172920,
-      "name": "24 Horas del Dia",
-      "url": "https://open.spotify.com/track/69RBhbgVjnfVzzUvFokYRC"
+      "duration_ms": 250686,
+      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "De Monterrey a Sinaloa",
-        "url": "https://open.spotify.com/album/6M9upytZn0KVS3JvlhbSYE"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Borracho de Amor",
-      "url": "https://open.spotify.com/track/2xjxGXr3eASzCvo9MUHk0w"
-    },
-    {
-      "added_at": "2024-04-08 16:23:47",
-      "album": {
         "name": "En Peligro de Extinci\u00f3n",
         "url": "https://open.spotify.com/album/4wVjFDQvkAMizWIlA4gTdp"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 234198,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/45sVRPegWSGpIcsrDoaaCY"
+    },
+    {
+      "added_at": "2024-04-08 16:23:47",
+      "album": {
+        "name": "De Monterrey a Sinaloa",
+        "url": "https://open.spotify.com/album/6M9upytZn0KVS3JvlhbSYE"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Borracho de Amor",
+      "url": "https://open.spotify.com/track/2xjxGXr3eASzCvo9MUHk0w"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -2207,6 +2207,22 @@
       "duration_ms": 204203,
       "name": "Como la Palma de Mi Mano",
       "url": "https://open.spotify.com/track/7eqsKO7D6dEyKZapyvTz0h"
+    },
+    {
+      "added_at": "2024-04-08 16:23:47",
+      "album": {
+        "name": "Durmiendo en el Lugar Equivocado",
+        "url": "https://open.spotify.com/album/2aKDUQ9THsWgg2bDg6x3Xz"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 195131,
+      "name": "Te Dir\u00e1n",
+      "url": "https://open.spotify.com/track/6XkMhdlUmktAZJD5c2BpSZ"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -2275,22 +2291,6 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Durmiendo en el Lugar Equivocado",
-        "url": "https://open.spotify.com/album/2aKDUQ9THsWgg2bDg6x3Xz"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 195131,
-      "name": "Te Dir\u00e1n",
-      "url": "https://open.spotify.com/track/6XkMhdlUmktAZJD5c2BpSZ"
-    },
-    {
-      "added_at": "2024-04-08 16:23:47",
-      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH"
       },
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
+        "name": "Muchas Gracias",
+        "url": "https://open.spotify.com/album/7nX8NgdRSN9i0Gpk0TJCco"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 179017,
+      "name": "Muchas Gracias",
+      "url": "https://open.spotify.com/track/3Ym2H5SsNxRQdMfu8hhet7"
+    },
+    {
+      "added_at": "2024-04-08 16:23:47",
+      "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/2c8uOIhjcq07kzV7isc3JB"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 173186,
       "name": "Mujer de Piedra",
       "url": "https://open.spotify.com/track/1CqPzQJ64nkRpHmPdqRl9R"
-    },
-    {
-      "added_at": "2024-04-08 16:23:47",
-      "album": {
-        "name": "Mas Alla Del Sol",
-        "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 163654,
-      "name": "Mas Alla Del Sol",
-      "url": "https://open.spotify.com/track/21Yn3cSdzaPQuOEs2kt4jQ"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -2387,18 +2387,18 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Muchas Gracias",
-        "url": "https://open.spotify.com/album/7nX8NgdRSN9i0Gpk0TJCco"
+        "name": "Mas Alla Del Sol",
+        "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 179017,
-      "name": "Muchas Gracias",
-      "url": "https://open.spotify.com/track/3Ym2H5SsNxRQdMfu8hhet7"
+      "duration_ms": 163654,
+      "name": "Mas Alla Del Sol",
+      "url": "https://open.spotify.com/track/21Yn3cSdzaPQuOEs2kt4jQ"
     },
     {
       "added_at": "2024-04-08 16:23:47",
@@ -2439,18 +2439,18 @@
     {
       "added_at": "2024-04-08 16:23:47",
       "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/2c8uOIhjcq07kzV7isc3JB"
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/0XQIEnBFAUvoYyW6V1Ph6j"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 199946,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4bjemSdlRBzNqP86omaKbq"
+      "duration_ms": 206973,
+      "name": "En la Sierra y la Ciudad (La China)",
+      "url": "https://open.spotify.com/track/3d4nvqVHxsY2czibr9SXu9"
     }
   ],
   "unique_name": "Cl\u00e1sicas de Banda",

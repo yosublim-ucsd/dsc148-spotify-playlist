@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,355 likes - 72 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,431 likes - 72 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 32 | [Chikkubukku Chikkubukku Railea](https://open.spotify.com/track/6ic3BzpUA3dsMOsTXvPfTe) | [Suresh Peters](https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45), [Nil](https://open.spotify.com/artist/1BrnrJA9euFivUWs59wDbF) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 5:21 |
 | 33 | [Poralea Ponnu Thai\-Happy](https://open.spotify.com/track/1nMnhtBGhdwu04naNw2mbf) | [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Karuthamma](https://open.spotify.com/album/5YJelfY5sPdfUNzgka0yOW) | 5:42 |
 | 34 | [Nee Kattum Selai](https://open.spotify.com/track/3XQBlwW2QE8i9ykGctVMbm) | [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR), [T\. L\. Maharajan](https://open.spotify.com/artist/07pfRuQX86iRuYx3gPCtXD) | [Pudhiya Mannargal](https://open.spotify.com/album/4ikOUhRd1eGnmCDNBGpMJL) | 5:24 |
-| 35 | [Oru Thuli](https://open.spotify.com/track/6wQ5javGqRoOGvlBxpMqRz) | [M.G.Sureshkumar](https://open.spotify.com/artist/41iyfQra9BGMiForKQXJzU), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [En Swasa Kaatre](https://open.spotify.com/album/1AShgi69eqjHbr34SFaves) | 5:47 |
+| 35 | [Nayagra](https://open.spotify.com/track/745aajKtj83m03Bdksc387) | [Sriram](https://open.spotify.com/artist/1Ai99TpUOqx8ktHgdxH8kU), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [En Swasa Kaatre](https://open.spotify.com/album/1AShgi69eqjHbr34SFaves) | 5:00 |
 | 36 | [Narumugaiyeh Narumugaiyeh](https://open.spotify.com/track/0TzbduxzsPOf3Ar7lErQF6) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Iruvar](https://open.spotify.com/album/5ztXu69YTnoVGJixlOcmBD) | 6:27 |
-| 37 | [Nayagra](https://open.spotify.com/track/745aajKtj83m03Bdksc387) | [Sriram](https://open.spotify.com/artist/1Ai99TpUOqx8ktHgdxH8kU), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [En Swasa Kaatre](https://open.spotify.com/album/1AShgi69eqjHbr34SFaves) | 5:00 |
+| 37 | [Oru Thuli](https://open.spotify.com/track/6wQ5javGqRoOGvlBxpMqRz) | [M.G.Sureshkumar](https://open.spotify.com/artist/41iyfQra9BGMiForKQXJzU), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [En Swasa Kaatre](https://open.spotify.com/album/1AShgi69eqjHbr34SFaves) | 5:47 |
 | 38 | [EMPEARU PADAIYAPPA](https://open.spotify.com/track/2KymsRETufVngoXJe1ZzY2) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [A.R.RAHMAN VIBRATION](https://open.spotify.com/album/2xcX4329gzbTfJu6xc0Kui) | 5:25 |
 | 39 | [Kannai Kattikkollathae](https://open.spotify.com/track/4ND4dDfxFWOZx5PXo0bU85) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Iruvar](https://open.spotify.com/album/5ztXu69YTnoVGJixlOcmBD) | 6:01 |
 | 40 | [No Problem \(From "Love Birds"\)](https://open.spotify.com/track/0aoAP2serd8HsclGNuTo4k) | [Apache Indian](https://open.spotify.com/artist/4sLklwvfOYr12fMGwrnlc7), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Hits of A\. R\. Rahman Vol\. 1](https://open.spotify.com/album/7D7oL7wgnft6wQGp31he1A) | 6:11 |

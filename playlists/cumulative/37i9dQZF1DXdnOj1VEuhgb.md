@@ -2,9 +2,9 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: Joker
+> Türkiye'nin en sıkı çalma listesi\. Kapak: Heja x No.1 x Eypio
 
-379 songs - 16 hr 45 min
+381 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Dünya](https://open.spotify.com/track/2yH4M3DAPx5E4zEWK9vE12) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Dünya](https://open.spotify.com/album/1L8vKc7MwocrgtHl0uFgt7) | 2:20 | 2023-03-23 | 2023-04-28 |
 | [Dünya Fani](https://open.spotify.com/track/0zryFWOTwY1BDcED6t27Sl) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Dünya Fani](https://open.spotify.com/album/64V9p8p4BqCA08eZRolk9l) | 1:56 | 2023-01-10 | 2023-04-14 |
 | [Düşüyorum Tekrar](https://open.spotify.com/track/4BK8g9i76nSG0RPe8d2XwR) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Düşüyorum Tekrar](https://open.spotify.com/album/5ylJtVajxWXRZB2o5MwowF) | 3:01 | 2023-04-06 | 2023-04-28 |
+| [Esmeri Sevdim Sarışınlara Kandım](https://open.spotify.com/track/6YcX9y3PuQ6s8WKRfkMYhb) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Esmeri Sevdim Sarışınlara Kandım](https://open.spotify.com/album/3b2i1X8ufSYWea9POTCMdA) | 2:45 | 2024-06-27 |  |
 | [ESTAFURLA](https://open.spotify.com/track/67FQS0mvwg4j5LgdlTwJuc) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [ESTAFURLA](https://open.spotify.com/album/3iyn3IpyDYMy3myhSUWxXz) | 1:38 | 2023-01-19 | 2023-03-18 |
 | [FALLEN](https://open.spotify.com/track/0Z8tA2Z3OZNgTeddaI9lat) | [Tepki](https://open.spotify.com/artist/5DtQ3MpxpzAyDvgMNFWN1r) | [FALLEN](https://open.spotify.com/album/0V3uA2HJdt0h5SjLQ1PUeS) | 2:20 | 2023-09-21 | 2023-10-06 |
 | [Feragât](https://open.spotify.com/track/72EjrX3xp4Ea2nhQRY6LMI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Feragât](https://open.spotify.com/album/57ctZof0xcxNyNPKyvER2Q) | 2:32 | 2023-01-10 | 2023-04-07 |
@@ -215,6 +216,7 @@
 | [LANNISTER](https://open.spotify.com/track/3kahv1hGB5bOr5blQMguOx) | [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [LANNISTER](https://open.spotify.com/album/6ofhyEoqDiB2YqK3QVp5DM) | 2:09 | 2024-04-04 | 2024-06-01 |
 | [LELELE](https://open.spotify.com/track/0GacjftLDThkCn0kMJETNh) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [LELELE](https://open.spotify.com/album/280tzkxAqhjDejY78x31ZX) | 2:38 | 2023-08-17 | 2023-09-22 |
 | [LETS GO PARTY](https://open.spotify.com/track/4pmhGRk8wqp2ncPzSsqWya) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [LETS GO PARTY](https://open.spotify.com/album/6ZHdU3NqqnXF4eEUDg9RP4) | 2:25 | 2023-09-21 | 2023-10-06 |
+| [LIMIT YOK \(feat\. Geolier\)](https://open.spotify.com/track/0oeklrrzFKY6GUay5zkpm7) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [LIMIT YOK \(feat\. Geolier\)](https://open.spotify.com/album/57vfwkFxrb6FP4XWwKcINC) | 2:34 | 2024-06-27 |  |
 | [Lovely](https://open.spotify.com/track/3xnXolsftH5cvHSAv77Oo2) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | ['RECKOL'](https://open.spotify.com/album/2irQP4nheSLswCjYyZTUVW) | 2:01 | 2023-09-28 | 2023-10-13 |
 | [Lvbel C5 x Fumez The Engineer \- Plugged In](https://open.spotify.com/track/7sb0Cm7Rn6lp90N6PFVfLc) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Lvbel C5 x Fumez The Engineer \- Plugged In](https://open.spotify.com/album/7l2fW5tJiQwQgTRUrmykT2) | 1:47 | 2023-05-25 | 2023-06-09 |
 | [LYYRIC⛧ \(Original 150mg\)](https://open.spotify.com/track/311vJ3PivHPW12YkV5sMjU) | [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK), [SWIRF](https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG) | [NOLYYRIC⛧](https://open.spotify.com/album/1hLNbbg0oBy3QbTecWDidW) | 1:28 | 2024-03-07 | 2024-03-22 |
@@ -292,7 +294,7 @@
 | [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/6ZHzOYgw3I9kBpoWwagDOK) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/7eEtaDSDeWJx1Z674aNvJV) | 3:11 | 2024-02-15 | 2024-03-03 |
 | [Rol](https://open.spotify.com/track/5ouX13VSFgp5XGawCTprLW) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Set](https://open.spotify.com/artist/19Rza4zry4FH12uXxbUsib) | [23](https://open.spotify.com/album/13NE1E45YnswgHArQL1SrN) | 2:12 | 2023-04-27 | 2023-05-16 |
 | [ROMANTİK](https://open.spotify.com/track/3730z7N28rvWW4PpSXR7PY) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:17 | 2023-08-08 | 2024-04-26 |
-| [RONDO](https://open.spotify.com/track/4ArmVkPk43NTW5jjRlb5aL) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SEVİMSİZ](https://open.spotify.com/album/2IQFXC71m1lcpg5YIy4KIF) | 1:49 | 2024-06-06 |  |
+| [RONDO](https://open.spotify.com/track/4ArmVkPk43NTW5jjRlb5aL) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SEVİMSİZ](https://open.spotify.com/album/2IQFXC71m1lcpg5YIy4KIF) | 1:49 | 2024-06-06 | 2024-06-28 |
 | [ROTTERDAM FREESTYLE](https://open.spotify.com/track/2WhsQfqUJVU9wRzORsukX8) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [ROTTERDAM FREESTYLE](https://open.spotify.com/album/5UVILVc0nsFsOKLULAPWq3) | 4:03 | 2023-12-14 | 2024-01-19 |
 | [RUNNIN](https://open.spotify.com/track/7gFs2bVIbB2O38kf2PuicP) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Nazli Mcfian](https://open.spotify.com/artist/5tLaq6yrpvEpoKyLoTbHoD), [Ege Taştan](https://open.spotify.com/artist/2L48zFZ46FyZQSd0dQoY6T) | [RUNNIN](https://open.spotify.com/album/1W1OtnnQtLVrCuceYUHJen) | 2:20 | 2024-02-22 | 2024-03-29 |
 | [RXCKSTAR](https://open.spotify.com/track/5PdGvW7w6Xf2tKZ8lKjJWd) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [RXCKSTAR](https://open.spotify.com/album/1XexpWydcoRRNHMaygdPbY) | 1:13 | 2024-02-05 | 2024-02-23 |

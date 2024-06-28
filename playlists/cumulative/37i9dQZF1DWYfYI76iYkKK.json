@@ -855,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Save Me From Hell",
+        "url": "https://open.spotify.com/album/0qSi596PI2P2jmf78cnAHV"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u5b8f\u6fa7",
+          "url": "https://open.spotify.com/artist/58kU1aZSAwtNyfcND3dWis"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228095,
+      "name": "Save Me From Hell",
+      "url": "https://open.spotify.com/track/5mOA5K06EpY7PV62bqTEDI"
+    },
+    {
+      "album": {
         "name": "Sent",
         "url": "https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR"
       },
@@ -1205,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u523b\u90fd\u4e0d\u96e2\u53bb",
+        "url": "https://open.spotify.com/album/5DSmNDS4wvlg6Gze5pIdj7"
+      },
+      "artists": [
+        {
+          "name": "\u912d\u4ee5\u7426",
+          "url": "https://open.spotify.com/artist/0fK1M3YgbZLpFBOCGZOPGb"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212312,
+      "name": "\u4e00\u523b\u90fd\u4e0d\u96e2\u53bb",
+      "url": "https://open.spotify.com/track/0uAh1eBw2slAOSzcza7JYn"
+    },
+    {
+      "album": {
         "name": "Present",
         "url": "https://open.spotify.com/album/4K9vimMcfuuVIK9aMVIQKr"
       },
@@ -1292,7 +1328,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 208000,
       "name": "\u4e00\u8d77\u6d6a\u8cbb\u6642\u5149\u7684\u5b89\u5168\u611f",
       "url": "https://open.spotify.com/track/5yS3QUbj5ukfTVETtGmyGJ"
@@ -2347,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
+        "url": "https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251175,
+      "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
+      "url": "https://open.spotify.com/track/0qBH1UQxdvqYyZrFQUBFno"
+    },
+    {
+      "album": {
         "name": "\u53ea\u6709\u6211\u7684\u5929\u7a7a\u6709\u70cf\u96f2 (Acoustic Version)",
         "url": "https://open.spotify.com/album/4hZ41yLZ6DD70g9T5pVYRY"
       },
@@ -2820,7 +2874,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 234750,
       "name": "\u5929\u5802\u8207\u6ce5\u571f",
       "url": "https://open.spotify.com/track/0I1YidoarFCsbkHu8ZkfrN"
@@ -3841,6 +3895,24 @@
     },
     {
       "album": {
+        "name": "\u60f3\u8d77\u4f60\u300a\u89d2\u982d\u300b\u539f\u8072\u5e36",
+        "url": "https://open.spotify.com/album/1MTBwZjiSEHN4s9pk1AYY7"
+      },
+      "artists": [
+        {
+          "name": "\u8352\u5c71\u4eae",
+          "url": "https://open.spotify.com/artist/0SOlTkn1UElgcoONp254HS"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270500,
+      "name": "\u60f3\u8d77\u4f60\u300a\u89d2\u982d\u300b\u539f\u8072\u5e36",
+      "url": "https://open.spotify.com/track/7Ju8A9iADHBsMkwPGLdxff"
+    },
+    {
+      "album": {
         "name": "\u611b\u4f60-\u5341\u5468\u5e74\u7248",
         "url": "https://open.spotify.com/album/6ZEYMuyw0GYjJg6GgjS31O"
       },
@@ -4158,7 +4230,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 287010,
       "name": "\u6211\u591a\u60f3\u8b8a\u6210\u5979",
       "url": "https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz"
@@ -5326,7 +5398,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 232693,
       "name": "\u6d77\u67af\u77f3\u721b",
       "url": "https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P"
@@ -5464,6 +5536,24 @@
       "duration_ms": 226702,
       "name": "\u70ba\u4ec0\u9ebc\u53ea\u7559\u4e0b\u6211\u4e00\u500b",
       "url": "https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR"
+    },
+    {
+      "album": {
+        "name": "\u7121\u4eba",
+        "url": "https://open.spotify.com/album/6A5oYdk1PIhhOkIxdMoXqU"
+      },
+      "artists": [
+        {
+          "name": "\u854eChiao",
+          "url": "https://open.spotify.com/artist/3JgvHRyoYHDkGGT1oGlRYU"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216833,
+      "name": "\u7121\u4eba",
+      "url": "https://open.spotify.com/track/0GaXVbxat5CjDUdtgPpdu2"
     },
     {
       "album": {
@@ -6661,6 +6751,24 @@
     },
     {
       "album": {
+        "name": "\u8d95\u8d95\u6642\u9593",
+        "url": "https://open.spotify.com/album/3OHTeZ8l4MkmDO1bUTJ51q"
+      },
+      "artists": [
+        {
+          "name": "\u9112\u5e8f",
+          "url": "https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219919,
+      "name": "\u8d95\u8d95\u6642\u9593",
+      "url": "https://open.spotify.com/track/7opdi4QEthCnJZkCdmPPsg"
+    },
+    {
+      "album": {
         "name": "\u8ddf\u6211\u4f86 (Acoustic Version)",
         "url": "https://open.spotify.com/album/6oOj4SXZ6dt5dn0BpoCC9z"
       },
@@ -7280,7 +7388,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 293833,
       "name": "\u96d9\u68f2\u52d5\u7269",
       "url": "https://open.spotify.com/track/03PKZKaaflLteXAbL58s2d"
@@ -7496,7 +7604,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 245863,
       "name": "\u98de\u9e1f\u7684\u773c\u775b",
       "url": "https://open.spotify.com/track/0osnYEkcLLJqQSEnhZpOAh"

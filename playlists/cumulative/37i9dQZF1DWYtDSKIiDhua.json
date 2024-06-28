@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover:  NYK",
+  "description": "The R&B and good vibe tracks for your current mood. Cover:  Dru Chen, Gentle Bones",
   "name": "mood.",
   "tracks": [
     {
@@ -1949,6 +1949,28 @@
     },
     {
       "album": {
+        "name": "Casper",
+        "url": "https://open.spotify.com/album/3Atgb7xr6Rs3akwH2v6bgV"
+      },
+      "artists": [
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+        },
+        {
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164783,
+      "name": "Casper",
+      "url": "https://open.spotify.com/track/0pYiZVUm2jZyTUz9zzKV8s"
+    },
+    {
+      "album": {
         "name": "castle",
         "url": "https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR"
       },
@@ -2480,7 +2502,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 156129,
       "name": "Crash",
       "url": "https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB"
@@ -2634,6 +2656,28 @@
       "duration_ms": 145219,
       "name": "CUTIE",
       "url": "https://open.spotify.com/track/6N0A2eAfev8XaMlrS16mkC"
+    },
+    {
+      "album": {
+        "name": "Dance With The Devil",
+        "url": "https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210804,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD"
     },
     {
       "album": {
@@ -3390,7 +3434,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 156880,
       "name": "easy on me",
       "url": "https://open.spotify.com/track/0i4dOFMCie6lHFgZ7xsSCS"
@@ -3582,7 +3626,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 127452,
       "name": "Escape (feat. Jessi)",
       "url": "https://open.spotify.com/track/2Tp8vm7MZIb1nnx1qEGYv5"
@@ -4445,6 +4489,28 @@
     },
     {
       "album": {
+        "name": "Free as a Bird",
+        "url": "https://open.spotify.com/album/2ODShvedm9rxASw0aNfqCQ"
+      },
+      "artists": [
+        {
+          "name": "Nao Yoshioka",
+          "url": "https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08"
+        },
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179534,
+      "name": "Free as a Bird",
+      "url": "https://open.spotify.com/track/1Zn7DUiH5Ot0XkzpL6s7vt"
+    },
+    {
+      "album": {
         "name": "FRI(END)S",
         "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
       },
@@ -5032,7 +5098,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 203573,
       "name": "goodnight, don\u2019t wait",
       "url": "https://open.spotify.com/track/4TfFa0wkZiHR8TGbYpELna"
@@ -7210,7 +7276,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 121055,
       "name": "Let Me Tell You",
       "url": "https://open.spotify.com/track/5k6kIb3DjbFfnYHuPHeRBC"
@@ -7594,7 +7660,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 227683,
       "name": "Lose My Focus",
       "url": "https://open.spotify.com/track/5zhmlyLla3YNdjpEyi3Amk"
@@ -8082,6 +8148,28 @@
       "duration_ms": 193500,
       "name": "Make A Move",
       "url": "https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId"
+    },
+    {
+      "album": {
+        "name": "Make It Alright",
+        "url": "https://open.spotify.com/album/1WMX7MjAbDQSzg2GfwEQTM"
+      },
+      "artists": [
+        {
+          "name": "Dru Chen",
+          "url": "https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf"
+        },
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "Make It Alright",
+      "url": "https://open.spotify.com/track/2KwzKxI2WfH4zL5nRTO2Vq"
     },
     {
       "album": {
@@ -9778,6 +9866,24 @@
       "duration_ms": 215380,
       "name": "Part Time Lover",
       "url": "https://open.spotify.com/track/2tK0o3mmOXo7OBE4qftoZE"
+    },
+    {
+      "album": {
+        "name": "part-time lover",
+        "url": "https://open.spotify.com/album/67mTUhjtDIsgbgKwK1zcSa"
+      },
+      "artists": [
+        {
+          "name": "lost spaces",
+          "url": "https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146032,
+      "name": "part-time lover",
+      "url": "https://open.spotify.com/track/3zEG10Pt8RtryGhvNHb74Y"
     },
     {
       "album": {
@@ -14043,6 +14149,32 @@
     },
     {
       "album": {
+        "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
+        "url": "https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
+      "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
+    },
+    {
+      "album": {
         "name": "N\u00fc Moon",
         "url": "https://open.spotify.com/album/1l9aiypXkyhJx58NTJQz6O"
       },
@@ -14146,7 +14278,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 227409,
       "name": "WalkOnBy (feat. Earl Sweatshirt & Rae Khalil)",
       "url": "https://open.spotify.com/track/5mUHnwhs4N0bLhidpub3FC"
@@ -14434,6 +14566,24 @@
       "duration_ms": 170320,
       "name": "what would you say to your lost self",
       "url": "https://open.spotify.com/track/07jgeBRRxIA2FICXUouW5v"
+    },
+    {
+      "album": {
+        "name": "WHAT'S THE USE?",
+        "url": "https://open.spotify.com/album/6R7FnFtp5jaXgthNMOJO6R"
+      },
+      "artists": [
+        {
+          "name": "Joogi",
+          "url": "https://open.spotify.com/artist/5KK7a8MlnPK04dZCq0IXXs"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218836,
+      "name": "WHAT'S THE USE?",
+      "url": "https://open.spotify.com/track/40zlYkPmq88ZLEpbk3nxkH"
     },
     {
       "album": {

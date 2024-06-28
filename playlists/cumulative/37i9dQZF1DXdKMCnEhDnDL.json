@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 179676,
       "name": "Blijf Bij Mij",
       "url": "https://open.spotify.com/track/7EyvmcYx7WzeBi2cY9RmIi"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 228040,
       "name": "Dansplaat",
       "url": "https://open.spotify.com/track/0zod2geACnBZNbL72LBP6Y"
@@ -1602,6 +1602,24 @@
       "duration_ms": 226213,
       "name": "Geef Mij Je Angst",
       "url": "https://open.spotify.com/track/3HWNzYaGf9LmV6G3JYCEwS"
+    },
+    {
+      "album": {
+        "name": "Gloeien",
+        "url": "https://open.spotify.com/album/72LoblAQvzkBIeGgg4Wb5y"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238137,
+      "name": "Gloeien",
+      "url": "https://open.spotify.com/track/6SRbUAMpKHSRAJ6XpZERJy"
     },
     {
       "album": {
@@ -3386,6 +3404,24 @@
       "duration_ms": 171818,
       "name": "Paracetamollen",
       "url": "https://open.spotify.com/track/0bSgNta3s0kIZkxuBI9PxR"
+    },
+    {
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/1R3bFpMH3ySvkMArLrwFox"
+      },
+      "artists": [
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/4h272DTgerbGSLboHdYefP"
     },
     {
       "album": {

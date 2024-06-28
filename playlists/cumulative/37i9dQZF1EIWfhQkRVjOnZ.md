@@ -2,7 +2,7 @@
 
 ### [Destroy The Runner Mix](https://open.spotify.com/playlist/37i9dQZF1EIWfhQkRVjOnZ)
 
-> <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVekjEtHp0aF>For All Eternity</a>
+> <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a>
 
 121 songs - 7 hr 11 min
 
@@ -61,11 +61,11 @@
 | [Hymn of a Broken Man](https://open.spotify.com/track/1vcHLDfAfuBq4JuIgEkw5I) | [Times Of Grace](https://open.spotify.com/artist/0CfztphU9FWmAhGocFrrYC) | [The Hymn of a Broken Man](https://open.spotify.com/album/0Fgm0GE1K43soqeminCy4R) | 3:13 | 2024-05-05 | 2024-06-18 |
 | [I Never Wanted](https://open.spotify.com/track/0RAqGFqsW6moDVpJw4ky8c) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 4:44 | 2024-04-23 | 2024-06-11 |
 | [I, Lucifer](https://open.spotify.com/track/0E9FpLirv1SfDcwcSKgzZA) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:42 | 2024-04-23 |  |
-| [In Regards To Myself](https://open.spotify.com/track/3VC4KHC7cRhuG6nYx4f1qj) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 3:24 | 2024-05-28 | 2024-06-24 |
+| [In Regards To Myself](https://open.spotify.com/track/3VC4KHC7cRhuG6nYx4f1qj) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 3:24 | 2024-05-28 |  |
 | [In The Wake Of Pigs](https://open.spotify.com/track/7xXLYzzhg4JXtAaMc8Vviz) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Children Of Fire](https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k) | 3:09 | 2024-05-04 |  |
 | [Indictment](https://open.spotify.com/track/3KBYHSo6IPP3WNMadvouX7) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:42 | 2024-05-02 | 2024-06-20 |
 | [Isabella's](https://open.spotify.com/track/779b8UjspJSKZXLWBtnQpR) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:44 | 2024-04-23 |  |
-| [It Dwells In Me](https://open.spotify.com/track/2zkTehkNBWVQIGda4y729C) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:14 | 2024-04-26 |  |
+| [It Dwells In Me](https://open.spotify.com/track/2zkTehkNBWVQIGda4y729C) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a) | 3:14 | 2024-04-26 | 2024-06-28 |
 | [It's Always Cold In Paris](https://open.spotify.com/track/3khOEnCw1YujWr6wnpGa8p) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 2:36 | 2024-04-23 |  |
 | [It's Myself Vs\. Being A Man](https://open.spotify.com/track/4wsUqakU0XttKbHC7eMCZR) | [Inhale Exhale](https://open.spotify.com/artist/5DfSyvaESBfcTdAOQOJWfD) | [I Swear](https://open.spotify.com/album/50yvqL4wCkCwqsDm2OSnst) | 4:55 | 2024-06-11 | 2024-06-14 |
 | [Let the Bridges Burn](https://open.spotify.com/track/32ebJQC2dQyDvFAbiRYwdH) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:29 | 2024-06-11 | 2024-06-14 |

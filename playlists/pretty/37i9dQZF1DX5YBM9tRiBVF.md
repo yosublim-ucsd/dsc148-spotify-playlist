@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women at full volume! Cover: <a href="spotify:artist:7iHfb5ODaqKyprp2DBEXvU">Archie X</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,261 likes - 45 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,253 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 44 | [Water](https://open.spotify.com/track/0cWVg1HX4lDjDSvU9QfW36) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Sense & Nonsense](https://open.spotify.com/album/49C201EMuA7vMN68BRphjn) | 3:50 |
 | 45 | [These Ruins](https://open.spotify.com/track/2Q4Qf7SBNV2JWzTsoLnFC1) | [Joy Wellboy](https://open.spotify.com/artist/61G7yQtFBGRRbJlohUvlPG), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [These Ruins](https://open.spotify.com/album/2LGVeaEpiWFndmVfOBPMwW) | 3:48 |
 
-Snapshot ID: `Zl+OYAAAAAA1tjFAfsmbsZNF1c3uFAmT`
+Snapshot ID: `Zn1TVwAAAAAWTUfXjEkGIZHn2Zxqa3fX`

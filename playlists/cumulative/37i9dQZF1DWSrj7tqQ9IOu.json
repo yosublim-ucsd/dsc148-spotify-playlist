@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : La Femme",
+  "description": "The best French indie tracks right now. Cover : Peter Dallas",
   "name": "Made in France",
   "tracks": [
     {
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 171000,
       "name": "Creep - Reprise",
       "url": "https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H"
@@ -3097,6 +3097,24 @@
     },
     {
       "album": {
+        "name": "Gratte-ciel",
+        "url": "https://open.spotify.com/album/3jj3zfB2qrUYe7ZGtRjBia"
+      },
+      "artists": [
+        {
+          "name": "Shaga",
+          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192547,
+      "name": "Gratte-ciel",
+      "url": "https://open.spotify.com/track/0IbpLRq2Sc575ookIzbUB3"
+    },
+    {
+      "album": {
         "name": "Hydranism",
         "url": "https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte"
       },
@@ -3452,7 +3470,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 179920,
       "name": "Honn\u00eate",
       "url": "https://open.spotify.com/track/38rGEAgvkS19rOmPjV4DPx"
@@ -4204,7 +4222,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 160920,
       "name": "L'imb\u00e9cile",
       "url": "https://open.spotify.com/track/0RcaTIQtHiyJjlllYoCLAz"
@@ -5436,6 +5454,24 @@
       "duration_ms": 225013,
       "name": "minuit",
       "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
+    },
+    {
+      "album": {
+        "name": "Flegme",
+        "url": "https://open.spotify.com/album/0YH5sQoVXmhOsEc1FYP0WJ"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e8re",
+          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203133,
+      "name": "Minuit sur le balcon",
+      "url": "https://open.spotify.com/track/4r34G94IzRbRU57xfbUCAH"
     },
     {
       "album": {
@@ -7537,6 +7573,24 @@
     },
     {
       "album": {
+        "name": "Side Quest",
+        "url": "https://open.spotify.com/album/3ws96T2S43qUuNt1vyYjHq"
+      },
+      "artists": [
+        {
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199852,
+      "name": "Side Quest",
+      "url": "https://open.spotify.com/track/3CQhLUh7PfobqurGEEoz6h"
+    },
+    {
+      "album": {
         "name": "Sign Out",
         "url": "https://open.spotify.com/album/6zk2wMyaFUHRkoxRNDL1Ds"
       },
@@ -9456,7 +9510,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 185810,
       "name": "\u00c0 deux",
       "url": "https://open.spotify.com/track/4mtVZrJoHB30G9sUvJxyjh"
@@ -9478,6 +9532,32 @@
       "duration_ms": 189169,
       "name": "\u00c7a me va",
       "url": "https://open.spotify.com/track/5IrSaHFfKuSzG6pv6jWXJS"
+    },
+    {
+      "album": {
+        "name": "\u00c9motions satur\u00e9es (feat. TheFrenchKris)",
+        "url": "https://open.spotify.com/album/1g1N1xWro8IfsjIWzBmcbK"
+      },
+      "artists": [
+        {
+          "name": "Mattyeux",
+          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        },
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178893,
+      "name": "\u00c9motions satur\u00e9es (feat. TheFrenchKris)",
+      "url": "https://open.spotify.com/track/6MtVYXOK4RIlJ6ty6HIAem"
     },
     {
       "album": {

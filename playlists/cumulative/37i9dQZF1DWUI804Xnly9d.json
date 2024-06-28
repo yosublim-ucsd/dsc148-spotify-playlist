@@ -5443,6 +5443,54 @@
     },
     {
       "album": {
+        "name": "Sab Kuch Mera (Deep Heart)",
+        "url": "https://open.spotify.com/album/7EkrO0mqn5b16y10sFELow"
+      },
+      "artists": [
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+        },
+        {
+          "name": "Mann",
+          "url": "https://open.spotify.com/artist/7744LvLjHQ5gxVAA6CQJ79"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127792,
+      "name": "Sab Kuch Mera - Deep Heart",
+      "url": "https://open.spotify.com/track/1VyPLU5X6p38r1IPMRLvgg"
+    },
+    {
+      "album": {
+        "name": "Sabr",
+        "url": "https://open.spotify.com/album/4kO5031LstP65h2it5mrrl"
+      },
+      "artists": [
+        {
+          "name": "Vedang",
+          "url": "https://open.spotify.com/artist/6dip5H4Q9s5YCe85f8YI1M"
+        },
+        {
+          "name": "Shanu",
+          "url": "https://open.spotify.com/artist/7bGdQInMWCOfjCYHqIfkbd"
+        },
+        {
+          "name": "Tan9oCharlie",
+          "url": "https://open.spotify.com/artist/3WfqkiO5V1y9bEyDYIewL2"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133608,
+      "name": "Sabr",
+      "url": "https://open.spotify.com/track/3ONSKtGBGpK6i5Jx2KP2z9"
+    },
+    {
+      "album": {
         "name": "Sabse Alag",
         "url": "https://open.spotify.com/album/5B8Ej4Lps2p04TwU8nhNFa"
       },
@@ -6558,7 +6606,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 221089,
       "name": "Tujhse Door",
       "url": "https://open.spotify.com/track/5QuROITa16VNpRpTPL7R1z"
@@ -6932,7 +6980,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 195000,
       "name": "Yaad",
       "url": "https://open.spotify.com/track/7r0CegHHWW1c5R1F9DfLLr"

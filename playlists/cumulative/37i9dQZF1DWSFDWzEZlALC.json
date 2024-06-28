@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JBS",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: error",
   "name": "Wilde Herzen",
   "tracks": [
+    {
+      "album": {
+        "name": "00,00KG",
+        "url": "https://open.spotify.com/album/2gQvrvl2OJkEmOq7ghVtBV"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168629,
+      "name": "00,00KG",
+      "url": "https://open.spotify.com/track/6NARWPLA9xjUZ4oXIVAKOX"
+    },
     {
       "album": {
         "name": "1 hertz",
@@ -875,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Alles was du brauchst",
+        "url": "https://open.spotify.com/album/2ChWTVvC6kj491VXYcR6gx"
+      },
+      "artists": [
+        {
+          "name": "BRUCHBUDE",
+          "url": "https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168313,
+      "name": "Alles was du brauchst",
+      "url": "https://open.spotify.com/track/5VLY2jLhe8uL2JeQ6kdPlo"
+    },
+    {
+      "album": {
         "name": "Andere Stadt",
         "url": "https://open.spotify.com/album/0ZnscXjJpv6ADS5D23sTPB"
       },
@@ -998,7 +1034,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 174200,
       "name": "atlantik",
       "url": "https://open.spotify.com/track/4xEcgqxZ1H1LwkXHLJ362C"
@@ -1020,7 +1056,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 154679,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4"
@@ -1400,6 +1436,24 @@
       "duration_ms": 183401,
       "name": "berlin night life",
       "url": "https://open.spotify.com/track/2ZmE6SXMTsHpcbR14awchh"
+    },
+    {
+      "album": {
+        "name": "besser als ich",
+        "url": "https://open.spotify.com/album/0P0FfMob4BZwUtSZZC5AyT"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164715,
+      "name": "besser als ich",
+      "url": "https://open.spotify.com/track/5u86bpikvcqjO0bjOk1Y8T"
     },
     {
       "album": {
@@ -2028,7 +2082,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 184000,
       "name": "Cruisen",
       "url": "https://open.spotify.com/track/75wcLZXc1mHsGcDABxuIFv"
@@ -2126,6 +2180,24 @@
       "duration_ms": 166009,
       "name": "daf\u00fcr bin ich frei (feat. Bausa)",
       "url": "https://open.spotify.com/track/72hMYvQTGPDYmeg3MwtLFD"
+    },
+    {
+      "album": {
+        "name": "Dahinter ist blau",
+        "url": "https://open.spotify.com/album/2JSazwh5Chyqj6X7QGxjNJ"
+      },
+      "artists": [
+        {
+          "name": "Carlo5",
+          "url": "https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96100,
+      "name": "Dahinter ist blau",
+      "url": "https://open.spotify.com/track/0904VlvpzpJa8UR6vQiDtk"
     },
     {
       "album": {
@@ -2798,7 +2870,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 151997,
       "name": "Dummheit",
       "url": "https://open.spotify.com/track/6JHa31wREv5KpbbjLjMcFI"
@@ -3668,7 +3740,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 147167,
       "name": "fensterbank",
       "url": "https://open.spotify.com/track/4SEMA2hhBUi7PNCDrQGJ51"
@@ -4680,7 +4752,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 173943,
       "name": "halb 4",
       "url": "https://open.spotify.com/track/1u3bSLbmo4cnqyGZp2jP31"
@@ -4930,6 +5002,54 @@
       "duration_ms": 190062,
       "name": "hello sunshine",
       "url": "https://open.spotify.com/track/0AbX5Xi6d6kGmdpZFovSrY"
+    },
+    {
+      "album": {
+        "name": "Herr Direktor",
+        "url": "https://open.spotify.com/album/1V34hFUBDywXkKxZfWgz7W"
+      },
+      "artists": [
+        {
+          "name": "Rowli",
+          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
+        },
+        {
+          "name": "BEVN",
+          "url": "https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127483,
+      "name": "Herr Direktor",
+      "url": "https://open.spotify.com/track/28yKVTiiHwCoGkw3PO6A7p"
+    },
+    {
+      "album": {
+        "name": "Herz",
+        "url": "https://open.spotify.com/album/5GOppLw1DApsFjX6bmGm66"
+      },
+      "artists": [
+        {
+          "name": "Proberaum",
+          "url": "https://open.spotify.com/artist/5l1T3FsDFO0Tie509PzbPH"
+        },
+        {
+          "name": "Milxn",
+          "url": "https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6fk4NZo3VEqrlI3lzXUgHv"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Herz",
+      "url": "https://open.spotify.com/track/6HaiZCsCIsFYStVrv29Og3"
     },
     {
       "album": {
@@ -5202,7 +5322,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 138782,
       "name": "ich mach mich (regardless)",
       "url": "https://open.spotify.com/track/5LY20b84kLnv5CxFlbadxf"
@@ -6802,7 +6922,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 232586,
       "name": "lila/gr\u00fcn",
       "url": "https://open.spotify.com/track/4R7Ztk3IK5vKaLpNsffhlk"
@@ -6878,7 +6998,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 151822,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2hjwHhRf1thQYAiGDlavYr"
@@ -8845,6 +8965,28 @@
     },
     {
       "album": {
+        "name": "Randali",
+        "url": "https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143043,
+      "name": "Randali",
+      "url": "https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw"
+    },
+    {
+      "album": {
         "name": "Raue Z\u00e4rtlichkeit",
         "url": "https://open.spotify.com/album/3re4AICzx9AEd1XfE9oAZ0"
       },
@@ -10351,6 +10493,24 @@
     },
     {
       "album": {
+        "name": "Stimmen",
+        "url": "https://open.spotify.com/album/6q2FZdmkrBSGVCYpxsU6f8"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "Stimmen",
+      "url": "https://open.spotify.com/track/4j0aEdwpUwh04DKqmBmYOp"
+    },
+    {
+      "album": {
         "name": "Damals war die Luft noch frischer",
         "url": "https://open.spotify.com/album/0hEG5ptRQMiYMasI0IKWoX"
       },
@@ -10370,6 +10530,24 @@
       "duration_ms": 160000,
       "name": "Stockwerke",
       "url": "https://open.spotify.com/track/23YouZCICRRkMwn3LMw0OV"
+    },
+    {
+      "album": {
+        "name": "Strategie",
+        "url": "https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158813,
+      "name": "Strategie",
+      "url": "https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9"
     },
     {
       "album": {
@@ -10522,6 +10700,28 @@
       "duration_ms": 184985,
       "name": "Tanz In Deiner Wohnung",
       "url": "https://open.spotify.com/track/1HK0OkZNHBGUwG4BkcydKB"
+    },
+    {
+      "album": {
+        "name": "sommernacht <3",
+        "url": "https://open.spotify.com/album/3fU8AScEC1AiQHfOSIL7hI"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197503,
+      "name": "tausend tattoos",
+      "url": "https://open.spotify.com/track/5eCnPac0iRJG9tPS3IG8Bg"
     },
     {
       "album": {
@@ -10736,7 +10936,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 210004,
       "name": "Tommy Coconut",
       "url": "https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8"
@@ -10794,6 +10994,24 @@
       "duration_ms": 168647,
       "name": "Traum ist aus",
       "url": "https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC"
+    },
+    {
+      "album": {
+        "name": "Trauriger Disco Song",
+        "url": "https://open.spotify.com/album/7i5sY6xy7OSM5fGQXJiW6H"
+      },
+      "artists": [
+        {
+          "name": "Ronja",
+          "url": "https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237225,
+      "name": "Trauriger Disco Song",
+      "url": "https://open.spotify.com/track/6GxD5QUeZ1BZRwUhsYDM2h"
     },
     {
       "album": {
@@ -10906,6 +11124,28 @@
       "duration_ms": 148588,
       "name": "ultimate team",
       "url": "https://open.spotify.com/track/3CMpFys8sKu5Y1Wtp1HLis"
+    },
+    {
+      "album": {
+        "name": "Umarmung",
+        "url": "https://open.spotify.com/album/0ngSy1IUMXgzqgniNCfNrS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Cool",
+          "url": "https://open.spotify.com/artist/4ELBiOUtDJM4AFWfdX9uyK"
+        },
+        {
+          "name": "vini baby",
+          "url": "https://open.spotify.com/artist/5mHIDxqRLcIu0iL5EG4gzz"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160793,
+      "name": "Umarmung",
+      "url": "https://open.spotify.com/track/3Mo2Il00FsZ1JGn8nUPcAC"
     },
     {
       "album": {
@@ -11730,7 +11970,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 124086,
       "name": "Wei\u00dft du",
       "url": "https://open.spotify.com/track/6xTQUjMO5hZVrEpSNNo4eu"
@@ -12241,6 +12481,24 @@
     },
     {
       "album": {
+        "name": "Wisch&Tipp",
+        "url": "https://open.spotify.com/album/1B8KFbuADSLOhj6Johj5Vj"
+      },
+      "artists": [
+        {
+          "name": "JUDI&COCHO",
+          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Wisch&Tipp",
+      "url": "https://open.spotify.com/track/2UkCafENd1PZfIaLd27NVi"
+    },
+    {
+      "album": {
         "name": "wozu",
         "url": "https://open.spotify.com/album/6xLt2KL3QAY3gn92kpswz2"
       },
@@ -12310,7 +12568,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 167016,
       "name": "XY",
       "url": "https://open.spotify.com/track/3edFSoZ9Iz3kcFOGsn6RNQ"
@@ -12368,7 +12626,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 135233,
       "name": "Zeit x RIN",
       "url": "https://open.spotify.com/track/0jGC4X9hEVr7MihAhm9ViS"

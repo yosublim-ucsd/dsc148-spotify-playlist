@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 54501,
+  "num_followers": 54597,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1681,26 +1681,6 @@
       "url": "https://open.spotify.com/track/2BLx1lqekcmFijvHDy8Fd4"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Somos Libres",
-        "url": "https://open.spotify.com/album/4pIOINBVEbIBFLMMTWK3QV"
-      },
-      "artists": [
-        {
-          "name": "Cato Anaya",
-          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
-        },
-        {
-          "name": "Eran Hersh",
-          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
-        }
-      ],
-      "duration_ms": 190645,
-      "name": "Somos Libres",
-      "url": "https://open.spotify.com/track/206DRsL52r4kSdbuDmrkDh"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Tu Camino",
@@ -1719,6 +1699,26 @@
       "duration_ms": 165600,
       "name": "Tu Camino",
       "url": "https://open.spotify.com/track/4chazKXFBLQO6DFmv5hwj9"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Somos Libres",
+        "url": "https://open.spotify.com/album/4pIOINBVEbIBFLMMTWK3QV"
+      },
+      "artists": [
+        {
+          "name": "Cato Anaya",
+          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
+        },
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        }
+      ],
+      "duration_ms": 190645,
+      "name": "Somos Libres",
+      "url": "https://open.spotify.com/track/206DRsL52r4kSdbuDmrkDh"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1889,26 +1889,6 @@
       "url": "https://open.spotify.com/track/1HU2VVHRKbcvHvqUMY5BqN"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Falso Amor",
-        "url": "https://open.spotify.com/album/58BgCwpp9EDYVOzQw9jODk"
-      },
-      "artists": [
-        {
-          "name": "Krexxton",
-          "url": "https://open.spotify.com/artist/7iccXT3ByPJNIjHe3nwXir"
-        },
-        {
-          "name": "MAR\u00cdARROSA",
-          "url": "https://open.spotify.com/artist/6kaJ3A4a3SjwyBSzPPuYEm"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Falso Amor",
-      "url": "https://open.spotify.com/track/5t1fv5EJKjmuqfiI7zpeNn"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Candela",
@@ -1927,6 +1907,26 @@
       "duration_ms": 137343,
       "name": "Candela",
       "url": "https://open.spotify.com/track/0SxzftYd4dwbBNwAslFNb6"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Falso Amor",
+        "url": "https://open.spotify.com/album/58BgCwpp9EDYVOzQw9jODk"
+      },
+      "artists": [
+        {
+          "name": "Krexxton",
+          "url": "https://open.spotify.com/artist/7iccXT3ByPJNIjHe3nwXir"
+        },
+        {
+          "name": "MAR\u00cdARROSA",
+          "url": "https://open.spotify.com/artist/6kaJ3A4a3SjwyBSzPPuYEm"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Falso Amor",
+      "url": "https://open.spotify.com/track/5t1fv5EJKjmuqfiI7zpeNn"
     },
     {
       "added_at": "2024-04-19 04:00:00",

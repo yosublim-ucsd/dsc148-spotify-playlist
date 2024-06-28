@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "2 Many Lies / Your Love",
+        "url": "https://open.spotify.com/album/1ZdN5DsyEMxOmt7Vpy8IiL"
+      },
+      "artists": [
+        {
+          "name": "CHROMEBODIES",
+          "url": "https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI"
+        },
+        {
+          "name": "Centre Court",
+          "url": "https://open.spotify.com/artist/5CyxC6fwavhoRAf1n9n7wh"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "2 Many Lies",
+      "url": "https://open.spotify.com/track/5MtkeJ3mnxiQnkQGrGuIpm"
+    },
+    {
+      "album": {
         "name": "4Ever",
         "url": "https://open.spotify.com/album/3fJ1EFpVELMmCNZ4QbKmo5"
       },
@@ -894,7 +916,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 121800,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/2SduRa0s3ZDDkC9dmbIRgw"
@@ -984,7 +1006,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 144444,
       "name": "Cringey Doll",
       "url": "https://open.spotify.com/track/64qvYVdK2FQ2ooddDLiaje"
@@ -1184,7 +1206,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 206626,
       "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
       "url": "https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc"
@@ -1228,6 +1250,28 @@
       "duration_ms": 212266,
       "name": "DJ in Berlin (P.Vanillaboy Edit)",
       "url": "https://open.spotify.com/track/70W4ZdVWdPfDvOwAy9s1kv"
+    },
+    {
+      "album": {
+        "name": "REBOOT-Y",
+        "url": "https://open.spotify.com/album/5Y9pJc7aeqjOiTOAzVBjSU"
+      },
+      "artists": [
+        {
+          "name": "Evissimax",
+          "url": "https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv"
+        },
+        {
+          "name": "Ayce Bio",
+          "url": "https://open.spotify.com/artist/1JJZyzSriYDxn3vp8piOWI"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292706,
+      "name": "DJ LULLABY",
+      "url": "https://open.spotify.com/track/7L9BXn8a8QLnrO9Gu95Jl3"
     },
     {
       "album": {
@@ -1406,6 +1450,28 @@
       "duration_ms": 260133,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/0VqzQ7TOqavkEa4uDYkGnH"
+    },
+    {
+      "album": {
+        "name": "du f\u00e4ngst an zu weinen, aber ich weck dich nicht auf (Remix)",
+        "url": "https://open.spotify.com/album/7tMbaMdHScuc1JNt1lJnM9"
+      },
+      "artists": [
+        {
+          "name": "TEER",
+          "url": "https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv"
+        },
+        {
+          "name": "GAST",
+          "url": "https://open.spotify.com/artist/6p8CmCRoWyArAOTnuBmU56"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260665,
+      "name": "du f\u00e4ngst an zu weinen, aber ich weck dich nicht auf - Remix",
+      "url": "https://open.spotify.com/track/5dY4n7ClqRwoxTleYAbwlM"
     },
     {
       "album": {
@@ -2363,6 +2429,28 @@
     },
     {
       "album": {
+        "name": "girl EDM",
+        "url": "https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Kota Banks",
+          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203346,
+      "name": "Ice u out",
+      "url": "https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ"
+    },
+    {
+      "album": {
         "name": "G-COAST",
         "url": "https://open.spotify.com/album/0HpE2gIz2xoO6kkKMyu89c"
       },
@@ -2400,7 +2488,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 274519,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/7k6ds2BvraCzxPW95vSOwd"
@@ -3234,7 +3322,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 126530,
       "name": "My Barn My Rules - Edit",
       "url": "https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW"
@@ -3594,6 +3682,28 @@
       "duration_ms": 147500,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S"
+    },
+    {
+      "album": {
+        "name": "Obsessed (Remixes)",
+        "url": "https://open.spotify.com/album/22AnFhL89EKUOoraIsBuWz"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        },
+        {
+          "name": "pewtwo!",
+          "url": "https://open.spotify.com/artist/2A2TXo0OTrHFSKGQm8v7EL"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250441,
+      "name": "Obsessed - pewtwo! Remix",
+      "url": "https://open.spotify.com/track/2cf99dfxWCnMT3Z2EmWO8S"
     },
     {
       "album": {
@@ -4252,7 +4362,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 136087,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/4h3vVQAxnggiVDhldGcUHN"
@@ -4489,6 +4599,28 @@
     },
     {
       "album": {
+        "name": "Show Me The Sky",
+        "url": "https://open.spotify.com/album/2EnEIl36mvSSz0iMNtPawb"
+      },
+      "artists": [
+        {
+          "name": "Tommy Holohan",
+          "url": "https://open.spotify.com/artist/19KYorPPDJewrAXMeoZccy"
+        },
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Show Me The Sky",
+      "url": "https://open.spotify.com/track/11XXS0DhIQJp2wlgoFiBIM"
+    },
+    {
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y"
       },
@@ -4500,7 +4632,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 178377,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2"
@@ -4598,6 +4730,24 @@
       "duration_ms": 364455,
       "name": "Stream State",
       "url": "https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF"
+    },
+    {
+      "album": {
+        "name": "Sucker",
+        "url": "https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123316,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO"
     },
     {
       "album": {

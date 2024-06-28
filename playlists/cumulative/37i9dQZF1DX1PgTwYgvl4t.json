@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Deep Worship Medley",
+        "url": "https://open.spotify.com/album/5wZgcf3QmwWCHtXTo4l81w"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275310,
+      "name": "Deep Worship Medley",
+      "url": "https://open.spotify.com/track/0IMjgpxOemOw8P9DYlIKVL"
+    },
+    {
+      "album": {
         "name": "Dependable God (Medley)",
         "url": "https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj"
       },
@@ -744,6 +762,28 @@
       "duration_ms": 812625,
       "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
       "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
+    },
+    {
+      "album": {
+        "name": "My Helper (Atekomi)",
+        "url": "https://open.spotify.com/album/3OT8IZx4WclzxXmarzqnfl"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        },
+        {
+          "name": "Emmasings",
+          "url": "https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275226,
+      "name": "My Helper (Atekomi)",
+      "url": "https://open.spotify.com/track/45yd0S5IxTZ6zeq6Avq943"
     },
     {
       "album": {

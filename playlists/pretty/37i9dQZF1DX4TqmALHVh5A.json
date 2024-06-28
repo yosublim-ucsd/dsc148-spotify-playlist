@@ -1,15 +1,175 @@
 {
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : St Graal & KALIKA",
-  "num_followers": 45293,
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Max Baby",
+  "num_followers": 45301,
   "original_name": "Courant Alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnSmYAAAAAAarT79S6v7hCZh2p1yxrpS",
+  "snapshot_id": "Zn3g4AAAAAAZ6Xt32ksUTOUHj0FBp37S",
   "tracks": [
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Hardcore",
+        "url": "https://open.spotify.com/album/4p1MdMsRrpIh7AgYiSIPpV"
+      },
+      "artists": [
+        {
+          "name": "Max Baby",
+          "url": "https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA"
+        }
+      ],
+      "duration_ms": 235239,
+      "name": "Hardcore",
+      "url": "https://open.spotify.com/track/5oTBD08V9CpqXK1e1T7WRd"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Amour Scandaleux",
+        "url": "https://open.spotify.com/album/499lMyd1cf4i5c98NkOUWF"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Amour Scandaleux",
+      "url": "https://open.spotify.com/track/0ffjGmdQAMy2JLxI3vyuHG"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "PANAME \u0152STROS POUBELLE",
+        "url": "https://open.spotify.com/album/53JDJmBpfYZuJb2nz0v5SE"
+      },
+      "artists": [
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        }
+      ],
+      "duration_ms": 201989,
+      "name": "JUSTE AMIS",
+      "url": "https://open.spotify.com/track/1L9xCQ6PYyAgHqGfFPXC9N"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Witch Coast",
+        "url": "https://open.spotify.com/album/5kvklGY25433Iw37zcQxvS"
+      },
+      "artists": [
+        {
+          "name": "Sad Madona",
+          "url": "https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU"
+        }
+      ],
+      "duration_ms": 223254,
+      "name": "Witch Coast",
+      "url": "https://open.spotify.com/track/0pdFoGBlpk7qH2GniQWFS6"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Je t'emm\u00e8nerai",
+        "url": "https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB"
+      },
+      "artists": [
+        {
+          "name": "St Graal",
+          "url": "https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Je t'emm\u00e8nerai",
+      "url": "https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/436QZpEOWnh4wVphHHYbrA"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "duration_ms": 234162,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/61rputyFcUsC1ldct1OKRr"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Rock 2000",
+        "url": "https://open.spotify.com/album/2d8zNgpsZsTPZ17rKM2NWV"
+      },
+      "artists": [
+        {
+          "name": "Gwendoline",
+          "url": "https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "Rock 2000",
+      "url": "https://open.spotify.com/track/6yo0dEtbciUjB9X3l9xZpt"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/5k2kGcJwHBWckBy9aeKkGy"
+      },
+      "artists": [
+        {
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "ALED",
+      "url": "https://open.spotify.com/track/41hl3QWKVaFZMZTNZhrARK"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "du matin au matin",
+        "url": "https://open.spotify.com/album/3yZv18JRpZbih7IhOq4Lc7"
+      },
+      "artists": [
+        {
+          "name": "L'enfant",
+          "url": "https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "du matin au matin",
+      "url": "https://open.spotify.com/track/3DaAnP8S31hxhxgWqLCVpm"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "petit escargot",
+        "url": "https://open.spotify.com/album/06Nr7DJDtxzLQYrMNbnWjJ"
+      },
+      "artists": [
+        {
+          "name": "Colas",
+          "url": "https://open.spotify.com/artist/7gVIUgoWlvt4aXBkwqYIrc"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "petit escargot",
+      "url": "https://open.spotify.com/track/0ixhSe9nDUyz89Jr36EU3C"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Premier Baiser",
         "url": "https://open.spotify.com/album/3pEJyWEz9kGVYzXE9j9MZt"
@@ -29,103 +189,71 @@
       "url": "https://open.spotify.com/track/6zKP5wtxXNpzDWxcHA9LRa"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "EXIT",
-        "url": "https://open.spotify.com/album/5k2kGcJwHBWckBy9aeKkGy"
+        "name": "Moins seul sans eux",
+        "url": "https://open.spotify.com/album/02dlfpLJyHZ5uONzXyQcDp"
       },
       "artists": [
         {
-          "name": "Luther",
-          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
+          "name": "Simia",
+          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
         }
       ],
-      "duration_ms": 201000,
-      "name": "ALED",
-      "url": "https://open.spotify.com/track/41hl3QWKVaFZMZTNZhrARK"
+      "duration_ms": 131004,
+      "name": "Moins seul sans eux",
+      "url": "https://open.spotify.com/track/1c56S0vX15OA4H8X64ziJl"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Modern Love",
-        "url": "https://open.spotify.com/album/436QZpEOWnh4wVphHHYbrA"
+        "name": "Les gar\u00e7ons",
+        "url": "https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK"
       },
       "artists": [
         {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+          "name": "Lescop",
+          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
         }
       ],
-      "duration_ms": 234162,
-      "name": "Modern Love",
-      "url": "https://open.spotify.com/track/61rputyFcUsC1ldct1OKRr"
+      "duration_ms": 220882,
+      "name": "Les gar\u00e7ons",
+      "url": "https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Witch Coast",
-        "url": "https://open.spotify.com/album/5kvklGY25433Iw37zcQxvS"
+        "name": "babyBB",
+        "url": "https://open.spotify.com/album/7cNKxHYLzPobRtCsnXzjRD"
       },
       "artists": [
         {
-          "name": "Sad Madona",
-          "url": "https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU"
+          "name": "Of\u00e9",
+          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
         }
       ],
-      "duration_ms": 223254,
-      "name": "Witch Coast",
-      "url": "https://open.spotify.com/track/0pdFoGBlpk7qH2GniQWFS6"
+      "duration_ms": 200000,
+      "name": "babyBB",
+      "url": "https://open.spotify.com/track/3QdDaachbgJdrWgAXfYBVZ"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "petit escargot",
-        "url": "https://open.spotify.com/album/06Nr7DJDtxzLQYrMNbnWjJ"
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/2LR1NyZmQMStulx1QcRlhf"
       },
       "artists": [
         {
-          "name": "Colas",
-          "url": "https://open.spotify.com/artist/7gVIUgoWlvt4aXBkwqYIrc"
+          "name": "KLON",
+          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
         }
       ],
-      "duration_ms": 202653,
-      "name": "petit escargot",
-      "url": "https://open.spotify.com/track/0ixhSe9nDUyz89Jr36EU3C"
+      "duration_ms": 260040,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/37OeDeSiptbncjAPQILF4W"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "PANAME \u0152STROS POUBELLE",
-        "url": "https://open.spotify.com/album/53JDJmBpfYZuJb2nz0v5SE"
-      },
-      "artists": [
-        {
-          "name": "TH\u00c9A",
-          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
-        }
-      ],
-      "duration_ms": 201989,
-      "name": "JUSTE AMIS",
-      "url": "https://open.spotify.com/track/1L9xCQ6PYyAgHqGfFPXC9N"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Rock 2000",
-        "url": "https://open.spotify.com/album/2d8zNgpsZsTPZ17rKM2NWV"
-      },
-      "artists": [
-        {
-          "name": "Gwendoline",
-          "url": "https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "Rock 2000",
-      "url": "https://open.spotify.com/track/6yo0dEtbciUjB9X3l9xZpt"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Adulescent Fluorescent",
         "url": "https://open.spotify.com/album/7CN4CQaAH8OlV2vEFGNXhf"
@@ -145,87 +273,7 @@
       "url": "https://open.spotify.com/track/68Bx21Flk7AhI9PCnNI775"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Moins seul sans eux",
-        "url": "https://open.spotify.com/album/02dlfpLJyHZ5uONzXyQcDp"
-      },
-      "artists": [
-        {
-          "name": "Simia",
-          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
-        }
-      ],
-      "duration_ms": 131004,
-      "name": "Moins seul sans eux",
-      "url": "https://open.spotify.com/track/1c56S0vX15OA4H8X64ziJl"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Les gar\u00e7ons",
-        "url": "https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK"
-      },
-      "artists": [
-        {
-          "name": "Lescop",
-          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
-        }
-      ],
-      "duration_ms": 220882,
-      "name": "Les gar\u00e7ons",
-      "url": "https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Amour Scandaleux",
-        "url": "https://open.spotify.com/album/499lMyd1cf4i5c98NkOUWF"
-      },
-      "artists": [
-        {
-          "name": "Liv del Estal",
-          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Amour Scandaleux",
-      "url": "https://open.spotify.com/track/0ffjGmdQAMy2JLxI3vyuHG"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "ON EST LES M\u00caMES",
-        "url": "https://open.spotify.com/album/4R937d2jBEIEij9ANYh7go"
-      },
-      "artists": [
-        {
-          "name": "Bagarre",
-          "url": "https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ"
-        }
-      ],
-      "duration_ms": 218679,
-      "name": "ON EST LES M\u00caMES",
-      "url": "https://open.spotify.com/track/4yWpqptuVmPra8Ua8Huwg8"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Je t'emm\u00e8nerai",
-        "url": "https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB"
-      },
-      "artists": [
-        {
-          "name": "St Graal",
-          "url": "https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Je t'emm\u00e8nerai",
-      "url": "https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Posthume",
         "url": "https://open.spotify.com/album/58UDOo7F1hbra3WoCuGznu"
@@ -241,7 +289,23 @@
       "url": "https://open.spotify.com/track/5zH8U9YG6BrWzUh8NHAJZf"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "ON EST LES M\u00caMES",
+        "url": "https://open.spotify.com/album/4R937d2jBEIEij9ANYh7go"
+      },
+      "artists": [
+        {
+          "name": "Bagarre",
+          "url": "https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ"
+        }
+      ],
+      "duration_ms": 218679,
+      "name": "ON EST LES M\u00caMES",
+      "url": "https://open.spotify.com/track/4yWpqptuVmPra8Ua8Huwg8"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "BITCH YOU COULD NEVER",
         "url": "https://open.spotify.com/album/3hisckVmjrbZDOAgxC1GL0"
@@ -257,155 +321,7 @@
       "url": "https://open.spotify.com/track/7kRmyF6PQpQQbOZYb5NeA3"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/7s3dZbOvLrsnyvxTtRjAdi"
-      },
-      "artists": [
-        {
-          "name": "ELOI",
-          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
-        }
-      ],
-      "duration_ms": 202988,
-      "name": "Call Me - Single Edit",
-      "url": "https://open.spotify.com/track/1CsTDzGxMmBY28L3bLVtZ2"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "babyBB",
-        "url": "https://open.spotify.com/album/7cNKxHYLzPobRtCsnXzjRD"
-      },
-      "artists": [
-        {
-          "name": "Of\u00e9",
-          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "babyBB",
-      "url": "https://open.spotify.com/track/3QdDaachbgJdrWgAXfYBVZ"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Une Nouvelle Chance",
-        "url": "https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl"
-      },
-      "artists": [
-        {
-          "name": "ascendant vierge",
-          "url": "https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Ce monde o\u00f9 tu n'existes pas",
-      "url": "https://open.spotify.com/track/1rBhr3qkZxueavxEc5xnov"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "GROTSUNAMI",
-        "url": "https://open.spotify.com/album/3fMcKhyPKV3Snp09s2BuaB"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9niche",
-          "url": "https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0"
-        }
-      ],
-      "duration_ms": 123533,
-      "name": "GROTSUNAMI",
-      "url": "https://open.spotify.com/track/3SphPiIKHwnlCgAtBViaXU"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "cam\u00e9l\u00e9on",
-        "url": "https://open.spotify.com/album/63VHMWKqWMclz52WGkOt16"
-      },
-      "artists": [
-        {
-          "name": "DO not DO",
-          "url": "https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi"
-        }
-      ],
-      "duration_ms": 217233,
-      "name": "cam\u00e9l\u00e9on",
-      "url": "https://open.spotify.com/track/16t191oUr541iQTZrbqYuM"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "La pression",
-        "url": "https://open.spotify.com/album/3LXVkNOAUYMfNDNap1xUNk"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP"
-        }
-      ],
-      "duration_ms": 249575,
-      "name": "La pression",
-      "url": "https://open.spotify.com/track/2g15XcaATGqNrytkREVaKE"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "SAHA",
-        "url": "https://open.spotify.com/album/2BKeidyYKdVtO4Le8o7Uc7"
-      },
-      "artists": [
-        {
-          "name": "Liv Oddman",
-          "url": "https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg"
-        }
-      ],
-      "duration_ms": 229533,
-      "name": "LUX",
-      "url": "https://open.spotify.com/track/5dfT5UGtX9EoksFWuUTr7k"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Shrek Is a Lesbian",
-        "url": "https://open.spotify.com/album/6Yz6YGzF88ogesednT8CPn"
-      },
-      "artists": [
-        {
-          "name": "Maddy Street",
-          "url": "https://open.spotify.com/artist/4UEp8kk8DemApYH9rTopcQ"
-        },
-        {
-          "name": "Juda La Vidange",
-          "url": "https://open.spotify.com/artist/0oqeRZKId5upY0otMtUjs3"
-        }
-      ],
-      "duration_ms": 111978,
-      "name": "Shrek Is a Lesbian",
-      "url": "https://open.spotify.com/track/5XLswkqDgMtht0KP5QKfUm"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "The Mouse Song",
-        "url": "https://open.spotify.com/album/024jMwMFAihosS9nj0pvv0"
-      },
-      "artists": [
-        {
-          "name": "Zed Yun Pavarotti",
-          "url": "https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "The Mouse Song",
-      "url": "https://open.spotify.com/track/4tAegyavCCwyqEOetfu7fx"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "PTSMR",
         "url": "https://open.spotify.com/album/4rQL2TSwLZobwftESuhn5J"
@@ -429,39 +345,7 @@
       "url": "https://open.spotify.com/track/3IwsDBOjSZ0IJa71mXjqRZ"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Dannazione",
-        "url": "https://open.spotify.com/album/77MBshYT8ncsvdWfOff8uq"
-      },
-      "artists": [
-        {
-          "name": "MaMaMa",
-          "url": "https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw"
-        }
-      ],
-      "duration_ms": 173684,
-      "name": "Dannazione",
-      "url": "https://open.spotify.com/track/3bgPcv0jVe1OSPwNe4VLzR"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Poudri\u00e8re",
-        "url": "https://open.spotify.com/album/0fPpc3P9BOMJNdrQXYeArA"
-      },
-      "artists": [
-        {
-          "name": "Akira & le Sabbat",
-          "url": "https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp"
-        }
-      ],
-      "duration_ms": 163453,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/18L4W0H4hNw3KODrldn1iS"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Sourire \u00e0 la mort",
         "url": "https://open.spotify.com/album/4A8Jq1S03D05RdSlRzTyZ8"
@@ -485,39 +369,7 @@
       "url": "https://open.spotify.com/track/02qD17m6YN4UG20x7SgcSf"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Lune",
-        "url": "https://open.spotify.com/album/3NFrg3aQ6xeVCaTcfk65iC"
-      },
-      "artists": [
-        {
-          "name": "Walter Astral",
-          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
-        }
-      ],
-      "duration_ms": 225625,
-      "name": "Lune",
-      "url": "https://open.spotify.com/track/2PH10Pa1Yb2yMBZNzeF4Uy"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Comme Un Animal",
-        "url": "https://open.spotify.com/album/517FTIAufDAkVeTyoFeQRd"
-      },
-      "artists": [
-        {
-          "name": "ELOI",
-          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
-        }
-      ],
-      "duration_ms": 185991,
-      "name": "Comme Un Animal",
-      "url": "https://open.spotify.com/track/0rQ4QMF4nQ7j2lRMmiAyXL"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Comme tout le monde",
         "url": "https://open.spotify.com/album/5NKUHRNWaQhzNvNIL7s3YS"
@@ -533,87 +385,7 @@
       "url": "https://open.spotify.com/track/0ZsHm5JJImpADvArNIqvff"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "x 1000",
-        "url": "https://open.spotify.com/album/0HW9HpXzElTKhAOcF5OJo5"
-      },
-      "artists": [
-        {
-          "name": "Magenta Club",
-          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
-        }
-      ],
-      "duration_ms": 251146,
-      "name": "G\u00e9ant",
-      "url": "https://open.spotify.com/track/1o9XESUAUgS3iVVt6KyHcX"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Rebellion",
-        "url": "https://open.spotify.com/album/5nqk9i9CdV6WIQerpo5FbC"
-      },
-      "artists": [
-        {
-          "name": "Sad Madona",
-          "url": "https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU"
-        }
-      ],
-      "duration_ms": 239711,
-      "name": "Rebellion",
-      "url": "https://open.spotify.com/track/6bDKIEnUYni24jV6ZR4ipt"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Z",
-        "url": "https://open.spotify.com/album/7ndSxLdXc07HwAkQZoApye"
-      },
-      "artists": [
-        {
-          "name": "KLON",
-          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
-        }
-      ],
-      "duration_ms": 179007,
-      "name": "Z",
-      "url": "https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Revoir le monde",
-        "url": "https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk"
-      },
-      "artists": [
-        {
-          "name": "Michelle & Les Gar\u00e7ons",
-          "url": "https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "Revoir le monde",
-      "url": "https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "trop de choses \u00e0 prouver",
-        "url": "https://open.spotify.com/album/3hzGGpG5isbfTez00TFkcG"
-      },
-      "artists": [
-        {
-          "name": "L'enfant",
-          "url": "https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso"
-        }
-      ],
-      "duration_ms": 159985,
-      "name": "tu t'es laiss\u00e9 aller",
-      "url": "https://open.spotify.com/track/14rgdz5CIyBtRaAc0tHN0I"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Irr\u00e9versible Part II",
         "url": "https://open.spotify.com/album/6VXjL1gPM0DVfHsr3lk5UN"
@@ -629,39 +401,199 @@
       "url": "https://open.spotify.com/track/3mQFiwcJVmj4NMkp17rHFX"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "SUICIDE",
-        "url": "https://open.spotify.com/album/6gJtO81KttmKypH2rQN8Ve"
+        "name": "cam\u00e9l\u00e9on",
+        "url": "https://open.spotify.com/album/63VHMWKqWMclz52WGkOt16"
       },
       "artists": [
         {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+          "name": "DO not DO",
+          "url": "https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi"
         }
       ],
-      "duration_ms": 204484,
-      "name": "SUICIDE",
-      "url": "https://open.spotify.com/track/1Aw8rYPjcA5kE9qM9KV3Q4"
+      "duration_ms": 217233,
+      "name": "cam\u00e9l\u00e9on",
+      "url": "https://open.spotify.com/track/16t191oUr541iQTZrbqYuM"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Rien ne m'attend",
-        "url": "https://open.spotify.com/album/2Jgo7OfMRo64c0LQPmfiBn"
+        "name": "Une Nouvelle Chance",
+        "url": "https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl"
       },
       "artists": [
         {
-          "name": "Thx4Crying",
-          "url": "https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9"
+          "name": "ascendant vierge",
+          "url": "https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G"
         }
       ],
-      "duration_ms": 200709,
-      "name": "Rien ne m'attend",
-      "url": "https://open.spotify.com/track/7e2FWChR7ThlwRYvSgC0fw"
+      "duration_ms": 197560,
+      "name": "Ce monde o\u00f9 tu n'existes pas",
+      "url": "https://open.spotify.com/track/1rBhr3qkZxueavxEc5xnov"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "SAHA",
+        "url": "https://open.spotify.com/album/2BKeidyYKdVtO4Le8o7Uc7"
+      },
+      "artists": [
+        {
+          "name": "Liv Oddman",
+          "url": "https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg"
+        }
+      ],
+      "duration_ms": 229533,
+      "name": "LUX",
+      "url": "https://open.spotify.com/track/5dfT5UGtX9EoksFWuUTr7k"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Wreckin' My Soul (Dance Around The Fire)",
+        "url": "https://open.spotify.com/album/2a1PDX84UYfgEHiWVsbl54"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/4tO2VmVZyH5QbxK5GKVSv2"
+        }
+      ],
+      "duration_ms": 219431,
+      "name": "Wreckin' My Soul (Dance Around The Fire)",
+      "url": "https://open.spotify.com/track/3pxfC0DuidPKBfgo6QlEzK"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "La pression",
+        "url": "https://open.spotify.com/album/3LXVkNOAUYMfNDNap1xUNk"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP"
+        }
+      ],
+      "duration_ms": 249575,
+      "name": "La pression",
+      "url": "https://open.spotify.com/track/2g15XcaATGqNrytkREVaKE"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "The Mouse Song",
+        "url": "https://open.spotify.com/album/024jMwMFAihosS9nj0pvv0"
+      },
+      "artists": [
+        {
+          "name": "Zed Yun Pavarotti",
+          "url": "https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ"
+        }
+      ],
+      "duration_ms": 213200,
+      "name": "The Mouse Song",
+      "url": "https://open.spotify.com/track/4tAegyavCCwyqEOetfu7fx"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Rebellion",
+        "url": "https://open.spotify.com/album/5nqk9i9CdV6WIQerpo5FbC"
+      },
+      "artists": [
+        {
+          "name": "Sad Madona",
+          "url": "https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU"
+        }
+      ],
+      "duration_ms": 239711,
+      "name": "Rebellion",
+      "url": "https://open.spotify.com/track/6bDKIEnUYni24jV6ZR4ipt"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Dannazione",
+        "url": "https://open.spotify.com/album/77MBshYT8ncsvdWfOff8uq"
+      },
+      "artists": [
+        {
+          "name": "MaMaMa",
+          "url": "https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw"
+        }
+      ],
+      "duration_ms": 173684,
+      "name": "Dannazione",
+      "url": "https://open.spotify.com/track/3bgPcv0jVe1OSPwNe4VLzR"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Poudri\u00e8re",
+        "url": "https://open.spotify.com/album/0fPpc3P9BOMJNdrQXYeArA"
+      },
+      "artists": [
+        {
+          "name": "Akira & le Sabbat",
+          "url": "https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp"
+        }
+      ],
+      "duration_ms": 163453,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/18L4W0H4hNw3KODrldn1iS"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "GROTSUNAMI",
+        "url": "https://open.spotify.com/album/3fMcKhyPKV3Snp09s2BuaB"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9niche",
+          "url": "https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0"
+        }
+      ],
+      "duration_ms": 123533,
+      "name": "GROTSUNAMI",
+      "url": "https://open.spotify.com/track/3SphPiIKHwnlCgAtBViaXU"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Comme Un Animal",
+        "url": "https://open.spotify.com/album/517FTIAufDAkVeTyoFeQRd"
+      },
+      "artists": [
+        {
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
+        }
+      ],
+      "duration_ms": 185991,
+      "name": "Comme Un Animal",
+      "url": "https://open.spotify.com/track/0rQ4QMF4nQ7j2lRMmiAyXL"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Lune",
+        "url": "https://open.spotify.com/album/3NFrg3aQ6xeVCaTcfk65iC"
+      },
+      "artists": [
+        {
+          "name": "Walter Astral",
+          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
+        }
+      ],
+      "duration_ms": 225625,
+      "name": "Lune",
+      "url": "https://open.spotify.com/track/2PH10Pa1Yb2yMBZNzeF4Uy"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Primitivism",
         "url": "https://open.spotify.com/album/3TO0lDkNsERv08EJlIYmFj"
@@ -677,139 +609,87 @@
       "url": "https://open.spotify.com/track/6xs3GzoTKtL0f8iYx70BpZ"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "BROKEN BONES",
-        "url": "https://open.spotify.com/album/30HTdLg2ovzLuahWbJC6Bk"
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/7s3dZbOvLrsnyvxTtRjAdi"
       },
       "artists": [
         {
-          "name": "Julius On The Wave",
-          "url": "https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId"
-        },
-        {
-          "name": "LIL Moine",
-          "url": "https://open.spotify.com/artist/2TfrHGAo7z0KBG1XjJeSJq"
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
         }
       ],
-      "duration_ms": 150539,
-      "name": "BROKEN BONES",
-      "url": "https://open.spotify.com/track/6tvUdIihyndS4B6UYEWwE6"
+      "duration_ms": 202988,
+      "name": "Call Me - Single Edit",
+      "url": "https://open.spotify.com/track/1CsTDzGxMmBY28L3bLVtZ2"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "garder le sourire",
-        "url": "https://open.spotify.com/album/0wfYUBvdlAJEdp3lsK2Lv8"
+        "name": "x 1000",
+        "url": "https://open.spotify.com/album/0HW9HpXzElTKhAOcF5OJo5"
       },
       "artists": [
         {
-          "name": "ar\u00f8ne",
-          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
+          "name": "Magenta Club",
+          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
         }
       ],
-      "duration_ms": 161280,
-      "name": "garder le sourire",
-      "url": "https://open.spotify.com/track/6C0NDZkB8M1LxbmjFRWsmn"
+      "duration_ms": 251146,
+      "name": "G\u00e9ant",
+      "url": "https://open.spotify.com/track/1o9XESUAUgS3iVVt6KyHcX"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "DANS SES YEUX",
-        "url": "https://open.spotify.com/album/4lakbu7ear8AfSjl9VZf3w"
+        "name": "Z",
+        "url": "https://open.spotify.com/album/7ndSxLdXc07HwAkQZoApye"
       },
       "artists": [
         {
-          "name": "Moy\u00e0",
-          "url": "https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1"
+          "name": "KLON",
+          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
         }
       ],
-      "duration_ms": 129875,
-      "name": "DANS SES YEUX",
-      "url": "https://open.spotify.com/track/20SeuXMY4OisUyQSFcCdL8"
+      "duration_ms": 179007,
+      "name": "Z",
+      "url": "https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/0sLK1piaW1NCzkFXVcQEjq"
+        "name": "Revoir le monde",
+        "url": "https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk"
       },
       "artists": [
         {
-          "name": "TERRIER",
-          "url": "https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ"
+          "name": "Michelle & Les Gar\u00e7ons",
+          "url": "https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Encore",
-      "url": "https://open.spotify.com/track/0MMwBokFBDp14xOgnqeVnR"
+      "duration_ms": 168680,
+      "name": "Revoir le monde",
+      "url": "https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "SANS MOI",
-        "url": "https://open.spotify.com/album/5hkrqI7xXyTepwcJjh1cL3"
+        "name": "SUICIDE",
+        "url": "https://open.spotify.com/album/6gJtO81KttmKypH2rQN8Ve"
       },
       "artists": [
         {
-          "name": "VISCERAL",
-          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 142853,
-      "name": "SANS MOI",
-      "url": "https://open.spotify.com/track/15Bl9bwkJvgUnz1yqHfxfh"
+      "duration_ms": 204484,
+      "name": "SUICIDE",
+      "url": "https://open.spotify.com/track/1Aw8rYPjcA5kE9qM9KV3Q4"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "LOVECITY",
-        "url": "https://open.spotify.com/album/2IAzTOiNRzzJ9Srz17zWKf"
-      },
-      "artists": [
-        {
-          "name": "Lulu Van Trapp",
-          "url": "https://open.spotify.com/artist/6N9HDXBvQ0Nd9GVtHg3DMZ"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "l'enfer avec toi",
-      "url": "https://open.spotify.com/track/2qWuc7hDIv68DlLftdpglz"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Que la biche soit en nous",
-        "url": "https://open.spotify.com/album/3fy1GzRl5vpIMGYPwl09Yd"
-      },
-      "artists": [
-        {
-          "name": "Ast\u00e9r\u00e9otypie",
-          "url": "https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm"
-        }
-      ],
-      "duration_ms": 208195,
-      "name": "Que la biche soit en nous",
-      "url": "https://open.spotify.com/track/37aTA1MjK5fCo4SNVmQ6WY"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "just a noise",
-        "url": "https://open.spotify.com/album/1dfM8mdmfobemurtB4f6qi"
-      },
-      "artists": [
-        {
-          "name": "Kevin Heartbeats",
-          "url": "https://open.spotify.com/artist/3hnYXtcKvZcua5mprGrsTG"
-        }
-      ],
-      "duration_ms": 172167,
-      "name": "just a noise",
-      "url": "https://open.spotify.com/track/2mgDRx52b1GhnikAJqRFvP"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Le silence",
         "url": "https://open.spotify.com/album/3t6o8bS45YQGnLC5xH3DNU"
@@ -825,20 +705,136 @@
       "url": "https://open.spotify.com/track/2HxU432YufOpu8qaJIed2P"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Requin",
-        "url": "https://open.spotify.com/album/77n7xkH2PA1sHHbR2bnm8N"
+        "name": "SANS MOI",
+        "url": "https://open.spotify.com/album/5hkrqI7xXyTepwcJjh1cL3"
       },
       "artists": [
         {
-          "name": "Akira & le Sabbat",
-          "url": "https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp"
+          "name": "VISCERAL",
+          "url": "https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om"
         }
       ],
-      "duration_ms": 158026,
-      "name": "Requin",
-      "url": "https://open.spotify.com/track/2sjJ9bl92hOk4M4JKQzQOY"
+      "duration_ms": 142853,
+      "name": "SANS MOI",
+      "url": "https://open.spotify.com/track/15Bl9bwkJvgUnz1yqHfxfh"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Rien ne m'attend",
+        "url": "https://open.spotify.com/album/2Jgo7OfMRo64c0LQPmfiBn"
+      },
+      "artists": [
+        {
+          "name": "Thx4Crying",
+          "url": "https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9"
+        }
+      ],
+      "duration_ms": 200709,
+      "name": "Rien ne m'attend",
+      "url": "https://open.spotify.com/track/7e2FWChR7ThlwRYvSgC0fw"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "just a noise",
+        "url": "https://open.spotify.com/album/1dfM8mdmfobemurtB4f6qi"
+      },
+      "artists": [
+        {
+          "name": "Kevin Heartbeats",
+          "url": "https://open.spotify.com/artist/3hnYXtcKvZcua5mprGrsTG"
+        }
+      ],
+      "duration_ms": 172167,
+      "name": "just a noise",
+      "url": "https://open.spotify.com/track/2mgDRx52b1GhnikAJqRFvP"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "garder le sourire",
+        "url": "https://open.spotify.com/album/0wfYUBvdlAJEdp3lsK2Lv8"
+      },
+      "artists": [
+        {
+          "name": "ar\u00f8ne",
+          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "garder le sourire",
+      "url": "https://open.spotify.com/track/6C0NDZkB8M1LxbmjFRWsmn"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/0sLK1piaW1NCzkFXVcQEjq"
+      },
+      "artists": [
+        {
+          "name": "TERRIER",
+          "url": "https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0MMwBokFBDp14xOgnqeVnR"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "DANS SES YEUX",
+        "url": "https://open.spotify.com/album/4lakbu7ear8AfSjl9VZf3w"
+      },
+      "artists": [
+        {
+          "name": "Moy\u00e0",
+          "url": "https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1"
+        }
+      ],
+      "duration_ms": 129875,
+      "name": "DANS SES YEUX",
+      "url": "https://open.spotify.com/track/20SeuXMY4OisUyQSFcCdL8"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Que la biche soit en nous",
+        "url": "https://open.spotify.com/album/3fy1GzRl5vpIMGYPwl09Yd"
+      },
+      "artists": [
+        {
+          "name": "Ast\u00e9r\u00e9otypie",
+          "url": "https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm"
+        }
+      ],
+      "duration_ms": 208195,
+      "name": "Que la biche soit en nous",
+      "url": "https://open.spotify.com/track/37aTA1MjK5fCo4SNVmQ6WY"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Shrek Is a Lesbian",
+        "url": "https://open.spotify.com/album/6Yz6YGzF88ogesednT8CPn"
+      },
+      "artists": [
+        {
+          "name": "Maddy Street",
+          "url": "https://open.spotify.com/artist/4UEp8kk8DemApYH9rTopcQ"
+        },
+        {
+          "name": "Juda La Vidange",
+          "url": "https://open.spotify.com/artist/0oqeRZKId5upY0otMtUjs3"
+        }
+      ],
+      "duration_ms": 111978,
+      "name": "Shrek Is a Lesbian",
+      "url": "https://open.spotify.com/track/5XLswkqDgMtht0KP5QKfUm"
     }
   ],
   "unique_name": "Courant Alternatif",

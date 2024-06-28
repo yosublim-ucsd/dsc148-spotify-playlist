@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 243652,
       "name": "Away With Me - Fideles Remix",
       "url": "https://open.spotify.com/track/3eoIdSJXlrWZFd5kqLhsiF"
@@ -5224,6 +5224,28 @@
       "duration_ms": 197760,
       "name": "Night Wire",
       "url": "https://open.spotify.com/track/2gbRYQwkLSu7I3lF08WoiZ"
+    },
+    {
+      "album": {
+        "name": "Ghost EP",
+        "url": "https://open.spotify.com/album/4q85VmrvN3hy1DmtlmIOe3"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        },
+        {
+          "name": "Deckert",
+          "url": "https://open.spotify.com/artist/6p6VbQGtr0chGqPhRH2aOd"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277756,
+      "name": "No",
+      "url": "https://open.spotify.com/track/1gIbfk61xu2QrKiAGfQnL3"
     },
     {
       "album": {

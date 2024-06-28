@@ -2,9 +2,9 @@
 
 ### [ALTER\-native](https://open.spotify.com/playlist/37i9dQZF1DWVx80ckNwI92)
 
-> The future of African Indie and Alternative\. Cover: SOLIS4EVR
+> The future of African Indie and Alternative\. Cover: Tshepang Ramoba
 
-147 songs - 7 hr 32 min
+150 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Ice Cream](https://open.spotify.com/track/4sBvb7ckoQyRw5PNIHZx7V) | [Zaiigoh](https://open.spotify.com/artist/2y1M4qSsjvWQ8FcqRoX2cr) | [Ice Cream](https://open.spotify.com/album/6ZfcCguyjUUnnGzndPgk8j) | 3:28 | 2023-06-08 |  |
 | [ilikeyou](https://open.spotify.com/track/33t6lb3izTuZthotlhHPPq) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [ilikeyou](https://open.spotify.com/album/5uYm2LLYDmiNZ1KzlJomKZ) | 3:33 | 2024-02-15 |  |
 | [Imali Iyaphela](https://open.spotify.com/track/66K0c10DeEP3O1GhqL1veJ) | [Robin Thirdfloor](https://open.spotify.com/artist/24R1N1mF7GaNn2rcL6hNCh), [Dejot](https://open.spotify.com/artist/6MxbPfU59YKhSMf4UAYbwF) | [Imali Iyaphela](https://open.spotify.com/album/481xxG66MoePOAXYTf9aYa) | 3:18 | 2024-03-15 |  |
+| [Indlela](https://open.spotify.com/track/1JyFiQLj1id2Yxi3MvxZ63) | [Solo Ntsizwa Ka Mthimkhulu](https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY), [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [The God Anomaly](https://open.spotify.com/album/4LUkscfzKv5S5Dy84jhVJG) | 4:01 | 2024-06-27 |  |
 | [Isn't Love](https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Closure](https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5) | 1:53 | 2023-03-30 | 2023-05-26 |
 | [Joy](https://open.spotify.com/track/2i4RMLQIE3L7gklTquZvZx) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/4165s6MN7MgxpMbMjcgMOo) | 3:34 | 2023-03-30 | 2023-06-09 |
 | [JOY \(Life Goes On\)](https://open.spotify.com/track/2ew1mVH1hQhBeKBM21mPGQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Life Goes On\)](https://open.spotify.com/album/6xXSIywwGOkIIn1hMm2R9n) | 3:41 | 2024-03-15 |  |
@@ -93,6 +94,7 @@
 | [Mntase](https://open.spotify.com/track/6MNAf3xmYIgLWohg26jfxh) | [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Zain SA](https://open.spotify.com/artist/5dvgzU4ArZjcvtVUugwuMt) | [Mntase](https://open.spotify.com/album/5sULesEEolQvwG01m5WTla) | 7:13 | 2024-06-14 |  |
 | [MOVE ALONG](https://open.spotify.com/track/61VXr1QvI8NeETilAJst3O) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [SKTLLZ](https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5) | [MOVE ALONG](https://open.spotify.com/album/4ylBPHCeJ9aOCqe0cc2tqx) | 2:59 | 2023-06-26 |  |
 | [my intentions](https://open.spotify.com/track/6xLC342gJAbWQYG3Td23cn) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [my Intentions](https://open.spotify.com/album/3HKtKW3F060uEkTCxWnU8E) | 3:06 | 2023-03-30 | 2023-06-09 |
+| [Nako](https://open.spotify.com/track/300ZG5cAu0vRAb0J20n3tD) | [Tshepang Ramoba](https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh) | [Sello](https://open.spotify.com/album/0FZJRs20d6SFhG4S9XlT0E) | 4:39 | 2024-06-27 |  |
 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 | 2024-06-14 |  |
 | [No Lymyt](https://open.spotify.com/track/6iyVmsDyy81510Hs9LP6b1) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [No Lymyt](https://open.spotify.com/album/0vXzKg4qs3SQ9fsHIyOIIH) | 4:06 | 2024-03-21 |  |
 | [no more love](https://open.spotify.com/track/00bjwboO8r7vRXULyP2Eni) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [no more love](https://open.spotify.com/album/3AyyNEwDeL3yEcvWFdPtOV) | 2:53 | 2023-11-03 |  |
@@ -150,6 +152,7 @@
 | [vibe again](https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [vibe again](https://open.spotify.com/album/0UMQ4LF9e8BhSGXqOhSZ5x) | 3:24 | 2023-05-18 | 2023-06-27 |
 | [waiting room\~](https://open.spotify.com/track/1qtnkooyf2Q7GNAK6w3sQb) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [waiting room\~](https://open.spotify.com/album/0skQkcopAyXvozBn4nzzzx) | 2:37 | 2023-03-31 | 2023-05-06 |
 | [We Should've Talked About Saturday](https://open.spotify.com/track/1SI38tpcZbWCtxeqqEB8AM) | [Ndung'u Mbithi](https://open.spotify.com/artist/1Xae29olA5X6qpDX6MOvHO) | [We Should've Talked About Saturday](https://open.spotify.com/album/1MxPoF95ecdKumtef1QGGJ) | 3:58 | 2023-09-21 |  |
+| [WET](https://open.spotify.com/track/6ZDnXyrBj9AxMNQ4yK7HUS) | [Mowalola](https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [WET](https://open.spotify.com/album/6SggZBrSlNC7MwC9kmTxKg) | 1:32 | 2024-06-27 |  |
 | [What's the Vibe](https://open.spotify.com/track/0FKkw6p2t57VZp8Ae8Gc1V) | [Sketchy Bongo](https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh) | [What's the Vibe](https://open.spotify.com/album/2vdcIrHOACvTep8tI9qY2K) | 2:30 | 2023-03-31 | 2023-04-28 |
 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 | 2023-08-03 |  |
 | [YOU A KILLER](https://open.spotify.com/track/4ndMSH7CMcN8z5xPZMCxhn) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [YOU A KILLER](https://open.spotify.com/album/7os16OIbe823TPlSR5OpHH) | 2:10 | 2023-04-27 | 2023-07-08 |

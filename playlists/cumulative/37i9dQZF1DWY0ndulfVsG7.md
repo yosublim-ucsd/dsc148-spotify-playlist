@@ -2,9 +2,9 @@
 
 ### [Berjiran](https://open.spotify.com/playlist/37i9dQZF1DWY0ndulfVsG7)
 
-> Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Nidji
+> Koleksi lagu tersayang dari para artis negeri jiran\. Cover: D' MASIV
 
-80 songs - 5 hr 35 min
+81 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Demi Cinta](https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Tak Lekang Oleh Waktu](https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d) | 4:42 | 2024-01-12 |  |
 | [Di Matamu](https://open.spotify.com/track/5jAqkM00R41cm1Y2T0mGzb) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Di Matamu](https://open.spotify.com/album/521xA0pwxGzGgoSNAp0vZc) | 4:07 | 2024-06-21 |  |
 | [Hanya Kau Yang Mampu](https://open.spotify.com/track/4HFP0A7i6NIOscKVdilus2) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Percubaan Pertama](https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT) | 4:13 | 2024-06-21 |  |
+| [Hapus Aku](https://open.spotify.com/track/3AW4o4KQs25P18jlFhgks6) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Breakthru](https://open.spotify.com/album/36l5n8elwO3DvbrIdMxndi) | 4:12 | 2024-06-27 |  |
 | [Hapus Aku](https://open.spotify.com/track/6MPo0FYKvO0AewUJoL9GUu) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Breakthru](https://open.spotify.com/album/3l2Co6Zu0DIsZgCNvnxuVS) | 4:12 | 2024-01-12 | 2024-04-19 |
 | [Hatiku Milikmu](https://open.spotify.com/track/4MwpF3wrsriEDRSAhR1CSB) | [Nera](https://open.spotify.com/artist/0Kt6innlQ0yy0xxChAM15b) | [Bintang AF9](https://open.spotify.com/album/5Vx4WaEEaLLFuoTRcHLSfT) | 4:33 | 2024-06-21 |  |
 | [Infiniti Cinta \(feat\. Kaka\)](https://open.spotify.com/track/6wqrJ8bTBXUiUj9TRQjKdr) | [Zizan Razak](https://open.spotify.com/artist/7GkUskIBOKpJRyzpE7WQBD), [Kaka](https://open.spotify.com/artist/0l837MyEH2h1Au2Ex3f9v5) | [Infiniti Cinta \(feat\. Kaka\)](https://open.spotify.com/album/4NxFtMRaChpHqbpFep5qej) | 4:39 | 2024-06-21 |  |
@@ -74,7 +75,7 @@
 | [Separuh Nafas](https://open.spotify.com/track/6JusI70TeT9M2O1MXyXRRv) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The 2000's Greatest](https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN) | 3:42 | 2024-01-12 |  |
 | [Seperti Kisah](https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Seperti Kisah](https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg) | 4:39 | 2024-01-12 | 2024-04-19 |
 | [Seperti Yang Kau Minta](https://open.spotify.com/track/0mkeFWinFvxpfZ9tr0RQ7k) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Dekade](https://open.spotify.com/album/68LQj1aPjWAkP6BplJNhq3) | 4:48 | 2024-01-12 | 2024-04-19 |
-| [Sephia](https://open.spotify.com/track/5gkTGkjFB5wAd3mSBEcQPY) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:55 | 2024-01-12 |  |
+| [Sephia](https://open.spotify.com/track/5gkTGkjFB5wAd3mSBEcQPY) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:55 | 2024-01-12 | 2024-06-28 |
 | [Situasi](https://open.spotify.com/track/5Y1p00AX1pF7jP9irUf50A) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Phobia Phoney](https://open.spotify.com/album/0920Hzcff51JwfH8v0tJOl) | 3:57 | 2024-06-21 |  |
 | [Sudah Ku Tahu](https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sudah Ku Tahu](https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0) | 4:18 | 2024-06-21 |  |
 | [Sumpah & Cinta Matiku](https://open.spotify.com/track/4XkRq1i9xbVruOchbfGBz5) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Sumpah & Cinta Matiku](https://open.spotify.com/album/1JED0cowG7lFPgzdS2Jnpv) | 4:45 | 2024-05-23 | 2024-06-22 |

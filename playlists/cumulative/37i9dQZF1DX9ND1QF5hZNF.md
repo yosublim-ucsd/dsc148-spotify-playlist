@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-161 songs - 8 hr 28 min
+162 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Silhouette](https://open.spotify.com/track/5XflWKyyLrg3HlvjlDn6Rk) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Silhouette](https://open.spotify.com/album/6G0qk1KLeqf5L9deBa6uo8) | 3:33 | 2022-12-20 | 2023-05-13 |
 | [Smoke & Ash](https://open.spotify.com/track/7jUBj3nZfs0dRqr68b4yxy) | [Weisser Quiff](https://open.spotify.com/artist/5sWo77aB32PpzTAhZfQBQy) | [Smoke & Ash](https://open.spotify.com/album/6Z41aZilSCkdW8IK75Y1wp) | 2:44 | 2022-12-20 | 2023-05-13 |
 | [Something Beautiful \- Montmartre Remix](https://open.spotify.com/track/1VKqsNsQvM0oCJKzUtWD2H) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Something Beautiful \(Montmartre Remix\)](https://open.spotify.com/album/7esdyxRkAxwT0EaPxPdMWB) | 3:19 | 2024-02-09 |  |
+| [Stolen Dance](https://open.spotify.com/track/6yc6GZm46yU5lYd9mfKTkw) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [FRENCHGRL](https://open.spotify.com/artist/06eMSN9Y5cS7EZX6nnkxpC) | [Stolen Dance](https://open.spotify.com/album/0cF5OMWh0XW9fOyG6MGe80) | 3:25 | 2024-06-27 |  |
 | [Stripes](https://open.spotify.com/track/6Iubxxf4cBRv8cuureNRK9) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Stripes](https://open.spotify.com/album/7b3lF7lWIKs3CzXUgf0p4s) | 2:15 | 2023-05-12 | 2024-01-06 |
 | [Stumble](https://open.spotify.com/track/3uvALUobqjZvTGAh6737Mb) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Juicy Fruit](https://open.spotify.com/album/7Ih98kmIPJCsXcgrikcmoq) | 4:30 | 2023-05-12 | 2024-02-10 |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-04-08 |  |
@@ -142,7 +143,7 @@
 | [Talk It Over](https://open.spotify.com/track/0XafrYWJ9cIiJW5klEDHAa) | [Yorina](https://open.spotify.com/artist/3zrsuumoPW6KbZmBX2X7qC), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [Talk It Over](https://open.spotify.com/album/2GzF4J8KOdoZIjYJa2JH4X) | 4:17 | 2023-07-03 | 2024-02-10 |
 | [Tell Me](https://open.spotify.com/track/1mrnWxqlr5ynXWTS0L0Bcp) | [D3EPANK](https://open.spotify.com/artist/1mRJB43i0qK9HubZt4f8FJ) | [Tell Me](https://open.spotify.com/album/076yQZmCYLr11TVMZZRvP3) | 2:12 | 2024-01-11 | 2024-01-26 |
 | [Tell Me](https://open.spotify.com/track/1OxaAC72au0z2HORS9yt1m) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Tell Me](https://open.spotify.com/album/2nBHaQWoC341spJHji7dgz) | 3:16 | 2022-12-20 | 2023-05-13 |
-| [Tender love](https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [I Need Space](https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY) | 3:23 | 2022-12-20 |  |
+| [Tender love](https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [I Need Space](https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY) | 3:23 | 2022-12-20 | 2024-06-28 |
 | [TERRITORY](https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [TERRITORY](https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58) | 4:36 | 2024-04-08 |  |
 | [The Beach](https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [The Beach](https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD) | 3:37 | 2022-12-20 | 2023-05-13 |
 | [The Future](https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [The Future](https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s) | 3:44 | 2023-01-26 | 2023-05-13 |

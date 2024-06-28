@@ -1,6 +1,6 @@
 {
   "description": "Check out all of these artists and more on \"CMA Fest\" on June 25 at 8/7c on ABC! Cover: Cody Johnson",
-  "num_followers": 108188,
+  "num_followers": 108184,
   "original_name": "CMA Fest",
   "owner": {
     "name": "Spotify",
@@ -518,10 +518,14 @@
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
       "duration_ms": 237493,
-      "name": "Save Me (with Lainey Wilson)",
+      "name": "Save Me - with Lainey Wilson",
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
     },
     {

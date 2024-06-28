@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: La Rhonza Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: PIAO Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -1098,6 +1098,24 @@
       "duration_ms": 146715,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/64H1lz2hGCAJv4rVNJmDCs"
+    },
+    {
+      "album": {
+        "name": "90's Break Up",
+        "url": "https://open.spotify.com/album/4JTZf6R5gNRcDZQ6yldpil"
+      },
+      "artists": [
+        {
+          "name": "Clayre",
+          "url": "https://open.spotify.com/artist/0MUz7kTqWwA0XjWIOLIiuv"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246440,
+      "name": "90's Break Up",
+      "url": "https://open.spotify.com/track/3AiHYNQSdf9gd5AIyJylH8"
     },
     {
       "album": {
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 223000,
       "name": "ALL OVER",
       "url": "https://open.spotify.com/track/1FR6MeJQQctGXtLyGifRqh"
@@ -4264,7 +4282,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 158000,
       "name": "BAD",
       "url": "https://open.spotify.com/track/2fv6RtYYHCg4qdlAAXePkM"
@@ -4534,7 +4552,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 195514,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/0QEh4IZ1nr5lXK63lLZ8na"
@@ -7101,6 +7119,24 @@
     },
     {
       "album": {
+        "name": "boo hoo",
+        "url": "https://open.spotify.com/album/6IbJjpmcM4ewdqYjiSHCJM"
+      },
+      "artists": [
+        {
+          "name": "NIA NADURATA",
+          "url": "https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166987,
+      "name": "boo hoo",
+      "url": "https://open.spotify.com/track/42Dvo910Rj43IijSxDFQTy"
+    },
+    {
+      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/7zQ3dO18RYZftWc0vKkrQh"
       },
@@ -8514,7 +8550,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 153010,
       "name": "Burner Phone",
       "url": "https://open.spotify.com/track/4K1jCxXt8w0wI58rgBm830"
@@ -12449,6 +12485,24 @@
     },
     {
       "album": {
+        "name": "Technicolor Dream",
+        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245786,
+      "name": "Crystallize",
+      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
+    },
+    {
+      "album": {
         "name": "Ctrl+Alt+Del",
         "url": "https://open.spotify.com/album/5fyt1RKPVMvt5FnC9LVLKf"
       },
@@ -14101,6 +14155,24 @@
     },
     {
       "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/5FeVOvxRFQYkK2B64z9srE"
+      },
+      "artists": [
+        {
+          "name": "Tender Misfit",
+          "url": "https://open.spotify.com/artist/1fkaNNQRGflvAClVJM0b6I"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/58qj1rF4vvNsPjvYTN5g8Y"
+    },
+    {
+      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/66MliMDybKTvjeRpgt9UxW"
       },
@@ -14910,7 +14982,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 186827,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/4bF0SJ1NmPxMIMxMVEtu0F"
@@ -16948,6 +17020,24 @@
       "duration_ms": 211754,
       "name": "Every Sunday",
       "url": "https://open.spotify.com/track/08QXwKCq1BabUeiQIcyqHt"
+    },
+    {
+      "album": {
+        "name": "Every Time You Call Me",
+        "url": "https://open.spotify.com/album/5BlMnJsdBft6NnifnWa7wu"
+      },
+      "artists": [
+        {
+          "name": "Hana Effron",
+          "url": "https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276486,
+      "name": "Every Time You Call Me",
+      "url": "https://open.spotify.com/track/1Ccyscmgw9nSeGOItppE0M"
     },
     {
       "album": {
@@ -21140,6 +21230,24 @@
       "duration_ms": 159000,
       "name": "Gigi / Sunlight",
       "url": "https://open.spotify.com/track/6dYTjSITx703Rk0rzyU8GW"
+    },
+    {
+      "album": {
+        "name": "Last Resort: Beach Club",
+        "url": "https://open.spotify.com/album/2YIrbQuMuHNkeFz08XWYgi"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231272,
+      "name": "Gimme A Break",
+      "url": "https://open.spotify.com/track/6TELZf4WvXW9e34W4MbyL7"
     },
     {
       "album": {
@@ -27758,7 +27866,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 76384,
       "name": "i win",
       "url": "https://open.spotify.com/track/64XQVX4dMJiMrgso3vHn0o"
@@ -28378,6 +28486,24 @@
       "duration_ms": 282661,
       "name": "I'm Trying",
       "url": "https://open.spotify.com/track/2oAEkesjJB7QtX9GjdmEil"
+    },
+    {
+      "album": {
+        "name": "I'VE ALWAYS HAD THINGS FOR COWBOYS",
+        "url": "https://open.spotify.com/album/1wE70FqUt8R720VSFkCpFl"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181764,
+      "name": "I'VE ALWAYS HAD THINGS FOR COWBOYS",
+      "url": "https://open.spotify.com/track/06RpfITNxlLaFbXFjiqhI3"
     },
     {
       "album": {
@@ -30949,6 +31075,24 @@
     },
     {
       "album": {
+        "name": "Kissing Undercover",
+        "url": "https://open.spotify.com/album/09VZi0Iy0WVxIB26zYhMVk"
+      },
+      "artists": [
+        {
+          "name": "Ladybyrd",
+          "url": "https://open.spotify.com/artist/478VYsGZy4p6EUSnijTzEv"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192805,
+      "name": "Kissing Undercover",
+      "url": "https://open.spotify.com/track/2gG3i2sg2vZURAuhJzrLkQ"
+    },
+    {
+      "album": {
         "name": "Kitchen Light",
         "url": "https://open.spotify.com/album/4Z5e8Ee4xW1q7VjtkyWtAi"
       },
@@ -31994,7 +32138,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 233610,
       "name": "Let's Talk",
       "url": "https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy"
@@ -39905,6 +40049,24 @@
     },
     {
       "album": {
+        "name": "Nobody Will Love You",
+        "url": "https://open.spotify.com/album/3VBIC4ZGoal7zLBcEPnDmk"
+      },
+      "artists": [
+        {
+          "name": "Georgie & Joe",
+          "url": "https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230576,
+      "name": "Nobody Will Love You",
+      "url": "https://open.spotify.com/track/3XPhAWvew0t2bKo8lN2Iof"
+    },
+    {
+      "album": {
         "name": "Nola (Reworks)",
         "url": "https://open.spotify.com/album/09CSP3bMdScIkh3gyPiBcS"
       },
@@ -42997,6 +43159,24 @@
     },
     {
       "album": {
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/7DXEjR7d5vOskJrApIujWg"
+      },
+      "artists": [
+        {
+          "name": "Rachel Newnham",
+          "url": "https://open.spotify.com/artist/3fzDJ5NVbesIIRCl7HuQyP"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175723,
+      "name": "People Pleaser",
+      "url": "https://open.spotify.com/track/37JkA8VfadzIqlp9WN7THv"
+    },
+    {
+      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/1pfUaesZF8yF8ZGEsT4Fcm"
       },
@@ -43264,7 +43444,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 148085,
       "name": "Picture Perfect Standard",
       "url": "https://open.spotify.com/track/4gasg8PCUY1myPy5twWEgh"
@@ -49605,6 +49785,24 @@
     },
     {
       "album": {
+        "name": "Sinkin",
+        "url": "https://open.spotify.com/album/55Y7xlyJwEfrkytjrMCwFN"
+      },
+      "artists": [
+        {
+          "name": "Alvah",
+          "url": "https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206675,
+      "name": "Sinkin",
+      "url": "https://open.spotify.com/track/5opTpapyE4tiRwhdr1dSgj"
+    },
+    {
+      "album": {
         "name": "Sinner (Good Girl)",
         "url": "https://open.spotify.com/album/3iOpkz7g197iCe6G1Ow36N"
       },
@@ -51145,6 +51343,28 @@
     },
     {
       "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/6RcUla7GznQLl9POMi4N3e"
+      },
+      "artists": [
+        {
+          "name": "ChiChi",
+          "url": "https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9"
+        },
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91800,
+      "name": "Sound System",
+      "url": "https://open.spotify.com/track/3MJtRHD93eohiHEfFOt7Fx"
+    },
+    {
+      "album": {
         "name": "Sour Candy",
         "url": "https://open.spotify.com/album/6KysKskhrYnnipp2hapmGA"
       },
@@ -52392,7 +52612,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 192000,
       "name": "strawberry cake",
       "url": "https://open.spotify.com/track/65jL6lQnGBMiyWMOEwDDNK"
@@ -54286,7 +54506,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 271475,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP"
@@ -54538,7 +54758,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 250085,
       "name": "Technicolor Dream",
       "url": "https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"
@@ -55090,6 +55310,24 @@
       "duration_ms": 172466,
       "name": "Thanatos (End of Us)",
       "url": "https://open.spotify.com/track/3bL4eSfzwYomgHWyrIbQtS"
+    },
+    {
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/5aTNQhOVf7TSCmdVtj9D06"
+      },
+      "artists": [
+        {
+          "name": "TILILA",
+          "url": "https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0s1SuDbWLfqSYDdCk2CwIK"
     },
     {
       "album": {
@@ -57034,7 +57272,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 198400,
       "name": "Times Are Changin'",
       "url": "https://open.spotify.com/track/5GfeGwrQvFAQgevgfvmQ2D"
@@ -58234,6 +58472,24 @@
       "duration_ms": 122063,
       "name": "Tune Out",
       "url": "https://open.spotify.com/track/6TNJW7DiT98oZHbsMvuiYB"
+    },
+    {
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/3jZhzkA3o1UzQpv2Y4eex6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Chipembere",
+          "url": "https://open.spotify.com/artist/0lbcTVQpfdOZpMkxpDz46X"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195218,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/5uvF7WyoqxhDsyu11RYeZI"
     },
     {
       "album": {
@@ -63304,7 +63560,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 186333,
       "name": "Yangtze",
       "url": "https://open.spotify.com/track/6hUzIwvfD7BonU8vyLbKWk"
@@ -63550,7 +63806,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 179236,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/7HgiJTptTSMYrF9gNAOOnx"

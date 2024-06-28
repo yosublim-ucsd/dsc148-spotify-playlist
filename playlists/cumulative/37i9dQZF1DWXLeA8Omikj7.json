@@ -8056,7 +8056,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 239089,
       "name": "Ithaca",
       "url": "https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ"
@@ -10832,7 +10832,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 198000,
       "name": "Nuova Atlantide",
       "url": "https://open.spotify.com/track/7obbiHF6noRBSzVpJxSMkx"
@@ -11630,6 +11630,24 @@
       "duration_ms": 251338,
       "name": "Peg",
       "url": "https://open.spotify.com/track/5aFf1Ubp9V5Ws9p1JIM69V"
+    },
+    {
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/1Dbr9RCt2NuoJ4q5m0bK6J"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281106,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/1sM70q8HETr85d99r1eWdL"
     },
     {
       "album": {
@@ -13846,6 +13864,24 @@
       "duration_ms": 232053,
       "name": "Slow Buchla Sunshine",
       "url": "https://open.spotify.com/track/4cwLYDk0qjI7hiwVA5TVSn"
+    },
+    {
+      "album": {
+        "name": "Slow Worm",
+        "url": "https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Slow Worm",
+      "url": "https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR"
     },
     {
       "album": {

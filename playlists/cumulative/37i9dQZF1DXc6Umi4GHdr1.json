@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 179478,
       "name": "Altai",
       "url": "https://open.spotify.com/track/5xnMxcqVARosZ7Uwr4D04M"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 185559,
       "name": "Costa Brava",
       "url": "https://open.spotify.com/track/7HlZjFFk6Q9gLuotuvH44S"
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 148556,
       "name": "Fairytale",
       "url": "https://open.spotify.com/track/1nG96s85Zw3DVnG24onptC"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 152127,
       "name": "Fallen Apples\u2019 Scent",
       "url": "https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 200345,
       "name": "I Found The Right Bottle Of Wine",
       "url": "https://open.spotify.com/track/2rFbFGCYmtwuUDEVSTyQ82"
@@ -3020,6 +3020,24 @@
       "duration_ms": 161750,
       "name": "Las Rosas",
       "url": "https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL"
+    },
+    {
+      "album": {
+        "name": "Last call",
+        "url": "https://open.spotify.com/album/1rRvNmqAv2MOTPLyL6oW1y"
+      },
+      "artists": [
+        {
+          "name": "Steve D",
+          "url": "https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136578,
+      "name": "Last call",
+      "url": "https://open.spotify.com/track/207wR8oMI5Q6jX6DjNNXSc"
     },
     {
       "album": {
@@ -3708,7 +3726,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 181135,
       "name": "M\u00e9rtola",
       "url": "https://open.spotify.com/track/6ht9QNV3O5IZGXzX8QXHI0"
@@ -4814,7 +4832,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 141031,
       "name": "Sensibilita",
       "url": "https://open.spotify.com/track/4vS8BQGwgPbweNJLLHC9kE"
@@ -5916,6 +5934,24 @@
       "duration_ms": 150446,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/3nrcRpG5QBCXITQMs2i5FL"
+    },
+    {
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/14Iv2IpxEhAsdqehdpbHfc"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151906,
+      "name": "Together Again",
+      "url": "https://open.spotify.com/track/163pGELrVriFgvYwdiOHlW"
     },
     {
       "album": {

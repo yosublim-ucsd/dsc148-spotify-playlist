@@ -2803,6 +2803,28 @@
     },
     {
       "album": {
+        "name": "Jogii (From \"aura\")",
+        "url": "https://open.spotify.com/album/3VqpeSU2f00baLx5nZMF4c"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Majmudar",
+          "url": "https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL"
+        },
+        {
+          "name": "Prithvi Gandharv",
+          "url": "https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272093,
+      "name": "Jogii - From \"aura\"",
+      "url": "https://open.spotify.com/track/18JgzTj6dPk12W1C8TqBcb"
+    },
+    {
+      "album": {
         "name": "Shamshera",
         "url": "https://open.spotify.com/album/3jcMB9o34xcc9VlOyyZ1yx"
       },
@@ -4410,7 +4432,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 154900,
       "name": "Mumbai Magic (feat. Natania, Subhi & Shalmali Kholgade)",
       "url": "https://open.spotify.com/track/07jwBjAFkTaUz4FMwoQISV"
@@ -6005,6 +6027,28 @@
     },
     {
       "album": {
+        "name": "Sab Kuch Mera (Deep Heart)",
+        "url": "https://open.spotify.com/album/7EkrO0mqn5b16y10sFELow"
+      },
+      "artists": [
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+        },
+        {
+          "name": "Mann",
+          "url": "https://open.spotify.com/artist/7744LvLjHQ5gxVAA6CQJ79"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127792,
+      "name": "Sab Kuch Mera - Deep Heart",
+      "url": "https://open.spotify.com/track/1VyPLU5X6p38r1IPMRLvgg"
+    },
+    {
+      "album": {
         "name": "Sab Rab",
         "url": "https://open.spotify.com/album/6d31ZraM2g9FyRvsmbxSGp"
       },
@@ -6924,7 +6968,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 250287,
       "name": "Tip Tip (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa"

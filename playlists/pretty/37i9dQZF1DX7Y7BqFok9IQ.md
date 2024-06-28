@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > Slash is taking over to share his favorites and the inspiration behind his new Orgy of the Damned
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,097 likes - 176 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,177 likes - 176 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

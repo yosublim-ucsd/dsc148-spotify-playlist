@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:5BfKKSmpGmj2moMNlaWeJK">Marty</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,520 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,542 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [NO SHAME](https://open.spotify.com/track/0XkEmXfI3Ze5Vmh4C3zTDb) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv) | [NO SHAME](https://open.spotify.com/album/2YBmqNjpTacOvSnMGxZ7xw) | 3:28 |
 | 100 | [Man on Fire](https://open.spotify.com/track/2bHL78eDpNNXfNInDRua1C) | [JWOODZ](https://open.spotify.com/artist/1euV2O9oyOrwbwOoakx45f) | [Man on Fire](https://open.spotify.com/album/6bkyaq79GCh44bXbX02lQU) | 3:29 |
 
-Snapshot ID: `ZnXB5gAAAACrTjVqWxjca1lyZLgk8yCd`
+Snapshot ID: `Zn3UawAAAAD0bTxJp5jr8x45Z6tfh1b9`

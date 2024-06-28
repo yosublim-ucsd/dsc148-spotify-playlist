@@ -8475,6 +8475,28 @@
     },
     {
       "album": {
+        "name": "EZ STREETS",
+        "url": "https://open.spotify.com/album/0bXi286hvMZt3eT8kqw2LK"
+      },
+      "artists": [
+        {
+          "name": "Little Larry",
+          "url": "https://open.spotify.com/artist/7EBeBK8nKGwZ7trZTGBCb6"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162504,
+      "name": "EZ STREETS",
+      "url": "https://open.spotify.com/track/6S8Hf9AmrVQb7oD3f8mMdD"
+    },
+    {
+      "album": {
         "name": "Revenge Anthems",
         "url": "https://open.spotify.com/album/4B0IKIdJOa4NxIiCF2losG"
       },
@@ -14218,7 +14240,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 194831,
       "name": "Jet Blue",
       "url": "https://open.spotify.com/track/0e0x5DeWGa5iKcG56Thp2m"
@@ -23388,7 +23410,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178986,
-      "name": "Rooftops REMIX (feat. Reclaim The Fallen & Jake Luhrs of August Burns Red)",
+      "name": "Rooftops REMIX",
       "url": "https://open.spotify.com/track/5FXo0EeT0EsHw2wIWtyAPe"
     },
     {

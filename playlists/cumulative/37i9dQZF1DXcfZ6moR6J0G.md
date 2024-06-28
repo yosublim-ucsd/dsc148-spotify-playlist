@@ -2,7 +2,7 @@
 
 ### [Nu Metal Era](https://open.spotify.com/playlist/37i9dQZF1DXcfZ6moR6J0G)
 
-> RIP Shifty 🦋
+> You know what time it is.
 
 173 songs - 10 hr 30 min
 
@@ -134,7 +134,7 @@
 | [Pitiful](https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW) | [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Silence](https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl) | 3:12 | 2021-09-06 |  |
 | [Poem](https://open.spotify.com/track/7mQwxVogsnpR3h6AJLQLlR) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Welcome](https://open.spotify.com/album/713d2aig86cskmj4zdL9nR) | 3:09 | 2021-09-06 |  |
 | [Praise](https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Animosity](https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1) | 3:38 | 2022-11-03 | 2024-04-16 |
-| [Price to Play](https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [14 Shades of Grey](https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR) | 3:35 | 2024-03-26 | 2024-06-26 |
+| [Price to Play](https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [14 Shades of Grey](https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR) | 3:35 | 2024-03-26 |  |
 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 | 2021-09-06 |  |
 | [Pushing Me](https://open.spotify.com/track/6F4Rj6sllNG7kmF1g56E7S) | [Slaves on Dope](https://open.spotify.com/artist/2DLFxNQLAhejsOlcJLS0Ws) | [Klepto](https://open.spotify.com/album/48pvQsFrUy8aqMNzvZUyBK) | 3:12 | 2022-04-17 | 2022-04-21 |
 | [Requiem](https://open.spotify.com/track/4fhPqBNq6ogTEdCHcdg6Ao) | [Snot](https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8), [Corey](https://open.spotify.com/artist/3aoLcQxcreN6n2d1yctZYE) | [Strait Up](https://open.spotify.com/album/1goFw0cbXvSmDWKlGoBWVo) | 3:38 | 2022-04-17 | 2022-04-20 |
@@ -168,7 +168,7 @@
 | [The Only](https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:51 | 2021-09-06 |  |
 | [The Way You Like It](https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 3:39 | 2022-11-03 |  |
 | [Thumper](https://open.spotify.com/track/5UxmJ9bBeGRFhZsItTkoTL) | [Raging Speedhorn](https://open.spotify.com/artist/3D3G4JAVp6JQVEKjUaaSxA) | [Raging Speedhorn](https://open.spotify.com/album/5oDEwZgZZaeFXAQvN5L4ID) | 2:36 | 2022-04-17 | 2022-04-20 |
-| [Toxic](https://open.spotify.com/track/170Sk6g2w1uVsg1d24Oard) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 2:48 | 2024-06-25 |  |
+| [Toxic](https://open.spotify.com/track/170Sk6g2w1uVsg1d24Oard) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 2:48 | 2024-06-25 | 2024-06-28 |
 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 | 2021-09-06 |  |
 | [Ty Jonathan Down](https://open.spotify.com/track/5O9OjIL1D7akvZ91VT7VPH) | [Videodrone](https://open.spotify.com/artist/7hl6MPeP2VSGIbJY6lpml0), [David Kahne](https://open.spotify.com/artist/6G0eM0JfYIbNAdp9YPykhr) | [Videodrone](https://open.spotify.com/album/6RBKITC2WoADf4ZtGV3TSO) | 4:21 | 2022-04-17 | 2022-04-21 |
 | [Vitamin](https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:13 | 2023-02-27 |  |

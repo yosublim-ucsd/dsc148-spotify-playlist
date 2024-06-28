@@ -6255,6 +6255,28 @@
     },
     {
       "album": {
+        "name": "Out Of Here",
+        "url": "https://open.spotify.com/album/5khm1SM97siH9rc6C1Ved8"
+      },
+      "artists": [
+        {
+          "name": "Talksick",
+          "url": "https://open.spotify.com/artist/5c43052KF7E2jFqsrm48VY"
+        },
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Out Of Here",
+      "url": "https://open.spotify.com/track/0nVuLmwrBRpwtZfYurYt9I"
+    },
+    {
+      "album": {
         "name": "Out Of Love",
         "url": "https://open.spotify.com/album/0nHreN1kHP5TNJKJSXD4mO"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Brandy in Best\. Christmas\. Ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,245 likes - 27 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,248 likes - 27 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

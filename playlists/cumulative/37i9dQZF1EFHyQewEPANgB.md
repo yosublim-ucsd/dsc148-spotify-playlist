@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1t4poam1A1i9RT8MUOhfh2">Earlly Mac</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-85 songs - 4 hr 23 min
+86 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [January 1st/ ManiGoat \(interlude\)](https://open.spotify.com/track/7BN2T2fvAYz5fcIXslY9Qc) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Earl ManiGoat](https://open.spotify.com/album/2sVW32G4fT3wALd4z1sRCt) | 2:20 | 2024-06-07 |  |
 | [Jesus Saves](https://open.spotify.com/track/12QhBpYgyO3llIRC0WHTkq) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Lighten Up](https://open.spotify.com/album/2cOUZ5AnAz7dCO2sdIg3Ic) | 3:32 | 2024-06-07 |  |
 | [Keep Cryin' \(feat\. Dusty McFly\)](https://open.spotify.com/track/55BVa5wtSdJ83KZvG19E0Q) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Dusty McFly](https://open.spotify.com/artist/0ekbxDROhz27q5QvYDCOsj) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 3:07 | 2024-06-07 |  |
+| [Keep Dreaming](https://open.spotify.com/track/5ZcFIh49IkdW0gZX0Dr57G) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Fat Ray](https://open.spotify.com/artist/1UZenmN8tsVuqsAnKSlTK6) | [F.U.N.](https://open.spotify.com/album/1dp5AbK2U94jjLVliJh3BV) | 2:48 | 2024-06-27 |  |
 | [Learn to Love My Bm](https://open.spotify.com/track/0qgWR7yasp2c5FGp40Xxhi) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 2:53 | 2024-06-07 |  |
 | [Light It Up](https://open.spotify.com/track/6T2JUqCZBxvSZERKCJluEy) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Kevin Hart: What Now? \(The Mixtape Presents Chocolate Droppa\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/3eZNjH1rXVW1cq777iyYTy) | 2:48 | 2024-06-07 |  |
 | [Like Gucci](https://open.spotify.com/track/4oZAS5i1a5tY5iMNpBcDSW) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Cousin Trap](https://open.spotify.com/album/2Y6OJpKusANPXAfZ21e8cT) | 3:16 | 2024-06-07 |  |

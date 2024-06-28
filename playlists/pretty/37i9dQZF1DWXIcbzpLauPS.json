@@ -1,6 +1,6 @@
 {
   "description": "Metalcore at its finest. Cover: Knocked Loose",
-  "num_followers": 928752,
+  "num_followers": 928815,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Epitaph",
-        "url": "https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9"
-      },
-      "artists": [
-        {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
-        }
-      ],
-      "duration_ms": 217025,
-      "name": "Epitaph",
-      "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 223405,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Epitaph",
+        "url": "https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 217025,
+      "name": "Epitaph",
+      "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -659,26 +659,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "New Devil",
-        "url": "https://open.spotify.com/album/208ZYeARcVCbjryVLd6Ynk"
-      },
-      "artists": [
-        {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
-        },
-        {
-          "name": "Dickie Allen",
-          "url": "https://open.spotify.com/artist/6S9zHyUlhi9qE08rIydg6E"
-        }
-      ],
-      "duration_ms": 139826,
-      "name": "New Devil",
-      "url": "https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Panic Waves",
         "url": "https://open.spotify.com/album/5aNJN4zGJTPKvie47D56aE"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 262537,
       "name": "RAINBOWS",
       "url": "https://open.spotify.com/track/5PRPMGAiQXEQL5frHaJneT"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "New Devil",
+        "url": "https://open.spotify.com/album/208ZYeARcVCbjryVLd6Ynk"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        },
+        {
+          "name": "Dickie Allen",
+          "url": "https://open.spotify.com/artist/6S9zHyUlhi9qE08rIydg6E"
+        }
+      ],
+      "duration_ms": 139826,
+      "name": "New Devil",
+      "url": "https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 236953,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 212329,
       "name": "In The Silence",
       "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 236953,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Endless Hollow",
-        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
-      },
-      "artists": [
-        {
-          "name": "Oceans Ate Alaska",
-          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Endless Hollow",
-      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 219759,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Endless Hollow",
+        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
+      },
+      "artists": [
+        {
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Endless Hollow",
+      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Mourning The Dawn",
-        "url": "https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV"
-      },
-      "artists": [
-        {
-          "name": "NOVELISTS",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
-        }
-      ],
-      "duration_ms": 301371,
-      "name": "Mourning The Dawn",
-      "url": "https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Orphan (l\u1d09\u028c\u01ddp \u01dd\u0265\u0287)",
         "url": "https://open.spotify.com/album/4vCksLpzk75HznbAd2QRBa"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 221948,
       "name": "Orphan (l\u1d09\u028c\u01ddp \u01dd\u0265\u0287)",
       "url": "https://open.spotify.com/track/3TEiRBBPMNu4DKgFfddMb6"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Mourning The Dawn",
+        "url": "https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV"
+      },
+      "artists": [
+        {
+          "name": "NOVELISTS",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        }
+      ],
+      "duration_ms": 301371,
+      "name": "Mourning The Dawn",
+      "url": "https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "HIVEMIND",
-        "url": "https://open.spotify.com/album/6iHHdRsPAn9HBXOQxMlb0e"
-      },
-      "artists": [
-        {
-          "name": "The Browning",
-          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
-        }
-      ],
-      "duration_ms": 192182,
-      "name": "HIVEMIND",
-      "url": "https://open.spotify.com/track/65qnoPqpsez7gfoGqV9ZKk"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Castaway",
         "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "HIVEMIND",
+        "url": "https://open.spotify.com/album/6iHHdRsPAn9HBXOQxMlb0e"
+      },
+      "artists": [
+        {
+          "name": "The Browning",
+          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+        }
+      ],
+      "duration_ms": 192182,
+      "name": "HIVEMIND",
+      "url": "https://open.spotify.com/track/65qnoPqpsez7gfoGqV9ZKk"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Veil Walker",
-        "url": "https://open.spotify.com/album/0D3npTMNQR9o5wFdvVZfHd"
-      },
-      "artists": [
-        {
-          "name": "Our Hollow, Our Home",
-          "url": "https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl"
-        }
-      ],
-      "duration_ms": 216002,
-      "name": "Veil Walker",
-      "url": "https://open.spotify.com/track/6Bvf6VZZ2AeQsZOv1qa1jt"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Hard To Live (feat. David Benites)",
         "url": "https://open.spotify.com/album/7fD4DbcPl9tL5m8FJEDJfo"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 240000,
       "name": "Hard To Live - feat. David Benites",
       "url": "https://open.spotify.com/track/5kurhA888Fh98xOJtL7TXA"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Veil Walker",
+        "url": "https://open.spotify.com/album/0D3npTMNQR9o5wFdvVZfHd"
+      },
+      "artists": [
+        {
+          "name": "Our Hollow, Our Home",
+          "url": "https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl"
+        }
+      ],
+      "duration_ms": 216002,
+      "name": "Veil Walker",
+      "url": "https://open.spotify.com/track/6Bvf6VZZ2AeQsZOv1qa1jt"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "welcome2paradise",
-        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 286941,
-      "name": "welcome2paradise",
-      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "A Different Shade Of Misery",
         "url": "https://open.spotify.com/album/0EUw8C9ILegKHE3AzgmLID"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 218742,
       "name": "A Different Shade Of Misery",
       "url": "https://open.spotify.com/track/3DwTUh6jG71oZC2j6wyIOq"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "welcome2paradise",
+        "url": "https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 286941,
+      "name": "welcome2paradise",
+      "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/7zc8anigDU6aPd6bAOSppC"
+      },
+      "artists": [
+        {
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+        }
+      ],
+      "duration_ms": 272659,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/3lSaNqdv9RsJpmI0V4afRQ"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
         "name": "Red Fur",
         "url": "https://open.spotify.com/album/0QouGNBQ8cnRBNBkKXrXgc"
       },
@@ -1727,22 +1743,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Sleepless",
-        "url": "https://open.spotify.com/album/7zc8anigDU6aPd6bAOSppC"
-      },
-      "artists": [
-        {
-          "name": "What Lies Below",
-          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
-        }
-      ],
-      "duration_ms": 272659,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/3lSaNqdv9RsJpmI0V4afRQ"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "DEATH 2",
         "url": "https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ"
       },
@@ -1755,22 +1755,6 @@
       "duration_ms": 212413,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
-        "name": "Wash It Away",
-        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 214710,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1791,18 +1775,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Horror Domain",
-        "url": "https://open.spotify.com/album/75ss4jXVpPAHJcu6AysVNK"
+        "name": "Wash It Away",
+        "url": "https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c"
       },
       "artists": [
         {
-          "name": "Foreign Hands",
-          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
         }
       ],
-      "duration_ms": 180840,
-      "name": "Horror Domain",
-      "url": "https://open.spotify.com/track/6bbkuPhYZdVpgo5LvOTjrO"
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1823,6 +1807,22 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
+        "name": "The Fear Of Letting Go",
+        "url": "https://open.spotify.com/album/1pBnOofvJbc481QcJVMuGy"
+      },
+      "artists": [
+        {
+          "name": "Hollow Front",
+          "url": "https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe"
+        }
+      ],
+      "duration_ms": 153904,
+      "name": "Breaking Teeth",
+      "url": "https://open.spotify.com/track/5zKVTDKvqGYxM2iQ3vod6R"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
         "name": "The Fullness of My Being",
         "url": "https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3"
       },
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "The Fear Of Letting Go",
-        "url": "https://open.spotify.com/album/1pBnOofvJbc481QcJVMuGy"
+        "name": "Horror Domain",
+        "url": "https://open.spotify.com/album/75ss4jXVpPAHJcu6AysVNK"
       },
       "artists": [
         {
-          "name": "Hollow Front",
-          "url": "https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe"
+          "name": "Foreign Hands",
+          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
         }
       ],
-      "duration_ms": 153904,
-      "name": "Breaking Teeth",
-      "url": "https://open.spotify.com/track/5zKVTDKvqGYxM2iQ3vod6R"
+      "duration_ms": 180840,
+      "name": "Horror Domain",
+      "url": "https://open.spotify.com/track/6bbkuPhYZdVpgo5LvOTjrO"
     },
     {
       "added_at": "2024-06-10 14:54:42",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-06-10 14:54:42",
       "album": {
-        "name": "Modern Error",
-        "url": "https://open.spotify.com/album/1spLAp5HnKomU3UgbsgYz8"
-      },
-      "artists": [
-        {
-          "name": "Defects",
-          "url": "https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3"
-        }
-      ],
-      "duration_ms": 269786,
-      "name": "Modern Error",
-      "url": "https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL"
-    },
-    {
-      "added_at": "2024-06-10 14:54:42",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/2a7K9HSnSRiE6TfXYfnL9g"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 235643,
       "name": "Escape",
       "url": "https://open.spotify.com/track/0kF7nwfpWjr2T4N6ci0QoL"
+    },
+    {
+      "added_at": "2024-06-10 14:54:42",
+      "album": {
+        "name": "Modern Error",
+        "url": "https://open.spotify.com/album/1spLAp5HnKomU3UgbsgYz8"
+      },
+      "artists": [
+        {
+          "name": "Defects",
+          "url": "https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3"
+        }
+      ],
+      "duration_ms": 269786,
+      "name": "Modern Error",
+      "url": "https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL"
     },
     {
       "added_at": "2024-06-10 14:54:42",

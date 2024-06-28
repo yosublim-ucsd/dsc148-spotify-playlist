@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 133544,
       "name": "A Favorite Song",
       "url": "https://open.spotify.com/track/4UWncXK8hLTErhTxKPolo2"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 223157,
       "name": "Anya",
       "url": "https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 167140,
       "name": "Bluesette",
       "url": "https://open.spotify.com/track/0wnOuJclpacVenVngRphVW"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 179306,
       "name": "Can't Help Lovin' Dat Man",
       "url": "https://open.spotify.com/track/4RHRD6ZW9iC6Bixb0zY3G3"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 185913,
       "name": "Central Park West",
       "url": "https://open.spotify.com/track/631PeYtzB9gVGpRHSJNbFm"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 245131,
       "name": "Do You Mind If I Smoke",
       "url": "https://open.spotify.com/track/4kFDH0KwaJVLz9UrYd3tPG"
@@ -2723,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "Flowers in You Hair",
+        "url": "https://open.spotify.com/album/6PxTvNgilbTaOqrfXSzxae"
+      },
+      "artists": [
+        {
+          "name": "Elliot Baxter",
+          "url": "https://open.spotify.com/artist/2CnBxoyNO0oKHoNntxMgkq"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171316,
+      "name": "Flowers in You Hair",
+      "url": "https://open.spotify.com/track/0qd8BQpIyY1P1IdKapDAzd"
+    },
+    {
+      "album": {
         "name": "Flowers In Your Hair",
         "url": "https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku"
       },
@@ -3382,7 +3400,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 171127,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA"
@@ -3602,6 +3620,24 @@
       "duration_ms": 168183,
       "name": "I Haven't Gotten Wise On Anything",
       "url": "https://open.spotify.com/track/5SNxrV6pmkob3mRCDZWxEf"
+    },
+    {
+      "album": {
+        "name": "I learned to love",
+        "url": "https://open.spotify.com/album/7snavifIz9KzaF75oHp7Po"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "I learned to love",
+      "url": "https://open.spotify.com/track/4Jo0uFWkHJ7qiEbI2GAfgZ"
     },
     {
       "album": {
@@ -4588,7 +4624,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 225783,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/2YsdjtklZEjBXgovsaKFpm"
@@ -4718,6 +4754,24 @@
       "duration_ms": 147000,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX"
+    },
+    {
+      "album": {
+        "name": "Last Time We Met",
+        "url": "https://open.spotify.com/album/0TgDurNxIHZBjezaZtUFsw"
+      },
+      "artists": [
+        {
+          "name": "Joseph Cole",
+          "url": "https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131909,
+      "name": "Last Time We Met",
+      "url": "https://open.spotify.com/track/58BHO7j36gJr7CqS6DdLSw"
     },
     {
       "album": {
@@ -5182,7 +5236,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 166178,
       "name": "Love in the First Degree",
       "url": "https://open.spotify.com/track/3LVaEWRdveFDHotlDaRDLa"
@@ -5668,7 +5722,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 178868,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/5opHsxh5NPey4qGcPmDTW6"
@@ -5798,6 +5852,24 @@
       "duration_ms": 180063,
       "name": "My Confidant",
       "url": "https://open.spotify.com/track/1Dpp6Mfle3B7LOYMu2oFD9"
+    },
+    {
+      "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/17yGhvKEP6TmBQw0Tidbby"
+      },
+      "artists": [
+        {
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169596,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1o8pnUyEA1GdIUn4RbfLtz"
     },
     {
       "album": {
@@ -6640,7 +6712,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 159361,
       "name": "Out Of Nowhere",
       "url": "https://open.spotify.com/track/6CPmUmMMXvGombRcl8p5Iw"
@@ -8602,7 +8674,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 182677,
       "name": "The End Of A Love Affair",
       "url": "https://open.spotify.com/track/121BsQV03zxG11taJmpnUe"
@@ -9340,7 +9412,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 170859,
       "name": "Till There Was You",
       "url": "https://open.spotify.com/track/3bGhklfS5vo11uM9kBnbyB"
@@ -10096,7 +10168,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 247278,
       "name": "Witchcraft",
       "url": "https://open.spotify.com/track/787b6CSG5VnNvAATPEk54g"

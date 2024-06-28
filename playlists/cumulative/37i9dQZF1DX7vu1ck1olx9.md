@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-303 songs - 12 hr 16 min
+304 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [NightSky](https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [NightSky](https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu) | 3:04 | 2021-10-29 | 2024-06-01 |
 | [No Awake Zone](https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [No Awake Zone](https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3) | 2:18 | 2023-10-27 |  |
 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 | 2023-10-27 |  |
-| [NotThatBad](https://open.spotify.com/track/6lqnK8lLs27uXoXHbSSLvg) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [NotThatBad](https://open.spotify.com/album/2Q5byoAREuhxwwLm5qSia8) | 2:26 | 2024-06-13 |  |
+| [NotThatBad](https://open.spotify.com/track/6lqnK8lLs27uXoXHbSSLvg) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [NotThatBad](https://open.spotify.com/album/2Q5byoAREuhxwwLm5qSia8) | 2:26 | 2024-06-13 | 2024-06-28 |
 | [Nuz An Tara](https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/4zfqdXuhrSemPWGy4wX8ua) | 2:12 | 2020-11-12 | 2024-01-05 |
 | [Nuz An Tara](https://open.spotify.com/track/7rwsFWNQmvPk7GovBbSE9U) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/3AjEgD7OL43XaoqnGFrP9z) | 2:12 | 2020-11-12 | 2022-07-27 |
 | [on the horizon](https://open.spotify.com/track/6zLbYaT9kw4uChKU9q1seG) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [on the horizon](https://open.spotify.com/album/5prWcKTBqdEkY1kSmRDe41) | 3:31 | 2024-01-19 |  |
@@ -282,6 +282,7 @@
 | [The Burn Marks on My Epiano Wont Go Away](https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 1](https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD) | 1:36 | 2020-11-12 | 2023-11-24 |
 | [The City Weeps](https://open.spotify.com/track/7BYY8V037OArkl6zsD4s7K) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [The City Weeps](https://open.spotify.com/album/3BIzM0aOJeLeVFfSPRqs23) | 2:19 | 2023-10-27 |  |
 | [the eagle](https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch) | [karlaplan.](https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr) | [the eagle](https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd) | 2:12 | 2023-10-27 |  |
+| [The Silent Sea](https://open.spotify.com/track/5rdtRmS8lRbnYMqZiNo1Gc) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Abricot](https://open.spotify.com/artist/3g1NWK6jzmo2TqQe019RGC) | [Timeless Ocean](https://open.spotify.com/album/6xW3oemKwNU2LXb7kJ5e1d) | 2:24 | 2024-06-27 |  |
 | [The Soul of Things](https://open.spotify.com/track/0ZDNgOOkCqfJK4jrXGb8wj) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Granat Session Vol\. II](https://open.spotify.com/album/0JqAJeILF8gY4vOzmjUXkE) | 2:30 | 2022-05-20 | 2024-01-12 |
 | [The Soul of Things](https://open.spotify.com/track/43bu6Gf4x8MWZYfrTLxL7d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Granat Session Vol\. II](https://open.spotify.com/album/5zPX6YHeIh6D6yQ7u9zR9l) | 2:30 | 2022-05-20 | 2022-11-20 |
 | [thinking of you](https://open.spotify.com/track/1oSevjov1EOdo8TYcrb5nQ) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Inaudible](https://open.spotify.com/album/3qJLsN4fua8Ggh5mugCXb6) | 2:11 | 2020-11-12 | 2023-11-24 |

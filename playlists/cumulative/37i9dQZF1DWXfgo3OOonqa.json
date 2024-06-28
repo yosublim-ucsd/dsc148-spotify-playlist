@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "H\u00e5ll det 100.",
+  "description": "Fin & Bad!",
   "name": "100",
   "tracks": [
     {
@@ -158,7 +158,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 136744,
       "name": "10 TOES",
       "url": "https://open.spotify.com/track/2jUuaiQzdjT8ILACuenwpI"
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 170160,
       "name": "AMIGA",
       "url": "https://open.spotify.com/track/3mLOglRxAwyK1Phml137Pw"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 163298,
       "name": "AMSTERDAM",
       "url": "https://open.spotify.com/track/1Ouk8i5yWxd1YqAh0ncT8o"
@@ -6495,6 +6495,24 @@
     },
     {
       "album": {
+        "name": "DAISIES",
+        "url": "https://open.spotify.com/album/2kvrIXNFFLRECCBJWiPYLq"
+      },
+      "artists": [
+        {
+          "name": "BABY MALA",
+          "url": "https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/0qrtE3p4oZ6aEEsmYqbxxB"
+    },
+    {
+      "album": {
         "name": "DALE",
         "url": "https://open.spotify.com/album/68zGaXwteT4Mf3HGs5Erag"
       },
@@ -7104,6 +7122,24 @@
       "duration_ms": 173726,
       "name": "DIN TUR",
       "url": "https://open.spotify.com/track/184lVKP37X3JUxPgPMy4y4"
+    },
+    {
+      "album": {
+        "name": "Dina \u00d6gon \u00c4r Nakna",
+        "url": "https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX"
+      },
+      "artists": [
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200346,
+      "name": "Dina \u00d6gon \u00c4r Nakna",
+      "url": "https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt"
     },
     {
       "album": {
@@ -8404,7 +8440,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 155520,
       "name": "En g\u00e5ng till",
       "url": "https://open.spotify.com/track/6aHzgbZylKA3l9BjMYy7Os"
@@ -9106,7 +9142,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 135164,
       "name": "FASTNAT",
       "url": "https://open.spotify.com/track/7DYx7JnyRVGvtpj9VbPmzv"
@@ -9300,6 +9336,24 @@
       "duration_ms": 260075,
       "name": "Festivall\u00e5ten",
       "url": "https://open.spotify.com/track/5FszaD22ntnHwPdWKwmvQ6"
+    },
+    {
+      "album": {
+        "name": "Fin & Bad",
+        "url": "https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121383,
+      "name": "Fin & Bad",
+      "url": "https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj"
     },
     {
       "album": {
@@ -12313,6 +12367,28 @@
     },
     {
       "album": {
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/1o62RRt9toNnE3YS5Tbb6T"
+      },
+      "artists": [
+        {
+          "name": "LKay",
+          "url": "https://open.spotify.com/artist/0ao2HCPhWbdBSA6Sa94xTa"
+        },
+        {
+          "name": "Kayen",
+          "url": "https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129130,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/7mCwLCmzwwSE4sXykpKGAJ"
+    },
+    {
+      "album": {
         "name": "Hood Party",
         "url": "https://open.spotify.com/album/4mQCGN484VIaEffuYr2NxC"
       },
@@ -12524,6 +12600,24 @@
       "duration_ms": 141316,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/7j6yya7aLPyCJnDV7DQCuP"
+    },
+    {
+      "album": {
+        "name": "HUSTLA",
+        "url": "https://open.spotify.com/album/7fuI4Y2ku8mYZQT1WWHbLS"
+      },
+      "artists": [
+        {
+          "name": "Rami",
+          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "HUSTLA",
+      "url": "https://open.spotify.com/track/30VTtW2aVGwyINNbMua6fZ"
     },
     {
       "album": {
@@ -12818,6 +12912,24 @@
       "duration_ms": 187619,
       "name": "I TRIED",
       "url": "https://open.spotify.com/track/1VIluVyu6Ravrt5MoITvdR"
+    },
+    {
+      "album": {
+        "name": "IBIZA",
+        "url": "https://open.spotify.com/album/38wRFv5x1KqPeYXQlSHU8W"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/4POdzwp6hDWk0OMH2gNE6v"
     },
     {
       "album": {
@@ -14328,7 +14440,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 201752,
       "name": "KAN JAG FR\u00c5GA DIG?",
       "url": "https://open.spotify.com/track/0qhPSIycbhJBAWmRVEqanB"
@@ -14449,6 +14561,24 @@
     },
     {
       "album": {
+        "name": "KARIMO III",
+        "url": "https://open.spotify.com/album/7L48TUCEtFs3T5q6rY9qcF"
+      },
+      "artists": [
+        {
+          "name": "Karim Alger",
+          "url": "https://open.spotify.com/artist/5fd1olImQGqWTqg1r0zqMW"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159354,
+      "name": "KARIMO SZN",
+      "url": "https://open.spotify.com/track/2tMyM1PZdRIQe2icZnx6hQ"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/39DaRxeCO75AaA5DEIbUqJ"
       },
@@ -14482,6 +14612,24 @@
       "duration_ms": 162295,
       "name": "Karma",
       "url": "https://open.spotify.com/track/4msrlt42vvHWVmfign6LuZ"
+    },
+    {
+      "album": {
+        "name": "KeKe (what would DBE say?)",
+        "url": "https://open.spotify.com/album/7va6a6egnOuNhTvHHijhJ1"
+      },
+      "artists": [
+        {
+          "name": "Robbz x Brookz",
+          "url": "https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165942,
+      "name": "KeKe (what would DBE say?)",
+      "url": "https://open.spotify.com/track/56zjHlSBHuVBey7pNNlpqt"
     },
     {
       "album": {
@@ -16264,7 +16412,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 145454,
       "name": "LOCATION",
       "url": "https://open.spotify.com/track/2rhEM29bHqdLn4RtItYaHr"
@@ -21497,6 +21645,24 @@
     },
     {
       "album": {
+        "name": "2024K",
+        "url": "https://open.spotify.com/album/439NYAWc8lNRAbVtDNzjh5"
+      },
+      "artists": [
+        {
+          "name": "24K",
+          "url": "https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194642,
+      "name": "Pengar p\u00e5 mitt schema",
+      "url": "https://open.spotify.com/track/5GY9xzo9vrQSoXqTQTznAf"
+    },
+    {
+      "album": {
         "name": "MYROR I BRALLAN",
         "url": "https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt"
       },
@@ -22704,6 +22870,32 @@
       "duration_ms": 134545,
       "name": "ROCKARE",
       "url": "https://open.spotify.com/track/0K6aHb68850FoOuFfxAsre"
+    },
+    {
+      "album": {
+        "name": "Rolex & Rose",
+        "url": "https://open.spotify.com/album/5CXNlIMz8BMYDJObB2cGCO"
+      },
+      "artists": [
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+        },
+        {
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        },
+        {
+          "name": "Mukki",
+          "url": "https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Rolex & Rose",
+      "url": "https://open.spotify.com/track/0vNFt9TUiieyROntKMpM5J"
     },
     {
       "album": {
@@ -23946,7 +24138,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 129196,
       "name": "Skitz/Face ID",
       "url": "https://open.spotify.com/track/2vkuGMrfovItY96pmT5Dq8"
@@ -24458,7 +24650,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 132019,
       "name": "Solen Har Fl\u00e4ckar",
       "url": "https://open.spotify.com/track/0IFC5nbZ69OQiH8YFwTgTe"
@@ -27252,7 +27444,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 164759,
       "name": "TOXIC LOVE",
       "url": "https://open.spotify.com/track/36xrXU5e12ArnDVbXrHdKl"
@@ -30308,7 +30500,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 125092,
       "name": "\u00d6verallt",
       "url": "https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH"

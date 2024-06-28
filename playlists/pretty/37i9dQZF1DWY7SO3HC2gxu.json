@@ -1,39 +1,15 @@
 {
   "description": "Best blends of Electronic music Across East Africa. Cover: Munyasya",
-  "num_followers": 5768,
+  "num_followers": 5774,
   "original_name": "Oontz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkSxAAAAABpNZydwRzl4cncD4yKK4rZ",
+  "snapshot_id": "Zn4K1AAAAAA8y3DWMeL4jV2UktzTbIZm",
   "tracks": [
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Kibogoyo (Funkky Remix)",
-        "url": "https://open.spotify.com/album/5DtX7nWHKR6N38wkvg24ob"
-      },
-      "artists": [
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
-        },
-        {
-          "name": "Sunlee",
-          "url": "https://open.spotify.com/artist/0Xa81WVUf9lecuae8hqMjQ"
-        },
-        {
-          "name": "Funkky",
-          "url": "https://open.spotify.com/artist/5K6MIUxhHMmOxGF22JaySb"
-        }
-      ],
-      "duration_ms": 343278,
-      "name": "Kibogoyo - Funkky Remix",
-      "url": "https://open.spotify.com/track/1kJrI8k2XsIHTNsB3UR32P"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Kwema",
         "url": "https://open.spotify.com/album/62gTaYaI5pT5QbHbktRnc3"
@@ -57,7 +33,23 @@
       "url": "https://open.spotify.com/track/7htUSfGusHyI0DurePM6lZ"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/4jvIzo5bnxPmkyhe1P3DQ0"
+      },
+      "artists": [
+        {
+          "name": "Dj McKenzie",
+          "url": "https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45"
+        }
+      ],
+      "duration_ms": 175295,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2ZPKXWhtR5xfONqBdSgBiO"
+    },
+    {
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/1qLQYpWgWtO7DLAaqFnCY7"
@@ -73,7 +65,7 @@
       "url": "https://open.spotify.com/track/2gVy654eoz1UEah0YP9EdV"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Yule",
         "url": "https://open.spotify.com/album/0FlimfTT6taGOPHav7bQ0U"
@@ -93,7 +85,7 @@
       "url": "https://open.spotify.com/track/3d5jBkwQ78NV4uvWvBFNdq"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Kadenge",
         "url": "https://open.spotify.com/album/3C4908n24YULIZFv7fWYTT"
@@ -113,7 +105,7 @@
       "url": "https://open.spotify.com/track/3tZepAwKSAwy2z284egom5"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Light Up & Diva",
         "url": "https://open.spotify.com/album/1n4qswJNXVFmVdfOz6FppK"
@@ -133,7 +125,31 @@
       "url": "https://open.spotify.com/track/2Yki61q1T4ek736lQIv4z7"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
+      "album": {
+        "name": "Kibogoyo (Funkky Remix)",
+        "url": "https://open.spotify.com/album/5DtX7nWHKR6N38wkvg24ob"
+      },
+      "artists": [
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Sunlee",
+          "url": "https://open.spotify.com/artist/0Xa81WVUf9lecuae8hqMjQ"
+        },
+        {
+          "name": "Funkky",
+          "url": "https://open.spotify.com/artist/5K6MIUxhHMmOxGF22JaySb"
+        }
+      ],
+      "duration_ms": 343278,
+      "name": "Kibogoyo - Funkky Remix",
+      "url": "https://open.spotify.com/track/1kJrI8k2XsIHTNsB3UR32P"
+    },
+    {
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/2Q9PLu7QJts8B5lAR82gBM"
@@ -153,23 +169,51 @@
       "url": "https://open.spotify.com/track/6KRTX7GGUBNQq0cplz50yy"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/4jvIzo5bnxPmkyhe1P3DQ0"
+        "name": "Digane EP",
+        "url": "https://open.spotify.com/album/6n0pnZ9ZjPXWyaRaPmafXf"
       },
       "artists": [
         {
-          "name": "Dj McKenzie",
-          "url": "https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45"
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        },
+        {
+          "name": "RE\\MIND",
+          "url": "https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX"
         }
       ],
-      "duration_ms": 175295,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/2ZPKXWhtR5xfONqBdSgBiO"
+      "duration_ms": 227462,
+      "name": "Digane - RE\\MIND Remix",
+      "url": "https://open.spotify.com/track/5EVquFfVz4vXEqNniCZ4yE"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
+      "album": {
+        "name": "Digane",
+        "url": "https://open.spotify.com/album/01w2MOtpTJWuQafvkTqR6v"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 162701,
+      "name": "Digane",
+      "url": "https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe"
+    },
+    {
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Limbi",
         "url": "https://open.spotify.com/album/0EEJ50O6o73ouAPT2pbRTW"
@@ -193,7 +237,7 @@
       "url": "https://open.spotify.com/track/7HHkBkLksh86Qsqd8l4jYU"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/2FLZAOMNzYokZZXfxUO6Kt"
@@ -213,75 +257,7 @@
       "url": "https://open.spotify.com/track/0CznHbi50Y4QidvnD3p32o"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Digane",
-        "url": "https://open.spotify.com/album/01w2MOtpTJWuQafvkTqR6v"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 162701,
-      "name": "Digane",
-      "url": "https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Es Vedra",
-        "url": "https://open.spotify.com/album/5SyxPG9RgHncKLldTRVoHV"
-      },
-      "artists": [
-        {
-          "name": "Aytiwan",
-          "url": "https://open.spotify.com/artist/1uL2FZKW1ImI6oHVJ5gnn3"
-        },
-        {
-          "name": "Kaudron",
-          "url": "https://open.spotify.com/artist/0LNyTVpLzeoQeWkLoxIl6h"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
-        }
-      ],
-      "duration_ms": 320031,
-      "name": "Es Vedra",
-      "url": "https://open.spotify.com/track/6K6UHR9tV2S43WK5GWpI80"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Forever (&Lez Remix)",
-        "url": "https://open.spotify.com/album/4uhoVqDV7IFDbwgs2U2EvZ"
-      },
-      "artists": [
-        {
-          "name": "Vanco",
-          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
-        },
-        {
-          "name": "H_art the Band",
-          "url": "https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1"
-        },
-        {
-          "name": "&lez",
-          "url": "https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq"
-        }
-      ],
-      "duration_ms": 453495,
-      "name": "Forever - &Lez Remix",
-      "url": "https://open.spotify.com/track/3TFhBDI23s6lCFOvtu6o5b"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Nyumbani",
         "url": "https://open.spotify.com/album/1bijg6TZQo6cw9HXJA9B2x"
@@ -313,27 +289,75 @@
       "url": "https://open.spotify.com/track/4Lbk3hfElBVH4lTybSGGWo"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
-        "name": "Walking On Water (SOS Mix)",
-        "url": "https://open.spotify.com/album/6vw9GBOSuxChEBBi2Vo0Ya"
+        "name": "Es Vedra",
+        "url": "https://open.spotify.com/album/5SyxPG9RgHncKLldTRVoHV"
       },
       "artists": [
         {
-          "name": "UPZ",
-          "url": "https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE"
+          "name": "Aytiwan",
+          "url": "https://open.spotify.com/artist/1uL2FZKW1ImI6oHVJ5gnn3"
         },
         {
-          "name": "Salvador",
-          "url": "https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0"
+          "name": "Kaudron",
+          "url": "https://open.spotify.com/artist/0LNyTVpLzeoQeWkLoxIl6h"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
         }
       ],
-      "duration_ms": 242068,
-      "name": "Walking On Water - SOS Mix [Radio Edit]",
-      "url": "https://open.spotify.com/track/3DXvzaN6SNiNzqGcyLmxVG"
+      "duration_ms": 320031,
+      "name": "Es Vedra",
+      "url": "https://open.spotify.com/track/6K6UHR9tV2S43WK5GWpI80"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
+      "album": {
+        "name": "Forever (&Lez Remix)",
+        "url": "https://open.spotify.com/album/4uhoVqDV7IFDbwgs2U2EvZ"
+      },
+      "artists": [
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        },
+        {
+          "name": "H_art the Band",
+          "url": "https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1"
+        },
+        {
+          "name": "&lez",
+          "url": "https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq"
+        }
+      ],
+      "duration_ms": 453495,
+      "name": "Forever - &Lez Remix",
+      "url": "https://open.spotify.com/track/3TFhBDI23s6lCFOvtu6o5b"
+    },
+    {
+      "added_at": "2024-06-28 00:59:00",
+      "album": {
+        "name": "Itiririke",
+        "url": "https://open.spotify.com/album/4wu18p79dQbEQXFjinUiqT"
+      },
+      "artists": [
+        {
+          "name": "MOSY",
+          "url": "https://open.spotify.com/artist/7JqRlV02zd5qwCwzn1aQhf"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Itiririke",
+      "url": "https://open.spotify.com/track/2eRzMGEs72ZrgFsCH1Uctf"
+    },
+    {
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Kenya",
         "url": "https://open.spotify.com/album/1DFe8MGmH1GTtS8aR4SV9z"
@@ -353,7 +377,7 @@
       "url": "https://open.spotify.com/track/1xcbr90XR1lt6OXrOP50q6"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Kula (Tony Shades Remix)",
         "url": "https://open.spotify.com/album/49unqznNrXbWcxneiZnkBd"
@@ -385,7 +409,7 @@
       "url": "https://open.spotify.com/track/6Hu7KdszWs8YTmgjOKwnwD"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Jibambe feat Nes Mburu",
         "url": "https://open.spotify.com/album/6lng1AYqDyNCP2lxtS1w2H"
@@ -413,7 +437,7 @@
       "url": "https://open.spotify.com/track/1KyPWkT6IccS8XebxjDMdV"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "The 4th Republic",
         "url": "https://open.spotify.com/album/2XDjGP9eHn0YjnzS6AG19k"
@@ -433,7 +457,7 @@
       "url": "https://open.spotify.com/track/7t1y3tsgDKQnIGp7jw10Po"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Umqhumo Wethu",
         "url": "https://open.spotify.com/album/2Dl8jKEAdAe81ifBg5uhNx"
@@ -461,7 +485,35 @@
       "url": "https://open.spotify.com/track/1S3QiJeXpptj7aath0JOpf"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
+      "album": {
+        "name": "Richa",
+        "url": "https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        },
+        {
+          "name": "Tamir Regev",
+          "url": "https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk"
+        }
+      ],
+      "duration_ms": 242540,
+      "name": "Richa",
+      "url": "https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf"
+    },
+    {
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Umeenda",
         "url": "https://open.spotify.com/album/6HehIb9CsvNbFOGEyV9IqT"
@@ -485,7 +537,7 @@
       "url": "https://open.spotify.com/track/1F1Q6F5c7z3EDgptzYOmGT"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Imora (House Remix)",
         "url": "https://open.spotify.com/album/6qb2zkHYqYxfpxjnb0C9fM"
@@ -505,7 +557,7 @@
       "url": "https://open.spotify.com/track/7exnaXBd4ATnHvCFhfPJGa"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Mwaki (Major Lazer Remix)",
         "url": "https://open.spotify.com/album/7MAWQ0wUnEZiI7Y9qkqlhd"
@@ -529,7 +581,31 @@
       "url": "https://open.spotify.com/track/0c6dw8qe0mNA2sMETrDUl9"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
+      "album": {
+        "name": "Sana (Silvio Luz Remix)",
+        "url": "https://open.spotify.com/album/3NVjcyBtGnSg8Ttdbr8No2"
+      },
+      "artists": [
+        {
+          "name": "Boy From Suburbs",
+          "url": "https://open.spotify.com/artist/0d3qTgztDI3wBqFphe0dMi"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        },
+        {
+          "name": "Silvio Luz",
+          "url": "https://open.spotify.com/artist/1gem2RSU6vJ5LGfjleinnG"
+        }
+      ],
+      "duration_ms": 351112,
+      "name": "Sana - Silvio Luz Remix",
+      "url": "https://open.spotify.com/track/5vVjL02rkO2KHPu7qbz8qg"
+    },
+    {
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Tsunyu (40D Remix)",
         "url": "https://open.spotify.com/album/0YDdbkTnJHGcQJ554wZoPr"
@@ -557,7 +633,7 @@
       "url": "https://open.spotify.com/track/1rVkrOyVCha9dUx3atfaKb"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/142xEJh5sfsTwQKbAQMfrX"
@@ -573,7 +649,7 @@
       "url": "https://open.spotify.com/track/3OOpOE6Dgxe2ianj4i5B97"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Isa",
         "url": "https://open.spotify.com/album/1jD1MFLKMXiGmqmn792sq6"
@@ -593,7 +669,7 @@
       "url": "https://open.spotify.com/track/7BuHkhO4CemVoUKlep5JeS"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "I'll Be There (Original)",
         "url": "https://open.spotify.com/album/2ub2bbZ37OG78pZIASi3Y7"
@@ -613,7 +689,7 @@
       "url": "https://open.spotify.com/track/2seWEAts59TSfxKHqvPEz5"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Baob\u00e1",
         "url": "https://open.spotify.com/album/2lQfMgl0U0ejWvzbhMGm8R"
@@ -633,7 +709,7 @@
       "url": "https://open.spotify.com/track/3jRNrgXyjhMv5pj65gh9qm"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Ni Wewe",
         "url": "https://open.spotify.com/album/3xTWXcC5S3A7ab4IDWCG7K"
@@ -657,7 +733,7 @@
       "url": "https://open.spotify.com/track/3zkIvHYpO1jYjPHIelN1bh"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Sunugal (Coco Em Remix)",
         "url": "https://open.spotify.com/album/4KjZW4bUtCouAdS1ED89LE"
@@ -681,7 +757,7 @@
       "url": "https://open.spotify.com/track/1Qb9iDlmHnR0LWTOsWdnce"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Karimu",
         "url": "https://open.spotify.com/album/3EadOUAtGp1zYy5j1P1a27"
@@ -705,7 +781,7 @@
       "url": "https://open.spotify.com/track/5O5IsfHQCKLCmMIgi4CCqM"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Wahyu",
         "url": "https://open.spotify.com/album/0ZnAhsScg3mJNvBjsiDR1h"
@@ -721,7 +797,7 @@
       "url": "https://open.spotify.com/track/7u8m9omhQ2a8gUqVErnKK3"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Passion (Tokyonite Remix)",
         "url": "https://open.spotify.com/album/5QqtBAqsayKVECAwUeBaUT"
@@ -741,7 +817,7 @@
       "url": "https://open.spotify.com/track/2KxImqKfhMcmu3AubQtRVy"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Dakar (Extended Mix)",
         "url": "https://open.spotify.com/album/0MUvSlOwYQ8TIXqDwc9Vx7"
@@ -765,7 +841,7 @@
       "url": "https://open.spotify.com/track/19Zay2GOA8Ebe9cuinWfNJ"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Your love",
         "url": "https://open.spotify.com/album/1PkYEyQiwJ5xzxaRlmczD7"
@@ -785,7 +861,7 @@
       "url": "https://open.spotify.com/track/4yX841eJ8Rc3bWGqpPCbFM"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "O.D",
         "url": "https://open.spotify.com/album/3OrliCsJYTkwGotMIsXNZk"
@@ -805,7 +881,7 @@
       "url": "https://open.spotify.com/track/3nmMU6AXk6Sok53h1QTMlR"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Mwele (Chalee Remix)",
         "url": "https://open.spotify.com/album/1f5eRNVwmLj7BnteTVfJJs"
@@ -833,7 +909,7 @@
       "url": "https://open.spotify.com/track/07lE4WqD5v3jZgwiYSk5H8"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Your Love (Antdot Remix)",
         "url": "https://open.spotify.com/album/5IWlETbudB9LdBT2BHVhSw"
@@ -857,7 +933,7 @@
       "url": "https://open.spotify.com/track/4SylEKPh0HWqJep7CfISHk"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Down To Me (Davis B Remix)",
         "url": "https://open.spotify.com/album/5ycXRLiOjsA2g8NaeFHesJ"
@@ -881,7 +957,7 @@
       "url": "https://open.spotify.com/track/6qAlulFqO10Bn06eGpa9tB"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Walking on Water",
         "url": "https://open.spotify.com/album/7ofRbTcpB7C0hYNhBL18p7"
@@ -905,7 +981,7 @@
       "url": "https://open.spotify.com/track/6krVefZEplWKpATeUAZc1D"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "We Live 4 Our Music",
         "url": "https://open.spotify.com/album/0GtP5C0gsYAVubcDHkCpai"
@@ -925,7 +1001,7 @@
       "url": "https://open.spotify.com/track/00f6dMrGyyVh0HaCmaNE7F"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/2heXBgWJgIya6igxO0PeNJ"
@@ -945,7 +1021,7 @@
       "url": "https://open.spotify.com/track/6F1oIKnT2vubFelcGsd1OF"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Make Way",
         "url": "https://open.spotify.com/album/7MVKL0h5yHt8L2VP7W7NgM"
@@ -965,27 +1041,7 @@
       "url": "https://open.spotify.com/track/3OJKxDtTQCVCMZ4dCvFcep"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Peah",
-        "url": "https://open.spotify.com/album/06ed3oLUbVAmqmfeZlaijR"
-      },
-      "artists": [
-        {
-          "name": "Diamond Dealer",
-          "url": "https://open.spotify.com/artist/0al2BDNahdKMbU3Nriry1w"
-        },
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
-        }
-      ],
-      "duration_ms": 481623,
-      "name": "Peah",
-      "url": "https://open.spotify.com/track/6oq5rfJnVMZZ3OoUY4f96d"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Lie To Me (Vol. 2)",
         "url": "https://open.spotify.com/album/5onZdz88WmAyml2xrIHg69"
@@ -1009,7 +1065,7 @@
       "url": "https://open.spotify.com/track/2qjEzU7pidm628Q0wHQq4H"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Kolowa",
         "url": "https://open.spotify.com/album/1kZGThqXqwXiJuEE3zlxue"
@@ -1033,7 +1089,7 @@
       "url": "https://open.spotify.com/track/71IOTNy23zkndKm8V7X39Y"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Rotation",
         "url": "https://open.spotify.com/album/58MLWbkO1IccpGM6ztDESg"
@@ -1049,7 +1105,7 @@
       "url": "https://open.spotify.com/track/28Vb0LHg2szAiFIPbR95uT"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Thuthuzela",
         "url": "https://open.spotify.com/album/1HGVI6HBu8zJwNZCLUCJzY"
@@ -1073,7 +1129,7 @@
       "url": "https://open.spotify.com/track/34UAT2LRLN1xmSmeblIhLZ"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Better Than You",
         "url": "https://open.spotify.com/album/6u1pOlol3DFCjcDBMqSimE"
@@ -1089,7 +1145,7 @@
       "url": "https://open.spotify.com/track/2Me17iXbyoNrTt6DY11RhD"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "SHINDA",
         "url": "https://open.spotify.com/album/7MU0MfGCMgISf4NOkloTro"
@@ -1109,7 +1165,7 @@
       "url": "https://open.spotify.com/track/7y2KJOf3eHan2PezVrj3iU"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Mwakitau",
         "url": "https://open.spotify.com/album/1sGTZBOrujz2OyhFpkYrak"
@@ -1125,7 +1181,7 @@
       "url": "https://open.spotify.com/track/38y0Q9bNqG4S5PmZZKkHpK"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Kipaji",
         "url": "https://open.spotify.com/album/6rfPEgM6kFpnWjeGndqudr"
@@ -1141,7 +1197,7 @@
       "url": "https://open.spotify.com/track/2sKbBvOJ7isL4PnIVNsCTX"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Soul Explosion",
         "url": "https://open.spotify.com/album/49tmF9OnGsQ45l11uf9KCq"
@@ -1157,7 +1213,7 @@
       "url": "https://open.spotify.com/track/2SSwhh7RjztAFSeA2S9iQ9"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Take A Chance",
         "url": "https://open.spotify.com/album/5L3ZDYPpWNnxjST6k8pq8O"
@@ -1173,7 +1229,7 @@
       "url": "https://open.spotify.com/track/7t56z9S82lwRdqCsArOnZ0"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Dunguni feat Idd Aziz",
         "url": "https://open.spotify.com/album/0wtiHPGJQpCbcAUA4xfhGF"
@@ -1193,7 +1249,7 @@
       "url": "https://open.spotify.com/track/3vIah0m7Mxv4BSk0LVpX6M"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Chuki",
         "url": "https://open.spotify.com/album/5IzLQJEynAMDV6DGfzfkr6"
@@ -1217,7 +1273,7 @@
       "url": "https://open.spotify.com/track/1i9pxVfeE7JLJRIgvWIIJp"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Flames",
         "url": "https://open.spotify.com/album/6CXfE7vb0Nl5ZFthPzdn2U"
@@ -1233,7 +1289,7 @@
       "url": "https://open.spotify.com/track/6X0p3vgL8JMyUTLHDm8taS"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Touche (Coco Em Remix)",
         "url": "https://open.spotify.com/album/6MZvMtngHxy9DbatIghC2w"
@@ -1253,7 +1309,7 @@
       "url": "https://open.spotify.com/track/4p8OE6lz0v0E22ZeLmFnaC"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Oroboto",
         "url": "https://open.spotify.com/album/4yr5dLUribiANAFDzjlUAZ"
@@ -1273,7 +1329,7 @@
       "url": "https://open.spotify.com/track/6R6VmDIn0gu32DvwBurW5Z"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "The System",
         "url": "https://open.spotify.com/album/608IJoZ0bEA3qMyPl2a7gz"
@@ -1289,7 +1345,7 @@
       "url": "https://open.spotify.com/track/7dfY4o5xu1Okdeu1L4yDTb"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Pendula (Remixes)",
         "url": "https://open.spotify.com/album/53Cp69TaNjTGMmsGU3iIsp"
@@ -1313,7 +1369,7 @@
       "url": "https://open.spotify.com/track/3E4iFhQZMKPe8c0uRKslnI"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/5Bbumee8E2JyV57k17861e"
@@ -1333,7 +1389,7 @@
       "url": "https://open.spotify.com/track/03ECbB4w8kzV5AuQZIAcQk"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Jama",
         "url": "https://open.spotify.com/album/4sAc7tRe15p3J3VV4Uu77A"
@@ -1357,7 +1413,7 @@
       "url": "https://open.spotify.com/track/4p1ypYoh4DugiJjBBJhnym"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
         "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
@@ -1385,7 +1441,7 @@
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Oya Baba!",
         "url": "https://open.spotify.com/album/1UdHeOYythOqEGGb5ILdO9"
@@ -1405,7 +1461,7 @@
       "url": "https://open.spotify.com/track/3mXVxman5bPyqOrpkf9AgR"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Sorcerer",
         "url": "https://open.spotify.com/album/2LaZMF6OYW3equPfzABpXt"
@@ -1429,7 +1485,7 @@
       "url": "https://open.spotify.com/track/6EPUiKgSM3ZWmyUeN5TqcG"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Gongo",
         "url": "https://open.spotify.com/album/2dqi90Af77LxU3O88JY7F9"
@@ -1449,7 +1505,7 @@
       "url": "https://open.spotify.com/track/55UCq8K2C8Tf1zJ4CIhta0"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Njaula Ibe",
         "url": "https://open.spotify.com/album/7F5UexBPN27lepE3dPNiPw"
@@ -1469,7 +1525,7 @@
       "url": "https://open.spotify.com/track/2rLlcbVQ2jsB1VOpWy5n6s"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Power Of You",
         "url": "https://open.spotify.com/album/39A7DX7RIY3FRn7a6qXvI9"
@@ -1497,7 +1553,7 @@
       "url": "https://open.spotify.com/track/5fALbPu4XNwQG0N6mXGAXg"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Your Loving (Remixes)",
         "url": "https://open.spotify.com/album/2obQSSgoW5F82YSZ6EcLd8"
@@ -1521,23 +1577,7 @@
       "url": "https://open.spotify.com/track/1ReZvOFm70OYQz3TNp2R0r"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Unfiltered Dreams (Original Mix)",
-        "url": "https://open.spotify.com/album/3VkM6kZHzAkKV7WzWSyiHa"
-      },
-      "artists": [
-        {
-          "name": "KAMUSHEZ",
-          "url": "https://open.spotify.com/artist/45IuInsqovfU1Xg1a5YZdS"
-        }
-      ],
-      "duration_ms": 432820,
-      "name": "Unfiltered Dreams - Original Mix",
-      "url": "https://open.spotify.com/track/1mjYCKeyze5EgW4OGnkphm"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Izitha (Atmospheric Mix)",
         "url": "https://open.spotify.com/album/4znAMAvgZt1F1tKNUloEMX"
@@ -1553,23 +1593,31 @@
       "url": "https://open.spotify.com/track/5U2veelF6LA2qDIJSoCEyG"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
-        "name": "JANA",
-        "url": "https://open.spotify.com/album/6GUT93biAYvHX0ruIodGlT"
+        "name": "Kasha",
+        "url": "https://open.spotify.com/album/4yqvxOXcQrBfmrXxH6vQcU"
       },
       "artists": [
         {
-          "name": "Rafiiki",
-          "url": "https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn"
+          "name": "SVNTOS",
+          "url": "https://open.spotify.com/artist/7mtChaLa6PH3q9ZwYMG5e1"
+        },
+        {
+          "name": "Sousa",
+          "url": "https://open.spotify.com/artist/6jZOIoQk76BDjxtfxhPlJ3"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
         }
       ],
-      "duration_ms": 395055,
-      "name": "JANA",
-      "url": "https://open.spotify.com/track/1dN0COqoGMSnf3bWegPQiZ"
+      "duration_ms": 360059,
+      "name": "Kasha",
+      "url": "https://open.spotify.com/track/7vp0BkEiQf1nDpes5YczjV"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Mwenye",
         "url": "https://open.spotify.com/album/0wiXMY7q9dyIsR24alOcvl"
@@ -1589,27 +1637,7 @@
       "url": "https://open.spotify.com/track/115rYufaofiqBoQGAwNCdt"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Who Are You (Imran Mwangi House Remix)",
-        "url": "https://open.spotify.com/album/4aFCYdSzyEJ3u52iADPzkj"
-      },
-      "artists": [
-        {
-          "name": "Ayrosh",
-          "url": "https://open.spotify.com/artist/4YrVetGQMUK3WKhRcqC7zH"
-        },
-        {
-          "name": "Imran Mwangi",
-          "url": "https://open.spotify.com/artist/1QScCx9tjYCQux14NpPjmn"
-        }
-      ],
-      "duration_ms": 300480,
-      "name": "Who Are You (Imran Mwangi House Remix)",
-      "url": "https://open.spotify.com/track/6sLPX0Q4GdazVifDwhcu49"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Mbesha Fari Fari",
         "url": "https://open.spotify.com/album/5w052vFIxbeK6F2P4DGyuY"
@@ -1625,7 +1653,7 @@
       "url": "https://open.spotify.com/track/7eJCWj0y3C1zOYtC9MJjts"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Moto",
         "url": "https://open.spotify.com/album/776jYbFBjzWccy2OMgkcdm"
@@ -1649,7 +1677,7 @@
       "url": "https://open.spotify.com/track/4nKJxT9FbMsfc8CJdjzqOG"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Tobina",
         "url": "https://open.spotify.com/album/1JLdZk9Qcw4EiGsDhst35a"
@@ -1669,7 +1697,7 @@
       "url": "https://open.spotify.com/track/1wQIZO21QL5D36PjSYU5aE"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Nyoro",
         "url": "https://open.spotify.com/album/0Jn4m8XlZgSbuWYjlzc22S"
@@ -1693,7 +1721,7 @@
       "url": "https://open.spotify.com/track/5GdgzFPADlFrhDRBoEHq7f"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-28 00:59:00",
       "album": {
         "name": "Weche",
         "url": "https://open.spotify.com/album/2ThbInwMUB3c1W6DlSkt29"

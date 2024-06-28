@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 113626,
       "name": "Ida's Sommerlied",
       "url": "https://open.spotify.com/track/32rYNfv14cF2dDdAu1WCkL"
@@ -6176,6 +6176,28 @@
       "duration_ms": 128444,
       "name": "Sommertag",
       "url": "https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3"
+    },
+    {
+      "album": {
+        "name": "Sommerzeit",
+        "url": "https://open.spotify.com/album/3hUAQEXxyiYRDFoJ1FhFxs"
+      },
+      "artists": [
+        {
+          "name": "Nilsen",
+          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "Sommerzeit",
+      "url": "https://open.spotify.com/track/4QBmgphP6uIJq3G2wnG55h"
     },
     {
       "album": {

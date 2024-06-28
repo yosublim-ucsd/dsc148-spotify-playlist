@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Adikara
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: ArumtaLa
 
-187 songs - 13 hr 28 min
+190 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Irene](https://open.spotify.com/track/3X4MD6lxv735qEsBi3A28I) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/446K6I2l2siYhS7mEW5I9q) | 2:13 | 2022-09-22 | 2023-02-17 |
 | [Irene](https://open.spotify.com/track/5bF3msuuAcyU316UptpKRg) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/2zpVHyMwkO320BFTdx1XJb) | 2:13 | 2022-09-02 | 2022-10-09 |
 | [Irene](https://open.spotify.com/track/7mwr8KXoJ4x5Cdq3p6LypD) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/3mogJhxm0wmeZkZEEZfWzK) | 2:13 | 2023-02-03 | 2023-07-14 |
+| [Isn't It Romantic?](https://open.spotify.com/track/1x5Xlm3uF84c6brdgeBxoH) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Duo MobySade](https://open.spotify.com/artist/7cOjhMwF2kd9ngOO3aA9EU) | [Isn't It Romantic?](https://open.spotify.com/album/7j03BBCzOQrBVJxmuIlxva) | 4:34 | 2024-06-27 |  |
 | [Jeje](https://open.spotify.com/track/51C65PJIu5tC1369pCd8YJ) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Jeje](https://open.spotify.com/album/2ReE8N1x0YrSCLgLtaNyEY) | 5:49 | 2023-01-26 |  |
 | [Jetlag](https://open.spotify.com/track/3hBGxI7UqcR7luoO5mvlYl) | [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [Jetlag](https://open.spotify.com/album/0tX3LsUKM1LPAmpTcyYMHQ) | 3:05 | 2023-03-03 |  |
 | [Jhung Kejhungan 1](https://open.spotify.com/track/6xKSXsCq7DIzUava8uyRji) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX) | [Jhung Kejhungan](https://open.spotify.com/album/5HQ2rql6yz9IF297y9ZB6O) | 4:42 | 2022-12-22 | 2023-08-18 |
@@ -108,6 +109,7 @@
 | [Kejar Terus](https://open.spotify.com/track/7LR3VRJQIWtuHs5kVkjVk5) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy) | [Teras Dan Angin Malam](https://open.spotify.com/album/0zUzJIuniSzSPmwEwNweUp) | 3:23 | 2023-08-18 |  |
 | [Kejar Waktu](https://open.spotify.com/track/1Eo6TNhL7ydD7HFHPFc9bE) | [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Kejar Waktu](https://open.spotify.com/album/3Q8ZezQuRlmq8xsVfYsw3F) | 4:36 | 2022-09-02 | 2022-11-18 |
 | [Kembali Bersama](https://open.spotify.com/track/5uCEXd94GXJrediRWmF9Mx) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF), [Danto](https://open.spotify.com/artist/1DdCPXzmVDJnPKiH1AnUL2) | [Kembali Bersama](https://open.spotify.com/album/41fNuj0KJtHoR3Rger2nfL) | 4:00 | 2022-09-02 |  |
+| [Keriput](https://open.spotify.com/track/4GJiXb71ecPncdDcg0wMcP) | [ArumtaLa](https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev) | [Bercerita](https://open.spotify.com/album/7iGjEOAwvBJvGncuVQNo2Z) | 3:28 | 2024-06-27 |  |
 | [L'arc en ciel](https://open.spotify.com/track/6i2wBBpMnen68NQxMHZqgS) | [Madame & Toean](https://open.spotify.com/artist/3qJ0WDJjy8j5LuJc5updgi) | [L'arc en ciel](https://open.spotify.com/album/1PudlIkTLY2c1A2CtpURj6) | 4:38 | 2023-03-03 |  |
 | [Last Day of Summer](https://open.spotify.com/track/4oUIfcycGoAKSDYhgeiFLA) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Last Day of Summer](https://open.spotify.com/album/7rqSiJ0ZaTI1nNWhGCdItB) | 3:02 | 2022-09-02 |  |
 | [Late Motion](https://open.spotify.com/track/6i0NdwSm1upF6v8Sd89jIO) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Late Motion](https://open.spotify.com/album/3objZ0Q20F9f5R42HfB1B3) | 2:34 | 2022-09-02 | 2022-11-18 |
@@ -173,6 +175,7 @@
 | [So Lucky to Be Young](https://open.spotify.com/track/3bXLdqtotfXYDNXdNUpUIA) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [Lucky to Be Young](https://open.spotify.com/album/6EBRlRTk9ui6S0jyroopZa) | 3:32 | 2023-06-08 |  |
 | [Social Abstract](https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Felix Buliks](https://open.spotify.com/artist/5HDeolVBVWUabGnIap2sho), [Ankadiov Subran](https://open.spotify.com/artist/2u0Msra1dmkHl0rRI1bigH), [Denis Junio](https://open.spotify.com/artist/42LqHOacC0AaCbAH9S3B1E) | [Social Abstract](https://open.spotify.com/album/42WoRZI4APMWNomQ7k5bPF) | 3:49 | 2022-09-02 | 2023-09-29 |
 | [Stay](https://open.spotify.com/track/2v2RXHwpOZXgPhgtqreHbv) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG) | [Kurun Waktu](https://open.spotify.com/album/3bcdLrLC5hkVxT0TIFDgu6) | 3:55 | 2022-09-02 |  |
+| [Sudahlah](https://open.spotify.com/track/7y47EKi0erMGIBWh7YrJj8) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Sudahlah](https://open.spotify.com/album/62UIRGXligEluRl9u4H9Tx) | 3:12 | 2024-06-27 |  |
 | [Sugar Crush](https://open.spotify.com/track/2XXNCwDytfdMITKw6a9jir) | [newbloodfusion](https://open.spotify.com/artist/6OYpsgVFA2EBkd7H5j4JCk) | [Sugar Crush](https://open.spotify.com/album/2MTjLTwiDDX5FSo8jitJxU) | 5:40 | 2022-09-02 | 2023-02-04 |
 | [Sugih Ati](https://open.spotify.com/track/1Y4h8HfM10JbnhRTr8ulya) | [Roedyanto Wasito](https://open.spotify.com/artist/13KFAfMuFued1c8io9PVwm), [Callista Sss](https://open.spotify.com/artist/3UlJcmxkORoWmpzNWmUErJ) | [Sugih Ati](https://open.spotify.com/album/7arb9Zg73hxx6YVA2CXuqa) | 2:44 | 2023-03-03 | 2023-08-25 |
 | [Sunset](https://open.spotify.com/track/51OGFJwTPrfY4CMWX8plAh) | [Nathania Jualim](https://open.spotify.com/artist/3luT9sLplqCrraMvMDPRwK) | [Sunset](https://open.spotify.com/album/0x2ihg2RFYa7ESUnJzEdcq) | 3:52 | 2023-07-13 |  |

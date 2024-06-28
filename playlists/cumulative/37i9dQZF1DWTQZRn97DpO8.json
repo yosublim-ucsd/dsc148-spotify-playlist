@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Arma Jackson",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Enchant\u00e9e Julia",
   "name": "le miel",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 186446,
       "name": "B\u00e9cane",
       "url": "https://open.spotify.com/track/5Ed32bcBySpGCF7g6EG8eh"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "encore",
+        "url": "https://open.spotify.com/album/0gK76tECE7tF6sXNddkP0o"
+      },
+      "artists": [
+        {
+          "name": "Nyhasina",
+          "url": "https://open.spotify.com/artist/73TIPlk476kpOXwbNL08Cr"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267398,
+      "name": "encore",
+      "url": "https://open.spotify.com/track/4BoXY1PkUhvMeXQ862Qtdu"
+    },
+    {
+      "album": {
         "name": "Star Magazine",
         "url": "https://open.spotify.com/album/4WR46VLHEnxNCVdUKyEKQe"
       },
@@ -890,6 +908,24 @@
       "duration_ms": 158000,
       "name": "Fallait pas",
       "url": "https://open.spotify.com/track/6qZSdA8GC5aojquKNFERI5"
+    },
+    {
+      "album": {
+        "name": "Fleur de peau",
+        "url": "https://open.spotify.com/album/2d7yq2lbMNVr1bftb0DvNk"
+      },
+      "artists": [
+        {
+          "name": "Enchant\u00e9e Julia",
+          "url": "https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213525,
+      "name": "Fleur de peau",
+      "url": "https://open.spotify.com/track/613IWnVUD7F3AkcDwhgmVg"
     },
     {
       "album": {
@@ -984,7 +1020,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 162733,
       "name": "Good Or Bad",
       "url": "https://open.spotify.com/track/6f1tGjfNsHofPU7aZQdeXc"
@@ -1064,6 +1100,24 @@
       "duration_ms": 162000,
       "name": "Henny n Shit",
       "url": "https://open.spotify.com/track/4nZeTqowlfbouZYxPvLpDZ"
+    },
+    {
+      "album": {
+        "name": "Pink Magnolia (Deluxe)",
+        "url": "https://open.spotify.com/album/34gCWRw6h4xYIqzKctIx8x"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Histoire Imaginaire",
+      "url": "https://open.spotify.com/track/1aPbVPrl8bGv59FAcv0WtX"
     },
     {
       "album": {
@@ -1364,7 +1418,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 161922,
       "name": "Juste une nuit",
       "url": "https://open.spotify.com/track/1HhJWZFlb9VJi3V5RCu4lM"
@@ -1472,7 +1526,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 184487,
       "name": "La Maison De Lise",
       "url": "https://open.spotify.com/track/2N0yamJDAkgjlzYjCji0Ou"
@@ -1545,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/0JO5P9WMpfsqgdxL1H068R"
+      },
+      "artists": [
+        {
+          "name": "AFFA",
+          "url": "https://open.spotify.com/artist/0owJTnrvYgiIYSXsvnsSQv"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152720,
+      "name": "Le Plan",
+      "url": "https://open.spotify.com/track/6bcLZsRZI3sUz12vr1MqgP"
+    },
+    {
+      "album": {
         "name": "amour b\u00e9ton",
         "url": "https://open.spotify.com/album/0Ciyif3VgyLfXP7biH4Q7C"
       },
@@ -1600,6 +1672,24 @@
       "duration_ms": 176957,
       "name": "Lie (feat. Sonik) - Version acoustique",
       "url": "https://open.spotify.com/track/66wbCeD09YB0yZ4Y4Ozt12"
+    },
+    {
+      "album": {
+        "name": "Loin",
+        "url": "https://open.spotify.com/album/6k4JhPPhFmgUySc00ido4m"
+      },
+      "artists": [
+        {
+          "name": "\u00c4zy",
+          "url": "https://open.spotify.com/artist/0R4YyWteFkDWFybhQyOeXF"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132815,
+      "name": "Loin",
+      "url": "https://open.spotify.com/track/2mrRNCB6Iz8uOeXUdrWcxP"
     },
     {
       "album": {
@@ -1922,7 +2012,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 200307,
       "name": "MUSE",
       "url": "https://open.spotify.com/track/4HiNfdHUfq8PG4v8fgXjvB"
@@ -2901,6 +2991,24 @@
     },
     {
       "album": {
+        "name": "Tapage nocturne",
+        "url": "https://open.spotify.com/album/34zQPFYqL55xpkWxudrAo9"
+      },
+      "artists": [
+        {
+          "name": "IZAYA",
+          "url": "https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166231,
+      "name": "Tapage nocturne",
+      "url": "https://open.spotify.com/track/0BJcAYp5NPWcuf9CsY3cA9"
+    },
+    {
+      "album": {
         "name": "The Love We Had",
         "url": "https://open.spotify.com/album/75rAbP2kp7LpcHbFz3uHBj"
       },
@@ -3024,7 +3132,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 147400,
       "name": "Trop Mimi",
       "url": "https://open.spotify.com/track/4TFzHSY1EQ7pbc1cqFndW0"
@@ -3252,6 +3360,24 @@
       "duration_ms": 166831,
       "name": "Viano",
       "url": "https://open.spotify.com/track/6BYlMc8prfYvFoqTbIuGQf"
+    },
+    {
+      "album": {
+        "name": "Vide",
+        "url": "https://open.spotify.com/album/24IP5rWcn1SY1xhkEHBnOc"
+      },
+      "artists": [
+        {
+          "name": "Tizzy Miller",
+          "url": "https://open.spotify.com/artist/4iTNjeINIl3PGMz8HI6Mdj"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "Vide",
+      "url": "https://open.spotify.com/track/14fGCCjD2CDIcS2DAIyBCj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-358 songs - 18 hr 53 min
+359 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Take Me Back](https://open.spotify.com/track/5sqDNQFaebiDHuh4zHdUXy) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Take Me Back](https://open.spotify.com/album/5yJmraea3sVFgL8Hkv8MOg) | 3:03 | 2023-08-10 |  |
 | [Take You Home](https://open.spotify.com/track/73aaclqbUGL3q6YJqphuMq) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc) | [Take You Home](https://open.spotify.com/album/41uqT8wCaNKApdGZdI0YpF) | 2:46 | 2022-02-03 | 2022-07-12 |
 | [Taking Control](https://open.spotify.com/track/67p3rriE3VbvcsIuQjfVQ1) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Taking Control](https://open.spotify.com/album/7AnUMZAuOTuIIKYnkv5mhH) | 2:55 | 2022-02-03 | 2022-09-15 |
+| [Taking It Slow](https://open.spotify.com/track/2QEcMk01oiYdAd0Lq4MKBL) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Taking It Slow](https://open.spotify.com/album/6ndnVrxgFH5zjvzjhIxA2r) | 2:40 | 2024-06-27 |  |
 | [Talk To Me](https://open.spotify.com/track/6mvMDGZ0Sq1wAnJ3BvRp9P) | [Siberian Express](https://open.spotify.com/artist/45fLfFzIAKudNKuSeD2y2c) | [Talk To Me](https://open.spotify.com/album/1pJcRSWjtIKwiqyz0pDgY2) | 2:55 | 2022-02-03 | 2022-09-15 |
 | [techno on my mind](https://open.spotify.com/track/0LzVIF2KHflGWw0IoICeJI) | [speedboys](https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9) | [techno on my mind](https://open.spotify.com/album/66mlUUwwYRyKmfbq7ib9g0) | 2:57 | 2023-08-10 | 2023-09-22 |
 | [Temptation](https://open.spotify.com/track/0eO2a2BzQujyK9MkLfOJxf) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Temptation](https://open.spotify.com/album/2XVLOitnajQuyW3Zi5SBqE) | 2:39 | 2023-08-18 | 2023-12-09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Murta, ROCKY",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Richie Campbell, Van Zee",
   "name": "Seda",
   "tracks": [
     {
@@ -1500,6 +1500,28 @@
       "duration_ms": 171327,
       "name": "Blunted",
       "url": "https://open.spotify.com/track/5m4lmUepq9q2Yohloi7nqN"
+    },
+    {
+      "album": {
+        "name": "Boca Boca",
+        "url": "https://open.spotify.com/album/4UUcOH3XKTLyGs7BLO24dg"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Edson Mausse",
+          "url": "https://open.spotify.com/artist/6lCJRK5noJGrc4zxaOy0Lw"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196911,
+      "name": "Boca Boca",
+      "url": "https://open.spotify.com/track/4EGL3tAihYP71niPmPzk5g"
     },
     {
       "album": {
@@ -3964,7 +3986,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 165957,
       "name": "Eu Sei #6",
       "url": "https://open.spotify.com/track/14iGjeiHaM9xTqjNYqANNL"
@@ -7144,7 +7166,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 191700,
       "name": "Mundo Novo",
       "url": "https://open.spotify.com/track/3joplLOWFulJAfogMDOlD9"
@@ -10352,6 +10374,28 @@
       "duration_ms": 186000,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/21SPIQSg34YDZTJNIybhBE"
+    },
+    {
+      "album": {
+        "name": "Bully Season Vol.2 : Pretty Girls Love Afrobeats",
+        "url": "https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162872,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643"
     },
     {
       "album": {

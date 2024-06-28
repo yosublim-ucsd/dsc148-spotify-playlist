@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > NEW ALBUM HARDSTONE PSYCHO
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,877 likes - 702 songs - 1 day 15 hr 37 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,875 likes - 702 songs - 1 day 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -417,7 +417,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 | 407 | [Lil Boat \(feat\. Lil Yachty\) \- Remix](https://open.spotify.com/track/0QorFiIXq63UHjwub6K8uF) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lil Boat \(Remix\)](https://open.spotify.com/album/2ZerOK0yBAXPSU4aYKb2Ep) | 4:04 |
 | 408 | [Nonstop](https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:58 |
 | 409 | [all my friends](https://open.spotify.com/track/4paAidoE8VAemwU4jgCc6l) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:31 |
-| 410 | [Shame On a Nigga \(feat\. Raekwon, Ol' Dirty Bastard & Method Man\)](https://open.spotify.com/track/7IwURvEfVcdxUCjLKUu6sv) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 2:57 |
+| 410 | [Shame On a Nigga](https://open.spotify.com/track/7IwURvEfVcdxUCjLKUu6sv) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 2:57 |
 | 411 | [Spot Rusherz](https://open.spotify.com/track/72RfIiWDCJqiZEC6ZNCSdB) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Only Built 4 Cuban Linx...](https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8) | 3:13 |
 | 412 | [Calvin Cambridge](https://open.spotify.com/track/4HK9Ive4wK7426QXxQZS6L) | [SOB X RBE](https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h) | [SOB X RBE](https://open.spotify.com/album/6ztEEOoAi6xyYhiiDn3gxc) | 2:28 |
 | 413 | [same squad](https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:31 |

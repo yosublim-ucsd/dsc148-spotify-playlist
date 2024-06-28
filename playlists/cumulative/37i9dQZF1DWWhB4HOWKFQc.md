@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Salma Salsabil
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Sal Priadi
 
-599 songs - 1 day 12 hr 13 min
+600 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Agak Laen](https://open.spotify.com/track/6hkNy8IivjgLEKe5xL5jWu) | [Agak Laen](https://open.spotify.com/artist/5r3LyqBZijXs4ErVibuAej) | [Agak Laen](https://open.spotify.com/album/3Hh9OtgGRDhkj17Be1G4sN) | 3:20 | 2024-02-20 | 2024-03-15 |
 | [Ai](https://open.spotify.com/track/0rRgmGxfrSJMuSHE4oZLwr) | [Doel Sumbang](https://open.spotify.com/artist/7uK1hDwCzfG6qyOlxxb8AD) | [15 Seleksi Terlaris](https://open.spotify.com/album/6KYRCqMwHMVfosvo0Ctonu) | 3:49 | 2024-03-21 | 2024-03-27 |
 | [Air Mata Surga](https://open.spotify.com/track/1DZ1ixuEt4x4nq6aiTPD5a) | [Dewi Sandra](https://open.spotify.com/artist/4w5DJrPQqcfsEvucQqm1Kj) | [Air Mata Surga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rsdfMQe5CE0HtvlnVKl9v) | 3:54 | 2024-06-18 |  |
-| [Air Mata Surga \- Theme from "Air Mata Surga"](https://open.spotify.com/track/7n9a2yGBX4z3t4CtQgHIKE) | [Dewi Sandra](https://open.spotify.com/artist/4w5DJrPQqcfsEvucQqm1Kj) | [Air Mata Surga \(Theme from "Air Mata Surga"\)](https://open.spotify.com/album/3t7wU9SKt8k8PYXwkaqtIV) | 3:54 | 2024-06-13 |  |
+| [Air Mata Surga \- Theme from "Air Mata Surga"](https://open.spotify.com/track/7n9a2yGBX4z3t4CtQgHIKE) | [Dewi Sandra](https://open.spotify.com/artist/4w5DJrPQqcfsEvucQqm1Kj) | [Air Mata Surga \(Theme from "Air Mata Surga"\)](https://open.spotify.com/album/3t7wU9SKt8k8PYXwkaqtIV) | 3:54 | 2024-06-13 | 2024-06-28 |
 | [Aku Sayang Kamu](https://open.spotify.com/track/1lu1JZPI7s2cWIeIFYgjL3) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Aku Sayang Kamu](https://open.spotify.com/album/0eq61IIDrq945HH7oThPQW) | 4:15 | 2023-10-19 | 2023-12-15 |
 | [Aku Yang Jatuh Cinta](https://open.spotify.com/track/2JqsSFo6HqOxnmxBtHfNY6) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Aku Yang Jatuh Cinta](https://open.spotify.com/album/3JyJQxbVR1nCUdNn1aXYTX) | 3:16 | 2024-05-21 |  |
 | [Alamak Raya Lagi!](https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Alamak Raya Lagi!](https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o) | 2:47 | 2024-04-04 | 2024-05-10 |
@@ -171,7 +171,7 @@
 | [Gampil](https://open.spotify.com/track/6T03CN5UVnCGPz3muqvpOz) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Gampil](https://open.spotify.com/album/0UjiKUCJA3xHzSfhjlqqVk) | 4:51 | 2024-02-19 | 2024-02-23 |
 | [Gather my tears](https://open.spotify.com/track/2KHwO2oP6kWGfir0EWcklE) | [Seo Ji Won](https://open.spotify.com/artist/4TBgwwFdWe205WGBPIuiPZ) | [Tears](https://open.spotify.com/album/1z3z64S2jYWOInW3doGOgb) | 4:00 | 2023-09-15 | 2023-10-06 |
 | [Gemuruh Riuh](https://open.spotify.com/track/1IpJu8YwAlc1ozSxXAyxl8) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Gemuruh Riuh](https://open.spotify.com/album/1kGJDqAiFyNuAMmxtFd0Ao) | 4:41 | 2024-06-06 |  |
-| [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 | 2024-05-27 |  |
+| [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 | 2024-05-27 | 2024-06-28 |
 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 | 2024-06-06 | 2024-06-19 |
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-05-11 | 2023-06-09 |
 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2024-03-26 | 2024-04-19 |
@@ -234,6 +234,7 @@
 | [Jendela Kelas 1](https://open.spotify.com/track/438ilw1OljGU8GNEtuirlJ) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Country](https://open.spotify.com/album/0YgZqV0b2jVagi7qnbzCoX) | 3:35 | 2023-09-01 | 2024-01-23 |
 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 | 2023-06-15 | 2023-12-02 |
 | [Jungkir Balik](https://open.spotify.com/track/7FHZjRzlzK7EYLfWNjVQG4) | [Maisha Kanna](https://open.spotify.com/artist/3iYoSZ1R7GsEvKNzTfr5gw) | [Jungkir Balik](https://open.spotify.com/album/61Iqd46DegZEqa1yFwm3Dp) | 3:50 | 2024-04-22 | 2024-05-28 |
+| [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 | 2024-06-27 |  |
 | [Just Say Hello](https://open.spotify.com/track/1fflhv9kqRw6rm50KaXcYm) | [Melo\-D](https://open.spotify.com/artist/2i1ftWZdQCfRZExJCmumZL) | [Just Say Hello](https://open.spotify.com/album/06k6PpQ15XGk2MVQuKljyH) | 4:48 | 2023-06-30 | 2023-08-19 |
 | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/track/4Ssmc2huU8shKR9aO9PMQH) | [Gadis Kretek \- Cast](https://open.spotify.com/artist/4Vhjay9RCWFn14SVCpXY2a), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt) | 3:21 | 2023-12-01 | 2024-02-02 |
 | [Kalimat Cinta \(From Viu Original "Private Bodyguard"\)](https://open.spotify.com/track/5HjUxcQKhTYpR44Lhv68Gw) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Kalimat Cinta \(From Viu Original "Private Bodyguard"\)](https://open.spotify.com/album/0ckVPtsAvHRAEe03eZU4Ih) | 2:17 | 2024-04-02 | 2024-04-19 |
@@ -531,7 +532,7 @@
 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 | 2023-03-23 | 2023-05-12 |
 | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE) | 3:54 | 2023-11-09 | 2024-03-27 |
 | [Teteh](https://open.spotify.com/track/1inTM4gzLWIxle8iSUq3SZ) | [Doel Sumbang](https://open.spotify.com/artist/7uK1hDwCzfG6qyOlxxb8AD) | [Top Hits Sunda Togel](https://open.spotify.com/album/2XPl4bdQyIYizpcMi4QrOm) | 3:54 | 2024-04-19 | 2024-05-28 |
-| [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 | 2023-05-18 | 2023-07-28 |
+| [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 | 2023-05-18 |  |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-03-26 | 2024-06-01 |
 | [The Cut That Always Bleeds](https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:51 | 2024-01-04 | 2024-04-19 |
 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2024-05-09 | 2024-06-07 |

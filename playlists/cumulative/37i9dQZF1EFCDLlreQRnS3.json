@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Foundations",
+        "url": "https://open.spotify.com/album/7B0pezOTRnXZQyURsjirjc"
+      },
+      "artists": [
+        {
+          "name": "Adam Ulanicki",
+          "url": "https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170600,
+      "name": "Foundations",
+      "url": "https://open.spotify.com/track/7lkwDDJUosg2aejawcon9O"
+    },
+    {
+      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/4MxUVHwpSoWD9npzFHBLra"
       },

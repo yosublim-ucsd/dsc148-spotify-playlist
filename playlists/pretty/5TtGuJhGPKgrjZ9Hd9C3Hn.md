@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 
 > The Finest In Jazz Since 1939
 
-[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 44,286 likes - 122 songs - 13 hr 9 min
+[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 44,287 likes - 122 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 | 13 | [Bluesnote \- Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering](https://open.spotify.com/track/0D0kne59Io4kC0FKPMJtkO) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Rollins](https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO) | 6:56 |
 | 14 | [Violets For Your Furs](https://open.spotify.com/track/6u4eFc9qtTqJ7iArcJOlVz) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:10 |
 | 15 | [Dig Dis \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:09 |
-| 16 | [Joshua Fit De Battle Of Jericho \- 2004 Remaster](https://open.spotify.com/track/451puYkPbLOzFNNET2qBZ8) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Feelin' The Spirit \(Remastered\)](https://open.spotify.com/album/1yejkU8avlKZK3PuH3sjHC) | 8:02 |
+| 16 | [Joshua Fit De Battle Of Jericho \- Remastered 2004](https://open.spotify.com/track/451puYkPbLOzFNNET2qBZ8) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Feelin' The Spirit \(Remastered\)](https://open.spotify.com/album/1yejkU8avlKZK3PuH3sjHC) | 8:02 |
 | 17 | [Soy Califa \- 2005 Digital Remaster](https://open.spotify.com/track/7ueu8ToQEZOzjz0QE3iqhJ) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:27 |
 | 18 | [Peace](https://open.spotify.com/track/5XjjmKaKGBgPuwOgm1Ux1j) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Blowin' The Blues Away](https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc) | 6:02 |
 | 19 | [Up In Cynthia's Room \- Remastered](https://open.spotify.com/track/2687Dgajyh03l62gkUox0l) | [Horace Parlan Quintet](https://open.spotify.com/artist/1rItXCYDwGC1ScW5BVVtBy) | [Speakin' My Piece](https://open.spotify.com/album/5gwzr2XR4G2poz1uNQFlzr) | 6:18 |

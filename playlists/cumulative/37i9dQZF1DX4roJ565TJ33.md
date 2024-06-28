@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-201 songs - 15 hr 50 min
+202 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Sakta vi gå genom stan](https://open.spotify.com/track/6xICxwT5E3BSiCLpbStVeP) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Midsommarklassiker 2021](https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV) | 3:22 | 2022-10-20 | 2022-11-14 |
 | [Sakta vi gå genom stan](https://open.spotify.com/track/7bO6JxlfsO19aFIYxwUnkL) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Very Best Of](https://open.spotify.com/album/7z8DxRPvmqaJzNHlUfcCsh) | 3:22 | 2021-11-08 | 2024-04-26 |
 | [Sandino](https://open.spotify.com/track/4VAHl7q9VbjGEGRCUOi90I) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Jane Austen Texas](https://open.spotify.com/album/16rdQQ6LjYb7s3qkYALEBC) | 5:30 | 2021-11-08 |  |
+| [Secret Love](https://open.spotify.com/track/2cbHRoFOy91DRBa1wD9Wyt) | [Westman Boson Standard Quartet](https://open.spotify.com/artist/0DVPNZhTBoSPdqUgzONV8i), [Simon Westman](https://open.spotify.com/artist/5BfaOl251rYEVEU1RCwzSW), [Anders Boson](https://open.spotify.com/artist/5j6M9pCA0DzhY5wKNj4ro8), [Johan Birgenius](https://open.spotify.com/artist/1JTqSHo47DTHFuly61aGF9), [Arvid Jullander](https://open.spotify.com/artist/1UopYoJ8AuJs0b1MpFQUfs) | [Secret Love](https://open.spotify.com/album/0oDsWs3t7BqEtjws4dWOm0) | 3:56 | 2024-06-27 |  |
 | [Send In the Clowns](https://open.spotify.com/track/1VpoM2gPCbG38xQ4FNsZAt) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Send In the Clowns](https://open.spotify.com/album/28B5lgUsqogZaL4ks1o9R0) | 5:21 | 2021-11-08 |  |
 | [Sense and Sensibility](https://open.spotify.com/track/3fgjg9ouOVvTnwQG7y9JDs) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Sense and Sensibility](https://open.spotify.com/album/0y24BgxYjAJkKAsFnGYMDL) | 6:43 | 2022-10-13 |  |
 | [Singel](https://open.spotify.com/track/0z6ZJJu9yDl0sfPcTUWDvy) | [Niklas Lind](https://open.spotify.com/artist/5QTnzfBSxTHso17Gtfauqt) | [Gammal Kärlek](https://open.spotify.com/album/6X8vM6cdvDAKDyRemTllQW) | 3:27 | 2022-06-22 | 2024-04-19 |
@@ -171,7 +172,7 @@
 | [Stepan](https://open.spotify.com/track/0UfVPxGRDxSJmf3IQ7O3Sp) | [Karl Wallmyr](https://open.spotify.com/artist/08OHaqFpoHPuOWMpn1ubRh) | [Serendippo](https://open.spotify.com/album/5ZCZSAZAMO5SFYBczR0eGF) | 4:39 | 2023-09-29 |  |
 | [Straight No Chaser](https://open.spotify.com/track/2X3YXnpdQmhbglF9TiVh18) | [Milder / Spering / Norén](https://open.spotify.com/artist/54T3sZrj7xq7IfBRxm95NS) | [Associations](https://open.spotify.com/album/3M5Vv6VLLL6whjtvfX9eSb) | 3:31 | 2021-11-08 |  |
 | [Sun Bleached](https://open.spotify.com/track/7u0T1Y4e9u4UsJwD9eimgC) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Ilaria Capalbo](https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT), [Staffan Svensson](https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM) | [Dolores: Two](https://open.spotify.com/album/13L16PToAgJGkypGuFLo9a) | 4:14 | 2021-11-08 |  |
-| [Söndan](https://open.spotify.com/track/3GgKkg7jhloBH5vjT6ABYJ) | [Rymden](https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW) | [Söndan](https://open.spotify.com/album/3vgaaFqozWv78En6jGMY9w) | 4:51 | 2021-11-08 |  |
+| [Söndan](https://open.spotify.com/track/3GgKkg7jhloBH5vjT6ABYJ) | [Rymden](https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW) | [Söndan](https://open.spotify.com/album/3vgaaFqozWv78En6jGMY9w) | 4:51 | 2021-11-08 | 2024-06-28 |
 | [Söndan](https://open.spotify.com/track/3qvrvM6m2pjFX80T0p1ROY) | [Rymden](https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Dan Berglund](https://open.spotify.com/artist/4kgT3nNA0k08zCF5xUCLb4) | [Space Sailors](https://open.spotify.com/album/2ogpiZdnA3GtoBhAq8bYyw) | 4:51 | 2022-06-22 | 2024-04-19 |
 | [Terminal One](https://open.spotify.com/track/0J07hCahSWlZpmp1xbsCMU) | [Rymden](https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Dan Berglund](https://open.spotify.com/artist/4kgT3nNA0k08zCF5xUCLb4) | [Terminal One](https://open.spotify.com/album/46kUwDt3fEjISevrjvEYbx) | 5:13 | 2021-11-08 |  |
 | [The field](https://open.spotify.com/track/1wWe7K7od0Adgz1jqncH3C) | [VidyA](https://open.spotify.com/artist/69cdp9GX801UdUsENZXMEC), [Magnus Bergstrom](https://open.spotify.com/artist/3tkqDqFuU19Lx95wVsstEi), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL) | [The field](https://open.spotify.com/album/4pJvpJRwuKjBClHGaeEJWT) | 6:00 | 2024-04-25 |  |

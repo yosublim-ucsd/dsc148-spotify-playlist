@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Ebow",
-  "num_followers": 34354,
+  "num_followers": 34358,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-06-07 10:21:54",
       "album": {
-        "name": "25/8",
-        "url": "https://open.spotify.com/album/3WDlcgQsuzTCLkBY7WzTLn"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
-        }
-      ],
-      "duration_ms": 119760,
-      "name": "fr\u00fchling",
-      "url": "https://open.spotify.com/track/6ILdiLYlRv09o9ChZB8FT6"
-    },
-    {
-      "added_at": "2024-06-07 10:21:54",
-      "album": {
         "name": "Immer Da",
         "url": "https://open.spotify.com/album/05EoHoMlVjpVQ2YaDU5Nkr"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 154135,
       "name": "Immer Da",
       "url": "https://open.spotify.com/track/4UYaUWDq0JOfej3fZQdN8M"
+    },
+    {
+      "added_at": "2024-06-07 10:21:54",
+      "album": {
+        "name": "25/8",
+        "url": "https://open.spotify.com/album/3WDlcgQsuzTCLkBY7WzTLn"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        }
+      ],
+      "duration_ms": 119760,
+      "name": "fr\u00fchling",
+      "url": "https://open.spotify.com/track/6ILdiLYlRv09o9ChZB8FT6"
     },
     {
       "added_at": "2024-06-07 10:21:54",

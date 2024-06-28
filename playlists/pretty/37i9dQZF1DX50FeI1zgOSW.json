@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Nicky.M x Rajaganapathy",
-  "num_followers": 12042,
+  "num_followers": 12059,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnLUYwAAAAD0GyhWm2KKSsGG0c2NYlSZ",
+  "snapshot_id": "Zn1qVgAAAADmb7r+ODiTFU3RfgkHfYte",
   "tracks": [
     {
       "added_at": "2024-06-14 06:04:33",
@@ -175,6 +175,30 @@
       "duration_ms": 200573,
       "name": "Thoovaanam",
       "url": "https://open.spotify.com/track/5DxcHVcWl6KlPVCxTBDbj3"
+    },
+    {
+      "added_at": "2024-06-27 13:34:14",
+      "album": {
+        "name": "Naadu Vittu (From \"Aalan\")",
+        "url": "https://open.spotify.com/album/4HqiQWXN6etHpQoexXK7jS"
+      },
+      "artists": [
+        {
+          "name": "Manoj Krishna",
+          "url": "https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 278750,
+      "name": "Naadu Vittu (From \"Aalan\")",
+      "url": "https://open.spotify.com/track/3LEq778z6w78Wn7HCqlD8b"
     },
     {
       "added_at": "2024-02-29 19:13:12",

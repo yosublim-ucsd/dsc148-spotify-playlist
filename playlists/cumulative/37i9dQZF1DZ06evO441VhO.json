@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "I Have Mixed Drinks About Feelings",
+        "url": "https://open.spotify.com/album/7EXmRDsRPmFj3D5IanLt59"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176344,
+      "name": "I Have Mixed Drinks About Feelings",
+      "url": "https://open.spotify.com/track/5eA3lmgW05BXjGlNmkjML5"
+    },
+    {
+      "album": {
         "name": "Call Your Friends",
         "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
       },

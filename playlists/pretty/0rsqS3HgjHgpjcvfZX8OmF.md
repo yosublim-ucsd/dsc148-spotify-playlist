@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover: The Tragically Hip
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,939 likes - 80 songs - 4 hr 39 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,935 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

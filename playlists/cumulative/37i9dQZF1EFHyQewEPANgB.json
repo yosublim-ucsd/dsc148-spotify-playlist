@@ -861,6 +861,32 @@
     },
     {
       "album": {
+        "name": "F.U.N.",
+        "url": "https://open.spotify.com/album/1dp5AbK2U94jjLVliJh3BV"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Fat Ray",
+          "url": "https://open.spotify.com/artist/1UZenmN8tsVuqsAnKSlTK6"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168762,
+      "name": "Keep Dreaming",
+      "url": "https://open.spotify.com/track/5ZcFIh49IkdW0gZX0Dr57G"
+    },
+    {
+      "album": {
         "name": "W.H.E.W.",
         "url": "https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE"
       },

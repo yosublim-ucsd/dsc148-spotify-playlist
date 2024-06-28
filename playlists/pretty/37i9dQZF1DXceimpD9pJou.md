@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:6slyJwua5e5GuhuP82sTHR">Alex Campos</a> y <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,270 likes - 131 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,282 likes - 131 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 50 | [Mi Amado](https://open.spotify.com/track/1nfTVyVDsqJwL0WzP0eWix) | [Hakuna Group Music](https://open.spotify.com/artist/7Lemn0MD6Cb2QfmeZJ5BwS) | [Mi Amado](https://open.spotify.com/album/4Kky0sPquYqJVvbYsKYxh5) | 3:46 |
 | 51 | [En Otro Tiempo Más](https://open.spotify.com/track/7svvAxblBNOJrm1QQckry1) | [Cuarteto Vocal Sabbath](https://open.spotify.com/artist/7stUAI6LTmGJWKaea2TOJo) | [En Otro Tiempo Más](https://open.spotify.com/album/33CN9O09BjNP4jBR9rc852) | 5:24 |
 | 52 | [Descansa en Mi](https://open.spotify.com/track/1K5sUF4QUULP9Mmc9Ll6BV) | [Nicole Morales](https://open.spotify.com/artist/0WWmbhISf6kzAjQ51UNGgh) | [Descansa en Mi](https://open.spotify.com/album/3yxA1JApxxBFf89sVxxUJt) | 5:08 |
-| 53 | [El Más Bello](https://open.spotify.com/track/5iJvK0U9CylPA42d5khsxI) | [Isaac Salinas](https://open.spotify.com/artist/7xqZrj9YaPC57GXU4r2JwF), [Benja](https://open.spotify.com/artist/3W7sbeWuuv5xXR2MRMGjTt), [Nadia](https://open.spotify.com/artist/31MAg2xgxCOVFO7mtwSbJF) | [El Más Bello](https://open.spotify.com/album/5dZWeJr55pmjRUhX183Y7S) | 6:04 |
+| 53 | [El Más Bello](https://open.spotify.com/track/5iJvK0U9CylPA42d5khsxI) | [Isaac Salinas](https://open.spotify.com/artist/7xqZrj9YaPC57GXU4r2JwF), [Benja](https://open.spotify.com/artist/146nmvgTVf9RXqmRPKmFuu), [Nadia](https://open.spotify.com/artist/31MAg2xgxCOVFO7mtwSbJF) | [El Más Bello](https://open.spotify.com/album/5dZWeJr55pmjRUhX183Y7S) | 6:04 |
 | 54 | [Transformado \- Acústica](https://open.spotify.com/track/1yf9wU3fifbchl995Tz7rS) | [Luz y Vida Music](https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v) | [Transformado \(Acústica\)](https://open.spotify.com/album/0Te8w52bV25l9FGPajeM2x) | 4:49 |
 | 55 | [Cuando Yo Te Vuelva a Ver](https://open.spotify.com/track/4wqHb58mQ5swI0IYcxq0n5) | [Gabriel Bazan](https://open.spotify.com/artist/3a7bxaS9tJ33mhlBQ3bhuJ) | [Cuando Yo Te Vuelva a Ver](https://open.spotify.com/album/2x8MAYmBxCEqRIjEVJ2atv) | 3:22 |
 | 56 | [Necesito De Ti](https://open.spotify.com/track/0ZHntS0nuBAbKFTDEn4PJf) | [Con Ritmo Music](https://open.spotify.com/artist/4EVLaDN05KZf6TJXhHoWUi) | [Éxitos de Francisco Orantes desde Culiacán Sinaloa](https://open.spotify.com/album/4sABJoDM30azovtFFbReEY) | 4:45 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 130 | [VIVO](https://open.spotify.com/track/3vgezoirjF288HUBBeHVzw) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [VIVO](https://open.spotify.com/album/23jrHPEHLtF4QWR7pVdnVF) | 2:08 |
 | 131 | [Solo Cristo](https://open.spotify.com/track/1FEmQ2YxGsg66ksgIoubVI) | [mission musica](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw) | [Solo Cristo](https://open.spotify.com/album/6OSnVqORLcv0eLMoG4Ye5a) | 6:54 |
 
-Snapshot ID: `ZnT6/AAAAABL7/4VdcHk+nQo0KGDfgqw`
+Snapshot ID: `Zn3WxwAAAADSIy4xp249vqmRVi1+YqDT`

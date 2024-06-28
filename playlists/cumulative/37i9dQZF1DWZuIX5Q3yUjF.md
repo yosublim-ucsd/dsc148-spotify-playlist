@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: TÄRA
+> Il meglio dell'R&B italiano\. Cover: iako
 
-612 songs - 1 day 6 hr 22 min
+614 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [A’primma vot](https://open.spotify.com/track/2aOdlGMfiZQkhjmGrX5OEi) | [Mercurio](https://open.spotify.com/artist/6Q1fNu0tbemB0s4igQa5G9) | [A’primma vot](https://open.spotify.com/album/56zSB7e3rIZrqvfNXy8JEk) | 3:07 | 2024-01-18 | 2024-03-22 |
 | [baci baci](https://open.spotify.com/track/4Dog9VJrenfwhZXvbuhm5s) | [NIMSAY](https://open.spotify.com/artist/5jicTWnmYwpBo4TNpw5yre) | [baci baci](https://open.spotify.com/album/32vXmKVBTSPluwU7nyRMYr) | 2:47 | 2023-09-28 | 2023-12-15 |
 | [BACIAMI X 3](https://open.spotify.com/track/0fKIA8OIw7WiJGqXxtlpM1) | [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU), [AYSA](https://open.spotify.com/artist/1aA0iJGpH2kSV8nqfjbsHC) | [BACIAMI X 3](https://open.spotify.com/album/60N7GPtyTUNfWLLhftvfgo) | 2:18 | 2022-08-05 | 2022-08-26 |
-| [Bacio al veleno](https://open.spotify.com/track/6Ur6o0G5oaZIgYcIsbXOHj) | [JUMA](https://open.spotify.com/artist/2QXBb5JFPLbX73cOcI22Kw) | [Confessioni](https://open.spotify.com/album/4oNOGQIhIt8gpFCi9ELKeP) | 3:35 | 2024-05-16 |  |
+| [Bacio al veleno](https://open.spotify.com/track/6Ur6o0G5oaZIgYcIsbXOHj) | [JUMA](https://open.spotify.com/artist/2QXBb5JFPLbX73cOcI22Kw) | [Confessioni](https://open.spotify.com/album/4oNOGQIhIt8gpFCi9ELKeP) | 3:35 | 2024-05-16 | 2024-06-28 |
 | [Bad Habits](https://open.spotify.com/track/7yrarQCL87CIAmiqm85DG0) | [Bianca Ventura](https://open.spotify.com/artist/5WTGO25DQgKOWnQtSvoNbR) | [Bad Habits](https://open.spotify.com/album/3ZfBvSBao0yS0MDU2vCOyZ) | 3:03 | 2022-05-12 | 2022-09-16 |
 | [Bagaglio](https://open.spotify.com/track/1KWGFSz4Zk2skURQBSrd8P) | [Periodo Blu](https://open.spotify.com/artist/7yuiCazz5pT4tRGX530sMg), [GEA](https://open.spotify.com/artist/0Nnr3IWmNaJwPa0DxTcRg1) | [Bagaglio](https://open.spotify.com/album/42WqQtLUsm5kL3Tj3oRwKG) | 3:10 | 2024-02-22 | 2024-03-29 |
 | [balliamo](https://open.spotify.com/track/2QXUDeLfGYGm13vx6GUpBr) | [claro](https://open.spotify.com/artist/0APvLMkrmJV6BSKJWoy3Jz) | [balliamo](https://open.spotify.com/album/5tHit6JjQnNOctneZJoukH) | 2:49 | 2022-05-05 | 2022-09-09 |
@@ -289,6 +289,7 @@
 | [lady](https://open.spotify.com/track/7dyGck536nTt7BaGcEyOXJ) | [Jess](https://open.spotify.com/artist/2frtodbBy4VwQlIkfZd0kw) | [lady](https://open.spotify.com/album/0W2Hl8EavczdDz8aDRf28d) | 3:13 | 2022-11-24 | 2023-02-03 |
 | [Lama d'argento](https://open.spotify.com/track/0Qy1P9wU4jbahp8v0X0Dmb) | [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Lama d'argento](https://open.spotify.com/album/5L7VlGYr1fxz3BNHvubzl2) | 3:29 | 2022-06-23 | 2023-03-03 |
 | [Las Vegas](https://open.spotify.com/track/0bdxj3vPcLLJogNUw4pDhp) | [Twin Peaks](https://open.spotify.com/artist/755qtOpmF8s0WZSghFjmc6) | [Las Vegas](https://open.spotify.com/album/5ipEJRUyladuVqApGc4ph4) | 3:04 | 2024-06-13 |  |
+| [Le Cose](https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Le Cose](https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ) | 2:36 | 2024-06-27 |  |
 | [le risposte che mi dai](https://open.spotify.com/track/5BBl0bzp73sCTHOEN4yYRl) | [Micol Criss](https://open.spotify.com/artist/0njvhsjBGa2ZnFzE5ydlYB), [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [le risposte che mi dai](https://open.spotify.com/album/6nhRu60ugRbVXffZnCTdzN) | 2:46 | 2024-01-25 | 2024-04-16 |
 | [LEGAMI](https://open.spotify.com/track/6gcyCL36qTfCo3bsqDRtvf) | [COBALTO](https://open.spotify.com/artist/61X1lMtIfYeX91D3s8ouov), [Francesco Kairos](https://open.spotify.com/artist/3QBDBs8DuZaSAt9qj3b53M) | [LEGAMI](https://open.spotify.com/album/0Ezh3mPa9ZzDGpNAM2mdGG) | 2:29 | 2024-04-04 | 2024-04-16 |
 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 | 2022-05-05 | 2024-01-05 |
@@ -401,6 +402,7 @@
 | [Occhi su di me](https://open.spotify.com/track/4oh46p9qC3Z2E3QM2cSr59) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX) | [Occhi su di me](https://open.spotify.com/album/7wfpmJ9NtGrSFlOwfR93PB) | 2:26 | 2022-05-05 | 2023-01-27 |
 | [Odense](https://open.spotify.com/track/2lPOGlxqhVx2MAkbrzMQxO) | [VITTORIA](https://open.spotify.com/artist/2UhLqY4Vmo4gIYGsJ8q3TF) | [Presente Indicativo](https://open.spotify.com/album/2y65ziC6q7ZZSTKtuK2tdF) | 2:53 | 2022-05-19 | 2022-08-26 |
 | [Odissea / Astronave](https://open.spotify.com/track/2kSB0Pf0oNF9HZq1YOYBdY) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Odissea / Astronave](https://open.spotify.com/album/1ADCIxjTiItCD5YkuTUtPe) | 3:32 | 2022-06-16 | 2023-01-20 |
+| [Offline](https://open.spotify.com/track/7yxDBNu6S9WmylPqJ4bmgX) | [Jay Evans](https://open.spotify.com/artist/1FZWQL1YKwcwBvygAA3YOy) | [Offline](https://open.spotify.com/album/6u8waWibngGHilXlYfsQMC) | 2:03 | 2024-06-27 |  |
 | [Oi Nì](https://open.spotify.com/track/4dXuDQTfZqNZFnMQJQT1rq) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX), [Jack Langellotti](https://open.spotify.com/artist/5zwprFEgkf4geLBHbIXQXK) | [Oi Nì](https://open.spotify.com/album/7MJlfrfLxP6UI6q53PUaJv) | 2:36 | 2023-12-14 | 2024-01-19 |
 | [OLTRELUNA](https://open.spotify.com/track/4dPau6Be8rtUrefrl1zxbZ) | [Moyre](https://open.spotify.com/artist/0wVBHCMQ4kVTRrhHF7c8cM), [passatempi](https://open.spotify.com/artist/4TWr8W0D5Sgnu4jqumUuRM) | [OLTRELUNA](https://open.spotify.com/album/7oXIOjnOp0zYlEYHR2gqbf) | 2:59 | 2023-01-12 | 2023-02-03 |
 | [Ora Arriva il Bello](https://open.spotify.com/track/3P1ti0xwUdu174if5uLkwg) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [Limbo](https://open.spotify.com/album/7HNAbzVX5XDnx5LIexXWid) | 2:59 | 2024-04-25 | 2024-05-17 |
@@ -437,7 +439,7 @@
 | [Pugili](https://open.spotify.com/track/2kmvumjb6kvFzcfW48mqRU) | [Mockingjay](https://open.spotify.com/artist/5dl9wMnmcUlbKZBwVjno0r) | [Pugili](https://open.spotify.com/album/5LeKSfh9Nh3V15v3A43SMG) | 3:26 | 2024-04-25 |  |
 | [PUGNI](https://open.spotify.com/track/7zaTBr6rFLeH9aYJx43DFJ) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [GIOVANE CUORE](https://open.spotify.com/album/1lF5COKED067Xj4KghvDtQ) | 2:37 | 2023-06-08 | 2024-02-02 |
 | [Qualcosa di Speciale](https://open.spotify.com/track/4o0fBO8aUszRidx4QAbnsf) | [Subconscio](https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh) | [Qualcosa di speciale](https://open.spotify.com/album/5nLD2f5T4GZ57wUwB9efde) | 2:53 | 2022-07-07 | 2022-11-11 |
-| [Quello che mi resta](https://open.spotify.com/track/6bLYtUqGI4gjSaqgpEqoVl) | [DFWU](https://open.spotify.com/artist/5aRNA4nzvO7aEU1v73iOUV) | [Quello che mi resta](https://open.spotify.com/album/5Blef5UwcYrHpc4rvjEXcV) | 2:46 | 2024-05-09 |  |
+| [Quello che mi resta](https://open.spotify.com/track/6bLYtUqGI4gjSaqgpEqoVl) | [DFWU](https://open.spotify.com/artist/5aRNA4nzvO7aEU1v73iOUV) | [Quello che mi resta](https://open.spotify.com/album/5Blef5UwcYrHpc4rvjEXcV) | 2:46 | 2024-05-09 | 2024-06-28 |
 | [Questi rottami](https://open.spotify.com/track/0Wx6wCWEEfPVS223ej9KWM) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [FUTURO3](https://open.spotify.com/album/2elscUEH1CWrdqLTyZGUxK) | 3:20 | 2022-07-14 | 2023-01-13 |
 | [r!va \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/1WzE7gJwVB4ELFUJes2Gm6) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:50 | 2023-03-23 | 2023-12-08 |
 | [r!va \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/3vCa88ij0fqwttqJ7E7pQL) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:50 | 2022-09-29 | 2023-03-29 |

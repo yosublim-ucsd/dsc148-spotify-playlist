@@ -2,7 +2,7 @@
 
 ### [Yaz Hitleri 2024](https://open.spotify.com/playlist/37i9dQZF1DX1396r8cYxSL)
 
-> 2024 yazına damga vuracak şarkılar\. Kapak: cakal
+> 2024 yazına damga vuracak şarkılar\. Kapak: Simge
 
 82 songs - 3 hr 57 min
 

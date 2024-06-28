@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790 likes - 43 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 790 likes - 42 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 39 | [SALVE](https://open.spotify.com/track/4eFnrRaXfjiPLIIKvlmQE2) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 4:08 |
 | 40 | [Se A Rua Fosse Minha](https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa) | [Florence Lil Flowers](https://open.spotify.com/artist/2ZaGPYpUTu3nF9s4nivmt0), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Fp](https://open.spotify.com/artist/3sKBv3XM7BLvDxKeAstmcC) | [POPART](https://open.spotify.com/album/15vH1kpTorXLqa03fAQPMG) | 3:13 |
 | 41 | [Benedito](https://open.spotify.com/track/0WFNGY9E8j64EPPiZj6F8y) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 2:59 |
-| 42 | [Vibranium](https://open.spotify.com/track/273J7WTpMjavzzDKu8i5Lr) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Eloy Polemico](https://open.spotify.com/artist/4YbBYNU6hsYbEMtApK0WPc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Nabil](https://open.spotify.com/artist/40ZFGpZSOnRBpiAyuzJcR6), [Nego Max](https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8) | [Vibranium](https://open.spotify.com/album/2sPVR5oMt2K57ELzLcvz7w) | 4:34 |
-| 43 | [RUMOS](https://open.spotify.com/track/0Qompyn6uipOjYJNBGnhJm) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 3:03 |
+| 42 | [RUMOS](https://open.spotify.com/track/0Qompyn6uipOjYJNBGnhJm) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 3:03 |
 
-Snapshot ID: `ZnoIgAAAAABVTph0d4iFuyZ4BUrorotZ`
+Snapshot ID: `ZntaAAAAAACfElSEoWbGIDs6elmw5FHj`

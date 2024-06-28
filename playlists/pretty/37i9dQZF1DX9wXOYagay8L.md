@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=RVzVsQpZQKSz6bTQ2Oo5lQ">Sun\-El Musician</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,169 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,215 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
-| 2 | [Ngiyabonga](https://open.spotify.com/track/2fOazsCfbGoDQqwxIJLUzG) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Ngiyabonga](https://open.spotify.com/album/6cSQEZpZosF2eFkZPCYjF8) | 4:01 |
+| 1 | [Ngiyabonga](https://open.spotify.com/track/2fOazsCfbGoDQqwxIJLUzG) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Ngiyabonga](https://open.spotify.com/album/6cSQEZpZosF2eFkZPCYjF8) | 4:01 |
+| 2 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
 | 3 | [Ngimtholile](https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt) | [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o), [Nonny](https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G) | [Ngimtholile](https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP) | 4:04 |
 | 4 | [Inhliziyo](https://open.spotify.com/track/1vZnppRb1HUUjESxUXC3pB) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Inhliziyo](https://open.spotify.com/album/3UGDt50Er7vtz2cBrk92QJ) | 4:28 |
 | 5 | [X2](https://open.spotify.com/track/1XqzyXxiaThMnlzZTC1tSW) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [Chvna](https://open.spotify.com/artist/4qKrkF6Eml8l1DKS0AlBbI) | [X2](https://open.spotify.com/album/0QZYbJ4zAzziQoahlvnXO0) | 4:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 59 | [Yitshoni](https://open.spotify.com/track/7C1c8Epr55mrNcj4y89y8i) | [Zimbini](https://open.spotify.com/artist/3M4itkRJx8TOJCvyw63tiD) | [Ndiyehlela](https://open.spotify.com/album/74auQhsM98zKG619UaEFav) | 1:32 |
 | 60 | [Bathembe Kimi](https://open.spotify.com/track/67YiD0DwpHjWAzqHKWzsAi) | [Philisiwe Ntintili](https://open.spotify.com/artist/1lTnVO0bKFKuWb9ddFmai9), [Luthando Madikizela](https://open.spotify.com/artist/0VwMRuqDcYaYyYcbr2vsN0) | [Bathembe Kimi](https://open.spotify.com/album/3Xuym2ihpPudKp0ieg6sp9) | 3:45 |
 
-Snapshot ID: `ZnS0cAAAAACsMDTznrNUBWVwb1MBhYYK`
+Snapshot ID: `Zn3u8AAAAAAtbSRMC8HFemBJwlrc6Akn`

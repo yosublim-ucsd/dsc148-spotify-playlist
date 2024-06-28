@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Big2, Antoon & Bilal Wahib",
+  "description": "De nieuwste Nederlandse pop! Cover: Miss Montreal",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 169053,
       "name": "Alle sterke mensen",
       "url": "https://open.spotify.com/track/01a4YW6fMlq7oa3Tlx0yVI"
@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Altijd Zo Geweest",
+        "url": "https://open.spotify.com/album/1QmypkSJqw08Y8Mp2loG9d"
+      },
+      "artists": [
+        {
+          "name": "geosy",
+          "url": "https://open.spotify.com/artist/3nS38ibeuCXkxnkUiQ3ne5"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177396,
+      "name": "Altijd Zo Geweest",
+      "url": "https://open.spotify.com/track/4PdGpIDpf6HYwUp0zqG3ij"
+    },
+    {
+      "album": {
         "name": "Amsterdamse Student",
         "url": "https://open.spotify.com/album/38uYDpZWoTs3vigKM0iyuK"
       },
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 190117,
       "name": "Beter Met Z\u2019n Twee\u00ebn",
       "url": "https://open.spotify.com/track/2716GiYd36LugxNYZB047Y"
@@ -3681,6 +3699,24 @@
     },
     {
       "album": {
+        "name": "Geef Me Het Leven",
+        "url": "https://open.spotify.com/album/6hsFidirKZuZtSc4LNjOMk"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195863,
+      "name": "Geef Me Het Leven",
+      "url": "https://open.spotify.com/track/0Q0HDbyXAjuyhkEvVBJ9tx"
+    },
+    {
+      "album": {
         "name": "Geef Me Over",
         "url": "https://open.spotify.com/album/2oYQVqtgq7tP7fjRgiFBNj"
       },
@@ -4592,7 +4628,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 140368,
       "name": "Hoe Zou Het Zijn",
       "url": "https://open.spotify.com/track/1Ozx074E5K8p5QNoIgKnrt"
@@ -6469,6 +6505,24 @@
     },
     {
       "album": {
+        "name": "LUCIFER",
+        "url": "https://open.spotify.com/album/4brJFyNBkgX7Uno5DEyTCB"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166764,
+      "name": "LUCIFER",
+      "url": "https://open.spotify.com/track/302TOCZPIkJpg0qQh5wUrG"
+    },
+    {
+      "album": {
         "name": "Luigi",
         "url": "https://open.spotify.com/album/0pafBW2d51borgq8KW3fZS"
       },
@@ -6938,7 +6992,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 187659,
       "name": "Mijn Maatje",
       "url": "https://open.spotify.com/track/5mEVzlTler1APbE8ZLvoKu"
@@ -7289,6 +7343,24 @@
     },
     {
       "album": {
+        "name": "Nergens Liever",
+        "url": "https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195694,
+      "name": "Nergens Liever",
+      "url": "https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH"
+    },
+    {
+      "album": {
         "name": "Net Zo Gek Als Ik (feat. Diggy Dex)",
         "url": "https://open.spotify.com/album/6lsNobFDteOEr3boHDgJry"
       },
@@ -7424,6 +7496,24 @@
       "duration_ms": 145597,
       "name": "Niet Meer Hopen",
       "url": "https://open.spotify.com/track/0NihKI40IGefpU3gaFMinb"
+    },
+    {
+      "album": {
+        "name": "Niet Meer Terug",
+        "url": "https://open.spotify.com/album/6VyAo456aAje6EdPxI9Qm1"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "Niet Meer Terug",
+      "url": "https://open.spotify.com/track/66N1MWt8bWfw0P5EbIAGtP"
     },
     {
       "album": {
@@ -7742,7 +7832,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 168395,
       "name": "Omdat Je Me Ziet",
       "url": "https://open.spotify.com/track/5FgTrTxLgQcf4N2Nxgarkw"
@@ -8042,7 +8132,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 194520,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/4h272DTgerbGSLboHdYefP"
@@ -8454,7 +8544,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 159946,
       "name": "Rondje Van De Zaak",
       "url": "https://open.spotify.com/track/2PzhvCnYQGu4a70yeDSepT"
@@ -8566,7 +8656,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 156312,
       "name": "Samen",
       "url": "https://open.spotify.com/track/6R8yIWBiagEoxILhcY1Hnw"
@@ -8963,6 +9053,32 @@
     },
     {
       "album": {
+        "name": "SLAY",
+        "url": "https://open.spotify.com/album/484MfnTLowxZKGR2U92obG"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        },
+        {
+          "name": "Maks",
+          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
+        },
+        {
+          "name": "NIEMAND",
+          "url": "https://open.spotify.com/artist/45Wf0l1kVk2wWrHe1z7pEX"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143832,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/0zgDMerTVdChmx0e3REzJu"
+    },
+    {
+      "album": {
         "name": "Sluitingstijd",
         "url": "https://open.spotify.com/album/3BQ2NJ6hQYu6WyT6CUjG2X"
       },
@@ -9162,7 +9278,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 142062,
       "name": "Stick To Your Ways",
       "url": "https://open.spotify.com/track/3YU5kaYun2AdIII0AqFJRN"
@@ -9880,7 +9996,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 172385,
       "name": "Un Chance",
       "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"
@@ -10716,7 +10832,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 145000,
       "name": "Waar ben je?",
       "url": "https://open.spotify.com/track/0wZ25uWXbeZGicz6Wf77Jf"
@@ -11594,6 +11710,24 @@
       "duration_ms": 198861,
       "name": "Zodat Je Straks Weer Naast Me Zit",
       "url": "https://open.spotify.com/track/2aVJjU4heiAYKaPEhIzGt3"
+    },
+    {
+      "album": {
+        "name": "Zogenaamd",
+        "url": "https://open.spotify.com/album/7C13aNbkYqf00RQ7HwuFpy"
+      },
+      "artists": [
+        {
+          "name": "Tomson",
+          "url": "https://open.spotify.com/artist/4OcAOYzLAiGREe0stWTGXp"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155576,
+      "name": "Zogenaamd",
+      "url": "https://open.spotify.com/track/7mOFEGZPvIMqn66W7F9xAC"
     },
     {
       "album": {

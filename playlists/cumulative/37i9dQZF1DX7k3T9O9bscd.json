@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "El Gran Reinicio",
+        "url": "https://open.spotify.com/album/1ZSolBXU2thYm8mL5ZSOFI"
+      },
+      "artists": [
+        {
+          "name": "Supersilverhaze",
+          "url": "https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261400,
+      "name": "Antropoceno",
+      "url": "https://open.spotify.com/track/7GHXUuG2qJQh4kjnq12Lix"
+    },
+    {
+      "album": {
         "name": "Ghost Power",
         "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
       },
@@ -422,6 +440,24 @@
       "duration_ms": 155975,
       "name": "Azure",
       "url": "https://open.spotify.com/track/3vdrGJ80tat9sdn4np0OVV"
+    },
+    {
+      "album": {
+        "name": "A\u015fk\u0131n Sahtesi",
+        "url": "https://open.spotify.com/album/6gQvH7VnLuohXRpwLRfDvZ"
+      },
+      "artists": [
+        {
+          "name": "Miskinler",
+          "url": "https://open.spotify.com/artist/5KNoIhJ8lC7jWp0sFtAzmh"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313205,
+      "name": "A\u015fk\u0131n Sahtesi",
+      "url": "https://open.spotify.com/track/6xTVbmiCkLq7NDoDgiKArK"
     },
     {
       "album": {
@@ -1178,7 +1214,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 300866,
       "name": "Dividual Individual",
       "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
@@ -1738,7 +1774,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 213786,
       "name": "Flying Bird",
       "url": "https://open.spotify.com/track/4byRGdU9MnTu25FBBGiSGX"
@@ -2555,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Keep The Outside Open",
+        "url": "https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj"
+      },
+      "artists": [
+        {
+          "name": "Apifera",
+          "url": "https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290500,
+      "name": "Iris Is Neil",
+      "url": "https://open.spotify.com/track/3VIhqLfKxHqOQmfcm6JQtd"
+    },
+    {
+      "album": {
         "name": "It Might Be Time",
         "url": "https://open.spotify.com/album/0xUNJrjy4ORR3xQKH93n3a"
       },
@@ -2960,6 +3014,24 @@
       "duration_ms": 196054,
       "name": "Level 1",
       "url": "https://open.spotify.com/track/4sIzOxFgdxbYmrjkoBTQdn"
+    },
+    {
+      "album": {
+        "name": "Looking For A Way Out (Of Del Rio)",
+        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187613,
+      "name": "Looking For A Way Out (Of Del Rio)",
+      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
     },
     {
       "album": {
@@ -3894,7 +3966,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 187489,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5TnFIK9vAlwghuzl3A3rKo"
@@ -5694,7 +5766,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 225750,
       "name": "Youth Accomplished",
       "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"

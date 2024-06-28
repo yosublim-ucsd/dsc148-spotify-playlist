@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 45758,
+  "num_followers": 45928,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnoIgAAAAACSPVql7KPkokyQ4h3oGfan",
+  "snapshot_id": "ZntaAAAAAADg0PKs8FfslVy8kDKxmbcm",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dearly Departed (feat. robbietheused)",
-        "url": "https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT"
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS"
       },
       "artists": [
         {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         },
         {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        },
-        {
-          "name": "robbietheused",
-          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
         }
       ],
-      "duration_ms": 196560,
-      "name": "Dearly Departed (feat. robbietheused)",
-      "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
+      "duration_ms": 211733,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"
     },
     {
       "added_at": null,
@@ -311,6 +307,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dearly Departed (feat. robbietheused)",
+        "url": "https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "robbietheused",
+          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Dearly Departed (feat. robbietheused)",
+      "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -343,22 +363,6 @@
       "duration_ms": 191559,
       "name": "toxic energy (with Bert McCracken of The Used)",
       "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuck You",
-        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
     },
     {
       "added_at": null,
@@ -500,9 +504,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 159378,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/6shCADW5gWB7B5qpYGRhHO"
+      "duration_ms": 175272,
+      "name": "Take Yourself Out",
+      "url": "https://open.spotify.com/track/3CFEFbsuorRivnf8G6ioDQ"
     },
     {
       "added_at": null,
@@ -831,22 +835,6 @@
       "duration_ms": 184706,
       "name": "Cathedral Bell",
       "url": "https://open.spotify.com/track/55P8hiMTFfvmTXWlB16seg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vulnerable",
-        "url": "https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "I Come Alive",
-      "url": "https://open.spotify.com/track/006JXPV4FsK49ehd5lrWYG"
     }
   ],
   "unique_name": "This Is The Used",

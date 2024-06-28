@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Ton regard" de Joseph Kamel est le Grand Hit de la semaine.
+> "Le chant des cygnes" d'Indochine est le Grand Hit de la semaine.
 
 154 songs - 8 hr 0 min
 

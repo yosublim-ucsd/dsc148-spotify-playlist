@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "A new wave of rock music. Cover: Hana Lili",
+  "description": "A new wave of rock music. Cover: chokecherry",
   "name": "shockwave",
   "tracks": [
     {
@@ -218,6 +218,24 @@
       "duration_ms": 157766,
       "name": "Adore Adore Adore",
       "url": "https://open.spotify.com/track/7cbHLDW7Iir9IZKWgHJuuI"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
     },
     {
       "album": {
@@ -502,7 +520,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 144259,
       "name": "Be Better",
       "url": "https://open.spotify.com/track/5vSXV3dlts6javSJCZH2iT"
@@ -758,6 +776,24 @@
       "duration_ms": 131374,
       "name": "BLOOD DEBT",
       "url": "https://open.spotify.com/track/6PCpMc9Pz72sbU4VWjGcu0"
+    },
+    {
+      "album": {
+        "name": "Body In Your Basemet",
+        "url": "https://open.spotify.com/album/3L6YPRXTg6KSIBIbKbVcXx"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Farrall",
+          "url": "https://open.spotify.com/artist/6ifpb96yDqUFuSIpM62FTa"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Body In Your Basemet",
+      "url": "https://open.spotify.com/track/54wMMdzLQ9FieLP3zoyKIV"
     },
     {
       "album": {
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 251000,
       "name": "Dancing in the Dust",
       "url": "https://open.spotify.com/track/1VheHd3BepFqVcWG1V3ZxQ"
@@ -2185,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "HUSHMONEY",
+        "url": "https://open.spotify.com/album/2K0FWzherK4Z2fU3imeWub"
+      },
+      "artists": [
+        {
+          "name": "HUSHMONEY",
+          "url": "https://open.spotify.com/artist/3uLtOTzzzSEJpuB2oWKExi"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202229,
+      "name": "Freakout Handshake",
+      "url": "https://open.spotify.com/track/7Iqp6TlGRWErSTngOtKg9y"
+    },
+    {
+      "album": {
         "name": "Freaks Like Us",
         "url": "https://open.spotify.com/album/6aaFOSMUUxYBAJ3fcxZmBo"
       },
@@ -2730,7 +2784,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 171282,
       "name": "Heartbeat Is Missing",
       "url": "https://open.spotify.com/track/7BImddfhS8JJCXYW0MQFlx"
@@ -2928,7 +2982,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 235773,
       "name": "Howl",
       "url": "https://open.spotify.com/track/5iJcNCyVoelzqarfLBqurw"
@@ -3148,6 +3202,24 @@
       "duration_ms": 146440,
       "name": "Iconic",
       "url": "https://open.spotify.com/track/21WBLBnlfaelcFQz0Qvegw"
+    },
+    {
+      "album": {
+        "name": "Idle Idle",
+        "url": "https://open.spotify.com/album/5cX99OGTHS20ql72coOMRP"
+      },
+      "artists": [
+        {
+          "name": "Fold Paper",
+          "url": "https://open.spotify.com/artist/418tC16FB4NdGVApqhpoFo"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267560,
+      "name": "Idle Idle",
+      "url": "https://open.spotify.com/track/5QrM00XhEbT1OYAcmdHPa2"
     },
     {
       "album": {
@@ -3458,6 +3530,24 @@
       "duration_ms": 204480,
       "name": "Kids Wanna Dance",
       "url": "https://open.spotify.com/track/3elBHbeIPKuWTuflsA8tFw"
+    },
+    {
+      "album": {
+        "name": "GOODNIGHT",
+        "url": "https://open.spotify.com/album/5QOGIpTHGhWmyhT1uTonJZ"
+      },
+      "artists": [
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164516,
+      "name": "kill all of u",
+      "url": "https://open.spotify.com/track/3gxdROUxVaDaj9c1MXdOzI"
     },
     {
       "album": {
@@ -3836,6 +3926,24 @@
       "duration_ms": 218499,
       "name": "Loser",
       "url": "https://open.spotify.com/track/0SCX0m4QOZtoBX1kmhrsR0"
+    },
+    {
+      "album": {
+        "name": "Love Me When You\u2019re Angry",
+        "url": "https://open.spotify.com/album/72wwJzOHf2Lu9pq6L3IRRc"
+      },
+      "artists": [
+        {
+          "name": "Kid Bookie",
+          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204843,
+      "name": "Love Me When You're Angry",
+      "url": "https://open.spotify.com/track/7tHxrWEV6Gsq5QtcUhcyxe"
     },
     {
       "album": {
@@ -4307,6 +4415,24 @@
     },
     {
       "album": {
+        "name": "My Drummer's Girlfriend",
+        "url": "https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157029,
+      "name": "My Drummer's Girlfriend",
+      "url": "https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp"
+    },
+    {
+      "album": {
         "name": "My Perfect",
         "url": "https://open.spotify.com/album/1mcKvwXKx1OIUHBOAuyQl7"
       },
@@ -4574,7 +4700,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 253013,
       "name": "Now Here\u2019s The Weather",
       "url": "https://open.spotify.com/track/35xhpjvv0SakWLpe05Jwkq"
@@ -4794,7 +4920,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 189226,
       "name": "Plant Pot Song",
       "url": "https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj"
@@ -5868,7 +5994,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 198640,
       "name": "Strut",
       "url": "https://open.spotify.com/track/3X1pxBnEv3yyD4XfAWYugU"
@@ -5904,7 +6030,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 145732,
       "name": "Sugar Sandwich",
       "url": "https://open.spotify.com/track/0YjWw115kqMWebWvXKC7is"
@@ -6794,6 +6920,24 @@
       "duration_ms": 164918,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/1lhC9yec2WzL63yZyDlAtq"
+    },
+    {
+      "album": {
+        "name": "White Rabbit",
+        "url": "https://open.spotify.com/album/0SbeIjE8AtDndPYtsva24g"
+      },
+      "artists": [
+        {
+          "name": "Indoor Foxes",
+          "url": "https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184066,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/6aFiKAoUBXHmzJrq0CJllK"
     },
     {
       "album": {

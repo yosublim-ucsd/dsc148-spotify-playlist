@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Lee Young Ji\(이영지\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,800 likes - 126 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,795 likes - 126 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

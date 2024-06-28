@@ -2,9 +2,9 @@
 
 ### [Indie GO](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo?si=\_B\_mifL5R3OfpUUPLAePZQ">ARD matthews</a>
+> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH?si=TUL\_CSeuSV\-gDjh5NyCNHQ">Yoav</a>, <a href="https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF?si=eFaDHqLfTKyG8THzyinzdA">Jabulile Majola</a>
 
-744 songs - 1 day 18 hr 18 min
+746 songs - 1 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [F.B.A.](https://open.spotify.com/track/58C5kHS2ylQdtiq5RHffsc) | [Jimmy Nevis](https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3) | [F.B.A.](https://open.spotify.com/album/4MObRnQQsWhHcUTzfqRdIz) | 3:13 | 2023-01-12 | 2023-02-10 |
 | [Face to Face](https://open.spotify.com/track/4j30TGyE29sSpR1KVAqbCt) | [Benjamin Mack](https://open.spotify.com/artist/0ebredVS7C0onAXIECv6MY) | [Face to Face](https://open.spotify.com/album/4ObIsa7jUljBKrKJj4unwQ) | 3:00 | 2023-03-09 | 2023-03-25 |
 | [Falling For You](https://open.spotify.com/track/3QuJghCGUmoDxarw1Wa1lJ) | [Jamie\-Lee Sexton](https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h) | [Falling For You](https://open.spotify.com/album/7IQueyGAvp9urNG0tt0UhR) | 2:55 | 2022-11-10 | 2023-02-03 |
+| [Falling In Love](https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl) | [Craig Lucas](https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ) | [Falling In Love](https://open.spotify.com/album/0r0HDCg2UVAgbs9fg5f2v2) | 2:56 | 2024-06-27 |  |
 | [falling\~](https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [leave me i'm drowning](https://open.spotify.com/album/7vDRqpXgAFCzG1gi4UaWAy) | 3:26 | 2023-05-25 | 2023-07-29 |
 | [Fantasies](https://open.spotify.com/track/7zltIKDQN6TMoERha3MiXo) | [Anke Richards](https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF) | [Fantasies](https://open.spotify.com/album/3ZOixT6OPYmcj1N1SQctmN) | 3:16 | 2023-01-26 | 2023-03-31 |
 | [Far Far Away](https://open.spotify.com/track/667RuRJORsvZLjNCjIJiYH) | [Miss Sxvage](https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo) | [Far Far Away](https://open.spotify.com/album/0zkZsqlINmCBM7iWY54D1G) | 2:33 | 2023-07-28 | 2023-09-08 |
@@ -402,7 +403,7 @@
 | [Milk](https://open.spotify.com/track/3V6tKpXHWxlP9z7ThCcUEA) | [Amy Ayanda](https://open.spotify.com/artist/14Vt5ErffVByZY4up1hBBt) | [Milk](https://open.spotify.com/album/17fH9Ubi1ovMNEOVUAt47o) | 3:51 | 2024-01-26 | 2024-03-09 |
 | [Million Miles](https://open.spotify.com/track/3Afigq8jGjc0lKV8vyWsEO) | [Static Space](https://open.spotify.com/artist/4vpeMLAwnp29ZkfTLKcEaq) | [Million Miles](https://open.spotify.com/album/4gcpeWIcQDeumEz2pskRpA) | 3:51 | 2023-02-23 | 2023-02-27 |
 | [Mind Games](https://open.spotify.com/track/44hgSB3LnMNh81WtOvgBOa) | [Gabriela Diamond](https://open.spotify.com/artist/0L7Ck6i3Zr1UBztHOYQRoo) | [An Inner Monologue](https://open.spotify.com/album/04hEMZWgBEWxf0fzBeugFd) | 3:41 | 2022-08-18 | 2022-11-01 |
-| [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 | 2024-03-22 |  |
+| [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 | 2024-03-22 | 2024-06-28 |
 | [Monster Brain](https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h) | 3:37 | 2023-06-08 | 2023-07-14 |
 | [Mood Mirror](https://open.spotify.com/track/2gra58iF6hlaP738ul6Cr6) | [Royalingo](https://open.spotify.com/artist/1gQ0zDi6JkHvgL4VV4zswk) | [Mood Mirror](https://open.spotify.com/album/5DYB3IdprbVY0dS6trMKe2) | 3:40 | 2023-11-30 | 2024-01-12 |
 | [More Than Friends](https://open.spotify.com/track/7t5Wr5xqdL3fjUGk9Xzn4J) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [More Than Friends](https://open.spotify.com/album/2mdQvXvnFaD4aq7IgQlRbL) | 2:55 | 2024-02-15 | 2024-03-30 |
@@ -684,6 +685,7 @@
 | [Unknown / Nth](https://open.spotify.com/track/1Qd2xhbAtS1MP5UW2BUfqj) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/1VNpBzbjtkEhAwa3vGelHP) | 4:40 | 2023-06-22 | 2023-06-24 |
 | [Until The End](https://open.spotify.com/track/6aHcqLlg0lVXkjjhvr7QfA) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Until The End](https://open.spotify.com/album/6dQ5IYyy57S1tq6G4z0iWU) | 3:36 | 2024-05-23 | 2024-05-26 |
 | [Untitled](https://open.spotify.com/track/3JIyX72qvZaQG6ZUZRYzlA) | [From East](https://open.spotify.com/artist/5WPRnxQehw3OGUBUiSegT0) | [Untitled](https://open.spotify.com/album/67EkGON97rQstf3pGJJdvG) | 6:24 | 2024-02-01 | 2024-03-30 |
+| [Unyazi](https://open.spotify.com/track/3q64y3UA9yT4FvlfEz8bYQ) | [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Unyazi](https://open.spotify.com/album/3M0x7lvNMYGVF23btUcZZx) | 3:48 | 2024-06-27 |  |
 | [Vertical Desire](https://open.spotify.com/track/004EPXxI0M2iIyzYpmOsHd) | [Valeska Muller](https://open.spotify.com/artist/59GvGMxO2jrof8XlegqK7m) | [Vertical Desire](https://open.spotify.com/album/4sI3ArQA04AgCOHi7FFcOq) | 2:54 | 2023-05-25 | 2023-07-07 |
 | [vibe again](https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [vibe again](https://open.spotify.com/album/0UMQ4LF9e8BhSGXqOhSZ5x) | 3:24 | 2023-05-18 | 2023-07-07 |
 | [VIDEO GIRL](https://open.spotify.com/track/0FlEwDwRmWA7naZtqbKhx9) | [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [VIDEO GIRL](https://open.spotify.com/album/5NMFGvtC0Y2z4FRzXWZodS) | 2:44 | 2023-07-13 | 2023-09-08 |
@@ -737,7 +739,7 @@
 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 | 2024-03-15 | 2024-06-01 |
 | [Wyoming](https://open.spotify.com/track/2DpP3gfvXqyOroXWIREwxv) | [NIRESAN](https://open.spotify.com/artist/4icnMO2iFmNmeImB5mDFFI) | [Wyoming](https://open.spotify.com/album/60hOYamHX7vgT2glXYFmbm) | 2:45 | 2023-05-05 | 2023-05-12 |
 | [You Belong To Me](https://open.spotify.com/track/0GwY3N9lLgnkH5C2i3Xi3G) | [True nESS](https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh) | [You Belong To Me](https://open.spotify.com/album/20sqcskAFIfVh30MvH8aG1) | 3:29 | 2022-11-10 | 2022-11-25 |
-| [You Make It Alright](https://open.spotify.com/track/1oOMo7oBoG0lDFKDEjC8ZS) | [ARD matthews](https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo) | [You Make It Alright](https://open.spotify.com/album/0IzSX4HGvkb9uJ5erwToSG) | 3:58 | 2024-06-14 |  |
+| [You Make It Alright](https://open.spotify.com/track/1oOMo7oBoG0lDFKDEjC8ZS) | [ARD matthews](https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo) | [You Make It Alright](https://open.spotify.com/album/0IzSX4HGvkb9uJ5erwToSG) | 3:58 | 2024-06-14 | 2024-06-28 |
 | [You too hot for this shit](https://open.spotify.com/track/03Hczw8b6SVCbKXovqvonC) | [Ghostly Gav](https://open.spotify.com/artist/2Ynv2c4aZWXo9lC6Q8qppv) | [Pretty Dope](https://open.spotify.com/album/4xR8bCYh7r2RUGHAivBA1y) | 2:22 | 2023-08-11 | 2023-09-02 |
 | [You Were My First Everything](https://open.spotify.com/track/5OJ2WzKRqklsfAeiayVbqQ) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn), [Karma](https://open.spotify.com/artist/5rnNxf9vfxKljGcBFycUM6) | [You Were My First Everything](https://open.spotify.com/album/1CiLpifvEAWG0GWUbSvxa4) | 4:29 | 2024-03-29 | 2024-04-20 |
 | [You Wouldn't Understand](https://open.spotify.com/track/1GVI17KHbG7sblOmYuNQI9) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [You Still Don't Know Me](https://open.spotify.com/album/4A7UfGpc5sgcx0ajwjtfLO) | 2:33 | 2021-10-14 | 2022-11-25 |

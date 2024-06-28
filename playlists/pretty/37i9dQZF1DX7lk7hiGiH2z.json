@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Plantschen, Eis & Freibadpommes.",
-  "num_followers": 41279,
+  "num_followers": 41306,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-06-07 08:26:00",
       "album": {
-        "name": "N\u00f6 mit \u00d6",
-        "url": "https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V"
-      },
-      "artists": [
-        {
-          "name": "Giraffenaffen Gang",
-          "url": "https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Dschungelparty",
-      "url": "https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9"
-    },
-    {
-      "added_at": "2024-06-07 08:26:00",
-      "album": {
         "name": "Das Gelbe vom Schwamm",
         "url": "https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT"
       },
@@ -431,8 +415,24 @@
     {
       "added_at": "2024-06-07 08:26:00",
       "album": {
-        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
-        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+        "name": "N\u00f6 mit \u00d6",
+        "url": "https://open.spotify.com/album/7h16Qjv3ho6EOYZccoat1V"
+      },
+      "artists": [
+        {
+          "name": "Giraffenaffen Gang",
+          "url": "https://open.spotify.com/artist/7pba7cHiNogk0HB3Okg8wv"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Dschungelparty",
+      "url": "https://open.spotify.com/track/0BcZQsIMjQHclTz2JKxXv9"
+    },
+    {
+      "added_at": "2024-06-07 08:26:00",
+      "album": {
+        "name": "Die 30 besten Urlaubs- und Sommerlieder",
+        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 88540,
-      "name": "Kleine Meise",
-      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
+      "duration_ms": 186059,
+      "name": "Wenn der Sommer kommt",
+      "url": "https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA"
     },
     {
       "added_at": "2024-06-07 08:26:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-06-07 08:26:00",
       "album": {
-        "name": "Die Biene Maja - Meine Lieder",
-        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Jetzt kommt die Biene Maja",
-      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
-    },
-    {
-      "added_at": "2024-06-07 08:26:00",
-      "album": {
         "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
         "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
       },
@@ -563,8 +547,24 @@
     {
       "added_at": "2024-06-07 08:26:00",
       "album": {
-        "name": "Die 30 besten Urlaubs- und Sommerlieder",
-        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
+        "name": "Die Biene Maja - Meine Lieder",
+        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
+      },
+      "artists": [
+        {
+          "name": "Volker Rosin",
+          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Jetzt kommt die Biene Maja",
+      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
+    },
+    {
+      "added_at": "2024-06-07 08:26:00",
+      "album": {
+        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
+        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 186059,
-      "name": "Wenn der Sommer kommt",
-      "url": "https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA"
+      "duration_ms": 88540,
+      "name": "Kleine Meise",
+      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
     },
     {
       "added_at": "2024-06-07 08:26:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-06-07 08:26:00",
       "album": {
-        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
-        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
+        "name": "Sommerkinder",
+        "url": "https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH"
       },
       "artists": [
         {
-          "name": "KIDDINX Music",
-          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
         }
       ],
-      "duration_ms": 95173,
-      "name": "Bl\u00fcht ein Bl\u00fcmlein",
-      "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
+      "duration_ms": 219760,
+      "name": "Wir wollen Sonne (Verde e amarelo)",
+      "url": "https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu"
     },
     {
       "added_at": "2024-06-07 08:26:00",
@@ -819,38 +819,18 @@
     {
       "added_at": "2024-06-07 08:26:00",
       "album": {
-        "name": "Sommerkinder",
-        "url": "https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH"
+        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
+        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
       },
       "artists": [
         {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+          "name": "KIDDINX Music",
+          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Wir wollen Sonne (Verde e amarelo)",
-      "url": "https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu"
-    },
-    {
-      "added_at": "2024-06-07 08:26:00",
-      "album": {
-        "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
-        "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
-      },
-      "artists": [
-        {
-          "name": "Sonia Liebing",
-          "url": "https://open.spotify.com/artist/3YZCbwdW9Gy1sZXV39uf6B"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 113626,
-      "name": "Ida's Sommerlied",
-      "url": "https://open.spotify.com/track/32rYNfv14cF2dDdAu1WCkL"
+      "duration_ms": 95173,
+      "name": "Bl\u00fcht ein Bl\u00fcmlein",
+      "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
     },
     {
       "added_at": "2024-06-07 08:26:00",
@@ -867,6 +847,26 @@
       "duration_ms": 213413,
       "name": "Urlaub unter Freunden",
       "url": "https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR"
+    },
+    {
+      "added_at": "2024-06-07 08:26:00",
+      "album": {
+        "name": "Sommerzeit",
+        "url": "https://open.spotify.com/album/3hUAQEXxyiYRDFoJ1FhFxs"
+      },
+      "artists": [
+        {
+          "name": "Nilsen",
+          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 134265,
+      "name": "Sommerzeit",
+      "url": "https://open.spotify.com/track/4QBmgphP6uIJq3G2wnG55h"
     }
   ],
   "unique_name": "Familienzeit: Sommer",

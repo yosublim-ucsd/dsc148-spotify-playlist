@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/19JQ640cmG2atUL0ynYIWX?si=LjheMwExSb-c9zzFkAJxvQ\">Shwi Mantombazane</a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: <a href=\"https://open.spotify.com/artist/2pTKezPNKXyQCfkUVIRJ74\">Diary</a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -738,6 +738,32 @@
       "duration_ms": 212500,
       "name": "Emakhaya",
       "url": "https://open.spotify.com/track/3M8QUN5XraDwiIM2YlpqVN"
+    },
+    {
+      "album": {
+        "name": "Emanonini",
+        "url": "https://open.spotify.com/album/6ZG7EuXof1YjMSOZdt427Y"
+      },
+      "artists": [
+        {
+          "name": "Diary",
+          "url": "https://open.spotify.com/artist/2pTKezPNKXyQCfkUVIRJ74"
+        },
+        {
+          "name": "Aubrey Qwana",
+          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
+        },
+        {
+          "name": "Khuthuza",
+          "url": "https://open.spotify.com/artist/0OPeZ6oxm2MldHasnoBTpM"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264366,
+      "name": "Emanonini",
+      "url": "https://open.spotify.com/track/4lwzWQYvRqYFI1lzilvYnt"
     },
     {
       "album": {
@@ -2498,7 +2524,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 269860,
       "name": "Ngomthetho Omdala - Remake",
       "url": "https://open.spotify.com/track/3QHCcH3mQ7kVT7RgFWSIsI"

@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 261617,
       "name": "ADSR",
       "url": "https://open.spotify.com/track/57ZYpG5xaMC5kpimwjztr3"
@@ -1836,6 +1836,24 @@
       "duration_ms": 395624,
       "name": "Centurion",
       "url": "https://open.spotify.com/track/37P1IBUAayVZpbjeHQmyiW"
+    },
+    {
+      "album": {
+        "name": "EB001",
+        "url": "https://open.spotify.com/album/71EmLPhvcQXQCE1UXzt3Tu"
+      },
+      "artists": [
+        {
+          "name": "Estella Boersma",
+          "url": "https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285975,
+      "name": "Cerberus",
+      "url": "https://open.spotify.com/track/5XLl1n4L8DukldEJlw0y3k"
     },
     {
       "album": {
@@ -3872,6 +3890,28 @@
       "duration_ms": 253242,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
+    },
+    {
+      "album": {
+        "name": "Endless Nights",
+        "url": "https://open.spotify.com/album/7zL1rbXjcjS8DRbIlSICTC"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189441,
+      "name": "Endless Nights",
+      "url": "https://open.spotify.com/track/1ZWyPPye3BUmtxwEOxQA9v"
     },
     {
       "album": {
@@ -6839,6 +6879,24 @@
     },
     {
       "album": {
+        "name": "Libertas",
+        "url": "https://open.spotify.com/album/21FfwcpsfChqIhPltOQzHx"
+      },
+      "artists": [
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392898,
+      "name": "Libertas",
+      "url": "https://open.spotify.com/track/1k4eUYA9zV9I8e43NohHWD"
+    },
+    {
+      "album": {
         "name": "Liberty",
         "url": "https://open.spotify.com/album/5X3xCHpz9IYIbvbaFbRYs6"
       },
@@ -8676,6 +8734,24 @@
       "duration_ms": 319141,
       "name": "One Nation - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/6Cj1pP80GBY8UOn8hsCA2D"
+    },
+    {
+      "album": {
+        "name": "Evolving Echoes 02",
+        "url": "https://open.spotify.com/album/4WXnmHcdqHFvwju9fh9QIs"
+      },
+      "artists": [
+        {
+          "name": "Tapefeed",
+          "url": "https://open.spotify.com/artist/42rG6r3cDwQDQSinkP5qv2"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295037,
+      "name": "Opal Blitz",
+      "url": "https://open.spotify.com/track/6WRRbuorBBkk8EdVZE8FNf"
     },
     {
       "album": {
@@ -11225,6 +11301,24 @@
     },
     {
       "album": {
+        "name": "Sunshine & Rainbows",
+        "url": "https://open.spotify.com/album/3GVd9dxZaRdwsmrrCOiNin"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285882,
+      "name": "Sunshine & Rainbows",
+      "url": "https://open.spotify.com/track/4PlTolEwou5RaJb68swuet"
+    },
+    {
+      "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/6oLiZBCsvY809kLiHLjavA"
       },
@@ -12716,6 +12810,24 @@
       "duration_ms": 347294,
       "name": "Triple H",
       "url": "https://open.spotify.com/track/5JyafhDS6oapE6GCQMY0SD"
+    },
+    {
+      "album": {
+        "name": "TRISHA",
+        "url": "https://open.spotify.com/album/62H21Ioh6LEd8jq0ABjLRP"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262734,
+      "name": "TRISHA",
+      "url": "https://open.spotify.com/track/3eKCphLVlWBovVgh7veu2l"
     },
     {
       "album": {

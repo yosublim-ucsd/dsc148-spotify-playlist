@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 
 > The official playlist for After Life, curated by Ricky Gervais\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,700 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,741 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Like a Valley With No Echo](https://open.spotify.com/track/5aBDtRsFWcEsxEawLh8ksM) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Oblivion Hymns \(Deluxe Edition\)](https://open.spotify.com/album/0ApCBV30bmY7lr9nBLPspz) | 8:10 |
 | 2 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
 | 3 | [The Silence](https://open.spotify.com/track/7JA9PvWd4SeWtmY7NIdjEP) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Kenotic](https://open.spotify.com/album/4muC3Gg4Us6ZIJ3wFDSQmS) | 5:20 |
-| 4 | [Hymn for the Greatest Generation](https://open.spotify.com/track/3ofrLJrQjMPuEBQddeAbZn) | [Caspian Wulf](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Hymn for the Greatest Generation](https://open.spotify.com/album/5rA4U2ywbTKECawyF54ZW0) | 7:37 |
+| 4 | [Hymn for the Greatest Generation](https://open.spotify.com/track/3ofrLJrQjMPuEBQddeAbZn) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Hymn for the Greatest Generation](https://open.spotify.com/album/5rA4U2ywbTKECawyF54ZW0) | 7:37 |
 | 5 | [Kids Will Be Skeletons](https://open.spotify.com/track/3xogCrlDsnIZ7nQo8VvRL6) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Happy Songs for Happy People](https://open.spotify.com/album/1k2uLH7mwB72zbepvM8rR4) | 5:27 |
 | 6 | [Satellite of Love](https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:41 |
 | 7 | [In the Middle of This Nowhere](https://open.spotify.com/track/1CZROHuLm6RdvDKonQh1Zx) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Oblivion Hymns](https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn) | 5:33 |

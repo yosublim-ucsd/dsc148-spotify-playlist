@@ -2,7 +2,7 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: berlioz
+> The best from Britain's vibrant scene\. Cover: Nubiyan Twist
 
 596 songs - 1 day 18 hr 16 min
 

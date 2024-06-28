@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: T\u00c4RA",
+  "description": "Il meglio dell'R&B italiano. Cover: iako",
   "name": "anima R&B",
   "tracks": [
     {
@@ -868,7 +868,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 215535,
       "name": "Bacio al veleno",
       "url": "https://open.spotify.com/track/6Ur6o0G5oaZIgYcIsbXOHj"
@@ -5551,6 +5551,24 @@
     },
     {
       "album": {
+        "name": "Le Cose",
+        "url": "https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ"
+      },
+      "artists": [
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156407,
+      "name": "Le Cose",
+      "url": "https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj"
+    },
+    {
+      "album": {
         "name": "le risposte che mi dai",
         "url": "https://open.spotify.com/album/6nhRu60ugRbVXffZnCTdzN"
       },
@@ -7787,6 +7805,24 @@
     },
     {
       "album": {
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/6u8waWibngGHilXlYfsQMC"
+      },
+      "artists": [
+        {
+          "name": "Jay Evans",
+          "url": "https://open.spotify.com/artist/1FZWQL1YKwcwBvygAA3YOy"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123830,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/7yxDBNu6S9WmylPqJ4bmgX"
+    },
+    {
+      "album": {
         "name": "Oi N\u00ec",
         "url": "https://open.spotify.com/album/7MJlfrfLxP6UI6q53PUaJv"
       },
@@ -8522,7 +8558,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 166200,
       "name": "Quello che mi resta",
       "url": "https://open.spotify.com/track/6bLYtUqGI4gjSaqgpEqoVl"

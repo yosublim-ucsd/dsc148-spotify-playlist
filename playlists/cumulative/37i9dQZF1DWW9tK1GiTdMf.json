@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Musica da gridare \ud83d\udda4 Cover: PSICOLOGI",
+  "description": "Musica da gridare \ud83d\udda4 Cover: Sally Cruz",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 134711,
       "name": "ACQUAMARA",
       "url": "https://open.spotify.com/track/2iofxGL2ZLRZ73BvTfNwhe"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 153230,
       "name": "AD UN PARTY",
       "url": "https://open.spotify.com/track/0WLYQAvtIIPqFK8ol61NXz"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 150995,
       "name": "Altrove",
       "url": "https://open.spotify.com/track/71OyGVOTujYt0AI4AiP7lG"
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 136615,
       "name": "BAD MOOD",
       "url": "https://open.spotify.com/track/5ush1W9PbAhCaW9TZIjzun"
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 146722,
       "name": "bambino indaco",
       "url": "https://open.spotify.com/track/2FHOKuLthNXgQTxnGW3irZ"
@@ -3774,6 +3774,24 @@
     {
       "album": {
         "name": "COME MAI",
+        "url": "https://open.spotify.com/album/3BK6QXVnZFzn2jTJyCX4Nz"
+      },
+      "artists": [
+        {
+          "name": "Cali",
+          "url": "https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121949,
+      "name": "COME MAI",
+      "url": "https://open.spotify.com/track/0gd6xXtjEbjaZiGGQ90GcI"
+    },
+    {
+      "album": {
+        "name": "COME MAI",
         "url": "https://open.spotify.com/album/1SR9bPAJdnX1CRRw2WTk3y"
       },
       "artists": [
@@ -5264,7 +5282,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 188480,
       "name": "Diventerai una star",
       "url": "https://open.spotify.com/track/6CCbKMOTlcYvHd9f8Sm3qm"
@@ -6144,7 +6162,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 172533,
       "name": "Eroina",
       "url": "https://open.spotify.com/track/75UfoInoRT7TtIKJ4qOxZG"
@@ -7488,7 +7506,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 175507,
       "name": "Gin Tonic (feat. NASKA)",
       "url": "https://open.spotify.com/track/46REGeMTDwkyjHLm3NKswF"
@@ -7717,6 +7735,24 @@
     },
     {
       "album": {
+        "name": "girovagando",
+        "url": "https://open.spotify.com/album/4o09SBwtCq2GUDmpKh0nE5"
+      },
+      "artists": [
+        {
+          "name": "NXXSE",
+          "url": "https://open.spotify.com/artist/7uO8L2XSELB1DBwiZjdBab"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185913,
+      "name": "girovagando",
+      "url": "https://open.spotify.com/track/51xnhQmZHeJAOrr9kIJA6d"
+    },
+    {
+      "album": {
         "name": "giuda",
         "url": "https://open.spotify.com/album/7eTH5mBZOPHMhMm5X5RDNH"
       },
@@ -7829,6 +7865,28 @@
     },
     {
       "album": {
+        "name": "Gothic Royelle//Qui Da Me",
+        "url": "https://open.spotify.com/album/6dYd6W7g2port6VMhmyj8T"
+      },
+      "artists": [
+        {
+          "name": "16healty",
+          "url": "https://open.spotify.com/artist/2Pu1Z7dXooPujGpfdSbD54"
+        },
+        {
+          "name": "GOTH BOY",
+          "url": "https://open.spotify.com/artist/5qY66yewoZoSpxFxeABuhj"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155336,
+      "name": "Gothic Royelle//Qui Da Me",
+      "url": "https://open.spotify.com/track/5IzQeUGrRCk159gTHtChLd"
+    },
+    {
+      "album": {
         "name": "GOVERNO PUNK",
         "url": "https://open.spotify.com/album/4I20c4niAvrvALPHZ7Nw9p"
       },
@@ -7880,6 +7938,24 @@
       "duration_ms": 163200,
       "name": "grands boulevards",
       "url": "https://open.spotify.com/track/2elWKwO20F4NSi7bWhJy1y"
+    },
+    {
+      "album": {
+        "name": "GROUPIE",
+        "url": "https://open.spotify.com/album/3A8ggAGVOTuKO3ghwARgDu"
+      },
+      "artists": [
+        {
+          "name": "$uicide Gvng",
+          "url": "https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163943,
+      "name": "GROUPIE",
+      "url": "https://open.spotify.com/track/7v57AOeOXuMY26cJMQQxW6"
     },
     {
       "album": {
@@ -10192,7 +10268,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 220926,
       "name": "Limone",
       "url": "https://open.spotify.com/track/2iHashE3Z4XJ9iB7HIKDI5"
@@ -10902,7 +10978,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 152000,
       "name": "MALISSIMO",
       "url": "https://open.spotify.com/track/5ynZC9Df6ThIdxQ3JULcqO"
@@ -11883,6 +11959,24 @@
     },
     {
       "album": {
+        "name": "Niente",
+        "url": "https://open.spotify.com/album/0iBornB76x1EohLe697bvd"
+      },
+      "artists": [
+        {
+          "name": "v!ktoria",
+          "url": "https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142451,
+      "name": "Niente",
+      "url": "https://open.spotify.com/track/51N94z9FlFrjIaVzlRxeo7"
+    },
+    {
+      "album": {
         "name": "Niente da ridere",
         "url": "https://open.spotify.com/album/4ywjEGlvOc5V8ZyauvoNsG"
       },
@@ -12016,7 +12110,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 152045,
       "name": "Non abbasso la cresta",
       "url": "https://open.spotify.com/track/1vn7pikOi7oSZo388XZed2"
@@ -12497,6 +12591,28 @@
     },
     {
       "album": {
+        "name": "Notte insonne",
+        "url": "https://open.spotify.com/album/0QjvtpxOBriamygXAUZwrY"
+      },
+      "artists": [
+        {
+          "name": "Cosk",
+          "url": "https://open.spotify.com/artist/1PZdp6ALiqwyLKcJUl8UPF"
+        },
+        {
+          "name": "Erba",
+          "url": "https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109821,
+      "name": "Notte insonne",
+      "url": "https://open.spotify.com/track/7m7OUyljibyqo31NOhyN08"
+    },
+    {
+      "album": {
         "name": "notte vodka",
         "url": "https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL"
       },
@@ -12734,7 +12850,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 152251,
       "name": "ODIO LA SAD",
       "url": "https://open.spotify.com/track/6jt2r3feKwe8mC5W1u1Ijv"
@@ -13454,7 +13570,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 182241,
       "name": "PERDONACI (feat. Dari)",
       "url": "https://open.spotify.com/track/0IeSw9pH0oLrHjJfyxnwyv"
@@ -14436,7 +14552,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 161294,
       "name": "QUANTO MALE MI FAI",
       "url": "https://open.spotify.com/track/4EG6l1uCWVQQ90lW0lR0Om"
@@ -14674,6 +14790,28 @@
       "duration_ms": 140750,
       "name": "Red flags",
       "url": "https://open.spotify.com/track/3vPcuSuFWebBaqfttYIxe5"
+    },
+    {
+      "album": {
+        "name": "REQUIEM",
+        "url": "https://open.spotify.com/album/2W09xIZ63nBstT9nLW2mAu"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "REQUIEM",
+      "url": "https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z"
     },
     {
       "album": {
@@ -15314,7 +15452,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 180250,
       "name": "Scemi e Contenti (feat. Vipra)",
       "url": "https://open.spotify.com/track/5dcPv75HyHNckrd7FWDNet"
@@ -15974,7 +16112,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 172193,
       "name": "Simpatico",
       "url": "https://open.spotify.com/track/2PmjEdqOMqcHmqHx7pGZbe"
@@ -16036,7 +16174,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 171000,
       "name": "Skifo",
       "url": "https://open.spotify.com/track/7s5HKqVqa2mcYqqtpu9Zvw"
@@ -16448,7 +16586,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 177947,
       "name": "SOUTH MANICOMIO",
       "url": "https://open.spotify.com/track/1hsWanzRenfDfghS93SG2D"
@@ -18246,7 +18384,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 150260,
       "name": "Traffico Moderno",
       "url": "https://open.spotify.com/track/0bMIpF2k9bNPXmGu8sLkd8"
@@ -18275,6 +18413,24 @@
     },
     {
       "album": {
+        "name": "LA PARTE DEL MONDO CHE NON MI PIACE",
+        "url": "https://open.spotify.com/album/0hxDLzDRnjmsD4p7eCO6Uh"
+      },
+      "artists": [
+        {
+          "name": "AYLE",
+          "url": "https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "TRISTE",
+      "url": "https://open.spotify.com/track/4q0R0CF9mMOoeJqSbtXoPP"
+    },
+    {
+      "album": {
         "name": "tt ok",
         "url": "https://open.spotify.com/album/0QKkoDaj88IerPtWlAbsoF"
       },
@@ -18286,7 +18442,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 113142,
       "name": "tt ok",
       "url": "https://open.spotify.com/track/1ntCSSTtth70lJMh37pRw3"
@@ -18616,7 +18772,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 182385,
       "name": "U Love Me",
       "url": "https://open.spotify.com/track/6TLXOgtW0uEmOzRw0A5k97"
@@ -19344,7 +19500,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 140000,
       "name": "Vitamina life",
       "url": "https://open.spotify.com/track/2UFwuTDQMk3virqzYttqV2"
@@ -19420,7 +19576,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 165105,
       "name": "Voragine",
       "url": "https://open.spotify.com/track/77TJsvTfclMUmqZ6b2uNJO"

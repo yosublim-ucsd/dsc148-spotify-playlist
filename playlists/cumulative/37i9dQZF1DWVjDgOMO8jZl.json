@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "STE in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno. ",
+  "description": "okgiorgio in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno. ",
   "name": "RADAR Italia",
   "tracks": [
     {
@@ -1943,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "ok :)",
+        "url": "https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209327,
+      "name": "ok :)",
+      "url": "https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt"
+    },
+    {
+      "album": {
         "name": "ok :/",
         "url": "https://open.spotify.com/album/7JMRoCMELpRyMhzj8XAkmt"
       },
@@ -2378,6 +2396,28 @@
       "duration_ms": 158470,
       "name": "QUELLE PAROLE",
       "url": "https://open.spotify.com/track/44FeZREhPwoT8lYNImkVV6"
+    },
+    {
+      "album": {
+        "name": "REQUIEM",
+        "url": "https://open.spotify.com/album/2W09xIZ63nBstT9nLW2mAu"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "REQUIEM",
+      "url": "https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z"
     },
     {
       "album": {

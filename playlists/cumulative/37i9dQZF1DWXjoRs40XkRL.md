@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-278 songs - 23 hr 45 min
+279 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Ghir Ghir Ke](https://open.spotify.com/track/510UTDROfJ1pQQLrFZgo9Y) | [Bhavya Pandit](https://open.spotify.com/artist/1hYkTNl6h28hwB6IZJ3nfB), [Avijeet Satapathy](https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv) | [Ghir Ghir Ke](https://open.spotify.com/album/2R6i4AcVuKKaFr8iAecT4w) | 4:07 | 2022-07-12 | 2023-03-23 |
 | [Ghule](https://open.spotify.com/track/1SRw6AawwihNR3uQUOTSAi) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Ghule](https://open.spotify.com/album/2Lf8HLjJ8N9OxXiNloWMzA) | 5:36 | 2023-10-06 |  |
 | [Girte Hue Boondon](https://open.spotify.com/track/5Kkd9qTIu2RSY0hNQBjjiw) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw) | [Girte Hue Boondon](https://open.spotify.com/album/2qhgT8MbJkA3mSCHqYUI3o) | 3:53 | 2024-02-14 | 2024-04-19 |
-| [Girte Hue Boondon](https://open.spotify.com/track/7pepsLqAidcUMFfOVuKzvt) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Girte Hue Boondon](https://open.spotify.com/album/6zElVyLeZK14xPIhd67hgw) | 3:53 | 2023-01-10 |  |
+| [Girte Hue Boondon](https://open.spotify.com/track/7pepsLqAidcUMFfOVuKzvt) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Girte Hue Boondon](https://open.spotify.com/album/6zElVyLeZK14xPIhd67hgw) | 3:53 | 2023-01-10 | 2024-06-28 |
 | [Hamsadhwani](https://open.spotify.com/track/2kp7AnVKbDVZyrcRHjWvLB) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 6:16 | 2022-05-17 | 2023-03-23 |
 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 | 2022-05-17 | 2023-03-03 |
 | [Har Ek Baat](https://open.spotify.com/track/00Pub8dRrRGLO6OZHRmY56) | [Pratibha Baghel](https://open.spotify.com/artist/34WY28NColBYovxxFwafVW) | [Sukoon](https://open.spotify.com/album/5EnjKdpZKtAlJWmn3GPIeo) | 4:00 | 2022-12-07 | 2024-04-19 |
@@ -111,6 +111,7 @@
 | [Jiyara](https://open.spotify.com/track/2tCyldMmgrHlhP8IWiSy4h) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Fungeet](https://open.spotify.com/album/2pWlLUrt2y0QppU4OUXFTh) | 2:54 | 2023-04-24 | 2023-08-04 |
 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2022-05-17 | 2023-09-09 |
 | [Jiyara](https://open.spotify.com/track/2HGUQdjPceANaA1w3PQWoC) | [Sourav Dey](https://open.spotify.com/artist/5lH2vFIQx4St00QvSMe0BX), [Satwik Tripathy](https://open.spotify.com/artist/1Gu2zcXYOHgptCoXdVgbJ7) | [Jiyara](https://open.spotify.com/album/7caa0Y23MzMrbkrjCxXVcX) | 5:29 | 2024-02-26 | 2024-05-28 |
+| [Jogii \- From "aura"](https://open.spotify.com/track/18JgzTj6dPk12W1C8TqBcb) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL), [Prithvi Gandharv](https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs) | [Jogii \(From "aura"\)](https://open.spotify.com/album/3VqpeSU2f00baLx5nZMF4c) | 4:32 | 2024-06-27 |  |
 | [Ka Karoon](https://open.spotify.com/track/03J3QJbBmdsjdyfd9g0kYO) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:44 | 2023-08-01 | 2023-09-26 |
 | [Ka Karoon Sajni](https://open.spotify.com/track/48OqiXra8GzWWSOYWmBLai) | [Suchismita Das](https://open.spotify.com/artist/1wNhICMwgSPAKq7CaaKOih) | [Ka Karoon Sajni](https://open.spotify.com/album/1BkwmDvQQJhdWyTU9V3v39) | 3:42 | 2024-04-24 |  |
 | [Ka Karoon Sajni \- The Unwind Mix](https://open.spotify.com/track/5oVHgBoF0B29CXW1L4aeU7) | [Prajakta Shukre](https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB) | [Ka Karoon Sajni \- Single](https://open.spotify.com/album/5Ao1TWZgINPwvOy96c2dbV) | 4:29 | 2022-05-17 | 2023-09-29 |

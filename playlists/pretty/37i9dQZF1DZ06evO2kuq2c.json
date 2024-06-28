@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 70907,
+  "num_followers": 70923,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnoIgAAAAADh8JlemlKWsuVaGFAQyfpy",
+  "snapshot_id": "ZntaAAAAAACPFlSmExetAhzp5tmibaeU",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 171162,
-      "name": "Nihilist",
-      "url": "https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo"
+      "duration_ms": 225800,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/6w9PFIfsLZvzo09nfmqjxQ"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 225800,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/6w9PFIfsLZvzo09nfmqjxQ"
+      "duration_ms": 171162,
+      "name": "Nihilist",
+      "url": "https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 89446,
+  "num_followers": 89529,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-06-21 15:31:01",
       "album": {
+        "name": "madem",
+        "url": "https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU"
+      },
+      "artists": [
+        {
+          "name": "Revart",
+          "url": "https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9"
+        }
+      ],
+      "duration_ms": 142373,
+      "name": "madem",
+      "url": "https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU"
+    },
+    {
+      "added_at": "2024-06-21 15:31:01",
+      "album": {
         "name": "F\u0130LM \u015eER\u0130D\u0130",
         "url": "https://open.spotify.com/album/2VPfh6D7kpnM3KsHYt0Ej8"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 136800,
       "name": "F\u0130LM \u015eER\u0130D\u0130",
       "url": "https://open.spotify.com/track/3OYDt4fhreJ5JITOciY4Ch"
-    },
-    {
-      "added_at": "2024-06-21 15:31:01",
-      "album": {
-        "name": "madem",
-        "url": "https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU"
-      },
-      "artists": [
-        {
-          "name": "Revart",
-          "url": "https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9"
-        }
-      ],
-      "duration_ms": 142373,
-      "name": "madem",
-      "url": "https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU"
     },
     {
       "added_at": "2024-06-21 15:31:01",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-06-21 15:31:01",
       "album": {
+        "name": "neydi derdin",
+        "url": "https://open.spotify.com/album/1XK7zWCTSPJqFXGDMIPTCL"
+      },
+      "artists": [
+        {
+          "name": "Revart",
+          "url": "https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "neydi derdin",
+      "url": "https://open.spotify.com/track/0RoAuPEONZLR6QK4GGJiEr"
+    },
+    {
+      "added_at": "2024-06-21 15:31:01",
+      "album": {
         "name": "bu bi' itiraf",
         "url": "https://open.spotify.com/album/4KAABV3CDGqkalDJQznmzv"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 131368,
       "name": "bu bi' itiraf",
       "url": "https://open.spotify.com/track/6s0WUuPlnK8JTcBEhLw6pp"
-    },
-    {
-      "added_at": "2024-06-21 15:31:01",
-      "album": {
-        "name": "neydi derdin",
-        "url": "https://open.spotify.com/album/1XK7zWCTSPJqFXGDMIPTCL"
-      },
-      "artists": [
-        {
-          "name": "Revart",
-          "url": "https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9"
-        }
-      ],
-      "duration_ms": 155333,
-      "name": "neydi derdin",
-      "url": "https://open.spotify.com/track/0RoAuPEONZLR6QK4GGJiEr"
     }
   ],
   "unique_name": "Yaz Ritmi",

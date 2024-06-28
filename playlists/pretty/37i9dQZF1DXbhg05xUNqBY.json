@@ -1,6 +1,6 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 350197,
+  "num_followers": 350203,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,18 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Songs from Home",
-        "url": "https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
       },
       "artists": [
         {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        },
-        {
-          "name": "Kindred Worship",
-          "url": "https://open.spotify.com/artist/1oOjYMuuEgcp5h2bawP47T"
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
         }
       ],
-      "duration_ms": 307062,
-      "name": "Jesus My Beloved",
-      "url": "https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3"
+      "duration_ms": 307292,
+      "name": "Peace - Acoustic",
+      "url": "https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -303,18 +299,22 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
+        "name": "Songs from Home",
+        "url": "https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP"
       },
       "artists": [
         {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        },
+        {
+          "name": "Kindred Worship",
+          "url": "https://open.spotify.com/artist/1oOjYMuuEgcp5h2bawP47T"
         }
       ],
-      "duration_ms": 307292,
-      "name": "Peace - Acoustic",
-      "url": "https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses"
+      "duration_ms": 307062,
+      "name": "Jesus My Beloved",
+      "url": "https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Need",
-        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 202661,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
         "name": "Shalom",
         "url": "https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 239500,
       "name": "Shalom",
       "url": "https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "Need",
+        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 202661,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "I Will Sing",
-        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        }
-      ],
-      "duration_ms": 254488,
-      "name": "I Will Sing",
-      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
         "name": "Help Is on the Way",
         "url": "https://open.spotify.com/album/7dAapYfDJBwmlF7ZWsLTXV"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 220454,
       "name": "Help Is on the Way",
       "url": "https://open.spotify.com/track/6XKKR2EK2L6MV6zRQQuVxe"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "I Will Sing",
+        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 254488,
+      "name": "I Will Sing",
+      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 378379,
+      "name": "Providence",
+      "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
         "name": "At the Table",
         "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 378379,
-      "name": "Providence",
-      "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
-      },
-      "artists": [
-        {
-          "name": "Angelique Marketon",
-          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
-        }
-      ],
-      "duration_ms": 312789,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
         "name": "Lightning",
         "url": "https://open.spotify.com/album/0egIrc1XFeHAYIMbhIVjcN"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 214554,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/0CZd9O1bThdWCQxNSHwjf7"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
+      },
+      "artists": [
+        {
+          "name": "Angelique Marketon",
+          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
+        }
+      ],
+      "duration_ms": 312789,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
     },
     {
       "added_at": "2024-06-23 02:52:54",

@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2020-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 251520,
       "name": "Poney",
       "url": "https://open.spotify.com/track/1IMSDNhQ6zhSWgx63PauPr"
@@ -1241,24 +1241,6 @@
     },
     {
       "album": {
-        "name": "L'oeil du zig",
-        "url": "https://open.spotify.com/album/1l1mu5K6NTehC49RGSr6UO"
-      },
-      "artists": [
-        {
-          "name": "Zebulon",
-          "url": "https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ"
-        }
-      ],
-      "date_added": "2020-06-23",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 207653,
-      "name": "R'viens pas trop tard",
-      "url": "https://open.spotify.com/track/1ioXx9ydGHta9gGBpBk0Pe"
-    },
-    {
-      "album": {
         "name": "L'oeil Du Zig",
         "url": "https://open.spotify.com/album/6scH7horuxSKf8d0cu7WJe"
       },
@@ -1274,6 +1256,24 @@
       "duration_ms": 207653,
       "name": "R'viens Pas Trop Tard",
       "url": "https://open.spotify.com/track/03JOOBLgi1qBNy2rt5wjGS"
+    },
+    {
+      "album": {
+        "name": "L'oeil du zig",
+        "url": "https://open.spotify.com/album/1l1mu5K6NTehC49RGSr6UO"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9bulon",
+          "url": "https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ"
+        }
+      ],
+      "date_added": "2020-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207653,
+      "name": "R'viens pas trop tard",
+      "url": "https://open.spotify.com/track/1ioXx9ydGHta9gGBpBk0Pe"
     },
     {
       "album": {

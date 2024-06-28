@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. nusar3000",
+  "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Espineli, LVL1",
   "name": "helium",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 113142,
       "name": "#HottestSwag",
       "url": "https://open.spotify.com/track/6jBlw9i5RKiNuH7UeUiIbn"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 192000,
       "name": "A100",
       "url": "https://open.spotify.com/track/0uY9M6IrxTPuklcP9PizxX"
@@ -368,7 +368,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 138352,
       "name": "alamierda.mp3",
       "url": "https://open.spotify.com/track/2W77PbH0LHMy0O7s5meYVQ"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 99775,
       "name": "csgo",
       "url": "https://open.spotify.com/track/5QNWMsROSD7NWMnDkA8WlY"
@@ -1328,6 +1328,28 @@
       "duration_ms": 150857,
       "name": "Cuervo",
       "url": "https://open.spotify.com/track/6WMkvjCMSdAGT0IDotkiTm"
+    },
+    {
+      "album": {
+        "name": "CURVAS2",
+        "url": "https://open.spotify.com/album/2KWIaj77yokdkbCFNONvgR"
+      },
+      "artists": [
+        {
+          "name": "Pink Kardashian",
+          "url": "https://open.spotify.com/artist/4RM70jhflK0FJ0ARkSjnqp"
+        },
+        {
+          "name": "Druwu",
+          "url": "https://open.spotify.com/artist/6ShvjNNRRfnkQEOhUJdFb5"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164687,
+      "name": "CURVAS2",
+      "url": "https://open.spotify.com/track/1u5Buel3iDl4gOj2w9oILT"
     },
     {
       "album": {
@@ -1616,6 +1638,28 @@
       "duration_ms": 114869,
       "name": "Desde la Luna",
       "url": "https://open.spotify.com/track/3YUn5SXAbsxkxUWbn9vc2k"
+    },
+    {
+      "album": {
+        "name": "Diavlo",
+        "url": "https://open.spotify.com/album/0nMcBrHpOatpLxHX37jxXM"
+      },
+      "artists": [
+        {
+          "name": "Pau By Chance",
+          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
+        },
+        {
+          "name": "Octopvs To The Party",
+          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Diavlo",
+      "url": "https://open.spotify.com/track/7F0p1D0tQMBTRmquBbDuDs"
     },
     {
       "album": {
@@ -2008,7 +2052,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 134999,
       "name": "FACE",
       "url": "https://open.spotify.com/track/5yuiHw6vEmFxm2gslUuAbe"
@@ -2767,6 +2811,24 @@
     },
     {
       "album": {
+        "name": "Indescriptible",
+        "url": "https://open.spotify.com/album/5cEN9QdPI2LiGv1xYccG1v"
+      },
+      "artists": [
+        {
+          "name": "Marcos Naide",
+          "url": "https://open.spotify.com/artist/0w2oYmjQYOPqe74dZ5LuwF"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Indescriptible",
+      "url": "https://open.spotify.com/track/3YWFKAWYcVr1vlKdlkUMGw"
+    },
+    {
+      "album": {
         "name": "INOCENTE",
         "url": "https://open.spotify.com/album/4hVOaFq3mlzVybDaMMTxNG"
       },
@@ -2966,6 +3028,36 @@
       "duration_ms": 145371,
       "name": "La \u00faltima vez",
       "url": "https://open.spotify.com/track/15BrZd5LE3KZcBFl57n6Ri"
+    },
+    {
+      "album": {
+        "name": "URIEL",
+        "url": "https://open.spotify.com/album/0MEVtWeCQWHcSzuolP4EOy"
+      },
+      "artists": [
+        {
+          "name": "Tekilas",
+          "url": "https://open.spotify.com/artist/6asFFldfwacpWS6tsmPODw"
+        },
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "Salty3r",
+          "url": "https://open.spotify.com/artist/2xMf3T0fvZXJ6EGZimtWdv"
+        },
+        {
+          "name": "xkhavii",
+          "url": "https://open.spotify.com/artist/08qTPONjOqJunNwViG63DU"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190277,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/2ShIQZQ4vGT7HRq1oR2JtV"
     },
     {
       "album": {
@@ -4401,6 +4493,24 @@
     },
     {
       "album": {
+        "name": "NUESTRA CASA",
+        "url": "https://open.spotify.com/album/36wRfL8nsgyVqvlntNAtCb"
+      },
+      "artists": [
+        {
+          "name": "COR",
+          "url": "https://open.spotify.com/artist/4Dk1QpIraAhVR4fUl3xqFR"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204774,
+      "name": "NUESTRA CASA",
+      "url": "https://open.spotify.com/track/67jRVCpm1X9zRp5nM7RByR"
+    },
+    {
+      "album": {
         "name": "NUNCA M\u00c1S",
         "url": "https://open.spotify.com/album/6vbKZZgNdTkbhTIEc5hJuX"
       },
@@ -4961,6 +5071,28 @@
     },
     {
       "album": {
+        "name": "POOR BOII",
+        "url": "https://open.spotify.com/album/7c32FN0kfhdFAfozHS1H7T"
+      },
+      "artists": [
+        {
+          "name": "Richard Sie",
+          "url": "https://open.spotify.com/artist/5PTfRln4bU7YX7htXdZRrB"
+        },
+        {
+          "name": "Liz Forte",
+          "url": "https://open.spotify.com/artist/7GArathIWiQj50qNsBBLN1"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172698,
+      "name": "POOR BOII",
+      "url": "https://open.spotify.com/track/5nEEWtuOCwq0ziJGih5hSb"
+    },
+    {
+      "album": {
         "name": "Pray for Poshlaya Molly",
         "url": "https://open.spotify.com/album/28qFsc75c91092ew2udx8I"
       },
@@ -4990,7 +5122,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 162419,
       "name": "Pretty girl swag",
       "url": "https://open.spotify.com/track/4r7sb62uw7njf1L0lLnaq7"
@@ -5008,7 +5140,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 116742,
       "name": "PRST1",
       "url": "https://open.spotify.com/track/3I3535V3GtAK1XQ5VQOUR8"
@@ -5932,7 +6064,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 118648,
       "name": "Todo pa' mi",
       "url": "https://open.spotify.com/track/002XcM3EPYSwPHndmkW6Og"
@@ -6457,6 +6589,28 @@
     },
     {
       "album": {
+        "name": "Ying Yang",
+        "url": "https://open.spotify.com/album/2OpQgfCYSUYtcG61uZZQxs"
+      },
+      "artists": [
+        {
+          "name": "grauu",
+          "url": "https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH"
+        },
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Ying Yang",
+      "url": "https://open.spotify.com/track/23o9L9sJybYutV5O8TQKLL"
+    },
+    {
+      "album": {
         "name": "#Killaocore 2",
         "url": "https://open.spotify.com/album/4CtwI2YxtVF5Lb318YpdND"
       },
@@ -6480,6 +6634,32 @@
       "duration_ms": 144000,
       "name": "YNKHM (feat. Martin Ma\u00f1as & lichi)",
       "url": "https://open.spotify.com/track/5x3Dw81qHc2qADmwkrbWPc"
+    },
+    {
+      "album": {
+        "name": "SANGRANDO ROSA",
+        "url": "https://open.spotify.com/album/0TizfMc2yg4Pd9YqOk7iQh"
+      },
+      "artists": [
+        {
+          "name": "albwhisp",
+          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
+        },
+        {
+          "name": "whitelxck",
+          "url": "https://open.spotify.com/artist/1dLGd3gjAIcrI4Qhd7YGBf"
+        },
+        {
+          "name": "Collision.Is.Imminent",
+          "url": "https://open.spotify.com/artist/04vav5UwauNxotY32xFmq8"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "zoo de kristal",
+      "url": "https://open.spotify.com/track/7eHCPMFBHvkPtaJ56d33bC"
     },
     {
       "album": {

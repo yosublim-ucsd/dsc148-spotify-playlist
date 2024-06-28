@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121719,
+  "num_followers": 121712,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Travellers",
-        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
-      },
-      "artists": [
-        {
-          "name": "Ran the Man",
-          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
-        }
-      ],
-      "duration_ms": 215743,
-      "name": "Suburban Sunrise",
-      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Loud Enough (Didier Armeni Remix)",
         "url": "https://open.spotify.com/album/4Fh2mDMVslKby7dt0oO0sd"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 173937,
       "name": "Loud Enough - Didier Armeni Remix",
       "url": "https://open.spotify.com/track/77PlfRB6KA0WAcBBt6IU9N"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Travellers",
+        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
+      },
+      "artists": [
+        {
+          "name": "Ran the Man",
+          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
+        }
+      ],
+      "duration_ms": 215743,
+      "name": "Suburban Sunrise",
+      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Reconnect",
-        "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 252234,
-      "name": "Reconnect",
-      "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "RDV",
         "url": "https://open.spotify.com/album/2WjEkuvVo6z3puQTGET9H7"
       },
@@ -1015,26 +999,6 @@
       "duration_ms": 159705,
       "name": "RDV",
       "url": "https://open.spotify.com/track/3oIy7vraINdyE19cGdi1xX"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Falling Upwards",
-        "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
-      },
-      "artists": [
-        {
-          "name": "Koelle",
-          "url": "https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a"
-        },
-        {
-          "name": "Margret",
-          "url": "https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l"
-        }
-      ],
-      "duration_ms": 343384,
-      "name": "Falling Upwards",
-      "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1059,6 +1023,42 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Falling Upwards",
+        "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
+      },
+      "artists": [
+        {
+          "name": "Koelle",
+          "url": "https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a"
+        },
+        {
+          "name": "Margret",
+          "url": "https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l"
+        }
+      ],
+      "duration_ms": 343384,
+      "name": "Falling Upwards",
+      "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 252234,
+      "name": "Reconnect",
+      "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
       },
@@ -1071,6 +1071,22 @@
       "duration_ms": 207500,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Love All",
+        "url": "https://open.spotify.com/album/2bB5YYEjB0oifCLVfw9m4U"
+      },
+      "artists": [
+        {
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/52HDbHT6Lg8gHBR2V8Ed2t"
+        }
+      ],
+      "duration_ms": 474166,
+      "name": "The Forgiven",
+      "url": "https://open.spotify.com/track/78fOcEcQQLJ5n8par9KDkt"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1091,22 +1107,6 @@
       "duration_ms": 280888,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7gTNtKHUoCCkb5kygNE1vn"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Love All",
-        "url": "https://open.spotify.com/album/2bB5YYEjB0oifCLVfw9m4U"
-      },
-      "artists": [
-        {
-          "name": "Hanna",
-          "url": "https://open.spotify.com/artist/52HDbHT6Lg8gHBR2V8Ed2t"
-        }
-      ],
-      "duration_ms": 474166,
-      "name": "The Forgiven",
-      "url": "https://open.spotify.com/track/78fOcEcQQLJ5n8par9KDkt"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Late Night Obsession",
-        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 166798,
-      "name": "Slow Goods",
-      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Blue Ridge",
         "url": "https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 199346,
       "name": "Nothing Happened",
       "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Late Night Obsession",
+        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 166798,
+      "name": "Slow Goods",
+      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Moraine",
-        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 237947,
-      "name": "Moraine",
-      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Coffee (Edit)",
         "url": "https://open.spotify.com/album/4pNeMokkPtuc5PMsr5oPzB"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 235039,
       "name": "Coffee - Edit",
       "url": "https://open.spotify.com/track/2LPeOMRJpuKLOLlUcHBDzB"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Moraine",
+        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 237947,
+      "name": "Moraine",
+      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Strings Attached EP",
+        "url": "https://open.spotify.com/album/3yTQZYvjA5F0ZuW1HSisAf"
+      },
+      "artists": [
+        {
+          "name": "Junktion",
+          "url": "https://open.spotify.com/artist/0NzYo2g86D4MRi45U9zeli"
+        }
+      ],
+      "duration_ms": 318532,
+      "name": "Breakfast at Midnight - Original Mix",
+      "url": "https://open.spotify.com/track/5Bfl6ATr4BPmssOcRiIUCw"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "The Universe Is Magic",
         "url": "https://open.spotify.com/album/4wP6VlBoVqWkb6ZIM5Xv6K"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 330379,
       "name": "Love Is The Key",
       "url": "https://open.spotify.com/track/0I5PC3HmM8CP0LmnPyF94B"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Strings Attached EP",
-        "url": "https://open.spotify.com/album/3yTQZYvjA5F0ZuW1HSisAf"
-      },
-      "artists": [
-        {
-          "name": "Junktion",
-          "url": "https://open.spotify.com/artist/0NzYo2g86D4MRi45U9zeli"
-        }
-      ],
-      "duration_ms": 318532,
-      "name": "Breakfast at Midnight - Original Mix",
-      "url": "https://open.spotify.com/track/5Bfl6ATr4BPmssOcRiIUCw"
     },
     {
       "added_at": "2024-06-03 13:14:44",

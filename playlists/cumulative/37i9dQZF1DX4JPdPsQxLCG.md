@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-446 songs - 1 day 4 hr 38 min
+447 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 | 2022-09-10 | 2024-04-19 |
 | [California Dreamin'](https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes And Ears](https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB) | 2:37 | 2022-09-10 | 2022-09-15 |
 | [California Stars](https://open.spotify.com/track/38paDDziQ57k1f4VfKTeGk) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue](https://open.spotify.com/album/0yTmT1i6yHb5EVyJOmIwGw) | 4:58 | 2022-09-10 | 2022-09-15 |
+| [CALL ME BACK !](https://open.spotify.com/track/09qHcxlOC3GxBagxwUuP2P) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [CALL ME BACK !](https://open.spotify.com/album/43c0QKjFYlOebt7850XJKt) | 2:38 | 2024-06-21 |  |
 | [Canadian Summer](https://open.spotify.com/track/5pwu3nQkMm0Ne4CpxBgHFp) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Canadian Summer](https://open.spotify.com/album/6b6xjfc3o91BfZaylRA9dS) | 3:24 | 2022-09-10 | 2022-09-15 |
 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 | 2024-04-19 |  |
 | [Carefree Highway](https://open.spotify.com/track/59EupkPF0AA5nu0qDo5FlK) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:42 | 2023-10-06 | 2023-10-14 |
@@ -347,7 +348,7 @@
 | [St\. Peter's Bay](https://open.spotify.com/track/5MmYz0XcLmhTkjSVJriSlZ) | [Sarah Harmer](https://open.spotify.com/artist/0RyvcOVrlV86NmFz0MrG9e) | [Are You Gone](https://open.spotify.com/album/7q7IxhClT1SXLfb9NkM2mv) | 3:14 | 2022-09-10 | 2022-09-15 |
 | [Starseed](https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Naveed](https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS) | 4:04 | 2022-05-02 | 2024-04-19 |
 | [Start Tellin' The Truth](https://open.spotify.com/track/7eXb3bcyoJMui0WLqjbrTN) | [Toronto](https://open.spotify.com/artist/2HGQd1vKFmNzTZ8CZ8tU83) | [Get It On Credit](https://open.spotify.com/album/0rXrFjK0Hun1cd8DTyJ5vl) | 4:26 | 2022-05-02 | 2022-07-19 |
-| [Stay Wild](https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Stay Wild](https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF) | 4:45 | 2024-04-19 |  |
+| [Stay Wild](https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Stay Wild](https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF) | 4:45 | 2024-04-19 | 2024-06-28 |
 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 | 2022-05-02 | 2024-04-19 |
 | [Stevie Nicks](https://open.spotify.com/track/15oZEfoDRFS7AzO2aeRpHk) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Stevie Nicks](https://open.spotify.com/album/6oVEbvZItYDzzlXN8cUDcp) | 2:47 | 2024-06-21 |  |
 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 | 2024-05-24 |  |

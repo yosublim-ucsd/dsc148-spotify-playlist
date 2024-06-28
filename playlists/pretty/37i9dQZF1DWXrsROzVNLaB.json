@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-03-20 11:31:22",
       "album": {
+        "name": "The Writer's Collection",
+        "url": "https://open.spotify.com/album/1ztavDrZMEGJubkYFKcmZv"
+      },
+      "artists": [
+        {
+          "name": "Paul Baloche",
+          "url": "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
+        }
+      ],
+      "duration_ms": 323266,
+      "name": "Above All",
+      "url": "https://open.spotify.com/track/4UKkXhpY3knx2S4KDrsRSP"
+    },
+    {
+      "added_at": "2024-03-20 11:31:22",
+      "album": {
         "name": "Long Live The King (Live At The Grove)",
         "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 421616,
       "name": "Long Live The King - Live At The Grove",
       "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
-    },
-    {
-      "added_at": "2024-03-20 11:31:22",
-      "album": {
-        "name": "The Writer's Collection",
-        "url": "https://open.spotify.com/album/1ztavDrZMEGJubkYFKcmZv"
-      },
-      "artists": [
-        {
-          "name": "Paul Baloche",
-          "url": "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
-        }
-      ],
-      "duration_ms": 323266,
-      "name": "Above All",
-      "url": "https://open.spotify.com/track/4UKkXhpY3knx2S4KDrsRSP"
     },
     {
       "added_at": "2024-03-20 11:31:22",

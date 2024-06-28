@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 769223,
+  "num_followers": 769368,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Can\u00e7\u00f5es para o Inverno Passar Depressa",
-        "url": "https://open.spotify.com/album/3MJF9CFMiDxHFx28ZYBIA6"
-      },
-      "artists": [
-        {
-          "name": "Leo Fressato",
-          "url": "https://open.spotify.com/artist/0CnYTlcwb3tBVt7S9F4xg8"
-        }
-      ],
-      "duration_ms": 117602,
-      "name": "Na\u0303o Ha\u0301 Nada Mais Lindo",
-      "url": "https://open.spotify.com/track/3Hj5L7A5u78lBfc2Twvx3v"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 186000,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Can\u00e7\u00f5es para o Inverno Passar Depressa",
+        "url": "https://open.spotify.com/album/3MJF9CFMiDxHFx28ZYBIA6"
+      },
+      "artists": [
+        {
+          "name": "Leo Fressato",
+          "url": "https://open.spotify.com/artist/0CnYTlcwb3tBVt7S9F4xg8"
+        }
+      ],
+      "duration_ms": 117602,
+      "name": "Na\u0303o Ha\u0301 Nada Mais Lindo",
+      "url": "https://open.spotify.com/track/3Hj5L7A5u78lBfc2Twvx3v"
     },
     {
       "added_at": "2024-06-14 03:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-06-14 03:00:00",
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 182111,
-      "name": "Chico",
-      "url": "https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO"
-    },
-    {
-      "added_at": "2024-06-14 03:00:00",
-      "album": {
         "name": "Tribalistas",
         "url": "https://open.spotify.com/album/7tkP1p2yTttMg2SY45nB5Y"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 250453,
       "name": "Velha Infancia - 2004 Digital Remaster;",
       "url": "https://open.spotify.com/track/3KYlOzxN5xO7eEauO1VF06"
+    },
+    {
+      "added_at": "2024-06-14 03:00:00",
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 182111,
+      "name": "Chico",
+      "url": "https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO"
     },
     {
       "added_at": "2024-06-14 03:00:00",

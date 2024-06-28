@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAGLRsBnytcQ4jd583o18gSUFqtKeGM",
+  "snapshot_id": "AAAGMZMJKAszFko0bUhifmSEmMVh4dt2",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -1919,22 +1919,6 @@
       "duration_ms": 172093,
       "name": "Mellon Collie And The Infinite Sadness",
       "url": "https://open.spotify.com/track/3WfcSkODi8NAvzE9CySdDp"
-    },
-    {
-      "added_at": "2023-02-07 00:31:05",
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 230624,
-      "name": "It's Okay To Cry",
-      "url": "https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO"
     },
     {
       "added_at": "2023-02-11 21:19:45",
@@ -8461,22 +8445,6 @@
       "url": "https://open.spotify.com/track/7qbLE7ssJcnWD6EO7My847"
     },
     {
-      "added_at": "2024-06-17 02:34:51",
-      "album": {
-        "name": "The Fat of the Land",
-        "url": "https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 343386,
-      "name": "Smack My Bitch Up",
-      "url": "https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R"
-    },
-    {
       "added_at": "2024-06-17 02:47:39",
       "album": {
         "name": "WELCOME PLASTICS",
@@ -8555,6 +8523,42 @@
       "duration_ms": 186810,
       "name": "001",
       "url": "https://open.spotify.com/track/5IsDutGiVEOzHXSqB3ZcXv"
+    },
+    {
+      "added_at": "2024-06-28 01:32:33",
+      "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        }
+      ],
+      "duration_ms": 137567,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/58o9R5b5BKmVzyJWpVDB37"
+    },
+    {
+      "added_at": "2024-06-28 02:55:01",
+      "album": {
+        "name": "Fine Art",
+        "url": "https://open.spotify.com/album/6Wt3uI8G0yhXSvC0jAl9Cg"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Radie Peat",
+          "url": "https://open.spotify.com/artist/2HzXwEzn6g3waLTIufC1Ji"
+        }
+      ],
+      "duration_ms": 188541,
+      "name": "3CAG",
+      "url": "https://open.spotify.com/track/4XrpaCHWJUeOmhX9TjWyEq"
     }
   ],
   "unique_name": "Zacklog",

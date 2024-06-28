@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Joker",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Heja x No.1 x Eypio",
   "name": "NKVT",
   "tracks": [
     {
@@ -1940,6 +1940,28 @@
       "duration_ms": 181176,
       "name": "D\u00fc\u015f\u00fcyorum Tekrar",
       "url": "https://open.spotify.com/track/4BK8g9i76nSG0RPe8d2XwR"
+    },
+    {
+      "album": {
+        "name": "Esmeri Sevdim Sar\u0131\u015f\u0131nlara Kand\u0131m",
+        "url": "https://open.spotify.com/album/3b2i1X8ufSYWea9POTCMdA"
+      },
+      "artists": [
+        {
+          "name": "Ahiyan",
+          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
+        },
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165671,
+      "name": "Esmeri Sevdim Sar\u0131\u015f\u0131nlara Kand\u0131m",
+      "url": "https://open.spotify.com/track/6YcX9y3PuQ6s8WKRfkMYhb"
     },
     {
       "album": {
@@ -4259,6 +4281,28 @@
     },
     {
       "album": {
+        "name": "LIMIT YOK (feat. Geolier)",
+        "url": "https://open.spotify.com/album/57vfwkFxrb6FP4XWwKcINC"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154760,
+      "name": "LIMIT YOK (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0oeklrrzFKY6GUay5zkpm7"
+    },
+    {
+      "album": {
         "name": "'RECKOL'",
         "url": "https://open.spotify.com/album/2irQP4nheSLswCjYyZTUVW"
       },
@@ -5828,7 +5872,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 109134,
       "name": "RONDO",
       "url": "https://open.spotify.com/track/4ArmVkPk43NTW5jjRlb5aL"

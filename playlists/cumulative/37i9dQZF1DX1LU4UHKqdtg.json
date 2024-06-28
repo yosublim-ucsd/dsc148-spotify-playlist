@@ -2831,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "BURN IT",
+        "url": "https://open.spotify.com/album/7tf5wvRToW2nWeaEMyG5rZ"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "BURN IT",
+      "url": "https://open.spotify.com/track/6z1vmJyL1OSFkuU4nIFV9l"
+    },
+    {
+      "album": {
         "name": "RATA-TAT-TAT",
         "url": "https://open.spotify.com/album/42JGkJ9gzzbbe2pxe9TOPQ"
       },
@@ -4028,6 +4046,24 @@
       "duration_ms": 195020,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/0SxQz5uPZ5cAGWzj6MvzrX"
+    },
+    {
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/179ZSrlXhGB0skW5Ygyeb9"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263133,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/786NGh40psKOdopTcri1Wj"
     },
     {
       "album": {
@@ -13657,6 +13693,24 @@
     },
     {
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "album": {
         "name": "ROCKY (Boxers Ver.)",
         "url": "https://open.spotify.com/album/0wJ3JKlcgsAXfzIBkJoYsN"
       },
@@ -16098,6 +16152,36 @@
       "duration_ms": 268853,
       "name": "Summer Night",
       "url": "https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI"
+    },
+    {
+      "album": {
+        "name": "Summer Potion (Summer Breeze Mix)",
+        "url": "https://open.spotify.com/album/3H8ZyVdvwzZCaRMvShxQpf"
+      },
+      "artists": [
+        {
+          "name": "ZOEE",
+          "url": "https://open.spotify.com/artist/4cinrPXFGev2LBp4pZNZPI"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        },
+        {
+          "name": "Showyou",
+          "url": "https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO"
+        },
+        {
+          "name": "Cuja",
+          "url": "https://open.spotify.com/artist/5ssPxv6xtCK3ouwNBNLEMy"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Summer Potion - Summer Breeze Mix",
+      "url": "https://open.spotify.com/track/4z3uEfiE0CvSr2SQhcm6Ho"
     },
     {
       "album": {
@@ -19448,6 +19532,24 @@
       "duration_ms": 199209,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH"
+    },
+    {
+      "album": {
+        "name": "TWS 2nd Mini Album 'SUMMER BEAT!'",
+        "url": "https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142946,
+      "name": "YOU+ME=7942",
+      "url": "https://open.spotify.com/track/5E2aYgi77oSMJ5dGzAbLpc"
     },
     {
       "album": {

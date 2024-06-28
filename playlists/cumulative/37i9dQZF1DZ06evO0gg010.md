@@ -2,7 +2,7 @@
 
 ### [This Is Fuerza Regida](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gg010)
 
-> This is Fuerza Regida\. The essential tracks, all in one playlist.
+> This Is Fuerza Regida\. Sus mejores éxitos, todos en una playlist.
 
 80 songs - 3 hr 56 min
 

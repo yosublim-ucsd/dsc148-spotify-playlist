@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Nicky.M x Rajaganapathy
 
-304 songs - 17 hr 27 min
+305 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Mudhal Parvai](https://open.spotify.com/track/7M2wK4BB2Uhc74QWEV3Jjc) | [Alvin Bruno](https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC), [The Papori Harsh Project](https://open.spotify.com/artist/7GO5R5zKT9i36NqNMIQzVJ) | [Mudhal Parvai](https://open.spotify.com/album/6BQ74G8Q7f4fJFj2PPWEwd) | 3:27 | 2023-03-21 | 2023-07-25 |
 | [Mudhal Vari](https://open.spotify.com/track/4KYqh9Y7x2uyfWIISz6MH9) | [MWS](https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Mudhal Vari](https://open.spotify.com/album/33WGz7RCIIyqK6hpZsJhFi) | 1:58 | 2024-05-07 |  |
 | [My Dear Maname](https://open.spotify.com/track/48qw6aOZx9tOQbVjlyOqLo) | [Shahithya](https://open.spotify.com/artist/1duE9FA46dM4h1PflZbyYf) | [My Dear Maname](https://open.spotify.com/album/1CRFQ9is8dZEsyRW5yF5M1) | 2:44 | 2024-04-01 |  |
+| [Naadu Vittu \(From "Aalan"\)](https://open.spotify.com/track/3LEq778z6w78Wn7HCqlD8b) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Naadu Vittu \(From "Aalan"\)](https://open.spotify.com/album/4HqiQWXN6etHpQoexXK7jS) | 4:38 | 2024-06-27 |  |
 | [Naangam Kadal Noaku Saalai](https://open.spotify.com/track/2fzax8wSUQhVn9ZkuaaN1x) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Naangam Kadal Noaku Saalai](https://open.spotify.com/album/6NhgnDvN4rPZ0vgc2BCy5j) | 4:11 | 2023-04-14 | 2023-10-04 |
 | [Nam Ooru Pen](https://open.spotify.com/track/0axJpGlVC5vxfsr0keVzym) | [Ashwin Vinayagamoorthy](https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6) | [Nam Ooru Pen](https://open.spotify.com/album/0OIi1efxXmZKW7BTUJFPmU) | 3:37 | 2023-05-19 | 2023-06-24 |
 | [Nanu](https://open.spotify.com/track/5dlLD5HYnlm2z4aSu5CrKg) | [Mena Melath](https://open.spotify.com/artist/1M9wL2S5buZRWM82VDrD8B) | [Nanu](https://open.spotify.com/album/2QTj3mNVW7Ffr53FQl8k6A) | 3:23 | 2023-05-15 | 2023-08-03 |

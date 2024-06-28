@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: Paramore
 
-362 songs - 23 hr 23 min
+363 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Heathens / Jumpsuit \- Cover](https://open.spotify.com/track/0zdSIybpeOhaZMqTGmjbkF) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Heathens / Jumpsuit \(Cover\)](https://open.spotify.com/album/7nwWHa5kaT5etQ0NexBq4K) | 3:39 | 2020-12-16 | 2022-07-21 |
 | [Hello](https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj), [Wow That's What I Call Metalcore](https://open.spotify.com/artist/012VlifWzoPnN7UpJlDVfh) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu) | 4:53 | 2022-03-25 |  |
 | [Hemorrhage](https://open.spotify.com/track/56u2Yu2UYKR89oTHOmV24o) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Hemorrhage](https://open.spotify.com/album/6BtA6047bgkAUPYSa3OODx) | 3:06 | 2020-12-16 |  |
-| [Heroes](https://open.spotify.com/track/3lmOamtAvijhSI7BbJz83C) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Kingdom \(Deluxe\)](https://open.spotify.com/album/2GQc28K68aHREbSgRPo7uo) | 4:08 | 2020-12-16 |  |
+| [Heroes](https://open.spotify.com/track/3lmOamtAvijhSI7BbJz83C) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Kingdom \(Deluxe\)](https://open.spotify.com/album/2GQc28K68aHREbSgRPo7uo) | 4:08 | 2020-12-16 | 2024-06-28 |
 | [Heroes](https://open.spotify.com/track/3QQ8x0gMiRvRpcnE2auLoO) | [Hollywood Vampires](https://open.spotify.com/artist/3k4YA0uPsWc2PuOQlJNpdH) | [Heroes](https://open.spotify.com/album/1f3mUJxwqJB6QRgx2E7ZvP) | 4:08 | 2020-12-16 | 2022-07-29 |
 | [Heroes](https://open.spotify.com/track/5hdQmkxuRkkMfmT15cuISA) | [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N), [The Circle](https://open.spotify.com/artist/3AltEY6Hu4mXfegvDuDtqI) | [Heroes](https://open.spotify.com/album/3SoKTpu4wPnMItqjA8Ff6p) | 3:07 | 2020-12-16 | 2024-06-15 |
 | [Hey Ya! \- Live Session from Spotify Studios NYC](https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Spotify Singles](https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh) | 3:04 | 2022-03-25 |  |
@@ -273,6 +273,7 @@
 | [Running Up That Hill](https://open.spotify.com/track/0uYVJ8z5kgMayMNPJA6Cz9) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/7kTsa1wUFrahJJf1cJEOpZ) | 4:57 | 2022-08-19 | 2024-04-19 |
 | [Running Up That Hill](https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Covers](https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw) | 4:57 | 2022-06-10 |  |
 | [Sad But True](https://open.spotify.com/track/6xE9pDzPTndxeoTxvln96w) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Sad But True](https://open.spotify.com/album/5CpVJiYhDUavJqv044xQLZ) | 5:28 | 2021-09-17 | 2024-05-18 |
+| [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 | 2024-06-27 |  |
 | [Separate Ways](https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow EP](https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv) | 5:00 | 2022-04-15 | 2024-02-03 |
 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/7goFhrbCC2m2HI3EbBYgU4) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/album/4hYWzikXRPg5I80ZqLPGAC) | 5:16 | 2023-01-13 | 2024-04-19 |
 | [Separate Ways \(Worlds Apart\) \[feat\. Lzzy Hale\]](https://open.spotify.com/track/1H0HP2mqLRJtgfYisSEDWo) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Separate Ways \(Worlds Apart\) \[feat\. Lzzy Hale\]](https://open.spotify.com/album/6q3H4YDdXRgKmXeNEdECrQ) | 5:16 | 2023-01-10 | 2023-01-21 |

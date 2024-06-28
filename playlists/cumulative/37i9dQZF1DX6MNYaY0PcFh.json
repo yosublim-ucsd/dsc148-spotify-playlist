@@ -368,7 +368,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 175238,
       "name": "Big & Bad Riddim",
       "url": "https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 191842,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1SZU8VVD6rpnvbcVZBDPJb"
@@ -1124,10 +1124,50 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 192000,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M"
+    },
+    {
+      "album": {
+        "name": "Figured U Out",
+        "url": "https://open.spotify.com/album/43xw66nPTLgz8Nq3colz6A"
+      },
+      "artists": [
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138846,
+      "name": "Figured U Out",
+      "url": "https://open.spotify.com/track/3pGW7CYHTKKFnra9dWnyHw"
+    },
+    {
+      "album": {
+        "name": "Flavours",
+        "url": "https://open.spotify.com/album/54p36vpGUNGGzrTW4ts3bg"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216884,
+      "name": "Flavours",
+      "url": "https://open.spotify.com/track/27MYwjVjpnxVxxXf1yCNSK"
     },
     {
       "album": {
@@ -1619,6 +1659,28 @@
     },
     {
       "album": {
+        "name": "KEEP IT ROLLING",
+        "url": "https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH"
+      },
+      "artists": [
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        },
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "KEEP IT ROLLING",
+      "url": "https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF"
+    },
+    {
+      "album": {
         "name": "Keep Thinking",
         "url": "https://open.spotify.com/album/0unRC2h4aqp7BC5KJzOuSX"
       },
@@ -1634,6 +1696,24 @@
       "duration_ms": 410222,
       "name": "Keep Thinking",
       "url": "https://open.spotify.com/track/1SGdclEPwF1EL2SFrmX5px"
+    },
+    {
+      "album": {
+        "name": "Lay It On The Line",
+        "url": "https://open.spotify.com/album/4rmqHr3NzJTf5krmooYend"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278905,
+      "name": "Lay It On The Line",
+      "url": "https://open.spotify.com/track/6Vaj44ivQoT7np1gHCFik0"
     },
     {
       "album": {
@@ -1849,6 +1929,28 @@
     },
     {
       "album": {
+        "name": "luv stuck",
+        "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "luv stuck",
+      "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
+    },
+    {
+      "album": {
         "name": "Microdosing (Conducta Remix)",
         "url": "https://open.spotify.com/album/52r0BbElKJLiF59usacC0A"
       },
@@ -1893,6 +1995,32 @@
     },
     {
       "album": {
+        "name": "Mind Still (feat. blythe) [Oppidan Remix]",
+        "url": "https://open.spotify.com/album/5Tn24LjHlcy9WpZ1PrlxRO"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
+        },
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Mind Still (feat. blythe) - Oppidan Remix",
+      "url": "https://open.spotify.com/track/1w6YgFMLmba0xOMlFlqw7L"
+    },
+    {
+      "album": {
         "name": "Miss Dopamine",
         "url": "https://open.spotify.com/album/7dfCoyCzRpLmVwjRtMUqR6"
       },
@@ -1908,7 +2036,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 226809,
       "name": "Miss Dopamine",
       "url": "https://open.spotify.com/track/7tE9nUB6eBL0GPMfeZTqsh"
@@ -2064,7 +2192,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 225699,
       "name": "Never Gonna Be",
       "url": "https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p"
@@ -2224,7 +2352,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 176000,
       "name": "Poolside (feat. Katy Alex)",
       "url": "https://open.spotify.com/track/2xoeyiHgdFQtALq4bjwscy"
@@ -2366,7 +2494,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 256000,
       "name": "Rain",
       "url": "https://open.spotify.com/track/6JZj90z1LqUkSyhdT6PEKm"
@@ -2556,7 +2684,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 171227,
       "name": "Senses",
       "url": "https://open.spotify.com/track/3ll3R3NIJAIgrxRhyUPbBq"
@@ -2821,6 +2949,28 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168369,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh"
+    },
+    {
+      "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ"
       },
@@ -2962,7 +3112,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 265454,
       "name": "The Streets",
       "url": "https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn"
@@ -3083,6 +3233,28 @@
     },
     {
       "album": {
+        "name": "Top Bins",
+        "url": "https://open.spotify.com/album/3KB35teeyZFnY8sEFUlwY5"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119545,
+      "name": "Top Bins",
+      "url": "https://open.spotify.com/track/0VWVhmYPwdFRce984U8VVv"
+    },
+    {
+      "album": {
         "name": "When I Dream",
         "url": "https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt"
       },
@@ -3120,6 +3292,24 @@
       "duration_ms": 193432,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/74Cy4UMTn0Yeu0kSMwARt8"
+    },
+    {
+      "album": {
+        "name": "Untitled Emo Organ Banger",
+        "url": "https://open.spotify.com/album/3fr2vfeXuaLMTMQUhkh3yT"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266086,
+      "name": "Untitled Emo Organ Banger",
+      "url": "https://open.spotify.com/track/0gEqDMxmQ3eeBiQud6DJFB"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "This Is $uicideboy$. Los temas esenciales, todos en una lista.",
+  "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
   "name": "This Is $uicideboy$",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 143346,
       "name": "$uicideboy$ Were Better In 2015",
       "url": "https://open.spotify.com/track/6LoaYlv0bC1TyctuADqNFh"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 185725,
       "name": "Sarcophagus II",
       "url": "https://open.spotify.com/track/44x52QgzCxa1VdrLLNZMaw"

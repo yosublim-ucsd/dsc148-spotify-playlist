@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-958 songs - 2 day 20 hr 46 min
+960 songs - 2 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,7 +432,7 @@
 | [Isolate](https://open.spotify.com/track/7duCz5DC1bQyaViBGZcDjs) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Waves & Whirlwinds](https://open.spotify.com/album/0InAq8EFs2jvhFfEX0dPih) | 3:26 | 2019-06-19\* | 2022-04-21 |
 | [Isopolis](https://open.spotify.com/track/6J9gYOk0Go8OIMDc8gLOur) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Isopolis](https://open.spotify.com/album/4J6j73B5Kcb3FK6MSsKu92) | 3:49 | 2021-03-15 |  |
 | [It Fades Away](https://open.spotify.com/track/4mr0X52T5dX5wtDgKcYx3h) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff) | [It Fades Away](https://open.spotify.com/album/5cgWQN3hEVXfkyFAUGNFNa) | 4:55 | 2019-06-19\* | 2020-10-22 |
-| [Ithaca](https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 3:59 | 2024-04-19 |  |
+| [Ithaca](https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 3:59 | 2024-04-19 | 2024-06-28 |
 | [Its Been Real](https://open.spotify.com/track/6I8SEy5W6gcBY5vzF8Fk4y) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Feels](https://open.spotify.com/album/3JJooKCUYSStZMieqXok6U) | 4:48 | 2019-05-26\* | 2020-08-26 |
 | [Ivory](https://open.spotify.com/track/28R3W2pqBJOxztS2o6y53W) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Ivory](https://open.spotify.com/album/1bGw1aFP9vtUdNPjoh2cB0) | 2:13 | 2020-11-06 | 2020-12-19 |
 | [Jasmine Oceans](https://open.spotify.com/track/3XkUCBouaD0NOAjfbi5D95) | [Julien Mier](https://open.spotify.com/artist/5paAp4hjtSahENm3QTNsiP) | [Stirring Child Spirits](https://open.spotify.com/album/6Tzb4NzPuV87nJ5mfWx0EB) | 3:05 | 2019-06-19\* | 2022-04-21 |
@@ -578,7 +578,7 @@
 | [NOVEMBRE13\_](https://open.spotify.com/track/1iMvxadzH2UWvBwRwq0ikq) | [JoyCut](https://open.spotify.com/artist/7vaj5cQvg06YNTvaQP2Kla) | [NOVEMBRE13\_](https://open.spotify.com/album/1LXPjFdpUES0qK3Z0tCsz4) | 5:35 | 2022-05-27 | 2022-07-27 |
 | [nubeKevlar](https://open.spotify.com/track/4Mf53dK7FrEdYD2cJJMxfM) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [NUBEKEVLAR](https://open.spotify.com/album/6TypKrH6PYmaVDsMXZpFnB) | 3:37 | 2024-02-23 | 2024-03-22 |
 | [NUNGWI](https://open.spotify.com/track/4hMdVt2j6y43bS7rC2dEBr) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [NUNGWI](https://open.spotify.com/album/6jH3DK4MzS6X9o66eYXiJS) | 3:01 | 2019-05-26\* | 2019-06-19 |
-| [Nuova Atlantide](https://open.spotify.com/track/7obbiHF6noRBSzVpJxSMkx) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x) | 3:18 | 2023-10-13 |  |
+| [Nuova Atlantide](https://open.spotify.com/track/7obbiHF6noRBSzVpJxSMkx) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x) | 3:18 | 2023-10-13 | 2024-06-28 |
 | [NYCBB](https://open.spotify.com/track/2ElopavsuSGqBoBclJfQs2) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Célia Tiab](https://open.spotify.com/artist/4CGHZ152neZaJf6gqAsxoZ) | [NYCBB](https://open.spotify.com/album/0IFVaajtSom4dIKY8oLHg8) | 4:16 | 2021-07-23 | 2022-07-29 |
 | [Nyquist](https://open.spotify.com/track/2vPlEZrLXYhZkMzEFyfroi) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [mau5ville: Level 1](https://open.spotify.com/album/1DH1jrRHjCyAEDwTmHmMZe) | 3:18 | 2019-06-19\* | 2020-10-21 |
 | [Observatory](https://open.spotify.com/track/03cokFHBxSgFZxfVJ0N8U6) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [Observatory](https://open.spotify.com/album/4LJiWGLyWHTGouMFDRVoom) | 2:14 | 2019-06-19\* | 2020-10-21 |
@@ -622,6 +622,7 @@
 | [PCH](https://open.spotify.com/track/3JsnAcVZxSzraNojV2rysg) | [Middle Child](https://open.spotify.com/artist/2hp8yAzOnYRUFMCdot9tzN) | [PCH](https://open.spotify.com/album/63vdqcftyz2avO5EdhH6JO) | 3:51 | 2020-08-26 | 2020-10-24 |
 | [Peace In Emptiness](https://open.spotify.com/track/0zARWvdhbyTGwKfAZ1rj0y) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Change & Decay](https://open.spotify.com/album/3PH0NkD8VET7JHt5M8McuR) | 4:23 | 2019-09-18 | 2020-10-19 |
 | [Peg](https://open.spotify.com/track/5aFf1Ubp9V5Ws9p1JIM69V) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA), [David Bergmüller](https://open.spotify.com/artist/3ft977utbcwtn9thhB5JGw) | [Peg](https://open.spotify.com/album/70lowxiBGWlxk9iI9sEGbg) | 4:11 | 2023-06-09 |  |
+| [Phantom](https://open.spotify.com/track/1sM70q8HETr85d99r1eWdL) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Phantom](https://open.spotify.com/album/1Dbr9RCt2NuoJ4q5m0bK6J) | 4:41 | 2024-06-28 |  |
 | [Pico \- Nick Castle Remix](https://open.spotify.com/track/27tW9TTL6rDlkcW89SfgvH) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D), [Nick Castle](https://open.spotify.com/artist/4X3rmY9VNwR95ybU1yOJkX) | [Pico \(Nick Castle Remix\)](https://open.spotify.com/album/7ItWxiwYxnutVWAwy1t9oH) | 4:28 | 2024-03-15 |  |
 | [Pietre Roventi](https://open.spotify.com/track/0USS58M0zq0TceKeeXXrBC) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Pietre Roventi](https://open.spotify.com/album/1VzyjS6GiQMkdFcMetztnq) | 5:24 | 2021-05-25 | 2022-06-23 |
 | [Pipe Dream](https://open.spotify.com/track/14n4TsEgQLYIX86qmXrGzi) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Pipe Dream](https://open.spotify.com/album/0ZnClD2OZ8po6XHHDP3gbX) | 5:32 | 2021-10-22 | 2022-04-19 |
@@ -740,6 +741,7 @@
 | [Sleepless in Berlin](https://open.spotify.com/track/1noDNeVWioK5Q17deVoUpl) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sleepless in Berlin](https://open.spotify.com/album/5L7zbbmO9aW5Vj5ZB5yrTs) | 3:18 | 2019-06-19\* | 2020-10-21 |
 | [slice \- Gold Panda Remix](https://open.spotify.com/track/2OrqhbF4qjcSki327nFA3l) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [slice \(Gold Panda Remix\)](https://open.spotify.com/album/37koGE4707P8UdATM25L62) | 4:11 | 2023-12-21 | 2024-04-28 |
 | [Slow Buchla Sunshine](https://open.spotify.com/track/4cwLYDk0qjI7hiwVA5TVSn) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 3:52 | 2019-07-28 |  |
+| [Slow Worm](https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Slow Worm](https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC) | 2:32 | 2024-06-28 |  |
 | [Slumber Party](https://open.spotify.com/track/1ZmOLLdiD40zv5NWLRR44N) | [Sonny Side Up](https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl) | [Slumber Party](https://open.spotify.com/album/3uesVMCOOzxd2gbjOTCPmz) | 4:00 | 2019-06-19\* | 2020-10-21 |
 | [Small Moments](https://open.spotify.com/track/1kZJtkm4oTcM4WhJbYudAX) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 3:31 | 2019-07-25 | 2020-10-22 |
 | [Smoke](https://open.spotify.com/track/6jRmVBU6Lvc2AVYry5CWZP) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Smoke](https://open.spotify.com/album/27PA09DHpzMxCWnSd2wopO) | 3:42 | 2021-07-04 | 2022-07-27 |

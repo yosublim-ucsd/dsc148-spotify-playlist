@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Cassyette",
-  "num_followers": 683053,
+  "num_followers": 683208,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/1IcUvKPxQSbGCL4fhf0oaK"
     },
     {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Egregore",
-        "url": "https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt"
-      },
-      "artists": [
-        {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Egregore",
-      "url": "https://open.spotify.com/track/2l7yet2WjW2JbQi9mVvuOG"
-    },
-    {
       "added_at": "2024-06-01 18:01:01",
       "album": {
         "name": "Don't Give Me Names",
@@ -379,6 +363,22 @@
       "duration_ms": 168466,
       "name": "Big in Japan",
       "url": "https://open.spotify.com/track/3lQO10djAi0Ym506za76Wt"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Egregore",
+        "url": "https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Egregore",
+      "url": "https://open.spotify.com/track/2l7yet2WjW2JbQi9mVvuOG"
     },
     {
       "added_at": "2024-06-01 18:01:01",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-01 18:01:01",
       "album": {
-        "name": "Sevas Tra",
-        "url": "https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA"
-      },
-      "artists": [
-        {
-          "name": "Otep",
-          "url": "https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF"
-        }
-      ],
-      "duration_ms": 243893,
-      "name": "Blood Pigs",
-      "url": "https://open.spotify.com/track/5t4raLj2HuARdxKoDefT57"
-    },
-    {
-      "added_at": "2024-06-01 18:01:01",
-      "album": {
         "name": "Post Orgasmic Chill",
         "url": "https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 330266,
       "name": "Charlie Big Potato",
       "url": "https://open.spotify.com/track/7Bf0RPsldDH7jVi9H3wODv"
+    },
+    {
+      "added_at": "2024-06-01 18:01:01",
+      "album": {
+        "name": "Sevas Tra",
+        "url": "https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA"
+      },
+      "artists": [
+        {
+          "name": "Otep",
+          "url": "https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF"
+        }
+      ],
+      "duration_ms": 243893,
+      "name": "Blood Pigs",
+      "url": "https://open.spotify.com/track/5t4raLj2HuARdxKoDefT57"
     },
     {
       "added_at": "2024-02-16 12:14:47",

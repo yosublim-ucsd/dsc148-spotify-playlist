@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : St Graal & KALIKA",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Max Baby",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 150539,
       "name": "BROKEN BONES",
       "url": "https://open.spotify.com/track/6tvUdIihyndS4B6UYEWwE6"
@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "du matin au matin",
+        "url": "https://open.spotify.com/album/3yZv18JRpZbih7IhOq4Lc7"
+      },
+      "artists": [
+        {
+          "name": "L'enfant",
+          "url": "https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149506,
+      "name": "du matin au matin",
+      "url": "https://open.spotify.com/track/3DaAnP8S31hxhxgWqLCVpm"
+    },
+    {
+      "album": {
         "name": "d\u00e9nud\u00e9e",
         "url": "https://open.spotify.com/album/3n2PoNjcnOX4QSTbZuitU2"
       },
@@ -1112,6 +1130,24 @@
       "duration_ms": 251146,
       "name": "G\u00e9ant",
       "url": "https://open.spotify.com/track/1o9XESUAUgS3iVVt6KyHcX"
+    },
+    {
+      "album": {
+        "name": "Hardcore",
+        "url": "https://open.spotify.com/album/4p1MdMsRrpIh7AgYiSIPpV"
+      },
+      "artists": [
+        {
+          "name": "Max Baby",
+          "url": "https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235239,
+      "name": "Hardcore",
+      "url": "https://open.spotify.com/track/5oTBD08V9CpqXK1e1T7WRd"
     },
     {
       "album": {
@@ -1490,7 +1526,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 220493,
       "name": "l'enfer avec toi",
       "url": "https://open.spotify.com/track/2qWuc7hDIv68DlLftdpglz"
@@ -1858,6 +1894,24 @@
       "duration_ms": 171765,
       "name": "Mauvais Gar\u00e7on",
       "url": "https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw"
+    },
+    {
+      "album": {
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/2LR1NyZmQMStulx1QcRlhf"
+      },
+      "artists": [
+        {
+          "name": "KLON",
+          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260040,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/37OeDeSiptbncjAPQILF4W"
     },
     {
       "album": {
@@ -2482,7 +2536,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 158026,
       "name": "Requin",
       "url": "https://open.spotify.com/track/2sjJ9bl92hOk4M4JKQzQOY"
@@ -3078,7 +3132,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 159985,
       "name": "tu t'es laiss\u00e9 aller",
       "url": "https://open.spotify.com/track/14rgdz5CIyBtRaAc0tHN0I"
@@ -3244,6 +3298,24 @@
       "duration_ms": 143354,
       "name": "Worried",
       "url": "https://open.spotify.com/track/0Ssz96Q8DAEry7mDrBRbcN"
+    },
+    {
+      "album": {
+        "name": "Wreckin' My Soul (Dance Around The Fire)",
+        "url": "https://open.spotify.com/album/2a1PDX84UYfgEHiWVsbl54"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/4tO2VmVZyH5QbxK5GKVSv2"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219431,
+      "name": "Wreckin' My Soul (Dance Around The Fire)",
+      "url": "https://open.spotify.com/track/3pxfC0DuidPKBfgo6QlEzK"
     },
     {
       "album": {

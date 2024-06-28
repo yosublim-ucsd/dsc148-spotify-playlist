@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 
 > Soft music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,106 likes - 265 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,101 likes - 265 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJ5OFSzWeCS.md) - [plain]
 | 29 | [The Bear and the Owl](https://open.spotify.com/track/0M7V6oTBtL5tZEeNMnDAfu) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [The Bear and the Owl](https://open.spotify.com/album/3LtMRfHgMyyB5s1XfGLCen) | 1:46 |
 | 30 | [Three little cats](https://open.spotify.com/track/4U8Wd1xF2vwZjc8p6XQnyy) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Three little cats](https://open.spotify.com/album/1TkptoHSTe9vrQyiZLBSjR) | 1:25 |
 | 31 | [My Red Kite](https://open.spotify.com/track/6UyxrfbzlXxaDitkeAZxxN) | [Yoni Laurent](https://open.spotify.com/artist/3oNMmoFpVOIq8Ce7tBRDRI) | [My Red Kite](https://open.spotify.com/album/3iSiM5XwrgqtpR3TPmjPjz) | 2:07 |
-| 32 | [I'll Keep You Safe](https://open.spotify.com/track/0cIhHdNpNzYTcAQGWD7ReJ) | [Mylène Longet](https://open.spotify.com/artist/5G2SmKRUvFUlfiSK3nEM3x) | [I'll Keep You Safe](https://open.spotify.com/album/59pEC7fdfo18q7vdJJZhba) | 1:52 |
+| 32 | [I'll Keep You Safe](https://open.spotify.com/track/0cIhHdNpNzYTcAQGWD7ReJ) | [Mylène Longet](https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ) | [I'll Keep You Safe](https://open.spotify.com/album/59pEC7fdfo18q7vdJJZhba) | 1:52 |
 | 33 | [Sharky's Toothbrush](https://open.spotify.com/track/69kYnUzPX39WrqgKejQIaD) | [Danielle Rogard](https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu) | [Sharky's Toothbrush](https://open.spotify.com/album/5T42GEONHpXZO02VkBfSS9) | 2:09 |
 | 34 | [Lights Down](https://open.spotify.com/track/6tet9ALh2ZiQrJilAJCjCz) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Lights Down](https://open.spotify.com/album/2ltEGd5XzxNHCGYKcptlNl) | 1:54 |
 | 35 | [Step by Step](https://open.spotify.com/track/2BABHnDsI8cW3kiM51oYn0) | [Cassandra Roy](https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a) | [Step by Step](https://open.spotify.com/album/0QNNCLkIk9YVDKp3jYXmCJ) | 1:40 |

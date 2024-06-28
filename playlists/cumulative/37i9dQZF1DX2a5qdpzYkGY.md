@@ -4,12 +4,12 @@
 
 > a journey through ephemeral moments
 
-271 songs - 22 hr 3 min
+272 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11 5 18 2 5 18](https://open.spotify.com/track/6z4gkvnKeiOOjKG6ZN0Zyn) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [11 5 18 2 5 18](https://open.spotify.com/album/4RN4j6MUCjqIIBW5gpWqpy) | 11:39 | 2022-04-14 | 2022-07-29 |
-| [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 | 2023-05-12 |  |
+| [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 | 2023-05-12 | 2024-06-28 |
 | [1981](https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ) | [Hautefort](https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg) | [1981](https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin) | 4:14 | 2022-02-15 |  |
 | [A Fullness Of Light In Your Soul \(feat\. Perfume Genius\)](https://open.spotify.com/track/4dAHSkg4cg3Bxd61enbbLi) | [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [A Fullness Of Light In Your Soul \(feat\. Perfume Genius\)](https://open.spotify.com/album/3L8nP0ZUuB4laRYM1q2a6z) | 9:55 | 2021-10-06 | 2022-07-29 |
 | [A Fullness Of Light In Your Soul \(feat\. Perfume Genius\)](https://open.spotify.com/track/7vTuEAkTS10sLKzs81j7l9) | [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [This is a Mindfulness Drill: A Reimagining of Richard Youngs' 'Sapphie'](https://open.spotify.com/album/3myZW6iqu7h5Qd0THPOp00) | 9:55 | 2021-10-06 | 2022-08-24 |
@@ -236,6 +236,7 @@
 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 | 2021-10-06 |  |
 | [Terrain: III](https://open.spotify.com/track/155m4l4LYVmscSUGWQXDEl) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Terrain](https://open.spotify.com/album/5rCjfRxrqbeQYqMPzcn6M4) | 10:10 | 2021-10-06 | 2022-09-04 |
 | [Terrain: III](https://open.spotify.com/track/721xFjsY3jKjH8s4hyEfYJ) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Terrain](https://open.spotify.com/album/4UeTj6ZD6u9kEgKifhM3HL) | 10:10 | 2021-10-06 | 2022-07-28 |
+| [that love](https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo) | [Nonkeen](https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b) | [All good?](https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144) | 7:46 | 2024-06-27 |  |
 | [The Accident](https://open.spotify.com/track/12iSO9IrdXEQpSMdzBNYxi) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [Icons](https://open.spotify.com/album/6uAP7KQU1Q3KQoB1eW3fHl) | 4:36 | 2021-10-06 | 2024-04-19 |
 | [The Accident](https://open.spotify.com/track/41Ff5UlYl58MBR4hpLSHSl) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [The Accident](https://open.spotify.com/album/42msjp6Mvx8xMtBANlKuT9) | 4:36 | 2021-10-06 | 2022-07-29 |
 | [The Fours](https://open.spotify.com/track/5TAtBrjTmFqSL5gxZF7miM) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 3:26 | 2022-09-30 | 2023-04-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,474,744 likes - 85 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474,984 likes - 85 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 40 | [KAWAII FESTIVAL](https://open.spotify.com/track/4Dq9L5QomYmF21xmFSMw9z) | [みんななかよく](https://open.spotify.com/artist/1wja3Lglpre9hO4WEfIBRM) | [Hello Kitty 50th Anniversary Presents My Bestie Voice Collection with Sanrio characters](https://open.spotify.com/album/4p4vfBpuBaSS7BjjqtX4fy) | 3:08 |
 | 41 | [無敵](https://open.spotify.com/track/4BshTGhwGSKKf3PzbBtO7e) | [Young Kee](https://open.spotify.com/artist/4axCzBPNlQBLmcmlb6jt9a) | [無敵](https://open.spotify.com/album/1JHmrWJdzanjqKN0MTHP0o) | 3:23 |
 | 42 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 |
-| 43 | [Warcry](https://open.spotify.com/track/20jERmgNHzHsgMEod5krUg) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW), [THE KAIJU BAND](https://open.spotify.com/artist/7fKZU7edSQKr0OmV9LOhED) | [Warcry](https://open.spotify.com/album/3NzsiDe5i8vsyePy7Zq7Ci) | 2:11 |
+| 43 | [Warcry](https://open.spotify.com/track/20jERmgNHzHsgMEod5krUg) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [THE KAIJU BAND](https://open.spotify.com/artist/7fKZU7edSQKr0OmV9LOhED), [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Warcry](https://open.spotify.com/album/3NzsiDe5i8vsyePy7Zq7Ci) | 2:11 |
 | 44 | [Boom Boom Pow](https://open.spotify.com/track/7H04JxlAZFokGeDAZOSiBG) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [花海咲季](https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN) | [Boom Boom Pow](https://open.spotify.com/album/2tgmGGjiCZwBLv761n61ZT) | 3:21 |
 | 45 | [スノーノワール](https://open.spotify.com/track/6f8dUmzyg5kAvn1yMZI2Pc) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [スノーノワール](https://open.spotify.com/album/6x4DToJwtB6d3sZaWh2IAj) | 3:28 |
 | 46 | [オン・ザ・フロントライン](https://open.spotify.com/track/4jAUeWwomc0Pn0O8gq5Y0u) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [オン・ザ・フロントライン](https://open.spotify.com/album/1pq42uX8b2tbs5K1HvW5MP) | 3:27 |

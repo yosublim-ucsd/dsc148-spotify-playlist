@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Jarfaiter, Dollar Selmouni",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Natos",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -576,7 +576,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 181956,
       "name": "ALMA ROTA",
       "url": "https://open.spotify.com/track/6XYQ4HtRmAKnbCaSqqyfaC"
@@ -770,6 +770,24 @@
       "duration_ms": 157500,
       "name": "Arabia",
       "url": "https://open.spotify.com/track/2x3y6FM0Ty44ee2uenURLW"
+    },
+    {
+      "album": {
+        "name": "ASAP Rocky",
+        "url": "https://open.spotify.com/album/1fUUUqvnPLky22IatFAeJf"
+      },
+      "artists": [
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "ASAP Rocky",
+      "url": "https://open.spotify.com/track/03FuBtRZLrgabfTsatNRDU"
     },
     {
       "album": {
@@ -1388,6 +1406,32 @@
       "duration_ms": 302104,
       "name": "CALIENTE",
       "url": "https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA"
+    },
+    {
+      "album": {
+        "name": "Me Toc\u00f3 Ganar / Cansao de To",
+        "url": "https://open.spotify.com/album/70yk59XUkbvKlP3YV3ZI3u"
+      },
+      "artists": [
+        {
+          "name": "Nikone",
+          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
+        },
+        {
+          "name": "Tork",
+          "url": "https://open.spotify.com/artist/2gZByjNu2u3Zs9x3BUdCzY"
+        },
+        {
+          "name": "Baghira",
+          "url": "https://open.spotify.com/artist/1M6rXjguUqsqaV0cYsytdY"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Cansao de To",
+      "url": "https://open.spotify.com/track/7ziZS7Bmrs7vNXqc2aSsOw"
     },
     {
       "album": {
@@ -2507,6 +2551,28 @@
     },
     {
       "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/1zl5YkFygYKCRZOgQDgNMS"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        },
+        {
+          "name": "Zaidbreak",
+          "url": "https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/3FPi6QxKTIORgH4KDReY1a"
+    },
+    {
+      "album": {
         "name": "Esos Ni\u00f1os",
         "url": "https://open.spotify.com/album/3GIxXfCKwaWZa3shfUvmmN"
       },
@@ -2862,7 +2928,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 172350,
       "name": "Game Master",
       "url": "https://open.spotify.com/track/614wyoHmlfmTHD2apjbcPQ"
@@ -4466,7 +4532,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 134545,
       "name": "Mariah Carey",
       "url": "https://open.spotify.com/track/69JEwBvoXZ8KhOfrgHOiZc"
@@ -6706,7 +6772,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 158182,
       "name": "Siento La M\u00fasica",
       "url": "https://open.spotify.com/track/4GKLNLVhI43B3FCXRhGs2D"
@@ -6898,6 +6964,28 @@
       "duration_ms": 283888,
       "name": "Solo pienso en ti",
       "url": "https://open.spotify.com/track/2hLyWkdMjWsudBEvJ5bokV"
+    },
+    {
+      "album": {
+        "name": "Somos un Eclipse",
+        "url": "https://open.spotify.com/album/4Yos4m8bbN5XcmynAG0lww"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161372,
+      "name": "Somos un Eclipse",
+      "url": "https://open.spotify.com/track/332Gog5zsiYmQC8a2vVg1T"
     },
     {
       "album": {
@@ -7548,7 +7636,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 170425,
       "name": "UN BESO A LOS ANILLOS",
       "url": "https://open.spotify.com/track/31ueh1AXGU25LTgXGs6YgL"
@@ -8044,6 +8132,24 @@
       "duration_ms": 146250,
       "name": "Zenit",
       "url": "https://open.spotify.com/track/01T6sBu7sH9ptbJcDw43Go"
+    },
+    {
+      "album": {
+        "name": "ZEUS",
+        "url": "https://open.spotify.com/album/6gPhtwVaLtuBNv79zYLM7s"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "ZEUS",
+      "url": "https://open.spotify.com/track/2OcGEcb1mLpgWIlfh3BeQw"
     },
     {
       "album": {

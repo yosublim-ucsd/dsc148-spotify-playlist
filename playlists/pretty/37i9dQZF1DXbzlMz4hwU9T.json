@@ -1,12 +1,12 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 88021,
+  "num_followers": 88065,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmo9hgAAAAC3RaTh/7GuTuVZLOQwPRyg",
+  "snapshot_id": "Zn2t0gAAAABeDdOW/CMb9k00BiyWpq7c",
   "tracks": [
     {
       "added_at": "2024-01-25 15:55:50",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P"
     },
     {
+      "added_at": "2024-06-27 18:22:10",
+      "album": {
+        "name": "Sentir Que No Sabes",
+        "url": "https://open.spotify.com/album/0lIG0tIWqZiWkL43EZvg0l"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 177771,
+      "name": "Pantalla azul",
+      "url": "https://open.spotify.com/track/6QtA9isiOb6zymFQAKr5L5"
+    },
+    {
       "added_at": "2024-01-25 15:55:50",
       "album": {
         "name": "\"Heroes\" (2017 Remaster)",
@@ -395,22 +411,6 @@
       "duration_ms": 343413,
       "name": "Coraz\u00f3n part\u00edo",
       "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
-    },
-    {
-      "added_at": "2024-05-30 02:39:33",
-      "album": {
-        "name": "Pero Amas El Caos",
-        "url": "https://open.spotify.com/album/4ulMrEfSBIeQDRqtgQ5YvX"
-      },
-      "artists": [
-        {
-          "name": "RONCO",
-          "url": "https://open.spotify.com/artist/3xbpuptPAr87U4lZxvV2nM"
-        }
-      ],
-      "duration_ms": 267883,
-      "name": "Pero Amas El Caos",
-      "url": "https://open.spotify.com/track/2EXMUFmuJhwyQO6yK7RBlH"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -475,6 +475,22 @@
       "duration_ms": 205716,
       "name": "Amapolas",
       "url": "https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH"
+    },
+    {
+      "added_at": "2024-05-30 02:39:33",
+      "album": {
+        "name": "Pero Amas El Caos",
+        "url": "https://open.spotify.com/album/4ulMrEfSBIeQDRqtgQ5YvX"
+      },
+      "artists": [
+        {
+          "name": "RONCO",
+          "url": "https://open.spotify.com/artist/3xbpuptPAr87U4lZxvV2nM"
+        }
+      ],
+      "duration_ms": 267883,
+      "name": "Pero Amas El Caos",
+      "url": "https://open.spotify.com/track/2EXMUFmuJhwyQO6yK7RBlH"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -1023,6 +1039,22 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "\u00c1frika",
+      "url": "https://open.spotify.com/track/5cY6iwmzNfroYMCuLOlJio"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
         "name": "Funeral Singers",
         "url": "https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n"
       },
@@ -1039,22 +1071,6 @@
       "duration_ms": 219374,
       "name": "Funeral Singers",
       "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "\u00c1frika",
-      "url": "https://open.spotify.com/track/5cY6iwmzNfroYMCuLOlJio"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "Los Esp\u00edritus",
-        "url": "https://open.spotify.com/album/3jIrLCi1YnbMJHybfNExxS"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 299880,
-      "name": "Noches De Verano",
-      "url": "https://open.spotify.com/track/5sFEbn2q1dI0xO06BKkcH1"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
         "name": "Habitaci\u00f3n de Flagelos en C",
         "url": "https://open.spotify.com/album/3srAC6DRWHtD3yuB48Il5Z"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 262706,
       "name": "La lluvia gris",
       "url": "https://open.spotify.com/track/3LWr1doKSH2hSfnE9kMX6U"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Los Esp\u00edritus",
+        "url": "https://open.spotify.com/album/3jIrLCi1YnbMJHybfNExxS"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 299880,
+      "name": "Noches De Verano",
+      "url": "https://open.spotify.com/track/5sFEbn2q1dI0xO06BKkcH1"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
         "name": "De todas las flores",
         "url": "https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 322013,
       "name": "De todas las flores",
       "url": "https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -1699,22 +1715,6 @@
       "duration_ms": 251043,
       "name": "Llueve Otra Vez",
       "url": "https://open.spotify.com/track/6eMZqzdvWb7exAWU6VeJzK"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
-        "name": "Uno Que Tropieza Y Cae Al Mar",
-        "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
-      },
-      "artists": [
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Uno Que Tropieza Y Cae Al Mar",
-      "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
     }
   ],
   "unique_name": "viendo llover desde la ventana",

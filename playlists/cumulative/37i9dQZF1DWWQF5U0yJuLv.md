@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-206 songs - 15 hr 24 min
+207 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Amaat One](https://open.spotify.com/track/60nFcBJzUY17ZuDTDtD8qi) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Amaat One](https://open.spotify.com/album/4UVVXIPLpuFYFxOr8hEPjJ) | 5:36 | 2023-02-17 |  |
 | [Amaat One](https://open.spotify.com/track/7oY7hsyhvGS5rVaMszDEEh) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Amaat One](https://open.spotify.com/album/2elBATB2nvWGsWxvCPwQwU) | 5:36 | 2023-02-17 | 2024-04-19 |
 | [Aquarius](https://open.spotify.com/track/08EgS4Nqe1jPkI9tx9Dq3S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 5:58 | 2023-02-17 | 2024-04-19 |
-| [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 | 2023-02-17 | 2024-06-27 |
+| [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 | 2023-02-17 |  |
 | [Arcadian Daze](https://open.spotify.com/track/6NXrZnDylt1iZd2qU8ssK3) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Arcadian Daze](https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT) | 3:16 | 2023-02-17 | 2024-04-19 |
 | [Arpeggi](https://open.spotify.com/track/6OQTJ7llyUiejKFxR4MUuy) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 4:45 | 2023-02-17 |  |
 | [At Height](https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu) | 3:52 | 2023-02-17 |  |
@@ -76,7 +76,7 @@
 | [Haku \- RUMTUM Remix](https://open.spotify.com/track/4bbC2PWt5QDvICHQBUXyj4) | [Ramakhandra](https://open.spotify.com/artist/1Apw9xiab11PyZLo6YeUoJ), [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Haku \(RUMTUM Remix\)](https://open.spotify.com/album/3ranyNZIbzrxe6XdiwoiWD) | 5:41 | 2023-02-17 | 2024-04-19 |
 | [Hands](https://open.spotify.com/track/2UFR9rHVRKPVMC5DeZvO1P) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Rounds \(Special Anniversary Edition\)](https://open.spotify.com/album/6ebN0Gkim6B1SDSp2ZbwI1) | 5:41 | 2023-02-17 | 2024-04-19 |
 | [Hands](https://open.spotify.com/track/6VfWccY3UTDtXFa7WFMyz8) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Rounds](https://open.spotify.com/album/2H49BEjjzWluWjmy2k9tdQ) | 5:41 | 2023-02-17 |  |
-| [Happy Cycling](https://open.spotify.com/track/6G4Iu30Hp9SHWQ1k2Fow7i) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 7:52 | 2023-02-17 |  |
+| [Happy Cycling](https://open.spotify.com/track/6G4Iu30Hp9SHWQ1k2Fow7i) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 7:52 | 2023-02-17 | 2024-06-28 |
 | [Happy Cycling](https://open.spotify.com/track/55IsBrXUfZUmY7KSm2BjUp) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 7:56 | 2023-02-17 | 2024-04-19 |
 | [Hasty Boom Alert](https://open.spotify.com/track/4miEA9U9PZKBYryATLzCKC) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 5:15 | 2023-02-17 |  |
 | [Haynes Manor](https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 5:06 | 2023-02-17 |  |
@@ -131,6 +131,7 @@
 | [Nice Weather for Ducks](https://open.spotify.com/track/3z24ayp6vSCkN6btftwyet) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [Lost Horizons](https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG) | 6:08 | 2023-02-17 |  |
 | [Night And Day](https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX) | [Raymond Scott](https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt) | [Manhattan Research, Inc.](https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D) | 1:45 | 2023-02-17 |  |
 | [Off\-Piste](https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Onism](https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0) | 4:36 | 2023-02-17 |  |
+| [Officer's Club](https://open.spotify.com/track/58A5kjUiP3VJZedyacmHzs) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [Bizarster](https://open.spotify.com/album/7J9TDj6wxFbYGorUJoHm17) | 4:26 | 2023-02-17 |  |
 | [On Our Way Home](https://open.spotify.com/track/0w1j2eMIGeNkRtO4DefPud) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Postcards](https://open.spotify.com/album/5s8tUuZ4mZDKvuETg8sdjo) | 3:57 | 2023-02-17 |  |
 | [Outlook for the Future](https://open.spotify.com/track/0nMswZQeNQF96yypz93dwE) | [Inventions](https://open.spotify.com/artist/356y23wKxVdd7IowNVCSlW) | [Continuous Portrait](https://open.spotify.com/album/51QtuRQyWyidnzs3ZNVue7) | 3:30 | 2023-02-17 | 2024-04-19 |
 | [Parallel 6](https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:06 | 2023-02-17 |  |
@@ -171,7 +172,7 @@
 | [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 | 2023-02-17 |  |
 | [Stereomission](https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii) | 4:38 | 2023-02-17 |  |
 | [Stranger to One](https://open.spotify.com/track/0NaOI7rSBynlCl5ss2R2Hj) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Time to Recover](https://open.spotify.com/album/7wzFqOBxEWo6gmvFntCtSP) | 2:16 | 2023-02-17 |  |
-| [Strawberry Moon](https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Strawberry Moon](https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi) | 3:07 | 2023-02-17 |  |
+| [Strawberry Moon](https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Strawberry Moon](https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi) | 3:07 | 2023-02-17 | 2024-06-28 |
 | [Strawberry Moon](https://open.spotify.com/track/416BuAV8EaYxNZ08aaSH9s) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Strawberry Moon](https://open.spotify.com/album/3ivMwZxfEhwdgCnuruvoPg) | 3:07 | 2023-02-17 | 2024-04-19 |
 | [Sui Shop](https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:12 | 2023-02-17 |  |
 | [Summer Places](https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 3:43 | 2023-02-17 |  |

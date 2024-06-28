@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 
 > Enjoy music from "Kaiju No\. 8"! アニメ「怪獣8号」の世界をプレイリストで。©防衛隊第３部隊 ©松本直也／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,478 likes - 71 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,619 likes - 71 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 | 4 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 |
 | 5 | [Ryan Tedder\(OneRepublic\)からのスペシャル・メッセージ！](https://open.spotify.com/track/5xFTVs5QV8rPDvk0moL4Dm) | [怪獣8号](https://open.spotify.com/artist/1QvSxr0HMAEsQP7yeClNDX) | [Ryan Tedder\(OneRepublic\)からのスペシャル・メッセージ！](https://open.spotify.com/album/5dd1oUPabvbqzPPyqFqbuv) | 0:13 |
 | 6 | [怪獣8号のテーマ](https://open.spotify.com/track/2lsRAFlA42AzeluFfiaVo8) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [怪獣8号のテーマ 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/4Z7Os2zgNVRSk28ds8dY16) | 1:30 |
-| 7 | [Warcry](https://open.spotify.com/track/20jERmgNHzHsgMEod5krUg) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW), [THE KAIJU BAND](https://open.spotify.com/artist/7fKZU7edSQKr0OmV9LOhED) | [Warcry](https://open.spotify.com/album/3NzsiDe5i8vsyePy7Zq7Ci) | 2:11 |
+| 7 | [Warcry](https://open.spotify.com/track/20jERmgNHzHsgMEod5krUg) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [THE KAIJU BAND](https://open.spotify.com/artist/7fKZU7edSQKr0OmV9LOhED), [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Warcry](https://open.spotify.com/album/3NzsiDe5i8vsyePy7Zq7Ci) | 2:11 |
 | 8 | [Scream](https://open.spotify.com/track/2I8eDWg64Fwcg7SBU04YMs) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Scream](https://open.spotify.com/album/7KiuauNNCky8MCGtHrWiVV) | 1:36 |
 | 9 | [TVアニメ「怪獣8号」カフカ＆レノ スペシャルメッセージ！](https://open.spotify.com/track/6wSfWLkJjXpHCUF7hB59iY) | [怪獣8号](https://open.spotify.com/artist/1QvSxr0HMAEsQP7yeClNDX) | [TVアニメ「怪獣8号」カフカ＆レノ スペシャルメッセージ！](https://open.spotify.com/album/5xTbBQ8SzY3QrpPpFVSJU1) | 1:01 |
 | 10 | [相模原討伐作戦](https://open.spotify.com/track/4tYVr7p6d7rpPzjsYFJpDg) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [Ensemble FOVE](https://open.spotify.com/artist/6q6FKLC39VIDZXz2vX2ZOZ) | [相模原討伐作戦 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/0Yq0iuzrVkBqRNJufDpQVT) | 2:25 |

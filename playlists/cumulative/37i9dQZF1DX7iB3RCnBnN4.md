@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> All the songs with more than 1 BILLION streams on Spotify\. Cover: Drake
+> All the songs with more than 1 BILLION streams on Spotify\. Cover: Grupo Frontera, Bad Bunny
 
 723 songs - 1 day 19 hr 55 min
 

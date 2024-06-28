@@ -1,107 +1,31 @@
 {
-  "description": "The best jazz new releases. Cover: Liana Flores",
-  "num_followers": 138611,
+  "description": "The best jazz new releases. Cover: Madeleine Peyroux",
+  "num_followers": 138644,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnSmYAAAAAA7crhNPvhrSRx1diPWc71h",
+  "snapshot_id": "Zn3g4AAAAACHE7Gcw5NEliS8mxOuhGnD",
   "tracks": [
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Orange-coloured day",
-        "url": "https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj"
+        "name": "Let's Walk",
+        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
       },
       "artists": [
         {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 168218,
-      "name": "Orange-coloured day",
-      "url": "https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy"
+      "duration_ms": 292786,
+      "name": "Let's Walk",
+      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "You\u2019re Everything",
-        "url": "https://open.spotify.com/album/1xmaHopZWgN98S8Hp5Eq5y"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 158177,
-      "name": "You\u2019re Everything",
-      "url": "https://open.spotify.com/track/7yLCRcvLBrQkRUAngyuBft"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Wait A While",
-        "url": "https://open.spotify.com/album/7t25V8XrGM2RzxXrb11dPu"
-      },
-      "artists": [
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        },
-        {
-          "name": "Farah Audhali",
-          "url": "https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U"
-        },
-        {
-          "name": "Amber Navran",
-          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
-        }
-      ],
-      "duration_ms": 214593,
-      "name": "Wait A While",
-      "url": "https://open.spotify.com/track/2y7p83lOa1MpcyTeHHYXcL"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "AO VIVO NA OP\u00c9RA (Live)",
         "url": "https://open.spotify.com/album/6TaO5kJTXEu31H53HSUPWz"
@@ -121,27 +45,7 @@
       "url": "https://open.spotify.com/track/5nbwpFBPfTVoZnEcSvTGpm"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "EDEN BEACH CLUB",
-        "url": "https://open.spotify.com/album/1t09svidUSt1tXFFqhIAYz"
-      },
-      "artists": [
-        {
-          "name": "Laurent Bardainne",
-          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
-        },
-        {
-          "name": "Tigre d'Eau Douce",
-          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
-        }
-      ],
-      "duration_ms": 252769,
-      "name": "Luxe, calme et volupt\u00e9",
-      "url": "https://open.spotify.com/track/6M0r4QcBoTdkPpFkyVUhl9"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Love Anthem",
         "url": "https://open.spotify.com/album/1bHbEieWlnDRsghM58cmvd"
@@ -157,47 +61,43 @@
       "url": "https://open.spotify.com/track/7CFEsAjOQdDHjHWzgyDEz1"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/2BdAV14LQO5UttyphTnRl1"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/7gEO5D21947OD8DPjh9UK2"
       },
       "artists": [
         {
-          "name": "Zaz",
-          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+          "name": "JaRon Marshall",
+          "url": "https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8"
+        },
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
         }
       ],
-      "duration_ms": 164293,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/4ehc8FBzTKrBELmUeOYH15"
+      "duration_ms": 186572,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6GyIAOPiPEXO7gZ2ageJp4"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Pink Panther",
-        "url": "https://open.spotify.com/album/3LqJO6tvTMpEfXKciCTcSV"
+        "name": "Feeling Good (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
       },
       "artists": [
         {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        },
-        {
-          "name": "James Galway",
-          "url": "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 159715,
-      "name": "Pink Panther",
-      "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
+      "duration_ms": 239299,
+      "name": "Feeling Good - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Three Roses",
         "url": "https://open.spotify.com/album/35AAL1fg3jjtMyBJ2LToUn"
@@ -217,127 +117,27 @@
       "url": "https://open.spotify.com/track/0456iEt4RKO3bmhJbTixcf"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "1978",
-        "url": "https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj"
+        "name": "Flower of the soul",
+        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 253320,
-      "name": "Saturday Night (Need You Now)",
-      "url": "https://open.spotify.com/track/7A7zkIt1RGMtyJNrjdY07o"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "If Everything Is Written",
-        "url": "https://open.spotify.com/album/1I8wcOWPePOc82xh72vGlk"
-      },
-      "artists": [
-        {
-          "name": "Ludovic Louis",
-          "url": "https://open.spotify.com/artist/7dzml0MudQRS956whBQ455"
-        }
-      ],
-      "duration_ms": 177833,
-      "name": "A Beautiful Story",
-      "url": "https://open.spotify.com/track/0Ne0fHLGdb8z3au4EClgTo"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Zulu Coconuts",
-        "url": "https://open.spotify.com/album/33urWPWjTlYBzGmKPASk8S"
-      },
-      "artists": [
-        {
-          "name": "Jon Cleary",
-          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
-        }
-      ],
-      "duration_ms": 252378,
-      "name": "Zulu Coconuts",
-      "url": "https://open.spotify.com/track/0HmkfDik3HhtV3LU2LxUe9"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Speed It Up",
-        "url": "https://open.spotify.com/album/7fvLATLPXXEcW36G42MeJa"
-      },
-      "artists": [
-        {
-          "name": "LORD$",
-          "url": "https://open.spotify.com/artist/1gR7fpk8xW1VGtSww5b4Vs"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "Speed It Up",
-      "url": "https://open.spotify.com/track/7LYWuhrY9Wxf80NQiqrwdu"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Album of the Year #1 Funkateer",
-        "url": "https://open.spotify.com/album/6JWmvgSevSOBTuUtUmSJqK"
-      },
-      "artists": [
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
         },
         {
-          "name": "Bootdullivan",
-          "url": "https://open.spotify.com/artist/2BJ9wQSxjoHLm4jjeR3goW"
-        },
-        {
-          "name": "Myra Washington",
-          "url": "https://open.spotify.com/artist/5nGnyBnrFoaa7jsZvLWUho"
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
         }
       ],
-      "duration_ms": 255746,
-      "name": "Album of the Year #1 Funkateer",
-      "url": "https://open.spotify.com/track/7DzAcPjNMTXjygZixhmTZy"
+      "duration_ms": 322223,
+      "name": "Butterflies (feat. Tim Bernardes)",
+      "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Feeling Good (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Feeling Good - triple j Like A Version",
-      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/5M8eXGXY9ds3L7qSAMY5me"
-      },
-      "artists": [
-        {
-          "name": "Julius Rodriguez",
-          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
-        }
-      ],
-      "duration_ms": 313946,
-      "name": "Run To It (The CP Song)",
-      "url": "https://open.spotify.com/track/6Lb7lH15OsyGlwmmjaAVz8"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Secret House",
         "url": "https://open.spotify.com/album/0aGXNuZWFskg5cHKOU2etG"
@@ -357,47 +157,59 @@
       "url": "https://open.spotify.com/track/4aVUPEHIzzXsidRgdAf4RW"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Bonjour Dolly ! (D'apr\u00e8s Dolly Suite Op. 56, Berceuse)",
-        "url": "https://open.spotify.com/album/7onoQMuGPow8Myxwhn23SJ"
+        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
       },
       "artists": [
         {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         },
         {
-          "name": "Andr\u00e9 Ceccarelli",
-          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
-        },
-        {
-          "name": "Diego Imbert",
-          "url": "https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 282666,
-      "name": "Bonjour Dolly ! (D'apr\u00e8s Dolly Suite Op. 56, Berceuse)",
-      "url": "https://open.spotify.com/track/2WPuBGF8SxUhzWvJrmqkdQ"
+      "duration_ms": 239306,
+      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
-        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
+        "name": "1978",
+        "url": "https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj"
       },
       "artists": [
         {
-          "name": "Zara McFarlane",
-          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 279749,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
+      "duration_ms": 253320,
+      "name": "Saturday Night (Need You Now)",
+      "url": "https://open.spotify.com/track/7A7zkIt1RGMtyJNrjdY07o"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Courage",
         "url": "https://open.spotify.com/album/0NzPU1kszNvsOKQyvZt5Q0"
@@ -421,7 +233,155 @@
       "url": "https://open.spotify.com/track/2i6pMDJd8lcKpD6gOOnEsl"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Speed It Up",
+        "url": "https://open.spotify.com/album/7fvLATLPXXEcW36G42MeJa"
+      },
+      "artists": [
+        {
+          "name": "LORD$",
+          "url": "https://open.spotify.com/artist/1gR7fpk8xW1VGtSww5b4Vs"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "Speed It Up",
+      "url": "https://open.spotify.com/track/7LYWuhrY9Wxf80NQiqrwdu"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "The Mojo",
+        "url": "https://open.spotify.com/album/2GJ9XmrXCyEas9lZmocCAl"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Rifflet",
+          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "The Mojo",
+      "url": "https://open.spotify.com/track/43ZH66bpYjA7xWQgryH0KQ"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "You\u2019re Everything",
+        "url": "https://open.spotify.com/album/1xmaHopZWgN98S8Hp5Eq5y"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "duration_ms": 158177,
+      "name": "You\u2019re Everything",
+      "url": "https://open.spotify.com/track/7yLCRcvLBrQkRUAngyuBft"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "If Everything Is Written",
+        "url": "https://open.spotify.com/album/1I8wcOWPePOc82xh72vGlk"
+      },
+      "artists": [
+        {
+          "name": "Ludovic Louis",
+          "url": "https://open.spotify.com/artist/7dzml0MudQRS956whBQ455"
+        }
+      ],
+      "duration_ms": 177833,
+      "name": "A Beautiful Story",
+      "url": "https://open.spotify.com/track/0Ne0fHLGdb8z3au4EClgTo"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Wait A While",
+        "url": "https://open.spotify.com/album/7t25V8XrGM2RzxXrb11dPu"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Farah Audhali",
+          "url": "https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
+        }
+      ],
+      "duration_ms": 214593,
+      "name": "Wait A While",
+      "url": "https://open.spotify.com/track/2y7p83lOa1MpcyTeHHYXcL"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "EDEN BEACH CLUB",
+        "url": "https://open.spotify.com/album/1t09svidUSt1tXFFqhIAYz"
+      },
+      "artists": [
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Tigre d'Eau Douce",
+          "url": "https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k"
+        }
+      ],
+      "duration_ms": 252769,
+      "name": "Luxe, calme et volupt\u00e9",
+      "url": "https://open.spotify.com/track/6M0r4QcBoTdkPpFkyVUhl9"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
+        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
+      },
+      "artists": [
+        {
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+        }
+      ],
+      "duration_ms": 279749,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Pink Panther",
+        "url": "https://open.spotify.com/album/3LqJO6tvTMpEfXKciCTcSV"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "James Galway",
+          "url": "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 159715,
+      "name": "Pink Panther",
+      "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
@@ -437,7 +397,7 @@
       "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "ENCORE!",
         "url": "https://open.spotify.com/album/6GL1EHQVbtqKubEfWdDZt3"
@@ -453,7 +413,7 @@
       "url": "https://open.spotify.com/track/1VcejonVyFNjgASurwl28D"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Coton \u00c9lectrique",
         "url": "https://open.spotify.com/album/2q3LydB5kjchVDxY3pD4jT"
@@ -473,7 +433,119 @@
       "url": "https://open.spotify.com/track/2UD2QBFpea28KBnHjDYAt5"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Orange-coloured day",
+        "url": "https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 168218,
+      "name": "Orange-coloured day",
+      "url": "https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Zulu Coconuts",
+        "url": "https://open.spotify.com/album/33urWPWjTlYBzGmKPASk8S"
+      },
+      "artists": [
+        {
+          "name": "Jon Cleary",
+          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
+        }
+      ],
+      "duration_ms": 252378,
+      "name": "Zulu Coconuts",
+      "url": "https://open.spotify.com/track/0HmkfDik3HhtV3LU2LxUe9"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Album of the Year #1 Funkateer",
+        "url": "https://open.spotify.com/album/6JWmvgSevSOBTuUtUmSJqK"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Bootdullivan",
+          "url": "https://open.spotify.com/artist/2BJ9wQSxjoHLm4jjeR3goW"
+        },
+        {
+          "name": "Myra Washington",
+          "url": "https://open.spotify.com/artist/5nGnyBnrFoaa7jsZvLWUho"
+        }
+      ],
+      "duration_ms": 255746,
+      "name": "Album of the Year #1 Funkateer",
+      "url": "https://open.spotify.com/track/7DzAcPjNMTXjygZixhmTZy"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/5M8eXGXY9ds3L7qSAMY5me"
+      },
+      "artists": [
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        }
+      ],
+      "duration_ms": 313946,
+      "name": "Run To It (The CP Song)",
+      "url": "https://open.spotify.com/track/6Lb7lH15OsyGlwmmjaAVz8"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Bonjour Dolly ! (D'apr\u00e8s Dolly Suite Op. 56, Berceuse)",
+        "url": "https://open.spotify.com/album/7onoQMuGPow8Myxwhn23SJ"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Andr\u00e9 Ceccarelli",
+          "url": "https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K"
+        },
+        {
+          "name": "Diego Imbert",
+          "url": "https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "Bonjour Dolly ! (D'apr\u00e8s Dolly Suite Op. 56, Berceuse)",
+      "url": "https://open.spotify.com/track/2WPuBGF8SxUhzWvJrmqkdQ"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/2BdAV14LQO5UttyphTnRl1"
+      },
+      "artists": [
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/4ehc8FBzTKrBELmUeOYH15"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Triptych Phase II",
         "url": "https://open.spotify.com/album/51MLo86B4wPX40715BiCB7"
@@ -493,7 +565,7 @@
       "url": "https://open.spotify.com/track/69QHGsphyHQRqGjczGMnEt"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "ode to rahsaan",
         "url": "https://open.spotify.com/album/4Up6R581JD14RmIFgxUrnF"
@@ -509,23 +581,23 @@
       "url": "https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "How I Wish",
-        "url": "https://open.spotify.com/album/7mi2Td5xgke6KBnfDjP4ao"
+        "name": "I'm on a Roll",
+        "url": "https://open.spotify.com/album/58yG3zRmsrOWHKUVp6bCR6"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Kimberose",
+          "url": "https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL"
         }
       ],
-      "duration_ms": 254093,
-      "name": "How I Wish",
-      "url": "https://open.spotify.com/track/5HK4yDAEmmUA1588782PD5"
+      "duration_ms": 189863,
+      "name": "I\u2019m on a Roll",
+      "url": "https://open.spotify.com/track/1y2OtZELxfZRSPXOwkhjHv"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/36cT6S2JKQLQWYRMXAe0SS"
@@ -545,39 +617,23 @@
       "url": "https://open.spotify.com/track/58EpbedY26g7KtHrA9krbe"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Feelin' Groovy (Live at Orange Lounge)",
-        "url": "https://open.spotify.com/album/6fpOW4T0Ik4pbNqmhUvsJM"
+        "name": "How I Wish",
+        "url": "https://open.spotify.com/album/7mi2Td5xgke6KBnfDjP4ao"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 269065,
-      "name": "Feelin' Groovy - Live at Orange Lounge",
-      "url": "https://open.spotify.com/track/5sktNvNCghzLvPUvLVyV7m"
+      "duration_ms": 254093,
+      "name": "How I Wish",
+      "url": "https://open.spotify.com/track/5HK4yDAEmmUA1588782PD5"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "I'm on a Roll",
-        "url": "https://open.spotify.com/album/58yG3zRmsrOWHKUVp6bCR6"
-      },
-      "artists": [
-        {
-          "name": "Kimberose",
-          "url": "https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL"
-        }
-      ],
-      "duration_ms": 189863,
-      "name": "I\u2019m on a Roll",
-      "url": "https://open.spotify.com/track/1y2OtZELxfZRSPXOwkhjHv"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Mid Spiral: Growth",
         "url": "https://open.spotify.com/album/5CqumIo51QeCiboYgpxpN8"
@@ -593,7 +649,39 @@
       "url": "https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Feelin' Groovy (Live at Orange Lounge)",
+        "url": "https://open.spotify.com/album/6fpOW4T0Ik4pbNqmhUvsJM"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 269065,
+      "name": "Feelin' Groovy - Live at Orange Lounge",
+      "url": "https://open.spotify.com/track/5sktNvNCghzLvPUvLVyV7m"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Une Chanson Douce",
+        "url": "https://open.spotify.com/album/3AsXHghl7Z9VBLkX0g4TIB"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Une Chanson Douce",
+      "url": "https://open.spotify.com/track/6WhWdVpXBLdc9CXOm7uDlM"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
@@ -609,7 +697,7 @@
       "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Ajala",
         "url": "https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX"
@@ -625,7 +713,7 @@
       "url": "https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/2QxhY2X1O0LLej9YzDaZcN"
@@ -641,7 +729,7 @@
       "url": "https://open.spotify.com/track/0eqefuVYbQCHFJ3TxFD9KA"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Nymphea",
         "url": "https://open.spotify.com/album/4QPC8VgOOEh6pBGmlPbSF0"
@@ -657,7 +745,7 @@
       "url": "https://open.spotify.com/track/1HxY3Z3vFws3fTsiOW1utQ"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Before You Walk",
         "url": "https://open.spotify.com/album/4zGYF379zSkcvLSsvCqpiX"
@@ -677,7 +765,7 @@
       "url": "https://open.spotify.com/track/2ekSaRSd5y7tVl1FKdWy6K"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Fly with Me",
         "url": "https://open.spotify.com/album/0jxZUWyB9Hfgo3NVt4ss2f"
@@ -693,7 +781,7 @@
       "url": "https://open.spotify.com/track/5xCSNRcQhOUpJjGWVkCYoL"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Below Dawn",
         "url": "https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw"
@@ -709,7 +797,7 @@
       "url": "https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "I Cover the Waterfront",
         "url": "https://open.spotify.com/album/0O35zsyZBnWVAJTQSqp1mu"
@@ -733,7 +821,7 @@
       "url": "https://open.spotify.com/track/6gzE7AzP73YongOc8OU56N"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Over When It's Over",
         "url": "https://open.spotify.com/album/6jDVKFjMqctoXlhxDl0FyW"
@@ -749,7 +837,7 @@
       "url": "https://open.spotify.com/track/4ReyhFTpfBriTPxdUmkmuv"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Soon As I Can",
         "url": "https://open.spotify.com/album/2w8f9kV5iT5uRHzoX8N4ZJ"
@@ -765,7 +853,7 @@
       "url": "https://open.spotify.com/track/5wNoUMukHWRExLKTiqIKmL"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/2wQ82L31Pd99UVfS4wJs7H"
@@ -785,7 +873,7 @@
       "url": "https://open.spotify.com/track/3wSkiU2kjlunkqm2PcZZLa"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "something will happen",
         "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
@@ -801,43 +889,7 @@
       "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Showman Dan",
-        "url": "https://open.spotify.com/album/5UkqnZeSLEafGVLyqRe38r"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Showman Dan",
-      "url": "https://open.spotify.com/track/6PfdBLM4XoGyWTrhnaVWgI"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "My Baby Just Cares for Me (Pompignan Take)",
-        "url": "https://open.spotify.com/album/3lcDjloVVM2Iu43tyRDatt"
-      },
-      "artists": [
-        {
-          "name": "Jacky Terrasson",
-          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
-        },
-        {
-          "name": "Kareen Guiock-Thuram",
-          "url": "https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "My Baby Just Cares for Me (Pompignan Take)",
-      "url": "https://open.spotify.com/track/7MT7wDaOW2nzOthUTS2GR8"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
@@ -859,58 +911,6 @@
       "duration_ms": 246836,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "D Day",
-        "url": "https://open.spotify.com/album/5jiKkzg09f3YoQq5ewYSR8"
-      },
-      "artists": [
-        {
-          "name": "Monty Alexander",
-          "url": "https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh"
-        }
-      ],
-      "duration_ms": 390733,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/4gnLPUf5GDEH1jl8XGqM2O"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/5CI5Ww2MciydIAesA5VmPR"
-      },
-      "artists": [
-        {
-          "name": "CHERISE",
-          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
-        },
-        {
-          "name": "Emile Londonien",
-          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
-        }
-      ],
-      "duration_ms": 208978,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/6bsCkIuP5zdST3CrvBJDnm"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Ordinaire",
-        "url": "https://open.spotify.com/album/00EeSGGVZmAfATtQcB8a20"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 246078,
-      "name": "Ordinaire",
-      "url": "https://open.spotify.com/track/4vpgTddDyBV25oLHhXDfYa"
     }
   ],
   "unique_name": "Jazz Club",

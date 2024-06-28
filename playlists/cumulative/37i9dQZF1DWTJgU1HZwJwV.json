@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 231038,
       "name": "Adjacent",
       "url": "https://open.spotify.com/track/2xfu6IZrsxJmbVRM4slfN9"
@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 166643,
       "name": "Dois Mundos",
       "url": "https://open.spotify.com/track/4Ls25DZAykE5rhatYaFivp"
@@ -4249,6 +4249,24 @@
     },
     {
       "album": {
+        "name": "Light and Shadow",
+        "url": "https://open.spotify.com/album/4rxHOblHlIChJOhXc4JQfX"
+      },
+      "artists": [
+        {
+          "name": "Auguste Braun",
+          "url": "https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145862,
+      "name": "Light and Shadow",
+      "url": "https://open.spotify.com/track/37CI7f1K9z8sPBbXfCTUkD"
+    },
+    {
+      "album": {
         "name": "Like no other",
         "url": "https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb"
       },
@@ -4988,6 +5006,24 @@
       "duration_ms": 149422,
       "name": "Moments with you",
       "url": "https://open.spotify.com/track/3p9wB5uVvsf0BzqY8y0W3X"
+    },
+    {
+      "album": {
+        "name": "Monomoy Island",
+        "url": "https://open.spotify.com/album/3KH4B5WINP47klWZnHcECb"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157933,
+      "name": "Monomoy Island",
+      "url": "https://open.spotify.com/track/0VED9YsIpu92yespAJRF8O"
     },
     {
       "album": {
@@ -6882,7 +6918,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 155553,
       "name": "Signum",
       "url": "https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ"
@@ -8380,7 +8416,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 174250,
       "name": "View From an Ocean Window",
       "url": "https://open.spotify.com/track/5wDqNmiNn05olf0aavPjfy"

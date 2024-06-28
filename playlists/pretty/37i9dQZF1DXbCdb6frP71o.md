@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 
 > Devotional tracks for an immersive Ramadan\. Cover: Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,261 likes - 71 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,264 likes - 71 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [O Mere Maula](https://open.spotify.com/track/1cox6Zf3yJ3QzK1aB88Zqr) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [O Mere Maula](https://open.spotify.com/album/5sQTM5G3Q8PWuDsPfyxiYB) | 5:52 |
+| 1 | [O Mere Maula](https://open.spotify.com/track/1cox6Zf3yJ3QzK1aB88Zqr) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [O Mere Maula](https://open.spotify.com/album/5sQTM5G3Q8PWuDsPfyxiYB) | 5:25 |
 | 2 | [Tajdar\-E\-Haram](https://open.spotify.com/track/0yLWjwmkKkIGZcVCKtLOrz) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 10:16 |
 | 3 | [Illahi Teri Chaukhat Par](https://open.spotify.com/track/4nGcmvrlNuw4jLeC9Kv4wh) | [Junaid Jamshed](https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D) | [Kya Haseen Samaa Hoga \(1964 \- 2016\) \[Islamic Naats\]](https://open.spotify.com/album/77K3xlO4Damfc7Z0U5IPY4) | 4:55 |
 | 4 | [Faslon Ko Takalluf Hai](https://open.spotify.com/track/1FpcOqFbqJGAnACwB8yNLW) | [Qari Waheed Zafar Qasmi](https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY) | [Gulzar e Madina, Vol\. 2](https://open.spotify.com/album/7kQP5I9bMRI24rA3NPm3aX) | 9:02 |

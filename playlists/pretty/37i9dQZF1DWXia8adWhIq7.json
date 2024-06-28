@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 95155,
+  "num_followers": 95200,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-06-21 03:01:00",
       "album": {
+        "name": "minha vida",
+        "url": "https://open.spotify.com/album/4kG8hRdehnWtIaEkJdG4VY"
+      },
+      "artists": [
+        {
+          "name": "LLC Flame",
+          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
+        },
+        {
+          "name": "DJ HTSW",
+          "url": "https://open.spotify.com/artist/4dXzdbWstY0rXrJiL3Cn6R"
+        }
+      ],
+      "duration_ms": 135230,
+      "name": "minha vida",
+      "url": "https://open.spotify.com/track/4u9rhcGy5RjTxJSbETsqsP"
+    },
+    {
+      "added_at": "2024-06-21 03:01:00",
+      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 166530,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
-    },
-    {
-      "added_at": "2024-06-21 03:01:00",
-      "album": {
-        "name": "minha vida",
-        "url": "https://open.spotify.com/album/4kG8hRdehnWtIaEkJdG4VY"
-      },
-      "artists": [
-        {
-          "name": "LLC Flame",
-          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
-        },
-        {
-          "name": "DJ HTSW",
-          "url": "https://open.spotify.com/artist/4dXzdbWstY0rXrJiL3Cn6R"
-        }
-      ],
-      "duration_ms": 135230,
-      "name": "minha vida",
-      "url": "https://open.spotify.com/track/4u9rhcGy5RjTxJSbETsqsP"
     },
     {
       "added_at": "2024-06-21 03:01:00",

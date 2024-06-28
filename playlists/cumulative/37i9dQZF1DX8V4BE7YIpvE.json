@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Metro Station",
+        "url": "https://open.spotify.com/album/0KpgNqVswTCRZgs0m871bZ"
+      },
+      "artists": [
+        {
+          "name": "Pink Pyramid",
+          "url": "https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161460,
+      "name": "Metro Station",
+      "url": "https://open.spotify.com/track/0tAlg7NRFVk2VAQPScRQNO"
+    },
+    {
+      "album": {
         "name": "Hot Pursuit",
         "url": "https://open.spotify.com/album/7fjnxACrad6JzIogFWUpNy"
       },

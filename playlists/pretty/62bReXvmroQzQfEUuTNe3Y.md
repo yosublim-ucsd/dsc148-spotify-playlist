@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[selected.](https://open.spotify.com/user/selectedbase) - 1,284,001 likes - 150 songs - 8 hr 5 min
+[selected.](https://open.spotify.com/user/selectedbase) - 1,285,007 likes - 150 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 67 | [Allein Allein](https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Allein Allein](https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2) | 3:41 |
 | 68 | [FORMATIONS](https://open.spotify.com/track/1DRLIUG8HFTBfJOFYaByZn) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 2:57 |
 | 69 | [Wild](https://open.spotify.com/track/7z8grMV3fvfgDgEFrCdaAU) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [TAPE ANGEL](https://open.spotify.com/artist/1rH3SUHdkjjouhmAQGC1Ot) | [Wild](https://open.spotify.com/album/2H5dBkkhMViquQiltcUzZt) | 2:13 |
-| 70 | [Ready For You \(feat\. Celeste\) \(feat\. Celeste\)](https://open.spotify.com/track/6M8xfsxff0q3u4UTg5WcTI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/38HQUXPU9vnrA8TbkUtTIQ) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 4:28 |
+| 70 | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/track/6M8xfsxff0q3u4UTg5WcTI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/38HQUXPU9vnrA8TbkUtTIQ) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 4:28 |
 | 71 | [how to get there \- Ross Quinn Remix](https://open.spotify.com/track/2nRYGg8XsSyeZf76z4lx4i) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH), [Andrew Applepie](https://open.spotify.com/artist/5BYcwjrQth7em7maAt0yKE), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [how to get there \(Ross Quinn Remix\)](https://open.spotify.com/album/11dX592vY3BKTZyASXUjZa) | 4:02 |
 | 72 | [Haunted](https://open.spotify.com/track/7qX8Vl5H5IxQiXGWXHa0kD) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Haunted](https://open.spotify.com/album/1OQQ2G0sQQd3pJa5cubSxz) | 3:25 |
 | 73 | [Down](https://open.spotify.com/track/3o3OvVUrJeRefep6zMDpH7) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn), [MidnightSun](https://open.spotify.com/artist/7LvDaiMjUn5YgZPX3MEwf1) | [Down](https://open.spotify.com/album/5W23C2gErmU9mf8BHEPdhr) | 3:14 |

@@ -2,7 +2,7 @@
 
 ### [This Is Greeicy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33YUTu)
 
-> This is Greeicy\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is Greeicy\. Los temas esenciales, todos en una lista.
 
 74 songs - 3 hr 41 min
 

@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 243529,
       "name": "Cannonball - Will Sparks Remix",
       "url": "https://open.spotify.com/track/4wRKAezWo1oLA0g2fw0XE9"
@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 159777,
       "name": "Flight 643 - KAAZE Remix",
       "url": "https://open.spotify.com/track/7eV5PavCAxbKD026Xc1GYk"
@@ -4699,6 +4699,28 @@
     },
     {
       "album": {
+        "name": "Love Takes Over",
+        "url": "https://open.spotify.com/album/794yfQdOCAI93WHwTkVEro"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177428,
+      "name": "Love Takes Over",
+      "url": "https://open.spotify.com/track/4cGhsEZuHW25c7njXpSx2v"
+    },
+    {
+      "album": {
         "name": "Lowrider",
         "url": "https://open.spotify.com/album/26R1i4mklMHdNGF83QxaP0"
       },
@@ -6525,6 +6547,28 @@
     },
     {
       "album": {
+        "name": "Pyramid Rave / Feel The Energy",
+        "url": "https://open.spotify.com/album/4V5x8rW9r78KGjFcgpwbPR"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156808,
+      "name": "Pyramid Rave",
+      "url": "https://open.spotify.com/track/3qjER0dcHhcWX2HSEPneF2"
+    },
+    {
+      "album": {
         "name": "Quantum",
         "url": "https://open.spotify.com/album/35xmlcqBI4rtJZXiDAI9Xo"
       },
@@ -8343,6 +8387,24 @@
     },
     {
       "album": {
+        "name": "Techno Syndrome (Mortal Kombat)",
+        "url": "https://open.spotify.com/album/3MxO966dKkJKwiAtymwjm7"
+      },
+      "artists": [
+        {
+          "name": "D-Devils",
+          "url": "https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202421,
+      "name": "Techno Syndrome (Mortal Kombat)",
+      "url": "https://open.spotify.com/track/6xKm0KcYuXy41P8b3yzXZg"
+    },
+    {
+      "album": {
         "name": "Tell Me Why (Maddix Remix)",
         "url": "https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe"
       },
@@ -8540,7 +8602,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 171006,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"

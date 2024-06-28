@@ -5164,7 +5164,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 187116,
       "name": "If I Had a Bar",
       "url": "https://open.spotify.com/track/6BGBFbs555m7u2yFRXWJey"
@@ -6606,6 +6606,28 @@
       "duration_ms": 206550,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/0JPRXF8h2ysd2qXJQQa4GK"
+    },
+    {
+      "album": {
+        "name": "Movin' South",
+        "url": "https://open.spotify.com/album/6OVM77abPY7gmduf1TB2R9"
+      },
+      "artists": [
+        {
+          "name": "Texas Hill",
+          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
+        },
+        {
+          "name": "Adam Wakefield",
+          "url": "https://open.spotify.com/artist/6vVB9hUpiPCp5SWAYwSzUt"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233888,
+      "name": "Movin' South",
+      "url": "https://open.spotify.com/track/7mByphelz3R7083rZiCOts"
     },
     {
       "album": {

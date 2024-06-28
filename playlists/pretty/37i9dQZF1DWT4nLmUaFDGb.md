@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,872 likes - 150 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,005 likes - 150 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 38 | [You Make Me Feel so Young](https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 4:08 |
 | 39 | [Stars Fell On Alabama](https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:52 |
 | 40 | [Will you still love me tomorrow](https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 4:47 |
-| 41 | [Talking to Myself](https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Jacob Fischer](https://open.spotify.com/artist/0OknVSe0ayiLhKnbdV0uUF), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Chris Minh Doky](https://open.spotify.com/artist/5WebagAP4zctj6dWhmRsLL), [Rasmus Kihlberg](https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR) | [Remembering You](https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw) | 4:00 |
-| 42 | [Make You Feel My Love](https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reawakened](https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW) | 3:32 |
+| 41 | [Make You Feel My Love](https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reawakened](https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW) | 3:32 |
+| 42 | [Talking to Myself](https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Jacob Fischer](https://open.spotify.com/artist/0OknVSe0ayiLhKnbdV0uUF), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Chris Minh Doky](https://open.spotify.com/artist/5WebagAP4zctj6dWhmRsLL), [Rasmus Kihlberg](https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR) | [Remembering You](https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw) | 4:00 |
 | 43 | [Oh My Love](https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [The Big Picture](https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56) | 2:46 |
 | 44 | [Since I Fell For You](https://open.spotify.com/track/2fcmS6jBbfEIzyubu8LuFb) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe) | 2:58 |
 | 45 | [Place To Hide](https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Soul Eyes](https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9) | 3:44 |

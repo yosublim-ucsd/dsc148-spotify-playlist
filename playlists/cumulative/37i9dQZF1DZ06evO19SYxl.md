@@ -2,7 +2,7 @@
 
 ### [This Is Tex Tex](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19SYxl)
 
-> This is Tex Tex\. Tutti i brani in un'unica playlist.
+> This is Tex Tex\. The essential tracks, all in one playlist.
 
 58 songs - 3 hr 34 min
 

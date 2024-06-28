@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,863 songs - 4 day 9 hr 37 min
+1,864 songs - 4 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1517,6 +1517,7 @@
 | [Sweet Disposition \- John Summit & Silver Panda Remix](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Sweet Disposition \(John Summit & Silver Panda Remix\)](https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5) | 4:11 | 2024-01-27 | 2024-03-13 |
 | [Sweet Melody](https://open.spotify.com/track/00JVkBS6jBTPxgrihQL45a) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Sweet Melody](https://open.spotify.com/album/0UUXwwkKZsd7xxg0cS8jcd) | 2:29 | 2024-04-05 | 2024-05-21 |
 | [System](https://open.spotify.com/track/1Xio5cQPFkGh1RZOBlOPVO) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [System EP](https://open.spotify.com/album/10sdLjtJkKLiFE7Ohmm3Oh) | 5:20 | 2023-11-17 | 2023-11-28 |
+| [System Overload](https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [System Overload](https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9) | 2:49 | 2024-06-27 |  |
 | [Systems](https://open.spotify.com/track/0YQNYbRsnyQRidGJVqhegH) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [Systems](https://open.spotify.com/album/0EEP26OCAWe9dOio2dEdOp) | 2:47 | 2022-09-09 | 2022-09-18 |
 | [T.F.C.](https://open.spotify.com/track/4kDuFLglikZPQXUMfmWj1F) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [T.F.C.](https://open.spotify.com/album/0W8dOcmOLqtPv79RzaUWIT) | 3:07 | 2023-03-17 | 2023-03-25 |
 | [T.Y.S.D\. \(Throw Your Soul Down\) \- HoneyLuv Remix](https://open.spotify.com/track/1PVROc2q2huRGb1sd0FJWw) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [T.Y.S.D\. \(Throw Your Soul Down\) \[Remix EP\]](https://open.spotify.com/album/3pogOmNSH3PIO1bNbz7d28) | 3:15 | 2022-11-11 | 2022-11-19 |

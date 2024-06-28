@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/6GvYG4rpoXG56VwBYbKi6o?si=Z6dAfTXYQ9uT0eN-4Y897w\">Nolene</a>  ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/33I6EfjZ8Wo47WgupE7Pan\">Monya</a>  ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -1808,6 +1808,24 @@
       "duration_ms": 204525,
       "name": "Bly by my, (my lief)",
       "url": "https://open.spotify.com/track/6exV24WbDWM2pmxacmAHZn"
+    },
+    {
+      "album": {
+        "name": "Sirkels",
+        "url": "https://open.spotify.com/album/3W0z7szwDxlcw1Zz3faByd"
+      },
+      "artists": [
+        {
+          "name": "Anton Goosen",
+          "url": "https://open.spotify.com/artist/24TpZ86w1RuD6QqhJQn3Wg"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204525,
+      "name": "Bly by my, (my lief)",
+      "url": "https://open.spotify.com/track/7GAAIqlPl8OVWbRS5QHdID"
     },
     {
       "album": {
@@ -3977,6 +3995,24 @@
     },
     {
       "album": {
+        "name": "Dis 'n Vibe",
+        "url": "https://open.spotify.com/album/2Mo2TPvo9aehgvcLdyP67Z"
+      },
+      "artists": [
+        {
+          "name": "Juanita du Plessis",
+          "url": "https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Dis 'n Vibe",
+      "url": "https://open.spotify.com/track/5cM47TXZurGyo8c0JcOJ8v"
+    },
+    {
+      "album": {
         "name": "Tweede Kans",
         "url": "https://open.spotify.com/album/6P0kV5BdH18zi30wORhwLE"
       },
@@ -5156,7 +5192,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 223264,
       "name": "Elke Liewe Ding",
       "url": "https://open.spotify.com/track/23z91Leg9k5yVesT8pQB4z"
@@ -6114,7 +6150,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 200347,
       "name": "Hart Breek",
       "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
@@ -6176,6 +6212,24 @@
       "duration_ms": 155840,
       "name": "Hartklop REMIX",
       "url": "https://open.spotify.com/track/29GFGVkl82QZXJHjdcDwGZ"
+    },
+    {
+      "album": {
+        "name": "Proe Soos Nog",
+        "url": "https://open.spotify.com/album/3QFQnR9V6HOhs0tiMJVvOS"
+      },
+      "artists": [
+        {
+          "name": "Prop",
+          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Hasie Hop",
+      "url": "https://open.spotify.com/track/7mJEgMNaCnwUx4Y4jcP2rd"
     },
     {
       "album": {
@@ -6818,7 +6872,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 215896,
       "name": "Hou Bene Hou",
       "url": "https://open.spotify.com/track/3OtXZRDaPgr9w3NO84Um3X"
@@ -9055,6 +9109,24 @@
     },
     {
       "album": {
+        "name": "Grootste Treffers 1996 - 2003",
+        "url": "https://open.spotify.com/album/2xKzKEjEMUROZ8c4gVGkSK"
+      },
+      "artists": [
+        {
+          "name": "N\u00e1dine",
+          "url": "https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170026,
+      "name": "Krappies & Krefies",
+      "url": "https://open.spotify.com/track/6W8dbVPXTF3E546TbCNYL3"
+    },
+    {
+      "album": {
         "name": "Kuilsrivier",
         "url": "https://open.spotify.com/album/04sPGUOWuXAO4Z5k7XIHc5"
       },
@@ -10298,7 +10370,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 213000,
       "name": "Madelein",
       "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
@@ -10750,6 +10822,24 @@
       "duration_ms": 153252,
       "name": "Middernag Ongetem",
       "url": "https://open.spotify.com/track/5nzv5NHPpj1l8lyIqz97Lm"
+    },
+    {
+      "album": {
+        "name": "Milkshakes By OJ's",
+        "url": "https://open.spotify.com/album/78a89hgztXzjGXahBKz0NZ"
+      },
+      "artists": [
+        {
+          "name": "Monya",
+          "url": "https://open.spotify.com/artist/33I6EfjZ8Wo47WgupE7Pan"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191544,
+      "name": "Milkshakes By OJ's",
+      "url": "https://open.spotify.com/track/6yfmkWXzrCeBeDmUl0mciw"
     },
     {
       "album": {
@@ -15145,6 +15235,24 @@
     },
     {
       "album": {
+        "name": "Sou Vir Jou",
+        "url": "https://open.spotify.com/album/0myi1ku1lKysaEXDKeesL7"
+      },
+      "artists": [
+        {
+          "name": "Jay",
+          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179414,
+      "name": "Sou Vir Jou",
+      "url": "https://open.spotify.com/track/6b9Dja0fQQBQv0tIhWeJCr"
+    },
+    {
+      "album": {
         "name": "Spicy",
         "url": "https://open.spotify.com/album/5L9LZdUqlU9xccbynFA7Vf"
       },
@@ -15312,7 +15420,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 214624,
       "name": "Stadig",
       "url": "https://open.spotify.com/track/3qdqbjYUNv3QYIBchTSaUq"
@@ -15486,7 +15594,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 213461,
       "name": "Sterre",
       "url": "https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0"
@@ -15580,7 +15688,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 178669,
       "name": "Stoom",
       "url": "https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2"
@@ -16878,6 +16986,24 @@
       "duration_ms": 247083,
       "name": "Vanoggend In My Kop",
       "url": "https://open.spotify.com/track/3w8X44AryrZlXsiPAPIUjS"
+    },
+    {
+      "album": {
+        "name": "Vape en Suip",
+        "url": "https://open.spotify.com/album/040V08JxKckxzVAtREYrcN"
+      },
+      "artists": [
+        {
+          "name": "Armand Barnard",
+          "url": "https://open.spotify.com/artist/50UEudz9B1sg3tYVRD5OTe"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152608,
+      "name": "Vape en Suip",
+      "url": "https://open.spotify.com/track/4tq0ExdlIbZT00HR69mTe6"
     },
     {
       "album": {

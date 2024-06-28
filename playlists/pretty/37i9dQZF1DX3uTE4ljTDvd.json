@@ -303,6 +303,22 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
+        "name": "Eu Me Rendo",
+        "url": "https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H"
+      },
+      "artists": [
+        {
+          "name": "Man\u00fa Paiva",
+          "url": "https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "Eu Me Rendo",
+      "url": "https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
         "name": "Ele Vem",
         "url": "https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 359352,
       "name": "Ele Vem",
       "url": "https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
-        "name": "Eu Me Rendo",
-        "url": "https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H"
-      },
-      "artists": [
-        {
-          "name": "Man\u00fa Paiva",
-          "url": "https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "Eu Me Rendo",
-      "url": "https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "\u00c1gape (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru"
-      },
-      "artists": [
-        {
-          "name": "\u00c1quila",
-          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
-        }
-      ],
-      "duration_ms": 573739,
-      "name": "\u00c1gape - Ao Vivo",
-      "url": "https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz"
-    },
-    {
-      "added_at": "2023-12-21 22:17:17",
-      "album": {
         "name": "Vai Adorando (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 330409,
       "name": "Vai Adorando (Ao Vivo)",
       "url": "https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH"
+    },
+    {
+      "added_at": "2023-12-21 22:17:17",
+      "album": {
+        "name": "\u00c1gape (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru"
+      },
+      "artists": [
+        {
+          "name": "\u00c1quila",
+          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
+        }
+      ],
+      "duration_ms": 573739,
+      "name": "\u00c1gape - Ao Vivo",
+      "url": "https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -483,8 +483,8 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "A Igreja Te Adora",
-        "url": "https://open.spotify.com/album/1x4xaiUFRa6T8ZvIKu4l68"
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
       },
       "artists": [
         {
@@ -492,13 +492,13 @@
           "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
         },
         {
-          "name": "Elizeu Alves",
-          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
         }
       ],
-      "duration_ms": 269165,
-      "name": "A Igreja Te Adora",
-      "url": "https://open.spotify.com/track/7AeBgQQQKVIvxD6jBEdF2c"
+      "duration_ms": 216131,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
     },
     {
       "added_at": "2023-12-21 22:17:17",
@@ -627,8 +627,8 @@
     {
       "added_at": "2023-12-21 22:17:17",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
+        "name": "A Igreja Te Adora",
+        "url": "https://open.spotify.com/album/1x4xaiUFRa6T8ZvIKu4l68"
       },
       "artists": [
         {
@@ -636,13 +636,13 @@
           "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
         },
         {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+          "name": "Elizeu Alves",
+          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
         }
       ],
-      "duration_ms": 216131,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
+      "duration_ms": 269165,
+      "name": "A Igreja Te Adora",
+      "url": "https://open.spotify.com/track/7AeBgQQQKVIvxD6jBEdF2c"
     },
     {
       "added_at": "2023-12-21 22:17:17",

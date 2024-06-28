@@ -1,15 +1,63 @@
 {
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Zartmann",
-  "num_followers": 25863,
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: ENNIO",
+  "num_followers": 25871,
   "original_name": "RADAR GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnSmYAAAAADC7SkH9wWRUOzI1KF4BXzh",
+  "snapshot_id": "Zn3g4AAAAADUeKTr/G05ED3eoWkVEeJn",
   "tracks": [
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Strategie",
+        "url": "https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "duration_ms": 158813,
+      "name": "Strategie",
+      "url": "https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Crazy Woman",
+        "url": "https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 168517,
+      "name": "Crazy Woman",
+      "url": "https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Wenn du gehst",
+        "url": "https://open.spotify.com/album/3M9Bvk0dfZv1HOUCScxpIK"
+      },
+      "artists": [
+        {
+          "name": "Aylo",
+          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
+        }
+      ],
+      "duration_ms": 150084,
+      "name": "Wenn du gehst",
+      "url": "https://open.spotify.com/track/7mDjp1foA6p4us9QZj8s8f"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "daf\u00fcr bin ich frei EP",
         "url": "https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW"
@@ -29,7 +77,7 @@
       "url": "https://open.spotify.com/track/40sRMHcdSscmLVWqCiFdML"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Jungs",
         "url": "https://open.spotify.com/album/6xck8Dqp9molj0ILkbwMbV"
@@ -45,7 +93,7 @@
       "url": "https://open.spotify.com/track/1jho4k3ZW3EcDEKDuoAaEs"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "I think I lost my mind",
         "url": "https://open.spotify.com/album/45UUOrbUghYGCTxrcezeqb"
@@ -61,7 +109,7 @@
       "url": "https://open.spotify.com/track/7MVpggsOXabGLRYd6O7COl"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Baian\u00e1",
         "url": "https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2"
@@ -77,7 +125,7 @@
       "url": "https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Mittelfinger",
         "url": "https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH"
@@ -93,7 +141,7 @@
       "url": "https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Balance Of Love",
         "url": "https://open.spotify.com/album/0XRMv76EvmgFuMPoBDW1OY"
@@ -109,7 +157,7 @@
       "url": "https://open.spotify.com/track/1DBtUEMgDSqQEUC1NlDYB3"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "2004",
         "url": "https://open.spotify.com/album/25Gu3kn7qyTJ4zt5CSpbeQ"
@@ -125,7 +173,7 @@
       "url": "https://open.spotify.com/track/70mnNt3wqV6MYIAR9vvixQ"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "It's A Problem",
         "url": "https://open.spotify.com/album/2KY2vz3NYHLHXvX6A0cjDL"
@@ -141,7 +189,7 @@
       "url": "https://open.spotify.com/track/1xBKpJTibQ2GD23ZIw47Yx"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Hiatus",
         "url": "https://open.spotify.com/album/15vGlftpVYpyr6DTY7rDd2"
@@ -157,7 +205,7 @@
       "url": "https://open.spotify.com/track/6mAJTxk3J3ifwnCKKjKBMK"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/22t6nu9vCexm0YmvteIGp7"
@@ -173,7 +221,7 @@
       "url": "https://open.spotify.com/track/2bcmJLy2ulWs3jkfQBTwhl"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Verschwendete Zeit",
         "url": "https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy"
@@ -201,7 +249,7 @@
       "url": "https://open.spotify.com/track/4Ku2j0poFCLaSAEtncIeLi"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/4uBdcNdHLX8bxB3w0auCkQ"
@@ -217,23 +265,7 @@
       "url": "https://open.spotify.com/track/7n7glIQ3SSM1LLPCPpPceF"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Allein",
-        "url": "https://open.spotify.com/album/1Q8LiMZVYTq0KhRpx8OB1o"
-      },
-      "artists": [
-        {
-          "name": "ENNIO",
-          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Allein",
-      "url": "https://open.spotify.com/track/0GULOBrz0g7XwI39xjl93N"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Dimelo",
         "url": "https://open.spotify.com/album/72rHHjp2UVsp6DlfSLToHu"
@@ -249,7 +281,7 @@
       "url": "https://open.spotify.com/track/0EExLvFDjUzoonMODtXkOm"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "viele",
         "url": "https://open.spotify.com/album/4as6aHBiCwqiaXzxuIGz7A"
@@ -265,7 +297,7 @@
       "url": "https://open.spotify.com/track/38zw0z87YOu2zDY2DbgiyV"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Willst du",
         "url": "https://open.spotify.com/album/3v6PmEA3aZhxeG1Y62nmS3"
@@ -285,7 +317,7 @@
       "url": "https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "BLESSED",
         "url": "https://open.spotify.com/album/1wL7610e4VBIR2iTziwnHv"
@@ -301,7 +333,7 @@
       "url": "https://open.spotify.com/track/2cPqx00sDnkXgxHg9fSZQj"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Z0RNIG [2O24]",
         "url": "https://open.spotify.com/album/6jd8NOxJvrkCjWGfbyZbHg"
@@ -317,7 +349,7 @@
       "url": "https://open.spotify.com/track/4bL1w0m4bPkjqMfi93RK1x"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Pink Skies",
         "url": "https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM"
@@ -333,7 +365,7 @@
       "url": "https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "GO TIME",
         "url": "https://open.spotify.com/album/2v46Uqtl1mZWr3CUzZLXnP"
@@ -349,23 +381,7 @@
       "url": "https://open.spotify.com/track/45qb6m1SimXHGVp8s5UTHn"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Retail Therapy",
-        "url": "https://open.spotify.com/album/6m0WgwY6xKMDwtDutoKgiI"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 148671,
-      "name": "Retail Therapy",
-      "url": "https://open.spotify.com/track/6UvodWwiKAwVxXK2gfLru0"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "ADHD",
         "url": "https://open.spotify.com/album/1R8E8cwhWD2NI1Y04F6rQu"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/6YYjOdTC6r8woS303ScscC"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "SUPER NOVAA",
         "url": "https://open.spotify.com/album/3eKmwCRUPW3KapM3iIlQsJ"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/5wBeqF4IpiPFyUZf347KfG"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "vier aufnahmen",
         "url": "https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Summertime Love",
         "url": "https://open.spotify.com/album/6EwEfoNXHySH3y02pMYxAb"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/1E9EYbxszlcWOzJcl5ZCDC"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/18Vr8wifIO7BQsPEgD1OgN"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/1s2LA4dVnWikMXVtyBRaj1"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Forest Mystery",
         "url": "https://open.spotify.com/album/6VtN92LHbDON4S8KV6wPYL"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/1UfzVF3KVgc05I8HvPtJ6Y"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "FRAULEIN B",
         "url": "https://open.spotify.com/album/0O8zVFS6l712Lct2D83ct2"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/6cgKtmVhQpD041ECgvcnCn"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/7bg9faMjJDmN8VKC9gss9x"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Delulu",
         "url": "https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd"
@@ -513,7 +529,23 @@
       "url": "https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Allein",
+        "url": "https://open.spotify.com/album/1Q8LiMZVYTq0KhRpx8OB1o"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Allein",
+      "url": "https://open.spotify.com/track/0GULOBrz0g7XwI39xjl93N"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "I Feel Alone These Days",
         "url": "https://open.spotify.com/album/3XUpS6zpdfyYvqLHktRXia"
@@ -529,7 +561,7 @@
       "url": "https://open.spotify.com/track/3oEE9CTAWGucULUz6q9s7l"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Weniger Allein",
         "url": "https://open.spotify.com/album/6xFBY6ZHtbU5wNbsaanHwc"
@@ -545,7 +577,23 @@
       "url": "https://open.spotify.com/track/3HuQvPFNb8e8pYITgwFPQ7"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Retail Therapy",
+        "url": "https://open.spotify.com/album/6m0WgwY6xKMDwtDutoKgiI"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 148671,
+      "name": "Retail Therapy",
+      "url": "https://open.spotify.com/track/6UvodWwiKAwVxXK2gfLru0"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "und du suchst noch \u00fcberall, alles was mal von mir war",
         "url": "https://open.spotify.com/album/3tro2KxwswtcYlfkbkR9kZ"
@@ -561,27 +609,7 @@
       "url": "https://open.spotify.com/track/5wOPYSiXuK3kpcf3ZH1BkM"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "James Blake",
-        "url": "https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW"
-      },
-      "artists": [
-        {
-          "name": "Provinz",
-          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
-        },
-        {
-          "name": "ENNIO",
-          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
-        }
-      ],
-      "duration_ms": 224146,
-      "name": "James Blake",
-      "url": "https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Lucky Dancer",
         "url": "https://open.spotify.com/album/3F9fgG7jNyJR7i344LJnJF"
@@ -597,7 +625,7 @@
       "url": "https://open.spotify.com/track/3CuHNwe5re2CcjlmX6MmN1"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Never Never",
         "url": "https://open.spotify.com/album/0NhVvH6l27Xyeo7PrToHKR"
@@ -613,7 +641,7 @@
       "url": "https://open.spotify.com/track/2P1pnhmmFON3lW4rzkjCm5"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "SCARYTALE",
         "url": "https://open.spotify.com/album/1AxVUJ0eJ0lyOzgRYXIP5g"
@@ -629,7 +657,7 @@
       "url": "https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "BAHNHOF",
         "url": "https://open.spotify.com/album/6u2OSCJpCOE5kOLhZb3V4g"
@@ -653,7 +681,7 @@
       "url": "https://open.spotify.com/track/7DKc8Gbi54gknk0qMRzOhO"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "sweatshop",
         "url": "https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS"
@@ -669,7 +697,7 @@
       "url": "https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7"
@@ -693,23 +721,27 @@
       "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Zeit",
-        "url": "https://open.spotify.com/album/4aL2wj06bRu9M93gzQJbpI"
+        "name": "James Blake",
+        "url": "https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW"
       },
       "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        },
         {
           "name": "ENNIO",
           "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
         }
       ],
-      "duration_ms": 135233,
-      "name": "Zeit",
-      "url": "https://open.spotify.com/track/6WoyIbtL9Ex5jxiGF7a5jE"
+      "duration_ms": 224146,
+      "name": "James Blake",
+      "url": "https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "denk mal dr\u00fcber nach...",
         "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
@@ -733,7 +765,7 @@
       "url": "https://open.spotify.com/track/3gro2tfkybWGoK9MflVLWs"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Blaue Stunde",
         "url": "https://open.spotify.com/album/48VSW134REUVskHHy2laF0"
@@ -749,7 +781,7 @@
       "url": "https://open.spotify.com/track/5OJDNeu3CDWxgfxu2BNown"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "S1",
         "url": "https://open.spotify.com/album/28Ud7hGlfVUwAMWxkW1RoJ"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/5M9h1FePRQwKlOOFdt9OSF"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Also was jetzt?",
         "url": "https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k"
@@ -793,23 +825,7 @@
       "url": "https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Red Flag",
-        "url": "https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 148074,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Piccolo",
         "url": "https://open.spotify.com/album/3Imzkvlri6mG8V04fsdFkv"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/0g3hdWIwkYStsPojCvDIG0"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "In My Novaa",
         "url": "https://open.spotify.com/album/6vEMutP9WTvE9vC5oxhH2a"
@@ -841,7 +857,7 @@
       "url": "https://open.spotify.com/track/0BWgnfDV4o5PPQMhcKfrzH"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Crushed by the Weight of the World",
         "url": "https://open.spotify.com/album/1Axcj3Di7G4Qw0iYTJAhC0"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/713AJFIsjfdlwC6IvY9FeJ"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Shirt & Handtuch",
         "url": "https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Herz",
         "url": "https://open.spotify.com/album/6pvbHjNeuK9qk4MaOU81w6"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/1Yryu4z1YbCmqkz76J18nb"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "ALL I REALLY WANT",
         "url": "https://open.spotify.com/album/6ae9qY5R5WqnR5SSZusmaf"
@@ -905,7 +921,7 @@
       "url": "https://open.spotify.com/track/2w88pnj10jrdX2jJyaAUKT"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7"
@@ -921,7 +937,7 @@
       "url": "https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "S\u00fc\u00dfe Tr\u00e4ume",
         "url": "https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf"
@@ -937,7 +953,7 @@
       "url": "https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Immer wenn du weinst",
         "url": "https://open.spotify.com/album/0ksQY1tGoSYQMweAYgmOpB"
@@ -953,7 +969,7 @@
       "url": "https://open.spotify.com/track/6GYGIEVQHFbYV5AvkJD8Mp"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Somebody EP",
         "url": "https://open.spotify.com/album/5pU5K5SdRh93tZ7gOrJ2s7"
@@ -969,7 +985,7 @@
       "url": "https://open.spotify.com/track/10UQj7uJ2RPG481QII1xpv"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Universum regelt",
         "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
@@ -985,23 +1001,7 @@
       "url": "https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
-      "album": {
-        "name": "Fucked Up.",
-        "url": "https://open.spotify.com/album/3369iQfBJZcTS1ZrMa3Jbx"
-      },
-      "artists": [
-        {
-          "name": "Aylo",
-          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Fucked Up.",
-      "url": "https://open.spotify.com/track/1nIUFAIo5U4Yc1KsnnnPz0"
-    },
-    {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "How Have You Been?",
         "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
@@ -1017,7 +1017,7 @@
       "url": "https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-06-27 22:00:00",
       "album": {
         "name": "Lipsticks & Heartbreaks",
         "url": "https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc"

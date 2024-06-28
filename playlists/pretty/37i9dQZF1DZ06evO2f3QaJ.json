@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnoIgAAAAABVTph0d4iFuyZ4BUrorotZ",
+  "snapshot_id": "ZntaAAAAAACfElSEoWbGIDs6elmw5FHj",
   "tracks": [
     {
       "added_at": null,
@@ -799,42 +799,6 @@
       "duration_ms": 179304,
       "name": "Benedito",
       "url": "https://open.spotify.com/track/0WFNGY9E8j64EPPiZj6F8y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vibranium",
-        "url": "https://open.spotify.com/album/2sPVR5oMt2K57ELzLcvz7w"
-      },
-      "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Dow Raiz",
-          "url": "https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu"
-        },
-        {
-          "name": "Eloy Polemico",
-          "url": "https://open.spotify.com/artist/4YbBYNU6hsYbEMtApK0WPc"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Nabil",
-          "url": "https://open.spotify.com/artist/40ZFGpZSOnRBpiAyuzJcR6"
-        },
-        {
-          "name": "Nego Max",
-          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
-        }
-      ],
-      "duration_ms": 274565,
-      "name": "Vibranium",
-      "url": "https://open.spotify.com/track/273J7WTpMjavzzDKu8i5Lr"
     },
     {
       "added_at": null,

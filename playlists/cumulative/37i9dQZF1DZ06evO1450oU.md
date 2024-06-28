@@ -2,7 +2,7 @@
 
 ### [This Is Salt Creek](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1450oU)
 
-> This is Salt Creek\. Tutti i brani in un'unica playlist.
+> This is Salt Creek\. The essential tracks, all in one playlist.
 
 27 songs - 1 hr 40 min
 

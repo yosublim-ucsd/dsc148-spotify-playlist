@@ -1,6 +1,6 @@
 {
   "description": "La casa del trap chileno al mando de Cris Mj.",
-  "num_followers": 113758,
+  "num_followers": 113865,
   "original_name": "Trapperz Chile",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2024-06-21 03:00:00",
       "album": {
-        "name": "ARES KLEIN",
+        "name": "PROYECTO A-KLEIN",
         "url": "https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k"
       },
       "artists": [
@@ -63,7 +63,7 @@
     {
       "added_at": "2024-06-21 03:00:00",
       "album": {
-        "name": "ARES KLEIN",
+        "name": "PROYECTO A-KLEIN",
         "url": "https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k"
       },
       "artists": [
@@ -2135,6 +2135,26 @@
       "duration_ms": 183050,
       "name": "Vivo Como Quiero",
       "url": "https://open.spotify.com/track/4Zop3VgmXAkUXqzNZqqOzn"
+    },
+    {
+      "added_at": "2024-06-21 03:00:00",
+      "album": {
+        "name": "En el Trap",
+        "url": "https://open.spotify.com/album/2Ybs6wIoJByUVK088Fpc3b"
+      },
+      "artists": [
+        {
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        },
+        {
+          "name": "Daimi the producer",
+          "url": "https://open.spotify.com/artist/3LCXmC2QKg6Mr2asiMvrMG"
+        }
+      ],
+      "duration_ms": 156387,
+      "name": "En el Trap",
+      "url": "https://open.spotify.com/track/1NZt5EfQCFMlbOgeywCMq3"
     }
   ],
   "unique_name": "Trapperz Chile",

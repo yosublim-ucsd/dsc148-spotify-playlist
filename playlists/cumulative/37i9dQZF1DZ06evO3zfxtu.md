@@ -4,11 +4,11 @@
 
 > This is Eva Shaw\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 49 min
+77 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100%](https://open.spotify.com/track/2KrLo6tZVmS9vWGa4rejK5) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [100%](https://open.spotify.com/album/7KxXdsAwi1yz5mUkyG5l2J) | 2:49 | 2023-12-13 |  |
+| [100%](https://open.spotify.com/track/2KrLo6tZVmS9vWGa4rejK5) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [100%](https://open.spotify.com/album/7KxXdsAwi1yz5mUkyG5l2J) | 2:49 | 2023-12-13 | 2024-06-28 |
 | [100GANG](https://open.spotify.com/track/0nQMfKCZUHSYA2Qp98Q4m1) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Hitmakerchinx](https://open.spotify.com/artist/6GhBUUXBi2x3DVad9izEQD) | [100GANG](https://open.spotify.com/album/7HuzSng8agTguNBreZvmC3) | 2:27 | 2023-12-13 |  |
 | [24 HRS](https://open.spotify.com/track/1Ngi1J3I5AmKkUMbhF9Vgz) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Db Bantino](https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 3:09 | 2023-12-13 | 2024-06-03 |
 | [40 Bands](https://open.spotify.com/track/6doqLkPsmb0bHjsH9DnKsH) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 3:02 | 2023-12-13 |  |
@@ -61,6 +61,7 @@
 | [RAW \- Hype Hop Edit](https://open.spotify.com/track/6zc6ghB8QGGZszzMinhXl7) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Jaay Cee](https://open.spotify.com/artist/26ediE5eaRN7qWJrt2m2lM) | [HYPE HOP 002](https://open.spotify.com/album/1UPKi2z2CFnomZOBDavCt0) | 2:53 | 2023-12-13 |  |
 | [REDLIGHT](https://open.spotify.com/track/65aJP5egHEcF0nkTpe2jMD) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [REDLIGHT](https://open.spotify.com/album/1VsO5oDfoIVmjKEvAre0VP) | 3:47 | 2024-06-02 |  |
 | [Rise N Shine \(feat\. Poo Bear\) \- Justice Skolnik Remix](https://open.spotify.com/track/7IRQUCarlAan7Wnmm6zpTS) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX), [Justice Skolnik](https://open.spotify.com/artist/18bof4dt1gOAe3NGWRTamw) | [Rise N Shine \(feat\. Poo Bear\) \[Justice Skolnik Remix\]](https://open.spotify.com/album/1xQtIDxHbsIo36hVfPd9uc) | 3:07 | 2023-12-13 |  |
+| [ROCKSTAR WASTED](https://open.spotify.com/track/6bGAFtfnBtl3jU4naGowfc) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [SOLO](https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B) | 2:38 | 2024-06-28 |  |
 | [ROWDYRUFF BOYZ \(with Eva Shaw\)](https://open.spotify.com/track/1Rj8B7kHHM92QMZF0bIcqN) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [ROWDYRUFF BOYZ \(with Eva Shaw\)](https://open.spotify.com/album/0wIJrXCHUAVOcoz8mzSDia) | 2:55 | 2023-12-13 |  |
 | [RVPTVRE](https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [RVPTVRE](https://open.spotify.com/album/6vmTh32xwBBWDsD43eWSYq) | 3:34 | 2024-03-09 |  |
 | [Secret](https://open.spotify.com/track/5HLmbHuDV5XV3o4ycCExOa) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Secret](https://open.spotify.com/album/116sV035o9y6YoO5Hedty9) | 3:08 | 2023-12-13 |  |

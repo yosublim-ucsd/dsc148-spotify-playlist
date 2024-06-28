@@ -6407,6 +6407,24 @@
     },
     {
       "album": {
+        "name": "Taking It Slow",
+        "url": "https://open.spotify.com/album/6ndnVrxgFH5zjvzjhIxA2r"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160400,
+      "name": "Taking It Slow",
+      "url": "https://open.spotify.com/track/2QEcMk01oiYdAd0Lq4MKBL"
+    },
+    {
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/1pJcRSWjtIKwiqyz0pDgY2"
       },

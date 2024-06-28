@@ -1,29 +1,13 @@
 {
-  "description": "This is Aidan Bissett. Piesele esen\u021biale \u00eentr-un singur playlist.",
-  "num_followers": 800,
-  "original_name": "Acesta este Aidan Bissett.",
+  "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
+  "num_followers": 802,
+  "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnoIgAAAAADsL0TM2k+1JEG+7Kp2DEW8",
+  "snapshot_id": "ZntaAAAAAABFTnQr8oiRWzgWbTh4pQzT",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tripping Over Air",
-        "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 182382,
-      "name": "Tripping Over Air",
-      "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 183012,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/1Ph96WpdjNlwD6iKRE2Xa3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out Of My League",
-        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 181135,
-      "name": "Out Of My League",
-      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
       "added_at": null,
@@ -235,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grocery Store Girl",
-        "url": "https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS"
+        "name": "Worst Girls Of All Time",
+        "url": "https://open.spotify.com/album/3XAiXgEEpeHacZxAgbL6Hm"
       },
       "artists": [
         {
@@ -244,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 163983,
-      "name": "Grocery Store Girl",
-      "url": "https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U"
+      "duration_ms": 173482,
+      "name": "Worst Girls of All Time",
+      "url": "https://open.spotify.com/track/5DhTYNLmJUP04UgLtEVr6P"
     },
     {
       "added_at": null,
@@ -267,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worst Girls Of All Time",
-        "url": "https://open.spotify.com/album/3XAiXgEEpeHacZxAgbL6Hm"
+        "name": "So High",
+        "url": "https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb"
       },
       "artists": [
         {
@@ -276,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 173482,
-      "name": "Worst Girls of All Time",
-      "url": "https://open.spotify.com/track/5DhTYNLmJUP04UgLtEVr6P"
+      "duration_ms": 169732,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3"
     },
     {
       "added_at": null,
@@ -299,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 169732,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
       },
@@ -329,6 +281,6 @@
       "url": "https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol"
     }
   ],
-  "unique_name": "Acesta este Aidan Bissett.",
+  "unique_name": "This Is Aidan Bissett",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ULe02"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > C.R.O en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,973 likes - 108 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,954 likes - 108 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

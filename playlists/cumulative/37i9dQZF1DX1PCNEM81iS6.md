@@ -4,7 +4,7 @@
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-87 songs - 4 hr 13 min
+88 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [ヨイハナビ](https://open.spotify.com/track/2FI3B2J9G4TwaTXvJKMLgz) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」](https://open.spotify.com/album/6wgKf4HmPJf7uD4s77p0xw) | 4:07 | 2022-11-25 | 2024-04-19 |
 | [リトルソルジャー](https://open.spotify.com/track/4ESR8uG70TFcWKqtePEJpo) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [リトルソルジャー](https://open.spotify.com/album/4Uya9qHP63dE9wf0VQNMQJ) | 3:53 | 2022-11-25 |  |
 | [リムルからのスペシャルメッセージ](https://open.spotify.com/track/42Mev6O87VExV44sv1t69w) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [リムルからのスペシャルメッセージ](https://open.spotify.com/album/64aI66I1pfYcTvJRPjH0vA) | 0:24 | 2022-11-25 |  |
+| [レナセールセレナーデ](https://open.spotify.com/track/4LiRiw0zRSf9fN3QEf0fN3) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [レナセールセレナーデ](https://open.spotify.com/album/6NeE8qVQDMwIMEp7DDcWEI) | 4:09 | 2024-06-27 |  |
 | [僕の中の君へ](https://open.spotify.com/track/4hakLbSjyQFDd77vFJ6EuT) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [コトバアソビ](https://open.spotify.com/album/6sU4bvWQW9QdldwSqAw35N) | 4:46 | 2022-11-25 | 2024-04-19 |
 | [僕の中の君へ](https://open.spotify.com/track/3wMmoc9CTIuIs9SIiywRQy) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [TVアニメ『転生したらスライムだった件』転生したら音楽だった件](https://open.spotify.com/album/7zaILvw1dD0P1JR4FFE3Su) | 4:51 | 2024-04-16 |  |
 | [優勢](https://open.spotify.com/track/0IPx20l5zjsGRGX2kDBK26) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 2:02 | 2022-11-25 | 2024-04-19 |

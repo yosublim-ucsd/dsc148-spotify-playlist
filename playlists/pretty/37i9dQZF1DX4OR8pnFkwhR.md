@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 音田雅則
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,439 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,458 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [唇を味方に \-Sing Sing Sing\-](https://open.spotify.com/track/3UZEz7DnXN8Mt1do14lHwG) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [唇を味方に \-Sing Sing Sing\-](https://open.spotify.com/album/0N0cgqlRT1SsaGui8wpuzr) | 4:26 |
 | 70 | [スポットからにげて](https://open.spotify.com/track/3P13EH5Nu3LEMfIOHLlW6z) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [HEROINE](https://open.spotify.com/album/7JJumXarmmOcxV3qJ21MAk) | 3:09 |
 
-Snapshot ID: `ZnrbcAAAAAC15StQ5KxxnY2o0oElzvYL`
+Snapshot ID: `Zn0O9AAAAABrYycke7JYXnO4oF1h4ysQ`

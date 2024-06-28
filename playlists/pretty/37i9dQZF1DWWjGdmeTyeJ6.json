@@ -1,45 +1,13 @@
 {
   "description": "The best new music by independent artists and labels. Cover: okgiorgio, Artwork: Isu Kim.",
-  "num_followers": 1200441,
+  "num_followers": 1200731,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Znu8rAAAAAD3OU8KEI7D4aoBAoqMTesU",
+  "snapshot_id": "Zn2TFwAAAABhiC9jjgyVeo0D0NWTH59f",
   "tracks": [
-    {
-      "added_at": "2024-06-26 07:01:00",
-      "album": {
-        "name": "tooth",
-        "url": "https://open.spotify.com/album/7M6jPD3QziwrHhHd6L1fna"
-      },
-      "artists": [
-        {
-          "name": "emory",
-          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "tooth",
-      "url": "https://open.spotify.com/track/5TOBZ7LCRmB7pddKAaCibB"
-    },
-    {
-      "added_at": "2024-06-26 07:01:00",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83"
-      },
-      "artists": [
-        {
-          "name": "Enumclaw",
-          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
-        }
-      ],
-      "duration_ms": 212958,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr"
-    },
     {
       "added_at": "2024-06-26 07:01:00",
       "album": {
@@ -55,22 +23,6 @@
       "duration_ms": 209327,
       "name": "ok :)",
       "url": "https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr"
-    },
-    {
-      "added_at": "2024-06-26 07:01:00",
-      "album": {
-        "name": "Vinalhaven",
-        "url": "https://open.spotify.com/album/4FUIB1zznBkxKsvpqN3Kdv"
-      },
-      "artists": [
-        {
-          "name": "Fond",
-          "url": "https://open.spotify.com/artist/4DWVwirKZPPIA1JQYo1UkY"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "Vinalhaven",
-      "url": "https://open.spotify.com/track/4KgTdZON9IsR6jkOUbTIA3"
     },
     {
       "added_at": "2024-06-26 07:01:00",
@@ -91,18 +43,50 @@
     {
       "added_at": "2024-06-26 07:01:00",
       "album": {
-        "name": "Superbad",
-        "url": "https://open.spotify.com/album/2kRrwPYoS6I5S7VHcsfq85"
+        "name": "Vinalhaven",
+        "url": "https://open.spotify.com/album/4FUIB1zznBkxKsvpqN3Kdv"
       },
       "artists": [
         {
-          "name": "Romeo + Juliet",
-          "url": "https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2"
+          "name": "Fond",
+          "url": "https://open.spotify.com/artist/4DWVwirKZPPIA1JQYo1UkY"
         }
       ],
-      "duration_ms": 180575,
-      "name": "Berserk97",
-      "url": "https://open.spotify.com/track/4tEklxESquo6tCWX4bdIaY"
+      "duration_ms": 263500,
+      "name": "Vinalhaven",
+      "url": "https://open.spotify.com/track/4KgTdZON9IsR6jkOUbTIA3"
+    },
+    {
+      "added_at": "2024-06-26 07:01:00",
+      "album": {
+        "name": "tooth",
+        "url": "https://open.spotify.com/album/7M6jPD3QziwrHhHd6L1fna"
+      },
+      "artists": [
+        {
+          "name": "emory",
+          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "tooth",
+      "url": "https://open.spotify.com/track/5TOBZ7LCRmB7pddKAaCibB"
+    },
+    {
+      "added_at": "2024-06-26 07:01:00",
+      "album": {
+        "name": "Red (is my colour)",
+        "url": "https://open.spotify.com/album/20VihaUZmOG7BYYIhC52jm"
+      },
+      "artists": [
+        {
+          "name": "Imogen and the Knife",
+          "url": "https://open.spotify.com/artist/4nfBa9tw0IWAdtirqqmrbY"
+        }
+      ],
+      "duration_ms": 200487,
+      "name": "Red (is my colour)",
+      "url": "https://open.spotify.com/track/0C0VaQZ6QojQx49nPlVy9A"
     },
     {
       "added_at": "2024-06-26 07:01:00",
@@ -123,6 +107,58 @@
     {
       "added_at": "2024-06-26 07:01:00",
       "album": {
+        "name": "G.A.I.G.A.I",
+        "url": "https://open.spotify.com/album/3iua25eCjomYPmFUSrO2i2"
+      },
+      "artists": [
+        {
+          "name": "N.Y.P.D. \u5357\u6d0b\u6d3e\u5c0d",
+          "url": "https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY"
+        }
+      ],
+      "duration_ms": 215063,
+      "name": "\u590f\u7063\u62ff\u4e4b\u591c",
+      "url": "https://open.spotify.com/track/1gpd5N3vg0x3G1jg1QlggE"
+    },
+    {
+      "added_at": "2024-06-26 07:01:00",
+      "album": {
+        "name": "MAKES ME FEEL",
+        "url": "https://open.spotify.com/album/7xc4bu5deTcLbCvW8X3qfQ"
+      },
+      "artists": [
+        {
+          "name": "CHAIME",
+          "url": "https://open.spotify.com/artist/5ntCtEJfmuE4RPQyGyN7CB"
+        },
+        {
+          "name": "Gouga",
+          "url": "https://open.spotify.com/artist/3CzrsVojZEalg7ZUQ2RtJ0"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "MAKES ME FEEL",
+      "url": "https://open.spotify.com/track/2YwzOdsHE06Xkg50nIFtYq"
+    },
+    {
+      "added_at": "2024-06-26 07:01:00",
+      "album": {
+        "name": "Superbad",
+        "url": "https://open.spotify.com/album/2kRrwPYoS6I5S7VHcsfq85"
+      },
+      "artists": [
+        {
+          "name": "Romeo + Juliet",
+          "url": "https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2"
+        }
+      ],
+      "duration_ms": 180575,
+      "name": "Berserk97",
+      "url": "https://open.spotify.com/track/4tEklxESquo6tCWX4bdIaY"
+    },
+    {
+      "added_at": "2024-06-26 07:01:00",
+      "album": {
         "name": "Nobody Will Love You",
         "url": "https://open.spotify.com/album/3VBIC4ZGoal7zLBcEPnDmk"
       },
@@ -135,22 +171,6 @@
       "duration_ms": 230576,
       "name": "Nobody Will Love You",
       "url": "https://open.spotify.com/track/3XPhAWvew0t2bKo8lN2Iof"
-    },
-    {
-      "added_at": "2024-06-26 07:01:00",
-      "album": {
-        "name": "Red (is my colour)",
-        "url": "https://open.spotify.com/album/20VihaUZmOG7BYYIhC52jm"
-      },
-      "artists": [
-        {
-          "name": "Imogen and the Knife",
-          "url": "https://open.spotify.com/artist/4nfBa9tw0IWAdtirqqmrbY"
-        }
-      ],
-      "duration_ms": 200487,
-      "name": "Red (is my colour)",
-      "url": "https://open.spotify.com/track/0C0VaQZ6QojQx49nPlVy9A"
     },
     {
       "added_at": "2024-06-26 07:01:00",
@@ -179,6 +199,22 @@
       "duration_ms": 128134,
       "name": "WAITIN",
       "url": "https://open.spotify.com/track/5enNpEZhX6CZAHox09Nxk3"
+    },
+    {
+      "added_at": "2024-06-26 07:01:00",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "duration_ms": 212958,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr"
     },
     {
       "added_at": "2024-06-19 04:11:31",
@@ -233,42 +269,6 @@
       "url": "https://open.spotify.com/track/5nyBSIq6IisubcU7xoPdoO"
     },
     {
-      "added_at": "2024-06-26 07:01:00",
-      "album": {
-        "name": "G.A.I.G.A.I",
-        "url": "https://open.spotify.com/album/3iua25eCjomYPmFUSrO2i2"
-      },
-      "artists": [
-        {
-          "name": "N.Y.P.D. \u5357\u6d0b\u6d3e\u5c0d",
-          "url": "https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "\u590f\u7063\u62ff\u4e4b\u591c",
-      "url": "https://open.spotify.com/track/1gpd5N3vg0x3G1jg1QlggE"
-    },
-    {
-      "added_at": "2024-06-26 07:01:00",
-      "album": {
-        "name": "MAKES ME FEEL",
-        "url": "https://open.spotify.com/album/7xc4bu5deTcLbCvW8X3qfQ"
-      },
-      "artists": [
-        {
-          "name": "CHAIME",
-          "url": "https://open.spotify.com/artist/5ntCtEJfmuE4RPQyGyN7CB"
-        },
-        {
-          "name": "Gouga",
-          "url": "https://open.spotify.com/artist/3CzrsVojZEalg7ZUQ2RtJ0"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "MAKES ME FEEL",
-      "url": "https://open.spotify.com/track/2YwzOdsHE06Xkg50nIFtYq"
-    },
-    {
       "added_at": "2024-06-19 04:11:31",
       "album": {
         "name": "Piano Hands",
@@ -283,54 +283,6 @@
       "duration_ms": 218031,
       "name": "Piano Hands",
       "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
-    },
-    {
-      "added_at": "2024-06-19 04:11:31",
-      "album": {
-        "name": "Friends That Kiss",
-        "url": "https://open.spotify.com/album/4IqXE6wpoVYJvn3wb7Owg2"
-      },
-      "artists": [
-        {
-          "name": "La Rhonza",
-          "url": "https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD"
-        }
-      ],
-      "duration_ms": 185782,
-      "name": "Friends That Kiss",
-      "url": "https://open.spotify.com/track/6yuLBqqPR9fs0lLWEPAXJx"
-    },
-    {
-      "added_at": "2024-06-19 04:11:31",
-      "album": {
-        "name": "La Semilla",
-        "url": "https://open.spotify.com/album/67HfaX7dhdLXSgZ4qGir5z"
-      },
-      "artists": [
-        {
-          "name": "Superf\u00f3nicos",
-          "url": "https://open.spotify.com/artist/0PnlcPHQb1NOI2tgIXomGk"
-        }
-      ],
-      "duration_ms": 249640,
-      "name": "La Semilla",
-      "url": "https://open.spotify.com/track/48DdYM1cUDyi4OzgKmHKJA"
-    },
-    {
-      "added_at": "2024-06-26 07:01:00",
-      "album": {
-        "name": "eventually",
-        "url": "https://open.spotify.com/album/4Mwdn69zKpjhdEupOXFdjb"
-      },
-      "artists": [
-        {
-          "name": "Layzi",
-          "url": "https://open.spotify.com/artist/1Osd22FCebAqWNl7q2sazx"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "eventually",
-      "url": "https://open.spotify.com/track/3aZ5BnWAGP2MRAzHKHvE4J"
     },
     {
       "added_at": "2024-06-26 07:01:00",
@@ -367,6 +319,154 @@
       "duration_ms": 227560,
       "name": "Matador",
       "url": "https://open.spotify.com/track/6idR1ncIgw5X6Nj2DUR6tC"
+    },
+    {
+      "added_at": "2024-06-19 04:11:31",
+      "album": {
+        "name": "Friends That Kiss",
+        "url": "https://open.spotify.com/album/4IqXE6wpoVYJvn3wb7Owg2"
+      },
+      "artists": [
+        {
+          "name": "La Rhonza",
+          "url": "https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD"
+        }
+      ],
+      "duration_ms": 185782,
+      "name": "Friends That Kiss",
+      "url": "https://open.spotify.com/track/6yuLBqqPR9fs0lLWEPAXJx"
+    },
+    {
+      "added_at": "2024-06-19 04:11:31",
+      "album": {
+        "name": "La Semilla",
+        "url": "https://open.spotify.com/album/67HfaX7dhdLXSgZ4qGir5z"
+      },
+      "artists": [
+        {
+          "name": "Superf\u00f3nicos",
+          "url": "https://open.spotify.com/artist/0PnlcPHQb1NOI2tgIXomGk"
+        }
+      ],
+      "duration_ms": 249640,
+      "name": "La Semilla",
+      "url": "https://open.spotify.com/track/48DdYM1cUDyi4OzgKmHKJA"
+    },
+    {
+      "added_at": "2024-06-26 07:01:00",
+      "album": {
+        "name": "Black & Tan",
+        "url": "https://open.spotify.com/album/1NKgDOTffsHRGfllRRLsis"
+      },
+      "artists": [
+        {
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 138260,
+      "name": "Black & Tan",
+      "url": "https://open.spotify.com/track/0khdaccXqOnFQimOHmECK2"
+    },
+    {
+      "added_at": "2024-06-26 07:01:00",
+      "album": {
+        "name": "eventually",
+        "url": "https://open.spotify.com/album/4Mwdn69zKpjhdEupOXFdjb"
+      },
+      "artists": [
+        {
+          "name": "Layzi",
+          "url": "https://open.spotify.com/artist/1Osd22FCebAqWNl7q2sazx"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "eventually",
+      "url": "https://open.spotify.com/track/3aZ5BnWAGP2MRAzHKHvE4J"
+    },
+    {
+      "added_at": "2024-06-26 07:01:00",
+      "album": {
+        "name": "I Love You More Than Yesterday",
+        "url": "https://open.spotify.com/album/0OBLmsq159JatD3k2RRRjZ"
+      },
+      "artists": [
+        {
+          "name": "Duke Jones",
+          "url": "https://open.spotify.com/artist/5lAlibypowIEyVk24Y2qw3"
+        },
+        {
+          "name": "Julia DiGrazia",
+          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
+        }
+      ],
+      "duration_ms": 228018,
+      "name": "I Love You More Than Yesterday",
+      "url": "https://open.spotify.com/track/3dPSHuGMORdds3vGmqPdJf"
+    },
+    {
+      "added_at": "2024-06-19 04:11:31",
+      "album": {
+        "name": "Perdu in Peru",
+        "url": "https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6"
+      },
+      "artists": [
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        },
+        {
+          "name": "perutheproducer",
+          "url": "https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK"
+        },
+        {
+          "name": "UZA",
+          "url": "https://open.spotify.com/artist/1ZG7ySNOhIWEUoZUi3kjOs"
+        },
+        {
+          "name": "Santana Fox",
+          "url": "https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "More Than a Lova",
+      "url": "https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf"
+    },
+    {
+      "added_at": "2024-06-26 07:01:00",
+      "album": {
+        "name": "all good",
+        "url": "https://open.spotify.com/album/5gVFDPqdVGIcup1Gpcxi3x"
+      },
+      "artists": [
+        {
+          "name": "Angelo Mota",
+          "url": "https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "all good",
+      "url": "https://open.spotify.com/track/32SYZ9iSkfnuLfk6QnVapV"
+    },
+    {
+      "added_at": "2024-06-26 07:01:00",
+      "album": {
+        "name": "boo hoo",
+        "url": "https://open.spotify.com/album/6IbJjpmcM4ewdqYjiSHCJM"
+      },
+      "artists": [
+        {
+          "name": "NIA NADURATA",
+          "url": "https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr"
+        }
+      ],
+      "duration_ms": 166987,
+      "name": "boo hoo",
+      "url": "https://open.spotify.com/track/42Dvo910Rj43IijSxDFQTy"
     },
     {
       "added_at": "2024-06-26 07:01:00",
@@ -423,54 +523,6 @@
     {
       "added_at": "2024-06-26 07:01:00",
       "album": {
-        "name": "I Love You More Than Yesterday",
-        "url": "https://open.spotify.com/album/0OBLmsq159JatD3k2RRRjZ"
-      },
-      "artists": [
-        {
-          "name": "Duke Jones",
-          "url": "https://open.spotify.com/artist/5lAlibypowIEyVk24Y2qw3"
-        },
-        {
-          "name": "Julia DiGrazia",
-          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
-        }
-      ],
-      "duration_ms": 228018,
-      "name": "I Love You More Than Yesterday",
-      "url": "https://open.spotify.com/track/3dPSHuGMORdds3vGmqPdJf"
-    },
-    {
-      "added_at": "2024-06-19 04:11:31",
-      "album": {
-        "name": "Perdu in Peru",
-        "url": "https://open.spotify.com/album/4FVHGcaBppCbn7AmAUSkK6"
-      },
-      "artists": [
-        {
-          "name": "CHUNG",
-          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
-        },
-        {
-          "name": "perutheproducer",
-          "url": "https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK"
-        },
-        {
-          "name": "UZA",
-          "url": "https://open.spotify.com/artist/1ZG7ySNOhIWEUoZUi3kjOs"
-        },
-        {
-          "name": "Santana Fox",
-          "url": "https://open.spotify.com/artist/3Vf419jAcwcs2SQPPtf9ga"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "More Than a Lova",
-      "url": "https://open.spotify.com/track/3t2cCAri8L6w5pH4OlhqQf"
-    },
-    {
-      "added_at": "2024-06-26 07:01:00",
-      "album": {
         "name": "People Pleaser",
         "url": "https://open.spotify.com/album/7DXEjR7d5vOskJrApIujWg"
       },
@@ -501,26 +553,6 @@
       "url": "https://open.spotify.com/track/1ZIhItiExfa56xIRSKRBhg"
     },
     {
-      "added_at": "2024-06-26 07:01:00",
-      "album": {
-        "name": "Black & Tan",
-        "url": "https://open.spotify.com/album/1NKgDOTffsHRGfllRRLsis"
-      },
-      "artists": [
-        {
-          "name": "YT",
-          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 138260,
-      "name": "Black & Tan",
-      "url": "https://open.spotify.com/track/0khdaccXqOnFQimOHmECK2"
-    },
-    {
       "added_at": "2024-06-19 04:11:31",
       "album": {
         "name": "Caminar en Cristal",
@@ -535,22 +567,6 @@
       "duration_ms": 144179,
       "name": "Caminar en Cristal",
       "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
-    },
-    {
-      "added_at": "2024-06-26 07:01:00",
-      "album": {
-        "name": "boo hoo",
-        "url": "https://open.spotify.com/album/6IbJjpmcM4ewdqYjiSHCJM"
-      },
-      "artists": [
-        {
-          "name": "NIA NADURATA",
-          "url": "https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr"
-        }
-      ],
-      "duration_ms": 166987,
-      "name": "boo hoo",
-      "url": "https://open.spotify.com/track/42Dvo910Rj43IijSxDFQTy"
     },
     {
       "added_at": "2024-06-26 07:01:00",
@@ -731,22 +747,6 @@
       "duration_ms": 227160,
       "name": "White Buffalo",
       "url": "https://open.spotify.com/track/3OqUuaEuS93Wd1qYlQw3gY"
-    },
-    {
-      "added_at": "2024-06-26 07:01:00",
-      "album": {
-        "name": "all good",
-        "url": "https://open.spotify.com/album/5gVFDPqdVGIcup1Gpcxi3x"
-      },
-      "artists": [
-        {
-          "name": "Angelo Mota",
-          "url": "https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "all good",
-      "url": "https://open.spotify.com/track/32SYZ9iSkfnuLfk6QnVapV"
     },
     {
       "added_at": "2024-06-19 04:11:31",

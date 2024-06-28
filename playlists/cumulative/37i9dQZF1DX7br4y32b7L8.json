@@ -1037,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "Blijf Je Vannacht Bij Mij",
+        "url": "https://open.spotify.com/album/6scRTl9caI9U39OQoSeppR"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00ebl Borelli",
+          "url": "https://open.spotify.com/artist/0vy5LMYxfUiYoSLcgomHOD"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223231,
+      "name": "Blijf Je Vannacht Bij Mij",
+      "url": "https://open.spotify.com/track/2wu1XPzMbnFBMVTWTZ9ZWF"
+    },
+    {
+      "album": {
         "name": "Blijf Nog Even",
         "url": "https://open.spotify.com/album/51tulVCxklGWd6DXqAtmIZ"
       },

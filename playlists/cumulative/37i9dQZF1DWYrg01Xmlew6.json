@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Cover: Geolier",
+  "description": "Rap napoletano e il meglio della scena campana. Rue Diego in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "CHIU AVT",
+        "url": "https://open.spotify.com/album/4GmQFA3ttlyWFAiCHCqJSw"
+      },
+      "artists": [
+        {
+          "name": "Rue Diego",
+          "url": "https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "CHIU AVT",
+      "url": "https://open.spotify.com/track/0Am8wmouc9ZyfNrCZHVA3M"
+    },
+    {
+      "album": {
         "name": "Emiro",
         "url": "https://open.spotify.com/album/67qP62bagRJKqLQ52uZDTm"
       },
@@ -1222,6 +1240,28 @@
       "duration_ms": 247626,
       "name": "CLS (feat. Yung Snapp, MV Killa, Lele Blade)",
       "url": "https://open.spotify.com/track/5EbuKgB6acYhza2WOztvXQ"
+    },
+    {
+      "album": {
+        "name": "COCO (feat. Frezza)",
+        "url": "https://open.spotify.com/album/6cFTdq80CJtMxJSoXm760u"
+      },
+      "artists": [
+        {
+          "name": "Dipinto",
+          "url": "https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9"
+        },
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169588,
+      "name": "COCO (feat. Frezza)",
+      "url": "https://open.spotify.com/track/0Ii2R9SawfnxkhNtUI5d7s"
     },
     {
       "album": {
@@ -2625,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "Jacquemus Blu",
+        "url": "https://open.spotify.com/album/3c2pAKv5vVzHoQaNN5I9jK"
+      },
+      "artists": [
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164739,
+      "name": "Jacquemus Blu",
+      "url": "https://open.spotify.com/track/4gkEnpK3NVo3mTQ2cBjgE0"
+    },
+    {
+      "album": {
         "name": "Jeep",
         "url": "https://open.spotify.com/album/5TYYBSF7XaljaxC1dpKnhO"
       },
@@ -2844,7 +2902,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 188888,
       "name": "La Notte di San Lorenzo",
       "url": "https://open.spotify.com/track/3qKU0FvHKfIQSMgEEmYBtF"
@@ -3788,7 +3846,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 206675,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/2W1pRQGgIT4FgXXLJhAz7o"
@@ -3908,7 +3966,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 196129,
       "name": "Naples",
       "url": "https://open.spotify.com/track/6hOndc2UrGv7jU12S6IvS0"
@@ -3930,6 +3988,32 @@
       "duration_ms": 168666,
       "name": "NAPO****NO",
       "url": "https://open.spotify.com/track/4y4wOYV6OJ2hlXeBFzazEO"
+    },
+    {
+      "album": {
+        "name": "CRIATUR",
+        "url": "https://open.spotify.com/album/3ygQSRBTf3raxCUcF05s7s"
+      },
+      "artists": [
+        {
+          "name": "Kid Lost",
+          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
+        },
+        {
+          "name": "Elmatadormc7",
+          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
+        },
+        {
+          "name": "G-Lex",
+          "url": "https://open.spotify.com/artist/34aOrKPSv2YwgiR6pLVK2Y"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142547,
+      "name": "Napoletana",
+      "url": "https://open.spotify.com/track/7bQ3KZmW8L1LlP7Q4F4mUe"
     },
     {
       "album": {
@@ -4240,7 +4324,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 169014,
       "name": "NUN O\u2019 SANN",
       "url": "https://open.spotify.com/track/7IHNyhfVthmu1u8VVR1qu5"
@@ -6202,6 +6286,24 @@
       "duration_ms": 206229,
       "name": "Stanotte",
       "url": "https://open.spotify.com/track/1rml3IGJ7U3PZMSAYkntiS"
+    },
+    {
+      "album": {
+        "name": "Still in Napl (Est) - pack",
+        "url": "https://open.spotify.com/album/64OJp4xy34XWm9a25bJ6Bh"
+      },
+      "artists": [
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90312,
+      "name": "Still in Napl (Est) Freestyle #3",
+      "url": "https://open.spotify.com/track/7DxwpmqGxLsVFDXpWXwOYx"
     },
     {
       "album": {

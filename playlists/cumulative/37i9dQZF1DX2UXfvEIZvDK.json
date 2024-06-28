@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 248454,
       "name": "A Symptom Of Being Human",
       "url": "https://open.spotify.com/track/3ZswWTKkEz0kj1rA0uRIi1"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 241821,
       "name": "All You're Dreaming Of",
       "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 230360,
       "name": "Angel's Son",
       "url": "https://open.spotify.com/track/66wlSKFGLhD5LDulPBz731"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 256399,
       "name": "Backroads (Redux)",
       "url": "https://open.spotify.com/track/4sZlYTnmvrFUhMTGPuz3P4"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 277626,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/0HDxGCvYCJCan8mRsLl9dL"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 252293,
       "name": "Chasing Birds",
       "url": "https://open.spotify.com/track/2jKnUcyrCADkeSy6gcN1qa"
@@ -348,6 +348,24 @@
       "duration_ms": 260481,
       "name": "Children of the Sun",
       "url": "https://open.spotify.com/track/3zE4M7oIsAvx8HXCxdAOnH"
+    },
+    {
+      "album": {
+        "name": "The Wall (Remastered)",
+        "url": "https://open.spotify.com/album/6WaIQHxEHtZL0RZ62AuY0g"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379213,
+      "name": "Comfortably Numb - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/7Fg4jpwpkdkGCvq1rrXnvx"
     },
     {
       "album": {
@@ -380,10 +398,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 199920,
       "name": "Crash",
       "url": "https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT"
+    },
+    {
+      "album": {
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0mRS9byJHTnRXaaJaxDM8Z"
+      },
+      "artists": [
+        {
+          "name": "Twin Atlantic",
+          "url": "https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237369,
+      "name": "Crash Land",
+      "url": "https://open.spotify.com/track/7r8Ut9Pn4kzEJwNFtgDQKr"
     },
     {
       "album": {
@@ -686,7 +722,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Golden Songs",
       "url": "https://open.spotify.com/track/5lm0T8DfaVOK4HWCmEXvPw"
@@ -780,6 +816,24 @@
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+    },
+    {
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249546,
+      "name": "History",
+      "url": "https://open.spotify.com/track/6Fbh1lMmind3rj6W67QFeO"
     },
     {
       "album": {
@@ -902,7 +956,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 249106,
       "name": "If I Had A Gun\u2026",
       "url": "https://open.spotify.com/track/4i4ArYpqtsA3MJ1k0o2dxq"
@@ -1143,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Pisces Iscariot (Deluxe)",
+        "url": "https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190586,
+      "name": "Landslide - Remastered",
+      "url": "https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr"
+    },
+    {
+      "album": {
         "name": "Graveyard Whistling - EP",
         "url": "https://open.spotify.com/album/6fZcC4IT3lmWd1mwcWVwAO"
       },
@@ -1190,7 +1262,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 264360,
       "name": "Little Girl & The Whistlin Train",
       "url": "https://open.spotify.com/track/6flRKaS0mUxGoqdFkwTouY"
@@ -1262,7 +1334,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236079,
       "name": "Machines",
       "url": "https://open.spotify.com/track/2QaaXYzEzLio3POCFCI19r"
@@ -1642,7 +1714,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 269240,
-      "name": "Planet Caravan (2009 - Remaster)",
+      "name": "Planet Caravan - 2009 Remaster",
       "url": "https://open.spotify.com/track/4zgHtuasZkiZu1caZwxF5P"
     },
     {
@@ -1845,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Rx (Medicate)",
+        "url": "https://open.spotify.com/album/1GAkFO17jNudCOK0v1EgiF"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "Rx (Medicate)",
+      "url": "https://open.spotify.com/track/7pV6zXFpCwrrmcosBAtp0o"
+    },
+    {
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA"
       },
@@ -2044,6 +2134,24 @@
       "duration_ms": 303005,
       "name": "Split Screen",
       "url": "https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482830,
+      "name": "Stairway to Heaven - Remaster",
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
     },
     {
       "album": {
@@ -2281,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383506,
+      "name": "The Little Things Give You Away",
+      "url": "https://open.spotify.com/track/6zCaXHIV60YIuDe9qJ9MOo"
+    },
+    {
+      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
       },
@@ -2346,7 +2472,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181893,
       "name": "The Messenger",
       "url": "https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss"
@@ -2652,7 +2778,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 265973,
       "name": "When Bad Does Good",
       "url": "https://open.spotify.com/track/00SzIFHBVTpRonBTHnHuok"
@@ -2742,7 +2868,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
@@ -2778,7 +2904,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 276840,
       "name": "Zoe Jane",
       "url": "https://open.spotify.com/track/6WrOZ59ScdQXE24zcYNyyA"

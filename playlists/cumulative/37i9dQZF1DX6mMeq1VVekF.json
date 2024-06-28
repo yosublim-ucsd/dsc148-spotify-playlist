@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: Lancey Foux",
+  "description": "No tags, no labels - just free form. Cover: Skepta, R2R More",
   "name": "Free Form",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 168774,
       "name": "911",
       "url": "https://open.spotify.com/track/4VlioYoSh1fT16hnERNsfF"
@@ -282,7 +282,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 98666,
       "name": "A Penny For Your Thoughts",
       "url": "https://open.spotify.com/track/3quSErRei0EBupQnK6ze5h"
@@ -573,6 +573,28 @@
     },
     {
       "album": {
+        "name": "AUCTION",
+        "url": "https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "AUCTION",
+      "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
+    },
+    {
+      "album": {
         "name": "avery",
         "url": "https://open.spotify.com/album/0KgMudHwHfZcI2E9NFjHXK"
       },
@@ -722,6 +744,24 @@
       "duration_ms": 216480,
       "name": "Backwards - Reimagined",
       "url": "https://open.spotify.com/track/03hIO0Z3ZxyV0DX1XlR8PM"
+    },
+    {
+      "album": {
+        "name": "Bando Kid",
+        "url": "https://open.spotify.com/album/3MJXXZKLhyhbnvNSYy44Xw"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197455,
+      "name": "Bando Kid",
+      "url": "https://open.spotify.com/track/6YgDbK0EEsKKi0uXWjLaAl"
     },
     {
       "album": {
@@ -1118,7 +1158,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 142299,
       "name": "Bring Me Up",
       "url": "https://open.spotify.com/track/1CgDZnD03eTG2V0aEruvDR"
@@ -1660,7 +1700,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
@@ -1936,6 +1976,28 @@
       "duration_ms": 146357,
       "name": "Entrepreneur",
       "url": "https://open.spotify.com/track/2wiJQhmWcClrB2LKnyvBNE"
+    },
+    {
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/1kdno9FddW1Tys8AMQ17Jy"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169835,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/1M90Mf0GQiVlpVL3A9ey2A"
     },
     {
       "album": {
@@ -2392,7 +2454,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 195275,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
@@ -2766,7 +2828,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 151741,
       "name": "HOTnKOLD (feat. BXKS)",
       "url": "https://open.spotify.com/track/02Vl9QdBH7GvFbaBzhXHMW"
@@ -3061,6 +3123,24 @@
     },
     {
       "album": {
+        "name": "Jam Toast",
+        "url": "https://open.spotify.com/album/5H0UAwmSaSsgLcpdhkgAqt"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Jam Toast",
+      "url": "https://open.spotify.com/track/7kE2lk45qdnPKccuIhWkqE"
+    },
+    {
+      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/2gNueROe0r2XMDuszgq6t7"
       },
@@ -3315,6 +3395,28 @@
     },
     {
       "album": {
+        "name": "Lena",
+        "url": "https://open.spotify.com/album/3aGQNTgUSPn8bu4XqHMBAM"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205922,
+      "name": "Lena",
+      "url": "https://open.spotify.com/track/2ma6FYKV0rIDhOhiquNdB6"
+    },
+    {
+      "album": {
         "name": "Leon the Professional",
         "url": "https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l"
       },
@@ -3503,6 +3605,36 @@
     },
     {
       "album": {
+        "name": "The Last One",
+        "url": "https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "Make a W (feat. Skrillex, AJ Tracey & BEAM)",
+      "url": "https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq"
+    },
+    {
+      "album": {
         "name": "Make U Go",
         "url": "https://open.spotify.com/album/4lppAXoOGn4goUQZXs4xPn"
       },
@@ -3594,7 +3726,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 190434,
       "name": "Marley Flow",
       "url": "https://open.spotify.com/track/7KhqcuwBgF2myOiucn5w2R"
@@ -3839,6 +3971,24 @@
     },
     {
       "album": {
+        "name": "Mirror Man",
+        "url": "https://open.spotify.com/album/1NqB00dbifMA4KRoVA1JcK"
+      },
+      "artists": [
+        {
+          "name": "Hope Ipoku Jnr",
+          "url": "https://open.spotify.com/artist/1fNmXsXW6wphLdpwQM0On9"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260280,
+      "name": "Mirror Man",
+      "url": "https://open.spotify.com/track/3r4dJEgGMJ8iCVRrfaQ8wR"
+    },
+    {
+      "album": {
         "name": "WOAH",
         "url": "https://open.spotify.com/album/7kQvu3PNdlvpTmyKBih4fC"
       },
@@ -3884,6 +4034,28 @@
       "duration_ms": 222786,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/0Q37cmE5QZmAQJHGrXOuOh"
+    },
+    {
+      "album": {
+        "name": "Miss Independent",
+        "url": "https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "R2R MOE",
+          "url": "https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Miss Independent",
+      "url": "https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz"
     },
     {
       "album": {
@@ -4036,7 +4208,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 186352,
       "name": "NEIGHBOURS",
       "url": "https://open.spotify.com/track/1q74d6pWGeHrGOifl6o2W9"
@@ -4536,7 +4708,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 157624,
       "name": "Only One",
       "url": "https://open.spotify.com/track/41Qqx0ZO35t2wRhgbaQ8mn"
@@ -4773,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162920,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
+    },
+    {
+      "album": {
         "name": "PNE",
         "url": "https://open.spotify.com/album/5Pukj80wQycC1be8WTuLl4"
       },
@@ -4802,7 +4992,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 125142,
       "name": "pocket",
       "url": "https://open.spotify.com/track/1fbLUwk34YPUrcxITkuF6V"
@@ -5365,6 +5555,24 @@
     },
     {
       "album": {
+        "name": "Safe Space",
+        "url": "https://open.spotify.com/album/2ghUYKQCOar69OXHCOIBzi"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Safe Space",
+      "url": "https://open.spotify.com/track/1LDZtDZFPb0Dqk1AUhLB5h"
+    },
+    {
+      "album": {
         "name": "Salute",
         "url": "https://open.spotify.com/album/5O0HtpMI4ME919zkRqwRQ1"
       },
@@ -5512,6 +5720,24 @@
       "duration_ms": 164171,
       "name": "Sex N' Drugs",
       "url": "https://open.spotify.com/track/3wGe2HZz3Krnb5pvN50uf4"
+    },
+    {
+      "album": {
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/2hKNwN9YR5q0IphFkEuKD4"
+      },
+      "artists": [
+        {
+          "name": "JNR CHOI",
+          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101000,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/4Ra3LEcI1WeTx9jGT8uVs0"
     },
     {
       "album": {
@@ -5778,7 +6004,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 225168,
       "name": "Step by Step",
       "url": "https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O"
@@ -5939,6 +6165,24 @@
     },
     {
       "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
+    },
+    {
+      "album": {
         "name": "Sweet Boys Turned Sour",
         "url": "https://open.spotify.com/album/6Gr9Upfd4Xf8rIgIbCfVVn"
       },
@@ -5950,7 +6194,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 192847,
       "name": "Sweet Boys Turned Sour",
       "url": "https://open.spotify.com/track/31QmFXYklf0s872nAp3GUg"
@@ -6068,7 +6312,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 212685,
       "name": "The Curb",
       "url": "https://open.spotify.com/track/2agGvnAhdnszerZzi9AXbj"
@@ -6558,6 +6802,28 @@
       "duration_ms": 125494,
       "name": "Ugly World",
       "url": "https://open.spotify.com/track/6ZSI6zVBN2MqV5uH5d4X2X"
+    },
+    {
+      "album": {
+        "name": "UK SYNTH (feat. Bawo)",
+        "url": "https://open.spotify.com/album/08O45uAoySxb7Y2KSmPARW"
+      },
+      "artists": [
+        {
+          "name": "Deema",
+          "url": "https://open.spotify.com/artist/3SBYl2unJoVzvNIUBC8ftm"
+        },
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "UK SYNTH (feat. Bawo)",
+      "url": "https://open.spotify.com/track/1PB6xNX3CtzaHQ0l1bhFW6"
     },
     {
       "album": {

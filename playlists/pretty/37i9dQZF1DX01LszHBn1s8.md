@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > 💚 it's brat summer 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,136 likes - 951 songs - 2 day 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,119 likes - 951 songs - 2 day 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

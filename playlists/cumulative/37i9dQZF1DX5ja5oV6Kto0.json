@@ -3196,7 +3196,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 175877,
       "name": "cougar claws!",
       "url": "https://open.spotify.com/track/1oATMNbelhF3NgHlwiZmNp"
@@ -3810,7 +3810,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 157241,
       "name": "DLT",
       "url": "https://open.spotify.com/track/3CcdZzxO4zi9PJ4wABNsPz"
@@ -4570,7 +4570,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
@@ -11929,6 +11929,28 @@
     },
     {
       "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/4czHjPo9grGfdg7H3gkNIy"
+      },
+      "artists": [
+        {
+          "name": "Pope Beats",
+          "url": "https://open.spotify.com/artist/4odj9ozGAbq74iAxHlhmnL"
+        },
+        {
+          "name": "Quappi",
+          "url": "https://open.spotify.com/artist/5Dr8JfkvTjmnoqcaOMuVif"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/1hJBvJ2d2F9ipxKNKO1nVx"
+    },
+    {
+      "album": {
         "name": "Spicy",
         "url": "https://open.spotify.com/album/5L9LZdUqlU9xccbynFA7Vf"
       },
@@ -12426,6 +12448,24 @@
       "duration_ms": 190144,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"
+    },
+    {
+      "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "album": {
@@ -13902,6 +13942,28 @@
       "duration_ms": 178217,
       "name": "Wet",
       "url": "https://open.spotify.com/track/4UYvRJDzEIKvyHRMA8LPNC"
+    },
+    {
+      "album": {
+        "name": "WET",
+        "url": "https://open.spotify.com/album/6SggZBrSlNC7MwC9kmTxKg"
+      },
+      "artists": [
+        {
+          "name": "Mowalola",
+          "url": "https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh"
+        },
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92571,
+      "name": "WET",
+      "url": "https://open.spotify.com/track/6ZDnXyrBj9AxMNQ4yK7HUS"
     },
     {
       "album": {

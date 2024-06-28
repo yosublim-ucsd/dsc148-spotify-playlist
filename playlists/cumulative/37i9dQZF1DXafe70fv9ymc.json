@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Addict",
+        "url": "https://open.spotify.com/album/6VCFjahARQWF0GW9mEUf7I"
+      },
+      "artists": [
+        {
+          "name": "Sarnilo",
+          "url": "https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C"
+        },
+        {
+          "name": "Mzwaa",
+          "url": "https://open.spotify.com/artist/0mebykC539Ik5ijTNBY1FJ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Addict",
+      "url": "https://open.spotify.com/track/4QllNTTcfilJCmYGM7bJtw"
+    },
+    {
+      "album": {
         "name": "YOU WILL KNOW MY NAME",
         "url": "https://open.spotify.com/album/3BL6PeAQwWi2vwrj8wfI87"
       },
@@ -172,7 +194,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 238588,
       "name": "Chill",
       "url": "https://open.spotify.com/track/5J2EQqHiopKv9cHX3zLSZg"
@@ -282,6 +304,32 @@
       "duration_ms": 204573,
       "name": "come close (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj"
+    },
+    {
+      "album": {
+        "name": "CESSY 2PIECE",
+        "url": "https://open.spotify.com/album/2V9eYBqCGlGCOuUHcc6lH7"
+      },
+      "artists": [
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        },
+        {
+          "name": "theSylk",
+          "url": "https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX"
+        },
+        {
+          "name": "Jake Cromwell",
+          "url": "https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138598,
+      "name": "DARK HORSE (FREESTYLE)",
+      "url": "https://open.spotify.com/track/1x4GbgellXF8z7JAqWhOua"
     },
     {
       "album": {
@@ -892,7 +940,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 208208,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/5ScaS6Mo99bBAwmdiwXuXf"

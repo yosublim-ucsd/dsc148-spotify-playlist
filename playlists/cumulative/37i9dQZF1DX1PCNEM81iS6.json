@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "\u30ec\u30ca\u30bb\u30fc\u30eb\u30bb\u30ec\u30ca\u30fc\u30c7",
+        "url": "https://open.spotify.com/album/6NeE8qVQDMwIMEp7DDcWEI"
+      },
+      "artists": [
+        {
+          "name": "Momoiro Clover Z",
+          "url": "https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249345,
+      "name": "\u30ec\u30ca\u30bb\u30fc\u30eb\u30bb\u30ec\u30ca\u30fc\u30c7",
+      "url": "https://open.spotify.com/track/4LiRiw0zRSf9fN3QEf0fN3"
+    },
+    {
+      "album": {
         "name": "\u30b3\u30c8\u30d0\u30a2\u30bd\u30d3",
         "url": "https://open.spotify.com/album/6sU4bvWQW9QdldwSqAw35N"
       },

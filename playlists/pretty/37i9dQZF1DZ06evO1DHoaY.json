@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2018701,
+  "num_followers": 2018948,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnoIgAAAAABJyn/hEnYxBD1bMxP6a6tZ",
+  "snapshot_id": "ZntaAAAAAAD76G13iqKhLwpLOhwMnDcl",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,6 @@
       "duration_ms": 271023,
       "name": "Coming In From The Cold",
       "url": "https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 195733,
-      "name": "Kaya",
-      "url": "https://open.spotify.com/track/2rahWhhubhQMhG6coo7Vu9"
     },
     {
       "added_at": null,

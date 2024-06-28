@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 
 ### [This Is Salt Creek](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1450oU)
 
-> This is Salt Creek\. Tutti i brani in un'unica playlist.
+> This is Salt Creek\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 52 likes - 16 songs - 58 min 34 sec
 
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 | 15 | [Window Shade](https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 |
 | 16 | [EVERYONEISTHESAME](https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:06 |
 
-Snapshot ID: `ZnoIgAAAAAAD+Z1VdT1pvz8r7hcYsLpb`
+Snapshot ID: `ZntaAAAAAAAJVGhf3SaC6VXmFSH7UIor`

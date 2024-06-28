@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Me Presento",
+        "url": "https://open.spotify.com/album/3c9LupnZmRqoAHdzdSFMzC"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattheus",
+          "url": "https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204533,
+      "name": "Me Presento",
+      "url": "https://open.spotify.com/track/5whdmVRrXZ1dU2DWkNc5vn"
+    },
+    {
+      "album": {
         "name": "Amores Perros (Soundtrack)",
         "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
       },
@@ -1287,6 +1305,28 @@
     },
     {
       "album": {
+        "name": "nunca y despu\u00e9s",
+        "url": "https://open.spotify.com/album/3JZKpaOiDOoanRYQc1nMOq"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Rafa Arregu\u00edn",
+          "url": "https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211006,
+      "name": "nunca y despu\u00e9s",
+      "url": "https://open.spotify.com/track/5M0quwzJafA2xYHv2fjk6e"
+    },
+    {
+      "album": {
         "name": "Oye Mi Amor",
         "url": "https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY"
       },
@@ -1476,6 +1516,28 @@
       "duration_ms": 191500,
       "name": "Si es que est\u00e1s ah\u00ed",
       "url": "https://open.spotify.com/track/03oIgkJPaVyFokpfa2fLem"
+    },
+    {
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325145,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
     },
     {
       "album": {

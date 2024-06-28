@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Villano Antillano en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,407 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,422 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CamGirl >.< !!!](https://open.spotify.com/track/1YjC6CQDXwFGKUxXbIlYvf) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [CamGirl >.< !!!](https://open.spotify.com/album/53Pgsw3hhBWaiNcloEWovO) | 2:35 |
-| 2 | [cereza](https://open.spotify.com/track/5Rs4nTh5AsDoELAre4dVPR) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr), [cihuacoatl](https://open.spotify.com/artist/0puK9ppliD7aJzxOLxemtt) | [cereza](https://open.spotify.com/album/5oTWuDyBWoQZH1R6blCdm6) | 1:48 |
-| 3 | [No Era para Mí](https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [No Era para Mí](https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc) | 1:57 |
-| 4 | [Eclipse](https://open.spotify.com/track/0Zd7PSqNfM0NtAoVioKgno) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Noisedealer](https://open.spotify.com/artist/5vzROBva2YTrUeExbK8ixT) | [Eclipse](https://open.spotify.com/album/62WyrV9L2n76K7mUOqaPNX) | 2:49 |
-| 5 | [Money Lovin'](https://open.spotify.com/track/7jjRj5E4Z4yuEpYWckzJrl) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Money Lovin'](https://open.spotify.com/album/3qJ7wk5r8r0e3pPo5snnwL) | 2:45 |
+| 1 | [Money Lovin'](https://open.spotify.com/track/7jjRj5E4Z4yuEpYWckzJrl) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Money Lovin'](https://open.spotify.com/album/3qJ7wk5r8r0e3pPo5snnwL) | 2:45 |
+| 2 | [CamGirl >.< !!!](https://open.spotify.com/track/1YjC6CQDXwFGKUxXbIlYvf) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [CamGirl >.< !!!](https://open.spotify.com/album/53Pgsw3hhBWaiNcloEWovO) | 2:35 |
+| 3 | [cereza](https://open.spotify.com/track/5Rs4nTh5AsDoELAre4dVPR) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr), [cihuacoatl](https://open.spotify.com/artist/0puK9ppliD7aJzxOLxemtt) | [cereza](https://open.spotify.com/album/5oTWuDyBWoQZH1R6blCdm6) | 1:48 |
+| 4 | [No Era para Mí](https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [No Era para Mí](https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc) | 1:57 |
+| 5 | [Eclipse](https://open.spotify.com/track/0Zd7PSqNfM0NtAoVioKgno) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Noisedealer](https://open.spotify.com/artist/5vzROBva2YTrUeExbK8ixT) | [Eclipse](https://open.spotify.com/album/62WyrV9L2n76K7mUOqaPNX) | 2:49 |
 | 6 | [Clonazepamela](https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Clonazepamela](https://open.spotify.com/album/2oaC1GdSFnaSIWXiIJbdB4) | 2:10 |
 | 7 | [Quema X Dentro](https://open.spotify.com/track/7icATAGuoj7OJpHiQ9RrMD) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Quema X Dentro](https://open.spotify.com/album/2RKt2qx6DFf2hqsPCcG9MX) | 2:24 |
 | 8 | [Amor Bonito](https://open.spotify.com/track/40TSanahzEY6WEHdrtLQN5) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [Mari Polé](https://open.spotify.com/artist/0fkDQY5kgJpBTFy8bElfqY) | [Escándalo](https://open.spotify.com/album/7j8dIXuMwEOwShd551XiVK) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 99 | [Lick](https://open.spotify.com/track/1l9gwjr7SRHepNFio6MxLb) | [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo) | [Lick](https://open.spotify.com/album/3zb6F6ieaqd0qqCbiJVUnH) | 2:16 |
 | 100 | [Las Hijas Del Rap](https://open.spotify.com/track/0ZqIeOJEc6GGFI0remPX2Z) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Las Hijas Del Rap](https://open.spotify.com/album/2yzvkD2AxrxFQDWDy19by8) | 3:00 |
 
-Snapshot ID: `ZnUW4AAAAAA7VV4MuYlsyThpOtDt5sd6`
+Snapshot ID: `Zn32VgAAAACh+6B3h07Gje00MEyZddVE`

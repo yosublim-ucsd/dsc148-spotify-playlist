@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Ski Mask The Slump God
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,637 likes - 99 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,709 likes - 99 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 32 | [pradaponcho](https://open.spotify.com/track/6Y4JejQ1typSpsBYcbwVbZ) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [Pilotkid](https://open.spotify.com/artist/286FnZHn1jC2EwmR0HtCkG) | [jetsvm](https://open.spotify.com/album/6ywL1IfJGesqLYEZDjFFw9) | 2:42 |
 | 33 | [Shut Shit Down](https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut Shit Down](https://open.spotify.com/album/74HGGYuCtUANyifLwRIZhQ) | 2:42 |
 | 34 | [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 |
-| 35 | [Tuk\-Tuk](https://open.spotify.com/track/0dxGlilXDBOK8UGQfgQq1d) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 2:36 |
+| 35 | [Tuk\-Tuk](https://open.spotify.com/track/0dxGlilXDBOK8UGQfgQq1d) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 2:36 |
 | 36 | [Ambrosia](https://open.spotify.com/track/0t4XPmrCs5f9JWo26yQdPz) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Ambrosia](https://open.spotify.com/album/6liLrRZ18eTnyKwKKdlhYB) | 3:06 |
 | 37 | [Plata O Plomo \(Remix\) \[feat\. Bashfortheworld\]](https://open.spotify.com/track/3As19hYDpTwkp9Ia2yEqVF) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 2:56 |
 | 38 | [Out The Way](https://open.spotify.com/track/2amwhV87lPg4RXhS1eXkpz) | [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O) | [601 DEGREEZ](https://open.spotify.com/album/7tVFEAcU6vIaSYrLWXYLbP) | 2:25 |

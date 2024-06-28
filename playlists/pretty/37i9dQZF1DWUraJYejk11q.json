@@ -1,29 +1,13 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 460615,
+  "num_followers": 460619,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkMEAAAAAAmwC8bvY4EW8782nZwhPRl",
+  "snapshot_id": "Zn2uTwAAAABmwZoXeWzeD6fqWHS+/Qt9",
   "tracks": [
-    {
-      "added_at": "2024-05-30 23:30:24",
-      "album": {
-        "name": "3FOR82",
-        "url": "https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        }
-      ],
-      "duration_ms": 185060,
-      "name": "H0N3Y",
-      "url": "https://open.spotify.com/track/6TJd0gtqzG3KYVtYtGuaUV"
-    },
     {
       "added_at": "2024-04-15 18:24:33",
       "album": {
@@ -41,56 +25,20 @@
       "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
-      "added_at": "2024-04-15 18:24:33",
+      "added_at": "2024-06-27 18:24:15",
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
+        "name": "Dostrotime",
+        "url": "https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
         }
       ],
-      "duration_ms": 368770,
-      "name": "Daydream Repeat",
-      "url": "https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX"
-    },
-    {
-      "added_at": "2024-05-08 03:36:12",
-      "album": {
-        "name": "The Precision of Infinity",
-        "url": "https://open.spotify.com/album/0hHU32niIoAZ5zu8IceapV"
-      },
-      "artists": [
-        {
-          "name": "Jlin",
-          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
-        },
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        }
-      ],
-      "duration_ms": 280200,
-      "name": "The Precision Of Infinity",
-      "url": "https://open.spotify.com/track/3nG6mPXI1FXtdtXfNQGdPD"
-    },
-    {
-      "added_at": "2024-03-19 03:30:26",
-      "album": {
-        "name": "Worms on Acid",
-        "url": "https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Worms on Acid",
-      "url": "https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny"
+      "duration_ms": 379006,
+      "name": "Wendorlan - Original Mix",
+      "url": "https://open.spotify.com/track/60pUN8FYqcux6VuOO9vmhF"
     },
     {
       "added_at": "2024-05-08 03:37:26",
@@ -113,20 +61,52 @@
       "url": "https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6"
     },
     {
-      "added_at": "2024-04-15 21:25:32",
+      "added_at": "2024-04-15 18:24:33",
       "album": {
-        "name": "Alt-Mobeat",
-        "url": "https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI"
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
       },
       "artists": [
         {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 101931,
-      "name": "The Visit",
-      "url": "https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9"
+      "duration_ms": 368770,
+      "name": "Daydream Repeat",
+      "url": "https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX"
+    },
+    {
+      "added_at": "2024-05-30 23:30:24",
+      "album": {
+        "name": "3FOR82",
+        "url": "https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        }
+      ],
+      "duration_ms": 185060,
+      "name": "H0N3Y",
+      "url": "https://open.spotify.com/track/6TJd0gtqzG3KYVtYtGuaUV"
+    },
+    {
+      "added_at": "2024-03-19 03:30:26",
+      "album": {
+        "name": "Worms on Acid",
+        "url": "https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Worms on Acid",
+      "url": "https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny"
     },
     {
       "added_at": "2023-08-29 00:53:44",
@@ -143,6 +123,22 @@
       "duration_ms": 260202,
       "name": "Familiar Flavours",
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+    },
+    {
+      "added_at": "2024-04-15 21:25:32",
+      "album": {
+        "name": "Alt-Mobeat",
+        "url": "https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 101931,
+      "name": "The Visit",
+      "url": "https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9"
     },
     {
       "added_at": "2022-04-22 18:53:10",
@@ -211,22 +207,6 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
-    },
-    {
-      "added_at": "2024-01-24 16:30:56",
-      "album": {
-        "name": "Wendorlan",
-        "url": "https://open.spotify.com/album/5KCxPdaw34RM8d9OjYJAwT"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 379006,
-      "name": "Wendorlan",
-      "url": "https://open.spotify.com/track/5riAIZl7bL5PEgpIxaNNrH"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -393,26 +373,6 @@
       "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
     },
     {
-      "added_at": "2023-06-27 23:11:49",
-      "album": {
-        "name": "In The Afterworld",
-        "url": "https://open.spotify.com/album/02iBaExXa9p10DT4JlwSU0"
-      },
-      "artists": [
-        {
-          "name": "Om Unit",
-          "url": "https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B"
-        },
-        {
-          "name": "TM404",
-          "url": "https://open.spotify.com/artist/14mCD4JJYKhPl2nLqrjkZ7"
-        }
-      ],
-      "duration_ms": 299190,
-      "name": "Praha",
-      "url": "https://open.spotify.com/track/4PKcsaOmKOrfVXCJCqDOIK"
-    },
-    {
       "added_at": "2023-01-04 00:21:35",
       "album": {
         "name": "Baby, We're Ascending",
@@ -443,6 +403,46 @@
       "duration_ms": 157646,
       "name": "Virtual Forrest",
       "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
+    },
+    {
+      "added_at": "2023-06-27 23:11:49",
+      "album": {
+        "name": "In The Afterworld",
+        "url": "https://open.spotify.com/album/02iBaExXa9p10DT4JlwSU0"
+      },
+      "artists": [
+        {
+          "name": "Om Unit",
+          "url": "https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B"
+        },
+        {
+          "name": "TM404",
+          "url": "https://open.spotify.com/artist/14mCD4JJYKhPl2nLqrjkZ7"
+        }
+      ],
+      "duration_ms": 299190,
+      "name": "Praha",
+      "url": "https://open.spotify.com/track/4PKcsaOmKOrfVXCJCqDOIK"
+    },
+    {
+      "added_at": "2024-05-08 03:36:12",
+      "album": {
+        "name": "The Precision of Infinity",
+        "url": "https://open.spotify.com/album/0hHU32niIoAZ5zu8IceapV"
+      },
+      "artists": [
+        {
+          "name": "Jlin",
+          "url": "https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA"
+        },
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "duration_ms": 280200,
+      "name": "The Precision Of Infinity",
+      "url": "https://open.spotify.com/track/3nG6mPXI1FXtdtXfNQGdPD"
     },
     {
       "added_at": "2023-04-12 14:46:36",

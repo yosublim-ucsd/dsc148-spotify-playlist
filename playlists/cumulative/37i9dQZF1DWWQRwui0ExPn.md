@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,834 songs - 10 day 19 hr 6 min
+6,835 songs - 10 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1164,7 +1164,7 @@
 | [Club Miles](https://open.spotify.com/track/5xH4aNwEL2QXeQVweptVRN) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Club Miles](https://open.spotify.com/album/1wp9baWZ5LG4J4g2TBwREL) | 1:37 | 2022-10-14 |  |
 | [Cluster](https://open.spotify.com/track/5A53Rmf1P758v92dhmZ5NN) | [fickle fool](https://open.spotify.com/artist/2FTGZQUnPiR0EqCJb3PEBK) | [Mystified](https://open.spotify.com/album/2I4flLDL8JQ9qjk8BmoIWM) | 2:20 | 2021-12-17 | 2022-07-01 |
 | [Co0kies](https://open.spotify.com/track/3TGtkSzbcxmGSCr6FwnTVA) | [B0nds](https://open.spotify.com/artist/7ocYXGSTBnpzj74JufFDWB), [Danalog](https://open.spotify.com/artist/6UeMmehmfpsPBrwdMAB8ND) | [Co0kies](https://open.spotify.com/album/7621OOKNuqcBevGj5xqlUN) | 2:17 | 2020-06-12 | 2021-01-11 |
-| [Coastal Cruise](https://open.spotify.com/track/68YY58VmnLhV0Xqoekbdkd) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [Coastal Cruise](https://open.spotify.com/album/2oZiMI3Ja57B0XaHje5nHp) | 2:16 | 2024-05-10 |  |
+| [Coastal Cruise](https://open.spotify.com/track/68YY58VmnLhV0Xqoekbdkd) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [Coastal Cruise](https://open.spotify.com/album/2oZiMI3Ja57B0XaHje5nHp) | 2:16 | 2024-05-10 | 2024-06-28 |
 | [Coastal Era](https://open.spotify.com/track/3UaU98H1BUAXKSSI5lCjwB) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y), [Cvsket Pretty](https://open.spotify.com/artist/1B83te5eJCjyjR5b9s7h3I) | [Coastal Era](https://open.spotify.com/album/57fy0a9o5S4nMPKGyzk2o2) | 2:16 | 2023-08-03 | 2023-10-06 |
 | [Coastal View](https://open.spotify.com/track/5dVzfbqB2GJd0yqsC5qP1d) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [Coastal View](https://open.spotify.com/album/2v8W44dmqzSY8F8yhXW0al) | 2:29 | 2022-07-01 | 2022-10-14 |
 | [Coastal Walks](https://open.spotify.com/track/5I9cUsP08mVoll09AgkenG) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Cantsleep](https://open.spotify.com/artist/3NnWw90HvNCWgNi7vtKg4C), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Coastal Walks](https://open.spotify.com/album/7ISOo0AsQUaObViP3u4aa1) | 1:22 | 2019-07-13 | 2020-10-21 |
@@ -5369,6 +5369,7 @@
 | [Social Distancing](https://open.spotify.com/track/3XpApV8nqdWSv7kkYz4Cl2) | [FreakBeats](https://open.spotify.com/artist/0pyekPSB9eriDdKgK71n2V) | [Social Distancing](https://open.spotify.com/album/4qNibGmqFhj8RSrPLpow2k) | 1:53 | 2024-05-10 |  |
 | [Social Distancing](https://open.spotify.com/track/3SSE8zrdsyBBejRjGpcKhd) | [Slow Dreamers](https://open.spotify.com/artist/22I3HfDFVXfgs23A8GT3RN) | [Social Distancing](https://open.spotify.com/album/6YHZG4Exp19bMnQ047QQLK) | 3:01 | 2020-04-03 | 2021-09-04 |
 | [Sofa](https://open.spotify.com/track/4smtP3JR66IK5fShrz30fh) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Sofa](https://open.spotify.com/album/3hff0UB414rNoCq8Fq1bpx) | 1:29 | 2019-12-16 | 2021-07-29 |
+| [SoFi](https://open.spotify.com/track/00ZXkrMBoVMBMXgVOz8nWX) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [SoFi](https://open.spotify.com/album/6XNEjT7GPdFp6QhgpJy4w6) | 2:11 | 2024-06-21 |  |
 | [Soft and Crisp](https://open.spotify.com/track/633qw6ODroGzAUHMXoOKKh) | [Kiabits](https://open.spotify.com/artist/7Iwn7mwI12WYQtlVoi4GAg) | [Soft and Crisp](https://open.spotify.com/album/4RZESSg4ZpwIwv2trJutRB) | 1:30 | 2022-03-11 | 2022-08-05 |
 | [Soft Colors](https://open.spotify.com/track/5gyogaKjETMlxKrzSSpD15) | [Wax A Disk](https://open.spotify.com/artist/4q2Q779gkGB7ThSIsZ9lmS) | [Soft Colors](https://open.spotify.com/album/3RQrekfDVfBkajkdNWGEJc) | 2:00 | 2021-12-17 | 2022-08-19 |
 | [Soft Landing](https://open.spotify.com/track/6PnFzeirMzAaO5hcTgW903) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN) | [Thought Garden](https://open.spotify.com/album/2ErgPWZywBvQUCtYuSCVGH) | 3:17 | 2022-12-16 | 2023-02-22 |

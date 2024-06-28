@@ -1,12 +1,12 @@
 {
-  "description": "This is Kelsea Ballerini. Piesele esen\u021biale \u00eentr-un singur playlist.",
-  "num_followers": 84305,
-  "original_name": "Acesta este Kelsea Ballerini.",
+  "description": "This is Kelsea Ballerini\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 84351,
+  "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnoIgAAAAABtS6RBVGos8UBiXsuL3sA9",
+  "snapshot_id": "ZntaAAAAAACCaMB4JcHrJciw1UWFMqyb",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Center Point Road",
+      "url": "https://open.spotify.com/track/7p9zIciejn8GXnsRdG9EQR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The First Time",
         "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
       },
@@ -683,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 200066,
-      "name": "Get over Yourself",
-      "url": "https://open.spotify.com/track/0sr84SDJ9VN4EB7p2mWGur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "kelsea",
         "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
@@ -711,6 +715,22 @@
       "duration_ms": 195403,
       "name": "the way i used to",
       "url": "https://open.spotify.com/track/7F3vjCKPlhvWKGl0h4p3lm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 200066,
+      "name": "Get over Yourself",
+      "url": "https://open.spotify.com/track/0sr84SDJ9VN4EB7p2mWGur"
     },
     {
       "added_at": null,
@@ -765,6 +785,6 @@
       "url": "https://open.spotify.com/track/6PCPxCkN8ClnHN1AESmSJg"
     }
   ],
-  "unique_name": "Acesta este Kelsea Ballerini.",
+  "unique_name": "This Is Kelsea Ballerini",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fAyZy"
 }

@@ -1207,6 +1207,28 @@
     },
     {
       "album": {
+        "name": "En el Trap",
+        "url": "https://open.spotify.com/album/2Ybs6wIoJByUVK088Fpc3b"
+      },
+      "artists": [
+        {
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        },
+        {
+          "name": "Daimi the producer",
+          "url": "https://open.spotify.com/artist/3LCXmC2QKg6Mr2asiMvrMG"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156387,
+      "name": "En el Trap",
+      "url": "https://open.spotify.com/track/1NZt5EfQCFMlbOgeywCMq3"
+    },
+    {
+      "album": {
         "name": "Endorfina",
         "url": "https://open.spotify.com/album/10aNOp2gug1lB3DIBJZSlo"
       },
@@ -3859,7 +3881,7 @@
     },
     {
       "album": {
-        "name": "ARES KLEIN",
+        "name": "PROYECTO A-KLEIN",
         "url": "https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k"
       },
       "artists": [
@@ -4275,7 +4297,7 @@
     },
     {
       "album": {
-        "name": "ARES KLEIN",
+        "name": "PROYECTO A-KLEIN",
         "url": "https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k"
       },
       "artists": [

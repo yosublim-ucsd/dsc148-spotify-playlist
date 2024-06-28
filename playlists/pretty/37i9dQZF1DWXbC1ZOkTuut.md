@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,018 likes - 189 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,051 likes - 189 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 11 | [No Me Quejo \- En Vivo](https://open.spotify.com/track/3VKGf3HLYL5lqIBmB62aH9) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 4:21 |
 | 12 | [Te Agradezco Si Te Vas \- En Vivo](https://open.spotify.com/track/3xoGORtZcE4n4NHYNzYgFe) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 4:15 |
 | 13 | [Gracias Mamá](https://open.spotify.com/track/78TCeV0u59L7eu3Ov8yhmw) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Trascendental](https://open.spotify.com/album/37348zTjM2xauDv6Kw2uNR) | 3:04 |
-| 14 | [Tatúe tu Corazón](https://open.spotify.com/track/1DjwxrkhGOuMmHANRblC03) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Trascendental](https://open.spotify.com/album/37348zTjM2xauDv6Kw2uNR) | 2:31 |
+| 14 | [Tatué tu Corazón](https://open.spotify.com/track/1DjwxrkhGOuMmHANRblC03) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Trascendental](https://open.spotify.com/album/37348zTjM2xauDv6Kw2uNR) | 2:31 |
 | 15 | [Noche Bonita](https://open.spotify.com/track/2113pITEeRvo9nxyk9WiVB) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Trascendental](https://open.spotify.com/album/37348zTjM2xauDv6Kw2uNR) | 3:34 |
 | 16 | [Costumbres](https://open.spotify.com/track/0jcWhiZcafq3B9g7vGJisC) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Antología, Vol\. 2](https://open.spotify.com/album/6rA4mZD64iHpO8IJ2ir5gM) | 4:13 |
 | 17 | [Un Adios](https://open.spotify.com/track/7MlrXsIDAC7T5GpJlhFUN3) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Antología, Vol\. 2](https://open.spotify.com/album/6rA4mZD64iHpO8IJ2ir5gM) | 3:04 |

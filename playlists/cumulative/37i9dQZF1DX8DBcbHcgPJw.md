@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Marama, Migrantes & Flor Alvarez.
 
-536 songs - 1 day 2 hr 34 min
+537 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [La Curiosidad](https://open.spotify.com/track/2WRMzDyCVSIcT3DUTFYQC7) | [Tu Papa](https://open.spotify.com/artist/7ha2O24d2RixnRx9whTRuW), [Marito Davila](https://open.spotify.com/artist/1YCxEcWL2M3zamrQzFOsCJ) | [La Curiosidad](https://open.spotify.com/album/0EKLCjwX92EQwBBrRrPnfg) | 2:45 | 2022-01-03 | 2022-07-29 |
 | [La Despedida](https://open.spotify.com/track/7dg5Ftm2r7DTWxZ2jStavG) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [La Despedida](https://open.spotify.com/album/7tk1J50942TGMsEGUGGlJJ) | 3:08 | 2023-02-03 | 2023-03-04 |
 | [La Despedida](https://open.spotify.com/track/6k6EKzJtK5LpCi4eTeBzUv) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [La Despedida](https://open.spotify.com/album/0hRN8YcEzqnwoaq4u2lDYV) | 2:55 | 2023-03-24 | 2023-05-09 |
-| [La Difícil](https://open.spotify.com/track/2tgImTwBcW1lOWRaUYUUx2) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [La Difícil](https://open.spotify.com/album/3b82LbRrcYmKCKtNzvdZOJ) | 2:25 | 2022-03-25 |  |
+| [La Difícil](https://open.spotify.com/track/2tgImTwBcW1lOWRaUYUUx2) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [La Difícil](https://open.spotify.com/album/3b82LbRrcYmKCKtNzvdZOJ) | 2:25 | 2022-03-25 | 2024-06-28 |
 | [La Foto](https://open.spotify.com/track/2uRo9meMZUiellRCmE4osu) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Chiara Scanzerra](https://open.spotify.com/artist/3ycdNHDlAbsOcgoVUTN3ec) | [La Foto](https://open.spotify.com/album/0AnhGG26unK4mTzFXYCr7k) | 2:08 | 2022-01-07 | 2022-08-09 |
 | [La Gira](https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [La Gira](https://open.spotify.com/album/1r4macev7NFEbzNhsfSWft) | 3:14 | 2023-01-13 | 2024-03-02 |
 | [La Incondicional \(Version Cumbia Pop\)](https://open.spotify.com/track/3IxVP7vjukxmjk1T9gZ7kf) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Nicki Luis](https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D) | [La Incondicional \(Version Cumbia Pop\)](https://open.spotify.com/album/6pc3Ttq5xewStsRuE1ErIs) | 2:36 | 2022-01-03 | 2022-07-28 |
@@ -427,6 +427,7 @@
 | [Sin Valentín](https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Sin Valentín](https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj) | 2:41 | 2024-02-16 |  |
 | [Sobrio](https://open.spotify.com/track/2s6Msf6JuH7rQP6QauANU1) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg) | [Sobrio](https://open.spotify.com/album/2jREwOReGpbsTX3sTyPyas) | 3:41 | 2022-08-06 | 2022-08-23 |
 | [Sobrio](https://open.spotify.com/track/7oxEQwndfGf9zqvRejWYaD) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Sobrio](https://open.spotify.com/album/3mnYggEIyjKiCSBw1WFD6T) | 2:27 | 2021-12-23 | 2022-07-29 |
+| [Solo](https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Solo](https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45) | 3:13 | 2024-06-21 |  |
 | [Solo Necesito \- Remix](https://open.spotify.com/track/6W8NN9RJUnqmXaEXM5dgBb) | [Meri Deal](https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Solo Necesito \(Remix\)](https://open.spotify.com/album/5N8bY7Srp0mSwd4PpB3HVm) | 2:43 | 2023-12-15 | 2024-06-21 |
 | [Soltarte](https://open.spotify.com/track/6bC5DAyaA2LvptpyUOPLaP) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Soltarte](https://open.spotify.com/album/0oClzSj9uKuLhBbftqIN38) | 2:18 | 2022-01-14 | 2022-07-20 |
 | [Soltera](https://open.spotify.com/track/4FZJUfuJ2iWmYQGP049z34) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Soltera](https://open.spotify.com/album/4uM4WTmkJe26VYRq5NKHq8) | 3:06 | 2021-12-23 | 2022-07-16 |

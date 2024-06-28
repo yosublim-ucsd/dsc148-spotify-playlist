@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Karmento y Bewis de la Rosa.
 
-617 songs - 1 day 12 hr 52 min
+619 songs - 1 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Ponme](https://open.spotify.com/track/7oGwZ9K8PbWEMCEmJS2esu) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El siglo del loro](https://open.spotify.com/album/1p9J4Gk71sOHPFeEmJYVvP) | 1:40 | 2024-03-15 | 2024-04-19 |
 | [Ponme](https://open.spotify.com/track/38U8dbAhadvm7Afy3o38G5) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Ponme](https://open.spotify.com/album/6RvRFLAJHZcjDPlFwbZk81) | 1:40 | 2021-12-24 | 2022-07-29 |
 | [poquito](https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [poquito](https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI) | 3:39 | 2022-11-25 |  |
+| [Por qué Será \(feat\. La Tania & Yerai Cortés\)](https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [La Tania](https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ), [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [Por qué Será \(feat\. La Tania & Yerai Cortés\)](https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR) | 5:00 | 2024-06-21 |  |
 | [Por Qué?](https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5) | [Mari Segura](https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt) | [Por Qué?](https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f) | 3:40 | 2024-04-26 | 2024-06-22 |
 | [Portarse Bien](https://open.spotify.com/track/1b4wKuDw9JCcAaQff5gc98) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Tecnología: Colección](https://open.spotify.com/album/1lb23XAYTsS9kmeg39DJGh) | 4:59 | 2023-07-21 | 2023-08-18 |
 | [Prefiero No Decir Nada](https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Fuimos Los Dos](https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd) | 2:17 | 2022-10-28 | 2023-02-18 |
@@ -542,6 +543,7 @@
 | [Temerario \- Acústico](https://open.spotify.com/track/0f4uL39wrm5n6iDF2ZQEuH) | [Itaca Band](https://open.spotify.com/artist/1tQtaouRCs37gaJVi7HTYR), [Gerard Aledo](https://open.spotify.com/artist/2G3PV2M6Mpb2FjRVNio1tf) | [Temerario \(Acústico\)](https://open.spotify.com/album/2zZVXgcEvBEiIyOtGmO0Ic) | 3:47 | 2024-06-21 |  |
 | [Temes](https://open.spotify.com/track/0dszpdR645HWyHjnCLMexZ) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Temes](https://open.spotify.com/album/7kvGZ7dfdr1qvfWgsdemGl) | 3:16 | 2021-12-24 | 2022-07-29 |
 | [Temes](https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:16 | 2022-07-22 | 2023-12-16 |
+| [Templo](https://open.spotify.com/track/0ZpwAKJ9GBQCXrRrOSmqXr) | [La Cangreja](https://open.spotify.com/artist/3uZPUKyuCQFCR75x69x0KA) | [La Cangreja \| Acusticos en El Salón de Casa](https://open.spotify.com/album/6qYvKeMSc2KhznzFhdj7lt) | 3:31 | 2024-06-21 |  |
 | [Ter o ceo](https://open.spotify.com/track/7b2zjYp7zuIAD8XqnqO5Tb) | [Néboa](https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8), [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Coas primeiras follas secas](https://open.spotify.com/album/3vnO28pwr7mfykK8ldMyD4) | 3:05 | 2021-12-24 | 2022-01-16 |
 | [Terra](https://open.spotify.com/track/5Uw24VY2ItLdhCXARPpuPd) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Carta Aberta](https://open.spotify.com/album/1JVc6xReXLJbKpVlTKg03e) | 4:30 | 2022-11-25 | 2023-03-03 |
 | [Terra banyada](https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Fins a maig no revisc](https://open.spotify.com/album/0nfAMwME4AZNOSaYuBVdWu) | 2:47 | 2021-12-24 |  |
@@ -587,7 +589,7 @@
 | [Una Fecha En El Calendario](https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:58 | 2023-03-10 | 2024-01-20 |
 | [Una herida](https://open.spotify.com/track/7CPQMi5mEonIFzo8VtV7cy) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Una herida](https://open.spotify.com/album/0Dydnkcx3W58VZhWnJQJhq) | 3:02 | 2022-09-23 | 2022-10-22 |
 | [Una mica més](https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen) | [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3), [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Una mica més](https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l) | 4:21 | 2024-03-01 |  |
-| [una señal](https://open.spotify.com/track/7C4aWyzH7EbUkyGhlbOPcC) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [una señal](https://open.spotify.com/album/1vkND1PLjBMiCq6d8h6mBp) | 3:33 | 2024-02-16 |  |
+| [una señal](https://open.spotify.com/track/7C4aWyzH7EbUkyGhlbOPcC) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [una señal](https://open.spotify.com/album/1vkND1PLjBMiCq6d8h6mBp) | 3:33 | 2024-02-16 | 2024-06-28 |
 | [Universo](https://open.spotify.com/track/5OyW17JzgrvjAJkycMHAmp) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Universo](https://open.spotify.com/album/6hKxfX97K2i0tmZJETLfFP) | 3:04 | 2021-12-24 | 2022-02-12 |
 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 | 2022-07-22 | 2022-08-26 |
 | [Vals de la Luna](https://open.spotify.com/track/1aqAIRbnsmLY4scIFT9m1t) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Vals de la Luna](https://open.spotify.com/album/3T43guJr3czyoPy0eEvjHh) | 3:10 | 2023-09-29 | 2024-02-17 |

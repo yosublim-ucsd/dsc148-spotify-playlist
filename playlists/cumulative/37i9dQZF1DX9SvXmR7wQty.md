@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: 2Frères
 
-2,633 songs - 5 day 20 hr 19 min
+2,634 songs - 5 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1691,7 +1691,7 @@
 | [NINTENDO 64](https://open.spotify.com/track/6x853glEaRezDRdmA0dkVo) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v) | [INDUSTREET : Exotics & Bangers](https://open.spotify.com/album/6db262ipeW9iZVkrKvhz8s) | 3:25 | 2024-02-09 | 2024-02-17 |
 | [Nirvana](https://open.spotify.com/track/7FdeH1ziL9awJywvTbAsYO) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Nirvana](https://open.spotify.com/album/3URbWIl55rpVoX0NpQlGrD) | 2:59 | 2023-01-20 | 2023-02-04 |
 | [No Choice](https://open.spotify.com/track/7FX9fJFJL1BSgrWKZ3zrhX) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn), [Le Shoush](https://open.spotify.com/artist/3pBS7ZKUIPG82BxrOVRaFH) | [No Choice](https://open.spotify.com/album/5RHher7IXArSsZGvXHUFui) | 2:22 | 2024-06-14 | 2024-06-22 |
-| [NO LACK](https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [IL LE FALLAIT](https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd) | 2:33 | 2024-05-31 |  |
+| [NO LACK](https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [IL LE FALLAIT](https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd) | 2:33 | 2024-05-31 | 2024-06-28 |
 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 | 2023-07-07 | 2023-09-09 |
 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 | 2023-03-17 | 2023-04-15 |
 | [No makeup](https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [L'école des Stars](https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv) | 3:11 | 2024-04-26 | 2024-06-14 |
@@ -2088,6 +2088,7 @@
 | [Rue Freestyle 3](https://open.spotify.com/track/7ojviF9wfaNpV54xTra2k2) | [Kalibre](https://open.spotify.com/artist/2hJHgSjgt2ij8alpKsyWmN) | [Rue Freestyle 3](https://open.spotify.com/album/1GRkHyEBC7D0ELG6EjOLoI) | 1:06 | 2022-03-11 | 2022-03-18 |
 | [Run Off](https://open.spotify.com/track/4hacOsbThfn68iXRzWxFet) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Izuku 2.0](https://open.spotify.com/album/0ebFweEBDJCo4LySV87ARC) | 2:40 | 2022-06-17 | 2022-07-02 |
 | [Répondre aux oiseaux](https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Répondre aux oiseaux](https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq) | 3:30 | 2024-05-03 | 2024-05-11 |
+| [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 | 2024-06-21 |  |
 | [Réunion \(feat\. Freeze Corleone\)](https://open.spotify.com/track/3fcha9VE9X2g3mNl5hXnJ0) | [Stavo](https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Réunion \(feat\. Freeze Corleone\)](https://open.spotify.com/album/5EgYAqhvCPERW2MHe6tNvP) | 3:44 | 2022-09-09 | 2022-09-24 |
 | [Réussite](https://open.spotify.com/track/7lY6YJB2MxULSGqd4dY5cb) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb) | [Réussite](https://open.spotify.com/album/0FdaNcnjm7JuyGovaL9Mcr) | 2:42 | 2022-10-14 | 2022-10-29 |
 | [Réveil](https://open.spotify.com/track/0LS7Uq68yZevP4L6qkwtZk) | [Siméon](https://open.spotify.com/artist/1gMd93XWoKyxA1UTmPWZum) | [Réveil](https://open.spotify.com/album/23tyeW8OMOenG6cOyYrgxc) | 3:00 | 2022-04-22 | 2022-04-29 |

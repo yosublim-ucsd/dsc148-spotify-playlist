@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Dollypran",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: L'morphine",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 213539,
       "name": "ACH KHBARKOM",
       "url": "https://open.spotify.com/track/6tPMsNHDqitLURI5FMcNm6"
@@ -1090,6 +1090,24 @@
       "duration_ms": 196206,
       "name": "Docteur - Spotify Singles",
       "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
+    },
+    {
+      "album": {
+        "name": "YAKINE",
+        "url": "https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "Dokhana",
+      "url": "https://open.spotify.com/track/5Yd23nlQjtvyceg2u2BnxQ"
     },
     {
       "album": {
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 194749,
       "name": "Neshba",
       "url": "https://open.spotify.com/track/14ZF0QXfMjJ1DyoL7umYoG"
@@ -4592,6 +4610,24 @@
       "duration_ms": 259506,
       "name": "Wayli",
       "url": "https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc"
+    },
+    {
+      "album": {
+        "name": "YAKINE",
+        "url": "https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200909,
+      "name": "We9tna",
+      "url": "https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7"
     },
     {
       "album": {

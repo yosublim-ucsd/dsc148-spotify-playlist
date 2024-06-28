@@ -3453,6 +3453,32 @@
     },
     {
       "album": {
+        "name": "Naadu Vittu (From \"Aalan\")",
+        "url": "https://open.spotify.com/album/4HqiQWXN6etHpQoexXK7jS"
+      },
+      "artists": [
+        {
+          "name": "Manoj Krishna",
+          "url": "https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278750,
+      "name": "Naadu Vittu (From \"Aalan\")",
+      "url": "https://open.spotify.com/track/3LEq778z6w78Wn7HCqlD8b"
+    },
+    {
+      "album": {
         "name": "Naangam Kadal Noaku Saalai",
         "url": "https://open.spotify.com/album/6NhgnDvN4rPZ0vgc2BCy5j"
       },

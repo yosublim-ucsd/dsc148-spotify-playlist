@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Bazuu",
+        "url": "https://open.spotify.com/album/2tNxs0KenKI8giksoy4AOS"
+      },
+      "artists": [
+        {
+          "name": "JIMWAT EDUTAINMENT",
+          "url": "https://open.spotify.com/artist/5juOcaKXl9yUq2ztZEUD6j"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "Bazuu",
+      "url": "https://open.spotify.com/track/7oi7yLkEGOdAJp6jIN5h8G"
+    },
+    {
+      "album": {
         "name": "Bend Ova",
         "url": "https://open.spotify.com/album/64ZUIb2REQtAEXBlvzeFK6"
       },
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 183535,
       "name": "Chachisha",
       "url": "https://open.spotify.com/track/0VJorjvhUSRFmLTMJtUX3W"
@@ -2634,7 +2652,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 298666,
       "name": "Hatukosi Raha",
       "url": "https://open.spotify.com/track/0LH8cljkC5wtVR75Yb74Uc"
@@ -8226,6 +8244,36 @@
       "duration_ms": 172506,
       "name": "Wapi Hio Tumbler",
       "url": "https://open.spotify.com/track/1euOHNRbVXiIA8tKS9TBcV"
+    },
+    {
+      "album": {
+        "name": "Wasupa Wakam",
+        "url": "https://open.spotify.com/album/2Q7qiZVKfvz458vL4XQLQm"
+      },
+      "artists": [
+        {
+          "name": "Parroty",
+          "url": "https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK"
+        },
+        {
+          "name": "Spoiler",
+          "url": "https://open.spotify.com/artist/4kPGmnSlbw28jN6qD8jYGT"
+        },
+        {
+          "name": "Tipsy Gee",
+          "url": "https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5"
+        },
+        {
+          "name": "Gody Tennor",
+          "url": "https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197642,
+      "name": "Wasupa Wakam",
+      "url": "https://open.spotify.com/track/0wkvVx7qMMWKmCFysSAwGl"
     },
     {
       "album": {

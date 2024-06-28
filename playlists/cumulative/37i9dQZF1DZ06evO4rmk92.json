@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 176133,
       "name": "(Get Your Kicks On) Route 66",
       "url": "https://open.spotify.com/track/6AlmudWNrmyqohVSV7Vgib"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 286173,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/0XboALCVOmAxzi5JEZHytz"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 171106,
       "name": "Adios Marquita Linda",
       "url": "https://open.spotify.com/track/0ouj5Z8smLTqpluuhAQ1Cq"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 113293,
       "name": "Almost Like Being In Love - Remastered",
       "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 182400,
       "name": "An Affair To Remember",
       "url": "https://open.spotify.com/track/2Iu8YgkRJNQgqkYnYJ46nv"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 168826,
       "name": "Cappuccina",
       "url": "https://open.spotify.com/track/0l77yPx7obpLzZ93NFNcFR"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 239093,
       "name": "Exactly Like You - Live at the Blue Note Chicago",
       "url": "https://open.spotify.com/track/3wL0UOzErJ5a6nlkNuULcF"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 211173,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/2waiAcLQiqlX5bzvLtNUA0"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 139226,
       "name": "How I'd Love To Love You",
       "url": "https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co"
@@ -667,6 +667,28 @@
     },
     {
       "album": {
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222866,
+      "name": "I Got It Bad (And That Ain't Good)",
+      "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
+    },
+    {
+      "album": {
         "name": "From The Capitol Vaults (Vol. 5)",
         "url": "https://open.spotify.com/album/7ukWwALcdnZPMmvAx0AilR"
       },
@@ -696,7 +718,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 182026,
       "name": "I Was A Little Too Lonely (And You Were A Little Too Late) - 20-Bit Mastering/1999 Digital Remaster",
       "url": "https://open.spotify.com/track/7bPW89JDVPbaJEBOyRB81L"
@@ -862,7 +884,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 152840,
       "name": "Las Chiapanecas",
       "url": "https://open.spotify.com/track/4GSabduqBrXfoFPxwfmvdS"
@@ -916,7 +938,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 165973,
       "name": "Let There Be Love",
       "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
@@ -988,7 +1010,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 164573,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/5SVYNJjplfUnaaknWcLvPm"
@@ -1050,7 +1072,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 253506,
       "name": "Mean To Me",
       "url": "https://open.spotify.com/track/2h0pcrwhB7xIBWWHqz1W8f"
@@ -1068,7 +1090,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 194986,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/5dae01pKNjRQtgOeAkFzPY"
@@ -1104,7 +1126,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 173533,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl"
@@ -1122,7 +1144,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 153666,
       "name": "Noche De Ronda",
       "url": "https://open.spotify.com/track/14r5VuEHs2S4H54yiYI1Sb"
@@ -1158,7 +1180,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 106266,
       "name": "On A Bicycle Built For Two",
       "url": "https://open.spotify.com/track/4Pm71yb8NDeyYOPLY4lr1h"
@@ -1194,7 +1216,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-25",
+      "date_removed": null,
       "duration_ms": 153866,
       "name": "Orange Colored Sky",
       "url": "https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC"
@@ -1212,7 +1234,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 140706,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
@@ -1252,7 +1274,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 129666,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/4Vp7v5mc7P4SOR4PaIKqOi"
@@ -1270,7 +1292,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-19",
+      "date_removed": null,
       "duration_ms": 164400,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ"
@@ -1288,7 +1310,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "Quizas, Quizas, Quizas (Perhaps, Perhaps, Perhaps)",
       "url": "https://open.spotify.com/track/6VuJLPtBlEOaR5oYI51ueN"
@@ -1306,7 +1328,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 167853,
       "name": "Ramblin' Rose",
       "url": "https://open.spotify.com/track/6bZlab0NrNteVppLu9C2Zy"
@@ -1324,7 +1346,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 197200,
       "name": "Red Sails In The Sunset",
       "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
@@ -1360,7 +1382,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 173266,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
@@ -1396,7 +1418,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 165720,
       "name": "Solamente Una Vez",
       "url": "https://open.spotify.com/track/4CzO5nlZdaoa331G9qfpIV"
@@ -1414,7 +1436,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 129066,
       "name": "Something Makes Me Want To Dance With You",
       "url": "https://open.spotify.com/track/0KeoqUC0VjgxCmJWtSExsD"
@@ -1540,7 +1562,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 179666,
       "name": "That's All - Remastered",
       "url": "https://open.spotify.com/track/5ru3nEtJjwEGjzPq3si0de"
@@ -1558,7 +1580,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 152320,
       "name": "The Late, Late Show",
       "url": "https://open.spotify.com/track/5tFvnHL61U4gcIU8fv4fHA"
@@ -1584,7 +1606,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 288826,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/15uAiXSILEHdx7IOOYEe0b"
@@ -1620,7 +1642,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 228693,
       "name": "The Very Thought Of You",
       "url": "https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4"
@@ -1692,7 +1714,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 150226,
       "name": "This Can't Be Love",
       "url": "https://open.spotify.com/track/3YVpYtBaAaqigrAbeGwPMx"
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 145013,
       "name": "Those Lazy, Hazy, Crazy Days Of Summer",
       "url": "https://open.spotify.com/track/0ItlbY5mHDSYQd3SOgAlZu"
@@ -1764,7 +1786,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 116640,
       "name": "Too Marvelous For Words - Remastered",
       "url": "https://open.spotify.com/track/7CGoWgyKiAOO9tvpAEayYp"
@@ -1782,7 +1804,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 204626,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd"
@@ -2010,7 +2032,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 214000,
       "name": "When I Grow Too Old To Dream - Remastered 1999",
       "url": "https://open.spotify.com/track/1CANiqTKDkdkLklQnvGjvf"
@@ -2028,7 +2050,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 166160,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL"
@@ -2082,7 +2104,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 172040,
       "name": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
       "url": "https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ"

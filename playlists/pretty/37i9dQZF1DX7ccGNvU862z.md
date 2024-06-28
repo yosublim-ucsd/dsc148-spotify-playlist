@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 > Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: MILLI , Flower.far , GALCHANIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,765 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,767 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 5 | [ชอบหนู ?](https://open.spotify.com/track/3J0ygzMxPkCd0lwfqLy13B) | [Highhot](https://open.spotify.com/artist/7clhNqbmk9enpeaBH9ACiZ), [DAIDAI](https://open.spotify.com/artist/715cBIQJdCfEsiAY89jopV) | [ชอบหนู ?](https://open.spotify.com/album/65J1dDVV51tn4TUmm43S3K) | 3:00 |
 | 6 | [Kiss for luv](https://open.spotify.com/track/4N0LiJT8lMajHnLv5F5Iho) | [Kennocha](https://open.spotify.com/artist/4x2ikRZkZoyUukv8H39nCP), [Jungji](https://open.spotify.com/artist/6mAPxjjlPXBT4PCcrfRxJX), [Migbizzy](https://open.spotify.com/artist/4y6TH6aD9FvcKrWfwEmEUM) | [Kiss for luv](https://open.spotify.com/album/0e7bxXmH5DbN8PzCZJnHkV) | 2:14 |
 | 7 | [หวังว่าจะดี](https://open.spotify.com/track/4x8v9usS4BBpWZVE080Dc2) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ), [VIPER](https://open.spotify.com/artist/3FVgKNTkG9wYoJONzU2QuL) | [หวังว่าจะดี](https://open.spotify.com/album/3zy7LxS0OpFSV8F10LNK0n) | 4:02 |
-| 8 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [RIFLE](https://open.spotify.com/artist/4hIIGlitHYepgaKi1aSKHn), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 |
+| 8 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 |
 | 9 | [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 |
 | 10 | [One Day](https://open.spotify.com/track/4JjsTrUcrLM8OGuJjjfXKk) | [Ben Bizzy](https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6) | [One Day](https://open.spotify.com/album/3jVjKSg3PSdq1shyMIa9Rz) | 2:15 |
 | 11 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 |

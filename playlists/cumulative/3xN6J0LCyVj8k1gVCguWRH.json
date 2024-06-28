@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 318840,
       "name": "A Little Bit Of Honey",
       "url": "https://open.spotify.com/track/6EVHVCQ5bGyjh0MedmOBLK"
@@ -17954,7 +17954,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 208315,
       "name": "Ethereal Mood",
       "url": "https://open.spotify.com/track/7fzMyMFoOtewaSSYYK7J8g"
@@ -22172,6 +22172,24 @@
       "duration_ms": 265811,
       "name": "Genki Dane",
       "url": "https://open.spotify.com/track/2yYiGo3m1umxAHh0GiIMes"
+    },
+    {
+      "album": {
+        "name": "Gentle Angel",
+        "url": "https://open.spotify.com/album/51sGWlBoPzNhmjnqqgaAaf"
+      },
+      "artists": [
+        {
+          "name": "Kieran Stracey",
+          "url": "https://open.spotify.com/artist/0l7ylVy9QYBbXlLStMIx4R"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Gentle Angel",
+      "url": "https://open.spotify.com/track/3MhCQWnKGxKhDsYSpRsOd9"
     },
     {
       "album": {
@@ -33162,7 +33180,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 220613,
       "name": "Life Comes from the Sun (Dale's Radio Edit)",
       "url": "https://open.spotify.com/track/6QcONDPHQjHyVPZTbsbEgP"
@@ -48813,6 +48831,24 @@
     },
     {
       "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/5kk395EVWSwONgyztm4rzo"
+      },
+      "artists": [
+        {
+          "name": "Max Parker",
+          "url": "https://open.spotify.com/artist/2nv4kJnjCxOSw6LD3a9NRe"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183889,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/4DCoqzKqUoVCO6JfOJfdxG"
+    },
+    {
+      "album": {
         "name": "Rusty",
         "url": "https://open.spotify.com/album/6WDsaHbCuGFb2PAhgGd68c"
       },
@@ -61238,6 +61274,24 @@
       "duration_ms": 260624,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/5p55yFIL88rvD1F7gcd8Sn"
+    },
+    {
+      "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/0FH1VWRqZrDPOubGYSkktM"
+      },
+      "artists": [
+        {
+          "name": "KingTuffa",
+          "url": "https://open.spotify.com/artist/4b9B1tlCDr4hnlwcw5IV5C"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166948,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/3f0dWJG5TtocEIaySXb1Kb"
     },
     {
       "album": {

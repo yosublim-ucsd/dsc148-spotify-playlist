@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Camidoh",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Darkovibes",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -750,7 +750,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 181700,
       "name": "Ashawo",
       "url": "https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb"
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 178105,
       "name": "Fate",
       "url": "https://open.spotify.com/track/1QCV9ndrHVnqtMcqXszEN6"
@@ -2670,6 +2670,28 @@
       "duration_ms": 185362,
       "name": "First Sermon",
       "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
+    },
+    {
+      "album": {
+        "name": "Flashy",
+        "url": "https://open.spotify.com/album/5zDpecVut4H25OjHy0CesR"
+      },
+      "artists": [
+        {
+          "name": "DJ Mic Smith",
+          "url": "https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183925,
+      "name": "Flashy",
+      "url": "https://open.spotify.com/track/0PaE3Z35AkWdVFOcOaEVEg"
     },
     {
       "album": {
@@ -3320,7 +3342,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 157541,
       "name": "I Lied",
       "url": "https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo"
@@ -3627,6 +3649,50 @@
     },
     {
       "album": {
+        "name": "Kelewele (feat. Joeboy)",
+        "url": "https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Kelewele (feat. Joeboy)",
+      "url": "https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs"
+    },
+    {
+      "album": {
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/004vsMw80QFIVP2MWgSfOd"
+      },
+      "artists": [
+        {
+          "name": "Leftizzle",
+          "url": "https://open.spotify.com/artist/0UJ4laOahyFVmjDyLPHJc8"
+        },
+        {
+          "name": "Fuse ODG",
+          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202352,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/4oZcUz0YS5komd8ukoYtyR"
+    },
+    {
+      "album": {
         "name": "Kill Me",
         "url": "https://open.spotify.com/album/3mKhwkeVFoBey3u4FnKr4T"
       },
@@ -3774,6 +3840,28 @@
       "duration_ms": 185364,
       "name": "Kwaku the Traveller",
       "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
+    },
+    {
+      "album": {
+        "name": "Kyelensa",
+        "url": "https://open.spotify.com/album/2N9DdwbIf0xdXhIcEFc6HY"
+      },
+      "artists": [
+        {
+          "name": "Avit",
+          "url": "https://open.spotify.com/artist/1pWNPxR4s1pbNP9bouFeqO"
+        },
+        {
+          "name": "Wanlov The Kubolor",
+          "url": "https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "Kyelensa",
+      "url": "https://open.spotify.com/track/2I8sAeOtAAOHgM0nhmPYY1"
     },
     {
       "album": {
@@ -4662,7 +4750,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 150055,
       "name": "Not God",
       "url": "https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH"
@@ -5238,6 +5326,24 @@
       "duration_ms": 174717,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6cYUGGEDcAouyCx8LJk8SG"
+    },
+    {
+      "album": {
+        "name": "Onoa",
+        "url": "https://open.spotify.com/album/078bV0BV8pqSu03kQbPHHy"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Onoa",
+      "url": "https://open.spotify.com/track/6P0c4dcZNj6rwGxrc6zPx4"
     },
     {
       "album": {
@@ -7028,7 +7134,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 124444,
       "name": "Vero",
       "url": "https://open.spotify.com/track/0yjxAenLJwPCCcn19XSYG3"
@@ -7290,6 +7396,24 @@
       "duration_ms": 137142,
       "name": "Why",
       "url": "https://open.spotify.com/track/1zpXHc5Re0JE3BEYnXeeXW"
+    },
+    {
+      "album": {
+        "name": "WIFI",
+        "url": "https://open.spotify.com/album/0RdZhYpdfeLAPUBimtVjBr"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140641,
+      "name": "WIFI",
+      "url": "https://open.spotify.com/track/3XoIFPE1GeKdGR7eG3r9zu"
     },
     {
       "album": {
@@ -7722,7 +7846,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 194558,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd"

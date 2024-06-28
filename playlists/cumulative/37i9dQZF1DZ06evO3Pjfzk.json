@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-09-16",
-  "description": "This is Lainey Wilson. Piesele esen\u021biale \u00eentr-un singur playlist.",
-  "name": "Acesta este Lainey Wilson.",
+  "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
+  "name": "This Is Lainey Wilson",
   "tracks": [
     {
       "album": {
@@ -740,6 +740,28 @@
       "duration_ms": 237493,
       "name": "Save Me (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn"
+    },
+    {
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237493,
+      "name": "Save Me - with Lainey Wilson",
+      "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
     },
     {
       "album": {

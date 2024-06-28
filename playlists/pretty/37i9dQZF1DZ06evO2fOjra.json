@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 483153,
+  "num_followers": 483349,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnoIgAAAAACtFckqBSlNrynhP227017s",
+  "snapshot_id": "ZntaAAAAAACxY9iIu9NB3OOu77vO9mn1",
   "tracks": [
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Forgotten",
-      "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 185533,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2auOcw84LOvAYpbImw8Tid"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Serenity of Suffering",
+        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/3cdaqIaPz4QMr8lTu4PYrv"
     }
   ],
   "unique_name": "This Is Korn",

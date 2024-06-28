@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-80 songs - 4 hr 7 min
+81 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Malibu](https://open.spotify.com/track/2Xr6SGuF6e6oOrSmqrNsbb) | [Reggi Bennett](https://open.spotify.com/artist/6I6oXTnFjRncAh2G4D0ehQ) | [Malibu](https://open.spotify.com/album/7rHA13O3Oj2iKAwIDPlbYB) | 3:09 | 2024-06-06 |  |
 | [Meteora](https://open.spotify.com/track/440DUQsi26Bs7AiLEVFUTx) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Meteora](https://open.spotify.com/album/01om0V5J47MfHxiHs0USjw) | 3:38 | 2024-06-06 |  |
 | [Metro](https://open.spotify.com/track/0VMWB3h15wUPI7qk2ReWiS) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Evenings, Vol\. 1](https://open.spotify.com/album/10UNH2oeQQas3dRWzqODeX) | 2:46 | 2024-06-06 |  |
+| [Metro Station](https://open.spotify.com/track/0tAlg7NRFVk2VAQPScRQNO) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [Metro Station](https://open.spotify.com/album/0KpgNqVswTCRZgs0m871bZ) | 2:41 | 2024-06-27 |  |
 | [Nebula](https://open.spotify.com/track/5akzWjgEj7b2M0qqQvx7TD) | [Akraa](https://open.spotify.com/artist/4LlBzEZ8alrrhSbYW10gVW) | [Hot Pursuit](https://open.spotify.com/album/7fjnxACrad6JzIogFWUpNy) | 2:26 | 2024-06-06 | 2024-06-21 |
 | [Neon Lights Neon Dreams](https://open.spotify.com/track/27n3QDmpOsE5Pd26qHaAi8) | [Forever Sunset](https://open.spotify.com/artist/6Y5W9usiGN7XrMM1k4ItaG) | [The Laser Grid](https://open.spotify.com/album/1O6jceh2300fqEst2zF598) | 2:58 | 2024-06-06 |  |
 | [New Frontier](https://open.spotify.com/track/5J2lcvpwYZNtpKaKi3KTQd) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Darkwave](https://open.spotify.com/album/5GBXBeG59ekMEGyeJ2HXOd) | 3:05 | 2024-06-06 | 2024-06-21 |

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/karencivil/?hl=en\">Karen Civil</a>",
-  "num_followers": 32076,
+  "num_followers": 32092,
   "original_name": "Karen Civil's Taste",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Young Jefe 3",
+        "url": "https://open.spotify.com/album/2rnt0fBBFJ9ByEPnewCPr5"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        }
+      ],
+      "duration_ms": 206768,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/3ZX9CjDVbITSTlKqbLSDBk"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Fear of God II: Let Us Pray",
         "url": "https://open.spotify.com/album/6ZS2NOEZ7XwlNlKWK2dzPM"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 276760,
       "name": "Amen",
       "url": "https://open.spotify.com/track/3axVR1ayqtT1UIqjsRtOqp"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Young Jefe 3",
-        "url": "https://open.spotify.com/album/2rnt0fBBFJ9ByEPnewCPr5"
-      },
-      "artists": [
-        {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
-        }
-      ],
-      "duration_ms": 206768,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/3ZX9CjDVbITSTlKqbLSDBk"
     },
     {
       "added_at": "2022-10-01 16:00:00",

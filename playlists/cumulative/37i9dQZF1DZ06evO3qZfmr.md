@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3qZfmr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3qZfmr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3qZfmr)
 
-### [Acesta este Megan Moroney.](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qZfmr)
+### [This Is Megan Moroney](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qZfmr)
 
-> This is Megan Moroney\. Piesele esențiale într\-un singur playlist.
+> This is Megan Moroney\. The essential tracks, all in one playlist.
 
 25 songs - 1 hr 24 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 448440,
+  "num_followers": 448464,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "eventide",
+        "url": "https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh"
+      },
+      "artists": [
+        {
+          "name": "sad notes",
+          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
+        }
+      ],
+      "duration_ms": 130287,
+      "name": "eventide",
+      "url": "https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Memories Fade",
         "url": "https://open.spotify.com/album/2nR1dUZXdvlBkcYzkRuloW"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 123076,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "eventide",
-        "url": "https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh"
-      },
-      "artists": [
-        {
-          "name": "sad notes",
-          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
-        }
-      ],
-      "duration_ms": 130287,
-      "name": "eventide",
-      "url": "https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d"
     },
     {
       "added_at": "2024-06-14 04:00:00",

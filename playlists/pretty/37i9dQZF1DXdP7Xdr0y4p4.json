@@ -1,6 +1,6 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 14240,
+  "num_followers": 14245,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Whatever The Road",
-        "url": "https://open.spotify.com/album/2ghMlC7X6dQkmIz970kP1x"
-      },
-      "artists": [
-        {
-          "name": "Jason Crabb",
-          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "He Knows What He's Doing",
-      "url": "https://open.spotify.com/track/383ZB6TdF6qxpbvxJFLDVn"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "And Now, Let's Turn to Page\u2026",
         "url": "https://open.spotify.com/album/6F4P5ZIpxK35FkaGe1d1sA"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 183306,
       "name": "Are You Washed in the Blood?",
       "url": "https://open.spotify.com/track/0QB8S1OlJhA8fIWkiiBXsM"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Whatever The Road",
+        "url": "https://open.spotify.com/album/2ghMlC7X6dQkmIz970kP1x"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "He Knows What He's Doing",
+      "url": "https://open.spotify.com/track/383ZB6TdF6qxpbvxJFLDVn"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Brighten The Corner Where You Are (Radio Edit)",
-        "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
-      },
-      "artists": [
-        {
-          "name": "The Browns",
-          "url": "https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb"
-        }
-      ],
-      "duration_ms": 149545,
-      "name": "Brighten The Corner Where You Are - Radio Edit",
-      "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/1PcbJ1DL1tFKjAzsBEoEVe"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 219560,
       "name": "Faith Like That",
       "url": "https://open.spotify.com/track/1cxxA1gqowDgJTwCGDZsi9"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Brighten The Corner Where You Are (Radio Edit)",
+        "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
+      },
+      "artists": [
+        {
+          "name": "The Browns",
+          "url": "https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb"
+        }
+      ],
+      "duration_ms": 149545,
+      "name": "Brighten The Corner Where You Are - Radio Edit",
+      "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Love Is the Voice",
-        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
+        "name": "My Name Is Victory",
+        "url": "https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl"
       },
       "artists": [
         {
-          "name": "The Taylors",
-          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
+          "name": "The Wilbanks",
+          "url": "https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r"
         }
       ],
-      "duration_ms": 165613,
-      "name": "God, Do it Again",
-      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
+      "duration_ms": 202710,
+      "name": "The Spirit and the Bride",
+      "url": "https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Love Is the Voice",
+        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
+      },
+      "artists": [
+        {
+          "name": "The Taylors",
+          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "God, Do it Again",
+      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Favorites: On Repeat",
         "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 270840,
       "name": "Favorite Song of All",
       "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "My Name Is Victory",
-        "url": "https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl"
-      },
-      "artists": [
-        {
-          "name": "The Wilbanks",
-          "url": "https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r"
-        }
-      ],
-      "duration_ms": 202710,
-      "name": "The Spirit and the Bride",
-      "url": "https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
-      },
-      "artists": [
-        {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
-        }
-      ],
-      "duration_ms": 241109,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The World Needs a Song",
         "url": "https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 222064,
       "name": "I Bring You Jesus",
       "url": "https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
+      },
+      "artists": [
+        {
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        }
+      ],
+      "duration_ms": 241109,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "He Touched Me",
-        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
-      },
-      "artists": [
-        {
-          "name": "The Singing Contractors",
-          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "He Touched Me",
-      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "I Have God to Thank for Everything",
         "url": "https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 168058,
       "name": "I Have God to Thank for Everything",
       "url": "https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "He Touched Me",
+        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
+      },
+      "artists": [
+        {
+          "name": "The Singing Contractors",
+          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "He Touched Me",
+      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Find My Joy",
-        "url": "https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN"
-      },
-      "artists": [
-        {
-          "name": "John Berry",
-          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
-        }
-      ],
-      "duration_ms": 249081,
-      "name": "Something Bigger Than Me",
-      "url": "https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The Lighthouse (50 Year Celebration)",
         "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 262212,
       "name": "The Lighthouse - 50 Year Celebration",
       "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Find My Joy",
+        "url": "https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN"
+      },
+      "artists": [
+        {
+          "name": "John Berry",
+          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
+        }
+      ],
+      "duration_ms": 249081,
+      "name": "Something Bigger Than Me",
+      "url": "https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -863,18 +863,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Lord's Prayer",
-        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
+        "name": "How Good the Good News Feels",
+        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
       },
       "artists": [
         {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+        },
+        {
+          "name": "Anthem Edition",
+          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
         }
       ],
-      "duration_ms": 235328,
-      "name": "Lord's Prayer",
-      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
+      "duration_ms": 202000,
+      "name": "How Good the Good News Feels",
+      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -895,22 +899,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "How Good the Good News Feels",
-        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
+        "name": "Lord's Prayer",
+        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
       },
       "artists": [
         {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        },
-        {
-          "name": "Anthem Edition",
-          "url": "https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5"
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
         }
       ],
-      "duration_ms": 202000,
-      "name": "How Good the Good News Feels",
-      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
+      "duration_ms": 235328,
+      "name": "Lord's Prayer",
+      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Heritage, Vol. 3",
-        "url": "https://open.spotify.com/album/0wIeWAZrhLbGPCluMkqHwh"
-      },
-      "artists": [
-        {
-          "name": "Legacy Five",
-          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
-        }
-      ],
-      "duration_ms": 154932,
-      "name": "Praise Medley",
-      "url": "https://open.spotify.com/track/0Cnh0PW9Et6wJ1hXtZz0Pm"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Every Story Whispers His Name",
         "url": "https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 235000,
       "name": "Every Story Whispers His Name",
       "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Heritage, Vol. 3",
+        "url": "https://open.spotify.com/album/0wIeWAZrhLbGPCluMkqHwh"
+      },
+      "artists": [
+        {
+          "name": "Legacy Five",
+          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
+        }
+      ],
+      "duration_ms": 154932,
+      "name": "Praise Medley",
+      "url": "https://open.spotify.com/track/0Cnh0PW9Et6wJ1hXtZz0Pm"
     },
     {
       "added_at": "2023-04-14 06:27:38",

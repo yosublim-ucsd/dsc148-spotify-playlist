@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Blaiz Fayah",
+  "description": "Les hits dancehall du moment. Photo : Says'z x Bamby",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 110769,
       "name": "Bad Barbie",
       "url": "https://open.spotify.com/track/0EldeQkAd3vWV7BEvT7oy3"
@@ -1084,6 +1084,28 @@
       "duration_ms": 156651,
       "name": "BMW",
       "url": "https://open.spotify.com/track/1uMNz6kjNjozloAy0O7vbO"
+    },
+    {
+      "album": {
+        "name": "BONBON",
+        "url": "https://open.spotify.com/album/5lF0CGYmGGL40hseludKyo"
+      },
+      "artists": [
+        {
+          "name": "TMatt",
+          "url": "https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ"
+        },
+        {
+          "name": "DJ PHIL",
+          "url": "https://open.spotify.com/artist/2Yc5AMLoJadf2uqow6ex9G"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "BONBON",
+      "url": "https://open.spotify.com/track/1RYyZOfxHdNRP8iddTFsr4"
     },
     {
       "album": {
@@ -2131,6 +2153,48 @@
     },
     {
       "album": {
+        "name": "Caviar I",
+        "url": "https://open.spotify.com/album/31Ok9rXTNEPcdt1SsbQgLh"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "DJ Tutuss",
+          "url": "https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv"
+        },
+        {
+          "name": "Lamasa",
+          "url": "https://open.spotify.com/artist/1uUK444FLjdUxGArP7aOgN"
+        },
+        {
+          "name": "Jozii",
+          "url": "https://open.spotify.com/artist/1nDtmYJmQcZEXU56pz5R9d"
+        },
+        {
+          "name": "Noelia",
+          "url": "https://open.spotify.com/artist/1wdVL1PASa1NzPexn8iN6i"
+        },
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
+        },
+        {
+          "name": "Yozo",
+          "url": "https://open.spotify.com/artist/0eENwoLRhIVvT0dfzhgmUG"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175065,
+      "name": "Dembow Martinica",
+      "url": "https://open.spotify.com/track/54AVydEuJjKSsE0VPUmQWq"
+    },
+    {
+      "album": {
         "name": "Demon Time",
         "url": "https://open.spotify.com/album/7u5WyK8nbQzCxEAcZ73HNa"
       },
@@ -2536,7 +2600,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 184029,
       "name": "Fanatik",
       "url": "https://open.spotify.com/track/2ZjjJd4uo5lFjy5lRbqqFD"

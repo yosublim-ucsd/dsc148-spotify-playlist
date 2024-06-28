@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 
 > The ultimate collection of D&B bangers 💥
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,219 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,266 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 69 | [Nobody To Love \- Extended Mix](https://open.spotify.com/track/23PJY70rydGYINeC4Anfnu) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Nobody To Love](https://open.spotify.com/album/05IlINHuWHzfPptOaW6jfz) | 4:12 |
 | 70 | [Aztec](https://open.spotify.com/track/3D9jtJXHQWN9sewkOrUm5H) | [Spor](https://open.spotify.com/artist/42EZt9LfgsaF0WHlDC3FoM) | [Aztec / Do Not Shake](https://open.spotify.com/album/0sgaCHj094Ui94mNYLAGo8) | 5:45 |
 
-Snapshot ID: `Zg6GxQAAAAClPDw39bidEzaRpD3W9bBF`
+Snapshot ID: `Zn2rQAAAAADOgdQsdiUvkLSEu/gHnJJj`

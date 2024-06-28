@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-1,280 songs - 2 day 23 hr 19 min
+1,281 songs - 2 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [CASA](https://open.spotify.com/track/3hUk7wHp5Ruas0FLLVW69c) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [CASA](https://open.spotify.com/album/0MiBg6aI8QwreRNhrHOtGb) | 3:28 | 2022-12-29 | 2023-11-05 |
 | [Casca de Bala](https://open.spotify.com/track/5mJcnekfy4DEpAZ6uAHM7Y) | [Thullio Milionário](https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7) | [A Cara das Vaquejadas 3.0](https://open.spotify.com/album/3LqVn74biJ7PU2vFeZTAFh) | 2:13 | 2024-05-05 | 2024-06-13 |
 | [Casei Com a Putaria](https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Casei Com a Putaria](https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi) | 2:37 | 2022-08-17 | 2023-04-19 |
-| [CAVALINHO](https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Gasparzinho](https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [CAVALINHO](https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4) | 2:18 | 2024-06-24 |  |
+| [CAVALINHO](https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Gasparzinho](https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [CAVALINHO](https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4) | 2:18 | 2024-06-24 | 2024-06-28 |
 | [Ce Quer Pix](https://open.spotify.com/track/3zzP9cxOgq3oZvecjBWBw0) | [Will BL](https://open.spotify.com/artist/2BnCntxaxxCQzlB3s4wcVm), [MC DH da CT](https://open.spotify.com/artist/2JTPFfBzVFaEma8IA1Umfy), [Lord Johwn](https://open.spotify.com/artist/56z6tUOr4q10M7IUyJT9Fr), [MC Nasci](https://open.spotify.com/artist/2iud0genzWdo7FtDfkdf9D) | [Ce Quer Pix](https://open.spotify.com/album/1hEon2RWK7W0WnENqlg0S9) | 4:11 | 2024-06-02 | 2024-06-04 |
 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-15 | 2023-05-20 |
 | [Chacoalha a Rabeta](https://open.spotify.com/track/5gvP5lvkOSamyMca2ctSjh) | [Will BL](https://open.spotify.com/artist/2BnCntxaxxCQzlB3s4wcVm) | [Chacoalha a Rabeta](https://open.spotify.com/album/6zQz4S2SkxRUfhbD5OInG5) | 2:53 | 2024-06-02 | 2024-06-04 |
@@ -469,6 +469,7 @@
 | [GOOD \(DON'T DIE\)](https://open.spotify.com/track/6soQZdONN0ZsQ9hZ6Pkef4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:19 | 2024-02-12 | 2024-02-14 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2022-02-13 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-16 | 2021-05-23 |
+| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-06-27 |  |
 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 | 2021-03-27\* | 2021-08-22 |
 | [Gorillaz](https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Gorillaz](https://open.spotify.com/album/6fUyo3fkgWK66QRXO6VCjF) | 3:38 | 2022-11-10 | 2022-11-28 |
 | [Gosto de Ti](https://open.spotify.com/track/2dY8i8Mirb1YBoJt6aXUvp) | [Nininho](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6), [Cristiano Maia](https://open.spotify.com/artist/4FwY1BwlrABrU50B50Px08) | [Gosto de Ti](https://open.spotify.com/album/1jsgppcK0gaNw9E4gQ5C4d) | 3:52 | 2021-05-19 | 2021-05-25 |

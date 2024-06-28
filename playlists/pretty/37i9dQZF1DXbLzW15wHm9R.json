@@ -1,13 +1,29 @@
 {
   "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Bridgerton",
-  "num_followers": 157775,
+  "num_followers": 157769,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmvAQAAAAABUfVW2xjrPSjR097HWxqrX",
+  "snapshot_id": "Zn31twAAAABCyl5gxT/794CfoKIxKS8L",
   "tracks": [
+    {
+      "added_at": "2024-06-27 23:28:55",
+      "album": {
+        "name": "The Chain (From The Prime Video Original Series, My Lady Jane)",
+        "url": "https://open.spotify.com/album/7keXdFgGtDhrkJoFXoqxIc"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 225186,
+      "name": "The Chain - From The Prime Video Original Series, My Lady Jane",
+      "url": "https://open.spotify.com/track/328yyFDPgpzUXVq3v2YBld"
+    },
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {

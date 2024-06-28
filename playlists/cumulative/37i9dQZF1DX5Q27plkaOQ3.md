@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: JAWNS
 
-678 songs - 1 day 14 hr 7 min
+679 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,7 +577,7 @@
 | [stinkypoopy](https://open.spotify.com/track/1EXCk9dLn8evYJenfoh2dS) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [stinkypoopy](https://open.spotify.com/album/0D19xJOcXHup620LKBEIrW) | 3:35 | 2022-09-09 | 2023-06-17 |
 | [Stomp](https://open.spotify.com/track/4C9jYT2MN06OOS1HPZtyeP) | [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [Stomp](https://open.spotify.com/album/0jRVQi03cGLrlv9sLOUELB) | 2:32 | 2023-11-24 | 2024-01-05 |
 | [Stompi Boi](https://open.spotify.com/track/3uaRj0qQtOL6PauksKWhkD) | [FuntCase](https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D), [Dr\. Lobster](https://open.spotify.com/artist/6rAYLpYH7blCH8exP3DboL) | [FuntCase Presents: DPMO, Vol\. 4](https://open.spotify.com/album/6WVnsgbLJ2WkiA616PCdwu) | 5:42 | 2021-12-17 | 2022-03-05 |
-| [STORM THE CASTLE](https://open.spotify.com/track/26x6tpt8ZG8mMJGrh0A8CR) | [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo), [Kliptic](https://open.spotify.com/artist/5y6O9vl8dOVvL0CCSGrrCc) | [STORM THE CASTLE](https://open.spotify.com/album/5qf28OdwrlsMhXWTuRQVob) | 2:40 | 2024-01-12 |  |
+| [STORM THE CASTLE](https://open.spotify.com/track/26x6tpt8ZG8mMJGrh0A8CR) | [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo), [Kliptic](https://open.spotify.com/artist/5y6O9vl8dOVvL0CCSGrrCc) | [STORM THE CASTLE](https://open.spotify.com/album/5qf28OdwrlsMhXWTuRQVob) | 2:40 | 2024-01-12 | 2024-06-28 |
 | [Strapped](https://open.spotify.com/track/5LRjTa2Gx621pNhX0i04RU) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Strapped](https://open.spotify.com/album/5MmF91UcokJqQjSMil1X4q) | 4:08 | 2023-10-13 | 2023-12-13 |
 | [Street \- PEEKABOO Remix](https://open.spotify.com/track/202xexTyHxpvi6aqaaGEYq) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Street \(PEEKABOO Remix\)](https://open.spotify.com/album/61xOtAdVCQIj6Ipt4MzgXd) | 4:11 | 2022-02-18 | 2023-05-13 |
 | [Streets](https://open.spotify.com/track/73SLjEpuUqy13FS7HyewkM) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Streets](https://open.spotify.com/album/32nWboshupCJKvMhWhaetb) | 3:47 | 2023-04-07 | 2023-11-03 |
@@ -681,6 +681,7 @@
 | [Who's In Charge](https://open.spotify.com/track/3MIcrZ8GZy7ckksxs3lGLd) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Who's In Charge](https://open.spotify.com/album/2cSO4UYABmZYQdFAZPVSIP) | 2:51 | 2022-03-18 | 2022-08-13 |
 | [Whoah, Fire!](https://open.spotify.com/track/1m3PihD00HUc3eNeabNCEg) | [Mport](https://open.spotify.com/artist/0TQIx7Ez77HgFFk4bhIuuF) | [Whoah, Fire!](https://open.spotify.com/album/0n9MXGkIxBwC0NvHH1wzvD) | 3:08 | 2024-05-24 |  |
 | [Won't Back Down](https://open.spotify.com/track/51CvI6GzSkPpeInPgjs998) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [zoska](https://open.spotify.com/artist/3PUGGjaM7gnyEvIGfWYwh6) | [Won't Back Down](https://open.spotify.com/album/5Gsm3206E3upi1mhMtQpH7) | 3:36 | 2024-04-19 | 2024-05-18 |
+| [WORLD DESTROY](https://open.spotify.com/track/6FTNPfHDTqtm5aa81kN28P) | [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo), [AlienPark](https://open.spotify.com/artist/7xtEdHtZ1CdyPAY4px5N3R) | [WORLD DESTROY](https://open.spotify.com/album/0TnDCUU8lL3XXvLT12oO5P) | 3:22 | 2024-06-21 |  |
 | [Wraith](https://open.spotify.com/track/3E7FMdM62FVjxwTYqgLbyu) | [Kenzi Sway](https://open.spotify.com/artist/4ai47NrkqM67M55bS2ziHN) | [Wraith](https://open.spotify.com/album/6r7O4TukHQsv0wtQlkdOUa) | 2:35 | 2022-01-07 | 2022-01-12 |
 | [You Liar](https://open.spotify.com/track/15xbZhlUpwLzaY6fFz60lQ) | [Emorfik](https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc) | [You Liar](https://open.spotify.com/album/6lKyqtC1kJIoO6YoDtPiDP) | 3:30 | 2024-03-15 | 2024-06-01 |
 | [Your Shoes](https://open.spotify.com/track/6tssyzOMVjrQs8qj2NgmcP) | [GAWM](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2), [heydukeyousuck](https://open.spotify.com/artist/3qDYeLBAZEdBO1DuTTk8qz), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Your Shoes](https://open.spotify.com/album/4QmefR7H5kwn2L1Lyrc5xc) | 2:41 | 2023-11-10 | 2024-01-06 |

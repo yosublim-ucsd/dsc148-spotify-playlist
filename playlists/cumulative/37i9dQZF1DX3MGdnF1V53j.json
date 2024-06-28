@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 149462,
       "name": "23",
       "url": "https://open.spotify.com/track/0HAEe9CwtiNZSCDV4LRJSD"
@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 189864,
       "name": "Algo Muy Raro",
       "url": "https://open.spotify.com/track/1iolp9g0bzkeryDL4t2ub0"
@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 120028,
       "name": "Amour De Ma Vie (Nmout 3liek)",
       "url": "https://open.spotify.com/track/6ot0Ttc1m1nw5z4Tipggk9"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 204444,
       "name": "Chouwafat",
       "url": "https://open.spotify.com/track/6Ncxu0CAuY2C1WEZJFdMMk"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 155048,
       "name": "Compliqu\u00e9",
       "url": "https://open.spotify.com/track/5erVNa87ePvh5NaaGV2HHZ"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 132123,
       "name": "Gana (feat. Hatim Ammor)",
       "url": "https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP"
@@ -756,6 +756,32 @@
       "duration_ms": 191229,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ"
+    },
+    {
+      "album": {
+        "name": "Hantouma Choufo",
+        "url": "https://open.spotify.com/album/3BgZ3Uu9yIhzOGzkhl1ggC"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138432,
+      "name": "Hantouma Choufo",
+      "url": "https://open.spotify.com/track/4gavV33vzQoh9agDE0AL53"
     },
     {
       "album": {
@@ -866,7 +892,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 122972,
       "name": "Jini",
       "url": "https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x"
@@ -910,7 +936,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 194416,
       "name": "Ku Je Ti (feat. Ricky Rich & Dafina Zeqiri)",
       "url": "https://open.spotify.com/track/0xVDkht7T97HkFCXmiCQLT"
@@ -1030,7 +1056,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 165204,
       "name": "Li Galou",
       "url": "https://open.spotify.com/track/5cT4iZk4zHjHWQV6isNQay"
@@ -1384,7 +1410,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 257560,
       "name": "Ni\u00f1os Peque\u00f1os",
       "url": "https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g"
@@ -1806,7 +1832,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 211230,
       "name": "Talet Lghiba",
       "url": "https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm"
@@ -1906,7 +1932,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 197870,
       "name": "Tin3achin",
       "url": "https://open.spotify.com/track/05byboJ3i5qRQxd5Os6Xoy"
@@ -2082,7 +2108,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 191659,
       "name": "Yemma",
       "url": "https://open.spotify.com/track/6weM3NHta6Zi0P4uyEus29"
@@ -2122,7 +2148,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-28",
       "duration_ms": 184615,
       "name": "Zahri",
       "url": "https://open.spotify.com/track/2zNX2jsAoYjWoSWNvdVzRr"
@@ -2144,6 +2170,28 @@
       "duration_ms": 199586,
       "name": "Zarzour",
       "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"
+    },
+    {
+      "album": {
+        "name": "Zina",
+        "url": "https://open.spotify.com/album/5r7giLRuneW4IyVqgpgmPp"
+      },
+      "artists": [
+        {
+          "name": "Dzidi",
+          "url": "https://open.spotify.com/artist/3eAmLoArAUxDddtD2PFm5p"
+        },
+        {
+          "name": "Rosamia",
+          "url": "https://open.spotify.com/artist/6Upxkq1sdcIDUbSjRsjHr0"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Zina",
+      "url": "https://open.spotify.com/track/3LFc3FAUjT7vdSlKuEH5qJ"
     },
     {
       "album": {

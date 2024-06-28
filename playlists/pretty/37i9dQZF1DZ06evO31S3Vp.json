@@ -1,12 +1,12 @@
 {
-  "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 194974,
+  "description": "This is J\u00e3o. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 195013,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnoIgAAAAACe4AgLtWq7KYzTfgiFZ7ZY",
+  "snapshot_id": "ZntaAAAAAADRUz7kY9IzO4MhqQZPPJal",
   "tracks": [
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 190062,
-      "name": "Ainda Te Amo",
-      "url": "https://open.spotify.com/track/55GFbaI6W1laRMFdLdRw8Z"
+      "duration_ms": 174519,
+      "name": "Vou Morrer Sozinho",
+      "url": "https://open.spotify.com/track/1XVN2BVHfKUUcMH0jxSRZ5"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LOBOS",
+        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 190062,
+      "name": "Ainda Te Amo",
+      "url": "https://open.spotify.com/track/55GFbaI6W1laRMFdLdRw8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LOBOS (Deluxe)",
         "url": "https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 180000,
       "name": "Ressaca",
       "url": "https://open.spotify.com/track/0Fut8bkxJc6H4Rh951Nxc4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOBOS",
-        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 255028,
-      "name": "Monstros",
-      "url": "https://open.spotify.com/track/1y2plShqBMDQ0T6ZhmfmeE"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 189707,
-      "name": "Eu Quero Ser Como Voc\u00ea",
-      "url": "https://open.spotify.com/track/3XbqMexOs4oiE9n6ATZ35K"
+      "duration_ms": 196658,
+      "name": "Me Beija Com Raiva",
+      "url": "https://open.spotify.com/track/7kRhodBTcAQXGoZdTEw8fZ"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
       "duration_ms": 179446,
       "name": "Triste Pra Sempre",
       "url": "https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOBOS",
+        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 255028,
+      "name": "Monstros",
+      "url": "https://open.spotify.com/track/1y2plShqBMDQ0T6ZhmfmeE"
     },
     {
       "added_at": null,
